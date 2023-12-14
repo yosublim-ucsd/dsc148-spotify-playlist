@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,170,329 likes - 750 songs - 1 day 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,170,391 likes - 750 songs - 1 day 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 104 | [Orange Teal](https://open.spotify.com/track/5II6bPLT3IuUvTsl7jsrRz) | [arkadia](https://open.spotify.com/artist/434rYE6hjAzqn7mlr1hKov), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Orange Teal](https://open.spotify.com/album/2u2qFwLtd0RyYpq4eiyerz) | 2:16 |
 | 105 | [Moonlight](https://open.spotify.com/track/0lPJh8EP9kStGPLw1IC4a0) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Moonlight](https://open.spotify.com/album/5M9gQ8RqT4Ryqgmf0qv98E) | 2:23 |
 | 106 | [Breeze](https://open.spotify.com/track/4t73es0R4IkXujsn8Mm2Ry) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Breeze](https://open.spotify.com/album/4ySIUffu45EVKJH20DokXQ) | 3:29 |
-| 107 | [Marbles](https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [Marbles](https://open.spotify.com/album/54iZQMfNa484KcQjlkM9yF) | 2:11 |
+| 107 | [Marbles](https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Marbles](https://open.spotify.com/album/54iZQMfNa484KcQjlkM9yF) | 2:11 |
 | 108 | [Like a Chameleon](https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Like a Chameleon](https://open.spotify.com/album/5oSBoD1IusxIf8wcn8P0du) | 1:59 |
 | 109 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 |
 | 110 | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/track/2Jtxx7JTFeEq7vGG5mxgMV) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/album/6FfMLwzNxswjsR5tlM0YGV) | 3:10 |
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Roll the Dice](https://open.spotify.com/track/4dSXPcxNserQeYmrJYVKFi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [Roll the Dice](https://open.spotify.com/album/3nMVDaZSI4Aq84JdcbzjhN) | 2:18 |
 | 750 | [Deux Issues](https://open.spotify.com/track/5rEZbTGUKmxNpfdqaQkd36) | [Major Mélanger](https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH) | [Deux Issues](https://open.spotify.com/album/1JFbMzfDYFX0LrJpfCzipd) | 2:44 |
 
-Snapshot ID: `MCw0ZGI4MzczYzZiNTkwMjAxMmUzMjQ3NGFiODlmNzQyYmQ3MDkwNDZh`
+Snapshot ID: `MCw1MmMxZDNhYzJkNTM1NmI0NjJmMDYyOWM0ZjkxNmRkMjEzNGRmZTI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 | 37 | [Alley Cat](https://open.spotify.com/track/5ObGzozLaJgFZxegdX29pF) | [Bent Fabric](https://open.spotify.com/artist/6RvwwBmUCvxokwLJiLlO0i) | [25 Golden Hits from the 40's \- 50's vol\. 2](https://open.spotify.com/album/0XnC5NwMZVaFgzTgbmwT7P) | 2:34 |
 | 38 | [Twist And Shout](https://open.spotify.com/track/7xnXsZXqzNmgx8b7KGlWrA) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Twist and Shout](https://open.spotify.com/album/40Sko7sKudpt8F4c6jCGme) | 2:29 |
 | 39 | [Theme From Dr Kildare \(Three Stars Will Shine Tonight\)](https://open.spotify.com/track/5Q4FIvPaGFSGuDOuzt4THk) | [Richard Chamberlain](https://open.spotify.com/artist/1Kpw1Yu7PGX4iqfmL1qbJ0) | [Rare Oldies But Goodies](https://open.spotify.com/album/4v8jRAVXKbiaXELB1uuJDj) | 2:42 |
-| 40 | [Tuff](https://open.spotify.com/track/36qJnJmmVeYxbGmMVwkHBW) | [Ace Cannon](https://open.spotify.com/artist/5tZo7rC9bqWAmhJ1bsejXb) | [150 Rock 'N' Roll Classics](https://open.spotify.com/album/7MriuNJrF9xq21S3PrN5ea) | 2:35 |
+| 40 | [Tuff \(Rerecorded\)](https://open.spotify.com/track/36qJnJmmVeYxbGmMVwkHBW) | [Ace Cannon](https://open.spotify.com/artist/5tZo7rC9bqWAmhJ1bsejXb) | [150 Rock 'n' Roll Classics](https://open.spotify.com/album/7MriuNJrF9xq21S3PrN5ea) | 2:35 |
 | 41 | [Lover Please](https://open.spotify.com/track/514uO44deUCOI83LlskEJB) | [Clyde McPhatter](https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS) | [Rare Rock N' Roll Masters](https://open.spotify.com/album/5rVH3B9AuDUI8siguFsK2j) | 2:00 |
 | 42 | [I Know \(You Don't Love Me No More\)](https://open.spotify.com/track/4gQ5w6Vc92ze0WGbn0b4Cc) | [Barbara George](https://open.spotify.com/artist/6uJZLuhxKK0kNUcoGNIy9k) | [The Sue Story](https://open.spotify.com/album/1mVVl1ZORNTNlMdrMnMvpU) | 2:24 |
 | 43 | [Young World \- Remastered](https://open.spotify.com/track/1Ibjmb8gV1RERi8GNUBGi1) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Best Of Rick Nelson \(Vol\. 2\)](https://open.spotify.com/album/607RtLzi6P55QVhosSAGwQ) | 2:27 |

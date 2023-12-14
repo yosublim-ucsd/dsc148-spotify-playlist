@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 268600,
       "name": "Mutter",
       "url": "https://open.spotify.com/track/7jfZybgHr6yzp4iuMS2K8u"
@@ -668,6 +668,24 @@
       "duration_ms": 267743,
       "name": "Rammstein",
       "url": "https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu"
+    },
+    {
+      "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Rein raus",
+      "url": "https://open.spotify.com/track/4fPrxIohi60EZfNy2TlD44"
     },
     {
       "album": {

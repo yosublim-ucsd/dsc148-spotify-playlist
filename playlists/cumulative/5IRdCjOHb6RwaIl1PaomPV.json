@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. New album from Aluna, plus the latest cuts from Jam City, Major Lazer and more.",
+  "description": "The latest tracks from Mad Decent and friends. New music from Merry Lamb Lamb, plus the latest cuts from SURF GANG, Eartheater and more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -282,6 +282,24 @@
       "duration_ms": 376448,
       "name": "All Night (Garage Version)",
       "url": "https://open.spotify.com/track/0pp5J5USoRAqy8gpkLQjPB"
+    },
+    {
+      "album": {
+        "name": "All The Things She Said",
+        "url": "https://open.spotify.com/album/1VCpnblAAQXh0r61cEPLzi"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215338,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/564l4sUlNEYBO8vgnJlkqe"
     },
     {
       "album": {
@@ -1081,6 +1099,28 @@
     },
     {
       "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124613,
+      "name": "Bury me (feat. Kelela)",
+      "url": "https://open.spotify.com/track/3tPH2C0umk9pjLBMmz0D9M"
+    },
+    {
+      "album": {
         "name": "Sensational",
         "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
       },
@@ -1538,7 +1578,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 226800,
       "name": "Cuntradiction",
       "url": "https://open.spotify.com/track/3nMiFnGwlPb2wfoX1JLvPf"
@@ -3342,7 +3382,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 281379,
       "name": "HOME COMING",
       "url": "https://open.spotify.com/track/6LJQ0HYGVpdhaJjWd73d7y"
@@ -3404,7 +3444,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 422025,
       "name": "Hurricane Party - Danny Daze Terraza Mix",
       "url": "https://open.spotify.com/track/3PGzmTPKBZiXo9Yt6IEBjc"
@@ -3473,6 +3513,24 @@
     },
     {
       "album": {
+        "name": "I Saw U",
+        "url": "https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137506,
+      "name": "I Saw U",
+      "url": "https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8"
+    },
+    {
+      "album": {
         "name": "Bad Behavior",
         "url": "https://open.spotify.com/album/5KpZDGzJLiqP0Ek0owr9xe"
       },
@@ -3532,6 +3590,24 @@
       "duration_ms": 222022,
       "name": "Ice Cream - Dance System's Melted Mix",
       "url": "https://open.spotify.com/track/51NXmaYqw2elhFazzVSof8"
+    },
+    {
+      "album": {
+        "name": "Changing Channels",
+        "url": "https://open.spotify.com/album/3bKp9TUgbHGhfRBsTQTAxS"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308967,
+      "name": "If",
+      "url": "https://open.spotify.com/track/2EYpvTvml0Yrrdjq3xZLNy"
     },
     {
       "album": {
@@ -3634,7 +3710,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 205241,
       "name": "Inhale Exhale",
       "url": "https://open.spotify.com/track/0jl8XWES6VNZ5eMVvzZN0M"
@@ -3981,6 +4057,28 @@
     },
     {
       "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/0MUkKGxxopDodLE32qnpjr"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205441,
+      "name": "Kota on the plane",
+      "url": "https://open.spotify.com/track/1ezPf36WYFPlWVsROQq73m"
+    },
+    {
+      "album": {
         "name": "M\u00c1XIMA VELOCIDAD",
         "url": "https://open.spotify.com/album/1579nMoiD6fjVA4QdkMwOt"
       },
@@ -4032,7 +4130,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 313000,
       "name": "Lessons (Interplanetary Criminal \u2018Back 2 Skool\u2019 Mix)",
       "url": "https://open.spotify.com/track/6hJamvmtpflSpRVjuY1Gkb"
@@ -4248,7 +4346,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 162461,
       "name": "Look - All Night Mix",
       "url": "https://open.spotify.com/track/21968f5xcqq01zWyipJ2FV"
@@ -4494,7 +4592,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 181276,
       "name": "Magatama - Bitter Babe Remix",
       "url": "https://open.spotify.com/track/1TV4oN2g9BCRBexzbxc1Ap"
@@ -4734,7 +4832,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 127921,
       "name": "MONK",
       "url": "https://open.spotify.com/track/3eEJKvhVrRyL8g3uyXWLsp"
@@ -5018,7 +5116,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 108169,
       "name": "No Clarity",
       "url": "https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv"
@@ -5458,7 +5556,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 139316,
       "name": "ozone community pt. 1 & 2",
       "url": "https://open.spotify.com/track/6VUBanzg1vLKEsZxDKCGiM"
@@ -5476,7 +5574,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 333537,
       "name": "Pianissimo - Extended",
       "url": "https://open.spotify.com/track/6UgDavkSuHHTq8bpn94v9V"
@@ -5994,7 +6092,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 194346,
       "name": "Redd St. Turbulence",
       "url": "https://open.spotify.com/track/0NaapbT4ZqEUSKn2q8Ven3"
@@ -6562,7 +6660,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 289218,
       "name": "Solid Liquid Gas - Kiri VIP",
       "url": "https://open.spotify.com/track/3wjqPj94Bdx9Ir1zZvNgcV"
@@ -6620,10 +6718,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 105365,
       "name": "speaking terms",
       "url": "https://open.spotify.com/track/4McPfj4BGNv2LG8F8g34js"
+    },
+    {
+      "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
     },
     {
       "album": {
@@ -6776,7 +6892,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 188139,
       "name": "Supersoaker - COUCOU CHLOE Remix",
       "url": "https://open.spotify.com/track/26aLMSgcLsV7KKEc1smdjf"
@@ -7154,7 +7270,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 176283,
       "name": "To Last",
       "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
@@ -7218,6 +7334,24 @@
       "duration_ms": 224893,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/7qdETIUEvsFoIh8Ed3YDpk"
+    },
+    {
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/5d94LDQQaiyOMyUh5EDmFL"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Tranquility",
+      "url": "https://open.spotify.com/track/2A5PCiRACdM8BoyUg8JIEN"
     },
     {
       "album": {

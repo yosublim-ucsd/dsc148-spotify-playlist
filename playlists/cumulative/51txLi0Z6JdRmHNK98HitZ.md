@@ -2,14 +2,15 @@
 
 ### [Middle Kids \- Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> Here is a playlist of all our songs released so far\. Our new single 'Highlands' is out now!
+> A playlist of all our songs released so far\. Our new album Faith Crisis Pt 1 is out February 16! <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
 
-43 songs - 2 hr 24 min
+46 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bad Neighbours](https://open.spotify.com/track/7nn9F7GffyZdg1EeJxycvi) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:10 | 2021-03-19 |  |
 | [Beliefs & Prayers](https://open.spotify.com/track/5IZ9guGLjZAsBmpIfhPhlV) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Beliefs & Prayers](https://open.spotify.com/album/0xjLxhu9Wpd3SwSC1puEwF) | 3:39 | 2020-10-14 |  |
+| [Bend](https://open.spotify.com/track/1fbPnleK6PXE6hCRTtOJyw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bend](https://open.spotify.com/album/5mCgcfrf4MYYZBPUWW2z3n) | 3:50 | 2023-11-30 |  |
 | [Big Softy](https://open.spotify.com/track/1GJX41Wd13ndG9l7oh2ofU) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [New Songs For Old Problems](https://open.spotify.com/album/0VeJW8F3s8IJkCoduyHo4g) | 3:59 | 2020-10-14 |  |
 | [Bootleg Firecracker](https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker](https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13) | 3:20 | 2023-05-30 |  |
 | [Bootleg Firecracker \- Nighttime Piano Version](https://open.spotify.com/track/2VAOZsF1dRXbpwxSSeiEKj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker \(Nighttime Piano Version\)](https://open.spotify.com/album/1t3RoFxu9wxx2m9zq6JXzk) | 2:34 | 2023-09-20 |  |
@@ -19,7 +20,9 @@
 | [Cellophane \(Brain\)](https://open.spotify.com/track/4dVAjdLba7P8K5gtAc2Slt) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/6s2KPuyqgG5sZvKrQenE8U) | 3:30 | 2021-02-11 | 2021-03-19 |
 | [Doing It Right](https://open.spotify.com/track/0BJVbOwmNlHscHVR91L50B) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:07 | 2020-10-14 |  |
 | [Don’t Be Hiding](https://open.spotify.com/track/17S0GkAdznE2Ms4M2dY2h5) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:04 | 2020-10-14 |  |
+| [Dramamine](https://open.spotify.com/track/0z0xgpdkvzjJdylAlILbzE) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/6dUKX72wa2AEqAAb7psXIs) | 2:57 | 2023-10-18 |  |
 | [Drivers License \- triple j Like a Version](https://open.spotify.com/track/79z8mIUDwNYffZv2qy6Icj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Drivers License \(triple j Like a Version\)](https://open.spotify.com/album/7lEp6IiYhA8Z63g8Cl7Rr8) | 3:26 | 2021-08-31 |  |
+| [Driving Home For Christmas](https://open.spotify.com/track/0925QFUNbnMnKAxJYvrA1g) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Driving Home For Christmas](https://open.spotify.com/album/3dmFw9Zq6zpD3vLDCS0K6b) | 2:49 | 2023-11-10 |  |
 | [Edge Of Town](https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:45 | 2020-10-14 |  |
 | [Fire In Your Eyes](https://open.spotify.com/track/1Ryfpj4slOvAacEra2uhK2) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:01 | 2020-10-14 |  |
 | [Golden Star](https://open.spotify.com/track/3NRdY5rosPh2A0QPjeP9BY) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:43 | 2021-03-19 |  |

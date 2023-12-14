@@ -417,6 +417,28 @@
     },
     {
       "album": {
+        "name": "Been A Fool For You",
+        "url": "https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN"
+      },
+      "artists": [
+        {
+          "name": "Amakye Dede",
+          "url": "https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268277,
+      "name": "Been A Fool For You",
+      "url": "https://open.spotify.com/track/0KL0cCn54gGCggbKFtT3Sb"
+    },
+    {
+      "album": {
         "name": "Old School Hiplife Vol.1",
         "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
       },

@@ -1154,10 +1154,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 257586,
       "name": "Needle In The Hay",
       "url": "https://open.spotify.com/track/1bFPKxP56XWDXJOwo3Kvfp"
+    },
+    {
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259893,
+      "name": "Needle In The Hay",
+      "url": "https://open.spotify.com/track/7I7O0huqjKrXHX0aaLuO5B"
     },
     {
       "album": {
@@ -1518,6 +1536,24 @@
       "duration_ms": 216960,
       "name": "Roman Candle",
       "url": "https://open.spotify.com/track/7GDciQOihRs8nQFEFOrc5K"
+    },
+    {
+      "album": {
+        "name": "Either/Or: Expanded Edition",
+        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "Rose Parade",
+      "url": "https://open.spotify.com/track/6x4gmilRgCyOkPQU3TZXQo"
     },
     {
       "album": {

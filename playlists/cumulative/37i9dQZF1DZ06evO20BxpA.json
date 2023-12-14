@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 236173,
       "name": "A Sparrowhawk's Tale",
       "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 169853,
       "name": "An Ingenious Technique - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Baby Blue - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/27dFvWT96WZcLjpLmJ9WnK"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 137040,
       "name": "Corals - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/25WytQLX7n22PRsVxSewvg"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 136506,
       "name": "Did It Feel Wrong",
       "url": "https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 101333,
       "name": "The Next Twenty Years - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/2GWv7nrW3EYNclXKi5jOhA"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 55920,
       "name": "The Seasonal Seas",
       "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131453,
+      "name": "With Or Without Us",
+      "url": "https://open.spotify.com/track/6GR1FpZStbjtRdVUPDqCL5"
+    },
+    {
+      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -1418,6 +1436,24 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181746,
+      "name": "You Have The True Spirit of A Lady",
+      "url": "https://open.spotify.com/track/4q61vq8quw5AMFIe0jF0sm"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1442,7 +1478,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 138373,
       "name": "You're My World - Soho Version",
       "url": "https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW"

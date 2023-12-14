@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,585 likes - 125 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,618 likes - 125 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 124 | [Dream Away](https://open.spotify.com/track/5YpKD3BpyZu7ggk7byH2BO) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Dream Away](https://open.spotify.com/album/4QEN19VnuysTfDKvMURjfh) | 1:57 |
 | 125 | [Cruise Control](https://open.spotify.com/track/5xSQbBayVvZcjreQ4t3KhQ) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS), [ALGONZO](https://open.spotify.com/artist/3SK7UL3Cgpgn58MxvfFxy8) | [Cruise Control](https://open.spotify.com/album/7tSLPHy2Sg8YmHTTvREaAB) | 2:24 |
 
-Snapshot ID: `MCw2ZmNmNzk4OWM5NTU0NzAxYjUxZTM0YjQ0YzgwZTU1OWI5N2Q3MWM2`
+Snapshot ID: `MCw1MTk2MjZlNGE4NTNmM2Q1NzEyODQwMTQ3YzFmMjAxZGQ2MmU3OGNh`

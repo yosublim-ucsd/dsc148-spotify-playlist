@@ -86,7 +86,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 206160,
       "name": "Ah Blem Blem",
       "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/4qATPFkC2gftNidKNKsvbs"
+    },
+    {
+      "album": {
         "name": "Appreciation (feat. 2face)",
         "url": "https://open.spotify.com/album/6fRbhhodwDnrh76bc6g3VL"
       },
@@ -222,7 +244,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 174001,
       "name": "Appreciation (feat. 2face)",
       "url": "https://open.spotify.com/track/2Cic7igD3PiuXlqaEqjKWo"
@@ -410,10 +432,32 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 218826,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/4XMGNnGcv1dcTqBPCDnvgz"
+    },
+    {
+      "album": {
+        "name": "Essential Afrobeats",
+        "url": "https://open.spotify.com/album/1WaOIzLO6mNNTO23vNlMOz"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216574,
+      "name": "Bum Bum (Remix)",
+      "url": "https://open.spotify.com/track/3popcfrtGgytx4Urp2OTUQ"
     },
     {
       "album": {
@@ -574,7 +618,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 272040,
       "name": "Dem Mama Anthem",
       "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
@@ -679,6 +723,32 @@
     },
     {
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Deetii",
+          "url": "https://open.spotify.com/artist/6FU92TtrjOCgI9Yg3y94VH"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Gbagam",
+      "url": "https://open.spotify.com/track/5ABuekPHIQEbkKiIe5o6Nx"
+    },
+    {
+      "album": {
         "name": "Gbagam (feat. Deettii & Phyno)",
         "url": "https://open.spotify.com/album/08OTfvY73KcSjiflKgiv3R"
       },
@@ -698,7 +768,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 187637,
       "name": "Gbagam (feat. Deettii & Phyno)",
       "url": "https://open.spotify.com/track/2T7w6niKZZ3pQWR8MxwGim"
@@ -1081,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "Joko (feat. Shaggy)",
+        "url": "https://open.spotify.com/album/0MG5NOSUH4Zj3r2zxeU8py"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185294,
+      "name": "Joko (feat. Shaggy)",
+      "url": "https://open.spotify.com/track/5737I1FaRZMhBbLs4evJ5p"
+    },
+    {
+      "album": {
         "name": "Kom Kom",
         "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
       },
@@ -1436,7 +1528,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 246120,
       "name": "Plantain Boy",
       "url": "https://open.spotify.com/track/2meBCVaypff9yy1jhnqqv0"
@@ -1534,7 +1626,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 216920,
       "name": "Sexy Ladies",
       "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"

@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 236571,
       "name": "Do It",
       "url": "https://open.spotify.com/track/7M67voKjoqqDqnfrY8H4UG"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 234418,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 215500,
       "name": "Harder",
       "url": "https://open.spotify.com/track/2L8wOlTh3wDW57JaY3rV5W"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 175105,
       "name": "Let U Have It",
       "url": "https://open.spotify.com/track/4ZhbxBYEqsuyk61ZBhgrBW"
@@ -2907,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Missing U",
+        "url": "https://open.spotify.com/album/5H69wAqyg8C74OxfNhWu6u"
+      },
+      "artists": [
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Missing U",
+      "url": "https://open.spotify.com/track/4IqH5YN7ujdJmsvUuJs6YW"
+    },
+    {
+      "album": {
         "name": "Money Zone",
         "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
       },
@@ -2962,6 +2980,24 @@
       "duration_ms": 143040,
       "name": "Move",
       "url": "https://open.spotify.com/track/0DTRPo8y1AYs8AsueVu1FP"
+    },
+    {
+      "album": {
+        "name": "Move With Tha",
+        "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "Move With Tha",
+      "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
     },
     {
       "album": {
@@ -3323,6 +3359,28 @@
     },
     {
       "album": {
+        "name": "On My Line",
+        "url": "https://open.spotify.com/album/63hVrszqSChih5vJ18lquM"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202462,
+      "name": "On My Line",
+      "url": "https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv"
+    },
+    {
+      "album": {
         "name": "On The Block",
         "url": "https://open.spotify.com/album/0lyscBKE5Nv1eKgWkYY2aY"
       },
@@ -3492,7 +3550,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 182068,
       "name": "Outer Space - ElmyX Remix",
       "url": "https://open.spotify.com/track/1s7yJ9OYlHpCPEZyJaEXP4"
@@ -3532,7 +3590,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 227555,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
@@ -4061,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "Share My Love",
+        "url": "https://open.spotify.com/album/7F2T19MHij604pwdnvA9qc"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "Share My Love",
+      "url": "https://open.spotify.com/track/5ty8HYH9f1xQuWoPuijYXf"
+    },
+    {
+      "album": {
         "name": "Shut You Down",
         "url": "https://open.spotify.com/album/52ztWOsuMQ2KmcK4X0vHLz"
       },
@@ -4257,6 +4333,28 @@
     },
     {
       "album": {
+        "name": "The Move",
+        "url": "https://open.spotify.com/album/1lvwcJ55cV3YH8Wvz17auY"
+      },
+      "artists": [
+        {
+          "name": "Isenberg",
+          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
+        },
+        {
+          "name": "JC Stormz",
+          "url": "https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226992,
+      "name": "Steppin",
+      "url": "https://open.spotify.com/track/2U8VSzt3VUxDud3AvXIBZe"
+    },
+    {
+      "album": {
         "name": "Stereo Function",
         "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
@@ -4272,7 +4370,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 206904,
       "name": "Stereo Function",
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
@@ -4480,6 +4578,28 @@
       "duration_ms": 258244,
       "name": "The Drive",
       "url": "https://open.spotify.com/track/3dh5zi0OiaWHPAOUM0kNwK"
+    },
+    {
+      "album": {
+        "name": "The Funktion",
+        "url": "https://open.spotify.com/album/7r4rUHrAmjArs1NUKOJaOS"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208129,
+      "name": "The Funktion",
+      "url": "https://open.spotify.com/track/5npl72FBCav1cwDDvQlMnt"
     },
     {
       "album": {
@@ -4780,7 +4900,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 169455,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
@@ -5101,6 +5221,28 @@
     },
     {
       "album": {
+        "name": "When the beat Bang",
+        "url": "https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241875,
+      "name": "When the beat Bang",
+      "url": "https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l"
+    },
+    {
+      "album": {
         "name": "Wild Out (Badjokes Remix)",
         "url": "https://open.spotify.com/album/2cic6k8McGmzybpXAvUzQa"
       },
@@ -5116,7 +5258,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 200000,
       "name": "Wild Out (Badjokes Remix)",
       "url": "https://open.spotify.com/track/3bGifsJGPnUVzP6d8XznsV"
@@ -5236,6 +5378,46 @@
       "duration_ms": 156630,
       "name": "XTC",
       "url": "https://open.spotify.com/track/0I45yWUWcC9fzdbZhiFxhg"
+    },
+    {
+      "album": {
+        "name": "Yeah Yeah",
+        "url": "https://open.spotify.com/album/7fNauzvAnfqsDs9z6AuCgP"
+      },
+      "artists": [
+        {
+          "name": "Keeld",
+          "url": "https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199218,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/5kM3cpM7CKCXxcOANzLKJ2"
+    },
+    {
+      "album": {
+        "name": "Yo",
+        "url": "https://open.spotify.com/album/7jpAA46FcqA5gb20EhzZKt"
+      },
+      "artists": [
+        {
+          "name": "Dustycloud",
+          "url": "https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/7AoYfh1jh8NUiwnLkVFzDD"
     },
     {
       "album": {

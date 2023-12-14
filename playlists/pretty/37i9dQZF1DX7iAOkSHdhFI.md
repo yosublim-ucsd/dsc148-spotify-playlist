@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iAOkSHdhFI.md) - [plain]
 | 23 | [Welcome To Paradise](https://open.spotify.com/track/1XN6GUhNfKeOacK2Gj8mJD) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/5NL4v80t1rR33foSRUxeJe) | 3:50 |
 | 24 | [She](https://open.spotify.com/track/6u9WQNDUbBrJHcGrPKI76U) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/3NRdCKiAGPBrrEncLj7IAM) | 4:04 |
 
-Snapshot ID: `MCxkYTMwMjU1NmQ0ZjBmMGFhMDBjMDdlZmE4MGE3NjU3NjBjNGRlMWZl`
+Snapshot ID: `MCxhMzk2YmJjOGJmNzU2NzU2ZTllNWQ2NjkyZTdiMGU1M2VjYWQ5Yjk1`

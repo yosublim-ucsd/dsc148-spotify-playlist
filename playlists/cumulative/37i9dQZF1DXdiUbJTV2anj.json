@@ -160,10 +160,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 139042,
       "name": "Asking For It",
       "url": "https://open.spotify.com/track/0FWvBhd7u9TuUlD5BIuKoX"
+    },
+    {
+      "album": {
+        "name": "Attachment Styles",
+        "url": "https://open.spotify.com/album/2gfaV8aoCpb2VkZrcpf42S"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139042,
+      "name": "Asking for It",
+      "url": "https://open.spotify.com/track/5AazJxSbvETGO1SrFrat76"
     },
     {
       "album": {

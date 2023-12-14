@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,439 likes - 200 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,443 likes - 200 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [Beautiful Skin](https://open.spotify.com/track/6RCaFbkhc54IEtih0e3JhO) | [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Beautiful Skin](https://open.spotify.com/album/5A30Kh2Yrc2FbxjIBKOavp) | 3:03 |
 | 200 | [Sound Flower](https://open.spotify.com/track/6ihL2LDx69EHKQQgtWRvLd) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 5:55 |
 
-Snapshot ID: `MCxkM2QyNTU0M2M5MmJmYTBjZmFhZDA5MGJhMWQ2NWUyZjQ0N2NlNjg5`
+Snapshot ID: `MCw2OWM1ZmFkMDRmZDFlNjcwZTk3NmIxNDdjZGI0YTVlMTNlYjExNGNh`

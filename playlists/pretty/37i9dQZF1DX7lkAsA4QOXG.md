@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,993 likes - 125 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,997 likes - 125 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 124 | [If It's Magic](https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [If It's Magic](https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW) | 3:29 |
 | 125 | [It's Alright Ma \(I'm Only Bleeding\)](https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu) | [Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat](https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP) | [Ships With Tattooed Sails](https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9) | 6:30 |
 
-Snapshot ID: `MCw3YzJjNWUzYTQ0MDY0YmY3MWYxMjE4NTM2NTZkYTI5NTNlMzNkNmE5`
+Snapshot ID: `MCw2ZDhkZjk3YjFkZWRjZTg4NTg0MjNjNDU0YThhMWE3NTY1ZmYyODRh`

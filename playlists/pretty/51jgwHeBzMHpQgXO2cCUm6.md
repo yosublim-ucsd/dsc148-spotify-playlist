@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/51jgwHeBzMHpQgXO2cCUm6.md) - [plain]
 
 > 
 
-[neet ☆](https://open.spotify.com/user/wopz44qnyvwq5krqccjmtdwrz) - 2 likes - 0 song - 0 sec
+[neet ☆](https://open.spotify.com/user/wopz44qnyvwq5krqccjmtdwrz) - 1 like - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

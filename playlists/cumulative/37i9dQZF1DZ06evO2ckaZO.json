@@ -143,6 +143,32 @@
     },
     {
       "album": {
+        "name": "Brooklyn Zoo",
+        "url": "https://open.spotify.com/album/4smrTjKS5nGWOEErtzk2Ey"
+      },
+      "artists": [
+        {
+          "name": "Lyrikile Trife",
+          "url": "https://open.spotify.com/artist/5wkTjLCJjwAxMdwmUhMcqu"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249620,
+      "name": "Brooklyn Zoo",
+      "url": "https://open.spotify.com/track/1xxgIQVi84j5viRHmC26SR"
+    },
+    {
+      "album": {
         "name": "Bully Freestyle",
         "url": "https://open.spotify.com/album/5EH7LpOYTjBhBrgxI18Lh2"
       },

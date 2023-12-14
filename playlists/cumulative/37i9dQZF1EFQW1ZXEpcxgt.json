@@ -176,10 +176,36 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 235186,
       "name": "Beware",
       "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
+    },
+    {
+      "album": {
+        "name": "Beware",
+        "url": "https://open.spotify.com/album/6jIY48rQA8BUOPKIjFqkLp"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239781,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/180W6xHkalXVFYB2jXQA55"
     },
     {
       "album": {
@@ -460,10 +486,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 187867,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/49brugMHYob4zfpKhHDhR9"
+    },
+    {
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/6JSiQ8b11L6AzCVtFmbcH1"
+      },
+      "artists": [
+        {
+          "name": "Austin Mahone",
+          "url": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187867,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/53TW0KEB3fqduUfwf0LO9P"
     },
     {
       "album": {
@@ -1776,10 +1820,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 213000,
       "name": "Ricky Ricardo",
       "url": "https://open.spotify.com/track/7rzzhTtFSzuvQQw5eWCdwZ"
+    },
+    {
+      "album": {
+        "name": "Jacuzzi Blues, the Interlude",
+        "url": "https://open.spotify.com/album/7hXRNjpYx1iCrfzznnSec6"
+      },
+      "artists": [
+        {
+          "name": "KAPTN",
+          "url": "https://open.spotify.com/artist/0uYtAzdxQVWpfAxQeNYCHN"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "Ricky Ricardo",
+      "url": "https://open.spotify.com/track/4dp9yUpE7Da8YZcDjhVtlp"
     },
     {
       "album": {

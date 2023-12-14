@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:5Q8asiEUYLobc6DvKIsqOP">Claudia Isaki</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,947 likes - 150 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,949 likes - 150 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Holy Spirit](https://open.spotify.com/track/6Od7lmGKfLnNC9hSPUjgyK) | [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E), [Hanna Watson](https://open.spotify.com/artist/7MCyWyNMoU55UA8C6elcap) | [Holy Spirit](https://open.spotify.com/album/20iz4kRVmenkUmcbfnAOog) | 3:27 |
 | 150 | [That Feel](https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [That Feel](https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z) | 2:43 |
 
-Snapshot ID: `MCw1N2EwOGQzYjhjYmQ2NTAwN2VlM2NhZjMwNjZhNmI3NmQzMzZjNGQ5`
+Snapshot ID: `MCwwMGY5YWE3YWI2NGJiMmMxNTIwZWU1NDU3Y2VjYTUwOGRjNWVjOGUx`

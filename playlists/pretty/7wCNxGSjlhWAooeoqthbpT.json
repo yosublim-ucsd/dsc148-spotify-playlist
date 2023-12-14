@@ -1,15 +1,15 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7895,
+  "num_followers": 7869,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjI2MCxjNTdmY2VkZjlhOWIzZjhhNWE5MjAwZjkxNTA0MDdiMzYxMTJlNTc4",
+  "snapshot_id": "MjI4Miw2MGRkNzJjOGQ2YzY1ODgxOGNkMWNkNGIzZmY2ZDYxOTg0MTk3YTAx",
   "tracks": [
     {
-      "added_at": "2023-07-28 15:02:50",
+      "added_at": "2023-10-06 15:58:16",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -18,15 +18,47 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 246133,
-      "name": "MELTDOWN (feat. Drake)",
-      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+    },
+    {
+      "added_at": "2023-07-28 15:03:44",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-10-06 15:59:02",
+      "album": {
+        "name": "On My Love (Sped Up)",
+        "url": "https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77"
     },
     {
       "added_at": "2023-07-28 15:03:18",
@@ -113,6 +145,42 @@
       "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
     },
     {
+      "added_at": "2023-09-08 14:16:13",
+      "album": {
+        "name": "Pain/Pleasure",
+        "url": "https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 199460,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/6YoqG5R2uqq5MQBj4kbnz4"
+    },
+    {
+      "added_at": "2023-09-08 14:15:57",
+      "album": {
+        "name": "LUXURY LIFE (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 138336,
+      "name": "LUXURY LIFE (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP"
+    },
+    {
       "added_at": "2023-07-21 15:48:46",
       "album": {
         "name": "talk 2 em",
@@ -127,22 +195,6 @@
       "duration_ms": 144200,
       "name": "talk 2 em",
       "url": "https://open.spotify.com/track/7L4gDJcbomtunXe5zEgYGZ"
-    },
-    {
-      "added_at": "2023-08-18 15:38:38",
-      "album": {
-        "name": "Keep on Gettin It",
-        "url": "https://open.spotify.com/album/4UgxkUOeLoLmAovFdAKSav"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        }
-      ],
-      "duration_ms": 158143,
-      "name": "Keep on Gettin It",
-      "url": "https://open.spotify.com/track/06TbA8MtNeWZ7HKZlToTqw"
     },
     {
       "added_at": "2023-07-21 15:48:20",
@@ -169,22 +221,6 @@
       "url": "https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj"
     },
     {
-      "added_at": "2023-07-28 15:03:44",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
       "added_at": "2023-07-21 15:49:04",
       "album": {
         "name": "HOW I FEEL",
@@ -201,6 +237,22 @@
       "url": "https://open.spotify.com/track/2STycksffJuqHGlJkoGbWl"
     },
     {
+      "added_at": "2023-09-08 14:19:39",
+      "album": {
+        "name": "I'm Done",
+        "url": "https://open.spotify.com/album/3c9nI13kCbfkFJqaPJRGcs"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 149280,
+      "name": "I'm Done",
+      "url": "https://open.spotify.com/track/2OfPiMCN1oV3lFgh6mO0vQ"
+    },
+    {
       "added_at": "2023-07-14 13:11:28",
       "album": {
         "name": "Maybe It's Me...",
@@ -215,6 +267,22 @@
       "duration_ms": 226765,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw"
+    },
+    {
+      "added_at": "2023-09-08 14:19:55",
+      "album": {
+        "name": "Welcome To Bubba Land",
+        "url": "https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "Bubba Man",
+      "url": "https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh"
     },
     {
       "added_at": "2023-08-04 15:29:44",
@@ -253,6 +321,22 @@
       "url": "https://open.spotify.com/track/0l9ekYnsiUpnwFb0ErXYRJ"
     },
     {
+      "added_at": "2023-09-08 14:16:50",
+      "album": {
+        "name": "No Dissin",
+        "url": "https://open.spotify.com/album/6FkChT69eCHKp0E9omQ6nn"
+      },
+      "artists": [
+        {
+          "name": "Baby Jungle",
+          "url": "https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx"
+        }
+      ],
+      "duration_ms": 168185,
+      "name": "No Dissin",
+      "url": "https://open.spotify.com/track/02uL6BAXoxMOjVjGdKMJyR"
+    },
+    {
       "added_at": "2023-07-14 13:12:39",
       "album": {
         "name": "Beautiful And Brutal Yard",
@@ -287,38 +371,6 @@
       "duration_ms": 149108,
       "name": "Home To Another One",
       "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
-    },
-    {
-      "added_at": "2023-05-19 15:13:55",
-      "album": {
-        "name": "End Of Time",
-        "url": "https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 209803,
-      "name": "End Of Time",
-      "url": "https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc"
-    },
-    {
-      "added_at": "2023-04-14 14:51:25",
-      "album": {
-        "name": "Mother (Radio Edit)",
-        "url": "https://open.spotify.com/album/4g6g8PQIZ1Plcbm1DFxoo2"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 145136,
-      "name": "Mother - Radio Edit",
-      "url": "https://open.spotify.com/track/7oCAd9dn97ckvEsGmOPA7H"
     },
     {
       "added_at": "2023-06-09 15:19:15",
@@ -403,22 +455,6 @@
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
-    },
-    {
-      "added_at": "2023-07-07 14:44:54",
-      "album": {
-        "name": "GD Woman",
-        "url": "https://open.spotify.com/album/09NbOdvIzE2fuN9vhAJ0KE"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "GD Woman",
-      "url": "https://open.spotify.com/track/2RFPBuGma5LnPbTjplfsuZ"
     },
     {
       "added_at": "2023-03-03 15:47:31",
@@ -997,26 +1033,6 @@
       "url": "https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG"
     },
     {
-      "added_at": "2021-07-30 11:03:30",
-      "album": {
-        "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) [Remix]",
-        "url": "https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 229601,
-      "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
-      "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
-    },
-    {
       "added_at": "2022-07-22 14:12:27",
       "album": {
         "name": "BEFORE WE GO (DEEPER)",
@@ -1063,22 +1079,6 @@
       "duration_ms": 179928,
       "name": "Final Notice",
       "url": "https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a"
-    },
-    {
-      "added_at": "2023-06-09 15:19:48",
-      "album": {
-        "name": "Going Places",
-        "url": "https://open.spotify.com/album/4ZHOXutdiNiyr5CJhAMpJv"
-      },
-      "artists": [
-        {
-          "name": "AAP Deno",
-          "url": "https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Going Places",
-      "url": "https://open.spotify.com/track/5X75OF1FA0OiR6B7JfuJmU"
     },
     {
       "added_at": "2023-06-09 15:20:47",

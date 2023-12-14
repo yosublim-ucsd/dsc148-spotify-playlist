@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrkCWEwgaqs.md) - [plain]
 
 > Featuring Aleman, Trueno, Calle 13 & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,664 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,665 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrkCWEwgaqs.md) - [plain]
 | 24 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 |
 | 25 | [¿Qué pasa?](https://open.spotify.com/track/68qLs1UE25gr5t8z8CTT6u) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [Emigrante](https://open.spotify.com/album/4ADa1RmaO1KgUQxYqmCZjm) | 3:44 |
 
-Snapshot ID: `MCxmNDgxMWE2MDdiMjcxMDYwNGVkZmRiOTQwZjM3ODVkMDBiZjUxYzky`
+Snapshot ID: `MCxmYmU2NmU0YTAwZDFmY2Q4NzE0NmI2ZjE3MDZhNzA4OTdjOTQ1MGZi`

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 134185,
       "name": "alone zone",
       "url": "https://open.spotify.com/track/27soIlOFetGUgtdSyObi7O"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 117124,
       "name": "chill-101",
       "url": "https://open.spotify.com/track/4FOULsZmVw4uIZOhe5uXf6"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 164062,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 124974,
       "name": "dreary",
       "url": "https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 123076,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 141395,
       "name": "isla venados",
       "url": "https://open.spotify.com/track/4ePkpmUVhIwrQ4XuIJiZOg"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 68333,
       "name": "Sho's Waltz (From \"The Secret World Of Arrietty\") - Lofi",
       "url": "https://open.spotify.com/track/5lI6gpI508ua5P2qJDmKTx"
@@ -1300,6 +1300,24 @@
       "duration_ms": 154913,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/6vsI0JlqlIxphUizBtio02"
+    },
+    {
+      "album": {
+        "name": "sunset",
+        "url": "https://open.spotify.com/album/5u6ppYQIUNMgqH8HZwPBGa"
+      },
+      "artists": [
+        {
+          "name": "miroki",
+          "url": "https://open.spotify.com/artist/4MuxvjwPudGqy8dvRJWqe4"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "sunset",
+      "url": "https://open.spotify.com/track/2GfHkWBa1HHwo9OdTisl22"
     },
     {
       "album": {
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 148000,
       "name": "Whispering Away",
       "url": "https://open.spotify.com/track/3bfc1S8SSpCxZBhTy4yV6g"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 130169,
       "name": "Wretched",
       "url": "https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos"

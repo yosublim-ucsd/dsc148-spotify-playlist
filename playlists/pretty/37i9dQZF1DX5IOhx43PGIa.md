@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,845 likes - 150 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,848 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [SEEING PINK](https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [SEEING PINK](https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed) | 3:17 |
 | 150 | [grass is greener](https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [grass is greener](https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR) | 3:19 |
 
-Snapshot ID: `MCwwMTJjY2QzNmMxYjRiMmZhZjI1MGYyM2ZhMjdmOTZiNDgxNzQxMWUx`
+Snapshot ID: `MCw0NjhiMmRkY2Y4YmFlYzdkZTIzNTVkYjE1MTZkODFiZDNhMTE1OTE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,463 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,476 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Words](https://open.spotify.com/track/5KWrRynsADgBtgqoPCh7kn) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Waking Up](https://open.spotify.com/album/5740DSdBXecq02r5WpIigM) | 5:25 |
 | 150 | [Rushin' River Valley](https://open.spotify.com/track/7axHflLoQmVH6K28TSnWuu) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:46 |
 
-Snapshot ID: `MCw0ZWQyZTUwMGUwMmM5YjdlZjdmMmExY2M0N2Q0YjgyMzQxOTJlZDMw`
+Snapshot ID: `MCxlNWI5NjA5NmUxMjQ1MDVhNTNiYzk0YmVhNDRkMTI1ZWE5MDA0NjBj`

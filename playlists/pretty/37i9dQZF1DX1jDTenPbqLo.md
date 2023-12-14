@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,199 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,205 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 | 16 | [La Fille Aux Cheveux De Lin, L\. 117](https://open.spotify.com/track/5ZPbqdt0JiuUnxHUyEeKLg) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Ezio Bosso](https://open.spotify.com/artist/5RLsx9QFxt7RO5jTOxzWzl) | [And the Things that Remain](https://open.spotify.com/album/12JI4zBXEwbtKUfviHwg6n) | 3:27 |
 | 17 | [Satie / Orch\. Ducros: Gymnopédie No\. 1](https://open.spotify.com/track/3JdD9wqvohYMjK6BmEHtTP) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Adrien Perruchon](https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Emotions](https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX) | 2:52 |
 | 18 | [Sheep May Safely Graze, BWV 208 \(arr\. Egon Petri\)](https://open.spotify.com/track/2md3xXPRJz9dIyFZi8MNyY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 5:18 |
-| 19 | [Chopin: 24 Preludes, Op\. 28: No.15 in D\-Flat Major, "Raindrop"](https://open.spotify.com/track/5vZRIYphBMNUeCfzYB2WyV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Chopin: Preludes & Piano Works \- 24 Preludes, Op\. 28: No.15 in D\-Flat Major, "Raindrop"](https://open.spotify.com/album/0o29UJuZspptFzTPNEQ3mQ) | 6:20 |
+| 19 | [Chopin: 24 Preludes, Op\. 28: No\. 15 in D\-Flat Major "Raindrop"](https://open.spotify.com/track/5vZRIYphBMNUeCfzYB2WyV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Chopin: Preludes & Piano Works \- 24 Preludes, Op\. 28: No.15 in D\-Flat Major, "Raindrop"](https://open.spotify.com/album/0o29UJuZspptFzTPNEQ3mQ) | 6:20 |
 | 20 | [Sure on This Shining Night, Op\. 13 No\. 3 \(Arr\. Parkin for Cello and Piano\)](https://open.spotify.com/track/1hG8lwBQRlWG5XqMQAWvg6) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Barber: Sure on This Shining Night, Op\. 13 No\. 3 \(Arr\. Parkin for Cello and Piano\)](https://open.spotify.com/album/6eEB2N3DvPvNjXHEZN5TSL) | 2:10 |
 | 21 | [Bluebird](https://open.spotify.com/track/1dWxSS2a93X4XVfs1mSYkB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:24 |
 | 22 | [The Flower Garden](https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 2:58 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 | 39 | [Rêverie, L\. 68 \(Arr\. by Badzura\)](https://open.spotify.com/track/4VvRlFEuDDJnUaJURcDLE4) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM) | [Debussy: Rêverie, L\. 68 \(Arr\. Badzura\)](https://open.spotify.com/album/0OZ9sIi53bC4eupChcBPUc) | 6:08 |
 | 40 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 |
 
-Snapshot ID: `MCw2NTgxNzU2YjkzZTAzM2FmNzcxNjI2ZTFmYjM2NGYyOTI2MTA1MWI1`
+Snapshot ID: `MCwxNzQ3MDhkZDc5YThmYTExOTg1YjZkNGY0MzYxNjNhNGIwZjFhZjgz`

@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
       "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
@@ -996,6 +996,24 @@
       "duration_ms": 276973,
       "name": "Virus",
       "url": "https://open.spotify.com/track/6vUINIQYy3HylQfwQTrcWL"
+    },
+    {
+      "album": {
+        "name": "Avalancha",
+        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249546,
+      "name": "\u00a1Rueda, fortuna!",
+      "url": "https://open.spotify.com/track/7kghHsp7WnSUtERja6XWcM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZrCY8"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-66 songs - 4 hr 35 min
+67 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Familia Ponto](https://open.spotify.com/track/47VbY3pygnNQ4Ed9vPTwAf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Familia Ponto](https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv) | 3:34 | 2022-06-04 |  |
 | [Fogo e Água](https://open.spotify.com/track/1b6Vidw42PX4RJWbCFaCQP) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 4:18 | 2022-06-04 |  |
 | [Fé \- Acústico](https://open.spotify.com/track/5w31BIWkKY6ZiDuWbFMi4M) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Oriente \(Acústico\)](https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ) | 4:47 | 2022-06-04 |  |
-| [Fé Inabalável](https://open.spotify.com/track/70DVcAR6igMVrRfBU1GJoM) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Hélio Bentes](https://open.spotify.com/artist/6MyzqGUoZwnmflUnI360kp) | [Marginal](https://open.spotify.com/album/69vbtr2KuRwE14nK8LJfEZ) | 3:11 | 2022-06-04 |  |
+| [Fé Inabalável](https://open.spotify.com/track/70DVcAR6igMVrRfBU1GJoM) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Hélio Bentes](https://open.spotify.com/artist/6MyzqGUoZwnmflUnI360kp) | [Marginal](https://open.spotify.com/album/69vbtr2KuRwE14nK8LJfEZ) | 3:11 | 2022-06-04 |  |
 | [Genesis](https://open.spotify.com/track/1MwEVNDORoVWJDg6kRqWF3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 3:47 | 2022-06-04 |  |
 | [Governo Fascista](https://open.spotify.com/track/0U5mMUpP7b4CljtNlCSCf5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:48 | 2023-05-19 |  |
 | [Governo Fascista](https://open.spotify.com/track/5bz4OxlZFlfYwyupQjgRDf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Governo Fascista](https://open.spotify.com/album/7kB5aFcZo7i7BUiAe3lW5K) | 3:48 | 2022-09-21 | 2023-05-20 |
@@ -52,6 +52,7 @@
 | [Novo Governo](https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Novo Governo](https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG) | 3:05 | 2022-06-04 |  |
 | [Nyah](https://open.spotify.com/track/4RxYyH7ZGRPzoMUN1lyriz) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 0:50 | 2022-06-04 |  |
 | [O Que Eu Vejo](https://open.spotify.com/track/50XJtud3nYzfPcXblqtvXo) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:16 | 2022-06-04 |  |
+| [O Que Se Leva \(Dói\)](https://open.spotify.com/track/0HKA4jKMfPOZ3dPWIlEzzv) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Deus É Brasileiro](https://open.spotify.com/album/43lX3jomJ4z9s5lLEG8qcC) | 2:50 | 2023-12-13 |  |
 | [Peleja](https://open.spotify.com/track/4Neb2puA95voedjmiOjFax) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 4:10 | 2022-06-04 |  |
 | [Ponto de Equilíbrio](https://open.spotify.com/track/7tUfJp5VuYgrp8dsJvPet1) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 6:39 | 2022-06-04 |  |
 | [Pra Minha Gente](https://open.spotify.com/track/7oxAoeLVwKwm6TfEOM40qJ) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Pra Minha Gente](https://open.spotify.com/album/0bhN1xHWCtB4eYus8Z4iMl) | 2:57 | 2023-02-24 |  |

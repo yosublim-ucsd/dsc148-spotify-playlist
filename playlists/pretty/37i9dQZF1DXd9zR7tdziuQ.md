@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,771 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,776 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [If I Ain't Got You \- Piano & Vocal Version](https://open.spotify.com/track/7tyBkTQUkczW7SMXYjc2GH) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [If I Ain't Got You \(Remixes\)](https://open.spotify.com/album/09Hv0TDIjHuPFymQjOTmsX) | 3:51 |
 | 150 | [Dancing in the Moonlight \- Acoustic Version](https://open.spotify.com/track/1iUkHPHr2E9Zy6PWKNpViK) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Greatest Hits](https://open.spotify.com/album/4x8DMzG3QC2pBLw01NQHLI) | 3:00 |
 
-Snapshot ID: `MCxhZWNmMTkxZmY2ZDA0ZjEyMzc4OTIwMzU3MTY0YTRjMTNkMTFmNzVk`
+Snapshot ID: `MCw3OTk4YmM4N2ViOTdmZTBhYzE5MTc0ZDkwNDE5OWQ4OWY5MGY0ODBj`

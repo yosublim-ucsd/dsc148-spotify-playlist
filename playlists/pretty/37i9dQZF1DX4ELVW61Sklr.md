@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,223 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,241 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Winter Wonderland](https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Merry Christmas from Andra Day](https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT) | 3:14 |
 | 75 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 |
 
-Snapshot ID: `MCxlYjkyYWZmOTBjNzc3N2I2NmI3MzFjZmVkMTlhNmZhMDA5MTk1NDcx`
+Snapshot ID: `MCw3N2Q1ZTE2MjI3ZWM0Yjc3OTI1MzA1MTJmY2I5ZDI1NTk4ZDYzZWZi`

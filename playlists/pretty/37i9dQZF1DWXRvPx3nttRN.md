@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,254 likes - 244 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,266 likes - 244 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,4 +253,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 243 | [](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 0:00 |
 | 244 | [Hotline Bling \- Acoustic](https://open.spotify.com/track/2ZP62FLKSCJNJKKWvoGLdW) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Danny Padilla](https://open.spotify.com/artist/5148ArIqx11KON7HEAWLeW) | [Hotline Bling \(Acoustic\)](https://open.spotify.com/album/6rrFz562Z9bgiIXCAC2tPw) | 2:31 |
 
-Snapshot ID: `MCxiYmI0ZDZlOWI1ZjY1ZjJlY2JlMGRhYjViZWVmNDdlM2MwOTYxZjQ4`
+Snapshot ID: `MCxhMzg3OGYxNGJkMDBhZjY4MDM5ODM3OTQzNjE1NTY4MjZjMmVkMjUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fFkqL63eE4.md) - [plain]
 
 > Baseball star Fernando Tatis Jr\. takes over Fuego! Featuring Eladio Carrion, Rochy RD, Feid & more\. Find this week's Fuego mixtape  <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 25 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 25 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fFkqL63eE4.md) - [plain]
 | 24 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 |
 | 25 | [Midas](https://open.spotify.com/track/6ZxQu3WmtKGzm6yeSKsaz0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:04 |
 
-Snapshot ID: `MCw1MjJlNzk1ZmJlNjJmMmMyMWI5ZjkxMGEyNzZkOWEyNDMwZGEzZWVk`
+Snapshot ID: `MCw4OGUyY2FjZWJhNTJjYTlkNjg4ZTNhMmE2ZTc3ZDEyYTYwODRlODY0`

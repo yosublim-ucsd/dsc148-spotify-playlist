@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,523 likes - 104 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,524 likes - 104 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 103 | [Monsoon Melodies](https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU) | [Bhooshan Gogad](https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B) | [Monsoon Melodies](https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60) | 4:56 |
 | 104 | [Transcend](https://open.spotify.com/track/1dUDWTN2g42sz1yXykCUQn) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv), [William Cepeda](https://open.spotify.com/artist/0w2oHz4dH8krp7aEc7zTWc) | [Transcend](https://open.spotify.com/album/3Ox4brenAwA37r3RPNoXjB) | 9:37 |
 
-Snapshot ID: `MCw5MWU3NDQyNzg3ZmM0OWE0MmIxYzVlYWQ2ZGQ4ZWJmZGY5MGY3OGU3`
+Snapshot ID: `MCw5MTU4OTkzNjVmYzgyZDRkNDE0M2YxM2E0M2Y4ZmJmMTU5MThjYzNl`

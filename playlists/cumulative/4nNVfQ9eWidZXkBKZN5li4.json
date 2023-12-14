@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Best of Bollywood - All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India. Listen to Bollywood Top tracks only on this playlist! ",
+  "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon. Follow now!",
   "name": "Bollywood Top 50",
   "tracks": [
     {
@@ -12,6 +12,14 @@
         {
           "name": "Simran Choudhary",
           "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        },
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/5XdYfUuAbJI8JPxA4WKycY"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ"
         }
       ],
       "date_added": "2023-08-21",
@@ -185,6 +193,58 @@
     },
     {
       "album": {
+        "name": "Anjani X",
+        "url": "https://open.spotify.com/album/7HSsO0Hm9iWSXUAYO7y9E5"
+      },
+      "artists": [
+        {
+          "name": "Ezu",
+          "url": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+        },
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Anjani X",
+      "url": "https://open.spotify.com/track/1h1vGNtJMR2xKfOm9pVrSz"
+    },
+    {
+      "album": {
+        "name": "Bhediya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261702,
+      "name": "Apna Bana Le",
+      "url": "https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL"
+    },
+    {
+      "album": {
         "name": "Apna Bana Le (From \"Bhediya\")",
         "url": "https://open.spotify.com/album/7fL3C5d4cFW7XLZHq4jPwX"
       },
@@ -208,6 +268,28 @@
       "duration_ms": 261702,
       "name": "Apna Bana Le",
       "url": "https://open.spotify.com/track/7Els4IIFYa4P4RxBkZkxdd"
+    },
+    {
+      "album": {
+        "name": "Arjan Vailly (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
+      },
+      "artists": [
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        },
+        {
+          "name": "Bhupinder Babbal",
+          "url": "https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182170,
+      "name": "Arjan Vailly (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn"
     },
     {
       "album": {
@@ -2205,6 +2287,32 @@
     },
     {
       "album": {
+        "name": "Hass Hass",
+        "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Greg Kurstin",
+          "url": "https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153016,
+      "name": "Hass Hass",
+      "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
+    },
+    {
+      "album": {
         "name": "Hawa",
         "url": "https://open.spotify.com/album/3CKEHS5yn6SHLRLg0y7qGY"
       },
@@ -2290,6 +2398,28 @@
       "duration_ms": 223107,
       "name": "Heer Ranjha",
       "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
+    },
+    {
+      "album": {
+        "name": "Heera Ranjha",
+        "url": "https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp"
+      },
+      "artists": [
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        },
+        {
+          "name": "Shefali Alvares",
+          "url": "https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136460,
+      "name": "Heera Ranjha",
+      "url": "https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA"
     },
     {
       "album": {
@@ -2494,6 +2624,32 @@
       "duration_ms": 188606,
       "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
+    },
+    {
+      "album": {
+        "name": "In Raahon Mein (From \"The Archies\")",
+        "url": "https://open.spotify.com/album/1QH9L2KybZAacyZODZyZ3n"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183882,
+      "name": "In Raahon Mein (From \"The Archies\")",
+      "url": "https://open.spotify.com/track/25qNCxhu9VzFgcCPawszwh"
     },
     {
       "album": {
@@ -3539,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "Mahiye Jinna Sohna",
+        "url": "https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Mahiye Jinna Sohna",
+      "url": "https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq"
+    },
+    {
+      "album": {
         "name": "Main Khiladi (From \"Selfiee\")",
         "url": "https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki"
       },
@@ -4343,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
+    },
+    {
+      "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
       },
@@ -4829,6 +5021,28 @@
     },
     {
       "album": {
+        "name": "Raanjhan Aaya",
+        "url": "https://open.spotify.com/album/1D42KMvs4ntxc04oXyY7cJ"
+      },
+      "artists": [
+        {
+          "name": "Masaba",
+          "url": "https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P"
+        },
+        {
+          "name": "Akshay & IP",
+          "url": "https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "Raanjhan Aaya",
+      "url": "https://open.spotify.com/track/0vqtlDkv6BamM6PIKM9ptz"
+    },
+    {
+      "album": {
         "name": "Raanjhanaa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/24C47633GRlozws7WBth7t"
       },
@@ -5055,6 +5269,28 @@
     },
     {
       "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
+      },
+      "artists": [
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182348,
+      "name": "Saari Duniya Jalaa Denge",
+      "url": "https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB"
+    },
+    {
+      "album": {
         "name": "Saawariya (feat. Arjun Bijlani)",
         "url": "https://open.spotify.com/album/6XrfqO7ZEF3XRDNsPfij58"
       },
@@ -5208,6 +5444,32 @@
       "duration_ms": 269184,
       "name": "Samjhawan",
       "url": "https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t"
+    },
+    {
+      "album": {
+        "name": "Satranga (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271169,
+      "name": "Satranga (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
       "album": {
@@ -5621,6 +5883,40 @@
     },
     {
       "album": {
+        "name": "Sunoh (From \"The Archies\")",
+        "url": "https://open.spotify.com/album/4hn7BSt8k7zIyyaNkkUXlJ"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "The Islanders",
+          "url": "https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i"
+        },
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185462,
+      "name": "Sunoh (From \"The Archies\")",
+      "url": "https://open.spotify.com/track/2oNcmoIOlDTBKPh7FzXSAT"
+    },
+    {
+      "album": {
         "name": "Dil Bechara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr"
       },
@@ -6005,6 +6301,24 @@
     },
     {
       "album": {
+        "name": "Tu hai kahan",
+        "url": "https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263184,
+      "name": "Tu hai kahan",
+      "url": "https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8"
+    },
+    {
+      "album": {
         "name": "Tu Mera Nahi",
         "url": "https://open.spotify.com/album/4hkiN9KzcNXXnzjO6TV4Uw"
       },
@@ -6020,6 +6334,32 @@
       "duration_ms": 230008,
       "name": "Tu Mera Nahi",
       "url": "https://open.spotify.com/track/4FZLfvHSBzvzK0rdqpIa5Y"
+    },
+    {
+      "album": {
+        "name": "Tujhe Yaad Na Meri Ayee - 2",
+        "url": "https://open.spotify.com/album/2OMgwR7ydKGiyZPhUdgp7T"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294146,
+      "name": "Tujhe Yaad Na Meri Ayee - 2",
+      "url": "https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx"
     },
     {
       "album": {
@@ -6138,6 +6478,32 @@
       "duration_ms": 230530,
       "name": "Urvashi",
       "url": "https://open.spotify.com/track/4VAY0PQ6ZLStwgdjyMQxWa"
+    },
+    {
+      "album": {
+        "name": "Va Va Voom (From \"The Archies\")",
+        "url": "https://open.spotify.com/album/41efXRJaAdzIOCHeMuKNEJ"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128330,
+      "name": "Va Va Voom (From \"The Archies\")",
+      "url": "https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj"
     },
     {
       "album": {

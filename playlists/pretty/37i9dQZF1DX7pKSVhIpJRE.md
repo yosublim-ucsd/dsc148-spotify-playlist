@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,918 likes - 140 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,923 likes - 140 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 139 | [Carriages](https://open.spotify.com/track/3QmdB7goLEDcCGxgm2BiBw) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:19 |
 | 140 | [Voices \(Remix\)](https://open.spotify.com/track/07T3aaNoPhZ386LHur9kia) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:48 |
 
-Snapshot ID: `MCw0OWFlYzJhOGYwMjc4M2FlY2MwNmZkYTlhMmMzNzE2ZGJlZTI2NTRj`
+Snapshot ID: `MCxmYjMyNjg0M2JkNjQyYWVlNzZlMjk0YzdkN2E2MDJjMjJlNjU1NDky`

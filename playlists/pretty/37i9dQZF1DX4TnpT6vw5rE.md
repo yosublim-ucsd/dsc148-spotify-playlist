@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,790 likes - 120 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,796 likes - 120 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Ode to Blue](https://open.spotify.com/track/5slC4oYhwfrRaQfohUUNro) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Ode to Blue](https://open.spotify.com/album/3qI04UX6VcWk6X2Hejl3qk) | 3:57 |
 | 120 | [Overland Kitted](https://open.spotify.com/track/3ulyr4lWLR9rlSqy64dmil) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Terra Firma](https://open.spotify.com/album/1p33sMa7scJrXZSetrhEb0) | 2:29 |
 
-Snapshot ID: `MCwyZWZmOWIxYWQxZDYxZmY3NzFiOGFjNTg3MzQxMjE5OWFiNTI1YTdi`
+Snapshot ID: `MCwxMGUxM2Q3MzIwMGFiYzBmZDE2MTRiNzFiYWIzNmEyN2E3MzRmZjk5`

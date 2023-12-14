@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,687 likes - 700 songs - 1 day 19 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,689 likes - 700 songs - 1 day 19 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -709,4 +709,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 699 | [When We Meet Halfway](https://open.spotify.com/track/0ZmL7e8iZhPiNtpvPNUiNP) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [When We Meet Halfway](https://open.spotify.com/album/2oByqKzmvtbgZolfqUcYsF) | 5:37 |
 | 700 | [Daydreamer](https://open.spotify.com/track/6r5QUqMog0YlOfXFiyxyIt) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Daydreamer](https://open.spotify.com/album/2AJXWV3BUIs2PX6apTUgDo) | 3:39 |
 
-Snapshot ID: `MCxjYzg5ODZmNWZkZjFmZWYyOWMxMDY3NmQ0ZWNhMzYxNTIyNmIwNjgw`
+Snapshot ID: `MCwwZTUyYTc2NjgyY2E3OTMyNGU4OGQ2Y2Y5MTBmOWRhZTc4YzA2MmZh`

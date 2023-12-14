@@ -481,4 +481,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 | 471 | [Verlaine](https://open.spotify.com/track/4JpqixxCcDjCQiEDnHuZuj) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 1:06 |
 | 472 | [Baudelaire](https://open.spotify.com/track/45gRfu45Bn6FX49CC3ATdH) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 5:19 |
 
-Snapshot ID: `MCw2YTM2NTVmMGQ2NWRhYmU4ZjRiYTFhZjQ1ZTc0NjI0ZmRkM2RjYjYz`
+Snapshot ID: `MCw2ZmM3NTJhMTc4ZGU3Mzc0NzBiMTMyZWY5Y2Q1NWU0NDNjNGI0MDZk`

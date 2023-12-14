@@ -1,15 +1,39 @@
 {
-  "description": "Trending dance hits in India. Cover: Diljit & Sia",
-  "num_followers": 63480,
+  "description": "Trending dance hits in India. Cover: Karan Aujla & Tiesto",
+  "num_followers": 63578,
   "original_name": "mint India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTVlZDcwZDU3YTZhYWNhOTRjZmNiNGFmMTY2YTU0NzZjMTg1NzBj",
+  "snapshot_id": "MCxhYjAzMzIzNmM1YjNjZDIyYzliNDIzYzJhNmFlOWM1MTk1ZTQ4NzNk",
   "tracks": [
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
+      "album": {
+        "name": "Softly (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Softly - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
+    },
+    {
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Hass Hass",
         "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
@@ -33,7 +57,7 @@
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Besharam Rang (From \"Pathaan\")",
         "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
@@ -69,7 +93,7 @@
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "She Don't Know (From \"Blessed\")",
         "url": "https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf"
@@ -89,7 +113,7 @@
       "url": "https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "9:45",
         "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
@@ -113,7 +137,7 @@
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Khalasi | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq"
@@ -133,7 +157,7 @@
       "url": "https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl"
@@ -153,7 +177,7 @@
       "url": "https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Cherie Coco",
         "url": "https://open.spotify.com/album/2GPZ1NhaVR31emxcDCw8Pz"
@@ -177,7 +201,7 @@
       "url": "https://open.spotify.com/track/4LYYlJBBA6NXe4GVpPFxGd"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Befikre",
         "url": "https://open.spotify.com/album/2NdNeBKi8ctKgKRH5UGRbO"
@@ -205,7 +229,7 @@
       "url": "https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "love nwantiti (feat. Dj Yo! & AX'EL) [Remix]",
         "url": "https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9"
@@ -229,7 +253,7 @@
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
@@ -253,7 +277,7 @@
       "url": "https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
@@ -281,7 +305,7 @@
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Gone Girl",
         "url": "https://open.spotify.com/album/3Jul3ZMlbJJ5McOngWTbTU"
@@ -301,7 +325,7 @@
       "url": "https://open.spotify.com/track/7lJebwVBaywjSis2ahqtnn"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
@@ -321,7 +345,7 @@
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Kyun",
         "url": "https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM"
@@ -337,31 +361,7 @@
       "url": "https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
-    },
-    {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/5nrLqXgaW2w1fCSFQp0EqL"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/6TJ8etbh8uFFLuVbLj25lz"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Summer High",
         "url": "https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Bombay Dreams (feat. Kavita Seth)",
         "url": "https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "One Kiss (with Dua Lipa) [Remixes]",
         "url": "https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/5tsZgJv9QqdrIqxU9piCku"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Jugnu",
         "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Dilbar",
         "url": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Summertime Sadness (Imanbek Remix)",
         "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Dillagi",
         "url": "https://open.spotify.com/album/6XpGHTIMmOITEcwG5z86NR"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/3kA53abqN88SJ06rXMd3np"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "OFIVE1",
         "url": "https://open.spotify.com/album/1Rk6mhJQnIDrhygra17EtG"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/4IQqOlTZpfjnSTOArpZX5j"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Naagin",
         "url": "https://open.spotify.com/album/1qvwPj7hWoVYJ0S5z5mbag"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Music Is The Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/3xvUlOBBbOf1Y1O0OT1Qcu"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/1kGL1Mt8kNNhZDZwCocBBF"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Munda Sona Hoon Main (From \"Shehzada\")",
         "url": "https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Hungama Ho Gaya (From \"Queen\") - Single",
         "url": "https://open.spotify.com/album/6OwQwHjB0tBu122oE7JK5P"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/4ZiH6RyMrw2vlgD6vrvzBd"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
         "url": "https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Baaraat",
         "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/1rDQJd8kzwBRXeoTtojkQn"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Rangi Saari",
         "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Mera Dil Ye Pukare - Tu Aaja (Heartlock Mix)",
         "url": "https://open.spotify.com/album/313XQLTvs8g357smdl4S0j"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/6bJmYR0sjTZNJxwdw52ern"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Aap Jaisa Koi (From \"An Action Hero\")",
         "url": "https://open.spotify.com/album/6nR97VpgmRofNSX7YeDItC"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/0SONddnho2KyMgAoaVd4Wk"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Aafat (From \"Liger\")",
         "url": "https://open.spotify.com/album/1Z4BdsXFm9DFEtShHrIr3h"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/0C6G3mqMjVcIgTWbK9nFIE"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5XfOSDomcrv4lDvlrxknlt"
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/7BjQd0sfYsMGVrTpRdBNTT"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Morni Banke (From \"Badhaai Ho\")",
         "url": "https://open.spotify.com/album/1lTV7wbMeSmLrBOjf42FER"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2Wu9PNpLUCBl3W1GaPqkhl"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Khiladi 786",
         "url": "https://open.spotify.com/album/5BoZm7cUUN5BpcXrNk1Z0v"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/4AoQVhME8Ko6LNm4lV2wwQ"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Loveyatri - A Journey Of Love",
         "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/5SVpD60u9vjoQ2OeoKsTkb"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
@@ -1093,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Hindi Medium",
         "url": "https://open.spotify.com/album/5wUJ0hK8HJMpf5WEotPihO"
@@ -1113,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3F0I9AkbRwz12yz7Hxn0bF"
     },
     {
-      "added_at": "2023-11-17 05:31:21",
+      "added_at": "2023-12-14 06:00:25",
       "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"

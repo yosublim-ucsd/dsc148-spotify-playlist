@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 154506,
       "name": "Get It Hot",
       "url": "https://open.spotify.com/track/7HbHwtTGM3kCjDtmP00x4h"
@@ -326,6 +326,24 @@
       "duration_ms": 164226,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/5aoTIWdzgcjGo3SdjxqWSf"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238466,
+      "name": "Have a Drink on Me",
+      "url": "https://open.spotify.com/track/4dDurgTN3eGyU0ghzFJ0T1"
     },
     {
       "album": {
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 208400,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 215533,
       "name": "What Do You Do for Money Honey",
       "url": "https://open.spotify.com/track/6Th6ND8RQPywiyelecP5Lf"

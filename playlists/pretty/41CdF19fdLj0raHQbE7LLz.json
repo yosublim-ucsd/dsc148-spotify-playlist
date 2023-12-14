@@ -1,13 +1,337 @@
 {
   "description": "&#x27;Spektre&#x27;s Selection&#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! #respekt",
-  "num_followers": 1381,
+  "num_followers": 1386,
   "original_name": "Spektre's Selection",
   "owner": {
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "MTc3Nyw2ZDgxMWRlZGNiMTU0MDc1Njg0MzEyNjc3MjM3YTJmYTJlMmFmN2Zj",
+  "snapshot_id": "MTgyMyxmZWY4OGU0NzM1OWM5MjdjMDZkYTdkODE4M2UxMzE5YTBjOGJhZTY4",
   "tracks": [
+    {
+      "added_at": "2023-11-15 15:16:02",
+      "album": {
+        "name": "Stop Me From Falling",
+        "url": "https://open.spotify.com/album/6oXjENXaqqcj4mabhcfzij"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        },
+        {
+          "name": "Michele Adamson",
+          "url": "https://open.spotify.com/artist/4yydydB4Lv8XkD7TWLureX"
+        }
+      ],
+      "duration_ms": 213582,
+      "name": "Stop Me From Falling",
+      "url": "https://open.spotify.com/track/7hsqjyXQZWzufjnQdxZYsh"
+    },
+    {
+      "added_at": "2023-10-16 13:32:11",
+      "album": {
+        "name": "1998 (Victor Ruiz Remix)",
+        "url": "https://open.spotify.com/album/1WYFR2jvaXaZ1DvlodiGuK"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "1998 - Victor Ruiz Remix",
+      "url": "https://open.spotify.com/track/3fnWgtjqolErwSW3XS0vy5"
+    },
+    {
+      "added_at": "2023-09-29 20:03:36",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/1rtuJqFhrhuqgCLMRQNbO9"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Taboada",
+          "url": "https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE"
+        }
+      ],
+      "duration_ms": 378754,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/4Qk3RBb4EwmMGuJVQr2Bau"
+    },
+    {
+      "added_at": "2023-10-16 13:30:21",
+      "album": {
+        "name": "Delusion of Choice",
+        "url": "https://open.spotify.com/album/7wCdidxm8jiCbzFvGZrAvg"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Delusion of Choice",
+      "url": "https://open.spotify.com/track/6lPVUWaS9tKawg7CXV0kOO"
+    },
+    {
+      "added_at": "2023-09-29 20:26:28",
+      "album": {
+        "name": "Element of Life",
+        "url": "https://open.spotify.com/album/1WpRLbKiVoIVlUe84Po9L9"
+      },
+      "artists": [
+        {
+          "name": "RSRRCT",
+          "url": "https://open.spotify.com/artist/2bjrPyU5oyMwdCH78sBE12"
+        }
+      ],
+      "duration_ms": 388656,
+      "name": "Element of Life",
+      "url": "https://open.spotify.com/track/2GRZeNpSTHCUyqx45I6G1z"
+    },
+    {
+      "added_at": "2023-11-15 15:16:07",
+      "album": {
+        "name": "Stop Me From Falling",
+        "url": "https://open.spotify.com/album/6oXjENXaqqcj4mabhcfzij"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Nine Lives",
+      "url": "https://open.spotify.com/track/17g4kXpTAARFVT5PujBvN8"
+    },
+    {
+      "added_at": "2023-09-29 20:03:13",
+      "album": {
+        "name": "When I Rock (A.D.H.S. Remix)",
+        "url": "https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "duration_ms": 259130,
+      "name": "When I Rock - A.D.H.S. Remix",
+      "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"
+    },
+    {
+      "added_at": "2023-10-16 13:30:25",
+      "album": {
+        "name": "Delusion of Choice",
+        "url": "https://open.spotify.com/album/7wCdidxm8jiCbzFvGZrAvg"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Harbinger",
+      "url": "https://open.spotify.com/track/1DgIdIk6mGEuRPrsO8IxjJ"
+    },
+    {
+      "added_at": "2023-10-16 14:21:30",
+      "album": {
+        "name": "The Violator",
+        "url": "https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 241770,
+      "name": "The Violator",
+      "url": "https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc"
+    },
+    {
+      "added_at": "2023-10-16 14:23:41",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 370858,
+      "name": "Dopemine",
+      "url": "https://open.spotify.com/track/1DHpTZqedmXOahLu8HFHxT"
+    },
+    {
+      "added_at": "2023-10-16 14:24:07",
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/6T5y5moLD8Qsa2KNsc7B0e"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/2htSGv3TxaNahVpDoppRGr"
+    },
+    {
+      "added_at": "2023-09-15 18:29:22",
+      "album": {
+        "name": "Respekt Rebels, Vol. 5",
+        "url": "https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x"
+      },
+      "artists": [
+        {
+          "name": "Mark Porter",
+          "url": "https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo"
+        }
+      ],
+      "duration_ms": 248023,
+      "name": "With The Rhythm",
+      "url": "https://open.spotify.com/track/5TAIQ9hjW7il1wSMXRxsdb"
+    },
+    {
+      "added_at": "2023-09-29 20:28:17",
+      "album": {
+        "name": "HIGHER",
+        "url": "https://open.spotify.com/album/2TX87UckqmOahcUREbqdYT"
+      },
+      "artists": [
+        {
+          "name": "Kink",
+          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+        },
+        {
+          "name": "Raredub",
+          "url": "https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4"
+        }
+      ],
+      "duration_ms": 341917,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1lxy8QNuoHOuUNVEpAfH5V"
+    },
+    {
+      "added_at": "2023-09-29 20:04:18",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4AqLfv5PWtRBhDm0VA8ewq"
+    },
+    {
+      "added_at": "2023-06-06 19:26:41",
+      "album": {
+        "name": "Bring Me Fire EP",
+        "url": "https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "duration_ms": 221073,
+      "name": "The Unseen Path",
+      "url": "https://open.spotify.com/track/2DcrucFg2LOT03osZQ2rkX"
+    },
+    {
+      "added_at": "2023-09-29 20:25:52",
+      "album": {
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/2up22AI3jXZUWami3Tmoap"
+      },
+      "artists": [
+        {
+          "name": "Kos:mo",
+          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
+        }
+      ],
+      "duration_ms": 374117,
+      "name": "Speak Up - Original Mix",
+      "url": "https://open.spotify.com/track/6mgr4HeGl750Cskqxg5yQ6"
+    },
+    {
+      "added_at": "2023-09-29 20:28:54",
+      "album": {
+        "name": "Ode to Earth",
+        "url": "https://open.spotify.com/album/4YoytsW6fOAn8AeZkmrhzk"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/3j6MGO2YuxQBcunfo2tbmG"
+    },
+    {
+      "added_at": "2023-09-29 20:29:49",
+      "album": {
+        "name": "Stereoscopic",
+        "url": "https://open.spotify.com/album/6Z5OBUXv1C51O9aVVU5tM4"
+      },
+      "artists": [
+        {
+          "name": "BEC",
+          "url": "https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI"
+        }
+      ],
+      "duration_ms": 276493,
+      "name": "Stereoscopic",
+      "url": "https://open.spotify.com/track/1tjc7RaBVpOBJLjkbjSBS0"
+    },
+    {
+      "added_at": "2023-09-29 20:04:42",
+      "album": {
+        "name": "Dopemine",
+        "url": "https://open.spotify.com/album/4cYYqDG4cF6r6QiobnjPxR"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 370858,
+      "name": "Dopemine",
+      "url": "https://open.spotify.com/track/4xcyDEJ7WIfhfqZX4oL2xw"
+    },
     {
       "added_at": "2023-09-15 18:29:16",
       "album": {
@@ -97,22 +421,6 @@
       "url": "https://open.spotify.com/track/2aaS2SpqTrtdTguznntB6x"
     },
     {
-      "added_at": "2023-09-15 18:29:22",
-      "album": {
-        "name": "Respekt Rebels, Vol. 5",
-        "url": "https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x"
-      },
-      "artists": [
-        {
-          "name": "Mark Porter",
-          "url": "https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo"
-        }
-      ],
-      "duration_ms": 248023,
-      "name": "With The Rhythm",
-      "url": "https://open.spotify.com/track/5TAIQ9hjW7il1wSMXRxsdb"
-    },
-    {
       "added_at": "2023-08-30 20:06:56",
       "album": {
         "name": "Halcyon",
@@ -181,22 +489,6 @@
       "url": "https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS"
     },
     {
-      "added_at": "2023-06-06 19:26:41",
-      "album": {
-        "name": "Bring Me Fire EP",
-        "url": "https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K"
-      },
-      "artists": [
-        {
-          "name": "Spektre",
-          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
-        }
-      ],
-      "duration_ms": 221073,
-      "name": "The Unseen Path",
-      "url": "https://open.spotify.com/track/2DcrucFg2LOT03osZQ2rkX"
-    },
-    {
       "added_at": "2023-08-30 20:08:53",
       "album": {
         "name": "Something Wrong",
@@ -211,6 +503,26 @@
       "duration_ms": 355973,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/1NbRQH6RcJOjdComAcLHCK"
+    },
+    {
+      "added_at": "2023-09-29 20:04:22",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "duration_ms": 268656,
+      "name": "Contrast",
+      "url": "https://open.spotify.com/track/6ND5LGkeitafW7tM7I4oND"
     },
     {
       "added_at": "2023-08-15 18:47:29",
@@ -520,7 +832,7 @@
       },
       "artists": [
         {
-          "name": "Just____us",
+          "name": "Just_us",
           "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
         }
       ],

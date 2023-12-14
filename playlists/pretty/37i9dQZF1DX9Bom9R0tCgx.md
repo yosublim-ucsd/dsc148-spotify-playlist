@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,950 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,964 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 99 | [Faith](https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Faith](https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ) | 2:47 |
 | 100 | [Welcome to the Club](https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Welcome to the Club](https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ) | 3:15 |
 
-Snapshot ID: `MCw0OTg3ODAyZDUwODU5ZTk0ZjIwMGI5YWY4MmJjODMzYWE0Y2M4OWE3`
+Snapshot ID: `MCxiMDExZTlhNGZlM2M2ODE2MmFhMjg5ODRlNTdkNDFmNmM4NmU2MjRj`

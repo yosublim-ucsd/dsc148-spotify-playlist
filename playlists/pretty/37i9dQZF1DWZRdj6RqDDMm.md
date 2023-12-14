@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,500 likes - 103 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,508 likes - 103 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 102 | [Glory](https://open.spotify.com/track/3KC5eGrdYOhTqjVgcA3g0h) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Glory](https://open.spotify.com/album/7foKRWx8Bfg6TwKoQ0g8Tz) | 3:12 |
 | 103 | [CONFIDENCE \(Part 1\)](https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [CONFIDENCE \(Part 1\)](https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj) | 2:28 |
 
-Snapshot ID: `MCw1ODViYzgyMDliMmZkN2RjNjE1OTc3ZWZjNTg2YmJlZjMxNmE4M2U3`
+Snapshot ID: `MCw0OGNmYTcyNTA4MWUwZGVmZWM3N2Y3ODllMDU2ZDdjMjU5NWM3YzZl`

@@ -1473,28 +1473,6 @@
     },
     {
       "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Lorenz Dangel",
-          "url": "https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k"
-        }
-      ],
-      "date_added": "2022-04-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 396066,
-      "name": "On the Nature of Daylight",
-      "url": "https://open.spotify.com/track/0tYuVSs2DqXhtXT4JzDWSt"
-    },
-    {
-      "album": {
         "name": "R\u00e9viser en musique",
         "url": "https://open.spotify.com/album/7EfARh3xGTOPr8o45eNcxR"
       },
@@ -1574,6 +1552,28 @@
       "duration_ms": 394986,
       "name": "On The Nature Of Daylight - Bonus Track",
       "url": "https://open.spotify.com/track/7AbvvetUXOiLPiibxKWtu7"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lorenz Dangel",
+          "url": "https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396066,
+      "name": "On the Nature of Daylight - Orchestral Version",
+      "url": "https://open.spotify.com/track/0tYuVSs2DqXhtXT4JzDWSt"
     },
     {
       "album": {

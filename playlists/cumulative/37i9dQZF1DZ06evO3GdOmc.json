@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 224013,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 266426,
       "name": "Joyful, Joyful",
       "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
@@ -860,6 +860,32 @@
       "duration_ms": 255173,
       "name": "Oh My Soul",
       "url": "https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s"
+    },
+    {
+      "album": {
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Mark Hall",
+          "url": "https://open.spotify.com/artist/6Mv17l9MQGEB30u1vDtNIM"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251213,
+      "name": "On This Desert Road",
+      "url": "https://open.spotify.com/track/3MFbObnkO53PRjcNYN7Itu"
     },
     {
       "album": {
@@ -1094,7 +1120,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 219853,
       "name": "The Devil is on the Run",
       "url": "https://open.spotify.com/track/6sFugoulb2dVefcdFOuJsa"

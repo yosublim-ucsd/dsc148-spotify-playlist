@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245879,
+      "name": "All the Best Cowboys Have Daddy Issues",
+      "url": "https://open.spotify.com/track/11oio61wuQD1WZafQwgexO"
+    },
+    {
+      "album": {
+        "name": "Still Searching",
         "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
       },
       "artists": [
@@ -52,10 +70,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 293373,
       "name": "Between the Mountains and the Sea",
       "url": "https://open.spotify.com/track/5x95e85zuMCIFWezlxCnHs"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293373,
+      "name": "Between the Mountains and the Sea",
+      "url": "https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz"
     },
     {
       "album": {
@@ -70,10 +106,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 211320,
       "name": "Bite to Break Skin",
       "url": "https://open.spotify.com/track/2cHu9HRqxVlS7MGSSb29Yh"
+    },
+    {
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Bite to Break Skin",
+      "url": "https://open.spotify.com/track/6ErhIMzMLJ7QFoJmOUamyN"
     },
     {
       "album": {
@@ -113,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153693,
+      "name": "Bonecrusher",
+      "url": "https://open.spotify.com/track/5q3YCJXDJ6UntL4Bn1QDsZ"
+    },
+    {
+      "album": {
         "name": "Still Searching",
         "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
       },
@@ -124,7 +196,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 153693,
       "name": "Bonecrusher",
       "url": "https://open.spotify.com/track/6ByX3KNyDv2Dd3UfkzCuAd"
@@ -142,10 +214,46 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 179986,
       "name": "Buried a Lie",
       "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
+    },
+    {
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179986,
+      "name": "Buried a Lie",
+      "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR"
+    },
+    {
+      "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Calling All Cars",
+      "url": "https://open.spotify.com/track/2NnqiBe3fmYkYDo0OXe4CQ"
     },
     {
       "album": {
@@ -178,10 +286,28 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 203573,
       "name": "Calling All Cars",
       "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
+    },
+    {
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187546,
+      "name": "Can't Be Saved",
+      "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
     },
     {
       "album": {
@@ -196,7 +322,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 187546,
       "name": "Can't Be Saved",
       "url": "https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb"
@@ -337,8 +463,8 @@
     },
     {
       "album": {
-        "name": "Life Is Not a Waiting Room",
-        "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
       },
       "artists": [
         {
@@ -346,12 +472,12 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "date_added": "2022-10-25",
+      "date_added": "2023-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 214453,
-      "name": "Family Tradition",
-      "url": "https://open.spotify.com/track/5mxiTlRu4E6hqZO3ytsQdl"
+      "duration_ms": 184306,
+      "name": "Every Day Is a Struggle",
+      "url": "https://open.spotify.com/track/2hpsX6fPhOd7BPkWPDqFAa"
     },
     {
       "album": {
@@ -366,7 +492,61 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 214453,
+      "name": "Family Tradition",
+      "url": "https://open.spotify.com/track/5mxiTlRu4E6hqZO3ytsQdl"
+    },
+    {
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214453,
+      "name": "Family Tradition",
+      "url": "https://open.spotify.com/track/7EkM4mRpNMQlIWTS72kAB4"
+    },
+    {
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129919,
+      "name": "Fireworks at Dawn",
+      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
+    },
+    {
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
       "duration_ms": 129919,
       "name": "Fireworks at Dawn",
       "url": "https://open.spotify.com/track/5AGAEzjCUGEw6zBwqRJMBf"
@@ -402,10 +582,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 255466,
       "name": "Four Years",
       "url": "https://open.spotify.com/track/1deMF6m52RB0UQnlx8k3uU"
+    },
+    {
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "Four Years",
+      "url": "https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF"
     },
     {
       "album": {
@@ -428,6 +626,24 @@
     {
       "album": {
         "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Garden State",
+      "url": "https://open.spotify.com/track/6mMu70aOyDSS8MxOhKMgUt"
+    },
+    {
+      "album": {
+        "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
       },
       "artists": [
@@ -438,7 +654,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 218746,
       "name": "Garden State",
       "url": "https://open.spotify.com/track/7nZjbGhTacrx9SRmmMscC3"
@@ -510,10 +726,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 229106,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/3LvK2Plt07xaxLS2DaE1S9"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "Holy Mountain",
+      "url": "https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT"
     },
     {
       "album": {
@@ -590,6 +824,24 @@
     {
       "album": {
         "name": "Let It Enfold You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3SXWylZI0AVFYAKNjCVHvN"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229453,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/2Uwx8PL1UYzZNwd7sZFa05"
+    },
+    {
+      "album": {
+        "name": "Let It Enfold You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Blw6RRPD0RAjpYsa0CMFd"
       },
       "artists": [
@@ -600,7 +852,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 229453,
       "name": "Institutionalized",
       "url": "https://open.spotify.com/track/7onCRN2Y3up2FNeGUnEoDd"
@@ -618,10 +870,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 198053,
       "name": "Lady in a Blue Dress",
       "url": "https://open.spotify.com/track/2v63SstROhGSQ2z8EYOyAR"
+    },
+    {
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Lady in a Blue Dress",
+      "url": "https://open.spotify.com/track/7f2ZnUSNRRaj1pVMmG0Vtm"
     },
     {
       "album": {
@@ -672,10 +942,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 200986,
       "name": "Lungs Like Gallows",
       "url": "https://open.spotify.com/track/4rTzIN2fYne7HK1f0yRaXX"
+    },
+    {
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "Lungs Like Gallows",
+      "url": "https://open.spotify.com/track/7CQIwk5PSSVSB8sdJKZYbz"
     },
     {
       "album": {
@@ -750,6 +1038,24 @@
     {
       "album": {
         "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ"
+    },
+    {
+      "album": {
+        "name": "Renacer",
         "url": "https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP"
       },
       "artists": [
@@ -760,7 +1066,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 209026,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/7jqNINX4kZhSQOKmYvLkxZ"
@@ -804,6 +1110,24 @@
     {
       "album": {
         "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194466,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V"
+    },
+    {
+      "album": {
+        "name": "The Fire",
         "url": "https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD"
       },
       "artists": [
@@ -814,10 +1138,28 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 194466,
       "name": "New Year's Eve",
       "url": "https://open.spotify.com/track/4zVYTH3loQynQsWGn9ViiK"
+    },
+    {
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228653,
+      "name": "NJ Falls Into the Atlantic",
+      "url": "https://open.spotify.com/track/666IN8CY7vEX1Hzto5ZxIV"
     },
     {
       "album": {
@@ -832,7 +1174,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 228653,
       "name": "NJ Falls Into the Atlantic",
       "url": "https://open.spotify.com/track/7EWKOfLgNr9f1NgQZkRIzp"
@@ -858,6 +1200,24 @@
     {
       "album": {
         "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Rum Is for Drinking, Not for Burning",
+      "url": "https://open.spotify.com/track/0vMvw4gKlM59AGO61KRnT7"
+    },
+    {
+      "album": {
+        "name": "Let It Enfold You",
         "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
       },
       "artists": [
@@ -868,7 +1228,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 163253,
       "name": "Rum Is for Drinking, Not for Burning",
       "url": "https://open.spotify.com/track/38bTAKxFVuAnnk8UMm0iwb"
@@ -886,10 +1246,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 195826,
       "name": "Saint Anthony",
       "url": "https://open.spotify.com/track/2cMosb3ON8fKZjpRi3eDpf"
+    },
+    {
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173698,
+      "name": "Shark Attack",
+      "url": "https://open.spotify.com/track/02xoVbvxVOKK8MWNe926zb"
     },
     {
       "album": {
@@ -904,7 +1282,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 173826,
       "name": "Shark Attack",
       "url": "https://open.spotify.com/track/1NjU64TwELkfR6YvKOF0sK"
@@ -929,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "Sick or Sane (Fifty for a Twenty)",
+      "url": "https://open.spotify.com/track/29OR8OdN52TGvfzmIJLkIj"
+    },
+    {
+      "album": {
         "name": "Still Searching",
         "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
       },
@@ -940,7 +1336,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 165760,
       "name": "Sick or Sane (Fifty for a Twenty)",
       "url": "https://open.spotify.com/track/3WuIISjdS4O9yYqohz8Tmf"
@@ -984,6 +1380,24 @@
     {
       "album": {
         "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258479,
+      "name": "Still Searching",
+      "url": "https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ"
+    },
+    {
+      "album": {
+        "name": "Still Searching (Deluxe Version)",
         "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
       },
       "artists": [
@@ -1012,7 +1426,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 182555,
       "name": "Stretch Your Legs to Coffin Length",
       "url": "https://open.spotify.com/track/0fX3bWkpBC6u2LbsYcn7Z6"
@@ -1038,6 +1452,24 @@
     {
       "album": {
         "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
+    },
+    {
+      "album": {
+        "name": "The Fire",
         "url": "https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD"
       },
       "artists": [
@@ -1048,7 +1480,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 224133,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/7uXqfDaEfaqDbvrFkYfRC7"
@@ -1092,6 +1524,24 @@
     {
       "album": {
         "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261746,
+      "name": "The Priest and the Matador",
+      "url": "https://open.spotify.com/track/1c65Bhl4i5mUmrSEfD75HJ"
+    },
+    {
+      "album": {
+        "name": "Still Searching (Deluxe Version)",
         "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
       },
       "artists": [
@@ -1109,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117714,
+      "name": "The Rapture",
+      "url": "https://open.spotify.com/track/0cgwlSRGMIxCB2ftqloDNx"
+    },
+    {
+      "album": {
         "name": "Still Searching",
         "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
       },
@@ -1120,7 +1588,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 117720,
       "name": "The Rapture",
       "url": "https://open.spotify.com/track/2o9ivYHrcu0S6hvKtTKmaJ"
@@ -1174,10 +1642,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 219826,
       "name": "War Paint",
       "url": "https://open.spotify.com/track/2BCTVfAlmWL36IOWk2GTri"
+    },
+    {
+      "album": {
+        "name": "Follow Your Bliss: The Best of Senses Fail",
+        "url": "https://open.spotify.com/album/4JY52MmHoTWJCx6RhB3zrz"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219826,
+      "name": "War Paint",
+      "url": "https://open.spotify.com/track/5mMhLIZv75n1I5RWjWqWg8"
     },
     {
       "album": {
@@ -1258,10 +1744,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 207520,
       "name": "Wolves at the Door",
       "url": "https://open.spotify.com/track/3AOCBSxBqQgz7W65K084Ha"
+    },
+    {
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "Wolves at the Door",
+      "url": "https://open.spotify.com/track/48T4mKe6sqTNi6I22mYnYY"
     },
     {
       "album": {
@@ -1276,10 +1780,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 145706,
       "name": "You're Cute When You Scream",
       "url": "https://open.spotify.com/track/3Ch5YOx4qbMpmeYgurnBSd"
+    },
+    {
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145706,
+      "name": "You're Cute When You Scream",
+      "url": "https://open.spotify.com/track/5yPIfd3L1qNuruNs4BaQSI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31u6DZ"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-34 songs - 1 hr 47 min
+36 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,13 +24,15 @@
 | [Lonely](https://open.spotify.com/track/1DkdUiBSkgXCHBeR6YOt51) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [Lonely](https://open.spotify.com/album/4a5e8AREAH4gVfVTNrbgLE) | 2:38 | 2021-12-27 |  |
 | [Love Again](https://open.spotify.com/track/4zxcKfH4FcsMz3YitP2gG0) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:34 | 2021-12-27 |  |
 | [Lucid Dreams](https://open.spotify.com/track/3TxvjfiCEb27MXPXGAW8JZ) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:41 | 2021-12-27 |  |
-| [Medicine](https://open.spotify.com/track/5WPawmpYBLjBbUjXoixxdQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Medicine](https://open.spotify.com/album/3erdzTVQY3kQfUaP60GiYu) | 2:54 | 2021-12-27 |  |
+| [Medicine](https://open.spotify.com/track/0dg2Lzt2LdlD8ReTSI11se) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Medicine](https://open.spotify.com/album/4u5HvbM2akj3bhSuLKBVPp) | 2:54 | 2023-12-13 |  |
+| [Medicine](https://open.spotify.com/track/5WPawmpYBLjBbUjXoixxdQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Medicine](https://open.spotify.com/album/3erdzTVQY3kQfUaP60GiYu) | 2:54 | 2021-12-27 | 2023-12-14 |
 | [Morning mood](https://open.spotify.com/track/6afm7s2VOs2hX4WoFGym76) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:58 | 2021-12-27 |  |
 | [My Way \(feat\. Common, Lloyd & Kendrick Lamar\)](https://open.spotify.com/track/1MiOERiZEithQZt3SviVPl) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Quality Street Music](https://open.spotify.com/album/7dRun7qvnfPxrC41bgI0WH) | 3:38 | 2021-12-27 |  |
 | [NASA](https://open.spotify.com/track/4SPu0Ql902hTVXkBoNIYtq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 3:02 | 2021-12-27 |  |
 | [No Caption](https://open.spotify.com/track/0oxJLSSARMeex4ECEFa5jG) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [No Caption](https://open.spotify.com/album/79AFj3rfMfrKcXPaJVfUuE) | 2:26 | 2021-12-27 |  |
 | [One Time](https://open.spotify.com/track/4izDzEzyImtM7pnatHpj03) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [With Opened Eyes](https://open.spotify.com/album/5ECjc1swRz9eytd7z1TKkW) | 4:22 | 2021-12-27 |  |
-| [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/track/5wDeGgYjng63MbfVQyEt0O) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/album/7dQ80mhgZrxgzO0KdJkuBS) | 3:51 | 2022-11-05 |  |
+| [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/track/4A3ndoCydKhWbeny68qmNC) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/album/4l5OxJiSL2UXAvYjegmz4m) | 3:51 | 2023-12-13 |  |
+| [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/track/5wDeGgYjng63MbfVQyEt0O) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/album/7dQ80mhgZrxgzO0KdJkuBS) | 3:51 | 2022-11-05 | 2023-12-14 |
 | [Rent Free](https://open.spotify.com/track/1NKilzEyipTC34AHEMnKAl) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Rent Free / By Any Means](https://open.spotify.com/album/06nzu940k6jhkJ5TacM6y5) | 3:22 | 2022-09-03 | 2023-03-27 |
 | [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 | 2023-03-26 |  |
 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 | 2021-12-27 |  |
@@ -41,6 +43,6 @@
 | [Until I Met You \(feat\. Nas\)](https://open.spotify.com/track/5tvOLMuCEJqn97twRmMhW9) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:44 | 2021-12-27 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/2zBlJIbYVotuBXkLyM0dPw) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:17 | 2021-12-27 |  |
 | [Young And Free](https://open.spotify.com/track/4o7jNKOHdwtgdZAGby2TV2) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [Young And Free](https://open.spotify.com/album/2sIJD8kpK3RhvBKkMQLfKm) | 2:46 | 2021-12-27 |  |
-| [強迫症](https://open.spotify.com/track/5KQFnunZEKYmzBiHH7OZG6) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [Not Typical](https://open.spotify.com/album/7HjJPtOBqOYWWaQTb9D37x) | 3:14 | 2021-12-27 |  |
+| [強迫症](https://open.spotify.com/track/5KQFnunZEKYmzBiHH7OZG6) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [Not Typical](https://open.spotify.com/album/7HjJPtOBqOYWWaQTb9D37x) | 3:14 | 2021-12-27 | 2023-12-14 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

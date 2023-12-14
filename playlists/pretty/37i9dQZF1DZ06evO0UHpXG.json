@@ -1,34 +1,18 @@
 {
   "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
-  "num_followers": 180940,
+  "num_followers": 182658,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMjcwMTgsMDAwMDAwMDA2YmNhODgwNTgzOTY2NjdiNzliMTk2NzIwZjlkODI4ZA==",
+  "snapshot_id": "MjgzNzQ0ODUsMDAwMDAwMDAzZmEzMTA5NWFmODdhNDczZTM1Mjg1NjZjZWU4ZTcyNw==",
   "tracks": [
     {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Another Perfect Day (40th Anniversary)",
-        "url": "https://open.spotify.com/album/7lk5pKAAkajxNUzPylklZq"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Fast One - Demo",
-      "url": "https://open.spotify.com/track/5cnKHdAacW4NbCS5SmJSOB"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
       "artists": [
         {
@@ -36,12 +20,44 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 166360,
+      "duration_ms": 168320,
       "name": "Ace of Spades",
-      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
+      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "Kiss of Death",
+        "url": "https://open.spotify.com/album/3yaIGCUARNrRL6HXa0bioG"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 261186,
+      "name": "God Was Never on Your Side",
+      "url": "https://open.spotify.com/track/71LmwNWHchuDe1QwrEKsB1"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 313520,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Hellraiser (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3pn1WoMZ18F0Mn2qfWx4Cq"
@@ -65,39 +81,7 @@
       "url": "https://open.spotify.com/track/7iD5t0YgWvIIrvZtw6IIxQ"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Kiss of Death",
-        "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 261186,
-      "name": "God Was Never on Your Side",
-      "url": "https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Overkill (Expanded Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 311133,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Bad Magic",
         "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
@@ -113,10 +97,10 @@
       "url": "https://open.spotify.com/track/1n89RaAdJ19i3vZHwhcHVu"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Inferno",
-        "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
+        "url": "https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE"
       },
       "artists": [
         {
@@ -126,13 +110,13 @@
       ],
       "duration_ms": 183640,
       "name": "In the Name of Tragedy",
-      "url": "https://open.spotify.com/track/1DhCdQMyNLklKGxBheRFxL"
+      "url": "https://open.spotify.com/track/0jVKdXM4LQm94SP33rNbi9"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "No Remorse",
-        "url": "https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba"
+        "name": "All the Aces",
+        "url": "https://open.spotify.com/album/13NfYO9kPsulhr0QpklkHF"
       },
       "artists": [
         {
@@ -140,28 +124,12 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 279306,
+      "duration_ms": 278373,
       "name": "Killed by Death",
-      "url": "https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt"
+      "url": "https://open.spotify.com/track/2XvVueul226rT8g4DQuKSK"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "March Or Die",
-        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Hellraiser",
-      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Bastards",
         "url": "https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7"
@@ -177,7 +145,39 @@
       "url": "https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 275160,
+      "name": "Hellraiser",
+      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "Mot\u00f6rizer",
+        "url": "https://open.spotify.com/album/47eOItno8EgqlZlSNW54Ru"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 126733,
+      "name": "Rock Out",
+      "url": "https://open.spotify.com/track/2iZPbUUBaw4BrIUVsUOf1u"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Bad Magic",
         "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
@@ -209,23 +209,7 @@
       "url": "https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Mot\u00f6rizer",
-        "url": "https://open.spotify.com/album/35j1gGsSSnTWtOqnRI18hT"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 126733,
-      "name": "Rock Out",
-      "url": "https://open.spotify.com/track/4cEBku3RXce9XiDlNU6WaU"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "1916",
         "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
@@ -241,7 +225,7 @@
       "url": "https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Motorhead",
         "url": "https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe"
@@ -257,10 +241,10 @@
       "url": "https://open.spotify.com/track/2iZYdnXBFW4r54HhQKanlg"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Overkill (Expanded Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
       },
       "artists": [
         {
@@ -270,10 +254,10 @@
       ],
       "duration_ms": 182133,
       "name": "Damage Case",
-      "url": "https://open.spotify.com/track/5VtZWqbYE9vkVSbvqNmg2D"
+      "url": "https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Bad Magic",
         "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
@@ -289,7 +273,7 @@
       "url": "https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "1916",
         "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
@@ -305,10 +289,10 @@
       "url": "https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Rock N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C"
+        "url": "https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU"
       },
       "artists": [
         {
@@ -318,13 +302,13 @@
       ],
       "duration_ms": 227746,
       "name": "Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/2rl61dFTIVAiqa57zr2Ed3"
+      "url": "https://open.spotify.com/track/738MwM1wbo84IO5DaQma1e"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Overkill (Expanded Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+        "name": "Iron Fist",
+        "url": "https://open.spotify.com/album/728HEEgXa98wouqC8nOdQR"
       },
       "artists": [
         {
@@ -332,12 +316,12 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 164733,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/5R6OAv09z0kAV7Ll8olOH4"
+      "duration_ms": 171906,
+      "name": "Iron Fist",
+      "url": "https://open.spotify.com/track/5GLfSOVpSKwPBlqfjGqvfy"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Bad Magic",
         "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
@@ -353,7 +337,39 @@
       "url": "https://open.spotify.com/track/2CiA531WXraGbovitMCPM1"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/1HAdmhaL114vlPpdp58Ww3"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "Bomber",
+        "url": "https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Bomber",
+      "url": "https://open.spotify.com/track/5YxehSAZjBMcCIUlxGPit9"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "1916",
         "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
@@ -369,23 +385,7 @@
       "url": "https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "Whorehouse Blues",
-      "url": "https://open.spotify.com/track/6DzNf5yqXpAAtie15t3MVx"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
@@ -401,10 +401,10 @@
       "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Overkill (Expanded Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
       },
       "artists": [
         {
@@ -412,15 +412,15 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 158733,
+      "duration_ms": 158400,
       "name": "No Class",
-      "url": "https://open.spotify.com/track/7tcjO6ihGhcKi5mRu0jXZy"
+      "url": "https://open.spotify.com/track/2iBtKDOBYvIMcGvsbmyYn5"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Climber (Demo)",
-        "url": "https://open.spotify.com/album/2SY1gA9CauKUlABy2UjWGm"
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
       "artists": [
         {
@@ -428,15 +428,15 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 193294,
-      "name": "Climber - Demo",
-      "url": "https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow"
+      "duration_ms": 191066,
+      "name": "(We Are) The Roadcrew",
+      "url": "https://open.spotify.com/track/4n5OX6FX4jcyow16EP3LaL"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Bad Magic",
-        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE"
       },
       "artists": [
         {
@@ -444,12 +444,28 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 178200,
-      "name": "When The Sky Comes Looking For You",
-      "url": "https://open.spotify.com/track/7eQC1gaRWWK1bZI4i6ddne"
+      "duration_ms": 232653,
+      "name": "Whorehouse Blues",
+      "url": "https://open.spotify.com/track/29ppgTZrKMFw6bAZmGU4AW"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "We Are Mot\u00f6rhead",
+        "url": "https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "We Are Mot\u00f6rhead",
+      "url": "https://open.spotify.com/track/2G7ZL3xi1L9Jop31vXfqJu"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "March Or Die",
         "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
@@ -465,10 +481,10 @@
       "url": "https://open.spotify.com/track/4cmC2SW1RVZusILirCrsCs"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
       "artists": [
         {
@@ -476,12 +492,44 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 191066,
-      "name": "(We Are) The Roadcrew",
-      "url": "https://open.spotify.com/track/3AQmSnKePd4DOCxiQxADd8"
+      "duration_ms": 201680,
+      "name": "Love Me Like a Reptile",
+      "url": "https://open.spotify.com/track/6X072JM07roPKz9TJnYfWw"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Stay Clean",
+      "url": "https://open.spotify.com/track/7duLhTL7l71Vcp7IFUdhYd"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "Bad Magic",
+        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "When The Sky Comes Looking For You",
+      "url": "https://open.spotify.com/track/7eQC1gaRWWK1bZI4i6ddne"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "The World Is Yours",
         "url": "https://open.spotify.com/album/3w6OQUsrAPQsPUC1fBkdv6"
@@ -497,10 +545,10 @@
       "url": "https://open.spotify.com/track/0hubXoyvsuxkq3UA2tfSeG"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "We Are Mot\u00f6rhead",
-        "url": "https://open.spotify.com/album/2sqUz4v6XuHJL8k6R1WztI"
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
       "artists": [
         {
@@ -508,15 +556,15 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 141826,
-      "name": "We Are Mot\u00f6rhead",
-      "url": "https://open.spotify.com/track/29o3PAov4DX7xGSJT2tCdh"
+      "duration_ms": 158746,
+      "name": "Shoot You in the Back",
+      "url": "https://open.spotify.com/track/4JNkbfZvtzhySiNSPwiUgm"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Bomber (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F"
+        "name": "Orgasmatron",
+        "url": "https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI"
       },
       "artists": [
         {
@@ -524,15 +572,15 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 220160,
-      "name": "Bomber",
-      "url": "https://open.spotify.com/track/1I4el8B1ZZKF3OGzmXDH9T"
+      "duration_ms": 324506,
+      "name": "Orgasmatron",
+      "url": "https://open.spotify.com/track/3FXkhPqETD7nkZsr1Vr7qX"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Iron Fist (Expanded Edition)",
-        "url": "https://open.spotify.com/album/52mCdg2gKWlWbx0prHdejd"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE"
       },
       "artists": [
         {
@@ -540,12 +588,12 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Iron Fist",
-      "url": "https://open.spotify.com/track/15uss75SOwMaCQyBma5UlD"
+      "duration_ms": 164733,
+      "name": "Smiling Like a Killer",
+      "url": "https://open.spotify.com/track/0qLSsQuXKJtyksRccXkZSM"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Bastards",
         "url": "https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7"
@@ -561,26 +609,10 @@
       "url": "https://open.spotify.com/track/4tNx0zCy4Ujs7b5IufkjQb"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Enter Sandman EP",
-        "url": "https://open.spotify.com/album/66s72H4sebolFClzRV107Z"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 312066,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/5n9saQtKvEnGKfbGStiMNF"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
       "artists": [
         {
@@ -588,12 +620,12 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Love Me Like a Reptile",
-      "url": "https://open.spotify.com/track/5pHQZlekYdxTQExJWe1KSp"
+      "duration_ms": 256986,
+      "name": "The Chase Is Better Than the Catch",
+      "url": "https://open.spotify.com/track/16CovcwRSjvpz0I4ZFflUv"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
@@ -609,10 +641,26 @@
       "url": "https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "Enter Sandman EP",
+        "url": "https://open.spotify.com/album/6TSfhXrlydR29cJUEh1PyL"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 312066,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/1qCzMC5pDBqNp0IhpM63PL"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Overnight Sensation",
-        "url": "https://open.spotify.com/album/08NAL0fDCPpDNayW9jjzfB"
+        "url": "https://open.spotify.com/album/1JmTrg7IxFirYtV1S3yKSi"
       },
       "artists": [
         {
@@ -622,29 +670,13 @@
       ],
       "duration_ms": 391693,
       "name": "I Don't Believe a Word",
-      "url": "https://open.spotify.com/track/6k2FLvtZpCcv4uRh4CiBhL"
+      "url": "https://open.spotify.com/track/4oxS9mNh1GideHUkcEWFYC"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "Smiling Like a Killer",
-      "url": "https://open.spotify.com/track/2Iwy3PQDlKJ1XwyEoAPiDE"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
       "artists": [
         {
@@ -652,15 +684,15 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 255600,
-      "name": "The Chase Is Better Than the Catch",
-      "url": "https://open.spotify.com/track/1NoJzyzXzZWHGRVYxlM5u6"
+      "duration_ms": 201240,
+      "name": "Fast and Loose",
+      "url": "https://open.spotify.com/track/0lfddylH264Q3wDvHLddFW"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Greedy Bastards",
-        "url": "https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw"
+        "name": "Rock N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU"
       },
       "artists": [
         {
@@ -668,28 +700,12 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 252333,
-      "name": "Greedy Bastards",
-      "url": "https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg"
+      "duration_ms": 274440,
+      "name": "Eat the Rich",
+      "url": "https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Orgasmatron",
-        "url": "https://open.spotify.com/album/6jHRYw1JsUNParuSI9BtFX"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 323640,
-      "name": "Orgasmatron",
-      "url": "https://open.spotify.com/track/3RqNRquosVuv2C6AT6HLGT"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "March Or Die",
         "url": "https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e"
@@ -705,10 +721,10 @@
       "url": "https://open.spotify.com/track/2r4KEU4enoON5SiUCL4HLV"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Overkill (Expanded Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
       },
       "artists": [
         {
@@ -716,44 +732,12 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Stay Clean",
-      "url": "https://open.spotify.com/track/0vcccE7VjUlGjOcXYiWXgn"
+      "duration_ms": 199499,
+      "name": "God Save The Queen",
+      "url": "https://open.spotify.com/track/0ZuyXUQM2yAFIbmTOTXAbi"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Fast and Loose",
-      "url": "https://open.spotify.com/track/5rmrkIsEaff7cwtMNKNrMP"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Rock N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 274672,
-      "name": "Eat the Rich",
-      "url": "https://open.spotify.com/track/3XDkKF2P82Om5ZjAfxX2Y4"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "1916",
         "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
@@ -769,10 +753,10 @@
       "url": "https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "Another Perfect Day (40th Anniversary)",
-        "url": "https://open.spotify.com/album/7lk5pKAAkajxNUzPylklZq"
+        "name": "Greedy Bastards",
+        "url": "https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw"
       },
       "artists": [
         {
@@ -780,15 +764,31 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 235853,
-      "name": "Rock It - 40th Anniversary Master",
-      "url": "https://open.spotify.com/track/05vCecrK8rmXkVwSiO3Hyw"
+      "duration_ms": 252333,
+      "name": "Greedy Bastards",
+      "url": "https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
+      "album": {
+        "name": "Another Perfect Day (40th Anniversary)",
+        "url": "https://open.spotify.com/album/5AsFm6eJVG3335fYjuC5kM"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "Climber (Demo)",
+      "url": "https://open.spotify.com/track/65QBqRSfT0UH5YZPvJuNl7"
+    },
+    {
+      "added_at": "2023-12-13 12:05:41",
       "album": {
         "name": "The Very Best of Girlschool",
-        "url": "https://open.spotify.com/album/2KN9p0XSOmycyt4ZzMKJGB"
+        "url": "https://open.spotify.com/album/2CjpvOVU8ThxJM9ghDngID"
       },
       "artists": [
         {
@@ -802,13 +802,13 @@
       ],
       "duration_ms": 167226,
       "name": "Please Don't Touch (feat. Mot\u00f6rhead)",
-      "url": "https://open.spotify.com/track/2fZKtGjQ5vWLDWm6AhfvQ1"
+      "url": "https://open.spotify.com/track/6Ud2ag3Rxz2ak0KhLG3KXP"
     },
     {
-      "added_at": "2023-11-10 12:58:55",
+      "added_at": "2023-12-13 12:05:41",
       "album": {
-        "name": "One Track Mind (Live at Hull City Hall, 22/6/1983)",
-        "url": "https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ"
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
       },
       "artists": [
         {
@@ -816,25 +816,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 245266,
-      "name": "One Track Mind - Live at Hull City Hall, 22/6/1983",
-      "url": "https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu"
-    },
-    {
-      "added_at": "2023-11-10 12:58:55",
-      "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "The Hammer",
-      "url": "https://open.spotify.com/track/05pK81o3qm38lC1pzXS11K"
+      "duration_ms": 193666,
+      "name": "I'm so Bad (Baby I Don't Care)",
+      "url": "https://open.spotify.com/track/1ELzeo039sulsVsbs9eQZO"
     }
   ],
   "unique_name": "This Is Mot\u00f6rhead",

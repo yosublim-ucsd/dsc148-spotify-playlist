@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,666 likes - 400 songs - 1 day 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,672 likes - 400 songs - 1 day 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Liten Jazzballong Revisited](https://open.spotify.com/track/3Q8mDlDBHw5lPNvMcXgBoe) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Liten Jazzballong Revisited](https://open.spotify.com/album/5qIPdiTo9jJsd1Fl3VIO8d) | 6:11 |
 | 400 | [Reflections](https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Göran Strandberg](https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu), [Sebastian Voegler](https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB) | [Reflections](https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0) | 5:29 |
 
-Snapshot ID: `MCwwNWU5NGY2MGJkY2MwZDBiMzEwOTZhNzMzNWJlYmU0NmIxZmRjZTky`
+Snapshot ID: `MCw5MDExNzIwYTdhMjFhMGRiNDgzMmFjZTIxNmVlYmE5MGFmY2ZlOGRh`

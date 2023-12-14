@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "dk rap der holder det 100 lige nu \ud83d\udea8\n",
+  "description": "dk rap der holder det 100 / For Life: Jamaika \ud83d\udea8 \n",
   "name": "100 DK",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 115348,
       "name": "ANDERLEDES",
       "url": "https://open.spotify.com/track/4oo2AlvgGclgCfnsw7kVTw"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 146949,
       "name": "Baddies & Draris",
       "url": "https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 166808,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/1ic0b3srMKuadfg4z9TSLK"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 129229,
       "name": "CPH CITY",
       "url": "https://open.spotify.com/track/19x15dgq2VMEqb7tH5r4kO"
@@ -296,6 +296,24 @@
       "duration_ms": 161433,
       "name": "Danser Med D\u00e6moner",
       "url": "https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb"
+    },
+    {
+      "album": {
+        "name": "DDD",
+        "url": "https://open.spotify.com/album/4HA1eEPOoUAaAuh4p5mXOo"
+      },
+      "artists": [
+        {
+          "name": "DeDerDrenge",
+          "url": "https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159392,
+      "name": "DDD",
+      "url": "https://open.spotify.com/track/7mwvgI7B9Vr74nFxdjcDif"
     },
     {
       "album": {
@@ -484,7 +502,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 166025,
       "name": "Du Ikk' Alene",
       "url": "https://open.spotify.com/track/5nbIirRTI7rjHOKQRGy0kW"
@@ -590,7 +608,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 150859,
       "name": "Fast Life (feat. Gilli)",
       "url": "https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ"
@@ -703,6 +721,24 @@
     },
     {
       "album": {
+        "name": "GIVE IT 2 ME",
+        "url": "https://open.spotify.com/album/56UICC9UdmC7iMZsvKExBu"
+      },
+      "artists": [
+        {
+          "name": "GMG",
+          "url": "https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124722,
+      "name": "GIVE IT 2 ME",
+      "url": "https://open.spotify.com/track/7kOe99207cdyOlLHKy65SA"
+    },
+    {
+      "album": {
         "name": "Har Du Det S\u00e5dan Her? (feat. KESI)",
         "url": "https://open.spotify.com/album/3JG8CJrfWElU5fS5UPqzx0"
       },
@@ -788,7 +824,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 159359,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY"
@@ -832,6 +868,24 @@
       "duration_ms": 190000,
       "name": "Hverdagsting",
       "url": "https://open.spotify.com/track/1jfNg2O6NG0kqzKoVM6ZOi"
+    },
+    {
+      "album": {
+        "name": "H\u00f8jere",
+        "url": "https://open.spotify.com/album/7xtqMHOracguY7dbcQynRL"
+      },
+      "artists": [
+        {
+          "name": "Babyface Mo",
+          "url": "https://open.spotify.com/artist/4HLdhkirMBFxuir7hgDtmf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134025,
+      "name": "H\u00f8jere",
+      "url": "https://open.spotify.com/track/309pcsTV8a5NApBwPppZtx"
     },
     {
       "album": {
@@ -890,10 +944,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 142961,
       "name": "Igen (feat. MAS)",
       "url": "https://open.spotify.com/track/5iyWULPnXcozdzi9ODfVkL"
+    },
+    {
+      "album": {
+        "name": "IK FAKE L\u00c6NGERE",
+        "url": "https://open.spotify.com/album/6qqYkOgMSSAZd8AGO7J7ZI"
+      },
+      "artists": [
+        {
+          "name": "FABR\u00c4K",
+          "url": "https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158220,
+      "name": "IK FAKE L\u00c6NGERE",
+      "url": "https://open.spotify.com/track/0Q9d8VHYuO7SpKsOJg57z5"
     },
     {
       "album": {
@@ -952,7 +1024,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 162487,
       "name": "Jumeirah",
       "url": "https://open.spotify.com/track/38xttLsyfUwd284fbNjymm"
@@ -992,7 +1064,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 115458,
       "name": "Lean Back",
       "url": "https://open.spotify.com/track/3C5GTbN0DjMWqoW8MrfsaS"
@@ -1050,7 +1122,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 157477,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C"
@@ -1068,7 +1140,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 155547,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/0uUbeTMGlvqFWdtMuqLTEB"
@@ -1108,7 +1180,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 135317,
       "name": "MOULAGA",
       "url": "https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy"
@@ -1188,7 +1260,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 163482,
       "name": "Palermo (feat. KESI)",
       "url": "https://open.spotify.com/track/7a2ZJ7zftM3SkQ0sDvI4Aa"
@@ -1250,7 +1322,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 113192,
       "name": "Puto Criminel (feat. ZUUZ)",
       "url": "https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu"
@@ -1460,7 +1532,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 161841,
       "name": "Som Forleden",
       "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
@@ -1478,7 +1550,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 174000,
       "name": "Sp\u00e5kone",
       "url": "https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7"
@@ -1576,7 +1648,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 120382,
       "name": "Tar Dig Med",
       "url": "https://open.spotify.com/track/2oGIev7T7TQDqwDdt0d3or"
@@ -1656,7 +1728,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 130493,
       "name": "Tudo Bem (feat. Gilli)",
       "url": "https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID"
@@ -1693,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Uwawe",
+        "url": "https://open.spotify.com/album/2ZVe0lGPmsM1wRI0orXPXy"
+      },
+      "artists": [
+        {
+          "name": "DIBSET",
+          "url": "https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139708,
+      "name": "Uwawe",
+      "url": "https://open.spotify.com/track/3BzCCqPqIsheyW4DyLM1ut"
+    },
+    {
+      "album": {
         "name": "vi ku' blive",
         "url": "https://open.spotify.com/album/0vgn9MyoQ9YfNPHV3vAIc9"
       },
@@ -1712,6 +1802,24 @@
       "duration_ms": 207010,
       "name": "vi ku' blive",
       "url": "https://open.spotify.com/track/1B6jWZtTp6od8DQBQ9l8Ji"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Party",
+        "url": "https://open.spotify.com/album/0Ygeof958pxuFxmOptZlHX"
+      },
+      "artists": [
+        {
+          "name": "Mowgli",
+          "url": "https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155626,
+      "name": "Welcome To The Party",
+      "url": "https://open.spotify.com/track/4SzFMT8u6xd8PJy9e7MFUl"
     },
     {
       "album": {
@@ -1756,7 +1864,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 142148,
       "name": "Young Habibi (feat. Lamin)",
       "url": "https://open.spotify.com/track/1LzZuD8TsgFC8kG5DoocWb"

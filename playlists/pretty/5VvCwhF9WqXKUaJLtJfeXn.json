@@ -1,6 +1,6 @@
 {
   "description": "Taylor Gang top picks chosen by Spotify.",
-  "num_followers": 70,
+  "num_followers": 67,
   "original_name": "Taylor Gang Spotify Picks",
   "owner": {
     "name": "Spotify",
@@ -54,6 +54,10 @@
         {
           "name": "Wiz Khalifa",
           "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Courtney Noelle",
+          "url": "https://open.spotify.com/artist/3GDkfd4W2ucI99TJZOYkfe"
         }
       ],
       "duration_ms": 194280,

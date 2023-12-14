@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Maya Randle
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,139 likes - 150 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,142 likes - 150 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 31 | [idol](https://open.spotify.com/track/4cOq1Qx9d5Kxtjd3Tww47b) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Manic Pixie Dream Girl](https://open.spotify.com/album/2FIrS3aP6Fd1NeEDLf8QNi) | 2:17 |
 | 32 | [FUN](https://open.spotify.com/track/5mlVnK8RkGob2oiFPXf0Ky) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [FUN](https://open.spotify.com/album/2ZIsPbcWIz2dhi5YCTvTkv) | 1:49 |
 | 33 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
-| 34 | [stay\. x](https://open.spotify.com/track/7kXNol0cc3fAyNiYQBM5wY) | [Cell M8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [stay\. x](https://open.spotify.com/album/3uJrG3xIQLgmF1D7JjvJIn) | 4:46 |
+| 34 | [stay\. x](https://open.spotify.com/track/7kXNol0cc3fAyNiYQBM5wY) | [Cell m8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [stay\. x](https://open.spotify.com/album/3uJrG3xIQLgmF1D7JjvJIn) | 4:46 |
 | 35 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
 | 36 | [gimme gimme](https://open.spotify.com/track/0LWrBENo9TbgKc8hmIn1Ec) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [summer in the rain](https://open.spotify.com/album/5ZDHGnmqfZRdgsjDmw6xZz) | 2:38 |
 | 37 | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/track/19yCgFt2hIHCqLyfsAQPTA) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/album/6tDdVYFLF6PqcnkcLwKrQ0) | 3:26 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [This Feeling](https://open.spotify.com/track/6pOf6ARcTJJMcJzWJbitsj) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [LIMBO](https://open.spotify.com/album/4g1bzzlGodo2xL5xiAHOH0) | 2:37 |
 | 150 | [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 |
 
-Snapshot ID: `MCxmOGJmNDk0NWQ4OGUzMjlhNDM4MGU0NjQ1OTdhMTdkOGM0MWEwMDQ1`
+Snapshot ID: `MCxmMTRlYmRmZTUxMmViNDc5MzkxNTBlN2I0NzgwODM4NjFhMWQ4ZTBj`

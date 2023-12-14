@@ -276,6 +276,28 @@
     {
       "album": {
         "name": "The Spectrum",
+        "url": "https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V"
+      },
+      "artists": [
+        {
+          "name": "Daley",
+          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203693,
+      "name": "Careless (feat. CHIIILD)",
+      "url": "https://open.spotify.com/track/3VB6d1KOFGhSOMqbwveW1k"
+    },
+    {
+      "album": {
+        "name": "The Spectrum",
         "url": "https://open.spotify.com/album/27DemjtuFRsE68xR1AnIe5"
       },
       "artists": [
@@ -290,7 +312,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 203693,
       "name": "Careless (feat. Chiiild)",
       "url": "https://open.spotify.com/track/48uu14gBG62vUglGGsDAt5"
@@ -626,6 +648,24 @@
     {
       "album": {
         "name": "Unbound 02",
+        "url": "https://open.spotify.com/album/3ApKQgytJiUVlYSPwSqfOF"
+      },
+      "artists": [
+        {
+          "name": "Keshia Chant\u00e9",
+          "url": "https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194368,
+      "name": "Fuck It Tho",
+      "url": "https://open.spotify.com/track/10Jg6KU0rNPM6n4sS2BhpD"
+    },
+    {
+      "album": {
+        "name": "Unbound 02",
         "url": "https://open.spotify.com/album/7vjgXhtKKst7WM0YAvkll5"
       },
       "artists": [
@@ -636,7 +676,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 194373,
       "name": "Fuck It Tho",
       "url": "https://open.spotify.com/track/3P1LCtIyz5HH8ZmIv80qe3"
@@ -1196,10 +1236,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 236346,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/2AX0I1Oc4cx5tVYo7hUJcr"
+    },
+    {
+      "album": {
+        "name": "The Spectrum",
+        "url": "https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V"
+      },
+      "artists": [
+        {
+          "name": "Daley",
+          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236346,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/49AmjLr38cCCe8gqVGJ6YF"
     },
     {
       "album": {

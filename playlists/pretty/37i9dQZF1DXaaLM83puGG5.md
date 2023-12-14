@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with Free The Youth!
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,144 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,150 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 99 | [Sheik Money](https://open.spotify.com/track/2KhvyHI9cjxaaq1MHhkL1V) | [FLUXX](https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf), [TheBoyTapes](https://open.spotify.com/artist/6ul6rON4n7muiiM9rMnBP8), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [Sheik Money](https://open.spotify.com/album/1wiIdXJbKCBBHK6i3ce3Zh) | 6:10 |
 | 100 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 |
 
-Snapshot ID: `MCw5MWZiMjJjMWJiYTBlMTg5YzM1ZTQ1Y2I3Y2NiYzdjMzg0YTkwMmEx`
+Snapshot ID: `MCwwNDRmOGY3Y2QyMjc0OTU2N2NhODEwN2M4Y2U2OTY0NGZhNmQ3ZDZj`

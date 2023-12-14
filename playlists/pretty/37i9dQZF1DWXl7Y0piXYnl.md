@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,660 likes - 55 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,662 likes - 55 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 21 | [Seven \(Drumhell\)](https://open.spotify.com/track/4ekLUDFsOmaw90lAnRpaPJ) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Seven \(Drumhell\)](https://open.spotify.com/album/3mDw4ByMFjnhx8SYIV7EB2) | 3:32 |
 | 22 | [Arcade](https://open.spotify.com/track/1vw3ihJHOSzddo5oxpOu6x) | [Santiago Salazar](https://open.spotify.com/artist/6kwYw9GSb9LeXMHbSb7KtM) | [Arcade](https://open.spotify.com/album/1jjTZ9JF1gwA3HXM6S1TOz) | 6:19 |
 | 23 | [Shipwreck \- Radio Edit](https://open.spotify.com/track/5cwn7GaJS9K3I1yyCCkzp3) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Shipwreck](https://open.spotify.com/album/4GGv39HnGFG3wgRbcZqLWS) | 4:26 |
-| 24 | [Meaty Business](https://open.spotify.com/track/2ihI0zO9Az7YkiBOgkzcgV) | [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [EXIT100 Pt\. One](https://open.spotify.com/album/72AhZKCBepha0lIknDg5L9) | 3:20 |
+| 24 | [Meaty Business](https://open.spotify.com/track/2ihI0zO9Az7YkiBOgkzcgV) | [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [EXIT100, Pt\. One](https://open.spotify.com/album/72AhZKCBepha0lIknDg5L9) | 3:20 |
 | 25 | [10 Minutos](https://open.spotify.com/track/2Dwkj3gY7KrOOccbrzKHFg) | [Dj Narciso Rsproduções](https://open.spotify.com/artist/417ingGoxN169eXT6TPXg1) | [10 Minutos](https://open.spotify.com/album/40G5WtSQYbc5sLzPZQ5Rw8) | 10:06 |
 | 26 | [Viper Style](https://open.spotify.com/track/1i2LDAPk92RpqNpbf1SxYd) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Viper Style / Lana](https://open.spotify.com/album/7Ad97zEHtyN7GNLN9lGhGc) | 3:52 |
 | 27 | [Blouse N Skirt](https://open.spotify.com/track/5fpyo4ZtBEciPSffzcj9cl) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Blouse N Skirt](https://open.spotify.com/album/4FJ8x7o8GALXx28ZRtTyJl) | 3:29 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 54 | [Pic Of U](https://open.spotify.com/track/3UeFYO0RNiqPkje6IcueO7) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Pic Of U](https://open.spotify.com/album/6bcqYpFr49i5TsKEbewLIV) | 2:02 |
 | 55 | [Ax Mr\. L.](https://open.spotify.com/track/1IsTjsZ93VVERHRD5jl1fL) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Revep](https://open.spotify.com/album/0nWCa0VuF2knFYgWrqyQJt) | 4:18 |
 
-Snapshot ID: `MCxmMmYwYjkyZDkwNDk3ZTk3NWNlOGI5OTM5MjI0YjE5MGQzZjcyYmRk`
+Snapshot ID: `MCw4ODE2ODA3YWExYTExNWYyNjc0NGM3Y2EyOWE0N2IyZmE4MWVmY2Yw`

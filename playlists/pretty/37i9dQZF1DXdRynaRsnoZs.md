@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,952 likes - 65 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,591 likes - 65 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 10 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 |
 | 11 | [Where Are You Christmas](https://open.spotify.com/track/5PErjyynAj7MW07Rkyj4Rr) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [I Saw Three Ships](https://open.spotify.com/album/159FJPsslJcKtheKUuKVeP) | 3:50 |
 | 12 | [Greensleaves](https://open.spotify.com/track/6UDKYg6iEDCM0JGshKbAi5) | [The Harp Players](https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj) | [Classical Baby Harp](https://open.spotify.com/album/0SoCLTx3BVF2CddiM8Hr2H) | 1:33 |
-| 13 | [The Holly and the Ivy](https://open.spotify.com/track/2OSplb5nVkiivpWjjoSsuO) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [The Holly and the Ivy](https://open.spotify.com/album/2jpNCKfqEBi7eTSZODKfZo) | 2:46 |
-| 14 | [White Christmas \- Piano](https://open.spotify.com/track/608LZ7i8QlzDGm6PCzQpN7) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 3:27 |
-| 15 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/12m082qt1zlO0KybXIVgnu) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Christmas Time Is Here](https://open.spotify.com/album/6atF2Hn5oYHVxTQe0toTTf) | 1:19 |
-| 16 | [A Child Is Born](https://open.spotify.com/track/08Ro6cXojRdwIpXWgSLcHg) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [A Child Is Born](https://open.spotify.com/album/6dM8j77Mp1zqgv7IqwTWkH) | 1:39 |
+| 13 | [White Christmas \- Piano](https://open.spotify.com/track/608LZ7i8QlzDGm6PCzQpN7) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 3:27 |
+| 14 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/12m082qt1zlO0KybXIVgnu) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Christmas Time Is Here](https://open.spotify.com/album/6atF2Hn5oYHVxTQe0toTTf) | 1:19 |
+| 15 | [A Child Is Born](https://open.spotify.com/track/08Ro6cXojRdwIpXWgSLcHg) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [A Child Is Born](https://open.spotify.com/album/6dM8j77Mp1zqgv7IqwTWkH) | 1:39 |
+| 16 | [The Holly and the Ivy](https://open.spotify.com/track/2OSplb5nVkiivpWjjoSsuO) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [The Holly and the Ivy](https://open.spotify.com/album/2jpNCKfqEBi7eTSZODKfZo) | 2:46 |
 | 17 | [Away in a Manger](https://open.spotify.com/track/4oBbsBouyrXW33ZbGiPnlH) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/02EzVlaMiFQspWECiEBYLd) | 1:47 |
 | 18 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 |
 | 19 | [Do You Want To Build A Snowman?](https://open.spotify.com/track/2vwIMdSn7LSjFk5YleHKqF) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:08 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 64 | [Once in Royal David's City](https://open.spotify.com/track/0SCNnJ3DAYT3obCiGpEs5s) | [The Harpatons](https://open.spotify.com/artist/0PX2FmQQ5HuoI2uSsIhfKt) | [Once in Royal David's City](https://open.spotify.com/album/3uLkmeBBV0sDJVWt4TwyYo) | 2:04 |
 | 65 | [We Three Kings \(Instrumental\)](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
 
-Snapshot ID: `MCwwZTBkMjJiODA4YWNjYWUwNjk4NDYxYmY5OGFmN2M3OGQ5ZjM1ZmNj`
+Snapshot ID: `MCxmZGY1ZTI0ZGI5OTcwMDdlMGE3OWY5NjIzMDg5NzY3ZWUxN2Q0ZTU5`

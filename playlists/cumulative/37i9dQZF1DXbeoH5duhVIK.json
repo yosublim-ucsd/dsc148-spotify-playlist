@@ -1828,6 +1828,24 @@
     {
       "album": {
         "name": "Watch Me Go",
+        "url": "https://open.spotify.com/album/09xICBhnyvnVEYxxomnoHp"
+      },
+      "artists": [
+        {
+          "name": "Bad Owl",
+          "url": "https://open.spotify.com/artist/2yZIPlbvkiVdlG64ZkgL1N"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Watch Me Go",
+      "url": "https://open.spotify.com/track/1RpsKXkqxeqdELQCezI6ID"
+    },
+    {
+      "album": {
+        "name": "Watch Me Go",
         "url": "https://open.spotify.com/album/568l4SCltD5jJr0hpN6InX"
       },
       "artists": [
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 192000,
       "name": "Watch Me Go",
       "url": "https://open.spotify.com/track/7IxmHraGN8VOqFxYjpHr98"

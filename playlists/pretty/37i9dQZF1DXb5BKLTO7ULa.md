@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Mula B
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,686 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,687 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 69 | [Confesión](https://open.spotify.com/track/1PqnpdJoZWE3INJMzBGXlR) | [MAURINO](https://open.spotify.com/artist/7ub1AdmYtpkKtwwtFgBIWl), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Confesión](https://open.spotify.com/album/7iMuThPJ3HcETCq6KlrPXE) | 3:09 |
 | 70 | [shell in the well](https://open.spotify.com/track/3VriYbcGQORpxvd4nbJPeM) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [the grand scheme of things](https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe) | 3:12 |
 
-Snapshot ID: `MCxlYzEyYmM1ZDQ3ODdkMzU0ZDc3OGZkNWU4YTY5ZTU0Mjc5OGFmYTgw`
+Snapshot ID: `MCxkOGY3ODlhMDQ2MzYxYzNjMjczNTIyYjUxZDNiZGZkNjI4NzJhNTI2`

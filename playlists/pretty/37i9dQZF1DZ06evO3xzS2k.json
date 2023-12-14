@@ -1,35 +1,15 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 1985,
+  "num_followers": 2042,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMjcwMTgsMDAwMDAwMDA2OTQ2NjE3MzdiMTY0NjZjNzIzOGQyODg5MzAyMjE2ZQ==",
+  "snapshot_id": "MjgzNzQ0ODUsMDAwMDAwMDBjNWFkOGIxMWM4YmYwNzBjYTk4YWI4MjZkYWFhNmIyYg==",
   "tracks": [
     {
-      "added_at": "2023-11-10 12:58:47",
-      "album": {
-        "name": "Like Stars In The Firmament",
-        "url": "https://open.spotify.com/album/5AmHK2cvlnbjo6PaXCqqpU"
-      },
-      "artists": [
-        {
-          "name": "Full Of Hell",
-          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
-        },
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 324053,
-      "name": "Like Stars In The Firmament",
-      "url": "https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr"
-    },
-    {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Whirr & Nothing (Split Version)",
         "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
@@ -45,7 +25,27 @@
       "url": "https://open.spotify.com/track/0dy0SvYPjImJVQcF83pPQM"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 247746,
+      "name": "Forever Well",
+      "url": "https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Dance on the Blacktop",
         "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
@@ -93,10 +93,10 @@
       "url": "https://open.spotify.com/track/6U1BjvVwE9hDCasACGvguA"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
-        "name": "Spend The Grace",
-        "url": "https://open.spotify.com/album/5jLvPEJ0fENjxCQ41pq3ff"
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
       },
       "artists": [
         {
@@ -108,12 +108,12 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 347160,
-      "name": "Spend The Grace",
-      "url": "https://open.spotify.com/track/0oR8hCuNGBlHDY6bdiOVry"
+      "duration_ms": 324053,
+      "name": "Like Stars In The Firmament",
+      "url": "https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/72LCw6fk4YZL5cyoG1TOzU"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Dance on the Blacktop",
         "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
@@ -161,23 +161,27 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
-        "name": "Whirr & Nothing (Split Version)",
-        "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
       },
       "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
         {
           "name": "Nothing",
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 220245,
-      "name": "July the Fourth",
-      "url": "https://open.spotify.com/track/0iuZ2P8O28jnsdJvECL3Y9"
+      "duration_ms": 348493,
+      "name": "When No Birds Sang",
+      "url": "https://open.spotify.com/track/2y6SnKCdLqMycrUq0gJZ7f"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
@@ -193,10 +197,10 @@
       "url": "https://open.spotify.com/track/2hWnuDzcKznJvlCxuRgfaA"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Whirr & Nothing (Split Version)",
+        "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
       },
       "artists": [
         {
@@ -204,12 +208,12 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 255274,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/1TG4piLlwdCJOQWpsnpLWm"
+      "duration_ms": 220245,
+      "name": "July the Fourth",
+      "url": "https://open.spotify.com/track/0iuZ2P8O28jnsdJvECL3Y9"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Dance on the Blacktop",
         "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
@@ -225,23 +229,27 @@
       "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
-        "name": "Guilty of Everything",
-        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
       },
       "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
         {
           "name": "Nothing",
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 177216,
-      "name": "Bent Nail",
-      "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
+      "duration_ms": 272840,
+      "name": "Wild Blue",
+      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
@@ -257,39 +265,7 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
-      "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 260458,
-      "name": "April Ha Ha",
-      "url": "https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb"
-    },
-    {
-      "added_at": "2023-11-10 12:58:47",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Us/We/are",
-      "url": "https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9"
-    },
-    {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
@@ -300,12 +276,48 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 270565,
-      "name": "Somersault",
-      "url": "https://open.spotify.com/track/1X3RzfQtAcsj3K6QE9l9IO"
+      "duration_ms": 177216,
+      "name": "Bent Nail",
+      "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1TG4piLlwdCJOQWpsnpLWm"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 491133,
+      "name": "Rose Tinted World",
+      "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
@@ -321,39 +333,7 @@
       "url": "https://open.spotify.com/track/3wsglsWrkeITfIWmYpY0Ge"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
-      "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 247231,
-      "name": "Bernie Sanders",
-      "url": "https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0"
-    },
-    {
-      "added_at": "2023-11-10 12:58:47",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Plastic Migraine",
-      "url": "https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44"
-    },
-    {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
@@ -364,28 +344,12 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 281004,
-      "name": "Hymn to the Pillory",
-      "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
+      "duration_ms": 270565,
+      "name": "Somersault",
+      "url": "https://open.spotify.com/track/1X3RzfQtAcsj3K6QE9l9IO"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
-      "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Curse of the Sun",
-      "url": "https://open.spotify.com/track/75Dvic0pwX6eIrHZAcptoF"
-    },
-    {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
@@ -396,15 +360,35 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 318709,
-      "name": "In Blueberry Memories",
-      "url": "https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ"
+      "duration_ms": 260458,
+      "name": "April Ha Ha",
+      "url": "https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 347160,
+      "name": "Spend The Grace",
+      "url": "https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
       "artists": [
         {
@@ -412,12 +396,12 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 239920,
-      "name": "You Wind Me Up",
-      "url": "https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw"
+      "duration_ms": 300660,
+      "name": "Eaten by Worms",
+      "url": "https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
@@ -433,10 +417,10 @@
       "url": "https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
-        "name": "Spirit of the Stairs - B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
       "artists": [
         {
@@ -444,15 +428,15 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 220026,
-      "name": "Pattern After Us - DOTB B Side",
-      "url": "https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp"
+      "duration_ms": 247231,
+      "name": "Bernie Sanders",
+      "url": "https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
-        "name": "Downward Years to Come",
-        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
       "artists": [
         {
@@ -460,12 +444,28 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 158013,
-      "name": "The Dives (Lazarus in Ashes)",
-      "url": "https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD"
+      "duration_ms": 214613,
+      "name": "Us/We/are",
+      "url": "https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "Guilty Of Everything 10 Year B Sides",
+        "url": "https://open.spotify.com/album/55eNrnAl6w7sLhUE19xE56"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 278340,
+      "name": "Holocaust",
+      "url": "https://open.spotify.com/track/5GmSO2eJM2BBuYEmWao2Ta"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
@@ -476,15 +476,15 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 242759,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
+      "duration_ms": 281004,
+      "name": "Hymn to the Pillory",
+      "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
-        "name": "Spirit of the Stairs - B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
       "artists": [
         {
@@ -492,12 +492,28 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 199760,
-      "name": "The Mohegan - DOTB B Side",
-      "url": "https://open.spotify.com/track/7mlXr4SOCtD142pBgpVZzG"
+      "duration_ms": 318709,
+      "name": "In Blueberry Memories",
+      "url": "https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Plastic Migraine",
+      "url": "https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Downward Years to Come",
         "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
@@ -513,7 +529,71 @@
       "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 242759,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "Spirit of the Stairs - B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Pattern After Us - DOTB B Side",
+      "url": "https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 239920,
+      "name": "You Wind Me Up",
+      "url": "https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "The Dives (Lazarus in Ashes)",
+      "url": "https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD"
+    },
+    {
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
@@ -529,7 +609,7 @@
       "url": "https://open.spotify.com/track/0wrUMltYXH5OX82ylmEbD7"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Spirit of the Stairs - B-Sides & Rarities",
         "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
@@ -540,12 +620,12 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 248280,
-      "name": "Heavy Water / I'd Rather Be Sleeping - DOTB B Side",
-      "url": "https://open.spotify.com/track/79KTG4D0tqWjAAU0eFcLYY"
+      "duration_ms": 199760,
+      "name": "The Mohegan - DOTB B Side",
+      "url": "https://open.spotify.com/track/7mlXr4SOCtD142pBgpVZzG"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Downward Years to Come",
         "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
@@ -561,23 +641,7 @@
       "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
-      "album": {
-        "name": "Spirit of the Stairs - B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 186694,
-      "name": "Spell - TOT B Side",
-      "url": "https://open.spotify.com/track/1o7HsCCBFqZTcMFwKTw03X"
-    },
-    {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Downward Years to Come",
         "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
@@ -593,7 +657,7 @@
       "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
     },
     {
-      "added_at": "2023-11-10 12:58:47",
+      "added_at": "2023-12-13 12:05:20",
       "album": {
         "name": "Downward Years to Come",
         "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
@@ -607,22 +671,6 @@
       "duration_ms": 301240,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb"
-    },
-    {
-      "added_at": "2023-11-10 12:58:47",
-      "album": {
-        "name": "Downward Years to Come",
-        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 350292,
-      "name": "The Rites of Love and Death",
-      "url": "https://open.spotify.com/track/0AXEe3B8qM3ETJMPLHBPOn"
     }
   ],
   "unique_name": "This Is Nothing",

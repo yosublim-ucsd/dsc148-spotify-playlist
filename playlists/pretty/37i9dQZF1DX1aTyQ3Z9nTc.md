@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,198 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,199 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 99 | [Angel](https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB) | [Raquel](https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Angel](https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl) | 2:59 |
 | 100 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
 
-Snapshot ID: `MCw0MDhmNGVkN2M4ZDczMWViNTg5M2UxYWQ2NjRmZmNkMDdkMDQ0ZmU4`
+Snapshot ID: `MCxjYWI0MGRjMGQ1MzhhYjk0ZWEzODcxNWEzMGRlZTkzZWIyN2MzNThi`

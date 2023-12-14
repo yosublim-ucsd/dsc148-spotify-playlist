@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 243024,
       "name": "Always Say I Love You (At The End Of Your Goodbyes)",
       "url": "https://open.spotify.com/track/6ziHTglnnwomBLV8ZNEGRz"
@@ -284,6 +284,24 @@
       "duration_ms": 347840,
       "name": "Blame it On Me",
       "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
+    },
+    {
+      "album": {
+        "name": "Honeysuckle Switches: The Songs of Lucinda Williams",
+        "url": "https://open.spotify.com/album/1jUwbZwLVILK3ALGQev5ZG"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266760,
+      "name": "Born To Be Loved",
+      "url": "https://open.spotify.com/track/5fkfgB7MGOtX8A83SSXdB6"
     },
     {
       "album": {
@@ -446,6 +464,24 @@
       "duration_ms": 319306,
       "name": "Don't Bury Our Love",
       "url": "https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh"
+    },
+    {
+      "album": {
+        "name": "Don't Make Sense",
+        "url": "https://open.spotify.com/album/3pXvt9PNq59Rl7ZhHrLxOC"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lauren Callihan",
+          "url": "https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260394,
+      "name": "Don't Make Sense",
+      "url": "https://open.spotify.com/track/1PJiZjIcN08pjgJgKDHqUZ"
     },
     {
       "album": {
@@ -1286,7 +1322,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 207640,
       "name": "Love's Truly Blind",
       "url": "https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC"

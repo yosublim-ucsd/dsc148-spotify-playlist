@@ -1,15 +1,15 @@
 {
   "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Mc Morena",
-  "num_followers": 106752,
+  "num_followers": 107107,
   "original_name": "S\u00f3 as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTdkYmNlZTk2Njc2YTY1ODAyNjExNjE0MTJiMTRhNGJiODE1ODI5",
+  "snapshot_id": "MCw1NGYwY2VmZDFlOWY4MjFmNWNjOTI4OGNkMjQ3OWU0OTgzZDI4ZWQ0",
   "tracks": [
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Inimit\u00e1vel",
         "url": "https://open.spotify.com/album/4OuuNSNhugOcXfO6QAj6GL"
@@ -33,51 +33,7 @@
       "url": "https://open.spotify.com/track/65RGKMXWOHHTkOLKzeRE0D"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Joias Caras",
-        "url": "https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        },
-        {
-          "name": "Biazotto",
-          "url": "https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b"
-        }
-      ],
-      "duration_ms": 118032,
-      "name": "Joias Caras",
-      "url": "https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "HSEH",
         "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
@@ -101,7 +57,151 @@
       "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 133517,
+      "name": "Pensamentos Intrusivos",
+      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Joias Caras",
+        "url": "https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Biazotto",
+          "url": "https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b"
+        }
+      ],
+      "duration_ms": 118032,
+      "name": "Joias Caras",
+      "url": "https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Aquela",
+        "url": "https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        }
+      ],
+      "duration_ms": 121288,
+      "name": "Aquela",
+      "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
+        "url": "https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 112615,
+      "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
+      "url": "https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 158884,
+      "name": "+18",
+      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
@@ -121,7 +221,107 @@
       "url": "https://open.spotify.com/track/7vXn1gdgKiCHntX6GYFPJY"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Hater",
+        "url": "https://open.spotify.com/album/1T3ku3EPCv8Lwti5vyoxAy"
+      },
+      "artists": [
+        {
+          "name": "Killua",
+          "url": "https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/0Wa6kRj45gtvOzQSYWMGNw"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "CUSSY",
+        "url": "https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 180004,
+      "name": "CUSSY",
+      "url": "https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 144686,
+      "name": "Que Se V\u00e1",
+      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Desfecho",
+        "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "Desfecho",
+      "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "SP NIGHTS",
         "url": "https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb"
@@ -145,7 +345,7 @@
       "url": "https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "F\u00e9 nas Maluca",
         "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
@@ -165,7 +365,7 @@
       "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Hentai",
         "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
@@ -189,7 +389,7 @@
       "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "V\u00caNUS\u2260netuno",
         "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
@@ -209,7 +409,7 @@
       "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "IRREVERS\u00cdVEL",
         "url": "https://open.spotify.com/album/0WZzO4lMc7tz4KpMUKNpR9"
@@ -229,7 +429,7 @@
       "url": "https://open.spotify.com/track/2VNpMBY9uV6JlqEjMSUu0T"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Atlanta - Spotify Singles",
         "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
@@ -245,7 +445,7 @@
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Eu Sou Td Isso",
         "url": "https://open.spotify.com/album/3IvAvywtd0OJLI68jfnJAe"
@@ -265,7 +465,7 @@
       "url": "https://open.spotify.com/track/0JLjOHuitxMQXVnx993aMH"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Anjos E Ancestrais",
         "url": "https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz"
@@ -305,23 +505,7 @@
       "url": "https://open.spotify.com/track/125ytOCb7oOEy9KAyDqXYD"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Aquela",
-        "url": "https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs"
-      },
-      "artists": [
-        {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
-        }
-      ],
-      "duration_ms": 121288,
-      "name": "Aquela",
-      "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
@@ -345,7 +529,7 @@
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Levado - Spotify Singles",
         "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
@@ -369,7 +553,7 @@
       "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
@@ -389,27 +573,7 @@
       "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
-        "url": "https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 112615,
-      "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
-      "url": "https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
@@ -425,7 +589,7 @@
       "url": "https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "F\u00f4lego",
         "url": "https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s"
@@ -445,27 +609,7 @@
       "url": "https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Hater",
-        "url": "https://open.spotify.com/album/1T3ku3EPCv8Lwti5vyoxAy"
-      },
-      "artists": [
-        {
-          "name": "Killua",
-          "url": "https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo"
-        },
-        {
-          "name": "Langris",
-          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Hater",
-      "url": "https://open.spotify.com/track/0Wa6kRj45gtvOzQSYWMGNw"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "QUEEN",
         "url": "https://open.spotify.com/album/7qeWEAZSxFvAkW2IaMOrQV"
@@ -485,7 +629,7 @@
       "url": "https://open.spotify.com/track/6jAKucqBZTsUImOlZQvBnS"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Feat Saci #12",
         "url": "https://open.spotify.com/album/26T75gINhFqs4PtKnNYIk0"
@@ -505,7 +649,7 @@
       "url": "https://open.spotify.com/track/5i8uaqyosYWLvTyNp1NWct"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Leoa",
         "url": "https://open.spotify.com/album/5LpK6S7hgWW8l1orZtASoE"
@@ -529,7 +673,7 @@
       "url": "https://open.spotify.com/track/21wVBDCyZqturea0eQt2Mh"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "GROUPIES",
         "url": "https://open.spotify.com/album/3e0u0TUdHfcvJPotNBP1r1"
@@ -549,7 +693,7 @@
       "url": "https://open.spotify.com/track/5yB3lKEERZ1u7ag44te5bi"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "A Tran\u00e7a",
         "url": "https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb"
@@ -573,27 +717,7 @@
       "url": "https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "CUSSY",
-        "url": "https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3s de Pau",
-          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 180004,
-      "name": "CUSSY",
-      "url": "https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Favela Drill",
         "url": "https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ"
@@ -617,63 +741,7 @@
       "url": "https://open.spotify.com/track/0JsoISSv40wbMuKXkbkz57"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Convite",
-        "url": "https://open.spotify.com/album/3uZEP1QczVD3Y1Gr0oXVve"
-      },
-      "artists": [
-        {
-          "name": "Zaila",
-          "url": "https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj"
-        },
-        {
-          "name": "b o u t",
-          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Convite",
-      "url": "https://open.spotify.com/track/4H58IijX8unIgtCPRJquad"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 144686,
-      "name": "Que Se V\u00e1",
-      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh"
-      },
-      "artists": [
-        {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/47CHenMbZPUpsD7mEBl0uw"
@@ -697,23 +765,7 @@
       "url": "https://open.spotify.com/track/7Ic1gXHYOwfAPDpYQIYvef"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Sugar Mama",
-        "url": "https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu"
-      },
-      "artists": [
-        {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
-        }
-      ],
-      "duration_ms": 78281,
-      "name": "Sugar Mama",
-      "url": "https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Tira Uma Foto",
         "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
@@ -733,7 +785,7 @@
       "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Ampulheta",
         "url": "https://open.spotify.com/album/59rPrkTt8G1ffLlaMl49qN"
@@ -757,7 +809,7 @@
       "url": "https://open.spotify.com/track/4JDFZho5o7NiDmN3u8AwBR"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Borboleta",
         "url": "https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8"
@@ -773,7 +825,7 @@
       "url": "https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Sem Medo",
         "url": "https://open.spotify.com/album/7ArlUfHABsExfPlONAztaB"
@@ -793,31 +845,7 @@
       "url": "https://open.spotify.com/track/0oVkrusu3IE56ZxkIrUo1s"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Desfecho",
-        "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 142941,
-      "name": "Desfecho",
-      "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/1Ow2JpwAA6icfnxI0wDyL4"
@@ -841,7 +869,7 @@
       "url": "https://open.spotify.com/track/7uzPBNHwKHKA690w4W10cN"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Chapolin",
         "url": "https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA"
@@ -861,7 +889,7 @@
       "url": "https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Desamor",
         "url": "https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr"
@@ -881,7 +909,7 @@
       "url": "https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Filhas do Improv\u00e1vel",
         "url": "https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1"
@@ -905,7 +933,7 @@
       "url": "https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "DE CRIA PRA CRIA",
         "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
@@ -925,7 +953,7 @@
       "url": "https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Tukikis",
         "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
@@ -945,27 +973,7 @@
       "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Meia Nove",
-        "url": "https://open.spotify.com/album/052UliwFtnf0RkIqDBDNGp"
-      },
-      "artists": [
-        {
-          "name": "Karla Eduarda",
-          "url": "https://open.spotify.com/artist/3aOHEK1FMbgwRTTab4ZvNu"
-        },
-        {
-          "name": "Xavier2bit",
-          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
-        }
-      ],
-      "duration_ms": 212857,
-      "name": "Meia Nove",
-      "url": "https://open.spotify.com/track/2Acp2ceOl3UEtdOqbZhR4M"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "O Corre",
         "url": "https://open.spotify.com/album/0VH0MFtMzmo4VtlhgOWl58"
@@ -981,7 +989,7 @@
       "url": "https://open.spotify.com/track/7z0eBvO3NlS8u1zPraGWrI"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Autentik",
         "url": "https://open.spotify.com/album/6u3TylmFcGwrf1Hh67X1e8"
@@ -1005,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0iakCJvnYl4a4O8OlZmIzH"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Era Final",
         "url": "https://open.spotify.com/album/5CSLeYNdPXUCBBBUzRoDpy"
@@ -1025,7 +1033,7 @@
       "url": "https://open.spotify.com/track/74i1NNwzsVYNwqXraf5s1N"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "BRAZA",
         "url": "https://open.spotify.com/album/0hNutyZHAMMxDZqTskpIOZ"
@@ -1045,7 +1053,7 @@
       "url": "https://open.spotify.com/track/7oRU2MX5XxLVe53Zh5uZN5"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Baby Encaixa",
         "url": "https://open.spotify.com/album/0yr8pzDUuuK3l1K045jiJ2"
@@ -1065,7 +1073,7 @@
       "url": "https://open.spotify.com/track/73W5TnbTGT3mTqplHwrHdY"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Tron",
         "url": "https://open.spotify.com/album/7mk2g6xbRbTy1nt8DAItea"
@@ -1089,7 +1097,7 @@
       "url": "https://open.spotify.com/track/7ysqztAgIpzfdkxGbJVma2"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Cofre",
         "url": "https://open.spotify.com/album/1zeiWi4ap2VXX9ldNQXxCK"
@@ -1109,7 +1117,7 @@
       "url": "https://open.spotify.com/track/4Ob435otPVxJEvhYVDyaxW"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Qual Teu Pre\u00e7o",
         "url": "https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK"
@@ -1129,7 +1137,7 @@
       "url": "https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "A Firma \u00e9 Forte",
         "url": "https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk"
@@ -1153,7 +1161,7 @@
       "url": "https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Making Luv",
         "url": "https://open.spotify.com/album/7eh0moIuvRGns9Hc12ZYj0"
@@ -1173,7 +1181,7 @@
       "url": "https://open.spotify.com/track/4S8rwnVkJ3P8LgmKavFS9C"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Garota California",
         "url": "https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk"
@@ -1193,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Futuro II Dia",
         "url": "https://open.spotify.com/album/6ZIGGpDGt3wkgHtEgmBE1a"
@@ -1217,7 +1225,7 @@
       "url": "https://open.spotify.com/track/5sYtsBdGz8TeFYxERi2QTe"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Pra Te Envolver",
         "url": "https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1"
@@ -1237,7 +1245,7 @@
       "url": "https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Mal Acostumada",
         "url": "https://open.spotify.com/album/4Lm5ooJw6TpZ9869LKEi9W"
@@ -1253,7 +1261,7 @@
       "url": "https://open.spotify.com/track/3bSWIdrVx3NYHW0jpsG7ib"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Brincando com Fogo",
         "url": "https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk"
@@ -1269,7 +1277,7 @@
       "url": "https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Sinto Te Dizer",
         "url": "https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V"
@@ -1285,7 +1293,7 @@
       "url": "https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "First",
         "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
@@ -1301,7 +1309,7 @@
       "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Baby Hair",
         "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
@@ -1325,7 +1333,7 @@
       "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM"
@@ -1349,7 +1357,7 @@
       "url": "https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn"
@@ -1365,7 +1373,7 @@
       "url": "https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Territ\u00f3rio Latino",
         "url": "https://open.spotify.com/album/5TQSuXBvBN0oHJYppBeKIH"
@@ -1389,7 +1397,7 @@
       "url": "https://open.spotify.com/track/4j4e7eyjnr8o7rbNnSSvpU"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "DO LADO DE FLORA",
         "url": "https://open.spotify.com/album/4GWoodiAMapPzgitxYvygx"
@@ -1405,7 +1413,7 @@
       "url": "https://open.spotify.com/track/1L5Y2IEkzzKHY5IpONH3po"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Poder",
         "url": "https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd"
@@ -1425,7 +1433,7 @@
       "url": "https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Perfil #86 - Mpif",
         "url": "https://open.spotify.com/album/5xy7S2y8QkzH5Zq8mBFVUI"
@@ -1449,7 +1457,7 @@
       "url": "https://open.spotify.com/track/2wp6XCZIzphvjYvwngYfAJ"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "geada",
         "url": "https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5"
@@ -1465,7 +1473,7 @@
       "url": "https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
@@ -1485,7 +1493,7 @@
       "url": "https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "N\u00e3o \u00e9 S\u00f3 Isso",
         "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
@@ -1505,7 +1513,7 @@
       "url": "https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "BNTA",
         "url": "https://open.spotify.com/album/1EnyVlubYvfVsiMVEHN4VQ"
@@ -1521,7 +1529,7 @@
       "url": "https://open.spotify.com/track/3PTpIE4GrelEc4iS0qV2Jo"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "LoveSong",
         "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
@@ -1537,7 +1545,7 @@
       "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
-      "added_at": "2023-11-17 03:01:00",
+      "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Para pra Pensar",
         "url": "https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV"

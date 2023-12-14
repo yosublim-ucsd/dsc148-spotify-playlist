@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 210679,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
@@ -3278,7 +3278,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 180923,
       "name": "SEE YOU TRY...",
       "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
@@ -3554,6 +3554,24 @@
       "duration_ms": 249640,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/1XTD8Q3s4tEfUWkkRSwVwy"
+    },
+    {
+      "album": {
+        "name": "Something In The Air",
+        "url": "https://open.spotify.com/album/0RGou0LZUtmH1aPoZgUPkA"
+      },
+      "artists": [
+        {
+          "name": "Powloh",
+          "url": "https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249767,
+      "name": "Something In The Air",
+      "url": "https://open.spotify.com/track/2yWcxvTuEoMnSeeylrDKse"
     },
     {
       "album": {

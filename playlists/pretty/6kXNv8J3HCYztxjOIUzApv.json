@@ -1,13 +1,101 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 59435,
+  "num_followers": 59635,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MjAzMSwyYmIxNmY1MWU5MTU5ZTUyZDIyZTdiMGExMTk2NTYyZDE3ZTNlYTRj",
+  "snapshot_id": "MjA4MSw5YTRhN2JhMzhiOGNmMTdiYjU5MjRiYjBmYTM3OTNlNWI0N2I2MjUw",
   "tracks": [
+    {
+      "added_at": "2023-11-17 17:41:17",
+      "album": {
+        "name": "Burn MF (feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 217847,
+      "name": "Burn MF (feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu"
+    },
+    {
+      "added_at": "2023-11-17 17:41:28",
+      "album": {
+        "name": "I'm Unbreakable",
+        "url": "https://open.spotify.com/album/0YpvCnmxxccjQXFiZ0rQj0"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        }
+      ],
+      "duration_ms": 217942,
+      "name": "I'm Unbreakable",
+      "url": "https://open.spotify.com/track/14fJqWbXOkfRz0uyqZ2uT0"
+    },
+    {
+      "added_at": "2023-09-29 15:16:20",
+      "album": {
+        "name": "Die About It",
+        "url": "https://open.spotify.com/album/2u93feIOoA8lB3MahFuxr3"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 211153,
+      "name": "Die About It",
+      "url": "https://open.spotify.com/track/1ieoDxFtEJjYoLskQTHF7s"
+    },
+    {
+      "added_at": "2023-10-13 14:03:11",
+      "album": {
+        "name": "Sounds From Beyond The Abyss (Vol. 1)",
+        "url": "https://open.spotify.com/album/3MBwzr71e3WZL0gCa5wt5v"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "duration_ms": 215176,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6ga5MQ9qQUlwOJpVIYFqft"
+    },
+    {
+      "added_at": "2023-10-06 10:59:29",
+      "album": {
+        "name": "The Boom Went The Boom (feat. Phil Collen)",
+        "url": "https://open.spotify.com/album/5V36Ru7RN4gc8bAWEnKODF"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        },
+        {
+          "name": "Phil Collen",
+          "url": "https://open.spotify.com/artist/5ZedcFUHfB6ejLwD668YpN"
+        }
+      ],
+      "duration_ms": 219541,
+      "name": "The Boom Went The Boom (feat. Phil Collen)",
+      "url": "https://open.spotify.com/track/5kC045Ohl32Sn4a2vOjsUt"
+    },
     {
       "added_at": "2023-08-25 17:51:15",
       "album": {
@@ -41,6 +129,62 @@
       "url": "https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy"
     },
     {
+      "added_at": "2023-09-22 04:39:44",
+      "album": {
+        "name": "Love, Drugs & Misery (Deluxe)",
+        "url": "https://open.spotify.com/album/5kEvgtnNQ2KtGBIa91NCTO"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 190841,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/6sVfpovShmOm7JD1Mt55ES"
+    },
+    {
+      "added_at": "2023-09-22 04:36:56",
+      "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/4hZRZ9Mwu9NAIeB73uI2JT"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "duration_ms": 248340,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7aSFYakNWB9xQGDEZtoBDH"
+    },
+    {
+      "added_at": "2023-09-15 13:51:31",
+      "album": {
+        "name": "Bound For Glory",
+        "url": "https://open.spotify.com/album/1jxZ7qtv7zCiNq66ISEyje"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        },
+        {
+          "name": "Markus Vides\u00e4ter",
+          "url": "https://open.spotify.com/artist/0cADysfVZiggDl1JoWJarv"
+        }
+      ],
+      "duration_ms": 161201,
+      "name": "Bound For Glory (feat. Markus Vides\u00e4ter of Solence)",
+      "url": "https://open.spotify.com/track/5qPvBmcIscVajn1Fh3QXhO"
+    },
+    {
       "added_at": "2023-08-25 17:51:25",
       "album": {
         "name": "Where Do We Go From Here?",
@@ -55,6 +199,22 @@
       "duration_ms": 224852,
       "name": "Let The Dead Take Me",
       "url": "https://open.spotify.com/track/2VG8O5SMVY2pndesJGCVub"
+    },
+    {
+      "added_at": "2023-07-14 14:45:47",
+      "album": {
+        "name": "Woo Hah!! Got You All in Check",
+        "url": "https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 237629,
+      "name": "Woo Hah!! Got You All in Check",
+      "url": "https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS"
     },
     {
       "added_at": "2023-07-28 15:39:38",
@@ -89,6 +249,26 @@
       "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
     },
     {
+      "added_at": "2023-08-04 17:59:57",
+      "album": {
+        "name": "Unstoppable (feat. Cory Marks)",
+        "url": "https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "duration_ms": 186462,
+      "name": "Unstoppable (feat. Cory Marks)",
+      "url": "https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze"
+    },
+    {
       "added_at": "2023-07-28 15:42:32",
       "album": {
         "name": "Blackout",
@@ -105,6 +285,34 @@
       "url": "https://open.spotify.com/track/1zTRJMLEQP1fJfmzsLMWDu"
     },
     {
+      "added_at": "2023-05-05 17:49:04",
+      "album": {
+        "name": "Head Under Water (feat. REDDSTAR and Dan Sugarman of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/113A6sipFzXOxFf7TUztoN"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "REDDSTAR",
+          "url": "https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Dan Sugarman",
+          "url": "https://open.spotify.com/artist/33tcoGD8qMbSSRzi2LREmz"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Head Under Water (feat. REDDSTAR and Dan Sugarman of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/3wpyvgFi5zjTUbIVZS1NPr"
+    },
+    {
       "added_at": "2023-07-21 16:15:19",
       "album": {
         "name": "Bad Friend",
@@ -119,6 +327,26 @@
       "duration_ms": 211363,
       "name": "Bad Friend",
       "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 165238,
+      "name": "Blow (feat. Spencer Charnas of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/2shOJCdayjTPwCTS8l6OW7"
     },
     {
       "added_at": "2023-07-28 15:50:00",
@@ -153,24 +381,20 @@
       "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
     },
     {
-      "added_at": "2023-08-04 17:59:57",
+      "added_at": "2023-06-09 14:54:16",
       "album": {
-        "name": "Unstoppable (feat. Cory Marks)",
-        "url": "https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp"
+        "name": "Sho Nuff",
+        "url": "https://open.spotify.com/album/1Z3quKqTMrx6ikqCh95CJv"
       },
       "artists": [
         {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        },
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
         }
       ],
-      "duration_ms": 186462,
-      "name": "Unstoppable (feat. Cory Marks)",
-      "url": "https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze"
+      "duration_ms": 150772,
+      "name": "Sho Nuff",
+      "url": "https://open.spotify.com/track/0NXYWH1TDjaNyetFaYDsDy"
     },
     {
       "added_at": "2023-05-19 15:14:47",
@@ -281,22 +505,6 @@
       "url": "https://open.spotify.com/track/10ASBwZsp7oUUDsJEYz3uS"
     },
     {
-      "added_at": "2023-07-14 14:45:47",
-      "album": {
-        "name": "Woo Hah!! Got You All in Check",
-        "url": "https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 237629,
-      "name": "Woo Hah!! Got You All in Check",
-      "url": "https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS"
-    },
-    {
       "added_at": "2023-04-03 10:41:16",
       "album": {
         "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
@@ -339,6 +547,30 @@
       "duration_ms": 192176,
       "name": "Misery",
       "url": "https://open.spotify.com/track/2SVbjw7sdiNjAvGpQ4eEai"
+    },
+    {
+      "added_at": "2023-09-06 15:11:09",
+      "album": {
+        "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
+        "url": "https://open.spotify.com/album/4SuFcZyW8cZ5owF1mj5KmC"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        },
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 205731,
+      "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
+      "url": "https://open.spotify.com/track/60873rJNFVxsGUrvVQenhS"
     },
     {
       "added_at": "2023-06-16 10:33:10",
@@ -441,22 +673,6 @@
       "url": "https://open.spotify.com/track/6Aslruh5oCnzDKWTALrHOZ"
     },
     {
-      "added_at": "2023-06-09 14:54:16",
-      "album": {
-        "name": "Sho Nuff",
-        "url": "https://open.spotify.com/album/1Z3quKqTMrx6ikqCh95CJv"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 150772,
-      "name": "Sho Nuff",
-      "url": "https://open.spotify.com/track/0NXYWH1TDjaNyetFaYDsDy"
-    },
-    {
       "added_at": "2023-07-25 17:44:58",
       "album": {
         "name": "Hail to the King",
@@ -503,6 +719,22 @@
       "duration_ms": 336112,
       "name": "Diamond Eyes (Boom-Lay Boom-Lay Boom)",
       "url": "https://open.spotify.com/track/1PLMK1ui86iHHG3FM1N7ue"
+    },
+    {
+      "added_at": "2023-09-06 15:15:47",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Engel",
+      "url": "https://open.spotify.com/track/0xQZkTxb49QpopIZQhKJUY"
     },
     {
       "added_at": "2023-04-14 15:22:14",
@@ -703,34 +935,6 @@
       "duration_ms": 193840,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
-    },
-    {
-      "added_at": "2023-05-05 17:49:04",
-      "album": {
-        "name": "Head Under Water (feat. REDDSTAR and Dan Sugarman of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/113A6sipFzXOxFf7TUztoN"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        },
-        {
-          "name": "REDDSTAR",
-          "url": "https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "Dan Sugarman",
-          "url": "https://open.spotify.com/artist/33tcoGD8qMbSSRzi2LREmz"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Head Under Water (feat. REDDSTAR and Dan Sugarman of Ice Nine Kills)",
-      "url": "https://open.spotify.com/track/3wpyvgFi5zjTUbIVZS1NPr"
     },
     {
       "added_at": "2022-06-10 10:45:36",
@@ -989,26 +1193,6 @@
       "url": "https://open.spotify.com/track/0tDP41DuqqoBv9MNcHdoHW"
     },
     {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 165238,
-      "name": "Blow (feat. Spencer Charnas of Ice Nine Kills)",
-      "url": "https://open.spotify.com/track/2shOJCdayjTPwCTS8l6OW7"
-    },
-    {
       "added_at": "2023-01-03 15:49:28",
       "album": {
         "name": "The End, So Far",
@@ -1090,6 +1274,10 @@
         {
           "name": "In Flames",
           "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
         }
       ],
       "duration_ms": 175200,
@@ -2105,22 +2293,6 @@
       "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
     },
     {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/1iR5LjosPKur3wa6eVTREC"
-      },
-      "artists": [
-        {
-          "name": "HELLYEAH",
-          "url": "https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "333",
-      "url": "https://open.spotify.com/track/69RTYXKyRkS9j3yk6Q872M"
-    },
-    {
       "added_at": "2022-01-24 14:50:46",
       "album": {
         "name": "The Silver Scream",
@@ -2279,22 +2451,6 @@
       "duration_ms": 249087,
       "name": "Blind",
       "url": "https://open.spotify.com/track/6IlCkH8LtFOMuuORRXMbZE"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Made An America",
-        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 171809,
-      "name": "Walking In My Shoes",
-      "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -2713,6 +2869,26 @@
       "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
     },
     {
+      "added_at": "2023-09-06 15:51:32",
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 256801,
+      "name": "Three Days in Jail (feat. Hyro The Hero)",
+      "url": "https://open.spotify.com/track/0etu6hbTlQPHDZBVqRrjJh"
+    },
+    {
       "added_at": "2023-01-03 16:14:37",
       "album": {
         "name": "Hurricane",
@@ -2823,6 +2999,38 @@
       "duration_ms": 229978,
       "name": "Generation Psycho",
       "url": "https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx"
+    },
+    {
+      "added_at": "2023-09-06 15:55:44",
+      "album": {
+        "name": "Mer De Noms",
+        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Judith",
+      "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X"
+    },
+    {
+      "added_at": "2023-11-03 14:51:26",
+      "album": {
+        "name": "Die About It",
+        "url": "https://open.spotify.com/album/7vL9sQj9AGhuBRHn969A9X"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 179045,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH"
     }
   ],
   "unique_name": "Hard Rock Workout",

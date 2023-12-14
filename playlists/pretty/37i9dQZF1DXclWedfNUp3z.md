@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,811 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,816 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Unmo](https://open.spotify.com/track/5EnSB1D05EPzOtKq9DIvZ8) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Unmo](https://open.spotify.com/album/0JjXqs8cr8ovqSUQIPOYBo) | 2:13 |
 | 100 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 |
 
-Snapshot ID: `MCxkMWVhNDg0ZWE0ZjlmZWQxZTVlNTNlYzIzNWE1ZTgyMjY4MzRhYWUz`
+Snapshot ID: `MCw3ZTNjYmViMmZmMjM4NWRmNmExOTViNzNjNzYzZDRkYzNmNmU1MTBm`

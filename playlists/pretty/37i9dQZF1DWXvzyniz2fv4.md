@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,379 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,383 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Mortadela](https://open.spotify.com/track/19JeRq3JBuKRQ3tb07YFQB) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Tio Phil](https://open.spotify.com/artist/1ysE9rRhvtrmrFlrjwgthR), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [Dj Batata](https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au) | [Mortadela](https://open.spotify.com/album/0lDpbbMN5rHK3Fi69wv74t) | 2:42 |
 | 75 | [Te Ver De Novo](https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny) | [Te Ver De Novo](https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI) | 2:48 |
 
-Snapshot ID: `MCw2ZDQ0NjA0OWFmYTEyZWZlOWQ0ODJjYWIwNGJmMTc2Y2ZjN2MxZjVm`
+Snapshot ID: `MCxkYWM1NDZjYjVhMmNlZmU5MDRhZWNlNjAyZDQ5YjQ4M2EyZGRmYmVm`

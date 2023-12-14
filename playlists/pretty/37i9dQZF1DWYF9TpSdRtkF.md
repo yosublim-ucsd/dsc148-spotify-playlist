@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Super Duper](https://open.spotify.com/track/6VCr0QWwUDSl958XU8Q43r) | [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [横山奈緒 \(CV.渡部優衣\)](https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED) | [THE IDOLM@STER MILLION THE@TER WAVE 07 Jus\-2\-Mint](https://open.spotify.com/album/7mihuPl9XKNe5EbrWmf9Gs) | 4:10 |
 | 75 | [月曜日のクリームソーダ](https://open.spotify.com/track/2uAc97qOSX92zqmO2RZozX) | [Roco \(CV: Atsuki Nakamura\)](https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh), [舞浜 歩 \(CV.戸田めぐみ\)](https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF), [永吉 昴 \(CV.斉藤佑圭\)](https://open.spotify.com/artist/12BeMVM21khHV571rElt0X), [Momoko Suou \(CV: Keiko Watanabe\)](https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr) | [THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans](https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ) | 4:21 |
 
-Snapshot ID: `MCw5MWI2OTIyMmY3YWIyMTVjNTZmYmYxZDUyNTcxNTU1Y2Q0MmIxNTRh`
+Snapshot ID: `MCwxYTY4NmIwZmQ1ZjFmOTY4ZWUzMWVhZDQ3NzNhY2VlMGM0MTY2MzNh`

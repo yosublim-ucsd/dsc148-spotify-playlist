@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,516 likes - 125 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,523 likes - 125 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 124 | [I Don't Know Why](https://open.spotify.com/track/4s4tbZEEwajYebvutrSmcm) | [Andrea Pozza Trio](https://open.spotify.com/artist/5RMeOpbbCUeFI72QOUO4Bh), [Mila Ogliastro](https://open.spotify.com/artist/6Rsg9ZGqFqpNm7JtDgv4N4) | [Blue Toy](https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe) | 3:31 |
 | 125 | [Let's Make Believe](https://open.spotify.com/track/0Bfod0RloRfwS3gPx2UAAk) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN), [Deborah J\. Carter](https://open.spotify.com/artist/2NEVFoeoJx9W4p1Ubqxd0I) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:46 |
 
-Snapshot ID: `MCxhOGExOGQ5NGJhNWFhMDQzNWUyMzYwY2FhMzBlMzlmZWFkZmNjZTc3`
+Snapshot ID: `MCxiZTRjYjRkNjg1ZjhlNjBiMjMyODJmYzMwMmM5NzMzZmQzYzc5YTRi`

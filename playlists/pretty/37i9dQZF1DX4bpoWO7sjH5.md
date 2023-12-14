@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,891 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,896 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [Oh Pueblecito de Belén](https://open.spotify.com/track/2GP30FqtFIXURVGj0T4GXk) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/6o0ntlD4u83NeaMhLqisNP) | 3:07 |
 | 100 | [¡Oíd los Ángeles Cantar!](https://open.spotify.com/track/07r3ztPMRvbNo51joKEwpx) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [¡Oíd los Ángeles Cantar!](https://open.spotify.com/album/2vpjGb6ayY5c9i3UbTaSO1) | 4:13 |
 
-Snapshot ID: `MCw4YmFmYTYwNDJhODdiYTJhYzdkNWJkMjk1NTUyMTMwNjI3Zjk2YjA0`
+Snapshot ID: `MCwxM2Q1ZWVkNDY2MDNlODkyZmZiZGE5NGMzNGYyODIxYTZiOTk0YmRh`

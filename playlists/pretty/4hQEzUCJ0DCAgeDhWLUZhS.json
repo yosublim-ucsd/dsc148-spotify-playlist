@@ -1,13 +1,61 @@
 {
-  "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: All Time Low",
-  "num_followers": 1631,
+  "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Green Day",
+  "num_followers": 1622,
   "original_name": "Plugged In",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTczNSxiMjdlOTcyZGUxMmQ5YzMyNDM5NTYwNWRjNjczYzNhNzRkMmRmYmM4",
+  "snapshot_id": "MTc1MCxlM2EwODYwYWMzYmYxNjFkZTUzYWNlYWJlNGY2YWQ2YTdkYjQyZWE1",
   "tracks": [
+    {
+      "added_at": "2023-11-03 00:11:01",
+      "album": {
+        "name": "Look Ma, No Brains!",
+        "url": "https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 123541,
+      "name": "Look Ma, No Brains!",
+      "url": "https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK"
+    },
+    {
+      "added_at": "2023-10-06 05:00:49",
+      "album": {
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
+    },
+    {
+      "added_at": "2023-11-03 00:13:30",
+      "album": {
+        "name": "The Matrix",
+        "url": "https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 201722,
+      "name": "The Matrix",
+      "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
+    },
     {
       "added_at": "2023-09-15 01:52:35",
       "album": {
@@ -29,6 +77,74 @@
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
+      "added_at": "2023-10-12 23:50:03",
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/3zrk39UHnfEr8PYZarjWMp"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 159187,
+      "name": "SNEAKING OUT OF HEAVEN",
+      "url": "https://open.spotify.com/track/73nzSeXp43EsCJnehTvCbs"
+    },
+    {
+      "added_at": "2023-10-12 23:51:02",
+      "album": {
+        "name": "Goodnight, God Bless, I Love U, Delete.",
+        "url": "https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Big Youth (feat. El-P)",
+      "url": "https://open.spotify.com/track/7FssY58XwtD4CRhOT9N8Md"
+    },
+    {
+      "added_at": "2023-10-13 00:07:42",
+      "album": {
+        "name": "TK421",
+        "url": "https://open.spotify.com/album/7IncAEknANwQthqiwWySBP"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO"
+    },
+    {
+      "added_at": "2023-10-06 04:41:47",
+      "album": {
+        "name": "i don\u2019t sleep as good as i used to",
+        "url": "https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "i don\u2019t sleep as good as i used to",
+      "url": "https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX"
+    },
+    {
       "added_at": "2023-09-01 04:25:56",
       "album": {
         "name": "Back To The Water Below",
@@ -45,6 +161,66 @@
       "url": "https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9"
     },
     {
+      "added_at": "2023-10-20 03:32:36",
+      "album": {
+        "name": "Already Over (Live in Sydney)",
+        "url": "https://open.spotify.com/album/31MHUBN5g1csQzAsROe9SH"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 161449,
+      "name": "Already Over (Live in Sydney) [feat. Stand Atlantic, Between You & Me, & Polaris]",
+      "url": "https://open.spotify.com/track/6oCR6j4z7LVhPCxQ1hntnl"
+    },
+    {
+      "added_at": "2023-10-27 03:07:55",
+      "album": {
+        "name": "The American Dream Is Killing Me",
+        "url": "https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 186270,
+      "name": "The American Dream Is Killing Me",
+      "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
+    },
+    {
+      "added_at": "2023-09-29 06:54:31",
+      "album": {
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9"
+    },
+    {
       "added_at": "2023-09-15 01:54:51",
       "album": {
         "name": "To My Heart",
@@ -56,9 +232,25 @@
           "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
         }
       ],
-      "duration_ms": 186295,
+      "duration_ms": 185754,
       "name": "To My Heart",
       "url": "https://open.spotify.com/track/5lB3jWo6QMwVaLlcxqNEdb"
+    },
+    {
+      "added_at": "2023-10-27 03:25:26",
+      "album": {
+        "name": "Who's Gonna Hear Their Wish?",
+        "url": "https://open.spotify.com/album/0NzKtF2UU3ZKSKVjo2BBIN"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 176982,
+      "name": "Who's Gonna Hear Their Wish?",
+      "url": "https://open.spotify.com/track/3cPvg1NeyIqm92pSGA8TZp"
     },
     {
       "added_at": "2023-09-13 00:47:35",
@@ -2493,7 +2685,7 @@
         }
       ],
       "duration_ms": 245320,
-      "name": "Ready For The High",
+      "name": "Ready For the High",
       "url": "https://open.spotify.com/track/4Md0lS45w5oNNmWL8OS3AV"
     },
     {
@@ -3324,7 +3516,7 @@
       },
       "artists": [
         {
-          "name": "jxdn",
+          "name": "Jaden Hossler",
           "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         },
         {
@@ -3440,7 +3632,7 @@
       },
       "artists": [
         {
-          "name": "jxdn",
+          "name": "Jaden Hossler",
           "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
@@ -3527,6 +3719,26 @@
       "duration_ms": 161253,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
+    },
+    {
+      "added_at": "2023-12-01 02:26:38",
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/4HWScXOs4y1fUrwGzrlgzg"
+      },
+      "artists": [
+        {
+          "name": "Matilda Pearl",
+          "url": "https://open.spotify.com/artist/4UwWCi0aYGKsyVgCKf20tw"
+        },
+        {
+          "name": "Hey! Astro",
+          "url": "https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/6Fu8XQBoFjNP4zcoYMAOcF"
     }
   ],
   "unique_name": "Plugged In",

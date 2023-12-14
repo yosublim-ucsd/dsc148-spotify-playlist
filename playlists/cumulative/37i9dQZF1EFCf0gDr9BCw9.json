@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "The Private Collection, Vol. 4: Studio Sessions New York 1963",
+        "url": "https://open.spotify.com/album/5pyw7AuWKPPAZ4Y4OU4SZM"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145933,
+      "name": "Elysee",
+      "url": "https://open.spotify.com/track/33lviUYxL1teikwgjjBtkM"
+    },
+    {
+      "album": {
         "name": "The Private Collection",
         "url": "https://open.spotify.com/album/66Oost5ckDJDeVddVnAmcR"
       },
@@ -878,7 +896,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 146506,
       "name": "Elysee",
       "url": "https://open.spotify.com/track/05Phfs2CroaIG0SBzv7tCU"
@@ -1088,6 +1106,24 @@
     {
       "album": {
         "name": "Devil May Care",
+        "url": "https://open.spotify.com/album/7dZ56h74DtqqliVi8I8zpA"
+      },
+      "artists": [
+        {
+          "name": "Bob Dorough",
+          "url": "https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "I Don't Mind (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/3gugvstMwcUIvducPkcAQJ"
+    },
+    {
+      "album": {
+        "name": "Devil May Care",
         "url": "https://open.spotify.com/album/2O30JvLNM3CMExr1IHmtql"
       },
       "artists": [
@@ -1098,7 +1134,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 175733,
       "name": "I Don't Mind - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/0GTMhiWe40NyyUvVn3HPDn"
@@ -1269,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Breakfast Dance",
+        "url": "https://open.spotify.com/album/1kTsLf63qRz5wdDH8G3Lwx"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington Orchestra",
+          "url": "https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215453,
+      "name": "Just A-Settin' and A-Rockin'",
+      "url": "https://open.spotify.com/track/5jIeCSEggQhrx7GslAmUlr"
+    },
+    {
+      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
       },
@@ -1316,7 +1370,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 213426,
       "name": "Just a-Sittin' and a-Rockin' - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/39bwdNXbaKHak6EvzqUqNZ"
@@ -1602,8 +1656,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 1294466,
-      "name": "Medley: Toot Suite (feat. Britt Woodman, feat. Britt Woodman, Jimmy Hamilton, Shorty Baker, Russell Procope, Quentin Jackson & Paul Gonsalves, feat. Jimmy Hamilton & Shorty Baker, feat. Paul Gonsalves, feat. Russell Proscope & Quentin Jackson)",
+      "name": "Medley: Toot Suite (feat. Britt Woodman, Russell Procope, Jimmy Hamilton, Shorty Baker, Paul Gonsalves, Russell Proscope & Quentin Jackson)",
       "url": "https://open.spotify.com/track/6lVEpRlUShV1oev5QSe7v7"
+    },
+    {
+      "album": {
+        "name": "BD Music & Cabu Present Duke Ellington at the Piano",
+        "url": "https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289133,
+      "name": "Metronome All Out",
+      "url": "https://open.spotify.com/track/06XAOVGxCJ8H8eZTPie4cH"
     },
     {
       "album": {
@@ -1618,7 +1690,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 298173,
       "name": "Metronome All Out",
       "url": "https://open.spotify.com/track/6es9cgKzxIgzzZl1MkAm0C"
@@ -2642,10 +2714,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 177666,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/0H9a4zpizfYCJfSGZF0a0G"
+    },
+    {
+      "album": {
+        "name": "The Private Collection, Vol. 3: Studio Sessions New York, 1962",
+        "url": "https://open.spotify.com/album/1QDl5p8iwOIpyqllm73bC2"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/5TeZCLMIwQahKBJaxCfV3k"
     },
     {
       "album": {
@@ -2819,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Oscar Peterson Trio Play the Songbook Hits",
+        "url": "https://open.spotify.com/album/3QrFGR5cNt3ZTsELSDnLy9"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595200,
+      "name": "This Can't Be Love",
+      "url": "https://open.spotify.com/track/3xkzu0STqniWfJqEvXXRkk"
+    },
+    {
+      "album": {
         "name": "Genius of Jazz - Ben Webster, Vol. 2",
         "url": "https://open.spotify.com/album/69614zCrwPL3L9z4waAjkV"
       },
@@ -2830,7 +2938,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 590579,
       "name": "This Can't Be Love - Digitally Remastered",
       "url": "https://open.spotify.com/track/4emff6nFLGl610Bt6j3Sz6"

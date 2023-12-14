@@ -398,7 +398,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250800,
-      "name": "Es Demasiado Tarde - Remasterizado",
+      "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
     },
     {
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 251066,
       "name": "Lo S\u00e9",
       "url": "https://open.spotify.com/track/0Hck3EapnJ8Zcot91KM2XH"
@@ -1164,6 +1164,28 @@
       "duration_ms": 224653,
       "name": "Y Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
+    },
+    {
+      "album": {
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "Yo Te Perdono",
+      "url": "https://open.spotify.com/track/4Q7BUP4smQmQV6gSDOcMjW"
     },
     {
       "album": {

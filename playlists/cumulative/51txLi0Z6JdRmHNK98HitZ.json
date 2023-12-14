@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-11-03",
-  "description": "Here is a playlist of all our songs released so far. Our new single 'Highlands' is out now!",
+  "description": "A playlist of all our songs released so far. Our new album Faith Crisis Pt 1 is out February 16! <a href=\"https://www.instagram.com/middlekidsmusic/\">Instagram</a>, <a href=\"https://www.tiktok.com/@middlekids.music\">TikTok</a> &amp; <a href=\"https://www.facebook.com/middlekidsmusic\">Facebook</a>",
   "name": "Middle Kids - Complete Collection",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 219509,
       "name": "Beliefs & Prayers",
       "url": "https://open.spotify.com/track/5IZ9guGLjZAsBmpIfhPhlV"
+    },
+    {
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/5mCgcfrf4MYYZBPUWW2z3n"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230217,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/1fbPnleK6PXE6hCRTtOJyw"
     },
     {
       "album": {
@@ -203,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Dramamine",
+        "url": "https://open.spotify.com/album/6dUKX72wa2AEqAAb7psXIs"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/0z0xgpdkvzjJdylAlILbzE"
+    },
+    {
+      "album": {
         "name": "Drivers License (triple j Like a Version)",
         "url": "https://open.spotify.com/album/7lEp6IiYhA8Z63g8Cl7Rr8"
       },
@@ -218,6 +254,24 @@
       "duration_ms": 206124,
       "name": "Drivers License - triple j Like a Version",
       "url": "https://open.spotify.com/track/79z8mIUDwNYffZv2qy6Icj"
+    },
+    {
+      "album": {
+        "name": "Driving Home For Christmas",
+        "url": "https://open.spotify.com/album/3dmFw9Zq6zpD3vLDCS0K6b"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169663,
+      "name": "Driving Home For Christmas",
+      "url": "https://open.spotify.com/track/0925QFUNbnMnKAxJYvrA1g"
     },
     {
       "album": {

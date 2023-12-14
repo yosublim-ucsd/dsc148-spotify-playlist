@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,182 likes - 150 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,212 likes - 150 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [Solace and Serenity](https://open.spotify.com/track/6wvQHYHz8bqkIDSSE23eyM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [Slow Decay](https://open.spotify.com/album/1kHaQkPY41hT6N6espwLdn) | 4:37 |
 | 150 | [From Nothing](https://open.spotify.com/track/5OejDZoN7KYcDUZhj9gxNL) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [From Nothing](https://open.spotify.com/album/04W2vQDW2m6KlJ0oFgudUz) | 3:51 |
 
-Snapshot ID: `MCwyNjVlNjZlYzI4OGJhZjhiNGUwZmYyMmVjYjI4ODgxN2Q4NmFiYzBk`
+Snapshot ID: `MCw3NDg1ZjY3NGFmZWYyYjk0NzdiNDMyY2U4NzcwODMzMGQwOWFlZmNi`

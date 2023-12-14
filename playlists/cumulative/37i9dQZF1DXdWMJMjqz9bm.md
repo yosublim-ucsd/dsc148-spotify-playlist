@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Connor Price & Nic D
 
-596 songs - 1 day 3 hr 18 min
+600 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Bongo](https://open.spotify.com/track/42cYy1Sr8JfdgqJITI91aL) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Bongo](https://open.spotify.com/album/1vhhvaZbVUwTa8YjqAJZMm) | 2:20 | 2021-11-16 | 2022-02-26 |
 | [Boom \(feat\. JID\)](https://open.spotify.com/track/512YmmPt5AELP0TLAdzSUW) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Pink Is Better](https://open.spotify.com/album/4Y17kPa7ZinOjwfpy6TW7A) | 2:34 | 2022-01-14 | 2022-05-20 |
 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 | 2022-03-18 | 2022-07-07 |
+| [BOTH SIDES](https://open.spotify.com/track/1nW48slY18GMDKsZeS1tqE) | [Suaz](https://open.spotify.com/artist/51LP5ppbOHBGUZJbba3w8J) | [BOTH SIDES](https://open.spotify.com/album/6mJfGd5umocmLBNKK6qjnz) | 1:46 | 2023-12-01 |  |
 | [Bottles N' Coliseums](https://open.spotify.com/track/6hka6lkWeJAoPIO03c7W6f) | [Shumaq](https://open.spotify.com/artist/6s2kMNqPUgJBgFvufMHAao) | [Bottles N' Coliseums](https://open.spotify.com/album/2F7O485NubU2UBAZwX4R3w) | 2:00 | 2023-06-16 |  |
 | [Break](https://open.spotify.com/track/0Qih8wH7Smf780cwH2Pqxk) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Break](https://open.spotify.com/album/2P40voWuU97H7NJGckbEOF) | 2:45 | 2021-11-16 | 2022-02-19 |
 | [Break from Toronto](https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 1:39 | 2022-04-04 | 2022-05-20 |
@@ -401,6 +402,8 @@
 | [OVER AGAIN](https://open.spotify.com/track/3EWOqfBTQyh8CujYZ7ePHL) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [OVER AGAIN](https://open.spotify.com/album/6k8DYfBzV2K8cozvyPzHmw) | 2:30 | 2023-07-07 |  |
 | [Over Love](https://open.spotify.com/track/2wYiT4R6LsAkeqxUUFpsnJ) | [Jay Kayze](https://open.spotify.com/artist/4QRKefL0nuGK0Wwou56ltj) | [Over Love](https://open.spotify.com/album/5lQ2Vn4iAM2NbNaaQW8AIU) | 1:22 | 2023-04-07 | 2023-06-17 |
 | [Overload](https://open.spotify.com/track/7whMMKkkkjeUccbHbxBWgq) | [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Overload](https://open.spotify.com/album/1a7uRpQ7lL4Bj1U0jtmzn0) | 2:53 | 2021-11-16 | 2022-02-26 |
+| [Overnight](https://open.spotify.com/track/5AxhA8xrGrHFqUjIVbrDk0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Overnight](https://open.spotify.com/album/3qGZswU9EIOUzL9nRaONit) | 2:10 | 2023-12-01 |  |
+| [parachute](https://open.spotify.com/track/0mgAY5KtzQbG8BOIo8Kag4) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [parachute](https://open.spotify.com/album/07KH3Fjsp0soupFKOhd025) | 2:55 | 2023-12-01 |  |
 | [PAY ATTENTION](https://open.spotify.com/track/7h74fcrF3X8tHrATyM4Wx3) | [Luken](https://open.spotify.com/artist/5My5zbBpSGJBOQGyCaAVCE) | [PAY ATTENTION](https://open.spotify.com/album/3Jt0ysuRqkGLqZ94NUv9iO) | 2:07 | 2022-08-05 | 2022-10-15 |
 | [PDA](https://open.spotify.com/track/36NqiAgn72InTKB3TRPbhB) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [PDA](https://open.spotify.com/album/1euweddL5gMCa2war37gph) | 2:23 | 2023-07-14 |  |
 | [Peanut Butter Cherry](https://open.spotify.com/track/76QHEenc8e1T3vydKzdg46) | [Alec King](https://open.spotify.com/artist/1WcUEKDht7lhgklZZJrzNg) | [Peanut Butter Cherry](https://open.spotify.com/album/1FYRShkevWA1VVx5b0ipjF) | 2:56 | 2022-05-20 | 2022-07-13 |
@@ -465,6 +468,7 @@
 | [Shalotto](https://open.spotify.com/track/0bPl4vRtF2gJlIUQ6revK1) | [Josue Janv'ier](https://open.spotify.com/artist/4xSGCBuWuAg2sZPLC02j9U), [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [Shalotto](https://open.spotify.com/album/7hPxFQOn0hi6a1E3EoU433) | 2:40 | 2022-07-01 | 2022-07-13 |
 | [Shania Twain](https://open.spotify.com/track/7EwTWFcQCOfXGyu5suJOXC) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Shania Twain](https://open.spotify.com/album/16QW96rEtlT2Z4ecuDGA9Q) | 2:32 | 2021-12-03 | 2022-02-26 |
 | [She Loves Me Not](https://open.spotify.com/track/5OGs76lkPNEcoSgoj3gUFK) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [She Loves Me Not](https://open.spotify.com/album/7FcTfHu4oJn91APGixkK4o) | 3:30 | 2022-11-25 | 2023-04-09 |
+| [she's wild'](https://open.spotify.com/track/6qdwAVEI7Uo5xLj7XH3yd5) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [she's wild'](https://open.spotify.com/album/4C9KqRDbBuRxXApiIXBtNM) | 2:34 | 2023-12-01 |  |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-07-12 | 2023-09-09 |
 | [Singin in the Shower](https://open.spotify.com/track/3VBLOSjxwxpr5pp6vpd95q) | [Jae Zole](https://open.spotify.com/artist/5EEohu8udCMKstAlCYm3Xa) | [Singin in the Shower](https://open.spotify.com/album/0fArp40eDK8mUK8p7YMuoF) | 2:32 | 2023-03-24 | 2023-06-17 |
 | [Ski Trip](https://open.spotify.com/track/66uplMFfrTOXEg7yIaclTk) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Ski Trip](https://open.spotify.com/album/5kgvLzREOpVSYSG86kauFk) | 2:46 | 2023-01-06 | 2023-07-08 |

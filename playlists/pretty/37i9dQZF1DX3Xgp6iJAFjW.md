@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,006 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,007 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 |
 | 100 | [El Aguinaldo de Doña Elena](https://open.spotify.com/track/3rQIGx2oxTI9DUFHTjRGTG) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Navidad a Mi Estilo](https://open.spotify.com/album/1VUH7FLhnfscPhy36p8m8H) | 4:14 |
 
-Snapshot ID: `MCw3OTExMmExZDlmNzEyZWExNjFlMDFiYzQwNWY0M2M0NTE5ZDUzZWU5`
+Snapshot ID: `MCw2ZDQ0OTc3YzVkNGYzMWJlNTM0MWFlODk3N2Y5ZmFjMDcwYWVjNDdi`

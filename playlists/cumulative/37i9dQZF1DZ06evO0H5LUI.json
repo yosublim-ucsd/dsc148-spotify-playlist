@@ -325,6 +325,28 @@
     },
     {
       "album": {
+        "name": "El Mejor Amigo",
+        "url": "https://open.spotify.com/album/5qOUTOwLXAm1y3WvzePHZW"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210474,
+      "name": "El Mejor Amigo",
+      "url": "https://open.spotify.com/track/0xRVhzvHkRBXbp25NRDotY"
+    },
+    {
+      "album": {
         "name": "Top Regional Mexicano",
         "url": "https://open.spotify.com/album/1c21iJdesNfqCJsXkztpyF"
       },
@@ -528,7 +550,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 131590,
       "name": "Gotea",
       "url": "https://open.spotify.com/track/4micjsZed6ExjkCd6SzaQL"
@@ -901,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Que Lo Cura",
+        "url": "https://open.spotify.com/album/62bcFkIA81hnoWDo9nhYxQ"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "Que Lo Cura",
+      "url": "https://open.spotify.com/track/36mtuYkGjzPaFlKFzDfnga"
+    },
+    {
+      "album": {
         "name": "Quisiste Dejar",
         "url": "https://open.spotify.com/album/404pbH9cpCtJSTzTScPFCQ"
       },
@@ -1008,7 +1048,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 179154,
       "name": "Todo Pasa",
       "url": "https://open.spotify.com/track/5dysG1GlvAU2GndJU7O9Wb"

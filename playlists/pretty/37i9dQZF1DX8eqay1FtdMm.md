@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: BMK\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,089 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,093 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [Solo Christmas](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Solo Christmas](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) | 3:36 |
 | 100 | [After this night](https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4) | 4:16 |
 
-Snapshot ID: `MCw3NzgyNjg3NDRiM2MxOWE1MDNkNWFhNTQwNzYzYzQxZTU2NzNlMjIy`
+Snapshot ID: `MCwzMWVkZTMwMWNhODQ5M2JiMmFlMWM4MWQ4NTIxMmNhZTMwMTI2NTNi`

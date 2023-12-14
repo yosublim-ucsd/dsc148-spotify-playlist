@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,087 likes - 130 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,091 likes - 130 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [Lord You Have My Heart \(feat\. Martin Smith\)](https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Martin Smith](https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz) | [Lord You Have My Heart \(feat\. Martin Smith\)](https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS) | 4:27 |
 | 130 | [All I Need](https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [All I Need](https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl) | 4:45 |
 
-Snapshot ID: `MCw3Mzk2MGEwZmM4YWMwN2FlMjJiYmQxM2VlMTk2OGMyNWRlNDJiYzFi`
+Snapshot ID: `MCw1OWFhODAxYTJkNWNmOTI3NmIyZDYwNTA0M2ViYjFkN2MyYWMzZWVm`

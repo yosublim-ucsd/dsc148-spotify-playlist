@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QdE6NL2et72DXAMZ7GEoe.md) - [plain]
 
 > 
 
-[dinh](https://open.spotify.com/user/vanillysyrup) - 0 like - 80 songs - 6 hr 13 min
+[dinh](https://open.spotify.com/user/vanillysyrup) - 0 like - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/5QdE6NL2et72DXAMZ7GEoe.md) - [plain]
 | 27 | [二人のいた風景](https://open.spotify.com/track/6JzXzELWSuszqRdRjHdkU0) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ゆめ](https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh) | 6:45 |
 | 28 | [静かに朝は](https://open.spotify.com/track/4cHn9fQgrf1JhJrV0mELQY) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ゆめ](https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh) | 5:09 |
 | 29 | [さち子](https://open.spotify.com/track/4LQHwTvKxB6q1d1B0iZHUu) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ゆめ](https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh) | 5:36 |
-| 30 | [空間夜間飛行](https://open.spotify.com/track/3kt1F8mkM6F9GbWgy9kxU3) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [東京ユウトピア通信](https://open.spotify.com/album/1lzCotlCIrD53CTs7rUdrT) | 4:16 |
+| 30 | [空想夜間飛行](https://open.spotify.com/track/3kt1F8mkM6F9GbWgy9kxU3) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [東京ユウトピア通信](https://open.spotify.com/album/1lzCotlCIrD53CTs7rUdrT) | 4:16 |
 | 31 | [君が泣くなら](https://open.spotify.com/track/5qZ8ur7WCeGWHj5zqaB7C9) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [東京ユウトピア通信](https://open.spotify.com/album/1lzCotlCIrD53CTs7rUdrT) | 4:57 |
 | 32 | [冷ややかな情景](https://open.spotify.com/track/5cS7aD4QQcM8EUXnMkEPil) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [東京ユウトピア通信](https://open.spotify.com/album/1lzCotlCIrD53CTs7rUdrT) | 7:09 |
 | 33 | [遠い旅路](https://open.spotify.com/track/01gIkguwFJtqodkvMK45HC) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [東京ユウトピア通信](https://open.spotify.com/album/1lzCotlCIrD53CTs7rUdrT) | 5:48 |
@@ -88,5 +88,25 @@ pretty - [cumulative](/playlists/cumulative/5QdE6NL2et72DXAMZ7GEoe.md) - [plain]
 | 78 | [tabibito](https://open.spotify.com/track/6cDB0pGaXzO3Pf4OgtEf2h) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [tabibito](https://open.spotify.com/album/5dPNbTzkpOFC8DjX2iLho4) | 5:34 |
 | 79 | [Place in my dream](https://open.spotify.com/track/63Znn4P028PbdY84J6loe9) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Place in my dream](https://open.spotify.com/album/2dHYRXsX9F7NizWI4pbOXJ) | 4:29 |
 | 80 | [Blue](https://open.spotify.com/track/1Eescq8eLUTXcCvSKdrWaF) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Blue](https://open.spotify.com/album/0bEh5oC6EF2aptURAVOeM1) | 4:58 |
+| 81 | [Dusk](https://open.spotify.com/track/721kgCWILQ0NBG9eil1nvZ) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 1:54 |
+| 82 | [The Last Dance](https://open.spotify.com/track/5uoDcbqF4mNYjyhDqFRnOk) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:35 |
+| 83 | [As Time Goes By](https://open.spotify.com/track/2Ho2Whjl3t1XcH8eCgHi0G) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:25 |
+| 84 | [Cold Way Home](https://open.spotify.com/track/5xDJvjECBVGmwbtNsLgiHb) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:33 |
+| 85 | [Misty Town](https://open.spotify.com/track/2pJepXC7GpRewJFMG4ecQl) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:30 |
+| 86 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
+| 87 | [August Calendar](https://open.spotify.com/track/0BLTO916CBdS4u7xnVVait) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:39 |
+| 88 | [Late Night Train](https://open.spotify.com/track/7kkPV4sX0H7dtwS69J9C3w) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:42 |
+| 89 | [Her Watch](https://open.spotify.com/track/23YpJgCuXvvOcK4pGshYDa) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 4:21 |
+| 90 | [Weekend](https://open.spotify.com/track/3quqVGxGc5lw9q606lf7rn) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:44 |
+| 91 | [Autumn Letter](https://open.spotify.com/track/6VTBW8fe5SX7qxhhHREKmS) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:50 |
+| 92 | [Summer Triangle](https://open.spotify.com/track/4HlVBDhOIu9V63fAHDik0e) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 1:15 |
+| 93 | [Bedroom Afternoon](https://open.spotify.com/track/4uEvWnCHB2WdPfV8dnjbJS) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:40 |
+| 94 | [A Winter's Day](https://open.spotify.com/track/51JpyTDkD6g4P1godXQqWr) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 5:11 |
+| 95 | [Moon Ride](https://open.spotify.com/track/6SHopxAAzHsJJ9wzBLBogx) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 5:00 |
+| 96 | [Old Notebook](https://open.spotify.com/track/3tu3nbfeAwQ8xgi2YrnQBA) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 4:39 |
+| 97 | [Amidst the Morning Fog](https://open.spotify.com/track/05TWN8gERjdwtKYBsEmxwW) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 4:43 |
+| 98 | [Alone in My Room](https://open.spotify.com/track/1nPXBgflWZSAomAon6i7qw) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 4:41 |
+| 99 | [Night Drizzle](https://open.spotify.com/track/6gjLFDKn5F1yFY3p1mOE00) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 2:56 |
+| 100 | [Dawn](https://open.spotify.com/track/41CWwuwx3OYUZVPFJerS6c) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:32 |
 
-Snapshot ID: `MTYsNjRlYzJiMDA2NTM0ZTMwMDQwYWMwYzA2ZmNjMzQyNTczN2E5Y2E5Ng==`
+Snapshot ID: `MTcsNDFmYWM2OWQzNTY0YWJkOWZiNTNiYzNjNWM0NjUwOWYyZTlmM2JmYQ==`

@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Me Ma Afa Wotrim Ne",
+        "url": "https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Odofo Pa Ama Ntem",
+      "url": "https://open.spotify.com/track/11OJ2Z4If5YvY1FykHFS5g"
+    },
+    {
+      "album": {
         "name": "Ofon Na \u0190di As\u025bm Fo",
         "url": "https://open.spotify.com/album/6PJLm0zfTufZAUfqMWNHPU"
       },
@@ -796,7 +814,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 273706,
       "name": "Onyame Were Mfri Ne Mma",
       "url": "https://open.spotify.com/track/1ATrl7ETZ1BYo6EeOHfTRh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,866 likes - 150 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,865 likes - 150 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Refiner's Fire](https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF) | [Brian Doerksen](https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7) | [It's Time](https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN) | 4:52 |
 | 150 | [Risen](https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 5:38 |
 
-Snapshot ID: `MCxlZGJlYzc3YTRiY2Q4NDA4NTI2ZTZiNGE0NTUyMzc1MDA1YWNhYWU4`
+Snapshot ID: `MCwyMjIwNTFkOWEyOWM4OTQ2MTg1MWUwNTk0NmVmMDEwMjMwNTcwNzhk`

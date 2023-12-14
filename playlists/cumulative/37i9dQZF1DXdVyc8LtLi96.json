@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 186088,
       "name": "Blanket of White",
       "url": "https://open.spotify.com/track/2u3TXM5CwRovxFJZID2OuF"
@@ -5770,7 +5770,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 162000,
       "name": "Lithe",
       "url": "https://open.spotify.com/track/5V9qmxeatZwO8wctLXiZIR"
@@ -6785,6 +6785,24 @@
     },
     {
       "album": {
+        "name": "New Radiance Continuum",
+        "url": "https://open.spotify.com/album/0awxQuetJ5yeBNGn09KLMm"
+      },
+      "artists": [
+        {
+          "name": "D/S/T/N/C/E",
+          "url": "https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149681,
+      "name": "New Radiance",
+      "url": "https://open.spotify.com/track/6B3SmSOwmyfb04y1ivVE02"
+    },
+    {
+      "album": {
         "name": "New Year's Day",
         "url": "https://open.spotify.com/album/02wzDF6qH6mIzpkcnCyLrQ"
       },
@@ -7196,6 +7214,24 @@
       "duration_ms": 129000,
       "name": "N\u00e4r natten faller",
       "url": "https://open.spotify.com/track/4LrzFAJhBvcvSUfFTmNfRZ"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/4G6NYauGtFVraX0lUN6q3J"
+      },
+      "artists": [
+        {
+          "name": "Inner Oasis",
+          "url": "https://open.spotify.com/artist/0KXkOnI2jbPjGUYNtOzy2s"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165460,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5hLHdaVfTFZcF6liWtfw1P"
     },
     {
       "album": {

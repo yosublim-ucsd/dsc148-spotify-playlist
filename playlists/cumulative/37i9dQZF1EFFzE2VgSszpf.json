@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "California Holiday",
+        "url": "https://open.spotify.com/album/6wN9cmfRgd4drnRvhuKRTT"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280437,
+      "name": "California Holiday",
+      "url": "https://open.spotify.com/track/5DHefQvcjfmg7ZYtgCW0Lf"
+    },
+    {
+      "album": {
         "name": "Childqueen",
         "url": "https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO"
       },
@@ -202,6 +220,50 @@
       "duration_ms": 241840,
       "name": "Fairweather Friend",
       "url": "https://open.spotify.com/track/3AI7nypBvF77O5kksonneA"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173014,
+      "name": "Flashbacks (with Jeremih)",
+      "url": "https://open.spotify.com/track/3s01d9z41qw037YXOPlQqd"
+    },
+    {
+      "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145434,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/69iPLMNd0d3sxmW52mwLZN"
     },
     {
       "album": {
@@ -430,6 +492,28 @@
     {
       "album": {
         "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "New Sky",
+      "url": "https://open.spotify.com/track/1xHwJuDNzkqER4YseTBECi"
+    },
+    {
+      "album": {
+        "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
       },
       "artists": [
@@ -444,7 +528,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 191973,
       "name": "New Sky (feat. Kadhja Bonet)",
       "url": "https://open.spotify.com/track/3J5fFQ0PxfKQU5putEvUoM"
@@ -518,6 +602,28 @@
       "duration_ms": 249453,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/5WiShbQYrJnoG7mD961IKY"
+    },
+    {
+      "album": {
+        "name": "Luv N Chaos",
+        "url": "https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122500,
+      "name": "Outer Body",
+      "url": "https://open.spotify.com/track/7s116fYbWa8JjEoi6jxaZQ"
     },
     {
       "album": {
@@ -598,6 +704,24 @@
     {
       "album": {
         "name": "Party Of One",
+        "url": "https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249767,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1oAtUtXLAHDOag6mwR0wyL"
+    },
+    {
+      "album": {
+        "name": "Party Of One",
         "url": "https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj"
       },
       "artists": [
@@ -608,7 +732,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 249767,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1rfmeLSq9SHLInp1fEsgbg"

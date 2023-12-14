@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,254 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,292 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Nothing Breaks Like a Heart \- Don Diablo Remix](https://open.spotify.com/track/5xBafmhrJzzMsd1dxErIbJ) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Nothing Breaks Like a Heart \(Don Diablo Remix\)](https://open.spotify.com/album/0nk08Y8IFUXtJivHJNMJnF) | 3:36 |
 | 100 | [Mama \- Syn Cole Remix](https://open.spotify.com/track/3NFvv5bC6HWtxUftIBm8Qd) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Mama \(Remixes\)](https://open.spotify.com/album/1eDBHbgNyQxfiG3erm7mH1) | 2:59 |
 
-Snapshot ID: `MCwyNjhhYTIwOWI4MTI3YjA0MGFkMjBhZTI3ZTAxODI4ZDI0ZTIxMzIx`
+Snapshot ID: `MCw3YTRiMzc1ZTIxNDVkZjExMWZjNmNjNDA0NDZhNmY3Y2ViOWM3N2Qx`

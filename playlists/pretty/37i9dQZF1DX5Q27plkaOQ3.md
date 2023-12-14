@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: BARELY ALIVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,047 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,050 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 92 | [Playing With Fire](https://open.spotify.com/track/4ClJmxomQ0CZSuhrZWMQCK) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Playing With Fire](https://open.spotify.com/album/1aEjxEcvjm0afnrOlIqfZV) | 4:12 |
 | 93 | [Certified](https://open.spotify.com/track/3mYP9Tec1OzcwNKuCEqJzE) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [MontyCler](https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw) | [Certified](https://open.spotify.com/album/70eXJWr1u3t8PF81jx6mLL) | 3:39 |
 | 94 | [ARTIFICIAL DUBSTEP](https://open.spotify.com/track/2iV6jpVuKh8PS3wWQ5xLIi) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [ARTIFICIAL DUBSTEP](https://open.spotify.com/album/2VRaD4Lr0lQKhinkSW2buX) | 2:40 |
-| 95 | [FINAL BOSS](https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [FINAL BOSS](https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl) | 2:52 |
+| 95 | [FINAL BOSS](https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [FINAL BOSS](https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl) | 2:52 |
 | 96 | [BUMPIN \(with BLVK JVCK\)](https://open.spotify.com/track/6JKyHmlmKDCEbudFvf9pB0) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [BUMPIN \(with BLVK JVCK\)](https://open.spotify.com/album/7wsAdzdaGKfzkCE8kqjTLh) | 2:01 |
 | 97 | [Eclipse](https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Eclipse](https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K) | 4:13 |
 | 98 | [Premier League](https://open.spotify.com/track/1UJdnazAX240LtuwBA2wcY) | [MUERTE](https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y), [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Premier League](https://open.spotify.com/album/4GdAWtnLHOkgGZ09KLvFJc) | 2:49 |
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 115 | [Let That Go](https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Let That Go](https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP) | 3:51 |
 | 116 | [The Uncrowned King](https://open.spotify.com/track/6S0HcckkiDavLekQGotRSM) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt) | [Uncrowned](https://open.spotify.com/album/2y0BjLQMBucWFiGHAWDNHe) | 3:40 |
 | 117 | [SINEWS](https://open.spotify.com/track/32C0l5Z0RDRfvWVlLXwOhr) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [SINEWS](https://open.spotify.com/album/2KEkqeDzoEy0EgSIbhpnT0) | 2:36 |
-| 118 | [PUSH EM](https://open.spotify.com/track/5x4LUgrOxhstYk5557PO3t) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [PUSH EM](https://open.spotify.com/album/7Cae1xPAoh257PdyyJ28ut) | 3:50 |
+| 118 | [PUSH EM](https://open.spotify.com/track/5x4LUgrOxhstYk5557PO3t) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [PUSH EM](https://open.spotify.com/album/7Cae1xPAoh257PdyyJ28ut) | 3:50 |
 | 119 | [Pit of the Maw](https://open.spotify.com/track/2alDalhotF1t7ldnToc0Ec) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SISTO](https://open.spotify.com/artist/2M1fROBYTycpAcvsi2zkPJ) | [Pit of the Maw](https://open.spotify.com/album/2queNUHccK3awyRbA8Wf20) | 3:31 |
 | 120 | [Legalize Nuclear Bombs](https://open.spotify.com/track/5Tp9Ojtfm0VX7vR3u8oHwv) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Legalize Nuclear Bombs](https://open.spotify.com/album/0tDknUXGhQ2i5dOZUU7VPz) | 2:48 |
 | 121 | [Squad Anthem](https://open.spotify.com/track/4QEinGQxNXRzHgus28v42T) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Ecraze](https://open.spotify.com/artist/2DyMQQF5Qlbxr9VSbr3lXt), [BLUPILL](https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac) | [Squad Anthem](https://open.spotify.com/album/0e4jfw05YS293msyhNvPyh) | 4:26 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 124 | [Hexed Opera](https://open.spotify.com/track/2nLIjKSv9zudWVd2EKAd01) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Hexed Opera](https://open.spotify.com/album/4ObAFSjROlclG1vSyQXPi7) | 3:16 |
 | 125 | [Internet G](https://open.spotify.com/track/0WfQUDK0wxEjecrAzQL84y) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Internet G](https://open.spotify.com/album/3qKhqPPWMjqi8x8N6C2PXk) | 2:57 |
 
-Snapshot ID: `MCxjMWRlNDkwNzU1MWYyZDM0MzJiYjgyYWIwYTllMDQxNWExMjUzMDYz`
+Snapshot ID: `MCxiOThiMjQ0MTU4NmJhZjE5NzM1N2Q5MDY2YTNlODM0OWUwMmY2Y2Jk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,719 likes - 47 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,099 likes - 46 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 43 | [Shelob's Lair](https://open.spotify.com/track/5ytw4fxmZLNVeA1AnM6kOF) | [The Nazgûl](https://open.spotify.com/artist/4Kmo61G21FutbSfPFZAl3o) | [The Nazgûl](https://open.spotify.com/album/6wQuZqzSChU04b7geuDXq1) | 12:16 |
 | 44 | [The Walrus Hunt](https://open.spotify.com/track/1LKINMTUrB1iQPmf8QGctA) | [The Residents](https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm) | [Eskimo: pREServed Edition](https://open.spotify.com/album/5ypLXdZQyRO4MrOqg0UZHq) | 3:59 |
 | 45 | [Tribal Secret](https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 3:52 |
-| 46 | [Swastika Girls I](https://open.spotify.com/track/6Qi6sqViFIGP77beQoErWU) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/3gHpX5wJn0kzAXJvwORG6u) | 7:32 |
-| 47 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
+| 46 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
 
-Snapshot ID: `MCxlYzAyOWE0MzgyNTE1MmYwNjBjM2YzZWNhZmM5MzgwNzkzZDM1YTI0`
+Snapshot ID: `MCxlODdiYWZmZGU4NTdlMWJmMjk2MTAxN2NhNDZjNzFiNmNhNTI2NTVh`

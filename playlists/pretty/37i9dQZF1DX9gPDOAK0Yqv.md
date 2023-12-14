@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,508 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,520 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 99 | [Encounters](https://open.spotify.com/track/11EPlc3UVZIhKq11lpdzfL) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 4:05 |
 | 100 | [Cybernova](https://open.spotify.com/track/13dzpIlhBBeZrR0LOFpfUw) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Shut Down](https://open.spotify.com/album/4Kiw2ugFK4kfgfsPgGjJ32) | 4:05 |
 
-Snapshot ID: `MCwyM2Q1NGFmYWNiNmVjZTc4M2NhNjhlODM2NjM1MzFlNTY5NzZkOWZm`
+Snapshot ID: `MCw3ZmQ1MTg1NTg5ODNmMDc4MjlkMDZlZTk1YjE2MDYxMGNkOGRjNmU4`

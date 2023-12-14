@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: ニッキー・ミナージュ\(Nicki Minaj\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,078 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,079 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [A Christmas Flavor](https://open.spotify.com/track/3DM7pOb7e4cDTwuAyyU7Yy) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [A Christmas Flavor](https://open.spotify.com/album/7iX6zW9utoLntsFSMYKu83) | 4:38 |
 | 100 | [Nothing Else Feels The Same](https://open.spotify.com/track/7AEdIhy2GLcoJ3nqqEjmjT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Nothing Else Feels The Same](https://open.spotify.com/album/5qBY1K1C7QoXWlmZ2yvV5L) | 3:04 |
 
-Snapshot ID: `MCwzZmFjMThhZWQwN2JlZWY1MTQxNDJmNzE4ODI3YmQyYTY0ZmMyODVi`
+Snapshot ID: `MCw5Mzk5NDAzZGUxNDI0NTc0ZjA1NTI1ZTY0ODI0ZmM4YmJhMGJlMDU3`

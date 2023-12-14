@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,407 likes - 600 songs - 1 day 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,421 likes - 600 songs - 1 day 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 599 | [All My Tomorrows \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:22 |
 | 600 | [Road to Hana](https://open.spotify.com/track/0oGuIyOrGHKblKTlIm6IHz) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Road to Hana](https://open.spotify.com/album/2zCpyIiQxlJy8KerSpUS7H) | 2:50 |
 
-Snapshot ID: `MCxiNjUyMDI1NDJiOTIxZmI4ZmM0OWZlMjRmNmVhY2NlZTRkNDU4ZTZl`
+Snapshot ID: `MCw5MDM0MGZjZTUxZWE3YmY4NDRjNTBiODdjMmY5MWNiZWI2YmU5MTk2`

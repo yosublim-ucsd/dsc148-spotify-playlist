@@ -7855,6 +7855,24 @@
     },
     {
       "album": {
+        "name": "I Am An Elastic Firecracker",
+        "url": "https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5"
+      },
+      "artists": [
+        {
+          "name": "Tripping Daisy",
+          "url": "https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287266,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF"
+    },
+    {
+      "album": {
         "name": "Violator (2006 Remaster)",
         "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
       },
@@ -11516,6 +11534,24 @@
       "duration_ms": 229026,
       "name": "Venus",
       "url": "https://open.spotify.com/track/3x0iCzjgf0v9lnwvAhU9P2"
+    },
+    {
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "Vernie",
+      "url": "https://open.spotify.com/track/14E3sWuyPFwTj1KVqn3hj2"
     },
     {
       "album": {

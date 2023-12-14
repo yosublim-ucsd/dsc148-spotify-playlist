@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tate McRae, Nicki Minaj, Peso Pluma & Anitta, Night Lovell and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,299 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,298 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [THE WOLF](https://open.spotify.com/track/0Be1p9GZJlbBd7cONbRgra) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [THE WOLF](https://open.spotify.com/album/34nx9Nn2GQ48ziOsccw7Ow) | 3:40 |
 | 100 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 
-Snapshot ID: `MCxiNmZhMzYyMTBhMGVjYzU3Yzg1MDNkZTMxNmI5MzA1MWI1NjIwMWFh`
+Snapshot ID: `MCw3ZTMwNzI4NmYwYzA4NDc5M2Q5MDYyNTI1ZDY0OWVkN2Q4NTE1ZDI3`

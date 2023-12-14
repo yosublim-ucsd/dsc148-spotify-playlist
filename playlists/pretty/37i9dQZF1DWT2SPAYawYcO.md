@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,163 likes - 81 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,170 likes - 81 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 40 | [Desert Mile](https://open.spotify.com/track/3oe2bi9keostCoelJy1VS3) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP IV](https://open.spotify.com/album/1NBvOzOE6BDw0yCOyTUvIM) | 3:50 |
 | 41 | [IDGAF](https://open.spotify.com/track/5w7NisdsB4ixAUNfC0eCPf) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [IDGAF](https://open.spotify.com/album/2UQnTNhYkgv8JGzT8hc5Ss) | 2:39 |
 | 42 | [Young & Foolish](https://open.spotify.com/track/3KtqBwqDbjxjXmJQ2gmtzW) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Young & Foolish](https://open.spotify.com/album/3t7ewN9SVxMCeXTZBvJoNR) | 2:36 |
-| 43 | [You Love \(Is Turning Right Round\)](https://open.spotify.com/track/7GEA8eJnrhTISKPd3267CC) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [You Love \(Is Turning Right Round\)](https://open.spotify.com/album/1Xsy7wKhrM1wsIVoi7tl53) | 3:14 |
+| 43 | [Your Love \(Is Turning Right Round\)](https://open.spotify.com/track/7GEA8eJnrhTISKPd3267CC) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Your Love \(Is Turning Right Round\)](https://open.spotify.com/album/1Xsy7wKhrM1wsIVoi7tl53) | 3:14 |
 | 44 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 |
 | 45 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
 | 46 | [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 80 | [MUD](https://open.spotify.com/track/423KXgSOZb2wmoEYipMZQH) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2), [Emile Battour](https://open.spotify.com/artist/7LNI86kENOKWF35DjHr4rT) | [MUD](https://open.spotify.com/album/7kA1WMDFyThXvvbVMG7Noo) | 3:42 |
 | 81 | [DEEPEND](https://open.spotify.com/track/5FNuqSuNBxjoJgrWiTatcg) | [Boomchild](https://open.spotify.com/artist/2afAZxHpWLn3iynVnl9wkl) | [DEEPEND](https://open.spotify.com/album/5sTod6XjRuVCjJOCz1ytgl) | 3:15 |
 
-Snapshot ID: `MCw5MzZkMDE1MDA3MWY5NmQ2OTAzNWFlMjk2NjE2MTA0ODk1ODY2NmE5`
+Snapshot ID: `MCwyNTEwZDUyNzA1MGIxYTgxNWJlY2JlY2FiMTdmODg5NWQ1NmNmY2Vi`

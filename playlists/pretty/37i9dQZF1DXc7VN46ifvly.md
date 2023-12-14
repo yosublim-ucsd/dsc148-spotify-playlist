@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 | 99 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
 | 100 | [Way Out \(feat\. Big Sean\)](https://open.spotify.com/track/6rLi6PyWXu1rPlShuIZpj6) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Way Out \(feat\. Big Sean\)](https://open.spotify.com/album/4TEJbgC8t4vVyIhDyxA6DU) | 2:48 |
 
-Snapshot ID: `MCw5N2YyMGQ3MjUzMzJjMmEyYzZkY2YzM2YwZjI1ZjA2NTdlNjM5NjEz`
+Snapshot ID: `MCw3YTU0ZjIyYjJhMzI4MGJhYjE5YjYzODk4N2FlZDcxM2U4ZDZiYjVh`

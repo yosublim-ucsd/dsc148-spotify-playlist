@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=2aNAVs5GRtS8zAQIBnp6eQ">Victor Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,386 likes - 104 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,394 likes - 104 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 103 | [Fall my hand](https://open.spotify.com/track/26XsykNb04PVOljNt0ancu) | [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Fall my hand](https://open.spotify.com/album/4Kdenihxhm7htVDFCHOioa) | 3:11 |
 | 104 | [Trust in You](https://open.spotify.com/track/24QZ8sZVtangqkebKPq4Lq) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2) | [Trust in You](https://open.spotify.com/album/3aKIB6yncFyXoE0t4ITRDl) | 3:30 |
 
-Snapshot ID: `MCxkNzA2YWViYjFlZTg3ZmQxNTljYWIzNmVmMDljMmNmNmI0YmRjMGQ1`
+Snapshot ID: `MCw5MWI3NTRlNTg1NGQwYmY4Zjg3ZTVlNGMzMDcxOWY3ZGNhYWM1NDkx`

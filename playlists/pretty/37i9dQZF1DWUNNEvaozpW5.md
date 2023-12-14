@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Sidecars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,713 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,720 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 |
 | 100 | [Mar antiguo \- Versión 2023](https://open.spotify.com/track/4azPip5EUOk4jJxJxb6wbm) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Mar antiguo \(Versión 2023\)](https://open.spotify.com/album/2fBr1iK75oIoYsEedtRE3a) | 4:00 |
 
-Snapshot ID: `MCxjZTdkOTc1ZTY0ZjkyMTEyMTc2ZGY1YjU4NmUyY2E4M2I3ZTA2NGJh`
+Snapshot ID: `MCw1NzExYjBiZTNhNzU2NjNkMjJkMDg0NDJiODFkODhhYTAwMDMwYmI3`

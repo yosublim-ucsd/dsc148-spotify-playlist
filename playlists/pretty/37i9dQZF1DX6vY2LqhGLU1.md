@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,143 likes - 150 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,154 likes - 150 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 149 | [Christmas Is Love](https://open.spotify.com/track/7rkwhWKsDxbW3k1p2rMHaS) | [Jonathan Cain](https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i) | [Christmas Is Love](https://open.spotify.com/album/2LDOgikaliBkpRgRxg3Gu4) | 4:35 |
 | 150 | [O Come All Ye Faithful \- Live](https://open.spotify.com/track/08r6V6XZhUDOg4uiPXQHVL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [O Come All Ye Faithful \(Live\)](https://open.spotify.com/album/4XIV8Lc2D3xKO8Vp3JB4i2) | 4:18 |
 
-Snapshot ID: `MCw0NDg4NzI5NTY3YzA0NmExM2I3NDk5MzhmY2ZhMDE0ZTVlOTQ3YzQ4`
+Snapshot ID: `MCwwMzQxNGVmYzQyMjEzZWRmMzdjOGUzZTkwN2QzMTIyMWY4OTg2NmIx`

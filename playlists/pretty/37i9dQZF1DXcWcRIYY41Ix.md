@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Rupatrupa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,344 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,347 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Para la Pena No](https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Para la Pena No](https://open.spotify.com/album/7czoUPcYZGaVjeWlMDK4ez) | 3:45 |
 | 100 | [Cereza](https://open.spotify.com/track/4qrMdlF0WaiWUoeWivAj0Q) | [Sara Valenzuela](https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc), [Uku Trío Bs](https://open.spotify.com/artist/1v0JdoB8SdjzVUS76pZ0Bj) | [En La Cocina](https://open.spotify.com/album/2ncBuRIlsaDCMJS4EU6Cr5) | 3:53 |
 
-Snapshot ID: `MCw1YjkzYTNjYWE1OGFmOWRkYjFlY2Y3MWE4MDNiNjc4ZDBiYWI1NzBi`
+Snapshot ID: `MCxhYmU5YWRlNjQyNjg1MmE5MTI2YjNkY2ZlMDY3NzU5YzIzNDcwYjU3`

@@ -4,7 +4,7 @@
 
 > she's ready for her sequel\. cover: sidney prescott 😱👑
 
-90 songs - 5 hr 9 min
+91 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 | 2023-10-13 |  |
 | [Got You \(Where I Want You\)](https://open.spotify.com/track/1xpd5XqLsrQDBa81ON2kOb) | [The Flys](https://open.spotify.com/artist/3brlG1zNhqIkYhdneCaPVi) | [Holiday Man](https://open.spotify.com/album/6926E0NLdNZiEjK9ygGUCq) | 4:02 | 2023-10-13 |  |
 | [Gouge Away](https://open.spotify.com/track/7oDDV1cal0M0RIjr4HuuJ9) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:42 | 2023-10-13 |  |
-| [Graveyard Shift](https://open.spotify.com/track/0lTdQ4fpkUuUiUMS3kZuOk) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Woman of the Hour](https://open.spotify.com/album/0WD2EudFofXYFb9bFMRRwS) | 3:08 | 2023-10-13 |  |
+| [Graveyard Shift](https://open.spotify.com/track/0lTdQ4fpkUuUiUMS3kZuOk) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Woman of the Hour](https://open.spotify.com/album/0WD2EudFofXYFb9bFMRRwS) | 3:08 | 2023-10-13 | 2023-12-14 |
+| [Graveyard Shift](https://open.spotify.com/track/0UQ1DKUfMQXqgE6JEFlXnl) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Woman of the Hour](https://open.spotify.com/album/7bScqw7wY3piw63QTeOwzI) | 3:08 | 2023-10-13 |  |
 | [Hard to Kill](https://open.spotify.com/track/1jNfgfxGZf33UW0U2DlbIy) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Don’t You Think You’ve Had Enough?](https://open.spotify.com/album/257LTPH3hN3gBFpABmBhNT) | 3:26 | 2023-10-13 |  |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2023-10-13 |  |
 | [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:01 | 2023-10-13 |  |

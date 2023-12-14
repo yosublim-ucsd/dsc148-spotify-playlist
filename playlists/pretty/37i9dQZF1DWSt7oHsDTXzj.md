@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,831 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,857 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 74 | [Christmas Caller](https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Christmas Caller](https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv) | 2:15 |
 | 75 | [Driving Under Stars](https://open.spotify.com/track/0HotR5MIbpuG5FJs1pqhZ5) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Driving Under Stars](https://open.spotify.com/album/3bCdV6zwCADxI7vCqF6h70) | 3:41 |
 
-Snapshot ID: `MCw1ZmE5N2FjZDdmMzJkYTBlYzAwOGIxZDFkZWYwOGMyODNlNDFiNjU4`
+Snapshot ID: `MCwyZjM2NzYwZTJiMTlhZTNlODdmZmFjNjhkNzZlZTA3N2I2N2VmOTMy`

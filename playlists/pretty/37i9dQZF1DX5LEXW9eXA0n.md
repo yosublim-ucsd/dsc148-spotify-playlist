@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:HEIZE\( 헤이즈\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,699 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,707 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [It Just Happened](https://open.spotify.com/track/2ITzkZG5HnW2f1ABSALPv6) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [It Just Happened](https://open.spotify.com/album/7KCSaQrghmQ7BjO3wuxTGF) | 3:40 |
 | 100 | [Scented Things](https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Unfading Sense \- The 5th Mini Album](https://open.spotify.com/album/2iN8rALWBgiirEB5QlzhRw) | 4:19 |
 
-Snapshot ID: `MCw5MmM2OTRkM2NkNGQ1ZTEwZTk2ODRlNTMzNTllN2I4YzVjNDBhYzc3`
+Snapshot ID: `MCw2NmU4MWYwNDNkMjYzNTY0OTAwODY5NTRiMTUyODc4NzVmYjVkMjc4`

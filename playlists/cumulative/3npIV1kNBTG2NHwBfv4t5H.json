@@ -362,6 +362,10 @@
       },
       "artists": [
         {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
           "name": "Wings",
           "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
@@ -370,7 +374,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 290893,
-      "name": "Mamunia - Remastered 2010",
+      "name": "Mamunia - 2010 Remaster",
       "url": "https://open.spotify.com/track/3r7fNAyIDaC65laCIMW5JU"
     },
     {

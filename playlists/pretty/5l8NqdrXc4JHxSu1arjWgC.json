@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 4120,
+  "num_followers": 4214,
   "original_name": "Red Vox Recent Favorites",
   "owner": {
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "MTcwNSwwZTJkNTI3NzkxZTE1NGFmZDM3MTM0YjE3MzhhZjY5ZGUwZGZjYTRm",
+  "snapshot_id": "MTcwNyw1ZDM1MjZlOWEwZGI2YjRkNDgyM2Q5YmM2YTRiYTA5ZmI1ZWU0ZDBj",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -11055,6 +11055,38 @@
       "duration_ms": 322622,
       "name": "Copy Of A",
       "url": "https://open.spotify.com/track/6xlsMxBuulXsX0hY37iE70"
+    },
+    {
+      "added_at": "2023-10-30 00:13:05",
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Vernie",
+      "url": "https://open.spotify.com/track/14E3sWuyPFwTj1KVqn3hj2"
+    },
+    {
+      "added_at": "2023-12-04 04:31:36",
+      "album": {
+        "name": "I Am An Elastic Firecracker",
+        "url": "https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5"
+      },
+      "artists": [
+        {
+          "name": "Tripping Daisy",
+          "url": "https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 151144,
       "name": "Bottle post",
       "url": "https://open.spotify.com/track/6hpPyrW13t94TQIMC7h0M2"
@@ -1304,10 +1304,28 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 149666,
       "name": "Burrowing Animals",
       "url": "https://open.spotify.com/track/6pHypO4oxMzm9z2bsN2t2l"
+    },
+    {
+      "album": {
+        "name": "butter",
+        "url": "https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138904,
+      "name": "butter",
+      "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
     },
     {
       "album": {
@@ -1410,6 +1428,24 @@
       "duration_ms": 98526,
       "name": "Calicall",
       "url": "https://open.spotify.com/track/7s7cgU5RJ3vhWp1ZYRr8UR"
+    },
+    {
+      "album": {
+        "name": "calm nights",
+        "url": "https://open.spotify.com/album/3YXjQU0fIzU5J7ZELsdqMP"
+      },
+      "artists": [
+        {
+          "name": "giannis wang",
+          "url": "https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "calm nights",
+      "url": "https://open.spotify.com/track/57KG77P6mmQvQassZqe5BI"
     },
     {
       "album": {
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 125500,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/1KVGi88GgnpBrzMyxQ294K"
@@ -2678,7 +2714,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 132923,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/5nyyuV2d4TMGrQ2bipvz1M"
@@ -3589,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "green velvet",
+        "url": "https://open.spotify.com/album/2B893F73aIVF7MJ36y9evq"
+      },
+      "artists": [
+        {
+          "name": "Chekkerz",
+          "url": "https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131625,
+      "name": "green velvet",
+      "url": "https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm"
+    },
+    {
+      "album": {
         "name": "Gyroscopes",
         "url": "https://open.spotify.com/album/2pFdHG1xljwIZk9AiIs20k"
       },
@@ -4043,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "I Have No Memory",
+        "url": "https://open.spotify.com/album/323IPryFsAmds54ILSz8lb"
+      },
+      "artists": [
+        {
+          "name": "makse",
+          "url": "https://open.spotify.com/artist/7mabXst7LjJEh7hBtpVzMj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158262,
+      "name": "I Have No Memory",
+      "url": "https://open.spotify.com/track/6eG7r2aI9g8laj8cqJ0Z7Q"
+    },
+    {
+      "album": {
         "name": "I WISH I WAS LIKE YOU",
         "url": "https://open.spotify.com/album/3X8qt90fk0vDclaPxem7Nt"
       },
@@ -4422,7 +4494,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 125874,
       "name": "Kampai",
       "url": "https://open.spotify.com/track/2u1ImVaDafGsPxwzl9PnDw"
@@ -5072,7 +5144,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 187965,
       "name": "Lounge Roulette",
       "url": "https://open.spotify.com/track/0t6qxdcEUaCaUZidLiIAHj"
@@ -5743,6 +5815,24 @@
     },
     {
       "album": {
+        "name": "moonwatch",
+        "url": "https://open.spotify.com/album/3orK6ZBhRQQAxopaMfZivu"
+      },
+      "artists": [
+        {
+          "name": "Moon Cheese",
+          "url": "https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198291,
+      "name": "moonwatch",
+      "url": "https://open.spotify.com/track/2CZEvQKqgtNLwWqkdyc2yy"
+    },
+    {
+      "album": {
         "name": "Mediado",
         "url": "https://open.spotify.com/album/5VDUfxSdbWaCOcrq0eFGMS"
       },
@@ -5910,7 +6000,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 152967,
       "name": "Navigational Tools",
       "url": "https://open.spotify.com/track/7wCpicTDayjsUb0KerCQOD"
@@ -5968,6 +6058,24 @@
       "duration_ms": 110704,
       "name": "new trees",
       "url": "https://open.spotify.com/track/79ZXRpT88I9x2SvsRCLe4S"
+    },
+    {
+      "album": {
+        "name": "New York Is Asleep",
+        "url": "https://open.spotify.com/album/4hJPTXwae6JDtC7m8QcdRU"
+      },
+      "artists": [
+        {
+          "name": "ATONED",
+          "url": "https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162189,
+      "name": "New York Is Asleep",
+      "url": "https://open.spotify.com/track/6Eb37wwzE1vtmMxqf9toe7"
     },
     {
       "album": {
@@ -7160,10 +7268,32 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 100465,
       "name": "Purple Jazz Night",
       "url": "https://open.spotify.com/track/53M1z8lbsdPK3ohCpQJCj7"
+    },
+    {
+      "album": {
+        "name": "questa terra",
+        "url": "https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx"
+      },
+      "artists": [
+        {
+          "name": "takemefaraway",
+          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147230,
+      "name": "questa terra",
+      "url": "https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL"
     },
     {
       "album": {
@@ -7322,7 +7452,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 114357,
       "name": "Respect",
       "url": "https://open.spotify.com/track/2VAMyN5GyTrWxAs5Ql1lXo"
@@ -8322,7 +8452,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 174000,
       "name": "Smoked Wood",
       "url": "https://open.spotify.com/track/0FsXQ64l8sx2VFbh8tgbJM"
@@ -8806,6 +8936,24 @@
       "duration_ms": 171000,
       "name": "Sunrise Express",
       "url": "https://open.spotify.com/track/2oAW3jN90nOCms2Igyxm02"
+    },
+    {
+      "album": {
+        "name": "sunset",
+        "url": "https://open.spotify.com/album/5u6ppYQIUNMgqH8HZwPBGa"
+      },
+      "artists": [
+        {
+          "name": "miroki",
+          "url": "https://open.spotify.com/artist/4MuxvjwPudGqy8dvRJWqe4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "sunset",
+      "url": "https://open.spotify.com/track/2GfHkWBa1HHwo9OdTisl22"
     },
     {
       "album": {
@@ -9930,7 +10078,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 162040,
       "name": "Watercolors",
       "url": "https://open.spotify.com/track/0hHvL9j0j6cIgU5RZ8Sz3Z"
@@ -10078,7 +10226,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 155076,
       "name": "Winter Bells",
       "url": "https://open.spotify.com/track/2NR75hc8eVC9xzro4ZjO52"

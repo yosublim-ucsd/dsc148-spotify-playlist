@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Fred again..",
-  "num_followers": 458217,
+  "num_followers": 458219,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDQyYjA4ZmEyNTk0ZTYyN2Q2OGU3NTdlNDlmOTBiYTgzYmI1NDJk",
+  "snapshot_id": "MCw3OWRhOTQ3N2MwMTY2YTk2NDBiMTJhYWNmZmVkYjM2MmNjODZjODI5",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -524,12 +524,12 @@
           "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
         },
         {
-          "name": "North Ave Jax",
-          "url": "https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY"
-        },
-        {
           "name": "Jakey KRUMM",
           "url": "https://open.spotify.com/artist/05NjHhge1XpqyNtgpjsHej"
+        },
+        {
+          "name": "North Ave Jax",
+          "url": "https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY"
         }
       ],
       "duration_ms": 121967,

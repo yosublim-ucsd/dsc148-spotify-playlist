@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-186 songs - 10 hr 43 min
+187 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Anathema](https://open.spotify.com/track/1oLHIkHzNipzkouaBClSdl) | [Evilgloom](https://open.spotify.com/artist/1cJ8mgIFVHt86l9J90pkBa) | [Addictions](https://open.spotify.com/album/4Cfplm19oERf2huyJwaKGJ) | 3:21 | 2023-03-02 | 2023-05-19 |
 | [ANUBIS \- Radio Edit](https://open.spotify.com/track/3p5K420THOCUqI51zRsFn9) | [SHADE UK](https://open.spotify.com/artist/42CxhYLSebXZKt2iQckVQE) | [ANUBIS \(Radio Edit\)](https://open.spotify.com/album/4pIyeeREJYe3p54ItQYYqE) | 3:18 | 2023-06-20 |  |
 | [Anxiety](https://open.spotify.com/track/7sBDYK0rlUxrTSQq4tnVLJ) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ) | [Anxiety](https://open.spotify.com/album/75ytZn0fccZEIZP7dY4csy) | 3:55 | 2022-07-29 | 2022-09-10 |
-| [Asking For It](https://open.spotify.com/track/0FWvBhd7u9TuUlD5BIuKoX) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/1VqTE3b7QFnITPMhCQJgXX) | 2:19 | 2023-03-24 |  |
+| [Asking For It](https://open.spotify.com/track/0FWvBhd7u9TuUlD5BIuKoX) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/1VqTE3b7QFnITPMhCQJgXX) | 2:19 | 2023-03-24 | 2023-12-14 |
+| [Asking for It](https://open.spotify.com/track/5AazJxSbvETGO1SrFrat76) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2gfaV8aoCpb2VkZrcpf42S) | 2:19 | 2023-06-20 |  |
 | [Asking For It](https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC) | 2:19 | 2023-02-09 | 2023-04-30 |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-10-21 |  |
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-09-09 | 2023-03-25 |

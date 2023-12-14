@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,579 likes - 70 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,578 likes - 70 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 69 | [Tolonen\-Meltaus](https://open.spotify.com/track/0ZTd2wJwhdlSURtYv0XHIb) | [Reh Tone](https://open.spotify.com/artist/59eLvods4hL6ZIAo0jNZ30) | [Fusionations](https://open.spotify.com/album/481Z3DQ5wwJ6i0J8mPq9HI) | 3:44 |
 | 70 | [Sgr A\*](https://open.spotify.com/track/3QLXh5l26khTqOJC8VdzVZ) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/7nYDVrrDqIis4MuedOyFBZ) | 5:49 |
 
-Snapshot ID: `MCwyMmRhMDYwY2M3YmU1NmJkNzFhOTU5MDc2MmZjMzAzOGNkMDcyM2Zl`
+Snapshot ID: `MCw5MjgxYTkwMmU4ZTcyOWZjYTFiZjE2ZWRjYjY0YTg5NWQ5NzE2YmUy`

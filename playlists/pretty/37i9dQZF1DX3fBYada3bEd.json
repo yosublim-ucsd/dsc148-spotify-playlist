@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWFiMjY5ZjU4YWI3OWMxNjgzZjg2NzU4YTA5MTQwZGMwZTZiM2Ni",
+  "snapshot_id": "MCwzYmE3NzI4NGQzMGNkMjMxZmM0NDYxNzZkNmI3OWExMWQ1YTRhOGI4",
   "tracks": [
     {
       "added_at": "2022-07-25 13:23:39",
@@ -542,6 +542,10 @@
         {
           "name": "Music House for Children",
           "url": "https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR"
+        },
+        {
+          "name": "Emma Hutchinson",
+          "url": "https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya"
         }
       ],
       "duration_ms": 110083,

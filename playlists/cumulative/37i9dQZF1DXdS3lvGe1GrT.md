@@ -4,7 +4,7 @@
 
 > The top 75 tracks from Fresh Finds Folk in 2023\. Cover: Kara Jackson
 
-950 songs - 2 day 8 hr 53 min
+951 songs - 2 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Caterpillar](https://open.spotify.com/track/0hXfaaPKEVCsteJCkBD7ud) | [Julie Odell](https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R) | [Caterpillar](https://open.spotify.com/album/1S4hXkm2TcDtjQWWkkM3LY) | 5:18 | 2022-05-25 | 2022-09-15 |
 | [Cedar Island](https://open.spotify.com/track/2mu4GuE7tG8vAiFsXgSQYC) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Cedar Island](https://open.spotify.com/album/69ppA0WybAHl4hpGqQQUqc) | 2:57 | 2023-04-26 |  |
 | [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 | 2023-08-23 |  |
-| [Challenger Deep](https://open.spotify.com/track/1aFtASIZ0GtGLp1LTzj9ea) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Challenger Deep](https://open.spotify.com/album/3knmKpCfct2IfzWPPwFQjM) | 3:54 | 2023-10-04 |  |
+| [Challenger Deep](https://open.spotify.com/track/1aFtASIZ0GtGLp1LTzj9ea) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Challenger Deep](https://open.spotify.com/album/3knmKpCfct2IfzWPPwFQjM) | 3:54 | 2023-10-04 | 2023-12-14 |
+| [Challenger Deep](https://open.spotify.com/track/3CnvoHAOgFSC6bvtxk7lST) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Long Is The Tunnel](https://open.spotify.com/album/4jdazNCLxmTYP9Ip1qbR3e) | 3:54 | 2023-10-11 |  |
 | [change](https://open.spotify.com/track/0EvDzKDIwY5NkYWxzsOy3P) | [elkyn](https://open.spotify.com/artist/5qlnbZjig0IqfxA0qGRwpM) | [holy spirit social club](https://open.spotify.com/album/5YMex9qqYgeG2xPvcyaxyx) | 3:06 | 2022-05-25 | 2022-08-11 |
 | [Change Your/My Mind](https://open.spotify.com/track/2mlWoHJ4vbo9ZX5WbjQuvh) | [Sierra Bryan](https://open.spotify.com/artist/0DxlA4IwIOfdtyFjo4vVAh) | [Change Your/My Mind](https://open.spotify.com/album/0BnRdjswFaveQPqUYhV4nL) | 5:03 | 2023-02-08 | 2023-03-23 |
 | [Chapters](https://open.spotify.com/track/0pKGktONBSFB7faPMXMcXf) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Chapters](https://open.spotify.com/album/266ym29rkt2PNY7rA3BSQs) | 3:14 | 2023-08-30 | 2023-11-11 |

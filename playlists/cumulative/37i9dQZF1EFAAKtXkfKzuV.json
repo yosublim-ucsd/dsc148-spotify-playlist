@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Follow Me (Into the Sun)",
+        "url": "https://open.spotify.com/album/6L7ZEimKo9L67LdkYd8HpZ"
+      },
+      "artists": [
+        {
+          "name": "Sand\u00e9",
+          "url": "https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95689,
+      "name": "Follow Me (Into the Sun)",
+      "url": "https://open.spotify.com/track/1am9iMOzvV1VrhwCBsPmbc"
+    },
+    {
+      "album": {
         "name": "Forgot How to Love",
         "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
       },
@@ -327,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Gewissenlos",
+        "url": "https://open.spotify.com/album/2CJg2ELQSaeAf7QYt6zGUM"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180546,
+      "name": "Gewissenlos",
+      "url": "https://open.spotify.com/track/097dlPGhNKGPhoDniwPvCZ"
+    },
+    {
+      "album": {
         "name": "Gone for Good",
         "url": "https://open.spotify.com/album/7GxwZXchbvbGixgHnrNiXr"
       },
@@ -346,6 +382,24 @@
     {
       "album": {
         "name": "Guilty",
+        "url": "https://open.spotify.com/album/4a8rIXcOFlaNyvXKoO9GOQ"
+      },
+      "artists": [
+        {
+          "name": "Asher Angel",
+          "url": "https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137667,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1acexIzypi1joCwS2hbkiY"
+    },
+    {
+      "album": {
+        "name": "Guilty",
         "url": "https://open.spotify.com/album/1IgcvMS2cjy33nggjKuqVq"
       },
       "artists": [
@@ -356,7 +410,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 137667,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/3SGM2GWhK4hJSFon35F5l0"
@@ -593,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Met Yet",
+        "url": "https://open.spotify.com/album/0em5q8EqeBo9ElKOAiUJTu"
+      },
+      "artists": [
+        {
+          "name": "Iggy",
+          "url": "https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155167,
+      "name": "Met Yet",
+      "url": "https://open.spotify.com/track/2zAfz15lpOwc1HQSKi6TJR"
+    },
+    {
+      "album": {
         "name": "this is iggy",
         "url": "https://open.spotify.com/album/0kyjMpCVzimrmEspVwx8TX"
       },
@@ -773,6 +845,28 @@
     },
     {
       "album": {
+        "name": "Besser kann ich es nicht erkl\u00e4ren",
+        "url": "https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        },
+        {
+          "name": "Max Giesinger",
+          "url": "https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178386,
+      "name": "Nur kurz gl\u00fccklich",
+      "url": "https://open.spotify.com/track/65sT9oRdZBS4sZPiJc1DaU"
+    },
+    {
+      "album": {
         "name": "VIER EINHALB",
         "url": "https://open.spotify.com/album/3b6d3CBWl46BZZtlf172t1"
       },
@@ -788,7 +882,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 179706,
       "name": "Nur kurz gl\u00fccklich",
       "url": "https://open.spotify.com/track/5gpIZx6CcXqkWApA5zeZkj"

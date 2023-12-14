@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Marco Mares y Bandalos Chinos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,258 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,260 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 16 | [Cuatro Paredes](https://open.spotify.com/track/2MrSJk7Bm6GCmE5WfwOGOr) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Cuatro Paredes](https://open.spotify.com/album/4H09USw50ogQNzcpEu5cck) | 3:40 |
 | 17 | [fujifilm](https://open.spotify.com/track/31CBsIdvIq8qulxi0sbfw7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [fujifilm](https://open.spotify.com/album/1hJrQkyCwUT5K3d7zo5FAq) | 2:42 |
 | 18 | [Myspace](https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Myspace](https://open.spotify.com/album/4e7FjD0RXSRgRsPYdcc0Sl) | 3:24 |
-| 19 | [HONG KONG](https://open.spotify.com/track/0iLdrYzRN6sqO43sjVTXTg) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Rollo California](https://open.spotify.com/artist/5HCWq1mmJCaChsnTPtn9e5) | [HONG KONG](https://open.spotify.com/album/4KVKhbQzXsco9TN6eakpP8) | 2:51 |
+| 19 | [HONG KONG](https://open.spotify.com/track/0iLdrYzRN6sqO43sjVTXTg) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Rollo California](https://open.spotify.com/artist/23WprTctrNSgdvOPEGFfGp) | [HONG KONG](https://open.spotify.com/album/4KVKhbQzXsco9TN6eakpP8) | 2:51 |
 | 20 | [Ojitos rojos // 6:06 am](https://open.spotify.com/track/1H5tli411HbMgi4LOKHPsw) | [Ariadna](https://open.spotify.com/artist/4YlhuV7FMCEIc8DPz99Mn5) | [Ojitos rojos // 6:06 am](https://open.spotify.com/album/4OkbWf4RvWgbumwWCSzf4x) | 3:02 |
 | 21 | [táctica](https://open.spotify.com/track/4ZI0Q8RaXwSYK6T3CBkMGm) | [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [táctica](https://open.spotify.com/album/0GRGlZrUxwjBlu9lMqOtKR) | 2:23 |
 | 22 | [El Intento \- Remix](https://open.spotify.com/track/5iZFt8YmB47nSQACG35zXB) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl), [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [MaiLo](https://open.spotify.com/artist/227EEAgj0LdOnTixBQLD6i) | [El Intento \(Remix\)](https://open.spotify.com/album/1QMKTZ0pK2OCz1v5Um7xXp) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:41 |
 | 50 | [Que Mueva la Falda](https://open.spotify.com/track/14nRSWEIIifC6h6eFr1oPg) | [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1), [41V1L](https://open.spotify.com/artist/02WU1IpQpPQqdX9aGg9kSj) | [Nocturnos](https://open.spotify.com/album/2429WiRYHW5AyMQ8nmks37) | 3:34 |
 
-Snapshot ID: `MCw5MzNmYmVjMjZmMGNlYWRkZWYzZDQzZjAwZjVmMmMwYzBmYjdlNGMw`
+Snapshot ID: `MCw3NDcxODZlMGJjMzc1OTA3NDZlNWIxMjA2NDlhZDg3MWU3OWY3NWE1`

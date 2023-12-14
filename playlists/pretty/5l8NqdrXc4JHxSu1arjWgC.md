@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,120 likes - 682 songs - 1 day 21 hr 56 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,214 likes - 684 songs - 1 day 22 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -690,5 +690,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 680 | [Monday](https://open.spotify.com/track/6Xfvk73gSCk768QSHcT78B) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:57 |
 | 681 | [We're Gonna Get There In The End](https://open.spotify.com/track/0jZaA1IPbLT4dgLpf6jdtE) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:13 |
 | 682 | [Copy Of A](https://open.spotify.com/track/6xlsMxBuulXsX0hY37iE70) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Hesitation Marks](https://open.spotify.com/album/26m96TIXkNAiL4fl4aiFvd) | 5:22 |
+| 683 | [Vernie](https://open.spotify.com/track/14E3sWuyPFwTj1KVqn3hj2) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:15 |
+| 684 | [Piranha](https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF) | [Tripping Daisy](https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk) | [I Am An Elastic Firecracker](https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5) | 4:47 |
 
-Snapshot ID: `MTcwNSwwZTJkNTI3NzkxZTE1NGFmZDM3MTM0YjE3MzhhZjY5ZGUwZGZjYTRm`
+Snapshot ID: `MTcwNyw1ZDM1MjZlOWEwZGI2YjRkNDgyM2Q5YmM2YTRiYTA5ZmI1ZWU0ZDBj`

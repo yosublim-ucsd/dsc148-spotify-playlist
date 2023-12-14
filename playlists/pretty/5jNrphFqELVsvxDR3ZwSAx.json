@@ -1,77 +1,13 @@
 {
   "description": "A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!",
-  "num_followers": 60986,
+  "num_followers": 59178,
   "original_name": "Rock Icons",
   "owner": {
-    "name": "Digster",
+    "name": "Digster Global",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTgxOCwxYjJjZTU0YjgwZGMxZjFlMjlhOGVkMDk2YzNhMjUwODM5NjI0OWVm",
+  "snapshot_id": "MTgyNyw3NTgxZDUzNmFkODExZWE5NjlkMWFjM2M1YWIzZmRhYTAwZDBhYjEw",
   "tracks": [
-    {
-      "added_at": "2023-09-22 08:49:37",
-      "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
-      "url": "https://open.spotify.com/track/1mnQiO568zXIrUncttTZGp"
-    },
-    {
-      "added_at": "2023-09-22 08:49:37",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Dirty Work",
-      "url": "https://open.spotify.com/track/0s1aSsYlLIEiy16LjFWbdp"
-    },
-    {
-      "added_at": "2023-09-22 08:49:37",
-      "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2023-09-22 08:49:37",
-      "album": {
-        "name": "Reckoner",
-        "url": "https://open.spotify.com/album/3W0ErLTmFyX4uGfoXEcNOm"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
-        }
-      ],
-      "duration_ms": 374613,
-      "name": "Reckoner",
-      "url": "https://open.spotify.com/track/5a4vg531ZVktGPmR521xpo"
-    },
     {
       "added_at": "2023-09-22 08:49:37",
       "album": {
@@ -267,6 +203,22 @@
     {
       "added_at": "2023-09-22 08:49:37",
       "album": {
+        "name": "A Day At The Races (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "url": "https://open.spotify.com/track/1mnQiO568zXIrUncttTZGp"
+    },
+    {
+      "added_at": "2023-10-08 05:35:11",
+      "album": {
         "name": "News Of The World",
         "url": "https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT"
       },
@@ -442,6 +394,22 @@
     },
     {
       "added_at": "2023-09-22 08:49:37",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/0s1aSsYlLIEiy16LjFWbdp"
+    },
+    {
+      "added_at": "2023-10-08 05:35:14",
       "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/73BjTTmhhoiK4MGtINzp2c"
@@ -662,6 +630,22 @@
     },
     {
       "added_at": "2023-09-22 08:49:37",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
+    },
+    {
+      "added_at": "2023-10-08 05:35:18",
       "album": {
         "name": "The Miracle",
         "url": "https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9"
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2023-09-22 08:49:37",
       "album": {
+        "name": "Reckoner",
+        "url": "https://open.spotify.com/album/3W0ErLTmFyX4uGfoXEcNOm"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton Band",
+          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
+        }
+      ],
+      "duration_ms": 374613,
+      "name": "Reckoner",
+      "url": "https://open.spotify.com/track/5a4vg531ZVktGPmR521xpo"
+    },
+    {
+      "added_at": "2023-10-08 05:35:21",
+      "album": {
         "name": "Parallel Lines (Remastered)",
         "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
@@ -1363,6 +1363,10 @@
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
       "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
         {
           "name": "Wings",
           "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"

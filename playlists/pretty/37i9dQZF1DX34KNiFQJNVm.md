@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Solange Almeida e Mari Fernandez, Luan Santana e Ana Castela, Peso Pluma e Anitta e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,928,049 likes - 97 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,928,066 likes - 97 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [Chega No Céu](https://open.spotify.com/track/1qJQ19YelMgCwKzCksuAuv) | [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Chega No Céu](https://open.spotify.com/album/5ouXiGEQDB4dKZZdwYhUVS) | 3:47 |
 | 97 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
 
-Snapshot ID: `MCw5MDEwYjFiYzAxZDdhZTc0ZTcxMTJjMmFkZTUwZjhkY2MyYjllYzFm`
+Snapshot ID: `MCwzYTYwMDMzZWUxYzNhMjgwOWYwMzBmYmIxYTVmYTZlMWRhM2EyMzVm`

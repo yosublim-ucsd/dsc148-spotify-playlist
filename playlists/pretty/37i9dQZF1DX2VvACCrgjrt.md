@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: Kaleena Zanders
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,154 likes - 125 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,156 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,16 +122,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 112 | [BLEEP BLOOP](https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [BLEEP BLOOP](https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY) | 2:32 |
 | 113 | [The Blur](https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [The Blur](https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS) | 2:53 |
 | 114 | [Six Figures](https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC) | [¥€$](https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j) | 4:15 |
-| 115 | [Smash!](https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:26 |
-| 116 | [Closer](https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Closer](https://open.spotify.com/album/3qSY86gdQhHFFXnsZUWNHl) | 2:18 |
-| 117 | [Aarena \(Knock2 Remix\)](https://open.spotify.com/track/3QdNlDA5ZYzg99r1eafrO8) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [niteharts](https://open.spotify.com/album/73pupZEDJHSNWZTZgN2gQH) | 3:27 |
-| 118 | [All Night](https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg) | [Tough Break](https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW) | [All Night](https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV) | 3:08 |
-| 119 | [Spinnin'](https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [Amy Grace](https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io) | [Spinnin'](https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS) | 4:16 |
-| 120 | [SOOTHSAYER \(Jon Casey Remix\)](https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [SOOTHSAYER \(Jon Casey Remix\)](https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8) | 3:11 |
-| 121 | [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 |
-| 122 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 |
-| 123 | [Whistle](https://open.spotify.com/track/0DElhSwX8CocYF16W34qZj) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Whistle](https://open.spotify.com/album/74ewEdzLaaLzrLvQumG2bC) | 3:08 |
-| 124 | [Underground](https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Underground](https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg) | 3:41 |
-| 125 | [King Of The Monsters](https://open.spotify.com/track/4Gc2dQj8FdnJzB6VZCKKF1) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW) | [King Of The Monsters](https://open.spotify.com/album/5JEk4M796eQC2v2BDdc9s6) | 3:40 |
+| 115 | [Closer](https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Closer](https://open.spotify.com/album/3qSY86gdQhHFFXnsZUWNHl) | 2:18 |
+| 116 | [Aarena \(Knock2 Remix\)](https://open.spotify.com/track/3QdNlDA5ZYzg99r1eafrO8) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [niteharts](https://open.spotify.com/album/73pupZEDJHSNWZTZgN2gQH) | 3:27 |
+| 117 | [All Night](https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg) | [Tough Break](https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW) | [All Night](https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV) | 3:08 |
+| 118 | [Spinnin'](https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [Amy Grace](https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io) | [Spinnin'](https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS) | 4:16 |
+| 119 | [SOOTHSAYER \(Jon Casey Remix\)](https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [SOOTHSAYER \(Jon Casey Remix\)](https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8) | 3:11 |
+| 120 | [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 |
+| 121 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 |
+| 122 | [Whistle](https://open.spotify.com/track/0DElhSwX8CocYF16W34qZj) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Whistle](https://open.spotify.com/album/74ewEdzLaaLzrLvQumG2bC) | 3:08 |
+| 123 | [Underground](https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Underground](https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg) | 3:41 |
+| 124 | [King Of The Monsters](https://open.spotify.com/track/4Gc2dQj8FdnJzB6VZCKKF1) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW) | [King Of The Monsters](https://open.spotify.com/album/5JEk4M796eQC2v2BDdc9s6) | 3:40 |
+| 125 | [Let It Drop](https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Let It Drop](https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V) | 3:13 |
 
-Snapshot ID: `MCw0Mjk2NGM0ZjYyZjZhNGU5ZjEzNzg1NDRkNTAwNzBlNTY4MDJkZGVj`
+Snapshot ID: `MCw4NWE1ZmNlYjMzOGQ4MjVkNzlhY2I4YjY1NDJjMDBlZWY2NmQzNzY0`

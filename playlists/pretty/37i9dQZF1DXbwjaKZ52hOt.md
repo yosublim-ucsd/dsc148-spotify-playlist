@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,314 likes - 186 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,319 likes - 186 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 66 | [See Saw Margery Daw](https://open.spotify.com/track/5tUvxPayqR94RrYVl4wHRY) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 15 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/0E2rvJamSYembnyuuduOLc) | 1:09 |
 | 67 | [Skip To My Lou](https://open.spotify.com/track/05xUTBo0HN1HEq8Y3DBPih) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Nursery Rhymes](https://open.spotify.com/album/0VubFA5No9gVylojbWtyw9) | 2:34 |
 | 68 | [Five Little Speckled Frogs](https://open.spotify.com/track/2oi26hzvmT9mbOGMBoEWtG) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 2:49 |
-| 69 | [The Bear Went over the Mountain](https://open.spotify.com/track/0EN7UscZeRbMniUJncB3Ys) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR) | [Songs for Children, Vol\. 1](https://open.spotify.com/album/6kldUnHir7KwlEZbnoS3tj) | 1:01 |
+| 69 | [The Bear Went over the Mountain](https://open.spotify.com/track/0EN7UscZeRbMniUJncB3Ys) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [Songs for Children, Vol\. 1](https://open.spotify.com/album/6kldUnHir7KwlEZbnoS3tj) | 1:01 |
 | 70 | [This Little Piggy](https://open.spotify.com/track/4I8OaIHetNmvWmcvaKPAsS) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:37 |
 | 71 | [Miss Muffet](https://open.spotify.com/track/1cOCwJS3D30eOXBtd2Tt8X) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 3:07 |
 | 72 | [Jack and Jill](https://open.spotify.com/track/1ItOBdf2Bz9dW2zp8ChRvh) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 1 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/2LnrNenDciPezv2wXIKiZx) | 1:26 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 185 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/3NEgsdTwk3tIjt6x4d2VzE) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:10 |
 | 186 | [Twinkle Twinkle Little Star Baby Nursery Rhyme](https://open.spotify.com/track/0rlV6TDQRTb4ojvKr4Ddqa) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1DNGcZk3osbuRUoGbV7NsE) | 2:42 |
 
-Snapshot ID: `MCxjMDQwNWI4Zjc1ZDEyNGE1MWY5ZDg1ZWRiZmVjNjZjMjIxZjVlN2Uy`
+Snapshot ID: `MCwxNTI3MTU3ZDYzODlkNzliYmYwN2NmNGIyZDczZjY4MmY5MjZiMzkw`

@@ -6,7 +6,7 @@
     "name": "richachatlani",
     "url": "https://open.spotify.com/user/richachatlani"
   },
-  "snapshot_id": "NzM1LDgzOGUwNjQ1Njc0Y2Y0OTMyY2U3YjExYjQxYTI4ODM4NDg1NmZjNTA=",
+  "snapshot_id": "NzM3LDJiNTMyYTM2Y2QwZTgzOWY5YjA2YWQwYmJkMjFhOWI1Y2RiM2E3ZDY=",
   "tracks": [
     {
       "added_at": "2017-09-09 16:35:07",
@@ -655,7 +655,7 @@
     {
       "added_at": "2017-09-09 16:47:04",
       "album": {
-        "name": "Esc\u00e1pate Conmigo",
+        "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
         "url": "https://open.spotify.com/album/5uWJP1QRmJemAFD3JH2LOG"
       },
       "artists": [
@@ -669,7 +669,7 @@
         }
       ],
       "duration_ms": 232786,
-      "name": "Esc\u00e1pate Conmigo",
+      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
       "url": "https://open.spotify.com/track/2cnKEkpVUSV4wnjQiTWfH6"
     },
     {
@@ -4571,7 +4571,7 @@
     {
       "added_at": "2017-09-09 17:36:26",
       "album": {
-        "name": "El Taxi",
+        "name": "El Taxi (feat. Sensato & Osmani Garcia)",
         "url": "https://open.spotify.com/album/4cF0dnRBzcZHIrJGnFSc7p"
       },
       "artists": [
@@ -4589,7 +4589,7 @@
         }
       ],
       "duration_ms": 249680,
-      "name": "El Taxi",
+      "name": "El Taxi (feat. Sensato & Osmani Garcia)",
       "url": "https://open.spotify.com/track/2LMPgL8a0GNqgEPpwBGcbx"
     },
     {
@@ -4743,7 +4743,7 @@
     {
       "added_at": "2017-09-19 23:01:15",
       "album": {
-        "name": "Expl\u00edcale",
+        "name": "Expl\u00edcale (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/0uy8Xibq7kusvI4BqGZMMM"
       },
       "artists": [
@@ -4757,7 +4757,7 @@
         }
       ],
       "duration_ms": 223146,
-      "name": "Expl\u00edcale",
+      "name": "Expl\u00edcale (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/48yAM9xWBwT4Ac9G1y20rw"
     },
     {
@@ -13451,6 +13451,54 @@
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2023-10-14 14:15:15",
+      "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Con La Misma Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2JmfDHsnKif1LDJGjpikiA"
+    },
+    {
+      "added_at": "2023-11-03 21:43:37",
+      "album": {
+        "name": "OA",
+        "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "OA",
+      "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
     }
   ],
   "unique_name": "murga",

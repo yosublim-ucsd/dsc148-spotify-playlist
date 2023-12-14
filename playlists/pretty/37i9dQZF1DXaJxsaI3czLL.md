@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,954 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,955 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 99 | [それでも家族](https://open.spotify.com/track/4iqy8c3PaPQreAfeROJg1E) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [映画「おじいちゃん、死んじゃったって。」 オリジナル・サウンドトラック](https://open.spotify.com/album/0rI3aaQ2Ij6uKwDWyIald8) | 2:02 |
 | 100 | [遊覧船](https://open.spotify.com/track/2Uf76zPC65kpeIfkZkhqZ4) | [Ai Iwasaki](https://open.spotify.com/artist/51qaMmNzuOlzFsRI7GXK6H) | [TSUBOMI](https://open.spotify.com/album/0PC24I2HdtyX6jYvB6KkQ8) | 3:14 |
 
-Snapshot ID: `MCw5M2M5NGIwZmIwZWI0NmJkYmRhNGE3ODBjODI4YmZmMGMzOWIyNDhl`
+Snapshot ID: `MCwzMThjZjQ1OTIwNDM3YjNiMTBjZTM1MjNjOTI4MTc4MmFjZjNiMTg3`

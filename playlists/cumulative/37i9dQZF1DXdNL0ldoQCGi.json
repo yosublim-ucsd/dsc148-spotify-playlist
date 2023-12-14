@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "se vc n postar sua retrospectiva esse ano...a gnte vai saber que vc ta envergonhado!!!!",
+  "description": "na sua opini\u00e3o, qual foi a trend do ano????",
   "name": "faz a trend",
   "tracks": [
     {
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 202105,
       "name": "At\u00e9 o Amanhecer",
       "url": "https://open.spotify.com/track/1SBz05f5xeykR0m9NR6F3p"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 170202,
       "name": "At\u00e9 o Amanhecer - Speed",
       "url": "https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa"
@@ -1758,6 +1758,24 @@
       "duration_ms": 155076,
       "name": "brinks!",
       "url": "https://open.spotify.com/track/3QOYcmlQz9xu9XRToik7oc"
+    },
+    {
+      "album": {
+        "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
+        "url": "https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
+      "url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1"
     },
     {
       "album": {
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 179599,
       "name": "ELA PIROU NA DODGE RAM",
       "url": "https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ"
@@ -7113,6 +7131,24 @@
     },
     {
       "album": {
+        "name": "Pepp@",
+        "url": "https://open.spotify.com/album/1BGVpDtN7BiwUKQYvhnJtm"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110994,
+      "name": "Pepp@",
+      "url": "https://open.spotify.com/track/6tV3ou10FfpVcUbUwPfTjs"
+    },
+    {
+      "album": {
         "name": "Belial",
         "url": "https://open.spotify.com/album/3uLFEWcaTwDdrbW1JjChNn"
       },
@@ -9207,6 +9243,24 @@
     },
     {
       "album": {
+        "name": "Tem Caf\u00e9",
+        "url": "https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5"
+      },
+      "artists": [
+        {
+          "name": "Hits Forr\u00f3",
+          "url": "https://open.spotify.com/artist/4xyZi8RUfi2Dh5UAHA8Ylq"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158122,
+      "name": "Tem Caf\u00e9",
+      "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
+    },
+    {
+      "album": {
         "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
@@ -9689,6 +9743,28 @@
     },
     {
       "album": {
+        "name": "Vem Morenin",
+        "url": "https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK"
+      },
+      "artists": [
+        {
+          "name": "Neno No beat",
+          "url": "https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159276,
+      "name": "Vem Morenin",
+      "url": "https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx"
+    },
+    {
+      "album": {
         "name": "Pivete do Arrocha Funk",
         "url": "https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9"
       },
@@ -9704,7 +9780,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 159276,
       "name": "Vem Morenin",
       "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Nuvem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249426,
+      "name": "A Nuvem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
+    },
+    {
+      "album": {
         "name": "Agrade\u00e7o ao Senhor",
         "url": "https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 260156,
       "name": "Ouve Senhor",
       "url": "https://open.spotify.com/track/47ScrQ1RpNNmMrFRqwJh64"

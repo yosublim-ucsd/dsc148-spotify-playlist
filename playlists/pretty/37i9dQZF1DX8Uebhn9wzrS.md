@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,635 likes - 600 songs - 22 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306,690 likes - 600 songs - 22 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 81 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 |
 | 82 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 |
 | 83 | [Breeze](https://open.spotify.com/track/4t73es0R4IkXujsn8Mm2Ry) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Breeze](https://open.spotify.com/album/4ySIUffu45EVKJH20DokXQ) | 3:29 |
-| 84 | [Marbles](https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [Marbles](https://open.spotify.com/album/54iZQMfNa484KcQjlkM9yF) | 2:11 |
+| 84 | [Marbles](https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Marbles](https://open.spotify.com/album/54iZQMfNa484KcQjlkM9yF) | 2:11 |
 | 85 | [Like a Chameleon](https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Like a Chameleon](https://open.spotify.com/album/5oSBoD1IusxIf8wcn8P0du) | 1:59 |
 | 86 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 |
 | 87 | [Your Vibe](https://open.spotify.com/track/1DM6OEWbOSsaL0eDMQBmhV) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [De La Crème](https://open.spotify.com/album/7sdDO4v6wf19Kz60IszTap) | 1:27 |
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 599 | [Long Green](https://open.spotify.com/track/4ADWxy7ycP8yvfYvbKrgro) | [ULMÄR](https://open.spotify.com/artist/68q8XXsA6PTuUJGRge3sR5) | [Long Green](https://open.spotify.com/album/08vHVer2zsqXCop1SKBA5Y) | 2:52 |
 | 600 | [Jungle](https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Jungle](https://open.spotify.com/album/52qgVVnp2H1WOoLpzddl4e) | 2:18 |
 
-Snapshot ID: `MCwxYWQxNWEyNGEyNmEyZTg2ZDNmY2ZjMzI1ZDM4MTMxZGNiYTE1MWZl`
+Snapshot ID: `MCw2YzIwYjM5ODAyNWZlOWRmYzk0YzZhYmY4OTU2OTM5Njc1ZjY3ZDUx`

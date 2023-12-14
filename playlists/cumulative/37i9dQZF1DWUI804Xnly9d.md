@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-225 songs - 12 hr 37 min
+226 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Acche Hain](https://open.spotify.com/track/6dxq28SkzTofI0p7mAarhl) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Acche Hain](https://open.spotify.com/album/5Q875wNYcM8u0jQJav8mDt) | 2:16 | 2023-07-12 | 2023-09-30 |
 | [Afwaeen](https://open.spotify.com/track/4Iy7HgDxa19p4MxVaA8W9L) | [Sunny Subramanian](https://open.spotify.com/artist/4Otbfyw3dUGWXAp3C7zbS2) | [Afwaeen](https://open.spotify.com/album/6tIJgl2e9HN8m9lzv5NVLD) | 2:23 | 2023-09-15 | 2023-11-29 |
 | [Aisa Lagey \- Reprise](https://open.spotify.com/track/6rKrjP0W8yNi24vigkhE0A) | [Ashutosh Phatak](https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl), [Mandar Deshpande](https://open.spotify.com/artist/7Hx3f4bmmfn6Ra2wu0dG2c), [Niranjan Iyengar](https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i) | [Mumbai Diaries Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT) | 4:27 | 2023-10-04 | 2023-11-16 |
+| [Aise Kyun](https://open.spotify.com/track/2sT0eosuhBEkw8dz6qFxUo) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Mismatched: Season 1 \(Music from the Netflix Original Series\)](https://open.spotify.com/album/4UBpXkgzFj39NOcdfuQpxt) | 4:24 | 2023-12-14 |  |
 | [Ajib Dastan Hai Yeh \(Unplugged\)](https://open.spotify.com/track/0hVBdbXj1YmOSOct1rz3R9) | [Ananya Dwivedi](https://open.spotify.com/artist/5ArT9aXN7G2UAXqaKc69vu) | [Ajib Dastan Hai Yeh \(Unplugged\) \- Single](https://open.spotify.com/album/2t1xnQ9YDu1awbshgKv8JU) | 3:00 | 2023-05-17 | 2023-06-03 |
 | [Akela](https://open.spotify.com/track/6XJes28674sRmlHAlndb5o) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 5:01 | 2023-08-04 |  |
 | [Akela Rasta](https://open.spotify.com/track/6s7nj6WHYqpn8Ywm1rqFIx) | [Suraj Nag](https://open.spotify.com/artist/2vX0pNOuin4A2xIM1Uy28d), [Sneha Bhattacharya](https://open.spotify.com/artist/4R3pfd3q5R5aMZcobk8InD), [Varun Chaturvedi](https://open.spotify.com/artist/3ZN07Zfrfk4RxZDmwFlOvL) | [Akela Rasta](https://open.spotify.com/album/0risckpoN86HOTMXh11HdH) | 1:48 | 2023-05-17 | 2023-07-13 |
@@ -145,7 +146,7 @@
 | [Meherbaan](https://open.spotify.com/track/0wJ9ScQ2fMJspiwOU1oO12) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Amjad Bagadwa](https://open.spotify.com/artist/1ShV4w1KY1Sofk04H6qzdL) | [Meherbaan](https://open.spotify.com/album/0YxC1L4SSsWUrg5OgoyTEi) | 2:56 | 2023-05-25 | 2023-06-06 |
 | [Mein Aur Tum](https://open.spotify.com/track/2xb679KGUYTQUXeJK0IqMo) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Mein Aur Tum](https://open.spotify.com/album/7JjirikQXBXGNkoSHMmTFm) | 2:49 | 2023-05-17 | 2023-05-26 |
 | [Meri Jaan](https://open.spotify.com/track/3uilAC3xBH3PclTwcOZLPG) | [Nitin Sharma](https://open.spotify.com/artist/3MJdIBBwnU6bgvdZ5Opq1b), [Swati Marwal](https://open.spotify.com/artist/5AaZWpvlOxpKkBYfBR3PDQ) | [Meri Jaan \- Single](https://open.spotify.com/album/20JpqXx3m3XsWEROa6JCfd) | 3:17 | 2023-05-17 | 2023-06-10 |
-| [Meri Jaan](https://open.spotify.com/track/0VlepsCPuzUblC3ogHFnct) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Meri Jaan](https://open.spotify.com/album/4R9zeNJdQ5HIUeacMzTC42) | 5:33 | 2023-09-21 |  |
+| [Meri Jaan](https://open.spotify.com/track/0VlepsCPuzUblC3ogHFnct) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Meri Jaan](https://open.spotify.com/album/4R9zeNJdQ5HIUeacMzTC42) | 5:33 | 2023-09-21 | 2023-12-14 |
 | [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 | 2023-07-25 |  |
 | [Moonrise \- Acoustic Version](https://open.spotify.com/track/0lyVQP4aWjnbW3T3a21wh9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise \(Acoustic Version\)](https://open.spotify.com/album/40UTvukiFB88tuyc3oN2NJ) | 2:44 | 2023-05-17 |  |
 | [Mujhe Mere Naam Se](https://open.spotify.com/track/3QaIy5RwASN8UuRVuw5BHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mujhe Mere Naam Se](https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap) | 3:43 | 2023-05-17 | 2023-09-26 |

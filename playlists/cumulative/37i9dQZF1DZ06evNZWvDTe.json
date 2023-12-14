@@ -134,7 +134,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 351520,
       "name": "Anadwo Yi Dei",
       "url": "https://open.spotify.com/track/1VhoeCvXoki1sCHUGdykPA"
@@ -196,6 +196,28 @@
       "duration_ms": 291111,
       "name": "Anything",
       "url": "https://open.spotify.com/track/6xuBRuNBKQR3LnBjUS7ZIn"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286039,
+      "name": "Asikyire",
+      "url": "https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA"
     },
     {
       "album": {
@@ -1150,7 +1172,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 166153,
       "name": "Freaky & Naughty",
       "url": "https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj"
@@ -1890,7 +1912,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 261009,
       "name": "Mary",
       "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 236202,
       "name": "Odo Dede",
       "url": "https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw"
@@ -2330,6 +2352,24 @@
       "duration_ms": 247462,
       "name": "Original",
       "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
+    },
+    {
+      "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
     },
     {
       "album": {
@@ -2678,7 +2718,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 86661,
       "name": "Sizeless (Skit)",
       "url": "https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ"
@@ -3126,7 +3166,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 251820,
       "name": "Wavy (feat. Sarkodie)",
       "url": "https://open.spotify.com/track/7mD6V6JHA0daZKOvVrBKp7"
@@ -3324,7 +3364,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 219626,
       "name": "You Know",
       "url": "https://open.spotify.com/track/4WyeQ7S4ggK6OT0xfoFJK2"

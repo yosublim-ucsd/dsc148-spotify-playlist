@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Todo Historias (Remastered 192 khz)",
+        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277266,
+      "name": "F\u00e1bula - Remastered 2021",
+      "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
+    },
+    {
+      "album": {
         "name": "Battito Infinito",
         "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 218426,
       "name": "Siamo",
       "url": "https://open.spotify.com/track/7jkZflOcHyeFz0xzaOZRHw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,653 likes - 150 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,660 likes - 150 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 149 | [FLEETING](https://open.spotify.com/track/35IlMSTOjZ0JDIKeHhQUhM) | [Smitty Mamba](https://open.spotify.com/artist/4KLalspUgiWB3ZOrytNZ8Q), [ChillhopGuru](https://open.spotify.com/artist/5xoXrs44FwySC3ILOWqZts) | [Radiant Mix](https://open.spotify.com/album/3N5VGhJ0G8xgh1zO86hYOt) | 2:10 |
 | 150 | [Somewhere Else](https://open.spotify.com/track/5djyaDp1Antker31qnLCiv) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Somewhere Else](https://open.spotify.com/album/04prMufgRpnNLxCev5elzo) | 2:33 |
 
-Snapshot ID: `MCxlMTExY2IzMGYwZDZlNTYwMzE1ZWEzZDE0NWI0ZTc0NjNmNTJmNDkz`
+Snapshot ID: `MCwxZWU4Y2RkNDY4OWIzOGU1NWZmMTkwMTBkYzI0ZjgxNDcxNDY4Mjc3`

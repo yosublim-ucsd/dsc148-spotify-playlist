@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 212826,
       "name": "Hablar De Ti",
       "url": "https://open.spotify.com/track/5Tepzmd5UKcLKQL2K1mLnO"
@@ -566,6 +566,24 @@
       "duration_ms": 229880,
       "name": "Mi Sorpresa Fuiste T\u00fa",
       "url": "https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3"
+    },
+    {
+      "album": {
+        "name": "Mitad Y Mitad",
+        "url": "https://open.spotify.com/album/046St1TwXGyKvJceYfLhwl"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160613,
+      "name": "Mitad Y Mitad",
+      "url": "https://open.spotify.com/track/6op4hkxR1jfX9t1Dghe8BN"
     },
     {
       "album": {

@@ -958,9 +958,27 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "date_added": "2022-05-25",
+      "date_added": "2023-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 169706,
+      "name": "Plain Ol' Fashioned Girl",
+      "url": "https://open.spotify.com/track/5ymuJxWAKft2T1P6F9Y6YN"
+    },
+    {
+      "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
       "duration_ms": 395093,
       "name": "Rainy Days and Mondays",
       "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"

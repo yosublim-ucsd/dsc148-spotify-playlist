@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,693 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,012 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 40 | [Bad Bitch](https://open.spotify.com/track/0GvgMLQN98WOVkkN6iuSQF) | [Peach Club](https://open.spotify.com/artist/0iqaZVmBEEmjk5FcoEOPVv) | [Cherry Baby EP](https://open.spotify.com/album/38IosoVjY7oVRh7AYtlPpA) | 4:00 |
 | 41 | [Who Are You?](https://open.spotify.com/track/5w5XQZVRCgSAQqhy4TK4FH) | [CATBEAR](https://open.spotify.com/artist/2VcMAUD65hHSitLhcbyjIS) | [Who Are You?](https://open.spotify.com/album/5dGJuwklJhKw8tua4pah3O) | 3:07 |
 | 42 | [Work](https://open.spotify.com/track/7bNmkqAW6TbyVaWhOB01ws) | [Emily Breeze](https://open.spotify.com/artist/581WwGSO6sWHN0RLc9EBqr) | [Rituals](https://open.spotify.com/album/160kR6odSYYxQJdrg8D7xD) | 5:36 |
-| 43 | [Goth Girl](https://open.spotify.com/track/6Hls9RwOCumrOU92veAeLv) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/3ciwyqmDLBZoPmMvs1YKJH) | 2:34 |
+| 43 | [Goth Girl](https://open.spotify.com/track/7jjo2Tf8NdcftM4wsKgyVK) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Potions](https://open.spotify.com/album/3QZf7mvxoooq6bJtp93KnC) | 2:35 |
 | 44 | [I'm Glad That We Broke Up](https://open.spotify.com/track/65L4dy4ggpB1z9jmr1zJQr) | [Du Blonde](https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw), [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Homecoming](https://open.spotify.com/album/2go7Gd1Hg25m1qDqmgtOf8) | 2:04 |
 | 45 | [Chickens](https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Chickens](https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI) | 4:20 |
 | 46 | [Feel Me?](https://open.spotify.com/track/1tK0yRqjlCvEJ46vouBg87) | [Beefywink](https://open.spotify.com/artist/1wpwwyRDliuWyKf7IEohjC) | [Dance in the Deluge](https://open.spotify.com/album/0nOkXiotfFqGlESwEofd2w) | 3:29 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 51 | [The Best](https://open.spotify.com/track/6fekGHLJPWZQZQhPJgcJfl) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Compliments Please \(Deluxe\)](https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex) | 3:50 |
 | 52 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 
-Snapshot ID: `MCwwYTk1Y2RlODE4MDQxY2NhODkyODRhNDFiMDMwOWUxMjI1ZTAwZTE3`
+Snapshot ID: `MCw1NzRiOTdlYzc4YzgzODQzMzJkOGNlZmY3MGFiOGY2MThlNWJmN2Zh`

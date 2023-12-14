@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,233 likes - 160 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,235 likes - 160 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 159 | [Blissful Pulses](https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF) | [astral rhythms](https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu) | [Blissful Pulses](https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY) | 3:20 |
 | 160 | [Ātmik Sāmānjasya / Harmony of the Soul](https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Ușā Dhyāna](https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt) | 2:27 |
 
-Snapshot ID: `MCw5YzU1YmI3Nzk2MGU2MDY1ZTYwYWUwZGU3NWQ4MzhhYTkzZjlkYjA4`
+Snapshot ID: `MCxjN2QwZTdhZWE0NGY1MzZhYzFjNTUxZDBkNTQwMWFiZDNlMjAwNjE1`

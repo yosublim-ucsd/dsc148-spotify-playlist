@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,779 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,786 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 149 | [Diablo, Qué Chimba](https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Diablo, Qué Chimba](https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy) | 3:51 |
 | 150 | [Cuando Ella Se Va](https://open.spotify.com/track/5d2NpYRSedleVRVzQUxCNI) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [Cuando Ella Se Va](https://open.spotify.com/album/3NHoaNSKaPIejGHLwaXKDP) | 2:43 |
 
-Snapshot ID: `MCxhZmFlMjEwZTc2Yjc2YmViYWNhOGZmODZmZTZjYTI3NTgzNDYyMjA1`
+Snapshot ID: `MCwzYWFhMTllM2I5Y2U3ZDA0MzA5NzNlNWJhOTZmNTQ1OWY5ODAwNzY1`

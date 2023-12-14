@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,119 likes - 125 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,121 likes - 125 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 124 | [When You Are Near](https://open.spotify.com/track/0b7B42MUMSywoNjY43dkD3) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n) | 8:22 |
 | 125 | [Sweet Sorrow](https://open.spotify.com/track/0zkZ2DiZf6RAjDLdE0n6Os) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [MoodSwing](https://open.spotify.com/album/2pGsmKvSJPyv8sjJ7fzdGp) | 8:43 |
 
-Snapshot ID: `MCxlMDUwZjkxNmJlMDFjZWVlNTA2MjY3YTNjOGM3ODk0OGNkMWUyODA2`
+Snapshot ID: `MCw2NzViNmRjNTA2NmJlODUyZjZlY2VhMmE3NzQ3MDFiMTVjYjNmMWE1`

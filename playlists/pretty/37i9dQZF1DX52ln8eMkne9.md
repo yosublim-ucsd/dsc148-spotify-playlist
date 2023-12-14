@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,365 likes - 180 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,376 likes - 180 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 179 | [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 |
 | 180 | [For All We Know](https://open.spotify.com/track/37HQHRDtFQ3H80fEgxiW9I) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [For All We Know](https://open.spotify.com/album/3V0kkAM0XktsMtD88qXHZO) | 5:05 |
 
-Snapshot ID: `MCw4YzRjMjQ3ZTYzNjdhZmFlMDBiNTEzN2Q4MTk1ZDNmZDk2MTMwZmFl`
+Snapshot ID: `MCxiOGIzMzEwYTVkMGZhZTg2MTY0MWRmODE3YmUzOGNjZmMwOTM1NmNm`

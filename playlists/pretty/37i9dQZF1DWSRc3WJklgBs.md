@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,653 likes - 230 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,667 likes - 230 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 |
 | 230 | [There Is A Light](https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [There Is A Light](https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81) | 3:01 |
 
-Snapshot ID: `MCwxMmFkZmI1ZjJhM2RiZTE1YTcxZmE3YzM1NmU4YTA3NmQ3YzhlYmUx`
+Snapshot ID: `MCxiZmFmYjYxNDY3YzEwZTA3NTI1ZDJiNDhjY2NiYzM4MTkwYjhkNzk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Jon Casey & Pauline Herr
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,076 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,075 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 |
 | 100 | [Love Hotel](https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN) | [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Love Hotel](https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl) | 3:23 |
 
-Snapshot ID: `MCxlZDljNTY4NGE1MjUzOGE4MzM4NDQwNjQ0M2QzYmQyZjQzZmY0Mjhi`
+Snapshot ID: `MCwzN2ExODBkOTQxZGJmNTViNTQ0OGFmMjhlNmEwMzFjYTBkNjExMDZi`

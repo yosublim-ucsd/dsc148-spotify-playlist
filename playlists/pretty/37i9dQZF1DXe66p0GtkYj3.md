@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 
 > Empezó el zapateo\. ¡Take tarake take!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,103 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,420 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 58 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 59 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
 | 60 | [Si Es Trucho Es Trucho](https://open.spotify.com/track/6wQufshN8RwGazPyDQ0WXM) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [Verbo Flow](https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ) | [Si Es Trucho Es Trucho](https://open.spotify.com/album/0fudaOv4OlQqIUH3uQ6IM7) | 5:37 |
-| 61 | [El Sueño \- Radio Edit](https://open.spotify.com/track/0HDudjyoG3UpWIMAJrXIaB) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [El Sueño](https://open.spotify.com/album/2JSS4JhgTUBykDukTGe7iX) | 3:55 |
+| 61 | [El Sueño \- Radio Edit](https://open.spotify.com/track/0Fdg1K74O83ByiiOUpNBq5) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [El Sueño](https://open.spotify.com/album/2B9He5YZScuJXbDqeNZNqL) | 3:55 |
 | 62 | [Double Tap \- Original Mix](https://open.spotify.com/track/2DThMdUkMB3S7pjDJIqWjE) | [Shawn Mitiska](https://open.spotify.com/artist/6CDwy5Z04FQ6HrgHIs2RGN), [Sedi](https://open.spotify.com/artist/5qwt3YHwgFR4Ror0DhxXqP) | [Breaking The Silence, Vol\. 3 \(Unmixed\)](https://open.spotify.com/album/7pL1OFRLBqH44jBsfAJtaH) | 5:40 |
 | 63 | [Bailalo](https://open.spotify.com/track/0Igd371jQ2prEGGCc9FmmE) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7), [MRSAX](https://open.spotify.com/artist/2HLeLKNPf0OmoZikqg6omJ), [KATH HERRERA](https://open.spotify.com/artist/74hpXfY56qzwZvvGsZfWP7) | [Bailalo](https://open.spotify.com/album/0Up5mRPVydD8WGYQydwboR) | 4:05 |
 | 64 | [Que Comience La Fiesta 2](https://open.spotify.com/track/1b3qNtjbi9OvVQTZ1A50BC) | [Dj Freky](https://open.spotify.com/artist/5Z2BYtWCOshEjluQgPXl3v) | [Que Comience La Fiesta](https://open.spotify.com/album/6WlofRrf03dxpSZ7Sx7Zk7) | 4:08 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 68 | [Siento](https://open.spotify.com/track/0Egq5VEdpO2N1mKkG4AT1m) | [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI), [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt) | [Siento](https://open.spotify.com/album/4zhQkVYCdh97mVODcPppvi) | 3:59 |
 | 69 | [Dame Lo Que Necesito](https://open.spotify.com/track/4VD7GP0r61nRdYfwn7CIkB) | [Sebastien Rebels](https://open.spotify.com/artist/2ioGOJriBxdLqsZ0iOcY0i) | [Dame Lo Que Necesito](https://open.spotify.com/album/1qJcn8JEJRkhdZyiIc1QdJ) | 3:04 |
 | 70 | [Me Provocas](https://open.spotify.com/track/4PyXKLmDEF9pCJbzaVHQxt) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Origenes](https://open.spotify.com/album/66OBjU5X4edaRBuNZHaZYV) | 4:53 |
-| 71 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 |
+| 71 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 |
 | 72 | [Way Out \- Radio Edit](https://open.spotify.com/track/7m4hghG69Jej8ngs8LYgdX) | [Juan Cuadros](https://open.spotify.com/artist/1PvZf2BbjSJBqfiyXLZYzC), [Xotto](https://open.spotify.com/artist/6nvjCOWYBl94cnhiZqvA6I) | [Way Out](https://open.spotify.com/album/1FNVBqISJ3d5rAgu9VwSB2) | 4:00 |
 | 73 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 |
 | 74 | [Haciéndome el Amor](https://open.spotify.com/track/0a0nRK8pQpzjHTPpEOvrwx) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Harmoob](https://open.spotify.com/artist/67cn5quJBbSYgeeiUnOZts), [Jery Sandoval](https://open.spotify.com/artist/1eayUbKToItiafMJGra6pF) | [Haciéndome el Amor](https://open.spotify.com/album/0zwPHUPtqpfz4xJF8GcByl) | 4:30 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 84 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 85 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 
-Snapshot ID: `MCxhZmYyN2ExZDI4YmM3ODk1YTNiNDUxZTQ3MWU4ZWM1MzRiZWEzZjJm`
+Snapshot ID: `MCwwNDQ0ZmRiNjk5Mzk5YmU0YmE0N2RhMDFlODYwY2JhNGE3MDJkODEx`

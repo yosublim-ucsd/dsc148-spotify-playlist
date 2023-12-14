@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Hide (CS01 Version)",
+        "url": "https://open.spotify.com/album/245oQswZLETcE6V7aEdNWG"
+      },
+      "artists": [
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181175,
+      "name": "Hide - CS01 Version",
+      "url": "https://open.spotify.com/track/1WZGaNYzreZrvteuUEfp8X"
+    },
+    {
+      "album": {
         "name": "High-Tech High-Life",
         "url": "https://open.spotify.com/album/3Yc4Qy3VGS4IJOJGYwKpjR"
       },

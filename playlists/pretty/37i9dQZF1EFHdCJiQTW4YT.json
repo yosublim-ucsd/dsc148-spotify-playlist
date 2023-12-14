@@ -1,15 +1,15 @@
 {
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB\">Stephen Wrabel</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
-  "num_followers": 287,
+  "num_followers": 303,
   "original_name": "Written By Stephen Wrabel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjU1MjAsMDAwMDAwMDAwMmIxNzA1M2RmN2Q5NmQ1NjdkM2I1ZDMxMmEyNzhlNA==",
+  "snapshot_id": "MjgzNzU3NjIsMDAwMDAwMDBkZGY0YjEyZjJhNzkxOTdiNjkzN2Y5YzU4OWE0YjhlZg==",
   "tracks": [
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Kids At Play- EP",
         "url": "https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7n1940b6kHcaEewFSZXnXa"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Forget The World (Deluxe)",
         "url": "https://open.spotify.com/album/7G1441qDQeERZDyMipQPE8"
@@ -49,27 +49,7 @@
       "url": "https://open.spotify.com/track/2ldAdghnrO34HPcZ0IWfTu"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "name": "The Dap-Kings Horns",
-          "url": "https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Woman (feat. The Dap-Kings Horns)",
-      "url": "https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Not Your Muse (Deluxe)",
         "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
@@ -85,7 +65,27 @@
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Woman (Official Video)",
+        "url": "https://open.spotify.com/album/5jDLMWz2OFlvN5CwB1mJIS"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "The Dap-Kings Horns",
+          "url": "https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/2VfHyhliFS9VPQnYTgBzDw"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "The Village",
         "url": "https://open.spotify.com/album/1tVsOrPK4fwQB6kN7jIZxy"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/6epvwUINain4iSHCTWA0sj"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Free Time",
         "url": "https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/0D2xguFRqCF0OUqXCkqrpU"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Ritual (feat. Wrabel)",
         "url": "https://open.spotify.com/album/3mwc5RiHDXgirCArUrt7HH"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/04AYgtKFrpldRXe5y0LNGQ"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "11 Blocks",
         "url": "https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/1E3ghCAkxEdT5KHVBwArr3"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/2SOUTN8rzGAkBr001HqAXe"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Surround Me - EP",
         "url": "https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4"
@@ -201,10 +201,10 @@
       "url": "https://open.spotify.com/track/4aai1PoVGPcspMhmzOzpZN"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni"
+        "name": "Raising Hell (Official Video)",
+        "url": "https://open.spotify.com/album/3mjegKOfIfgTT0KwbrEBKD"
       },
       "artists": [
         {
@@ -216,28 +216,12 @@
           "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
         }
       ],
-      "duration_ms": 169693,
-      "name": "Raising Hell (feat. Big Freedia)",
-      "url": "https://open.spotify.com/track/14wPnCr1Z8CIHBVpnpcTVt"
+      "duration_ms": 212906,
+      "name": "Raising Hell",
+      "url": "https://open.spotify.com/track/4NVIkvGv6TDLKoiUWI1Ll9"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9"
-      },
-      "artists": [
-        {
-          "name": "Louis Tomlinson",
-          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Don't Let It Break Your Heart",
-      "url": "https://open.spotify.com/track/4nbQRLAPq202lsQsv9FNwK"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF"
@@ -253,7 +237,23 @@
       "url": "https://open.spotify.com/track/2XrMjGhpgMZp5qzD4iThEp"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Don't Let It Break Your Heart",
+      "url": "https://open.spotify.com/track/4nbQRLAPq202lsQsv9FNwK"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "The Aviary",
         "url": "https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/6R1ArLLvqPvS3AHg9YgmrQ"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "LIFE",
         "url": "https://open.spotify.com/album/5NPUViV7mLNEGSsRBsdhpe"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/5NFkxKc6RO3qGuCdyVvKJb"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "We Could Be Beautiful",
         "url": "https://open.spotify.com/album/1knxEStPE5aiGzJDa75Zrf"
@@ -301,10 +301,30 @@
       "url": "https://open.spotify.com/track/6F84CqAnWGg6CZiWFNDuQ9"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Bad For Me (Official Music Video)",
+        "url": "https://open.spotify.com/album/6TXHMnDzUEvd1RtLUhlBwY"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 213141,
+      "name": "Bad For Me",
+      "url": "https://open.spotify.com/track/5FUiL77CbrEv7e7aT2jigi"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "I'm Good",
-        "url": "https://open.spotify.com/album/32A8Ulta8Z9WvlEAsmENmX"
+        "url": "https://open.spotify.com/album/2gLOWwucUUQ9sbCIavclYl"
       },
       "artists": [
         {
@@ -314,66 +334,10 @@
       ],
       "duration_ms": 217136,
       "name": "I'm Good",
-      "url": "https://open.spotify.com/track/6ZiJwSdU9H22IVPzCVJqCf"
+      "url": "https://open.spotify.com/track/5mKChpSRCbOXvhLB9bE29m"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Bloodstain",
-        "url": "https://open.spotify.com/album/3zRgSbaggJiEhh8IeZtAfG"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Bloodstain",
-      "url": "https://open.spotify.com/track/3vHTlIT5uIilAFf6Cy69tr"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Hurts 2B Human",
-        "url": "https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "90 Days (feat. Wrabel)",
-      "url": "https://open.spotify.com/track/0mknlibAARXVk3d8pafTUg"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Kids in Love",
-        "url": "https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "With You (feat. Wrabel)",
-      "url": "https://open.spotify.com/track/7gleE2w0CsjsWCs184n522"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
@@ -393,7 +357,43 @@
       "url": "https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Bloodstain",
+        "url": "https://open.spotify.com/album/3zRgSbaggJiEhh8IeZtAfG"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Bloodstain",
+      "url": "https://open.spotify.com/track/3vHTlIT5uIilAFf6Cy69tr"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Hurts 2B Human",
+        "url": "https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "90 Days (feat. Wrabel)",
+      "url": "https://open.spotify.com/track/0mknlibAARXVk3d8pafTUg"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
@@ -409,7 +409,27 @@
       "url": "https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Kids in Love",
+        "url": "https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "With You (feat. Wrabel)",
+      "url": "https://open.spotify.com/track/7gleE2w0CsjsWCs184n522"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Sing To Me Instead",
         "url": "https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/0TiUwSybDflJu4Qe2AUoGD"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "We Could Be Beautiful",
         "url": "https://open.spotify.com/album/1knxEStPE5aiGzJDa75Zrf"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/6p2l8mki7sBTvF89R3tcBj"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/5MIcJVaNH2GLATCOIKupIK"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/3O8AgNdf569SM1tcUA4xnK"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Everything I Didn\u2019t Say And More",
         "url": "https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/1dCpERd2GVVFbKuOpJjgPm"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/2Mu6Sua4GrqPmchgUj4vZI"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/21vwWfS6qvxh8TN3lgHvZr"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "People To People",
         "url": "https://open.spotify.com/album/18AYjsog9iGp1np3r1KqHJ"
@@ -549,23 +569,7 @@
       "url": "https://open.spotify.com/track/3snCUIDipfcnwhyIfeDe8f"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "hurts like hell",
-        "url": "https://open.spotify.com/album/1YqCPwqa29diDqCeB3Qahf"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 237431,
-      "name": "hurts like hell",
-      "url": "https://open.spotify.com/track/1Cd4W9s1YoTKNzNrVkOjs2"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Hold You 'Til We\u2019re Old",
         "url": "https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd"
@@ -581,7 +585,23 @@
       "url": "https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "hurts like hell",
+        "url": "https://open.spotify.com/album/1YqCPwqa29diDqCeB3Qahf"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 237431,
+      "name": "hurts like hell",
+      "url": "https://open.spotify.com/track/1Cd4W9s1YoTKNzNrVkOjs2"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/2yedRoI0ixMxQSyHE0q1Jq"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Pentatonix (Deluxe Version)",
         "url": "https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/3sMsk0ZIBHEpLxPkCeoQWq"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "The Lake (with Wrabel)",
         "url": "https://open.spotify.com/album/4N9N4ceWgEzBABI0kSMw5H"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/0gmgCD6OoJMcoK5af0exA2"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/51CeiXQgEq3YD4D6v3GjfB"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Delirium (Deluxe)",
         "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/2RziQjJfYozWXX5d2AyRYi"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Big Love",
         "url": "https://open.spotify.com/album/4u7AoktiBF4Db55wxN7T7b"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/4ZZP7iyB0YfM9U1ol72QH9"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "In Our Bones",
         "url": "https://open.spotify.com/album/0nDpqGDg3ZsFWKCSPQE4M4"
@@ -701,7 +721,23 @@
       "url": "https://open.spotify.com/track/7xqWmiqrOXLywkE6aIvB7Y"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Devil in a Dress",
+      "url": "https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Leap! (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6GGZvXaDSTPxzjSxIOfmPJ"
@@ -721,7 +757,7 @@
       "url": "https://open.spotify.com/track/3Ta0pQe8LbxK3uvDbRBjbo"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Flowers & Superpowers",
         "url": "https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Too Close (with Wrabel)",
         "url": "https://open.spotify.com/album/1rWqOpBKbCoxUvirPmBKXg"
@@ -757,7 +793,7 @@
       "url": "https://open.spotify.com/track/2B5uUYyiDpFCgEGdbVpOZj"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Blood Bunny",
         "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
@@ -773,7 +809,7 @@
       "url": "https://open.spotify.com/track/2EPLg9fa4HKsBzuVR5Hwhn"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "NEW MOON",
         "url": "https://open.spotify.com/album/3c1qg7O88Wc5wDDJ1YEUzV"
@@ -789,23 +825,7 @@
       "url": "https://open.spotify.com/track/0uKrDNElljLIvrrSb7zVRu"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Into The Wild",
-      "url": "https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Bad Together",
         "url": "https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb"
@@ -821,7 +841,23 @@
       "url": "https://open.spotify.com/track/3iExRKI7vV9RrzvAuXmMTY"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Church Of Scars",
         "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
@@ -837,23 +873,7 @@
       "url": "https://open.spotify.com/track/0gwR22fn1mk9XLm6mpJnk8"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "Devil in a Dress",
-      "url": "https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Soy el Mismo",
         "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
@@ -869,7 +889,7 @@
       "url": "https://open.spotify.com/track/1YIpn8wM7Zbq7sZr9AeI7I"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni"
@@ -885,7 +905,7 @@
       "url": "https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "The Aviary",
         "url": "https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4"
@@ -905,23 +925,7 @@
       "url": "https://open.spotify.com/track/0W68dlJ9e4OcVWbECODJDM"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "All the Feels",
-        "url": "https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 196012,
-      "name": "All the Feels",
-      "url": "https://open.spotify.com/track/3scYtw10wODPatwKBGTwB6"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
@@ -937,7 +941,23 @@
       "url": "https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "All the Feels",
+        "url": "https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 196012,
+      "name": "All the Feels",
+      "url": "https://open.spotify.com/track/3scYtw10wODPatwKBGTwB6"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "why didn't you call???",
         "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
@@ -953,7 +973,23 @@
       "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "happier",
+      "url": "https://open.spotify.com/track/74NifIdrs0PP1jb4ze0gQ6"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "one of those happy people",
         "url": "https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h"
@@ -969,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6J3G0HMT4s7JBjntVifHmP"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA"
@@ -985,7 +1021,7 @@
       "url": "https://open.spotify.com/track/2sEZEhH1vR9BrPKfL8KJ6t"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA"
@@ -1001,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5FoziGnQmXWy3tm87PVTbb"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "one of those happy people",
         "url": "https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h"
@@ -1017,55 +1053,7 @@
       "url": "https://open.spotify.com/track/5WWsBnrZ7vcjJSdvPJAVuO"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "happier",
-        "url": "https://open.spotify.com/album/07Bqqi7M1ck2JR6TllJf9P"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "happier",
-      "url": "https://open.spotify.com/track/5Imv22PbpWHLDlcetv2EUd"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA"
-      },
-      "artists": [
-        {
-          "name": "Lea Michele",
-          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/0vaiDuoXItlByGGDTA0Ere"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 142346,
-      "name": "Little Bit Of Love",
-      "url": "https://open.spotify.com/track/26yuncamqQJwiuf4mUJMbj"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni"
@@ -1081,7 +1069,39 @@
       "url": "https://open.spotify.com/track/6EUxzQVdE6H7tPSdVfQY9Y"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 142346,
+      "name": "Little Bit Of Love",
+      "url": "https://open.spotify.com/track/26yuncamqQJwiuf4mUJMbj"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/0vaiDuoXItlByGGDTA0Ere"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Forget The World (Deluxe)",
         "url": "https://open.spotify.com/album/7G1441qDQeERZDyMipQPE8"
@@ -1101,7 +1121,23 @@
       "url": "https://open.spotify.com/track/5L25pF8uaJALK8iZY4NnHH"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "The Hardest Love",
+        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 182457,
+      "name": "Scares Me",
+      "url": "https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Another Side",
         "url": "https://open.spotify.com/album/7sqjjTWxRkhpESRatUI15w"
@@ -1125,7 +1161,7 @@
       "url": "https://open.spotify.com/track/4rXsJxWgPGiu7DWHRd53Ue"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "first winter",
         "url": "https://open.spotify.com/album/3kDhiltnqo4XvEvAzPU7aI"
@@ -1141,23 +1177,23 @@
       "url": "https://open.spotify.com/track/4r7i3Td09NJvgmXotOvi3a"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
-        "name": "The Hardest Love",
-        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
+        "name": "Blood Orange",
+        "url": "https://open.spotify.com/album/64eviP6LXgFk5o9gdYWpF6"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
         }
       ],
-      "duration_ms": 182457,
-      "name": "Scares Me",
-      "url": "https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj"
+      "duration_ms": 193950,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/3gLl5qXcNS3GnYnW2MrFlN"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Altar (feat. R.LUM.R)",
         "url": "https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w"
@@ -1177,7 +1213,7 @@
       "url": "https://open.spotify.com/track/3BkgCiyy0DQCCOWQwgzDlh"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "FAITH",
         "url": "https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v"
@@ -1193,7 +1229,7 @@
       "url": "https://open.spotify.com/track/5OGMCaxXH6EeTbLhXbFilK"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Trespassing (Deluxe Version)",
         "url": "https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h"
@@ -1209,7 +1245,7 @@
       "url": "https://open.spotify.com/track/7eFbvtQ85FfJGMwft9V1AP"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni"
@@ -1225,7 +1261,7 @@
       "url": "https://open.spotify.com/track/3y0pDizVSNtDBPWFS2cXC2"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
@@ -1245,87 +1281,7 @@
       "url": "https://open.spotify.com/track/0DZC1MiUFjKMSnylbHlv8R"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Blood Orange",
-        "url": "https://open.spotify.com/album/64eviP6LXgFk5o9gdYWpF6"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/3gLl5qXcNS3GnYnW2MrFlN"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Chasing Thunder",
-      "url": "https://open.spotify.com/track/0mjSwNInyGTpiEcEaz1qqI"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao"
-      },
-      "artists": [
-        {
-          "name": "Stan Walker",
-          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/0NZxAq2XRdNq90UnYOwzoB"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Night Call (Deluxe)",
-        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 187330,
-      "name": "Muscle",
-      "url": "https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "(it wouldn't be) christmas without you",
-        "url": "https://open.spotify.com/album/6MSgdNZM56vwflTVYcOdrO"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "(it wouldn't be) christmas without you",
-      "url": "https://open.spotify.com/track/5NLIV0WyV9gkgCnakiG19L"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Unlearning",
         "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
@@ -1341,7 +1297,71 @@
       "url": "https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao"
+      },
+      "artists": [
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/0NZxAq2XRdNq90UnYOwzoB"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Chasing Thunder",
+      "url": "https://open.spotify.com/track/0mjSwNInyGTpiEcEaz1qqI"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Night Call (Deluxe)",
+        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 187330,
+      "name": "Muscle",
+      "url": "https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "(it wouldn't be) christmas without you",
+        "url": "https://open.spotify.com/album/6MSgdNZM56vwflTVYcOdrO"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "(it wouldn't be) christmas without you",
+      "url": "https://open.spotify.com/track/5NLIV0WyV9gkgCnakiG19L"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "love to love u",
         "url": "https://open.spotify.com/album/4fqBuL5Lw8mepsiZUyWugY"
@@ -1357,7 +1377,7 @@
       "url": "https://open.spotify.com/track/74o9qZ2H16sN1xHpfrfhkf"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "i want you",
         "url": "https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD"
@@ -1373,7 +1393,7 @@
       "url": "https://open.spotify.com/track/3k8s9SgL9HJvUbKKKOdtwy"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
@@ -1389,7 +1409,7 @@
       "url": "https://open.spotify.com/track/5j610MhjMLhyT2pPNy9Zj9"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "The Lucky Ones",
         "url": "https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC"
@@ -1405,7 +1425,7 @@
       "url": "https://open.spotify.com/track/4gs5Xv10fgdkSO9Jrjq0rk"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Ten Years",
         "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
@@ -1425,7 +1445,7 @@
       "url": "https://open.spotify.com/track/7x9BbeXnB9ehDjit1EVzwj"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
@@ -1441,10 +1461,10 @@
       "url": "https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
-        "name": "merry christmas, merry christmas to you",
-        "url": "https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5"
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
       },
       "artists": [
         {
@@ -1452,28 +1472,32 @@
           "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 196414,
-      "name": "this christmas",
-      "url": "https://open.spotify.com/track/0jWIUiQMQgrKVjkPEaRjK0"
+      "duration_ms": 143146,
+      "name": "we all could use some help",
+      "url": "https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
-        "name": "West Of The West",
-        "url": "https://open.spotify.com/album/1CNxJCixrOSJxMo5pz5ZaP"
+        "name": "Christmas Mistletunes",
+        "url": "https://open.spotify.com/album/7hxw2kfP8PliEPbKzaDvoG"
       },
       "artists": [
         {
-          "name": "Goldroom",
-          "url": "https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl"
+          "name": "The Holiday Place",
+          "url": "https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 224933,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/6u0gZDuXDZYfN8QWwnqxMZ"
+      "duration_ms": 196414,
+      "name": "this christmas",
+      "url": "https://open.spotify.com/track/114PuZ41gfx73mseDNeRTa"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Empire: Original Soundtrack, Season 2 Volume 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8"
@@ -1493,7 +1517,23 @@
       "url": "https://open.spotify.com/track/1nLj9iiZr3Bb3e0zYiyDfm"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "West Of The West",
+        "url": "https://open.spotify.com/album/1CNxJCixrOSJxMo5pz5ZaP"
+      },
+      "artists": [
+        {
+          "name": "Goldroom",
+          "url": "https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/6u0gZDuXDZYfN8QWwnqxMZ"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "puppy luv",
         "url": "https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq"
@@ -1509,7 +1549,23 @@
       "url": "https://open.spotify.com/track/7Jyy8xo7YtHIvAugD2gtNV"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "A Tori Kelly Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 184291,
+      "name": "Kid Again On Christmas",
+      "url": "https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "piano",
         "url": "https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA"
@@ -1525,7 +1581,7 @@
       "url": "https://open.spotify.com/track/7fM2tdbh4T93yWA3PBs2gu"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Night Call (Deluxe)",
         "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
@@ -1541,7 +1597,7 @@
       "url": "https://open.spotify.com/track/3oPbSK6sMQycJq3OU4HWdX"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Oh Love",
         "url": "https://open.spotify.com/album/1itQ8XH3mTPrDcT3QC7iLX"
@@ -1565,23 +1621,7 @@
       "url": "https://open.spotify.com/track/0xsn9P9Z93H3uLRs8r1IAl"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "A Tori Kelly Christmas (Deluxe)",
-        "url": "https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 184291,
-      "name": "Kid Again On Christmas",
-      "url": "https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "one of those happy people",
         "url": "https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h"
@@ -1597,7 +1637,7 @@
       "url": "https://open.spotify.com/track/0SuGgZ07vhLT3ebUb4kQ2q"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
@@ -1613,135 +1653,7 @@
       "url": "https://open.spotify.com/track/4awVIE9MRNCRtia0aplSiB"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP"
-      },
-      "artists": [
-        {
-          "name": "Rozzi",
-          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Crazy Ass B*tch",
-      "url": "https://open.spotify.com/track/1jKlyiUDQcbVgNLU67gufj"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "one of those happy people",
-        "url": "https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 192448,
-      "name": "happy people",
-      "url": "https://open.spotify.com/track/2d1yL0MZkW1RjB09NHSYXG"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Bad Together",
-        "url": "https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb"
-      },
-      "artists": [
-        {
-          "name": "Rozzi",
-          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
-        }
-      ],
-      "duration_ms": 225176,
-      "name": "Bad Together",
-      "url": "https://open.spotify.com/track/7AsWQONBnPkLi8GP2xJf5b"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "one of those happy people",
-        "url": "https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 240676,
-      "name": "the real thing",
-      "url": "https://open.spotify.com/track/6NffcAdY4PeejOgeATMXHW"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/29mkhh4TaJm7XbeQdCxrE5"
-      },
-      "artists": [
-        {
-          "name": "Stacey Ryan",
-          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/16P2MNSQAlKNCV6hsnclxs"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Not Your Boyfriend",
-        "url": "https://open.spotify.com/album/6AmNrR3TVYPTU3DPhEsjtU"
-      },
-      "artists": [
-        {
-          "name": "2AM Club",
-          "url": "https://open.spotify.com/artist/1Sjs7s2hvAakgayaa0f34j"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Not Your Boyfriend",
-      "url": "https://open.spotify.com/track/4SjGJs9EEZlJ36jysMv5R9"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "on the way down",
-        "url": "https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "on the way down",
-      "url": "https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Kool Aid",
-        "url": "https://open.spotify.com/album/4bDfdcqRQqnxwEbp24xNdg"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "LY4L",
-      "url": "https://open.spotify.com/track/2olbaPwSwbBRs0goKzSFVf"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "When Everything Went Dark",
         "url": "https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v"
@@ -1757,7 +1669,87 @@
       "url": "https://open.spotify.com/track/24PrTycumc8Itm3ksXF0jP"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP"
+      },
+      "artists": [
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Crazy Ass B*tch",
+      "url": "https://open.spotify.com/track/1jKlyiUDQcbVgNLU67gufj"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "one of those happy people",
+        "url": "https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 192448,
+      "name": "happy people",
+      "url": "https://open.spotify.com/track/2d1yL0MZkW1RjB09NHSYXG"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Bad Together",
+        "url": "https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb"
+      },
+      "artists": [
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        }
+      ],
+      "duration_ms": 225176,
+      "name": "Bad Together",
+      "url": "https://open.spotify.com/track/7AsWQONBnPkLi8GP2xJf5b"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "one of those happy people",
+        "url": "https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 240676,
+      "name": "the real thing",
+      "url": "https://open.spotify.com/track/6NffcAdY4PeejOgeATMXHW"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/29mkhh4TaJm7XbeQdCxrE5"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/16P2MNSQAlKNCV6hsnclxs"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "serious person (part 1)",
         "url": "https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4"
@@ -1773,42 +1765,10 @@
       "url": "https://open.spotify.com/track/3qCz4oHgdI2Kovr8VaQeZe"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/59SzZY51q1IcO81ffmExpR"
-      },
-      "artists": [
-        {
-          "name": "Citizen Four",
-          "url": "https://open.spotify.com/artist/0bp5rkeCxghGGOsHKWwmUC"
-        }
-      ],
-      "duration_ms": 205554,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/0a14F5kFcz5GCWX10KK6SM"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd"
-      },
-      "artists": [
-        {
-          "name": "Matteo Bocelli",
-          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "that's what i'd do (live)",
-        "url": "https://open.spotify.com/album/2pUvlqckRhn3gsdgUPr3Hi"
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
       },
       "artists": [
         {
@@ -1816,12 +1776,44 @@
           "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 396236,
-      "name": "that's what i'd do - live",
-      "url": "https://open.spotify.com/track/0DIhbi6IbA2o4m5sXQ4vDb"
+      "duration_ms": 272466,
+      "name": "on the way down",
+      "url": "https://open.spotify.com/track/4nfO3klnA3yB2LGZXtiqTL"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Not Your Boyfriend",
+        "url": "https://open.spotify.com/album/6AmNrR3TVYPTU3DPhEsjtU"
+      },
+      "artists": [
+        {
+          "name": "2AM Club",
+          "url": "https://open.spotify.com/artist/1Sjs7s2hvAakgayaa0f34j"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Not Your Boyfriend",
+      "url": "https://open.spotify.com/track/4SjGJs9EEZlJ36jysMv5R9"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/4bDfdcqRQqnxwEbp24xNdg"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "LY4L",
+      "url": "https://open.spotify.com/track/2olbaPwSwbBRs0goKzSFVf"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "SUCKERPUNCH",
         "url": "https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw"
@@ -1837,7 +1829,71 @@
       "url": "https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd"
+      },
+      "artists": [
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/59SzZY51q1IcO81ffmExpR"
+      },
+      "artists": [
+        {
+          "name": "Citizen Four",
+          "url": "https://open.spotify.com/artist/0bp5rkeCxghGGOsHKWwmUC"
+        }
+      ],
+      "duration_ms": 205554,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/0a14F5kFcz5GCWX10KK6SM"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "feel it now (alive)",
+      "url": "https://open.spotify.com/track/3cZfqQuyUip9nVzkcYB9l5"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "that's what i'd do (live)",
+        "url": "https://open.spotify.com/album/2pUvlqckRhn3gsdgUPr3Hi"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 396236,
+      "name": "that's what i'd do - live",
+      "url": "https://open.spotify.com/track/0DIhbi6IbA2o4m5sXQ4vDb"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "idina.",
         "url": "https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K"
@@ -1853,10 +1909,10 @@
       "url": "https://open.spotify.com/track/7KYMs4Y5WwhspkMLApgfCk"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
-        "name": "piano",
-        "url": "https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA"
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
       },
       "artists": [
         {
@@ -1864,60 +1920,12 @@
           "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 251649,
-      "name": "jupiter - live at the troubadour",
-      "url": "https://open.spotify.com/track/4ghLHm6s3mFtPX1QCrtVKw"
+      "duration_ms": 196973,
+      "name": "abstract art",
+      "url": "https://open.spotify.com/track/1flQVimCtHgp6zblwZAcfm"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "PEER PLEASURE",
-        "url": "https://open.spotify.com/album/3Y3bZRwpWNXt0tfpJ4kjm6"
-      },
-      "artists": [
-        {
-          "name": "Yoshi Flower",
-          "url": "https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il"
-        }
-      ],
-      "duration_ms": 182472,
-      "name": "space",
-      "url": "https://open.spotify.com/track/5Du0NkkagVusxBCoGxrXlH"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "chapter of me",
-        "url": "https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "feel it now (alive)",
-      "url": "https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "one drink away",
-        "url": "https://open.spotify.com/album/0fhe0dFZsaAvonOdFg34GT"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "one drink away",
-      "url": "https://open.spotify.com/track/4adKzUS4pIdNstzST1pt3k"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Turn Up the Love",
         "url": "https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl"
@@ -1933,7 +1941,71 @@
       "url": "https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "piano",
+        "url": "https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 251649,
+      "name": "jupiter - live at the troubadour",
+      "url": "https://open.spotify.com/track/4ghLHm6s3mFtPX1QCrtVKw"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "one drink away",
+      "url": "https://open.spotify.com/track/4TJVd5nC27kOCwPyCo6zEb"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "PEER PLEASURE",
+        "url": "https://open.spotify.com/album/3Y3bZRwpWNXt0tfpJ4kjm6"
+      },
+      "artists": [
+        {
+          "name": "Yoshi Flower",
+          "url": "https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il"
+        }
+      ],
+      "duration_ms": 182472,
+      "name": "space",
+      "url": "https://open.spotify.com/track/5Du0NkkagVusxBCoGxrXlH"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "find it",
+      "url": "https://open.spotify.com/track/6HCJ2uA14PqJrOxJ0n4RQn"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Masquerades",
         "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
@@ -1953,39 +2025,7 @@
       "url": "https://open.spotify.com/track/2ifqSgNUyKObO70UIorQ3z"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "we all could use some help",
-        "url": "https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 143146,
-      "name": "we all could use some help",
-      "url": "https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "85% Proof",
-        "url": "https://open.spotify.com/album/53BW7woIZ5rq1sjVFKxWhQ"
-      },
-      "artists": [
-        {
-          "name": "Will Young",
-          "url": "https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/5BJxAC8z24xj9jLIkq6w1e"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
@@ -2001,7 +2041,23 @@
       "url": "https://open.spotify.com/track/5Vqk0qGS6TIsymA93Nv5ob"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "85% Proof",
+        "url": "https://open.spotify.com/album/53BW7woIZ5rq1sjVFKxWhQ"
+      },
+      "artists": [
+        {
+          "name": "Will Young",
+          "url": "https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5BJxAC8z24xj9jLIkq6w1e"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
@@ -2017,23 +2073,7 @@
       "url": "https://open.spotify.com/track/4mPuSd87gLkneDUVkZywi4"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "abstract art",
-        "url": "https://open.spotify.com/album/3WmvjDfFGJGLmZYWSyJ3nS"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "abstract art",
-      "url": "https://open.spotify.com/track/0ktoxh7F2ygJx5lLSbVxvP"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
@@ -2049,10 +2089,10 @@
       "url": "https://open.spotify.com/track/0tSbjI0okQUg2enMiM2iIV"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Crave",
-        "url": "https://open.spotify.com/album/0seMOiABLUNHGJfK3S6Tzk"
+        "url": "https://open.spotify.com/album/5nVVH4J5wa88mDevUVoVKy"
       },
       "artists": [
         {
@@ -2066,10 +2106,10 @@
       ],
       "duration_ms": 202893,
       "name": "Crave - Fabian Mazur Remix",
-      "url": "https://open.spotify.com/track/6Z8t7Ppeawfh8xaLmJout5"
+      "url": "https://open.spotify.com/track/3iufbGDZE2wA1rxeNZgbre"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/0236kvYbYWUIXDWwxCh8ff"
@@ -2085,7 +2125,23 @@
       "url": "https://open.spotify.com/track/4dJIz3S6S2wQY5Sb1ZsL2A"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "beautiful day",
+      "url": "https://open.spotify.com/track/791ontd2sPeLCbPDZggUCz"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
@@ -2101,7 +2157,7 @@
       "url": "https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "piano",
         "url": "https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA"
@@ -2117,7 +2173,7 @@
       "url": "https://open.spotify.com/track/33OkJmAdy8uBgUiCyu07hZ"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
@@ -2133,26 +2189,10 @@
       "url": "https://open.spotify.com/track/1kVyaiHsM6rhDKWUTR9FWm"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
-        "name": "chapter of you",
-        "url": "https://open.spotify.com/album/30JNURec65aPbHi2zTjg9S"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "find it",
-      "url": "https://open.spotify.com/track/2iQC6rdZlRBBBVyIE8sj9Y"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "chapter of me",
-        "url": "https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol"
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
       },
       "artists": [
         {
@@ -2162,10 +2202,26 @@
       ],
       "duration_ms": 208733,
       "name": "you got yours",
-      "url": "https://open.spotify.com/track/1RC6Yf0W2BA6IkoREAKCP7"
+      "url": "https://open.spotify.com/track/5hYERZWgPCe3rLt8xDhi3V"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 246973,
+      "name": "don't be so hard on yourself",
+      "url": "https://open.spotify.com/track/5iMXZ1uxrnCg1mqL1tzkeL"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Textures",
         "url": "https://open.spotify.com/album/1rB7xOw49fRzqH1VwbL63I"
@@ -2181,7 +2237,7 @@
       "url": "https://open.spotify.com/track/1VjGZ2vz9DOKj4Gnt4DAPt"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Let The Music Play",
         "url": "https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao"
@@ -2197,7 +2253,7 @@
       "url": "https://open.spotify.com/track/5hmTQFtqfDapaSqWY3arU3"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "merry christmas, merry christmas to you",
         "url": "https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5"
@@ -2213,7 +2269,23 @@
       "url": "https://open.spotify.com/track/5937xcBaUz5xu38I2HloR2"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
+      "album": {
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "another song about love",
+      "url": "https://open.spotify.com/track/7gY9Ck93TNxekSqH1A2oFR"
+    },
+    {
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Have You Ever Seen a Boy Break Down?",
         "url": "https://open.spotify.com/album/6h8TTXMZFnJADFw5Ilf44o"
@@ -2229,23 +2301,7 @@
       "url": "https://open.spotify.com/track/3u7WPMzK3sSLlbt3F19vPB"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
-      "album": {
-        "name": "chapter of you",
-        "url": "https://open.spotify.com/album/30JNURec65aPbHi2zTjg9S"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 246973,
-      "name": "don't be so hard on yourself",
-      "url": "https://open.spotify.com/track/5qeSyAXj3VfqwcvUaeZMeV"
-    },
-    {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Bad Together",
         "url": "https://open.spotify.com/album/2SDtmGStLqOhcL9tBAxfu4"
@@ -2261,7 +2317,7 @@
       "url": "https://open.spotify.com/track/46fchGtcxeWEm1Fw5bI8Fe"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "52 | ATL x BNA",
         "url": "https://open.spotify.com/album/2IkLJf736V5DXV2Xt23TNH"
@@ -2277,7 +2333,7 @@
       "url": "https://open.spotify.com/track/0mwQdW5pZ0tofcvrYvUJTl"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Mean It",
         "url": "https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu"
@@ -2293,7 +2349,7 @@
       "url": "https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps"
     },
     {
-      "added_at": "2023-08-31 01:20:08",
+      "added_at": "2023-12-13 09:22:52",
       "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07"

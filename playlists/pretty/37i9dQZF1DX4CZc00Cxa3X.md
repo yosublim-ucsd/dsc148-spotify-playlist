@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,981 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,984 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [The Round](https://open.spotify.com/track/3tZO5AhYbA9COrcIF9KLtr) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2), [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Dream Night](https://open.spotify.com/album/2mLAk2M7FkDJUG6UikCE6S) | 3:02 |
 | 100 | [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 |
 
-Snapshot ID: `MCw3NDc1ODUyMDI0YTYyMzIzOTRjYTAyN2M2ZjVlOTY4NTY4ZmQ0N2Ux`
+Snapshot ID: `MCw4YWQxYmZhNzA3ZmI4YTVkZjhkZTNiOWQxYTA5NDEwMjIxNDNiOWVj`

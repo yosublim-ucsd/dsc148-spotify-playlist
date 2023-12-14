@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Are You Ready For Love (Acoustic)",
+        "url": "https://open.spotify.com/album/7y3h4tQvfsi20zAYLvHZlu"
+      },
+      "artists": [
+        {
+          "name": "Grace George",
+          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "Are You Ready For Love - Acoustic",
+      "url": "https://open.spotify.com/track/1gSYByMOpWmlDoZbDWkoCY"
+    },
+    {
+      "album": {
         "name": "Baby I'm Yours (Acoustic)",
         "url": "https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g"
       },
@@ -212,6 +230,24 @@
       "duration_ms": 217303,
       "name": "Because You Loved Me - Acoustic",
       "url": "https://open.spotify.com/track/46riIukB23FBujbdYQTfmf"
+    },
+    {
+      "album": {
+        "name": "Believe (Acoustic)",
+        "url": "https://open.spotify.com/album/6f8znb9G5J0MlLe895IzJt"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228151,
+      "name": "Believe - Acoustic",
+      "url": "https://open.spotify.com/track/52VvzULC47oauMWtVdAejU"
     },
     {
       "album": {
@@ -540,7 +576,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 179351,
       "name": "Dancing in the Moonlight - Acoustic",
       "url": "https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4"
@@ -612,7 +648,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 157103,
       "name": "Don't Stop - Acoustic",
       "url": "https://open.spotify.com/track/4oVMAdooQBRZrhsK5tlPOm"
@@ -630,7 +666,7 @@
       ],
       "date_added": "2021-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 215476,
       "name": "Don't Stop Believin' - Acoustic",
       "url": "https://open.spotify.com/track/2YB9lhvzoCxdyplFqrkCCh"
@@ -652,6 +688,28 @@
       "duration_ms": 209496,
       "name": "Don\u2019t Look Back In Anger - Acoustic",
       "url": "https://open.spotify.com/track/3PkHsRaRZSkIEVc3UmJu16"
+    },
+    {
+      "album": {
+        "name": "Dreams (Acoustic)",
+        "url": "https://open.spotify.com/album/23JGW0yrp2NyWwlhiOrjzY"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        },
+        {
+          "name": "Dave Moffatt",
+          "url": "https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176287,
+      "name": "Dreams - Acoustic",
+      "url": "https://open.spotify.com/track/7yR5WMFuIBqq3hHTWs1j3B"
     },
     {
       "album": {
@@ -987,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Happy Together (Acoustic)",
+        "url": "https://open.spotify.com/album/5HRc5KePa9umV625Gosec8"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174231,
+      "name": "Happy Together - Acoustic",
+      "url": "https://open.spotify.com/track/40JDOzCppZu1LhPPwtqz82"
+    },
+    {
+      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -1078,7 +1154,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 144786,
       "name": "Here Comes the Sun - Acoustic",
       "url": "https://open.spotify.com/track/6lynns69p4zTCRxmmiSY1x"
@@ -1547,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Johnny B. Goode (Acoustic)",
+        "url": "https://open.spotify.com/album/27WsOWzMOLYQvpR3I5fy0z"
+      },
+      "artists": [
+        {
+          "name": "Mack Myles",
+          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134156,
+      "name": "Johnny B. Goode - Acoustic",
+      "url": "https://open.spotify.com/track/7L1QTZWRJNnbOO7qyHUEeB"
+    },
+    {
+      "album": {
         "name": "Fall To Grace (Deluxe)",
         "url": "https://open.spotify.com/album/5xbq4e4CWkWhZBOkque5Fp"
       },
@@ -1673,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Lay All Your Love On Me (Acoustic)",
+        "url": "https://open.spotify.com/album/23eHCOC9NKTFtAf8dX3VMq"
+      },
+      "artists": [
+        {
+          "name": "Molly Hocking",
+          "url": "https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164934,
+      "name": "Lay All Your Love On Me - Acoustic",
+      "url": "https://open.spotify.com/track/6Id2vDi41Z3NhY0vM1GMT9"
+    },
+    {
+      "album": {
         "name": "All the Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
       },
@@ -1688,6 +1800,24 @@
       "duration_ms": 266626,
       "name": "Let Her Go - Acoustic",
       "url": "https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN"
+    },
+    {
+      "album": {
+        "name": "Let's Stay Together (Acoustic)",
+        "url": "https://open.spotify.com/album/1YfNCzcnrr7nbQGvttzpkb"
+      },
+      "artists": [
+        {
+          "name": "Blame Jones",
+          "url": "https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182616,
+      "name": "Let's Stay Together - Acoustic",
+      "url": "https://open.spotify.com/track/2BUbXK85KECrYtSWEzoxFM"
     },
     {
       "album": {
@@ -1724,6 +1854,24 @@
       "duration_ms": 166666,
       "name": "Linger (Acoustic)",
       "url": "https://open.spotify.com/track/4aa7SCxygkZgBZ3Y1KU1t3"
+    },
+    {
+      "album": {
+        "name": "Love is All Around (Acoustic)",
+        "url": "https://open.spotify.com/album/7l0RQhF88X2evq71kbI8fm"
+      },
+      "artists": [
+        {
+          "name": "Mysha Didi",
+          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150896,
+      "name": "Love is All Around - Acoustic",
+      "url": "https://open.spotify.com/track/2loi3zjGZ2Cs1nDu6QHGe3"
     },
     {
       "album": {
@@ -2316,7 +2464,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 169933,
       "name": "Red Light Spells Danger - Acoustic",
       "url": "https://open.spotify.com/track/5ozBnh2wvJ6FOgIiXsjDSc"
@@ -2392,6 +2540,24 @@
       "duration_ms": 167969,
       "name": "Running Up That Hill (A Deal With God) - Acoustic",
       "url": "https://open.spotify.com/track/0eMIhZyrQ1SqPR89AJ3oOx"
+    },
+    {
+      "album": {
+        "name": "Save the Best for Last (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZLa6AUy1jNRGSdipoYdl3"
+      },
+      "artists": [
+        {
+          "name": "Mateo Oxley",
+          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165932,
+      "name": "Save the Best for Last - Acoustic",
+      "url": "https://open.spotify.com/track/2ZWFn3j8hz50G6bigMOLqj"
     },
     {
       "album": {
@@ -2630,7 +2796,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 228214,
       "name": "Sugar, We're Going Down - Acoustic",
       "url": "https://open.spotify.com/track/460dwU9YPeLUbvOaKqDKsd"
@@ -2670,6 +2836,24 @@
       "duration_ms": 178615,
       "name": "Sweet Child O' Mine - Acoustic",
       "url": "https://open.spotify.com/track/1VZmEl9wmuteCBAqkyFttF"
+    },
+    {
+      "album": {
+        "name": "Sweet Child O' Mine (Acoustic Version)",
+        "url": "https://open.spotify.com/album/33ZaiLls318tubzqi9Iyl6"
+      },
+      "artists": [
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "date_added": "2023-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176463,
+      "name": "Sweet Child O' Mine - Acoustic Version",
+      "url": "https://open.spotify.com/track/7p6wCoyhLOd3njCFK9hYVP"
     },
     {
       "album": {
@@ -2854,10 +3038,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 160883,
       "name": "Total Eclipse of the Heart - Acoustic",
       "url": "https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ"
+    },
+    {
+      "album": {
+        "name": "Treasure (Acoustic)",
+        "url": "https://open.spotify.com/album/5C8eQcdqEPF3cpLDp9IRWj"
+      },
+      "artists": [
+        {
+          "name": "Franklyn Jay",
+          "url": "https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164729,
+      "name": "Treasure - Acoustic",
+      "url": "https://open.spotify.com/track/3HzIzYnG0DsW7qSmndarxS"
     },
     {
       "album": {
@@ -2916,6 +3118,28 @@
       "duration_ms": 209900,
       "name": "Unchained Melody - Acoustic",
       "url": "https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn"
+    },
+    {
+      "album": {
+        "name": "Up Where We Belong (Acoustic)",
+        "url": "https://open.spotify.com/album/6Ph3mgUyosIR8nZ84rUJ1m"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        },
+        {
+          "name": "Molly Hocking",
+          "url": "https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206096,
+      "name": "Up Where We Belong - Acoustic",
+      "url": "https://open.spotify.com/track/5RRPw7aHDXmbKjaaOIzuLt"
     },
     {
       "album": {
@@ -3099,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "What's Up (Acoustic)",
+        "url": "https://open.spotify.com/album/6Diq7WhTYeCtnBk37jbDz5"
+      },
+      "artists": [
+        {
+          "name": "Dimas Senopati",
+          "url": "https://open.spotify.com/artist/6NtH5kpLzDDl3hHPt9l0sI"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299500,
+      "name": "What's Up - Acoustic",
+      "url": "https://open.spotify.com/track/6K8gvnCTE8vR5QAbpol2Rj"
+    },
+    {
+      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B"
       },
@@ -3132,7 +3374,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 193901,
       "name": "Wherever You Will Go - Acoustic",
       "url": "https://open.spotify.com/track/6hoGJGxmzC0jlqfJdte74d"
@@ -3273,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "You Get What You Give (Acoustic)",
+        "url": "https://open.spotify.com/album/0QO3w3D9HNIrLR2y0rMltj"
+      },
+      "artists": [
+        {
+          "name": "Plamina",
+          "url": "https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190271,
+      "name": "You Get What You Give - Acoustic",
+      "url": "https://open.spotify.com/track/3ZRRjUNc1OIGRBPz65VyxH"
+    },
+    {
+      "album": {
         "name": "You Gotta Be (Acoustic)",
         "url": "https://open.spotify.com/album/3pR8DUQuR6uy44pYmFGw52"
       },
@@ -3396,6 +3656,28 @@
       "duration_ms": 151991,
       "name": "You're the One That I Want - Acoustic",
       "url": "https://open.spotify.com/track/7rlsybGFVSyYq9tDdxloHd"
+    },
+    {
+      "album": {
+        "name": "Young Dumb & Broke",
+        "url": "https://open.spotify.com/album/51pFX3O6cjHfVQLECCyPwy"
+      },
+      "artists": [
+        {
+          "name": "Kyson Facer",
+          "url": "https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30"
+        },
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121184,
+      "name": "Young Dumb & Broke",
+      "url": "https://open.spotify.com/track/7GqZ6zzVxXR0LBYEFxidQP"
     }
   ],
   "url": "https://open.spotify.com/playlist/6yU1l4H28UbyNjgTX1ozHv"

@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Cansado",
+        "url": "https://open.spotify.com/album/2xx2vcIQ5RhMKhvGVphwDu"
+      },
+      "artists": [
+        {
+          "name": "Joaqo",
+          "url": "https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "Cansado",
+      "url": "https://open.spotify.com/track/4IWSiikKGhA9cBmAL6r3iy"
+    },
+    {
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
       },

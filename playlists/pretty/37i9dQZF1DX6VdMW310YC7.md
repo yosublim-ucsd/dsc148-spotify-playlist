@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,698,101 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,698,131 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Just Like That](https://open.spotify.com/track/6WKBGB00x5X08PwFNBJR6O) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Just Like That](https://open.spotify.com/album/6zrrB3fJ8DJsPfRUalHHlt) | 2:16 |
 | 100 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 
-Snapshot ID: `MCw3ZDY1M2Q2NjZjNWJiYTBjN2FhZWVhYTgzMDc4YjRlYmFkZGIwZTgz`
+Snapshot ID: `MCxjMzJjNzUzMzYxZjM3YmFhYmZiYjI1MjAwMTllMDBkZjhiZTlkOGRi`

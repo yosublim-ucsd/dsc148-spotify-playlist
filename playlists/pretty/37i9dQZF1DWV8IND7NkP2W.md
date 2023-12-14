@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,091 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,090 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Ukiyo](https://open.spotify.com/track/5CCBENes8uXqqPcntd08Yf) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Ukiyo](https://open.spotify.com/album/1ISCeVkUHvYiZrkVtAEVSk) | 2:04 |
 | 100 | [Keyframe](https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Keyframe](https://open.spotify.com/album/2DVMwBgoDdVVvDdagyeEmk) | 2:00 |
 
-Snapshot ID: `MCwxNGI3NjczY2Q4YmNlZDYyZWZkZTc3NDBlMWU1MTUwMDQ2NzZmZWUw`
+Snapshot ID: `MCxlMzFmOWY4YmQ1MTM3NmUxMzVkNDNiMzZhODgwNTJhODA0MjBjYzk1`

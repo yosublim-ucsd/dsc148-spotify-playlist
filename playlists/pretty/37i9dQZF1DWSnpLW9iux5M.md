@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,513 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,521 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [Winter Wonderland](https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI), [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW) | [White Christmas](https://open.spotify.com/album/1Bep3JEfFFmVL8EA2Fugvz) | 3:01 |
 | 100 | [Mary, Did You Know?](https://open.spotify.com/track/6jnlivJEMYthMmpbCWBWHE) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [Mary, Did You Know?](https://open.spotify.com/album/1tNNGU5nKBWK4kCn7fKjtR) | 4:17 |
 
-Snapshot ID: `MCw3MzViZmVkODYyZmY4OWRkOWVmMjY1ZTZhOTIzYzhmYmExZWY3YzIy`
+Snapshot ID: `MCxhYzJhNzVhYTI4NGFhNjA1NjQ1NjFhZGZhMjVjZDQyMDMwOTFiOTZh`

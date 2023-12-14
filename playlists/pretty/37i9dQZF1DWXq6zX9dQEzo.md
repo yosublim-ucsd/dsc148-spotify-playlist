@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,750 likes - 150 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,753 likes - 150 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Get Up](https://open.spotify.com/track/3jdw64pKdS37TuckuxXUmX) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Get Up](https://open.spotify.com/album/2fRpk6fSR4q8iTG2veuXXx) | 2:33 |
 | 150 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 |
 
-Snapshot ID: `MCwzZjg1NmYwMDc0NmYxNGMxOTY3MGUwNGYwNzhmMDZjMDlkN2FiMDJh`
+Snapshot ID: `MCxkZTU2NzcyZjQ0YTljYjJmZDhhYWQwOGE4OTkxZTBiNTE1ZWQ1ZmQ3`

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Domestic La La",
+        "url": "https://open.spotify.com/album/7N342aITKYsIB8P6vK3em3"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "Domestic La La",
+      "url": "https://open.spotify.com/track/17Xp1DIwYwUJuXlTJ7lsyN"
+    },
+    {
+      "album": {
         "name": "Hungry Ghost",
         "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
       },

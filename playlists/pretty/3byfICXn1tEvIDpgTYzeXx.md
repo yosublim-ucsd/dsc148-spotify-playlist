@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3byfICXn1tEvIDpgTYzeXx.md) - [plain]
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,815 likes - 160 songs - 7 hr 42 min
+[Light Night Group](https://open.spotify.com/user/2756pqybh1xeeaiqeg3e10b1a) - 2,830 likes - 160 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/3byfICXn1tEvIDpgTYzeXx.md) - [plain]
 | 31 | [Hear Me Now](https://open.spotify.com/track/4xJy52nwZsJwDYARhZ3AoM) | [ORIPV](https://open.spotify.com/artist/237HNl9pU5Qh95DctFoi4d), [Beenur](https://open.spotify.com/artist/5q1YpRvJzKzjqiSJSVYZAV) | [Hear Me Now](https://open.spotify.com/album/0H9hFntxDk3t3SkLC4FOgi) | 2:38 |
 | 32 | [The Motto](https://open.spotify.com/track/6CqtqPShW5Pgh7PoKU7Cyz) | [Riminirs](https://open.spotify.com/artist/14p8qoO2L7TopIJyY0pdHW) | [The Motto](https://open.spotify.com/album/0zg0dlvvxxQS1ckQV721kX) | 2:18 |
 | 33 | [Long Night](https://open.spotify.com/track/6frdj50scthCZfcwmoS78E) | [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z) | [Long Night](https://open.spotify.com/album/79PZT9LTOrs7GH53zvxAqc) | 2:42 |
-| 34 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 |
+| 34 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 |
 | 35 | [Push Me](https://open.spotify.com/track/2wyNofc2OkgRW9gKWln3y5) | [ORIPV](https://open.spotify.com/artist/237HNl9pU5Qh95DctFoi4d) | [Push Me](https://open.spotify.com/album/4sr64ebHAU4RFiOIHMp575) | 2:41 |
 | 36 | [AMG](https://open.spotify.com/track/5VI8sPBzx2HVIMSDuQKr4K) | [FRHAD](https://open.spotify.com/artist/0418xhpb0MLi9OfTGiTRas) | [AMG](https://open.spotify.com/album/06OktChcJUXnYwyj5FyMmM) | 2:28 |
 | 37 | [Someone Else](https://open.spotify.com/track/1snAeIiR8qamJiVJQFjMgP) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z), [Veneta](https://open.spotify.com/artist/1SUnQYulu39LJZ0zft4O27) | [Someone Else](https://open.spotify.com/album/5zNwOFDnsWzcrx28p3LNWV) | 2:45 |

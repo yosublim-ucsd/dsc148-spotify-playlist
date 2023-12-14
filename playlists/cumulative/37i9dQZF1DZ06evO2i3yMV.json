@@ -5,6 +5,58 @@
   "tracks": [
     {
       "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68233,
+      "name": "1st Boom",
+      "url": "https://open.spotify.com/track/0ZQaDaNwhVqAuCWY98mXQY"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47386,
+      "name": "3rd Boom",
+      "url": "https://open.spotify.com/track/2c4j5tKcZrTJdOkRfPrh2Z"
+    },
+    {
+      "album": {
         "name": "Cosmic Intoxication",
         "url": "https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU"
       },
@@ -34,7 +86,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 289526,
       "name": "Bready Soul",
       "url": "https://open.spotify.com/track/42hbE9hxMxRDizdr9UkzTj"
@@ -122,6 +174,32 @@
       "duration_ms": 248907,
       "name": "Come and Go - Halogenix Remix",
       "url": "https://open.spotify.com/track/6Jtsd3odMpY7p5XOS3VgY0"
+    },
+    {
+      "album": {
+        "name": "Time To / Conversion Theory",
+        "url": "https://open.spotify.com/album/0dXSyC5EkDgf2QKICe0etz"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204497,
+      "name": "Conversion Theory",
+      "url": "https://open.spotify.com/track/0VPUud31GGlGG8TTFoeY4j"
     },
     {
       "album": {
@@ -424,7 +502,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 263301,
       "name": "Go With It",
       "url": "https://open.spotify.com/track/5dFhRQKsHnAiyg9wXKtJDz"
@@ -490,7 +568,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 211764,
       "name": "Heart on the Ground",
       "url": "https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW"
@@ -508,7 +586,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 266345,
       "name": "House of Dal",
       "url": "https://open.spotify.com/track/4psFTXt6MSnrYTAiOYiwGg"
@@ -797,6 +875,32 @@
     },
     {
       "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231639,
+      "name": "Nxt Msg - Deletion Mix",
+      "url": "https://open.spotify.com/track/04I7GkdacPUoq91OCjoyPe"
+    },
+    {
+      "album": {
         "name": "FOVERE",
         "url": "https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv"
       },
@@ -1074,7 +1178,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 209049,
       "name": "Soul to Seoul",
       "url": "https://open.spotify.com/track/2WfrK7vN1C7ScEauF96AHb"
@@ -1230,6 +1334,32 @@
       "duration_ms": 101161,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/0eVOAnzGXpbboig0AtjvrA"
+    },
+    {
+      "album": {
+        "name": "Time To / Conversion Theory",
+        "url": "https://open.spotify.com/album/0dXSyC5EkDgf2QKICe0etz"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182001,
+      "name": "Time To",
+      "url": "https://open.spotify.com/track/1uJZNnSaILpgIWks1zYFKW"
     },
     {
       "album": {

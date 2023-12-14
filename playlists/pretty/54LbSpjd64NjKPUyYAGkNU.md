@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/54LbSpjd64NjKPUyYAGkNU.md) - [plain]
 
 > Beatiful, mellow jazz for romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483 likes - 23 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473 likes - 23 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/54LbSpjd64NjKPUyYAGkNU.md) - [plain]
 | 4 | [They Say It's Wonderful](https://open.spotify.com/track/3vgNELn8MEMjWbdb3hAi3P) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/2AXOX16zae4ZLiddqqzmp8) | 5:20 |
 | 5 | [The Very Thought Of You](https://open.spotify.com/track/5vaadMKxBp0nvzfMrlaiQ7) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL) | 4:16 |
 | 6 | [Hours Of Ours](https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP) | [Waiting For Dawn](https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd) | 5:47 |
-| 7 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/6K7JqasElx9wkiCjrh3YCl) | [James Taylor and Michael Brecker](https://open.spotify.com/artist/3ekWeDtkbJoQ8D7WwbZN2f), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [October Road \(Special Edition\)](https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif) | 4:42 |
+| 7 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/6K7JqasElx9wkiCjrh3YCl) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [October Road \(Special Edition\)](https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif) | 4:42 |
 | 8 | [What Are You Doing the Rest of Your Life](https://open.spotify.com/track/0mo0lrHb9PTM4fIIYffk6F) | [Gregg Arthur](https://open.spotify.com/artist/0aQopayBTPPx1jQ5THTJ4j) | [One Romantic Night](https://open.spotify.com/album/6hP0WT5ktxvyCRCHXTmzbi) | 5:44 |
 | 9 | [Exactly Like You](https://open.spotify.com/track/0PDRV7IO1q79KP3PaydAhr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Electrifying Aretha Franklin \(Expanded Edition\)](https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH) | 2:35 |
 | 10 | [Whatever Happens](https://open.spotify.com/track/3N8iYWrOh4Qjr2LiM7IvQg) | [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Romance](https://open.spotify.com/album/2XGpZYTN1gktkJfMCcBQQM) | 5:45 |

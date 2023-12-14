@@ -1,13 +1,45 @@
 {
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
-  "num_followers": 86307,
+  "num_followers": 87118,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yzg5OThiOTlhNTA2ZjA3OWZkNDVjODQxYjg2YjVhZDMxMmQ4MGFj",
+  "snapshot_id": "MCwyNDE3NjRmMTQ5YWJiYzFmZjkyNTYzMzIyNDI3Y2FlMjhmMWNjMTNl",
   "tracks": [
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Don't Make Sense",
+        "url": "https://open.spotify.com/album/3pXvt9PNq59Rl7ZhHrLxOC"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lauren Callihan",
+          "url": "https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2"
+        }
+      ],
+      "duration_ms": 260394,
+      "name": "Don't Make Sense",
+      "url": "https://open.spotify.com/track/1PJiZjIcN08pjgJgKDHqUZ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Honeysuckle Switches: The Songs of Lucinda Williams",
+        "url": "https://open.spotify.com/album/1jUwbZwLVILK3ALGQev5ZG"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Born To Be Loved",
+      "url": "https://open.spotify.com/track/5fkfgB7MGOtX8A83SSXdB6"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
@@ -1465,22 +1497,6 @@
       "url": "https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Damage Control",
-        "url": "https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH"
-      },
-      "artists": [
-        {
-          "name": "Curtis Salgado",
-          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
-        }
-      ],
-      "duration_ms": 243024,
-      "name": "Always Say I Love You (At The End Of Your Goodbyes)",
-      "url": "https://open.spotify.com/track/6ziHTglnnwomBLV8ZNEGRz"
-    },
-    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "The Triangle (Expanded Edition)",
@@ -1651,22 +1667,6 @@
       "duration_ms": 370760,
       "name": "Gemini Heart",
       "url": "https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Texas Hold 'Em",
-        "url": "https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui"
-      },
-      "artists": [
-        {
-          "name": "Anni Piper",
-          "url": "https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Love's Truly Blind",
-      "url": "https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC"
     }
   ],
   "unique_name": "Blue Ballads",

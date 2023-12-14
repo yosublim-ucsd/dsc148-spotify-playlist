@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,488 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,497 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Talk About It](https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Talk About It \(B\-Side\)](https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr) | 2:12 |
 | 115 | [Somebody Made For Me](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq) | [Emitt Rhodes](https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y) | [The Emitt Rhodes Recordings \(1969\-1973\)](https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB) | 2:26 |
 
-Snapshot ID: `MCw4MDk4MzYyMjZmMGU3Y2FkZjFlOTk3MjYxYWMyNzk1ZjY4Nzc3ODg3`
+Snapshot ID: `MCxlZWMzMGRkOTQ4NmFkYTVlZmI5MWQ4OGM5ZmFkZjc2ZWRlOTAzMjlj`

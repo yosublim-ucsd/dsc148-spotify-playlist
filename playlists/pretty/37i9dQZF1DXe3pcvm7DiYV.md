@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3pcvm7DiYV.md) - [plain]
 
 > Courez, dansez, sautez avec cette playlist approuvée par les enfants!
 
-[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 56 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 56 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3pcvm7DiYV.md) - [plain]
 | 51 | [Dance to Your Daddy](https://open.spotify.com/track/3Q5Qi7wr74JGzcG7JRGpb4) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 1:18 |
 | 52 | [Shake My Sillies](https://open.spotify.com/track/2M4X7QY9WTJKaWgOd8EiVR) | [Tumble Tots](https://open.spotify.com/artist/0NcZOCgglyAmOdkiM9kQuv) | [Action Songs: Wiggle & Shake](https://open.spotify.com/album/4w7h1lROwNkdKxjiikH6gC) | 1:11 |
 | 53 | [Introduction VII](https://open.spotify.com/track/5Sle8jGZo4yVIu73PabtnC) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 0:59 |
-| 54 | [Robot Dance](https://open.spotify.com/track/0GZ2ci08NLxQYs0ECpAuqf) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 3:25 |
+| 54 | [Robot Dance](https://open.spotify.com/track/470l84TRRT6uM8udVunIDb) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 3:25 |
 | 55 | [Dorothy's Dance Party](https://open.spotify.com/track/0YTFQsygHGEcBz7dkkuHRJ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 2:12 |
 | 56 | [Happy Tappin' with Elmo](https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Elmo's Dance Party](https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1) | 1:30 |
 
-Snapshot ID: `MCwzNGI2MTQxMGI3ZmQ5MWJlYWZlMGRhMWJmMGJjM2Q2OTAxMTkzN2Ni`
+Snapshot ID: `MCw2MjdhYmJjOTJiZmRlNzQwNTJkNTY4MGJkNzY0ZGZiM2RjZTE0N2I0`

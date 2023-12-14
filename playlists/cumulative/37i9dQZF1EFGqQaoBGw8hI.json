@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 66506,
       "name": "Are We Laughing?",
       "url": "https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 43800,
       "name": "Back To Paramount",
       "url": "https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 53426,
       "name": "Back To The Aquarium",
       "url": "https://open.spotify.com/track/0XdP5Xlov5R5tmXN7tBYyL"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 126466,
       "name": "Better Have A Gift",
       "url": "https://open.spotify.com/track/7j8ryi6b9DXpkCYtFRvbNp"
@@ -1921,7 +1921,7 @@
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 261826,
+      "duration_ms": 261825,
       "name": "Cold As Christmas (In The Middle Of The Year)",
       "url": "https://open.spotify.com/track/2eCdGml2e9dBfSygX0ItC0"
     },
@@ -3050,10 +3050,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 237706,
       "name": "For Wanting You",
       "url": "https://open.spotify.com/track/04woEqqUzqgOmplfDSZV0c"
+    },
+    {
+      "album": {
+        "name": "Vagabond Ways",
+        "url": "https://open.spotify.com/album/7wsLsmGMUaIjDvJlld38td"
+      },
+      "artists": [
+        {
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237706,
+      "name": "For Wanting You",
+      "url": "https://open.spotify.com/track/39rKSdrwUVbABCRCzx2nan"
     },
     {
       "album": {
@@ -3219,6 +3237,24 @@
     },
     {
       "album": {
+        "name": "Ghetto Gospel (Closed Captioned)",
+        "url": "https://open.spotify.com/album/3yKixwP6334wJiaaOvnl6w"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264397,
+      "name": "Ghetto Gospel",
+      "url": "https://open.spotify.com/track/0unlYYzWkXuoYKebsO7WzY"
+    },
+    {
+      "album": {
         "name": "Loyal To The Game",
         "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
       },
@@ -3234,7 +3270,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 238053,
       "name": "Ghetto Gospel",
       "url": "https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M"
@@ -3602,7 +3638,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213600,
-      "name": "Hakuna Matata - From \"The Lion King\" Soundtrack",
+      "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"
     },
     {
@@ -4404,7 +4440,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 151600,
       "name": "I Loved a Man",
       "url": "https://open.spotify.com/track/5TviDMAuoD2YidbXDVsSqC"
@@ -6022,7 +6058,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 92626,
       "name": "Meet Christine",
       "url": "https://open.spotify.com/track/7BvitHMNGMpGqhPtPgBppa"
@@ -6157,7 +6193,7 @@
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 260266,
+      "duration_ms": 260265,
       "name": "Michelle's Song - From \u201cFriends\u201d Soundtrack",
       "url": "https://open.spotify.com/track/2e2tuKera7JpdOArm6sDcl"
     },
@@ -7648,7 +7684,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 104373,
       "name": "Sarah Escapes",
       "url": "https://open.spotify.com/track/65BiTzOh9L9VP7av8YtIJC"
@@ -7684,10 +7720,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 277800,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/6Xj6fvQHPBCQvLX4Z4lBl5"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/4oZkzxKdIFZbb3hwVqbyoZ"
+      },
+      "artists": [
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1MElTrFCCQVaR9U3AQPTlk"
     },
     {
       "album": {
@@ -7758,6 +7812,24 @@
       "duration_ms": 207026,
       "name": "Sausage Rolls for Everyone",
       "url": "https://open.spotify.com/track/6fNd6OkGoACwHtAnf2wslm"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Scared To Live",
+      "url": "https://open.spotify.com/track/4BGZF4oLbTL0pWm7C18pbv"
     },
     {
       "album": {
@@ -9232,7 +9304,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 131293,
       "name": "The Aquarium",
       "url": "https://open.spotify.com/track/1SvfoPOzHfMOUUrpIFWYfT"
@@ -10202,7 +10274,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 49493,
       "name": "To The Guesthouse",
       "url": "https://open.spotify.com/track/07nzChLQ0zWJF7z0VMLXfV"
@@ -11057,6 +11129,28 @@
     },
     {
       "album": {
+        "name": "Wrap Her Up",
+        "url": "https://open.spotify.com/album/1G37RC2eRoOY1xrlKOdyWC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251040,
+      "name": "Wrap Her Up",
+      "url": "https://open.spotify.com/track/65SlWvmhk2VjroLpToacn0"
+    },
+    {
+      "album": {
         "name": "Ice On Fire",
         "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
       },
@@ -11072,7 +11166,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 381493,
       "name": "Wrap Her Up",
       "url": "https://open.spotify.com/track/0sIiAyckK90a6KOKhIeGwM"

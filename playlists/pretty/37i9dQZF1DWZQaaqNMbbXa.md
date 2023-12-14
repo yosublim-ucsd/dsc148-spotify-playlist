@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 
 > Hit the dance floor with your favorite bops!
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,188 likes - 150 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,202 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 | 149 | [you broke me first \- Gryffin Remix](https://open.spotify.com/track/3Ni9jLlq3xPoOKv1HYlQrH) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [you broke me first \(Gryffin Remix\)](https://open.spotify.com/album/3DgnBGjHc8kkDvjP0xse9x) | 3:35 |
 | 150 | [I Don't Care \(with Justin Bieber\) \- Loud Luxury Remix](https://open.spotify.com/track/6f807x0ima9a1j3VPbc7VN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [I Don't Care \(with Justin Bieber\) \[Loud Luxury Remix\]](https://open.spotify.com/album/2oCs0DGTsRO98Gh5ZSl2Cx) | 3:14 |
 
-Snapshot ID: `MCxkNzMyYjEyNzU3NmIwYjE2ZjhhODE2YmQxMDJjNjljYTE4ZDBiMjg2`
+Snapshot ID: `MCxlNDgwNWRlNGNiMmFmNjQ5ZTVkNWY3NWNkMTNiZWQxZTllM2YzMGIy`

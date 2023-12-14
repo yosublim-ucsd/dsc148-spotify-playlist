@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,957 likes - 65 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,959 likes - 65 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [A Shade Of Jade \- Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Mode For Joe \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD) | 7:08 |
 | 65 | [Just One Of Those Things](https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Cooker](https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py) | 7:16 |
 
-Snapshot ID: `MCw4ZTJhZWRkZTVmMDEwNzE5YzQyZGU1YTdmZWVhZjk0MTkyYTI4MjVk`
+Snapshot ID: `MCw2MTcwYTgxN2Q2ZmI5MTdkMWFlYmJjYTYxMGZjZjJhZTEyZjAzYTk5`

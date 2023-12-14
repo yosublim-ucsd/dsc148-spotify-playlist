@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 174905,
       "name": "Better",
       "url": "https://open.spotify.com/track/2rx0XEfF6UXhGI4CZ2a2PO"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 124137,
       "name": "California Sun",
       "url": "https://open.spotify.com/track/4ndKdhuho4PWsGZL6V4Wbv"
@@ -620,6 +620,28 @@
       "duration_ms": 135964,
       "name": "Close Our Eyes",
       "url": "https://open.spotify.com/track/6fnXRuig1Qx8ofOMOFemXY"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1tmjTej23PLm4d9zJQvMNj"
+      },
+      "artists": [
+        {
+          "name": "Seazons",
+          "url": "https://open.spotify.com/artist/0yO8jzH8NUwFbJqKfvrRnf"
+        },
+        {
+          "name": "houselife",
+          "url": "https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3rBD8phZjb14NPblq35s77"
     },
     {
       "album": {
@@ -966,6 +988,28 @@
       "duration_ms": 151636,
       "name": "Every Time",
       "url": "https://open.spotify.com/track/7wIEfhAIUrBGTp4ZHkHl9k"
+    },
+    {
+      "album": {
+        "name": "Eyesight",
+        "url": "https://open.spotify.com/album/3EohqBC5Dp0Hj2cXZjuTK7"
+      },
+      "artists": [
+        {
+          "name": "Mats Westbroek",
+          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
+        },
+        {
+          "name": "Damaui",
+          "url": "https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Eyesight",
+      "url": "https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA"
     },
     {
       "album": {
@@ -1542,7 +1586,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 156000,
       "name": "I Apologize",
       "url": "https://open.spotify.com/track/08fzPg0SVkkyOGFLL4D5IC"
@@ -1988,6 +2032,28 @@
       "duration_ms": 149400,
       "name": "Let You Know - Summer Edit",
       "url": "https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/4OPRXGAAcFtuOjl9gALaO5"
+      },
+      "artists": [
+        {
+          "name": "aiden",
+          "url": "https://open.spotify.com/artist/4fyX4gJSYNlpMv8WZjWnrX"
+        },
+        {
+          "name": "Summer Vibes",
+          "url": "https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1InxbQDXbbs2J6eWGFbtym"
     },
     {
       "album": {
@@ -3275,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Smooth Operator",
+        "url": "https://open.spotify.com/album/0yv0ZcxUJ5wUxRXYpL21Gk"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm"
+    },
+    {
+      "album": {
         "name": "So Long",
         "url": "https://open.spotify.com/album/0kMygFJabOWCx0ELzJRHAa"
       },
@@ -3693,6 +3777,32 @@
     },
     {
       "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/3eJ5ijHkTaYc4CLkRWdvWw"
+      },
+      "artists": [
+        {
+          "name": "Joel Coopa",
+          "url": "https://open.spotify.com/artist/36Wo4JMbqaHm0wzCuDxBuD"
+        },
+        {
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+        },
+        {
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "The Time Is Now",
+      "url": "https://open.spotify.com/track/6RdIXMyuGrmsMWfRXTIWKg"
+    },
+    {
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/6eryNpfVWsLGm36OeISOaY"
       },
@@ -3920,7 +4030,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 157375,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1iMDLTTnmTivGA4bJ80F85"

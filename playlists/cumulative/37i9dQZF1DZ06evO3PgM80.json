@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "Redimido (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347413,
+      "name": "Redimido - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo"
+    },
+    {
+      "album": {
         "name": "Risen Savior (Sing My Soul) [Live]",
         "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
       },

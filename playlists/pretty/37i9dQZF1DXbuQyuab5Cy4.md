@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,179 likes - 95 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,180 likes - 95 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 12 | [Blood](https://open.spotify.com/track/5TTX8tnS8kxYPPCSAFPsCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Blood](https://open.spotify.com/album/3u28SLBxnRI3cxwv9zwheu) | 3:00 |
 | 13 | [Frankenstein's Fury](https://open.spotify.com/track/10rmDaJ80PXKTN4BINMfh6) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr) | [Frankenstein's Fury](https://open.spotify.com/album/3l6DpMg71tQ15zQYfxbRF1) | 2:59 |
 | 14 | [go\_hard](https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [WASTY](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [go\_hard](https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q) | 2:06 |
-| 15 | [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 |
+| 15 | [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 |
 | 16 | [Psycho \- RAC Mix](https://open.spotify.com/track/2WyZycWzHXADJBDKOFc5s2) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/3oSmMnaNq31Ys9v8If6Y8Y) | 3:11 |
 | 17 | [inhuman](https://open.spotify.com/track/72sLsJ5XELHGuV1J6ntJoZ) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [inhuman](https://open.spotify.com/album/565EAf3SEil3VUEvBeqdvz) | 3:18 |
 | 18 | [Ghost Voices](https://open.spotify.com/track/3A02f2nXSbpeY9uXHi7oMi) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/5xNtL2BsCZI9cSx0Zzd3J0) | 4:26 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 49 | [All The Smoke \(feat\. Bok Nero\)](https://open.spotify.com/track/6XI9lJE1gvuLUNJtFMVO7G) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Stoutty](https://open.spotify.com/artist/62XF3D4OkSQKRK8j0aokow), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [All The Smoke \(feat\. Bok Nero\)](https://open.spotify.com/album/0aRpn9usfr7qGmR2oVZM6Q) | 2:20 |
 | 50 | [Bloody Mary \(Harris & Ford Remix\)](https://open.spotify.com/track/62At4l9VMYuB8nJQPEQ1pd) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Bloody Mary \(Harris & Ford Remix\)](https://open.spotify.com/album/60wmmReuAG6SHfGkKNkY9V) | 3:08 |
 | 51 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
-| 52 | [This Song Scares People](https://open.spotify.com/track/2xUvfzTPwPPMz6oifXCtUg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [This Song Scares People](https://open.spotify.com/album/6PlpFIqZENnbLoDD8JaCV3) | 2:03 |
+| 52 | [This Song Scares People](https://open.spotify.com/track/2xUvfzTPwPPMz6oifXCtUg) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [This Song Scares People](https://open.spotify.com/album/6PlpFIqZENnbLoDD8JaCV3) | 2:03 |
 | 53 | [Tower](https://open.spotify.com/track/5Ek9fda1mgxvVS92lCE7Qn) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tower](https://open.spotify.com/album/3ow68IUvYEltOQb9Jqco1H) | 3:30 |
 | 54 | [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/0oIuyHFFWzaST9UpKGDqPD) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Neon Jungle Remixes](https://open.spotify.com/album/5AI6x0gSgltmlev2f6yec7) | 3:26 |
 | 55 | [Welcome to the Zombie Disco](https://open.spotify.com/track/3sWYJawOFRDom4ghfmmdgK) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Trick or Treat](https://open.spotify.com/album/26Fb4hs1Hadb6XXkH5bzYj) | 4:54 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 94 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 95 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MCxmNzRmOWRlZTFlN2Y1NjNmNmU2MmIzMmY0NDYzOTJiYzYzZjEzZDhl`
+Snapshot ID: `MCw4ODIzM2JhNmY5MWIyNDlkNzNhZmI0ZWQ4ZTk5ODg1MTY3NjAxNjZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Skifoan und Hüttenabriss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,393 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,404 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 |
 | 80 | [Ich schieß mich weg](https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Ich schieß mich weg](https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg) | 2:07 |
 
-Snapshot ID: `MCwxMGFkNjUzZmEzMWRlMDE0ZTZlN2VjNjE4ZTY4ZjAyM2MxZmNmZjhm`
+Snapshot ID: `MCxmMDFkNmZmMDAxNzhkMTFhMjliNmFlMmI0Y2Q1MjI5ZGY2Mjc4N2Rh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,573 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,579 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 |
 | 100 | [Your Great Deception](https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [Your Great Deception](https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3) | 5:22 |
 
-Snapshot ID: `MCxkNTdiMzI3NjUzY2U1MTQ0ZTFlNjUzZTZlOGI2ZmNiYjAxMGI0N2Fm`
+Snapshot ID: `MCw1NzRiM2QwZjMyMjY3YzE3ZTJhNWQ2NzZmNzUyMjMzMDYzNTE4YmJj`

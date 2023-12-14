@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,222 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,230 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Archon](https://open.spotify.com/track/3AmPOosncyUct6bfI4vQdL) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/5oMbK3bD68FOMhQm9Rts6z) | 2:56 |
 | 100 | [N2](https://open.spotify.com/track/5n6CAuAvZDlVmPvGUbKzNQ) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [N2](https://open.spotify.com/album/6OrQ3W1y2H0xMGLav3Tzs8) | 2:13 |
 
-Snapshot ID: `MCw0NGExZGNiODFhOWNmNmRjZDEzZDgwMWI1ODZhYjg0NDc4NTU0YWQz`
+Snapshot ID: `MCw5ZTMzZTIyMDkyMzU2NWM4NDZhNjk0NWZiNjY1YzEwOTllMjlkNjQw`

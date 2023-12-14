@@ -4,12 +4,12 @@
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-76 songs - 4 hr 53 min
+77 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Clark Younger](https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y) | 3:16 | 2021-01-18 |  |
-| [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 | 2021-01-18 |  |
+| [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 | 2021-01-18 | 2023-12-14 |
 | [Agua De Beber](https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:15 | 2021-01-18 |  |
 | [Al Latin](https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT), [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7), [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Río de los Canasteros](https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy) | 9:08 | 2021-01-18 |  |
 | [Amalfi Moon](https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Amalfi Moon](https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz) | 2:31 | 2021-01-18 |  |
@@ -46,6 +46,7 @@
 | [Manhã de Carnaval](https://open.spotify.com/track/3mFoB8P6gDrjI7uKG0ewWW) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 3:36 | 2021-01-18 |  |
 | [MarroquinerÍa](https://open.spotify.com/track/7Ex3R4kH4nfG90XwAdxkk8) | [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [FantasÍa Flamenca 2](https://open.spotify.com/album/3CpgMaLkCDQMsIHqYqx7nw) | 2:04 | 2021-01-18 | 2022-07-29 |
 | [Mi esencia eres tu\. Tanguillos a mi aire](https://open.spotify.com/track/7hOOTKXuE202k0ohFf3pms) | [Pablo Rubén Maldonado](https://open.spotify.com/artist/2Sid7pX5SMI1a1ay6G18Hg) | [Fuera de la realidad](https://open.spotify.com/album/7tKBotmaXtES3CxMYfNZKM) | 4:56 | 2021-01-18 | 2022-07-29 |
+| [Miriam](https://open.spotify.com/track/1ag87VblSSLqurrd6anxOr) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [El Solar de Bebo](https://open.spotify.com/album/7fHCkw09BzGGR47AcdMwuh) | 6:14 | 2021-01-18 |  |
 | [Miriam \(El Solar de Bebo\)](https://open.spotify.com/track/2aW1anZGJ3oFxdCKXfGKgf) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Bebo de Cuba](https://open.spotify.com/album/5hPV86hIyaOoO68WcXVCNe) | 6:14 | 2021-01-18 | 2022-07-29 |
 | [Mozamo \(Alegrías\)](https://open.spotify.com/track/1legLTM1WPwNbPF4uVp4OO) | [Sergio Monroy](https://open.spotify.com/artist/0d5ZCkfHIwK6lWcSjvOO4f) | [Piano Flamenco](https://open.spotify.com/album/5uVFZ2LayNZdkuGqi1Y4fw) | 5:28 | 2021-01-18 | 2022-07-27 |
 | [Noche De Ronda\-Siempre En Tu Corazon](https://open.spotify.com/track/3vU5zFVDTPZOHnW95hLlJC) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:58 | 2021-01-18 |  |

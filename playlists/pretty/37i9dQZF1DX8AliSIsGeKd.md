@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Christian Löffler, Malou
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,891 likes - 90 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,898 likes - 90 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Yame](https://open.spotify.com/track/1HZfIKYCxYQNg3g4bb21YV) | [The Mekanism](https://open.spotify.com/artist/28QIgdCMLnz3ZBkFRCkD5h) | [Maera Compilation, Vol\. II](https://open.spotify.com/album/6vGMufhkc9MavNJz59BhWy) | 7:50 |
 | 90 | [The Other Side \- Original Radio Edit](https://open.spotify.com/track/273olfcCZ9Rx2ANiHHp4Dm) | [Juliet Sikora](https://open.spotify.com/artist/27dP6YOr1pGNXLpHRLjvYx) | [The Other Side](https://open.spotify.com/album/4NNxWFqzSbK27OHlZarRdH) | 2:47 |
 
-Snapshot ID: `MCxmMGZhMjEzMzE1NTI4ZDVhYjZmNGUwMWZlYTU0YWQ3MmQyZDRkZDI1`
+Snapshot ID: `MCxmOTAxZTM3MjE2NmU1MjkxY2M0OGQ4NDgyNzY5NTBkZGNmODVkNTg4`

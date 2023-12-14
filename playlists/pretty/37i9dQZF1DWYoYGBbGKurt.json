@@ -1,12 +1,12 @@
 {
   "description": "Lazy slow lofi beats for laid-back moments.",
-  "num_followers": 633705,
+  "num_followers": 633732,
   "original_name": "lofi chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTVlZjE4NDVlZjZiMzhkNmU5OTIyOGI1ZDBhMzBlNjE5MTVhYmZm",
+  "snapshot_id": "MCw4MmNiMDY5NGY1YWNiMzM1YzYxYzI4MTNjMzYwNmVmY2RjNWNhMGZi",
   "tracks": [
     {
       "added_at": "2023-12-08 00:10:00",
@@ -822,6 +822,10 @@
         {
           "name": "Maggotts&Becketts",
           "url": "https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07"
+        },
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
         }
       ],
       "duration_ms": 131124,

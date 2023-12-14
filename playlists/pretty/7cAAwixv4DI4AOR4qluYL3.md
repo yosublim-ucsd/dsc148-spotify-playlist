@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7cAAwixv4DI4AOR4qluYL3.md) - [plain]
 
 > Release all your worries\. Enjoy the times with sounds from legends like  Bob Marley, Snoop Dogg &amp; Bone Thugs \-N\- Haromony\. \#HighlyRecommended
 
-[Digster](https://open.spotify.com/user/digster.fm) - 5,995 likes - 35 songs - 2 hr 28 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 31 likes - 35 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/7cAAwixv4DI4AOR4qluYL3.md) - [plain]
 | 34 | [Diamonds Dancing](https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 5:14 |
 | 35 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 
-Snapshot ID: `NDM4LDBhMTYxYWFlZTkwOTFhY2Y2NWE0Njg0ZTAzZjkwNTRmMWE3MGNmNjU=`
+Snapshot ID: `NDQwLDIyMmY5YmQ0ZmQwNGFlY2VkMDRiY2VmNTlmNDJkOGQ5ZjQ5YmRmODE=`

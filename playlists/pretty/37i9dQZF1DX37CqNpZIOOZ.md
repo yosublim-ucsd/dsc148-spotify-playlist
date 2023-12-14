@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 
 > Discover the music of Richard Strauss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,598 likes - 58 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,600 likes - 58 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 | 57 | [Ein Heldenleben, Op\. 40: Der Held \- Live](https://open.spotify.com/track/6zXuhOLQSrGel3H8c89VM4) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Staatskapelle Berlin](https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Strauss, R.: Vier letzte Lieder; Ein Heldenleben \(Live\)](https://open.spotify.com/album/1yMrEQQMiFRD1rxjkCwsLj) | 4:24 |
 | 58 | [Strauss, R: An Alpine Symphony, Op\. 64: XV\. Mists Rise Up](https://open.spotify.com/track/5IJlkebGlHwi0ERYgvws24) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Rudolf Kempe](https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg), [Staatskapelle Dresden](https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7) | [Strauss: Metamorphosis & An Alpine Symphony, Op\. 64](https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN) | 0:17 |
 
-Snapshot ID: `MCxiZmE3NmFjNjBjMDdlOTc3NzUyZTUxY2RkZTU0YWQ4NzM0NjdlMzZh`
+Snapshot ID: `MCw0YTQ4Yjc4OTRhMGRhZWE2ZGM5ZThlZjhmMzZjYWNkZjZjYTQxZmZh`

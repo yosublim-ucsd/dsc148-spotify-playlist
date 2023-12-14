@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,609 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,619 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 74 | [5k](https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [edbl & friends \- JPRK](https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G) | 2:41 |
 | 75 | [Jupiter](https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5) | [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F), [Kennebec](https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc) | [Astronaut](https://open.spotify.com/album/7q8Z5fhvYBhVLFGvv9kif5) | 2:41 |
 
-Snapshot ID: `MCwzYjM3NmM2MDQ1NWMyNjViOGE5MzgwYmIxMzNlZjYzYTU2ZjllNDQx`
+Snapshot ID: `MCwwOGMwZTM3ZTM2NTNlNDI5MDU2MDBiZWRjMGE0YzdhYTA3MmQ1YTc2`

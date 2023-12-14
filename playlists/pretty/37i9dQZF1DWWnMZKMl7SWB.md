@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,299 likes - 650 songs - 1 day 0 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,297 likes - 650 songs - 1 day 0 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 78 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 |
 | 79 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 |
 | 80 | [Breeze](https://open.spotify.com/track/4t73es0R4IkXujsn8Mm2Ry) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Breeze](https://open.spotify.com/album/4ySIUffu45EVKJH20DokXQ) | 3:29 |
-| 81 | [Marbles](https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [Marbles](https://open.spotify.com/album/54iZQMfNa484KcQjlkM9yF) | 2:11 |
+| 81 | [Marbles](https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Marbles](https://open.spotify.com/album/54iZQMfNa484KcQjlkM9yF) | 2:11 |
 | 82 | [Like a Chameleon](https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Like a Chameleon](https://open.spotify.com/album/5oSBoD1IusxIf8wcn8P0du) | 1:59 |
 | 83 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 |
 | 84 | [Your Vibe](https://open.spotify.com/track/1DM6OEWbOSsaL0eDMQBmhV) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [De La Crème](https://open.spotify.com/album/7sdDO4v6wf19Kz60IszTap) | 1:27 |
@@ -659,4 +659,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 649 | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/track/7wUevqE8Kpl6p6xZKAi7gl) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/album/5qRXYnq5sYYvSfrR77bnQN) | 2:42 |
 | 650 | [Zen A.M.](https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Zen A.M.](https://open.spotify.com/album/2j59lkIwIxqO2VcqNQXb3l) | 2:00 |
 
-Snapshot ID: `MCwzNzVjYWJlOTg5MTRmYzFkMWU1MjFhMGFkYzY5NzIzNmZjNGM5YWRi`
+Snapshot ID: `MCw0NDUzOThiYmZlMzY5ODRmNzBjYzA3MTc0NTdhN2FmYzQ2OTdiODYy`

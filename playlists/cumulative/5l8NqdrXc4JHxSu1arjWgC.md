@@ -4,7 +4,7 @@
 
 > 
 
-682 songs - 1 day 21 hr 56 min
+684 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Perihelion](https://open.spotify.com/track/6Mxqj3ClyindysAxYqqrrg) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Infest The Rats' Nest](https://open.spotify.com/album/5Bz2LxOp0wz7ov0T9WiRmc) | 3:11 | 2019-08-20 |  |
 | [Pictures of Me](https://open.spotify.com/track/2QozSmFz74fuDjEEMC8BjX) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/1rQWVnptZV3CfNP1pHSmqV) | 3:46 | 2021-05-04 |  |
 | [Pilgrimage](https://open.spotify.com/track/5A560HwQAgEC2ta48xKfJ3) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 3:31 | 2020-01-14 |  |
+| [Piranha](https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF) | [Tripping Daisy](https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk) | [I Am An Elastic Firecracker](https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5) | 4:47 | 2023-12-04 |  |
 | [Policy of Truth \- 2006 Remaster](https://open.spotify.com/track/0C6EIiQu8CS4eYtOCMEiAd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:54 | 2020-08-03 |  |
 | [Polythene Pam \- 2019 Mix](https://open.spotify.com/track/7BavH3tDEsEDKnntiVTaAu) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Super Deluxe Edition\)](https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c) | 1:12 | 2019-09-29 |  |
 | [Poor Places](https://open.spotify.com/track/4cGVaSWrKvMYuVTz5NRYYJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 5:15 | 2019-06-09 |  |
@@ -641,6 +642,7 @@
 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 | 2022-08-19 |  |
 | [Vad Hände Med Dem?](https://open.spotify.com/track/1hTXo2iVw4fMyAwt9nzA51) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Revelation](https://open.spotify.com/album/708s2EewEVFy0FZeOQYY3Y) | 4:41 | 2018-12-03 |  |
 | [Venus](https://open.spotify.com/track/3x0iCzjgf0v9lnwvAhU9P2) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:49 | 2020-03-10 |  |
+| [Vernie](https://open.spotify.com/track/14E3sWuyPFwTj1KVqn3hj2) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:15 | 2023-10-30 |  |
 | [Village Green \- 2018 Stereo Remaster](https://open.spotify.com/track/3dDN8YRmBb9Y9zUSZpcBu2) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Kinks Are The Village Green Preservation Society \(2018 Deluxe\)](https://open.spotify.com/album/6KSNUajJsQNXyp26fyE4Jf) | 2:11 | 2019-02-28 |  |
 | [Virgin Criminal](https://open.spotify.com/track/4mwBVQNJik7lTrVojAuPzj) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Rapscallion](https://open.spotify.com/album/5gu3kzCRkyPUHVpnBTeNR1) | 2:59 | 2023-05-18 |  |
 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/47W6YR93MPCGLEUReLMyDm) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006 \(Remastered\)](https://open.spotify.com/album/6bxhCuuhyD3zQOGZwrBduo) | 3:49 | 2020-03-22 |  |

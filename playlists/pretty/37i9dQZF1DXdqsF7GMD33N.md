@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Alex Newell in Shucked
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,753 likes - 72 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,539 likes - 72 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 10 | [Santa Fe](https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:12 |
 | 11 | [She Used to Be Mine](https://open.spotify.com/track/7CBrUf50mf2IqcRZla38by) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 4:20 |
 | 12 | [Anything Goes](https://open.spotify.com/track/0LgODbepSswNlLUK8EEH8v) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Anything Goes New Broadway Company Orchestra](https://open.spotify.com/artist/1SDhiS0uh2gJfCqE82bcT1) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 5:48 |
-| 13 | [Waiting for Life](https://open.spotify.com/track/0SIBJD3PsOMO1QiS3TI2xm) | [Hailey Kilgore](https://open.spotify.com/artist/115mPxOV2kmLVd8a6tHsqb), [Once On This Island Storytellers](https://open.spotify.com/artist/2Am9K49DTac0Pf0YOa3qwF) | [Once on This Island \(New Broadway Cast Recording\)](https://open.spotify.com/album/6gSo70KxG1aQRLRYvptsEi) | 3:25 |
+| 13 | [Waiting for Life](https://open.spotify.com/track/0SIBJD3PsOMO1QiS3TI2xm) | [Hailey Kilgore](https://open.spotify.com/artist/19Kv0f8vLqLo54a2h3OAig), [Once On This Island Storytellers](https://open.spotify.com/artist/2Am9K49DTac0Pf0YOa3qwF) | [Once on This Island \(New Broadway Cast Recording\)](https://open.spotify.com/album/6gSo70KxG1aQRLRYvptsEi) | 3:25 |
 | 14 | [So Much Better](https://open.spotify.com/track/3nfMOTjl5Ts1GZScRKuQnF) | [Laura Bell Bundy](https://open.spotify.com/artist/32bisvV1h0yF3PeKmWI6sj), ['Legally Blonde' Ensemble](https://open.spotify.com/artist/1ZjOjsdLODMZvBJol77xMW) | [Legally Blonde The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7os43c6BUhMJkDUaEtDufk) | 3:29 |
 | 15 | [Dead Girl Walking](https://open.spotify.com/track/1XVtdhL8J4L0orlDeKXZyq) | [Carrie Hope Fletcher](https://open.spotify.com/artist/3b3GjhElzysJ0xS72u9u9k), [Jamie Muscato](https://open.spotify.com/artist/5uJiTfwUrMiaGG1PwuKCp3) | [Heathers the Musical \(Original West End Cast Recording\)](https://open.spotify.com/album/6r3jhI1kXM7NkEDowpkxOU) | 3:23 |
 | 16 | [Gimme Gimme](https://open.spotify.com/track/3AQUwT6IIX9iqBStVs6lWq) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Original Broadway Cast of Thoroughly Modern Millie](https://open.spotify.com/artist/496MMYbWwr5nUg0s2cgCWH) | [Thoroughly Modern Millie \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6QtfyhxYrZIZMwTYjtcrH2) | 3:34 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 71 | [Always Starting Over](https://open.spotify.com/track/1lO05gLIDY3HgGmQMWAGXH) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [If/Then: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Fhp5BdCLeLnUzl069FlJK) | 4:42 |
 | 72 | [Annie: Tomorrow](https://open.spotify.com/track/1AXO42HiJSTgPq7KbJAEjp) | [Charles Strouse](https://open.spotify.com/artist/1HO6dUh3pea34OKnmsmjQx), [Andrea McArdle](https://open.spotify.com/artist/74AUP6Y3N7vo7s043wFa0m), [Peter Howard](https://open.spotify.com/artist/6kSSIddrp6LMEAUfbiacVv) | [Annie \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0T1lQv20NNCoFlZkVHN3SQ) | 2:07 |
 
-Snapshot ID: `MCwxOTJlMWQzZjg0OTIwMThjNTcxNDJiOTc0ZmZkYzQyZDlkZDM3ZDVl`
+Snapshot ID: `MCw3MTkyN2Q0MmJlY2YzMmQxYzgwZjA5NmYyNWQxM2RlYmMwM2JlYzkz`

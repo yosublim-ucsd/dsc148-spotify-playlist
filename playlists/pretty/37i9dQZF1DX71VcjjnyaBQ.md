@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,870 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,877 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Fanølyng](https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:18 |
 | 100 | [June 2nd](https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Emotions](https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb) | 5:01 |
 
-Snapshot ID: `MCwzYzJhOWEyNTUzYjdkYWU3MmE0MTlhMTUzMWE2ZGI3ZDQ0OWZmMDBj`
+Snapshot ID: `MCwwZWZiOTZmZWQ2NzljMzc2YjlmZTRlZWIwYmY3YjkxZGM4YTM3MDAw`

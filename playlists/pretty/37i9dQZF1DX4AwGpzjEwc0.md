@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,443 likes - 227 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,444 likes - 227 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 | 226 | [For Alfie](https://open.spotify.com/track/5zWxUnGyMIQOhOhDUcfbQ3) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [For Alfie](https://open.spotify.com/album/6IDc0jP7lINFNfIg9dynCV) | 2:26 |
 | 227 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 |
 
-Snapshot ID: `MCxjYzk3MDQ3NDMyMTg5NjQ3NzNiODQ2NGYzMGVmNGI5ZjMwNmUzYzdm`
+Snapshot ID: `MCxkYmE2ZDhjZWNhZWI5ZDI5NmYwOWI4MDAwMzhmMWVjZmI0NTE1YTdi`

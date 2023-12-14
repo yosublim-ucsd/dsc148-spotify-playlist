@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,575 likes - 150 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,578 likes - 150 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 149 | [In Honour of the Fallen](https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK) | [Graveworm](https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX) | [Killing Innocence](https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss) | 5:50 |
 | 150 | [Culture of Violence](https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB) | [Extinction A.D.](https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ) | [Culture of Violence](https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw) | 3:25 |
 
-Snapshot ID: `MCw4ZDBiNzgwOThmN2NhMDdhZTEzZDkwZWIwZjQ1OGFhNGQ1NWYyOWYy`
+Snapshot ID: `MCw3MDhhMzdlYTU0MGNjYmQzMDk4MDFkOWRmNDRlMmU2ZWMyODlkMWIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,493 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,500 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 149 | [High Fever Blues](https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH) | [The Jujubes](https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN) | [Raging Moon](https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy) | 5:39 |
 | 150 | [Dallas Blues \- Remastered](https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh) | [Wizz Jones](https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG) | [Huldenberg Blues \(Remastered\)](https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM) | 3:54 |
 
-Snapshot ID: `MCw2NjMwN2RiZTA4ZDU1MzhjYWU3NWY1MGQxMzBiMmVkMjYxZDY2ZmYx`
+Snapshot ID: `MCwyZDQ5ZTJiZmQxNGNkY2E4ZDhhMDRlM2U4OTk4ZTVhMmU4ZWI2ZTk1`

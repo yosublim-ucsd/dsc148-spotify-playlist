@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "Door De Regen",
+        "url": "https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI"
+      },
+      "artists": [
+        {
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "Door De Regen",
+      "url": "https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK"
+    },
+    {
+      "album": {
         "name": "LOS",
         "url": "https://open.spotify.com/album/5etXVNcFeL5oGCshH9ZWOx"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 231338,
       "name": "Je Weet Ik Ben Een Slodder (feat. Sigourney)",
       "url": "https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou"
@@ -758,7 +776,7 @@
       },
       "artists": [
         {
-          "name": "De Club Van Sinterklaas",
+          "name": "De Club van Sinterklaas",
           "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
         },
         {
@@ -1035,6 +1053,32 @@
     },
     {
       "album": {
+        "name": "Vanavond (Uit M'n Bol)",
+        "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "Vanavond (Uit M'n Bol)",
+      "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
@@ -1154,7 +1198,7 @@
       },
       "artists": [
         {
-          "name": "Hansie",
+          "name": "FLORABWOYY",
           "url": "https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl"
         },
         {

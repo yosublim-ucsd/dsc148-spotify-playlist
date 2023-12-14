@@ -74,10 +74,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 191960,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/0Rw1RzRhZ6Qlr6nRnEVUkR"
+    },
+    {
+      "album": {
+        "name": "Lovers & Losers",
+        "url": "https://open.spotify.com/album/79iONglltoQBuvFp8O4C1r"
+      },
+      "artists": [
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/39xqdpzfthBNsFT7SIFCld"
     },
     {
       "album": {
@@ -340,6 +358,28 @@
     {
       "album": {
         "name": "Cruel",
+        "url": "https://open.spotify.com/album/5PrPbMnBtTLp0e2RDMIGFD"
+      },
+      "artists": [
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/7APMZM7jg1CNlxmQANjSGc"
+    },
+    {
+      "album": {
+        "name": "Cruel",
         "url": "https://open.spotify.com/album/01fIJhjWikBCQ8iMSapF30"
       },
       "artists": [
@@ -354,7 +394,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 191612,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/7FNf2WOOaJ1Bx6wrjqhCba"
@@ -518,6 +558,28 @@
       "duration_ms": 247693,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/0Y1HzOAyIj8O6N3lnKmi2l"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2HEnmzQD2rjlbGzFnMhbxO"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        },
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129264,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3QlC75jqpGZSpIi2xM0mfl"
     },
     {
       "album": {
@@ -797,6 +859,68 @@
     },
     {
       "album": {
+        "name": "Tjuvjakt",
+        "url": "https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175602,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3HdrHSnfKYa1AAVdmilsxt"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+    },
+    {
+      "album": {
+        "name": "Just Because I'm Okay",
+        "url": "https://open.spotify.com/album/0vNn3cUzx5e8QtzAr1YYlB"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197117,
+      "name": "Just Because I'm Okay",
+      "url": "https://open.spotify.com/track/6L4wVtBG339qIHtNOBFHs2"
+    },
+    {
+      "album": {
         "name": "Just Miss Love",
         "url": "https://open.spotify.com/album/0HdLiRs3Kv3D36oRKL72zn"
       },
@@ -816,10 +940,36 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 207296,
       "name": "Just Miss Love",
       "url": "https://open.spotify.com/track/6KwvzNhrvOXc1i4mCCU0xY"
+    },
+    {
+      "album": {
+        "name": "Just Miss Love (feat. Saint Wilder)",
+        "url": "https://open.spotify.com/album/2Fr6emULXNjU1bFupojapb"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        },
+        {
+          "name": "Saint Wilder",
+          "url": "https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207296,
+      "name": "Just Miss Love (feat. Saint Wilder)",
+      "url": "https://open.spotify.com/track/3KlvJZnYxqxTHuIz85ltx1"
     },
     {
       "album": {
@@ -841,6 +991,24 @@
     },
     {
       "album": {
+        "name": "The Fifth Chapter",
+        "url": "https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC"
+      },
+      "artists": [
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Last One On My Mind",
+      "url": "https://open.spotify.com/track/49X0xXnEaD4QogX7wevj5s"
+    },
+    {
+      "album": {
         "name": "Last One On My Mind",
         "url": "https://open.spotify.com/album/1Uy6JJzeVXvLJrIgiWjrjQ"
       },
@@ -852,7 +1020,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 164500,
       "name": "Last One On My Mind",
       "url": "https://open.spotify.com/track/5GqXJIFLTN6cCSKojL326c"
@@ -929,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Lose This Feeling",
+        "url": "https://open.spotify.com/album/3VYph5PjoXJW1xVW2hkpbu"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146996,
+      "name": "Lose This Feeling",
+      "url": "https://open.spotify.com/track/39D5kQQJUO4xPFXUSnFKBm"
+    },
+    {
+      "album": {
         "name": "Magic Still Exists",
         "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
       },
@@ -966,6 +1152,24 @@
     {
       "album": {
         "name": "Masochistic",
+        "url": "https://open.spotify.com/album/0zvq9DXtDBvBO37aazJGGZ"
+      },
+      "artists": [
+        {
+          "name": "Blithe",
+          "url": "https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160929,
+      "name": "Masochistic",
+      "url": "https://open.spotify.com/track/43jcYOGtdpeEWjfiH1HP8w"
+    },
+    {
+      "album": {
+        "name": "Masochistic",
         "url": "https://open.spotify.com/album/4gqoXId2ShFtzrx2YUUmA8"
       },
       "artists": [
@@ -976,7 +1180,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 160929,
       "name": "Masochistic",
       "url": "https://open.spotify.com/track/56o8wi8BFSpeW1m8TRcQUJ"
@@ -1110,10 +1314,32 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 240273,
       "name": "On My Way (Rain or Shine Remix)",
       "url": "https://open.spotify.com/track/4dVxY7muQS2QYy0bjhM7df"
+    },
+    {
+      "album": {
+        "name": "On My Way (Remixes)",
+        "url": "https://open.spotify.com/album/6XBNZbBJp0V0w2y9VAXR2n"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "Rain or Shine",
+          "url": "https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240273,
+      "name": "On My Way - Rain or Shine Remix",
+      "url": "https://open.spotify.com/track/2z1QmtOJ2qC0XtVL8mMrf7"
     },
     {
       "album": {
@@ -1846,6 +2072,24 @@
     {
       "album": {
         "name": "Young Forever",
+        "url": "https://open.spotify.com/album/2e8oc7P5dTFx30KMvpaYHZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2BdmFvrHjvoONEWvVZ4oPU"
+    },
+    {
+      "album": {
+        "name": "Young Forever",
         "url": "https://open.spotify.com/album/4tUfK3lJ9ss49U0CwuDnDo"
       },
       "artists": [
@@ -1856,7 +2100,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 218293,
       "name": "Young Forever",
       "url": "https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1"

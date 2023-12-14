@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,117 likes - 94 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,166 likes - 94 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 11 | [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 |
 | 12 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 | 13 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
-| 14 | [garden +jersey+](https://open.spotify.com/track/6C1zDj14LtTSbkhLOas9ha) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm), [temcandoanything](https://open.spotify.com/artist/4k7v8gQIQQDOKVIZ1nbxvI), [Yabujin](https://open.spotify.com/artist/3xMSStWH6Wz2KAJqkZwXLu) | [garden +jersey+](https://open.spotify.com/album/3dfmxvekNvub6fZ2aaVJ7u) | 2:45 |
+| 14 | [garden +jersey+](https://open.spotify.com/track/6C1zDj14LtTSbkhLOas9ha) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm), [temcandoanything](https://open.spotify.com/artist/4k7v8gQIQQDOKVIZ1nbxvI), [Yabujin](https://open.spotify.com/artist/4KvLYk1KDDC9d2hvft1dJ0) | [garden +jersey+](https://open.spotify.com/album/3dfmxvekNvub6fZ2aaVJ7u) | 2:45 |
 | 15 | [so nice of you](https://open.spotify.com/track/0kvJIoVCamQAYrd0CL2lyD) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [so nice of you](https://open.spotify.com/album/2NveJmvAvsRGG3WBCxjA3i) | 2:10 |
 | 16 | [ICEWHORE! \- slowed](https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK) | 2:03 |
 | 17 | [BAIXO](https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc) | 1:44 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 93 | [So Fast](https://open.spotify.com/track/2JhhwzWuNYa8JtXduJE3Aj) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6), [Linxo](https://open.spotify.com/artist/6LYNuLh5TZQAYxuhsK8lcX) | [So Fast](https://open.spotify.com/album/5G8vICzPb4gk5KzS8N7ci4) | 1:28 |
 | 94 | [Cycle mix \(crea x creon\)](https://open.spotify.com/track/0Be7vipfSZvIaV8fuF68yc) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Cycle mix \(crea x creon\)](https://open.spotify.com/album/5SdCyzEI6C6oCazIClXQTo) | 3:39 |
 
-Snapshot ID: `MCxmYWUzY2JiYTA5Zjc5ODk5MmZkMDc2N2JmMTkzOGM3MTQxNmU5OGFm`
+Snapshot ID: `MCxlZWIyNDdlNzRhMWEwMTY2ZDNjMTFjYWIwZWM3NTFmZDM3ZDJmNzNi`

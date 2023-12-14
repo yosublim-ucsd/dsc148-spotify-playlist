@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,720 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,724 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 99 | [Rok The House](https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Rok The House](https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1) | 4:15 |
 | 100 | [Superlicious](https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y) | 3:01 |
 
-Snapshot ID: `MCxlMTM3ZGUzNWVlNzA5ZjhmODFkZDc3OGEwYmU1NjZmNzdkNTUyNjQy`
+Snapshot ID: `MCw4N2M2NjU0YzA5YTY5NzU5ZDk3NWM4NDY4MmFlOWMxNWFjZmYwMmM4`

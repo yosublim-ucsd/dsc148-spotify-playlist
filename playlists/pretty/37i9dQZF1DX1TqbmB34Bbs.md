@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: lobonabeat!, BILL STAX, oygli\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,741 likes - 200 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,740 likes - 200 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 199 | [Waterbomb \(Feat\. Gaeko, Nucksal\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/4iMaBhUaR1xfkobeLEEQyx) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:39 |
 | 200 | [A STAR IS BORN Remix \(Feat\. MELOH, Paul Blanco\)](https://open.spotify.com/track/7zCiQIPwrgc1uR0npvdE7j) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [More ISLAND](https://open.spotify.com/album/5cVupxaHaNT0ixJV2lco2u) | 2:50 |
 
-Snapshot ID: `MCwyYTdkYjhjZjU2MGM0ZDQ4MDM3YzE4N2Q4NzMzMjFiZTc3MWMxZTdm`
+Snapshot ID: `MCw0OTU0OTUxMTRiZGY5OTY0YmFlYTc5OGNmNzNhYTgzYWQ0ZGUxNzBk`

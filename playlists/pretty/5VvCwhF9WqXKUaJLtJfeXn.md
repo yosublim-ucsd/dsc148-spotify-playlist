@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/5VvCwhF9WqXKUaJLtJfeXn.md) - [plain]
 
 > Taylor Gang top picks chosen by Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 28 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 67 likes - 28 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let It Go \(feat\. Akon\)](https://open.spotify.com/track/2XYhmVMjItekCxN0uzitKX) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [O.N.I.F.C\. \(Deluxe\)](https://open.spotify.com/album/1ebdc90Jw0O5gquJ7Mcy35) | 4:18 |
 | 2 | [Work Hard, Play Hard](https://open.spotify.com/track/1mCOgCL3TTnkhk7nwNz2MV) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [O.N.I.F.C\. \(Deluxe\)](https://open.spotify.com/album/1ebdc90Jw0O5gquJ7Mcy35) | 3:39 |
-| 3 | [Got Everything \(feat\. Courtney Noelle\)](https://open.spotify.com/track/2Eaod54m0ZEbqbllBM3rHy) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [O.N.I.F.C\. \(Deluxe\)](https://open.spotify.com/album/1ebdc90Jw0O5gquJ7Mcy35) | 3:14 |
+| 3 | [Got Everything \(feat\. Courtney Noelle\)](https://open.spotify.com/track/2Eaod54m0ZEbqbllBM3rHy) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Courtney Noelle](https://open.spotify.com/artist/3GDkfd4W2ucI99TJZOYkfe) | [O.N.I.F.C\. \(Deluxe\)](https://open.spotify.com/album/1ebdc90Jw0O5gquJ7Mcy35) | 3:14 |
 | 4 | [It's Nothin \(feat\. 2 Chainz\)](https://open.spotify.com/track/4ZBsqWpaA3NdSUVh4tHo46) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [O.N.I.F.C\. \(Deluxe\)](https://open.spotify.com/album/1ebdc90Jw0O5gquJ7Mcy35) | 3:47 |
 | 5 | [Remember You \(feat\. The Weeknd\)](https://open.spotify.com/track/6AkgCYSiI5UqR6wGuFxn41) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [O.N.I.F.C\. \(Deluxe\)](https://open.spotify.com/album/1ebdc90Jw0O5gquJ7Mcy35) | 4:49 |
 | 6 | [One of Those Nights \(feat\. The Weeknd\)](https://open.spotify.com/track/6axsu2CjaoTcTE5PsXMCtd) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One of Those Nights \(feat\. The Weeknd\) \[Clean Version\]](https://open.spotify.com/album/3yzQw1WxT7YvlRLI7UfgL3) | 4:17 |

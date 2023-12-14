@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678,742 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,678,746 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Brand New Blues](https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Brand New Blues](https://open.spotify.com/album/5fSbf5rRr5VO5zyWnoBPk9) | 1:54 |
 | 100 | [TyTy&NaeNae](https://open.spotify.com/track/28951XXObn5igteQcIdpJT) | [KP SKYWALKA](https://open.spotify.com/artist/0H20KZnm0XPqNYQ6EsIAyo) | [TyTy&NaeNae](https://open.spotify.com/album/4vFNfuTA7EwprFVV865zbA) | 2:19 |
 
-Snapshot ID: `MCwxYjJjNWMwY2Q0NDVhY2JjMjg2YjJhNzhmZTMyNjlmYmI1ZTgzNjA1`
+Snapshot ID: `MCw5NjA0NDAyN2JjYWRkMmJkNWE0MjRiOTAxZjdjOGMyMmNiMThkNGU3`

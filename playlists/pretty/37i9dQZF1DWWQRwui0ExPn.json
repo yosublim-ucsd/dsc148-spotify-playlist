@@ -1,12 +1,12 @@
 {
   "description": "chill beats, lofi vibes, new tracks every week... ",
-  "num_followers": 5170329,
+  "num_followers": 5170391,
   "original_name": "lofi beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGI4MzczYzZiNTkwMjAxMmUzMjQ3NGFiODlmNzQyYmQ3MDkwNDZh",
+  "snapshot_id": "MCw1MmMxZDNhYzJkNTM1NmI0NjJmMDYyOWM0ZjkxNmRkMjEzNGRmZTI3",
   "tracks": [
     {
       "added_at": "2023-12-08 00:10:00",
@@ -1774,6 +1774,10 @@
         {
           "name": "Maggotts&Becketts",
           "url": "https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07"
+        },
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
         }
       ],
       "duration_ms": 131124,

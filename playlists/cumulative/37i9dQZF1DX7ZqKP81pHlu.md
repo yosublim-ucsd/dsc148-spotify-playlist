@@ -2,7 +2,7 @@
 
 ### [DZ Hits](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> Les hits algériens du moment.
+> Les hits algériens du moment\. Cover: Moha K, Lyna Mahyem
 
 182 songs - 11 hr 8 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,798 likes - 150 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,802 likes - 150 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [What Else Can I Do](https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Way Down Low](https://open.spotify.com/album/0v17RR0BzdoAC1Pn5MYSkz) | 4:44 |
 | 150 | [Baubles, Bangles and Beads](https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:02 |
 
-Snapshot ID: `MCwxNDYzYzQ2MGNjOTFkZDhhMjUwN2VlZDQ0NWU0ODE5NmY3YmFhZDIy`
+Snapshot ID: `MCwyYzFlMTEzN2IyYzIxNDc2ZWU2NWY5ODlkY2E3MDI1ZjI3MDg5MTY2`

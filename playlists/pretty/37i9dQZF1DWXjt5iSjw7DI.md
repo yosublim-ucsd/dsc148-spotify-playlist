@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,660 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,663 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Keeper of the Stars](https://open.spotify.com/track/1CxgiCkXlGGVpMo2Pe1CKN) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1iHuYVJvgQlix9cawyqKJS) | 4:13 |
 | 150 | [Paradise \(feat\. John Prine\) \- Live](https://open.spotify.com/track/4kCZXaOyaoiRiDqi6aZxOu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Circlin' Back \- Celebrating 50 Years \(Live\)](https://open.spotify.com/album/2Wjlh7SC5R4sEJrlCm5N8l) | 3:58 |
 
-Snapshot ID: `MCw0NDQ3NDI4YWQwMTViMjc1MjlhM2FjYTBkOTU1NzE4NWU2Nzg5ZmFj`
+Snapshot ID: `MCxkNmE2OTI3MDZlNGEyNzEwMjg2NzI2M2MyM2M2MWMxN2Q5ZDljOGQ0`

@@ -78,7 +78,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 196586,
       "name": "333",
       "url": "https://open.spotify.com/track/69RTYXKyRkS9j3yk6Q872M"
@@ -789,6 +789,32 @@
     },
     {
       "album": {
+        "name": "Bound For Glory",
+        "url": "https://open.spotify.com/album/1jxZ7qtv7zCiNq66ISEyje"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        },
+        {
+          "name": "Markus Vides\u00e4ter",
+          "url": "https://open.spotify.com/artist/0cADysfVZiggDl1JoWJarv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161201,
+      "name": "Bound For Glory (feat. Markus Vides\u00e4ter of Solence)",
+      "url": "https://open.spotify.com/track/5qPvBmcIscVajn1Fh3QXhO"
+    },
+    {
+      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -930,6 +956,28 @@
       "duration_ms": 231478,
       "name": "Burn Me Down",
       "url": "https://open.spotify.com/track/0esLzQSUI4NUOFV1f75AKS"
+    },
+    {
+      "album": {
+        "name": "Burn MF (feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217847,
+      "name": "Burn MF (feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu"
     },
     {
       "album": {
@@ -1143,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/4hZRZ9Mwu9NAIeB73uI2JT"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248340,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7aSFYakNWB9xQGDEZtoBDH"
+    },
+    {
+      "album": {
         "name": "Dark Void",
         "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
       },
@@ -1277,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Love, Drugs & Misery (Deluxe)",
+        "url": "https://open.spotify.com/album/5kEvgtnNQ2KtGBIa91NCTO"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190841,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/6sVfpovShmOm7JD1Mt55ES"
+    },
+    {
+      "album": {
         "name": "The Sound of Madness",
         "url": "https://open.spotify.com/album/320IHgTaLRjvcRhyfmYbk7"
       },
@@ -1292,6 +1376,24 @@
       "duration_ms": 336112,
       "name": "Diamond Eyes (Boom-Lay Boom-Lay Boom)",
       "url": "https://open.spotify.com/track/1PLMK1ui86iHHG3FM1N7ue"
+    },
+    {
+      "album": {
+        "name": "Die About It",
+        "url": "https://open.spotify.com/album/2u93feIOoA8lB3MahFuxr3"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211153,
+      "name": "Die About It",
+      "url": "https://open.spotify.com/track/1ieoDxFtEJjYoLskQTHF7s"
     },
     {
       "album": {
@@ -1490,6 +1592,24 @@
       "duration_ms": 191564,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/1SNipdzMky2C2LwvoVRzsv"
+    },
+    {
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "Engel",
+      "url": "https://open.spotify.com/track/0xQZkTxb49QpopIZQhKJUY"
     },
     {
       "album": {
@@ -2231,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "I'm Unbreakable",
+        "url": "https://open.spotify.com/album/0YpvCnmxxccjQXFiZ0rQj0"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217942,
+      "name": "I'm Unbreakable",
+      "url": "https://open.spotify.com/track/14fJqWbXOkfRz0uyqZ2uT0"
+    },
+    {
+      "album": {
         "name": "The Amanuensis",
         "url": "https://open.spotify.com/album/213Qf05kTcKCSq1Wc21Rhn"
       },
@@ -2366,6 +2504,24 @@
       "duration_ms": 272665,
       "name": "Is There Anybody Out There?",
       "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
+    },
+    {
+      "album": {
+        "name": "Mer De Noms",
+        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247266,
+      "name": "Judith",
+      "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X"
     },
     {
       "album": {
@@ -2604,6 +2760,24 @@
       "duration_ms": 238174,
       "name": "Living Dangerous (feat. Dorothy)",
       "url": "https://open.spotify.com/track/1EQ98Dd3TGD4rqRfzNgjtp"
+    },
+    {
+      "album": {
+        "name": "Sounds From Beyond The Abyss (Vol. 1)",
+        "url": "https://open.spotify.com/album/3MBwzr71e3WZL0gCa5wt5v"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215176,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6ga5MQ9qQUlwOJpVIYFqft"
     },
     {
       "album": {
@@ -3183,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Die About It",
+        "url": "https://open.spotify.com/album/7vL9sQj9AGhuBRHn969A9X"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179045,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH"
+    },
+    {
+      "album": {
         "name": "The Retaliators (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
       },
@@ -3194,6 +3386,10 @@
         {
           "name": "In Flames",
           "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
         }
       ],
       "date_added": "2022-09-21",
@@ -3498,6 +3694,28 @@
       "duration_ms": 249746,
       "name": "The American Nightmare",
       "url": "https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O"
+    },
+    {
+      "album": {
+        "name": "The Boom Went The Boom (feat. Phil Collen)",
+        "url": "https://open.spotify.com/album/5V36Ru7RN4gc8bAWEnKODF"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        },
+        {
+          "name": "Phil Collen",
+          "url": "https://open.spotify.com/artist/5ZedcFUHfB6ejLwD668YpN"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219541,
+      "name": "The Boom Went The Boom (feat. Phil Collen)",
+      "url": "https://open.spotify.com/track/5kC045Ohl32Sn4a2vOjsUt"
     },
     {
       "album": {
@@ -3837,6 +4055,28 @@
     },
     {
       "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256801,
+      "name": "Three Days in Jail (feat. Hyro The Hero)",
+      "url": "https://open.spotify.com/track/0etu6hbTlQPHDZBVqRrjJh"
+    },
+    {
+      "album": {
         "name": "Through the Never",
         "url": "https://open.spotify.com/album/6mlXLWzztC2LWrqqlufC7w"
       },
@@ -4134,7 +4374,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 171809,
       "name": "Walking In My Shoes",
       "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
@@ -4402,7 +4642,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 205731,
       "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
       "url": "https://open.spotify.com/track/60873rJNFVxsGUrvVQenhS"

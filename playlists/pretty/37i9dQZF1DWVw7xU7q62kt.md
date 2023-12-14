@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,205 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,204 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 124 | [Palmers \- Alfa Mist Remix](https://open.spotify.com/track/2YQL42b8wokw9j0Ty8rsmT) | [JSPHYNX](https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Palmers / King Cobra \(Alfa Mist Remix, JSPHYNX Remix\)](https://open.spotify.com/album/4dbnO6XL2Y9VpFEM4X4KVi) | 3:29 |
 | 125 | [Poolday](https://open.spotify.com/track/7vtfIwFyzFSFvjUjHbEQoG) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [miamore](https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB) | [Poolday](https://open.spotify.com/album/0CWEHEdbxMu2w92XiE93xq) | 2:10 |
 
-Snapshot ID: `MCwxMDEwNzIyMDUxYzdiNzFkM2Q1MzRhNmRmNWQzZWM2M2IzYzliYzMw`
+Snapshot ID: `MCxmNGVhMTc1MWNjMDgwMGM3MDZkNTc0N2ZkZTYwMWVkNzhlODkxNTU3`

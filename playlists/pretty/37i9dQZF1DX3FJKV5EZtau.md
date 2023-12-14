@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,555 likes - 125 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,557 likes - 125 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [Inhale](https://open.spotify.com/track/0KniWrLMhAwFRTh58IztFc) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Inhale](https://open.spotify.com/album/1vgImNq5QJ7KhPip6YU9tV) | 2:46 |
 | 125 | [care about u](https://open.spotify.com/track/4jZlOF64flGokeFKZFeK6o) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/7zMyMiXtQe4ZKn3Hkrsvom) | 3:21 |
 
-Snapshot ID: `MCwzMDg3NjljZmUzOGMwMWQyZWQyN2NkNGI4NDE4Y2ViZjZkOWI2NDMx`
+Snapshot ID: `MCw2YzUzN2M4ZmE0NWI0OTg4N2U2MzJjM2NlMGI5N2U0ZGRiZTNjYzc1`

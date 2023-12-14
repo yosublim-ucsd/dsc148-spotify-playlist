@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,679 likes - 400 songs - 23 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,685 likes - 400 songs - 23 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 399 | [Come Closer](https://open.spotify.com/track/78grBouzwHBGAXf7wkffwq) | [Lou and Matthew](https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z) | [Come Closer](https://open.spotify.com/album/4bx5gP3WA2wpkpE5zUrQZp) | 3:40 |
 | 400 | [90's Honey](https://open.spotify.com/track/4ygDeLod53IBCO4RnKREIj) | [Sophomore](https://open.spotify.com/artist/4uAFBCjJVGXAlRRE74ITal) | [90's Honey](https://open.spotify.com/album/0dOalXvwV3CJhIxc2C5OgD) | 3:12 |
 
-Snapshot ID: `MCwxMjI2YTEyMGFhODE3MDMzZmU4OWI4ZGRjY2ZkNGRlZWFiYzI0NDNm`
+Snapshot ID: `MCxhNTJlZGQ0NDZmZWRkMjM2ZTEyOWVkYTUyMWE0ZGNiZmJmOTI1MGNi`

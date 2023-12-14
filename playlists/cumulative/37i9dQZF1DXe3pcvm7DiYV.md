@@ -4,7 +4,7 @@
 
 > Courez, dansez, sautez avec cette playlist approuvée par les enfants!
 
-56 songs - 2 hr 12 min
+57 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Rhythm of the Sway](https://open.spotify.com/track/1L9LumzTPzhFDS4eaRMgZ2) | [The Battersby Duo](https://open.spotify.com/artist/5KwmbOHKArPzgbmnGUWLmc) | [Sunny Days](https://open.spotify.com/album/73MDMbmuuEgkyv5LMiJV6w) | 2:30 | 2021-04-13 |  |
 | [Rise & Rhyme](https://open.spotify.com/track/3XxEPzTOhPEmm7aj60oLQt) | [Culture Queen](https://open.spotify.com/artist/4IfGc40LRbnwom32WYBhJs) | [I Like the Me I See!](https://open.spotify.com/album/5gptuEMTs3RzCeWYvWEyiO) | 2:48 | 2021-04-13 |  |
 | [Robo Dancing](https://open.spotify.com/track/5lIo031iOkz2v9kKVbT5lA) | [Money Mark](https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:28 | 2021-04-13 |  |
-| [Robot Dance](https://open.spotify.com/track/0GZ2ci08NLxQYs0ECpAuqf) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 3:25 | 2021-04-13 |  |
+| [Robot Dance](https://open.spotify.com/track/0GZ2ci08NLxQYs0ECpAuqf) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 3:25 | 2021-04-13 | 2023-12-14 |
+| [Robot Dance](https://open.spotify.com/track/470l84TRRT6uM8udVunIDb) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 3:25 | 2021-04-13 |  |
 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 | 2021-04-13 |  |
 | [Shake My Sillies](https://open.spotify.com/track/2M4X7QY9WTJKaWgOd8EiVR) | [Tumble Tots](https://open.spotify.com/artist/0NcZOCgglyAmOdkiM9kQuv) | [Action Songs: Wiggle & Shake](https://open.spotify.com/album/4w7h1lROwNkdKxjiikH6gC) | 1:11 | 2021-04-13 |  |
 | [Shake Your Body Down](https://open.spotify.com/track/6vaxOLlCcMwkQnpsHsH4ee) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Ultimate Laurie Berkner Band Collection](https://open.spotify.com/album/76WdfWymaHkKBU84g37Mmb) | 3:06 | 2021-04-13 |  |

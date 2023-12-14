@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-86 songs - 4 hr 51 min
+87 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,10 @@
 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 | 2021-06-02 | 2023-11-11 |
 | [Four Letter Words](https://open.spotify.com/track/5mMoKKuuPNGDBvwiN7tmot) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S) | 2:27 | 2021-06-02 |  |
 | [Ghost Box](https://open.spotify.com/track/1jFBqKJWI9qT1EqGUwJ6ay) | [Oh, The Guilt](https://open.spotify.com/artist/1tOdjzrPSoE5mnzyPbreon) | [Ghost Box](https://open.spotify.com/album/7waMJqJpxh6Qri4HtNJvvL) | 4:12 | 2021-06-02 |  |
-| [Goth Girl](https://open.spotify.com/track/6Hls9RwOCumrOU92veAeLv) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/3ciwyqmDLBZoPmMvs1YKJH) | 2:34 | 2021-06-02 |  |
+| [Goth Girl](https://open.spotify.com/track/6Hls9RwOCumrOU92veAeLv) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/3ciwyqmDLBZoPmMvs1YKJH) | 2:34 | 2021-06-02 | 2023-12-14 |
 | [Goth Girl](https://open.spotify.com/track/0wY6lSoaPdeM2c9a9fMHrk) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/6jNPenRTscpLTQP0Cb34UD) | 2:34 | 2021-06-02 | 2022-10-19 |
 | [Goth Girl](https://open.spotify.com/track/3XJphWgEqWspF5bA6swplb) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Potions](https://open.spotify.com/album/1KW5fZmB36IsFjHAiuzwJy) | 2:35 | 2021-06-02 | 2022-11-13 |
+| [Goth Girl](https://open.spotify.com/track/7jjo2Tf8NdcftM4wsKgyVK) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Potions](https://open.spotify.com/album/3QZf7mvxoooq6bJtp93KnC) | 2:35 | 2021-06-02 |  |
 | [Heads Will Roll](https://open.spotify.com/track/1YaOIrutGLebjpneXgQqol) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spring Breakers 2021](https://open.spotify.com/album/3mc7YfYD6vojcREl0OA6Ly) | 3:41 | 2021-06-02 | 2022-11-13 |
 | [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2021-06-02 | 2022-07-29 |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2021-06-02 |  |

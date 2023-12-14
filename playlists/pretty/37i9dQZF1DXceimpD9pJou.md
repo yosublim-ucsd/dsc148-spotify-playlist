@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:0rOLLmeuTbBAx7YKcVEECH">Gabriel EMC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,261 likes - 99 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,263 likes - 99 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Más De Ti \- En Vivo](https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Más De Ti \(En Vivo\)](https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v) | 3:09 |
 | 99 | [Creemos Que lo Harás \- En Vivo](https://open.spotify.com/track/76EyNAWIvfKT0098KnbSAI) | [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Creemos Que lo Harás \(En Vivo\)](https://open.spotify.com/album/7bWocN1ILtSnvsHIBPZcPZ) | 5:15 |
 
-Snapshot ID: `MCw3ZmRhMzkwNzJhNmJjNTc5OGM5MjYyYzJlODA2ZDA3ZDc5Y2RjNmE2`
+Snapshot ID: `MCxiM2U5YjdiNDc5YTE5Y2Q4Yzg1NzVmN2FlOTFmZjBjMTIyNTNkNTkz`

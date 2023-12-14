@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Lightning In The Sky",
       "url": "https://open.spotify.com/track/4xLC1Ft6zYnVFQmyMyrjek"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 145683,
       "name": "Peaceful Rain",
       "url": "https://open.spotify.com/track/0FMtY31utCdCUgSw0m86Yn"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Pond Cabin (Rain)",
       "url": "https://open.spotify.com/track/6KpmZVFsjuU9295Wff25Io"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 170374,
       "name": "Portugal Forest Rain",
       "url": "https://open.spotify.com/track/2mup6xXi5Y8N1m1JL2puSJ"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 158400,
       "name": "Rainy Street In Dublin",
       "url": "https://open.spotify.com/track/4IAsQO2w2UgSlyIKXMwkl6"
@@ -1829,12 +1829,12 @@
       "artists": [
         {
           "name": "Raindog",
-          "url": "https://open.spotify.com/artist/1grnh5vd3P1gDqLQbU8MdM"
+          "url": "https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu"
         }
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 162504,
       "name": "Window Siesta",
       "url": "https://open.spotify.com/track/3HGocuIF3wICVSbN3WC0NM"

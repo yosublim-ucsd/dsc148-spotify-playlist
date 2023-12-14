@@ -2560,10 +2560,28 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 234293,
       "name": "Challenger Deep",
       "url": "https://open.spotify.com/track/1aFtASIZ0GtGLp1LTzj9ea"
+    },
+    {
+      "album": {
+        "name": "Long Is The Tunnel",
+        "url": "https://open.spotify.com/album/4jdazNCLxmTYP9Ip1qbR3e"
+      },
+      "artists": [
+        {
+          "name": "Daneshevskaya",
+          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "Challenger Deep",
+      "url": "https://open.spotify.com/track/3CnvoHAOgFSC6bvtxk7lST"
     },
     {
       "album": {

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 120866,
       "name": "409",
       "url": "https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux"
@@ -106,10 +106,28 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 128985,
       "name": "All Summer Long (Mono)",
       "url": "https://open.spotify.com/track/6NIhm22UWaECPEdGm7VqEC"
+    },
+    {
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128973,
+      "name": "All Summer Long (Stereo)",
+      "url": "https://open.spotify.com/track/7Dq4DIHxstJPuoZAkP4885"
     },
     {
       "album": {
@@ -214,7 +232,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 210066,
       "name": "Cabin Essence",
       "url": "https://open.spotify.com/track/2ykZ1sBNcr4VsYpaAJFMu4"
@@ -366,6 +384,24 @@
       "duration_ms": 130200,
       "name": "Catch A Wave - Stereo/Remastered 2001",
       "url": "https://open.spotify.com/track/6huvhTE5Z5gXnduG3G3nHh"
+    },
+    {
+      "album": {
+        "name": "The Smile Sessions",
+        "url": "https://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129786,
+      "name": "Child Is Father Of The Man",
+      "url": "https://open.spotify.com/track/6XcB4Tb1ZM6igxq8eEYIUY"
     },
     {
       "album": {
@@ -657,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137706,
+      "name": "Fall Breaks And Back To Winter - Woody Woodpecker Symphony/Remastered 2001",
+      "url": "https://open.spotify.com/track/22uNhRkimKQYk3dex36Hdl"
+    },
+    {
+      "album": {
         "name": "The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)",
         "url": "https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8"
       },
@@ -831,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150293,
+      "name": "Gettin' Hungry - Remastered 2001",
+      "url": "https://open.spotify.com/track/5VyOBzy1IeAn4Za66yVQHm"
+    },
+    {
+      "album": {
         "name": "Summer Days (And Summer Nights) [Remastered]",
         "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
       },
@@ -950,7 +1022,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 168240,
       "name": "Help Me, Rhonda - Single Version/Remastered 2001",
       "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
@@ -986,7 +1058,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 187360,
       "name": "Here Today",
       "url": "https://open.spotify.com/track/2QHf2UijcOOpLgEsA3YOjm"
@@ -1058,7 +1130,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
@@ -1148,7 +1220,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 100133,
       "name": "I Should Have Known Better - Mono / Remastered 2001",
       "url": "https://open.spotify.com/track/1LzqCMbpcz5edctDsq45pR"
@@ -1184,7 +1256,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 134133,
       "name": "In My Room - Remastered",
       "url": "https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9"
@@ -1555,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137066,
+      "name": "She's Goin' Bald - Remastered 2001",
+      "url": "https://open.spotify.com/track/0xawCui2WxkhGdrUvxtZ9v"
+    },
+    {
+      "album": {
         "name": "Shut Down / Good Vibrations (2021 Stereo Mix)",
         "url": "https://open.spotify.com/album/7o1TsJgTlyE5IspzERWwU6"
       },
@@ -1674,7 +1764,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 148533,
       "name": "Surfer Girl - Remastered 2001",
       "url": "https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE"
@@ -1908,10 +1998,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 153205,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
+    },
+    {
+      "album": {
+        "name": "Pet Sounds",
+        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc"
     },
     {
       "album": {

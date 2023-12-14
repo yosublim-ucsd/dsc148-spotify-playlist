@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 271693,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/7kcScp6Wrtm39tsUB4AmRn"
@@ -1010,6 +1010,24 @@
       "duration_ms": 223760,
       "name": "The End Of The World",
       "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
+    },
+    {
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "The Hanging Garden",
+      "url": "https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP"
     },
     {
       "album": {

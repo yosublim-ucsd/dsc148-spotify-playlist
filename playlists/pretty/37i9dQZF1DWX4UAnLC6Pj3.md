@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Roberto Tapia y Grupo Marca Registrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,064 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,072 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [Otra Botella](https://open.spotify.com/track/3X1sFqUe5J6Wqrn99jL6R7) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Otra Botella](https://open.spotify.com/album/6Nr8ddIjhdjliv3Db8foiD) | 3:37 |
 | 125 | [No Se Lo Deseo a Nadie](https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [No Se Lo Deseo a Nadie](https://open.spotify.com/album/0lbdKFAhe6W8r2FEKczlMs) | 2:23 |
 
-Snapshot ID: `MCwxY2NmY2ZjMjkwYTE2YmMzNWY0OTI3M2ZiMGYzZDA1Y2EzOWY4NGFh`
+Snapshot ID: `MCw3YjY2NjhmOTE0NDliMzFiNWZjMWRmZTgyNTA4MTg1N2U3YTVkMjg5`

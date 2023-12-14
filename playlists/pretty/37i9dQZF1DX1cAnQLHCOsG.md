@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 
 > Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Banda MS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,552 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,553 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 | 74 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/2x9qQjHD4sFNhvN16ggapy) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/36PFsIbyV773hvHPrl0syM) | 3:49 |
 | 75 | [Popurrí Navideño](https://open.spotify.com/track/15FGGzDWbL9AEutt9XItqr) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Popurrí Navideño](https://open.spotify.com/album/4C7cLXEpnjBOXs6Ov40HjG) | 4:06 |
 
-Snapshot ID: `MCwyN2I3M2M4MTYwYmNmZDNkNWY2OThiNjI1NTFjNzNiNzI1MzY5M2Ji`
+Snapshot ID: `MCxiMjMxYzE4YjAyNDU3YTViMWJlOWJjYjgyY2Y0ZDJmOTAwZDE3OWYw`

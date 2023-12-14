@@ -396,6 +396,10 @@
           "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
         },
         {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
           "name": "H\u00e9lio Bentes",
           "url": "https://open.spotify.com/artist/6MyzqGUoZwnmflUnI360kp"
         }
@@ -910,6 +914,36 @@
       "duration_ms": 376106,
       "name": "O Que Eu Vejo",
       "url": "https://open.spotify.com/track/50XJtud3nYzfPcXblqtvXo"
+    },
+    {
+      "album": {
+        "name": "Deus \u00c9 Brasileiro",
+        "url": "https://open.spotify.com/album/43lX3jomJ4z9s5lLEG8qcC"
+      },
+      "artists": [
+        {
+          "name": "Rod 3030",
+          "url": "https://open.spotify.com/artist/44C21oZdrybmbaepup96M2"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170261,
+      "name": "O Que Se Leva (D\u00f3i)",
+      "url": "https://open.spotify.com/track/0HKA4jKMfPOZ3dPWIlEzzv"
     },
     {
       "album": {

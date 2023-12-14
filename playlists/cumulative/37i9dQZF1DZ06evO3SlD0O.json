@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "Ahora Que Estuviste Lejos",
+      "url": "https://open.spotify.com/track/3g9YsvJjIeKa2W2sXg7tae"
+    },
+    {
+      "album": {
         "name": "Gran Encuentro (20 \u00c9xitos Originales)",
         "url": "https://open.spotify.com/album/0h5HCJTFJd9Cy6EYqLcwfK"
       },
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 166693,
       "name": "Quiero Besarte A La Noche",
       "url": "https://open.spotify.com/track/5OmsB03J9ZRlKdL9EReRuz"

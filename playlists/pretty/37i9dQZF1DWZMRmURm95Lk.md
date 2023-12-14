@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Ensi e Nerone in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,913 likes - 120 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,916 likes - 120 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 119 | [Solo hardcore](https://open.spotify.com/track/134Ntz0aFWx3ddGBNV09Ks) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Odio Pieno](https://open.spotify.com/album/4OzxfmcyUrMc5SXxbcaV65) | 3:14 |
 | 120 | [Parole](https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [Parole](https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37) | 3:49 |
 
-Snapshot ID: `MCxhOTc0YjczMzY4ZGFkMWY3Zjg0ZDA5MGRiMWRhZDcxOWVjZDhkY2E4`
+Snapshot ID: `MCxiNGUxYTY2ZWFlNzE1MTgzYjdkZTc5MDViODRlM2ZlZmQ3NTY5MmE0`

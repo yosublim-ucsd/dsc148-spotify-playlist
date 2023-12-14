@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Feyjão, Silva
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,116 likes - 90 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,117 likes - 90 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 89 | [Verdade ou Ilusão](https://open.spotify.com/track/2kX3tbCZwWHnS2zRS8FLcO) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Verdade ou Ilusão](https://open.spotify.com/album/23pMQXiRHWuovyRxKGJpCA) | 3:24 |
 | 90 | [Já Te Falei](https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Já Te Falei](https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8) | 3:25 |
 
-Snapshot ID: `MCxhMTU4ZTQwZmYyODUyZTAzNGYzNzU4NjcyNWUwYmE3YmEzYjc1NWFj`
+Snapshot ID: `MCwwMjY1NmVlYjgwMjdlOWI0MWIwOTViZjE5NWJjY2JmMTJjNWViMzJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,391 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,404 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Situation](https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2) | [Elena Setién](https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg) | [Unfamiliar Minds](https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0) | 3:00 |
 | 100 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
 
-Snapshot ID: `MCxlMDMwODgyMTEwMGY5NzU4MGZjMmJkY2M5NjQ4MTJkZWU5MmI0NGNh`
+Snapshot ID: `MCwxNzA2MGYwOWZjNGM4MzNjNDQ3MDk0YWZhN2UzOGEyMzE1Mzc3M2Zj`

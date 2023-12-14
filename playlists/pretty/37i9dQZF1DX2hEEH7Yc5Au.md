@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
 | 50 | [Aim High](https://open.spotify.com/track/5to61SmuGq01AKvMmD5ffI) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Beyond Mediocrity](https://open.spotify.com/album/5N9n9M1DBQTCavQwbH316F) | 3:43 |
 
-Snapshot ID: `MCw2MTVlODAzODQzOTA3NGY1YWI0MDE4MzIxNTYxYzg2OTkwZTBjNWZh`
+Snapshot ID: `MCw3NGYzMTgyYTI4MzE3OWU5OGZhYjBkMmYxNTI0YWNiZGFmYzA3NzM1`

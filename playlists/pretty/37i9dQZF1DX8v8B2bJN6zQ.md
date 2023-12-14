@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,593 likes - 66 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,594 likes - 66 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 54 | [L.R.L.D.](https://open.spotify.com/track/2vlAFPryTEcJhdGAlh5xQo) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [L.R.L.D.](https://open.spotify.com/album/4mC5qrdPttU8rmsHIc1kWW) | 4:06 |
 | 55 | [Couped Up](https://open.spotify.com/track/4f6anmNksyRQzGHeJMlhVN) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [Couped Up](https://open.spotify.com/album/1Kz3p87RqrLMXyQ48pdcp9) | 3:05 |
 | 56 | [TERROR](https://open.spotify.com/track/2JYuqwjVVDN8urZZOoGXS6) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG) | [TERROR](https://open.spotify.com/album/0kVkopK97VuOhHJ8Mh5OXn) | 3:24 |
-| 57 | [Help \(Habstrakt Remix\)](https://open.spotify.com/track/6H8Sn4FMIBN8oyyLL6DLNk) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Help \(Remixes\)](https://open.spotify.com/album/0RRi5wRA7xSQE0UCjUczgC) | 3:32 |
+| 57 | [Help \(Habstrakt Remix\)](https://open.spotify.com/track/6H8Sn4FMIBN8oyyLL6DLNk) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Help \(Remixes\)](https://open.spotify.com/album/0RRi5wRA7xSQE0UCjUczgC) | 3:32 |
 | 58 | [Smoke](https://open.spotify.com/track/0O39si7MdD998p8y5R45ty) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Smoke](https://open.spotify.com/album/5fD0u1OUEvZmX3C5TCICPl) | 3:15 |
 | 59 | [Push The Feeling On](https://open.spotify.com/track/7MRzjgoS72BNFT2pcToJGJ) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Maya Days](https://open.spotify.com/artist/23lYDtdMB31cbu5g4z0wju) | [Push The Feeling On](https://open.spotify.com/album/4lzJoouKOsWxhpY3pJkNJG) | 2:38 |
 | 60 | [Make You](https://open.spotify.com/track/4d2SccLvVXfRqghqBF37qM) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx), [Lowez](https://open.spotify.com/artist/0IPHMD0lKVQPmMdGjfWTwb) | [Make You](https://open.spotify.com/album/2PEKoE2Irzy2YrOaSEBSf6) | 3:10 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 65 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 66 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MCwyYTM1OWRhMjMxZTU4MDc5M2QxMGFjOTUxYTgwNTgzNWFmNDFmZDRl`
+Snapshot ID: `MCxjYWM5YjQzYzQ1MGE5ZDdiZGM1MmZmMmFlMjRjNmU2M2IzNzNkZGMy`

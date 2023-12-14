@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Solar, Białas
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,298 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,304 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 5 | [Tokyo \(współczesny\)](https://open.spotify.com/track/4wHLny6TgycJSuZ2bKWB11) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Szamz](https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE), [Bruno](https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo) | [Tokyo \(współczesny\)](https://open.spotify.com/album/4xFeOFO03URRQdrsqYEzBK) | 3:23 |
 | 6 | [TYLE SŁOŃCA](https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [TYLE SŁOŃCA](https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2) | 2:22 |
 | 7 | [GŁUPIE POMYSŁY](https://open.spotify.com/track/5BGG7LhSsf1WR5T1gNTUZM) | [Gedz](https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a), [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [GŁUPIE POMYSŁY](https://open.spotify.com/album/1StfVw1yKZr0NWGsTrtziA) | 3:14 |
-| 8 | [Mamy ciężko](https://open.spotify.com/track/24DsDMTiN9Fwm4XIstmfn9) | [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG) | [Mamy ciężko](https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F) | 2:38 |
+| 8 | [Mamy ciężko](https://open.spotify.com/track/24DsDMTiN9Fwm4XIstmfn9) | [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Mamy ciężko](https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F) | 2:38 |
 | 9 | [AEZAKMI](https://open.spotify.com/track/3X5SUT9V4oT3ToYQ8t6Yjf) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [AEZAKMI](https://open.spotify.com/album/7qQ4Ecr1Clh3qTHwer5HNw) | 2:19 |
 | 10 | [Widok](https://open.spotify.com/track/0ZlcedOAmS5KS6mGdPpFxK) | [Jan\-Rapowanie](https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp), [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Odys](https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm) | [Widok](https://open.spotify.com/album/5kOw5Hf3HvJyw7c5HPhhzb) | 2:28 |
 | 11 | [Perfidia](https://open.spotify.com/track/3YOtBAz3WVDEYcnSLkVQgW) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [Perfidia](https://open.spotify.com/album/4lNxQxl274ShD76FlPEObl) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Sextape](https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Sextape / MTW](https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2) | 3:13 |
 | 50 | [A ty co?](https://open.spotify.com/track/1hdwR8gQ0yEWRvLG4IcVkZ) | [E V](https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX), [Peja](https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [A ty co?](https://open.spotify.com/album/3nUntRCPVHxANbFbapjqYc) | 3:00 |
 
-Snapshot ID: `MCwyZWE3MGZlOTllYmJjMzA5YjNiZWRkYjEyYTRlZDM5OWM2NmNkODRl`
+Snapshot ID: `MCwzNTUyN2E1NDhkY2JjMTA4YzFjYjJjYzkyZmEyZDA5ODliZmI4YzNi`

@@ -4,7 +4,7 @@
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-103 songs - 5 hr 24 min
+104 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Have you ever noticed it?](https://open.spotify.com/track/4pWcWtHFEw6UrRbdA6YSvZ) | [PowerPCME](https://open.spotify.com/artist/3X8giwjSuKDNn2C1PfM3I3) | [Kmart 1989 \- 1992 \(The Definitive Edition\)](https://open.spotify.com/album/5TWOeqTo91frnOKAmn3U10) | 3:01 | 2023-03-08 |  |
 | [Heartaches](https://open.spotify.com/track/2lG5sA5O3vkfkeq18QNNf0) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R) | [Somewhere over the Rainbow \- The Magic of Al Bowlly](https://open.spotify.com/album/51J9pKjLCM1vNWZVSKv0DS) | 3:31 | 2023-01-24 |  |
 | [Heretic](https://open.spotify.com/track/6IZDFhyHiWcLJPEo1W4nvd) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 4:17 | 2023-10-01 |  |
+| [Hide \- CS01 Version](https://open.spotify.com/track/1WZGaNYzreZrvteuUEfp8X) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Hide \(CS01 Version\)](https://open.spotify.com/album/245oQswZLETcE6V7aEdNWG) | 3:01 | 2023-12-10 |  |
 | [High\-Tech Cold\-Life](https://open.spotify.com/track/1l46lObtzhbvIX1UNPpQAH) | [1991](https://open.spotify.com/artist/4zvj6YIQxg7KzWo2ubjZNs) | [High\-Tech High\-Life](https://open.spotify.com/album/3Yc4Qy3VGS4IJOJGYwKpjR) | 4:52 | 2020-09-26 |  |
 | [High\-Tech Low\-Life](https://open.spotify.com/track/2zLCyH0LyQhdxrF9hkwn6u) | [1991](https://open.spotify.com/artist/4zvj6YIQxg7KzWo2ubjZNs) | [High\-Tech High\-Life](https://open.spotify.com/album/3Yc4Qy3VGS4IJOJGYwKpjR) | 2:25 | 2020-09-26 |  |
 | [Hostess: Twinkies](https://open.spotify.com/track/1TQojd84O76VcamCk7urfA) | [Raymond Scott](https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt) | [Manhattan Research, Inc.](https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D) | 0:32 | 2020-09-26 |  |

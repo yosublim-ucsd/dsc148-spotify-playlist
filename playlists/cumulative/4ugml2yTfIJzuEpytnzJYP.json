@@ -209,6 +209,28 @@
     },
     {
       "album": {
+        "name": "Arrive",
+        "url": "https://open.spotify.com/album/3BN2q8j2jBH3w2gKa3GjLz"
+      },
+      "artists": [
+        {
+          "name": "5AM",
+          "url": "https://open.spotify.com/artist/0H89JZEyV5pJUv1SNuah8U"
+        },
+        {
+          "name": "Ram Dass",
+          "url": "https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315428,
+      "name": "Arrive",
+      "url": "https://open.spotify.com/track/47jS8CPFO50j9ilBmHqFWF"
+    },
+    {
+      "album": {
         "name": "August Star",
         "url": "https://open.spotify.com/album/1x4kCOTzh3E2Z8grHXfyhj"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 265846,
       "name": "Celestial Beings - Halftime Version",
       "url": "https://open.spotify.com/track/14RFRGAaYuB332FMjfvLPR"
@@ -624,7 +646,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 284073,
       "name": "CHAMELEON - Saint Sinner Peak Remix",
       "url": "https://open.spotify.com/track/4M30jQ5ys2qHwYKDV4kV8P"
@@ -806,7 +828,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 232468,
       "name": "Counting",
       "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
@@ -926,7 +948,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 165339,
       "name": "Dead Meat",
       "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
@@ -966,6 +988,24 @@
       "duration_ms": 212571,
       "name": "Descendo",
       "url": "https://open.spotify.com/track/15Er0c4Xm78iNQFlwdjqpT"
+    },
+    {
+      "album": {
+        "name": "Dhabbu_s Chorinicles",
+        "url": "https://open.spotify.com/album/6f41bNNhlWwRYwRdQsWeOQ"
+      },
+      "artists": [
+        {
+          "name": "Gisaza",
+          "url": "https://open.spotify.com/artist/154V6jdKjaQsqCPCajkZ4M"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168861,
+      "name": "Dhabbu's Chorinicles",
+      "url": "https://open.spotify.com/track/3w6GughLlATwAZhkCvhhCA"
     },
     {
       "album": {
@@ -1164,10 +1204,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 280124,
       "name": "Empire of Dirt (Dub Version)",
       "url": "https://open.spotify.com/track/0gJdyAe8grvrfO2aWq75Rt"
+    },
+    {
+      "album": {
+        "name": "Quantum Odyssey",
+        "url": "https://open.spotify.com/album/5kI3XZsQI8odDlhsBrluNQ"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Empires",
+      "url": "https://open.spotify.com/track/6hoTJCsc1Q3CPnU7PR04Vp"
     },
     {
       "album": {
@@ -1572,6 +1630,28 @@
       "duration_ms": 215681,
       "name": "Get Bun",
       "url": "https://open.spotify.com/track/5X8W307Uv6qa69GUXubD5y"
+    },
+    {
+      "album": {
+        "name": "Ghost Signal",
+        "url": "https://open.spotify.com/album/69omgDHXg1e6kp9UcbpsfE"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Abstrakt Sonance",
+          "url": "https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199094,
+      "name": "Ghost Signal",
+      "url": "https://open.spotify.com/track/6pPHRtx8lxvQqcJR5hnenY"
     },
     {
       "album": {
@@ -2634,7 +2714,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 270000,
       "name": "Microworlds",
       "url": "https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi"
@@ -2754,6 +2834,28 @@
       "duration_ms": 255428,
       "name": "MULTIVERSE",
       "url": "https://open.spotify.com/track/23oOs4H4jRkYCSwOf7MApd"
+    },
+    {
+      "album": {
+        "name": "Underground Business",
+        "url": "https://open.spotify.com/album/1nl4EOotFBl7gUzeArYpoi"
+      },
+      "artists": [
+        {
+          "name": "Leo Cap",
+          "url": "https://open.spotify.com/artist/3WZOoHL2HQi26O6M3W3f7x"
+        },
+        {
+          "name": "Ternion Sound",
+          "url": "https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315428,
+      "name": "Music That You Like",
+      "url": "https://open.spotify.com/track/6EJAscqoPHzcvaJ5HQ8wQU"
     },
     {
       "album": {
@@ -3316,7 +3418,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 226485,
       "name": "Revive",
       "url": "https://open.spotify.com/track/79UD5yoL5Y1kVfG7o4USr8"
@@ -3334,7 +3436,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 223853,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/1Bws7rhbIf45CAIygXLai7"
@@ -3718,7 +3820,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 239142,
       "name": "Starseed 47 - VIP Mix",
       "url": "https://open.spotify.com/track/4dDUGzPZifKdH97ecN9V9W"
@@ -3966,7 +4068,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 259592,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/6rXDUd6W1hn1PAEluvtmgH"
@@ -4184,6 +4286,24 @@
       "duration_ms": 198000,
       "name": "U to the All",
       "url": "https://open.spotify.com/track/29V40GVXxsu8A2x9BfgH07"
+    },
+    {
+      "album": {
+        "name": "Multiverse",
+        "url": "https://open.spotify.com/album/65lH815uf6l95agtfBMOM0"
+      },
+      "artists": [
+        {
+          "name": "David Starfire",
+          "url": "https://open.spotify.com/artist/6nhEcP9sIqaoQ6hM5R55IB"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Ultraterrestrial - Original Mix",
+      "url": "https://open.spotify.com/track/5EKgM39TMRz8n9llPkE5q2"
     },
     {
       "album": {
@@ -4544,7 +4664,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 233142,
       "name": "Where I'm Going",
       "url": "https://open.spotify.com/track/1Xj0wD1Qhcsycc1W4Y5ifL"
@@ -4700,7 +4820,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 130591,
       "name": "your armour will not protect me",
       "url": "https://open.spotify.com/track/6kV8M2ztarCdw9w872mj8v"

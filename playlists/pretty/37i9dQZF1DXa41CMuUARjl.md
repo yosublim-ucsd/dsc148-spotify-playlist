@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,217 likes - 115 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,219 likes - 115 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 23 | [Never](https://open.spotify.com/track/4CYlX33BmjaFRpRLtgAuXJ) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Serie A](https://open.spotify.com/album/2Fz1NS2puE3dbzCM8fbFrR) | 6:31 |
 | 24 | [Follow](https://open.spotify.com/track/0ysBN9XI9EDyFgUFIQC4PN) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Follow](https://open.spotify.com/album/1jIshdCAl5H8RcM0qswf60) | 3:10 |
 | 25 | [feelthisway](https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [feelthisway / 3000 miles](https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB) | 3:32 |
-| 26 | [good to me](https://open.spotify.com/track/15YvfDB4xjwOsIVnFE4h4B) | [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi), [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [Jakey KRUMM](https://open.spotify.com/artist/05NjHhge1XpqyNtgpjsHej) | [good to me](https://open.spotify.com/album/23eWdkcVDVzgkE1rqBjuAI) | 2:01 |
+| 26 | [good to me](https://open.spotify.com/track/15YvfDB4xjwOsIVnFE4h4B) | [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi), [Jakey KRUMM](https://open.spotify.com/artist/05NjHhge1XpqyNtgpjsHej), [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY) | [good to me](https://open.spotify.com/album/23eWdkcVDVzgkE1rqBjuAI) | 2:01 |
 | 27 | [Your Love](https://open.spotify.com/track/6eL5tSbdFKOJk259M9btFe) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Your Love](https://open.spotify.com/album/1eAisZxU97LtahouIQsB48) | 2:33 |
 | 28 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 |
 | 29 | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5) | 3:13 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 114 | [Can You Believe It?](https://open.spotify.com/track/4JCdKIbTurUEw62DBZWerI) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [DAYYANI](https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g) | [Can You Believe It](https://open.spotify.com/album/23tw3QTMSjioZa9SwmqLZ9) | 2:58 |
 | 115 | [Wet](https://open.spotify.com/track/54V2SdK3De6gAj0hMtGTIh) | [Starya](https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX) | [Wet](https://open.spotify.com/album/1cDmgnVnoqEbJbYeRZGqWW) | 5:49 |
 
-Snapshot ID: `MCwxZDQyYjA4ZmEyNTk0ZTYyN2Q2OGU3NTdlNDlmOTBiYTgzYmI1NDJk`
+Snapshot ID: `MCw3OWRhOTQ3N2MwMTY2YTk2NDBiMTJhYWNmZmVkYjM2MmNjODZjODI5`

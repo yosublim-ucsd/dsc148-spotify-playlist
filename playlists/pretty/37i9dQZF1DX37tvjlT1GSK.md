@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Julian Mercado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,916 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,918 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Jalé El Gatillo](https://open.spotify.com/track/4fkJJtagSrMW7XOY1uA874) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Jalé El Gatillo](https://open.spotify.com/album/5AMpx8jws7kO7Wn1JUBQnp) | 3:37 |
 | 125 | [¿Qué Pasó?](https://open.spotify.com/track/4Cy74DGQEGNJFtjimJ6oSz) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [¿Qué Pasó?](https://open.spotify.com/album/6NFi8fT74C6x2sebQkcHG1) | 3:19 |
 
-Snapshot ID: `MCwzOTY3MjZlYjNhNDM5NjRhYTIyZTZiZGQ3NWJiNjg5YzhlOTQzNGRk`
+Snapshot ID: `MCw0NzM3MzdjZGViNzlmNjdjNTU0MzZjY2QzMTc2MzAyNDc2MGVhMWVk`

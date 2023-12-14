@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200911,
+      "name": "Antichrist",
+      "url": "https://open.spotify.com/track/1R8LeKeHLFjAXDOR4JHkJx"
+    },
+    {
+      "album": {
         "name": "Antichrist / Room Service",
         "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 200911,
       "name": "Antichrist",
       "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
@@ -106,10 +124,28 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 176989,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
+    },
+    {
+      "album": {
+        "name": "Freezing (Official Music Video)",
+        "url": "https://open.spotify.com/album/13xmSqE74BOPfYj6VEAdPg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177216,
+      "name": "Freezing",
+      "url": "https://open.spotify.com/track/61ypmrpI4Duo6Sn2Tbr3jo"
     },
     {
       "album": {
@@ -178,14 +214,14 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 200198,
       "name": "MAMA'S EYES",
       "url": "https://open.spotify.com/track/5cW2aVfOGvbnxlXm8POXLR"
     },
     {
       "album": {
-        "name": "Mama's Eyes",
+        "name": "MAMA'S EYES",
         "url": "https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA"
       },
       "artists": [
@@ -196,10 +232,28 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 200199,
-      "name": "Mama's Eyes",
+      "name": "MAMA'S EYES",
       "url": "https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp"
+    },
+    {
+      "album": {
+        "name": "Breadcrumbs",
+        "url": "https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc"
+      },
+      "artists": [
+        {
+          "name": "Srushti Tawade",
+          "url": "https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121161,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/390f3txdKIeV7cCv0thgOB"
     },
     {
       "album": {
@@ -218,6 +272,24 @@
       "duration_ms": 149053,
       "name": "Not Another Rockstar",
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
+    },
+    {
+      "album": {
+        "name": "METTENARRATIVE",
+        "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150051,
+      "name": "PSYCHO (NAH NAH)",
+      "url": "https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0"
     },
     {
       "album": {
@@ -240,6 +312,24 @@
     {
       "album": {
         "name": "Stormy Skies (Diamonds)",
+        "url": "https://open.spotify.com/album/54Tp5WzymT6Nwh6Qd7gmZ2"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213924,
+      "name": "Stormy Skies (Diamonds)",
+      "url": "https://open.spotify.com/track/2PqUSyjbjVugUa9Duifn69"
+    },
+    {
+      "album": {
+        "name": "Stormy Skies (Diamonds)",
         "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
       },
       "artists": [
@@ -250,7 +340,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 213924,
       "name": "Stormy Skies (Diamonds)",
       "url": "https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1"
@@ -308,6 +398,24 @@
       "duration_ms": 143230,
       "name": "Think Like a Man",
       "url": "https://open.spotify.com/track/2B8mUd56xLH7vGmKbiwnee"
+    },
+    {
+      "album": {
+        "name": "The Good Witch (Deluxe)",
+        "url": "https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Truth Is",
+      "url": "https://open.spotify.com/track/25JGrdT3bi62ZzPeNxZiBu"
     },
     {
       "album": {

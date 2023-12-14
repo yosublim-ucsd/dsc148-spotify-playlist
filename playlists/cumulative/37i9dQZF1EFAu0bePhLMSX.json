@@ -56,10 +56,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u"
+    },
+    {
+      "album": {
+        "name": "DISCO (Guest List Edition)",
+        "url": "https://open.spotify.com/album/1oRGMzAW7959ID6HnFFDTx"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207986,
+      "name": "A Second To Midnight",
+      "url": "https://open.spotify.com/track/4a7MdDM4IQ1pIIAXI8RRmj"
     },
     {
       "album": {
@@ -355,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Change Your Life",
+        "url": "https://open.spotify.com/album/0oIMhTC9WT3aQfzqck8tBL"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201962,
+      "name": "Change Your Life",
+      "url": "https://open.spotify.com/track/0swoSbCOJsRbr17YYRcmcF"
+    },
+    {
+      "album": {
         "name": "DNA (Expanded Edition)",
         "url": "https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd"
       },
@@ -366,7 +406,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 205293,
       "name": "Change Your Life",
       "url": "https://open.spotify.com/track/1nDQ9EvOmLj1dYKRbbqcoU"
@@ -911,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
+    },
+    {
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA"
       },
@@ -966,6 +1024,24 @@
     {
       "album": {
         "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/0KTmxgfwMFOBXmajMpjlkB"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5GScRSH0Na7vGTmFxuBUSG"
+    },
+    {
+      "album": {
+        "name": "DISCO (Deluxe)",
         "url": "https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD"
       },
       "artists": [
@@ -976,7 +1052,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 230080,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/6g225JcOUd88PRslWGsRD3"
@@ -1733,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "One More Sleep (Official Video)",
+        "url": "https://open.spotify.com/album/4aAbT8kUrf1fYRUPC4U8PN"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167338,
+      "name": "One More Sleep",
+      "url": "https://open.spotify.com/track/2jqXzaPkPbdiXFCZIQ2RDf"
+    },
+    {
+      "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
       },
@@ -1744,10 +1838,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 239586,
       "name": "One More Sleep",
       "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
+    },
+    {
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/7olvKV7oJrtiih6YfB44im"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0Xie0rvvIYVnawxfKTcqEb"
     },
     {
       "album": {
@@ -2014,10 +2126,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 212546,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6FG0Mgz3S4aiCIheLLzJTr"
+    },
+    {
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/0KTmxgfwMFOBXmajMpjlkB"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213013,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/36c6rs6PqirxSqm1TVLzKl"
     },
     {
       "album": {
@@ -2036,6 +2166,24 @@
       "duration_ms": 256173,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/44dEFYNfgcTVpc5llmTRav"
+    },
+    {
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/7olvKV7oJrtiih6YfB44im"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232826,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/0B5bXCjXLzsOIxbsOrek5u"
     },
     {
       "album": {
@@ -2237,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/7olvKV7oJrtiih6YfB44im"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196213,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/1zzW13Fbj5MS26ev02TFnv"
+    },
+    {
+      "album": {
         "name": "Northern Star",
         "url": "https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ"
       },
@@ -2392,10 +2558,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 216453,
       "name": "Tension",
       "url": "https://open.spotify.com/track/3hI2qkKUtxDwKakeF9hzH7"
+    },
+    {
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI"
     },
     {
       "album": {
@@ -2468,6 +2652,24 @@
       "duration_ms": 208346,
       "name": "These Four Walls",
       "url": "https://open.spotify.com/track/3pofJEjOp6m9e6kYNmGhxa"
+    },
+    {
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/7olvKV7oJrtiih6YfB44im"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "Things We Do For Love",
+      "url": "https://open.spotify.com/track/4YF3dV7dXa2FQqf0OSwkE2"
     },
     {
       "album": {
@@ -2579,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213026,
+      "name": "Vegas High",
+      "url": "https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP"
+    },
+    {
+      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -2634,6 +2854,24 @@
     {
       "album": {
         "name": "Wannabe",
+        "url": "https://open.spotify.com/album/0VJSVYxAfR4HUEaeIV9PeK"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/3pUiKSyV6DZWbzezHhs1Eu"
+    },
+    {
+      "album": {
+        "name": "Wannabe",
         "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
       },
       "artists": [
@@ -2662,7 +2900,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 217411,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/6cVD6OQ3ZRAjcTkyrUCIYZ"
@@ -2840,6 +3078,24 @@
       "duration_ms": 258226,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/6f5FALKEMFyzlHtFg3cMaE"
+    },
+    {
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/7olvKV7oJrtiih6YfB44im"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "You Still Get Me High",
+      "url": "https://open.spotify.com/track/3lFDs1SNa0rTumlPZSOHH8"
     },
     {
       "album": {

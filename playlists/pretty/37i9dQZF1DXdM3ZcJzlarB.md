@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,358 likes - 39 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,406 likes - 39 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 4 | [Bye Bye \- Juan Hansen Remix](https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Bye Bye \(Juan Hansen Remix\)](https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98) | 6:07 |
 | 5 | [Infieles \- Remix](https://open.spotify.com/track/67wjqZ4apqGHmwHoGi3qAB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j) | [Desconfiguración, Vol\. 3](https://open.spotify.com/album/2Tft9TpEiPB08wAXHx9HGS) | 7:12 |
 | 6 | [Listen](https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Listen](https://open.spotify.com/album/71KIKLJFqbZqWosO3D5qgD) | 3:45 |
-| 7 | [A Bit More \- Edit](https://open.spotify.com/track/0xYmdP9DGSWP6Db4H6jLH0) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Trans\-formation](https://open.spotify.com/artist/563IiQDSACB86RMyhj2BMq) | [A Bit More](https://open.spotify.com/album/3xKAj9oBSoozdJbizqf2tm) | 4:58 |
+| 7 | [A Bit More \- Edit](https://open.spotify.com/track/0xYmdP9DGSWP6Db4H6jLH0) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Transformation](https://open.spotify.com/artist/59rSMOnBRk7rxcdysC38Fb) | [A Bit More](https://open.spotify.com/album/3xKAj9oBSoozdJbizqf2tm) | 4:58 |
 | 8 | [Ficción](https://open.spotify.com/track/6Vqv48LyHymrUyS2va4HWs) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [UNO](https://open.spotify.com/album/3p7sp4AYbFmfzBdiyJcsqY) | 3:21 |
 | 9 | [Óxido](https://open.spotify.com/track/0EL6TLGSGVInCuTlFQesWD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Óxido](https://open.spotify.com/album/5WqBhwKHsjcQyImgRtHt59) | 2:54 |
 | 10 | [Prana Vayu](https://open.spotify.com/track/3QknknkTXnwcy8gEOiTxQY) | [Berni Turletti](https://open.spotify.com/artist/1lhA46N6VsjJDN8wQccLtW) | [Prana Vayu](https://open.spotify.com/album/38SCAuXZIlAXKcqq6xw2VH) | 8:32 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 38 | [Moments of My Life \- Folgar Remix](https://open.spotify.com/track/7xlA73001WnJZXYvOILuTm) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Violeta Reynal](https://open.spotify.com/artist/5lX2HTcsl6Dx0vGHWNKXrT), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Moments of My Life](https://open.spotify.com/album/4nxPoQ0GtyKycRZ8N8L0K9) | 6:49 |
 | 39 | [If I Lose Myself](https://open.spotify.com/track/5gzo4VaJ7KXomTgSfytSUH) | [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa) | [If I Lose Myself](https://open.spotify.com/album/1g0uCrgBP9mMowv9kFyUUm) | 2:20 |
 
-Snapshot ID: `MCwwOWRiZWQ2Mzc4N2YwMTU3ZjQxYTk0MDI4M2ViMGIwNTAzYTdlZmU0`
+Snapshot ID: `MCxhOGNmNzY1YzRkMmIwZmE4M2Y1ZjU1OWM5NTAyMTZkNWQ2MWQ0ZGM2`

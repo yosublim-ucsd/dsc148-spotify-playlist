@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,351 likes - 150 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,352 likes - 150 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 149 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 |
 | 150 | [Cat Friend](https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP) | [Burēku](https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH) | [First Lesson](https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG) | 2:15 |
 
-Snapshot ID: `MCw2N2U1M2Y3YzhjYzg1MzliNjQwZjEyOTlhYTBhZGU1ZjI2OTIwZjg2`
+Snapshot ID: `MCw4ZmQzMmE2N2VlNGI5MjIwNjNiMzVlMjE2YmMxYjNjZWUyYTdmOTIx`

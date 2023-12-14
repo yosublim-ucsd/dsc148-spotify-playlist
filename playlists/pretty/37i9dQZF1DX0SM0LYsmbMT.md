@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,188,101 likes - 300 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,188,114 likes - 300 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Cherub](https://open.spotify.com/track/334PH2p4kvl1ogPDnLQIXQ) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Cherub](https://open.spotify.com/album/2RNf7DJTzpzC9Z2nyK4lm6) | 2:14 |
 | 300 | [Silk](https://open.spotify.com/track/54lTL6GDlQDD5qPk3JftIl) | [UsualSND](https://open.spotify.com/artist/1ahA9vdjx7aBcfB7XjXT9k), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Silk](https://open.spotify.com/album/66CZo0VLjagh4EmmaBTuU6) | 2:52 |
 
-Snapshot ID: `MCw1YzBmMjA5MmY4ZDZhM2U4YjQ2OTZmYWEyNDZlZmZmNGVjNThjYzI2`
+Snapshot ID: `MCxkZmU4YmI1YTkzZTdmMzc3NmFkOTAwMGVlNDc2NWMzZDdmN2Q1MjYw`

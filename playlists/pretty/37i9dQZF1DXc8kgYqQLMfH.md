@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,833 likes - 400 songs - 14 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,838 likes - 400 songs - 14 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 399 | [In Time](https://open.spotify.com/track/3WirhDcL8G01EMrqOFownK) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [In Time](https://open.spotify.com/album/4VUZzn1ttvR5jVbRMdk3Te) | 2:19 |
 | 400 | [under the bridge](https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt) | [lucygray](https://open.spotify.com/artist/1LIIJsUl0fGlhLHwAWjrJI), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [under the bridge](https://open.spotify.com/album/17pt1juyta07K6q3HTuB4T) | 1:48 |
 
-Snapshot ID: `MCw1NDEyYjI1YTdjZjkxNjU4MzRhOTYyMTdkYjY3ODNhOWI1MWFmMWEx`
+Snapshot ID: `MCwwYjA1YWQwOTIxZjZkZTcxY2JjNjNmYzEyYzIxMTdiN2FmNTAyODg2`

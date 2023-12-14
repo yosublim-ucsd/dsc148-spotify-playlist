@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,770 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,773 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 99 | [Eu Tenho Drip](https://open.spotify.com/track/4vSQiyuTOUHvKM043BGqa4) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Eu Tenho Drip](https://open.spotify.com/album/4iEIIZm3DWbsqcJ0oxSEa8) | 1:39 |
 | 100 | [Fideliz Cê é Preto Carai](https://open.spotify.com/track/0f4Y5tlsYlYm1bvkqhP4OO) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Dj Felipe Rosa](https://open.spotify.com/artist/02ESSPEzwYHnLH7SjiG8oj) | [Sou Rock N' Roll](https://open.spotify.com/album/4OEvcgOfNxR5In7hnbTPPi) | 2:27 |
 
-Snapshot ID: `MCw2ZDk5ZDEzZDc1Njc1NzU5YmE5MzVkMTBlNmE3MDQ2ZjE3NThkMjY3`
+Snapshot ID: `MCw5OTQ5NGY1YjYyZTEwY2JkMmRkN2MzYWRhNzllYjA2MDg1YzFlM2Ni`

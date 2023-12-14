@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Tita Lau
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,095 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,114 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [I Got U](https://open.spotify.com/track/4qZ0WykWxm9aImzOI4Ig6L) | [Paul Damixie](https://open.spotify.com/artist/0nkCaGdwKdFsufB3GbvCdk) | [I Got U](https://open.spotify.com/album/4kl7iQhSvKlcIOHLttDlIA) | 3:15 |
 | 125 | [Blisters on My Feet](https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF) | 2:56 |
 
-Snapshot ID: `MCw4YjJkOGQ2NmFjZjgyOTMwZGI5NjQ0OTU5YTYxZTBhNDA2NzhiMzA4`
+Snapshot ID: `MCw0M2E3YzYwNWM1MTZlMmNhM2Y1OTcyNDU3NjA2ZjY0NWEzMjUwYjQ3`

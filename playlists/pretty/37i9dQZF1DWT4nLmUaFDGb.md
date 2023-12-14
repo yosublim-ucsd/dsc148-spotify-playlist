@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,554 likes - 140 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,576 likes - 140 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 139 | [Smile](https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:17 |
 | 140 | [Carry On](https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Carry On](https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G) | 3:48 |
 
-Snapshot ID: `MCxlZjY2MWJhNDg5YzNlMDFiMWRiODI5ODJmZmRiZmIyYmVjMjYwZmM2`
+Snapshot ID: `MCxiMmVkN2M2NTMzNWI5MGFiMjFlNzA3ZmFmMGQwYjgyMWI0ZTAwYTcx`

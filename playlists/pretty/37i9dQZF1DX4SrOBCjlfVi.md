@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nicki Minaj, French Montana, and more\. Cover: NLE Choppa
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,674 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,687 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Make It Happen](https://open.spotify.com/track/0cy6FkKeVtPq4NFeoSGgz1) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Make It Happen](https://open.spotify.com/album/6oSjksTMJ0Y8lSKk1rtxGR) | 3:15 |
 | 50 | [Gangsta Gangsta](https://open.spotify.com/track/6A2OsNpEZ6v7wEvWWty9pD) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Gangsta Gangsta](https://open.spotify.com/album/6tXWXgZVyhUjKjYNFqq1ba) | 3:17 |
 
-Snapshot ID: `MCw3MDg5NjY2YzBiZjZiZmE2MGM2YzU5YzVlNjFhYzM4ZTVkZGY2MTcw`
+Snapshot ID: `MCw5NjcwMzg1YTk0ZWJiN2MwZmY3NGU5ZTEyNDkzZDE0ZjE5OTkzNjdk`

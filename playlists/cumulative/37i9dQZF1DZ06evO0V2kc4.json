@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/68VzsN0H0WbQKMwkvaB317"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74706,
+      "name": "All The Pretty Little Horses",
+      "url": "https://open.spotify.com/track/7gQfm9FVW4KWe2nUTSe8CH"
+    },
+    {
+      "album": {
         "name": "In Concert",
         "url": "https://open.spotify.com/album/0xOIYvDBZVEEQvFEu46Ylg"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 215240,
       "name": "Diamonds & Rust",
       "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 190973,
       "name": "Plaisir D' Amour",
       "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
@@ -1236,6 +1254,24 @@
       "duration_ms": 263893,
       "name": "Prison Trilogy (Billy Rose)",
       "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+    },
+    {
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119360,
+      "name": "Rake And Rambling Boy",
+      "url": "https://open.spotify.com/track/2VyKXzrtialaXBc4uIA58Z"
     },
     {
       "album": {
@@ -1290,7 +1326,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 344293,
       "name": "She Moved Through The Fair",
       "url": "https://open.spotify.com/track/3lroklVIelJiObRBewQXz7"
@@ -1558,7 +1594,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 157160,
       "name": "Wildwood Flower",
       "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,482 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,479 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Board Meeting](https://open.spotify.com/track/2xsH55uRuzapn3AtYqnEja) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Pacific Vibration](https://open.spotify.com/album/3kc0N4gkYRwUCcuuCbmDa4) | 3:19 |
 | 125 | [Some Say the Ocean \- Reggae Remix](https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [Some Say the Ocean \(Reggae Remix\)](https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju) | 3:55 |
 
-Snapshot ID: `MCxhODI0YTIwMjM0MmVhMDdiNjMyNzEyZmUzNjBiODU2NjkwOTUxMDRk`
+Snapshot ID: `MCxkMDhlNjAwNGIzZjVjOWY2MmZjOWIzMWFlYzg0MTE2MWUxZGUyYWU4`

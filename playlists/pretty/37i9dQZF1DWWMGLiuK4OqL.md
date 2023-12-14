@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,285 likes - 200 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,287 likes - 200 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [The Game](https://open.spotify.com/track/1g7bWSgup8GCqIGjdM2XfO) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [The Game](https://open.spotify.com/album/4D18ZUei6YL7N0S2yOsKU3) | 2:06 |
 | 200 | [Midnight Sun](https://open.spotify.com/track/0EHpaJqVGopZF1FDCqGHRn) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Kelly Green](https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ) | [AURORA BOREALIS](https://open.spotify.com/album/1oAE9OBFqOn0ZJbSkEVynT) | 4:42 |
 
-Snapshot ID: `MCwxNTA4MWEwNWM5NzcwYTk4NjkzMTFjOGM5NDZmOTA4YzExMGU3OGRh`
+Snapshot ID: `MCw2ZmU4NTcxOTAyM2JiNTU0NTZjNzdlY2FkMzgzNmIyYTY4M2QyMzJm`

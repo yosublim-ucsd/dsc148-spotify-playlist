@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,646 likes - 650 songs - 1 day 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,647 likes - 650 songs - 1 day 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -659,4 +659,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 649 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 |
 | 650 | [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 |
 
-Snapshot ID: `MCxmMDU2NTMyYjE3NGYwYTRlODU0NGU1Y2ZjOGMxYzY5NjgzMTdiYTli`
+Snapshot ID: `MCxkMzI0OGM3OTJhN2NmZTE3YjEzYzQyNzVlZGI0ZjgyYWRlMjhjMTNi`

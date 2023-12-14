@@ -1,12 +1,12 @@
 {
   "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y?si=onw68QzKQIORrUBZRuPb-w\"> Akwaboah </a>",
-  "num_followers": 19126,
+  "num_followers": 19128,
   "original_name": "Ghana Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGM4NTBlMDJmMmQ3MTc4NWNhY2ViODNlMmU0OGYzMTcyYTMyZGU1",
+  "snapshot_id": "MCxhM2MxYjhhM2JmYzUwMmI0NzRlNjNhMjc1YmZmMmYxNTFiYTA2OGE1",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -467,6 +467,26 @@
       "duration_ms": 166426,
       "name": "Take Away",
       "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Been A Fool For You",
+        "url": "https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN"
+      },
+      "artists": [
+        {
+          "name": "Amakye Dede",
+          "url": "https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 268277,
+      "name": "Been A Fool For You",
+      "url": "https://open.spotify.com/track/0KL0cCn54gGCggbKFtT3Sb"
     },
     {
       "added_at": "2023-12-08 00:08:00",

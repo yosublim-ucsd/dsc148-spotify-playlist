@@ -1,12 +1,12 @@
 {
   "description": "Your favorite pop songs, classically reimagined.",
-  "num_followers": 911673,
+  "num_followers": 911679,
   "original_name": "Pop Goes Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzViNTE5ZDUyMWFkYWY0ZmNlNmYyMjZiOGRmNTllZDlhY2EzOWNi",
+  "snapshot_id": "MCw0YWYwZTBiYWY2YzJiY2YwZjk3MjU0ZjU4MWExOWJjOTZjOWFhODY0",
   "tracks": [
     {
       "added_at": "2023-09-29 04:01:00",
@@ -343,6 +343,358 @@
       "duration_ms": 264000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/0FilCJDN0Cvjo0jezjxgAC"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "My Immortal",
+        "url": "https://open.spotify.com/album/5J79Wux3JlirmrDK495gJW"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        },
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "duration_ms": 260663,
+      "name": "My Immortal",
+      "url": "https://open.spotify.com/track/5NRN8rJsOhBO1ayH08EBRY"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Bad Habits (arr. String quartet) [Inspired by 'Bridgerton']",
+        "url": "https://open.spotify.com/album/2mV9Gs9S0tuXTSjD6bKsUO"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "Bad Habits (arr. string quartet) - Inspired by 'Bridgerton'",
+      "url": "https://open.spotify.com/track/4RkslWnwxbvU5wy00BNRsR"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Caleb Chan",
+          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
+        },
+        {
+          "name": "Brian Chan",
+          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
+        }
+      ],
+      "duration_ms": 191811,
+      "name": "Run the World",
+      "url": "https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/1de4PdJI0bgz3j1wd0bW94"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/0RsaOIEKB4u4dbZMgs8zXP"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Daylight (Instrumental)",
+        "url": "https://open.spotify.com/album/51LxsIqA3s3wfTQLuBFbZX"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        }
+      ],
+      "duration_ms": 220670,
+      "name": "Daylight - Instrumental",
+      "url": "https://open.spotify.com/track/0nA0BTzf0GpQp2CJ7LLQoA"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "LA FAMA",
+        "url": "https://open.spotify.com/album/2BID0wZNtqNSN8x7FS0i91"
+      },
+      "artists": [
+        {
+          "name": "Nu Deco Ensemble",
+          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/1RTMnKO8H1XiZaJUmBVg4b"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        },
+        {
+          "name": "Tom\u00e1s Peire-Serrate",
+          "url": "https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du"
+        }
+      ],
+      "duration_ms": 167609,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Brooklyn Sessions II",
+        "url": "https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "duration_ms": 195419,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Despacito",
+        "url": "https://open.spotify.com/album/4uRarQtP1NTEVKBtKu3Irc"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Erika Ender",
+          "url": "https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq"
+        },
+        {
+          "name": "Luis Rodriguez",
+          "url": "https://open.spotify.com/artist/7dTPvuNcEXLkQ1XiAuiWIP"
+        },
+        {
+          "name": "2CELLOS",
+          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
+        }
+      ],
+      "duration_ms": 146195,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/3vqyauyYbp9MqUwrCEmWJ0"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Traitor (Arr. for String Quartet / Inspired by Bridgerton)",
+        "url": "https://open.spotify.com/album/1TEqV9AjxOrPcRkf4T6gvz"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Traitor - Arr. for String Quartet / Inspired by Bridgerton",
+      "url": "https://open.spotify.com/track/6UrKD7QtUP5rJNkYafHXOU"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Wrecking ball (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "Wrecking Ball - Solo Piano Version",
+      "url": "https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "everything i wanted (notturno)",
+        "url": "https://open.spotify.com/album/6CS63NX4f72I3iegS4BTBI"
+      },
+      "artists": [
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        }
+      ],
+      "duration_ms": 332671,
+      "name": "everything i wanted (notturno)",
+      "url": "https://open.spotify.com/track/3YxYCnmwqzntBbiAOvwLM1"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Save Your Tears (arr. String quartet) [Inspired by 'Bridgerton']",
+        "url": "https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Save Your Tears (arr. string quartet) - Inspired by 'Bridgerton'",
+      "url": "https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "abcdefu (arr. piano)",
+        "url": "https://open.spotify.com/album/66vBDdWzw9v5GuK928maT2"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 161325,
+      "name": "abcdefu (arr. piano)",
+      "url": "https://open.spotify.com/track/0u8AsjbVra5aT2QNqYUEtu"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/6AERAS6KAFgZU8aRGpKbyf"
+      },
+      "artists": [
+        {
+          "name": "2CELLOS",
+          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2IkYprcljrcbpoesS5XHGS"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Enjoy The Silence",
+        "url": "https://open.spotify.com/album/6TU8GCDEvZzciExmRRE6YD"
+      },
+      "artists": [
+        {
+          "name": "Martin Gore",
+          "url": "https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "Morphing Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W"
+        }
+      ],
+      "duration_ms": 208818,
+      "name": "Enjoy the Silence - Piano and String Quartet Version",
+      "url": "https://open.spotify.com/track/3paWLtYo9854AxRLx3tb7Z"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "VSQ Performs the Hits of 2020, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "positions - Bonus Track",
+      "url": "https://open.spotify.com/track/4TpeDaUZ1pcXClP9gIEgty"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Good 4 U (Arr. for String Quartet)",
+        "url": "https://open.spotify.com/album/6IS1QBDwuR4NUDVd7we5wo"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Good 4 U - Arr. for String Quartet",
+      "url": "https://open.spotify.com/track/0wOg1VN28vZswbqVYKC3KM"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/1yVHHlAsAmcUmbf7MQAGQU"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 221364,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/0aC3m5Y6lIfG1MqVzrQyme"
     },
     {
       "added_at": "2023-09-29 04:01:00",

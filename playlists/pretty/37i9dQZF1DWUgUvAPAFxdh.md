@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgUvAPAFxdh.md) - [plain]
 | 58 | [Through Darkness](https://open.spotify.com/track/6Q2SOb3ZVThGFOFKEsOFhb) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 5:35 |
 | 59 | [Cold Dawn](https://open.spotify.com/track/1qbr7BPoNtScCHrAbdkvKg) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk), [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 3:32 |
 
-Snapshot ID: `MCwwOWZlZDAxNTE1YjgwYzRhMDgwYzc4ZDQ2YWE0NDE3MzM1YTAwMDUx`
+Snapshot ID: `MCxhYTUwZjVkYjQ5NmIwZjMwNDQ2NDcwYjQ3NGFhZmZhYWJmNTM4Njhh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,716 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,717 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [The Renegade](https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [The Renegade EP](https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7) | 2:30 |
 | 50 | [House & Pressure](https://open.spotify.com/track/4BG03MHYQwuWENZ31vFlsV) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [House & Pressure](https://open.spotify.com/album/1KRUeWNgOQvxzJDTT9MApz) | 2:28 |
 
-Snapshot ID: `MCxjYTA5YmVjMmY1Mjc1MTM4ZDgyMDFlZTg4ZGMwMTlmMjk2MWIxYWYz`
+Snapshot ID: `MCxmYjAxOTUwMzE1OTE5NzcxYTBiZjZiZDYzZjMxOWQ0Y2UxNDYxNDBk`

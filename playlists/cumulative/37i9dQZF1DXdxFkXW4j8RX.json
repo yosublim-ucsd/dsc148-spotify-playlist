@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa de lxs MC's. Foto: Liricistas & Utopiko.",
+  "description": "La casa de lxs MC's. Foto: Chystemc",
   "name": "Rap Chileno",
   "tracks": [
     {
@@ -608,7 +608,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 184374,
       "name": "Como Jugando",
       "url": "https://open.spotify.com/track/530yhZ0aVyIZUgoMPsKfmm"
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Chile veranista",
+        "url": "https://open.spotify.com/album/5MDtYqdtD77Lqz3S79T93z"
+      },
+      "artists": [
+        {
+          "name": "Tiro De Gracia",
+          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "El Juego Verdadero",
+      "url": "https://open.spotify.com/track/4B340T1UHtY9aY8PrHzmCf"
+    },
+    {
+      "album": {
         "name": "Rap & Hip Hop Retro",
         "url": "https://open.spotify.com/album/41HQMj4ysshbjbGt9BqcoB"
       },
@@ -976,7 +994,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 192293,
       "name": "El Juego Verdadero",
       "url": "https://open.spotify.com/track/6o2vC4OjOQVC3F0ngQBrW7"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 260000,
       "name": "Free Estilo",
       "url": "https://open.spotify.com/track/1OQLJZxIMCp4zLRLJueWrJ"
@@ -1450,6 +1468,24 @@
       "duration_ms": 260000,
       "name": "Free Estilo",
       "url": "https://open.spotify.com/track/6OUKfmBx6qSQTEVlTRYa6I"
+    },
+    {
+      "album": {
+        "name": "From Cavernas",
+        "url": "https://open.spotify.com/album/64LAL4F1Jr5xC7esPgqDEF"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218487,
+      "name": "From Cavernas",
+      "url": "https://open.spotify.com/track/2HvbmNespiZlOgsIJd6ETu"
     },
     {
       "album": {
@@ -1560,6 +1596,50 @@
       "duration_ms": 125000,
       "name": "Grizzy Bars",
       "url": "https://open.spotify.com/track/6V5j8J5zyOm9mi9EkKWNy3"
+    },
+    {
+      "album": {
+        "name": "Heiki",
+        "url": "https://open.spotify.com/album/0i0gGC5Io9FEowzqt6KPZr"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Cool Maze",
+          "url": "https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "Heiki",
+      "url": "https://open.spotify.com/track/4uXtZS82CZFe3cIQXdA1CD"
+    },
+    {
+      "album": {
+        "name": "Heredera del Surrealismo",
+        "url": "https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp"
+      },
+      "artists": [
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "elgaboaraya",
+          "url": "https://open.spotify.com/artist/4Sdq3EMi1CR3AEvQuNnSBE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152245,
+      "name": "Heredera del Surrealismo",
+      "url": "https://open.spotify.com/track/1cZOOpH1GcwyjymOJCHy2Z"
     },
     {
       "album": {
@@ -2270,10 +2350,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 228000,
       "name": "Milagros en el Caos",
       "url": "https://open.spotify.com/track/79CgqHw2mR0Hgb35GH0v9f"
+    },
+    {
+      "album": {
+        "name": "El Arte de No Estar Ni Ah\u00ed",
+        "url": "https://open.spotify.com/album/4uQhcabv9rfKSNnfDvD0Se"
+      },
+      "artists": [
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
+        },
+        {
+          "name": "Tresktorce",
+          "url": "https://open.spotify.com/artist/7qqZnLTJGUoq0wyxy46BI4"
+        },
+        {
+          "name": "D2habiles",
+          "url": "https://open.spotify.com/artist/6ZL8v9lb8RZIMRmDOCKvPT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Milagros en el Caos",
+      "url": "https://open.spotify.com/track/7kdMlT4QeHV5rd9ykdS4Ie"
     },
     {
       "album": {
@@ -2730,6 +2836,18 @@
         {
           "name": "Mamborap",
           "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        },
+        {
+          "name": "Audio Directo",
+          "url": "https://open.spotify.com/artist/6ItsKWiNwjY8cTVTU7wxPH"
+        },
+        {
+          "name": "Donexprs",
+          "url": "https://open.spotify.com/artist/6pAMH90rLFZxt5Vs5gVaCl"
+        },
+        {
+          "name": "Mono Daysor",
+          "url": "https://open.spotify.com/artist/5gLYfQof5TTCB3JHYCWLH3"
         }
       ],
       "date_added": "2023-05-26",
@@ -3146,6 +3264,14 @@
         {
           "name": "Mamborap",
           "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        },
+        {
+          "name": "Audio Directo",
+          "url": "https://open.spotify.com/artist/6ItsKWiNwjY8cTVTU7wxPH"
+        },
+        {
+          "name": "DJ KM1KC",
+          "url": "https://open.spotify.com/artist/3YsT97o0l5HlHXC3vGKSXf"
         }
       ],
       "date_added": "2023-06-16",
@@ -3220,7 +3346,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 181177,
       "name": "Story",
       "url": "https://open.spotify.com/track/2hykudPQVRbSMTDaf7XhKD"

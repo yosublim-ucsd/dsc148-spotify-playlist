@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "After Dark x Sweater Weather",
+        "url": "https://open.spotify.com/album/2cKig247X2NwNhUIzuiBDN"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288403,
+      "name": "After Dark x Sweater Weather",
+      "url": "https://open.spotify.com/track/4b8mFdxfCSTarIUfhMY8yR"
+    },
+    {
+      "album": {
         "name": "Lazers Not Included (Extended Edition)",
         "url": "https://open.spotify.com/album/3NCepq888OnOkYz0w9PxMq"
       },
@@ -42,6 +60,24 @@
       "duration_ms": 225172,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1xciMiNZThcdvB5WV476Hq"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bFYDBXTbJWhFzVas1NcY0"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/2G7SW5LADSzkwk3PTz7EMO"
     },
     {
       "album": {
@@ -67,17 +103,39 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2iSQ4jd8QrJsTKkWtz5Kq9"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7w8hOUvR20U6pdNa2dziHv"
+    },
+    {
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/3ShpyWJqmJhX3G62QPQkfo"
       },
       "artists": [
         {
-          "name": "Aami",
-          "url": "https://open.spotify.com/artist/29QNOhsjKdpqb6I72n9SrE"
-        },
-        {
           "name": "Nostalgia",
           "url": "https://open.spotify.com/artist/4xNbXMjJ7uODEUHraMXYGO"
+        },
+        {
+          "name": "Aami",
+          "url": "https://open.spotify.com/artist/29QNOhsjKdpqb6I72n9SrE"
         },
         {
           "name": "Insomnia",
@@ -88,7 +146,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233223,
-      "name": "Bad Machine (feat. Insomnia) - Original Mix",
+      "name": "Bad Machine",
       "url": "https://open.spotify.com/track/2Aly0kBHnpKvRiKi0qSaNR"
     },
     {
@@ -290,6 +348,24 @@
       "duration_ms": 129720,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2"
+    },
+    {
+      "album": {
+        "name": "Chase The Sun",
+        "url": "https://open.spotify.com/album/1tXlFJklT4d4Jc5TtuWiwc"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189655,
+      "name": "Chase The Sun",
+      "url": "https://open.spotify.com/track/7kE5SGVpogBX5VXiTgYiRg"
     },
     {
       "album": {
@@ -569,6 +645,28 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Let Go",
+        "url": "https://open.spotify.com/album/6zEwku2jzQqtH8FnolDyZi"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Don't Wanna Let Go",
+      "url": "https://open.spotify.com/track/764aj78vmTA8kMUMY0LVdR"
+    },
+    {
+      "album": {
         "name": "Summer Vibes 2012",
         "url": "https://open.spotify.com/album/0QiMp7lXHuIiJY0LBGerLb"
       },
@@ -613,20 +711,20 @@
     },
     {
       "album": {
-        "name": "Rift EP",
+        "name": "Rift",
         "url": "https://open.spotify.com/album/0oUaF0znpsJQQzJiUZfwcw"
       },
       "artists": [
         {
           "name": "Singularity",
-          "url": "https://open.spotify.com/artist/3CHdEhu3z3OYck1hZNusWz"
+          "url": "https://open.spotify.com/artist/7dM9e9rQtM8fZBkRnRGZX5"
         }
       ],
       "date_added": "2016-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 268255,
-      "name": "Drowning - Original Mix",
+      "name": "Drowning",
       "url": "https://open.spotify.com/track/1LJFkBJ1vjJKlVx5z7qtdk"
     },
     {
@@ -1051,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6gOc6YOCvp0WyoGXbCDXa2"
+      },
+      "artists": [
+        {
+          "name": "Synergy",
+          "url": "https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK"
+        },
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253803,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6x5OvGcJW0wE8tm3zFxPH8"
+    },
+    {
+      "album": {
         "name": "2 (Deluxe Version)",
         "url": "https://open.spotify.com/album/3gpHG5MGwnipnap32lFYvI"
       },
@@ -1194,6 +1314,24 @@
       "duration_ms": 104071,
       "name": "hate will never win",
       "url": "https://open.spotify.com/track/6A3eW41fBh1sYRs94oTAKQ"
+    },
+    {
+      "album": {
+        "name": "Heartleap",
+        "url": "https://open.spotify.com/album/5ynbocv7MO1wn19uXW7Hlo"
+      },
+      "artists": [
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190836,
+      "name": "Heartleap",
+      "url": "https://open.spotify.com/track/7KaF3RQY4BFMZCoUD5U7m2"
     },
     {
       "album": {
@@ -1454,6 +1592,28 @@
       "duration_ms": 176378,
       "name": "I Don't Trust Nobody",
       "url": "https://open.spotify.com/track/4kJPUUzbPmJVW0nMdesJz5"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176548,
+      "name": "I Found You (feat. Hayla)",
+      "url": "https://open.spotify.com/track/3okzjbfNE8uagng0tHfB02"
     },
     {
       "album": {
@@ -1793,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Love Nor Money",
+        "url": "https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170074,
+      "name": "Love Nor Money",
+      "url": "https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC"
+    },
+    {
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/05DOCaeK8RnF5dRLfOwSP2"
       },
@@ -1918,6 +2096,28 @@
       "duration_ms": 341681,
       "name": "Memoirs",
       "url": "https://open.spotify.com/track/1NQiTMDjW5nQAs0Pq8fR59"
+    },
+    {
+      "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "album": {
@@ -2351,13 +2551,13 @@
     },
     {
       "album": {
-        "name": "Rift EP",
+        "name": "Rift",
         "url": "https://open.spotify.com/album/0oUaF0znpsJQQzJiUZfwcw"
       },
       "artists": [
         {
           "name": "Singularity",
-          "url": "https://open.spotify.com/artist/3CHdEhu3z3OYck1hZNusWz"
+          "url": "https://open.spotify.com/artist/7dM9e9rQtM8fZBkRnRGZX5"
         },
         {
           "name": "Jenn Lucas",
@@ -2368,7 +2568,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 342857,
-      "name": "Rift (feat. Jenn Lucas) - Original Mix",
+      "name": "Rift",
       "url": "https://open.spotify.com/track/1ymXHDLvymVquErXfKfl2B"
     },
     {
@@ -2534,6 +2734,24 @@
       "duration_ms": 286884,
       "name": "Sentient",
       "url": "https://open.spotify.com/track/6WqLwuEsqk7kCbNRLxCcdo"
+    },
+    {
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241533,
+      "name": "Sextape",
+      "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE"
     },
     {
       "album": {
@@ -2706,6 +2924,24 @@
       "duration_ms": 258386,
       "name": "Stay High - Habits Remix",
       "url": "https://open.spotify.com/track/4J8WVHRtXM6SMgsF7qohXy"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "album": {
@@ -2950,6 +3186,24 @@
       "duration_ms": 318702,
       "name": "The Words I Never Said In D&B",
       "url": "https://open.spotify.com/track/6F2JQL8ik5Df4ovnlBvyb5"
+    },
+    {
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/67WdAIVSPfws43xGRyRitY"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143765,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5cqMUOZZkY7o5b5fupnxvh"
     },
     {
       "album": {

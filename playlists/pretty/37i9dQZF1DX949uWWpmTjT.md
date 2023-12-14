@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,126 likes - 750 songs - 1 day 23 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,137 likes - 750 songs - 1 day 23 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 749 | [Just Imagine](https://open.spotify.com/track/4nndewSr38VMklIgluKRHo) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [Just Imagine](https://open.spotify.com/album/7ANTZQREh4OU3pxWhvLjWo) | 2:59 |
 | 750 | [Sunday](https://open.spotify.com/track/6LkPWM2a6mHTjhw2ejgIYs) | [Lee Konitz Quartet](https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj) | [Tranquility](https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F) | 3:25 |
 
-Snapshot ID: `MCwwNTIzNDM2NmJhZWFjNzVkNjBkMDYzOTRmZTE0ZTM2YjcyN2FjOWE4`
+Snapshot ID: `MCw4ZDBhOTkwMDBlY2QzZGU4MWYwYTM0MDllZmQ3NTQ3ZjQ4OWNiNTE3`

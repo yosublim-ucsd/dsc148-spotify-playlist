@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,083 likes - 70 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,745 likes - 70 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 38 | [Do You Know?](https://open.spotify.com/track/7dzT8mnX3HvJM6imDhj3y3) | [Tiello](https://open.spotify.com/artist/5gBy60kmVrcEHyaSqt81Wl), [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp) | [Siamese Anthology IV](https://open.spotify.com/album/1Mqc3c5v1fLCHabJGgXxdG) | 6:59 |
 | 39 | [I Guess I Have, Boy](https://open.spotify.com/track/4V6cWho5yqX1Y2TZttlUjm) | [Philippa](https://open.spotify.com/artist/4EJbiuIFj2HwW8NJe1ttIX) | [There's A Ghost In My Synthesizer EP](https://open.spotify.com/album/5jWEO9BYZUZhNnW3SeA2cM) | 5:54 |
 | 40 | [Equip XXXO](https://open.spotify.com/track/22hEvuOZAVbiBcpmxsTSh2) | [Equip](https://open.spotify.com/artist/6dzkX7X7s3VmR9EkmXjqFD) | [Greg Wilson Presents XXXO & ICA Beats](https://open.spotify.com/album/0IXZofWDMkhuffMUu8h6yw) | 6:11 |
-| 41 | [Grace \(Hercules Club Mix\)](https://open.spotify.com/track/6VmDahYIiwfzSCEI9UhBBc) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Grace \(Hercules Club Mix\)](https://open.spotify.com/album/4ozlJujwoTPJc20H0nO7uD) | 7:03 |
+| 41 | [Grace \(Hercules Club Mix\)](https://open.spotify.com/track/28qQOormF4a7N63VHbnkOV) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Mixed In Amber](https://open.spotify.com/album/1zE9RDroCJuR4xgEUY9ay2) | 7:03 |
 | 42 | [Last Night \- 1981 Version](https://open.spotify.com/track/4VaiYbCLC7PCdwIZbb9lEC) | [Jet Hammer](https://open.spotify.com/artist/5QnH8g5VaGI7wPFDgH4UKV) | [Last Night EP](https://open.spotify.com/album/5JgIaaM0G5mCsNyEtlDpfj) | 5:11 |
 | 43 | [IZA](https://open.spotify.com/track/0Nolr2aXds84IgkuGleFSj) | [Map.ache](https://open.spotify.com/artist/2enNMBArUbDhmTopWMVWHr) | [Iza](https://open.spotify.com/album/1h7jsIfo0zY9u45IuwHEO1) | 7:42 |
 | 44 | [Make It Stay \- Boris Dlugosch Remix](https://open.spotify.com/track/0E8YKGyZVKz5tkYftHRrWV) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Dena](https://open.spotify.com/artist/3qQ6mF4KyHTuOLcZjunAD4), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru) | [Answers 2 Trouble Remixes](https://open.spotify.com/album/037auvS0B06iq59Jy1Ck22) | 5:25 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 67 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 68 | [Thinking About You Calms Me Down](https://open.spotify.com/track/25lichGYPTOAwpm9PNaWVf) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Waiting Game](https://open.spotify.com/album/1KX6j0VmAYu3dOJUicdQoE) | 2:53 |
 | 69 | [Wake And Return \- Acoustic Version](https://open.spotify.com/track/76uZO2ZHQcWvjsQOd5T8Hd) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra: Acoustic](https://open.spotify.com/album/6WP5Ho3PWAMUkiJLdb6OGb) | 2:57 |
-| 70 | [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6Dfl3X4P0HqpLauVPNnaq1) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:01 |
+| 70 | [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6LIkCbYCsPO1mfrmn4DXDQ) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0) | 4:01 |
 
-Snapshot ID: `MCw1M2ZhYWY1ZjE1NDM4ZDA1M2VjNWI1ZDFmMzM4YzQwYzQ4NjljNmIy`
+Snapshot ID: `MCwyM2MzMWUxMTJhMjIwOWQ5NjY3MWY0MDJmM2UzZTBkMmEwMmZlMDUw`

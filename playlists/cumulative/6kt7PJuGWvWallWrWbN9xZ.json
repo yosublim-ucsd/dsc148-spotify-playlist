@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -1634,6 +1652,24 @@
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "album": {
+        "name": "OVERDRAMATIC",
+        "url": "https://open.spotify.com/album/38o5oHNtKOAm2fg2bzC3mk"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92500,
+      "name": "I'M OVERDRAMATIC AND I MISS YOU",
+      "url": "https://open.spotify.com/track/3FQElFdIzj5onjh1MK2Bz2"
     },
     {
       "album": {
@@ -1868,6 +1904,10 @@
         {
           "name": "Gwen Stefani",
           "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Stevie J",
+          "url": "https://open.spotify.com/artist/09A1kpyGbzYAPb8cEvee64"
         }
       ],
       "date_added": "2022-08-26",
@@ -3474,6 +3514,24 @@
       "duration_ms": 194627,
       "name": "We Loved",
       "url": "https://open.spotify.com/track/2aFIBOe4hOqh78bzjuORQV"
+    },
+    {
+      "album": {
+        "name": "OVERDRAMATIC",
+        "url": "https://open.spotify.com/album/38o5oHNtKOAm2fg2bzC3mk"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109500,
+      "name": "WE NEED TO TALK",
+      "url": "https://open.spotify.com/track/0XVkklfl5XrzU8t6Ko7yB3"
     },
     {
       "album": {

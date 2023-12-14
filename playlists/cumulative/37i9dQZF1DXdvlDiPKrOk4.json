@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Dil Bechen Hai",
+        "url": "https://open.spotify.com/album/6Yd6PIx8yUvcXvFsoqqpnl"
+      },
+      "artists": [
+        {
+          "name": "Anupma Yadav",
+          "url": "https://open.spotify.com/artist/1npM7bcqlGK4UpD5LDLnEm"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347196,
+      "name": "Dil Bechen Hai",
+      "url": "https://open.spotify.com/track/1Etr6WQqv9eXG3CCK8HfAs"
+    },
+    {
+      "album": {
         "name": "Lata Didi - Free Hits",
         "url": "https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8"
       },
@@ -572,7 +590,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 363200,
       "name": "Mera Saaya Saath Hoga",
       "url": "https://open.spotify.com/track/0za65XON6dtr5CE6LMQMkV"
@@ -590,7 +608,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 363206,
       "name": "Mera Saaya Saath Hoga",
       "url": "https://open.spotify.com/track/0RtnSShLGKg0gdkjgeTZ41"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 509422,
       "name": "Piya Tose Naina Laage Re",
       "url": "https://open.spotify.com/track/1Chq2NQXbFWR301R2K11bG"
@@ -724,7 +742,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 509466,
       "name": "Piya Tose Naina Laage Re",
       "url": "https://open.spotify.com/track/167vjUqFTFeSamxeZytBKn"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 381080,
       "name": "Pyar Kiya To Darna Kya",
       "url": "https://open.spotify.com/track/1EezmZapxk6dDafoJuou6k"
@@ -800,7 +818,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 381085,
       "name": "Pyar Kya To Darna Kya",
       "url": "https://open.spotify.com/track/53ENlqRymMaoHB3ZGjAQWB"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 377480,
       "name": "Rangeela Re",
       "url": "https://open.spotify.com/track/3TdTqXddGZdBUhJaW3vXZ9"
@@ -872,7 +890,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 377510,
       "name": "Rangeela Re",
       "url": "https://open.spotify.com/track/1z9YsqyrT5iuguhnC69Ev5"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 350666,
       "name": "Salame Ishq Meri Jaan",
       "url": "https://open.spotify.com/track/2I3tlRJXVDuBDvfVOywwUU"
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 354089,
       "name": "Tere Bina Zindagi Se",
       "url": "https://open.spotify.com/track/4isclMhMivnZzlpBAeXrK7"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 354013,
       "name": "Tere Bina Zindagi Se (From \"Aandhi\")",
       "url": "https://open.spotify.com/track/0GeRudbh3e3WY3yws8dO3Y"

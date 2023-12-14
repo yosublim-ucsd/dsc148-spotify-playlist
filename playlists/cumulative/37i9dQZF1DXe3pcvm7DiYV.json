@@ -760,10 +760,28 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 205946,
       "name": "Robot Dance",
       "url": "https://open.spotify.com/track/0GZ2ci08NLxQYs0ECpAuqf"
+    },
+    {
+      "album": {
+        "name": "The Pop Ups Essentials",
+        "url": "https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205946,
+      "name": "Robot Dance",
+      "url": "https://open.spotify.com/track/470l84TRRT6uM8udVunIDb"
     },
     {
       "album": {

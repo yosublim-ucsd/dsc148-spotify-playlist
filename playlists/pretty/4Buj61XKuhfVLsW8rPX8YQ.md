@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4Buj61XKuhfVLsW8rPX8YQ.md) - [plain]
 
 > 100+ of the happiest songs of all time\. Come on, Get Happy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 691 likes - 105 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 689 likes - 105 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/4Buj61XKuhfVLsW8rPX8YQ.md) - [plain]
 | 53 | [Milkshake](https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 3:02 |
 | 54 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
 | 55 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/7G48fCUg41dBEwqmxR7D0B) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF) | [ZARRO NATION](https://open.spotify.com/album/2NbK7WNNq4aq93BimJ8Glw) | 4:36 |
-| 56 | [The Lion Sleeps Tonight \- Remastered](https://open.spotify.com/track/5qoT6MJByLif7MNrBeyiYO) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [The Lions Sleeps Tonight \(Remastered\)](https://open.spotify.com/album/2AHtfFn70pLKeK0pzfhY2F) | 2:43 |
+| 56 | [The Lion Sleeps Tonight \- Remastered](https://open.spotify.com/track/5qoT6MJByLif7MNrBeyiYO) | [The Tokens](https://open.spotify.com/artist/0GFhVDdXUQi2hyTgm34nPm) | [The Lions Sleeps Tonight \(Remastered\)](https://open.spotify.com/album/2AHtfFn70pLKeK0pzfhY2F) | 2:43 |
 | 57 | [Joyce Country Céilí Band](https://open.spotify.com/track/0gjHwCTNhJKmwwob4SwHsk) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [To Win Just Once, The Best of the Saw Doctors](https://open.spotify.com/album/425GbowlzBU5QANMWdfyFb) | 3:43 |
 | 58 | [You Can Call Me Al](https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:36 |
 | 59 | [Send Me on My Way](https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 4:23 |

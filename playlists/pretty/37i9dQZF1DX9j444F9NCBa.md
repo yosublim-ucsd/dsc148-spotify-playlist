@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,157 likes - 265 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,412 likes - 265 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 64 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 |
 | 65 | [Nights in white satin](https://open.spotify.com/track/2j8e5FzNDN1Qs0mAcCUzgN) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [Nights in white satin](https://open.spotify.com/album/4PO6LHupf2iLLOP13enrOl) | 2:06 |
 | 66 | [She Will Be Loved](https://open.spotify.com/track/0hXPD4sYPT39A5MWpX5YK0) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [She Will Be Loved](https://open.spotify.com/album/1DeE8j9gWOkJz9yVr7YKLK) | 2:34 |
-| 67 | [Don´t Speak](https://open.spotify.com/track/4dHbpaYpTfoms8zFBLjJxC) | [Lily Michaels](https://open.spotify.com/artist/5umBxYZkWxJU6IH1niiJ3m) | [Don´t Speak](https://open.spotify.com/album/5F0qAUqoTQZbhjfyDkRyIx) | 3:42 |
+| 67 | [Don´t Speak](https://open.spotify.com/track/4dHbpaYpTfoms8zFBLjJxC) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [Don´t Speak](https://open.spotify.com/album/5F0qAUqoTQZbhjfyDkRyIx) | 3:42 |
 | 68 | [Ziggy Stardust](https://open.spotify.com/track/7s20sxFe7br4GhPUBgCERZ) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Ziggy Stardust](https://open.spotify.com/album/5YwgKHL6IbgAcg91qAqE1w) | 3:45 |
 | 69 | [Run](https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Run](https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3) | 3:41 |
 | 70 | [If I Were a Boy](https://open.spotify.com/track/4pMKcvx8DwfjkXuLU8s4xo) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [If I Were a Boy](https://open.spotify.com/album/0H5MFLw8sD2ljwEbWey6CP) | 2:53 |
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 264 | [Whiter Shade Of Pale](https://open.spotify.com/track/5tad82kRjYxtO4Ed6zvdPT) | [Maya Jackson](https://open.spotify.com/artist/0Fk3a9naiKu7BbE7UgtKfI) | [Whiter Shade Of Pale](https://open.spotify.com/album/4bdQKUBmMXxBCpECgwqTWD) | 2:27 |
 | 265 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 
-Snapshot ID: `MCxjOGRjNjhlMDUzOTMyNDc4N2IwNWFjODAxZjNjZjg1Mjk1MjA0ZDc4`
+Snapshot ID: `MCxhYTEzOTczODNiOGNmYzIzZjkyNzc0NjQ0MjBhNjgxZjBiMjZhZWJm`

@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Jugar a Los Besos",
+        "url": "https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168850,
+      "name": "Jugar a Los Besos",
+      "url": "https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t"
+    },
+    {
+      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX"
       },
@@ -526,7 +548,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 179459,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/1SAZFG8t1qjlzNZYdXswqw"
@@ -796,7 +818,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 186570,
       "name": "Ser\u00eda un Error",
       "url": "https://open.spotify.com/track/2zITVc64nUa5mhtdA7SLUu"

@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 200672,
       "name": "Solo Para Mis Amigos (En Vivo)",
       "url": "https://open.spotify.com/track/7csZrA6WpMWt77baVzk28M"
@@ -938,10 +938,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 279973,
       "name": "Ya No Es Igual",
       "url": "https://open.spotify.com/track/6QfmiJIMxTAqo2bRVawfVB"
+    },
+    {
+      "album": {
+        "name": "De Angeles Y Dem\u00e1s Demonios",
+        "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282693,
+      "name": "Ya No Es Igual",
+      "url": "https://open.spotify.com/track/7ufquouRbnLHWJnnAvbIEu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kiYWz"

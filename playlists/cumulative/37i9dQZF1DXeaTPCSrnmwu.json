@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 128986,
       "name": "Acercate Mas-Nosotros",
       "url": "https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq"
@@ -722,6 +722,24 @@
       "duration_ms": 296734,
       "name": "Mi esencia eres tu. Tanguillos a mi aire",
       "url": "https://open.spotify.com/track/7hOOTKXuE202k0ohFf3pms"
+    },
+    {
+      "album": {
+        "name": "El Solar de Bebo",
+        "url": "https://open.spotify.com/album/7fHCkw09BzGGR47AcdMwuh"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374840,
+      "name": "Miriam",
+      "url": "https://open.spotify.com/track/1ag87VblSSLqurrd6anxOr"
     },
     {
       "album": {

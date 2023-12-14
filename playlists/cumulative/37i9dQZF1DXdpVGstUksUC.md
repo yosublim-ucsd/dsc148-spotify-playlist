@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-308 songs - 1 day 5 hr 32 min
+309 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Levantado](https://open.spotify.com/track/5TJCXFm2oBmRyIJklBDt26) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Maera](https://open.spotify.com/album/4PptTF7Wq8f3HtlIsPU8vq) | 3:36 | 2021-11-30 | 2022-07-28 |
 | [Lonely Lyle](https://open.spotify.com/track/390fYdvfqp2CRdeqonosQv) | [Big Business](https://open.spotify.com/artist/5o1BnhK2ziS42PCJMuiGd6) | [Battlefields Forever](https://open.spotify.com/album/5c92XNwoGcrQ4rWUX2M3aK) | 9:18 | 2021-11-30 | 2022-02-13 |
 | [Look To Your Orb For The Warning](https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 6:32 | 2022-04-28 | 2023-11-18 |
+| [Look To Your Orb For The Warning](https://open.spotify.com/track/5WQLx09gJM4Dsf65C9hAhI) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS) | 6:32 | 2023-10-06 |  |
 | [Look To Your Orb For The Warning](https://open.spotify.com/track/5XN6IACuLYjsV92yA5gx7v) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/4UWf6tXEzhP4AjYpV7yyJk) | 6:32 | 2021-11-30 | 2022-07-29 |
 | [Loyal To The Pack](https://open.spotify.com/track/5mravCK1NM0WPkJUvdYUaz) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Parnassos Literary Society \- Onassis Stage A/Live Sessions](https://open.spotify.com/album/1bZc8n79zLlXGK6pt0a2u4) | 5:06 | 2022-04-28 | 2022-05-24 |
 | [Lust Queen](https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:12 | 2021-11-30 |  |
@@ -242,7 +243,7 @@
 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 | 2023-03-22 | 2023-06-11 |
 | [Smokyhead](https://open.spotify.com/track/3AkDOeS0MrVCNZQXQnOGuG) | [Electric Octopus](https://open.spotify.com/artist/4dcZVsGQzFSiXuAHyhw3qT) | [Smokyhead](https://open.spotify.com/album/7M4tIblTBvkcC9JdAUThqf) | 8:45 | 2021-11-30 | 2022-01-31 |
 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 | 2021-11-30 |  |
-| [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 | 2021-11-30 |  |
+| [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 | 2021-11-30 | 2023-12-14 |
 | [Some You Win, Some You Lose](https://open.spotify.com/track/4vq8fEjeBE7gczue9Ow95x) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Thieving From The House Of God](https://open.spotify.com/album/7kkxlSKvTzruDLH928LTTu) | 3:21 | 2022-01-14 | 2022-07-13 |
 | [Song For The Dead](https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 5:52 | 2022-08-25 |  |
 | [Space Cadet](https://open.spotify.com/track/07HF5tFmwh6ahN93JC6LmE) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 7:02 | 2021-11-30 | 2022-07-29 |

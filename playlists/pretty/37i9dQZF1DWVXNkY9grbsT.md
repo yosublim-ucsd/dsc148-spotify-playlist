@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,392 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,399 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [Boundary Effect](https://open.spotify.com/track/6EXvFsFMtcobZApGF0SVdT) | [Matt Robertson](https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax) | [Extemperate](https://open.spotify.com/album/1CU6vcBYMcbV4NUIUpRGtn) | 4:00 |
 | 100 | [Apparences](https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1) | [Eskadet](https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG) | [L'attente](https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi) | 5:26 |
 
-Snapshot ID: `MCxjNGRlMzU1ZmI3OTQ3ZTRmYTAyZGFmZTZlMDBlY2I0M2RiYzkxZDAy`
+Snapshot ID: `MCw1NzEzOWM3OTE3ZTcxZGVlZGY1YmVmNWVjN2IwYTNjOGVlN2ExZGYx`

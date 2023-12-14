@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "back it up",
+        "url": "https://open.spotify.com/album/1Kc60PYlAGfVCNo6wV9f9a"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        },
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "back it up",
+      "url": "https://open.spotify.com/track/58FoMgyT8VdsBXUe734mcQ"
+    },
+    {
+      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh"
       },
@@ -104,7 +126,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 268778,
       "name": "Back It Up (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/3cSiLtNuITOz1P0su5879g"
@@ -318,10 +340,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 238339,
       "name": "Brown Skin",
       "url": "https://open.spotify.com/track/2jdGY95liCrqhGHKWl9uS0"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238339,
+      "name": "Brown Skin",
+      "url": "https://open.spotify.com/track/5lNkkcArjQnPUTZ1bzmPAj"
     },
     {
       "album": {
@@ -702,7 +742,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 300280,
-      "name": "Down for Life",
+      "name": "Down for Life (feat. PARTYNEXTDOOR, Future, Travis Scott, Rick Ross & Kodak Black)",
       "url": "https://open.spotify.com/track/1YsFOm6hFKqSLgu9RTpQB8"
     },
     {
@@ -762,6 +802,28 @@
     {
       "album": {
         "name": "Pegasus",
+        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283285,
+      "name": "Excitement",
+      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
+    },
+    {
+      "album": {
+        "name": "Pegasus",
         "url": "https://open.spotify.com/album/2vMi9So8GxXiqaT2zJXbQG"
       },
       "artists": [
@@ -776,7 +838,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 283285,
       "name": "Excitement (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/7FullO2NDkyvxLuxYVKINa"
@@ -975,7 +1037,7 @@
     },
     {
       "album": {
-        "name": "Her Old Friends",
+        "name": "H e r O l d F r i e n d s",
         "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
       },
       "artists": [
@@ -988,7 +1050,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256117,
-      "name": "Her Old Friends",
+      "name": "H e r O l d F r i e n d s",
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
     },
     {
@@ -1149,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Hard II Love",
+        "url": "https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2zGbEkMYPxlQJQ9VKD5crD"
+    },
+    {
+      "album": {
         "name": "COLOURS",
         "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
       },
@@ -1164,6 +1244,24 @@
       "duration_ms": 224014,
       "name": "LET'S GET MARRIED",
       "url": "https://open.spotify.com/track/01TaTQJrnJmq0cpufjcJV0"
+    },
+    {
+      "album": {
+        "name": "Vice Party Riddim",
+        "url": "https://open.spotify.com/album/5ezBqBdt5YSQl0nPxWXxA0"
+      },
+      "artists": [
+        {
+          "name": "S.Carter",
+          "url": "https://open.spotify.com/artist/69QnpszMblbP1UG8hyNceY"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212222,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0ABKToGGd9V58REvHDTX88"
     },
     {
       "album": {
@@ -1218,7 +1316,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 391066,
       "name": "Love You Down - Extended Remix",
       "url": "https://open.spotify.com/track/6F0pF9du4C3BFDS0Lu52Mn"
@@ -1262,7 +1360,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 281119,
       "name": "LOYAL (feat. Drake and Bad Bunny) [Remix]",
       "url": "https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp"
@@ -1288,6 +1386,24 @@
       "duration_ms": 197973,
       "name": "LOYAL (feat. Drake)",
       "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
+    },
+    {
+      "album": {
+        "name": "MASHUPS",
+        "url": "https://open.spotify.com/album/4fJW5Ddjgn0YiSjBZC0GsB"
+      },
+      "artists": [
+        {
+          "name": "Travis Garland",
+          "url": "https://open.spotify.com/artist/5tpWDRL3doEgCZdVn4FsNN"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221152,
+      "name": "Loyal x Good Woman",
+      "url": "https://open.spotify.com/track/2R4S7brpR0zpiTxmAxcMHI"
     },
     {
       "album": {
@@ -1346,6 +1462,28 @@
       "duration_ms": 274760,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0dmBhUb8BZnd0F8rEhzpTI"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277720,
+      "name": "Members Only (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
     },
     {
       "album": {
@@ -1795,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "album": {
         "name": "Rolling Papers 2",
         "url": "https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz"
       },
@@ -1996,10 +2152,32 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 213626,
       "name": "Sex In The Porsche (and PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr"
+    },
+    {
+      "album": {
+        "name": "The Love Album: Off The Grid (Extended)",
+        "url": "https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Sex In The Porsche (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM"
     },
     {
       "album": {
@@ -2060,7 +2238,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 283253,
-      "name": "Shining",
+      "name": "Shining (feat. Beyonc\u00e9 & Jay-Z)",
       "url": "https://open.spotify.com/track/3OoZagIW3YK8vjt0ws6NOI"
     },
     {
@@ -2214,6 +2392,32 @@
       "duration_ms": 216746,
       "name": "Takin' Shots",
       "url": "https://open.spotify.com/track/5ffntNJnJOeFv7b7DCd0Bw"
+    },
+    {
+      "album": {
+        "name": "after.",
+        "url": "https://open.spotify.com/album/2lCHh2ojc3iRYCh2qX3bYS"
+      },
+      "artists": [
+        {
+          "name": "Amir Obe",
+          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "G. Ry",
+          "url": "https://open.spotify.com/artist/2bAh3Pjl6JusfLvENVHu29"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282993,
+      "name": "TALK TO ME NICE",
+      "url": "https://open.spotify.com/track/5SQvh2DpXwrwrIPf2v5tc4"
     },
     {
       "album": {
@@ -2544,10 +2748,36 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 177467,
       "name": "Whole Lotta Liquor (feat. Future & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/1EWa3LGA6yaC6Bq2iUA72a"
+    },
+    {
+      "album": {
+        "name": "For The Streets",
+        "url": "https://open.spotify.com/album/3kt6kVdzG272bxMGMSkGlm"
+      },
+      "artists": [
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177467,
+      "name": "Whole Lotta Liquor [Feat. Future, PARTYNEXTDOOR]",
+      "url": "https://open.spotify.com/track/4PBiof9BsDvIHAziFWVrMC"
     },
     {
       "album": {
@@ -2590,7 +2820,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204173,
-      "name": "Wild Thoughts (feat. Rihanna)",
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
       "url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi"
     },
     {

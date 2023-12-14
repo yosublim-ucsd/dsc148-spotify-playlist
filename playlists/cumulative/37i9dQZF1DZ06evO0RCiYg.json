@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 239773,
       "name": "Don't Phunk With My Heart",
       "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
@@ -508,10 +508,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 214893,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/3KDCYRQl4O681lkYI2sCqE"
+    },
+    {
+      "album": {
+        "name": "Elephunk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/78CmZBgMOz93zoQwqxqZSy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182057,
+      "name": "Hey Mama - Jimmy Remix",
+      "url": "https://open.spotify.com/track/6d5oZGnCn7QoKBiiLr4Qmf"
     },
     {
       "album": {
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 312160,
       "name": "The Boogie That Be",
       "url": "https://open.spotify.com/track/12bZwKgVax8ibhwfiPgkQT"
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 406840,
       "name": "They Don't Want Music",
       "url": "https://open.spotify.com/track/4d1bLoK77pR9N6giV6spVB"

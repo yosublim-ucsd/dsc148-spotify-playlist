@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Israel & Rodolffo, Mc Don Juan, João Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,665,203 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,669,163 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Abre A Mente \- Ao Vivo Em Brasília](https://open.spotify.com/track/4KUj5wxJuY9Nf7L6guRxrU) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP4\)](https://open.spotify.com/album/4J251d8QDdjYABrjPImSTy) | 3:10 |
 | 50 | [Metade De Mim \- Ao Vivo](https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Metade De Mim \(Ao Vivo\)](https://open.spotify.com/album/6M62EAu5KM45AycOLLCdfd) | 2:40 |
 
-Snapshot ID: `MCw5ZDBjNjEyODFmN2M2OWU4ZGUwZGZiNmQ2NmM4YjYyODQxZmU1MGNk`
+Snapshot ID: `MCwxNzI1NDhiNTdlY2MzMThjZTQ0YmEzNDc0NTJhZDljYmYyNTEzYWJm`

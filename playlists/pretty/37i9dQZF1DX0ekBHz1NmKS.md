@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,369 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,367 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Misemotional](https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK) | 3:34 |
 | 100 | [Hälften är rakt från hjärtat](https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Hälften är rakt från hjärtat](https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4) | 2:48 |
 
-Snapshot ID: `MCwzNjM3Mjc3MTAzMDYwNGZhYTZkODg1ZTAwNmYzN2ExNjM1MWRjMWNk`
+Snapshot ID: `MCxiYzM3ZTNmOTI4NGNjNDg0YTg5ZTIzYzdjNTZjYzZjMTllNWNmZTgw`

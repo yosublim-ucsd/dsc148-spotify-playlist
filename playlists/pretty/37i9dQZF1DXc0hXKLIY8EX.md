@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover: <a href="spotify:artist:6W6KuSNP1kE8MJAx6XVU09">Myles Brando</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,522 likes - 66 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,523 likes - 66 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 65 | [Deady](https://open.spotify.com/track/0opdZDWb5BxFD0D4xfDwTA) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Deady](https://open.spotify.com/album/0oTX9NBFncjn8GIGEYjtQi) | 2:34 |
 | 66 | [Bad Advice / Six Speed](https://open.spotify.com/track/63veNY8mpASIg4axTdLJcC) | [Eastside Lenny](https://open.spotify.com/artist/2lxvM5XpyeeB108c1KcIXU) | [Bad Advice / Six Speed](https://open.spotify.com/album/2B0g8cGuMeBJALoV2zhd6Z) | 3:26 |
 
-Snapshot ID: `MCwyYmZjNDM2MWFkZjM5OGMyYWM1MTc0ZjQzNTRjOTFmY2FlYzIyMDU0`
+Snapshot ID: `MCxiNjZkYWJlY2U4NTNmNDExZjMyMzAzOGQ3MGRlNTNkYzRiZWU0ZGM3`

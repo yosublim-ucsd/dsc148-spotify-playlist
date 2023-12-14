@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,296 likes - 200 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,311 likes - 200 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 199 | [Ghost Pains](https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr) | [Life Barrier](https://open.spotify.com/artist/27vqyARCCaYTZQXlaMNJLY) | [Ghost Pains](https://open.spotify.com/album/1K675PF4REEeBp5eGstXWA) | 4:19 |
 | 200 | [Isolation](https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO) | [AVKRVST](https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW) | [The Approbation](https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs) | 5:40 |
 
-Snapshot ID: `MCw1MzRlNGRiNGJkZTQ2NTYyM2JkYjc3MzEzMzJiYTYyNTViNjg5YzEz`
+Snapshot ID: `MCw5MDA3MjhkNzFhNTljYjY5MjhiNjM5NjljOWRiMjZmNmMwNDBiOGNh`

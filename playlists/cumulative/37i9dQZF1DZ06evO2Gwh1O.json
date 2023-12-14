@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 111466,
       "name": "Brother",
       "url": "https://open.spotify.com/track/6lmnA6X89A01eFfQl0YvBG"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 317746,
       "name": "Escape Artists Never Die",
       "url": "https://open.spotify.com/track/34RIandjffS6fEMitjZnvF"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 317746,
       "name": "Escape Artists Never Die",
       "url": "https://open.spotify.com/track/63piavgR25OkIFCfgs3rlp"
@@ -578,6 +578,24 @@
       "duration_ms": 172866,
       "name": "Kiss And Makeup (All Bets Are Off) - Radio One Rock Show",
       "url": "https://open.spotify.com/track/0kW8jLewouNxnXogAJAG7Q"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107053,
+      "name": "Modern Excuse of a Man",
+      "url": "https://open.spotify.com/track/33gRce24npD7SMId6DN4HX"
     },
     {
       "album": {

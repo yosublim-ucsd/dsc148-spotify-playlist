@@ -1266,10 +1266,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 197142,
       "name": "Negro",
       "url": "https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i"
+    },
+    {
+      "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/2jRVG4AZf6eFLc9Y1ELdgq"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/3QS73YxMlbbqHvZQhp1WNH"
     },
     {
       "album": {
@@ -1406,6 +1424,24 @@
       "duration_ms": 195000,
       "name": "One Direction (feat. Pipo Martinez)",
       "url": "https://open.spotify.com/track/2uCUEMPaiBg3mOBzP0ygId"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a Buena",
+        "url": "https://open.spotify.com/album/1kmpefOeR8l3dasGIUbIgd"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156386,
+      "name": "P0rn0 Gr@t1$",
+      "url": "https://open.spotify.com/track/6T4P9BZoObMWZgkWAnxPRq"
     },
     {
       "album": {
@@ -1784,7 +1820,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 176083,
       "name": "Tinbo",
       "url": "https://open.spotify.com/track/5rd5rSUOMrA150vKFbpGHA"

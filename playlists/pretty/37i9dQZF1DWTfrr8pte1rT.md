@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Sullivan King \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,250 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,253 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 124 | [Phoenix](https://open.spotify.com/track/0jX4nQqJS7m1fHodsWKpp1) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Phoenix](https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX) | 3:17 |
 | 125 | [Bad Luck](https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Kiz Keyz](https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS) | [Bad Luck](https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q) | 2:51 |
 
-Snapshot ID: `MCxkMjhlYmUyNTIwOWVkZWVmZTc2MTI0MzVkOWY5NGNlZmMzNTM5MzNi`
+Snapshot ID: `MCw2NWVlNTNmODhiZGQxMGM1M2ZlMGZjOTRhOWUwYThlMjk0YzdmMjY5`

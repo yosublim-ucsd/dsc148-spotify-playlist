@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,635 likes - 61 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,693 likes - 61 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 39 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 40 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 |
 | 41 | [Next To You \(feat\. DVBBS & Kane Brown\) \- TWINSICK Remix](https://open.spotify.com/track/2BqNigWXrzipvUFP8IPa8j) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [TWINSICK](https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF) | [Next To You \(feat\. Kane Brown\) \[TWINSICK Remix\]](https://open.spotify.com/album/4cHuD5hSnqwxIpaEZQ16gb) | 3:16 |
-| 42 | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/track/3BQn0kOqvoCtV83QAVGd0e) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [El Chima En La Casa](https://open.spotify.com/artist/2m54qKxJNbCGH7OZN0xuL1), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/album/6ba7djkJEIp1Zx9kTqi7Uf) | 2:31 |
+| 42 | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/track/43Uz8H1nAotIDhRmCM4PMK) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [El Chima En La Casa](https://open.spotify.com/artist/2m54qKxJNbCGH7OZN0xuL1), [JoeyTheGawd](https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv) | [Patilla \(feat\. El Chima En La Casa & JoeyTheGawd\)](https://open.spotify.com/album/3BuKLHHA5jFz2dMMLPpMgo) | 2:31 |
 | 43 | [Hey Mami](https://open.spotify.com/track/4zxplyWb9gIjpqM6TjmswM) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Chris Salgado](https://open.spotify.com/artist/3tTY8XzN1jKcMRbazoNDVg), [Dj Esli](https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd), [Brian Muñoz](https://open.spotify.com/artist/3uSXeFT2GQ1788QvQ5Nnec) | [Hey Mami](https://open.spotify.com/album/02MwR3Ubdakotdnz9fCapF) | 3:34 |
 | 44 | [Mi Gente \- Cedric Gervais Remix](https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Mi Gente \(Cedric Gervais Remix\)](https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI) | 4:29 |
 | 45 | [Neón](https://open.spotify.com/track/5n3BkGuvl4tBLtU0vRnk2p) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Neón](https://open.spotify.com/album/3vaTUE6iGfukYBuR5vzOa9) | 3:16 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 60 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 |
 | 61 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
 
-Snapshot ID: `MCwzOTZhMGM5OGZmMjdkMzU2N2I1YThmYTlhYjRhNmM1ZjA1NzA4NGMz`
+Snapshot ID: `MCwzMjQ2NGU4MTBjNDBmMDJlMWRjNjE1ODA2Mjg4YWMxYmI2YWQzNTNi`

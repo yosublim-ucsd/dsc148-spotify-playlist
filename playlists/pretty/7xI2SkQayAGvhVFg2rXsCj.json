@@ -588,8 +588,8 @@
       },
       "artists": [
         {
-          "name": "Amamiya Sora",
-          "url": "https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0"
+          "name": "Sora Amamiya",
+          "url": "https://open.spotify.com/artist/110XseV2ExoVve9IqjBghe"
         }
       ],
       "duration_ms": 267226,
@@ -1204,8 +1204,12 @@
       },
       "artists": [
         {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+          "name": "CHiCO",
+          "url": "https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL"
+        },
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
         }
       ],
       "duration_ms": 209133,
@@ -1215,13 +1219,17 @@
     {
       "added_at": "2022-05-15 23:37:29",
       "album": {
-        "name": "\u77ac\u304f\u4e16\u754c\u306bi\u3092\u63fa\u3089\u305b",
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
         "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
       },
       "artists": [
         {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+          "name": "CHiCO",
+          "url": "https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL"
+        },
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
         }
       ],
       "duration_ms": 270306,
@@ -1236,12 +1244,16 @@
       },
       "artists": [
         {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+          "name": "CHiCO",
+          "url": "https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL"
+        },
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
         }
       ],
       "duration_ms": 257186,
-      "name": "\u30b9\u30fc\u30cf\u309a\u30fc\u30a2\u30a4\u30c8\u3099\u30eb(\u7b11)",
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30a2\u30a4\u30c9\u30eb\uff08\u7b11\uff09",
       "url": "https://open.spotify.com/track/4qbHYNkIDsOeYvJL9oBH8P"
     },
     {
@@ -1252,8 +1264,12 @@
       },
       "artists": [
         {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+          "name": "CHiCO",
+          "url": "https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL"
+        },
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
         }
       ],
       "duration_ms": 220626,

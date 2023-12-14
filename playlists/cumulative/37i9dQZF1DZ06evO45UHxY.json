@@ -826,7 +826,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 190522,
       "name": "Jacarandosa",
       "url": "https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi"
@@ -1205,24 +1205,6 @@
     },
     {
       "album": {
-        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "date_added": "2022-06-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234857,
-      "name": "Revento\u0301n Unixes",
-      "url": "https://open.spotify.com/track/0aru7xAJZfzn13o6wQPAko"
-    },
-    {
-      "album": {
         "name": "Presumidas, S.a.",
         "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
       },
@@ -1238,6 +1220,24 @@
       "duration_ms": 244703,
       "name": "Revent\u00f3n Unisex",
       "url": "https://open.spotify.com/track/41HebIRHAPoidrilXQ0udy"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "Revent\u00f3n Unixes",
+      "url": "https://open.spotify.com/track/0aru7xAJZfzn13o6wQPAko"
     },
     {
       "album": {
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 203125,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/6zDbT0ltQqymfFwQekJHSU"
@@ -1450,10 +1450,46 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 166750,
       "name": "Zapatos De Bailador",
       "url": "https://open.spotify.com/track/7eAKAigxGewKqhxaJIxGqC"
+    },
+    {
+      "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169433,
+      "name": "Zapatos De Bailador",
+      "url": "https://open.spotify.com/track/35UoR8RpKtdvI2TUFVeKmU"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168677,
+      "name": "Zapatos Viejos",
+      "url": "https://open.spotify.com/track/2l6iFXyafbKbdp5pa6jXpj"
     },
     {
       "album": {
@@ -1468,7 +1504,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 171720,
       "name": "Zapatos viejos",
       "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"

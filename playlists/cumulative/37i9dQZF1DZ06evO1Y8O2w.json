@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 206333,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo"
@@ -765,7 +765,7 @@
     },
     {
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded Edition)",
+        "name": "Somewhere In My Lifetime (Expanded)",
         "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
       "artists": [
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 373000,
       "name": "Living Inside Your Love",
       "url": "https://open.spotify.com/track/5dlID349xMXMSRzNlC990C"
@@ -1151,7 +1151,7 @@
     },
     {
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded Edition)",
+        "name": "Somewhere In My Lifetime (Expanded)",
         "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
       "artists": [
@@ -1187,7 +1187,7 @@
     },
     {
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded Edition)",
+        "name": "Somewhere In My Lifetime (Expanded)",
         "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
       "artists": [
@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452466,
+      "name": "You Know How to Love Me",
+      "url": "https://open.spotify.com/track/1hLNOxFIiEAgApBstfwONV"
+    },
+    {
+      "album": {
         "name": "You Know How to Love Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 226840,
       "name": "You Know How to Love Me - 7\" Version",
       "url": "https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx"

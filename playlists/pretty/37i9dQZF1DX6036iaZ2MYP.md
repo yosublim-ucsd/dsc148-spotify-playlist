@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: ODUMODUBLVCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,689 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,693 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Santé](https://open.spotify.com/track/1XPQalXJbjYH9NdndXHxmU) | [FUL](https://open.spotify.com/artist/2iQnY6e0Mq4fepcLm7AHAZ), [Cysoul](https://open.spotify.com/artist/212RAD04CL3a1XwexVB129), [GBC the Yemba](https://open.spotify.com/artist/07yKhu1K2QOiWM9j7MYd92) | [Santé](https://open.spotify.com/album/6fjYYh9hPTXD652nXseuL2) | 3:33 |
 | 50 | [Bossy Girl](https://open.spotify.com/track/4msbsjQlixRbQU1NRE3eNw) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Bossy Girl](https://open.spotify.com/album/5VO01zNNWXMdYVXRx8oZpM) | 2:34 |
 
-Snapshot ID: `MCw3NGE4MjM3MTM5MTU0MTllY2VkYTlhZGE3YWNiMzI4ZTczZjYxM2Yw`
+Snapshot ID: `MCxmYzRjNzM0ODM3ODliNDcwYmVkMDRjOTZlNGE2MjUzNTdhN2Y1Nzdk`

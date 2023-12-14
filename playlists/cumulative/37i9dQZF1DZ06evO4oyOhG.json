@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Sekai Ha i Ni Michiteiru",
+        "url": "https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238386,
+      "name": "color",
+      "url": "https://open.spotify.com/track/3eX9HeooG4QazbheKKDAwv"
+    },
+    {
+      "album": {
         "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
         "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
       },
@@ -330,7 +348,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 258200,
       "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa",
       "url": "https://open.spotify.com/track/3EfNDAXf9D16g7fv2aRkrs"
@@ -582,7 +600,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 231466,
       "name": "\u30ad\u30e9\u30e9",
       "url": "https://open.spotify.com/track/3KQX9qvO7tkQ0ItWj1BifL"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 235586,
       "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
       "url": "https://open.spotify.com/track/02me5PrRaF8baUbyiJ0bv7"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 311720,
       "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/2gjS4IldZTcJOntzMW6oh8"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 255840,
       "name": "\u4eca\u65e5\u3082\u30b5\u30af\u30e9\u821e\u3046\u6681\u306b",
       "url": "https://open.spotify.com/track/7BB9jAA7JkX6oLaSioKvX4"
@@ -1758,6 +1776,24 @@
       "duration_ms": 250360,
       "name": "\u5e78\u305b\u3002",
       "url": "https://open.spotify.com/track/381po4CEVjsj92eHwQK8oI"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282533,
+      "name": "\u604b\u306e\u30b3\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2L3z8aBjWz4Diuf1grb9YL"
     },
     {
       "album": {
@@ -2082,6 +2118,24 @@
       "duration_ms": 220626,
       "name": "\u919c\u3044\u751f\u304d\u7269",
       "url": "https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1"
+    },
+    {
+      "album": {
+        "name": "Sekai Ha i Ni Michiteiru",
+        "url": "https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335026,
+      "name": "\u96ea\u306e\u30ef\u30eb\u30c4",
+      "url": "https://open.spotify.com/track/3AmrLrSDrLFJ6wwZcpCPUJ"
     },
     {
       "album": {

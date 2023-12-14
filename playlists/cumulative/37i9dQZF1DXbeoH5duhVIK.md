@@ -4,7 +4,7 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-109 songs - 6 hr 42 min
+110 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Until I Fall](https://open.spotify.com/track/21rJ7124q6HabUFNXJTN7x) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Until I Fall](https://open.spotify.com/album/2qfPJjPZW2VxI4DoyULf7V) | 3:53 | 2023-03-02 |  |
 | [Use Me \(feat\. 070 Shake\)](https://open.spotify.com/track/6gqZzQyJfKqdc9boOILz4x) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:23 | 2023-03-02 |  |
 | [Veski](https://open.spotify.com/track/42z52CjcmuMjpGjZSUfd5g) | [bgl](https://open.spotify.com/artist/56g0CScgWbbwKWZeU76BQH) | [Rapsodie](https://open.spotify.com/album/3u0mzDIK7xjiGdBbZ6ASet) | 3:20 | 2023-03-02 |  |
-| [Watch Me Go](https://open.spotify.com/track/7IxmHraGN8VOqFxYjpHr98) | [Bad Owl](https://open.spotify.com/artist/2yZIPlbvkiVdlG64ZkgL1N) | [Watch Me Go](https://open.spotify.com/album/568l4SCltD5jJr0hpN6InX) | 3:12 | 2023-03-02 |  |
+| [Watch Me Go](https://open.spotify.com/track/1RpsKXkqxeqdELQCezI6ID) | [Bad Owl](https://open.spotify.com/artist/2yZIPlbvkiVdlG64ZkgL1N) | [Watch Me Go](https://open.spotify.com/album/09xICBhnyvnVEYxxomnoHp) | 3:12 | 2023-03-10 |  |
+| [Watch Me Go](https://open.spotify.com/track/7IxmHraGN8VOqFxYjpHr98) | [Bad Owl](https://open.spotify.com/artist/2yZIPlbvkiVdlG64ZkgL1N) | [Watch Me Go](https://open.spotify.com/album/568l4SCltD5jJr0hpN6InX) | 3:12 | 2023-03-02 | 2023-12-14 |
 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 | 2023-03-02 |  |
 | [White Noise](https://open.spotify.com/track/4kZGNDSrzLouR2UjB9twuQ) | [Exitmusic](https://open.spotify.com/artist/1sLflvP9XBFyDA0l6iFNjE) | [Passage](https://open.spotify.com/album/0l0AzPDXvxxFGwIaK5hJw7) | 4:54 | 2023-03-02 |  |
 | [Who Knows](https://open.spotify.com/track/6T5eAjtjBQJEWVGtndJ9XA) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [Who Knows](https://open.spotify.com/album/2UgeXzcLnZ707ZAkoYyW8s) | 3:12 | 2023-03-02 |  |

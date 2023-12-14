@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Éxitos románticos, de hoy y de siempre\. Foto: Chayanne
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,032,136 likes - 250 songs - 16 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,032,135 likes - 250 songs - 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 249 | [Por un Beso](https://open.spotify.com/track/796ep4WrbI6vbiqXnJgsQM) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 5:01 |
 | 250 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
 
-Snapshot ID: `MCxlN2E4Nzc3MTE3OTY1ODlkZWZjNWZmNjI3MmVhZTEzM2Y3MjY0YzEx`
+Snapshot ID: `MCw4ZDFhZDI5MmI0ZWVmZGM5NWRmMGVkMWFhMmZjOTI5MGYxODM3YTI3`

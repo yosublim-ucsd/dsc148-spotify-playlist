@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Tate McRae \(pictured\), Libianca, Fred again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,927 likes - 110 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,938 likes - 110 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 109 | [Fade to Black](https://open.spotify.com/track/78yarzaFAlCbbJLc6R2wXD) | [Cam Thomas](https://open.spotify.com/artist/5c3fIb9ddx79HLNnl99grZ), [Willhouse](https://open.spotify.com/artist/2xvy06CHiXhtfmolaLM2ni) | [Fade to Black](https://open.spotify.com/album/0F5on11ZJZ4PuJHFeDjiep) | 3:51 |
 | 110 | [Christmas All Year](https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Christmas All Year](https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl) | 2:53 |
 
-Snapshot ID: `MCw5YTkxYTI2MDEwNDg1NDI3MjUxNTA2MDJkYTZmYTNmZjYxZjBhMmZi`
+Snapshot ID: `MCw2YTA2ODliOGI5NmRhMTc0ZDMxYThjZDlkNzA3NzRjYzk5OTQzNzVm`

@@ -189,6 +189,32 @@
     },
     {
       "album": {
+        "name": "Baatein Kuch Ankahee Si",
+        "url": "https://open.spotify.com/album/1wKxgHYtGfK6nARhRC3dsE"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Sanam",
+          "url": "https://open.spotify.com/artist/7o7doCwqft91WC690aglWC"
+        },
+        {
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Baatein Kuch Ankahee Si",
+      "url": "https://open.spotify.com/track/2TEFBoomZkqVmtAXTp9HTc"
+    },
+    {
+      "album": {
         "name": "Life In A Metro (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6leYdBPs1XzfUgpc8xgeSi"
       },
@@ -277,7 +303,7 @@
     },
     {
       "album": {
-        "name": "Bandeya (feat. Arijit Singh) [From \"Dil Juunglee\"]",
+        "name": "Bandeya (From \"Dil Juunglee\")",
         "url": "https://open.spotify.com/album/0eBjbMAR0N7knX6hBT6c3h"
       },
       "artists": [
@@ -294,7 +320,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184666,
-      "name": "Bandeya (feat. Arijit Singh) - From \"Dil Juunglee\"",
+      "name": "Bandeya - From \"Dil Juunglee\"",
       "url": "https://open.spotify.com/track/6gwnKOvdBKkTU4CQ7KpIAu"
     },
     {
@@ -443,6 +469,32 @@
     },
     {
       "album": {
+        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Amit Mishra",
+          "url": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2023-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348965,
+      "name": "Bulleya (From \"Ae Dil Hai Mushkil\")",
+      "url": "https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh"
+    },
+    {
+      "album": {
         "name": "Blood Money (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5K0rFYotIyeCXpmNVzWpfn"
       },
@@ -480,6 +532,24 @@
       "duration_ms": 133066,
       "name": "Chaahe Jo Tumhe",
       "url": "https://open.spotify.com/track/3ebaoc3Cxprmk6OmtVfymQ"
+    },
+    {
+      "album": {
+        "name": "Chaand Baaliyan",
+        "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103264,
+      "name": "Chaand Baaliyan",
+      "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
     },
     {
       "album": {
@@ -631,7 +701,7 @@
         },
         {
           "name": "Nasir Faraaz",
-          "url": "https://open.spotify.com/artist/1Z8uFLgpNHZHbkAx4iuyb4"
+          "url": "https://open.spotify.com/artist/366Kw1KytFvqzVleCx96IB"
         }
       ],
       "date_added": "2022-06-09",
@@ -1223,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Badlapur (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228969,
+      "name": "Jeena Jeena",
+      "url": "https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE"
+    },
+    {
+      "album": {
         "name": "Jeena Jeena (From \"Badlapur\")",
         "url": "https://open.spotify.com/album/47BxXUsijYFRSasnmu8M2U"
       },
@@ -1506,6 +1594,10 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
         }
       ],
       "date_added": "2023-07-25",
@@ -1517,6 +1609,32 @@
     },
     {
       "album": {
+        "name": "Lafzon Mein - Reprise",
+        "url": "https://open.spotify.com/album/3afynEYx9QTvpYuhLQcaNz"
+      },
+      "artists": [
+        {
+          "name": "Mayur Jumani",
+          "url": "https://open.spotify.com/artist/1UdoO4D61N7yBby4yUgNSE"
+        },
+        {
+          "name": "Abhijeet Sawant",
+          "url": "https://open.spotify.com/artist/4Wil7eB65FIL818mwO5dIc"
+        },
+        {
+          "name": "Biddu",
+          "url": "https://open.spotify.com/artist/2BzH5YmKSqiVskBsC6PUw2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Lafzon Mein - Reprise",
+      "url": "https://open.spotify.com/track/3JQRUaygl3ApLh3hqKafIW"
+    },
+    {
+      "album": {
         "name": "Goliyon Ki Raasleela Ram-Leela (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/76ok2HKEfqZ8FaAy6JpCNp"
       },
@@ -1524,6 +1642,10 @@
         {
           "name": "Shail Hada",
           "url": "https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
         }
       ],
       "date_added": "2022-06-09",
@@ -1620,6 +1742,24 @@
       "duration_ms": 266005,
       "name": "Mann Bharryaa 2.0",
       "url": "https://open.spotify.com/track/0OGWPZujUqgF5ER4iSg2Qp"
+    },
+    {
+      "album": {
+        "name": "Table No. 21 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ"
+      },
+      "artists": [
+        {
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200120,
+      "name": "Mann Mera",
+      "url": "https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv"
     },
     {
       "album": {
@@ -1904,6 +2044,36 @@
       "duration_ms": 320000,
       "name": "Neele Neele Ambar Par - Male Version",
       "url": "https://open.spotify.com/track/02zPo0Dt0R4TTFY5zLJZnK"
+    },
+    {
+      "album": {
+        "name": "We Are Family (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0WepPP0SOdbZD6oFHzAM4X"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396973,
+      "name": "Noor E Khuda",
+      "url": "https://open.spotify.com/track/60d1uQmqTZ1Lg2SGJYdQTI"
     },
     {
       "album": {
@@ -2511,7 +2681,7 @@
     },
     {
       "album": {
-        "name": "Kailasa Jhoomo Re",
+        "name": "Jhoomo Re",
         "url": "https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5"
       },
       "artists": [
@@ -3240,6 +3410,32 @@
       "duration_ms": 313933,
       "name": "Tujhe Sochta Hoon",
       "url": "https://open.spotify.com/track/47l2Dd3XPBLio3kjbEMyDJ"
+    },
+    {
+      "album": {
+        "name": "Tujhe Yaad Na Meri Ayee - 2",
+        "url": "https://open.spotify.com/album/2OMgwR7ydKGiyZPhUdgp7T"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294146,
+      "name": "Tujhe Yaad Na Meri Ayee - 2",
+      "url": "https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx"
     },
     {
       "album": {

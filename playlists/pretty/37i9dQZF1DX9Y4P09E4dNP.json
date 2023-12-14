@@ -1,12 +1,12 @@
 {
   "description": "A fusion of highlife and hip-hop, these hip-life jams are undeniable.",
-  "num_followers": 29190,
+  "num_followers": 29192,
   "original_name": "Hip-Life Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWQ1NGNkNDk0OTMxOTM2Mzk0ZDAzNTA2NWM4NjM3MGFjMDE4MjAz",
+  "snapshot_id": "MCw5NmJjZmI2MDRiZDAxZGMyZjE5NmY3MWRlYjUwNzlhODM0ZDVjZDlm",
   "tracks": [
     {
       "added_at": "2023-12-01 06:42:32",
@@ -171,6 +171,26 @@
       "duration_ms": 213870,
       "name": "CHOPLIFE (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
+    },
+    {
+      "added_at": "2023-12-01 06:42:32",
+      "album": {
+        "name": "Been A Fool For You",
+        "url": "https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN"
+      },
+      "artists": [
+        {
+          "name": "Amakye Dede",
+          "url": "https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 268277,
+      "name": "Been A Fool For You",
+      "url": "https://open.spotify.com/track/0KL0cCn54gGCggbKFtT3Sb"
     },
     {
       "added_at": "2023-12-01 06:42:32",

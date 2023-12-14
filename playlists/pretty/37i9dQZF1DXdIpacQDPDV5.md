@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Loud Luxury & charlieonnafriday
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,291 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,296 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [La Miche](https://open.spotify.com/track/727Qw7MLhXzAUGuViMQVQV) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT), [Joly](https://open.spotify.com/artist/734q81FP5ekCFV0izznoVN) | [La Miche](https://open.spotify.com/album/49poEIyBtqFrjvO0EWkOAX) | 4:15 |
 | 65 | [Don't Let Me Go](https://open.spotify.com/track/0BCZkFoqOtoReXJMpIjgqh) | [Mount Pleasant](https://open.spotify.com/artist/1kzPmFEEz0wTgXoCzJTwBz), [Freddie Future](https://open.spotify.com/artist/3TvOtMsG1MPfCem7PyZLXu) | [Don't Let Me Go](https://open.spotify.com/album/5lVQFhUlbpYGmGTxZ3nSn0) | 4:50 |
 
-Snapshot ID: `MCxkMDJhNGE2NGNiMzkyMTU3ZDc5MmM0ZmNjZGNlODE3M2I0NDI2YjAw`
+Snapshot ID: `MCw0N2UwNmEyYzcyNjBjNjA3NzZkNTYxNTM5N2VlYjJkYzQxM2ZjN2Qw`

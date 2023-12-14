@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "album": {
         "name": "Cojum Dip",
         "url": "https://open.spotify.com/album/5RSTrCPHo0MvHuO4BncjTw"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 126688,
       "name": "Affirmation Song",
       "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk"
@@ -114,6 +132,42 @@
       "duration_ms": 130066,
       "name": "Blood and Bones",
       "url": "https://open.spotify.com/track/3zTgL5xA9C02l65VR0XqaN"
+    },
+    {
+      "album": {
+        "name": "The Paris Swing Box",
+        "url": "https://open.spotify.com/album/2djW68ErXMloNYhZaqDZdx"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196513,
+      "name": "Booty Swing",
+      "url": "https://open.spotify.com/track/64yyY22zIihs01OpURdsh8"
+    },
+    {
+      "album": {
+        "name": "Fire of Unknown Origin",
+        "url": "https://open.spotify.com/album/7v4kEpVtppoMm80m43lGzt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Burnin' for You",
+      "url": "https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s"
     },
     {
       "album": {
@@ -204,6 +258,24 @@
       "duration_ms": 238280,
       "name": "Diggin' Up Hatchets",
       "url": "https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs"
+    },
+    {
+      "album": {
+        "name": "I Can't Stand Still",
+        "url": "https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336800,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC"
     },
     {
       "album": {
@@ -374,6 +446,24 @@
       "duration_ms": 199720,
       "name": "Goodnight Socialite",
       "url": "https://open.spotify.com/track/3lWU0u5AZTmr0vm3m8VV2R"
+    },
+    {
+      "album": {
+        "name": "H.S",
+        "url": "https://open.spotify.com/album/7kcjzW149228s4dQmIIPUu"
+      },
+      "artists": [
+        {
+          "name": "Tom Cardy",
+          "url": "https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237453,
+      "name": "H.S",
+      "url": "https://open.spotify.com/track/130XZ5bHECnpHvUeUkEPlg"
     },
     {
       "album": {
@@ -593,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Bounce Into The Music",
+        "url": "https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI"
+      },
+      "artists": [
+        {
+          "name": "SIAMES",
+          "url": "https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246508,
+      "name": "Mr. Fear",
+      "url": "https://open.spotify.com/track/5XeIQO9gGkGo54naYVVeJP"
+    },
+    {
+      "album": {
         "name": "Mx. Sinister",
         "url": "https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC"
       },
@@ -791,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2023-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Ruler of Everything",
+      "url": "https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X"
+    },
+    {
+      "album": {
         "name": "Violent Things",
         "url": "https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR"
       },
@@ -856,7 +982,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 50640,
       "name": "Spider",
       "url": "https://open.spotify.com/track/0TIkZpO9NBw8WYYRTDnHv5"
@@ -1083,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Bounce Into The Music",
+        "url": "https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI"
+      },
+      "artists": [
+        {
+          "name": "SIAMES",
+          "url": "https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186945,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC"
+    },
+    {
+      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -1152,6 +1296,24 @@
       "duration_ms": 247220,
       "name": "Two Trucks",
       "url": "https://open.spotify.com/track/1s5A0u1dnAeVNur5nPkCpD"
+    },
+    {
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "Urgent",
+      "url": "https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf"
     },
     {
       "album": {

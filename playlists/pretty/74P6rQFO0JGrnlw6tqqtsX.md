@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74P6rQFO0JGrnlw6tqqtsX.md) - [plain]
 
 > 
 
-[LaDiamond Covington](https://open.spotify.com/user/walkerla2015) - 2,695 likes - 94 songs - 7 hr 31 min
+[LaDiamond Covington](https://open.spotify.com/user/walkerla2015) - 2,681 likes - 94 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/74P6rQFO0JGrnlw6tqqtsX.md) - [plain]
 | 17 | [I'm Still In Love With You](https://open.spotify.com/track/7KWNTuVSFUziohGRhS3cZL) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Home Again](https://open.spotify.com/album/55HE43AnfDru3QQkfFu29y) | 4:39 |
 | 18 | [Happily Ever After](https://open.spotify.com/track/5FSoniSw26EQqheDimw3Mw) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Best Of](https://open.spotify.com/album/2QPJkjDw4pTOgFO9K4xd4B) | 4:37 |
 | 19 | [Anniversary \- Radio Edit](https://open.spotify.com/track/34lVqpxPhe14y9yZKBHLkN) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Best Soul & Funk Collection: Extra](https://open.spotify.com/album/0Wq8UHDdJqKQHQYLxpv7wJ) | 4:31 |
-| 20 | [Fortunate](https://open.spotify.com/track/0atAqF01mqwYOOfXVHu51F) | [Maxwell](https://open.spotify.com/artist/63GBEeDds0fCsl764Kyb7w) | [Life](https://open.spotify.com/album/5h8mQU9rnmFA5S8PO7gCWT) | 4:59 |
+| 20 | [Fortunate](https://open.spotify.com/track/0atAqF01mqwYOOfXVHu51F) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Life](https://open.spotify.com/album/5h8mQU9rnmFA5S8PO7gCWT) | 4:59 |
 | 21 | [Close the Door](https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:25 |
 | 22 | [Sweet Love](https://open.spotify.com/track/79OBBymbNYRof6aNHRCV6F) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Women of Soul](https://open.spotify.com/album/7yefJns55BlGXxxOMiLTeZ) | 4:26 |
 | 23 | [Groove with You, Pts\. 1 & 2](https://open.spotify.com/track/5TywrBF82AUQ83pXuMXjXg) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Showdown](https://open.spotify.com/album/0OjhMNDKYZMioHpVYRWLNz) | 4:51 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/74P6rQFO0JGrnlw6tqqtsX.md) - [plain]
 | 43 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
 | 44 | [\(Pop, Pop, Pop\) Goes My Mind](https://open.spotify.com/track/0pZHJqjF6fFvNxoi3UmNE4) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Bloodlline](https://open.spotify.com/album/30LvVTbayIswawaChk8dr9) | 5:55 |
 | 45 | [Chante's Got A Man](https://open.spotify.com/track/2siv7IrEa2khUf70k7vp49) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [The Best Of Chanté Moore 20th Century Masters The Millennium Collection](https://open.spotify.com/album/5WFeAq9MOKyPvOB9NpUtQw) | 4:24 |
-| 46 | [Spend My Life With You](https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:36 |
+| 46 | [Spend My Life With You](https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:36 |
 | 47 | [Can't Tell U Enough](https://open.spotify.com/track/01H7JAKKrhoNOd6FEwrH6B) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [Eric Benét](https://open.spotify.com/album/4ziMFhSbfBPTevXmPKCzMj) | 4:37 |
 | 48 | [Sunshine](https://open.spotify.com/track/42fmP3T4C1LV815RMb8zdC) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [Eric Benét](https://open.spotify.com/album/4ziMFhSbfBPTevXmPKCzMj) | 4:34 |
 | 49 | [Insane](https://open.spotify.com/track/32SufCHagHUiJflNlW0FdC) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [Eric Benét](https://open.spotify.com/album/4ziMFhSbfBPTevXmPKCzMj) | 4:49 |
