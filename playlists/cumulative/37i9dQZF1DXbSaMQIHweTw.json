@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Emiway Bantai & Yo Yo Honey Singh",
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Loka",
   "name": "Bambai Bantai",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/07qSl2sNpFNILaYyZ6yIS9"
+    },
+    {
+      "album": {
+        "name": "4Three4Life",
+        "url": "https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y"
+      },
+      "artists": [
+        {
+          "name": "Vijay Dk",
+          "url": "https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "#NoBakshis",
+      "url": "https://open.spotify.com/track/0nFIjLWAyKA6D7T4Ju15hO"
     },
     {
       "album": {
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 192692,
       "name": "Aafat - Bombay 70",
       "url": "https://open.spotify.com/track/6nLXztjml4pmkSm8K2NBwJ"
@@ -114,6 +132,24 @@
       "duration_ms": 196000,
       "name": "Aaina",
       "url": "https://open.spotify.com/track/7rMJ1krFie8nKq5cWUAQsx"
+    },
+    {
+      "album": {
+        "name": "Loka Kaha Hai (Side A)",
+        "url": "https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe"
+      },
+      "artists": [
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194409,
+      "name": "Aaropi",
+      "url": "https://open.spotify.com/track/3dJWfCq3I3i2NQJkpQLYNS"
     },
     {
       "album": {
@@ -378,7 +414,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 186157,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1vl7lZC2uYzBitMWappXFR"
@@ -628,6 +664,24 @@
       "duration_ms": 143900,
       "name": "Chalte Firte",
       "url": "https://open.spotify.com/track/6fUUC9seEl1Q6dA2RrqVPD"
+    },
+    {
+      "album": {
+        "name": "Loka Kaha Hai (Side A)",
+        "url": "https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe"
+      },
+      "artists": [
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224781,
+      "name": "Chamdi Chaaley",
+      "url": "https://open.spotify.com/track/1CsyTxRwc2rxkpKb40pX36"
     },
     {
       "album": {
@@ -1034,7 +1088,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 188702,
       "name": "Industry Galat",
       "url": "https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq"
@@ -1078,7 +1132,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 183428,
       "name": "Jawab De",
       "url": "https://open.spotify.com/track/4wnwcrCyOODzxlMJ0nHKjw"
@@ -1318,7 +1372,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 228845,
       "name": "Kya Bolte Bro",
       "url": "https://open.spotify.com/track/2i5IXraFHeZE3ObclMKRPI"
@@ -1508,7 +1562,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 181399,
       "name": "Mera",
       "url": "https://open.spotify.com/track/0hTqg0XBQqzVyyXKJzKAdF"
@@ -1825,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Rehem",
+        "url": "https://open.spotify.com/album/0xsZ9ulRB98Df9mTZqPWQn"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "Rehem",
+      "url": "https://open.spotify.com/track/0kxygsw2zngxvhsmNMbpwj"
+    },
+    {
+      "album": {
         "name": "Ride Slow",
         "url": "https://open.spotify.com/album/7DJNO9v8VnJPem8sNn2ruO"
       },
@@ -1954,7 +2026,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 255248,
       "name": "Ruthless",
       "url": "https://open.spotify.com/track/0ttWU4iS0Axuie887ueZvW"
@@ -1994,6 +2066,24 @@
       "duration_ms": 273230,
       "name": "Samajh mein aaya kya?",
       "url": "https://open.spotify.com/track/2FcVvA6ltdOyvP4jUgOqfa"
+    },
+    {
+      "album": {
+        "name": "4Three4Life",
+        "url": "https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y"
+      },
+      "artists": [
+        {
+          "name": "Vijay Dk",
+          "url": "https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "Sarvasva",
+      "url": "https://open.spotify.com/track/5QIJhGo2jifLwIqrnkOYuz"
     },
     {
       "album": {
@@ -2056,6 +2146,24 @@
       "duration_ms": 210507,
       "name": "Scene Change",
       "url": "https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE"
+    },
+    {
+      "album": {
+        "name": "Shaane Bolte",
+        "url": "https://open.spotify.com/album/4GHznD1XMQgEyACxdB71JZ"
+      },
+      "artists": [
+        {
+          "name": "Hitzone",
+          "url": "https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174757,
+      "name": "Shaane Bolte",
+      "url": "https://open.spotify.com/track/5EEJMqZOCDPWKE0bAyFgPW"
     },
     {
       "album": {

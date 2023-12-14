@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,322 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 12 | [FAUST](https://open.spotify.com/track/1aUPCCVLOhZ7eOTnqW0XQb) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 6:21 |
 | 13 | [Red](https://open.spotify.com/track/2GFiPfOXaj9ZS827spSKBJ) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [TIME AFTER TIME SELECTION](https://open.spotify.com/album/2TW8qvxl1EnJ2xpD2ZnMB1) | 4:04 |
 | 14 | [YOUR NAME](https://open.spotify.com/track/1uFbXCrtZebDkYO0bKlG9q) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [YOUR NAME](https://open.spotify.com/album/35tvaeZG95AJ7xeEVfUXIX) | 3:51 |
-| 15 | [FRAME](https://open.spotify.com/track/6XI48NOQC0Q2TNL5ZAOY72) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/2R7autQAAltvOsyFuTYLUy) | 3:23 |
+| 15 | [FRAME](https://open.spotify.com/track/2Bb0uRQ9vNAvxy7UcTNGbJ) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/4g5IaIy258fL8jCAt6WM1K) | 3:23 |
 | 16 | [Stranger](https://open.spotify.com/track/23XEH2j03M6L0eoxY29gfC) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [STRANGER](https://open.spotify.com/album/7E6NadtjLvbsR8d46EV2q1) | 3:52 |
 | 17 | [Mirror](https://open.spotify.com/track/5DypcKUjc5MGsrVPCUpsVX) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 4:40 |
 | 18 | [SINK HOLE](https://open.spotify.com/track/1dhRhB9ZBVLN9JqLC5UtjC) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 4:14 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 119 | [나 좋자고 그러는겨 Did It For Me](https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [하지 말래 Don't Do It](https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS) | 2:57 |
 | 120 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 |
 
-Snapshot ID: `MCw0Nzc3NjE1MTdiMDRhYzJjOTgwMWRjNzNkMzE1ODZkMDgyNzQ2M2Vk`
+Snapshot ID: `MCxlNzNiMWVjMTk5ZmU0MDJkYzg2ZGNmZWZmM2Q3MjNkMjk4NzJjYmRm`

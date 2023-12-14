@@ -4,7 +4,7 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-108 songs - 6 hr 39 min
+109 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [High Above The Sun](https://open.spotify.com/track/2XK6b75sWnHyv32YKyQgQt) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Water Your Garden](https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a) | 4:44 | 2023-03-02 |  |
 | [High Beams](https://open.spotify.com/track/28r57p0khZL2C2tpeKENXi) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [Water Your Garden](https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a) | 3:30 | 2023-03-02 |  |
 | [Hold Me](https://open.spotify.com/track/4kFHcu4nHxsgUUOK5Eeygm) | [Onelight](https://open.spotify.com/artist/0DYKOID9CBlDE9Fsm4YVum), [June Fermie](https://open.spotify.com/artist/7HfKZXAezbbVcEB9qNrBmN) | [EMPORIUM](https://open.spotify.com/album/0AkeGzzUn1PhVdbeApKQU5) | 3:10 | 2023-03-07 |  |
-| [I Am Not Afraid](https://open.spotify.com/track/1RrZxbyFYrB9vZMDyeRQWX) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 3:46 | 2023-03-02 |  |
+| [I Am Not Afraid](https://open.spotify.com/track/1RrZxbyFYrB9vZMDyeRQWX) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 3:46 | 2023-03-02 | 2023-12-14 |
+| [I Am Not Afraid](https://open.spotify.com/track/4tsAqiZ7Biwphvri9zpSTQ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/7qGnsVywMDpieieyFKBrdu) | 3:46 | 2023-03-10 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2023-03-02 |  |
 | [I Feel Like I'm Drowning](https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [A 20 Something Fuck](https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1) | 3:05 | 2023-03-02 |  |
 | [i like the devil](https://open.spotify.com/track/5Q42MkhwFsuM8uk8wkHTR7) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [WOMB](https://open.spotify.com/album/7mm8NRdr4E5gNGYAL0RoaZ) | 2:55 | 2023-03-02 |  |

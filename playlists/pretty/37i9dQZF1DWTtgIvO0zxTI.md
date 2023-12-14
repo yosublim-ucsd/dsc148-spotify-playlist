@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Irepelusa
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,141 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,150 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 8 | [Te Encontré \- En Vivo](https://open.spotify.com/track/1uuu2CW3jzAvTUPoLUcGxE) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [En Tu Cuarto](https://open.spotify.com/album/4t2DePJM6GQnvPBx3VDZZB) | 3:03 |
 | 9 | [No Creo En Mujeres](https://open.spotify.com/track/1khZCgEjEDU5O3SvFXhvAw) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [The Classics, Vol\. 1](https://open.spotify.com/album/7Fk8BYKoCrlqVHAyYY7yfP) | 3:33 |
 | 10 | [Culpable](https://open.spotify.com/track/0iH52C7k07HUibOHBsxRta) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu), [Young Tiller](https://open.spotify.com/artist/6LELaB0TSkf5DuYbhHYYiQ) | [Honesto](https://open.spotify.com/album/3Ou22NCBta6IMiRhr0YuSK) | 3:10 |
-| 11 | [Awakate](https://open.spotify.com/track/6oN4KnpdniSxi3i4webjGs) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [Retrofuturismopsicotropical](https://open.spotify.com/album/40lrVieyV0nLORPYMtIc1U) | 3:21 |
+| 11 | [Awakate](https://open.spotify.com/track/1UHRSABh5ROEVZscnAZo12) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [Retrofuturismopsicotropical](https://open.spotify.com/album/29NRE9sygDra2dY4hZc3eC) | 3:21 |
 | 12 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 |
 | 13 | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/track/11jJjmMgj3vNPwuhzEQSC7) | [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/album/2bzpJ4PL5yf9kExI3Wdk8A) | 3:10 |
 | 14 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,439 likes - 227 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,443 likes - 227 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

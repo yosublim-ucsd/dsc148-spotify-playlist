@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,296 likes - 140 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,294 likes - 140 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

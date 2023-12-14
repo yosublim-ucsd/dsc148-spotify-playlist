@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1102739,
+  "num_followers": 1103014,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDYwNTFmYzY1ZDg4MzM0NTkzNzI2NjFhNThiMDc1ODU2NDc1OWJh",
+  "snapshot_id": "MCwzMDI2ZTZkYjRkZmFiNjk0NWM2NTE0NjVhMjA5NjVkOTJjOGViNDFk",
   "tracks": [
     {
       "added_at": "2023-09-29 19:35:30",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Was It Something I Said",
-        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
-      },
-      "artists": [
-        {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Was It Something I Said",
-      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Prune, You Talk Funny",
         "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 212701,
       "name": "Prune, You Talk Funny",
       "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Was It Something I Said",
+        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Was It Something I Said",
+      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Taking Over The Sun",
-        "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 229113,
-      "name": "Taking Over The Sun",
-      "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Picture",
         "url": "https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 156279,
       "name": "Picture",
       "url": "https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Taking Over The Sun",
+        "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 229113,
+      "name": "Taking Over The Sun",
+      "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Car Crash in G Major",
         "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 132000,
       "name": "Car Crash in G Major",
       "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
       "artists": [
         {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 156381,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 156381,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "Cool To You",
         "url": "https://open.spotify.com/album/33QEbobiBLeUmtw2nsXmE2"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 197888,
       "name": "Cool To You",
       "url": "https://open.spotify.com/track/09rD9G2Dsbn7NjH6H6LTmL"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Chaos Calls",
-        "url": "https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 236965,
-      "name": "Chaos Calls",
-      "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 193478,
       "name": "July",
       "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Chaos Calls",
+        "url": "https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 236965,
+      "name": "Chaos Calls",
+      "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Baby Baby",
-        "url": "https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Baby Baby",
-      "url": "https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "book of spells",
         "url": "https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 108571,
       "name": "book of spells",
       "url": "https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Baby Baby",
+        "url": "https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "Robes",
         "url": "https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 180181,
       "name": "honey",
       "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "1000 Summers",
-        "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "25MPH",
-      "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "love & doubt",
         "url": "https://open.spotify.com/album/1EaMmtRSymGiffaNBKxIYb"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "1000 Summers",
+        "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "25MPH",
+      "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "Eternal Slowdown",
         "url": "https://open.spotify.com/album/0ZHd1Jd0l3pc7t6DfVlDbd"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 260480,
       "name": "Pond Weed",
       "url": "https://open.spotify.com/track/2Tq8kdQuyuQNudS7PO3fSw"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Goodbye Texas",
+        "url": "https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 214424,
+      "name": "Goodbye Texas",
+      "url": "https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Goodbye Texas",
-        "url": "https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3"
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/42XuqxZBSzbHBw8swRqMsZ"
       },
       "artists": [
         {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+          "name": "Alex Kehm",
+          "url": "https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU"
         }
       ],
-      "duration_ms": 214424,
-      "name": "Goodbye Texas",
-      "url": "https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A"
+      "duration_ms": 225123,
+      "name": "i'm yours",
+      "url": "https://open.spotify.com/track/2OXpbQZOHOFS9GWEuBmxEY"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1583,22 +1599,6 @@
       "duration_ms": 287274,
       "name": "the way you looked",
       "url": "https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/42XuqxZBSzbHBw8swRqMsZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Kehm",
-          "url": "https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU"
-        }
-      ],
-      "duration_ms": 225123,
-      "name": "i'm yours",
-      "url": "https://open.spotify.com/track/2OXpbQZOHOFS9GWEuBmxEY"
     },
     {
       "added_at": "2023-09-29 19:35:30",

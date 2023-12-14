@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqdO1OJqyDY.md) - [plain]
 
 > ...habrá señales\. Éxitos latinos globales de 2023\. Foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,541 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,561 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

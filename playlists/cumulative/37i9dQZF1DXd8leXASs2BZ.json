@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: JUMADIBA",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Ryuk",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 180000,
       "name": "BADASSKIDS",
       "url": "https://open.spotify.com/track/6btgqiEIGOtp4FqLiewBLs"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 174147,
       "name": "Demon",
       "url": "https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 135000,
       "name": "Don't Pray",
       "url": "https://open.spotify.com/track/6VhuRPA0B48lNeFfxG4qKQ"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 155304,
       "name": "Driving",
       "url": "https://open.spotify.com/track/3BrKyJ7euXLz4vYHTBM4bM"
@@ -682,6 +682,24 @@
       "duration_ms": 166101,
       "name": "fake friend",
       "url": "https://open.spotify.com/track/5WlGyNlZpKGCBwsGB4fR3w"
+    },
+    {
+      "album": {
+        "name": "FLASH",
+        "url": "https://open.spotify.com/album/5T8F62YDxArVIPzttBa2yH"
+      },
+      "artists": [
+        {
+          "name": "Neibiss",
+          "url": "https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216067,
+      "name": "FLASH",
+      "url": "https://open.spotify.com/track/3vs2T06rOSjiieKHkgrRkb"
     },
     {
       "album": {
@@ -870,7 +888,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 147690,
       "name": "GAS2",
       "url": "https://open.spotify.com/track/1qARzoh74ezKZWsqGymv9Y"
@@ -921,6 +939,28 @@
     },
     {
       "album": {
+        "name": "GINGINDEGO",
+        "url": "https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2"
+      },
+      "artists": [
+        {
+          "name": "Ryuk",
+          "url": "https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX"
+        },
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111209,
+      "name": "GINGINDEGO",
+      "url": "https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR"
+    },
+    {
+      "album": {
         "name": "Gose On",
         "url": "https://open.spotify.com/album/53j3T5h773pu5kckpR5PkQ"
       },
@@ -954,7 +994,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 163764,
       "name": "ha?",
       "url": "https://open.spotify.com/track/1AHAFgBaotPhp2PLonXRPW"
@@ -1202,7 +1242,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 196337,
       "name": "Imperfection",
       "url": "https://open.spotify.com/track/0yhd8yWyOhAc1beip5G0sm"
@@ -1350,7 +1390,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 111000,
       "name": "Looks like mother",
       "url": "https://open.spotify.com/track/7iue5DzuHVSqlJggl99TYz"
@@ -1420,6 +1460,24 @@
       "duration_ms": 142200,
       "name": "Map",
       "url": "https://open.spotify.com/track/0fp0f5ZA3gUdzwB5Vlm6Wg"
+    },
+    {
+      "album": {
+        "name": "Marmot",
+        "url": "https://open.spotify.com/album/4nFJGNzMaehMhLng7f1P4F"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Marmot",
+      "url": "https://open.spotify.com/track/5BE8nmeeVfLv3TmRMTilIl"
     },
     {
       "album": {
@@ -1566,7 +1624,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 143448,
       "name": "NEW VINTAGE",
       "url": "https://open.spotify.com/track/218R54zys4Z5NgkrHWaGOA"
@@ -1708,7 +1766,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 174611,
       "name": "Plug",
       "url": "https://open.spotify.com/track/3r8hMArXgsepqUOWXFgfmX"
@@ -1744,7 +1802,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 146813,
       "name": "RANDO",
       "url": "https://open.spotify.com/track/7zzkmw6rUNfccb8GypmTzY"
@@ -1784,7 +1842,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 205500,
       "name": "REVENGE",
       "url": "https://open.spotify.com/track/0R4r4I1toXjohYKZLcIQEL"
@@ -1982,7 +2040,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 158644,
       "name": "STREET PAIN",
       "url": "https://open.spotify.com/track/1wUiccguJBdBWQOsf98ZK1"

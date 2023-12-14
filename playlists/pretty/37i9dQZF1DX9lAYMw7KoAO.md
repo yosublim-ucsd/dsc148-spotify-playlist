@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=SahhJQX3R3mZtwq\-FpSKSA">Victor Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,262 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,563 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [I No Send](https://open.spotify.com/track/7DObo84GS9cTcf25Z5XMd0) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/2u4uQpsUizbdl7KQTmnjGS) | 3:53 |
 | 50 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 |
 
-Snapshot ID: `MCxiZWRhMDA0OWY4YTk4ZTZlODQxMWJlNGI1NTRiZTYxN2VlOGJlODE4`
+Snapshot ID: `MCwyNGY2ZDBmZTlkNTBmOTViODFhNzQxMWVhZjI4MDFmZWFjZjI3NzBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,967 likes - 95 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,179 likes - 95 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 16 | [Psycho \- RAC Mix](https://open.spotify.com/track/2WyZycWzHXADJBDKOFc5s2) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/3oSmMnaNq31Ys9v8If6Y8Y) | 3:11 |
 | 17 | [inhuman](https://open.spotify.com/track/72sLsJ5XELHGuV1J6ntJoZ) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [inhuman](https://open.spotify.com/album/565EAf3SEil3VUEvBeqdvz) | 3:18 |
 | 18 | [Ghost Voices](https://open.spotify.com/track/3A02f2nXSbpeY9uXHi7oMi) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/5xNtL2BsCZI9cSx0Zzd3J0) | 4:26 |
-| 19 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ) | 3:23 |
+| 19 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/0HIruANJzlQkYwlpvh8cn6) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe) | 3:23 |
 | 20 | [Squid Play](https://open.spotify.com/track/5zPFhnPNbdhhOLMTeqZT5C) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [Squid Play](https://open.spotify.com/album/062CSYkbPxbFT6apgGEdxH) | 2:45 |
 | 21 | [Sin](https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Sin](https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1) | 2:11 |
 | 22 | [Purgatory](https://open.spotify.com/track/0yD4eilzKMHCe5Fhh7qeeC) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Purgatory](https://open.spotify.com/album/6Ssl05NNAsWoPMJmdRd91j) | 2:49 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 46 | [Haunted House](https://open.spotify.com/track/7dWsi5QLeEljCa5nj6HL72) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3) | [Haunted House](https://open.spotify.com/album/1sAspwvOwtkoFs3t9b10LM) | 2:48 |
 | 47 | [Ghosts](https://open.spotify.com/track/5UALpuD8gWsDQwEnVXyuug) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Ghosts](https://open.spotify.com/album/7AVSiVc6v0OR4aulmhxGro) | 2:40 |
 | 48 | [Sell Out](https://open.spotify.com/track/0e9yz3Fz7Nn6I5E4XBP8no) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Sell Out](https://open.spotify.com/album/1n7yjwouZiDCmvMeAQFQxi) | 3:12 |
-| 49 | [All The Smoke \(feat\. Bok Nero\)](https://open.spotify.com/track/4gpKdwSyeN8MSsKa6FY4Qf) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Stoutty](https://open.spotify.com/artist/62XF3D4OkSQKRK8j0aokow), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [All The Smoke \(feat\. Bok Nero\)](https://open.spotify.com/album/2Dj2xjPzJXyT0EfVJzGZNa) | 2:20 |
+| 49 | [All The Smoke \(feat\. Bok Nero\)](https://open.spotify.com/track/6XI9lJE1gvuLUNJtFMVO7G) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Stoutty](https://open.spotify.com/artist/62XF3D4OkSQKRK8j0aokow), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [All The Smoke \(feat\. Bok Nero\)](https://open.spotify.com/album/0aRpn9usfr7qGmR2oVZM6Q) | 2:20 |
 | 50 | [Bloody Mary \(Harris & Ford Remix\)](https://open.spotify.com/track/62At4l9VMYuB8nJQPEQ1pd) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Bloody Mary \(Harris & Ford Remix\)](https://open.spotify.com/album/60wmmReuAG6SHfGkKNkY9V) | 3:08 |
 | 51 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
 | 52 | [This Song Scares People](https://open.spotify.com/track/2xUvfzTPwPPMz6oifXCtUg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [This Song Scares People](https://open.spotify.com/album/6PlpFIqZENnbLoDD8JaCV3) | 2:03 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 65 | [Body Count](https://open.spotify.com/track/4L302vPKtjDaRyiXumrCxn) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Body Count](https://open.spotify.com/album/0TjVLFf4qJn584UIZKehXu) | 3:20 |
 | 66 | [Hell](https://open.spotify.com/track/5J11PTk7fy9TR0TKXpVvCt) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB) | [Hell](https://open.spotify.com/album/4KTwNYQY0kTnrgtjaCoMw1) | 3:52 |
 | 67 | [Never Have I Felt This](https://open.spotify.com/track/0H7JHndcZJ2SFGx03pUnwp) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This](https://open.spotify.com/album/2SBwAsggOvWwOz8afrpUpx) | 4:06 |
-| 68 | [The Execution](https://open.spotify.com/track/7134C3yE9PU0nRVRcNKFqu) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Execution](https://open.spotify.com/album/1buTozFUMjEVgmV9SjwRBt) | 3:55 |
+| 68 | [The Execution](https://open.spotify.com/track/6U10qxNfsXNe4vt4gBB9o0) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Execution](https://open.spotify.com/album/0JWiPucl0tY0ahrGNcaKsB) | 3:55 |
 | 69 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 |
 | 70 | [Bite \- MNDR Remix](https://open.spotify.com/track/2RQp3xtZ2EHPF09vfW3Ace) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/3oSmMnaNq31Ys9v8If6Y8Y) | 3:37 |
 | 71 | [Hitman](https://open.spotify.com/track/161hrORIVwOXGesPsY607T) | [BLVD.](https://open.spotify.com/artist/05BMTFbYu3UZ61SYiu7mTg) | [Hitman](https://open.spotify.com/album/4yO3DPZ4D7PKsXtT4bC6Xx) | 2:44 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 94 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 95 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MCw2N2Y1ZmQyMTNiZTg3MjBkNGMwNTQxYjc2ZjUyZTJmMGNlYzIxYTMz`
+Snapshot ID: `MCxmNzRmOWRlZTFlN2Y1NjNmNmU2MmIzMmY0NDYzOTJiYzYzZjEzZDhl`

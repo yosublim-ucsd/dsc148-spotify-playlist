@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem tacacá cuscuz pizza com ketchup hot dog com purê baião d dois e feijoada espero q gostem / Foto: Joelma
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,692 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,714 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

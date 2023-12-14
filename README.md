@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7134\)
+## Playlists <a name="playlists"></a> \(7138\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -6641,6 +6641,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [XO, Kitty Official Playlist](/playlists/pretty/37i9dQZF1DWVdxPuMYBuAk.md)
 - [Xport](/playlists/pretty/37i9dQZF1DX9MrAJRR2Zxk.md)
 - [YUMI's Cells \(유미의 세포들\)](/playlists/pretty/37i9dQZF1DX3fIjdSCaFr8.md)
+- [YU☆YU☆HAKUSHO 幽☆遊☆白書](/playlists/pretty/37i9dQZF1DX2Wf3aoR8txl.md)
 - [Yacht Rock](/playlists/pretty/37i9dQZF1DXb3m918yXHxA.md)
 - [Yacht Rock Revival](/playlists/pretty/37i9dQZF1DX4TJ9HJlcZl3.md)
 - [Yalla](/playlists/pretty/37i9dQZF1DX5cO1uP1XC1g.md)
@@ -6736,6 +6737,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [coconut girl vibes](/playlists/pretty/37i9dQZF1DWWS2jhzRuNba.md)
 - [cold, cold man](/playlists/pretty/3d96KHS7nYrlbpK9Er7VCk.md)
 - [comer, dormir, perrear, repetir](/playlists/pretty/37i9dQZF1DWWtigbJs8KAv.md)
+- [coooompa!](/playlists/pretty/37i9dQZF1DXcBBHjTe4oAd.md)
 - [cosmic phonk](/playlists/pretty/37i9dQZF1DX1qNZsqIInBz.md)
 - [cottagecore](/playlists/pretty/37i9dQZF1DXcJC2hrJxL4F.md)
 - [cozied up](/playlists/pretty/37i9dQZF1DX2ePRxHPWPfx.md)
@@ -6774,6 +6776,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [enemies to lovers](/playlists/pretty/37i9dQZF1DX0RmYiHQWCdR.md)
 - [enqla2](/playlists/pretty/37i9dQZF1DXbTQNLzhgvdh.md)
 - [epicPRAISE](/playlists/pretty/37i9dQZF1DWZoR0U5SzE1r.md)
+- [es funk y el cuerpo lo sabe 🇧🇷](/playlists/pretty/37i9dQZF1DXd96wQHeeDYo.md)
 - [ethereal voices](/playlists/pretty/37i9dQZF1DWSnDyPAn5upE.md)
 - [fall feels](/playlists/pretty/37i9dQZF1DXahsxs9xh0fn.md)
 - [faz a trend](/playlists/pretty/37i9dQZF1DXdNL0ldoQCGi.md)
@@ -6999,7 +7002,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [undercurrents](/playlists/pretty/37i9dQZF1DX9myttyycIxA.md)
 - [undertones](/playlists/pretty/37i9dQZF1DXe1cC3XInKct.md)
 - [unleashed](/playlists/pretty/37i9dQZF1DXdJa941ExayM.md)
-- [v o K a l : BMK Takeover](/playlists/pretty/37i9dQZF1DX8eqay1FtdMm.md)
+- [v o K a l](/playlists/pretty/37i9dQZF1DX8eqay1FtdMm.md)
 - [vamos pal prom](/playlists/pretty/37i9dQZF1DXd659n2DsKUL.md)
 - [vaporwave](/playlists/pretty/37i9dQZF1DWU4EQPjP9ZpS.md)
 - [viendo llover desde la ventana](/playlists/pretty/37i9dQZF1DXbzlMz4hwU9T.md)
@@ -7100,6 +7103,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [刀剣乱舞\-ONLINE\- TOUKEN RANBU](/playlists/pretty/37i9dQZF1DX3FlJOXGyE6c.md)
 - [十年全精選：華語流行](/playlists/pretty/37i9dQZF1DWVNQeZtY2TDM.md)
 - [半身浴ノススメ](/playlists/pretty/37i9dQZF1DX0gw71wbsSV6.md)
+- [受験プレイリスト \#合格へのサントラ](/playlists/pretty/37i9dQZF1DX9kXketJU8JV.md)
 - [君が生きてなくてよかった](/playlists/pretty/37i9dQZF1DX4OQqDGyEiDU.md)
 - [告別前](/playlists/pretty/37i9dQZF1DWYCBGFNlTmIS.md)
 - [呪術廻戦 \- Jujutsu Kaisen \-](/playlists/pretty/37i9dQZF1DWYFFegQlq0Hb.md)

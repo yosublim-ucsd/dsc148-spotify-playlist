@@ -474,6 +474,24 @@
     {
       "album": {
         "name": "Steady Damage",
+        "url": "https://open.spotify.com/album/7iVKnT2a9xXwKXAiXfmjL6"
+      },
+      "artists": [
+        {
+          "name": "Fit For Rivals",
+          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187933,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/5AuzysaHMCMHvv6Ppyx9lI"
+    },
+    {
+      "album": {
+        "name": "Steady Damage",
         "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
       },
       "artists": [
@@ -934,7 +952,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 129706,
       "name": "Girls With Glasses",
       "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"

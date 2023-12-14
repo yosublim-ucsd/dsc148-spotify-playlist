@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,911 likes - 214 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,972 likes - 214 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 69 | [Violeiro](https://open.spotify.com/track/3Q1Nfez3ZnReiJhexjocW9) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys) | [Love Or \(I Heard You Like Heartbreak\)](https://open.spotify.com/album/27jNgBWNJvSDtbqqvbHf6g) | 5:11 |
 | 70 | [I Don't Wanna Lose You \- Edit](https://open.spotify.com/track/182XaJsxNfIeVXPAvBxHPp) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Olivia Louise](https://open.spotify.com/artist/6E1v7RmEYvZIvhauy9v0sd) | [Girls FM](https://open.spotify.com/album/7clnPpJ3KkLh5GWwzNNWF8) | 3:14 |
 | 71 | [Lemonlime](https://open.spotify.com/track/3ruglnbczdPfx1eIyviLv8) | [Leron Carson](https://open.spotify.com/artist/7ahv0UGiFv0m0lHqlXKlH5) | [Lemonlime](https://open.spotify.com/album/1HdXwyy3YtAim9QDjagN7y) | 10:26 |
-| 72 | [Ocean \(feat\. Jamie Foxx\) \(Moodymann, Amp Fiddler Extended Remix\)](https://open.spotify.com/track/5wj7XJCWxsbJ1GITMB1V9H) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [Ocean \(feat\. Jamie Foxx\)](https://open.spotify.com/album/6QyLoBl287Eh6NTwFlOGwo) | 7:44 |
+| 72 | [Ocean \(feat\. Jamie Foxx\) \(Moodymann, Amp Fiddler Extended Remix\)](https://open.spotify.com/track/5wj7XJCWxsbJ1GITMB1V9H) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Ocean \(feat\. Jamie Foxx\)](https://open.spotify.com/album/6QyLoBl287Eh6NTwFlOGwo) | 7:44 |
 | 73 | [Bennington \(2007\)](https://open.spotify.com/track/2PG26cmJdlT9xNAhdiHaaJ) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [A Collection of Rarities and Previously Unreleased Material](https://open.spotify.com/album/3f7Aco3znOBzGY9DfEk9wi) | 3:13 |
 | 74 | [In Europe, Kinda Sad](https://open.spotify.com/track/7AS495TUkmqZtlEiL8Pcp0) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [In Europe, Kinda Sad](https://open.spotify.com/album/0eG7JPvydVsEuMQKmi7w0J) | 5:40 |
 | 75 | [Detectors](https://open.spotify.com/track/6yuLxLwk8NkxlgXgOLo7Rh) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Detectors](https://open.spotify.com/album/2JzzGGGr1EpIKjNTugSZtL) | 5:23 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 213 | [Mackin'](https://open.spotify.com/track/7LWz1ZzKJSo6mgFxBLljb9) | [Futers](https://open.spotify.com/artist/4JU7JW69o7YSHnurml4XGF) | [U Get Me](https://open.spotify.com/album/5oHZ519kQ1YHqBTaExjgEa) | 6:47 |
 | 214 | [Attempt \(Lonely Heart Dub\)](https://open.spotify.com/track/4xJqdf9Rw8qY1arT8TgRSH) | [DJ Sprinkles](https://open.spotify.com/artist/6gIziDS7BnUum54F30BcHN), [Hardrock Striker](https://open.spotify.com/artist/078bFs8No6twUaZs5a3aiv), [Signal St](https://open.spotify.com/artist/7taRwtyxVeU61CRvEuMrNZ) | [Skylax House Explosion](https://open.spotify.com/album/1Xquo86HvysJ2DdIxQnRUB) | 6:54 |
 
-Snapshot ID: `MCxjZTk4Nzc3MTc5NTFkMmMxYjY2NTdhZjE2ZGFmZTkwZmU2ZjQxMTg3`
+Snapshot ID: `MCxjY2M4MGQyYmM3YjdlNWRmNTkyYzIyMmNjZDg5OWUzNDUyNTAyZTVi`

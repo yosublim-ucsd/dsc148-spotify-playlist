@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-188 songs - 9 hr 15 min
+189 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,9 +154,10 @@
 | [Santa Shimmy](https://open.spotify.com/track/1TStrtvufeRfHOG7ItASvW) | [Rooftop Reindeer](https://open.spotify.com/artist/3zZiipVoKHLO5ug5orFutn) | [Santa Shimmy](https://open.spotify.com/album/1rstp3wPLzKWvJpu69Oy5K) | 2:23 | 2022-12-02 | 2023-04-13 |
 | [Santa Shimmy](https://open.spotify.com/track/2weFohLuMJjpnFGGFEBsYm) | [Rooftop Reindeer](https://open.spotify.com/artist/3zZiipVoKHLO5ug5orFutn) | [Santa Shimmy](https://open.spotify.com/album/7gnhshacak6BO7hSdGe77B) | 2:23 | 2022-12-19 | 2023-11-07 |
 | [Santa Tell Me](https://open.spotify.com/track/0un8vLp0hSudAJNLjImTEE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [ŚWIĘTA, ŚWIĘTA](https://open.spotify.com/album/2Z0Yk8D7w4nj9thNNZSwub) | 3:23 | 2021-12-07 | 2022-11-13 |
-| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-07 |  |
+| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-07 | 2023-12-14 |
 | [Santa Tell Me](https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau) | 3:24 | 2021-12-07 | 2022-07-29 |
 | [Santa Tell Me](https://open.spotify.com/track/5kQ6UcHEUizCPFQM3E3dZ0) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:04 | 2021-12-07 |  |
+| [Santa Tell Me \- Naughty Version](https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt) | 3:23 | 2023-11-06 |  |
 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 | 2021-12-07 |  |
 | [Seasons Of Love](https://open.spotify.com/track/7E9Z2RvE21eMCPh76ihLZ1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 2:51 | 2021-12-07 | 2023-11-07 |
 | [Silent Night](https://open.spotify.com/track/68O6sUs4JEYVR9BsuhTICT) | [Good NEWZ Girls](https://open.spotify.com/artist/72RsQdxG1n4NDTHnP9e4zs) | [Winter Getaway](https://open.spotify.com/album/43ODupJCQcldhBfnDakQ29) | 1:49 | 2021-12-07 | 2022-11-11 |

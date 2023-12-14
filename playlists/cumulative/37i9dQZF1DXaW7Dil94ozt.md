@@ -4,7 +4,7 @@
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-130 songs - 8 hr 52 min
+131 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [FAUST](https://open.spotify.com/track/1aUPCCVLOhZ7eOTnqW0XQb) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 6:21 | 2023-09-04 |  |
 | [February](https://open.spotify.com/track/5jjhXS0mIHHxyclG71WN8y) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Enlightenment](https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D) | 6:06 | 2023-09-04 |  |
 | [Follow Me](https://open.spotify.com/track/4X0DBWiYrnxoWfmxMy5e9q) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [New Wave](https://open.spotify.com/album/6QvyLidCTv7IMUN3McGQ4r) | 3:20 | 2023-09-04 |  |
-| [FRAME](https://open.spotify.com/track/6XI48NOQC0Q2TNL5ZAOY72) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/2R7autQAAltvOsyFuTYLUy) | 3:23 | 2023-09-04 |  |
+| [FRAME](https://open.spotify.com/track/6XI48NOQC0Q2TNL5ZAOY72) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/2R7autQAAltvOsyFuTYLUy) | 3:23 | 2023-09-04 | 2023-12-14 |
+| [FRAME](https://open.spotify.com/track/2Bb0uRQ9vNAvxy7UcTNGbJ) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/4g5IaIy258fL8jCAt6WM1K) | 3:23 | 2023-09-04 |  |
 | [Good Luck to You](https://open.spotify.com/track/03JARaiVyO6xN2UNDi7NYZ) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Beginner's Luck](https://open.spotify.com/album/0rwMYpbxg4Iaw2RbCG07xv) | 4:20 | 2023-09-04 |  |
 | [Hero Collector](https://open.spotify.com/track/2R1ZUZF2J68p6QfQk1OKZ6) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Hero Collector](https://open.spotify.com/album/79defV9ZGkLOpSvBdSvR8V) | 4:12 | 2023-09-04 |  |
 | [Hey, Hey, Hey](https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim 'True' Live \(Live\)](https://open.spotify.com/album/5Pejwbf19423OS2S2xoWOW) | 2:55 | 2023-09-04 |  |

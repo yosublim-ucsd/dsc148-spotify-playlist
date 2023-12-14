@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 4na
 
-4,816 songs - 12 day 3 hr 39 min
+4,817 songs - 12 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3043,7 +3043,8 @@
 | [すき。](https://open.spotify.com/track/3AxjdcjAKcidO2oUApgVsd) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [すき。](https://open.spotify.com/album/1D3eDRDjd8nnhyS5LLGiUK) | 3:08 | 2023-07-03 | 2023-07-11 |
 | [すきっ! \- 超ver](https://open.spotify.com/track/4k3vWI14pw0q7FVwNhehWp) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [すきっ! \(超ver\)](https://open.spotify.com/album/1Y0F8KlXpY5slIUpoNgkqr) | 5:12 | 2021-11-24 | 2021-12-01 |
 | [すきっ! \- 超ver](https://open.spotify.com/track/0SxNslJ4zylzWBQTX4rBIe) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [すきすきすきすきすきすきっ!](https://open.spotify.com/album/4Ye5uaWUcnqzTwCMj2AO47) | 5:13 | 2021-12-01 | 2021-12-15 |
-| [すげー （心のボーナストラック）](https://open.spotify.com/track/3uvBxhzorHhO7dVDVouskw) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 2:58 | 2023-12-04 |  |
+| [すげー （心のボーナストラック）](https://open.spotify.com/track/0AAYrao1igAJsMFvPETZov) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/6DSIWX0C9izo7f4LMwWUSY) | 2:58 | 2023-12-11 |  |
+| [すげー （心のボーナストラック）](https://open.spotify.com/track/3uvBxhzorHhO7dVDVouskw) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 2:58 | 2023-12-04 | 2023-12-14 |
 | [すべてが狂ってる](https://open.spotify.com/track/1CKunkD0YxMQtFLn6Ki0ML) | [bulbs of passion](https://open.spotify.com/artist/2bTg13b71ssepAFuGxo2TE) | [すべてが狂ってる](https://open.spotify.com/album/6sv6h7xrUZLwtg8W7brajA) | 6:04 | 2021-12-14 | 2022-01-17 |
 | [すべてはこの夜に](https://open.spotify.com/track/6dcoU0iR6ndUCKkuxGIJSx) | [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [BEST BEST BEST 1984\-1988](https://open.spotify.com/album/3cxBxHU59ONtVVRGVNjYPW) | 3:20 | 2023-05-29 | 2023-06-06 |
 | [すみっコディスコ](https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [すみっコディスコ](https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR) | 3:27 | 2023-11-06 | 2023-11-21 |

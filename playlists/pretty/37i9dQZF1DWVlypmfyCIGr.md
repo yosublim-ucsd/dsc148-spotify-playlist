@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 4na
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,928 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,937 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 46 | [SUPER IDOL](https://open.spotify.com/track/5Vm7eVa9fhWNAQGm5qEA6n) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [SUPER IDOL](https://open.spotify.com/album/0xlTjduEBwXJhN1roxto5H) | 3:15 |
 | 47 | [Moonthief](https://open.spotify.com/track/5VpeLvjayWlwt2VwkgKTKj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Moonthief](https://open.spotify.com/album/4qA404qUuqlXMOLiVZwj6i) | 2:32 |
 | 48 | [東京シンドローム](https://open.spotify.com/track/6FK85MyUFcx1VekeujPKk3) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [青写真](https://open.spotify.com/album/0pfd4aw22WznKxXvzbGaz6) | 3:37 |
-| 49 | [すげー （心のボーナストラック）](https://open.spotify.com/track/3uvBxhzorHhO7dVDVouskw) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 2:58 |
+| 49 | [すげー （心のボーナストラック）](https://open.spotify.com/track/0AAYrao1igAJsMFvPETZov) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/6DSIWX0C9izo7f4LMwWUSY) | 2:58 |
 | 50 | [Weekend Dance](https://open.spotify.com/track/5K9QxPw3c3lv6Khn2KoDnx) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP) | [Weekend Dance](https://open.spotify.com/album/3uYJjVQ3xijH2JSKJPJrk3) | 3:33 |
 | 51 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 |
 | 52 | [KiramekuMelody \(feat\. Umnoise\)](https://open.spotify.com/track/5avCtJ4QijDoxZ9gO3SyZI) | [音楽かいと](https://open.spotify.com/artist/1C2s0rEObLVOdKZngWslET), [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [KiramekuMelody \(feat\. Umnoise\)](https://open.spotify.com/album/6O74XznOIv2yf6RalG7sun) | 2:42 |

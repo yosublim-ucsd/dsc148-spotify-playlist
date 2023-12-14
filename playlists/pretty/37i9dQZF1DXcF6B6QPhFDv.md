@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > The Killers along with today's Rock songs you need to know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,808,461 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,809,900 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [Can't Take It Slow](https://open.spotify.com/track/6jOZiOe9s7TtTqvSMmuWTj) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Calling the Dogs](https://open.spotify.com/album/6yo1MiZJdkDZRkwg5n7Ec3) | 3:35 |
 | 50 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 
-Snapshot ID: `MCw5ZDEwOGZhZjQzM2E0Y2ZmZjE3ZjFkNWFlNzNhZDFkZjljNTIwYjI1`
+Snapshot ID: `MCxjM2Q5NTdiMWM5ZTc0ZmM0ODI1OTQ2NjU3MmM3NWMxYmE0MTU0OGRk`

@@ -4,7 +4,7 @@
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-110 songs - 5 hr 30 min
+111 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Santa Claus Is Comin’ To Town](https://open.spotify.com/track/2m8DBsZnH9whNkbSjnbRGJ) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:29 | 2021-09-30 |  |
 | [Santa Claus Llegara](https://open.spotify.com/track/38tf2SYkIzuvqjP7grmyAF) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:26 | 2021-09-30 |  |
 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 1:55 | 2021-09-30 |  |
-| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-09-30 |  |
+| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-09-30 | 2023-12-14 |
+| [Santa Tell Me \- Naughty Version](https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt) | 3:23 | 2021-09-30 |  |
 | [Silent Night](https://open.spotify.com/track/2HXUjCJEIRwS7eWgYFNAme) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:38 | 2021-09-30 |  |
 | [Somos Hermanos](https://open.spotify.com/track/04TA8t6TmudPI1nIBQbC3M) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Alex Sirvent](https://open.spotify.com/artist/7ownKRFwNOfLn5tzuOx4ak) | [Navidad](https://open.spotify.com/album/5lM4yOjONUeA7Hkhp3Gt2H) | 3:47 | 2021-09-30 |  |
 | [Tutaina](https://open.spotify.com/track/0sLrL0qSyoaT3LIBOMFOiA) | [Los Niños Cantores del Oriente](https://open.spotify.com/artist/2nix7zWSwl26N2Ej9itvkL) | [Clásicos de Navidad \- Villancicos para Niños](https://open.spotify.com/album/7hvVilvvm4KXyeQl3bn4X6) | 2:57 | 2021-09-30 |  |

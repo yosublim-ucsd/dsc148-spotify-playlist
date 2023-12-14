@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-798 songs - 2 day 0 hr 35 min
+799 songs - 2 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Are We Dreaming](https://open.spotify.com/track/3MuHrou51qNnqWbQtJOxmu) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Are We Dreaming](https://open.spotify.com/album/0hjg91EQSnvDNUG73exzQm) | 3:31 | 2023-07-21 | 2023-09-09 |
 | [Artefact](https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK) | [Artefact](https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3) | 3:40 | 2022-08-12 | 2023-06-10 |
 | [Artemis](https://open.spotify.com/track/37VTqZNklXxzXdbOqeC9HC) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f) | [Artemis](https://open.spotify.com/album/3vNnhqclfPzpVBBkzhHE4h) | 4:06 | 2023-07-14 |  |
+| [As the Sun Breaks](https://open.spotify.com/track/1KJZZ7GNTJ6AYPUtKYIeX3) | [Temple One](https://open.spotify.com/artist/04d81XptQA11pLPxMXLxC9) | [As the Sun Breaks](https://open.spotify.com/album/3yZlpDiuZYgIprZsl1VC2P) | 3:58 | 2023-12-08 |  |
 | [Ascend](https://open.spotify.com/track/6MGTRiIoovwhas2yLFv1NE) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Ascend](https://open.spotify.com/album/1eOd6pPjaUdoKqY39dhxch) | 2:49 | 2022-08-12 | 2023-06-10 |
 | [Ask Me Anything \- Album Mix](https://open.spotify.com/track/5rN7rDTkNneqW9Q5Dshsqc) | [Aurosonic](https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1), [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU) | [Euphoria](https://open.spotify.com/album/7Et9aUqQ8jnwIiZ49ka1ck) | 4:59 | 2021-12-17 | 2023-02-25 |
 | [Astro](https://open.spotify.com/track/4PrtVFZouroQZGMzjVat8d) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Astro](https://open.spotify.com/album/78Gqsy8a716SrHnhkgy4sw) | 3:00 | 2021-12-17 | 2022-02-26 |
@@ -626,7 +627,7 @@
 | [Sleepwalking](https://open.spotify.com/track/0h4DDybPcSxK6yI5L2PIaZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Sleepwalking](https://open.spotify.com/album/0sg3xcua3C94UM2QjK3Pr2) | 3:44 | 2023-01-08 | 2023-10-01 |
 | [Solar Express](https://open.spotify.com/track/6ttxvrDLx2B9v38AFZt9aE) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR) | [Solar Express](https://open.spotify.com/album/3XrL5H1EgXKnRsGcn38Z34) | 3:57 | 2023-06-23 |  |
 | [Someday](https://open.spotify.com/track/2PpIuWoPkilQBubfjZJerY) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Someday](https://open.spotify.com/album/4lifylA3syQNEDcMBBnLXc) | 2:50 | 2023-02-03 |  |
-| [Someone \- Kinetica Remix](https://open.spotify.com/track/14b6rZyEHbOsuUL992hPZn) | [Ascension](https://open.spotify.com/artist/6R02LUvSJaMB0WXZ8cRHRQ), [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [Kinetica](https://open.spotify.com/artist/0Tn8rPpDEdjfmx4SyyTdYM) | [Someone \(Kinetica Remix\)](https://open.spotify.com/album/1vgM41hSPEKeVo5tAyw6Wd) | 3:52 | 2023-12-08 |  |
+| [Someone \- Kinetica Remix](https://open.spotify.com/track/14b6rZyEHbOsuUL992hPZn) | [Ascension](https://open.spotify.com/artist/6R02LUvSJaMB0WXZ8cRHRQ), [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [Kinetica](https://open.spotify.com/artist/0Tn8rPpDEdjfmx4SyyTdYM) | [Someone \(Kinetica Remix\)](https://open.spotify.com/album/1vgM41hSPEKeVo5tAyw6Wd) | 3:52 | 2023-12-08 | 2023-12-14 |
 | [Someone Like You](https://open.spotify.com/track/5BhOXlQmuNX30x9G1jSOrS) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi) | [Someone Like You](https://open.spotify.com/album/72ekjOThzXa4FIGEC12QQE) | 3:16 | 2023-08-04 |  |
 | [Something Beautiful \- Super8 & Tab Remix](https://open.spotify.com/track/4m1lEAwCvI7VrWqaty2kV6) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Eric Lumiere](https://open.spotify.com/artist/4TSqSBlGY1wV5qhnX6vVwB), [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC) | [Something Beautiful \(Super8 & Tab Remix\)](https://open.spotify.com/album/2zrNxLhHjr46sjubcx2h7i) | 2:43 | 2022-08-19 | 2023-06-10 |
 | [Something I Can Dream About](https://open.spotify.com/track/3xFaelq2LxYcaD6aHIity6) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Something I Can Dream About](https://open.spotify.com/album/6tyS2sQqTSUP7GRbHkD5hf) | 4:10 | 2022-02-25 | 2022-07-29 |

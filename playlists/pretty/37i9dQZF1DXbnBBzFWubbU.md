@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,788 likes - 85 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,869 likes - 85 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 84 | [Memphis](https://open.spotify.com/track/72I5tTm8VFHpScFXF5YQfz) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Trinity Lounge](https://open.spotify.com/album/1GBVseSDJ8d1KJmnGNYadZ) | 5:46 |
 | 85 | [Jaipur \- Paul Arcane Remix](https://open.spotify.com/track/5gAQFNZfsa2cZELFVIGdvb) | [Aneesh Gera](https://open.spotify.com/artist/71r2VlqG6rIgUtMS8ugZIP), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Jaipur](https://open.spotify.com/album/5TVhrNGLGRo02hs916Bmx5) | 4:05 |
 
-Snapshot ID: `MCw3YmNiNmYzN2QzMTIzZGZiMjMyMWM4NmY4Y2JhNTkyZWNmNzQ2NTMz`
+Snapshot ID: `MCw1OGRlODA1Y2Y4NDVkMTg3Y2I2YjRkZjMxZDQ2YTM5ZDlkMTgwMWE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=w5COGWuuThWSR57bXIsUzA">Xolly Mnchwango</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,980 likes - 93 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,002 likes - 93 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

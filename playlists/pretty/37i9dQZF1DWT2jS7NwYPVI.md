@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: Palaye Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,696 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,717 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 95 | [Nowhere](https://open.spotify.com/track/643UKRpMBtdemIrJm22iab) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Nowhere](https://open.spotify.com/album/1SZzfjeW12wkYwa87q54zf) | 2:48 |
 | 96 | [GLOFS](https://open.spotify.com/track/35ZQUE0DuUFEptq5LJv6nI) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM), [Rou Reynolds](https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [GLOFS \(feat\. Rou Reynolds of Enter Shikari\)](https://open.spotify.com/album/4DVMNKOHTvzJVVgiHNBPn9) | 3:52 |
 | 97 | [worlds greatest emoter](https://open.spotify.com/track/6cjffqe2ghES5XsGAL9TlT) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [worlds greatest emoter](https://open.spotify.com/album/2w3uek920NjhKNSpZBX4OE) | 2:54 |
-| 98 | [Punk's Dead](https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/26CBoch8r0WmpjOYQedOnM) | 3:12 |
+| 98 | [Punk's Dead](https://open.spotify.com/track/0aiJF3M2Tj5iHfQSmvR943) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/7rhKQg4KTvDZZguZEX3YA9) | 3:12 |
 | 99 | [Tale Of A Man](https://open.spotify.com/track/1rBmKmG7hM3gp4lpKQCmj1) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Tale of A Man](https://open.spotify.com/album/47fxxzNYoFylPsmR7xvrLy) | 2:46 |
 | 100 | [Cut My Hair](https://open.spotify.com/track/1Eltfc5iPukyxVw0i9hkQh) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Cut My Hair](https://open.spotify.com/album/52M2NR8N8Dj0yXcM6FTi12) | 2:34 |
 | 101 | [Lilac](https://open.spotify.com/track/2VggsVZNwhn1K3h68m9kz4) | [Raue](https://open.spotify.com/artist/0N3GaGdqGJYLZTa6L04tuI) | [Lilac](https://open.spotify.com/album/1K4BfssYDdzeSA6v2CNRXN) | 2:33 |

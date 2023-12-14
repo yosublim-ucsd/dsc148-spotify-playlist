@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "HOME EP",
+        "url": "https://open.spotify.com/album/06wZxbyxypr1BVQEopXXtx"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272894,
+      "name": "ai no uta",
+      "url": "https://open.spotify.com/track/2nP5n43PEfVzIiRZAVGcPL"
+    },
+    {
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
       },
@@ -3771,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Toki no Michishirube",
+        "url": "https://open.spotify.com/album/1f6KCQhXEwOagzHTAEY9lH"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Yakushimaru",
+          "url": "https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336500,
+      "name": "Toki no Michishirube",
+      "url": "https://open.spotify.com/track/5o1IJmSumDW2R2D1QwvXrr"
+    },
+    {
+      "album": {
         "name": "Toumei na Nukumori",
         "url": "https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS"
       },
@@ -4440,7 +4476,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 350704,
       "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
       "url": "https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6"
@@ -5866,7 +5902,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 272894,
       "name": "\u611b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg"
@@ -6086,7 +6122,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 336500,
       "name": "\u6642\u306e\u9053\u6a19",
       "url": "https://open.spotify.com/track/1PJwg7N6psEi0XUHei8lZP"
@@ -7082,7 +7118,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 194760,
       "name": "\u904a\u89a7\u8239",
       "url": "https://open.spotify.com/track/2Uf76zPC65kpeIfkZkhqZ4"

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-397 songs - 1 day 9 hr 40 min
+398 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Crush](https://open.spotify.com/track/7gY3CDLjByjqUpHYZnbVVB) | [SUZé](https://open.spotify.com/artist/0gqgQYlI6dpyIVmOLDemGQ) | [Crush](https://open.spotify.com/album/6U7GsO6rUA6WMIzTuEnV2x) | 7:03 | 2023-11-09 | 2023-11-25 |
 | [Cryo](https://open.spotify.com/track/6yXiLHBZGjge2iSmBzWhuQ) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Cryo](https://open.spotify.com/album/7gYGDUFQOLlnfzHiPwU9fN) | 3:33 | 2023-08-04 | 2023-09-06 |
 | [Cyberlove](https://open.spotify.com/track/5wpnorsUa9T5pcWzYL59l4) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Cyberlove](https://open.spotify.com/album/2fmUH8FRtfCmaHWS5yjb43) | 6:16 | 2023-05-31 | 2023-06-10 |
+| [Cybernova](https://open.spotify.com/track/13dzpIlhBBeZrR0LOFpfUw) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Shut Down](https://open.spotify.com/album/4Kiw2ugFK4kfgfsPgGjJ32) | 4:05 | 2023-12-08 |  |
 | [Cycles](https://open.spotify.com/track/3EtEfnPhlRPuM6ShLIcd33) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Mardraüs](https://open.spotify.com/artist/3q5A1HlL3MuhN1DKH4UHSm) | [Cycles](https://open.spotify.com/album/4jpO0xkA40y6zJUPp2yMUm) | 5:00 | 2022-12-06 | 2023-02-20 |
 | [Cyclone](https://open.spotify.com/track/1Bpy7cuahSRV7I7UkUneEt) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Cyclone](https://open.spotify.com/album/3p6ApFGk2tCfPK3wgmZ69n) | 6:47 | 2023-09-29 | 2023-12-07 |
 | [Dance Alone \- Hidden Empire Remix](https://open.spotify.com/track/6xcKHNfHEcyG0TG6gVEUrn) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Dance Alone](https://open.spotify.com/album/3OOU0i7XGbvVYWVjfb7Blx) | 6:34 | 2022-12-28 | 2023-01-06 |
@@ -323,7 +324,7 @@
 | [Sternstunde \- Joris Voorn Edit](https://open.spotify.com/track/5mCLCA1bnQHPU4EZBtZgqo) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Sternstunde \(Joris Voorn Edit\)](https://open.spotify.com/album/3fPRdy4lb6bycInc7nBqAG) | 3:46 | 2023-02-27 |  |
 | [Still Here](https://open.spotify.com/track/7o8MLzXSTit3eiq5f3A5Vw) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC) | [Still Here](https://open.spotify.com/album/06BuvBBl8EiJgzvjrhV8m7) | 7:49 | 2023-02-04 | 2023-02-10 |
 | [Stolen](https://open.spotify.com/track/1Mns7l7I5KdfHRhCnikhJd) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Pretty Poison](https://open.spotify.com/artist/4Xe7UmOgczT2GMm5uK8Axu) | [The Rabbit Hole Circus](https://open.spotify.com/album/51wucYCwRnPJhsZlbzzIsp) | 4:05 | 2023-07-07 | 2023-09-16 |
-| [Strange World](https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Strange World](https://open.spotify.com/album/4kpsUjDu3PINn1yu5jX09R) | 3:56 | 2023-08-04 |  |
+| [Strange World](https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Strange World](https://open.spotify.com/album/4kpsUjDu3PINn1yu5jX09R) | 3:56 | 2023-08-04 | 2023-12-14 |
 | [Strangers \(with Mansionair\) \- Nora En Pure Remix](https://open.spotify.com/track/602wo0wA2pEjcZYX7X2uNh) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Strangers \(with Mansionair\) \[Nora En Pure Remix\]](https://open.spotify.com/album/16jQLp6Sln8tJmA033mnqp) | 3:10 | 2022-12-28 | 2023-01-06 |
 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 | 2023-02-04 |  |
 | [Stuck In Melodies](https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Stuck In Melodies](https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D) | 3:31 | 2023-08-04 | 2023-08-17 |

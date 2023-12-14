@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 349237,
+  "num_followers": 349277,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmYwYjJkZTg2M2Y3YmUyYmUzMzc2ZDAxZmFmMTFkMTMwYmExNjFk",
+  "snapshot_id": "MCw2ZTlkNTUyMjJlZWMzYmY4Zjk3NGU0ZTk0MjMzMjUzMTI5MTAxN2Q5",
   "tracks": [
     {
       "added_at": "2023-11-17 17:02:42",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
+        "name": "Der letzte Tanz",
+        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Der letzte Tanz",
+      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 233587,
       "name": "GROWING UP IS _____",
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
-        "name": "Der letzte Tanz",
-        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Der letzte Tanz",
-      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Kuss.",
-        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
-      },
-      "artists": [
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        }
-      ],
-      "duration_ms": 198218,
-      "name": "Sch\u00f6n genug",
-      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 180581,
       "name": "Ready To Be Loved",
       "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Kuss.",
+        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "duration_ms": 198218,
+      "name": "Sch\u00f6n genug",
+      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Keep It Low",
-        "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
-      },
-      "artists": [
-        {
-          "name": "Martis",
-          "url": "https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Keep It Low",
-      "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Sweethoneylove",
         "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 150540,
       "name": "Sweethoneylove",
       "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Keep It Low",
+        "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
+      },
+      "artists": [
+        {
+          "name": "Martis",
+          "url": "https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Keep It Low",
+      "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
     },
     {
       "added_at": "2023-11-17 17:02:42",

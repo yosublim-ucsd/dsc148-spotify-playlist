@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbGmeKvsEvzt.md) - [plain]
 
 > Post club ride home
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbGmeKvsEvzt.md) - [plain]
 | 26 | [Too Bad](https://open.spotify.com/track/1YVBEEDyXlWHOrZCgbSsot) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 3:55 |
 | 27 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 |
 | 28 | [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 |
-| 29 | [Play For Keeps](https://open.spotify.com/track/60hwCyAHX9zdcUyALMOIV4) | [Runzo](https://open.spotify.com/artist/05b8FQR9CoT2SNAXtEix5K), [Paxe](https://open.spotify.com/artist/1U2UXz3RH779Hd8cGxAZjh), [Jay Biz](https://open.spotify.com/artist/4SNxuSiA1WHk1N7dHuiLAd) | [500 Miles](https://open.spotify.com/album/1DW62eAjC25eTSVnMrG56Q) | 3:06 |
+| 29 | [Play For Keeps](https://open.spotify.com/track/60hwCyAHX9zdcUyALMOIV4) | [Runzo](https://open.spotify.com/artist/05b8FQR9CoT2SNAXtEix5K), [Paxe](https://open.spotify.com/artist/1U2UXz3RH779Hd8cGxAZjh), [Jay Biz](https://open.spotify.com/artist/5H78xIcG2BFJiLMbT9vLcF) | [500 Miles](https://open.spotify.com/album/1DW62eAjC25eTSVnMrG56Q) | 3:06 |
 | 30 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
 | 31 | [Spend Some Time](https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Spend Some Time](https://open.spotify.com/album/6vLqNvKJdKPqIvDcwwuvEg) | 2:48 |
 | 32 | [Pull Up](https://open.spotify.com/track/3pvXA8TPDC4Ulh21jJvamx) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Pull Up](https://open.spotify.com/album/4G0k2ac0wmWDGtsOFld4TS) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbGmeKvsEvzt.md) - [plain]
 | 49 | [4 Nothin'](https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb) | 3:29 |
 | 50 | [Tungba](https://open.spotify.com/track/4fA1ca0O5tOOYDWt1n0z2d) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Make E No Cause Fight](https://open.spotify.com/album/6MpKNL8E3hEPnsN1u2Y9Ik) | 3:08 |
 
-Snapshot ID: `MCwxZDc5MjhmZWM2ZjE1Njc5NmIwNDIzODJkZjI4YmJjMzRlZGRlOTZj`
+Snapshot ID: `MCw3OWFhNzU4NDJkNWI0NzNiOGU0ODBhOTg1YzY4YjAyODAxZmY2NjM3`

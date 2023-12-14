@@ -3514,7 +3514,7 @@
     {
       "album": {
         "name": "Virtual Daydreamer",
-        "url": "https://open.spotify.com/album/265wytKiSVQL3OnmLzXld9"
+        "url": "https://open.spotify.com/album/7wq3EC6cSDdcvzx1XXjYJN"
       },
       "artists": [
         {
@@ -3525,6 +3525,24 @@
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190720,
+      "name": "Virtual Daydreamer",
+      "url": "https://open.spotify.com/track/1PwQtZTBRihNROrCoSdDtr"
+    },
+    {
+      "album": {
+        "name": "Virtual Daydreamer",
+        "url": "https://open.spotify.com/album/265wytKiSVQL3OnmLzXld9"
+      },
+      "artists": [
+        {
+          "name": "Pop Never Dies",
+          "url": "https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
       "duration_ms": 190720,
       "name": "Virtual Daydreamer",
       "url": "https://open.spotify.com/track/6PO9MBYjh9htdZpm8YFL1g"

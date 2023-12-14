@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,924 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,949 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [Gold](https://open.spotify.com/track/2EonwBGjylKZocutExSRzY) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Gold](https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK) | 4:19 |
 | 100 | [Eat My Words](https://open.spotify.com/track/19hDkmzEGBksfhsi68kDn1) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Eat My Words](https://open.spotify.com/album/4oLF4mfcAomGDHEyqH2ZTj) | 3:31 |
 
-Snapshot ID: `MCw5MmFhYjIzZmY0OTk5ZDM5ODBhNzE2NDFhMzcwY2JjMGE5YjQyMWNj`
+Snapshot ID: `MCw1N2EzNjE0MjMxZmUxMWI4M2M4NWRjZTI5MzRjZWI0MDc5ZWY5MTM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=i0yQBd7qSLmL\-p1eMh7pJg">Pabi Cooper</a>, <a href="https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1?si=TKPqq2irRFyIbs396qaXsA">Ch'cco</a>, <a href="https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P?si=Leox0rkxS5OLU\-fgUyBwkg">MJ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,144 likes - 70 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,294 likes - 70 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

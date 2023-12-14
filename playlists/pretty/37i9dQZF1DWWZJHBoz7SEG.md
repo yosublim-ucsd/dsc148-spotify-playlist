@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Ya casi es Navidad y le pedí a Santa nuevas canciones de Anitta con Peso Pluma, J Balvin, NATI NATTASHA y Tate Mc Rae! 🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,548 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,617 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

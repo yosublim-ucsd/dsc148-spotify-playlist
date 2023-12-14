@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 218536,
       "name": "4u",
       "url": "https://open.spotify.com/track/5KzreODVITXVze4HkoMhhZ"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 217297,
       "name": "Aminin",
       "url": "https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX"
@@ -280,6 +280,28 @@
       "duration_ms": 155193,
       "name": "BAI NA BAI",
       "url": "https://open.spotify.com/track/5OvRmSitjggIYxAcgWnImV"
+    },
+    {
+      "album": {
+        "name": "BLING",
+        "url": "https://open.spotify.com/album/4BEXEaGEDL1nUQIR0a3tat"
+      },
+      "artists": [
+        {
+          "name": "Alex Bruce",
+          "url": "https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX"
+        },
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148587,
+      "name": "BLING",
+      "url": "https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo"
     },
     {
       "album": {
@@ -1135,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "LUVXIC",
+        "url": "https://open.spotify.com/album/2yqjOt3MA5dJvRb2hlhn6o"
+      },
+      "artists": [
+        {
+          "name": "Baby Blood",
+          "url": "https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "MAS GUSTO KITA",
+      "url": "https://open.spotify.com/track/2c5CsVc89pz3gc11BnWVLL"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/1KCy0t9OekxUxwTxfIHrbA"
       },
@@ -1172,7 +1212,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 165981,
       "name": "Mossa Downtown",
       "url": "https://open.spotify.com/track/5kA5QMEgxW3VwwvAFjpgr4"
@@ -1386,6 +1426,28 @@
       "duration_ms": 172500,
       "name": "SEEN",
       "url": "https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN"
+    },
+    {
+      "album": {
+        "name": "SHOT PUNO",
+        "url": "https://open.spotify.com/album/7aTs7EIyn4UnEySAMaEl5I"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "SHOT PUNO",
+      "url": "https://open.spotify.com/track/6GhAvK6k8gZxw0qF0sSTzy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-127 songs - 11 hr 7 min
+128 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,8 +129,9 @@
 | [Virtual Reality](https://open.spotify.com/track/0CL3dgB2zxfXp4bikncXmk) | [QFX](https://open.spotify.com/artist/1VGHyNdmZk1SCK09hMFwlr) | [The Anthems 1995\-2010](https://open.spotify.com/album/6qehPYh5zcEefMYFNl5nYo) | 3:52 | 2020-10-06 | 2022-07-27 |
 | [Voodoo People](https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/3HpFr2EeE38hr706Rxtmjy) | 6:27 | 2020-10-06 | 2022-07-29 |
 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 | 2020-10-06 |  |
-| [Voodoo Ray](https://open.spotify.com/track/1Ex3FSidOBkODU3pcsCRYK) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Voodoo Ray](https://open.spotify.com/album/5AUlLncAftSgXvjWzAWvU9) | 4:27 | 2023-10-19 |  |
+| [Voodoo Ray](https://open.spotify.com/track/1Ex3FSidOBkODU3pcsCRYK) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Voodoo Ray](https://open.spotify.com/album/5AUlLncAftSgXvjWzAWvU9) | 4:27 | 2023-10-19 | 2023-12-14 |
 | [Voodoo Ray](https://open.spotify.com/track/2P2NuxsDeOIzyjnqEhLGBD) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Hot Lemonade](https://open.spotify.com/album/2GYZ3Z8rM4RzeMBbOI52ua) | 4:27 | 2023-10-19 | 2023-12-04 |
+| [Voodoo Ray](https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Hot Lemonade](https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl) | 4:27 | 2023-10-19 |  |
 | [We Are I.E\. \- Original Extended Edit](https://open.spotify.com/track/5updfQssZ3S5hmPSyPhHdV) | [Lennie De Ice](https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj) | [We Are I.E.](https://open.spotify.com/album/6WxzGPzFFbOh5KfbT7IvdC) | 4:58 | 2020-10-06 | 2022-07-29 |
 | [We Are I.E\. \- Original Extended Edit](https://open.spotify.com/track/7Li4jlU5MVqS5f3J2ooviA) | [Lennie De Ice](https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj) | [We Are I.E.](https://open.spotify.com/album/0tZD3DurMqNzntpB60M5cH) | 4:58 | 2020-10-06 | 2022-11-12 |
 | [Your Love \(Remix\)](https://open.spotify.com/track/4axNug8UrlC0ndpSNhe5iF) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/3LYrQ4Pr2CMbQl3nWxXItR) | 5:31 | 2020-10-06 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Diplo, Maren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,656 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,789 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Skin On Skin](https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:48 |
 | 75 | [Run From You](https://open.spotify.com/track/2ouMNYPXQ6P9epCLmiqRSg) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Run From You](https://open.spotify.com/album/5EY4emNooAmEsHDquKD104) | 2:47 |
 
-Snapshot ID: `MCw1NjFlMTUwZmMyMjRjZTA2MDg3YzZlOGMzZWViZTk5YjBjNjU4YmIz`
+Snapshot ID: `MCxiM2VjYzA2NTIyMDg0MjZhNzVkYjJkOGJlYTNkOTRiNTAxM2FkMmUz`

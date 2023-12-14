@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-86 songs - 6 hr 5 min
+87 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Get along <ALBUM VERSION>](https://open.spotify.com/track/5rPF3lhPX8Vvkf7gTgheyF) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p), [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [スレイヤーズMEGUMIXXX](https://open.spotify.com/album/55RelAMhqC3ubteVrbIY8I) | 4:09 | 2022-04-10 |  |
 | [Hohoemi no Bakudan](https://open.spotify.com/track/5BG5LEDS1Q24SZuofpWSBG) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [Hohoemi no Bakudan](https://open.spotify.com/album/5t1KlykzXKaYZIn75048c3) | 4:14 | 2022-05-27 |  |
 | [JUST COMMUNICATION](https://open.spotify.com/track/2MJuRVxvB0Wq298yZAmpuT) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [JUST COMMUNICATION](https://open.spotify.com/album/3srT3oJ15NvnclIkLlvN8q) | 4:19 | 2022-04-10 | 2023-06-30 |
-| [Just Communication](https://open.spotify.com/track/7whyLhLqIbgCFerm0Hohkm) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [MOBILE SUIT GUNDAM WING Original Motion Picture Soundtrack \- Operation 1](https://open.spotify.com/album/52jysQJHAiBXHRY01vrgt6) | 4:20 | 2022-12-24 |  |
+| [Just Communication](https://open.spotify.com/track/7whyLhLqIbgCFerm0Hohkm) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [MOBILE SUIT GUNDAM WING Original Motion Picture Soundtrack \- Operation 1](https://open.spotify.com/album/52jysQJHAiBXHRY01vrgt6) | 4:20 | 2022-12-24 | 2023-12-14 |
+| [Just Communication](https://open.spotify.com/track/7dmy8FQgfLvOrPEa28Zjeq) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [MOBILE SUIT GUNDAM WING Original Motion Picture Soundtrack \- Operation 1](https://open.spotify.com/album/7Ee7kYAuCBVAyLJXPGD6W4) | 4:20 | 2022-12-24 |  |
 | [Koji Koji Ginza](https://open.spotify.com/track/5z2rcCuJHYYXVXcCDmzFkJ) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [Koji Koji Ginza](https://open.spotify.com/album/2erDr9VtpkJjEOgTZoXYRm) | 5:02 | 2022-05-27 |  |
 | [Moonlight Legend](https://open.spotify.com/track/3qxu3FK4b4zgPB3gpp1wiR) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 2:55 | 2022-12-24 |  |
 | [Princess Mononoke Theme Song \(Vocal\)](https://open.spotify.com/track/3vhkYEfMVAsTfr9T1Q2Ulc) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 3:32 | 2022-05-27 |  |

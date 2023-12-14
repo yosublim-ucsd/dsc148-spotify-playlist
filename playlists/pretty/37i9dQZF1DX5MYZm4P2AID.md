@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,985 likes - 174 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,991 likes - 174 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 97 | [Blood from a Stone](https://open.spotify.com/track/4Hk2eSKnWqwimFlSVbCxmT) | [Greg Humphreys](https://open.spotify.com/artist/2P4ndh6Wwh55HNBsOHxoWA) | [Haymaker](https://open.spotify.com/album/5WNH6eTenhL4iVWltJaq8d) | 3:34 |
 | 98 | [Bad Kids](https://open.spotify.com/track/00FL5d6IDB4Q6VROycdzOP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:08 |
 | 99 | [John B Sail \(The Wreck of the John B\)](https://open.spotify.com/track/2zGdoeMBdeWlQeINKvHWdF) | [The Royal Victoria Hotel Calypsos](https://open.spotify.com/artist/2lbAmEkwTeWMeHBfPIS1Xp), [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 2:56 |
-| 100 | [Sandman](https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF) | 3:12 |
+| 100 | [Sandman](https://open.spotify.com/track/28I0KNqOmkvzzz7SghMhfu) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/1wJMfWm97AQEJqz70orTU8) | 3:12 |
 | 101 | [Fun](https://open.spotify.com/track/4v7prkc928rArBPIwxGJKa) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Fragments](https://open.spotify.com/album/0sr9FWHQ3ckzVkFYk3NPrL) | 3:17 |
 | 102 | [Morning Song](https://open.spotify.com/track/01WQr2XhNnZMu4bjkgLN5s) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:24 |
 | 103 | [Wiya Waist](https://open.spotify.com/track/4lVHvQoC3VMvF0fVpj7c3k) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:13 |

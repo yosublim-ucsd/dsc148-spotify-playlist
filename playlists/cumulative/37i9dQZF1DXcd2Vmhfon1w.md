@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. FERNANDOCOSTA
 
-236 songs - 13 hr 2 min
+237 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 | 2022-01-21 | 2022-07-29 |
 | [Veneno](https://open.spotify.com/track/5BopknbHSxEm9Ohcs4IbGu) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/7ppEt8YdvnAWeNTKNPR4ca) | 4:18 | 2022-07-19 |  |
 | [Vivimos Deprisa](https://open.spotify.com/track/2B4zfsOe4F1FhQRNx7dBzJ) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Vivimos Deprisa](https://open.spotify.com/album/5HmnOKunM6YO6GFtNUAh9e) | 3:27 | 2022-01-21 | 2022-08-05 |
-| [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 | 2022-01-21 |  |
+| [Volver](https://open.spotify.com/track/0de9dsLu8ZxLYQZwYof4Ay) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/7HLzms7imKXkAdZLwFwmbV) | 3:30 | 2023-11-30 |  |
+| [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 | 2022-01-21 | 2023-12-14 |
 | [Vuelve](https://open.spotify.com/track/7boe9pmfM5LCdqTlLR8E7b) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Deeperbeats](https://open.spotify.com/artist/4cBniWkcC4P7oO5rGvfcPg) | [Vuelve](https://open.spotify.com/album/0ETPxJG4PbLExoA1GqL2GJ) | 3:10 | 2022-11-21 | 2023-03-14 |
 | [Vértigo](https://open.spotify.com/track/7aXJq7eoVahgCdKkK6kDbp) | [Blanco 43720](https://open.spotify.com/artist/1evAeq3DdAULNLMp5Fw2b3), [Shoren](https://open.spotify.com/artist/6MRCWn4BaMCrfxzseImRuN) | [Vértigo](https://open.spotify.com/album/79IqncOTp1GRKwXi1sJO0q) | 3:00 | 2022-08-04 | 2023-04-04 |
 | [War'z On](https://open.spotify.com/track/13WAB6e53dZgCh2xXIXyXA) | [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [Gese Da O](https://open.spotify.com/artist/5m5mdpE5ZDrHVKjvdc0AZQ) | [War'z On](https://open.spotify.com/album/0gPR5bOi7qN9LE0oqLlBXy) | 2:48 | 2022-05-27 | 2022-06-22 |

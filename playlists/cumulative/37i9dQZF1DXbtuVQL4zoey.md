@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-527 songs - 20 hr 19 min
+528 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Backwards](https://open.spotify.com/track/0YE6RLx2NP461VXbb8PddM) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Backwards](https://open.spotify.com/album/1yU0j3TmoAdXMCs2tH6TMO) | 3:54 | 2022-05-20 | 2022-09-03 |
 | [bad habit](https://open.spotify.com/track/5TZjQUcJwhqlDfQ4BApbYy) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [bad habit](https://open.spotify.com/album/5Y67fTLxbnk8hgscy8nEB9) | 2:02 | 2022-05-20 |  |
 | [bahia nights](https://open.spotify.com/track/1xHMZoLph7yjsZRcYRzvqX) | [moodsinger](https://open.spotify.com/artist/5Sb19EofLxyxtjsQH7BDjn) | [bahia nights](https://open.spotify.com/album/1gQwA7qKAjuB9pL8wxGHw4) | 2:05 | 2023-09-08 |  |
-| [Baller](https://open.spotify.com/track/1fhjWT1MnTzmVvVpOzkSJQ) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Baller](https://open.spotify.com/album/40buThWjpoGKJ4s6vzqn7M) | 2:07 | 2022-09-02 |  |
+| [Baller](https://open.spotify.com/track/1fhjWT1MnTzmVvVpOzkSJQ) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Baller](https://open.spotify.com/album/40buThWjpoGKJ4s6vzqn7M) | 2:07 | 2022-09-02 | 2023-12-14 |
+| [Baller](https://open.spotify.com/track/5uBwUScESAfiOMSFW3kwn5) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Baller](https://open.spotify.com/album/0544NgVVreDEypcfNVLfVz) | 2:07 | 2023-12-08 |  |
 | [Ballroom Samba](https://open.spotify.com/track/3OzKdBTO77CznB7mmxWheV) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Ballroom Samba](https://open.spotify.com/album/41M22LDCY7NgRbfLmySeLr) | 2:27 | 2022-09-23 |  |
 | [Bar in Barça](https://open.spotify.com/track/0hLF3hANNCEmiOrD2hPFaN) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90), [Diago Skybeats](https://open.spotify.com/artist/64pYS920bJPWycbRAIdUDu) | [Bar in Barça](https://open.spotify.com/album/3VBskUJWLu5TYEqMI5hDhi) | 2:18 | 2022-07-22 | 2022-11-06 |
 | [Bar in Barça](https://open.spotify.com/track/1DpyOwJrijeqzrtXMX2txF) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90), [Diago Skybeats](https://open.spotify.com/artist/64pYS920bJPWycbRAIdUDu) | [Bar in Barça](https://open.spotify.com/album/002ZiVwLuoxz3T4x7hwHAZ) | 2:18 | 2022-10-28 | 2022-12-17 |

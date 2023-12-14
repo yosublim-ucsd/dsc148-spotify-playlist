@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,541 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,543 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 | 49 | [Cua Cua](https://open.spotify.com/track/3Kvulmj8KcGhbnOhqHFEht) | [J Daly](https://open.spotify.com/artist/1x4jnSZBeWl577gBo6Gb13), [Pio el titoki](https://open.spotify.com/artist/2yIqmykK6KOTqpqg0kLS6y) | [Cua Cua](https://open.spotify.com/album/1QfFufG7nY7NDRgeNdReXh) | 1:58 |
 | 50 | [PA San Juan \(Un Culito Nuevo\)](https://open.spotify.com/track/1lGDJyqsHKjAZdnEFtYZyx) | [Brazil21](https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [PA San Juan \(Un Culito Nuevo\)](https://open.spotify.com/album/4z2nE6qAvtqEIFXUeY3077) | 2:57 |
 
-Snapshot ID: `NzU1ODMyMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzU1ODQ5NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

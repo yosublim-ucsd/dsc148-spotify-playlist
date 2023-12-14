@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 709 songs - 1 day 11 hr 58 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 710 songs - 1 day 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -717,5 +717,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 707 | [MONSTER](https://open.spotify.com/track/29UGVk5EL1xdfwUup4xi2t) | [Kempton Zalen](https://open.spotify.com/artist/533FxOCnNtctm1LHR6sUj4) | [MONSTER](https://open.spotify.com/album/1otKeILDeZoK6WFqfKAH42) | 2:04 |
 | 708 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 |
 | 709 | [Oh Well](https://open.spotify.com/track/5j5MbkYwoJKV1gASgobqpe) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:13 |
+| 710 | [Shotta Flow 7](https://open.spotify.com/track/2jvQefVp0l5RO58pSp86bw) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/0oWXPimLarOtjWu0qQJe2m) | 2:45 |
 
-Snapshot ID: `ODcyLDRjNGIyMTk4NmM2ODdjZjE1NzViMGI0Y2I5MmI2ZjYzNzFjYWYzODk=`
+Snapshot ID: `ODczLDExNTM0NmMzNDQ3ZWQ0NTFmNjVlNmJhZjg4YTcyMjk3NTAzNmM2YmY=`

@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 69293,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0ysghxADluRTNEDYY8Dep4"
@@ -1638,10 +1638,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 155760,
       "name": "No Easy Way Out",
       "url": "https://open.spotify.com/track/4Avrrj95QH89EfgqdsViGh"
+    },
+    {
+      "album": {
+        "name": "BITE BACK (EP)",
+        "url": "https://open.spotify.com/album/7fmH0PXuRh6wTq7O2AD4N7"
+      },
+      "artists": [
+        {
+          "name": "VEXHC",
+          "url": "https://open.spotify.com/artist/4pkZBo45YYgKwDhEkmBh1i"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143903,
+      "name": "NOT THE SAME",
+      "url": "https://open.spotify.com/track/2fNt0y7pQ4KBQJuWn8u6kq"
     },
     {
       "album": {
@@ -2016,10 +2034,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 179555,
       "name": "RIDE IT",
       "url": "https://open.spotify.com/track/3oX2umsP57XAnLkaOnIAhy"
+    },
+    {
+      "album": {
+        "name": "Rose Bather",
+        "url": "https://open.spotify.com/album/3pjrQzkFEVUjb4bEHnICMA"
+      },
+      "artists": [
+        {
+          "name": "thoughtcrimes",
+          "url": "https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Rose Bather",
+      "url": "https://open.spotify.com/track/0jyeo3XhHV9FlIKU3toVtZ"
     },
     {
       "album": {
@@ -2150,6 +2186,24 @@
       "duration_ms": 133440,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/3gtyrM3EjX5zly1EfFg2FA"
+    },
+    {
+      "album": {
+        "name": "SUNAMI (L.P.)",
+        "url": "https://open.spotify.com/album/2GnZYSZv0FQK5R80gyNara"
+      },
+      "artists": [
+        {
+          "name": "Sunami",
+          "url": "https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112413,
+      "name": "Six",
+      "url": "https://open.spotify.com/track/4rPwYXHbHfxqkkgYaJIkWQ"
     },
     {
       "album": {
@@ -2330,6 +2384,24 @@
       "duration_ms": 270079,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/4kkhQOFrNzvkAiwyK6gV4w"
+    },
+    {
+      "album": {
+        "name": "KILL LIST",
+        "url": "https://open.spotify.com/album/5A1gYnXzF2IOCcCSfWkWgR"
+      },
+      "artists": [
+        {
+          "name": "Going Off",
+          "url": "https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112026,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/1VvFSvoNAEdrLr5d8lmFzK"
     },
     {
       "album": {
@@ -2643,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Trouble In The Winners Circle",
+        "url": "https://open.spotify.com/album/5W8A5K0N8AMmoUXAly4ldp"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159226,
+      "name": "Trouble In The Winners Circle",
+      "url": "https://open.spotify.com/track/6YMjiepySlbkSXwiUVnypE"
+    },
+    {
+      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz"
       },
@@ -2796,7 +2886,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 175453,
       "name": "War Above Los Angeles",
       "url": "https://open.spotify.com/track/2Andf7SMtdA0IVvwzwY2zS"
@@ -3028,7 +3118,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 146480,
       "name": "Y.S.A.B.",
       "url": "https://open.spotify.com/track/40wSDvvvOUmnVS7oiwVBj7"

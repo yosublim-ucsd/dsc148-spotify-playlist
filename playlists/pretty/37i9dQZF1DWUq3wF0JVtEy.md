@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,010 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,019 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 22 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 |
 | 23 | [The Don Don](https://open.spotify.com/track/5bKhbIlF9QrDrMPhFG6MmZ) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [The Don Don](https://open.spotify.com/album/0Ja70WQvyN2GIvbaBAGi4z) | 2:48 |
 | 24 | [Body Move](https://open.spotify.com/track/1INJXUsFg4bLYN9Wtw87EG) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Aries](https://open.spotify.com/artist/6uj8itikYSe2m6oExXXSZH) | [Body Move](https://open.spotify.com/album/5TyjyT6103AqJNbUFukmuG) | 2:10 |
-| 25 | [Last Call](https://open.spotify.com/track/4x8mvegC6XJG0K9i3EpnxN) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Last Call](https://open.spotify.com/album/6cDcKVDFEqRj6BayY9Hkrj) | 3:02 |
+| 25 | [Last Call](https://open.spotify.com/track/4NNbfrTRxqytVvgw1A2ajE) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Last Call](https://open.spotify.com/album/0DyriCMgX3WYavt9F1gIQO) | 3:02 |
 | 26 | [No Fun](https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:10 |
 | 27 | [Out Of Time](https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Out Of Time](https://open.spotify.com/album/2KdW273wS4w0m8PSvpJpuM) | 3:23 |
 | 28 | [Ravers Bounce](https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY), [Lackmus](https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1) | [Ravers Bounce](https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi) | 3:15 |

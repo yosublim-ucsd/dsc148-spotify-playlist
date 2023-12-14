@@ -5232,10 +5232,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 135019,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5QOhIyCkKcHzBSHLHZaF39"
+    },
+    {
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/66V5N7TELayLH9kEkXRrb7"
+      },
+      "artists": [
+        {
+          "name": "Yasuha",
+          "url": "https://open.spotify.com/artist/2GjBxKlFLSb1QE61BtQZLO"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135019,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/53eoAt3jZaTTmgNGbdyUCA"
     },
     {
       "album": {

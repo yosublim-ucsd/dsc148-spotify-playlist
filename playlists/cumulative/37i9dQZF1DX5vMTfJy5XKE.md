@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-570 songs - 1 day 5 hr 54 min
+571 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Having Grandma Here For Christmas](https://open.spotify.com/track/1GKd0Ewjs7B177vrLZJrjs) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Having Grandma Here For Christmas](https://open.spotify.com/album/24BmHD5BN9anMnrbHz7cMF) | 3:02 | 2022-11-18 | 2023-10-04 |
 | [Heart Of Christmas](https://open.spotify.com/track/3YUOyXxvOI598tLifFijNF) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Christmas with Cliff](https://open.spotify.com/album/3s6LvCzbhw6UiWOtkvpo9s) | 3:47 | 2022-12-02 | 2023-10-10 |
 | [Hell of a Holiday](https://open.spotify.com/track/04ljVdZAfCyB0REJQ9fcmk) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 2:55 | 2021-12-24 | 2022-09-28 |
-| [Here Comes Santa Claus \(feat\. Tom Gaebel\)](https://open.spotify.com/track/6D20ZXWEsLASb2JtP3JkiG) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a), [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9) | [Here Comes Santa Claus \(feat\. Tom Gaebel\)](https://open.spotify.com/album/4N1IWII8uHVknpMlDm88zl) | 1:47 | 2023-12-01 |  |
+| [Here Comes Santa Claus \(feat\. Tom Gaebel\)](https://open.spotify.com/track/6D20ZXWEsLASb2JtP3JkiG) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a), [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9) | [Here Comes Santa Claus \(feat\. Tom Gaebel\)](https://open.spotify.com/album/4N1IWII8uHVknpMlDm88zl) | 1:47 | 2023-12-01 | 2023-12-14 |
+| [Here Comes Santa Claus \(with The Tenors\)](https://open.spotify.com/track/3cSayPiyc5mgqahsuaN7lf) | [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Here Comes Santa Claus \(with The Tenors\)](https://open.spotify.com/album/1HO6JUHD7ADuKtMEnUCv5K) | 1:47 | 2023-12-01 |  |
 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 | 2022-12-16 | 2023-10-14 |
 | [Holiday Dreaming](https://open.spotify.com/track/5o4ej9ImySc5pS2GvMazVv) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album \- Expanded](https://open.spotify.com/album/2pNWoLyf7n4o5MHZPXMMeZ) | 3:30 | 2022-12-09 | 2023-10-21 |
 | [Holiday Dreaming](https://open.spotify.com/track/659yAq4DwQRjuHkP0K9Pz8) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album](https://open.spotify.com/album/1aigDgjQuiFg77aCRnyTTq) | 3:30 | 2022-12-09 | 2022-12-25 |

@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [BARRAS & BARRAS](https://open.spotify.com/track/5SlIDR9KTk0VbzkgQCHn0Y) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [BARRAS & BARRAS](https://open.spotify.com/album/7hk6SnodcEFVXZefWi8SKK) | 2:00 |
 | 75 | [Sal e Pimenta](https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 3:26 |
 
-Snapshot ID: `MCxjMzZhMzRmOThkZTkwMjhiZTlmMTNlYWQ0YTIxZWQ2MDZkZjA2M2I5`
+Snapshot ID: `MCw3MTRjYWQ4YzM2Mzk1OWY2YjBjNDZiZDVkZjJmMDUxNWIyOTJlOGZh`

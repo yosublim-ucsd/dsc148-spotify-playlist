@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,667 likes - 400 songs - 23 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,679 likes - 400 songs - 23 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

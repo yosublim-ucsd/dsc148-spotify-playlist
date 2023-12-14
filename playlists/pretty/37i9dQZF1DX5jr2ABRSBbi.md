@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > To nejlepší od CZ&SK umělkyň roku 2023, poslouchejte ženy na plnou hlasitost! Cover: Vesna
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,579 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,587 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

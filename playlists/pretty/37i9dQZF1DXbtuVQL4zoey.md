@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,555 likes - 237 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,667 likes - 237 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,7 +207,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 197 | [Ainda](https://open.spotify.com/track/5iJePbYGvnp583umPcXfBW) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [ERNESTO](https://open.spotify.com/artist/5ItCBuMBw4vavU0TImZgf1) | [Ainda](https://open.spotify.com/album/7wQLYuo4cNcHQJQq3DMRtP) | 3:06 |
 | 198 | [Sons House](https://open.spotify.com/track/5GbOtXPKEyZsc7cAWTsr8z) | [pucca](https://open.spotify.com/artist/6kLGnSLqv3I3NPOTdmm5lA) | [Sons House](https://open.spotify.com/album/3OungxsDMNaSjycoyyW4sz) | 1:22 |
 | 199 | [Sunset Cruise](https://open.spotify.com/track/4PDx95A1EalEnhMRHS7mdL) | [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER) | [Sunset Cruise](https://open.spotify.com/album/0oIN2IV9x9mwfwt7Jqvfy6) | 2:24 |
-| 200 | [Baller](https://open.spotify.com/track/1fhjWT1MnTzmVvVpOzkSJQ) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Baller](https://open.spotify.com/album/40buThWjpoGKJ4s6vzqn7M) | 2:07 |
+| 200 | [Baller](https://open.spotify.com/track/5uBwUScESAfiOMSFW3kwn5) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Baller](https://open.spotify.com/album/0544NgVVreDEypcfNVLfVz) | 2:07 |
 | 201 | [Amore](https://open.spotify.com/track/0uKr4tURNiLyOKFqsmKNx0) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Amore](https://open.spotify.com/album/5MEA9XtnI9AUg1axr8m8Gr) | 3:06 |
 | 202 | [Dope after 8 PM](https://open.spotify.com/track/3LEIN9DIPnYhJ5b1dNgVcC) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/2jCoX3FSnlnkivr2NtMKkd) | [Dope after 8 PM](https://open.spotify.com/album/16snTC6g0ngvDjOnkPehNE) | 1:56 |
 | 203 | [Mysteries](https://open.spotify.com/track/4Gs49fzepEtYLIlGDvHP7U) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Mysteries](https://open.spotify.com/album/1wb2u1Q89azoYcZGWy11ZT) | 1:55 |
@@ -246,4 +246,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 236 | [Vacation](https://open.spotify.com/track/3SPpqRQdEQAywU8fRKrWqx) | [franz.](https://open.spotify.com/artist/2iNqhG5SC3ZAG6KpHM3HIk) | [Vacation](https://open.spotify.com/album/6vokRNRSXc9420XmveNnHP) | 2:57 |
 | 237 | [pinecone](https://open.spotify.com/track/0Ef6Q0Cav49AL4xhPlXSZg) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 1:55 |
 
-Snapshot ID: `MCw4YzUzNDNkZjNmYjg0ZmM1YjZlOTRlNzk1NjUxOTA4MmM5MzU5MWU1`
+Snapshot ID: `MCw0OTlhNmUyZWVmZTE2ZTg0ODE5YzRmMzRiYmYzNGExYTUxMDE4NTlj`

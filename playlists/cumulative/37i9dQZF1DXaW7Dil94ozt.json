@@ -398,10 +398,28 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 203013,
       "name": "FRAME",
       "url": "https://open.spotify.com/track/6XI48NOQC0Q2TNL5ZAOY72"
+    },
+    {
+      "album": {
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/4g5IaIy258fL8jCAt6WM1K"
+      },
+      "artists": [
+        {
+          "name": "Guckkasten",
+          "url": "https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203024,
+      "name": "FRAME",
+      "url": "https://open.spotify.com/track/2Bb0uRQ9vNAvxy7UcTNGbJ"
     },
     {
       "album": {

@@ -283,6 +283,36 @@
     },
     {
       "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/6SM96MrU9An3k67FKbvsKM"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126133,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/4zmdSbVzs06VyVRlmc5QTl"
+    },
+    {
+      "album": {
         "name": "Bom Diggy - Single",
         "url": "https://open.spotify.com/album/1v41NSZw0M9A9GxHRvPpn2"
       },
@@ -790,6 +820,32 @@
       "duration_ms": 279107,
       "name": "Deva Deva (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O"
+    },
+    {
+      "album": {
+        "name": "Gadar 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304133,
+      "name": "Dil Jhoom",
+      "url": "https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7"
     },
     {
       "album": {
@@ -1312,7 +1368,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 183899,
       "name": "Hone Do Jo Hota Hai - From \"Kho Gaye Hum Kahan\"",
       "url": "https://open.spotify.com/track/21IwQe2rq1yPhtbXIvPMwg"
@@ -4078,7 +4134,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 128330,
       "name": "Va Va Voom (From \"The Archies\")",
       "url": "https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj"

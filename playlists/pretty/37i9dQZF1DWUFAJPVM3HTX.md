@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The top 150 tracks from Fresh Finds R&B in 2023\. Cover: <a href="https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD?si=tXThmOY1RGeAdeUHnJBI8w"> JayO </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,101 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,175 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 149 | [Perfect Timing \(Remix\)](https://open.spotify.com/track/3EbxMS0xBSWIUJkFPbv5OO) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Roann](https://open.spotify.com/artist/6OwRvBiAqnNokRLAtnGDLy), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [Perfect Timing \(Remix\)](https://open.spotify.com/album/0fw9YtS9pavlWP1QyOn9EP) | 3:01 |
 | 150 | [Don't Mean Much](https://open.spotify.com/track/4jopkQYJ4hCMXuDmX7dYvm) | [diZzy](https://open.spotify.com/artist/17QnW1iso59n8ecXra29vg) | [Don't Mean Much](https://open.spotify.com/album/2rsN3H54U1bR9BpZ7ndShq) | 3:32 |
 
-Snapshot ID: `MCw3NjRkYWEwYWMwZTE0MGE5Y2ZiMGZiOTAzN2Y3OWQ3YWI5ZjgwNDg0`
+Snapshot ID: `MCw5YTBiNjI4ZDBjOTRmNjU2OWY1MWRkMTJhNGYwYzgwMDU1YWY4Yzk2`

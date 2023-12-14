@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv?si=Y9W\-QzMpQjW9WnMwxiDUyw">YoungstaCPT</a>, <a href="https://open.spotify.com/artist/2ZHcwxaWe7O0aleLIPklnq?si=3i2VPpsaRXOJa4D5nPGsNg">DJ Ready D</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,770 likes - 62 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,791 likes - 62 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

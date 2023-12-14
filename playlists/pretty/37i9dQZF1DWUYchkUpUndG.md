@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs>Jimmy D Psalmist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,523 likes - 105 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,531 likes - 105 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

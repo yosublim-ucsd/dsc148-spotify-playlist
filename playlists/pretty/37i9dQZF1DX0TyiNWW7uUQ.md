@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Best performed tracks of Kollywood Cream in 2023 \#SpotifyWrapped<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,855 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,901 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

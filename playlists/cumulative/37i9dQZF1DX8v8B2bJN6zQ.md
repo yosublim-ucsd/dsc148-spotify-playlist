@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-106 songs - 6 hr 11 min
+107 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [So Cool](https://open.spotify.com/track/2ORHJvrvkdEWqLpbTdYJEI) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm) | [So Cool](https://open.spotify.com/album/2Oonubif3OmZ3nyvIxo3UR) | 2:24 | 2022-02-11 | 2022-04-09 |
 | [Soda Pop](https://open.spotify.com/track/1KuYN9iWN7tO7dSxGnxZOc) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [Soda Pop](https://open.spotify.com/album/6Tlma5hptae75mA5jSMWfG) | 2:44 | 2021-12-17 | 2022-07-29 |
 | [Soda Pop](https://open.spotify.com/track/6EJ0MQNjga0strXUOLiQXf) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [The Black Delorean Project](https://open.spotify.com/album/34o8amg7ZtCb7ku8xKaXEO) | 2:44 | 2022-07-22 |  |
-| [SONG SIX \- CloZee Remix](https://open.spotify.com/track/1Ea6zZ87MWVtSCIRbXeDm2) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SPLIT // PERSONALITY REMIXES PT\. 01](https://open.spotify.com/album/3zKZgJMx9juNy9ZhSgrWsr) | 3:39 | 2022-07-22 |  |
+| [SONG SIX \- CloZee Remix](https://open.spotify.com/track/1Ea6zZ87MWVtSCIRbXeDm2) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SPLIT // PERSONALITY REMIXES PT\. 01](https://open.spotify.com/album/3zKZgJMx9juNy9ZhSgrWsr) | 3:39 | 2022-07-22 | 2023-12-14 |
 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/30rKCglfFE6ta2iJfrwaU1) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SONG SIX \(CloZee Remix\)](https://open.spotify.com/album/5nw1xSZFsU5Jn4Sphc1I9q) | 3:39 | 2021-12-17 | 2022-07-29 |
+| [SONG SIX \- CloZee Remix](https://open.spotify.com/track/39Ve9SKesVMbaI5q4JblmH) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SPLIT // PERSONALITY REMIXES PT\. 01](https://open.spotify.com/album/3rFWKe8BWWdcXfCGFbjsf1) | 3:39 | 2023-11-17 |  |
 | [Stamina](https://open.spotify.com/track/2WV4LZpp6Tvr8wbUyLzKAX) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Ez Quew](https://open.spotify.com/artist/2nePbyJjPQUSF4QNLaFLRb), [Caneschi](https://open.spotify.com/artist/6ZW993YptuBv90KlnaIhTx) | [Stamina](https://open.spotify.com/album/4zwqa6cRtehpTGXk8FNji0) | 3:26 | 2022-07-22 |  |
 | [Stamina](https://open.spotify.com/track/7qM0UyfnElkpDE45C3zagN) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Ez Quew](https://open.spotify.com/artist/2nePbyJjPQUSF4QNLaFLRb), [Caneschi](https://open.spotify.com/artist/6ZW993YptuBv90KlnaIhTx) | [Stamina](https://open.spotify.com/album/3JCdBT6zO4ScGZyvuZ96d3) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Stank](https://open.spotify.com/track/3AkxpOhduYiqdkJChSFN5b) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Stank](https://open.spotify.com/album/5HazQn6Yvc7cim3hitOOQ1) | 2:37 | 2021-12-17 | 2022-04-23 |

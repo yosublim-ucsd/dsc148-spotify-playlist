@@ -57616,6 +57616,24 @@
     {
       "album": {
         "name": "peanut butters II",
+        "url": "https://open.spotify.com/album/6DSIWX0C9izo7f4LMwWUSY"
+      },
+      "artists": [
+        {
+          "name": "peanut butters",
+          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "\u3059\u3052\u30fc \uff08\u5fc3\u306e\u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af\uff09",
+      "url": "https://open.spotify.com/track/0AAYrao1igAJsMFvPETZov"
+    },
+    {
+      "album": {
+        "name": "peanut butters II",
         "url": "https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p"
       },
       "artists": [
@@ -57626,7 +57644,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 178213,
       "name": "\u3059\u3052\u30fc \uff08\u5fc3\u306e\u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af\uff09",
       "url": "https://open.spotify.com/track/3uvBxhzorHhO7dVDVouskw"

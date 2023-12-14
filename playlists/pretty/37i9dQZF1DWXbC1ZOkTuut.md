@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Herencia de Grandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,817 likes - 212 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,819 likes - 212 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

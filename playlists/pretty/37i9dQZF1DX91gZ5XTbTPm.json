@@ -1,12 +1,12 @@
 {
   "description": "The Midwest is always on time. Cover: 42 Dugg",
-  "num_followers": 118110,
+  "num_followers": 118201,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTIyNDExNzhjNTJlMWRiMmQ1ZDJkNmIxZjRjZTYyZjQzOWU2OTQ2",
+  "snapshot_id": "MCwwNjhjYzY0NGE3ZmEzMmYyMzBkMWQ2YmMyZDZiMmQwM2UxOWY4NDNj",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -506,10 +506,6 @@
         {
           "name": "Curren$y",
           "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
         }
       ],
       "duration_ms": 138526,

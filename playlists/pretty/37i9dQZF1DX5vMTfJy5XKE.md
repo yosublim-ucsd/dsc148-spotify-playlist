@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,802 likes - 188 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,834 likes - 188 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 24 | [Let it Snow](https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Let it Snow](https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm) | 3:22 |
 | 25 | [Santa's Night](https://open.spotify.com/track/1lrvAMRIFKAbM3oBJ9q7KV) | [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX), [Jason Kelce](https://open.spotify.com/artist/11RtainpIFozRURWgPJxFL) | [A Philly Special Christmas Special](https://open.spotify.com/album/1SgdvaJEvhlYEvm6eNja7i) | 3:04 |
 | 26 | [The First Noel 2023](https://open.spotify.com/track/3yIevB0X71GJW5dAiV1auG) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [The First Noel 2023](https://open.spotify.com/album/5JyUknRbmUjGkehYL8dYOS) | 2:30 |
-| 27 | [Here Comes Santa Claus \(feat\. Tom Gaebel\)](https://open.spotify.com/track/6D20ZXWEsLASb2JtP3JkiG) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a), [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9) | [Here Comes Santa Claus \(feat\. Tom Gaebel\)](https://open.spotify.com/album/4N1IWII8uHVknpMlDm88zl) | 1:47 |
+| 27 | [Here Comes Santa Claus \(with The Tenors\)](https://open.spotify.com/track/3cSayPiyc5mgqahsuaN7lf) | [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Here Comes Santa Claus \(with The Tenors\)](https://open.spotify.com/album/1HO6JUHD7ADuKtMEnUCv5K) | 1:47 |
 | 28 | [Christmas Song](https://open.spotify.com/track/5PL0vNqVE775M4iToTFkVq) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Christmas Song](https://open.spotify.com/album/5qRh4SpFzAKf5zWe2tCJtj) | 2:56 |
 | 29 | [este diciembre.](https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [este diciembre.](https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI) | 3:02 |
 | 30 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1uCJxPGpqw7PAC6RrMkv0F) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Under The Tree](https://open.spotify.com/album/5U25anIJWmH57WGzfqs6HP) | 3:28 |

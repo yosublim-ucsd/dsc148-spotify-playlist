@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:5cgtn5YWC3Fr06wTps1dBq">Goapele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,111 likes - 71 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,114 likes - 71 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

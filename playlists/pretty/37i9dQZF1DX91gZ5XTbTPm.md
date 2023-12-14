@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: 42 Dugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,110 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,201 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 24 | [GAHDAMN](https://open.spotify.com/track/0UmTizjqbT13uqaBhZpWxe) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [GAHDAMN](https://open.spotify.com/album/3PnBGvKL3ivvghtxPmdy5f) | 2:03 |
 | 25 | [Kamehameha](https://open.spotify.com/track/62kJ1EPq1tLUNWtuWJ0Wqw) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [SkuBop](https://open.spotify.com/album/2thtVFNwTy6WO1rseKOyWu) | 3:20 |
 | 26 | [Come Outside \(feat\. YTB Fatt\)](https://open.spotify.com/track/1fxlHuMfJPa0de1WJHOwBf) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Come Outside \(feat\. YTB Fatt\)](https://open.spotify.com/album/0xTtXNNN82brPd2cRn23ZX) | 2:14 |
-| 27 | [Power](https://open.spotify.com/track/27NZPKJRrUgtVAoqg06WkY) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S) | [Power](https://open.spotify.com/album/0LR35Mz9TSsI87kuvSCSH4) | 2:18 |
+| 27 | [Power](https://open.spotify.com/track/27NZPKJRrUgtVAoqg06WkY) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Power](https://open.spotify.com/album/0LR35Mz9TSsI87kuvSCSH4) | 2:18 |
 | 28 | [The Sopranos \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/7MqHN8wKfencDiLYrEs1em) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 3:12 |
 | 29 | [Spend That Bag](https://open.spotify.com/track/7BRllEPvzxFw0vTAfkfUwt) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Spend That Bag](https://open.spotify.com/album/47ofz7Q2l3tVbeRaIj6lft) | 2:39 |
 | 30 | [No Hesitation](https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Hesitation](https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [The Streets](https://open.spotify.com/track/4b9gu3ChsEGAnle4WIqxqo) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [The Streets](https://open.spotify.com/album/3Iqca530onnDoofMp0goL6) | 3:24 |
 | 50 | [Pyrex Kids](https://open.spotify.com/track/4CWWxTamXXIUJByb9YbOa1) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Pyrex Kids](https://open.spotify.com/album/5IMPUqSOUvIOheYQbjOlTX) | 1:52 |
 
-Snapshot ID: `MCw1MTIyNDExNzhjNTJlMWRiMmQ1ZDJkNmIxZjRjZTYyZjQzOWU2OTQ2`
+Snapshot ID: `MCwwNjhjYzY0NGE3ZmEzMmYyMzBkMWQ2YmMyZDZiMmQwM2UxOWY4NDNj`

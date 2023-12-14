@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 231309,
       "name": "Mavane (From \"Pattas\")",
       "url": "https://open.spotify.com/track/6ffEHNJBFnr68xNVoRwPf2"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 159452,
       "name": "Vaanga Vaada",
       "url": "https://open.spotify.com/track/4MG9uBrLjWD68WTXpuc3uV"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 235224,
       "name": "Varlaam Varlaam Vaa",
       "url": "https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn"
@@ -2138,6 +2138,28 @@
       "duration_ms": 217715,
       "name": "Vengamavan - From \"Natpe Thunai\"",
       "url": "https://open.spotify.com/track/2l9BNKgAR5qhYU6VEJGR5v"
+    },
+    {
+      "album": {
+        "name": "Fight Club (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4lBvBSjtIVeGFkRqDdhTTV"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172862,
+      "name": "Viyugam",
+      "url": "https://open.spotify.com/track/2Ps6Zt8739dZimrJvzbxZt"
     },
     {
       "album": {

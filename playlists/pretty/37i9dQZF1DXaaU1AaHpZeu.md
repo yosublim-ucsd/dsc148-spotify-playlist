@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Marco Mares y Bandalos Chinos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,218 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,258 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:41 |
 | 50 | [Que Mueva la Falda](https://open.spotify.com/track/14nRSWEIIifC6h6eFr1oPg) | [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1), [41V1L](https://open.spotify.com/artist/02WU1IpQpPQqdX9aGg9kSj) | [Nocturnos](https://open.spotify.com/album/2429WiRYHW5AyMQ8nmks37) | 3:34 |
 
-Snapshot ID: `MCxlOWUxOWRiYTBmMzczNDQzMjQ5MTBkMjdmYWZlMzBlNzc1ZjI4Nzc2`
+Snapshot ID: `MCw5MzNmYmVjMjZmMGNlYWRkZWYzZDQzZjAwZjVmMmMwYzBmYjdlNGMw`

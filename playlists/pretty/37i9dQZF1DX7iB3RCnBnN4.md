@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Eslabon Armado, Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,194 likes - 529 songs - 1 day 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,270 likes - 529 songs - 1 day 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

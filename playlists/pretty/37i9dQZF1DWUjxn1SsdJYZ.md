@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: B Wise
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,983 likes - 89 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,984 likes - 89 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

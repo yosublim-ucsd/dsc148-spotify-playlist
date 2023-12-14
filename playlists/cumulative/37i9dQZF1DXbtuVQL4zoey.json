@@ -666,10 +666,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 127058,
       "name": "Baller",
       "url": "https://open.spotify.com/track/1fhjWT1MnTzmVvVpOzkSJQ"
+    },
+    {
+      "album": {
+        "name": "Baller",
+        "url": "https://open.spotify.com/album/0544NgVVreDEypcfNVLfVz"
+      },
+      "artists": [
+        {
+          "name": "Lil Gromit",
+          "url": "https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/5uBwUScESAfiOMSFW3kwn5"
     },
     {
       "album": {

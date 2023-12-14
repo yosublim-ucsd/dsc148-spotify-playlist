@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Irepelusa
 
-149 songs - 7 hr 59 min
+150 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Anime](https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Anime](https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR) | 2:39 | 2023-08-11 |  |
 | [Antivirus](https://open.spotify.com/track/5YxHt7H46QWZLLCyhXG35Q) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [De Vuelta A Casa](https://open.spotify.com/album/22N2pYZpb2MlkZT29OARmC) | 3:28 | 2022-03-11 | 2022-12-24 |
 | [Arcade](https://open.spotify.com/track/6dLWgR4WB3gAqcUyW3k5Xj) | [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm) | [Arcade](https://open.spotify.com/album/4vsxOtS3Ni1EhMpzGfNm4l) | 3:13 | 2022-03-11 |  |
-| [Awakate](https://open.spotify.com/track/6oN4KnpdniSxi3i4webjGs) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [Retrofuturismopsicotropical](https://open.spotify.com/album/40lrVieyV0nLORPYMtIc1U) | 3:21 | 2023-07-28 |  |
+| [Awakate](https://open.spotify.com/track/1UHRSABh5ROEVZscnAZo12) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [Retrofuturismopsicotropical](https://open.spotify.com/album/29NRE9sygDra2dY4hZc3eC) | 3:21 | 2023-12-08 |  |
+| [Awakate](https://open.spotify.com/track/6oN4KnpdniSxi3i4webjGs) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [Retrofuturismopsicotropical](https://open.spotify.com/album/40lrVieyV0nLORPYMtIc1U) | 3:21 | 2023-07-28 | 2023-12-14 |
 | [Besayuno](https://open.spotify.com/track/1dBhKaM4ybPl3WcCJGVhA5) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [ALL\-YOU\-CAN\-EAT VOL\. 2](https://open.spotify.com/album/3gKRdhd8p3nBPqxnmOBQ9T) | 2:24 | 2023-04-21 | 2023-07-15 |
 | [Billetes de 100](https://open.spotify.com/track/3uxOuhjpRNrduuLfelV1Cr) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Billetes de 100](https://open.spotify.com/album/6p5t1YD8b1sD9CK6y9HqK7) | 3:33 | 2023-07-21 |  |
 | [Brujería](https://open.spotify.com/track/335X50bC4WpFbQmMGBxi6a) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Brujería](https://open.spotify.com/album/5oaQ0wLZfmH8V7swwzZwHl) | 2:48 | 2022-03-11 |  |

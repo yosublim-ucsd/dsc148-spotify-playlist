@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi?si=mzpc0FFRSMmhOyHHh\_XGng">RAAF</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,905 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,917 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Ons Is Die Vuur](https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Ons Is Die Vuur](https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili) | 2:58 |
 | 50 | [Reckless Love](https://open.spotify.com/track/6ECuZmmXiLXqDtoBOsId2M) | [Jackson Colt](https://open.spotify.com/artist/3gIIWO1zON6oNM0MSWUeJ4) | [Reckless Love](https://open.spotify.com/album/1KG0Gznjj6ieMsSQ86ZKO1) | 2:17 |
 
-Snapshot ID: `MCwwMjBlOGFkZDEwMGY2YzY0YmViZDg2ZWMwOTY1NWZmNzIwM2I5NTky`
+Snapshot ID: `MCwwZTcwZTVmNDJmYWViYjY5MjVlZjNiYWVjNjRlMDRiOWFkMDI1MzQy`

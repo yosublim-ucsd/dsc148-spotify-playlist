@@ -1538,6 +1538,28 @@
     {
       "album": {
         "name": "En La Cocina",
+        "url": "https://open.spotify.com/album/2ncBuRIlsaDCMJS4EU6Cr5"
+      },
+      "artists": [
+        {
+          "name": "Sara Valenzuela",
+          "url": "https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc"
+        },
+        {
+          "name": "Uku Tr\u00edo Bs",
+          "url": "https://open.spotify.com/artist/1v0JdoB8SdjzVUS76pZ0Bj"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233186,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/4qrMdlF0WaiWUoeWivAj0Q"
+    },
+    {
+      "album": {
+        "name": "En La Cocina",
         "url": "https://open.spotify.com/album/3wVGKwyKkhkkWhqbvfMll0"
       },
       "artists": [
@@ -1842,6 +1864,28 @@
       "duration_ms": 240904,
       "name": "Como Viene Se Va",
       "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+    },
+    {
+      "album": {
+        "name": "Condenada",
+        "url": "https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        },
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169887,
+      "name": "Condenada",
+      "url": "https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq"
     },
     {
       "album": {
@@ -3698,7 +3742,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 196690,
       "name": "Heridas - Acoustic Version",
       "url": "https://open.spotify.com/track/2hqgGbTxWK7fToF9QELlgD"
@@ -4962,7 +5006,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 210272,
       "name": "Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o"
@@ -5006,7 +5050,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 359510,
       "name": "Luna",
       "url": "https://open.spotify.com/track/7AmmTz0pxDEBIg4Ln6r6l7"
@@ -5800,7 +5844,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 164817,
       "name": "Ninguna posibilidad",
       "url": "https://open.spotify.com/track/2cCbr2IvZ48GI6VTTmI8X4"
@@ -5964,7 +6008,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 329062,
       "name": "No Pasar\u00e1n",
       "url": "https://open.spotify.com/track/6qoi71vyo13PQeM1jPhMBv"
@@ -6373,7 +6417,7 @@
     },
     {
       "album": {
-        "name": "Para la pena no",
+        "name": "Para la Pena No",
         "url": "https://open.spotify.com/album/7czoUPcYZGaVjeWlMDK4ez"
       },
       "artists": [
@@ -6388,9 +6432,9 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 225287,
-      "name": "Para la pena no",
+      "name": "Para la Pena No",
       "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
     },
     {
@@ -7143,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 va a ser de m\u00ed?",
+        "url": "https://open.spotify.com/album/0LmOKjUiFwWzBz7YFCsjSP"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191008,
+      "name": "Qu\u00e9 va a ser de m\u00ed?",
+      "url": "https://open.spotify.com/track/6Gl97AIqSelC0zoD0FRr1m"
+    },
+    {
+      "album": {
         "name": "Directo en Sdma",
         "url": "https://open.spotify.com/album/3ijnQ2WzCxPQoj0fPUHsaZ"
       },
@@ -7490,7 +7552,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 396285,
       "name": "Sana Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7BQ58l8d8C20KVgm9M6Ean"

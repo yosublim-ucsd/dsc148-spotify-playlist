@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: SHERBETS
 
-894 songs - 2 day 11 hr 28 min
+895 songs - 2 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Circle of Seasons](https://open.spotify.com/track/2ArkFpjdMQaAS67FaHqh2t) | [THE ALFEE](https://open.spotify.com/artist/04bitarCLkcC3GVESLDZgY) | [星空のCeremony / Circle of Seasons](https://open.spotify.com/album/0VeZLoRsRRNeSx5skuQSA5) | 4:38 | 2022-10-11 | 2022-10-19 |
 | [COMEBACK \-愛しき破片\-](https://open.spotify.com/track/7Mgn8p0451fAjylZny6ABK) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [COMEBACK \-愛しき破片\-](https://open.spotify.com/album/1kIuGGIYH31Y9ev3q2DmA3) | 4:26 | 2022-09-29 | 2022-11-02 |
 | [Crap Shit](https://open.spotify.com/track/66KwfIC541C6M7oBUnAAos) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Crap Shit](https://open.spotify.com/album/63QKzcgMKQ3IBxmyah2pPv) | 2:30 | 2022-08-16 | 2022-08-24 |
-| [CからはじまるABC](https://open.spotify.com/track/1f3WUGAATOOFtqfPL77Tif) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM), [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いまも忘れらんねえよ。 \(DISC 2\)](https://open.spotify.com/album/3SlDeg4ksz8Sf3fLNBitHy) | 2:27 | 2023-12-12 |  |
+| [CからはじまるABC](https://open.spotify.com/track/1Jk26lT8qgYtMzJvrAPZLe) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM), [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いまも忘れらんねえよ。](https://open.spotify.com/album/6c5bGsFefe56pQWvWCuvGZ) | 2:27 | 2023-12-12 |  |
+| [CからはじまるABC](https://open.spotify.com/track/1f3WUGAATOOFtqfPL77Tif) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM), [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いまも忘れらんねえよ。 \(DISC 2\)](https://open.spotify.com/album/3SlDeg4ksz8Sf3fLNBitHy) | 2:27 | 2023-12-12 | 2023-12-14 |
 | [DADADADA!!](https://open.spotify.com/track/5GKUID6YTAM4ps2u5Urw6t) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [キミボク](https://open.spotify.com/album/1DhaAjt9xfSjJP8juoYf0t) | 4:22 | 2022-11-22 | 2022-12-14 |
 | [Dani](https://open.spotify.com/track/5ykMYNZv2E8iPKZFkuxJC6) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [COMPACT DISC](https://open.spotify.com/album/22V3Kxi5wlfh6V2jt39Q2I) | 4:29 | 2023-02-07 | 2023-02-15 |
 | [Dark Crow](https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Dark Crow](https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT) | 4:38 | 2023-06-27 |  |

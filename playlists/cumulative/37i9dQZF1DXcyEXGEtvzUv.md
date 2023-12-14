@@ -4,7 +4,7 @@
 
 > O melhor do rap e a música urbana em 2023\. Foto: T\-Rex.
 
-147 songs - 8 hr 35 min
+148 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Morte do Artista](https://open.spotify.com/track/1Cq83G1oAeRqHyBW3go5vM) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Cool Kid](https://open.spotify.com/album/0OhiYPXXXNNoxSkiDOYjNF) | 3:27 | 2022-11-30 | 2023-12-09 |
 | [Moça](https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz) | 3:00 | 2021-12-01 | 2023-12-09 |
 | [Mudo de Vida](https://open.spotify.com/track/65TnBEqYie3BRoMbd8d30t) | [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [Mudo de Vida](https://open.spotify.com/album/1tjLg5elGpdZMSmmUoZbfi) | 3:28 | 2021-12-01 | 2022-12-01 |
-| [México](https://open.spotify.com/track/0pDYDKL7Gsd333bEcEgtLO) | [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl) | [México](https://open.spotify.com/album/4p8i8HdR8Sk2cM3l5F7q01) | 3:05 | 2023-11-29 |  |
+| [México](https://open.spotify.com/track/0pDYDKL7Gsd333bEcEgtLO) | [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl) | [México](https://open.spotify.com/album/4p8i8HdR8Sk2cM3l5F7q01) | 3:05 | 2023-11-29 | 2023-12-14 |
+| [México](https://open.spotify.com/track/5XNSavvdx12XYwdMFWIy4S) | [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl) | [México](https://open.spotify.com/album/6LsXDIodPVdQR6UWLXEJWN) | 3:05 | 2023-11-29 |  |
 | [Mónica](https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Mónica](https://open.spotify.com/album/4NEbbX06fF18QRkOpa53oG) | 3:12 | 2023-11-29 |  |
 | [Na Minha](https://open.spotify.com/track/15CudiW2RzBg2opP4jxFXE) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [Na Minha](https://open.spotify.com/album/1MUvM0eDQhzkoQXpFbcgCB) | 3:26 | 2021-12-01 | 2022-12-01 |
 | [Nirvana](https://open.spotify.com/track/1d9WnUOwgcnigchwI7pMPu) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Nirvana](https://open.spotify.com/album/6iVnhMtEQAuG6EpErY879Q) | 2:03 | 2023-11-29 |  |

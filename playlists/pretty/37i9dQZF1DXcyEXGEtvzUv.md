@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap e a música urbana em 2023\. Foto: T\-Rex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,209 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,368 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 4 | [I'm Sorry](https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [I'm Sorry](https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj) | 3:22 |
 | 5 | [Alcatraz](https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Alcatraz](https://open.spotify.com/album/7aFKsnwLJ7fMY90k4yVXiz) | 3:25 |
 | 6 | [Where U @](https://open.spotify.com/track/5KX1zLcBZ5bv8iA1odyonT) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Where U @](https://open.spotify.com/album/1Zs1EZDcCtlQys0VDUg5ls) | 2:22 |
-| 7 | [México](https://open.spotify.com/track/0pDYDKL7Gsd333bEcEgtLO) | [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl) | [México](https://open.spotify.com/album/4p8i8HdR8Sk2cM3l5F7q01) | 3:05 |
+| 7 | [México](https://open.spotify.com/track/5XNSavvdx12XYwdMFWIy4S) | [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl) | [México](https://open.spotify.com/album/6LsXDIodPVdQR6UWLXEJWN) | 3:05 |
 | 8 | [FIM do NADA](https://open.spotify.com/track/4QTYp7oIjHLyRNVjyIPTFQ) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [FIM do NADA](https://open.spotify.com/album/6IIAlFbQI78vlC9ynutpTM) | 4:06 |
 | 9 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
 | 10 | [Minha Terra](https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Minha Terra](https://open.spotify.com/album/05rD9jNxOYPOIZu6cNPdL3) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 49 | [ALKiMISTA](https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/0siZdhz3ZguKw6Xrgh4Fw0) | 2:45 |
 | 50 | [Coisas no Vento](https://open.spotify.com/track/7Gfg5xHobbq5gV6B46mqSL) | [Riça](https://open.spotify.com/artist/3MJelg6WWGVD9xNL1xFSIE), [Kass](https://open.spotify.com/artist/3petAllfgRP2hyYINfKOag) | [Diabos m' Elevem](https://open.spotify.com/album/4r7flExuW4t3aQEkKL7ikd) | 4:23 |
 
-Snapshot ID: `MCw4NDQyZTQyYmExNTIyNDVkMTJmNDcyNTI0ZDY4NjgwZjEyODUxMDkx`
+Snapshot ID: `MCw2ZTExOWI4YjI4NjU5ZWJmMzhiNTc3NTIzODdmMjQwZDVkODIzZmZi`

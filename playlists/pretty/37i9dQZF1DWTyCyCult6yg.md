@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 
 > Caterina Barbieri's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,526 likes - 29 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,535 likes - 29 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,6 +36,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 | 26 | [Simple Song \#3](https://open.spotify.com/track/3LFOeWFs0DIMtM4Gfgc90y) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6), [Terry Davies](https://open.spotify.com/artist/6APswPnMBKxYpJuuxkhjFN), [David Lang](https://open.spotify.com/artist/7rdRfDNLKnGbxnnanaggQ2) | [Youth \(Original Soundtrack Album\)](https://open.spotify.com/album/4PEi00t2ZRYcvyvmzk5vUi) | 6:02 |
 | 27 | [Structures from Silence](https://open.spotify.com/track/6fWQiphelkd7NF3CoPegB1) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 28:33 |
 | 28 | [Agalma VI](https://open.spotify.com/track/2AMuGr4llwtut9y4l4TJNU) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Agalma](https://open.spotify.com/album/5qHPkkSl1GwTNqHQx0nuwk) | 5:48 |
-| 29 | [Fantas](https://open.spotify.com/track/0fjYD3Tx5XHuI4yfCjhUfU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Ecstatic Computation](https://open.spotify.com/album/1hOgPjM2AP2zUJnaXmmEGb) | 10:31 |
+| 29 | [Fantas](https://open.spotify.com/track/4mrRhrbG2o102StszS7I8y) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Ecstatic Computation](https://open.spotify.com/album/2wcVvjGwKFPtVV8Ggn5dkm) | 10:31 |
 
 Snapshot ID: `MCw1NGY3Y2Q3NmUwYzhkODNjZWYxYTQ2OTc4YjMyYzg2M2FkZDNjMzBl`

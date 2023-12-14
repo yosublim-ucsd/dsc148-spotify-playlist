@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 
 > Continuous brown noise to sleep longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,369 likes - 238 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,620 likes - 238 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 | 237 | [Brown Noise Ambient Music](https://open.spotify.com/track/37oGrZzNz0rlx9Eku8ayim) | [Ablation](https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD) | [Brown Noise for Focus](https://open.spotify.com/album/7m6H0VaqjftnVc7cUsdAHo) | 2:25 |
 | 238 | [Brown Noise for Relaxation](https://open.spotify.com/track/1gU8BZkkAAgyDHCzDv5obA) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Brown Noise for Relaxation](https://open.spotify.com/album/37XeeoY4EwEZhBMRl6UE9C) | 2:33 |
 
-Snapshot ID: `MCw4NGI4MWRjYzQzZmUzYzlmNzAwMjI2YmM5NTgwYjg0MmQzMmY3Mjk5`
+Snapshot ID: `MCxjZjMzODAwODg3YTI3ZWIwNGU1NjcwNDY0NDk2ZDBlMDM2ODAwMWEw`

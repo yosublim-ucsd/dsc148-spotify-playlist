@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Greece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,552 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,558 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 | 49 | [Ferma](https://open.spotify.com/track/46EdocEk7a205VzqQAjH84) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Roran](https://open.spotify.com/artist/4Uy9871qRPu27CXO4umdZj), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [1111](https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf) | 2:49 |
 | 50 | [De Me Ksereis Kala](https://open.spotify.com/track/7etssWv7DrxlUkrVQhWslJ) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [DJ Cron](https://open.spotify.com/artist/5j0ZtqEfRWZeQUWyTrwDbj), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [De Me Ksereis Kala](https://open.spotify.com/album/7EOQnBeMJxShuPloWNgI4h) | 3:05 |
 
-Snapshot ID: `NzU1ODMyMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzU1ODQ5NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

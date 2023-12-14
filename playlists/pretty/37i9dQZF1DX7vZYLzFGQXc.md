@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 2023년 Fresh Finds Korea를 빛낸 트랙들을 만나보세요! \(Listen the highlight tracks in Fresh Finds playlist this year!\) \(커버: 태우\(TAEWOO\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,208 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,219 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

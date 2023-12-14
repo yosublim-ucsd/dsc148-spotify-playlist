@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A French Film",
+        "url": "https://open.spotify.com/album/2JmiWAL0pcAGTBatnbPcp4"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139666,
+      "name": "A French Film",
+      "url": "https://open.spotify.com/track/72eFRpAOIUP4W5LF9pBydT"
+    },
+    {
+      "album": {
         "name": "A Gentle Place",
         "url": "https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw"
       },
@@ -164,6 +182,24 @@
       "duration_ms": 166546,
       "name": "Abre los ojos",
       "url": "https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj"
+    },
+    {
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207219,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
     },
     {
       "album": {
@@ -380,6 +416,24 @@
       "duration_ms": 134500,
       "name": "Auriga",
       "url": "https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn"
+    },
+    {
+      "album": {
+        "name": "Autumnal",
+        "url": "https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM"
+      },
+      "artists": [
+        {
+          "name": "Max Dew",
+          "url": "https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124416,
+      "name": "Autumnal",
+      "url": "https://open.spotify.com/track/6i653T49GCokF7aFcgG76h"
     },
     {
       "album": {
@@ -3578,6 +3632,24 @@
       "duration_ms": 142700,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR"
+    },
+    {
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/0g9e9dDtZqkgsF8rKCCaD0"
+      },
+      "artists": [
+        {
+          "name": "Quies Mentis",
+          "url": "https://open.spotify.com/artist/7qUboETECQdDdZ5Nzmb5IT"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/4vFdBWXDY7Y8sPvWYFqAGK"
     },
     {
       "album": {

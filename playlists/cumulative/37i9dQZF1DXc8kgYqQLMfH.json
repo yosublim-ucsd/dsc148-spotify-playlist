@@ -9972,7 +9972,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 135468,
       "name": "Leon",
       "url": "https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN"
@@ -11650,7 +11650,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 128890,
       "name": "Mind The Gap",
       "url": "https://open.spotify.com/track/6uTQFfranV3N08C6H3M2PU"
@@ -12714,6 +12714,24 @@
       "duration_ms": 135750,
       "name": "new umbrella",
       "url": "https://open.spotify.com/track/2P0WFMWtobbWsSyqTCnFUj"
+    },
+    {
+      "album": {
+        "name": "New York Is Asleep",
+        "url": "https://open.spotify.com/album/4hJPTXwae6JDtC7m8QcdRU"
+      },
+      "artists": [
+        {
+          "name": "ATONED",
+          "url": "https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162189,
+      "name": "New York Is Asleep",
+      "url": "https://open.spotify.com/track/6Eb37wwzE1vtmMxqf9toe7"
     },
     {
       "album": {
@@ -18746,7 +18764,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 104750,
       "name": "Time To Fly",
       "url": "https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o"
@@ -19044,6 +19062,24 @@
       "duration_ms": 140000,
       "name": "Traces Left Behind",
       "url": "https://open.spotify.com/track/7JBZA48IlwHczdv4Tuxluv"
+    },
+    {
+      "album": {
+        "name": "Traffic Lights",
+        "url": "https://open.spotify.com/album/0ow8wqlJZbVwG2bcE0yVBH"
+      },
+      "artists": [
+        {
+          "name": "Kisiaria",
+          "url": "https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194004,
+      "name": "Traffic Lights",
+      "url": "https://open.spotify.com/track/3y2keSaK5gIqeMeAqAglOa"
     },
     {
       "album": {
@@ -19460,7 +19496,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 108281,
       "name": "under the bridge",
       "url": "https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt"

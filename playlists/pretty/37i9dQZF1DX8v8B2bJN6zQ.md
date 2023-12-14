@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,565 likes - 66 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,593 likes - 66 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 40 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 |
 | 41 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 |
 | 42 | [Highest In The Room](https://open.spotify.com/track/2h3t3Foxd1VrOMEM7smWZM) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Highest In The Room](https://open.spotify.com/album/1sSGaUZ48mi8qd0KR21RZo) | 2:26 |
-| 43 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/1Ea6zZ87MWVtSCIRbXeDm2) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SPLIT // PERSONALITY REMIXES PT\. 01](https://open.spotify.com/album/3zKZgJMx9juNy9ZhSgrWsr) | 3:39 |
+| 43 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/39Ve9SKesVMbaI5q4JblmH) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SPLIT // PERSONALITY REMIXES PT\. 01](https://open.spotify.com/album/3rFWKe8BWWdcXfCGFbjsf1) | 3:39 |
 | 44 | [McLovin](https://open.spotify.com/track/1oSSriyVC0PHUNcfkoSMyK) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [McLovin](https://open.spotify.com/album/2cwAoPtumKl03bx9q6y26a) | 3:29 |
 | 45 | [Stamina](https://open.spotify.com/track/2WV4LZpp6Tvr8wbUyLzKAX) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Ez Quew](https://open.spotify.com/artist/2nePbyJjPQUSF4QNLaFLRb), [Caneschi](https://open.spotify.com/artist/6ZW993YptuBv90KlnaIhTx) | [Stamina](https://open.spotify.com/album/4zwqa6cRtehpTGXk8FNji0) | 3:26 |
 | 46 | [Quarentoxic](https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/3JZ8UlANPOiKPRXDub8In1) | 3:13 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 65 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 66 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MCw1MjVjMDVkZmE5YjA1ZjBhOTYyZWUyOTA3MGM4ZGMzOWYzNjQ1MThk`
+Snapshot ID: `MCwyYTM1OWRhMjMxZTU4MDc5M2QxMGFjOTUxYTgwNTgzNWFmNDFmZDRl`

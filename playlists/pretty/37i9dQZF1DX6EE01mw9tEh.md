@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EE01mw9tEh.md) - [plain]
 
 > Sumérgete a lo más profundo de tu mente con el sonido del mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,439 likes - 250 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,443 likes - 250 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

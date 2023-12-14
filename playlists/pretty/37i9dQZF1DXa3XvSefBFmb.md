@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 ### [EQUAL Portugal: O melhor de 2023](https://open.spotify.com/playlist/37i9dQZF1DXa3XvSefBFmb)
 
-> As artistas femeninas do ano, como Sara Tavares \(in memoriam\).
+> As artistas femininas do ano, como Sara Tavares \(in memoriam\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,385 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,491 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Tensa](https://open.spotify.com/track/3dnpcmta1PYyK7KnBQmk5p) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ), [Malva](https://open.spotify.com/artist/0ZGeXDeVRYGrf8dA3sFzGE) | [Tensa](https://open.spotify.com/album/5NpoAYN1zGSExnlwxZpmgU) | 3:21 |
 | 50 | [Nyanyana](https://open.spotify.com/track/686Gapb3LQuK8LhfYcnYG9) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [alla](https://open.spotify.com/album/2z3oCBULHZqfLu4WmVKno2) | 4:13 |
 
-Snapshot ID: `MCw4ZWQwZjE1NzhkMzNiODcyZjA5NzVlMjAwZGYxMWJmMTEwNTY0NjI3`
+Snapshot ID: `MCw1ZThmNzc2Yzk4YTYxZWE3ZDRmMThlMGNlNzFiOWYxZDhiMDYwZmRi`

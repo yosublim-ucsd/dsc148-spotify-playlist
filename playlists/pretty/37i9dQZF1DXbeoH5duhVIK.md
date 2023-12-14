@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,643 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,824 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 72 | [Smoulder](https://open.spotify.com/track/2XIcdldYKAhOAYSWoe0Xfl) | [EMA](https://open.spotify.com/artist/0MT8Af4BlhE02l91O6cfyQ) | [The Future's Void](https://open.spotify.com/album/1kDe6TJirwUB2NYj7oDIhB) | 5:08 |
 | 73 | [All The Girls Get Together And Rule](https://open.spotify.com/track/58imTuTZa3LkwfOdKwsLdv) | [Costanza](https://open.spotify.com/artist/1qvYgywpWubEqaAKoKnaEg) | [Zerokilled](https://open.spotify.com/album/01M9XLTxEfesaQjCfa2YYB) | 3:48 |
 | 74 | [Tarantula](https://open.spotify.com/track/6zJPiBmG7U1cmTWdZUSedW) | [Bob Schneider](https://open.spotify.com/artist/4YOxTnmYogOpUPxrNTacvQ) | [Lovely Creatures](https://open.spotify.com/album/7eg3yLbuLtPLEJHdStdMeT) | 4:08 |
-| 75 | [I Am Not Afraid](https://open.spotify.com/track/1RrZxbyFYrB9vZMDyeRQWX) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 3:46 |
+| 75 | [I Am Not Afraid](https://open.spotify.com/track/4tsAqiZ7Biwphvri9zpSTQ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/7qGnsVywMDpieieyFKBrdu) | 3:46 |
 | 76 | [Music \(I Like It\) \- Part 1](https://open.spotify.com/track/2Jb1h4KCaLwnFW42DNMUUp) | [Benny Sharp & The Sharpies](https://open.spotify.com/artist/61D7cUf6FGUAvPmW8bbR4G) | [The One\-Derful! Collection, Vol\. 5: Midas Records](https://open.spotify.com/album/2tpNiQOSzFHKcxe1p5leGq) | 2:55 |
 | 77 | [Wildest Moments](https://open.spotify.com/track/2QPuWjnOa6N5p8fGn3iGly) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion](https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R) | 3:42 |
 | 78 | [Dangerous \(Redux\)](https://open.spotify.com/track/3rSC8JxbxY5m7D5Atkmla4) | [Jaymes Bullet](https://open.spotify.com/artist/3ue5XnHkGOgu580Ndtz71u) | [Dangerous \(Redux\)](https://open.spotify.com/album/5zuFMxqF2aaPIuxzbWZtKG) | 6:06 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 101 | [A Bit like Todayz](https://open.spotify.com/track/2YIHgWe4yVg47gw78GxokQ) | [DJ Destroyer](https://open.spotify.com/artist/3D60ZYCpmUW1j9tog4jKJT) | [A Bit like Todayz](https://open.spotify.com/album/4SnginvNQ6ojUT2UESpVDn) | 4:15 |
 | 102 | [Beautiful Gold](https://open.spotify.com/track/5U7aqUHeCSiMsL5iC0m1OL) | [Hillgate County](https://open.spotify.com/artist/6IMAiDdDghtLoMSr2XZXCO) | [Beautiful Gold](https://open.spotify.com/album/0qugubB1MGTC9z5t5BpjYT) | 3:11 |
 
-Snapshot ID: `MCw0MDFhYzhkZjgzOWQ1YWY5MWNmYjNmZGY3OTJhYmMyNDhiMzQyN2Ji`
+Snapshot ID: `MCw0Mjk1NWVhMzQ0YmRmMmQyNzAwNzkzZDU0NWUwZDg1OTE2MjA5NmFh`

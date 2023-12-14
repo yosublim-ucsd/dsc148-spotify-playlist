@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Nacho x Gilberto Daza x Alex Zurdo Foto: <a href="spotify:artist:6pdXxGaaEGf7huw3C6fz6a">Gilberto Daza,</a> <a href="spotify:artist:2ayNSoKPCRAfjp6hQ76hRu">Nacho,</a> <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,093 likes - 99 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,117 likes - 99 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3225,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Regarde La Danser",
+        "url": "https://open.spotify.com/album/5WoHF3s6Dc8ha98Yhxj7Nx"
+      },
+      "artists": [
+        {
+          "name": "Christer Karlsson",
+          "url": "https://open.spotify.com/artist/67b16EsZVgR75HridsH8PV"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Regarde La Danser",
+      "url": "https://open.spotify.com/track/3UDMTk71Yc1P4m5SDTFhLZ"
+    },
+    {
+      "album": {
         "name": "Retreat",
         "url": "https://open.spotify.com/album/6vI6bM5u9nzEYEuDoxgJhe"
       },
@@ -4123,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Summer's Tale",
+        "url": "https://open.spotify.com/album/0AsKHUqnCGQfv06ktn0Y1s"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Becerra",
+          "url": "https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134218,
+      "name": "Summer's Tale",
+      "url": "https://open.spotify.com/track/0r0JIF3bjhxpexXhxuX5uT"
+    },
+    {
+      "album": {
         "name": "Sun Crosses The Sky",
         "url": "https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z"
       },
@@ -4322,6 +4358,24 @@
       "duration_ms": 210000,
       "name": "The Chapel",
       "url": "https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3"
+    },
+    {
+      "album": {
+        "name": "The Old Garden",
+        "url": "https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM"
+      },
+      "artists": [
+        {
+          "name": "Sanna Aalto",
+          "url": "https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174781,
+      "name": "The Old Garden",
+      "url": "https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh"
     },
     {
       "album": {
@@ -5064,6 +5118,24 @@
       "duration_ms": 162522,
       "name": "\u00c1mbar",
       "url": "https://open.spotify.com/track/7gScZspJ5A3DpEY8rWNiO3"
+    },
+    {
+      "album": {
+        "name": "\u00c9clat de Brume",
+        "url": "https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG"
+      },
+      "artists": [
+        {
+          "name": "Amine Ayad",
+          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160343,
+      "name": "\u00c9clat de Brume",
+      "url": "https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcEKFjZJYZcc"

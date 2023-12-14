@@ -4,7 +4,7 @@
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-374 songs - 22 hr 57 min
+375 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [blind spot](https://open.spotify.com/track/6rcunB73aRxovp9AiH5xv3) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [blind spot](https://open.spotify.com/album/3ZphzQmhpHU9LY4TrNcgbW) | 3:21 | 2021-10-21 | 2022-07-19 |
 | [Bones](https://open.spotify.com/track/3RGvoMBGhoY43FudUpVvqo) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Bones](https://open.spotify.com/album/2umIONJdwiF43nstu1xtpI) | 3:07 | 2021-10-21 | 2022-06-21 |
 | [Break It Right](https://open.spotify.com/track/2ggaQJV9jcN2dJt8BMV4SD) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Break It Right](https://open.spotify.com/album/3oTPnnvEW5k9XSD9DURps6) | 3:55 | 2021-10-21 | 2022-04-20 |
-| [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 | 2022-03-24 |  |
+| [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 | 2022-03-24 | 2023-12-14 |
 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 | 2022-05-19 | 2022-11-27 |
 | [Breaking Hearts](https://open.spotify.com/track/4cZCwAy1bunT9covlDmZa3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/0mXuESYo2Gd1quvVflixyi) | 2:46 | 2022-03-24 | 2022-04-21 |
 | [Breathe](https://open.spotify.com/track/3kVRbLSL19IYYix6xVsMAx) | [CUTTS](https://open.spotify.com/artist/1D9BiGJs3fNXxVidkbKn0M) | [Breathe](https://open.spotify.com/album/6kxEPx5UzRm6OBkleE9azl) | 4:36 | 2022-03-24 | 2022-04-21 |
@@ -197,7 +197,7 @@
 | [Leave Your Lover](https://open.spotify.com/track/3b5LW3nS3WFQyS1e8ajGJN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:08 | 2022-05-19 | 2022-11-13 |
 | [Leave Your Lover](https://open.spotify.com/track/6o6BDZSsiWPL8e3k2VvetD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe\)](https://open.spotify.com/album/48Q27KoyKp38caYPuy0KXD) | 3:08 | 2022-03-24 | 2022-04-21 |
 | [Let Him Go](https://open.spotify.com/track/53JYK65bbkGTKB9QBi1eWL) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Let Him Go \(feat\. Clara Mae\)](https://open.spotify.com/album/4a7AvIkYVSP7FNHtuv5Vzt) | 3:35 | 2021-10-21 | 2022-04-17 |
-| [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 | 2021-10-21 | 2023-12-11 |
+| [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 | 2021-10-21 |  |
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2022-05-19 |  |
 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 | 2022-03-24 | 2022-04-20 |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-10-21 |  |
@@ -222,6 +222,7 @@
 | [Loved You Once](https://open.spotify.com/track/3LbwR2WcofkDBp4LSgGJh1) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Loved You Once](https://open.spotify.com/album/01iLv3vWw6HJNlpkpazU8G) | 2:28 | 2021-10-21 | 2022-07-29 |
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2021-10-21 |  |
 | [Lying That You Love Me](https://open.spotify.com/track/5uzVktek96iav42umOw4eL) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Lying That You Love Me](https://open.spotify.com/album/6Cr3ivBN5B2K8RGuICgywg) | 3:45 | 2021-10-21 | 2022-07-29 |
+| [Make It To Me](https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 2:42 | 2022-05-19 |  |
 | [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2022-05-19 | 2023-10-04 |
 | [Make It To Me](https://open.spotify.com/track/4qPtIDBT2iVQv13tjpXMDt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe Edition\)](https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp) | 2:42 | 2021-10-21 | 2022-07-29 |
 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 | 2022-03-24 | 2022-04-19 |
@@ -371,7 +372,7 @@
 | [Wrong Direction](https://open.spotify.com/track/5Qsp8mtshe70DX7EYbWZGo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 4:08 | 2022-05-19 | 2022-11-14 |
 | [Wrong Direction](https://open.spotify.com/track/7GCVboEDzfL3NKp1NrAgHR) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Wrong Direction](https://open.spotify.com/album/2gjtjSAbxvoeQs6zYHj1HJ) | 4:08 | 2021-10-21 | 2022-07-29 |
 | [You](https://open.spotify.com/track/4x4bz6m6oYvRPxNU4HRQHZ) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/0moY5BetMaS0Vyi0Hh3zpb) | 3:32 | 2022-03-24 | 2022-04-21 |
-| [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2022-05-19 |  |
+| [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2022-05-19 | 2023-12-14 |
 | [You & Me](https://open.spotify.com/track/5g45gvxgaYVuhkDACPnvfh) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [You & Me](https://open.spotify.com/album/4fZk4ATcsp1hC6WKuh6Y9K) | 3:51 | 2021-10-21 | 2022-07-29 |
 | [You Are a Memory](https://open.spotify.com/track/5cWSpmTfItDuppACMrE3I9) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Maps](https://open.spotify.com/album/13fSrslfho3Hi0ZGzEdYoI) | 3:41 | 2022-03-24 | 2022-04-21 |
 | [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2021-10-21 | 2022-06-20 |

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-542 songs - 1 day 8 hr 37 min
+543 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2021-12-16 | 2023-04-30 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2023-04-25 |  |
 | [Hypnosis](https://open.spotify.com/track/3BnKPpfYjejXbZ3Glx0gEp) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/5c1UTJgzQTOAZ2at2cI7Aw) | 3:51 | 2021-12-16 | 2022-07-29 |
-| [Hypnosis](https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 3:51 | 2022-07-26 |  |
+| [Hypnosis](https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 3:51 | 2022-07-26 | 2023-12-14 |
 | [I Don't Care](https://open.spotify.com/track/2e1j5sMegdfPy1PkE48GmI) | [Final Solution](https://open.spotify.com/artist/1D6tXJA1oytyecOREfZuSj) | [Brotherman: OST by The Final Solution](https://open.spotify.com/album/61yGaQjQVWNtk7NRYndFXf) | 4:17 | 2022-03-30 | 2022-04-18 |
 | [I Don't Wanna Lose](https://open.spotify.com/track/1o3QC3SiP40iupA6hzx4EH) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:20 | 2022-02-23 | 2022-04-28 |
 | [I Just Want To Talk To You](https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr) | [Charles Brown](https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg), [Sleepy Creek](https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97) | [Circles](https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV) | 3:11 | 2023-04-25 | 2023-10-11 |
@@ -315,7 +315,7 @@
 | [Moving On and Getting Over](https://open.spotify.com/track/1CdEcheLJU6SgxnbFEj2WX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything \- Wave One](https://open.spotify.com/album/5GkyQHN2jO9L05VV0gBnGH) | 4:21 | 2022-03-30 | 2022-04-21 |
 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 | 2022-03-30 | 2023-01-22 |
 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 | 2022-05-24 | 2022-07-29 |
-| [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-10-14 |  |
+| [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-10-14 | 2023-12-14 |
 | [My Stove's on Fire](https://open.spotify.com/track/1rQeb39RWb5BaRqsxTTccU) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO) | 2:48 | 2023-06-26 | 2023-10-02 |
 | [My Stove's on Fire](https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2) | 2:48 | 2022-08-19 | 2023-04-30 |
 | [My Stove's On Fire](https://open.spotify.com/track/7CqtU7m36JwR5rxyKKxgGN) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music And Dreams](https://open.spotify.com/album/780zhYt7wiroYXHLYPhPiJ) | 2:48 | 2021-12-16 | 2022-07-29 |
@@ -447,7 +447,7 @@
 | [Switch](https://open.spotify.com/track/42VpxSdGQgnV1UJkWeGYkA) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 | 2022-03-30 | 2022-04-21 |
 | [Take It Easy](https://open.spotify.com/track/2GcMJZuPiou4qvPlxE2CIr) | [Archie James Cavanaugh](https://open.spotify.com/artist/4iKkIkbDSAiPibQW4PxQFE) | [Black And White Raven](https://open.spotify.com/album/6drlBqAE7vyuPnAPOMEZml) | 3:26 | 2022-03-30 | 2022-04-17 |
 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 | 2022-03-30 | 2022-04-20 |
-| [Talk About It](https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Talk About It \(B\-Side\)](https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr) | 2:12 | 2021-12-16 | 2023-07-02 |
+| [Talk About It](https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Talk About It \(B\-Side\)](https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr) | 2:12 | 2021-12-16 |  |
 | [Talk It Out](https://open.spotify.com/track/5sDxIlinyY5NL7HIt1XJ1j) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/6NYqCTdy9xH6p1n4wSR98x) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Talk It Out](https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5) | 3:10 | 2022-07-26 |  |
 | [Talk to Em \(Moods Remix\) \[feat\. Efe\]](https://open.spotify.com/track/148do5V5lrRv3mcJdEJiBJ) | [Pat Van Dyke](https://open.spotify.com/artist/1yaeIrccwZJISDyXmizfZZ), [Efe](https://open.spotify.com/artist/5oCyvi3weIhGuqTxcTuZ85) | [Technicolor Hi\-Fi Remixes](https://open.spotify.com/album/4qwcUkHCvSLUXI2vrZ6rTQ) | 4:06 | 2022-03-30 | 2022-04-20 |
@@ -477,6 +477,7 @@
 | [Think I'm In Love](https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [The Information](https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF) | 3:19 | 2022-03-30 |  |
 | [This Is My Story](https://open.spotify.com/track/0VjwGDxuJc2rSOZKHjPiTc) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [This Is My Story](https://open.spotify.com/album/7FuvTyHDnLDuGWaVCWsjMx) | 2:12 | 2021-12-16 | 2022-07-29 |
 | [This Is My Story](https://open.spotify.com/track/1SauvELylW5CaydMeG33ib) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [This Is My Story](https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs) | 2:12 | 2022-10-14 | 2023-10-09 |
+| [This Is My Story](https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Big Crown Vaults Vol\. 3 \- Holy Hive](https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46) | 2:12 | 2023-12-07 |  |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2021-12-16 | 2022-01-06 |
 | [Til I Met Thee](https://open.spotify.com/track/0TNXILAGuF49nsIyylBACS) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Landing on a Hundred](https://open.spotify.com/album/37ay1Z8l7tLLcByUsukF3S) | 4:25 | 2022-03-30 | 2022-04-20 |
 | [Time and Place](https://open.spotify.com/track/7JBGmLzOLtpirsys3Ufoqa) | [Lee Moses](https://open.spotify.com/artist/073AjXFaMayG50bDyAopud) | [Time and Place](https://open.spotify.com/album/3L3JOkdZKS4AyKdhF3hahK) | 2:56 | 2022-03-30 | 2022-04-21 |

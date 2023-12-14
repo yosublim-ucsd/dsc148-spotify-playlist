@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,060 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,081 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Ain't You](https://open.spotify.com/track/7yTVwl7gjKjiZJcyrcK6GE) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ain't You](https://open.spotify.com/album/5ajGSLZVzKx3NmKMPGiFhw) | 2:36 |
 | 50 | [Can't Forget](https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Can't Forget](https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo) | 4:07 |
 
-Snapshot ID: `MCw2MDQ0MDMyZjg3ODA2Nzk0MzkxMTY4ZjM3YTg4OWU3OTkzYmJjYTQ0`
+Snapshot ID: `MCwzMTgxMmY5YjRiMzBkNzRhZjdhZTcyZjkxYzJhYmNkOTU0NDdmYTk5`

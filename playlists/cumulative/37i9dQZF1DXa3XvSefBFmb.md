@@ -2,7 +2,7 @@
 
 ### [EQUAL Portugal: O melhor de 2023](https://open.spotify.com/playlist/37i9dQZF1DXa3XvSefBFmb)
 
-> As artistas femeninas do ano, como Sara Tavares \(in memoriam\).
+> As artistas femininas do ano, como Sara Tavares \(in memoriam\).
 
 635 songs - 1 day 11 hr 16 min
 

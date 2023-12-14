@@ -1,6 +1,6 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Cher",
-  "num_followers": 241802,
+  "num_followers": 241834,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,22 @@
     {
       "added_at": "2023-12-01 16:40:55",
       "album": {
-        "name": "Here Comes Santa Claus (feat. Tom Gaebel)",
-        "url": "https://open.spotify.com/album/4N1IWII8uHVknpMlDm88zl"
+        "name": "Here Comes Santa Claus (with The Tenors)",
+        "url": "https://open.spotify.com/album/1HO6JUHD7ADuKtMEnUCv5K"
       },
       "artists": [
         {
-          "name": "The Tenors",
-          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
-        },
-        {
           "name": "Tom Gaebel",
           "url": "https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9"
+        },
+        {
+          "name": "The Tenors",
+          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
         }
       ],
       "duration_ms": 107307,
-      "name": "Here Comes Santa Claus (feat. Tom Gaebel)",
-      "url": "https://open.spotify.com/track/6D20ZXWEsLASb2JtP3JkiG"
+      "name": "Here Comes Santa Claus (with The Tenors)",
+      "url": "https://open.spotify.com/track/3cSayPiyc5mgqahsuaN7lf"
     },
     {
       "added_at": "2023-12-01 16:40:55",

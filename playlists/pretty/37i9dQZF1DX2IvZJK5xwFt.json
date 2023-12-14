@@ -1,12 +1,12 @@
 {
   "description": "Only the best rock in the world. Cover: Linkin Park",
-  "num_followers": 166375,
+  "num_followers": 166393,
   "original_name": "Just Rock!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDNhOGMyM2I1YTFmODUwMzJiZjFlMWUxMWViNzI5YWZiM2IyOTgw",
+  "snapshot_id": "MCw0YjE2ZTM0ZTlhZjQ5MjJiNmNhYmU3NzMxOTA2ZGRhODRmN2Q4YzA4",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -59,22 +59,6 @@
       "duration_ms": 198324,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/21mNCl1z482tKpGKv13iig"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "Pavlove",
-      "url": "https://open.spotify.com/track/6PzQE81zHTaJkuoyhGcXlK"
     },
     {
       "added_at": "2023-12-08 00:09:00",

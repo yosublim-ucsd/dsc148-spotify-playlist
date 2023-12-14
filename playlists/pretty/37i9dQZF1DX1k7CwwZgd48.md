@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k7CwwZgd48.md) - [plain]
 
 > Los Que Mandan Presents: Best Música Mexicana Songs of 2023<br/>Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,234 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,311 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

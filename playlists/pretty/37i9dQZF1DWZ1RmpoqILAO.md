@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Alex G
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,018 likes - 151 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,040 likes - 151 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

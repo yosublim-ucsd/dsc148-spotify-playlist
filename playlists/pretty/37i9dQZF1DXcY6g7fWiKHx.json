@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:3QFiymmbJlVBPpnrOatEAkq\">Myd</a>'s favourite tracks. Updated regularly. Curated by Myd. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 36911,
+  "num_followers": 36972,
   "original_name": "Myd's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTk4Nzc3MTc5NTFkMmMxYjY2NTdhZjE2ZGFmZTkwZmU2ZjQxMTg3",
+  "snapshot_id": "MCxjY2M4MGQyYmM3YjdlNWRmNTkyYzIyMmNjZDg5OWUzNDUyNTAyZTVi",
   "tracks": [
     {
       "added_at": "2023-09-25 19:17:54",
@@ -1276,12 +1276,12 @@
           "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         },
         {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        },
-        {
           "name": "Amp Fiddler",
           "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+        },
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
       "duration_ms": 464390,

@@ -4,7 +4,7 @@
 
 > this holiday season lest us not forget the carpenters
 
-1,880 songs - 3 day 23 hr 9 min
+1,883 songs - 3 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-08-25 |  |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2021-03-02 | 2021-03-16 |
 | [Bad Mood](https://open.spotify.com/track/7ckbcPoMTMOdnlBIsrHjDD) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ), [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Bad Mood](https://open.spotify.com/album/03IXGYoYXGmikAhXnedn47) | 3:05 | 2022-06-10 | 2022-07-29 |
+| [bad tattoo](https://open.spotify.com/track/7iUhMgffcOTVXrpBKP0wxm) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [bad tattoo](https://open.spotify.com/album/0j7ZjvfGjpbiSZl4Jm0BKR) | 2:40 | 2023-12-08 |  |
 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2019-05-26\* | 2021-03-23 |
 | [ballad of a homeschooled girl](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:23 | 2023-10-08 |  |
 | [bandages](https://open.spotify.com/track/2g5LoRqCf0dDycdXbT8Pfi) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bandages](https://open.spotify.com/album/7dvCrHSe7fsq3Y6TzTeHtQ) | 2:34 | 2023-08-25 | 2023-10-06 |
@@ -379,8 +380,8 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2023-09-15 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-24 | 2023-09-26 |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-02-17 | 2023-04-23 |
-| [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 | 2022-09-02 |  |
-| [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-14 |  |
+| [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 | 2022-09-02 | 2023-12-14 |
+| [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-14 | 2023-12-14 |
 | [d e a d](https://open.spotify.com/track/4syKTHaJJTF1fxvsNJXHHV) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [d e a d](https://open.spotify.com/album/6BoTX3xIgr81kb80R3nkPL) | 2:37 | 2022-10-28 | 2023-01-28 |
 | [Dadada](https://open.spotify.com/track/4SRkixF643LgySLh8owTkJ) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Dadada](https://open.spotify.com/album/0UUBtEMsxJwMQkoYKiFdjK) | 2:11 | 2021-11-05 | 2022-03-12 |
 | [Daddy \(feat\. Quinn XCII\)](https://open.spotify.com/track/4pJzUvwU5ufYr8rLdQ6aYK) | [Tiny Meat Gang](https://open.spotify.com/artist/072QZuLtCqlAesYnOGY7lN), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Daddy \(feat\. Quinn XCII\)](https://open.spotify.com/album/4fRHBAVYfRzVkd9fBqoJLk) | 2:45 | 2021-05-03 | 2022-03-26 |
@@ -1764,6 +1765,7 @@
 | [VHS](https://open.spotify.com/track/4qWBvOvvNPxLqUbzlEeP8n) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [VHS](https://open.spotify.com/album/5dpCCx6F2ECsqnrdmwNGCH) | 2:15 | 2019-05-26\* | 2019-08-13 |
 | [Vibe](https://open.spotify.com/track/3BV2uhqrUnHif4ZFI5l8Np) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Vibe](https://open.spotify.com/album/5lg6gTticE7LQBi3EFxXhA) | 2:34 | 2022-09-09 | 2022-11-26 |
 | [Vice Versa](https://open.spotify.com/track/69Hc0ZGMFjOhxnFPOpYc29) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Vice Versa](https://open.spotify.com/album/3MQhHWeO9PcFUVaHg3Q719) | 2:56 | 2022-01-07 | 2022-01-10 |
+| [vices](https://open.spotify.com/track/762n155rz6x9e5UHjoxmVC) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [roots](https://open.spotify.com/album/5TPV8JYLrkm15MVr7RhFdi) | 2:46 | 2023-12-08 |  |
 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 | 2022-07-01 | 2022-09-17 |
 | [VICIOUS](https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [VICIOUS](https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv) | 2:12 | 2023-02-10 |  |
 | [Villain](https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:25 | 2022-10-14 | 2023-03-25 |
@@ -1819,6 +1821,7 @@
 | [what's the matter with you](https://open.spotify.com/track/51ov0GSQflAdL1IRga0zSF) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [what's the matter with you](https://open.spotify.com/album/30rzHPzFWkagAe2AiPKOBY) | 3:16 | 2022-10-14 | 2022-10-29 |
 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |
 | [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 | 2023-07-29 |
+| [Whatever Comes My Way](https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [I had a beautiful time, now I have to leave](https://open.spotify.com/album/6uQgWP0yooJzPcr2bYYmrN) | 2:29 | 2023-12-08 |  |
 | [Whatever You Want](https://open.spotify.com/track/4ZSrRU8pPoieBahQ0ZMefB) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Whatever You Want](https://open.spotify.com/album/1b8kG4SDFHlIUpFiOlPhkL) | 3:04 | 2023-01-20 | 2023-02-04 |
 | [Whatever You Want](https://open.spotify.com/track/3qskzElWxkInIwK3zm8WW7) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Whatever You Want](https://open.spotify.com/album/7uPYJlZtWuThRn1hZHxOSG) | 3:20 | 2020-06-12 | 2021-11-10 |
 | [When I Die](https://open.spotify.com/track/0GXnZ1eaJ2TmbFXrDX7pnU) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [When I Die](https://open.spotify.com/album/6wjps6LANkpBonwtE1VXw8) | 2:37 | 2019-05-26\* | 2021-05-27 |
@@ -1854,7 +1857,7 @@
 | [With A Smile](https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [With A Smile](https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp) | 2:56 | 2023-10-06 | 2023-10-24 |
 | [With You With Me](https://open.spotify.com/track/3Y0rnBBAxCWab8Y8CsayUg) | [YUMI](https://open.spotify.com/artist/3xZnNKEKJLFSv7kP7NdWj5) | [With You With Me](https://open.spotify.com/album/2tOCOjZOZltoT7eRcoUErx) | 3:51 | 2019-05-26\* | 2019-08-13 |
 | [WITHOUT ME](https://open.spotify.com/track/07U3HKqYqyeSM1PTCnaqlM) | [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [WITHOUT ME](https://open.spotify.com/album/1IOwyKItig1kQXSHAX8X5J) | 2:57 | 2021-10-10 | 2021-10-11 |
-| [Without You](https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Without You](https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT) | 2:56 | 2023-11-10 |  |
+| [Without You](https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Without You](https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT) | 2:56 | 2023-11-10 | 2023-12-14 |
 | [Wolves](https://open.spotify.com/track/5Agqr1d0H8GGQXZ9WHNvWL) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Wolves](https://open.spotify.com/album/4Wqj1ArIoMgCER5EKZYr1h) | 3:37 | 2022-07-01 | 2022-09-03 |
 | [WON'T BE LONG](https://open.spotify.com/track/0h32uhmiATtEFA3gfPrj1x) | [BOKN](https://open.spotify.com/artist/2Is8aDZ2dU6HGdLfRfVxNe) | [WON'T BE LONG](https://open.spotify.com/album/7bm3WpRXqOGrJp3LvwKoGK) | 2:56 | 2020-06-12 | 2021-10-02 |
 | [WONDER \(reimagined by Smallpools\)](https://open.spotify.com/track/3E70eL43g6tQlck8eU2qVc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [WONDER \(reimagined by Smallpools\)](https://open.spotify.com/album/7MbBNG5HkBIrspwwpv7tMT) | 3:57 | 2020-10-03 | 2021-08-28 |

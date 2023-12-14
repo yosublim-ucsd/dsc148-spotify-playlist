@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 188722,
       "name": "ALMAZAT",
       "url": "https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 176491,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/6mPv3AEn0hX8BK1NjQlrIh"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE"
@@ -1382,6 +1382,24 @@
       "duration_ms": 138000,
       "name": "Secret",
       "url": "https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/5Fvss5PX1CCgCzAKiDjQnP"
+      },
+      "artists": [
+        {
+          "name": "NOIXES",
+          "url": "https://open.spotify.com/artist/4YeITwoqeIks45gELm488B"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/5zUPoKlCfXOY231Japlz9S"
     },
     {
       "album": {

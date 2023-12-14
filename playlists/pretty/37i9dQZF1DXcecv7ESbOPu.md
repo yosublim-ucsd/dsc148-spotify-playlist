@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,806 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,855 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 104 | [Closer \(Side A\)](https://open.spotify.com/track/7xAgn8pKEF0kYykyXOYzGb) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Elliot Greer Presents: Barebones II](https://open.spotify.com/album/1NwqBdHo8IPvu8CKqzwa51) | 3:33 |
 | 105 | [Allt det vackra \- Live från Dalhalla](https://open.spotify.com/track/2v4EJFTPtMsv3WtyaFUJKL) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Allt det vackra \(Live från Dalhalla\)](https://open.spotify.com/album/0o96Q3Qk7nn1bycLxLt2By) | 4:53 |
 
-Snapshot ID: `MCxhYjQ3MGM4ZjVlZGIwODU5MzZlMDE3NWI0YmM1MDkyN2IyNGI1NzZj`
+Snapshot ID: `MCwwMTA3NzNlYjliYTEwNGQ1ZGRkZTBjMTFiNGIzMTE5ZDk1ZWVmMWRi`
