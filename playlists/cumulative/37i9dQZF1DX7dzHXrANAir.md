@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-269 songs - 19 hr 38 min
+270 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Finding solace in the stars](https://open.spotify.com/track/3RF3QEGZwyQFHl6KICwnN5) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Finding solace in the stars](https://open.spotify.com/album/17twwmQ7sZhUQ4rG5Eg71h) | 2:58 | 2021-12-10 | 2022-04-02 |
 | [Flame \- Edit](https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Flame](https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3) | 4:04 | 2022-09-09 | 2023-03-19 |
 | [Fly \- Reimagined by Mercan Dede and Dexter Crowe](https://open.spotify.com/track/1yiS9iXNPZIlwE0zBNe106) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY), [Dexter Crowe](https://open.spotify.com/artist/2MdTMSsrjQTTvP1Jc5g0Zk) | [Reimagined\. Volume 1, Chapter 1](https://open.spotify.com/album/3BOArV9ude9rgHwqhMWqO3) | 8:06 | 2021-12-10 | 2022-01-17 |
+| [Fractured Light](https://open.spotify.com/track/0QEbD9ZfzG6Ay1EyIkuhGx) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Fractured Light](https://open.spotify.com/album/79r2JD7Dqz9inxKujrwFHK) | 3:22 | 2023-10-20 |  |
 | [Fractured Light](https://open.spotify.com/track/4XUGZJBkx8OQSayvUfRasb) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Fractured Light](https://open.spotify.com/album/2c1yB6ttUGq2y7QcWdYDAc) | 3:22 | 2023-08-18 | 2023-10-28 |
 | [G\-Minor](https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Venice \- Infinitely Avantgarde \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9) | 3:55 | 2022-07-22 |  |
 | [G\-Minor](https://open.spotify.com/track/7JRF4gqX6lYMPO6FnhPwKl) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [G\-Minor](https://open.spotify.com/album/3ZinSpYPsXsjkt3qcMQhrr) | 3:55 | 2022-02-18 | 2022-07-29 |
@@ -223,7 +224,7 @@
 | [Satori by the Sea](https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Satori by the Sea](https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh) | 3:07 | 2021-12-10 |  |
 | [Scott and Kate Part 2](https://open.spotify.com/track/3MLo3dIZ3iy6ZCjifr6q0D) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Scott and Kate Part 2](https://open.spotify.com/album/6YcckpMztmNbdEIvFblBRu) | 2:49 | 2021-12-10 | 2021-12-31 |
 | [Season Shifting \- Robert Lippok Rework](https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [Post\-Svalbard](https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk) | 4:30 | 2021-12-10 |  |
-| [Shéhérazade \- Laura Masotto Rework](https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd), [Matteo Zanferrari](https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj) | [Shéhérazade \(Laura Masotto Rework\)](https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q) | 4:03 | 2022-06-24 |  |
+| [Shéhérazade \- Laura Masotto Rework](https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd), [Matteo Zanferrari](https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj) | [Shéhérazade \(Laura Masotto Rework\)](https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q) | 4:03 | 2022-06-24 | 2023-12-14 |
 | [Silver Sky](https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Silver Sky](https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS) | 3:20 | 2022-07-22 | 2023-03-30 |
 | [Sleepless Wake](https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Sleepless Wake](https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs) | 3:42 | 2021-12-10 | 2023-12-11 |
 | [Sol Levante](https://open.spotify.com/track/6MyFal8h8ZENjR8fXlViPT) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [LYS](https://open.spotify.com/album/3LHe1BsZZVZ5m7Mw4FxxPy) | 3:49 | 2022-05-27 | 2022-07-20 |

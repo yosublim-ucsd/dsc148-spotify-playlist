@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 623584,
+  "num_followers": 623868,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTg0Y2I3YTU5MDM4NGYzNTBmZDRmYTVlYWY3NjZkZGYwYWY0Mzhk",
+  "snapshot_id": "MCwzZjU2ZmYxMzBkNmQ1OTRkMjNhMGRmMWE4MGQwODczNDNhNzlmYTVm",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "duration_ms": 157770,
+      "name": "Us & Them",
+      "url": "https://open.spotify.com/track/22NW0Xa8BNrjm7oAvOVpvL"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Hornet's Nest",
         "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
@@ -523,26 +539,6 @@
       "duration_ms": 279811,
       "name": "Hornet's Nest",
       "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "A Different Shade of Blue",
-        "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        },
-        {
-          "name": "Emma Boster",
-          "url": "https://open.spotify.com/artist/6r09lZ8Wsiyz9Vd9oo0Z1Z"
-        }
-      ],
-      "duration_ms": 182530,
-      "name": "A Serpent's Touch",
-      "url": "https://open.spotify.com/track/0mFaWgcWph8oldTKMnWeQW"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -563,18 +559,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG"
+        "name": "A Different Shade of Blue",
+        "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
       },
       "artists": [
         {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Emma Boster",
+          "url": "https://open.spotify.com/artist/6r09lZ8Wsiyz9Vd9oo0Z1Z"
         }
       ],
-      "duration_ms": 157770,
-      "name": "Us & Them",
-      "url": "https://open.spotify.com/track/22NW0Xa8BNrjm7oAvOVpvL"
+      "duration_ms": 182530,
+      "name": "A Serpent's Touch",
+      "url": "https://open.spotify.com/track/0mFaWgcWph8oldTKMnWeQW"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "All Hail the Underdog",
-        "url": "https://open.spotify.com/album/42LkGCRZV2zxgUDXA0n3ez"
-      },
-      "artists": [
-        {
-          "name": "Matriarchs",
-          "url": "https://open.spotify.com/artist/01eubWRsmFbrlT2reY1eoe"
-        },
-        {
-          "name": "Aaron Heard",
-          "url": "https://open.spotify.com/artist/63mtWM4ZoLwd5rnP6UDEkN"
-        }
-      ],
-      "duration_ms": 212075,
-      "name": "All Hail the Underdog",
-      "url": "https://open.spotify.com/track/5Py4CsjKOQ1ooFaPRmlkh9"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Level Above Human",
         "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "All Hail the Underdog",
+        "url": "https://open.spotify.com/album/42LkGCRZV2zxgUDXA0n3ez"
+      },
+      "artists": [
+        {
+          "name": "Matriarchs",
+          "url": "https://open.spotify.com/artist/01eubWRsmFbrlT2reY1eoe"
+        },
+        {
+          "name": "Aaron Heard",
+          "url": "https://open.spotify.com/artist/63mtWM4ZoLwd5rnP6UDEkN"
+        }
+      ],
+      "duration_ms": 212075,
+      "name": "All Hail the Underdog",
+      "url": "https://open.spotify.com/track/5Py4CsjKOQ1ooFaPRmlkh9"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "In Darkness",
-        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
-      },
-      "artists": [
-        {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "In Darkness",
-      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 239441,
       "name": "The Death Of Us - From The \"Bill & Ted Face The Music\" Soundtrack",
       "url": "https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "In Darkness",
+        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "In Darkness",
+      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 241767,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Vermin",
         "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 218923,
       "name": "Vermin",
       "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 241767,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Your World Won't Listen",
-        "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
-      },
-      "artists": [
-        {
-          "name": "Cruel Hand",
-          "url": "https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Decompose",
-      "url": "https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "A New Responsibility",
         "url": "https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W"
       },
@@ -1579,50 +1563,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The American Dream",
-        "url": "https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4"
+        "name": "Your World Won't Listen",
+        "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
       },
       "artists": [
         {
-          "name": "Walls of Jericho",
-          "url": "https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU"
+          "name": "Cruel Hand",
+          "url": "https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV"
         }
       ],
-      "duration_ms": 196546,
-      "name": "The American Dream",
-      "url": "https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Days Before the World Wept",
-        "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
-      },
-      "artists": [
-        {
-          "name": "The Agonist",
-          "url": "https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak"
-        }
-      ],
-      "duration_ms": 293308,
-      "name": "Remnants in Time",
-      "url": "https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Tethra",
-        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
-      },
-      "artists": [
-        {
-          "name": "Tethra",
-          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
-        }
-      ],
-      "duration_ms": 289236,
-      "name": "Masochistic Healing",
-      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
+      "duration_ms": 147000,
+      "name": "Decompose",
+      "url": "https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1643,6 +1595,54 @@
       "duration_ms": 168565,
       "name": "Seeing God (feat. Aaron Heard)",
       "url": "https://open.spotify.com/track/7sIPpM7aieTQTLxHohl4sP"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Days Before the World Wept",
+        "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
+      },
+      "artists": [
+        {
+          "name": "The Agonist",
+          "url": "https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak"
+        }
+      ],
+      "duration_ms": 293308,
+      "name": "Remnants in Time",
+      "url": "https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The American Dream",
+        "url": "https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4"
+      },
+      "artists": [
+        {
+          "name": "Walls of Jericho",
+          "url": "https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "The American Dream",
+      "url": "https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Tethra",
+        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
+      },
+      "artists": [
+        {
+          "name": "Tethra",
+          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
+        }
+      ],
+      "duration_ms": 289236,
+      "name": "Masochistic Healing",
+      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Brotherhood EP",
-        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
-      },
-      "artists": [
-        {
-          "name": "Fallbrawl",
-          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Endarkenment",
         "url": "https://open.spotify.com/album/5xReWyf922gGJUHZMale2w"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 235493,
       "name": "Endarkenment",
       "url": "https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Brotherhood EP",
+        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
+      },
+      "artists": [
+        {
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        }
-      ],
-      "duration_ms": 162439,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Title Fight",
         "url": "https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg"
       },
@@ -1875,18 +1859,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Eternal Forward Motion",
-        "url": "https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp"
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
       },
       "artists": [
         {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
         }
       ],
-      "duration_ms": 229373,
-      "name": "Eternal Forward Motion",
-      "url": "https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF"
+      "duration_ms": 162439,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Eternal Forward Motion",
+        "url": "https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Eternal Forward Motion",
+      "url": "https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
       },
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "One Day Closer to the End of the World",
-        "url": "https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
       },
       "artists": [
         {
-          "name": "Cattle Decapitation",
-          "url": "https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn"
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
         }
       ],
-      "duration_ms": 227398,
-      "name": "One Day Closer to the End of the World",
-      "url": "https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP"
+      "duration_ms": 212480,
+      "name": "Exit Signs",
+      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
     }
   ],
   "unique_name": "Extreme Metal Workout",

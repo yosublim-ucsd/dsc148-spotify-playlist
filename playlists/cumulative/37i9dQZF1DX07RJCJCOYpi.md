@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Joaquin Medina, Grupo Marca Registrada & Grupo Firme
 
-285 songs - 14 hr 47 min
+286 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2022-09-16 | 2023-05-27 |
 | [Hace Calor \- Remix](https://open.spotify.com/track/0Wb0G3YcE4hY7LbF3ppEEQ) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Hace Calor \(Remix\)](https://open.spotify.com/album/3xqKPEu68JbqshG5UXdEcP) | 3:17 | 2022-04-20 | 2022-07-29 |
 | [Hace Calor \- Remix](https://open.spotify.com/track/7jfE42hjNY8zUuKKJlmBz6) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Hace Calor \(Remix\)](https://open.spotify.com/album/4CYQ2m9siG9HnQwzadPkcP) | 3:17 | 2022-07-22 | 2023-03-04 |
-| [Hands Up](https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/0H0NrzTM22cyfL4jXEySzf) | 2:11 | 2023-09-15 |  |
+| [Hands Up](https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T) | 2:11 | 2023-11-29 |  |
+| [Hands Up](https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/0H0NrzTM22cyfL4jXEySzf) | 2:11 | 2023-09-15 | 2023-12-14 |
 | [Hanging Tree](https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Hanging Tree](https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S) | 2:53 | 2022-03-22 | 2023-01-28 |
 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-11-29 |  |
 | [Heartless \- Kidd Spin Remix](https://open.spotify.com/track/52PY71c5aNyFrCXpBGViMz) | [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ), [Kidd Spin](https://open.spotify.com/artist/2DMpyk6UvqyiQIfJdkFswE) | [Heartless \(Kidd Spin Remix\)](https://open.spotify.com/album/7HGBT7yVmnLCsIj58do4M0) | 3:07 | 2022-03-22 | 2023-01-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,641 likes - 53 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,854 likes - 53 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 14 | [Candlelight Carol](https://open.spotify.com/track/3RJCyeDnzhhqhpRvdcohof) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Angels In The Realms Of Glory](https://open.spotify.com/album/5N9DVOm2aWo8XhVKvadJ0D) | 2:18 |
 | 15 | [The First Noel](https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [The First Noel](https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi) | 2:00 |
 | 16 | [Come Thou Fount Of Every Blessing](https://open.spotify.com/track/1m7kMiFTMuH3gBAZsNXC5B) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Joy Of Christmas](https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ) | 2:46 |
-| 17 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 |
-| 18 | [O Come, All Ye Faithful](https://open.spotify.com/track/0TtPfPGcVawHTlLI8ckF3f) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:11 |
-| 19 | [As With Gladness Men Of Old](https://open.spotify.com/track/2siSp0ase32wv1pzn71Guo) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:24 |
-| 20 | [A Virgin Unspotted](https://open.spotify.com/track/78Lpph0ArlWZDYkKoFTxZU) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:13 |
-| 21 | [I Saw Three Ships](https://open.spotify.com/track/3aWohApFeBqB3ebgCWiev3) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [I Saw Three Ships](https://open.spotify.com/album/0vAHBKkzpdlQL2YlX0dDaC) | 2:22 |
-| 22 | [Carol of the bells](https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Carol of the bells](https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0) | 1:43 |
-| 23 | [Seven Joys Of Mary](https://open.spotify.com/track/6O289GwYiOa3i3AKU0EQwW) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:24 |
-| 24 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0hhFft1zhB30uAOSyw7zS1) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [O Come, O Come Emmanuel](https://open.spotify.com/album/2MEUOyPkGaTa0jLxXLksGG) | 2:05 |
-| 25 | [O Little Town of Bethlehem](https://open.spotify.com/track/2Vgvh2D6l10uK4xaJb4vi2) | [Silas Northwind](https://open.spotify.com/artist/3GY0u4Ib7ByBVi0JQvIyND) | [O Little Town of Bethlehem](https://open.spotify.com/album/7nZNe41s9JDCtvWr4rRzdT) | 2:37 |
+| 17 | [As With Gladness Men Of Old](https://open.spotify.com/track/2siSp0ase32wv1pzn71Guo) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:24 |
+| 18 | [A Virgin Unspotted](https://open.spotify.com/track/78Lpph0ArlWZDYkKoFTxZU) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:13 |
+| 19 | [I Saw Three Ships](https://open.spotify.com/track/3aWohApFeBqB3ebgCWiev3) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [I Saw Three Ships](https://open.spotify.com/album/0vAHBKkzpdlQL2YlX0dDaC) | 2:22 |
+| 20 | [Carol of the bells](https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Carol of the bells](https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0) | 1:43 |
+| 21 | [Seven Joys Of Mary](https://open.spotify.com/track/6O289GwYiOa3i3AKU0EQwW) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:24 |
+| 22 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0hhFft1zhB30uAOSyw7zS1) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [O Come, O Come Emmanuel](https://open.spotify.com/album/2MEUOyPkGaTa0jLxXLksGG) | 2:05 |
+| 23 | [O Little Town of Bethlehem](https://open.spotify.com/track/2Vgvh2D6l10uK4xaJb4vi2) | [Silas Northwind](https://open.spotify.com/artist/3GY0u4Ib7ByBVi0JQvIyND) | [O Little Town of Bethlehem](https://open.spotify.com/album/7nZNe41s9JDCtvWr4rRzdT) | 2:37 |
+| 24 | [O Come, All Ye Faithful](https://open.spotify.com/track/0TtPfPGcVawHTlLI8ckF3f) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:11 |
+| 25 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 |
 | 26 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 |
 | 27 | [Hark The Herald Angels Sing](https://open.spotify.com/track/6vD4DVOnhf5N2NKkozKQlR) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Hark The Herald Angels Sing](https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai) | 2:35 |
 | 28 | [What Child Is This](https://open.spotify.com/track/2ITVOYAPc3tUdqtqt4fIdk) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 2:24 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 52 | [Silent Night \- Piano/Strings](https://open.spotify.com/track/0rUUKPi2d2riJQZzVfEoit) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:57 |
 | 53 | [Veni, veni Emmanuel \(arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `MCw5Yjc0MGE4YzQ4MjZlMmZiOGM1YmNlZDZjOGViZDEzYjY2MjM1ODFl`
+Snapshot ID: `MCw4ZTcwZWEyOTY1NTZkYjU2NWY3MTYxMGExODQ4ZDQxNWE0MmRhN2Nh`

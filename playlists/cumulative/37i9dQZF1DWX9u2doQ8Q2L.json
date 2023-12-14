@@ -3806,7 +3806,7 @@
     {
       "album": {
         "name": "DISCO PRANK feat. Leo Uchida",
-        "url": "https://open.spotify.com/album/0ySA1EiQEKpdS7zNLSXCsH"
+        "url": "https://open.spotify.com/album/2zjAF1GnsLQnUo1OOXclF6"
       },
       "artists": [
         {
@@ -3821,6 +3821,28 @@
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231351,
+      "name": "DISCO PRANK feat. Leo Uchida",
+      "url": "https://open.spotify.com/track/0AYM2tgwtiB3QovS3FUlbu"
+    },
+    {
+      "album": {
+        "name": "DISCO PRANK feat. Leo Uchida",
+        "url": "https://open.spotify.com/album/0ySA1EiQEKpdS7zNLSXCsH"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "Leo Uchida",
+          "url": "https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
       "duration_ms": 231351,
       "name": "DISCO PRANK feat. Leo Uchida",
       "url": "https://open.spotify.com/track/7CwI62aIqpf44HgTqzzr9x"
@@ -4108,10 +4130,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 174133,
       "name": "DRIVE",
       "url": "https://open.spotify.com/track/1MBql4q5qSCqLcq91YZp9s"
+    },
+    {
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/7m0qmhvwld1bRASl9xrCnQ"
+      },
+      "artists": [
+        {
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/2YOnPrLE4ZFm6AbIIGTkgi"
     },
     {
       "album": {
@@ -8646,7 +8686,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 258920,
       "name": "Love (feat. Skaai)",
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
@@ -13236,7 +13276,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 222818,
       "name": "Runner's High",
       "url": "https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR"

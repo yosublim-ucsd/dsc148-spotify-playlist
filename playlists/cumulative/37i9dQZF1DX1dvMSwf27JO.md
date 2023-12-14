@@ -4,7 +4,7 @@
 
 > music to get fly to ft Erykah Badu and Usher front row at Marni.
 
-506 songs - 1 day 3 hr 35 min
+507 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [FREEZE](https://open.spotify.com/track/7cxJa9oiHeAwl4fkxVjBYC) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [FREEZE](https://open.spotify.com/album/5OrqVEvsnjvcFC6OvkcXnY) | 2:53 | 2021-12-03 | 2022-05-04 |
 | [From: Disco To: Disco \- Remastered](https://open.spotify.com/track/3feAr5GHb1yjyhGyS8aoIQ) | [Whirlpool Productions](https://open.spotify.com/artist/11fVwtMF74ZcvVyfYAkWYI) | [From: Disco To: Disco](https://open.spotify.com/album/6n9YSb48rsyftWKxKiEIrD) | 5:57 | 2023-09-07 | 2023-10-05 |
 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 | 2022-04-11 | 2023-09-06 |
+| [Gem](https://open.spotify.com/track/6hJhUQW7VtRSpFFCMOuNXx) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/6IBZWEdXKc9XFaugGU9kxj) | 4:14 | 2023-10-04 |  |
 | [Get Em High](https://open.spotify.com/track/5b2FFKC64kxqcfaFnIZxoM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:49 | 2022-04-15 | 2022-05-12 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2022-08-30 | 2023-05-27 |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-12-17 |
@@ -398,7 +399,7 @@
 | [Shut Up and Let Me Go](https://open.spotify.com/track/6tN0t7Y1bFI1ZU98Ou8Z3i) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1aWIPcWf3fDEZT6geXjCfU) | 2:51 | 2022-08-27 | 2022-12-17 |
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2021-08-05 | 2022-12-17 |
 | [Si c'était le dernier](https://open.spotify.com/track/5wYIOyOaWKLkx3Pde6qstp) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [S.O.S.](https://open.spotify.com/album/6xI2IX2cygCOEmqrLXIVVT) | 10:51 | 2023-09-07 | 2023-10-05 |
-| [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 | 2023-10-04 |  |
+| [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 | 2023-10-04 | 2023-12-14 |
 | [Sittin' In My Car](https://open.spotify.com/track/1nsbj6cQQmfp9x7Mlmtphl) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [Behind Bars](https://open.spotify.com/album/5NRnE7jLiB8MC1xZbDFwcg) | 3:46 | 2022-09-13 | 2022-10-08 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2022-06-17 |  |
 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 | 2022-08-30 | 2023-09-06 |

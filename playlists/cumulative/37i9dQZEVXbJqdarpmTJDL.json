@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 174411,
       "name": "90s",
       "url": "https://open.spotify.com/track/61a8gUhQhA4bBCIiRxvk4J"
@@ -10969,6 +10969,28 @@
     },
     {
       "album": {
+        "name": "HATER",
+        "url": "https://open.spotify.com/album/58lo5hfgp9i1VALtvbwO2r"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150714,
+      "name": "HATER",
+      "url": "https://open.spotify.com/track/2jYjBkAMxeKvv4N9zzOlGv"
+    },
+    {
+      "album": {
         "name": "Prometheus",
         "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
       },
@@ -11654,7 +11676,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 139353,
       "name": "IBRA",
       "url": "https://open.spotify.com/track/0loJREraQLLtQxO6oq1R5X"
@@ -13808,6 +13830,24 @@
       "duration_ms": 162553,
       "name": "Kolima",
       "url": "https://open.spotify.com/track/5bTMHSl3hGjMfbMMig1E3L"
+    },
+    {
+      "album": {
+        "name": "Kolpa",
+        "url": "https://open.spotify.com/album/45Hyq3XbOFG3Gi0BgmTyWA"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Kolpa",
+      "url": "https://open.spotify.com/track/2XFfFjfXBNns7lqliJGwm1"
     },
     {
       "album": {

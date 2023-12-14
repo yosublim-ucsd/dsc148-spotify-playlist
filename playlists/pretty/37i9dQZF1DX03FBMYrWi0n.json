@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Bibi Club",
-  "num_followers": 3590,
+  "num_followers": 3594,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmRmMTNlZTc4YzQxYzEwODU1YTYwMWU2NjNlMWFjZmI2ZjE4NzBh",
+  "snapshot_id": "MCxlNzc3Njc4ZGFiOTEwMjRlZjIwYTYwZmZkMjFmNzVhZWVhZmIzNWRk",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 108066,
-      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
-      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
+      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Une autre vie",
-        "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
-      },
-      "artists": [
-        {
-          "name": "Evelyne Brochu",
-          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
-        }
-      ],
-      "duration_ms": 205312,
-      "name": "Une autre vie",
-      "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 183706,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Une autre vie",
+        "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
+      },
+      "artists": [
+        {
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+        }
+      ],
+      "duration_ms": 205312,
+      "name": "Une autre vie",
+      "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Gants blancs",
-        "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 214792,
-      "name": "Gants blancs",
-      "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "sadguitar_V777.wav",
         "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 237022,
       "name": "sadguitar_V777.wav",
       "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Gants blancs",
+        "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 214792,
+      "name": "Gants blancs",
+      "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Astronaute amateur",
-      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "PICTURA DE IPSE : Musique directe",
         "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Astronaute amateur",
+      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "mile \u200eend (kiss ur friends)",
+        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u200emile \u200eend",
+      "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "O\u00f9 nos corps s'en vont mourir",
         "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "mile \u200eend (kiss ur friends)",
-        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u200emile \u200eend",
-      "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"
     },
     {
       "added_at": "2023-12-08 05:00:00",

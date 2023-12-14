@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Sonu Nigam
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,790 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,823 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Meri Ho Ja](https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Meri Ho Ja](https://open.spotify.com/album/4zy8E2oRVyGJseIcHk2hAQ) | 2:59 |
 | 50 | [Mere Khayaalon Mein](https://open.spotify.com/track/0rplzWEHSP90MNpERnF4zi) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [ONLY JUST BEGUN](https://open.spotify.com/album/1syTR5kykgDXunaGMzxc2o) | 2:12 |
 
-Snapshot ID: `MCw3OTA4YjhkNjBkNGY3OGE4NGNlYTkwZDQwNTg4OWY3MjQ4YzJlY2U1`
+Snapshot ID: `MCxlYzBjODk2MWQ2NmJlZDJhZjRkZWUyZDNmMzJmZDkwNTZlODNhMjRl`

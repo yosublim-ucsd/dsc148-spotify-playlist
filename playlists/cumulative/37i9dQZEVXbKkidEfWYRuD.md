@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,329 songs - 2 day 13 hr 24 min
+1,331 songs - 2 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Murder Rate](https://open.spotify.com/track/5m8AUjnKQ3F6beIY23HOj5) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:56 | 2022-11-18 | 2022-12-03 |
 | [MUTANT](https://open.spotify.com/track/7oRfFPcG7xoBFjjo6tqyiW) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [MUTANT](https://open.spotify.com/album/3nFvG3Oi4OdDOTrUwKQbkV) | 2:52 | 2022-05-28 | 2022-05-30 |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2023-07-31 |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-12-13 |  |
 | [My Sister's Crown](https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [My Sister's Crown](https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp) | 2:56 | 2023-05-15 | 2023-05-17 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-16 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-05-16 |
@@ -469,6 +470,7 @@
 | [No morë talk](https://open.spotify.com/track/7qPiAhk71D2RqLRtnjDL76) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:58 | 2023-02-25 | 2023-02-27 |
 | [No Stop](https://open.spotify.com/track/7lcYieV34n9gHmW9wRweI2) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [First Day Out](https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY) | 2:19 | 2022-07-01 | 2022-07-11 |
 | [NOMINALO](https://open.spotify.com/track/1C0UmBm1nyXdjiek3nQKAz) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:11 | 2021-05-29 | 2021-07-23 |
+| [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 | 2023-12-13 |  |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-02-10 | 2022-03-01 |
 | [Nozzy Bossy](https://open.spotify.com/track/1llPAwXXqcuBGvd1WtFsot) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Nozzy Bossy](https://open.spotify.com/album/4qnzD6h1ESoAHuFbAwHyHt) | 2:42 | 2022-02-14 | 2022-02-17 |
 | [Nun id change](https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:31 | 2023-07-12 | 2023-08-10 |
@@ -690,7 +692,7 @@
 | [Where Are You](https://open.spotify.com/track/5DkZZnIip2biMlFXb8zgJy) | [Ollane](https://open.spotify.com/artist/38QFXoA64TnwDvE0nK2TYa), [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3) | [Where Are You](https://open.spotify.com/album/4iOUh84nmhzrywU4GU45sa) | 4:01 | 2021-05-23 | 2021-05-24 |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2021-04-02 | 2021-04-03 |
 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 | 2022-04-15 | 2022-04-17 |
-| [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2023-09-12 |  |
+| [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2023-09-12 | 2023-12-14 |
 | [WIGGA WIGGA](https://open.spotify.com/track/5hOuH9IUph9asGEbQYIusH) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [BORN FROM SHYNE](https://open.spotify.com/album/6Tg1lp3JYbp6CiUpASpHdh) | 2:17 | 2021-11-14 | 2021-11-14 |
 | [WINDOWS \[prod\. by DooMee, TonySouljah & VisaGangBeatz\]](https://open.spotify.com/track/4krudkCElDUrbnq2sSKeHl) | [SEEMEE](https://open.spotify.com/artist/2ngiK5FQchV4i7eOyXOXKt), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [TXC](https://open.spotify.com/album/0bFcVSqwnBv4wIKPg74TjT) | 1:40 | 2021-06-27 | 2021-06-28 |
 | [Wings of Lina](https://open.spotify.com/track/2wGqFYPabvYLFO7CjXaYue) | [Lostlojic](https://open.spotify.com/artist/61j1RfTlSOAELj63pxOBdG) | [Counteroffensive](https://open.spotify.com/album/5xNrvNQYbic9DcgTRAlYWg) | 4:19 | 2023-12-07 | 2023-12-09 |
@@ -1191,7 +1193,7 @@
 | [Стрелы](https://open.spotify.com/track/2xKA5mKz7swl48YzRsw6d3) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2), [Тося Чайкина](https://open.spotify.com/artist/2Ibq1kUPUhSjoJVrvZEMrj) | [Стрелы](https://open.spotify.com/album/5QXaxyO7fF3XFpFicE7wIm) | 2:56 | 2022-08-06 | 2022-08-10 |
 | [Стіни](https://open.spotify.com/track/1btS2UHaQF7W53fP2bBuKs) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Стіни](https://open.spotify.com/album/4W49nPGSmpB2JANNIPMOzS) | 2:42 | 2023-05-20 | 2023-07-22 |
 | [Суета](https://open.spotify.com/track/5oDzu4mpi13XnbBteabhYF) | [V $ X V PRiNCE](https://open.spotify.com/artist/43cTNOHTq4t7YzHyttQxNf) | [30](https://open.spotify.com/album/4yyHZ3BwUVbPrimJffzkxE) | 3:02 | 2022-05-31 | 2022-06-26 |
-| [Сукины дети](https://open.spotify.com/track/6sp8FsxehQt23pATaY9Gt5) | [1.Kla$](https://open.spotify.com/artist/2KbKmQQqFN6MgbWViBVl06) | [Сукины дети](https://open.spotify.com/album/1PV414X1IyI0enzFicFBwJ) | 3:38 | 2023-11-24 |  |
+| [Сукины дети](https://open.spotify.com/track/6sp8FsxehQt23pATaY9Gt5) | [1.Kla$](https://open.spotify.com/artist/2KbKmQQqFN6MgbWViBVl06) | [Сукины дети](https://open.spotify.com/album/1PV414X1IyI0enzFicFBwJ) | 3:38 | 2023-11-24 | 2023-12-14 |
 | [СХИК2](https://open.spotify.com/track/4v30BYT8gRmcZrKlKHMZqD) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [СХИК2](https://open.spotify.com/album/18guABxrqCcpjoPHeR3t81) | 1:24 | 2023-11-04 | 2023-11-06 |
 | [СЭККС](https://open.spotify.com/track/7pHQzPPLj0MgGPoInmT3cp) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [БЭСТ ФРЭНДС](https://open.spotify.com/album/5kH0zVmCDLEn9oaeC5InRQ) | 2:20 | 2021-11-28 | 2021-11-28 |
 | [Таблетка](https://open.spotify.com/track/0fLampmh4qsOLGitXM171a) | [PLOHOYPAREN](https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum) | [ПЛОХОЙ ПОЦ](https://open.spotify.com/album/3o1EvRhjmJs59fAA54sANJ) | 1:29 | 2022-02-16 | 2022-10-23 |

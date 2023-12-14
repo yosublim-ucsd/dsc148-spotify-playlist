@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
 
-214 songs - 11 hr 42 min
+215 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/6XYlGIZ5FJVPcsMEvapuO8) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [All I Want for Christmas Is You](https://open.spotify.com/album/2KgepIGt89PNbVoGJuEaud) | 3:02 | 2021-12-12 | 2022-11-11 |
 | [All Winter](https://open.spotify.com/track/0dViBPmhtsHClKwnUmmT0R) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [All Winter](https://open.spotify.com/album/5yWpR14XWyp6uFiVvgHjU9) | 3:07 | 2021-12-12 | 2022-07-29 |
 | [All Winter](https://open.spotify.com/track/0mVddpW5sHyGLywyKidIwT) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [All Winter](https://open.spotify.com/album/3JOMCEAzbQdzqkLKdZcDgE) | 3:07 | 2021-12-12 | 2022-11-11 |
-| [Alone on Christmas Eve](https://open.spotify.com/track/3cTrbyOLvrn78iKBKOUlW7) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/1icERFXfL7Hwbl1m16DROb) | 2:16 | 2022-12-09 |  |
+| [Alone on Christmas Eve](https://open.spotify.com/track/3cTrbyOLvrn78iKBKOUlW7) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/1icERFXfL7Hwbl1m16DROb) | 2:16 | 2022-12-09 | 2023-12-14 |
 | [Alone On Christmas Eve](https://open.spotify.com/track/4OtGbYRuDtpWRj595G2jmI) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone On Christmas Eve](https://open.spotify.com/album/4GqryIZs95P5M0oI2Mg638) | 2:16 | 2021-12-12 | 2022-07-29 |
 | [Alone on Christmas Eve](https://open.spotify.com/track/6wTP8riwGP5HJXvaURft2K) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/5DA3yYLX4R3YLRMDyjBV6F) | 2:16 | 2021-12-12 | 2023-03-09 |
 | [Alone On Christmas Eve](https://open.spotify.com/track/7bzSuLGzLwcEhfAi5FjliA) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Alone On Christmas Eve](https://open.spotify.com/album/4CtHrZwvJqIm13Naqpim0S) | 3:45 | 2021-12-12 | 2023-11-16 |
@@ -210,6 +210,7 @@
 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-29 |  |
 | [Warm December](https://open.spotify.com/track/1xLBOnBn16AXmvDZ2WOTOw) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Warm December](https://open.spotify.com/album/1IudCFPdNr3NcTkfXLLcVx) | 3:15 | 2021-12-12 |  |
 | [We Wish You The Merriest](https://open.spotify.com/track/5kPu4qgd0a1e5e6kveFnNr) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [We Wish You The Merriest](https://open.spotify.com/album/72cxgxGqEDuz8d60JuP6Ta) | 2:26 | 2023-11-15 |  |
+| [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 | 2023-12-13 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/5wSLnF8eeGq9LxtukSF6G2) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:06 | 2021-12-12 | 2022-12-03 |
 | [White Christmas](https://open.spotify.com/track/4ud5nPW0fN8Li4FyIq0rh5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:02 | 2021-12-12 | 2023-11-08 |
 | [White Christmas \- Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [White Christmas \(Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4) | 3:14 | 2022-11-18 |  |

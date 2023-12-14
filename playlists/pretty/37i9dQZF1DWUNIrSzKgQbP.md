@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Falling leaves and cozy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,669,280 likes - 92 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,669,252 likes - 92 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 91 | [henna tattoo](https://open.spotify.com/track/7rIHxFXrmVnl8OJxOtut6A) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [fade into the dawn](https://open.spotify.com/album/6ZXR63Ak9IBfg6NkbBxFKA) | 2:25 |
 | 92 | [Thirteen Sad Farewells](https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM) | 2:45 |
 
-Snapshot ID: `MCxhNjczY2FlYjJmZTE5YTlmNzYyNGNhNzhhMjBjMzQxYzc4M2JlYzZi`
+Snapshot ID: `MCxhZmRmNTYxNGEyODlhMzVjZWQ4ZGM5MTU4MmJjNzllZTk0OGRlNzk0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation Cover: Faye Webster",
+  "description": "indie tunes with country experimentation Cover: Alex G ",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -2374,6 +2374,24 @@
       "duration_ms": 202346,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/2yFSQb9lAOk9CeYWdnFn4o"
+    },
+    {
+      "album": {
+        "name": "Paige Machine",
+        "url": "https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160039,
+      "name": "Paige Machine",
+      "url": "https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO"
     },
     {
       "album": {

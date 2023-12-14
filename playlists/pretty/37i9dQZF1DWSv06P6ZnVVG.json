@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 28065,
+  "num_followers": 28131,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTljNzYzZDk0MTNhMGIwYTI4NzgwNWU5MDU5NjczOWI4M2I3Mjll",
+  "snapshot_id": "MCw4M2JkYTZhYjU1OTdhMjJmNThjYmRiOTMxNWUyMWQzYmJhYzk2NGY1",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -455,18 +455,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+        "name": "Zapateado Perron",
+        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
       "artists": [
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        },
+        {
+          "name": "Banda Los Escamilla",
+          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
         }
       ],
-      "duration_ms": 145103,
-      "name": "Arriba Pichataro (En Vivo)",
-      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
+      "duration_ms": 167100,
+      "name": "Los Colorados (feat. Banda los Escamilla)",
+      "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -491,22 +495,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Zapateado Perron",
-        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
       "artists": [
         {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        },
-        {
-          "name": "Banda Los Escamilla",
-          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 167100,
-      "name": "Los Colorados (feat. Banda los Escamilla)",
-      "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
+      "duration_ms": 145103,
+      "name": "Arriba Pichataro (En Vivo)",
+      "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Se Les Pel\u00f3 Baltazar",
-        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
+        "name": "La Fiera 2018",
+        "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
       },
       "artists": [
         {
-          "name": "Hermanos Romero",
-          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
+          "name": "Banda Corona de Michoacan",
+          "url": "https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Peque\u00f1a de Ojos Brujos",
-      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
+      "duration_ms": 218893,
+      "name": "El Pistolero - Son, Huapangobanda",
+      "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "La Fiera 2018",
-        "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
+        "name": "Se Les Pel\u00f3 Baltazar",
+        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
       },
       "artists": [
         {
-          "name": "Banda Corona de Michoacan",
-          "url": "https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy"
+          "name": "Hermanos Romero",
+          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
         }
       ],
-      "duration_ms": 218893,
-      "name": "El Pistolero - Son, Huapangobanda",
-      "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
+      "duration_ms": 185560,
+      "name": "Peque\u00f1a de Ojos Brujos",
+      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Bailando Ando",
-        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
-      },
-      "artists": [
-        {
-          "name": "Banda 466 Paso a Paso",
-          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
-        }
-      ],
-      "duration_ms": 261712,
-      "name": "El Sonao",
-      "url": "https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Puras De Viento",
         "url": "https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 187680,
       "name": "El Huitzuque\u00f1o",
       "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Bailando Ando",
+        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 261712,
+      "name": "El Sonao",
+      "url": "https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw"
     },
     {
       "added_at": "2022-08-02 22:31:47",

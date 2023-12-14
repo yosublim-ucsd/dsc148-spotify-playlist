@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 65255,
+  "num_followers": 65294,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjAyMjZhOTA3YjlmNjkyMDk3NGM5M2NmZjYyYmNkNmM1NDhmMmY2",
+  "snapshot_id": "MCxlYzQxNjA2MWNiYTZhOTg2OTkzYThhMjM5ZjgwMDYzN2ZhMDAzMjc5",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Oh My Soul (Bloukaas Remix)",
-        "url": "https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs"
+        "name": "OMOGE WA JO",
+        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
       },
       "artists": [
         {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "L0LA",
+          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
         }
       ],
-      "duration_ms": 260125,
-      "name": "Oh My Soul (Bloukaas Remix)",
-      "url": "https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC"
+      "duration_ms": 145084,
+      "name": "OMOGE WA JO",
+      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
     },
     {
       "added_at": "2023-11-03 03:58:52",

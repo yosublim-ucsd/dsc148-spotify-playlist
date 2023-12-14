@@ -1775,6 +1775,44 @@
     },
     {
       "album": {
+        "name": "Arab Bricks",
+        "url": "https://open.spotify.com/album/7nsrBWMoxD3td4k77ZHmdc"
+      },
+      "artists": [
+        {
+          "name": "Drei",
+          "url": "https://open.spotify.com/artist/3vPlGeR4Muj4qvMEnW5Rq9"
+        },
+        {
+          "name": "Arta",
+          "url": "https://open.spotify.com/artist/6gPKjPIXbBBnuLyLEq79Sz"
+        },
+        {
+          "name": "Koorosh",
+          "url": "https://open.spotify.com/artist/1UjD9VWeqDDlDSvNlnFTdl"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "It's Different",
+          "url": "https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238153,
+      "name": "Arab Bricks",
+      "url": "https://open.spotify.com/track/6zL7sXQy6zInyS6DEKwjfW"
+    },
+    {
+      "album": {
         "name": "Small Town Boy (Track By Track)",
         "url": "https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF"
       },
@@ -5050,7 +5088,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -6176,7 +6214,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -6360,7 +6398,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 68760,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
@@ -14162,7 +14200,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 229477,
       "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
@@ -24662,7 +24700,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 206066,
       "name": "Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
       "url": "https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO"

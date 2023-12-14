@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,630 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,675 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [BETTER \(arr\. Emawk\)](https://open.spotify.com/track/5kZhsoeFVmoLWOkRNx8YmB) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N), [emawk](https://open.spotify.com/artist/7gSZocK2o1aDYdXQcVZKJp) | [Better \(arr\. Emawk\)](https://open.spotify.com/album/1pTdZPhmgOd5rTJa7a1YtT) | 5:40 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCxhOTVlODNmMzVlMGUyMTk2NGFjZDVkZGQ1OTBjZWIzYzk0N2Q1ZWUy`
+Snapshot ID: `MCw4MDdkN2UxZWY0MjcwNjVkNTM1NTg3OWMwZTkxMGQyNDFiZTMyOTFm`

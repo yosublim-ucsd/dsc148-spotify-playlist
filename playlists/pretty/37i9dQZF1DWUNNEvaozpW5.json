@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Sidecars.",
-  "num_followers": 572604,
+  "num_followers": 572701,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGZjMzA4MjExZTNjYjZjMjNjNTU5OWM3NGUzYjA1NzgwZDYyYzlj",
+  "snapshot_id": "MCxjZTdkOTc1ZTY0ZjkyMTEyMTc2ZGY1YjU4NmUyY2E4M2I3ZTA2NGJh",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Poes\u00eda B\u00e1sica",
+        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
+      },
+      "artists": [
+        {
+          "name": "Extrechinato y Tu",
+          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Rojitas",
+      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/1o2O6dZPkhr0Fflqo0T80E"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 257637,
       "name": "OK",
       "url": "https://open.spotify.com/track/1MYQcK8lIZXO1oXIc6vT4U"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Poes\u00eda B\u00e1sica",
-        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
-      },
-      "artists": [
-        {
-          "name": "Extrechinato y Tu",
-          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Rojitas",
-      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
         "url": "https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 226813,
       "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
       "url": "https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Para volverte a decir",
-        "url": "https://open.spotify.com/album/4MKKOwt0Lw7susoIuMBo5s"
+        "name": "Un mal sue\u00f1o",
+        "url": "https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw"
       },
       "artists": [
         {
-          "name": "Arco",
-          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+          "name": "Triana",
+          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
         }
       ],
-      "duration_ms": 191231,
-      "name": "Para volverte a decir",
-      "url": "https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7"
+      "duration_ms": 293466,
+      "name": "Una noche de amor desesperada",
+      "url": "https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9"
     },
     {
       "added_at": "2023-12-08 00:09:00",

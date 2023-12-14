@@ -4,7 +4,7 @@
 
 > EQUAL sunar: Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Ebru Gündeş
 
-1,046 songs - 2 day 7 hr 17 min
+1,048 songs - 2 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Bi' Yanımdan Herkes Korkmuş](https://open.spotify.com/track/5fd702YkGDyk9EAznawmCs) | [Merve Deniz](https://open.spotify.com/artist/0bL7vu8m0DXhsh3NJFaoAK) | [Bi' Yanımdan Herkes Korkmuş](https://open.spotify.com/album/06V5KV30232R2FB2z186H5) | 3:18 | 2023-11-07 | 2023-11-30 |
 | [Bi'Kalp](https://open.spotify.com/track/0qF3jXs6QuR6aOLknVwJyJ) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Bi'Kalp](https://open.spotify.com/album/4GseGLXycr8RoCaaq5IRBG) | 2:48 | 2022-09-06 | 2022-10-05 |
 | [Bil İstedim](https://open.spotify.com/track/56iXpLbiW7muYzm9ChnPyC) | [NVZ](https://open.spotify.com/artist/5EPTeGinAnGxr6mX3M2vbp) | [Bil İstedim](https://open.spotify.com/album/1P71zlHMXE9HUNghsZWnEq) | 2:26 | 2023-10-03 | 2023-11-08 |
-| [Bile Bile](https://open.spotify.com/track/4oN2BSk9MlsYWpDLdqxs1O) | [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl) | [Bile Bile](https://open.spotify.com/album/5rsft5LhRcjWd3OhiaH2je) | 2:43 | 2023-06-06 |  |
+| [Bile Bile](https://open.spotify.com/track/2V2g4Yu0las8Q2WXlr5rAb) | [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl) | [Bile Bile](https://open.spotify.com/album/5LdrZ1OKRIPOTzq52jNUSf) | 2:43 | 2023-11-29 |  |
+| [Bile Bile](https://open.spotify.com/track/4oN2BSk9MlsYWpDLdqxs1O) | [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl) | [Bile Bile](https://open.spotify.com/album/5rsft5LhRcjWd3OhiaH2je) | 2:43 | 2023-06-06 | 2023-12-14 |
 | [Bile Bile Lades](https://open.spotify.com/track/3wZELDWk9p8RD8jIpBOs63) | [Suzet](https://open.spotify.com/artist/38AyHbljCz6Er3RC2p9ekA) | [Bile Bile Lades](https://open.spotify.com/album/2dg8xih54RKVFslduO10Zg) | 2:07 | 2022-08-02 | 2022-08-10 |
 | [Bile İsteye](https://open.spotify.com/track/5OWewjzyygW2SdGNF2kAKl) | [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Bile İsteye](https://open.spotify.com/album/00M5DtCJGuHqGRQ9ShUaCV) | 3:44 | 2023-09-05 |  |
 | [bilir misin?](https://open.spotify.com/track/3z7UKvTS32tQVmM9B4Xf9t) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [bilir misin?](https://open.spotify.com/album/26nNwKU1DDcjAWezrLfiYI) | 2:07 | 2022-07-05 | 2022-08-03 |
@@ -967,7 +968,8 @@
 | [Yol](https://open.spotify.com/track/1xrHRUxJb0gMuGxYOVoLQx) | [Sasa](https://open.spotify.com/artist/1WyZGBfwYp8KMPcXCJIazo) | [Yol](https://open.spotify.com/album/0CcFL0hyzJUucBdt4Sy88J) | 4:19 | 2023-06-06 | 2023-07-05 |
 | [yolculuk](https://open.spotify.com/track/2qL3qVtT1coHpl8bJs0mpm) | [Melis Güven](https://open.spotify.com/artist/4GANIO37ckIybnzApXhPmQ) | [yolculuk](https://open.spotify.com/album/3L4zS16kir8PIxAGR9VyXh) | 2:58 | 2023-08-01 | 2023-09-06 |
 | [Yolu Yok](https://open.spotify.com/track/7JASZe5W1Xuu8hoMuAQeo3) | [Dilde](https://open.spotify.com/artist/0GDoXnSw4iGdysDQWCiuP3) | [Yolu Yok](https://open.spotify.com/album/48OGtuda8HgcPVCqqm5enB) | 2:52 | 2022-11-01 | 2022-12-01 |
-| [YOLUM AÇIK](https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [YOLUM AÇIK](https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu) | 2:41 | 2023-05-02 |  |
+| [YOLUM AÇIK](https://open.spotify.com/track/4bAmoRAlHvK0FQrybFeWtl) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [POP](https://open.spotify.com/album/0EZoxOrmBvdaYl7IY6LBW7) | 2:41 | 2023-11-29 |  |
+| [YOLUM AÇIK](https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [YOLUM AÇIK](https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu) | 2:41 | 2023-05-02 | 2023-12-14 |
 | [Yorgun musun?](https://open.spotify.com/track/1ujSVZGFBq4VCqLfVZsJTN) | [Güldeniz](https://open.spotify.com/artist/5Eaf5K9dKIg4YiR51kVUTO) | [Yorgun musun?](https://open.spotify.com/album/5S3myjGU2oFsI8gG8ltCvp) | 2:12 | 2023-07-04 | 2023-08-02 |
 | [Yük](https://open.spotify.com/track/4ODEGgsVoTFR8KX96GQrTC) | [Suzan Hacigarip](https://open.spotify.com/artist/70sxCmeoRmcpTdH4atqPDV) | [Yük](https://open.spotify.com/album/5gikkgCGU6DgnqZckjpmXD) | 3:24 | 2022-07-05 | 2022-08-03 |
 | [Yürek Haini](https://open.spotify.com/track/7kPsDK6foptOi5G0KnVqM2) | [Ömür Gedik](https://open.spotify.com/artist/3Fnj0gjfxDYyjIZchYWcrg) | [Yürek Haini](https://open.spotify.com/album/2EZhctNnrCVFcmtKCPRoAA) | 2:54 | 2022-08-02 | 2022-09-07 |

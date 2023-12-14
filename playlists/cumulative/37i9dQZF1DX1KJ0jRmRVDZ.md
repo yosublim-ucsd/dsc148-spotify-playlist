@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-927 songs - 2 day 4 hr 51 min
+928 songs - 2 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [juice box](https://open.spotify.com/track/1dhNZf5E0qpgTEJ81HxzS6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [aruma](https://open.spotify.com/artist/007ymf6nTBbhE9f9zxTcJF), [案山子](https://open.spotify.com/artist/13kzWMPtOOXvXujXHbpjVj) | [juice box](https://open.spotify.com/album/4Uvm3mUSpQCRTwyfLHsFip) | 3:58 | 2022-08-30 | 2022-10-19 |
 | [Kaidan \(feat\. m\)](https://open.spotify.com/track/5vkO73sy8jFxwI0s3qRSj4) | [Kakashi](https://open.spotify.com/artist/2qfMc1YTRsQv7y8djXdvTf), [m](https://open.spotify.com/artist/01pmHFmU0sMTM6HCCyEHB0) | [Kaidan \(feat\. m\)](https://open.spotify.com/album/4Qoy6FmiySgbupDdakzJyP) | 2:56 | 2022-09-08 | 2022-09-21 |
 | [Kakureinnkya](https://open.spotify.com/track/24cDuwLAerdswc0obvMw58) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [Kakureinnkya](https://open.spotify.com/album/5Cq5KfoJnsISILpjQ09rwy) | 3:19 | 2022-08-25 | 2022-09-07 |
-| [KANPAI FUNK](https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [KANPAI FUNK](https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG) | 3:34 | 2023-11-23 |  |
+| [KANPAI FUNK](https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [KANPAI FUNK](https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG) | 3:34 | 2023-11-23 | 2023-12-14 |
+| [KANPAI FUNK feat\. フレデリック](https://open.spotify.com/track/0BXAay4tSgBTR9nYEabTIQ) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [POP SOS](https://open.spotify.com/album/1ACDDPrYJOLfcNupnBz1CT) | 3:34 | 2023-12-12 |  |
 | [Kayoku](https://open.spotify.com/track/1ZPjVQ4u8j2hq0YmP1faS3) | [shoose](https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634) | [Kayoku](https://open.spotify.com/album/26xOkQ9XkpM47h4kzEuMbu) | 3:12 | 2022-11-15 | 2023-03-18 |
 | [Kayoku](https://open.spotify.com/track/5UTKodEPN6kf0SO8i4bh5g) | [shoose](https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634) | [Connect](https://open.spotify.com/album/62rpeORAQSPiNsiAot0OpD) | 3:13 | 2023-03-16 | 2023-04-05 |
 | [Kiddy](https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Kiddy](https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn) | 3:18 | 2023-08-24 |  |

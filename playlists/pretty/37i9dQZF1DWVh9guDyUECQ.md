@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,870 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,927 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 88 | [Yo Te Mire](https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Yo Te Miré](https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu) | 4:06 |
 | 89 | [Alguien Como Tú](https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [Cielo](https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet) | 3:08 |
 | 90 | [Mi Cielo](https://open.spotify.com/track/0am2qeRMSo0KF3Q8SBjdhu) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/37vtl31mdLh338b2xDh0Vx) | 3:18 |
-| 91 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 |
-| 92 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
+| 91 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
+| 92 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 |
 | 93 | [Como Siempre](https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK) | [Wolandia](https://open.spotify.com/artist/46eL7q4TISdKjN2px64rhu), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Jota Brother](https://open.spotify.com/artist/25IVywaI7Vt98ZeVW3LrYr), [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [Como Siempre](https://open.spotify.com/album/6JTvSdp2X8Qx6nSpL8dkqh) | 5:41 |
 | 94 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
 | 95 | [Fronteamos Con Amor](https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Fronteamos Con Amor](https://open.spotify.com/album/2Kk0D2bP1Xc7VZ8s3F4SP5) | 3:42 |
 | 96 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
 | 97 | [Amor de Hermano](https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Tu Siervo Pa](https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8) | 5:10 |
-| 98 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
-| 99 | [Humillado](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 |
-| 100 | [Inmenso](https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Inmenso](https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3) | 2:37 |
+| 98 | [Inmenso](https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Inmenso](https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3) | 2:37 |
+| 99 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
+| 100 | [Humillado](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 |
 
-Snapshot ID: `MCw5YmYwNTIwZTRiY2RlOWIxOGZlMGZhZGUxYTZkZjc0ZGYyNGI4Y2Qy`
+Snapshot ID: `MCw1OGU3ZTk3N2IyNzQ0MzhmMzg5ZTQzMGRmOGM3MzFmMTZjNGUxY2U0`

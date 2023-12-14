@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "HOME EP",
+        "url": "https://open.spotify.com/album/06wZxbyxypr1BVQEopXXtx"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272894,
+      "name": "ai no uta",
+      "url": "https://open.spotify.com/track/2nP5n43PEfVzIiRZAVGcPL"
+    },
+    {
+      "album": {
         "name": "Aishiterujinsei feat.HatsuneMiku",
         "url": "https://open.spotify.com/album/03b3KBf2Jrpa3IddlQ0uUp"
       },
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 211728,
       "name": "CHELSEA",
       "url": "https://open.spotify.com/track/1DTFAX3tGh7Ir8WeHKA36i"
@@ -2942,7 +2960,7 @@
     {
       "album": {
         "name": "DISCO PRANK feat. Leo Uchida",
-        "url": "https://open.spotify.com/album/0ySA1EiQEKpdS7zNLSXCsH"
+        "url": "https://open.spotify.com/album/2zjAF1GnsLQnUo1OOXclF6"
       },
       "artists": [
         {
@@ -2957,6 +2975,28 @@
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231351,
+      "name": "DISCO PRANK feat. Leo Uchida",
+      "url": "https://open.spotify.com/track/0AYM2tgwtiB3QovS3FUlbu"
+    },
+    {
+      "album": {
+        "name": "DISCO PRANK feat. Leo Uchida",
+        "url": "https://open.spotify.com/album/0ySA1EiQEKpdS7zNLSXCsH"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "Leo Uchida",
+          "url": "https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
       "duration_ms": 231351,
       "name": "DISCO PRANK feat. Leo Uchida",
       "url": "https://open.spotify.com/track/7CwI62aIqpf44HgTqzzr9x"
@@ -3312,10 +3352,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 174133,
       "name": "DRIVE",
       "url": "https://open.spotify.com/track/1MBql4q5qSCqLcq91YZp9s"
+    },
+    {
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/7m0qmhvwld1bRASl9xrCnQ"
+      },
+      "artists": [
+        {
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/2YOnPrLE4ZFm6AbIIGTkgi"
     },
     {
       "album": {
@@ -9047,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "konami",
+        "url": "https://open.spotify.com/album/6XPAVeT6gbEur5FLeK0hn2"
+      },
+      "artists": [
+        {
+          "name": "mukeikaku",
+          "url": "https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146374,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5XQ8wudAX0ND1TC4PMp7tE"
+    },
+    {
+      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf"
       },
@@ -9134,6 +9210,24 @@
       "duration_ms": 152000,
       "name": "PRO",
       "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
+    },
+    {
+      "album": {
+        "name": "Promenade",
+        "url": "https://open.spotify.com/album/6MWwsRzFB63os13VAZ43V9"
+      },
+      "artists": [
+        {
+          "name": "YOLK",
+          "url": "https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222058,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/2TRdlT1pZaARZBh6rBOVuC"
     },
     {
       "album": {
@@ -14084,7 +14178,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 190693,
       "name": "\u3042\u306a\u305f\u306e\u8d70\u99ac\u706f\u306b\u51fa\u308c\u305f\u3089",
       "url": "https://open.spotify.com/track/2eJNSD8yq12EtrbJjQIjYD"
@@ -14854,7 +14948,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 146374,
       "name": "\u3069\u304f",
       "url": "https://open.spotify.com/track/71kriPfeYO4Oq0DDbHJ0Cp"
@@ -16342,7 +16436,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 222058,
       "name": "\u30d7\u30ed\u30e0\u30ca\u30fc\u30c9",
       "url": "https://open.spotify.com/track/3G4QATIYBkJ92HsR1OJt6g"
@@ -18488,7 +18582,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 272894,
       "name": "\u611b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg"

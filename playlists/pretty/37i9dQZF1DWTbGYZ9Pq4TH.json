@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 174038,
+  "num_followers": 174053,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDJmMDBmNWZiMTUwYjNlYjU0ODY4MzZiYjNjZmYyYzVkYzliZGYw",
+  "snapshot_id": "MCw3NGVkNzA4MGM4YzFhYjJhOWE2ZjlkMWQxOTMwZTdkNTlkYjlhYTY1",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Mi Fai Stare Bene",
         "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
       },
@@ -503,26 +519,6 @@
       "duration_ms": 238413,
       "name": "Iris (Tra Le Tue Poesie)",
       "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Stanza Singola",
-        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
-      },
-      "artists": [
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Stanza Singola (feat. Tommaso Paradiso)",
-      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -543,18 +539,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+        "name": "Stanza Singola",
+        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
       },
       "artists": [
         {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+      "duration_ms": 196615,
+      "name": "Stanza Singola (feat. Tommaso Paradiso)",
+      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 221631,
       "name": "MADAME - L'anima",
       "url": "https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "San Siro Live (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Meraviglioso - Live",
-      "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Soundtrack '96 - 06 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
@@ -739,6 +723,38 @@
       "duration_ms": 266746,
       "name": "Gli Ostacoli Del Cuore",
       "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "San Siro Live (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Meraviglioso - Live",
+      "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Niente Canzoni D'Amore",
+      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -763,22 +779,6 @@
       "duration_ms": 222047,
       "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
       "url": "https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Niente Canzoni D'Amore",
-      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 282720,
-      "name": "Senza Parole",
-      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 209400,
       "name": "D'improvviso",
       "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Anche Fragile",
+      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
     }
   ],
   "unique_name": "Amore Davvero",

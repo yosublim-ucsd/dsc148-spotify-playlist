@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Change My Wayz",
+        "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115013,
+      "name": "Change My Wayz",
+      "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
+    },
+    {
+      "album": {
         "name": "Gift Of The Ghetto",
         "url": "https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc"
       },

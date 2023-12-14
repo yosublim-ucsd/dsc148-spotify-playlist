@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Quevedo y Saiko en portada.
 
-135 songs - 7 hr 14 min
+136 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Eres un Arte](https://open.spotify.com/track/37i9NWAGKTyazstAz6nfos) | [Derian](https://open.spotify.com/artist/220SaLUhEtl59oRglesxcL), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Alexis Chaires](https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr), [Deack Lopez](https://open.spotify.com/artist/191vrwSKDKBZRG1u7NcMpo) | [Eres un Arte](https://open.spotify.com/album/2YlGzp6EFvKukhDHbKJhRR) | 3:53 | 2023-01-27 | 2023-07-22 |
 | [ESQUE TÚ](https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X) | [ESQUE TÚ](https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8) | 3:05 | 2023-03-24 | 2023-09-23 |
 | [ESTÁ CABRÓN](https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af) | [ESTÁ CABRÓN](https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl) | 3:04 | 2023-03-31 |  |
-| [Fango](https://open.spotify.com/track/4cIRzRikDWfeFskgAbC13R) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Fango](https://open.spotify.com/album/31vollZPe01eJhqLhugezp) | 3:03 | 2022-04-25 |  |
+| [Fango](https://open.spotify.com/track/4cIRzRikDWfeFskgAbC13R) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Fango](https://open.spotify.com/album/31vollZPe01eJhqLhugezp) | 3:03 | 2022-04-25 | 2023-12-14 |
+| [Fango](https://open.spotify.com/track/2Y0ZBxr2BOTQjiC0tfgFjg) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:06 | 2023-11-10 |  |
 | [Febrero Azul](https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Febrero Azul](https://open.spotify.com/album/1VrhwgwkE6jjjJcweMdSoY) | 3:34 | 2022-04-25 |  |
 | [flores](https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [juan punto](https://open.spotify.com/artist/3JwWTwioPLjSKlnzv2vZzW) | [flores](https://open.spotify.com/album/3oBilaX7gnZ5RJreXT7DNj) | 2:27 | 2023-03-10 |  |
 | [Frío](https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Frío](https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN) | 2:25 | 2023-06-16 |  |

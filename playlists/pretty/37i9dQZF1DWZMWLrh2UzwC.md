@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,347 likes - 87 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,348 likes - 87 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 39 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 |
 | 40 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
 | 41 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 |
-| 42 | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [PARK JIWON of fromis\_9](https://open.spotify.com/artist/7HiDoJ7GFuGv7WNfu4qv8B) | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa) | 2:58 |
+| 42 | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa) | 2:58 |
 | 43 | [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 |
 | 44 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
 | 45 | [WHO'S NEXT](https://open.spotify.com/track/5TjPje2S1fGMSjQTpHLGWj) | [nic.zj](https://open.spotify.com/artist/1wUTMd52qXoDPjRaccy956), [Aiman Nomad](https://open.spotify.com/artist/2YhROYNM92erlJEJvitufP) | [WHO'S NEXT](https://open.spotify.com/album/2bqsQ89e5Nj6KWmUyfjnwh) | 2:36 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 86 | [Sad Tomorrow](https://open.spotify.com/track/42ne6UiPfTi2Vek8KdWAcX) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH), [Rian Cult](https://open.spotify.com/artist/2idZntzccbSKeEzNWqzamb) | [Sad Tomorrow](https://open.spotify.com/album/0D8uRtVYFcfnXJXfVRH4GW) | 3:02 |
 | 87 | [LET ME BE!](https://open.spotify.com/track/236IyEKTINi297J8eZDfYM) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [LET ME BE!](https://open.spotify.com/album/3T7YEnmKdcD2xk5GMPb66E) | 3:15 |
 
-Snapshot ID: `MCw1ZjM3NWIxMmRiOTU0Mjg2ODgxOWRiZGFiOTc5YTNiOGIwMGE4N2Y5`
+Snapshot ID: `MCxmYThhNjE2OGY0ZGRjNmUyMWRhN2UyZGVhNmY0MGU4MzFhN2ViM2Rk`

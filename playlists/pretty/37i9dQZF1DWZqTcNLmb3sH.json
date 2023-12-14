@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
-  "num_followers": 56148,
+  "num_followers": 56169,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTk4OWFlZGM4ZTgyNDFjZGQ0N2NkZmI4MTVmOTgwMDBkNzAzZjNm",
+  "snapshot_id": "MCxkNWU0NDIzN2ZjNmUxNGEwNWQ4OGYxNDA5MWYxM2YzNGVjNmQxN2Yw",
   "tracks": [
     {
       "added_at": "2023-12-12 05:37:45",
@@ -31,6 +31,30 @@
       "duration_ms": 233492,
       "name": "Yava Janumada Gelathi (from \"Kaatera\")",
       "url": "https://open.spotify.com/track/0Uw7FTZyC35WQtqt0kDweW"
+    },
+    {
+      "added_at": "2023-12-13 13:03:56",
+      "album": {
+        "name": "Aakaasha Gadiya (From \"Salaar Cease Fire - Kannada\")",
+        "url": "https://open.spotify.com/album/41t989WnmcAp7zZEVOFSlq"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        },
+        {
+          "name": "Vijayalaxmi Mettinahole",
+          "url": "https://open.spotify.com/artist/0Y21TyAFkjyalKuDvyvT75"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Aakaasha Gadiya (From \"Salaar Cease Fire - Kannada\")",
+      "url": "https://open.spotify.com/track/3xiIegrnJHAfte9IzO8hfc"
     },
     {
       "added_at": "2023-12-07 12:31:19",
@@ -1587,26 +1611,6 @@
       "duration_ms": 273230,
       "name": "Ene Sikthu Malli Ninge (From \"Hejjaru\")",
       "url": "https://open.spotify.com/track/6XaUnemvzyduP2zzFXifsV"
-    },
-    {
-      "added_at": "2023-10-16 06:06:21",
-      "album": {
-        "name": "Yaar Evalu (From \"Cicada\")",
-        "url": "https://open.spotify.com/album/3fepkwhTkWNIytKoTL4cmP"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Sreejith Edavana",
-          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
-        }
-      ],
-      "duration_ms": 284159,
-      "name": "Yaar Evalu (From \"Cicada\")",
-      "url": "https://open.spotify.com/track/34RXp1yXRqCbfn2iqQSEDQ"
     },
     {
       "added_at": "2023-09-20 12:59:03",

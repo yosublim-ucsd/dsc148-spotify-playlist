@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Plus Ultra presenta: il meglio dell'urban italiano nel 2023! Cover: ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,737 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,926 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 13 | [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 |
 | 14 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 |
 | 15 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
-| 16 | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi) | 3:01 |
+| 16 | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq) | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi) | 3:01 |
 | 17 | [Dimmi Che C'è \(feat\. Tedua\)](https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Dimmi Che C'è \(feat\. Tedua\)](https://open.spotify.com/album/54nLn2p65cXgkdIvmCJDhG) | 3:02 |
 | 18 | [Papaya](https://open.spotify.com/track/0eUgmndC1CN1eijY6EKSaE) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [VILLABANKS](https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ) | 2:19 |
 | 19 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 49 | [Lei È...](https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:44 |
 | 50 | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/album/68RJr5UUMja95uIj10KcIr) | 3:12 |
 
-Snapshot ID: `MCwxMGRjNzBjZDE3MGMyMjJlNzNiZjRkZDM1Y2RiMDM3YWM1ODg0ZjZm`
+Snapshot ID: `MCxmMmViZTdhMmU3YjhlYzhkNTY5ZTlmZDkzMzk4ZWI5MGZhMWJjZDk2`

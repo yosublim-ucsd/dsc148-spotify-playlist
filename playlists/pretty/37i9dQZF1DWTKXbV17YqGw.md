@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 ### [Detty December](https://open.spotify.com/playlist/37i9dQZF1DWTKXbV17YqGw)
 
-> Accra's CULTPOP WORLDWIDE welcomes the 2023 Detty Decemebr season
+> Accra's CULTPOP WORLDWIDE welcomes the 2023 Detty December season
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,257 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,285 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 13 | [Chiquitita](https://open.spotify.com/track/13lpymT8F55A0vjxkb1GGV) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Chiquitita](https://open.spotify.com/album/6RbeZOfTYcs3SMJyokAlz5) | 3:07 |
 | 14 | [42](https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Make E No Cause Fight 3](https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56) | 2:51 |
 | 15 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 16 | [Maja](https://open.spotify.com/track/4pfPXZbOyHSfyanmi7mFSt) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Maja](https://open.spotify.com/album/5T0vEHoylbWQfm4u6Ubt4G) | 2:24 |
+| 16 | [Maja](https://open.spotify.com/track/3e7aRHeezwhvQAJTnisutQ) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Maja](https://open.spotify.com/album/7rUakO5tSwLPD6Q50dRSh1) | 2:24 |
 | 17 | [Wossop](https://open.spotify.com/track/6QvgQtIQzYy48w68M4iFhL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KWW](https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:50 |
 | 18 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
 | 19 | [Abalele](https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Abalele](https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz) | 6:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 49 | [Outside](https://open.spotify.com/track/7pZh6kypnYfpbOylNcsdFB) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 2:26 |
 | 50 | [Welcome Home](https://open.spotify.com/track/6z8l5owiiRdfybVXEOCjBw) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Welcome Home](https://open.spotify.com/album/3v35TFoVt7VKIeorNPrXfO) | 4:16 |
 
-Snapshot ID: `MCxiYWFlZjA4ZWExYjg3MDU5MWRkMGM4N2E0NDBlMWU2ZjgxMmQzZGQx`
+Snapshot ID: `MCwzOTFlZmZjZWFkNGIwYmFiZmEzZDJjOTE4NmRlM2Q5ZmU5MTUwYjlm`

@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best pop songs of the year\. Cover: Hana Shafa
 
-341 songs - 20 hr 13 min
+342 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Sandhyawe Maa](https://open.spotify.com/track/6mMapCynFeK2VOVzK0G2fl) | [Rashan Balasooriya](https://open.spotify.com/artist/7y9m5o4dJ6jmxeUqYo9azF), [Mahiru Senarathne](https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC) | [Sandhyawe Maa](https://open.spotify.com/album/5dnsracfITU9wSLQDpKVyS) | 3:29 | 2023-10-17 | 2023-11-30 |
 | [Sansaraye Maa](https://open.spotify.com/track/0JvXCpykHHvvK53XQZd3Tv) | [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Ridma Weerawardena](https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt) | 4:33 | 2022-11-30 |  |
 | [Sansare Suba Gaman](https://open.spotify.com/track/2Ka8UhyHEScUHxUU9X0EvT) | [Dinesh Tharanga](https://open.spotify.com/artist/0JCmse6ZKrAURE9VcS0Mz1), [Kanishka Akmeemana](https://open.spotify.com/artist/5AqMmzfIqQbN568bf1eX95) | [Sansare Suba Gaman](https://open.spotify.com/album/1sTyrA1okHc7mDF8jjw9jA) | 2:55 | 2023-05-26 | 2023-08-18 |
-| [Sansarini](https://open.spotify.com/track/7iSpuul3P4BzaxFPVFFRkr) | [Yasas Medagedara](https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9) | [Sansarini](https://open.spotify.com/album/6gI0AFK6lYIS2pRzwTMZf9) | 5:05 | 2022-11-30 |  |
+| [Sansarini](https://open.spotify.com/track/3omtCFShCkIxVCPCGshA3g) | [Yasas Medagedara](https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9) | [Sansarini](https://open.spotify.com/album/2CubDrzqBPpsZ2tmy0Y46S) | 5:05 | 2023-11-29 |  |
+| [Sansarini](https://open.spotify.com/track/7iSpuul3P4BzaxFPVFFRkr) | [Yasas Medagedara](https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9) | [Sansarini](https://open.spotify.com/album/6gI0AFK6lYIS2pRzwTMZf9) | 5:05 | 2022-11-30 | 2023-12-14 |
 | [Sansun Na](https://open.spotify.com/track/6ixSSQt7gTub2Tpa9FWrIP) | [Suresh Dilshan](https://open.spotify.com/artist/7tNo6dKXzL62kR6TmJx3Wf), [DJ JNK](https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT), [Moniyo](https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo) | [Sansun Na](https://open.spotify.com/album/4zEPleEIwC1IXVVwzx3S3K) | 3:11 | 2022-06-16 | 2022-12-01 |
 | [Sanwega](https://open.spotify.com/track/04OzpNiIbgF38E4tyZABB5) | [Pradeep Madahinne](https://open.spotify.com/artist/3Za0eJHDMiw6Up4mQ0LGe8) | [Sanwega](https://open.spotify.com/album/1GVjrpxWFNOhuTJwTQO95p) | 3:26 | 2022-09-23 | 2022-10-08 |
 | [Saragaye](https://open.spotify.com/track/56Yy12DwYDPusNYMjPD6xG) | [SANUKA](https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe) | [Saragaye](https://open.spotify.com/album/2Jw8l7dB4FR5bhngaFZ4Ma) | 3:51 | 2023-05-26 | 2023-11-30 |

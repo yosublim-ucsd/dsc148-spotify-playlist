@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-187 songs - 9 hr 13 min
+188 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Christmas Wrapping](https://open.spotify.com/track/25vlyDxSf8SsjPRr5CieWF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Wish List](https://open.spotify.com/album/4PprECLcYiT8IGZjgivKTJ) | 4:15 | 2021-12-07 | 2022-07-29 |
 | [Christmas Wrapping](https://open.spotify.com/track/50NkxhlikfEt1LsLNOblbc) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Christmas Wish List](https://open.spotify.com/album/0LunqhlyZksTB2Vcg9MeWf) | 4:15 | 2021-12-07 | 2022-11-13 |
 | [Christmas Wrapping](https://open.spotify.com/track/02rYLVEqPgWIkp6yQ1DmtB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Christmas!](https://open.spotify.com/album/2wiCCX3B5AVPbE1pugk04N) | 4:16 | 2021-12-07 |  |
+| [December](https://open.spotify.com/track/6nx2z3uGS0LhvRor8LpoIb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt) | 1:56 | 2023-11-06 |  |
 | [December](https://open.spotify.com/track/2r3gfGANsuPbAwmLWGv0ET) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5BFg8l4NYyZ90DWqcBjbt6) | 1:56 | 2021-12-07 | 2022-07-29 |
-| [December](https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 1:56 | 2021-12-07 |  |
+| [December](https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 1:56 | 2021-12-07 | 2023-12-14 |
 | [December](https://open.spotify.com/track/2B9lnYIrmI416ACcJ1QZWj) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Play Christmas Music](https://open.spotify.com/album/3qPh58Q0uzQEzwrKsAMCVM) | 1:56 | 2021-12-07 | 2022-11-13 |
 | [Deck The Halls](https://open.spotify.com/track/1XPt9t6ikudfvBE4pC1mTB) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Christmas Acoustic](https://open.spotify.com/album/0HvANqD4yUQEJbIOBGr44E) | 1:33 | 2021-12-07 | 2022-11-13 |
 | [Deck The Halls](https://open.spotify.com/track/3gDdxePgl7W8EbLLgaqrxe) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [The Greatest Bits: B\-Sides & Rarities](https://open.spotify.com/album/1zgFMroSTd9f0lr2qRxgqH) | 1:33 | 2021-12-07 |  |

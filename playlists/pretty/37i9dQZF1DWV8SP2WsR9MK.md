@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,908 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,969 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 94 | [May Dance](https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Gateway](https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y) | 11:01 |
 | 95 | [Yesterdays](https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR) | [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Sight](https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt) | 7:26 |
 | 96 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
-| 97 | [All The Things You Are](https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU) | [Hank Garland](https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU) | [Move! The Guitar Artistry Of Hank Garland](https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF) | 4:26 |
-| 98 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
-| 99 | [Walkin' Up](https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/6RRyVVMofYvprSf4fJViho) | 3:19 |
-| 100 | [Little Walk](https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [What We Do](https://open.spotify.com/album/60rpQDTCR4ZtfJ9o5YMzT7) | 6:36 |
+| 97 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
+| 98 | [All The Things You Are](https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU) | [Hank Garland](https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU) | [Move! The Guitar Artistry Of Hank Garland](https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF) | 4:26 |
+| 99 | [Little Walk](https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [What We Do](https://open.spotify.com/album/60rpQDTCR4ZtfJ9o5YMzT7) | 6:36 |
+| 100 | [Walkin' Up](https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/6RRyVVMofYvprSf4fJViho) | 3:19 |
 
-Snapshot ID: `MCxiZTk1OTdmMWIzNTU0ZThlZTEwMjc3YjU4Mzc4MjQzYTczM2Y4NDVh`
+Snapshot ID: `MCw1MjI0MmM0MWIzNjg5ZTk1MzRjODVmZjlkOGU1OTY5MzgxNjY2MmE1`

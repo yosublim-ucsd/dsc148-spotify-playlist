@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain](/playlists/plain/37i9dQZF1DX7NhGf24haor) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7NhGf24haor)
 
-### [Hardstyle Adrenaline! 2023](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
+### [Hardstyle Adrenaline! 2024](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
 > Updated weekly \| Hardstyle \| Cover: Sub Sonik
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,781 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,951 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 107 | [The Best Night](https://open.spotify.com/track/5RdqaD1NJS8CFxDogGEj7w) | [X.AYA](https://open.spotify.com/artist/61QYj9ZPwaO68IxP6mhooq), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [The Best Night](https://open.spotify.com/album/6HXupTPN8q8nTFWL5S43yg) | 2:42 |
 | 108 | [Bound By Blood](https://open.spotify.com/track/0urHN48EcZuLqImG7ASp98) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Bound By Blood](https://open.spotify.com/album/2fH2mZmPLKbWrnFBdQ90gw) | 3:45 |
 
-Snapshot ID: `MCw5ZDIxMTBlMmFkMzFlNmZhMmQzNjAwYzBmZTU4OGVkNzkxZTgwYTBm`
+Snapshot ID: `MCw1MmQzYTQzMmRiNmI2NDdhMDEwZjYyNGE1ZDZkMDJhMDA1ZGEyZjk3`

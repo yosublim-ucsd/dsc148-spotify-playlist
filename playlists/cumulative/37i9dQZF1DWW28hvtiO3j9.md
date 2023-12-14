@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-116 songs - 8 hr 34 min
+117 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [It's so Creamy](https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:43 | 2022-06-28 |  |
 | [Jazzy Night](https://open.spotify.com/track/0yUrdEfnIM3AZX0nxFFruY) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 3:50 | 2022-06-28 | 2022-07-29 |
 | [Jazzy Night](https://open.spotify.com/track/2CzYHourfYD0fQBaBHgCNS) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Who Are You?](https://open.spotify.com/album/64RtMrgkknSMaWhA8J2mDD) | 3:51 | 2022-06-28 |  |
-| [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 | 2023-02-02 |  |
+| [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 | 2023-02-02 | 2023-12-14 |
 | [Just a Joke](https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 3:09 | 2022-05-24 |  |
 | [Last Summer Whisper](https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:59 | 2022-05-24 |  |
 | [Let Me Hold You Again Tonight](https://open.spotify.com/track/1k77BfbL9jwRXC4O9LEmx2) | [原田真二 & クライシス](https://open.spotify.com/artist/2OzKnHAV9H54abcIaIJAoa) | [原田真二GOLDEN☆BEST Legendary Hits 80's](https://open.spotify.com/album/4k2ZzNZ0koeUw4rXzMjwdO) | 4:43 | 2022-05-24 | 2022-07-28 |
@@ -46,6 +46,7 @@
 | [Morning Glory](https://open.spotify.com/track/4MCbJal7Vt63forg63Fap6) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Miss M](https://open.spotify.com/album/6ib3Oa6C7Re0CfxFE2Y8So) | 3:24 | 2022-05-24 | 2022-07-28 |
 | [Mystical Composer](https://open.spotify.com/track/0eikLFcQlkRvxvNIQmf5ec) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR) | 5:08 | 2022-06-28 | 2023-12-08 |
 | [Mystical Composer](https://open.spotify.com/track/1SMO3yVhfUaCgVZ8Tj4j5a) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/3WwmbDTzRRW9ucbwxsU4Zn) | 5:08 | 2022-05-24 | 2022-07-26 |
+| [Mystical Composer](https://open.spotify.com/track/70aHCdlGCMaUmoFRyrA8gO) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/7bUJ1pvnhxdbFA7DyY0DJf) | 5:08 | 2023-03-21 |  |
 | [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 | 2022-05-24 | 2022-10-19 |
 | [Ocean Side](https://open.spotify.com/track/6MMxBWWNfZKCi0hcTN6qqH) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/6IurTWoag2oF0yomZhMToU) | 4:38 | 2022-05-24 | 2022-07-29 |
 | [Ocean Side](https://open.spotify.com/track/6eyiIH5DfjHkqRQMZvdLUV) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/0luQvYcktzmxqbeCZ9owhw) | 4:38 | 2022-06-28 | 2023-12-08 |

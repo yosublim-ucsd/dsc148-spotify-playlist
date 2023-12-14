@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "HOME EP",
+        "url": "https://open.spotify.com/album/06wZxbyxypr1BVQEopXXtx"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272894,
+      "name": "ai no uta",
+      "url": "https://open.spotify.com/track/2nP5n43PEfVzIiRZAVGcPL"
+    },
+    {
+      "album": {
         "name": "Same Thing",
         "url": "https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue"
       },
@@ -5036,7 +5054,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 272894,
       "name": "\u611b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg"

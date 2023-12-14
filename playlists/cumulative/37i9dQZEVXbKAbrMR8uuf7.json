@@ -5658,7 +5658,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 143413,
       "name": "Dif\u00edcil De Reemplazar",
       "url": "https://open.spotify.com/track/1FmVaCRBb2eNOv6SBdFl6I"
@@ -14512,7 +14512,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 142862,
       "name": "Mueve Eso",
       "url": "https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ"
@@ -15698,7 +15698,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 128571,
       "name": "Onana",
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
@@ -15814,6 +15814,28 @@
       "duration_ms": 79836,
       "name": "Pa Cobrar Streamings",
       "url": "https://open.spotify.com/track/6X7KFp5vUUyFzTZL1A0U56"
+    },
+    {
+      "album": {
+        "name": "PA San Juan (Un Culito Nuevo)",
+        "url": "https://open.spotify.com/album/4z2nE6qAvtqEIFXUeY3077"
+      },
+      "artists": [
+        {
+          "name": "Brazil21",
+          "url": "https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm"
+        },
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177235,
+      "name": "PA San Juan (Un Culito Nuevo)",
+      "url": "https://open.spotify.com/track/1lGDJyqsHKjAZdnEFtYZyx"
     },
     {
       "album": {
@@ -17888,6 +17910,28 @@
       "duration_ms": 151324,
       "name": "PUNTO G",
       "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"
+    },
+    {
+      "album": {
+        "name": "Pura Vibras",
+        "url": "https://open.spotify.com/album/3sxXFHGGnEpO6I3nl8h1sq"
+      },
+      "artists": [
+        {
+          "name": "DJ Chulo NYC",
+          "url": "https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC"
+        },
+        {
+          "name": "Brazil21",
+          "url": "https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Pura Vibras",
+      "url": "https://open.spotify.com/track/1EMJ15se0fxHgShBh6tpKI"
     },
     {
       "album": {
@@ -23946,6 +23990,36 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "album": {
+        "name": "We Outside (Remix)",
+        "url": "https://open.spotify.com/album/4Ib24z4wDLJfJRqBJTtpUW"
+      },
+      "artists": [
+        {
+          "name": "Mr Casanova 33",
+          "url": "https://open.spotify.com/artist/0R4Dr2mldozB2KwWPbmXcN"
+        },
+        {
+          "name": "Brazil21",
+          "url": "https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "Beatz Akademy",
+          "url": "https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "We Outside - Remix",
+      "url": "https://open.spotify.com/track/2CKyKn927hsQpEnVO4XGrf"
     },
     {
       "album": {

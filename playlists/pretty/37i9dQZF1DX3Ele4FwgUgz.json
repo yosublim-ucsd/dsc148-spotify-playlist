@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 13520,
+  "num_followers": 13546,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmY5ZWQ3MDdjYWFiOGMzYmI0NmQ4OTI0ZDFjYTMzOGY3MzM4N2Zk",
+  "snapshot_id": "MCw1ODQ5YWUwYWFmMmYwMmNjY2Q1YTJjN2E5ZDE1OWU3Njk4OTU5M2Jj",
   "tracks": [
     {
       "added_at": "2023-11-07 18:16:32",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "\u30aa\u30fc\u30c9\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
         "name": "Fly with You!!",
         "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
       },
@@ -579,18 +595,18 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
       "artists": [
         {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
         }
       ],
-      "duration_ms": 234880,
-      "name": "\u30aa\u30fc\u30c9\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh"
+      "duration_ms": 257519,
+      "name": "\u54c0\u6e29\u30ce\u8a69",
+      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -611,22 +627,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
       "artists": [
         {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
         }
       ],
-      "duration_ms": 257519,
-      "name": "\u54c0\u6e29\u30ce\u8a69",
-      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
+      "duration_ms": 288973,
+      "name": "\u3081\u3063\u3061\u3083Going!!",
+      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 288973,
-      "name": "\u3081\u3063\u3061\u3083Going!!",
-      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "MONSTER GIRLS",
-        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
-      },
-      "artists": [
-        {
-          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
-          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/3LDPZE2mrrsvHGJOTwm2i3"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "Fly with You!!",
         "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 238986,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/7sppMR5Ag87PFaGFdzgq1m"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/3LDPZE2mrrsvHGJOTwm2i3"
     },
     {
       "added_at": "2023-11-07 18:16:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > EQUAL sunar: Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Ebru Gündeş
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,473 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,528 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 12 | [Mesele Belli](https://open.spotify.com/track/6dslhzvazBNFqltFA0K2tQ) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Mesele Belli](https://open.spotify.com/album/2V6e4y7uKyRLT2UnLold3l) | 2:55 |
 | 13 | [Kıra Döke](https://open.spotify.com/track/4HESqAUp9gHwfgqffRPl7m) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Kıra Döke](https://open.spotify.com/album/6YkDcORQLApFCuQ6kJzf4t) | 2:58 |
 | 14 | [Kaybettiklerimi Geri Ver](https://open.spotify.com/track/3VnjffQIgUDKPgpktI7EYB) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Kaybettiklerimi Geri Ver](https://open.spotify.com/album/61dhI5XMTkrMAg5cT0Mzw0) | 3:43 |
-| 15 | [YOLUM AÇIK](https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [YOLUM AÇIK](https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu) | 2:41 |
+| 15 | [YOLUM AÇIK](https://open.spotify.com/track/4bAmoRAlHvK0FQrybFeWtl) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [POP](https://open.spotify.com/album/0EZoxOrmBvdaYl7IY6LBW7) | 2:41 |
 | 16 | [Tövbe](https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Tövbe](https://open.spotify.com/album/27Wl0Q1RGlcHVgMgikuZrR) | 3:12 |
 | 17 | [Duy İstanbul](https://open.spotify.com/track/14xeUL9UCbW5PaNnHru18w) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Duy İstanbul](https://open.spotify.com/album/2x0HZsNrgJ0rdDWRPpHWJH) | 3:15 |
 | 18 | [Padişahım](https://open.spotify.com/track/0kQKA9E7CkYTA4l3MXbQrI) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Padişahım](https://open.spotify.com/album/5Y14uuFJGiuOZkXfZComxG) | 2:33 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 30 | [OTP](https://open.spotify.com/track/2gZjpC2hxO1kA7PLmvj75k) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [OTP](https://open.spotify.com/album/2fPPX83Dj02yGaDEHjpyUY) | 2:17 |
 | 31 | [Kalbinin Kırıkları](https://open.spotify.com/track/5m6l5KRpNs8eIR0qCxwOPL) | [Pamela](https://open.spotify.com/artist/3JAjt6oAXVTMvCYHsc0tIC) | [Kalbinin Kırıkları](https://open.spotify.com/album/5ycP5UVcHLZomQvupcUYpA) | 3:12 |
 | 32 | [Naz](https://open.spotify.com/track/4BQN5kE1xzJoBSoG75Sedr) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Naz](https://open.spotify.com/album/6uTzHHdZEfYVw26JY970QZ) | 2:17 |
-| 33 | [Bile Bile](https://open.spotify.com/track/4oN2BSk9MlsYWpDLdqxs1O) | [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl) | [Bile Bile](https://open.spotify.com/album/5rsft5LhRcjWd3OhiaH2je) | 2:43 |
+| 33 | [Bile Bile](https://open.spotify.com/track/2V2g4Yu0las8Q2WXlr5rAb) | [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl) | [Bile Bile](https://open.spotify.com/album/5LdrZ1OKRIPOTzq52jNUSf) | 2:43 |
 | 34 | [Eften Püften](https://open.spotify.com/track/0zVDa9TsmwjVfuV7OZpHsr) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Eften Püften](https://open.spotify.com/album/4TE2NgBBGOgFuJqXr0ChcC) | 2:35 |
 | 35 | [Seni Bir Daha Görmezsem Olmaz](https://open.spotify.com/track/5GrjWcdrxdWQhOvnJhGqJy) | [Nil Karaibrahimgil](https://open.spotify.com/artist/1PpRPZXSS5ka7m5NW2TO7q) | [Seni Bir Daha Görmezsem Olmaz](https://open.spotify.com/album/3IPAUY50RtfrV4HU2FbIR9) | 3:16 |
 | 36 | [Rüya](https://open.spotify.com/track/3PwWcRVMtAeUrErniSk0ks) | [Nalan](https://open.spotify.com/artist/2ro4mTRj9qAtITiacU8bJg) | [Rüya](https://open.spotify.com/album/617bpKSP9ACm5346MUbxMR) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 74 | [Böyle Nasıl Yaşanır](https://open.spotify.com/track/1cGHhGciQ4AgNYP27E3dj9) | [Şenay Lambaoğlu](https://open.spotify.com/artist/3TBKeKodYFrl3UaYKTcapT) | [Böyle Nasıl Yaşanır](https://open.spotify.com/album/1kTnWLu6qvJd6ntVPazpAK) | 3:56 |
 | 75 | [İnsan Olmak](https://open.spotify.com/track/2M8T5E9qbNipWDSeQKYa12) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [İnsan Olmak](https://open.spotify.com/album/2pXirdzmxBoDunTZE806Ts) | 3:24 |
 
-Snapshot ID: `MCxmMTkwNDFmYzc5ZTcxNGE1YTZhMDE5NjIwMTliOTUzMDg2MmU5ZTUw`
+Snapshot ID: `MCw0YzdjYmNlNzEzZWIzOWQzNzYyNjE0ODM5MmVlMjkyYzM0NTcxZWM3`

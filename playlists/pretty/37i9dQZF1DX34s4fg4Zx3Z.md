@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những ca khúc Fresh Finds Vietnam nổi bật năm 2023\. Ảnh bìa: Southalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,013 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,038 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 48 | [Để Anh](https://open.spotify.com/track/6376OwaUHQe8Ah60nIt00c) | [LOKIE](https://open.spotify.com/artist/4tbEaBwF1NbxySTcFH7nwp) | [Để Anh](https://open.spotify.com/album/1Ewb5MBtlZ7PpKRznIdnUg) | 2:49 |
 | 49 | [Sài Gòn, Ta Lạc Nhau!](https://open.spotify.com/track/7L7CjH8rJAlWo8n2YmoUi6) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG) | [Sài Gòn, Ta Lạc Nhau!](https://open.spotify.com/album/1aQG71AZO1uuhnEtFsmITt) | 4:34 |
 | 50 | [Không Ai 102](https://open.spotify.com/track/4ZYXkf4wa1PdqxnUaeDzrM) | [Kris Vũ](https://open.spotify.com/artist/3kjCQ9WaBQSEHRo0E7prH7) | [Không Ai 102](https://open.spotify.com/album/3w3goOJ21Yxf0wsQ2avluP) | 4:35 |
-| 51 | [Giấc Mơ Của Em \- Sister Version](https://open.spotify.com/track/54YWSJwFqilgIM3yQm5fl6) | [MYLINA](https://open.spotify.com/artist/4yx3BsXxY9l6BRyStNIB8y), [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm), [fueled by boba](https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn) | [Giấc Mơ Của Em \(Sister Version\)](https://open.spotify.com/album/4IKqSU57K4wMY0tuIgZ1Jb) | 2:53 |
-| 52 | [Vòng Xoay](https://open.spotify.com/track/0yRLlOcwxCJn86661YeaOJ) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Vòng Xoay](https://open.spotify.com/album/4pmqRQmc3kcgJJz1reF2RO) | 2:56 |
-| 53 | [Biết Không Thể](https://open.spotify.com/track/254yUNWFpT5VTSoKHFuXCX) | [GreenD](https://open.spotify.com/artist/2mYrvZz0fllkkUnZishGE4) | [Biết Không Thể](https://open.spotify.com/album/7o5XspoYitM2gxu5It5obF) | 4:30 |
-| 54 | [Khi Nào Em Có Thể](https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Khi Nào Em Có Thể](https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH) | 3:46 |
-| 55 | [Bên Em Nhẹ Nhàng Thôi](https://open.spotify.com/track/3cJdxUxZX4SO7xOqJiwyd8) | [Riown](https://open.spotify.com/artist/1vvDwGd3z0eywYay5NPMyG) | [Bên Em Nhẹ Nhàng Thôi](https://open.spotify.com/album/1bJbzL7BVZfyCrjekVaA1w) | 3:39 |
+| 51 | [Vòng Xoay](https://open.spotify.com/track/0yRLlOcwxCJn86661YeaOJ) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Vòng Xoay](https://open.spotify.com/album/4pmqRQmc3kcgJJz1reF2RO) | 2:56 |
+| 52 | [Biết Không Thể](https://open.spotify.com/track/254yUNWFpT5VTSoKHFuXCX) | [GreenD](https://open.spotify.com/artist/2mYrvZz0fllkkUnZishGE4) | [Biết Không Thể](https://open.spotify.com/album/7o5XspoYitM2gxu5It5obF) | 4:30 |
+| 53 | [Khi Nào Em Có Thể](https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Khi Nào Em Có Thể](https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH) | 3:46 |
+| 54 | [Ai Bít Gì Đâu ?](https://open.spotify.com/track/6MBdY1SUmxdKLpPco9smID) | [Riown](https://open.spotify.com/artist/1vvDwGd3z0eywYay5NPMyG) | [Ai Bít Gì Đâu ?](https://open.spotify.com/album/6tMu17fkHI4wFKnBpK2bzU) | 3:20 |
+| 55 | [99db](https://open.spotify.com/track/5nCeBQzWQUeHgh4nTLtjpr) | [Thống](https://open.spotify.com/artist/4XbvXU1QZ22KHcaDNy3XYX), [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [99db](https://open.spotify.com/album/5MnZXPBFflIEIEW16BaOcj) | 3:58 |
 | 56 | [Cảm Giác](https://open.spotify.com/track/6rwZG0j0Kj3E9ZRjkNggrj) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Cảm Giác](https://open.spotify.com/album/3VNqaZJGEHrbcB7Q0aZkyS) | 3:39 |
 | 57 | [Chuyện Chúng Ta Sau Này](https://open.spotify.com/track/0QIBqBajZLLcWfL6mpVsN3) | [Hải Đăng Doo](https://open.spotify.com/artist/0F1rSmrNT6sp3LYohgYKsT), [Weeza](https://open.spotify.com/artist/3KCwCM9okdx5d2iDbIxQ9l) | [Chuyện Chúng Ta Sau Này](https://open.spotify.com/album/3TMBghuTr3KMoyJObBMi63) | 4:05 |
 | 58 | [Tình iu màu hường](https://open.spotify.com/track/4ENI1h9ooavwtCWc5AgKj7) | [CLOUDEE](https://open.spotify.com/artist/17IywSEniBOoJ1pd3ixTw3), [Harmonie](https://open.spotify.com/artist/3rccqqCLNAw6TcLFL93RNt) | [Tình iu màu hường](https://open.spotify.com/album/1UVUEZLRaahTEipsgxxfKT) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Sunny](https://open.spotify.com/track/3d5tHqHAxHSrixVdQDvvv2) | [A.K](https://open.spotify.com/artist/0zj62uJifZjfTQiyDRODjc), [hieuhayho](https://open.spotify.com/artist/7iYleLkZ0KHUjGMoZZrv9S) | [Sunny](https://open.spotify.com/album/1FRcHqpfiThXyZ2qfOcY0e) | 2:48 |
 | 100 | [em lai di dau day?](https://open.spotify.com/track/1JZUgjMN8onMfdCAQxb0xb) | [Cáu](https://open.spotify.com/artist/79RDZmnftJOANOKbYtEo5e) | [em lai di dau day?](https://open.spotify.com/album/1mXPFMkwnS8WP19cgIO0oy) | 2:51 |
 
-Snapshot ID: `MCwyODNhN2QwNDViZDg5NzFhMDUzMzdmNzBkNzI2OTA3ODNiZjYzM2Yz`
+Snapshot ID: `MCw5ODY4NTJmYTM3OGYxNjdiYjJiMzUzMTZjNjViN2QwZmMwMmU3N2E3`

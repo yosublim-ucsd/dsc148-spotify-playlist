@@ -4,7 +4,7 @@
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-265 songs - 12 hr 34 min
+266 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Jingle Bells, Schlittenfahrt im Schnee](https://open.spotify.com/track/76h4Gjxuev41FTF9NX8xWz) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 2:53 | 2023-11-14 |  |
 | [Kannst du die Lichter sehen \(feat\. Detlev Jöcker, Sarah Schiffer & Kinderlieder Gang\)](https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Feste feiern auf dem singenden Bauernhof](https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9) | 2:33 | 2023-12-08 |  |
 | [Kaugummi ist mega!](https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr) | [Heavysaurus](https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw) | [Das Album \- Rock'n'Rarrr Music](https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu) | 4:12 | 2023-06-28 | 2023-09-01 |
+| [Kekse](https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:36 | 2023-12-08 |  |
 | [KiKANiNCHEN\-Weihnachtslied](https://open.spotify.com/track/5CfOAeldmtNqbNTubbTr7c) | [Kikaninchen](https://open.spotify.com/artist/0QOJGCTrdDQS6Qz9dsvies), [Christian](https://open.spotify.com/artist/1YE0dGV7nezWn3VHWU6Zvo) | [Dibedibedab!](https://open.spotify.com/album/3XGodaK7gDSCt7MoYKb20y) | 1:32 | 2023-11-14 |  |
 | [Kinder Mäuse Monster Party](https://open.spotify.com/track/1tBU646XvprtvmJdqblhYN) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Kinder Mäuse Monster Party](https://open.spotify.com/album/3kQzllISQiYBuEKfBKmQmD) | 2:13 | 2023-10-16 | 2023-11-06 |
 | [Klapprige Knochen](https://open.spotify.com/track/7s7HHMpOqIklT2QAS1Kyyc) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Das Kamel tanzt gern Cha Cha Cha](https://open.spotify.com/album/5CR8hZVrX8rTT2L2ZgCAb8) | 2:53 | 2023-10-16 | 2023-11-06 |
@@ -187,7 +188,7 @@
 | [Monsterparty](https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Party \- EP](https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7) | 2:10 | 2023-10-16 | 2023-11-06 |
 | [Monstertanz](https://open.spotify.com/track/1f7uRXBYPTZlq4uReNhFkY) | [Lila Lindwurm](https://open.spotify.com/artist/0PFXbbuM2IbvroXt2nGDoj) | [Monsterquatsch und Wackelzähne](https://open.spotify.com/album/4bE9UWQnSHZNN8xfAbSjvE) | 2:50 | 2023-10-16 | 2023-11-06 |
 | [Monstertanz](https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs) | [Piano Papa](https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4), [Mama Sandy](https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS) | [Monstertanz](https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ) | 2:06 | 2023-10-16 | 2023-11-06 |
-| [Morgen kommt der Nikolaus](https://open.spotify.com/track/3ectmvs9nM45NX4748ZEL5) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:09 | 2023-11-14 |  |
+| [Morgen kommt der Nikolaus](https://open.spotify.com/track/3ectmvs9nM45NX4748ZEL5) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:09 | 2023-11-14 | 2023-12-14 |
 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 | 2023-08-04 | 2023-09-01 |
 | [Nikolaus, Nikolaus](https://open.spotify.com/track/5m2iD9ImK5TxjScasHLo9H) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Weckt den Weihnachtsmann](https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H) | 2:24 | 2023-11-14 |  |
 | [O je, Tannenbaum!](https://open.spotify.com/track/3UpOay0ipJUvhzk8YFeHl1) | [Enno Bunger](https://open.spotify.com/artist/0aiAgFPJcZggIkSUGDFdkD) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:41 | 2023-11-14 |  |

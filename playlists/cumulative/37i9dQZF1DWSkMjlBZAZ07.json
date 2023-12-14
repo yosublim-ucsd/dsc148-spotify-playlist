@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 169177,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
@@ -272,6 +272,24 @@
       "duration_ms": 227946,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/4V70CXma5EqVlQ6SvxDLYO"
+    },
+    {
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/1G5wziJiffg6QNea5Xqp86"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/07h7XnD84Kzg8EsMqj1H5R"
     },
     {
       "album": {

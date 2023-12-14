@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 393130,
+  "num_followers": 393302,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjU2M2UxZmJkZDI0ODJhMTQyNmNjMmVjMWNlMDRiYzRlZjgyY2Ji",
+  "snapshot_id": "MCw0MzA1YzVkMGMxYTA2OWYyMTUwNzZkZTc5OTY5YzRjNTg4Y2FhMGNj",
   "tracks": [
     {
       "added_at": "2023-12-12 06:10:36",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "The Proposal",
-        "url": "https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW"
-      },
-      "artists": [
-        {
-          "name": "Henriette Fleich",
-          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
-        }
-      ],
-      "duration_ms": 162062,
-      "name": "The Proposal",
-      "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Under a tree",
         "url": "https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 138442,
       "name": "Under a tree",
       "url": "https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "The Proposal",
+        "url": "https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "duration_ms": 162062,
+      "name": "The Proposal",
+      "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Fields Of Love",
-        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Krause",
-          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
-        }
-      ],
-      "duration_ms": 137743,
-      "name": "Fields Of Love",
-      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Autumn Sky",
         "url": "https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 158723,
       "name": "Autumn Sky",
       "url": "https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Fields Of Love",
+        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Krause",
+          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
+        }
+      ],
+      "duration_ms": 137743,
+      "name": "Fields Of Love",
+      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
         "name": "Serene",
         "url": "https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Passeggiata Serale",
         "url": "https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Nordanvind",
-        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
-      },
-      "artists": [
-        {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Nordanvind",
-      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Diaphanous",
         "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 173520,
       "name": "Diaphanous",
       "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Nordanvind",
+        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Nordanvind",
+      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
+        "name": "Aspres",
+        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 199119,
+      "name": "Aspres",
+      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
         "name": "Lisser",
         "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Aspres",
-        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 199119,
-      "name": "Aspres",
-      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Through The Blue (Piano Version)",
         "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Luce",
         "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 130403,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
+      },
+      "artists": [
+        {
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+        }
+      ],
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
         "name": "Pines and Cedars",
         "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 129250,
       "name": "To New Beginnings",
       "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
-        "name": "Peace flow",
-        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
-      },
-      "artists": [
-        {
-          "name": "Jon Albreit",
-          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
-        }
-      ],
-      "duration_ms": 137692,
-      "name": "Peace flow",
-      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
-      },
-      "artists": [
-        {
-          "name": "Taganema",
-          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
-        }
-      ],
-      "duration_ms": 145529,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Evening Star",
         "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 128724,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
+      },
+      "artists": [
+        {
+          "name": "Taganema",
+          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
+        }
+      ],
+      "duration_ms": 145529,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "A Time Long Ago",
-        "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
-      },
-      "artists": [
-        {
-          "name": "Polly Carter",
-          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
-        }
-      ],
-      "duration_ms": 135105,
-      "name": "A Time Long Ago",
-      "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Release from silence",
         "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 137642,
       "name": "Release from silence",
       "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "A Time Long Ago",
+        "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "duration_ms": 135105,
+      "name": "A Time Long Ago",
+      "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Under",
-        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Nokt\u00farna Variations",
         "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 122000,
       "name": "Nokt\u00farna - Upright Piano",
       "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Under",
+        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "A Place To Hide",
-        "url": "https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F"
-      },
-      "artists": [
-        {
-          "name": "Boil The Ocean",
-          "url": "https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI"
-        }
-      ],
-      "duration_ms": 147507,
-      "name": "A Place To Hide",
-      "url": "https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "fields of forever (sleep rework)",
         "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 221702,
       "name": "fields of forever - sleep rework",
       "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "A Place To Hide",
+        "url": "https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F"
+      },
+      "artists": [
+        {
+          "name": "Boil The Ocean",
+          "url": "https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI"
+        }
+      ],
+      "duration_ms": 147507,
+      "name": "A Place To Hide",
+      "url": "https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y"
     }
   ],
   "unique_name": "Coffee and Piano",

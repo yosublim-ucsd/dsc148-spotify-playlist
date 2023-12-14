@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KpP2LN299J.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,404,080 likes - 168 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,407,587 likes - 168 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KpP2LN299J.md) - [plain]
 | 167 | [Bye Bye Baby \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4qUijfYU8EoIWiY6oSyrgT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:02 |
 | 168 | [closure](https://open.spotify.com/track/35rdVq36LMHQX0Suw9a6tK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:00 |
 
-Snapshot ID: `MCxmZWY4ZjU1MmZlYjEwYzYxZDcyODdlYTg4ZjJlY2U0ZDg2MDg0ODA1`
+Snapshot ID: `MCwxOTk0Mjg5ZWUxNzlhMTk3ODRhMmE0MmRlMTc1Nzk5NWFhMTc1MDUw`

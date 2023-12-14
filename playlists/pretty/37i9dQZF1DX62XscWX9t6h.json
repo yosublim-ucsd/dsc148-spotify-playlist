@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 164849,
+  "num_followers": 164947,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTcwMzcyMmE3MGJiNWY5OTA3OTBkNWZmNjI0OTYwYTE5OWNjMWZl",
+  "snapshot_id": "MCxjYzU3MTIyZDVmZThiYWRhNmY2N2E0NWY1MWY4MzYwMjhmNmU4Mzdl",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Stone by Stone",
         "url": "https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 230986,
       "name": "Rio Grande",
       "url": "https://open.spotify.com/track/174aZteQew30wcq8sPzlW6"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
+      "added_at": "2022-04-17 18:29:09",
+      "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 186548,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Jungle Fire",
@@ -813,22 +829,6 @@
       "url": "https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8"
     },
     {
-      "added_at": "2022-04-17 18:29:09",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 186548,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Afrique Victime",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
     },
     {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 331500,
+      "name": "Bear Creek",
+      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Yemay\u00e1",
@@ -879,22 +895,6 @@
       "duration_ms": 239875,
       "name": "Yemay\u00e1",
       "url": "https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4"
-    },
-    {
-      "added_at": "2023-11-23 03:51:02",
-      "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 331500,
-      "name": "Bear Creek",
-      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1181,6 +1181,22 @@
       "url": "https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc"
     },
     {
+      "added_at": "2023-04-14 00:27:25",
+      "album": {
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+    },
+    {
       "added_at": "2022-04-06 01:47:33",
       "album": {
         "name": "\u015einanay / French Disko (Lagniappe Session)",
@@ -1229,22 +1245,6 @@
       "url": "https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT"
     },
     {
-      "added_at": "2023-04-14 00:27:25",
-      "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
-      },
-      "artists": [
-        {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Light",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Grandeza",
-        "url": "https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn"
-      },
-      "artists": [
-        {
-          "name": "Sessa",
-          "url": "https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ"
-        }
-      ],
-      "duration_ms": 214787,
-      "name": "Flor do Real",
-      "url": "https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj"
-    },
-    {
       "added_at": "2023-02-23 03:11:35",
       "album": {
         "name": "In Between Thoughts...A New World",
@@ -1291,6 +1275,22 @@
       "duration_ms": 209480,
       "name": "Descending To Nowhere",
       "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Grandeza",
+        "url": "https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn"
+      },
+      "artists": [
+        {
+          "name": "Sessa",
+          "url": "https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ"
+        }
+      ],
+      "duration_ms": 214787,
+      "name": "Flor do Real",
+      "url": "https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1365,6 +1365,26 @@
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Freedom Fables",
+        "url": "https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "duration_ms": 319653,
+      "name": "Tittle Tattle",
+      "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
+    },
+    {
       "added_at": "2022-03-28 18:17:41",
       "album": {
         "name": "Udhero Na",
@@ -1387,38 +1407,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Freedom Fables",
-        "url": "https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq"
+        "name": "Natura Morta",
+        "url": "https://open.spotify.com/album/6Md4bFFy49yYCQ0VHCO4tt"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "CHERISE",
-          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
         }
       ],
-      "duration_ms": 319653,
-      "name": "Tittle Tattle",
-      "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Yol",
-        "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 258315,
-      "name": "Y\u00fcce Dag Basinda",
-      "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
+      "duration_ms": 191963,
+      "name": "Impasto",
+      "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
     },
     {
       "added_at": "2022-02-18 03:47:28",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Natura Morta",
-        "url": "https://open.spotify.com/album/6Md4bFFy49yYCQ0VHCO4tt"
+        "name": "Yol",
+        "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
       },
       "artists": [
         {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 191963,
-      "name": "Impasto",
-      "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
+      "duration_ms": 258315,
+      "name": "Y\u00fcce Dag Basinda",
+      "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1651,6 +1651,38 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Optimisme",
+        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
+    },
+    {
+      "added_at": "2023-03-31 19:02:24",
+      "album": {
+        "name": "A\u015fk",
+        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 220142,
+      "name": "Rak\u0131ya Su Katamam",
+      "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -1675,38 +1707,6 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2023-03-31 19:02:24",
-      "album": {
-        "name": "A\u015fk",
-        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 220142,
-      "name": "Rak\u0131ya Su Katamam",
-      "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Optimisme",
-        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
     },
     {
       "added_at": "2023-02-10 03:09:47",

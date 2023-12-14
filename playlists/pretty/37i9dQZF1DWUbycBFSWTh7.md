@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,855 likes - 100 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,871 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [High School](https://open.spotify.com/track/1mNwuE3ShRGCoGv3WD3oVO) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [Voice Memos](https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6) | 2:57 |
 | 100 | [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 |
 
-Snapshot ID: `MCw1MjdkNDFkNjU4YTZiZTVlYmI1NGZkNjk1MjA2ODU4ZGY0MjFjN2E0`
+Snapshot ID: `MCw0ZDExMzMzNDA3ZjM2MjJiZGY1MmYxYTBkNjc3MTZkZjhkMjk3YjJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,312 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,313 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 20 | [dorobo](https://open.spotify.com/track/6E5m6IFNNFYwIe1sBKgk4y) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [dorobo](https://open.spotify.com/album/7AgCcXr9sUYISChejAsr5w) | 2:56 |
 | 21 | [do you miss me?](https://open.spotify.com/track/5c5Z1hLDLCH0rf4oBmUXpn) | [Emma Aibara](https://open.spotify.com/artist/1Wo7lRX3AtN9AD3hUiwjW7), [Father Koi](https://open.spotify.com/artist/3TiCUxDWDi4qSDLITpkziT) | [do you miss me?](https://open.spotify.com/album/7FT1lFMr0LFGj8nu4Er0bv) | 3:23 |
 | 22 | [Escape](https://open.spotify.com/track/2cPsNCZIdVxAKU8wmPCbCd) | [plan i](https://open.spotify.com/artist/5w4PkCj88ZFwCZDi21y4Su), [S2](https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3), [age](https://open.spotify.com/artist/7cwpMB9QCXs372p7UNptGp) | [Escape](https://open.spotify.com/album/78esEXGWHqv2bOapPKacpB) | 1:53 |
-| 23 | [Blood in blue \(phritz Remix\)](https://open.spotify.com/track/11ppVEECxDyZcDjahM2O5n) | [Age Factory](https://open.spotify.com/artist/08eVxwEW23b87q3tde77hk), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [Blood in blue \(phritz Remix\)](https://open.spotify.com/album/47k3uIKCYTkuucDUubo5ZA) | 3:08 |
+| 23 | [Blood in blue \(phritz Remix\)](https://open.spotify.com/track/11ppVEECxDyZcDjahM2O5n) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [Blood in blue \(phritz Remix\)](https://open.spotify.com/album/47k3uIKCYTkuucDUubo5ZA) | 3:08 |
 | 24 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 |
 | 25 | [look around](https://open.spotify.com/track/30CxxIqGyY7JvY6fLXYT4I) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [look around](https://open.spotify.com/album/3LYSPJS1Ka5ZCtRM6ffJ5w) | 3:13 |
 | 26 | [Pineal Wave](https://open.spotify.com/track/0b6aO9d1z1p2MHGse6oGMe) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [Pineal Wave](https://open.spotify.com/album/3RH3DfitvP0araRO4YIa2S) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Toxic Love](https://open.spotify.com/track/2Oa8yH2CacmF1jYEEbfqpB) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Toxic Love](https://open.spotify.com/album/2XXdrTRRcnmWrIgsyNtIV4) | 5:34 |
 | 60 | [FCKNJP](https://open.spotify.com/track/5txPLu9suP8msI1sVUApbV) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [FCKNJP](https://open.spotify.com/album/7gT7u7jM7N5w4TPrxaSDzm) | 3:27 |
 
-Snapshot ID: `MCw4NDI2NzcyMjhmZDc0MjI4NDE1NjVhOGE3NDYyYTQ0M2EzNzVhZmJm`
+Snapshot ID: `MCxmYjkwOGQxYzJmOWY4ZGYwNGZhY2RkNzcwMzMyYzU1Nzc2OTVhMzBi`

@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Four Year Strong",
-  "num_followers": 456722,
+  "num_followers": 456758,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzA1MTc2YWQzZWEzOWQxZGUzMGI5NmNjZWZiMDE5NDBmNmQ1Y2Zk",
+  "snapshot_id": "MCw2ZDI1ZDM1ZjM3OWQwZWIwNGY2YzU5ODU5ZWYzZGViNzE2ZjdkNGE0",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "kill[h]er",
+        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 145735,
+      "name": "kill[h]er",
+      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Memories (with WILLOW)",
         "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "kill[h]er",
-        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 145735,
-      "name": "kill[h]er",
-      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Circling the Drain",
         "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 229192,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "AUTUMNAL",
         "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
       },
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+        "name": "SHE LOVES ME, SHE LOVES ME NOT",
+        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
       },
       "artists": [
         {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 165317,
-      "name": "T.M.I",
-      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+      "duration_ms": 182014,
+      "name": "SHE LOVES ME, SHE LOVES ME NOT",
+      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1627,6 +1643,22 @@
       "duration_ms": 191976,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Smash The Mirror",
+        "url": "https://open.spotify.com/album/5vqbCpq3mJmSXk6vk7lmKO"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 184717,
+      "name": "Smash The Mirror",
+      "url": "https://open.spotify.com/track/5VoegAxobTd8f8vS7tnPQN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1715,38 +1747,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "SHE LOVES ME, SHE LOVES ME NOT",
-        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 182014,
-      "name": "SHE LOVES ME, SHE LOVES ME NOT",
-      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Smash The Mirror",
-        "url": "https://open.spotify.com/album/5vqbCpq3mJmSXk6vk7lmKO"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 184717,
-      "name": "Smash The Mirror",
-      "url": "https://open.spotify.com/track/5VoegAxobTd8f8vS7tnPQN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "hover like a GODDESS",
         "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
       },
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Thanks but No Thanks",
-        "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Up In Smoke",
         "url": "https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 174000,
       "name": "Up In Smoke",
       "url": "https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Thanks but No Thanks",
+        "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Losing What We Love",
-        "url": "https://open.spotify.com/album/6uROVKhZs2MvHAHUdwAwb3"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 221239,
-      "name": "Losing What We Love",
-      "url": "https://open.spotify.com/track/6CrWJF0SI2XfWGMzyXdIZe"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "CYAN1DE (feat. Pete Wentz)",
         "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 154680,
       "name": "GOOD MOOD (feat. grandson)",
       "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Losing What We Love",
+        "url": "https://open.spotify.com/album/6uROVKhZs2MvHAHUdwAwb3"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 221239,
+      "name": "Losing What We Love",
+      "url": "https://open.spotify.com/track/6CrWJF0SI2XfWGMzyXdIZe"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2235,6 +2235,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "A. Hole",
+        "url": "https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj"
+      },
+      "artists": [
+        {
+          "name": "Phi11a",
+          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+        },
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        }
+      ],
+      "duration_ms": 152060,
+      "name": "A. Hole",
+      "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Thank You, New Jersey",
         "url": "https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC"
       },
@@ -2283,6 +2303,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "brkdwn",
+        "url": "https://open.spotify.com/album/7pkLbvZVOIfOd5e4C1N3t1"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "duration_ms": 135713,
+      "name": "brkdwn",
+      "url": "https://open.spotify.com/track/6Shhq1xBZyafFLUvU8ghrH"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -2303,50 +2339,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "brkdwn",
-        "url": "https://open.spotify.com/album/7pkLbvZVOIfOd5e4C1N3t1"
+        "name": "toothfairy",
+        "url": "https://open.spotify.com/album/3h7BdSI3zOT1c4WhAGOEHd"
       },
       "artists": [
         {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
         }
       ],
-      "duration_ms": 135713,
-      "name": "brkdwn",
-      "url": "https://open.spotify.com/track/6Shhq1xBZyafFLUvU8ghrH"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/06zDKs4zyoeMS8SBC9r9Tm"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 196086,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Cherryland",
-        "url": "https://open.spotify.com/album/5RdopBmBV7XPu36hcHbrTX"
-      },
-      "artists": [
-        {
-          "name": "The Ready Set",
-          "url": "https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Cherryland",
-      "url": "https://open.spotify.com/track/2CP5TuxVJD1IggS5rw0goV"
+      "duration_ms": 140598,
+      "name": "toothfairy",
+      "url": "https://open.spotify.com/track/4mG5tpeiYVHiy8gRKNCVcn"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2367,18 +2371,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "toothfairy",
-        "url": "https://open.spotify.com/album/3h7BdSI3zOT1c4WhAGOEHd"
+        "name": "Cherryland",
+        "url": "https://open.spotify.com/album/5RdopBmBV7XPu36hcHbrTX"
       },
       "artists": [
         {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+          "name": "The Ready Set",
+          "url": "https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC"
         }
       ],
-      "duration_ms": 140598,
-      "name": "toothfairy",
-      "url": "https://open.spotify.com/track/4mG5tpeiYVHiy8gRKNCVcn"
+      "duration_ms": 154200,
+      "name": "Cherryland",
+      "url": "https://open.spotify.com/track/2CP5TuxVJD1IggS5rw0goV"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/06zDKs4zyoeMS8SBC9r9Tm"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 196086,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2407,26 +2427,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "A. Hole",
-        "url": "https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj"
-      },
-      "artists": [
-        {
-          "name": "Phi11a",
-          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
-        },
-        {
-          "name": "BESTIES",
-          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
-        }
-      ],
-      "duration_ms": 152060,
-      "name": "A. Hole",
-      "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Punkstar (feat. Royal & the Serpent)",
         "url": "https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t"
       },
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
-      },
-      "artists": [
-        {
-          "name": "Koyo",
-          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
-        }
-      ],
-      "duration_ms": 102258,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "nosebleeder",
         "url": "https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 189176,
       "name": "she's a vampire",
       "url": "https://open.spotify.com/track/0mKgF83Y31cJKwPc13o5nR"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "duration_ms": 102258,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2579,18 +2579,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "One Foot Wide",
-        "url": "https://open.spotify.com/album/075bTzHAr8wFqesZbX3X1r"
+        "name": "F.A.K.E.",
+        "url": "https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH"
       },
       "artists": [
         {
-          "name": "Good Hangs",
-          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+          "name": "CLIFFDIVER",
+          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
         }
       ],
-      "duration_ms": 203625,
-      "name": "One Foot Wide",
-      "url": "https://open.spotify.com/track/7Iq7JKB3J1di7eozPYtWPW"
+      "duration_ms": 137397,
+      "name": "F.A.K.E.",
+      "url": "https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj"
     }
   ],
   "unique_name": "The Scene",

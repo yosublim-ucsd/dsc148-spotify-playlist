@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Jaurim + Begin again 2 Live in Porto",
+        "url": "https://open.spotify.com/album/2fnjbyrhNfOeoCHoI7BepJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        },
+        {
+          "name": "Lee Sun Kyu",
+          "url": "https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290055,
+      "name": "#1 - Live",
+      "url": "https://open.spotify.com/track/0NK4w2xLrz1q3ahmZMnhVY"
+    },
+    {
+      "album": {
         "name": "Jaurim + Begin Again 2 Live In Porto",
         "url": "https://open.spotify.com/album/6URo0YjjVBtKe0cwGV8gDa"
       },
@@ -20,7 +42,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 290581,
       "name": "#1 - Live Version",
       "url": "https://open.spotify.com/track/6XqxiYn5MFteNGLogEBqX4"
@@ -3133,6 +3155,28 @@
     },
     {
       "album": {
+        "name": "Jaurim + Begin again 2 Live in Porto",
+        "url": "https://open.spotify.com/album/2fnjbyrhNfOeoCHoI7BepJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        },
+        {
+          "name": "Lee Sun Kyu",
+          "url": "https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219881,
+      "name": "Shining - Live",
+      "url": "https://open.spotify.com/track/6tWxwbr7yFDCwtnlxUqj5l"
+    },
+    {
+      "album": {
         "name": "Jaurim + Begin Again 2 Live In Porto",
         "url": "https://open.spotify.com/album/6URo0YjjVBtKe0cwGV8gDa"
       },
@@ -3148,7 +3192,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 219991,
       "name": "Shining - Live Version",
       "url": "https://open.spotify.com/track/3I49nj7cvt4Fp9bBDEulNi"

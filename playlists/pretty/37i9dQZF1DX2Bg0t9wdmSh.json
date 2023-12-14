@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 8368,
+  "num_followers": 8390,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTk5NWIwMDFkYTNkYjYwZTQ2MzgwZWZiNjQ4MTA1NDViMjY4YTY1",
+  "snapshot_id": "MCwwYjY2ZTI0Zjg4YjFhNTA1ZWY4NWI3YmFmMTM5YjZlZDQzNzQzODhk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Collection One",
+        "url": "https://open.spotify.com/album/1VYRUsEjoHAnE1NNa0Tj3z"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/47MhyGA0XUtF9lZJtny3Pd"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -791,30 +807,6 @@
       "duration_ms": 183182,
       "name": "Ain't It Funny ft. Meek Mill",
       "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Hittin' (Remix)",
-        "url": "https://open.spotify.com/album/60l7cfpagkyUbt5UWh4Grv"
-      },
-      "artists": [
-        {
-          "name": "Money Mu",
-          "url": "https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Foogiano",
-          "url": "https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX"
-        }
-      ],
-      "duration_ms": 281172,
-      "name": "Hittin' (Remix)",
-      "url": "https://open.spotify.com/track/1wV0Z107eyb68MB6AQ8NoX"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -855,18 +847,26 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Collection One",
-        "url": "https://open.spotify.com/album/1VYRUsEjoHAnE1NNa0Tj3z"
+        "name": "Hittin' (Remix)",
+        "url": "https://open.spotify.com/album/60l7cfpagkyUbt5UWh4Grv"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "Money Mu",
+          "url": "https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Foogiano",
+          "url": "https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX"
         }
       ],
-      "duration_ms": 173610,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/47MhyGA0XUtF9lZJtny3Pd"
+      "duration_ms": 281172,
+      "name": "Hittin' (Remix)",
+      "url": "https://open.spotify.com/track/1wV0Z107eyb68MB6AQ8NoX"
     },
     {
       "added_at": "2022-10-01 16:09:56",

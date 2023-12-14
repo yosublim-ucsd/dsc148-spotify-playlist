@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,805 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,807 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 3 | [Chasing Peace Of Mind \(with Habib Koité & Ami Faku\)](https://open.spotify.com/track/2BEs69LTsDpBqKLialzhOe) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Habib Koité](https://open.spotify.com/artist/2laFwNRffMM18LvKKDxCs9), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 3:27 |
 | 4 | [Only God Can Save Me](https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Only God Can Save Me](https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql) | 2:58 |
 | 5 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 |
-| 6 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:28 |
+| 6 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 |
 | 7 | [Overthinking](https://open.spotify.com/track/0PhhA3xoYyhUQEMsUaJSsW) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Overthinking](https://open.spotify.com/album/7omcOY3k8mqGaaoW3gUELy) | 2:38 |
 | 8 | [Muntu Wam](https://open.spotify.com/track/6V5k8CKadngx40RMhx5lPj) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Baba Yaga](https://open.spotify.com/album/7u1BJ9l6LxiLKtzJw9WSfb) | 5:23 |
 | 9 | [Fefe Ne Fefe](https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fefe Ne Fefe](https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc) | 2:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 79 | [Love U Right Away](https://open.spotify.com/track/1izdaNNZ7agtWDjAZq2WXb) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Love U Right Away](https://open.spotify.com/album/3qzAMgBTHM590Q4TtDzqYu) | 2:34 |
 | 80 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 |
 
-Snapshot ID: `MCwzMmZlNzNmOWQ1ZjBmODYyZTQwMWZhN2M5N2U0NjlhN2U2ODE0NzYx`
+Snapshot ID: `MCwwY2I5MWQyYjNkYThmY2MxMmY5ODRiMThiODhjNzY0M2FkN2RkOTRh`

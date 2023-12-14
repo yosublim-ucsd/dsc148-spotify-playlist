@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: The Killers",
-  "num_followers": 695171,
+  "num_followers": 695162,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmYxYzRjYWE4NjdjMTQxN2JkYTFiYmQ0N2UxOTRhNTk4MDUwN2Rj",
+  "snapshot_id": "MCw0YmJiOGY2MTk0NzNkMjk1YzAyMTA3NGI1ZWUwOWYxZjI5NGM5YmRk",
   "tracks": [
     {
       "added_at": "2023-12-08 03:29:29",
@@ -155,18 +155,26 @@
     {
       "added_at": "2023-12-08 03:29:29",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+        "name": "AFRAID TO DIE",
+        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Tatiana Shmayluk",
+          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
+        },
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
         }
       ],
-      "duration_ms": 273693,
-      "name": "Too Far Gone?",
-      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
+      "duration_ms": 184215,
+      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
+      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
     },
     {
       "added_at": "2023-12-08 03:29:29",
@@ -183,6 +191,22 @@
       "duration_ms": 281052,
       "name": "Too Close / Too Late",
       "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
+    },
+    {
+      "added_at": "2023-12-08 03:29:29",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
     },
     {
       "added_at": "2023-12-08 03:29:29",
@@ -219,26 +243,18 @@
     {
       "added_at": "2023-12-08 03:29:29",
       "album": {
-        "name": "AFRAID TO DIE",
-        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "Tatiana Shmayluk",
-          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
-        },
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
         }
       ],
-      "duration_ms": 184215,
-      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
-      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+      "duration_ms": 259173,
+      "name": "Temple Of Ekur",
+      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
     },
     {
       "added_at": "2023-12-08 03:29:29",
@@ -259,22 +275,6 @@
       "duration_ms": 195236,
       "name": "The Better Me",
       "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
-    },
-    {
-      "added_at": "2023-12-08 03:29:29",
-      "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Temple Of Ekur",
-      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
     },
     {
       "added_at": "2023-12-08 03:29:29",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-08 03:29:29",
       "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
-    },
-    {
-      "added_at": "2023-12-08 03:29:29",
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 178318,
       "name": "Take the Ride",
       "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
+    },
+    {
+      "added_at": "2023-12-08 03:29:29",
+      "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
     },
     {
       "added_at": "2023-12-08 03:29:29",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-08 03:29:29",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 248511,
-      "name": "Poor Boy a Long Way From Home",
-      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2023-12-08 03:29:29",
-      "album": {
         "name": "CMF2",
         "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 274437,
       "name": "Talk Sick",
       "url": "https://open.spotify.com/track/5LEM1bxgQSlvUIw7VOe7hq"
+    },
+    {
+      "added_at": "2023-12-08 03:29:29",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
     },
     {
       "added_at": "2023-12-08 03:29:29",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-12-08 03:29:29",
       "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/5jL9PVVgmVZhLJVNjO7SqO"
+        "name": "Ready For Something",
+        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
       },
       "artists": [
         {
-          "name": "Edu Falaschi",
-          "url": "https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz"
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
         }
       ],
-      "duration_ms": 637653,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/0tBIEhBNgEAbk5H7orYmi8"
+      "duration_ms": 237560,
+      "name": "Ready For Something",
+      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
     },
     {
       "added_at": "2023-12-08 03:29:29",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-12-08 03:29:29",
       "album": {
-        "name": "Ready For Something",
-        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/5jL9PVVgmVZhLJVNjO7SqO"
       },
       "artists": [
         {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+          "name": "Edu Falaschi",
+          "url": "https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz"
         }
       ],
-      "duration_ms": 237560,
-      "name": "Ready For Something",
-      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
+      "duration_ms": 637653,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/0tBIEhBNgEAbk5H7orYmi8"
     },
     {
       "added_at": "2023-12-08 03:29:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-08 03:29:29",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI"
-      },
-      "artists": [
-        {
-          "name": "Outline In Color",
-          "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
-    },
-    {
-      "added_at": "2023-12-08 03:29:29",
-      "album": {
         "name": "Dante XXI (2021 - Remaster)",
         "url": "https://open.spotify.com/album/7rX8txeF5YyFsCbDvUxU3R"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 269333,
       "name": "Fighting On (2021 - Remaster)",
       "url": "https://open.spotify.com/track/1T9xnCIWFjJUHkOlIIqHOb"
+    },
+    {
+      "added_at": "2023-12-08 03:29:29",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI"
+      },
+      "artists": [
+        {
+          "name": "Outline In Color",
+          "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
     },
     {
       "added_at": "2023-12-08 03:29:29",

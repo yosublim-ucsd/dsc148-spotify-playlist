@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: ThxSoMch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,273 likes - 125 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,394 likes - 125 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [daylight falls](https://open.spotify.com/track/3JTXbLod8F36ErFytqlxID) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [daylight falls](https://open.spotify.com/album/4JzQ9ctOcrFaAY1Kfbq4hM) | 2:45 |
 | 125 | [HUSH](https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:18 |
 
-Snapshot ID: `MCw4ODAwODU0MzViMWE4ZGNlZjlhM2Y4YTRiNTg4MTliMGVmZTI3MGZh`
+Snapshot ID: `MCw3ZGJhZTgyOWYzNGYzZjAxMzA0MGRiOWRjZDZmZjM0MzZmYTlkMWNh`

@@ -303,6 +303,50 @@
     },
     {
       "album": {
+        "name": "All-Night Vigil, Op. 37: V. Nunc dimittis",
+        "url": "https://open.spotify.com/album/4JeSjR1enY3mhNtmBpOxKv"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194572,
+      "name": "All-Night Vigil, Op. 37: V. Nunc dimittis",
+      "url": "https://open.spotify.com/track/5wF7lQCybYSxuBs4iPGRwL"
+    },
+    {
+      "album": {
+        "name": "Andante from the Sonata for Solo Violin, BWV 1003 (Transcribed by Alexander Siloti)",
+        "url": "https://open.spotify.com/album/2eoScCOTwKiB5lux16We0G"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286680,
+      "name": "Andante from the Sonata for Solo Violin, BWV 1003 (Transcribed by Alexander Siloti)",
+      "url": "https://open.spotify.com/track/3EFurqAapiBGro1DnZcEIK"
+    },
+    {
+      "album": {
         "name": "andata",
         "url": "https://open.spotify.com/album/6RMSaPc0l29vOWGtyAZEvS"
       },
@@ -1195,6 +1239,32 @@
     },
     {
       "album": {
+        "name": "Go, Crystal Tears",
+        "url": "https://open.spotify.com/album/5hNslTXrKaVf7C0WcZsQ6Q"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        },
+        {
+          "name": "Azul Lima",
+          "url": "https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "Go, Crystal Tears",
+      "url": "https://open.spotify.com/track/0uNrmdWVjW1oaK23z7ylUN"
+    },
+    {
+      "album": {
         "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
         "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
       },
@@ -1885,6 +1955,28 @@
     },
     {
       "album": {
+        "name": "Chloe Hearts Christmas",
+        "url": "https://open.spotify.com/album/1htpG1vi3iNXgtqyl3YPig"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Chloe Flower",
+          "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230373,
+      "name": "Merry Christmas, Mr. Lawrence",
+      "url": "https://open.spotify.com/track/4TIpBweuZQW4Nsr8aNkLwp"
+    },
+    {
+      "album": {
         "name": "Midnight Landscape (Solo Piano Version)",
         "url": "https://open.spotify.com/album/1KotwsFSSsIcz6zgkMFRVY"
       },
@@ -2121,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "On a Still Night",
+        "url": "https://open.spotify.com/album/6Y0FXpiTHYI1GB1tjNVVIv"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155440,
+      "name": "On a Still Night",
+      "url": "https://open.spotify.com/track/38riKFmKqlhg1v7G9mDY2F"
+    },
+    {
+      "album": {
         "name": "On Eloquence",
         "url": "https://open.spotify.com/album/2pIL2VrceWTy3tyZhsX6UA"
       },
@@ -2328,6 +2438,36 @@
       "duration_ms": 67360,
       "name": "Phantom of Hope",
       "url": "https://open.spotify.com/track/4zuvAtkZd83Udld5b76gHX"
+    },
+    {
+      "album": {
+        "name": "Pian Perduto",
+        "url": "https://open.spotify.com/album/3FtdxPCdRpNGFNXPLrGPld"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248724,
+      "name": "Pian Perduto",
+      "url": "https://open.spotify.com/track/6aYE1e0ZcLNS6aGOi0ExBM"
     },
     {
       "album": {
@@ -3081,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "The First Christmas",
+        "url": "https://open.spotify.com/album/3mggmM1Msp3b5gvsZfs5Yg"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "The First Christmas",
+      "url": "https://open.spotify.com/track/3JsIen630AIZTAiGpEHgkU"
+    },
+    {
+      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/5iNOTqseQSzF5bE6zyzMfZ"
       },
@@ -3416,6 +3574,28 @@
       "duration_ms": 215880,
       "name": "Violin Partita No.2 in D Minor, BWV 1004 (Arr. for Guitar by Thibault Cauvin): III. Sarabande",
       "url": "https://open.spotify.com/track/4dDifKGNOIeodIHNhl5rfR"
+    },
+    {
+      "album": {
+        "name": "Water Circle",
+        "url": "https://open.spotify.com/album/5zJ8z44uP5wUbrQAkL6PRB"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Water Circle",
+      "url": "https://open.spotify.com/track/3kxF1Y5pG1yu7j1y9qT2hg"
     },
     {
       "album": {

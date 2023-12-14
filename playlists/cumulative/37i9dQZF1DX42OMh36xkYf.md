@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Adrian Bello en portada.
 
-85 songs - 4 hr 47 min
+86 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Avisarás](https://open.spotify.com/track/2J6HbyxY6CENgWplG3LfrJ) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Avisarás](https://open.spotify.com/album/5cswaSE9pnLtoUbKJ4SXLj) | 4:17 | 2023-09-22 | 2023-11-11 |
 | [BACANA](https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [BACANA](https://open.spotify.com/album/1OU7jqRIorGSu9U4uENrLd) | 3:05 | 2023-09-22 |  |
 | [Barlovento](https://open.spotify.com/track/18lElsu2Ou1mQp9lmnkcJU) | [Mito y Comadre](https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H) | [Guajirando](https://open.spotify.com/album/18wajZarjucF8FNEExQdGY) | 5:41 | 2023-11-24 |  |
-| [BEiBi](https://open.spotify.com/track/53x7QqqdDnL50WZMtKixcu) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [BEiBi](https://open.spotify.com/album/56sYshMsnqKPpb3QIkth1v) | 4:00 | 2023-09-22 |  |
+| [BEiBi](https://open.spotify.com/track/53x7QqqdDnL50WZMtKixcu) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [BEiBi](https://open.spotify.com/album/56sYshMsnqKPpb3QIkth1v) | 4:00 | 2023-09-22 | 2023-12-14 |
+| [BEiBi](https://open.spotify.com/track/7CjOFCRm35lPWK8XoKtO0o) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 4:00 | 2023-12-01 |  |
 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 | 2023-11-17 |  |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-22 |  |
 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 | 2023-11-24 |  |

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-221 songs - 12 hr 2 min
+222 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [BANAVASI DESHADOL](https://open.spotify.com/track/2GiRSXId5mUMxcauOoiRn6) | [MC.Adz](https://open.spotify.com/artist/1TQRoRqV3OeH7SOg4VMD5h) | [BANAVASI DESHADOL](https://open.spotify.com/album/5dOoCl9a2Q9Z5WvXvb52oU) | 3:27 | 2023-02-20 | 2023-07-04 |
 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 | 2022-10-12 | 2023-08-10 |
 | [Beesuva Gaali \- SKODA Deccan Beats](https://open.spotify.com/track/231S8vl1A717qGgydnSiWR) | [Carlok](https://open.spotify.com/artist/6UofxciyC7eixN2leI5SKs), [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Madhura Balaji](https://open.spotify.com/artist/5pDwaaFFLmBgmoz9kSZCWk) | [Beesuva Gaali \(SKODA Deccan Beats\)](https://open.spotify.com/album/5AQS0VpeL4yjO3CvMJmvjf) | 2:28 | 2022-10-14 | 2023-06-21 |
-| [Bengaluru Kambala Theme Song](https://open.spotify.com/track/4d6yVH3lLLABq5evQ3P2LJ) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [V\. Manohar](https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN) | [Bengaluru Kambala Theme Song](https://open.spotify.com/album/1ScN9PVrjBoNYikbwRrSYc) | 2:25 | 2023-11-20 |  |
+| [Bengaluru Kambala Theme Song](https://open.spotify.com/track/4d6yVH3lLLABq5evQ3P2LJ) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [V\. Manohar](https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN) | [Bengaluru Kambala Theme Song](https://open.spotify.com/album/1ScN9PVrjBoNYikbwRrSYc) | 2:25 | 2023-11-20 | 2023-12-14 |
 | [Bere Tara](https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [Hithu Dwen](https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn) | [Bere Tara](https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2) | 4:50 | 2023-11-20 |  |
 | [Bhavanegalu](https://open.spotify.com/track/51ygWHeQ3xGDwKRgt7NeJF) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Bhavanegalu](https://open.spotify.com/album/0iQUBcMP8WMLXI4Qw2FGu9) | 2:32 | 2023-01-13 | 2023-06-08 |
 | [BREAK](https://open.spotify.com/track/1hWHspRRb3R4NY3gl5Fgyj) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [BREAK](https://open.spotify.com/album/2Qe4fZTViRXEZ6f8gCLiog) | 3:04 | 2023-10-25 |  |
@@ -117,6 +117,7 @@
 | [Manasindha](https://open.spotify.com/track/4Xx16ZaD0LW0svsyWx6c3x) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Manasindha](https://open.spotify.com/album/68DAgMKTgAVuz6ODAaS93p) | 4:37 | 2023-05-02 | 2023-07-04 |
 | [MANIFEST](https://open.spotify.com/track/2aukHnHoljvfUz0q7KqNet) | [AGORAH](https://open.spotify.com/artist/0MS0PxbrMlTrqjSVLIdCaE) | [MANIFEST](https://open.spotify.com/album/5FTnu7pgquZYRIIhDdf5Gq) | 3:08 | 2023-09-28 |  |
 | [Many Me](https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ) | [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Many Me](https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp) | 3:10 | 2023-08-31 |  |
+| [Masada Itti Mosada Maccha](https://open.spotify.com/track/06UZsfaWjMjcmsd3DI2Dln) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Masada Itti Mosada Maccha](https://open.spotify.com/album/3uPYwCGaIzR559lUCGt9bZ) | 6:33 | 2023-12-13 |  |
 | [Matthe Meravanige](https://open.spotify.com/track/61JVZE02xZy5l2XJkIczfQ) | [KP Milan Kumar](https://open.spotify.com/artist/2zig6tnmiGy9rjVlXRoIa4), [Anusha Jane D'Souza](https://open.spotify.com/artist/14n1m18TW4XpYiJIAKNAvN) | [Matthe Meravanige](https://open.spotify.com/album/7fsTVJMKeGFIbXixpP2HLM) | 4:23 | 2023-03-08 | 2023-11-29 |
 | [Meghave](https://open.spotify.com/track/2ht1eT798Q3WvZqkanpdEN) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Aditi Prahalad](https://open.spotify.com/artist/2WQSmxEh1TrVQA9RXSgp6a), [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Mitra Hegde](https://open.spotify.com/artist/3boqeGhnLs24Kw3k7wybcN) | [Meghave](https://open.spotify.com/album/7m9qZKWRJ8SiwtSQg6R33E) | 3:29 | 2023-09-29 |  |
 | [Melusire \(Remix\)](https://open.spotify.com/track/0BpOi8WfgJPoMroHN4eknX) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ) | [Melusire \(Remix\)](https://open.spotify.com/album/4m781UWN8QgGhXeypMpSLE) | 0:47 | 2022-11-28 |  |

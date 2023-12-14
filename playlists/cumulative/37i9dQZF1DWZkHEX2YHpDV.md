@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,096 songs - 2 day 9 hr 53 min
+1,097 songs - 2 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 | 2023-09-22 | 2023-12-09 |
 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 | 2021-12-10 | 2022-06-25 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-28 | 2023-12-09 |
+| [F.A.K.E.](https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [F.A.K.E.](https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH) | 2:17 | 2023-12-08 |  |
 | [Face Down \- Symphonic Edition](https://open.spotify.com/track/3rzwBdOX741P5N394o5faL) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Face Down \(Symphonic Edition\)](https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx) | 3:27 | 2022-10-21 | 2023-11-11 |
 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 | 2023-11-10 |  |
 | [Fairytale](https://open.spotify.com/track/1idRNmfKufjZPlCic15EsI) | [WVNDER](https://open.spotify.com/artist/56LuTyFDFBgcq4hkc4XMu5) | [Nothing Stays](https://open.spotify.com/album/2yP06M3lbojJ7ihnjlSdX5) | 3:19 | 2021-12-10 | 2022-04-25 |
@@ -687,7 +688,7 @@
 | [Oldest Daughter](https://open.spotify.com/track/2xnpoelpkXaxbtS5lHEHIi) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Oldest Daughter](https://open.spotify.com/album/0fSbo7YSSjigl9A125Uxhv) | 3:19 | 2022-04-29 | 2022-06-25 |
 | [omg](https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [omg](https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm) | 2:34 | 2023-05-12 | 2023-11-11 |
 | [On and On](https://open.spotify.com/track/7DYErczlfk5d4xu6GZA5EM) | [A Story Told](https://open.spotify.com/artist/0kMSrud2q1lDBgp43LwU54) | [On and On](https://open.spotify.com/album/6NLYwsuguHKLAwCdeddq7a) | 3:26 | 2021-12-10 | 2022-07-27 |
-| [One Foot Wide](https://open.spotify.com/track/7Iq7JKB3J1di7eozPYtWPW) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [One Foot Wide](https://open.spotify.com/album/075bTzHAr8wFqesZbX3X1r) | 3:23 | 2023-12-08 |  |
+| [One Foot Wide](https://open.spotify.com/track/7Iq7JKB3J1di7eozPYtWPW) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [One Foot Wide](https://open.spotify.com/album/075bTzHAr8wFqesZbX3X1r) | 3:23 | 2023-12-08 | 2023-12-14 |
 | [One For The Rocks And One For The Scary](https://open.spotify.com/track/0hSSJl2mThXCJPHMI5MIrb) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [One For The Rocks And One For The Scary](https://open.spotify.com/album/4KRZ7aHBCjuyK9leF5tMRp) | 4:03 | 2021-12-10 | 2022-07-28 |
 | [One Last Time](https://open.spotify.com/track/58NAlwbMyFUWb8GUEoOpOi) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [One Last Time](https://open.spotify.com/album/78ZP7VUY5QO1lqv4FdXr28) | 3:00 | 2022-11-04 | 2023-12-09 |
 | [One Last Time](https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Hotel Bleu](https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI) | 3:02 | 2023-12-08 |  |

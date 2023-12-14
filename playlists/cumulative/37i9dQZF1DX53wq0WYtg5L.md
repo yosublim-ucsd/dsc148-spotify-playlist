@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100% Mexicano](https://open.spotify.com/track/4x22LmdwguS9g40HX7Ga8n) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [100% Mexicano](https://open.spotify.com/album/1W56EFpcUWSP3Pb9Gms4dV) | 3:20 | 2022-01-25 |  |
-| [100% Mexicano](https://open.spotify.com/track/7id0jK0SZ9xPe7ZyGzS8Y0) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [100% Mexicano](https://open.spotify.com/album/0MVg257ivlIlol0VnBWtD9) | 3:20 | 2022-01-25 | 2022-07-29 |
+| [100% Mexicano](https://open.spotify.com/track/4x22LmdwguS9g40HX7Ga8n) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [100% Mexicano](https://open.spotify.com/album/1W56EFpcUWSP3Pb9Gms4dV) | 3:20 | 2022-01-25 | 2023-12-14 |
+| [100% Mexicano](https://open.spotify.com/track/7id0jK0SZ9xPe7ZyGzS8Y0) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [100% Mexicano](https://open.spotify.com/album/0MVg257ivlIlol0VnBWtD9) | 3:20 | 2022-01-25 |  |
 | [Alla en el Rancho Grande](https://open.spotify.com/track/5kxOvMsJ2XwXNBNnZupxJs) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [México Gran Colección Ranchera: Jorge Negrete](https://open.spotify.com/album/6e2PGumvEHWGwC0xqDo9qW) | 2:15 | 2022-01-25 |  |
 | [Alla En El Rancho Grande](https://open.spotify.com/track/4nyBbyrarSkoxROa6xUhNt) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De Nuestro Mexico, Vol\. 1](https://open.spotify.com/album/1lZL5FGjlYH3hTX4QkCnxD) | 2:47 | 2021-09-01 | 2022-07-29 |
 | [Allá En El Rancho Grande](https://open.spotify.com/track/0qERspzL3jC2bJA4u9sXeA) | [Darvelio Arredondo](https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC) | 2:47 | 2022-09-12 | 2022-11-13 |

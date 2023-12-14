@@ -4,7 +4,7 @@
 
 > ¡Lo más Top de las mujeres de los Andes, a todo volumen! En portada Naïa Valdez.
 
-273 songs - 15 hr 3 min
+275 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-08-02 | 2023-09-22 |
 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 | 2022-01-05 |  |
 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2023-08-04 |  |
-| [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2023-01-04 |  |
+| [Curarte](https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:03 | 2023-12-01 |  |
+| [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2023-01-04 | 2023-12-14 |
 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 | 2022-01-05 | 2022-03-05 |
 | [Cómplices](https://open.spotify.com/track/6nnHFpDXW8VJyqsL6JOZd8) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:39 | 2023-11-21 |  |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-05-03 | 2023-07-01 |
@@ -252,7 +253,8 @@
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-03-01 |  |
 | [Tu](https://open.spotify.com/track/5bQdprOeiheK9CqIYgUfPD) | [Antombo](https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM) | [Natural](https://open.spotify.com/album/4I7jRaamLwR0blv9qzGiW7) | 3:45 | 2022-07-06 | 2023-03-04 |
 | [Tu Fuego](https://open.spotify.com/track/5pGdSWa7CAE0KJ7CXDe4rj) | [Michelle Espinosa](https://open.spotify.com/artist/2dQ3Ury51FHqdpSWIKKar4) | [Tu Fuego](https://open.spotify.com/album/6h3u0pReE0S6kjzvzJ4zgh) | 3:04 | 2023-06-14 | 2023-08-03 |
-| [TÉ](https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:34 | 2023-01-04 |  |
+| [TÉ](https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:34 | 2023-01-04 | 2023-12-14 |
+| [TÉ](https://open.spotify.com/track/4HfR5xGm0NWW4UnJCPivNq) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/0I9Kk7FetPgNe7Z8GdSUcy) | 2:34 | 2023-12-01 |  |
 | [Tío Guachupesito](https://open.spotify.com/track/7AzIWxOIJOqOt6GXZKhDUD) | [Canalón de Timbiquí](https://open.spotify.com/artist/49qnSNt8EO6ppsKVddyInS) | [De Mar y Río](https://open.spotify.com/album/3AjG16gUxVdNEIv09vKTZE) | 6:00 | 2022-01-05 |  |
 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-03-04 |  |
 | [Tú](https://open.spotify.com/track/0hyKDphP6TYK39ULPxy3vw) | [Antombo](https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM) | [Natural](https://open.spotify.com/album/6t3NeikS5j2aSxWYDFFi7m) | 3:45 | 2022-01-05 | 2022-07-29 |

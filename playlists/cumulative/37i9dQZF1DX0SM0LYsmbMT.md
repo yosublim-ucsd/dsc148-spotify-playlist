@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,900 songs - 6 day 5 hr 15 min
+3,901 songs - 6 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2358,7 +2358,7 @@
 | [Non](https://open.spotify.com/track/70Fpfvw4EwnTiInSc1U3e0) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Flitzer](https://open.spotify.com/album/7I13wkKorEyQq5WCU7e0Vv) | 2:41 | 2021-08-13 | 2021-09-10 |
 | [Nonobody](https://open.spotify.com/track/6TRmQMiyzoqKDTmrT8ZIpe) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Nonobody](https://open.spotify.com/album/4Yn55I0bFe87BrUFQIISXF) | 2:24 | 2022-10-13 |  |
 | [Noodle Soup](https://open.spotify.com/track/31pRixOWqVG7Gp1SpZj8mt) | [Cactus Vibrance](https://open.spotify.com/artist/6PVB0Ti5A0B4sCtcVKyQ5G) | [Noodle Soup](https://open.spotify.com/album/2EvTde1WHndypmL6zv8MmG) | 1:13 | 2021-12-11 | 2021-12-21 |
-| [Noontime Slouch](https://open.spotify.com/track/6pKt3ka7VKnowZgud26D7X) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Noontime Slouch](https://open.spotify.com/album/6URE1OMNv9fEaceZyRPtbH) | 2:04 | 2023-12-01 |  |
+| [Noontime Slouch](https://open.spotify.com/track/6pKt3ka7VKnowZgud26D7X) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Noontime Slouch](https://open.spotify.com/album/6URE1OMNv9fEaceZyRPtbH) | 2:04 | 2023-12-01 | 2023-12-14 |
 | [Northern Lights](https://open.spotify.com/track/5ie0eCg6MnIAXVyqg8VGGy) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Northern Lights](https://open.spotify.com/album/7fuQgnBnwhQOPUjkJtWUCX) | 2:00 | 2022-08-18 | 2023-10-06 |
 | [Nostalgia](https://open.spotify.com/track/3iT6bEadJKPuGhc01xKGLF) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [NXWA](https://open.spotify.com/artist/1sHBsHEfGEQIuSbvyMB8jn), [LOOF](https://open.spotify.com/artist/6hhRXLJb6Uvb29pFipoZGP) | [En Route](https://open.spotify.com/album/3numgBHs95MdGUKMcDgAT7) | 2:05 | 2023-04-13 | 2023-10-20 |
 | [Nostalgia](https://open.spotify.com/track/19NMCb0Ur6FPad3BU0ainP) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Nostalgia](https://open.spotify.com/album/1K0LekCXrnlYhzbc1HwGYj) | 1:31 | 2022-07-14 | 2023-04-21 |
@@ -2951,6 +2951,7 @@
 | [silhouette](https://open.spotify.com/track/58H7WUE0znS3jv91QBcIms) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [canvas](https://open.spotify.com/album/6BBr6ov8KXi8pRQJzVBpED) | 1:53 | 2020-05-12 | 2020-07-18 |
 | [Silk](https://open.spotify.com/track/3U4n66xgcZxPOZCHTT6wz1) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Roam EP](https://open.spotify.com/album/1VduUB1RUtJ1r5KyOk6obj) | 2:33 | 2020-07-24 | 2020-10-23 |
 | [Silk](https://open.spotify.com/track/5shRAbjr263aLdUb7CjpTR) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Silk](https://open.spotify.com/album/2GxBwWibsIoqf87dfrhNId) | 2:09 | 2021-10-16 | 2023-10-27 |
+| [Silk](https://open.spotify.com/track/54lTL6GDlQDD5qPk3JftIl) | [UsualSND](https://open.spotify.com/artist/1ahA9vdjx7aBcfB7XjXT9k), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Silk](https://open.spotify.com/album/66CZo0VLjagh4EmmaBTuU6) | 2:52 | 2023-12-08 |  |
 | [Sill](https://open.spotify.com/track/73T435Ue8eCR25TnR4rd9X) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ), [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Sill](https://open.spotify.com/album/2mY8fAWv1Qrz41WjT7AapX) | 2:40 | 2020-12-01 | 2021-06-18 |
 | [Silo](https://open.spotify.com/track/6DWRJfbKONvPq6KOaKLydk) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Silo](https://open.spotify.com/album/3R9qGQd6C8qAZ4KRPgG3fj) | 3:17 | 2020-08-07 | 2021-04-16 |
 | [Silver Birch](https://open.spotify.com/track/3ONIRhoRyimzjiW2W8PjtB) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Silver Birch](https://open.spotify.com/album/6aTbjQPDKcheugJicJpIf9) | 2:16 | 2023-02-23 | 2023-10-20 |

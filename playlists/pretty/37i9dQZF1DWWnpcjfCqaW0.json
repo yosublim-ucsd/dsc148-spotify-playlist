@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 286351,
+  "num_followers": 286366,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOThjMDZkYWY2Njk3MDQ3MzU1ZmJmODMyNTRiYWE3NzVhNDNiODM3",
+  "snapshot_id": "MCxmZDg0OThiMTVmMzAyOWE5YzI1ZGJmMGJiYmRjM2ZjODAzMjg2MWI5",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -351,18 +351,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Songs Of Our Soil",
-        "url": "https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP"
+        "name": "Sings the Songs that Made Him Famous",
+        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
       },
       "artists": [
         {
           "name": "Johnny Cash",
           "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
         }
       ],
-      "duration_ms": 107280,
-      "name": "Five Feet High and Rising",
-      "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
+      "duration_ms": 151338,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -511,22 +515,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Sings the Songs that Made Him Famous",
-        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
+        "name": "Songs Of Our Soil",
+        "url": "https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP"
       },
       "artists": [
         {
           "name": "Johnny Cash",
           "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
         }
       ],
-      "duration_ms": 151338,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
+      "duration_ms": 107280,
+      "name": "Five Feet High and Rising",
+      "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Crazy Arms",
-      "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Essential Eddy Arnold",
         "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 163346,
       "name": "Cattle Call",
       "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Crazy Arms",
+      "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Very Best Of Slim Whitman",
-        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
-      },
-      "artists": [
-        {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Indian Love Call",
-      "url": "https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "16 All Time Favorite Songs",
         "url": "https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 174693,
       "name": "Blues, Stay Away From Me",
       "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Very Best Of Slim Whitman",
+        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
+      },
+      "artists": [
+        {
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Indian Love Call",
+      "url": "https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9"
     },
     {
       "added_at": "2023-01-02 21:32:07",

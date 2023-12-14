@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Iseo & Dodosound",
-  "num_followers": 1245276,
+  "num_followers": 1245332,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTQwNTdhNjYxNjc2ZDBiY2I1MDBkYjg1M2Y1Y2JiZGYzY2U0YzE2",
+  "snapshot_id": "MCw5NzAxYmIxMjk3Njk2N2JmMTBhZTRkOThmYjA5OTgzZDg2MzUyNzc2",
   "tracks": [
     {
       "added_at": "2023-11-10 04:59:00",
@@ -787,30 +787,18 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "A Tu Manera (feat. Ky-Mani Marley)",
-        "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 190836,
-      "name": "A Tu Manera (feat. Ky-Mani Marley)",
-      "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
+      "duration_ms": 296666,
+      "name": "Reggae Para Los Amigos",
+      "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -847,18 +835,30 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+        "name": "A Tu Manera (feat. Ky-Mani Marley)",
+        "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
         }
       ],
-      "duration_ms": 296666,
-      "name": "Reggae Para Los Amigos",
-      "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
+      "duration_ms": 190836,
+      "name": "A Tu Manera (feat. Ky-Mani Marley)",
+      "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "Kultura Babylon",
         "url": "https://open.spotify.com/album/4xisbZxOFYpVoxqJumZiTZ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 238040,
       "name": "Kultura Babylon",
       "url": "https://open.spotify.com/track/3FEHIGm7Ox5HSZsTI1W1RP"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1451,6 +1451,30 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
+        "name": "Criminal (feat. Elsa y Elmar)",
+        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 221042,
+      "name": "Criminal (feat. Elsa y Elmar)",
+      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
         "name": "El Sonido Real",
         "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
       },
@@ -1479,30 +1503,6 @@
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
-        "name": "Criminal (feat. Elsa y Elmar)",
-        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 221042,
-      "name": "Criminal (feat. Elsa y Elmar)",
-      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Civilizado Como Los Animales",
-        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 292552,
-      "name": "Lenguas de Signos (feat. Monsieur Perin\u00e9)",
-      "url": "https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB"
-    },
-    {
-      "added_at": "2023-11-10 04:59:00",
-      "album": {
         "name": "Pipa y Placa",
         "url": "https://open.spotify.com/album/6ASgaytLSi6bq1Hc8m8heS"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 213000,
       "name": "Pipa y Placa",
       "url": "https://open.spotify.com/track/6CiBBWXURdhh84dJZbGAfU"
+    },
+    {
+      "added_at": "2023-11-10 04:59:00",
+      "album": {
+        "name": "Civilizado Como Los Animales",
+        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 292552,
+      "name": "Lenguas de Signos (feat. Monsieur Perin\u00e9)",
+      "url": "https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB"
     },
     {
       "added_at": "2023-11-10 04:59:00",
@@ -1791,22 +1791,18 @@
     {
       "added_at": "2023-11-10 04:59:00",
       "album": {
-        "name": "Home Sweet Home",
-        "url": "https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX"
+        "name": "Hasta Que Me Olvides",
+        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 204322,
-      "name": "Home Sweet Home",
-      "url": "https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn"
+      "duration_ms": 255744,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

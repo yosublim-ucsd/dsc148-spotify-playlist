@@ -6,27 +6,171 @@
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "MTc1NCxjNDM0ZTliMTM5YmIwZjU2ODg4YzJlYmE1Y2FlM2JkMmM5ZTQxZmQz",
+  "snapshot_id": "MTc2NCxjZTBmMDcyZDQyN2I2NmMxOTQ3ZjMzOGJlOWNiOTM5NzkzM2I1YTIy",
   "tracks": [
     {
-      "added_at": "2023-11-28 17:01:11",
+      "added_at": "2023-12-13 20:21:00",
       "album": {
-        "name": "A Winter Interlude (After Schubert)",
-        "url": "https://open.spotify.com/album/3ulwdi8ksAyXlPpljgE8Be"
+        "name": "Pian Perduto",
+        "url": "https://open.spotify.com/album/3FtdxPCdRpNGFNXPLrGPld"
       },
       "artists": [
         {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "duration_ms": 248724,
+      "name": "Pian Perduto",
+      "url": "https://open.spotify.com/track/6aYE1e0ZcLNS6aGOi0ExBM"
+    },
+    {
+      "added_at": "2023-12-13 20:00:41",
+      "album": {
+        "name": "On a Still Night",
+        "url": "https://open.spotify.com/album/6Y0FXpiTHYI1GB1tjNVVIv"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "On a Still Night",
+      "url": "https://open.spotify.com/track/38riKFmKqlhg1v7G9mDY2F"
+    },
+    {
+      "added_at": "2023-12-13 20:22:07",
+      "album": {
+        "name": "Water Circle",
+        "url": "https://open.spotify.com/album/5zJ8z44uP5wUbrQAkL6PRB"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Water Circle",
+      "url": "https://open.spotify.com/track/3kxF1Y5pG1yu7j1y9qT2hg"
+    },
+    {
+      "added_at": "2023-12-13 19:59:56",
+      "album": {
+        "name": "Go, Crystal Tears",
+        "url": "https://open.spotify.com/album/5hNslTXrKaVf7C0WcZsQ6Q"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        },
+        {
+          "name": "Azul Lima",
+          "url": "https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "Go, Crystal Tears",
+      "url": "https://open.spotify.com/track/0uNrmdWVjW1oaK23z7ylUN"
+    },
+    {
+      "added_at": "2023-12-13 20:16:31",
+      "album": {
+        "name": "All-Night Vigil, Op. 37: V. Nunc dimittis",
+        "url": "https://open.spotify.com/album/4JeSjR1enY3mhNtmBpOxKv"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
           "name": "Lavinia Meijer",
           "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
         }
       ],
-      "duration_ms": 195391,
-      "name": "A Winter Interlude (After Schubert)",
-      "url": "https://open.spotify.com/track/17E50bwXrsVsQnboX8bjBE"
+      "duration_ms": 194572,
+      "name": "All-Night Vigil, Op. 37: V. Nunc dimittis",
+      "url": "https://open.spotify.com/track/5wF7lQCybYSxuBs4iPGRwL"
+    },
+    {
+      "added_at": "2023-12-13 20:22:48",
+      "album": {
+        "name": "The First Christmas",
+        "url": "https://open.spotify.com/album/3mggmM1Msp3b5gvsZfs5Yg"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "The First Christmas",
+      "url": "https://open.spotify.com/track/3JsIen630AIZTAiGpEHgkU"
+    },
+    {
+      "added_at": "2023-12-13 20:17:10",
+      "album": {
+        "name": "Chloe Hearts Christmas",
+        "url": "https://open.spotify.com/album/1htpG1vi3iNXgtqyl3YPig"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Chloe Flower",
+          "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "Merry Christmas, Mr. Lawrence",
+      "url": "https://open.spotify.com/track/4TIpBweuZQW4Nsr8aNkLwp"
+    },
+    {
+      "added_at": "2023-12-13 20:00:18",
+      "album": {
+        "name": "Andante from the Sonata for Solo Violin, BWV 1003 (Transcribed by Alexander Siloti)",
+        "url": "https://open.spotify.com/album/2eoScCOTwKiB5lux16We0G"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "duration_ms": 286680,
+      "name": "Andante from the Sonata for Solo Violin, BWV 1003 (Transcribed by Alexander Siloti)",
+      "url": "https://open.spotify.com/track/3EFurqAapiBGro1DnZcEIK"
     },
     {
       "added_at": "2023-11-13 18:21:17",
@@ -83,26 +227,6 @@
       "duration_ms": 164000,
       "name": "Epistrophy",
       "url": "https://open.spotify.com/track/2U1cIjS5cocGGNEHt76HeP"
-    },
-    {
-      "added_at": "2023-11-10 12:37:11",
-      "album": {
-        "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
-        "url": "https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Mao Fujita",
-          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
-        }
-      ],
-      "duration_ms": 99786,
-      "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
-      "url": "https://open.spotify.com/track/5TMxqAA2kfj9BpDFKbvpwl"
     },
     {
       "added_at": "2023-11-10 12:37:46",
@@ -163,6 +287,46 @@
       "duration_ms": 161213,
       "name": "Les berceaux, Op. 23, No. 1",
       "url": "https://open.spotify.com/track/7CznDh5LtUbLB9CMyEsovY"
+    },
+    {
+      "added_at": "2023-11-28 17:01:11",
+      "album": {
+        "name": "A Winter Interlude (After Schubert)",
+        "url": "https://open.spotify.com/album/3ulwdi8ksAyXlPpljgE8Be"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 195391,
+      "name": "A Winter Interlude (After Schubert)",
+      "url": "https://open.spotify.com/track/17E50bwXrsVsQnboX8bjBE"
+    },
+    {
+      "added_at": "2023-11-10 12:37:11",
+      "album": {
+        "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
+        "url": "https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "duration_ms": 99786,
+      "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
+      "url": "https://open.spotify.com/track/5TMxqAA2kfj9BpDFKbvpwl"
     },
     {
       "added_at": "2023-10-13 21:08:17",

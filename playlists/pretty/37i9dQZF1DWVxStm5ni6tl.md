@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Top 50 tracks from Fresh Finds Canada in 2023\. Cover: Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,297 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,382 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 26 | [Rush Dem \(feat\. Haviah Mighty & 4Korners\)](https://open.spotify.com/track/6dL2oSZbrMZmfqRT3HuVOu) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Notorious & Noble](https://open.spotify.com/album/7x0bphVdGZG4lSij8ni8mx) | 3:45 |
 | 27 | [NIGHTMARE](https://open.spotify.com/track/5zgro8fLgFXEuePTWWQ7ZC) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [PUPPET MASTER](https://open.spotify.com/album/0gCBt7D7XVdjbGl5h8Q7pm) | 4:07 |
 | 28 | [New Sight](https://open.spotify.com/track/7LnMwjOs9k12VORJmSTJOR) | [Super Duty Tough Work](https://open.spotify.com/artist/62C2Sg9LJoWfSw8K8EuX3u) | [New Sight](https://open.spotify.com/album/3a8kHtC5vveekfwoS7clGy) | 3:41 |
-| 29 | [Scared To Love](https://open.spotify.com/track/41LJWtSAOjSXe2ishYcgTh) | [Ella Rossi](https://open.spotify.com/artist/5XeDL6Pow4Ag5j9HWv9KHm) | [Scared To Love](https://open.spotify.com/album/5RbIoUnNqqCqM8QOFPStWj) | 3:13 |
+| 29 | [Scared To Love](https://open.spotify.com/track/5IeJouAPGe4MTbdS4y2dWi) | [Ella Rossi](https://open.spotify.com/artist/5XeDL6Pow4Ag5j9HWv9KHm) | [Heart Eyes](https://open.spotify.com/album/5AGn0717PFbRlkChcRYZOl) | 3:13 |
 | 30 | [i think i like your girlfriend](https://open.spotify.com/track/4vfqtTA2gCEgorXHfay7XV) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [i think i like your girlfriend](https://open.spotify.com/album/4V9hYFIzK5hLLmxNEjyu2t) | 2:46 |
 | 31 | [Ojos de Plata](https://open.spotify.com/track/0slIuqFXS1JA1xQwNepGtQ) | [NUNNE](https://open.spotify.com/artist/57z9nfDhIwvlfoKTYXB4AL) | [La Selenita](https://open.spotify.com/album/5V7MVwIBIFO8EhX8nLUyfS) | 2:34 |
 | 32 | [Vibes Creator](https://open.spotify.com/track/2NRmHIdQKWmZuXyaWCdrOj) | [Saint Zenon](https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf), [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [it's matt](https://open.spotify.com/artist/2ZT5DWAr9Q612GvzgrUll8) | [Vibes Creator](https://open.spotify.com/album/4ytPwPXcFpcJk3esNJz58o) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Waiting](https://open.spotify.com/track/7w4uX9NWrXpN4MQm8Nm1c2) | [jjad](https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF) | [Waiting](https://open.spotify.com/album/2ky7NQoD7VzN92siA9r3xJ) | 3:11 |
 | 50 | [Rosé](https://open.spotify.com/track/6xGagAOYdYmSZrBRIDoREc) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Rosé](https://open.spotify.com/album/2US1trwBIEqtNCzH7myt6u) | 2:36 |
 
-Snapshot ID: `MCxjZmQzNTBkNzc3YjM2N2E4MTY2ZmEzOTk4MTNhNjM1OTI4NGQzZDU4`
+Snapshot ID: `MCxjODdmMDZmYzhiNjRlZGFiNjRkYmJiYzgzNmE0YTIyZWM3NTE3ZDFh`

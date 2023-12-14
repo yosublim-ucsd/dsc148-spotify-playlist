@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-662 songs - 2 day 9 hr 10 min
+663 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Invisible Enemy](https://open.spotify.com/track/4gSokjaAfP1W9NTfkolzdJ) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Phantom Anthem](https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f) | 4:37 | 2022-07-13 |  |
 | [Invisible Monster](https://open.spotify.com/track/6l2ql6PfoDuaTtcjjPYGFL) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Invisible Monster](https://open.spotify.com/album/1p1GZyBV8zsBEW9I0LBQX7) | 6:30 | 2021-12-17 | 2023-01-21 |
 | [Island Life](https://open.spotify.com/track/0YN619MC3m1tjJsnmWlJ4u) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Day And Age \(Deluxe Edition\)](https://open.spotify.com/album/4iNsIkR18NMo2chPsyfVnv) | 4:13 | 2021-12-17 | 2022-07-13 |
+| [Isolation](https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO) | [AVKRVST](https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW) | [The Approbation](https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs) | 5:40 | 2023-12-06 |  |
 | [It Hurts](https://open.spotify.com/track/0pmNiFoT6MwFbL1F2EjQ5a) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH) | [It Hurts](https://open.spotify.com/album/7Bskjsvg1IJ5xI11YHEt5w) | 4:55 | 2022-02-11 | 2023-01-21 |
 | [It's Killing Me](https://open.spotify.com/track/2tEi6TsccIknIkb2sHidse) | [Shields](https://open.spotify.com/artist/7axtOAPWPWUITkUpTHL34I) | [It's Killing Me](https://open.spotify.com/album/6uVcfD5vrQlTs26f1Rrous) | 3:54 | 2023-01-20 |  |
 | [Jackal](https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1) | [Rogue](https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6) | [Phantom](https://open.spotify.com/album/5ysXmRSsCy63K3R92aqu1P) | 3:30 | 2023-01-20 |  |
@@ -505,7 +506,7 @@
 | [Straight Lines](https://open.spotify.com/track/6WTioFyIEiYB5Ge0SJO8Rd) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Witness](https://open.spotify.com/album/3FVRmhZVaZfLvqHupMbJ6V) | 4:22 | 2022-07-08 | 2022-09-03 |
 | [String Theory](https://open.spotify.com/track/6KKw70o8ZTy8LVltAyUwGw) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [String Theory](https://open.spotify.com/album/2VbMfWccghg85IgMXkaPiv) | 4:56 | 2021-12-17 | 2022-09-03 |
 | [Stuck](https://open.spotify.com/track/74vy9v25MuoqNVBdAjGwJC) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Malina](https://open.spotify.com/album/0DvboP39IwpnJU9QrKIpDW) | 6:48 | 2021-12-17 | 2022-09-03 |
-| [Subatlantic](https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Subatlantic](https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21) | 6:55 | 2023-05-12 |  |
+| [Subatlantic](https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Subatlantic](https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21) | 6:55 | 2023-05-12 | 2023-12-14 |
 | [Such a Shame](https://open.spotify.com/track/31ecPwecmstplaiMrDUpPs) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Metal Covers, Vol\. 1](https://open.spotify.com/album/6AJ0wg09tASuePn8zKV8nP) | 4:13 | 2022-04-01 | 2023-02-25 |
 | [Such a Shame](https://open.spotify.com/track/6PGYsAkiIEJvF2w5f964ZB) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Power](https://open.spotify.com/album/2W3YX45J3X9L0JZvVIVhpU) | 4:13 | 2023-02-24 | 2023-04-02 |
 | [Sundowner](https://open.spotify.com/track/3xktHOVxDZqnfzd5J7YqmA) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Sundowner](https://open.spotify.com/album/5AG9QH3YQSsr2lNO0tYiTK) | 4:22 | 2021-12-17 | 2022-07-28 |

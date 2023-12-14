@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,131 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,133 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 6 | [Daari \- The Way of Life](https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Daari \- The Way of Life](https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln) | 4:15 |
 | 7 | [Abbabbaa](https://open.spotify.com/track/1o9S562QxYvL66rVHxxGOE) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Abbabbaa](https://open.spotify.com/album/2TNCNVlnDzBhSvqPcE0LTT) | 2:19 |
 | 8 | [TREND](https://open.spotify.com/track/7g60e8xOB8DKFoLf9HIi4C) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [TREND](https://open.spotify.com/album/7bhoaQXLpTvu5sagNExL1k) | 3:11 |
-| 9 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 |
-| 10 | [HAARU HAARU](https://open.spotify.com/track/4qHbrhQkoKbQ4LSaq4nhd9) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [HAARU HAARU](https://open.spotify.com/album/41pJIGHGZBFZHDV9CFnyvL) | 2:59 |
-| 11 | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/track/06IGehC54CWNiupQEi8v9z) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/album/13qgAYlWQ9NyRhlmP4gr86) | 4:51 |
-| 12 | [6ne Crossu](https://open.spotify.com/track/7C3DQb695Vt7vBcPTiSeOK) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [6ne Crossu](https://open.spotify.com/album/13WU6iqMTXFRuMUa3B5ioG) | 2:48 |
-| 13 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 |
-| 14 | [Khushiyaadenu Naa](https://open.spotify.com/track/6F6P4st3J11p2vfNepvRRn) | [Sahana Hegde](https://open.spotify.com/artist/6zFbnKp5WefatujgmaBGYm) | [Khushiyaadenu Naa](https://open.spotify.com/album/05F0QUtC0lmAyt0ozTB5L3) | 3:12 |
-| 15 | [Olave](https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO) | 3:02 |
-| 16 | [Nanna Ee Manasali](https://open.spotify.com/track/18UgqzO5hjpMybau3AYAr6) | [Shravan Acharya](https://open.spotify.com/artist/6aQfYQu6gpW8wggY7ycFWi) | [Nanna Ee Manasali](https://open.spotify.com/album/3j6XqZfm7M268fshN0LOyC) | 3:59 |
-| 17 | [Bengaluru Kambala Theme Song](https://open.spotify.com/track/4d6yVH3lLLABq5evQ3P2LJ) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [V\. Manohar](https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN) | [Bengaluru Kambala Theme Song](https://open.spotify.com/album/1ScN9PVrjBoNYikbwRrSYc) | 2:25 |
+| 9 | [Masada Itti Mosada Maccha](https://open.spotify.com/track/06UZsfaWjMjcmsd3DI2Dln) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Masada Itti Mosada Maccha](https://open.spotify.com/album/3uPYwCGaIzR559lUCGt9bZ) | 6:33 |
+| 10 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 |
+| 11 | [HAARU HAARU](https://open.spotify.com/track/4qHbrhQkoKbQ4LSaq4nhd9) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [HAARU HAARU](https://open.spotify.com/album/41pJIGHGZBFZHDV9CFnyvL) | 2:59 |
+| 12 | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/track/06IGehC54CWNiupQEi8v9z) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/album/13qgAYlWQ9NyRhlmP4gr86) | 4:51 |
+| 13 | [6ne Crossu](https://open.spotify.com/track/7C3DQb695Vt7vBcPTiSeOK) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [6ne Crossu](https://open.spotify.com/album/13WU6iqMTXFRuMUa3B5ioG) | 2:48 |
+| 14 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 |
+| 15 | [Khushiyaadenu Naa](https://open.spotify.com/track/6F6P4st3J11p2vfNepvRRn) | [Sahana Hegde](https://open.spotify.com/artist/6zFbnKp5WefatujgmaBGYm) | [Khushiyaadenu Naa](https://open.spotify.com/album/05F0QUtC0lmAyt0ozTB5L3) | 3:12 |
+| 16 | [Olave](https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO) | 3:02 |
+| 17 | [Nanna Ee Manasali](https://open.spotify.com/track/18UgqzO5hjpMybau3AYAr6) | [Shravan Acharya](https://open.spotify.com/artist/6aQfYQu6gpW8wggY7ycFWi) | [Nanna Ee Manasali](https://open.spotify.com/album/3j6XqZfm7M268fshN0LOyC) | 3:59 |
 | 18 | [Nagu](https://open.spotify.com/track/2slEJoC0joGbBb1MXeCIWi) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Ajith Keshava](https://open.spotify.com/artist/3bN8X7e50eYFGhuqctG5Te) | [Nagu](https://open.spotify.com/album/2aVEDrhiFODgbnvPQpTfCV) | 3:37 |
 | 19 | [Bad](https://open.spotify.com/track/2eQtJWV3pQac41v6L6PQo2) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Bad](https://open.spotify.com/album/2x1naxHI21CUc4UhacSO88) | 2:51 |
 | 20 | [Parashuram](https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 99 | [Ninna Maatu](https://open.spotify.com/track/3ZYUDXKEHiZt165iWMHoiT) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Genius 7.0](https://open.spotify.com/artist/2nUMj3rQJbYwn47xH0UYnV) | [Ninna Maatu](https://open.spotify.com/album/3wx0ENl8ddRFBiHdmLDOIX) | 3:46 |
 | 100 | [Solo King](https://open.spotify.com/track/2caf1VcfyH0Op9ozofaJrN) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Solo King](https://open.spotify.com/album/76ChkZ5OwDEguUC8VZVdJG) | 3:07 |
 
-Snapshot ID: `MCw2OGNiMDY3Nzk1YzVjMzgyN2I3YjQ5Y2Q2MDY3MDJkMTE0MzI1YzZj`
+Snapshot ID: `MCw0ZjlmNGJiYzdkZWM4YmNkOTI3Zjk2MGM4MzcyYTA4MmU0MTZmZTQy`

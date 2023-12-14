@@ -2,9 +2,9 @@
 
 ### [Detty December](https://open.spotify.com/playlist/37i9dQZF1DWTKXbV17YqGw)
 
-> Accra's CULTPOP WORLDWIDE welcomes the 2023 Detty Decemebr season
+> Accra's CULTPOP WORLDWIDE welcomes the 2023 Detty December season
 
-272 songs - 15 hr 56 min
+273 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2023-01-02 | 2023-12-13 |
 | [Love Me](https://open.spotify.com/track/4ACfoAvYs2zXTfmam5Y3Ad) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:54 | 2021-12-13 | 2021-12-31 |
 | [Ma Gang](https://open.spotify.com/track/4W4CSPzes7C98KIUELYZ1U) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 5:14 | 2023-01-02 | 2023-12-13 |
-| [Maja](https://open.spotify.com/track/4pfPXZbOyHSfyanmi7mFSt) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Maja](https://open.spotify.com/album/5T0vEHoylbWQfm4u6Ubt4G) | 2:24 | 2023-12-13 |  |
+| [Maja](https://open.spotify.com/track/3e7aRHeezwhvQAJTnisutQ) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Maja](https://open.spotify.com/album/7rUakO5tSwLPD6Q50dRSh1) | 2:24 | 2023-12-13 |  |
+| [Maja](https://open.spotify.com/track/4pfPXZbOyHSfyanmi7mFSt) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Maja](https://open.spotify.com/album/5T0vEHoylbWQfm4u6Ubt4G) | 2:24 | 2023-12-13 | 2023-12-14 |
 | [Manca](https://open.spotify.com/track/46ZvwmGP7q63FWnrvurH45) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [Contagious](https://open.spotify.com/album/5P319u6XstqCetDIbyHqhB) | 6:19 | 2023-01-02 | 2023-12-13 |
 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 | 2023-01-02 | 2023-12-13 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-12-13 |  |

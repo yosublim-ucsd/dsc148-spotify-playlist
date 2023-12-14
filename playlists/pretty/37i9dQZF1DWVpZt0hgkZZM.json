@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 26054,
+  "num_followers": 26096,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTNiYTg1OTk2MWE2MmE1MDFiZDcwYTA2YzkxYjBlYWMyZTA5MjU3",
+  "snapshot_id": "MCwzZGNiZTliOWMxZTkyN2RmODVkZGEwNTA2YTE1OWZlNWY3YmNmNmY3",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
-        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez Y Su Combo",
-          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Con Arena Nueva",
         "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 261133,
       "name": "Cuando el Amor se Da\u00f1a",
       "url": "https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
+        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez Y Su Combo",
+          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -919,38 +919,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol. 3",
-        "url": "https://open.spotify.com/album/6tqf3GggWUkKwHQATCFV7u"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 237445,
-      "name": "Maruja",
-      "url": "https://open.spotify.com/track/41JpQ2zSldbpfKMqAsXBCS"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Orqu\u00eddea de Plata",
-        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
-      },
-      "artists": [
-        {
-          "name": "Nelson Y Sus Estrellas",
-          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "La Sirena",
-      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -971,18 +939,34 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Y Como Se Mata El Gusano?",
-        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
+        "name": "Orqu\u00eddea de Plata",
+        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
       },
       "artists": [
         {
-          "name": "Miguel Moly",
-          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+          "name": "Nelson Y Sus Estrellas",
+          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Junto A Tu Corazon",
-      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
+      "duration_ms": 165586,
+      "name": "La Sirena",
+      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol. 3",
+        "url": "https://open.spotify.com/album/6tqf3GggWUkKwHQATCFV7u"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 237445,
+      "name": "Maruja",
+      "url": "https://open.spotify.com/track/41JpQ2zSldbpfKMqAsXBCS"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -999,6 +983,22 @@
       "duration_ms": 219980,
       "name": "La Colegiada (Live)",
       "url": "https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Y Como Se Mata El Gusano?",
+        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Moly",
+          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Junto A Tu Corazon",
+      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "14 vallenatos sabroso",
-        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
-      },
-      "artists": [
-        {
-          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
-          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
-        }
-      ],
-      "duration_ms": 283103,
-      "name": "muero por verla luis mateus vallenato",
-      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 204288,
       "name": "Cachete, Pechito y Ombligo",
       "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "14 vallenatos sabroso",
+        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
+      },
+      "artists": [
+        {
+          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
+          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
+        }
+      ],
+      "duration_ms": 283103,
+      "name": "muero por verla luis mateus vallenato",
+      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "M\u00e1s Romanticos",
-        "url": "https://open.spotify.com/album/0mmIrqXHAeXwfOdgVoRxRY"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 287555,
-      "name": "Hay Que Ser Fuerte",
-      "url": "https://open.spotify.com/track/5CcE4WFbASAobJapMAIQI7"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Homenaje a Victor Pi\u00f1ero",
         "url": "https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd"
       },
@@ -1699,18 +1683,34 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Cumbias, Cumbias",
-        "url": "https://open.spotify.com/album/4IGwcswnHXPJ3b85cYEYhA"
+        "name": "M\u00e1s Romanticos",
+        "url": "https://open.spotify.com/album/0mmIrqXHAeXwfOdgVoRxRY"
       },
       "artists": [
         {
-          "name": "Los Warahuaco",
-          "url": "https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 174733,
-      "name": "El Pescador de Bar\u00fa",
-      "url": "https://open.spotify.com/track/7pjSbRfTwv6sk8lHCWquZI"
+      "duration_ms": 287555,
+      "name": "Hay Que Ser Fuerte",
+      "url": "https://open.spotify.com/track/5CcE4WFbASAobJapMAIQI7"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 187959,
+      "name": "Mi Cali Bella",
+      "url": "https://open.spotify.com/track/46kKB60L52z7OXqZaxc8pJ"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

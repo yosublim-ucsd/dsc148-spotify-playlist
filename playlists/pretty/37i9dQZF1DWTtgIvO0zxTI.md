@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Irepelusa
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,111 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,141 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 27 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 |
 | 28 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
 | 29 | [CAMINAAANDO](https://open.spotify.com/track/1BK41sWHGjDJ8HKsqoISDA) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Los Hermanos Química](https://open.spotify.com/artist/1X33bufSxrzgJhGjrv9jSt) | [Orden \#30 Extra Brócoli](https://open.spotify.com/album/2bzLPJxWazEGqCwHIFwbUW) | 3:42 |
-| 30 | [Quién Lo Diría?](https://open.spotify.com/track/6CEE6AMe6tRBqdvhtnl3BD) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [EP\-rimento \#1: Boleritos de la Mar](https://open.spotify.com/album/2WQLIMrzvZz5TsNLEioSHC) | 3:38 |
+| 30 | [Quién Lo Diría?](https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Quién Lo Diría?](https://open.spotify.com/album/7xRccUSF7yzBqHH0wEN3S9) | 3:38 |
 | 31 | [La Chama](https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Chama](https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy) | 3:12 |
 | 32 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 |
 | 33 | [A Tu Novia](https://open.spotify.com/track/5HGyi8k0gzxmvz5G1X9faK) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:32 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 43 | [EN SOLEDAD \(feat\. ADSO, Akapellah\)](https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:22 |
 | 44 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
 | 45 | [Terapia](https://open.spotify.com/track/4lNqp5wlde1EtSO5q89vub) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Terapia](https://open.spotify.com/album/0Xa8TqM7ZKcFSbwJzK2xCr) | 2:53 |
-| 46 | [BUBBLE](https://open.spotify.com/track/5aLl7KbfB7l4gi4Z0ZAo8S) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [BUBBLE](https://open.spotify.com/album/7025lUSjzFSCFJYVFfHxyh) | 3:13 |
+| 46 | [BUBBLE](https://open.spotify.com/track/73wiLfpoReUuSNKWBytef4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [BUBBLE](https://open.spotify.com/album/6wFqYQCu3gGt909YCHXmqu) | 3:13 |
 | 47 | [Laguna](https://open.spotify.com/track/6QN9glefJXPoy8vPZLiFL0) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Laguna](https://open.spotify.com/album/6HVsbMOf4kXG3KYBa1KOhD) | 3:31 |
 | 48 | [365](https://open.spotify.com/track/5PTyCmP9CmulkI6jUEbFvW) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [RoyalLive](https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx) | [365](https://open.spotify.com/album/099aqmdNJtkqChYPGWShV3) | 2:27 |
 | 49 | [Veneno](https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 59 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 60 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 
-Snapshot ID: `MCwzOWY2M2YwMGZiNmVjZGI0MTdlNzk4MmM4ZGI3MDViMTUwN2E4NjVm`
+Snapshot ID: `MCw2NWMzYjgyMWNjN2VjMjdmYTY2OGJlNzg3ZTMyYjRkZjVlNWFmNmFm`

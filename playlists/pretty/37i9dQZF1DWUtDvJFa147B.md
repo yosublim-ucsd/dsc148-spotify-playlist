@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,653 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,674 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 66 | [JTBC Begin Again3 Episode 10 \- Confession \- Berlin Mauerpark Busking Version](https://open.spotify.com/track/052AdZx9S9uKCYzl6GXASs) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Kim Hyun Woo](https://open.spotify.com/artist/1AwkEOEPk9lRW6yAoiykao) | [JTBC Begin Again3 Episode 10 \- Confession](https://open.spotify.com/album/32gPzhnVyCfxKkrPaQYoQC) | 4:41 |
 | 67 | [Fly me to the moon \- Live](https://open.spotify.com/track/5FRNwUeg7yc3ycrbmHd4Hz) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin again 2 Live in Porto](https://open.spotify.com/album/2fnjbyrhNfOeoCHoI7BepJ) | 3:07 |
 | 68 | [River \- Live](https://open.spotify.com/track/5XTRhtdcnTNByRF73Zban0) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin again 2 Live in Porto](https://open.spotify.com/album/2fnjbyrhNfOeoCHoI7BepJ) | 4:14 |
-| 69 | [Shining \- Live Version](https://open.spotify.com/track/3I49nj7cvt4Fp9bBDEulNi) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin Again 2 Live In Porto](https://open.spotify.com/album/6URo0YjjVBtKe0cwGV8gDa) | 3:39 |
-| 70 | [\#1 \- Live Version](https://open.spotify.com/track/6XqxiYn5MFteNGLogEBqX4) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin Again 2 Live In Porto](https://open.spotify.com/album/6URo0YjjVBtKe0cwGV8gDa) | 4:50 |
+| 69 | [Shining \- Live](https://open.spotify.com/track/6tWxwbr7yFDCwtnlxUqj5l) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin again 2 Live in Porto](https://open.spotify.com/album/2fnjbyrhNfOeoCHoI7BepJ) | 3:39 |
+| 70 | [\#1 \- Live](https://open.spotify.com/track/0NK4w2xLrz1q3ahmZMnhVY) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin again 2 Live in Porto](https://open.spotify.com/album/2fnjbyrhNfOeoCHoI7BepJ) | 4:50 |
 | 71 | [봄이 오면 \- Live Version](https://open.spotify.com/track/39yBqCID1zYA6x2NY5Hdim) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin Again 2 Live in Lisbon](https://open.spotify.com/album/3zEuvCWj8gyybZmcmonzNV) | 3:50 |
 | 72 | [위로 \- Live Version](https://open.spotify.com/track/3ypnCgfYvvf2uDs8ihh0FY) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin Again 2 Live in Lisbon](https://open.spotify.com/album/3zEuvCWj8gyybZmcmonzNV) | 3:39 |
 | 73 | [스물다섯, 스물하나 \- Live Version](https://open.spotify.com/track/65C7eAqJggjluU4NsmBKdn) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Lee Sun Kyu](https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X) | [Jaurim + Begin Again 2 Live in Lisbon](https://open.spotify.com/album/3zEuvCWj8gyybZmcmonzNV) | 4:34 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 112 | [I bless you – Chamonix Busking ver](https://open.spotify.com/track/5ujO0nDWSnIEYZrH5YLghc) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [RO HONG CHUL](https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP) | [Begin Again\-Episode12](https://open.spotify.com/album/6H41cjcgNBY9xBvoF2Ffpb) | 3:57 |
 | 113 | [In Front Of The Autumn Post Office – Chamonix Busking ver](https://open.spotify.com/track/33hWdbayWz9hmNKnqhr7EN) | [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Begin Again\-Episode12](https://open.spotify.com/album/5eWfAwyHVx7TpQ12HTFzwh) | 4:44 |
 
-Snapshot ID: `MCw0NjgxYzc1OWU4MmJhYzQ0MTUxYTMwYTgxM2QxNTVkODgzMGI4YTYz`
+Snapshot ID: `MCxiMjczNjE5ZDc4ZTc1ODZhNjk5OGRiOWU0ZTk0MzdmMzYwMmNiZTNm`

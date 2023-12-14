@@ -1,12 +1,12 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 273103,
+  "num_followers": 273245,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjMzMzI2ZGJlODFmZWViYmM5ZmJmZWQ4ZGZjZDdjZWM4YTcwNjg2",
+  "snapshot_id": "MCw5ZDhhMWQ2NjNiNWIxYWRlNjA4OGYyNmJhMDUyZjZiODE4Y2MzZDYw",
   "tracks": [
     {
       "added_at": "2023-12-07 20:09:02",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "DOWN (feat. Malevolence)",
+        "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        },
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "duration_ms": 234549,
+      "name": "DOWN (feat. Malevolence)",
+      "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Cheers To Goodbye (feat. Spencer Charnas)",
         "url": "https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5"
       },
@@ -239,26 +259,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "DOWN (feat. Malevolence)",
-        "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        },
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
-        }
-      ],
-      "duration_ms": 234549,
-      "name": "DOWN (feat. Malevolence)",
-      "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
       },
@@ -275,6 +275,38 @@
       "duration_ms": 183900,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "RAT WARS",
+        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "DSM-V",
+      "url": "https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -299,38 +331,6 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 118863,
-      "name": "Pink Rover",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "RAT WARS",
-        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "DSM-V",
-      "url": "https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "saw BONES",
-        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
-      },
-      "artists": [
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "saw BONES",
-      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Satellites (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Alone I...",
-        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
+        "name": "saw BONES",
+        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
       },
       "artists": [
         {
-          "name": "Synthetic Blast",
-          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
         }
       ],
-      "duration_ms": 280549,
-      "name": "Alone I Burn - Radio Edit",
-      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
+      "duration_ms": 147200,
+      "name": "saw BONES",
+      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1407,6 +1391,22 @@
       "duration_ms": 195800,
       "name": "Animo",
       "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Alone I...",
+        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Blast",
+          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
+        }
+      ],
+      "duration_ms": 280549,
+      "name": "Alone I Burn - Radio Edit",
+      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Pyroclasts",
         "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "On Circles",
-        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
       },
       "artists": [
         {
-          "name": "Caspian",
-          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
         }
       ],
-      "duration_ms": 413400,
-      "name": "Wildblood",
-      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1547,6 +1531,22 @@
       "duration_ms": 293173,
       "name": "Arcana Imperii",
       "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "On Circles",
+        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
+      },
+      "artists": [
+        {
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+        }
+      ],
+      "duration_ms": 413400,
+      "name": "Wildblood",
+      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "DIVINE DISINTEGRATION",
-        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
-      },
-      "artists": [
-        {
-          "name": "ghostofblu",
-          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "DIVINE DISINTEGRATION",
-      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "BLOODSUCKERS",
         "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 202693,
       "name": "Bloodsuckers",
       "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "DIVINE DISINTEGRATION",
+        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
+      },
+      "artists": [
+        {
+          "name": "ghostofblu",
+          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "DIVINE DISINTEGRATION",
+      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
     },
     {
       "added_at": "2023-12-07 20:09:02",

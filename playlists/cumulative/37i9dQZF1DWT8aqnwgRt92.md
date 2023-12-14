@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,075 songs - 2 day 19 hr 52 min
+1,078 songs - 2 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,8 @@
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-28 | 2022-07-08 |
 | [Nomic](https://open.spotify.com/track/097t1k0326IivjNTdqOqx7) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Nomic](https://open.spotify.com/album/4LSTro12AcY0M6dqGaZpak) | 3:00 | 2022-10-06 | 2023-01-11 |
 | [Not as Dramatic As...](https://open.spotify.com/track/2GW9aPk5YhY247H8G5UV45) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Not as Dramatic As...](https://open.spotify.com/album/2Om7Uwqh3tLBAu2iSKdZkR) | 4:22 | 2023-01-10 | 2023-04-09 |
-| [NOTE](https://open.spotify.com/track/3uV183mN6huX2bG1cQaEql) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [NOTE](https://open.spotify.com/album/1wzThfYPTKwVnLPmIRiKOt) | 4:14 | 2023-09-19 |  |
+| [NOTE](https://open.spotify.com/track/3uV183mN6huX2bG1cQaEql) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [NOTE](https://open.spotify.com/album/1wzThfYPTKwVnLPmIRiKOt) | 4:14 | 2023-09-19 | 2023-12-14 |
+| [NOTE](https://open.spotify.com/track/60hAmUsnBwuDLLoe9V4guz) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [変身](https://open.spotify.com/album/5ZStJOxQ9KR09XF65flZSb) | 4:14 | 2023-12-12 |  |
 | [NUISANCE](https://open.spotify.com/track/2DTB5VfIXCYf4WVmOK2VqB) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [ENDING THEME NUISANCE FROM TV SERIES ”SPY CLASSROOM” 2ND SEASON](https://open.spotify.com/album/3d8jNva9LVnONzcOPuRMh4) | 2:56 | 2023-08-01 | 2023-09-29 |
 | [Numbness like a ginger](https://open.spotify.com/track/6WmH150zngZw8mNenyWY5o) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Ninth Peel](https://open.spotify.com/album/7LJTvMEZzwp3MgG78n8eZR) | 3:34 | 2023-04-11 | 2023-07-12 |
 | [Nyamboree de Moffy!!](https://open.spotify.com/track/1NYDPB36pncEVVndu7vbcI) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Nyamboree de Moffy!!](https://open.spotify.com/album/3gvmGoa0ePBbM7EdF0p7io) | 3:03 | 2023-04-08 | 2023-07-19 |
@@ -511,7 +512,8 @@
 | [SIGN IS B \- AI SOLO VER.](https://open.spotify.com/track/7382VXbagXQiuxHc7uFZr5) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.1\)](https://open.spotify.com/album/1p6iimUATzHm5X377CBKUZ) | 3:33 | 2023-07-04 | 2023-09-20 |
 | [Sign\(Piano Ballad ver.\)](https://open.spotify.com/track/2KaXMZRDtSzim8axS9QlnP) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Sign\(Piano Ballad ver.\)](https://open.spotify.com/album/2oTn5ps7LuAA8BJ1qO52L5) | 5:08 | 2023-07-25 | 2023-10-04 |
 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-10-05 |  |
-| [Sing a song together](https://open.spotify.com/track/2QYXjGOfahFNABoNSmMXwS) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Sing a song together](https://open.spotify.com/album/4Qyz64zxLoI84Qq0vi6ONH) | 3:42 | 2023-08-22 |  |
+| [Sing a song together](https://open.spotify.com/track/48dYjU4FDQR3cwhkNLnbbQ) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Sing a song together](https://open.spotify.com/album/06tPZDeUAOmGTUoGRf71xv) | 3:40 | 2023-12-12 |  |
+| [Sing a song together](https://open.spotify.com/track/2QYXjGOfahFNABoNSmMXwS) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Sing a song together](https://open.spotify.com/album/4Qyz64zxLoI84Qq0vi6ONH) | 3:42 | 2023-08-22 | 2023-12-14 |
 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 | 2022-10-11 | 2023-01-11 |
 | [Skyline](https://open.spotify.com/track/4eKbNMZEejC4lWxkRaDyan) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6MiQuUPf4xQK3QaVC2f7uO) | 3:57 | 2023-10-03 | 2023-11-01 |
 | [Skyline](https://open.spotify.com/track/5Y7I67xCLNaPTHvUP78AI2) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6oKA6EIqSIXyFiDwPnVqwM) | 3:57 | 2023-10-03 | 2023-10-05 |
@@ -601,6 +603,7 @@
 | [Unite up!](https://open.spotify.com/track/6zsE5fWY4onqiKUvOOSMfj) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo) | [Unite up!](https://open.spotify.com/album/5CHZGDeflVkbgsAAOdp2Nf) | 3:59 | 2023-01-17 | 2023-01-25 |
 | [unravel](https://open.spotify.com/track/3uyiyeKrVPjbMdFGe9sGas) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [unravel](https://open.spotify.com/album/3EvVwxsQkXYSuItQMbTshK) | 3:59 | 2023-11-14 |  |
 | [Unraveling Love ～少しの勇気～](https://open.spotify.com/track/5md0Hl1syIT8yVFNGT5ivz) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [Unraveling Love ～少しの勇気～](https://open.spotify.com/album/1Rz0ltaSUekzygaaybSpf8) | 3:52 | 2023-10-31 |  |
+| [Unyielding Wish \- From CrosSing](https://open.spotify.com/track/6g0QlACH7J62K41JISpt2P) | [towana](https://open.spotify.com/artist/7ab5IblJTWvfa31nymwt1v) | [Unyielding Wish \- From CrosSing](https://open.spotify.com/album/5vT6ETvIM9pDfgYQ6UOXwz) | 3:54 | 2023-12-12 |  |
 | [UP TO ME!](https://open.spotify.com/track/0J9Uc8VeEljV62jAcdLXQO) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/7hBsU35JlTGaVv5lwaxBli) | 3:30 | 2023-10-17 |  |
 | [URL](https://open.spotify.com/track/5RIfmlSUvWRcEZHashmMRC) | [Ami Sakaguchi](https://open.spotify.com/artist/4aJOCsyxr9bOooJDwmXUwX) | [URL](https://open.spotify.com/album/4f9oAsZJMNY8J5AJx2eHlB) | 3:48 | 2023-07-11 | 2023-08-23 |
 | [Usotsuki](https://open.spotify.com/track/2PyYJTYEfA3jVXWNqaex5u) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Naked](https://open.spotify.com/album/4YEGqUeqECz2jcsENlcBSi) | 3:37 | 2023-02-16 | 2023-04-09 |
@@ -696,7 +699,7 @@
 | [もうひとくち](https://open.spotify.com/track/0OI5ER4W0AQr5YAdMKSIur) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [もうひとくち](https://open.spotify.com/album/5iGHRerQh0pBeI6JHOTUVM) | 3:56 | 2022-05-28 | 2022-07-27 |
 | [もちもち](https://open.spotify.com/track/4jTi6dAHuebFmXXxP80gYR) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [もちもち](https://open.spotify.com/album/2q4S1j03cG4zpnFZ2cvOo9) | 5:05 | 2023-07-18 | 2023-07-26 |
 | [ゆずれない](https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ゆずれない](https://open.spotify.com/album/5O8k3vgpZj8lABvvMKQJRd) | 3:58 | 2022-05-28 | 2022-06-24 |
-| [ゆずれない願い \- from CrosSing](https://open.spotify.com/track/6Zy3WcnqhzLzXmMKuLguox) | [towana](https://open.spotify.com/artist/7ab5IblJTWvfa31nymwt1v) | [ゆずれない願い \- from CrosSing](https://open.spotify.com/album/1YTqGEEZbcKXjIwRR4mMfb) | 3:54 | 2023-12-12 |  |
+| [ゆずれない願い \- from CrosSing](https://open.spotify.com/track/6Zy3WcnqhzLzXmMKuLguox) | [towana](https://open.spotify.com/artist/7ab5IblJTWvfa31nymwt1v) | [ゆずれない願い \- from CrosSing](https://open.spotify.com/album/1YTqGEEZbcKXjIwRR4mMfb) | 3:54 | 2023-12-12 | 2023-12-14 |
 | [ゆるり](https://open.spotify.com/track/1FU9vclbtQZGm5kkykkYUY) | [果歩](https://open.spotify.com/artist/3eFJ5DLTrkKw1kpb8gz2TS) | [ゆるり](https://open.spotify.com/album/08o1s4irye1tK3zvFkElZE) | 3:37 | 2023-10-10 |  |
 | [るろうの形代](https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [るろうの形代](https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4) | 3:24 | 2023-10-05 |  |
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-01 |

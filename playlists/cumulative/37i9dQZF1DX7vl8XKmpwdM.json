@@ -2399,6 +2399,28 @@
     },
     {
       "album": {
+        "name": "Fight Club (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4lBvBSjtIVeGFkRqDdhTTV"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168506,
+      "name": "Thaalam",
+      "url": "https://open.spotify.com/track/7dIyC8fFRmYYevMQrUCYAP"
+    },
+    {
+      "album": {
         "name": "Thee Thalapathy (From \"Varisu\")",
         "url": "https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL"
       },

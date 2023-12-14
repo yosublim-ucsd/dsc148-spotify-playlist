@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,820 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,954 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 2 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 |
 | 3 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
 | 4 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
-| 5 | [Ik Tu Goriye](https://open.spotify.com/track/155WbOc8SuCW9ZyIh4rFI4) | [Vicky](https://open.spotify.com/artist/6Sft7Ky5jRS8AaHCEr4Ice), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Ik Tu Goriye](https://open.spotify.com/album/003fTrJAdHyNsxNLh22vsy) | 4:00 |
+| 5 | [Ik Tu Goriye](https://open.spotify.com/track/155WbOc8SuCW9ZyIh4rFI4) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Ik Tu Goriye](https://open.spotify.com/album/003fTrJAdHyNsxNLh22vsy) | 4:00 |
 | 6 | [Whenever](https://open.spotify.com/track/4pFDMbftahto1oz8SZx2qQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/4wYzAxoYguNudxzUXPTGtC) | 3:30 |
 | 7 | [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/track/4ZlAM2VoFpv0VyZjv34A4o) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Chann Sitare \(From "Oye Makhna"\) \- Single](https://open.spotify.com/album/78eSecjSVDN0T0KDylfVMf) | 3:07 |
 | 8 | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/album/0NpT6q3W06PVHcCnE5Ifyl) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 | 75 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 |
 
-Snapshot ID: `MCw4OTg2MjliZDFjYzc5ZmUxODcwMzJjOWRjY2NjODY4M2E4MTgwNmQ1`
+Snapshot ID: `MCw0ZDBjMGFhNTRhNDNlMDhjZmZjMjg0OWMxNjE0NDFmM2M5OTk1ZmM5`

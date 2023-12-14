@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Damini Bhatla, Krishna Tejasvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,294 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,296 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 |
 | 75 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCw3YTlmMjliMDg2YzM2MzkwNDAxMWRmZjU4NTRmZDY1ZTEyMzY1ZTZi`
+Snapshot ID: `MCw0MjIwN2E5NGNlYjM2Y2RiM2YyNDhiYzI2ZTdiNWQ4ZDhjNDNlYmQ3`

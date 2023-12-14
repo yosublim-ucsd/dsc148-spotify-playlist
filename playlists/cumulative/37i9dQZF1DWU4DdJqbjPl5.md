@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=kMra\_ARaTXqkgg75udSQAA"> Tems</a>
 
-321 songs - 17 hr 10 min
+322 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [fluid](https://open.spotify.com/track/7JmqcNJ3yqcSdmeL7Eft6a) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d), [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [fluid](https://open.spotify.com/album/0SNAWeX1JUnfbk0bL3UdhF) | 2:58 | 2022-08-25 | 2022-09-02 |
 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 | 2021-12-16 | 2022-07-08 |
 | [Fool Me](https://open.spotify.com/track/1X1IDV1HeEMqpPkKnt1Srx) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [S.O.N](https://open.spotify.com/artist/0I5rNJv2Bldivd8UjTGlQ6), [Jay Sax](https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC) | [Amukelani](https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO) | 7:55 | 2022-12-09 | 2023-02-04 |
-| [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:28 | 2023-12-08 |  |
+| [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 |  |
 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 | 2023-10-20 |  |
 | [Forever](https://open.spotify.com/track/5pGbQzcWqT5HarQDNpgVfa) | [Andi K](https://open.spotify.com/artist/2kB03CmhDTWP3asDmD2iYB), [Shizzi](https://open.spotify.com/artist/1247AZNYLxb33DmPibFLZZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Forever](https://open.spotify.com/album/2JuPCMHU5tQwYVTjOWCeLF) | 2:52 | 2022-05-19 | 2023-03-04 |
 | [Forever](https://open.spotify.com/track/2EgxDtfxpFZ8hZnbahDSET) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed](https://open.spotify.com/album/75jkFBsbmjHIWGUUNbyDEG) | 3:16 | 2021-02-02 | 2022-07-29 |
@@ -241,7 +241,8 @@
 | [Problème](https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:33 | 2022-12-09 | 2023-03-04 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-20 |  |
 | [Pulchritudinous](https://open.spotify.com/track/4nzhd7FQDblgX8ogmGSeem) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [But could the moments in between](https://open.spotify.com/album/5cHlpmNwKG3RbEv8DiEUoC) | 4:24 | 2022-06-23 | 2023-02-17 |
-| [Put It Down](https://open.spotify.com/track/2Q5lu2KbEkBuAqqPFRvRla) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/2jnGkkqnf1mLtFGFl3DACW) | 2:45 | 2023-12-08 |  |
+| [Put It Down](https://open.spotify.com/track/2Q5lu2KbEkBuAqqPFRvRla) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/2jnGkkqnf1mLtFGFl3DACW) | 2:45 | 2023-12-08 | 2023-12-14 |
+| [Put It Down](https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/7ig0qv5ZtpaX7NPAe4nok0) | 2:45 | 2023-12-08 |  |
 | [Raha](https://open.spotify.com/track/7uLsJ8BMEi78BNMUFJgsZq) | [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [Raha](https://open.spotify.com/album/2NSwQZjB3Abd8NS2uUouBQ) | 3:40 | 2023-07-13 | 2023-07-28 |
 | [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 | 2022-03-17 | 2022-04-29 |
 | [Remember](https://open.spotify.com/track/26YdVfiTU42rvEG9oDOvQA) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [REMEMBER](https://open.spotify.com/album/5OBuRoSxAydiHNkG0YAB5q) | 5:57 | 2022-04-28 | 2022-07-23 |

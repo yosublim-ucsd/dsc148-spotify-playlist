@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 97312,
+  "num_followers": 97391,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTdlODgzZjdjZWUxM2M4ZTE1YjhlM2I2Nzk5ODk0MjAxNDdlNTJm",
+  "snapshot_id": "MCxjNjAxYjM5MzQ1NWYwNGE1MjBmNjNkNTkxZGUyNjQ2ZWUzY2JjYmVh",
   "tracks": [
     {
       "added_at": "2023-05-09 01:25:54",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
     },
     {
-      "added_at": "2022-09-27 23:17:09",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
-      },
-      "artists": [
-        {
-          "name": "OKRAA",
-          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
-        }
-      ],
-      "duration_ms": 645372,
-      "name": "Ola De Luz",
-      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
-    },
-    {
       "added_at": "2022-12-20 22:24:39",
       "album": {
         "name": "Whatever The Weather",
@@ -461,6 +445,22 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
+      "added_at": "2022-09-27 23:17:09",
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
+      },
+      "artists": [
+        {
+          "name": "OKRAA",
+          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
+        }
+      ],
+      "duration_ms": 645372,
+      "name": "Ola De Luz",
+      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
+    },
+    {
       "added_at": "2022-09-21 01:59:31",
       "album": {
         "name": "Feorm Falorx",
@@ -491,22 +491,6 @@
       "duration_ms": 189960,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
     },
     {
       "added_at": "2023-03-03 04:32:26",
@@ -547,6 +531,22 @@
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
     },
     {
       "added_at": "2021-11-25 22:12:36",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
     },
     {
-      "added_at": "2023-06-02 00:27:20",
-      "album": {
-        "name": "Common Land",
-        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
-      },
-      "artists": [
-        {
-          "name": "James Holden",
-          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
-        }
-      ],
-      "duration_ms": 321482,
-      "name": "Common Land",
-      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Promise",
@@ -665,20 +649,20 @@
       "url": "https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2023-06-02 00:27:20",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+        "name": "Common Land",
+        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
       },
       "artists": [
         {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
         }
       ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+      "duration_ms": 321482,
+      "name": "Common Land",
+      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
     },
     {
       "added_at": "2022-08-03 03:12:27",
@@ -699,6 +683,22 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
-      "added_at": "2022-07-06 16:48:39",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 331514,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
-    },
-    {
       "added_at": "2023-03-03 04:14:50",
       "album": {
         "name": "Vegetal Passivity",
@@ -817,22 +801,6 @@
       "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Translate",
-        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
-      },
-      "artists": [
-        {
-          "name": "Luke Abbott",
-          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
-        }
-      ],
-      "duration_ms": 108237,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
-    },
-    {
       "added_at": "2023-11-08 01:22:26",
       "album": {
         "name": "Panic Multiplier",
@@ -847,6 +815,38 @@
       "duration_ms": 332745,
       "name": "Obligation Reminder",
       "url": "https://open.spotify.com/track/6vbv5qwwiQlWmfqkYfHAyv"
+    },
+    {
+      "added_at": "2022-07-06 16:48:39",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 331514,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Translate",
+        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
+      },
+      "artists": [
+        {
+          "name": "Luke Abbott",
+          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
+        }
+      ],
+      "duration_ms": 108237,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Homescreen Glow",
-        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
-      },
-      "artists": [
-        {
-          "name": "Brin",
-          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
-        }
-      ],
-      "duration_ms": 326829,
-      "name": "Soft Gaiden",
-      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "These Days Don't Exist",
         "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 229293,
       "name": "The Vaulting Sky",
       "url": "https://open.spotify.com/track/6BJ4F52G2o5TgmIJAAYuQD"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Homescreen Glow",
+        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
+      },
+      "artists": [
+        {
+          "name": "Brin",
+          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
+        }
+      ],
+      "duration_ms": 326829,
+      "name": "Soft Gaiden",
+      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
       "added_at": "2023-10-28 00:12:45",
@@ -1189,20 +1189,20 @@
       "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
     },
     {
-      "added_at": "2023-01-07 02:10:08",
+      "added_at": "2022-08-31 04:01:41",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+        "name": "El Caso Figo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+      "duration_ms": 281986,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1221,20 +1221,20 @@
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
-      "added_at": "2022-08-31 04:01:41",
+      "added_at": "2023-01-07 02:10:08",
       "album": {
-        "name": "El Caso Figo (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy"
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
       "artists": [
         {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 281986,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M"
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB"
     },
     {
-      "added_at": "2023-08-17 17:21:25",
-      "album": {
-        "name": "Circuit Current",
-        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 247558,
-      "name": "Circuit Current",
-      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
-    },
-    {
       "added_at": "2023-03-28 06:19:24",
       "album": {
         "name": "weirdbloom",
@@ -1355,6 +1339,22 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2023-08-17 17:21:25",
+      "album": {
+        "name": "Circuit Current",
+        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 247558,
+      "name": "Circuit Current",
+      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
     },
     {
       "added_at": "2022-04-09 04:34:06",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Seelen",
         "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
       },
@@ -1439,18 +1455,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+        "name": "Badwater Psalm (Khotin Remix)",
+        "url": "https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        },
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
         }
       ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+      "duration_ms": 360000,
+      "name": "Badwater Psalm - Khotin Remix",
+      "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1487,22 +1507,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Badwater Psalm (Khotin Remix)",
-        "url": "https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W"
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
       },
       "artists": [
         {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        },
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Badwater Psalm - Khotin Remix",
-      "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
+      "duration_ms": 270546,
+      "name": "Give It Your Choir - Instrumental",
+      "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1535,22 +1551,6 @@
       "duration_ms": 220212,
       "name": "Aubades",
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Give It Your Choir - Instrumental",
-      "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1607,34 +1607,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Sweepsculp",
-        "url": "https://open.spotify.com/album/3CwyI5ld8x6WbgdfBtJABx"
+        "name": "Ficciones Del Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
       },
       "artists": [
         {
-          "name": "Sweepsculp",
-          "url": "https://open.spotify.com/artist/163prHBUW8VxZro1kWaLDt"
+          "name": "Molero",
+          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
         }
       ],
-      "duration_ms": 246816,
-      "name": "Inking",
-      "url": "https://open.spotify.com/track/6t5VbkwZhW0O7lNoUVX4Gf"
-    },
-    {
-      "added_at": "2022-09-30 02:46:46",
-      "album": {
-        "name": "\u307f\u305e\u3046\u3075\u304f",
-        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
-      },
-      "artists": [
-        {
-          "name": "\u4e0b\u6751\u771f\u4e00",
-          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
-        }
-      ],
-      "duration_ms": 388373,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
+      "duration_ms": 269142,
+      "name": "Phasma Gigas",
+      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1651,6 +1635,22 @@
       "duration_ms": 271237,
       "name": "Weight",
       "url": "https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT"
+    },
+    {
+      "added_at": "2022-09-30 02:46:46",
+      "album": {
+        "name": "\u307f\u305e\u3046\u3075\u304f",
+        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
+      },
+      "artists": [
+        {
+          "name": "\u4e0b\u6751\u771f\u4e00",
+          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
+        }
+      ],
+      "duration_ms": 388373,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
     },
     {
       "added_at": "2022-02-25 03:59:46",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
+        "name": "Sweepsculp",
+        "url": "https://open.spotify.com/album/3CwyI5ld8x6WbgdfBtJABx"
       },
       "artists": [
         {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+          "name": "Sweepsculp",
+          "url": "https://open.spotify.com/artist/163prHBUW8VxZro1kWaLDt"
         }
       ],
-      "duration_ms": 356813,
-      "name": "F7",
-      "url": "https://open.spotify.com/track/1djSx1nXAb7nekBdshLXjE"
+      "duration_ms": 246816,
+      "name": "Inking",
+      "url": "https://open.spotify.com/track/6t5VbkwZhW0O7lNoUVX4Gf"
     }
   ],
   "unique_name": "bleeps ^ glitches",

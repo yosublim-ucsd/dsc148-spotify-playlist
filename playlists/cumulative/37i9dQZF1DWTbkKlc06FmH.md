@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-600 songs - 1 day 12 hr 20 min
+601 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Deeper](https://open.spotify.com/track/3ShUS9A5HC0ZaO21Cnl3v8) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Deeper](https://open.spotify.com/album/1gtc4Ft1JspHCCd9dozX8a) | 5:12 | 2023-10-12 | 2023-10-18 |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-25 | 2023-06-23 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-23 |  |
-| [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/7CwI62aIqpf44HgTqzzr9x) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/album/0ySA1EiQEKpdS7zNLSXCsH) | 3:51 | 2023-12-12 |  |
+| [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/0AYM2tgwtiB3QovS3FUlbu) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/album/2zjAF1GnsLQnUo1OOXclF6) | 3:51 | 2023-12-12 |  |
+| [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/7CwI62aIqpf44HgTqzzr9x) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/album/0ySA1EiQEKpdS7zNLSXCsH) | 3:51 | 2023-12-12 | 2023-12-14 |
 | [Do What You Do Ably](https://open.spotify.com/track/4MJjFBcxDn2pbrhPeeFazZ) | [SOMETIME'S](https://open.spotify.com/artist/4E3XFAjeq08H7QdEaOtWoc) | [Do What You Do Ably](https://open.spotify.com/album/61ec3jHFueT9kiHbxe6fWA) | 4:14 | 2023-04-18 | 2023-05-10 |
 | [Do what you do ably](https://open.spotify.com/track/6FCVnPSxthhbvRIThSSMc8) | [SOMETIME'S](https://open.spotify.com/artist/4E3XFAjeq08H7QdEaOtWoc) | [Do what you do ably](https://open.spotify.com/album/3eoySVHvXdD8Hrj69dZjyI) | 4:14 | 2023-04-18 | 2023-04-20 |
 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-06 | 2023-04-19 |

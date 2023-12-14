@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Sam Alfred
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,347 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,356 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 74 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 |
 | 75 | [Sky Light](https://open.spotify.com/track/5T09fG328uz3tSc3bK1Tv2) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Sky Light / Hollywood](https://open.spotify.com/album/53LVzwtFqNfUNUaA9ZcGxg) | 4:49 |
 
-Snapshot ID: `MCwzNWE1Y2RkZWNhNDcwNmZjNjg1NmY5YWM3YjA2NDA3OTg3ZGNlNDk1`
+Snapshot ID: `MCwyNjQzYjg1YTMzMzg3YTVjYjFhMmIzNGQxOWM3MmJjNzA0NzQ3OTk4`

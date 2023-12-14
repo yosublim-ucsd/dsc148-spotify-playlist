@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,422 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,434 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
 | 80 | [Miss Me](https://open.spotify.com/track/0Nnq0gfsq7Inx7b4zQSJob) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Miss Me](https://open.spotify.com/album/5JRQtqu5HrSXebzylfn5xJ) | 4:27 |
 
-Snapshot ID: `MCw4MzY0MmZiYzIyMDk2NmQ5MmJmYzM4ZTY5Mzc5YzYwZmM3YmRkNmJh`
+Snapshot ID: `MCw2Njg1MWQ4YjYwNzg0MTY0Y2U5NWE5Nzk0YTlhYzM4MmI5MWY0M2Q2`

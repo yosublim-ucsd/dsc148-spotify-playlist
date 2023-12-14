@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Crackshot\(크랙샷\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Lee Mujin\(이무진\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-552 songs - 1 day 9 hr 56 min
+553 songs - 1 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Around You](https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj) | 3:42 | 2022-06-03 | 2022-06-14 |
 | [Ask Me](https://open.spotify.com/track/4QQYy2Z4yeOGQCWHWuoGh9) | [Team Pathfinder](https://open.spotify.com/artist/0Ovm1YUz5fUuMcSRXQJMYn) | [Ask Me](https://open.spotify.com/album/14DqNNH26yfE0nFUUJrW1Y) | 3:39 | 2022-06-23 | 2022-07-26 |
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-12 | 2022-12-27 |
-| [At the end of season](https://open.spotify.com/track/4oGwBJ0qiiRem6XzKoAgUe) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [At the end of season](https://open.spotify.com/album/6iZsMVpUgsbhyc2IejVaYo) | 4:59 | 2023-12-06 |  |
+| [At the end of season](https://open.spotify.com/track/4oGwBJ0qiiRem6XzKoAgUe) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [At the end of season](https://open.spotify.com/album/6iZsMVpUgsbhyc2IejVaYo) | 4:59 | 2023-12-06 | 2023-12-14 |
 | [At the end of time](https://open.spotify.com/track/09AS6Z0JHRO3Fspgw13jc2) | [Flower](https://open.spotify.com/artist/73AuOhZRFWIxUQlyTUrrVz) | [At the end of time](https://open.spotify.com/album/4IxbiL2QhOEJx4vZDc2yCW) | 3:45 | 2022-05-02 | 2022-05-12 |
 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 | 2022-04-22 | 2022-04-28 |
 | [Awake](https://open.spotify.com/track/0UDCfleTgwihlnOUxbzokR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) | 3:46 | 2022-05-11 | 2022-07-29 |
@@ -129,6 +129,7 @@
 | [Empty](https://open.spotify.com/track/7s8nB4MpDIzwOdQZCOnDid) | [Simple Pages](https://open.spotify.com/artist/6XrO8Asxs9JhvyqGevLbFe) | [Empty](https://open.spotify.com/album/3fASRh16bMr1G12LqAGC3F) | 3:48 | 2022-07-04 | 2022-07-09 |
 | [End of Spring](https://open.spotify.com/track/6iYlLt7gqJh8g8MDZR0Vmz) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:29 | 2022-04-12 | 2022-07-14 |
 | [Ending Fairy](https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB) | 3:19 | 2023-07-31 | 2023-09-20 |
+| [Episode](https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Episode](https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL) | 3:25 | 2023-12-13 |  |
 | [Eternity](https://open.spotify.com/track/2upOuHQqds86ZoMr8ctv7I) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Eternity](https://open.spotify.com/album/3GNE5jh7krgY9TaJTxTdT1) | 3:19 | 2023-02-10 | 2023-02-18 |
 | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/track/32oDQqwLzv074PThEuBVpp) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/1cy1oWKlBfDuxBvo9ZiodY), [Milena](https://open.spotify.com/artist/2DMUCQ7G60U498FYCe1lvk) | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/album/6r2MYiNYGJkixMSlWO9sWp) | 3:14 | 2022-05-03 | 2022-07-24 |
 | [EUROPA](https://open.spotify.com/track/4W4VAVZneeUiwApBDFFMoB) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [EUROPA](https://open.spotify.com/album/5yMQGkOurBkgYa6f1vDof9) | 2:51 | 2023-07-24 | 2023-08-18 |

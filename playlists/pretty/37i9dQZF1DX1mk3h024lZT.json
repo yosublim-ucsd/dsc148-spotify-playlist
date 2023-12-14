@@ -1,12 +1,12 @@
 {
   "description": "set your intentions at the highest of vibrations. ",
-  "num_followers": 76404,
+  "num_followers": 76506,
   "original_name": "supermoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjRkMmZlODIzMjQ4YTUyOTllNDdhNzgzMmMyYmVhMGQ2OGQ2OTRj",
+  "snapshot_id": "MCxkMjc1ZTQyNDAwZmJjZjNhMWIyNzBhOWUxYTUxM2M3Y2ZjZDBlZTRk",
   "tracks": [
     {
       "added_at": "2023-08-21 18:54:53",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-21 18:54:53",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
-    },
-    {
-      "added_at": "2023-08-21 18:54:53",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+    },
+    {
+      "added_at": "2023-08-21 18:54:53",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
       "added_at": "2023-08-21 18:54:53",

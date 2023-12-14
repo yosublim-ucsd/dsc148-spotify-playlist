@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,306 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,396 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 56 | [Eisbärn \(Kinderlied zum Winter\)](https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Winterlieder: Bayerisch\-Verschmitzte Kinderlieder für Winter und Weihnachten](https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ) | 4:33 |
 | 57 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 |
 | 58 | [Carla, die Weihnachtsfrau](https://open.spotify.com/track/5ATqvrY6bQZFt52cJ1AO3q) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Moritz Krämer](https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:00 |
-| 59 | [Morgen kommt der Nikolaus](https://open.spotify.com/track/3ectmvs9nM45NX4748ZEL5) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:09 |
+| 59 | [Kekse](https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:36 |
 | 60 | [Klingelingeling \(feat\. Dominikus Weilede\)](https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Dominikus Weilede](https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 3:01 |
 | 61 | [Die Weihnachtskinder](https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj) | [Eule und Lerche](https://open.spotify.com/artist/4rnjX26GPtQ12aFGuXgaew) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:09 |
 | 62 | [24 Türchen](https://open.spotify.com/track/3BXBI1g61AtNE0xIhJ6ONE) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 74 | [Backe, Backe Kuchen](https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Tanzbare Weihnachtslieder für Kinder](https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw) | 2:09 |
 | 75 | [Silvester](https://open.spotify.com/track/4I3O14VN10X7orM7h9xvhn) | [Stefanie Schrank](https://open.spotify.com/artist/0TtuoO8p89UbOviWtfxl5e) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:17 |
 
-Snapshot ID: `MCwyYWQ0YTY4ZGRjMjEyODkzZmZjM2U3NzYxMWU3MzcyNzZjOTE1OThk`
+Snapshot ID: `MCwwZGU0MjFiM2JjYzZlZjA1MDk3YTE1ZTAxOTNmZWYzNzkxN2VjNWEw`

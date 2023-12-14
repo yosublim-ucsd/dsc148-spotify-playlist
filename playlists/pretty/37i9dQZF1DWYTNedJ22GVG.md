@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,881 likes - 72 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,506 likes - 72 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 59 | [Santa Tell Me](https://open.spotify.com/track/5kQ6UcHEUizCPFQM3E3dZ0) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:04 |
 | 60 | [We Need A Little Christmas](https://open.spotify.com/track/1KTopLtzIdyLEa9fxSlpjp) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Complete Season Two](https://open.spotify.com/album/6WlzaRoDShdgVgaqJRjyNH) | 2:44 |
 | 61 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/1zaWQe9uY98hFWyQVe5Duz) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids Christmas](https://open.spotify.com/album/62F8g6Yj3GHsl6cK8dNnVP) | 3:58 |
-| 62 | [December](https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 1:56 |
+| 62 | [December](https://open.spotify.com/track/6nx2z3uGS0LhvRor8LpoIb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt) | 1:56 |
 | 63 | [Little Drummer Boy](https://open.spotify.com/track/7BvCDrlYwJ5D9RUqvvs3BT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTXmas \(Deluxe Edition\)](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) | 4:15 |
 | 64 | [Holidays \(feat\. Earth, Wind & Fire\)](https://open.spotify.com/track/0Yeh2VJCsxSgbftSGTiUbN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |
 | 65 | [Deck The Halls](https://open.spotify.com/track/3gDdxePgl7W8EbLLgaqrxe) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [The Greatest Bits: B\-Sides & Rarities](https://open.spotify.com/album/1zgFMroSTd9f0lr2qRxgqH) | 1:33 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 71 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 | 72 | [Christmas Is Here](https://open.spotify.com/track/4yAEAiud4ZJ9fgBsx5yGzT) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [Elf Pets: A Fox Cub's Christmas Tale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59acbHHOQxoMVo31NZbIju) | 2:03 |
 
-Snapshot ID: `MCw1YzUzMTIwYjNmMzU1OGE1NGIyYzQxNzUyOGI4NTRlNjJmNDMzMjAw`
+Snapshot ID: `MCxhNzQzNTFjZmI0NzM5ZjcwMzhlYTJhYTc5YWI2MTdhMTk5ZTAzZTg5`

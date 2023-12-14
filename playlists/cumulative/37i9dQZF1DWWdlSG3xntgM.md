@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-225 songs - 19 hr 7 min
+226 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Mưa Đêm Ngoại Ô](https://open.spotify.com/track/0bjTYwfBVU6O8sDvZnnas4) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Friday With Bolero](https://open.spotify.com/album/7GT9HYxTsnzp2au7FTnqec) | 6:15 | 2022-03-11 | 2022-07-23 |
 | [Mất Nhau Rồi](https://open.spotify.com/track/0rq2SM2nVvdolLewa4AOBK) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Tình Hoa 10 Giờ](https://open.spotify.com/album/0huTCpWAp5Ibqhb80DwUVR) | 4:46 | 2022-03-11 | 2022-07-27 |
 | [Mộng Vỡ Tan Rồi](https://open.spotify.com/track/6Cvsf6HdJzUjaMWDUPgtd5) | [Ho Quang Loc](https://open.spotify.com/artist/3sFGQcxGdxcLiCUNz6dwM3) | [Mộng Vỡ Tan Rồi](https://open.spotify.com/album/6tWKeH2lt2Ny9NhjXiA1zR) | 4:52 | 2022-03-11 | 2022-07-28 |
-| [Một Chuyến Bay Đêm](https://open.spotify.com/track/6CEl4O8bguLuj9Rgvhy2uv) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 5:02 | 2023-10-12 |  |
+| [Một Chuyến Bay Đêm](https://open.spotify.com/track/6CEl4O8bguLuj9Rgvhy2uv) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 5:02 | 2023-10-12 | 2023-12-14 |
 | [Một Lần Dang Dở](https://open.spotify.com/track/1yxb8y2b5YTXakgFlgxWE4) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Tuyển Tập Của Hà Vân](https://open.spotify.com/album/2vbMtDPt4NmEMVYu4miBBF) | 3:57 | 2022-03-11 | 2022-07-29 |
 | [Một Lần Dang Dở](https://open.spotify.com/track/0N5i16tC39pLf3rjPB92xJ) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Xin Trả Tôi Về](https://open.spotify.com/album/1r5OrgvrLx5yR89oBSA3Y8) | 3:58 | 2022-03-11 | 2023-03-09 |
 | [Một người đi](https://open.spotify.com/track/5l2aK6ogZ7qHDrxZDOqm0V) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH), [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Phận tơ tằm](https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig) | 5:21 | 2022-03-11 |  |
@@ -162,6 +162,7 @@
 | [Sầu Lẻ Bóng](https://open.spotify.com/track/43NMdhGO3jWk3BWpM8I8QB) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/1wVDUWmmUJaGPe60pX3t9h) | 5:16 | 2022-03-11 | 2022-07-28 |
 | [Sầu Lẻ Bóng](https://open.spotify.com/track/4a9t1NmCc4PH7i9uNXS6pi) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/20hpRAF1vJyA9Svfa5di1H) | 5:18 | 2023-05-24 | 2023-10-13 |
 | [Sầu Lẻ Bóng](https://open.spotify.com/track/1JT9Wjnze2Tsf38HUChiWy) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/1zbN3JwSe3zu6NHMgeDNnq) | 5:18 | 2022-03-11 | 2022-10-02 |
+| [Sầu Tím Thiệp Hồng](https://open.spotify.com/track/6p2VRU6XOQ9caoStaN446h) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF), [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 4:42 | 2023-10-12 |  |
 | [Sầu Tím Thiệp Hồng](https://open.spotify.com/track/71ellkgNTMLTxPhIoTplQD) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Sầu Tím Thiệp Hồng](https://open.spotify.com/album/38QhJtxGadPTfPOBxVNPwU) | 4:46 | 2023-10-12 |  |
 | [Sầu Tím Thiệp Hồng](https://open.spotify.com/track/7L7UYxdL9yqBgZWjU1L0tW) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/album/6cDs6BELcr9iAvNrjDKAug) | 4:46 | 2022-03-11 | 2023-11-12 |
 | [Thanh Pho Buon](https://open.spotify.com/track/3tPEPW6UyC3N8aqjFUIXBa) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Thoi Doi](https://open.spotify.com/album/49yr3PC62RhDanMpZdmAfc) | 5:04 | 2022-03-11 | 2022-07-07 |

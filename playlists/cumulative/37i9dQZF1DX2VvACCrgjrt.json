@@ -166,6 +166,28 @@
     {
       "album": {
         "name": "niteharts",
+        "url": "https://open.spotify.com/album/73pupZEDJHSNWZTZgN2gQH"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207694,
+      "name": "Aarena (Knock2 Remix)",
+      "url": "https://open.spotify.com/track/3QdNlDA5ZYzg99r1eafrO8"
+    },
+    {
+      "album": {
+        "name": "niteharts",
         "url": "https://open.spotify.com/album/6cCrdstrak2Yk4iITOOy7B"
       },
       "artists": [
@@ -296,7 +318,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 236129,
       "name": "All Eyez On Me",
       "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
@@ -318,7 +340,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 179052,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/1ExWt42DF0GzaPIBfaX6qp"
@@ -850,7 +872,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 137910,
       "name": "Badman Riddim (feat. Sweetie Irie)",
       "url": "https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t"
@@ -3134,7 +3156,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
@@ -3250,7 +3272,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 140000,
       "name": "Down Like That",
       "url": "https://open.spotify.com/track/02WXjHrQgBZc4stIRzYaFR"
@@ -4670,7 +4692,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 146190,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS"
@@ -6084,7 +6106,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 220952,
       "name": "King Of The Monsters",
       "url": "https://open.spotify.com/track/4Gc2dQj8FdnJzB6VZCKKF1"
@@ -6796,7 +6818,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 199790,
       "name": "MACH 10",
       "url": "https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ"
@@ -10046,7 +10068,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 146857,
       "name": "Smash!",
       "url": "https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY"
@@ -11644,7 +11666,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 221413,
       "name": "Underground",
       "url": "https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW"
@@ -12112,7 +12134,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "Whistle",
       "url": "https://open.spotify.com/track/0DElhSwX8CocYF16W34qZj"

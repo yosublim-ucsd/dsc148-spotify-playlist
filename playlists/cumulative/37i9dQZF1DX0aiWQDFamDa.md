@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-296 songs - 1 day 0 hr 6 min
+297 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-11-10 | 2023-01-06 |
 | [Close Your Eyes](https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Close Your Eyes](https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk) | 3:46 | 2022-11-10 | 2023-02-10 |
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/3tznBwhLYOJzC3mh6DBM47) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-11-10 |  |
-| [Conversation Among the Ruins](https://open.spotify.com/track/0tS5xy6W4dmRnhu6Lwu7EL) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [The Secret Between the Shadow and the Soul](https://open.spotify.com/album/21Jrn9lGRwkXZyFz2bJjaf) | 8:46 | 2022-05-18 |  |
+| [Conversation Among the Ruins](https://open.spotify.com/track/0tS5xy6W4dmRnhu6Lwu7EL) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [The Secret Between the Shadow and the Soul](https://open.spotify.com/album/21Jrn9lGRwkXZyFz2bJjaf) | 8:46 | 2022-05-18 | 2023-12-14 |
 | [Cry Me A River](https://open.spotify.com/track/5jkd3e1qgmsTWJm3NvQ7X4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Clap Hands, Here Comes Charlie! \(Expanded Edition\)](https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR) | 4:16 | 2022-05-18 | 2022-08-27 |
 | [Cry Me A River](https://open.spotify.com/track/4z5tPOBoKRIgCRVJMPPnoH) | [Ray Brown Trio](https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo) | [Soular Energy](https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8) | 5:44 | 2022-09-16 | 2023-09-16 |
 | [Cry Me a River \- Live](https://open.spotify.com/track/1T1vnu1TrKqbscghZb4npM) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/6b6b4JqCmmzwD4enWK8lf0) | 8:50 | 2022-06-29 | 2022-09-23 |
@@ -194,6 +194,7 @@
 | [No Other Love](https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 2:59 | 2022-05-18 | 2022-08-27 |
 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 | 2023-05-18 |  |
 | [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
+| [Noir De Noir](https://open.spotify.com/track/5FU6Qj9h9TYGW2v810ZYA5) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Noir De Noir](https://open.spotify.com/album/5EBzEgLhw2nVVUVL1gmnP5) | 3:18 | 2023-12-08 |  |
 | [Not Nice At All](https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Not Nice At All](https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH) | 2:56 | 2023-09-22 |  |
 | [Nothing Like a Spring](https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 3:31 | 2023-03-23 |  |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2022-12-01 |  |

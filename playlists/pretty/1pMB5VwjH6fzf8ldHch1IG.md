@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 ### [Trending Now](https://open.spotify.com/playlist/1pMB5VwjH6fzf8ldHch1IG)
 
-> Stream your favourite trending tracks and discover new jams along the way! Cover: Travis Scott.
+> Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,854 likes - 60 songs - 3 hr 1 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,852 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 59 | [Ahead of Our Time](https://open.spotify.com/track/3l0z706WPwEyD1i5sSjlxD) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Ahead Of Our Time](https://open.spotify.com/album/2RFEvvzKbTk5hvSG1gJW6J) | 3:07 |
 | 60 | [Falling for You](https://open.spotify.com/track/4kbaHslboiwyCgHmxRyLTm) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Tim & The Glory Boys \(Deluxe\)](https://open.spotify.com/album/7L6UgCIxEViu4qDyrnjbwZ) | 2:59 |
 
-Snapshot ID: `MTY2NzYsYWUzMDg4Y2Y5MDgxZWVlYWRkODYzODdjZTY5MmQxNjhiMTljYjY1NQ==`
+Snapshot ID: `MTY2NzcsNDZkNGU1YTNmYjcyZWEzODY3ZGIzZjI4Mzg3NzQ5ZGVjNmM0MjkzYQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 41393,
+  "num_followers": 41410,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODI2ZDE2ODZhYzAzM2JjMzM5MWNkMjIwNTlmZWJjMzk2MGY1ZGI0",
+  "snapshot_id": "MCwwYmJlOGY1MDkzN2IwM2NhMjU3ZTU2ZGYxNmNmODc3MzJiNmY2MTVj",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l"
-      },
-      "artists": [
-        {
-          "name": "Lord Invader",
-          "url": "https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Brown Skin Girl",
-      "url": "https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso Carnival (Remastered)",
         "url": "https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l"
+      },
+      "artists": [
+        {
+          "name": "Lord Invader",
+          "url": "https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Brown Skin Girl",
+      "url": "https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
         "name": "Calypso - Best of Trinidad",
         "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
       },
@@ -251,38 +251,6 @@
       "duration_ms": 161960,
       "name": "Mathilda",
       "url": "https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "The Roots of Trinidad Calypso / Recordings 1927 - 1931",
-        "url": "https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84"
-      },
-      "artists": [
-        {
-          "name": "The Growler",
-          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "An Excursion to Grenada",
-      "url": "https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "London is the Place for Me",
-      "url": "https://open.spotify.com/track/1pETAnznla509bUKb34xnS"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -307,6 +275,38 @@
       "duration_ms": 179026,
       "name": "The Weed (aka Man Pyabba)",
       "url": "https://open.spotify.com/track/0Tkx83V2dtcLZPVTVEiC0D"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "London is the Place for Me",
+      "url": "https://open.spotify.com/track/1pETAnznla509bUKb34xnS"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "The Roots of Trinidad Calypso / Recordings 1927 - 1931",
+        "url": "https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84"
+      },
+      "artists": [
+        {
+          "name": "The Growler",
+          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "An Excursion to Grenada",
+      "url": "https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypsonians (1930 - 1960), Vol.3",
-        "url": "https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL"
-      },
-      "artists": [
-        {
-          "name": "The Executor",
-          "url": "https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur"
-        }
-      ],
-      "duration_ms": 185835,
-      "name": "My Reply to Houdini",
-      "url": "https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s",
         "url": "https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 177200,
       "name": "Mr. Nankivell's Speech",
       "url": "https://open.spotify.com/track/6J1rPbuBjBaJdg53tjyhpG"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypsonians (1930 - 1960), Vol.3",
+        "url": "https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL"
+      },
+      "artists": [
+        {
+          "name": "The Executor",
+          "url": "https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur"
+        }
+      ],
+      "duration_ms": 185835,
+      "name": "My Reply to Houdini",
+      "url": "https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL"
     },
     {
       "added_at": "2021-04-23 15:05:50",

@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 62442,
+  "num_followers": 62456,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzA3OGE0ZjU5ODQxYjYzNDk0ZDkzNDEwYmVjMjA2NzJlMzBmYjNm",
+  "snapshot_id": "MCxkMjBhMDI2NDUwZWIzMjFjOWQ2ZDc1M2JlMDU5NDg4YTAwNWU2YWFm",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Nefertiti (Red Axes Remix)",
         "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 385361,
       "name": "Blue Tuesday",
       "url": "https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -595,26 +595,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Sununguka (feat. Zeke Manyika)",
-        "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
       },
       "artists": [
         {
-          "name": "Faze Action",
-          "url": "https://open.spotify.com/artist/1MMEHyxVfd0Pv4PEHynX9k"
-        },
-        {
-          "name": "Zeke Manyika",
-          "url": "https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n"
-        },
-        {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
         }
       ],
-      "duration_ms": 444514,
-      "name": "Sununguka (feat. Zeke Manyika) - Alan Dixon Italo Mix",
-      "url": "https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz"
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -639,18 +631,26 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+        "name": "Sununguka (feat. Zeke Manyika)",
+        "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
       },
       "artists": [
         {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+          "name": "Faze Action",
+          "url": "https://open.spotify.com/artist/1MMEHyxVfd0Pv4PEHynX9k"
+        },
+        {
+          "name": "Zeke Manyika",
+          "url": "https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
         }
       ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+      "duration_ms": 444514,
+      "name": "Sununguka (feat. Zeke Manyika) - Alan Dixon Italo Mix",
+      "url": "https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -711,6 +711,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Street Rave EP",
+        "url": "https://open.spotify.com/album/3Txe3gXfJXuzRiL4ahLDdw"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 241889,
+      "name": "Street Rave - Edit",
+      "url": "https://open.spotify.com/track/3rsXgZfEg5ETKOeLXDxCUn"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "In My Element (Skream Remix)",
         "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Street Rave EP",
-        "url": "https://open.spotify.com/album/3Txe3gXfJXuzRiL4ahLDdw"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 241889,
-      "name": "Street Rave - Edit",
-      "url": "https://open.spotify.com/track/3rsXgZfEg5ETKOeLXDxCUn"
     },
     {
       "added_at": "2021-08-27 15:45:01",

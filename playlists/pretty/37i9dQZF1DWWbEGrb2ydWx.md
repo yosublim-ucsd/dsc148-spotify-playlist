@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,861 likes - 41 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,876 likes - 41 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moss \- Original Mix](https://open.spotify.com/track/6hQl8iQgN5sV0JHusvOqav) | [Dj Honesty](https://open.spotify.com/artist/4pKB4sDsrn5NZ5zcPGpMmC) | [Goodies](https://open.spotify.com/album/6NujS5mtMdf1czulOADRNH) | 6:53 |
 | 2 | [Track 9 \(feat\. Aquarius Heaven\) \- Vocal Mix](https://open.spotify.com/track/7sMYiKGd1ZPFowI9LBBZew) | [Sascha Dive](https://open.spotify.com/artist/4xSSlzl6vHXCXN2uJBgYsm), [Aquarius Heaven](https://open.spotify.com/artist/0lAjFl20uNiFMWafrHRxea) | [The Basic Collective EP Pt\. 5](https://open.spotify.com/album/5wGQ7zS3P3xHtnVFgReJkl) | 8:15 |
 | 3 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 |
-| 4 | [Another One](https://open.spotify.com/track/4ZnWf3psKgVZI9mlUzOku1) | [Fold](https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8) | [Mill's Theme](https://open.spotify.com/album/6L50kFdk8mcBsqDBjpKKrb) | 7:29 |
+| 4 | [Another One](https://open.spotify.com/track/2nIAin8uaDCKBu1qr5OpV8) | [Fold](https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8) | [Mill's Theme EP](https://open.spotify.com/album/2CNRyiVzfrAUZTNtdcISZ0) | 7:29 |
 | 5 | [What U See In Me \- D'julz Dub](https://open.spotify.com/track/4ioDhAmW5JQPJLOobrzVVq) | [Cassy](https://open.spotify.com/artist/7JNP0OcJnBFXQWixpWmb5V), [D'julz](https://open.spotify.com/artist/1m6r7CIHVVb0heRlugYVRm) | [What U See In Me](https://open.spotify.com/album/1Oo8XR2qAxUkQX5PNYJxQC) | 6:32 |
 | 6 | [Turn Off The Lights \(Who's Afraid Of The Dark\) \- DJ Deep & Romain Poncet Remix](https://open.spotify.com/track/6HMdk1p69swDpZTGbWlGHv) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [DJ Deep](https://open.spotify.com/artist/3lbzbbtoq31WIRghjdBuuf), [Romain Poncet](https://open.spotify.com/artist/6QDvRJCmu8t75kUksmQDZB) | [Turn Off The Lights \(Who's Afraid Of The Dark\) Remixes](https://open.spotify.com/album/3KXbwHI63ksEAZPnDXPEEu) | 6:19 |
 | 7 | [Hear Me Out](https://open.spotify.com/track/6KdEBaBDkUyuU6sODlDOAe) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Stressed Out EP](https://open.spotify.com/album/6Wl5kJVgtsFNEFxEb3YHnW) | 7:13 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 40 | [Morning Factory](https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Word, Sound & Power](https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk) | 10:41 |
 | 41 | [Orage de Chaleur](https://open.spotify.com/track/44kOhdgdHbSDUz7zvcWkcj) | [Mike Dehnert](https://open.spotify.com/artist/6QLOlk9sB4Wca7i7dwVNC4) | [Switch Back to City EP](https://open.spotify.com/album/1wKXc6XsgO2NlaJY5MkZPt) | 5:30 |
 
-Snapshot ID: `MCxkMzU5MTc3ZGZjMmJiMjZiMzRjNDRhMDYyZjIxMGNjZmVjOWYzMGM4`
+Snapshot ID: `MCw4YTI5ZWYxNjZmZWYyZDNhODliOWYwM2E1OGUxM2I2MWFiMzFiZjA5`

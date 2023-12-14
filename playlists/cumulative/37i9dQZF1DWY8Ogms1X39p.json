@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Malam",
+        "url": "https://open.spotify.com/album/0nnyRFoS86nwWuyT8ATjWT"
+      },
+      "artists": [
+        {
+          "name": "Jikustik",
+          "url": "https://open.spotify.com/artist/7CSVCLVcIfpaNCQh7BxqKN"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244906,
+      "name": "Selamat Malam Dunia",
+      "url": "https://open.spotify.com/track/7AQJDPy0nxjcqda1T9f5wX"
+    },
+    {
+      "album": {
         "name": "Sesaat Kau Hadir",
         "url": "https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g"
       },

@@ -8,10 +8,10 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 0:00 | 2021-12-22 |  |
+| [](https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 0:00 | 2021-12-22 | 2023-12-14 |
 | [](https://open.spotify.com/track/3z6HxlyOlcd2bPBTUNElC8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 0:00 | 2021-12-22 |  |
 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 | 2021-12-22 |  |
-| [Agarrala](https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Reggaeton Hall of Fame, Vol\. 1](https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0) | 2:37 | 2021-12-22 | 2023-12-04 |
+| [Agarrala](https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Reggaeton Hall of Fame, Vol\. 1](https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0) | 2:37 | 2021-12-22 |  |
 | [Agárrala \- Remix](https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 2:32 | 2021-12-22 | 2023-11-04 |
 | [Al Natural \(feat\. Yandel\)](https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 3:24 | 2021-12-22 |  |
 | [Al Natural \- Remix](https://open.spotify.com/track/6FYReDAof3VBMbRKRbwboP) | [DJ Booster](https://open.spotify.com/artist/46ht5heFXWUBleroN1jgGu) | [Al Natural \(Remix\)](https://open.spotify.com/album/3RPBIxoBBQIvqGV8ShN0wu) | 3:27 | 2021-12-22 | 2023-07-08 |

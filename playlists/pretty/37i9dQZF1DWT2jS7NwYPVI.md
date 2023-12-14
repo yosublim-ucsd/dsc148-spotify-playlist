@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: Palaye Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,565 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,696 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Lip](https://open.spotify.com/track/49KU7hgM1KD3py8fNAAkPG) | [Mama Zu](https://open.spotify.com/artist/6OG25jh0gJ5FaFhw39eX2y) | [Lip](https://open.spotify.com/album/5PvUkKp9ifL4RpUcKjtHoQ) | 3:04 |
 | 125 | [Toothache](https://open.spotify.com/track/0AyKfB8CNXhohSuOfenvpO) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Toothache](https://open.spotify.com/album/67lWLXOlTjMwtfdrgTMElp) | 3:06 |
 
-Snapshot ID: `MCxjOTcwN2YwMjk1MGU4YWViOWZhODQwODg4ZGE2NTQ4YTRkMDhhZjRj`
+Snapshot ID: `MCw3NzBhZDc2NzQxNjc0OTdjMDI2OWEyMzc0ZGU4NjIzZWUyYmYzNDJk`

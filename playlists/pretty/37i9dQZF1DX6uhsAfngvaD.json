@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 299621,
+  "num_followers": 299696,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjdhYzUxOGFhNTYxMjA5ZTBlMzA4OTMwMDNmZmU1MTUwODM4Zjlh",
+  "snapshot_id": "MCw2Y2ZmNDNhNzY0NzcyNzIxYzc0NTJhZjkyYzdjYmNiNDYzZDE0ZDEw",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -307,38 +307,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Silver Lake Listening Companion",
-        "url": "https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 141187,
-      "name": "From the Subway Train - Extended Version",
-      "url": "https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy"
-    },
-    {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "Lost In A Rush Of Emptiness",
-        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
-      },
-      "artists": [
-        {
-          "name": "Bleach Lab",
-          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
-        }
-      ],
-      "duration_ms": 198767,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
         "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
       },
@@ -359,6 +327,38 @@
       "duration_ms": 187364,
       "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
       "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Lost In A Rush Of Emptiness",
+        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Silver Lake Listening Companion",
+        "url": "https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 141187,
+      "name": "From the Subway Train - Extended Version",
+      "url": "https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -863,34 +863,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
       "artists": [
         {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Ways To Get Out (Deluxe)",
-        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Come Down and Waste With Me",
-      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -907,6 +891,22 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Gloomy Girl",
         "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
       },
@@ -963,18 +947,34 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
       "artists": [
         {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Full Hand",
+        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "27 Club",
         "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 214137,
       "name": "27 Club",
       "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Full Hand",
-        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
-      },
-      "artists": [
-        {
-          "name": "Kevin Krauter",
-          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
-      },
-      "artists": [
-        {
-          "name": "trentem\u00f8ller",
-          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
-        },
-        {
-          "name": "Lisbet Fritze",
-          "url": "https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod"
-        }
-      ],
-      "duration_ms": 259642,
-      "name": "No More Kissing In The Rain",
-      "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Future Falling",
         "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
+      },
+      "artists": [
+        {
+          "name": "trentem\u00f8ller",
+          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
+        },
+        {
+          "name": "Lisbet Fritze",
+          "url": "https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod"
+        }
+      ],
+      "duration_ms": 259642,
+      "name": "No More Kissing In The Rain",
+      "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Make Me Wanna",
-        "url": "https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs"
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
       },
       "artists": [
         {
-          "name": "Babeheaven",
-          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
-        },
-        {
-          "name": "Navy Blue",
-          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+          "name": "Bored at My Grandmas House",
+          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
         }
       ],
-      "duration_ms": 202761,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
+      "duration_ms": 273455,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1231,18 +1227,38 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
+        "name": "Make Me Wanna",
+        "url": "https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs"
       },
       "artists": [
         {
-          "name": "Bored at My Grandmas House",
-          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+        },
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
         }
       ],
-      "duration_ms": 273455,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
+      "duration_ms": 202761,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE"
+      },
+      "artists": [
+        {
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+        }
+      ],
+      "duration_ms": 239260,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE"
     },
     {
       "added_at": "2023-09-29 10:51:04",
@@ -1279,22 +1295,6 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE"
-      },
-      "artists": [
-        {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
-        }
-      ],
-      "duration_ms": 239260,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE"
     },
     {
       "added_at": "2023-07-21 10:37:28",

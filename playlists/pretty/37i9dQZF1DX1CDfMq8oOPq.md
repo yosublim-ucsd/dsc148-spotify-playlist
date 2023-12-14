@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Karol Conka, Tasha & Tracie
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,550 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,653 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 40 | [Chica Mala](https://open.spotify.com/track/3vOCetJgzOxCDeGcrQ6YTI) | [O Complô](https://open.spotify.com/artist/3FyAD47F118oSKTeFy4v0Y), [Suppa Fla](https://open.spotify.com/artist/4P4XoMWWVzc9YJhrFBe0Xa), [Grand Master Duda](https://open.spotify.com/artist/5uqY9GPy0XodzrS3JDfiE0) | [Chica Mala](https://open.spotify.com/album/0QjPI0ICniI92V1VuXl40U) | 2:51 |
 | 41 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
 | 42 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
-| 43 | [No Te Gusta](https://open.spotify.com/track/2cxFkzZjvADzi8aWCfb0oo) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [Limonnada](https://open.spotify.com/album/2jhYJ1sGIKotj2VFIciO6f) | 4:07 |
-| 44 | [Escandalosa](https://open.spotify.com/track/2Dw34c2hzajVaoq4UYgr60) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Inimitável](https://open.spotify.com/album/4OuuNSNhugOcXfO6QAj6GL) | 2:20 |
+| 43 | [Escandalosa](https://open.spotify.com/track/2Dw34c2hzajVaoq4UYgr60) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Inimitável](https://open.spotify.com/album/4OuuNSNhugOcXfO6QAj6GL) | 2:20 |
+| 44 | [No Te Gusta](https://open.spotify.com/track/2cxFkzZjvADzi8aWCfb0oo) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [Limonnada](https://open.spotify.com/album/2jhYJ1sGIKotj2VFIciO6f) | 4:07 |
 | 45 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
-| 46 | [A Heroína e A Vilã](https://open.spotify.com/track/0jAPxMC6lewaMrSuQwzbb1) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [A Heroína e A Vilã](https://open.spotify.com/album/0SyVncjgg2o0WRWEFTGnGt) | 2:24 |
-| 47 | [Owens](https://open.spotify.com/track/16yrHiZiZPsNlWVAHE94pT) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [BIG CA$H](https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m) | 2:24 |
+| 46 | [Owens](https://open.spotify.com/track/16yrHiZiZPsNlWVAHE94pT) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [BIG CA$H](https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m) | 2:24 |
+| 47 | [A Heroína e A Vilã](https://open.spotify.com/track/0jAPxMC6lewaMrSuQwzbb1) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [A Heroína e A Vilã](https://open.spotify.com/album/0SyVncjgg2o0WRWEFTGnGt) | 2:24 |
 | 48 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 49 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCwyMTMyM2FmOWE2YWQ0OWIzOTM0NjQ4MzViOTBmMjdiYjc2OWJmZjBk`
+Snapshot ID: `MCwzYWEwN2M1MzgzZjU0NGRkYzhlNzdlZTI0NWY0YjhmMmFlZjkyZDA5`

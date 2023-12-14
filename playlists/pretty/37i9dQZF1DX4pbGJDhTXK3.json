@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 132647,
+  "num_followers": 132677,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDJhNzBkODk4ZGY3MTNhODkxNDYzZmM1MGVkMGQyNWMwOTQzMjNi",
+  "snapshot_id": "MCxiNzZlN2FhODVmMjYyYTQ3OTQ5Yjg5NGY1ZTBhOThhZGIzZmZhNzJj",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "Ramma EP",
+        "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        }
+      ],
+      "duration_ms": 426575,
+      "name": "Bommelom",
+      "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "Tidl\u00f8s (Remixes)",
         "url": "https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 398813,
       "name": "Langt Der Borte",
       "url": "https://open.spotify.com/track/4bj0QaHFcnQTGhkAMtZAvk"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "Ramma EP",
-        "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 426575,
-      "name": "Bommelom",
-      "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
     },
     {
       "added_at": "2023-08-02 08:46:27",

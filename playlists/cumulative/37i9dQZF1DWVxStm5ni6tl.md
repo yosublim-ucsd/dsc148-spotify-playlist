@@ -4,7 +4,7 @@
 
 > Top 50 tracks from Fresh Finds Canada in 2023\. Cover: Anaïs Cardot
 
-538 songs - 1 day 3 hr 48 min
+539 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,8 @@
 | [Saltwater Cowboy](https://open.spotify.com/track/1q6K2AR132LskWaccIBOHV) | [Ben Chase](https://open.spotify.com/artist/2bMHWpoZglVsTnIvnQ1RI0) | [Saltwater Cowboy](https://open.spotify.com/album/78Vh06J0CH71tifUn9GNeF) | 4:00 | 2023-08-02 | 2023-08-17 |
 | [Saudade](https://open.spotify.com/track/3AkvkmoXPf5p7YpJdWGZus) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [Achanté](https://open.spotify.com/artist/5WWz6bTj6l2NOFLs1RvTnI), [teté](https://open.spotify.com/artist/3CYhcizMHA30W2o6nn39Xf) | [Saudade](https://open.spotify.com/album/5rF7pS3Fzwt1TN5WGNDWr4) | 2:45 | 2023-08-16 | 2023-08-24 |
 | [Say When](https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Say When](https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6) | 4:13 | 2023-09-13 | 2023-10-05 |
-| [Scared To Love](https://open.spotify.com/track/41LJWtSAOjSXe2ishYcgTh) | [Ella Rossi](https://open.spotify.com/artist/5XeDL6Pow4Ag5j9HWv9KHm) | [Scared To Love](https://open.spotify.com/album/5RbIoUnNqqCqM8QOFPStWj) | 3:13 | 2023-09-06 |  |
+| [Scared To Love](https://open.spotify.com/track/41LJWtSAOjSXe2ishYcgTh) | [Ella Rossi](https://open.spotify.com/artist/5XeDL6Pow4Ag5j9HWv9KHm) | [Scared To Love](https://open.spotify.com/album/5RbIoUnNqqCqM8QOFPStWj) | 3:13 | 2023-09-06 | 2023-12-14 |
+| [Scared To Love](https://open.spotify.com/track/5IeJouAPGe4MTbdS4y2dWi) | [Ella Rossi](https://open.spotify.com/artist/5XeDL6Pow4Ag5j9HWv9KHm) | [Heart Eyes](https://open.spotify.com/album/5AGn0717PFbRlkChcRYZOl) | 3:13 | 2023-11-29 |  |
 | [Second Bird Calling](https://open.spotify.com/track/5WmqrwWeRGVvIAzopOcUhV) | [Eccodek](https://open.spotify.com/artist/2lSY5zGzh4DXe7hRp3Iy7o), [Peppermoth](https://open.spotify.com/artist/3m1iwGUxL5xcMHl1a0WTih), [Mansa Sissoko](https://open.spotify.com/artist/6U52UZp4nySAM1yDS4NEmI) | [Second Bird Calling](https://open.spotify.com/album/4HYnS8oWwkof8kUb13GSwh) | 4:42 | 2023-09-13 | 2023-09-21 |
 | [secret handshakes](https://open.spotify.com/track/7IZKPDpb3YJJVxYnAWrQ2a) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [secret handshakes](https://open.spotify.com/album/4a0C92yrH9QpAi6eY4XWDh) | 2:53 | 2023-10-18 | 2023-11-09 |
 | [Self Revolution](https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en) | [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes) | [The Melody Within](https://open.spotify.com/album/0lNVrrcLt81D6u8G6Jn3EV) | 3:14 | 2023-11-08 | 2023-11-25 |

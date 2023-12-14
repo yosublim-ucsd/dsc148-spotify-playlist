@@ -2118,6 +2118,28 @@
     {
       "album": {
         "name": "GAY 4 ME (feat. Lauren Sanderson)",
+        "url": "https://open.spotify.com/album/7iR7ByaH9gsE5yKqPZBmU0"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174739,
+      "name": "GAY 4 ME (feat. Lauren Sanderson)",
+      "url": "https://open.spotify.com/track/0SpPqrdsoudUHbahZa9Sm5"
+    },
+    {
+      "album": {
+        "name": "GAY 4 ME (feat. Lauren Sanderson)",
         "url": "https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu"
       },
       "artists": [
@@ -3778,7 +3800,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 203200,
       "name": "peachy",
       "url": "https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS"

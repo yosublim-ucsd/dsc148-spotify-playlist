@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Daniel Caesar",
-  "num_followers": 8668,
+  "num_followers": 8676,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjViZjQ1NTc2YzliNzZjMzU0YWZiZTM0MzZiYzQ4YWQyYTQ2MjAz",
+  "snapshot_id": "MCw2ZWJjYTMxZTE3YjRmZjllMDU1NWIxNmE0NDcxMzZjMzljYTRkMTk4",
   "tracks": [
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+        "name": "Proverb",
+        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
         }
       ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+      "duration_ms": 201601,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Proverb",
-        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
       "artists": [
         {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 201601,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
-        "name": "Solaris",
-        "url": "https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 169208,
-      "name": "Irrational",
-      "url": "https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
         "name": "Vibe for Me (Bob for Me)",
         "url": "https://open.spotify.com/album/1HKFbE6Qx3xLhPIqxkZUqb"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 151055,
       "name": "Vibe for Me (Bob for Me)",
       "url": "https://open.spotify.com/track/0DfvMYHipoZ3u0AJf4LjKF"
+    },
+    {
+      "added_at": "2023-12-08 05:01:00",
+      "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 169208,
+      "name": "Irrational",
+      "url": "https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK"
     },
     {
       "added_at": "2023-12-08 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,699 likes - 42 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,706 likes - 42 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 | 10 | [The Ox \- Mono Version](https://open.spotify.com/track/439wlIgqoJOsnGxNob1X4m) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sings My Generation \(U.S\. Version\)](https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih) | 3:50 |
 | 11 | [Rebel Rouser](https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [The Best Of Duane Eddy](https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf) | 2:33 |
 | 12 | [Green Onions](https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions / Behave Yourself](https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe) | 2:47 |
-| 13 | [Apache](https://open.spotify.com/track/5ALDucFjn5MUCmui2qgTQc) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Shadows' Greatest Hits](https://open.spotify.com/album/489JHMGFMHtqfV8HURfx8U) | 2:54 |
+| 13 | [Apache](https://open.spotify.com/track/5ALDucFjn5MUCmui2qgTQc) | [The Shadows](https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC) | [The Shadows' Greatest Hits](https://open.spotify.com/album/489JHMGFMHtqfV8HURfx8U) | 2:54 |
 | 14 | [Jessica](https://open.spotify.com/track/0jg2KUI9Qv3lyJilY5gVH0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/13LdOq7lBKInZF1WNbBieW) | 7:30 |
 | 15 | [Rumble](https://open.spotify.com/track/0pxThPQcINQ8bBGFGYMwAD) | [Link Wray](https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto) | [Rockabilly Insanity](https://open.spotify.com/album/5cZvrLii3UfiNn7UYgVJtL) | 2:24 |
 | 16 | [Blue Turning Gray](https://open.spotify.com/track/2fRnzEChkwoZ4XTkECu22h) | [Clap Your Hands Say Yeah](https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r) | [Clap Your Hands Say Yeah](https://open.spotify.com/album/7hneASzfgVkmjO9oPae8T7) | 1:15 |

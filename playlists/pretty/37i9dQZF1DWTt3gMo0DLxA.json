@@ -1,13 +1,37 @@
 {
-  "description": "Trending songs from Tollywood! \nCover - MAD",
-  "num_followers": 54238,
+  "description": "Trending songs from Tollywood! \nCover: Guntur Kaaram",
+  "num_followers": 54383,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmNjMTI0MWYwMTFhMGQ0MDJhYTIzN2FhYjUwMmM2MzM3OTBjNDU2",
+  "snapshot_id": "MCw1Y2FlNjU0ZTY5YTE5MThiZTJiNmY3MjliNDllMjNiMGQzZGQ3NDQ2",
   "tracks": [
+    {
+      "added_at": "2023-12-13 13:09:36",
+      "album": {
+        "name": "Guntur Kaaram",
+        "url": "https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "Oh My Baby",
+      "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"
+    },
     {
       "added_at": "2023-11-06 11:12:57",
       "album": {
@@ -85,30 +109,6 @@
       "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
     },
     {
-      "added_at": "2023-11-08 06:29:31",
-      "album": {
-        "name": "Guntur Kaaram",
-        "url": "https://open.spotify.com/album/2JTcQYxkWCph2DFYHljgnS"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 206830,
-      "name": "Dum Masala",
-      "url": "https://open.spotify.com/track/3yNhGgQMPOdqVFpjRu8k8x"
-    },
-    {
       "added_at": "2023-08-30 10:44:11",
       "album": {
         "name": "Aradhya (From \"Kushi\") (Telugu)",
@@ -147,6 +147,30 @@
       "duration_ms": 214997,
       "name": "Nijame Ne Chebutunna",
       "url": "https://open.spotify.com/track/37KgM3qNYvDdMC9m6IvBOf"
+    },
+    {
+      "added_at": "2023-11-08 06:29:31",
+      "album": {
+        "name": "Guntur Kaaram",
+        "url": "https://open.spotify.com/album/2JTcQYxkWCph2DFYHljgnS"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 206830,
+      "name": "Dum Masala",
+      "url": "https://open.spotify.com/track/3yNhGgQMPOdqVFpjRu8k8x"
     },
     {
       "added_at": "2023-08-30 10:44:11",
@@ -663,22 +687,6 @@
       "duration_ms": 225424,
       "name": "Mastaaru Mastaaru",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "DJ Tillu",
-        "url": "https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0"
-      },
-      "artists": [
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Tillu Anna DJ Pedithe",
-      "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
     },
     {
       "added_at": "2023-08-30 10:44:11",

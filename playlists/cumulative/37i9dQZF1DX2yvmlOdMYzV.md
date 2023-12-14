@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-579 songs - 1 day 7 hr 48 min
+580 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 | 2023-09-08 |  |
 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 | 2021-12-15 | 2022-04-21 |
 | [Again](https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Again](https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI) | 2:15 | 2023-03-04 | 2023-08-26 |
-| [Ain’t Nobody](https://open.spotify.com/track/0Ctpzuq446LGu8RVIQOFiJ) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis \(Deluxe Edition\)](https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX) | 2:25 | 2023-09-22 |  |
+| [Ain’t Nobody](https://open.spotify.com/track/0Ctpzuq446LGu8RVIQOFiJ) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis \(Deluxe Edition\)](https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX) | 2:25 | 2023-09-22 | 2023-12-14 |
 | [ALIENS!](https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ALIENS!](https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj) | 4:18 | 2021-12-15 | 2022-07-29 |
 | [All Bad](https://open.spotify.com/track/0G6ExlA2fcJIDGoayswUNT) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Never Story](https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd) | 4:51 | 2021-12-15 | 2022-04-05 |
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-10-14 |  |
@@ -129,6 +129,7 @@
 | [Don't Turn The Music Down](https://open.spotify.com/track/5oCRONUj1i5wNH4XM5lPSl) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [Jus Lovehall](https://open.spotify.com/artist/4ZOPuDsefk2ZNBYUJfSXR5) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 3:43 | 2023-08-25 |  |
 | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/track/6xVgDPrFSlBinlx7lRzI1S) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/album/1JUxXtOkoLUgwHN7dfb2ML) | 4:21 | 2023-08-04 | 2023-09-29 |
 | [Dopamine](https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Dopamine](https://open.spotify.com/album/37UvvLpEtCEfHZTRVK2KEn) | 3:00 | 2023-12-08 |  |
+| [Dopamine](https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Dopamine](https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI) | 2:55 | 2023-12-08 |  |
 | [Dopamine](https://open.spotify.com/track/2aH5hMaNmlHHi6oJhwR8AK) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Dopamine](https://open.spotify.com/album/5WJ7b5yW2GXwHJkYlcpYVs) | 2:43 | 2023-07-14 |  |
 | [Down Bad](https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod) | [Erin Kaith](https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG) | [Down Bad](https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY) | 2:55 | 2023-07-14 | 2023-08-19 |
 | [Down For It](https://open.spotify.com/track/2x93RFNdEs1JtWoHsDQqTj) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/0C83wme433FLhE95M4JbvG) | 3:15 | 2021-12-15 | 2022-07-29 |

@@ -2,9 +2,9 @@
 
 ### [Trending Now Telugu](https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA)
 
-> Trending songs from Tollywood! <br/>Cover \- MAD
+> Trending songs from Tollywood! <br/>Cover: Guntur Kaaram
 
-135 songs - 8 hr 42 min
+136 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Nuvvu Navvukuntu](https://open.spotify.com/track/00LSCsH99cW8zsr82ibMHM) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Bhasakarabhatla](https://open.spotify.com/artist/5BSnq8EugWeuGR6acegjqN) | [MAD](https://open.spotify.com/album/070z9uG6XuIOI49AgwCnCy) | 3:24 | 2023-11-20 |  |
 | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT) | 5:14 | 2023-08-30 |  |
 | [Odiyamma \(From "Hi Nanna"\) \[TELUGU\]](https://open.spotify.com/track/1g9V1QE7vbeAx5Xm04DfLi) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Odiyamma \(From "Hi Nanna"\) \[TELUGU\]](https://open.spotify.com/album/3l0neQyP1UjjSFoyCtxS75) | 3:15 | 2023-12-11 |  |
+| [Oh My Baby](https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Guntur Kaaram](https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar) | 2:36 | 2023-12-13 |  |
 | [Ordinary Person \(From "Leo"\)](https://open.spotify.com/track/6FahmzZYKH0zb2f9hrVsvw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ordinary Person \(From "Leo"\)](https://open.spotify.com/album/0qOjC3f9sN8JWr1SOz7m9Z) | 2:19 | 2023-11-06 |  |
 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 | 2023-08-30 |  |
 | [Paala Pitta](https://open.spotify.com/track/7eONkQbNZvohVwbjbOwTEP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Maharshi](https://open.spotify.com/album/3wAsZ0sTfkJvspCMlW5azC) | 3:19 | 2021-09-24 | 2023-08-31 |
@@ -132,7 +133,7 @@
 | [Suttamla Soosi](https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sri Harsha Emani](https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit) | [Gangs Of Godavari](https://open.spotify.com/album/1Qr5Gq4WF1uaiIZkKIKgNN) | 3:22 | 2023-08-30 |  |
 | [Thattukolede](https://open.spotify.com/track/5idQ5WN2CK5FeUhRQ4ZvKY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Thattukolede](https://open.spotify.com/album/2Ch8BRdcnGnATmjIPcxSQc) | 4:44 | 2023-08-30 |  |
 | [Ticket Eh Konakunda](https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Tillu Square](https://open.spotify.com/album/5oNL1ay25NKeMieYCFwhci) | 3:09 | 2023-08-30 |  |
-| [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 | 2023-08-30 |  |
+| [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 | 2023-08-30 | 2023-12-14 |
 | [Top Lesi Poddi](https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5) | [Sagar, Geetha Madhuri](https://open.spotify.com/artist/4cjneCieMET25rMaFXwudS) | [Idharammayilatho](https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq) | 4:17 | 2021-09-24 | 2023-08-31 |
 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 | 2021-09-24 | 2023-08-31 |
 | [Uppenantha](https://open.spotify.com/track/57zEYntUat0ofbFpoicN26) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Aarya \- 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vuWNVdv7zSwgHJ7qx26O4) | 5:27 | 2023-08-30 |  |

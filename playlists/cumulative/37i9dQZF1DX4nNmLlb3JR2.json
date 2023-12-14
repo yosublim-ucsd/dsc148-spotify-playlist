@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Classic Rock vs Slowed Chilled Lofi",
+        "url": "https://open.spotify.com/album/0ha7cSxxf55clS10sDNgkp"
+      },
+      "artists": [
+        {
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+        },
+        {
+          "name": "The Rolling Beats",
+          "url": "https://open.spotify.com/artist/7wvka6LIqEi6lGyljOm2h0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Born To Be Wild - chill lofi remix",
+      "url": "https://open.spotify.com/track/3OiOcERV787mxa1QtBkRPE"
+    },
+    {
+      "album": {
         "name": "Born To Be Wild - chill lofi remix",
         "url": "https://open.spotify.com/album/67Yu8CZ98TdOatwcujKpCs"
       },
@@ -450,7 +472,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 126000,
       "name": "Born To Be Wild - chill lofi remix",
       "url": "https://open.spotify.com/track/6Fl0hxOtP1xQ40Iwe1oRc8"
@@ -769,6 +791,28 @@
     },
     {
       "album": {
+        "name": "Classic Rock vs Slowed Chilled Lofi",
+        "url": "https://open.spotify.com/album/0ha7cSxxf55clS10sDNgkp"
+      },
+      "artists": [
+        {
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+        },
+        {
+          "name": "The Rolling Beats",
+          "url": "https://open.spotify.com/artist/7wvka6LIqEi6lGyljOm2h0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Come Together - chill lofi remix",
+      "url": "https://open.spotify.com/track/0O2yLM6KIx1MYLA6d0EMYN"
+    },
+    {
+      "album": {
         "name": "Come Together - chill lofi remix",
         "url": "https://open.spotify.com/album/5C7w2txErIvmWU73cyVBFz"
       },
@@ -784,7 +828,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 136500,
       "name": "Come Together - chill lofi remix",
       "url": "https://open.spotify.com/track/3ibrvhYXgovCZtMISkjgzn"
@@ -2522,10 +2566,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 105205,
       "name": "Pink Venom (lofi edit)",
       "url": "https://open.spotify.com/track/16ihKUs4sLMPRShfWUJRFN"
+    },
+    {
+      "album": {
+        "name": "K-Pop ON! (\uc628) (lofi edition)",
+        "url": "https://open.spotify.com/album/20Efz10zTBkydyNDjQTvzl"
+      },
+      "artists": [
+        {
+          "name": "\ub85c\ud53c \ubba4\uc9c1",
+          "url": "https://open.spotify.com/artist/61vcj63GgHNdPDliis1tB6"
+        },
+        {
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105205,
+      "name": "Pink Venom (lofi edit)",
+      "url": "https://open.spotify.com/track/1BYEV7J4H5Ha3A8O6ppuuq"
     },
     {
       "album": {
@@ -2642,10 +2708,36 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 131253,
       "name": "regulate",
       "url": "https://open.spotify.com/track/5m0GxUaV20W6TEvfcjMOde"
+    },
+    {
+      "album": {
+        "name": "LoFi HipHop Remixes, Covers & LoFi Edits 2022 (vol.1)",
+        "url": "https://open.spotify.com/album/0verEQgY2jVTZClZJOslMn"
+      },
+      "artists": [
+        {
+          "name": "golden era",
+          "url": "https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8"
+        },
+        {
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+        },
+        {
+          "name": "Cali Soul",
+          "url": "https://open.spotify.com/artist/05k7SGKHRRfKpBvjcRMxQ6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "regulate",
+      "url": "https://open.spotify.com/track/0O6gDwVC6JCFcdHrRajYiO"
     },
     {
       "album": {

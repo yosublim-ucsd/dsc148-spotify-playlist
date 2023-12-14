@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 300463,
       "name": "Bad Character - Remix",
       "url": "https://open.spotify.com/track/5TNLFv24z226zDK7aAYXjf"
@@ -4654,6 +4654,24 @@
       "duration_ms": 136842,
       "name": "Pattern Gang (feat. Smada)",
       "url": "https://open.spotify.com/track/0GW4OIKAGftHpBU7q85JHL"
+    },
+    {
+      "album": {
+        "name": "Introduction",
+        "url": "https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym"
+      },
+      "artists": [
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144444,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT"
     },
     {
       "album": {

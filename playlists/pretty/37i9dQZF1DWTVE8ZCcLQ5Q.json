@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 419083,
+  "num_followers": 419071,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGIwMzIzZjkxNTU5NmFjMzgzMDU5MTg0YzI5MWJiYjY4ZjA5MjM1",
+  "snapshot_id": "MCwzZjUwZGI5ZjQxZTQyMmU0MmE3ODllNjg2YmQ5YzNhNzk5NTc2N2Uz",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -151,18 +151,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Aulas e Cursos",
-        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+        "name": "Joga na Cara",
+        "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
       },
       "artists": [
         {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
         }
       ],
-      "duration_ms": 213634,
-      "name": "Aulas e Cursos",
-      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+      "duration_ms": 109846,
+      "name": "Joga na Cara",
+      "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -199,22 +203,18 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Joga na Cara",
-        "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
+        "name": "Aulas e Cursos",
+        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
       },
       "artists": [
         {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
-        },
-        {
-          "name": "MC Gabluca",
-          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
         }
       ],
-      "duration_ms": 109846,
-      "name": "Joga na Cara",
-      "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
+      "duration_ms": 213634,
+      "name": "Aulas e Cursos",
+      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -771,18 +771,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+        "name": "Hino Delas",
+        "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
       },
       "artists": [
         {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
         }
       ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
+      "duration_ms": 139854,
+      "name": "Hino Delas",
+      "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -811,26 +819,18 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Hino Delas",
-        "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
       },
       "artists": [
         {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
         }
       ],
-      "duration_ms": 139854,
-      "name": "Hino Delas",
-      "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1427,26 +1427,18 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "JORGE",
-        "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
+        "name": "V\u00eanus",
+        "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
       },
       "artists": [
         {
-          "name": "JOCA",
-          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
-        },
-        {
-          "name": "Nizaj",
-          "url": "https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr"
-        },
-        {
-          "name": "Reurbana",
-          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
         }
       ],
-      "duration_ms": 160909,
-      "name": "JORGE",
-      "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
+      "duration_ms": 177524,
+      "name": "V\u00eanus",
+      "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1467,18 +1459,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "V\u00eanus",
-        "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
+        "name": "JORGE",
+        "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
       },
       "artists": [
         {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+          "name": "JOCA",
+          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
+        },
+        {
+          "name": "Nizaj",
+          "url": "https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr"
+        },
+        {
+          "name": "Reurbana",
+          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
         }
       ],
-      "duration_ms": 177524,
-      "name": "V\u00eanus",
-      "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
+      "duration_ms": 160909,
+      "name": "JORGE",
+      "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
     },
     {
       "added_at": "2023-10-05 08:00:00",

@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Bubble",
+        "url": "https://open.spotify.com/album/1Sb6NuHkm6Pf6POnZKaE7Z"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112084,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/4VJfwQ3BvngVwBMyZybFdd"
+    },
+    {
+      "album": {
         "name": "Cali Jap",
         "url": "https://open.spotify.com/album/6XLsxnfd4omvEx9vrZQSYW"
       },
@@ -1313,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Cloud",
+        "url": "https://open.spotify.com/album/2zpTmknuqqywtD3n2MxQzr"
+      },
+      "artists": [
+        {
+          "name": "in-d",
+          "url": "https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224888,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/4DjUTo5NhS4MgsSZMc8MCr"
+    },
+    {
+      "album": {
         "name": "JIYU",
         "url": "https://open.spotify.com/album/1DlOMgYpMzmGrcBSoioKHB"
       },
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 127000,
       "name": "Do My Thing",
       "url": "https://open.spotify.com/track/6si4M55L98W1Ry8Wt5JXsP"
@@ -2258,10 +2294,32 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 167833,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/56PqGnaQo7LXDQI9fsHKtE"
+    },
+    {
+      "album": {
+        "name": "From Nothing",
+        "url": "https://open.spotify.com/album/3rGd1lLGnB6DJAONsSPO9a"
+      },
+      "artists": [
+        {
+          "name": "ELIONE",
+          "url": "https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg"
+        },
+        {
+          "name": "ineedmorebux",
+          "url": "https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167833,
+      "name": "From Nothing",
+      "url": "https://open.spotify.com/track/5TawovkXUcTvnbllU794zi"
     },
     {
       "album": {
@@ -2856,7 +2914,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 183853,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/4JXLR7C2FpsOFKGGJPNKks"
@@ -3182,6 +3240,32 @@
       "duration_ms": 172800,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP"
+    },
+    {
+      "album": {
+        "name": "LOYALTY",
+        "url": "https://open.spotify.com/album/5uG6tQHwmirEfkBqiRvqYM"
+      },
+      "artists": [
+        {
+          "name": "Lunv Loyal",
+          "url": "https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M"
+        },
+        {
+          "name": "Yung Colty",
+          "url": "https://open.spotify.com/artist/6InHIz4YmrobstXDE8OvBv"
+        },
+        {
+          "name": "JETG",
+          "url": "https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181344,
+      "name": "Iburi Gacko Flow pt.2",
+      "url": "https://open.spotify.com/track/2uzlLXfDZDEgu46Pz4ohsW"
     },
     {
       "album": {
@@ -5400,10 +5484,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 191306,
       "name": "Retire",
       "url": "https://open.spotify.com/track/45ZIUoqBT8uVWJSfmuOnsf"
+    },
+    {
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/4ShmCLaYtD0iusN23PnN7g"
+      },
+      "artists": [
+        {
+          "name": "CreativeDrugStore",
+          "url": "https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Retire",
+      "url": "https://open.spotify.com/track/62Za0pv3dQlXJlGPiYeHqf"
     },
     {
       "album": {
@@ -5514,7 +5616,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 150743,
       "name": "Rollin\u2019",
       "url": "https://open.spotify.com/track/6uCScLbYOicfKzdqgqUiXa"

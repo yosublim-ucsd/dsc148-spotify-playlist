@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-280 songs - 15 hr 19 min
+281 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Cuando Te Veo](https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Caída Libre](https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH) | 3:51 | 2022-05-20 | 2022-08-27 |
 | [Cuentas Pendientes](https://open.spotify.com/track/3YxoIY40PgKDBjKHDHUQAe) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Cuentas Pendientes](https://open.spotify.com/album/7vPKBes3WuXF8xfT5ZC3EI) | 2:43 | 2023-06-23 |  |
 | [Cumbia del visto](https://open.spotify.com/track/4BN4u7hEuYQWMqyTHNGnkF) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [Romancero](https://open.spotify.com/album/2jCoLHBdbdAwhYRk8CMVf9) | 3:26 | 2023-10-26 |  |
-| [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-20 |  |
+| [Curarte](https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:03 | 2023-12-07 |  |
+| [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-20 | 2023-12-14 |
 | [Cuéntanos Lo Que Pasó…](https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cuéntanos Lo Que Pasó…](https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju) | 3:02 | 2023-10-06 |  |
 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/1oFbEDVpdRzwHzHUFzvYXB) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/2AonQQKJGi66GsGSaajA7L) | 3:34 | 2023-08-11 |  |
 | [Dame](https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Dame](https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4) | 4:04 | 2023-04-07 | 2023-10-07 |

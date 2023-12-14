@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-454 songs - 1 day 15 hr 18 min
+455 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Karabali](https://open.spotify.com/track/0IEuz3GjLdjk8WQfPw8Q3m) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/0pnCkqw8Kl7MP1A9j7MqKL) | 7:05 | 2022-10-28 | 2023-04-30 |
 | [Karabali](https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/4BpBqfC0qi6MaB3l96QBo4) | 7:05 | 2021-12-08 | 2022-10-13 |
 | [Karabali](https://open.spotify.com/track/48qDlvkTp9Qwi9upy4HbTw) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/39wGGsvN5SnqfjlrAe8l7l) | 7:05 | 2023-05-12 |  |
-| [Karizma](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Karizma](https://open.spotify.com/album/012jKWKp9G69I3jQXhvh4C) | 5:52 | 2022-10-28 |  |
+| [Karizma](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Karizma](https://open.spotify.com/album/012jKWKp9G69I3jQXhvh4C) | 5:52 | 2022-10-28 | 2023-12-14 |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-03 |  |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-05-03 |  |
 | [Keep On Reachin \- Main Mix](https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Keep on Reachin](https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3) | 5:24 | 2021-12-08 | 2023-08-18 |
@@ -443,6 +443,7 @@
 | [What You Want](https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [lo\-fi\_house.zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 3:45 | 2021-12-08 |  |
 | [When the Lights Are Out \- Late Night Mix](https://open.spotify.com/track/6skTPlJtkpqN7mM95QfsUD) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [When the Lights Are Out](https://open.spotify.com/album/28eezLT3nxoLghPoLKaduu) | 7:18 | 2021-12-08 |  |
 | [When the Lights Go Out](https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [When the Lights Go Out](https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx) | 3:41 | 2023-07-07 |  |
+| [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/0QYTRe6pYYgYmKQym4frbp) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4bXcZhVjyk6bV6xMpJD9Om) | 3:47 | 2023-12-01 |  |
 | [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/1ek1kNO1a5EJCNIUvNs5XI) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4Oz04uOU1JkaZtYe7LBXmt) | 3:47 | 2021-12-08 | 2023-12-09 |
 | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 | 2021-12-08 | 2023-05-06 |
 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-05-12 |  |

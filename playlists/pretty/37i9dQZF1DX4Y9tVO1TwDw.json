@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6664,
+  "num_followers": 6671,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzAwZTNiMWVkM2UzYjdjNWMxMWYzYjExNjY1YzY5NzYwMzlhYmQ3",
+  "snapshot_id": "MCw0MWJmNTljNDgwZjI0MTJhYTcyY2M5MTNkM2Q1ZGM1YWM2ZDg4YWEz",
   "tracks": [
     {
       "added_at": "2023-12-06 20:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "\u00bfqui\u00e9n dice?",
+        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "\u00bfqui\u00e9n dice?",
+      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "MI HOGAR (with maye)",
         "url": "https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "\u00bfqui\u00e9n dice?",
-        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 213647,
-      "name": "\u00bfqui\u00e9n dice?",
-      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Town Shit Vol. 3",
+        "url": "https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA"
+      },
+      "artists": [
+        {
+          "name": "Tony Loya",
+          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
+        }
+      ],
+      "duration_ms": 144746,
+      "name": "VAN A VER",
+      "url": "https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Town Shit Vol. 3",
-        "url": "https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA"
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
       },
       "artists": [
         {
-          "name": "Tony Loya",
-          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 144746,
-      "name": "VAN A VER",
-      "url": "https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O"
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -431,38 +447,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "A Mi Cama",
-        "url": "https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "A Mi Cama",
-      "url": "https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
         "url": "https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 239780,
       "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
       "url": "https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "A Mi Cama",
+        "url": "https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "A Mi Cama",
+      "url": "https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7"
+      },
+      "artists": [
+        {
+          "name": "Henao",
+          "url": "https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML"
+        }
+      ],
+      "duration_ms": 185017,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "LA TANGA",
         "url": "https://open.spotify.com/album/0S6Z8MgGVuGxC3ubKfEQSf"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7"
-      },
-      "artists": [
-        {
-          "name": "Henao",
-          "url": "https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML"
-        }
-      ],
-      "duration_ms": 185017,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "HOLY WATER",
         "url": "https://open.spotify.com/album/7ibXmW6H7m9ypNAlJXCO8y"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Is It Me?",
-        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 161064,
-      "name": "Is It Me?",
-      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "mundo dulce",
         "url": "https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 152755,
       "name": "freak",
       "url": "https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Is It Me?",
+        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 161064,
+      "name": "Is It Me?",
+      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
     },
     {
       "added_at": "2023-12-06 20:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,127 likes - 110 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,159 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 76 | [Yacuntcuntcunt](https://open.spotify.com/track/3KM4P4LjEABBRPyx5Ga7Vf) | [BE3K](https://open.spotify.com/artist/5CTU3qCfIjCOYMfzaPogFk) | [3](https://open.spotify.com/album/6AECp5wDwQilg07tmltSQd) | 2:41 |
 | 77 | [Deep in Vogue \- Introducing Lourdes & Willie Ninja](https://open.spotify.com/track/5cuAVhV0nGjImPZXBy9Tvt) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ), [The Bootzilla Orchestra](https://open.spotify.com/artist/7oNW0FHu1FMVPZPtyRzGpB), [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl), [Mark Moore](https://open.spotify.com/artist/4fJ5WogukabgmWKLAN3x9o) | [Waltz Darling](https://open.spotify.com/album/1T6VXkSGLyGwJ1l0555IBb) | 4:02 |
 | 78 | [Dope Dick Dealer](https://open.spotify.com/track/1qXfYFkZ6nfBml7WWJqCwq) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 4:20 |
-| 79 | [Footsteps](https://open.spotify.com/track/6jiI9bmZpG0ffzscf5Njxw) | [PENNYWILD](https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8) | [Footsteps](https://open.spotify.com/album/5CQtgCXi02cjPp98wCSLMF) | 3:31 |
+| 79 | [Footsteps](https://open.spotify.com/track/2E04tX5yq1XKmpHiUF8NVR) | [PENNYWILD](https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8) | [Footsteps](https://open.spotify.com/album/5qJpQ9MndK0HFJG4KMoujl) | 3:31 |
 | 80 | [Club Queen](https://open.spotify.com/track/5Vvs5tTd4jbCIkCsB1JQgV) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Queen](https://open.spotify.com/album/79d0CCtR8YtThcWgQIlTgC) | 4:03 |
 | 81 | [Body Drop \- Remix](https://open.spotify.com/track/3GiEEED2kzjx0shCZhQQ2y) | [Ase Manual](https://open.spotify.com/artist/7d9PaRqnesvoUvMowJ2qoE), [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO) | [Body Drop \(Remixes\)](https://open.spotify.com/album/2fn7ReF7nN1GaFio6M38wx) | 2:59 |
 | 82 | [Body](https://open.spotify.com/track/2iDsWFbO55Vo0I6Fm9hdP7) | [Cherie Lily](https://open.spotify.com/artist/62EtucF20PtIgqzJJzE6Dm) | [The Dripping Wet EP](https://open.spotify.com/album/4h6RDninFw0WeWrBMJiMqG) | 3:31 |
@@ -117,6 +117,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 107 | [Show Me What You Got!](https://open.spotify.com/track/1Xzys6dX0jsREnWEc2ib9z) | [Sugur Shane](https://open.spotify.com/artist/6W5grmdNl1vuIaB4B0yPND) | [Show Me What You Got!](https://open.spotify.com/album/03qAvr8nGizSRugl3xpGR8) | 3:00 |
 | 108 | [Fierce and Shady Tens \(Gurl\) \[feat\. Miss Jay\]](https://open.spotify.com/track/2nNEOEmQoSCJ2DMGlDDtUl) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Miss Jay](https://open.spotify.com/artist/1IU4hPWrwgn5oJlSNDmL7Y) | [Jeffree's, Vol\. 8](https://open.spotify.com/album/5qE2aOPfLshaK0qvZrkZ6B) | 6:28 |
 | 109 | [Realness](https://open.spotify.com/track/1Fh6UKeOozklnE9a24GSSh) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:03 |
-| 110 | [Witch Doktor](https://open.spotify.com/track/3RsGqdtkBVxk8mWoERAIp1) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Rhythm The Definitive 30](https://open.spotify.com/album/5sGoSZWP5ZPArN6tSvpN8s) | 6:46 |
+| 110 | [Witch Doktor](https://open.spotify.com/track/1z8cY06EB1MQmKMny2zTSf) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Armand Van Helden](https://open.spotify.com/album/52xHlWtXJ8jhIhDaJMFnhp) | 6:46 |
 
-Snapshot ID: `MCxkYjVkNzYyNzRjZTkwNjI5OTNiNzc0YTBhMjMzNGUxMTM0ZDZhZGU3`
+Snapshot ID: `MCw1OTFjY2ZlOGExODkzMzg0YTE2YmFlNGRhOTYzZDY4ZWUzOTg5NDdk`

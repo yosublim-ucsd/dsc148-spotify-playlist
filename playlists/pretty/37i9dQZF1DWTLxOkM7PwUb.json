@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 36228,
+  "num_followers": 36304,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGM2ZDAwNmZjMjYyNTAzODhlMmU0ZGNlZWI5MjgzOTQ5ODQ1M2Ew",
+  "snapshot_id": "MCw0YjYxYTJhNGE5ZWRmMGI0MzNiYzU2NmQ5MGU4NDJiM2JkMzY4NTZm",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Demasiado Tarde",
-        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 271548,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Chosen Few: New Generation",
         "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 199641,
       "name": "Nunca Me Amo",
       "url": "https://open.spotify.com/track/60PBNJm2fk3TnhZU3Ltida"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 271548,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Pa Mi",
-        "url": "https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "Pa Mi",
-      "url": "https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 235720,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Pa Mi",
+        "url": "https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Pa Mi",
+      "url": "https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4"
     },
     {
       "added_at": "2023-11-24 04:00:00",

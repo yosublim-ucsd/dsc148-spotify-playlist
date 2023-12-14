@@ -1,33 +1,13 @@
 {
-  "description": "Los \u00e9xitos del Dembow. Portada: Jey One",
-  "num_followers": 408195,
+  "description": "Los \u00e9xitos del Dembow. Portada: Donaty",
+  "num_followers": 408596,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2MxNTZhZjRhY2M4NzY2MThmNmFhMjQzYWQzM2Q3MDBmMzFjNDYw",
+  "snapshot_id": "MCxmZDE3Yjg0YjRlYmVmYWUwOGQ4MDY3YjBmYmVlNzcyMWEwMzQxZjU4",
   "tracks": [
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Eso E",
-        "url": "https://open.spotify.com/album/57dLimWMxsMkIagUobbfpe"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        },
-        {
-          "name": "El Baby R",
-          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
-        }
-      ],
-      "duration_ms": 139728,
-      "name": "Eso E",
-      "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
-    },
     {
       "added_at": "2023-11-28 17:56:18",
       "album": {
@@ -47,22 +27,6 @@
       "duration_ms": 164055,
       "name": "Cintureo - Remix",
       "url": "https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4"
-    },
-    {
-      "added_at": "2023-12-07 18:06:58",
-      "album": {
-        "name": "Se Puede Repet\u00ed",
-        "url": "https://open.spotify.com/album/2A8MlLQtNfwcA9uHVEmG6q"
-      },
-      "artists": [
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
-        }
-      ],
-      "duration_ms": 124870,
-      "name": "Se Puede Repet\u00ed",
-      "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
     },
     {
       "added_at": "2023-11-07 16:27:50",
@@ -91,6 +55,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Eso E",
+        "url": "https://open.spotify.com/album/57dLimWMxsMkIagUobbfpe"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "duration_ms": 139728,
+      "name": "Eso E",
+      "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Prepotente",
         "url": "https://open.spotify.com/album/1rsXO7NvbxSVOdcDsrWvt6"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 125147,
       "name": "Prepotente",
       "url": "https://open.spotify.com/track/47EGifeNL52SJL13TxcvBR"
+    },
+    {
+      "added_at": "2023-12-07 18:06:58",
+      "album": {
+        "name": "Se Puede Repet\u00ed",
+        "url": "https://open.spotify.com/album/2A8MlLQtNfwcA9uHVEmG6q"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "duration_ms": 124870,
+      "name": "Se Puede Repet\u00ed",
+      "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
     },
     {
+      "added_at": "2023-12-13 22:43:07",
+      "album": {
+        "name": "Lindo De Verdad",
+        "url": "https://open.spotify.com/album/3G5dp0db9qxsV05YfkrkGX"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 140387,
+      "name": "Lindo De Verdad",
+      "url": "https://open.spotify.com/track/175j7VZSSSQIMA0TDncqXU"
+    },
+    {
       "added_at": "2023-12-07 22:11:57",
       "album": {
         "name": "Cua Cua",
@@ -163,6 +179,22 @@
       "duration_ms": 118412,
       "name": "Cua Cua",
       "url": "https://open.spotify.com/track/3Kvulmj8KcGhbnOhqHFEht"
+    },
+    {
+      "added_at": "2023-12-13 22:43:07",
+      "album": {
+        "name": "Dembere",
+        "url": "https://open.spotify.com/album/5tuZEOHB4GCApx7IAlBUuU"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "duration_ms": 105486,
+      "name": "Dembere",
+      "url": "https://open.spotify.com/track/6Ts2LQc2vF9SdeQ5w2abCs"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -915,22 +947,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "EL CHEF DE LOS VERSOS",
-        "url": "https://open.spotify.com/album/4F7vHhoWlJhlsukP58qPs7"
-      },
-      "artists": [
-        {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
-        }
-      ],
-      "duration_ms": 99661,
-      "name": "Los Mu\u00f1ecos",
-      "url": "https://open.spotify.com/track/48XizIE53RoMqG3qYa5bxn"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Gemelo",
         "url": "https://open.spotify.com/album/5sjmpKKRv9K5YW6KUNs8oX"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 127139,
       "name": "Mi Flaca - Remix",
       "url": "https://open.spotify.com/track/3KvshDFG7oEN6MDVQI2NHD"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Ubicacion y Foto",
-        "url": "https://open.spotify.com/album/5oi02uruQUZdOgAYbiMiQ8"
-      },
-      "artists": [
-        {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
-        }
-      ],
-      "duration_ms": 123141,
-      "name": "Ubicacion y Foto",
-      "url": "https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a"
     }
   ],
   "unique_name": "Dembow Pegao",

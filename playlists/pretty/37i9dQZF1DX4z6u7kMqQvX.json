@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 104736,
+  "num_followers": 104752,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmU1Zjc2NTkwMWQ5Y2Y1ODk3Nzk1Yjk0MzAwYjRiZWU1YTA5YmIx",
+  "snapshot_id": "MCxkNjdkYzc1YzI0ZGZjNDg3YmNkZGEyN2E4NDBmMDQ0ZTJkYWEyMjM4",
   "tracks": [
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "Ciclo Lunar",
         "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 213310,
       "name": "Ciclo Lunar",
       "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Te Estoy Amando Locamente",
-        "url": "https://open.spotify.com/album/28zWvg3JwecBCXSgb94aLO"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 200234,
-      "name": "Te Estoy Amando Locamente",
-      "url": "https://open.spotify.com/track/04C2HgsiWUi8WNCp49f1Yj"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "Por los Dos",
         "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 181622,
       "name": "Por los Dos",
       "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Te Estoy Amando Locamente",
+        "url": "https://open.spotify.com/album/28zWvg3JwecBCXSgb94aLO"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 200234,
+      "name": "Te Estoy Amando Locamente",
+      "url": "https://open.spotify.com/track/04C2HgsiWUi8WNCp49f1Yj"
     },
     {
       "added_at": "2023-12-07 21:35:38",

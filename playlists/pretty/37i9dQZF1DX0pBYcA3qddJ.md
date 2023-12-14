@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,661 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,679 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 65 | [初戀](https://open.spotify.com/track/1zYjk36LJjAxjAb6izoUSJ) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [RETRO MODERN DANDY](https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS) | 2:36 |
 | 66 | [How I Got Home](https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [How I Got Home](https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3) | 3:39 |
 | 67 | [愛は死なず～『ラブ・ネバー・ダイ』より](https://open.spotify.com/track/5FJ24IGN3usoEy0tBd13MW) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6), [石田泰尚](https://open.spotify.com/artist/2gWmsXfwLkLs12TIFIxj96) | [オーケストラで聴く、感動のミュージカル名曲集\-The Most Beautiful Melody 'Musical' インストゥルメンタル&カラオケ\-](https://open.spotify.com/album/2MotmDQaOGZiXGy2J1yF9E) | 6:48 |
-| 68 | [Super Trouper](https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [ITEIAD Sessions](https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu) | 2:59 |
+| 68 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 |
 | 69 | [Aqua](https://open.spotify.com/track/617VzMK6UIWdMhLVZMeO0w) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Monster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39M30s6dzpTXxGepQJuWeZ) | 4:33 |
-| 70 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 |
+| 70 | [Super Trouper](https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [ITEIAD Sessions](https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu) | 2:59 |
 | 71 | [Ask Me Why \(Mother's Message\)](https://open.spotify.com/track/104EutLydSehDHiEjmtdBo) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Boy and the Heron \- Original Soundtrack](https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW) | 1:48 |
 | 72 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
 | 73 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 81 | [Memories in a Solitary Dance](https://open.spotify.com/track/7eh4caukWjVRB7Tno29B0u) | [Sonic Abodes](https://open.spotify.com/artist/3rzgt7XlVxEmuSp8o1Md0x) | [Memories in a Solitary Dance](https://open.spotify.com/album/5m9llyocnBGYqCKCwkwJlF) | 2:29 |
 | 82 | [Streets Of Heaven](https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Streets Of Heaven](https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD) | 3:08 |
 | 83 | [子供のためのアルバム 作品 68第1部 幼い子供たちのために 14 小さな練習曲](https://open.spotify.com/track/6nApb9nOQevkIVX0hQcZC9) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Masako Ezaki](https://open.spotify.com/artist/200Ts1yadzJtWxmdKWSBL2) | [シューマン:子供のためのアルバム 作品68](https://open.spotify.com/album/0yQZwie71PZbGkbFQoVc9W) | 2:04 |
-| 84 | [Sentimental](https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sentimental](https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2) | 3:38 |
+| 84 | [Shroud of Night](https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Shroud of Night](https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp) | 3:19 |
 | 85 | [Dolls](https://open.spotify.com/track/0GdIeCeSZQZCd7BZPVGKSX) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Phase](https://open.spotify.com/album/6vO123B4knF1SIf55nFZK0) | 3:45 |
-| 86 | [Shroud of Night](https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Shroud of Night](https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp) | 3:19 |
+| 86 | [Sentimental](https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sentimental](https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2) | 3:38 |
 | 87 | [うたた寝の日向](https://open.spotify.com/track/39npthIKvraBz2uFswfUcG) | [Jazz River Light](https://open.spotify.com/artist/1u8tOUsmXll1qDjWB5wHAu) | [ピアノ優しく響く森のカフェ～丘に吹く優しい風～](https://open.spotify.com/album/0vjYNhReZ1cRmG3icnWGsD) | 4:18 |
 | 88 | [Columbo](https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:33 |
 | 89 | [energy flow](https://open.spotify.com/track/38hwMaB4DWUhAWdyk1VljB) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/4MI7PELbBbWJrTgAX1nbKR) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Komorebi no Kioku](https://open.spotify.com/track/0Q72QqA0rLmZMO0Bmy77u2) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [Komorebi no Kioku](https://open.spotify.com/album/7foPQZ5vYodwAFzigoraxI) | 6:11 |
 | 100 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 
-Snapshot ID: `MCw5ODIzMzFlYWY1MmU4OTE4NmFkOTQxMDQ3MWQyZmZmYzIzOTAyZTI2`
+Snapshot ID: `MCxiOWQ0NTllMDExM2U2ZjUwZjBiY2E2ODA4NjI2ODVhYzRmOGE3YTEy`

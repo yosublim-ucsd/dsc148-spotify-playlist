@@ -4792,10 +4792,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 199790,
       "name": "MACH 10",
       "url": "https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ"
+    },
+    {
+      "album": {
+        "name": "MACH 10",
+        "url": "https://open.spotify.com/album/2iAKGqvunvXqNfMZqFsQoR"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199790,
+      "name": "MACH 10",
+      "url": "https://open.spotify.com/track/5FOtOFVTbAzZXvDOwarIHS"
     },
     {
       "album": {

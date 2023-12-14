@@ -150,7 +150,7 @@
     {
       "album": {
         "name": "Clutch",
-        "url": "https://open.spotify.com/album/7a3bJzOr4Mq2B74YIXsoHO"
+        "url": "https://open.spotify.com/album/4ZRuszFQ1iBgRrgsOoMKmz"
       },
       "artists": [
         {
@@ -161,6 +161,24 @@
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201899,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/1LQy1Fyid5ewuTgDb0MFJx"
+    },
+    {
+      "album": {
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/7a3bJzOr4Mq2B74YIXsoHO"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u308c\u3044\u3059",
+          "url": "https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
       "duration_ms": 201899,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/5JGhgaH8Cf0OsGJhmtgrNC"
@@ -787,6 +805,24 @@
     },
     {
       "album": {
+        "name": "SHIBUYA PM6:00",
+        "url": "https://open.spotify.com/album/2ZhjbOHo3DbHnj7AdrWAov"
+      },
+      "artists": [
+        {
+          "name": "ICEx",
+          "url": "https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230280,
+      "name": "SHIBUYA PM6:00",
+      "url": "https://open.spotify.com/track/5jGyoM0bymA1gXkuZSWCBN"
+    },
+    {
+      "album": {
         "name": "SHORYU (\u2192\u2193\u2198\uff0bP)",
         "url": "https://open.spotify.com/album/36of8h5UNm53gMLFAKWx8W"
       },
@@ -1126,7 +1162,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 230280,
       "name": "\u30b7\u30d6\u30e4 \u5348\u5f8c6\u6642",
       "url": "https://open.spotify.com/track/48u2iW5oJKCzTHdP1d6bNc"

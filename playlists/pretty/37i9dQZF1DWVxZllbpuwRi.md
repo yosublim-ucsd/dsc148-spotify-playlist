@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,758 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,734 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 64 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 |
 | 65 | [Carita Linda](https://open.spotify.com/track/3nEpf7LfISOfV1lxtAD6ks) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Carita Linda](https://open.spotify.com/album/74MzjPeqHE1Hl1rfjbsess) | 3:19 |
 | 66 | [Que Mal Te Fue](https://open.spotify.com/track/2btKz4s1XrMn5VHe7xZJpi) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Que Mal Te Fue](https://open.spotify.com/album/5Ev8nSvbM9cYv1YkdSv1XF) | 3:32 |
-| 67 | [Calma \- Alicia Remix](https://open.spotify.com/track/2dXZsbiWJUmr0jnGzuyk5L) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Alicia Remix\)](https://open.spotify.com/album/6VbLR1kOlmC5pIqnFbNZ0T) | 3:44 |
-| 68 | [Muito Calor](https://open.spotify.com/track/5uVgsAzjO6eJR06VPrqUga) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Muito Calor](https://open.spotify.com/album/0f3bt9OrN9BzSMRcpCg9y0) | 3:05 |
+| 67 | [Muito Calor](https://open.spotify.com/track/5uVgsAzjO6eJR06VPrqUga) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Muito Calor](https://open.spotify.com/album/0f3bt9OrN9BzSMRcpCg9y0) | 3:05 |
+| 68 | [Calma \- Alicia Remix](https://open.spotify.com/track/2dXZsbiWJUmr0jnGzuyk5L) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Alicia Remix\)](https://open.spotify.com/album/6VbLR1kOlmC5pIqnFbNZ0T) | 3:44 |
 | 69 | [Beso](https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Beso](https://open.spotify.com/album/3h1i2Oprt4fTDunTV4MRwx) | 3:23 |
 | 70 | [Rueda \- Remix](https://open.spotify.com/track/3EWxpqOSP0KWgUmRiklqGy) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Rueda \(Remix\)](https://open.spotify.com/album/30hCIU4mQfd14LVCLCOdmA) | 3:32 |
 | 71 | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [Light Years Away](https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Light Years Away](https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF) | 3:43 |
 | 100 | [Do Your Ting](https://open.spotify.com/track/7pXiEvsPrQDXfgl1Cq1I8m) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/2H6K5EZURlSU5dnnlEFJxU) | 3:12 |
 
-Snapshot ID: `MCwyMWRjNzk4OGZmZTc4NjI3NGM1ZjAyODdkMDhlZTAwZWQyNzA2N2Ni`
+Snapshot ID: `MCwyZDM1MDA5MThmODJmZWQ4MTlkMDU4MDRmMWJhYWFlMGIzMDRiOTZi`

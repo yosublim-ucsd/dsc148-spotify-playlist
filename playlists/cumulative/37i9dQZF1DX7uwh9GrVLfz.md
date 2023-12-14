@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 忘れらんねえよ
 
-679 songs - 1 day 12 hr 18 min
+680 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Before The Lights Go Out](https://open.spotify.com/track/3AsMIqAS33h6r2QW8WH9Fz) | [SIGHTS](https://open.spotify.com/artist/05pWxZtEoTKgwNOseyR8kB) | [EP2](https://open.spotify.com/album/6UVkUV4888FP5l2lmZEVXU) | 3:44 | 2022-05-24 | 2022-07-10 |
 | [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 | 2022-05-24 | 2022-07-25 |
 | [Believe](https://open.spotify.com/track/4C13xDSsYbqoFyYJUu0ZQh) | [ALIVES](https://open.spotify.com/artist/18JTlzpST0PKdG2IpJZ8QK) | [Code of Alives](https://open.spotify.com/album/1MpsMC6rUebOZXt0ZNdzve) | 2:35 | 2022-05-19 | 2022-07-14 |
-| [Believer](https://open.spotify.com/track/0p5AeHVOl8nmEdyCbYkkH5) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2rd6vOxRnBTXJP1qizJs7C) | 2:49 | 2023-12-07 | 2023-12-13 |
+| [Believer](https://open.spotify.com/track/0p5AeHVOl8nmEdyCbYkkH5) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2rd6vOxRnBTXJP1qizJs7C) | 2:49 | 2023-12-07 |  |
 | [Believer](https://open.spotify.com/track/4TJeTiTmNhzBBZeI4bSVTV) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N) | 2:49 | 2022-05-12 | 2022-07-27 |
 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 | 2022-07-21 | 2023-11-18 |
 | [BET ON ME](https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [Tell Your Story](https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1) | 2:08 | 2023-08-22 | 2023-10-04 |
@@ -90,7 +90,8 @@
 | [Crap! Crap! Crap!](https://open.spotify.com/track/0uVkElZjeS9ujWnMALt6T7) | [NUBO](https://open.spotify.com/artist/7slpt682HvHguesqFJjqit) | [Crap! Crap! Crap!](https://open.spotify.com/album/5Hlisacn7iiNRJmtsy422T) | 2:22 | 2022-05-12 | 2022-07-27 |
 | [crush the window](https://open.spotify.com/track/3Ui8Kf4tHf5FSSsJZUGb5b) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:51 | 2023-02-21 | 2023-04-12 |
 | [crush the window](https://open.spotify.com/track/7npOKzSob8mkasIzShy8ET) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:51 | 2023-02-21 | 2023-02-23 |
-| [CからはじまるABC](https://open.spotify.com/track/1f3WUGAATOOFtqfPL77Tif) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM), [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いまも忘れらんねえよ。 \(DISC 2\)](https://open.spotify.com/album/3SlDeg4ksz8Sf3fLNBitHy) | 2:27 | 2023-12-12 |  |
+| [CからはじまるABC](https://open.spotify.com/track/1Jk26lT8qgYtMzJvrAPZLe) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM), [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いまも忘れらんねえよ。](https://open.spotify.com/album/6c5bGsFefe56pQWvWCuvGZ) | 2:27 | 2023-12-12 |  |
+| [CからはじまるABC](https://open.spotify.com/track/1f3WUGAATOOFtqfPL77Tif) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM), [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いまも忘れらんねえよ。 \(DISC 2\)](https://open.spotify.com/album/3SlDeg4ksz8Sf3fLNBitHy) | 2:27 | 2023-12-12 | 2023-12-14 |
 | [Dance a Unza Unza in the USA](https://open.spotify.com/track/4PkIyF1gbbNaqzuhLECMiR) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [Dance a Unza Unza in the USA](https://open.spotify.com/album/4cVLGqkAp67Jb5CSBR5Spv) | 3:17 | 2023-05-02 | 2023-05-17 |
 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 | 2022-05-12 |  |
 | [DANCE LIKE NO TOMORROW](https://open.spotify.com/track/4Wd8YRc2wZbpKsmQogl63U) | [SECRET 7 LINE](https://open.spotify.com/artist/1UQk50lmTtdKtet6abI4vz) | [THE SOUND OF US](https://open.spotify.com/album/3F91Tn3AFDYB6A3wSZFppJ) | 3:04 | 2022-05-12 | 2022-07-29 |
@@ -500,7 +501,7 @@
 | [Yuriah](https://open.spotify.com/track/36wTuS95ghkdbMrEKNakE5) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [LAUGH AT LIFE](https://open.spotify.com/album/3Z3pABiK1AJkaVtaAV37P7) | 3:07 | 2022-05-12 | 2022-06-22 |
 | [Yusho \(ALBUM Mix\)](https://open.spotify.com/track/6YLg2Q6dHcHYNLeu4ZSObj) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:36 | 2023-03-28 |  |
 | [Zero](https://open.spotify.com/track/5styNIwvP009zHUCdIsZlo) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [Zero \- Single](https://open.spotify.com/album/0tyftZWAOYq3wh9bVrCR5J) | 4:11 | 2022-05-19 | 2022-07-11 |
-| [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 | 2022-07-21 |  |
+| [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 | 2022-07-21 | 2023-12-14 |
 | [ZINNIA](https://open.spotify.com/track/5NoGmXzuApY0bQXLZ9XOHm) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Oath and Night War](https://open.spotify.com/album/7dVt1eGWmxrAL3pg0IcdfC) | 3:02 | 2022-05-12 | 2022-07-24 |
 | [Z好調](https://open.spotify.com/track/4P21YYDymMRhUZlEANJo4Q) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Positive And Negative](https://open.spotify.com/album/1c6L8dn0s1409cRlFnK4UX) | 2:34 | 2022-05-12 | 2022-07-28 |
 | [あきらめのすべて](https://open.spotify.com/track/04Lcx7dahEb5a1xuxrDzqK) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [再定義 E.P](https://open.spotify.com/album/1h5iqlwdPOkj1pMyhvGpVe) | 0:48 | 2023-12-05 |  |

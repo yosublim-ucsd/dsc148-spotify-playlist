@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 284015,
+  "num_followers": 284221,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODcwMjk0NjFlMmViYTUyYzc1OTgzYWU1OGQyZjIxMDM1NzljZGU1",
+  "snapshot_id": "MCxjOTEzM2U3YTBlYjY4OWRlZWM2ODUzNDdmNTUxNmM4NTcwNjRjMzlh",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Death Of Death",
+        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Where The Spirit Of The Lord Is",
+      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "The Loft Sessions",
         "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 264680,
       "name": "Fall Afresh",
       "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Death Of Death",
-        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Where The Spirit Of The Lord Is",
-      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Touching Heaven (Live)",
         "url": "https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 360935,
       "name": "Breathe - Live",
       "url": "https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The Work, Vol. I",
-        "url": "https://open.spotify.com/album/0s2eJECLVrND9PFWeiAu6A"
-      },
-      "artists": [
-        {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        }
-      ],
-      "duration_ms": 311714,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/20GHzOIG9y0mn3yjwv9FT0"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Calm the Storm (Live)",
         "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 311406,
       "name": "Calm the Storm (Live)",
       "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Work, Vol. I",
+        "url": "https://open.spotify.com/album/0s2eJECLVrND9PFWeiAu6A"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        }
+      ],
+      "duration_ms": 311714,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/20GHzOIG9y0mn3yjwv9FT0"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 297320,
-      "name": "The Cause Of Christ",
-      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 547251,
       "name": "Rain Your Glory Down - Live",
       "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 297320,
+      "name": "The Cause Of Christ",
+      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Roar (Live From Passion 2020)",
-        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 345637,
-      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
-      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "The Songs We Sing",
         "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 288000,
       "name": "Unshakable",
       "url": "https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Roar (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 345637,
+      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
+      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
-        }
-      ],
-      "duration_ms": 209810,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Nobody Like You (Live)",
         "url": "https://open.spotify.com/album/5SX9vQtcGlUpyJkB3kwry1"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 442893,
       "name": "Nobody Like You (Live)",
       "url": "https://open.spotify.com/track/3g3OnglwSM3Rij5tIFA1LZ"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 209810,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "duration_ms": 232404,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Songs of the House (Live)",
         "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 312773,
       "name": "Liberator - Live",
       "url": "https://open.spotify.com/track/6AOHOfoyvCA0tTshLFhCFM"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
-      },
-      "artists": [
-        {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
-        }
-      ],
-      "duration_ms": 232404,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
     },
     {
       "added_at": "2020-06-26 04:02:00",

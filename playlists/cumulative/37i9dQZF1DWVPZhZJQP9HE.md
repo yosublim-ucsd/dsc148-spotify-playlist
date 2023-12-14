@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-471 songs - 1 day 3 hr 56 min
+472 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Podhum Anbe](https://open.spotify.com/track/202SIQxkYbWmtnawrrO5k6) | [Ram SK](https://open.spotify.com/artist/6YqlCTnPB1qNu3PlPSnHnq), [Akira Da Rapwolf](https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4) | [Podhum Anbe](https://open.spotify.com/album/0zmn9wKIAAwO832M9njSjj) | 3:22 | 2022-11-09 | 2022-11-22 |
 | [Podhum Podhum](https://open.spotify.com/track/4j9tfODoDROp4fWAe7a2R7) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Podhum Podhum](https://open.spotify.com/album/4dfDWrgqAyD9lCfU6xvJcX) | 2:20 | 2022-05-14 | 2022-07-28 |
 | [Poi](https://open.spotify.com/track/3svmW2GDrV5IO77FGyjPCz) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU), [Anjana Rajagopalan](https://open.spotify.com/artist/108rmJvAaYolTjeqDao0x4) | [Poi](https://open.spotify.com/album/7iD5iNc0s503kuTzyQDDhE) | 3:30 | 2023-11-06 |  |
+| [Poi Alternative](https://open.spotify.com/track/70yzpqshi0ZQqDFzdK5yzc) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb), [BIGSAM](https://open.spotify.com/artist/4DjnU0Is1P3CXnyew0mt3m) | [Poi Alternative](https://open.spotify.com/album/4xlpASEJ1p4tEG12KNd2YM) | 4:27 | 2023-12-13 |  |
 | [Poidhana](https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP) | 2:55 | 2023-11-14 |  |
 | [Polambal](https://open.spotify.com/track/4b50BdPjp56Ir3QNiXTn07) | [Prasanna](https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ), [Viwin Frencies](https://open.spotify.com/artist/47ZrxtQrnCIPnKvYxGNdtx) | [Polambal](https://open.spotify.com/album/6ZKzJclfFSBK6lyPoLbMqU) | 3:32 | 2023-03-16 | 2023-03-23 |
 | [Pona Poraley](https://open.spotify.com/track/1Wbsi01k4nMBSXddvS4QrR) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Pona Poraley](https://open.spotify.com/album/4R9zIFu9n4FGOMiueIwqQ0) | 3:29 | 2023-08-31 |  |

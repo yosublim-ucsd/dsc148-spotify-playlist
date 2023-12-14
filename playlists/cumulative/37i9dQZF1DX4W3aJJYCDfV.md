@@ -4,7 +4,7 @@
 
 > Brand new music from Tate McRae \(pictured\), Libianca, Fred again.\. and more!
 
-7,675 songs - 17 day 6 hr 58 min
+7,675 songs - 17 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2486,7 +2486,7 @@
 | [ghost \(feat\. HUMAN\)](https://open.spotify.com/track/1FBe5ufpstCna9qm0Y6q9U) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY) | [ghost \(feat\. HUMAN\)](https://open.spotify.com/album/3wIh99BbkbZ5DGOGxJ2bPR) | 3:56 | 2023-06-01 | 2023-06-09 |
 | [Ghost Girl](https://open.spotify.com/track/4SehLcYyqYHvCtKz4790bL) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [But I'm Alright Now](https://open.spotify.com/album/4hHwHrki63HVmGOD84d9hk) | 3:20 | 2023-11-24 | 2023-12-01 |
 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2022-12-09 | 2022-12-16 |
-| [Ghost Reality](https://open.spotify.com/track/2YbbW6h5sNSORzOHZFob1X) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Ghost Reality](https://open.spotify.com/album/7zm3OfFQ5pOn6mF3AACl8A) | 3:08 | 2023-12-08 |  |
+| [Ghost Reality](https://open.spotify.com/track/2YbbW6h5sNSORzOHZFob1X) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Ghost Reality](https://open.spotify.com/album/7zm3OfFQ5pOn6mF3AACl8A) | 2:24 | 2023-12-08 |  |
 | [Ghost Town](https://open.spotify.com/track/1N9Ovp3h6SYLvNbDHKcSDH) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Ghost Town](https://open.spotify.com/album/0w4sgZBTkihYfxTQltEVBZ) | 2:28 | 2023-10-12 | 2023-10-20 |
 | [ghost2](https://open.spotify.com/track/0DgyAyvFmYA232P4jWheGP) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4PiQXqTTVf4PYb0na1NqMh) | 3:18 | 2023-06-15 | 2023-06-23 |
 | [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 | 2023-08-10 | 2023-08-18 |

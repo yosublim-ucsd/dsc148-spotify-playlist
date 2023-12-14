@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,341 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,387 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 27 | [スペクテイター症候群](https://open.spotify.com/track/1D5a7qnulmG7C3D7aiAiko) | [浮足立](https://open.spotify.com/artist/3khRVJyfuSQWVudz1bzD3g) | [スペクテイター症候群](https://open.spotify.com/album/6mXU4s4aY3U1GdERWLHQi3) | 1:22 |
 | 28 | [Storyteller](https://open.spotify.com/track/0UIuUzxbCTgtZWuoGNvj8E) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [MAHOUWOKIKUHITO](https://open.spotify.com/album/3KKZLnZko1skljax0XDFVT) | 3:32 |
 | 29 | [yattyattawa](https://open.spotify.com/track/4yHNww1JcnVXjL4OxKwdyr) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [yattyattawa](https://open.spotify.com/album/0BQD8PXJk9cxt2Mzt20iSp) | 2:41 |
-| 30 | [KANPAI FUNK](https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [KANPAI FUNK](https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG) | 3:34 |
+| 30 | [KANPAI FUNK feat\. フレデリック](https://open.spotify.com/track/0BXAay4tSgBTR9nYEabTIQ) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [POP SOS](https://open.spotify.com/album/1ACDDPrYJOLfcNupnBz1CT) | 3:34 |
 | 31 | [ふわっと不安バルーン](https://open.spotify.com/track/4Pg07jeQSv0CzvH251V39l) | [をとは](https://open.spotify.com/artist/4vFZAUVnDZBvqR4mIJF26K) | [ふわっと不安バルーン](https://open.spotify.com/album/1oqJmyYh9XO50wVDxBFTgd) | 2:18 |
 | 32 | [しあわせになんてならないで \- feat\. ナナヲアカリ](https://open.spotify.com/track/72vmaNXLCBClVUTJVHERqr) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [しあわせになんてならないで \(feat\. ナナヲアカリ\)](https://open.spotify.com/album/4PBFe5tKjJdPQJbuZvnB83) | 3:33 |
 | 33 | [花言葉](https://open.spotify.com/track/0q1ScpYt0czxasJuw0GsSC) | [Amatsuki](https://open.spotify.com/artist/5WbJGPIGG5oCaVgMsfXZgu) | [花言葉](https://open.spotify.com/album/2qr8pltUPhaGQwYvfORaKj) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [Wakuseitsushin feat\. Mel](https://open.spotify.com/track/5sPyRxOdmBXoONmkIXAUkK) | [Has\-ki](https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [Wakuseitsushin feat\. Mel](https://open.spotify.com/album/1WqErc2gluGCawMMWoaGtf) | 4:16 |
 | 50 | [個性](https://open.spotify.com/track/56Fr4U5BImRoCe84QqCNJf) | [Awairo](https://open.spotify.com/artist/5zCXmpe2klqd9LXL9Q7gxa) | [個性](https://open.spotify.com/album/3ZCcLATYnK0XMLiZErvagX) | 3:16 |
 
-Snapshot ID: `MCwwMTdhNGM4MjNkNGVhYmM5YTgyNGMwN2UzYzIyZTlhMmUxMWIxYjRm`
+Snapshot ID: `MCxmYjNlOThmZDA5YjFhZDgyOWNmNzhhYzcxYzg3MGNjMDdlNzdmOGU4`

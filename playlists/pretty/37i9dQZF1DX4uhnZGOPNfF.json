@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2003. Photo : Eminem",
-  "num_followers": 15545,
+  "num_followers": 15554,
   "original_name": "Top Hits France 2003",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGI3Yzk0MTY5ZDk3YjJiYjY2ZWNiMWQ0MTY3MDdiMmE2MDFmOTkw",
+  "snapshot_id": "MCxlZmI3MmIzNTk2MWJlZWE3NDhjOGI2OWRhZTgzYmQ4NzJlMDM1Mzdm",
   "tracks": [
     {
       "added_at": "2022-02-01 21:20:54",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 223773,
-      "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
-      "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 255266,
       "name": "Can't Hold Us Down (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 223773,
+      "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
+      "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
     },
     {
       "added_at": "2022-02-01 21:20:54",

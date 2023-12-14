@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25308,
+  "num_followers": 25321,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTE3NzMxYWZjN2YyYzRiZmY2NzJiNTZiNDI4YTk5MTZiMjcxY2Ex",
+  "snapshot_id": "MCwyOWJkOTk0ZmE4YTFmNzk0OTdlZGU3YTY3NTgwZmEzOGI1MjRlZjhj",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Negra Monamour",
-      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Hotel Boston",
         "url": "https://open.spotify.com/album/2RwlECSGovyxM2hKHuIzeS"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Croupier Funk",
-        "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
       },
       "artists": [
         {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Fornicazzione",
-      "url": "https://open.spotify.com/track/3TsyBes13Sv5NSHT731ERU"
+      "duration_ms": 212866,
+      "name": "Negra Monamour",
+      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -635,6 +619,22 @@
       "duration_ms": 286440,
       "name": "Pick Up On Your Line",
       "url": "https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Croupier Funk",
+        "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
+      },
+      "artists": [
+        {
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Fornicazzione",
+      "url": "https://open.spotify.com/track/3TsyBes13Sv5NSHT731ERU"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
-      },
-      "artists": [
-        {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
-        }
-      ],
-      "duration_ms": 445089,
-      "name": "Ameba",
-      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 267705,
       "name": "Sinestesia",
       "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Groovin' Bohemia",
+        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
+      },
+      "artists": [
+        {
+          "name": "Groovin' Bohemia",
+          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
+        }
+      ],
+      "duration_ms": 445089,
+      "name": "Ameba",
+      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Croupier Funk",
-        "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
       "artists": [
         {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 296542,
-      "name": "Recipe",
-      "url": "https://open.spotify.com/track/1Sdz6Kvfs1bYTK0kLRuUSz"
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -963,34 +963,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+        "name": "Croupier Funk",
+        "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
       },
       "artists": [
         {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
         }
       ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Tony 70",
-        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
-      },
-      "artists": [
-        {
-          "name": "Tony 70",
-          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Simon Freak",
-      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
+      "duration_ms": 296542,
+      "name": "Recipe",
+      "url": "https://open.spotify.com/track/1Sdz6Kvfs1bYTK0kLRuUSz"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1011,6 +995,38 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Tony 70",
+        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
+      },
+      "artists": [
+        {
+          "name": "Tony 70",
+          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Simon Freak",
+      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Aeronave",
-        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
-      },
-      "artists": [
-        {
-          "name": "Aeronave",
-          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "Aeronave",
-      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Peluche Peligroso",
         "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Aeronave",
+        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
+      },
+      "artists": [
+        {
+          "name": "Aeronave",
+          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "Aeronave",
+      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/12D6I9cf0ThU8AO9jf3LfX"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 183312,
       "name": "Nocaut",
       "url": "https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Ya Lo Estoy Deseando",
         "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 202591,
       "name": "C\u00f3mo",
       "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "7 Am",
         "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 239387,
       "name": "7 Am",
       "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Twice",
         "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 216249,
       "name": "Twice",
       "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     }
   ],
   "unique_name": "Nota Funk",

@@ -7623,6 +7623,24 @@
     },
     {
       "album": {
+        "name": "Aprende y Canta",
+        "url": "https://open.spotify.com/album/1cm0a60CAWpC0ssjHZzo61"
+      },
+      "artists": [
+        {
+          "name": "Ara la Princesa de los Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/5P8rgc8LFy6BM06TWhmyM0"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Dubidubidu",
+      "url": "https://open.spotify.com/track/0wF1DTkX71e0OL9t1zomSp"
+    },
+    {
+      "album": {
         "name": "MATERIA (PELLE)",
         "url": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG"
       },
@@ -8452,7 +8470,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 134471,
       "name": "ext\u00e1za",
       "url": "https://open.spotify.com/track/2zyacxcXuRUQ1owGDo2JnQ"
@@ -11470,7 +11488,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 158181,
       "name": "HipHop",
       "url": "https://open.spotify.com/track/4TGJgb17vO6UlgUGYakirQ"
@@ -17608,7 +17626,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 274082,
       "name": "Mlad\u00fd Ale Pln\u00fd",
       "url": "https://open.spotify.com/track/5L6cPedOWiH3EnkwbdKBlc"
@@ -23536,7 +23554,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
@@ -29446,7 +29464,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 210533,
       "name": "T\u00e1rgyal\u00e1s A N\u0151k Vez\u00e9rigazgat\u00f3j\u00e1val",
       "url": "https://open.spotify.com/track/616njAaXFdHu5rs3FbjyUw"

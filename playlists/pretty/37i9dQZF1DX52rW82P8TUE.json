@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 63777,
+  "num_followers": 63806,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDUzOTZlOTIyMDc5MmFmYzMyOTZkNjVjOGE3MzY3ZGU1NDc2NjAw",
+  "snapshot_id": "MCwyNTlkN2U5MmM5NDQ4NzIxMDE5MTUyNDBhMDZlYTY3ZDBhNmVjNWIy",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Mara Lima e Seus Amiguinhos, Vol. 6",
-        "url": "https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn"
-      },
-      "artists": [
-        {
-          "name": "Mara Lima",
-          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
-        }
-      ],
-      "duration_ms": 203885,
-      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Eu Canto pra Jesus",
         "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 181458,
       "name": "Eu Canto pra Jesus",
       "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Mara Lima e Seus Amiguinhos, Vol. 6",
+        "url": "https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn"
+      },
+      "artists": [
+        {
+          "name": "Mara Lima",
+          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
+        }
+      ],
+      "duration_ms": 203885,
+      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Cristo Fez os Peixes",
+        "url": "https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 112840,
+      "name": "Cristo Fez os Peixes",
+      "url": "https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Arautos do Rei pra Baixinhos e Grand\u00f5es",
         "url": "https://open.spotify.com/album/6hQ1VdOFsnwERYnnBuxsFK"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 234720,
       "name": "A Hist\u00f3ria dos Animais",
       "url": "https://open.spotify.com/track/54p1PR4nMkq495gv1LIQxO"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Cristo Fez os Peixes",
-        "url": "https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 112840,
-      "name": "Cristo Fez os Peixes",
-      "url": "https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Tic Tac",
-        "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
-      },
-      "artists": [
-        {
-          "name": "Talitha Franco",
-          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 188061,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Alegria do Senhor (feat. Smiling\u00fcido)",
         "url": "https://open.spotify.com/album/2DvpowMnSsDrZYdBaNivPI"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 171758,
       "name": "Alegria do Senhor (feat. Smiling\u00fcido)",
       "url": "https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
+      },
+      "artists": [
+        {
+          "name": "Talitha Franco",
+          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 188061,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
     },
     {
       "added_at": "2023-10-20 03:00:00",

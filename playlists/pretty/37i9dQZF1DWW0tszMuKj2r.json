@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ca\u00f1onazos salseros para persignar la pista de baile!",
-  "num_followers": 51425,
+  "num_followers": 51475,
   "original_name": "Salsa Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDAwNmU2MTE4MjFlYmRkYTgyMmM5OGFkZjhlNWNhZGVjMGY4ZTFi",
+  "snapshot_id": "MCwxY2Y1MjdiYTU1MGJlYmNiYzBlODAzNjA4NWVkZTYyZWU4MTEwMTNi",
   "tracks": [
     {
       "added_at": "2022-12-30 20:26:55",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Expresion",
         "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 290413,
       "name": "Que Alguien Me Diga",
       "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
+        "name": "Luchar\u00e9",
+        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
       },
       "artists": [
         {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
         }
       ],
-      "duration_ms": 321200,
-      "name": "Casi Te Envidio",
-      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
+      "duration_ms": 295626,
+      "name": "A Pesar del Tiempo",
+      "url": "https://open.spotify.com/track/1UAnqYmOWtyVXNOA8cPQ8r"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Luchar\u00e9",
-        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
       "artists": [
         {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 295626,
-      "name": "A Pesar del Tiempo",
-      "url": "https://open.spotify.com/track/1UAnqYmOWtyVXNOA8cPQ8r"
+      "duration_ms": 321200,
+      "name": "Casi Te Envidio",
+      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "Victor Manuelle (3 CD Box Set)",
+        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/3Aw66bt9BL2sjqxhFRpyDy"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Victor Manuelle (3 CD Box Set)",
-        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/3Aw66bt9BL2sjqxhFRpyDy"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Recogiendo Frutos",
-        "url": "https://open.spotify.com/album/5GzoEi3bJsLWwLvEpK4fxm"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 296573,
-      "name": "Amor De Papel",
-      "url": "https://open.spotify.com/track/2ccabU9T3oFwcM0NnBXxpf"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
         "url": "https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 261484,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Recogiendo Frutos",
+        "url": "https://open.spotify.com/album/5GzoEi3bJsLWwLvEpK4fxm"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 296573,
+      "name": "Amor De Papel",
+      "url": "https://open.spotify.com/track/2ccabU9T3oFwcM0NnBXxpf"
     },
     {
       "added_at": "2022-12-30 20:26:55",

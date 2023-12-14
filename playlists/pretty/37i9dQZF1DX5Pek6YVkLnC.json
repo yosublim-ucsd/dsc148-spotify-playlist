@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: paopao",
-  "num_followers": 230472,
+  "num_followers": 230467,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTMxNGE0NWRjM2Y4ZDlkMWE4YjU1YzVmODY2N2ZmNDdjNmIxY2U3",
+  "snapshot_id": "MCxjMmEyZGE4ZTg5MmRjMmUwZmE2ODUxNTI3N2RjODJlM2NkMDI3ZGY3",
   "tracks": [
     {
       "added_at": "2023-12-08 18:45:03",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-12-08 18:45:03",
       "album": {
-        "name": "OTRA VIDA",
-        "url": "https://open.spotify.com/album/3Ux5e7wmBayckov4KDDHoo"
-      },
-      "artists": [
-        {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        }
-      ],
-      "duration_ms": 127659,
-      "name": "Ella Mata",
-      "url": "https://open.spotify.com/track/7JqgPZVfpwFVPDhb4mSjOJ"
-    },
-    {
-      "added_at": "2023-12-08 18:45:03",
-      "album": {
         "name": "TOKO",
         "url": "https://open.spotify.com/album/0IKs9DTpEL26R4G8h0fW5z"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2023-12-08 18:45:03",
       "album": {
-        "name": "La Sirena",
-        "url": "https://open.spotify.com/album/5b3qjCPxIH7zODVSZh0cDY"
+        "name": "OTRA VIDA",
+        "url": "https://open.spotify.com/album/3Ux5e7wmBayckov4KDDHoo"
       },
       "artists": [
         {
-          "name": "Enyel C",
-          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
         }
       ],
-      "duration_ms": 160500,
-      "name": "La Sirena",
-      "url": "https://open.spotify.com/track/3k9pXcPXjn49Zmaun0j5mA"
+      "duration_ms": 127659,
+      "name": "Ella Mata",
+      "url": "https://open.spotify.com/track/7JqgPZVfpwFVPDhb4mSjOJ"
     },
     {
       "added_at": "2023-12-08 18:45:03",
@@ -907,6 +891,22 @@
       "duration_ms": 163663,
       "name": "Hablando Para No Olvidarnos",
       "url": "https://open.spotify.com/track/2dnAMzrmzJUqiAL7CDG1OJ"
+    },
+    {
+      "added_at": "2023-12-08 18:45:03",
+      "album": {
+        "name": "La Sirena",
+        "url": "https://open.spotify.com/album/5b3qjCPxIH7zODVSZh0cDY"
+      },
+      "artists": [
+        {
+          "name": "Enyel C",
+          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "La Sirena",
+      "url": "https://open.spotify.com/track/3k9pXcPXjn49Zmaun0j5mA"
     },
     {
       "added_at": "2023-12-08 18:45:03",

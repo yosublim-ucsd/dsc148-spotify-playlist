@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Simple Plan au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,302 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,313 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [Tamagotchi](https://open.spotify.com/track/5tY2w7GAcE6vhSAKHaigSk) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Tamagotchi](https://open.spotify.com/album/5LfIrn2CRhwWfIJ9bCttaz) | 3:34 |
 | 50 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 |
 
-Snapshot ID: `MCwxMTQ4Y2FlZDMzMmI0ZmE3MjlhYTRiNTlkYzFhNTU0Mjg5ZDgwMjQw`
+Snapshot ID: `MCw1YWZlZWY4MjhkZDVlNDQyOWZiMjJkMmU4NzAzM2M3MjZlNzNkY2Zj`

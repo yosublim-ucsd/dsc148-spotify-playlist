@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-140 songs - 9 hr 16 min
+142 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Fly Life Xtra](https://open.spotify.com/track/1JqUH3Nm8P5V3HffwMNmIb) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Fly Life Xtra](https://open.spotify.com/album/1FITsnYE7JYQkwFe54sGym) | 9:19 | 2021-11-19 | 2022-07-29 |
 | [Fly Life Xtra](https://open.spotify.com/track/1Udv3FO6un09qd9Tn9VCat) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Fly Life Xtra](https://open.spotify.com/album/1tk1YlhcVEp7Dms7bakfyU) | 9:19 | 2023-07-14 |  |
 | [Fly Life Xtra](https://open.spotify.com/track/7bxfgaNE1SbkLvzWr0S9Ku) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Fly Life Xtra](https://open.spotify.com/album/5UDpaxBq7aNAzCH6VKnJMf) | 9:19 | 2022-07-01 | 2023-11-05 |
-| [Footsteps](https://open.spotify.com/track/6jiI9bmZpG0ffzscf5Njxw) | [PENNYWILD](https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8) | [Footsteps](https://open.spotify.com/album/5CQtgCXi02cjPp98wCSLMF) | 3:31 | 2021-11-19 |  |
+| [Footsteps](https://open.spotify.com/track/2E04tX5yq1XKmpHiUF8NVR) | [PENNYWILD](https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8) | [Footsteps](https://open.spotify.com/album/5qJpQ9MndK0HFJG4KMoujl) | 3:31 | 2023-07-14 |  |
+| [Footsteps](https://open.spotify.com/track/6jiI9bmZpG0ffzscf5Njxw) | [PENNYWILD](https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8) | [Footsteps](https://open.spotify.com/album/5CQtgCXi02cjPp98wCSLMF) | 3:31 | 2021-11-19 | 2023-12-14 |
 | [G.O.A.T](https://open.spotify.com/track/4AvD91GmVkVyDY6Q5Gdoan) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle) | [G.O.A.T](https://open.spotify.com/album/4oVlzKpW3Sc17Jptq6PVb5) | 3:19 | 2022-03-04 |  |
 | [Gemstone \(feat\. Jack Mizrahi & Vjuan Allure\)](https://open.spotify.com/track/4C2BXCCYIbkwdcGVd78jPu) | [Cherie Lily](https://open.spotify.com/artist/62EtucF20PtIgqzJJzE6Dm), [Jack Mizrahi](https://open.spotify.com/artist/3yr44etlSPcdruXQYfhGGi), [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Gemstone \(feat\. Jack Mizrahi & Vjuan Allure\)](https://open.spotify.com/album/6NvKS9Ff7V9OgCox9LUZ9v) | 4:16 | 2021-11-19 |  |
 | [GENRE BACKLASH](https://open.spotify.com/track/1Qpk1ncvQ41hRa1U4cem3F) | [Boody](https://open.spotify.com/artist/64yfjhFPMATyVqtB7knCCH) | [Flatbush](https://open.spotify.com/album/1yZWmKDL12wyYpUQroX0KR) | 2:36 | 2021-11-19 |  |
@@ -137,7 +138,8 @@
 | [Wig](https://open.spotify.com/track/0yj26qPypXRRG3QEfzcZT2) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5flGecLa0gsN4RSOA2YIyn) | 3:40 | 2022-07-01 | 2023-02-15 |
 | [Wig](https://open.spotify.com/track/40n4caMKy5TSzxKtKOeKRp) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/16oQd9JhXxh1swlhdFzedL) | 3:40 | 2021-11-19 | 2022-07-29 |
 | [Wig](https://open.spotify.com/track/4HuRHiYqoQTsxqiAGbJNdI) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5W5ECnqLf2p45cIojnvVmC) | 3:40 | 2023-01-27 |  |
-| [Witch Doktor](https://open.spotify.com/track/3RsGqdtkBVxk8mWoERAIp1) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Rhythm The Definitive 30](https://open.spotify.com/album/5sGoSZWP5ZPArN6tSvpN8s) | 6:46 | 2023-07-14 |  |
+| [Witch Doktor](https://open.spotify.com/track/1z8cY06EB1MQmKMny2zTSf) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Armand Van Helden](https://open.spotify.com/album/52xHlWtXJ8jhIhDaJMFnhp) | 6:46 | 2023-07-14 |  |
+| [Witch Doktor](https://open.spotify.com/track/3RsGqdtkBVxk8mWoERAIp1) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Rhythm The Definitive 30](https://open.spotify.com/album/5sGoSZWP5ZPArN6tSvpN8s) | 6:46 | 2023-07-14 | 2023-12-14 |
 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 | 2021-11-19 | 2023-11-04 |
 | [Work](https://open.spotify.com/track/3WXUvkBTSkZfMIsp8dKzvy) | [A.](https://open.spotify.com/artist/5Oi5eqLshqruHdSmWvJPdF), [Dr\. Bass & the Experiment](https://open.spotify.com/artist/1xKoV5VuDzJRiLnXBa1eNw) | [Work](https://open.spotify.com/album/4FiqaznOQwBo6C7oAA8oNH) | 2:10 | 2021-11-19 |  |
 | [Work Me Goddamit '96](https://open.spotify.com/track/5Nku82Esm5dmUVMSOBEU3p) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Old Skool Junkies](https://open.spotify.com/artist/3eKGOpNDud6NlcxJgHKn4w) | [Old Skool Junkies](https://open.spotify.com/album/5EKuhX3T8zd0XsGkOsv378) | 5:39 | 2021-11-19 |  |

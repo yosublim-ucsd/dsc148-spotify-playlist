@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 66429,
+  "num_followers": 66436,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTg1MDU4NDIwZDAxZTZkMmI3YTk1ZWYyM2E5MGMzZjMxYWQ0ZDAx",
+  "snapshot_id": "MCwyZmNjNTgzODVmODRhNjllM2EwZDUzYzdhZjgzMmVmYmI5ZjhmMDU4",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -607,18 +607,26 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "El Consejo a Las Mujeres",
-        "url": "https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7"
+        "name": "Merengues Con el Alma",
+        "url": "https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f"
       },
       "artists": [
         {
-          "name": "Blas Duran & Los Peluches",
-          "url": "https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG"
+          "name": "Trio Reynoso",
+          "url": "https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q"
+        },
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        },
+        {
+          "name": "Miguel Santana",
+          "url": "https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ"
         }
       ],
-      "duration_ms": 213880,
-      "name": "Consejo a las Mujeres",
-      "url": "https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK"
+      "duration_ms": 151044,
+      "name": "Juanita Morel",
+      "url": "https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -687,26 +695,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Merengues Con el Alma",
-        "url": "https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f"
+        "name": "El Consejo a Las Mujeres",
+        "url": "https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7"
       },
       "artists": [
         {
-          "name": "Trio Reynoso",
-          "url": "https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q"
-        },
-        {
-          "name": "Johnny Ventura",
-          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
-        },
-        {
-          "name": "Miguel Santana",
-          "url": "https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ"
+          "name": "Blas Duran & Los Peluches",
+          "url": "https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG"
         }
       ],
-      "duration_ms": 151044,
-      "name": "Juanita Morel",
-      "url": "https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH"
+      "duration_ms": 213880,
+      "name": "Consejo a las Mujeres",
+      "url": "https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -811,6 +811,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "Los Grandes Del Merengue Tipico",
+        "url": "https://open.spotify.com/album/531oJdo6tJRay6eLKnHYge"
+      },
+      "artists": [
+        {
+          "name": "Maria Diaz",
+          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Cumande",
+      "url": "https://open.spotify.com/track/1bB1je89BTNN49hWBIUVAe"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "\"El Cacique\" - Todo Exitos",
         "url": "https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 268373,
       "name": "Por Esa Mujer",
       "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Merengue Ripiao",
-        "url": "https://open.spotify.com/album/41PB3gTDba1WRp3uk883Pv"
-      },
-      "artists": [
-        {
-          "name": "Luis Lopez",
-          "url": "https://open.spotify.com/artist/0nGQsBXeeBAIFd9l9JmTur"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "La Voy a Olvidar",
-      "url": "https://open.spotify.com/track/5UoyQxmS6DSiUGBHNXwniK"
     }
   ],
   "unique_name": "Merengue T\u00edpico",

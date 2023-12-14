@@ -3142,10 +3142,32 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 214133,
       "name": "KANPAI FUNK",
       "url": "https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo"
+    },
+    {
+      "album": {
+        "name": "POP SOS",
+        "url": "https://open.spotify.com/album/1ACDDPrYJOLfcNupnBz1CT"
+      },
+      "artists": [
+        {
+          "name": "meiyo",
+          "url": "https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9"
+        },
+        {
+          "name": "frederic",
+          "url": "https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "KANPAI FUNK feat. \u30d5\u30ec\u30c7\u30ea\u30c3\u30af",
+      "url": "https://open.spotify.com/track/0BXAay4tSgBTR9nYEabTIQ"
     },
     {
       "album": {

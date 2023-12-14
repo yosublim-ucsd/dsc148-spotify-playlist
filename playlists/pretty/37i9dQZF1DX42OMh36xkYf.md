@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Adrian Bello en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,598 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,601 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 6 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 |
 | 7 | [La Catalana](https://open.spotify.com/track/6lgcR5isFaGD5XnRsogEWm) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9) | [La Catalana](https://open.spotify.com/album/5UtScnT5cdTaoBzURObazB) | 2:50 |
 | 8 | [Algo Más](https://open.spotify.com/track/7CjfzkUKIbNrPD6ztRI8xO) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Cheo](https://open.spotify.com/artist/7KoRkLCpcB7svD45xGxEfU) | [Algo Más](https://open.spotify.com/album/0s7AksApzZ6ann92uaNvJ3) | 3:27 |
-| 9 | [BEiBi](https://open.spotify.com/track/53x7QqqdDnL50WZMtKixcu) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [BEiBi](https://open.spotify.com/album/56sYshMsnqKPpb3QIkth1v) | 4:00 |
+| 9 | [BEiBi](https://open.spotify.com/track/7CjOFCRm35lPWK8XoKtO0o) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 4:00 |
 | 10 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 |
 | 11 | [Película De Adolescentes](https://open.spotify.com/track/3bCJWrkcmgjcvyXvjHxTlK) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Película De Adolescentes](https://open.spotify.com/album/7DjwtIgVbzZztvayuTWmhF) | 2:48 |
 | 12 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 |
 | 50 | [Red Hot Chile Papers](https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Don Cupón](https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1) | [Red Hot Chile Papers](https://open.spotify.com/album/6l1q4am1kKUk0AihwVDKca) | 4:46 |
 
-Snapshot ID: `MCwxNWQyYmIxYjEyZDI0ZDdiMzRkYzFmOWNkODNiZTNlMzE3ZDM3OWI0`
+Snapshot ID: `MCw2YWI0OTk1MTY0ZjRkYmE1OTVmOWMwYzRjYmM3NWExZTIxNzczZDM0`

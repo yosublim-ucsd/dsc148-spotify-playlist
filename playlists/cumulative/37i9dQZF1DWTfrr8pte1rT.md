@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Sullivan King \\m/
 
-348 songs - 19 hr 53 min
+349 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [LOVE ME HATE ME \- VIP](https://open.spotify.com/track/3vM9GmGlJxPnFTPuBffPOD) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [NEW BREED \(DELUXE VIP\)](https://open.spotify.com/album/0RTU6XjmR2EBcY8rJwUgs9) | 3:18 | 2023-01-13 | 2023-04-21 |
 | [Love Song](https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [Love Song](https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU) | 2:56 | 2023-04-14 | 2023-08-19 |
 | [Love You For All Time](https://open.spotify.com/track/3Lu1fijr9XkO4eSfhya2cG) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Love You For All Time](https://open.spotify.com/album/0nQSAZ1UORnjj5L3SVkCkm) | 2:37 | 2022-04-01 | 2022-11-12 |
-| [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2021-12-10 |  |
+| [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2021-12-10 | 2023-12-14 |
 | [LOWLIFE \(feat\. Sebotage\)](https://open.spotify.com/track/0q5ZPJJ2cm6Her2jhg9MUW) | [Toronto Is Broken](https://open.spotify.com/artist/3DaX9l3f0lsiPjgyJ454wI), [Lateral](https://open.spotify.com/artist/6EsYSMHy341qHnRMUW4GGR), [Sebotage](https://open.spotify.com/artist/6wGjRjiTXERLfPwoMY19iP) | [TORONTOISBROKEN](https://open.spotify.com/album/1hyKPZDl2Z7Ekye1HLdMzQ) | 2:57 | 2023-12-01 |  |
 | [Mad Love](https://open.spotify.com/track/0J2EcQZQUsmUzO5YFXz7PS) | [Big X](https://open.spotify.com/artist/0OCVpOnm94jD2iVVeefUeu), [Eko Zu](https://open.spotify.com/artist/3UTpx1qth1EZxywRjGywLQ) | [Mad Love](https://open.spotify.com/album/0JP9RVQrQJ4Da54nfOJWJs) | 2:28 | 2022-06-24 | 2022-12-30 |
 | [Mad Love](https://open.spotify.com/track/4zm4IBGGTHZZK9jrkcPjyA) | [Big X](https://open.spotify.com/artist/0OCVpOnm94jD2iVVeefUeu), [Eko Zu](https://open.spotify.com/artist/3UTpx1qth1EZxywRjGywLQ) | [Mad Love](https://open.spotify.com/album/7twv8S0XYKtUEIp2DAQYNw) | 2:28 | 2021-12-10 | 2022-07-29 |
@@ -268,6 +268,7 @@
 | [Rise Up](https://open.spotify.com/track/11s8gbi7pqmvuREruilbJP) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [IV](https://open.spotify.com/album/6osgmserT0Gtg7VjkoVxEQ) | 3:01 | 2021-12-10 | 2022-06-23 |
 | [Ritual](https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Ritual](https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq) | 4:06 | 2021-12-10 |  |
 | [Runaway](https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Runaway](https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X) | 3:16 | 2021-12-10 | 2023-11-05 |
+| [Runaway](https://open.spotify.com/track/79xFgpCUqxYSQJcJBXFWSd) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Runaway](https://open.spotify.com/album/4z3ceRR57zSeebnwkZaH7o) | 3:16 | 2023-12-08 |  |
 | [Sacrifice \- Ray Volpe Remix](https://open.spotify.com/track/0Hi0rfeMiMvYdwXYMeML9t) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Color Decay \(Deluxe\)](https://open.spotify.com/album/4ivtHYEdInBvOFptjVmEYf) | 4:06 | 2023-05-05 | 2023-06-15 |
 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 | 2021-12-10 |  |
 | [Satellite](https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Satellite](https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq) | 3:46 | 2022-07-22 | 2022-11-17 |

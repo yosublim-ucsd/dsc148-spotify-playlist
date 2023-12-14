@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 115079,
+  "num_followers": 115136,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTg4MzAwM2FkZDE5Y2Y3NTkyZjg1OWYzMDAxYzA4MTQ1MzhiM2I4",
+  "snapshot_id": "MCwwOTVmYWUzYTFiNTMxZmJiMzQ1ZDJmOWNhMDBiMTU5NWY1MDU1OGE5",
   "tracks": [
     {
       "added_at": "2023-02-17 21:03:29",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
-        "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
       },
       "artists": [
         {
-          "name": "Lisa Lisa & Cult Jam",
-          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
-        },
-        {
-          "name": "Full Force",
-          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 404213,
-      "name": "I Wonder If I Take You Home",
-      "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
+      "duration_ms": 239373,
+      "name": "Ay Que Pesado",
+      "url": "https://open.spotify.com/track/70JuT3NRucLbbJVG1vlDMW"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -659,18 +655,22 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+        "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
+        "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Lisa Lisa & Cult Jam",
+          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+          "name": "Full Force",
+          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
         }
       ],
-      "duration_ms": 239373,
-      "name": "Ay Que Pesado",
-      "url": "https://open.spotify.com/track/70JuT3NRucLbbJVG1vlDMW"
+      "duration_ms": 404213,
+      "name": "I Wonder If I Take You Home",
+      "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
     },
     {
       "added_at": "2023-02-17 21:03:29",

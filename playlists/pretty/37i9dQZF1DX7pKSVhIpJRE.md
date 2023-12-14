@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,799 likes - 140 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,913 likes - 140 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 15 | [Boogie Woogie Bugle Boy \(of Company B\)](https://open.spotify.com/track/73NWSwrKDL3pGUWzwdjV8Q) | [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Betcha Bottom Dollar](https://open.spotify.com/album/65z9VqEknvKZB1XXDzfQYJ) | 2:27 |
 | 16 | [Dies irae](https://open.spotify.com/track/0KU8CtPIRibiW5CLUbetNH) | [Zbigniew Preisner](https://open.spotify.com/artist/3gGbSXSwHWmrUBIG9IUAau) | [Requiem for My Friend](https://open.spotify.com/album/4EAVyY8jI5sqLWuWS7RY7V) | 4:51 |
 | 17 | [Begin the Beguine](https://open.spotify.com/track/6A0XYRVq2qhCm8yuETUzdm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/2A3nXj08Js61tgGduWopiM) | 4:12 |
-| 18 | [Man of Mystery](https://open.spotify.com/track/0UpLTU3sfZY4nCgSLTLvTv) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Shadows in the 60s](https://open.spotify.com/album/53YDjcn6gQGYoMJcQ1rRmd) | 2:01 |
+| 18 | [Man of Mystery](https://open.spotify.com/track/0UpLTU3sfZY4nCgSLTLvTv) | [The Shadows](https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC) | [The Shadows in the 60s](https://open.spotify.com/album/53YDjcn6gQGYoMJcQ1rRmd) | 2:01 |
 | 19 | [From A Jack To A King](https://open.spotify.com/track/4tD3blwPwkQ52MPHd5UxrH) | [Ned Miller](https://open.spotify.com/artist/59zvXMeM3koefoJWQhBki6) | [Reflections](https://open.spotify.com/album/2LuJqnAsotN13yGlRGmnHs) | 2:08 |
 | 20 | [Got Love If You Want It](https://open.spotify.com/track/1eAC3UVDEUGx27mg5MrW1W) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 3:46 |
 | 21 | [Just One Of Those Things](https://open.spotify.com/track/4fngCznJ30b9JeNB9PxajH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 3:13 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 139 | [Carriages](https://open.spotify.com/track/3QmdB7goLEDcCGxgm2BiBw) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:19 |
 | 140 | [Voices \(Remix\)](https://open.spotify.com/track/07T3aaNoPhZ386LHur9kia) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:48 |
 
-Snapshot ID: `MCwzZGI5YWVkMTdhNTY2MGI1NmM4ZThiZGRkMmEwYjJmNjljOTRjNGE0`
+Snapshot ID: `MCw0OWFlYzJhOGYwMjc4M2FlY2MwNmZkYTlhMmMzNzE2ZGJlZTI2NTRj`

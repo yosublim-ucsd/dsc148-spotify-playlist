@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,587 songs - 3 day 18 hr 34 min
+1,588 songs - 3 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Give It To Me](https://open.spotify.com/track/7F9MOGnOYLnc1oVKtTwUDZ) | [Luigi Sestan](https://open.spotify.com/artist/2sbn0bsxZWFmn0oLGyvQmq) | [Give It To Me](https://open.spotify.com/album/5ol8zJUZtmGGdEkLBxobeN) | 3:04 | 2023-11-27 | 2023-12-09 |
 | [Give Me](https://open.spotify.com/track/3hExDSZtj3jnfu8Xe825Mz) | [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr) | [Give Me](https://open.spotify.com/album/4YeCe0lyVTDwoBj5W9RvuI) | 2:35 | 2022-12-16 | 2023-01-07 |
 | [Give Me Love](https://open.spotify.com/track/553t424tQXyNUR0upGypCN) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Jaxx Inc.](https://open.spotify.com/artist/24GbqXC3O6yyfHbEhRdepf) | [Give Me Love](https://open.spotify.com/album/44kK4Bu1eFGWV1ixDMp5uz) | 2:49 | 2023-04-14 | 2023-04-22 |
+| [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 | 2023-12-13 |  |
 | [Glitch](https://open.spotify.com/track/0sTov9ww1527jTeEVMqnkH) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Glitch](https://open.spotify.com/album/2qe8Xkm0zesMie1YnIshzD) | 2:18 | 2023-05-12 | 2023-05-20 |
 | [Glory](https://open.spotify.com/track/0E2Zruo7UTpSvk4UTqxJLN) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [Glory](https://open.spotify.com/album/0dcvWd9WVmchT4cHyBhkRd) | 3:39 | 2023-10-13 | 2023-10-28 |
 | [Goin](https://open.spotify.com/track/0aTEPIRV4B5iOrylV8FFcH) | [ToMix](https://open.spotify.com/artist/2huaButoWP7CiTeaYzKgIR) | [Goin](https://open.spotify.com/album/4AOSGqUXGexegI7tjWymO5) | 2:45 | 2022-06-03 | 2022-06-11 |

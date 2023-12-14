@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Alcolirykos en portada.
+> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Alcolirykoz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,814 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,935 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 | 100 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
 
-Snapshot ID: `MCxkMGE4ZGE2OTg2OWQ4NTcyZjMzMTViZWRlN2Q1NDEyYmExYzJkMTAz`
+Snapshot ID: `MCwwMDE3ZTg1YmJkZGUwMGJlNzM0YjY0ZmI2ZjQ5M2ViYzczNTE1YmMw`

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-123 songs - 7 hr 43 min
+126 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2023-12-04 |  |
 | [Bersamamu](https://open.spotify.com/track/1FVZrAZ6kLrgnaRB9pzYMD) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [Vorfreude](https://open.spotify.com/album/754tHb1pF9v02tc8MQZRzU) | 4:05 | 2022-12-13 | 2023-03-31 |
 | [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 |  |
-| [BESTFRiEND](https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BESTFRiEND](https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2) | 3:25 | 2023-09-20 |  |
+| [BESTFRiEND](https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BESTFRiEND](https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2) | 3:25 | 2023-09-20 | 2023-12-14 |
+| [BESTFRiEND \(feat\. Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\)](https://open.spotify.com/track/3EkueWJSbk5wXE3YCtXf0N) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd), [Rizal Rasid](https://open.spotify.com/artist/0N5dq4m7PRgUGNGdOtuGh8) | [BESTFRiEND \(feat\. Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\)](https://open.spotify.com/album/1hfDOYGLqeCHH3VdQbCOwp) | 3:49 | 2023-12-13 |  |
 | [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 | 2023-05-18 |  |
 | [Breakfast in Bed](https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Breakfast in Bed](https://open.spotify.com/album/24aSDb1blluKkN02Wy4Tl4) | 2:43 | 2022-12-13 | 2023-10-20 |
 | [Buktikan](https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Buktikan](https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM) | 3:59 | 2023-03-30 |  |
@@ -50,6 +51,7 @@
 | [Flying High](https://open.spotify.com/track/6a1mt15RL1Y3FxeU6Zoh3W) | [ronixd](https://open.spotify.com/artist/4fdvt615NKbd5n2s1cLiQZ) | [Flying High](https://open.spotify.com/album/652jsJs6hnACmycOLVL9wm) | 3:49 | 2023-06-08 | 2023-06-25 |
 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 | 2022-12-13 | 2023-06-08 |
 | [Gemintang Hatiku](https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 | 2022-12-13 |  |
+| [Hanya Memuji](https://open.spotify.com/track/6uoNFtgGaGoFJRb5U1UkTb) | [Hedi Yunus](https://open.spotify.com/artist/7Chevtnmm3oUuJmkQaCjfA) | [Hanya Memuji](https://open.spotify.com/album/0UAMINBH93LwLRJquQm3hO) | 3:05 | 2023-12-13 |  |
 | [Hapus Aku](https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS) | 4:12 | 2023-11-14 |  |
 | [Hari Kita Berdua](https://open.spotify.com/track/1eFGzmSGfbODtQXF4CK9Vl) | [Sherina Munaf](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp) | [Petualangan Sherina 2 \(Original Motion Picture Soundtrack\) \- Deluxe Version](https://open.spotify.com/album/0Yxs506teCUiP9ndlC0mqa) | 3:41 | 2023-10-03 |  |
 | [Heaven](https://open.spotify.com/track/0vtnYQ2A6o2fuEWim7DRYy) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Heaven](https://open.spotify.com/album/3ZlxavMQWzOa0dfcRrCUpi) | 3:44 | 2023-01-09 |  |
@@ -87,6 +89,7 @@
 | [Melompat Lebih Tinggi](https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [OST\. 30 Hari Mencari Cinta](https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB) | 3:18 | 2022-12-13 |  |
 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Rejoz The GROOVE](https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv), [Rejoz](https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 | 2022-12-13 |  |
 | [Mengudara](https://open.spotify.com/track/43bIT4qDSCB6K1PJ314Azp) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 3:07 | 2023-09-20 |  |
+| [Negeri di Awan \- Kinarya HIVI!](https://open.spotify.com/track/6pVcb4nbtETS6MXv2GYu0L) | [Katon Bagaskara](https://open.spotify.com/artist/4RSTuj15Y2BjrXR5fTDh2m), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Negeri di Awan \(Kinarya HIVI!\)](https://open.spotify.com/album/6cGX5DXDl3BQnYCV5t4GIM) | 4:38 | 2023-12-13 |  |
 | [O..\. Ya...](https://open.spotify.com/track/4nGfDDgOFVIqMajwVaWNgb) | [Kelompok 3 Suara](https://open.spotify.com/artist/6G5TFh2HwPlrpmtMZUl5KW) | [O..Ya ?](https://open.spotify.com/album/3VM7RnhgmmCfmcVBzuRwWc) | 3:07 | 2023-07-13 |  |
 | [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 | 2023-04-17 | 2023-07-28 |
 | [OSLO](https://open.spotify.com/track/3czxsLH8fGx2RGeWMdKjIn) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [OSLO](https://open.spotify.com/album/099vFMl8M9u91599833kVO) | 3:30 | 2023-06-07 | 2023-09-21 |

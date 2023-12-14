@@ -2,7 +2,7 @@
 
 ### [Trending Now](https://open.spotify.com/playlist/1pMB5VwjH6fzf8ldHch1IG)
 
-> Stream your favourite trending tracks and discover new jams along the way! Cover: Travis Scott.
+> Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
 135 songs - 7 hr 1 min
 

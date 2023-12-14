@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,125 songs - 4 day 17 hr 5 min
+2,126 songs - 4 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,7 +628,7 @@
 | [FANTASIZE](https://open.spotify.com/track/0siA4mTyDK6bdLiamSDnK2) | [TriliBaby](https://open.spotify.com/artist/0U80D33SSGFDAdaCYTb0fZ) | [FANTASIZE](https://open.spotify.com/album/1VB2eav9L7Azqj7J8DbdCK) | 3:18 | 2023-09-20 | 2023-09-23 |
 | [Fantasize](https://open.spotify.com/track/7EpmVZQFmcpIJe4q50DFwS) | [Underground](https://open.spotify.com/artist/6jWl5krBRUhdAvYKfQSWdd) | [Fantasize](https://open.spotify.com/album/7GBbrWdBiM0R899fGimRsC) | 3:16 | 2023-09-19 | 2023-10-31 |
 | [FANTASMA \| AVC](https://open.spotify.com/track/2PFPDjSJpeZE889648rbUP) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 4:45 | 2023-07-04 | 2023-07-09 |
-| [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2023-12-05 |  |
+| [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2023-12-05 | 2023-12-14 |
 | [Fantastic Voyage](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb) | 5:34 | 2022-10-05 | 2022-10-08 |
 | [Fark Ettim](https://open.spotify.com/track/4rbXJipz3CaSQwtG3xXzzT) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Fark Ettim](https://open.spotify.com/album/4hnVK5UgO5xWJdwxBwmsFv) | 2:35 | 2023-11-21 | 2023-11-25 |
 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2023-09-17 | 2023-09-27 |
@@ -1117,6 +1117,7 @@
 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 | 2022-11-08 | 2023-01-18 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-15 | 2022-12-02 |
 | [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:21 | 2023-10-23 | 2023-10-25 |
+| [Maharani](https://open.spotify.com/track/7CVw4gVPpH1TPQttQGVmhZ) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [ReVo LEKHAK](https://open.spotify.com/artist/6WPI5BHCoVymuFbC2p7p4G) | [Qabool Hai \(Deluxe\)](https://open.spotify.com/album/17n3KkiGt92tJZW0QkdUiW) | 6:29 | 2023-12-13 |  |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-06-17 | 2022-07-27 |
 | [Mahiye Jinna Sohna](https://open.spotify.com/track/0Jiaz0O4AqnJICa9PxHhaR) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:01 | 2023-08-10 | 2023-08-16 |
 | [Mahiye Jinna Sohna](https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mahiye Jinna Sohna](https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq) | 3:01 | 2023-07-18 | 2023-08-11 |

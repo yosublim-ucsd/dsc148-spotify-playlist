@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz, ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,259 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,323 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 | 75 | [Es zieht im Paradies](https://open.spotify.com/track/72japCviuui2IqOffiZurS) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es zieht im Paradies](https://open.spotify.com/album/1gK7m86MSO7JTqmlO7DKvM) | 3:05 |
 
-Snapshot ID: `MCw3Y2FiZTM0YzgyOWJhM2VkYzY0ZGUzMWE4MTdjYmQ0YmZkMDc1YzMx`
+Snapshot ID: `MCw2MjFlNTBlNGU3NmE3ZjdkMWQyOTljZWViODgwOGVkNmJjYTgzMWNm`

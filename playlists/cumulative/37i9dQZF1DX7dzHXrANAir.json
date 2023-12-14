@@ -1648,6 +1648,24 @@
     {
       "album": {
         "name": "Fractured Light",
+        "url": "https://open.spotify.com/album/79r2JD7Dqz9inxKujrwFHK"
+      },
+      "artists": [
+        {
+          "name": "AVAWAVES",
+          "url": "https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202706,
+      "name": "Fractured Light",
+      "url": "https://open.spotify.com/track/0QEbD9ZfzG6Ay1EyIkuhGx"
+    },
+    {
+      "album": {
+        "name": "Fractured Light",
         "url": "https://open.spotify.com/album/2c1yB6ttUGq2y7QcWdYDAc"
       },
       "artists": [
@@ -4618,7 +4636,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 243431,
       "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
       "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"

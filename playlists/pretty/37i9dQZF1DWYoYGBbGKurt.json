@@ -1,12 +1,12 @@
 {
   "description": "Lazy slow lofi beats for laid-back moments.",
-  "num_followers": 633158,
+  "num_followers": 633626,
   "original_name": "lofi chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWMxZGFkZTEwNTA2Mjk1NjcxNWM2YTRjNDY4MDU4Yzc1YmZmOTMw",
+  "snapshot_id": "MCxlNTVlZjE4NDVlZjZiMzhkNmU5OTIyOGI1ZDBhMzBlNjE5MTVhYmZm",
   "tracks": [
     {
       "added_at": "2023-12-08 00:10:00",
@@ -5830,6 +5830,10 @@
         {
           "name": "Juan Sinatra",
           "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "Ily Wonder",
+          "url": "https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI"
         }
       ],
       "duration_ms": 166500,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTg1ZjMzOGQ2NDA5YWJjYmY1MjcyYTY1M2IzZTY0Njc0NmNiY2Ni",
+  "snapshot_id": "MCxkNjQ0MWU3ZDJhY2NjZjlhMGRmMDI2MjM4OGE3MzRkNzRkNGE1MGY4",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Good for Me (feat. Anna Straker)",
         "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 144960,
       "name": "Good for Me (feat. Anna Straker)",
       "url": "https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Every Little Time",
+        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Every Little Time",
+      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Every Little Time",
-        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
-      },
-      "artists": [
-        {
-          "name": "Matt Guy",
-          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Every Little Time",
-      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
     },
     {
       "added_at": "2023-11-10 00:01:00",

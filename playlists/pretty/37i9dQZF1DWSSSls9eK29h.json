@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 127910,
+  "num_followers": 127991,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYThlODRiOWJhOTE0YzVhOWI4ZTQ5ODBjODJmMWMxODFjMDVmYWZk",
+  "snapshot_id": "MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Morning Dance",
-        "url": "https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG"
-      },
-      "artists": [
-        {
-          "name": "Spyro Gyra",
-          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Morning Dance",
-      "url": "https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Just Between Us",
         "url": "https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 308906,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Morning Dance",
+        "url": "https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG"
+      },
+      "artists": [
+        {
+          "name": "Spyro Gyra",
+          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Morning Dance",
+      "url": "https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Smooth Sensation",
         "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 269893,
       "name": "Pleasure Seeker",
       "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "Charisma",
-      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "The Power Of Touch",
         "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 310893,
       "name": "Aruban Nights",
       "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
     },
     {
       "added_at": "2020-08-19 00:00:21",

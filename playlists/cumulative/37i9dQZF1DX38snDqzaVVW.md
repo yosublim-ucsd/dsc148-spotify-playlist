@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-173 songs - 15 hr 0 min
+174 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Khudi Ka Sirr\-E\-Niha](https://open.spotify.com/track/2q9M99cF21590ziA2sbsSq) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Adab E Khud Aa Gahi \(Allama Iqbal Special\)](https://open.spotify.com/album/6pYqkQjBtcoI9zwcg1OBaA) | 9:12 | 2022-04-18 | 2022-10-07 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-03-06 | 2023-03-14 |
 | [Kimdi?](https://open.spotify.com/track/1Kxnp6VqY4xNIO561MQJ8b) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Yine Sensiz](https://open.spotify.com/album/2N5Cp0xZ2gm0QqMWRCALQB) | 4:23 | 2021-10-21 |  |
-| [Koroso](https://open.spotify.com/track/5PYkrbKgSbD9dIN8U8E1jf) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3) | 4:33 | 2021-10-21 |  |
+| [Koroso](https://open.spotify.com/track/5PYkrbKgSbD9dIN8U8E1jf) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3) | 4:33 | 2021-10-21 | 2023-12-14 |
+| [Koroso](https://open.spotify.com/track/7bkcsfxG7wFlK5fU4AYq3M) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/01OLLa2NSX0w7bg2SODjwH) | 4:33 | 2023-04-17 |  |
 | [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 7:50 | 2022-04-18 | 2022-10-07 |
 | [Kya Hai Ali Ye Nutqay](https://open.spotify.com/track/6tZLIlHn6oUFcnkxEoaslF) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kya Hai Ali Ye Nutqay](https://open.spotify.com/album/2PGFhztL2n0H8vNnb8oOOe) | 4:23 | 2022-04-18 | 2022-07-29 |
 | [Kya Hai Ali Ye Nutqay Payamber Batayega](https://open.spotify.com/track/6ix7LFcayNvGcZtGXdJxMR) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kya Hai Ali Ye Nutqay Payamber Batayega](https://open.spotify.com/album/2vNtjTSfZLmbvEo8Oh735q) | 4:23 | 2022-04-18 | 2022-10-07 |

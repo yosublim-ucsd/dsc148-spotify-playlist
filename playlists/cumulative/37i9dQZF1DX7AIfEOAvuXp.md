@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-198 songs - 10 hr 2 min
+199 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Quantum Physics](https://open.spotify.com/track/4y9OmPdcd9qSECK7Daz588) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw) | 2:38 | 2020-12-07 | 2023-12-11 |
 | [Quantum Physics](https://open.spotify.com/track/5ZEq9YuBdFgwAnYmjafWu3) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/0XOOpplduQwdpw2uMGCvJE) | 2:38 | 2020-12-07 |  |
 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2020-12-07 |  |
-| [raise it up!](https://open.spotify.com/track/0brPfanoFwTjJ22vUqsKVC) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [raise it up!](https://open.spotify.com/album/4NCHxHtyOy9lBxeHQSCfDG) | 2:28 | 2020-12-07 |  |
+| [raise it up!](https://open.spotify.com/track/0brPfanoFwTjJ22vUqsKVC) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [raise it up!](https://open.spotify.com/album/4NCHxHtyOy9lBxeHQSCfDG) | 2:28 | 2020-12-07 | 2023-12-14 |
+| [raise it up!](https://open.spotify.com/track/7clpl2o5zPh8Veb1mplQgS) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk) | [there goes the neighborhood.](https://open.spotify.com/album/6rZ5PdDAAFa7oqx7nxYE49) | 2:27 | 2020-12-07 |  |
 | [ripped jeans](https://open.spotify.com/track/1hkrrzCHWx3SwwrBp3i9h7) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/5O7x0cAksWA4GPvOCgsu0P) | 2:02 | 2020-12-07 | 2022-07-29 |
 | [ripped jeans](https://open.spotify.com/track/229Nu0G3uLnijxO8d69NVA) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/4WQt08qyCGByVqqQXbPetC) | 2:02 | 2020-12-07 |  |
 | [rosier](https://open.spotify.com/track/6ZUiIY6JQtDkrJggZ1OSQ7) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [rosier](https://open.spotify.com/album/3ri0YspOIBYjD3d8QIMwB7) | 3:42 | 2020-12-07 | 2023-02-23 |

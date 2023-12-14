@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Ellise
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,672 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,834 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 74 | [Pretty Little Addict](https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8) | 2:47 |
 | 75 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 
-Snapshot ID: `MCxjZTM4OGVjNGU0NGU4MDZmNmVkMjcyNjA2ZDU4NTMwZWRjMjJiZTA0`
+Snapshot ID: `MCw2MWI4YTBjZWVkY2FlZWE4ZTczNWJlMzhlOTAyMDFhNjg3YWRhOGNk`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58546,
+  "num_followers": 58559,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWI3ZjdmZjViMDljNjI0ZDI5OTQ5ODdmZmE5YTk5OWUyM2VmZWNl",
+  "snapshot_id": "MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Attention (a Devotional Project)",
         "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 222613,
       "name": "Rest with Me",
       "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Mother's Love",
-        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
-      },
-      "artists": [
-        {
-          "name": "Antonious",
-          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
-        }
-      ],
-      "duration_ms": 60944,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Jesus Is___. Music Project",
         "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 242120,
       "name": "The Lion And The Lamb - Instrumental",
       "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Mother's Love",
+        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+      },
+      "artists": [
+        {
+          "name": "Antonious",
+          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+        }
+      ],
+      "duration_ms": 60944,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
-      },
-      "artists": [
-        {
-          "name": "Audrey Marie",
-          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 352318,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
+      },
+      "artists": [
+        {
+          "name": "Audrey Marie",
+          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
-      },
-      "artists": [
-        {
-          "name": "Kye Kye",
-          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "All the Bright Lights",
         "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 330226,
       "name": "Wilora Lake",
       "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
+      },
+      "artists": [
+        {
+          "name": "Kye Kye",
+          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Psalm 108",
-        "url": "https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Psalm 108",
-      "url": "https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Velveteen",
         "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 237481,
       "name": "Velveteen",
       "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Psalm 108",
+        "url": "https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA"
+      },
+      "artists": [
+        {
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Psalm 108",
+      "url": "https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0"
     },
     {
       "added_at": "2023-07-28 04:02:00",

@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 310865,
       "name": "Dumb Guitar",
       "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
@@ -4300,7 +4300,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 192463,
       "name": "Forgot To Grow",
       "url": "https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm"
@@ -4898,7 +4898,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 242362,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/7eCyu8EKSTT7GaXI9IVHrF"
@@ -5057,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Hands Of Man",
+        "url": "https://open.spotify.com/album/3LzI2gXTQQ96VtaC2NYXF2"
+      },
+      "artists": [
+        {
+          "name": "Ugly (UK)",
+          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305034,
+      "name": "Hands Of Man",
+      "url": "https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv"
+    },
+    {
+      "album": {
         "name": "Hangar",
         "url": "https://open.spotify.com/album/3aPHytsW9HCZ8UyQ1V5xnV"
       },
@@ -5126,6 +5144,24 @@
       "duration_ms": 211435,
       "name": "Hawaii",
       "url": "https://open.spotify.com/track/2o9V6yNke9vPJTCSmCuqmO"
+    },
+    {
+      "album": {
+        "name": "Heading For The Door",
+        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Heading For The Door",
+      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
     },
     {
       "album": {
@@ -5350,7 +5386,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 271960,
       "name": "His Masterpiece",
       "url": "https://open.spotify.com/track/1xjEv7WTVnOVmsVUZeZGwA"
@@ -5806,7 +5842,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 200253,
       "name": "I Was There",
       "url": "https://open.spotify.com/track/6paWaql392oLnJRPa75nck"
@@ -5828,6 +5864,28 @@
       "duration_ms": 161695,
       "name": "I'm Better",
       "url": "https://open.spotify.com/track/3B6c2J0BSk2dc2EjX52tpG"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
       "album": {
@@ -8114,7 +8172,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 389386,
       "name": "Mr. Tambourine Man - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/1a4EjPsElUgNXx3io1DbIo"
@@ -10890,7 +10948,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 193565,
       "name": "sounds like you had to be there",
       "url": "https://open.spotify.com/track/6PLqlfCATfJwX0Q2m6DugZ"
@@ -11792,7 +11850,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 178333,
       "name": "The Main Thing",
       "url": "https://open.spotify.com/track/6bsVnmyNlehbQvLX5xBuDR"
@@ -13088,7 +13146,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 191402,
       "name": "Wasterpiece",
       "url": "https://open.spotify.com/track/3OqpSWk4Pirrjt0RebMMJ1"
@@ -13551,6 +13609,46 @@
     },
     {
       "album": {
+        "name": "Wolves Disco and Boogaloo Remixes",
+        "url": "https://open.spotify.com/album/6ENtuyfJT3GUdgF4WbaiXY"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Cole",
+          "url": "https://open.spotify.com/artist/5CXWXFfhDhFN5uzbfUwAKt"
+        },
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392664,
+      "name": "Wolves - Mogwai Mix",
+      "url": "https://open.spotify.com/track/5rljsyShN8xio8yd5U9hoq"
+    },
+    {
+      "album": {
+        "name": "Women & Children EP",
+        "url": "https://open.spotify.com/album/26bHYlrCUrj0NmJjJcdwHn"
+      },
+      "artists": [
+        {
+          "name": "PARENT TEACHER",
+          "url": "https://open.spotify.com/artist/1ZF7sZoCluOISW7vSPrfkY"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Women & Children",
+      "url": "https://open.spotify.com/track/7kEXTNPacq8h5Ox6viq9OZ"
+    },
+    {
+      "album": {
         "name": "Meeting with a Judas Tree",
         "url": "https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg"
       },
@@ -13588,6 +13686,28 @@
       "duration_ms": 167951,
       "name": "Woofin' and Meowin'",
       "url": "https://open.spotify.com/track/1HiNADnfOiQW8yUBO2ldF2"
+    },
+    {
+      "album": {
+        "name": "Working Class Hero",
+        "url": "https://open.spotify.com/album/4yKyXtKhmN6izhfnpPNlqg"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283274,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/4E0dnwU0VhvJydUOEiq6IB"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 130209,
+  "num_followers": 130245,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjQ2NWUzMjE4ZDkxNGVkNDc4Zjc2NjMxZDNjN2VhYzE0OTM1NDJl",
+  "snapshot_id": "MCw2YmJjZTdjOWNkODFiOGUxYTZjYzY0N2M3ZjAwMjZkMWQ1ZDc3ZDcw",
   "tracks": [
     {
       "added_at": "2023-11-30 11:53:23",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-11-30 11:53:23",
       "album": {
+        "name": "Bad For Me",
+        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 177422,
+      "name": "Bad For Me",
+      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
+    },
+    {
+      "added_at": "2023-11-30 11:53:23",
+      "album": {
         "name": "Sirena Deep",
         "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 341500,
       "name": "Sirena Deep",
       "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
-    },
-    {
-      "added_at": "2023-11-30 11:53:23",
-      "album": {
-        "name": "Bad For Me",
-        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 177422,
-      "name": "Bad For Me",
-      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
     }
   ],
   "unique_name": "Sunday Sessions",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGQ3MzNjNDFiYjY1OGE3NDZjZjhhYTc4OTJmZDI0M2E3OTYxNjVm",
+  "snapshot_id": "MCxiZDgzZTUyN2NiYzQ5YmNmYzMxYzg0ZjQ0ZGYyMzY2MjI3NmM2NjYz",
   "tracks": [
     {
       "added_at": "2020-12-07 15:44:40",
@@ -983,18 +983,22 @@
     {
       "added_at": "2020-12-07 15:44:40",
       "album": {
-        "name": "raise it up!",
-        "url": "https://open.spotify.com/album/4NCHxHtyOy9lBxeHQSCfDG"
+        "name": "there goes the neighborhood.",
+        "url": "https://open.spotify.com/album/6rZ5PdDAAFa7oqx7nxYE49"
       },
       "artists": [
         {
           "name": "grouptherapy.",
           "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
         }
       ],
-      "duration_ms": 148143,
+      "duration_ms": 147741,
       "name": "raise it up!",
-      "url": "https://open.spotify.com/track/0brPfanoFwTjJ22vUqsKVC"
+      "url": "https://open.spotify.com/track/7clpl2o5zPh8Veb1mplQgS"
     },
     {
       "added_at": "2020-12-07 15:44:40",

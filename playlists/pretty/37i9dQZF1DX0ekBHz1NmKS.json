@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196379,
+  "num_followers": 196369,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGQ1ZTdjNDlhOTA1MTMwZjVjNzhjNDFlODRlNzM1ZDU1NjQ2YWEw",
+  "snapshot_id": "MCwzNjM3Mjc3MTAzMDYwNGZhYTZkODg1ZTAwNmYzN2ExNjM1MWRjMWNk",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 218719,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 218719,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Fri till slut - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        },
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 288155,
-      "name": "Fri till slut - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Bare mellom oss",
         "url": "https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 151893,
       "name": "Bare mellom oss",
       "url": "https://open.spotify.com/track/2V6y6xFWj6B0tgfQ3woscF"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Fri till slut - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 288155,
+      "name": "Fri till slut - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "The Way You Had Me",
+        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "duration_ms": 190423,
+      "name": "The Way You Had Me",
+      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Tagit \u00f6ver himlen",
         "url": "https://open.spotify.com/album/1RlI6eLWlON8W9EOUJS1qT"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 147596,
       "name": "Tagit \u00f6ver himlen",
       "url": "https://open.spotify.com/track/2faoTKw5aY77tacZthwcCd"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "The Way You Had Me",
-        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
-      },
-      "artists": [
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        }
-      ],
-      "duration_ms": 190423,
-      "name": "The Way You Had Me",
-      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Let The Good Times In",
-        "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
-      },
-      "artists": [
-        {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
-        }
-      ],
-      "duration_ms": 153595,
-      "name": "Let The Good Times In",
-      "url": "https://open.spotify.com/track/0qGHdKr0USsxUSU1eRZWjt"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 171899,
       "name": "Pluto - Bonus Track",
       "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Let The Good Times In",
+        "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "duration_ms": 153595,
+      "name": "Let The Good Times In",
+      "url": "https://open.spotify.com/track/0qGHdKr0USsxUSU1eRZWjt"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -931,18 +931,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Heartbreakmiljon\u00e4r",
-        "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
+        "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
+        "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
       },
       "artists": [
         {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        },
+        {
+          "name": "REMAZE",
+          "url": "https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB"
         }
       ],
-      "duration_ms": 193703,
-      "name": "Heartbreakmiljon\u00e4r",
-      "url": "https://open.spotify.com/track/49I4fTavMoX9SL0KDmd6Tw"
+      "duration_ms": 210937,
+      "name": "Stockholm l\u00e4mnar s\u00e5r - REMAZE Remix",
+      "url": "https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -963,22 +967,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
-        "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
+        "name": "Heartbreakmiljon\u00e4r",
+        "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
       },
       "artists": [
         {
-          "name": "Dom F\u00f6rsta",
-          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
-        },
-        {
-          "name": "REMAZE",
-          "url": "https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB"
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
         }
       ],
-      "duration_ms": 210937,
-      "name": "Stockholm l\u00e4mnar s\u00e5r - REMAZE Remix",
-      "url": "https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK"
+      "duration_ms": 193703,
+      "name": "Heartbreakmiljon\u00e4r",
+      "url": "https://open.spotify.com/track/49I4fTavMoX9SL0KDmd6Tw"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Hj\u00e4rtan i sanden",
-        "url": "https://open.spotify.com/album/4MT1Q26z105pJdEd82MtHC"
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c"
       },
       "artists": [
         {
-          "name": "Lucas Sunday",
-          "url": "https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr"
+          "name": "MASAKA",
+          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
+        },
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Hj\u00e4rtan i sanden",
-      "url": "https://open.spotify.com/track/17dy0wgbBnd0FV206w5jz3"
+      "duration_ms": 187181,
+      "name": "LIGHTS",
+      "url": "https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1279,6 +1283,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Hj\u00e4rtan i sanden",
+        "url": "https://open.spotify.com/album/4MT1Q26z105pJdEd82MtHC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sunday",
+          "url": "https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Hj\u00e4rtan i sanden",
+      "url": "https://open.spotify.com/track/17dy0wgbBnd0FV206w5jz3"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 221489,
       "name": "Woman",
       "url": "https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "LIGHTS",
-        "url": "https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c"
-      },
-      "artists": [
-        {
-          "name": "MASAKA",
-          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
-        },
-        {
-          "name": "Stella Explorer",
-          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
-        }
-      ],
-      "duration_ms": 187181,
-      "name": "LIGHTS",
-      "url": "https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "b\u00e4stis",
+        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
+      },
+      "artists": [
+        {
+          "name": "IMAN",
+          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
+        }
+      ],
+      "duration_ms": 208832,
+      "name": "b\u00e4stis",
+      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "N\u00e5n annans s\u00e4ng",
         "url": "https://open.spotify.com/album/63rEMPx6dcCOO5s22kI4Ke"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 179213,
       "name": "Tracksuit Pants",
       "url": "https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "b\u00e4stis",
-        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
-      },
-      "artists": [
-        {
-          "name": "IMAN",
-          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
-        }
-      ],
-      "duration_ms": 208832,
-      "name": "b\u00e4stis",
-      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Fooled by September",
-        "url": "https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 173720,
-      "name": "Fooled by September",
-      "url": "https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "H\u00e5ll k\u00e4ften & kyss mig",
         "url": "https://open.spotify.com/album/73LAHo5UidIZAG3rzX8AIs"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 162580,
       "name": "H\u00e5ll k\u00e4ften & kyss mig",
       "url": "https://open.spotify.com/track/35Hsn6Nw8odFT7ujdsr3sA"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Fooled by September",
+        "url": "https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Fooled by September",
+      "url": "https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Headed North",
-        "url": "https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL"
+        "name": "Stupid Little Party Girl",
+        "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
       },
       "artists": [
         {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
         }
       ],
-      "duration_ms": 176044,
-      "name": "Headed North",
-      "url": "https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV"
+      "duration_ms": 179936,
+      "name": "Stupid Little Party Girl",
+      "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Stupid Little Party Girl",
-        "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
+        "name": "Headed North",
+        "url": "https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL"
       },
       "artists": [
         {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
         }
       ],
-      "duration_ms": 179936,
-      "name": "Stupid Little Party Girl",
-      "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
+      "duration_ms": 176044,
+      "name": "Headed North",
+      "url": "https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Misemotional",
+        "url": "https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Misemotional",
+      "url": "https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
         "url": "https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 168040,
       "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
       "url": "https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Misemotional",
-        "url": "https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Misemotional",
-      "url": "https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ"
     }
   ],
   "unique_name": "Made in Sweden",

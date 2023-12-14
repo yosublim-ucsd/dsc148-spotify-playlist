@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Grupo TMB en portada.",
-  "num_followers": 58840,
+  "num_followers": 58865,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmY5ZTkzYjEzOGM0NWYyNTNkYzQzNGNiN2MzMzFlNTI0NDdjOGQ3",
+  "snapshot_id": "MCw0NTkyY2M3YmJmN2IxYzYxMDE0YTc0YmYwMjhlODVlYTcxZDVmMDRl",
   "tracks": [
     {
       "added_at": "2023-12-04 18:41:46",
@@ -147,26 +147,18 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "Fumando Mota",
-        "url": "https://open.spotify.com/album/1jlpTCmPcTZ6BmFEyrLtsx"
+        "name": "Llegar A La Luna",
+        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
       },
       "artists": [
         {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "Jassiel Gutierrez",
+          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
         }
       ],
-      "duration_ms": 201866,
-      "name": "Fumando Mota",
-      "url": "https://open.spotify.com/track/3oMSVFuPnWFifOrMoGiZGj"
+      "duration_ms": 214973,
+      "name": "Llegar A La Luna",
+      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -187,18 +179,26 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "Llegar A La Luna",
-        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
+        "name": "Fumando Mota",
+        "url": "https://open.spotify.com/album/1jlpTCmPcTZ6BmFEyrLtsx"
       },
       "artists": [
         {
-          "name": "Jassiel Gutierrez",
-          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Llegar A La Luna",
-      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
+      "duration_ms": 201866,
+      "name": "Fumando Mota",
+      "url": "https://open.spotify.com/track/3oMSVFuPnWFifOrMoGiZGj"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -319,22 +319,18 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c"
+        "name": "Ll\u00f3rame M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
       },
       "artists": [
         {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
         }
       ],
-      "duration_ms": 170646,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy"
+      "duration_ms": 227142,
+      "name": "Ll\u00f3rame M\u00e1s Fuerte",
+      "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -359,6 +355,26 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 170646,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy"
+    },
+    {
+      "added_at": "2023-12-04 18:41:46",
+      "album": {
         "name": "Alucin-ando",
         "url": "https://open.spotify.com/album/02bJTDJPcfyUH53QxqWfVo"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 163317,
       "name": "Alucin-ando",
       "url": "https://open.spotify.com/track/2Uv2x4gbt51VV4eS6b1Cxm"
-    },
-    {
-      "added_at": "2023-12-04 18:41:46",
-      "album": {
-        "name": "Ll\u00f3rame M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Ll\u00f3rame M\u00e1s Fuerte",
-      "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 167311,
+      "name": "Soy El \u00danico - Spotify Singles",
+      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
+    },
+    {
+      "added_at": "2023-12-04 18:41:46",
+      "album": {
         "name": "C\u00e1psulas",
         "url": "https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 190466,
       "name": "T\u00fa Te Mereces",
       "url": "https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0"
-    },
-    {
-      "added_at": "2023-12-04 18:41:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 167311,
-      "name": "Soy El \u00danico - Spotify Singles",
-      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "East LA",
-        "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "East LA",
-      "url": "https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub"
-    },
-    {
-      "added_at": "2023-12-04 18:41:46",
-      "album": {
         "name": "\u00bfqui\u00e9n dice?",
         "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 213647,
       "name": "\u00bfqui\u00e9n dice?",
       "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
+    },
+    {
+      "added_at": "2023-12-04 18:41:46",
+      "album": {
+        "name": "East LA",
+        "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "East LA",
+      "url": "https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -759,18 +759,22 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "Lo Obvio",
-        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+        "name": "Todas Son Iguales",
+        "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
       },
       "artists": [
         {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 140453,
-      "name": "Lo Obvio",
-      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
+      "duration_ms": 155125,
+      "name": "Todas Son Iguales",
+      "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -795,22 +799,18 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "Todas Son Iguales",
-        "url": "https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj"
+        "name": "Lo Obvio",
+        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
       },
       "artists": [
         {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        },
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
         }
       ],
-      "duration_ms": 155125,
-      "name": "Todas Son Iguales",
-      "url": "https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx"
+      "duration_ms": 140453,
+      "name": "Lo Obvio",
+      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
-    },
-    {
-      "added_at": "2023-12-04 18:41:46",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "NO HAY NADA M\u00c1S",
-        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
       },
       "artists": [
         {
-          "name": "ARRIOLA",
-          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
         }
       ],
-      "duration_ms": 150891,
-      "name": "EL CHAPUL\u00cdN",
-      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
+      "duration_ms": 182706,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -907,6 +891,22 @@
       "duration_ms": 140283,
       "name": "Sin Escalas",
       "url": "https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP"
+    },
+    {
+      "added_at": "2023-12-04 18:41:46",
+      "album": {
+        "name": "NO HAY NADA M\u00c1S",
+        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
+      },
+      "artists": [
+        {
+          "name": "ARRIOLA",
+          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
+        }
+      ],
+      "duration_ms": 150891,
+      "name": "EL CHAPUL\u00cdN",
+      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/0g4HdaQjNybjGfYPevA1Vz"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 175454,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4ffEwH5xuTvAjqDRkdCYdp"
-    },
-    {
-      "added_at": "2023-12-04 18:41:46",
-      "album": {
         "name": "Alta Joya",
         "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 201200,
       "name": "Alta Joya",
       "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
+    },
+    {
+      "added_at": "2023-12-04 18:41:46",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0g4HdaQjNybjGfYPevA1Vz"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "duration_ms": 175454,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4ffEwH5xuTvAjqDRkdCYdp"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "Mucha Mujer",
-        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
-      },
-      "artists": [
-        {
-          "name": "Herly RG",
-          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
-        }
-      ],
-      "duration_ms": 156067,
-      "name": "Mucha Mujer",
-      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
-    },
-    {
-      "added_at": "2023-12-04 18:41:46",
-      "album": {
         "name": "R\u00e1pido",
         "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 194766,
       "name": "R\u00e1pido",
       "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
+    },
+    {
+      "added_at": "2023-12-04 18:41:46",
+      "album": {
+        "name": "Mucha Mujer",
+        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
+      },
+      "artists": [
+        {
+          "name": "Herly RG",
+          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
+        }
+      ],
+      "duration_ms": 156067,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
-        "name": "Qui\u00e9n Quiere Otro Bote?",
-        "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Qui\u00e9n Quiere Otro Bote?",
-      "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
-    },
-    {
-      "added_at": "2023-12-04 18:41:46",
-      "album": {
         "name": "La Reina Del Condado",
         "url": "https://open.spotify.com/album/1GAYzF6ub76uaNaW8srhAI"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 149333,
       "name": "La Reina Del Condado",
       "url": "https://open.spotify.com/track/0UzgGknQoXDbSmwAfsvqDN"
+    },
+    {
+      "added_at": "2023-12-04 18:41:46",
+      "album": {
+        "name": "Qui\u00e9n Quiere Otro Bote?",
+        "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Qui\u00e9n Quiere Otro Bote?",
+      "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
+        "name": "Que Bonito Es Tomar",
+        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "duration_ms": 165512,
+      "name": "Que Bonito Es Tomar",
+      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
+    },
+    {
+      "added_at": "2023-12-04 18:41:46",
+      "album": {
         "name": "Rey Arturo",
         "url": "https://open.spotify.com/album/4Llilk6OHfidqG3Wki97HJ"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 195760,
       "name": "Rey Arturo",
       "url": "https://open.spotify.com/track/3yoDB3fToxn1WQ7i95FYtU"
-    },
-    {
-      "added_at": "2023-12-04 18:41:46",
-      "album": {
-        "name": "Que Bonito Es Tomar",
-        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 165512,
-      "name": "Que Bonito Es Tomar",
-      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
     },
     {
       "added_at": "2023-12-04 18:41:46",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-12-04 18:41:46",
       "album": {
+        "name": "D\u00c9JENME TOMAR",
+        "url": "https://open.spotify.com/album/5c5y9U97aVoJKcGXZ8Dx91"
+      },
+      "artists": [
+        {
+          "name": "ARRIOLA",
+          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
+        }
+      ],
+      "duration_ms": 145779,
+      "name": "D\u00c9JENME TOMAR",
+      "url": "https://open.spotify.com/track/40SkbtGWQyvLpuve5bPfO2"
+    },
+    {
+      "added_at": "2023-12-04 18:41:46",
+      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/6ng2XgZrg5Z4r7r6qyxiil"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 200266,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/62FXhXv6HATkfAzCmNWTlb"
-    },
-    {
-      "added_at": "2023-12-04 18:41:46",
-      "album": {
-        "name": "D\u00c9JENME TOMAR",
-        "url": "https://open.spotify.com/album/5c5y9U97aVoJKcGXZ8Dx91"
-      },
-      "artists": [
-        {
-          "name": "ARRIOLA",
-          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
-        }
-      ],
-      "duration_ms": 145779,
-      "name": "D\u00c9JENME TOMAR",
-      "url": "https://open.spotify.com/track/40SkbtGWQyvLpuve5bPfO2"
     },
     {
       "added_at": "2023-12-04 18:41:46",

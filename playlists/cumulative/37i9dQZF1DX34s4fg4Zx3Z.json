@@ -555,6 +555,28 @@
     },
     {
       "album": {
+        "name": "99db",
+        "url": "https://open.spotify.com/album/5MnZXPBFflIEIEW16BaOcj"
+      },
+      "artists": [
+        {
+          "name": "Th\u1ed1ng",
+          "url": "https://open.spotify.com/artist/4XbvXU1QZ22KHcaDNy3XYX"
+        },
+        {
+          "name": "O.lew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238711,
+      "name": "99db",
+      "url": "https://open.spotify.com/track/5nCeBQzWQUeHgh4nTLtjpr"
+    },
+    {
+      "album": {
         "name": "A GIFT FROM \"DAD\"",
         "url": "https://open.spotify.com/album/1acow2ptcXIcqUXcyr4Hea"
       },
@@ -600,6 +622,24 @@
       "duration_ms": 208235,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/4fol1mRfChVQotmqksmytV"
+    },
+    {
+      "album": {
+        "name": "Ai B\u00edt G\u00ec \u0110\u00e2u ?",
+        "url": "https://open.spotify.com/album/6tMu17fkHI4wFKnBpK2bzU"
+      },
+      "artists": [
+        {
+          "name": "Riown",
+          "url": "https://open.spotify.com/artist/1vvDwGd3z0eywYay5NPMyG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200278,
+      "name": "Ai B\u00edt G\u00ec \u0110\u00e2u ?",
+      "url": "https://open.spotify.com/track/6MBdY1SUmxdKLpPco9smID"
     },
     {
       "album": {
@@ -2984,7 +3024,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 219725,
       "name": "B\u00ean Em Nh\u1eb9 Nh\u00e0ng Th\u00f4i",
       "url": "https://open.spotify.com/track/3cJdxUxZX4SO7xOqJiwyd8"
@@ -9804,7 +9844,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 173375,
       "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em - Sister Version",
       "url": "https://open.spotify.com/track/54YWSJwFqilgIM3yQm5fl6"

@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,578 songs - 3 day 4 hr 5 min
+1,579 songs - 3 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,6 +914,7 @@
 | [N Side](https://open.spotify.com/track/095foEhooqEP6YmtvnOxLL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/0LEiJIsoVxfkiGOpUCyZez) | 3:44 | 2022-02-28 | 2022-06-18 |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2021-12-15 | 2022-03-01 |
 | [N\. Michigan Gospel](https://open.spotify.com/track/241v3QlWhV2l7EQBtbXudq) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0) | [N\. Michigan Gospel](https://open.spotify.com/album/0ZRLr4WfLYtHZyiuR5Hp9D) | 3:56 | 2021-09-11 | 2021-10-13 |
+| [N2](https://open.spotify.com/track/5n6CAuAvZDlVmPvGUbKzNQ) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [N2](https://open.spotify.com/album/6OrQ3W1y2H0xMGLav3Tzs8) | 2:13 | 2023-12-08 |  |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2021-10-15 | 2023-04-15 |
 | [n2o](https://open.spotify.com/track/4z3cLkhxB7dTf1L7xrHTly) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:59 | 2022-02-28 | 2022-03-02 |
 | [napalm!](https://open.spotify.com/track/5YqKNiieSFJ1fbMlZYrITW) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [napalm!](https://open.spotify.com/album/7jyge5yG2MYlHwgB512jrp) | 2:52 | 2022-03-11 | 2022-04-29 |
@@ -1178,7 +1179,7 @@
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2022-11-30 | 2023-03-02 |
 | [seaside\_demo](https://open.spotify.com/track/73M0rMVx5CWE8M4uATSsto) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/4FzvipXCsh9Ho8aujaOkLs) | 2:12 | 2021-05-19 | 2021-10-13 |
 | [Secrecy](https://open.spotify.com/track/5TbEyzfYutTYuRohpLm03w) | [Hazy Shea](https://open.spotify.com/artist/5SxHh5TntW7TN01Igtc4B4), [Jae Lynx](https://open.spotify.com/artist/03lamRtaO7ZuCSn2qFfmMN) | [Secrecy](https://open.spotify.com/album/7Av2fxNnC5OpUBNgvQcYSf) | 3:06 | 2022-06-17 | 2022-08-06 |
-| [secret road](https://open.spotify.com/track/3Ert93xdqjdLfN1ZOEvwUX) | [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV), [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [My Favorite Color](https://open.spotify.com/artist/1xN2qWPRezQuTyI3SMSPuD) | [secret road](https://open.spotify.com/album/0UM7rBDD63oIcCZWP1P0g7) | 2:37 | 2023-07-21 |  |
+| [secret road](https://open.spotify.com/track/3Ert93xdqjdLfN1ZOEvwUX) | [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV), [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [My Favorite Color](https://open.spotify.com/artist/1xN2qWPRezQuTyI3SMSPuD) | [secret road](https://open.spotify.com/album/0UM7rBDD63oIcCZWP1P0g7) | 2:37 | 2023-07-21 | 2023-12-14 |
 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 | 2021-03-19 | 2021-10-14 |
 | [Send Me Off](https://open.spotify.com/track/0uCIbG0Dx6ACLTwtoTB6k1) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs), [SALPA](https://open.spotify.com/artist/5PzAy8BYEOWW9Vu6feYpvO) | [Send Me Off](https://open.spotify.com/album/1onw601iAxmF39SPyJyQ9G) | 3:47 | 2023-06-16 | 2023-09-09 |
 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 | 2022-07-18 | 2022-10-04 |

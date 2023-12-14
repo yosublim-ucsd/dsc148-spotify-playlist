@@ -1,12 +1,12 @@
 {
   "description": "Brian Kelley is taking over this weekend to help you get pumped up for the big football championship! ",
-  "num_followers": 170194,
+  "num_followers": 170181,
   "original_name": "Country Tailgate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2QzZTM2NTdlZThjYjhmZDkwZTA1ZmZlOTEzODBhMzM4ZDkwY2Vh",
+  "snapshot_id": "MCw3MTNhYThjZGUwMmQzNzg1ZGI5YzdmZTcwMDZmODg5OTI3ZWVjYjE0",
   "tracks": [
     {
       "added_at": "2023-12-01 23:44:29",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-12-01 23:44:29",
       "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/6vzRJYzyR7G8jTIYrKFxLx"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "She's Country",
+      "url": "https://open.spotify.com/track/0okmLlOW6vKrilXDvtRMfg"
+    },
+    {
+      "added_at": "2023-12-01 23:44:29",
+      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 213826,
       "name": "Somethin' 'Bout A Truck",
       "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
-    },
-    {
-      "added_at": "2023-12-01 23:44:29",
-      "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/6vzRJYzyR7G8jTIYrKFxLx"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "She's Country",
-      "url": "https://open.spotify.com/track/0okmLlOW6vKrilXDvtRMfg"
     },
     {
       "added_at": "2023-12-01 23:44:29",

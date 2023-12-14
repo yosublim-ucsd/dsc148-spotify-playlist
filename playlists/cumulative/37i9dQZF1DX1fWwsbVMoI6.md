@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Grupo 5, Joey Montana
 
-136 songs - 9 hr 25 min
+137 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cervecero](https://open.spotify.com/track/4mdkLjfCwdVNZZD8jrtqQJ) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0ti5xGT8I0efMsFbVBw7if) | 5:26 | 2022-02-11 | 2022-07-29 |
 | [Cervecero](https://open.spotify.com/track/5tt27Q87bSQG4OjYtj8aPh) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 5:26 | 2022-02-11 | 2023-06-04 |
 | [Cervecero](https://open.spotify.com/track/6yxeSzMc5gb1IDPAqqVDR0) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Solo](https://open.spotify.com/album/1SWOl6JImOQeV9zdSkbEsj) | 5:29 | 2023-03-31 | 2023-09-03 |
+| [Cervecero](https://open.spotify.com/track/3HfZfxi1UWSK0GssEUgM1R) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Historia Musical](https://open.spotify.com/album/13kU9mfnrPRqd0TPjk0Sms) | 5:30 | 2023-09-22 |  |
 | [Cerveza](https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Cerveza](https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez) | 3:09 | 2022-02-11 | 2022-07-27 |
 | [Chiquitita](https://open.spotify.com/track/0betY4GqNwj5KrvsUPs0RM) | [Patrick Romantik](https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA), [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Erick Elera](https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW) | [Chiquitita](https://open.spotify.com/album/1KwqvNN3q7AOsalOiXOGlf) | 3:29 | 2022-02-11 | 2022-08-06 |
 | [Con la Mano en el Moño](https://open.spotify.com/track/3ks8JZI6QpfylogVJnHEgx) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [Con la Mano en el Moño](https://open.spotify.com/album/1Vi8z8VCPnmMZoQ3nNBvPB) | 3:55 | 2022-12-16 | 2023-02-04 |
@@ -81,7 +82,7 @@
 | [Me extrañarás](https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Me extrañarás](https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O) | 4:22 | 2022-02-11 | 2022-11-30 |
 | [Me Vas a Extrañar](https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Me Vas a Extrañar](https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj) | 3:53 | 2022-02-11 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/2cwZXohdMmRbKXhUf8Ar6B) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Me Vas a Extrañar](https://open.spotify.com/album/2pErvAYZc2ejGDSIguckKp) | 3:53 | 2022-02-11 | 2022-07-29 |
-| [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 | 2022-02-11 |  |
+| [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 | 2022-02-11 | 2023-12-14 |
 | [Mix Dejar de Amarte / Sentada en un Bar \- En Vivo](https://open.spotify.com/track/21iJin13VjR7YS0n7gf9zH) | [Los Rebeldes De La Cumbia](https://open.spotify.com/artist/4Kq6PhHm3gDTuxwXAMJkyY) | [Mix Dejar de Amarte / Sentada en un Bar \(En Vivo\)](https://open.spotify.com/album/14KEd4Q2J51IkZfGECdmwe) | 6:28 | 2023-03-31 | 2023-07-15 |
 | [Mix: Pimpinela](https://open.spotify.com/track/1PzXI9Gm4u1ktAhdWpMhLS) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [Hnos Silva](https://open.spotify.com/album/6dg5ZPWyIjnZho3KvcP2AE) | 5:00 | 2022-02-11 | 2022-07-22 |
 | [Motivos](https://open.spotify.com/track/3ovuamiUGQPLN0HuVeCNKi) | [Los Morunos](https://open.spotify.com/artist/7aH8EFjZNlY5FLsjmR9Bqh), [Mariachi Los Fortunatos](https://open.spotify.com/artist/0lsLHvQYVP3ZRzADYk90vN) | [Es para Ti Esta Serenata](https://open.spotify.com/album/2Dkbg4ojESNAQFQw3Y6lsC) | 4:02 | 2022-02-11 | 2022-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Tate McRae \(pictured\), Libianca, Fred again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,886 likes - 110 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,919 likes - 110 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 25 | [MARY](https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY](https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol) | 3:26 |
 | 26 | [u come near](https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [u come near](https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7) | 3:12 |
 | 27 | [Risk It All \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Risk It All \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd) | 3:21 |
-| 28 | [Ghost Reality](https://open.spotify.com/track/2YbbW6h5sNSORzOHZFob1X) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Ghost Reality](https://open.spotify.com/album/7zm3OfFQ5pOn6mF3AACl8A) | 3:08 |
+| 28 | [Ghost Reality](https://open.spotify.com/track/2YbbW6h5sNSORzOHZFob1X) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Ghost Reality](https://open.spotify.com/album/7zm3OfFQ5pOn6mF3AACl8A) | 2:24 |
 | 29 | [EASE MY MIND](https://open.spotify.com/track/2RwGziqLwMsSTE6tZdckEh) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [EASE MY MIND](https://open.spotify.com/album/2Gp2L1uGCTT7f7x3wYKuUc) | 2:53 |
 | 30 | [Light It Up](https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Light It Up](https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU) | 3:41 |
 | 31 | [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 109 | [Fade to Black](https://open.spotify.com/track/78yarzaFAlCbbJLc6R2wXD) | [Cam Thomas](https://open.spotify.com/artist/5c3fIb9ddx79HLNnl99grZ), [Willhouse](https://open.spotify.com/artist/2xvy06CHiXhtfmolaLM2ni) | [Fade to Black](https://open.spotify.com/album/0F5on11ZJZ4PuJHFeDjiep) | 3:51 |
 | 110 | [Christmas All Year](https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Christmas All Year](https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl) | 2:53 |
 
-Snapshot ID: `MCwzNTFlOTE2Zjg1ZjFmMDc2YzJhYzdmZGZjZWU3NTAyYjQyYTMxMTBh`
+Snapshot ID: `MCw5YTkxYTI2MDEwNDg1NDI3MjUxNTA2MDJkYTZmYTNmZjYxZjBhMmZi`

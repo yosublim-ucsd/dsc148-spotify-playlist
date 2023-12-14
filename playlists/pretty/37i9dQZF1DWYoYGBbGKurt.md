@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,158 likes - 357 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,626 likes - 357 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -360,10 +360,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 350 | [holiday card](https://open.spotify.com/track/3nsF17KuAWKhiYelYeiNkq) | [alfrer](https://open.spotify.com/artist/7ejT7524EZRzF3ZaEtBLYS) | [holiday card](https://open.spotify.com/album/7vsh7N6RRcCPhCbFNeLhxr) | 2:59 |
 | 351 | [Sacred Shrine](https://open.spotify.com/track/0VwhkfnMdMDoyWjvTiHaUt) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Soulful Views](https://open.spotify.com/album/6tIEk3qb1Z7WfA1DLS5eTd) | 1:49 |
 | 352 | [Rest](https://open.spotify.com/track/0d503TQgCId8LobTPX76nh) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Rest](https://open.spotify.com/album/36hCOORh8vjIlRucLtHHNg) | 2:11 |
-| 353 | [Casa en el aire \- Instrumental](https://open.spotify.com/track/5sm7tMv25DRsdFGsOd9QDQ) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Fotosíntesis \(Instrumental\)](https://open.spotify.com/album/2kSZnrMZ1NC4lrh4cF4zsx) | 2:46 |
+| 353 | [Casa en el aire \- Instrumental](https://open.spotify.com/track/5sm7tMv25DRsdFGsOd9QDQ) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Ily Wonder](https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI) | [Fotosíntesis \(Instrumental\)](https://open.spotify.com/album/2kSZnrMZ1NC4lrh4cF4zsx) | 2:46 |
 | 354 | [Azur](https://open.spotify.com/track/5kT2uEOpwuudBrGugXSK3i) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Azur](https://open.spotify.com/album/4lVGj2uxxczVXry7fbqRbI) | 2:37 |
 | 355 | [Massiv](https://open.spotify.com/track/4v7qUBLz0u5AnSRRcRyNyD) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Knowh3r3](https://open.spotify.com/artist/0NlaY8zuh9hjpOPSRL3yOG) | [Massiv](https://open.spotify.com/album/1zYbe3XZCBebHnDtZ5FPEt) | 2:03 |
 | 356 | [Tough Night](https://open.spotify.com/track/4qzBVxq0XSjUuqWTEu5QON) | [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Tough Night](https://open.spotify.com/album/61qouf83vvQBSFpHUXGZkN) | 2:13 |
 | 357 | [Waves](https://open.spotify.com/track/1sv9a2DenuK90P0rBkXKEe) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Waves](https://open.spotify.com/album/4RE8BchKFFeqiijkE965MR) | 2:31 |
 
-Snapshot ID: `MCw5YWMxZGFkZTEwNTA2Mjk1NjcxNWM2YTRjNDY4MDU4Yzc1YmZmOTMw`
+Snapshot ID: `MCxlNTVlZjE4NDVlZjZiMzhkNmU5OTIyOGI1ZDBhMzBlNjE5MTVhYmZm`

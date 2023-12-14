@@ -4,7 +4,7 @@
 
 > 
 
-86 songs - 5 hr 0 min
+87 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Only Good Will Come of This](https://open.spotify.com/track/4OmI0k8g7OM7VKPSCyJTJ5) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Notes from Paris](https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE) | 3:30 | 2021-09-14 |  |
 | [Outta My Head](https://open.spotify.com/track/7BiTN1Mralutef2RlhlkiY) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Outta My Head](https://open.spotify.com/album/1rBhNWEadWDJn3IR2jVBdc) | 2:58 | 2020-08-19 |  |
 | [Pontiac](https://open.spotify.com/track/1dNxCqZyAl9XhIDX578usC) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Pontiac](https://open.spotify.com/album/57h6E4g2dPKQVVyTk8MJIP) | 3:06 | 2021-03-29 |  |
+| [Recently](https://open.spotify.com/track/0BHGsqVtDlTIZwNoE1RoMB) | [Matt Wertz](https://open.spotify.com/artist/6JVRYNneRsYNInT4TNr5vU) | [Recently](https://open.spotify.com/album/02nO8sjDUtPC1tPsKMdSPg) | 4:00 | 2023-12-13 |  |
 | [Remind Me](https://open.spotify.com/track/5Jp00Ys4dB0mzSLDe5Dnov) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Remind Me](https://open.spotify.com/album/2CNpmjG9dl9strKdXaCdUD) | 4:05 | 2020-05-12 |  |
 | [Say It Now](https://open.spotify.com/track/4yfrwgSq2TolFVDlryRjH3) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Say It Now](https://open.spotify.com/album/7EG9u02RRTJbZgKV2MTrNH) | 3:22 | 2021-05-13 |  |
 | [Side by Side](https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje) | [Collin Miller & the Brother Nature](https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6) | [Side by Side](https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF) | 5:34 | 2020-05-12 |  |

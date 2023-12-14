@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 108868,
+  "num_followers": 108931,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDQ5YjRlNjkyMTU3ZTVjOTQyNWQ3ZGZlNmJlOWRlMjFlNzU3NWJk",
+  "snapshot_id": "MCwwNjhlNjA3NWQ0NTEyYTUxMTQ2Nzk1ZGM1ZGJkOTZjNWY1YzgwZDgy",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Redux",
-        "url": "https://open.spotify.com/album/1shfaj98aEPsCz6k6B2O9o"
-      },
-      "artists": [
-        {
-          "name": "Cushy",
-          "url": "https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q"
-        }
-      ],
-      "duration_ms": 151446,
-      "name": "Convo",
-      "url": "https://open.spotify.com/track/38bkmIxxZMQC1f6m0JXFl6"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Take It Back",
         "url": "https://open.spotify.com/album/361cpEjJRfINouKxchrnOj"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 244750,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/4SMzmquqMX6TEF6KIYWrBC"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/1shfaj98aEPsCz6k6B2O9o"
+      },
+      "artists": [
+        {
+          "name": "Cushy",
+          "url": "https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q"
+        }
+      ],
+      "duration_ms": 151446,
+      "name": "Convo",
+      "url": "https://open.spotify.com/track/38bkmIxxZMQC1f6m0JXFl6"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Arabstazy - Under Frustration Vol. 2",
-        "url": "https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW"
-      },
-      "artists": [
-        {
-          "name": "Rafael Aragon",
-          "url": "https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs"
-        },
-        {
-          "name": "Stas",
-          "url": "https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG"
-        }
-      ],
-      "duration_ms": 322842,
-      "name": "Ik Vari Do Vari",
-      "url": "https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Chasin Daisys",
         "url": "https://open.spotify.com/album/7GT5JveFqzf8ugLQOaunBe"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 131707,
       "name": "Chasin Daisys",
       "url": "https://open.spotify.com/track/6Ubd7b9qq9gihaR8WElv7m"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Arabstazy - Under Frustration Vol. 2",
+        "url": "https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW"
+      },
+      "artists": [
+        {
+          "name": "Rafael Aragon",
+          "url": "https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs"
+        },
+        {
+          "name": "Stas",
+          "url": "https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG"
+        }
+      ],
+      "duration_ms": 322842,
+      "name": "Ik Vari Do Vari",
+      "url": "https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Birdie_",
-        "url": "https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le"
-      },
-      "artists": [
-        {
-          "name": "Hazy Noir",
-          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Birdie_ - Instrumental",
-      "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Groovly",
         "url": "https://open.spotify.com/album/2tBeBG1bZBtHDZAN3H8F7E"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 214537,
       "name": "Groovly",
       "url": "https://open.spotify.com/track/6jJb757pFbYEXjuWAJUcw6"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Birdie_",
+        "url": "https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le"
+      },
+      "artists": [
+        {
+          "name": "Hazy Noir",
+          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Birdie_ - Instrumental",
+      "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "SMOK",
-        "url": "https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7"
+        "name": "Skye",
+        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
       },
       "artists": [
         {
-          "name": "Sinan \u00d6ktem",
-          "url": "https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv"
+          "name": "Off / Side",
+          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
         }
       ],
-      "duration_ms": 160793,
-      "name": "SMOK",
-      "url": "https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV"
+      "duration_ms": 190098,
+      "name": "Skye",
+      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Skye",
-        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
+        "name": "SMOK",
+        "url": "https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7"
       },
       "artists": [
         {
-          "name": "Off / Side",
-          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
+          "name": "Sinan \u00d6ktem",
+          "url": "https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv"
         }
       ],
-      "duration_ms": 190098,
-      "name": "Skye",
-      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
+      "duration_ms": 160793,
+      "name": "SMOK",
+      "url": "https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0bil6MWGHYccY9YHiwiJgK"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Coco - Instrumental",
-      "url": "https://open.spotify.com/track/1xt1HCunOlnrI5UiPNAZaM"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "If You Show Me Love",
         "url": "https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 90044,
       "name": "If You Show Me Love",
       "url": "https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0bil6MWGHYccY9YHiwiJgK"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Coco - Instrumental",
+      "url": "https://open.spotify.com/track/1xt1HCunOlnrI5UiPNAZaM"
     },
     {
       "added_at": "2022-03-22 11:23:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Usher & H.E.R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,629 likes - 175 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,814 likes - 175 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 16 | [Roll With Me](https://open.spotify.com/track/4MbUtjvqoNZaCC7SdNZm6G) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Roll With Me](https://open.spotify.com/album/6MDeXfz6FV2ssjJj690UXD) | 2:54 |
 | 17 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
 | 18 | [Christmas All Year](https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Christmas All Year](https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl) | 2:53 |
-| 19 | [Put It Down](https://open.spotify.com/track/2Q5lu2KbEkBuAqqPFRvRla) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/2jnGkkqnf1mLtFGFl3DACW) | 2:45 |
+| 19 | [Put It Down](https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/7ig0qv5ZtpaX7NPAe4nok0) | 2:45 |
 | 20 | [Dopamine](https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Dopamine](https://open.spotify.com/album/37UvvLpEtCEfHZTRVK2KEn) | 3:00 |
 | 21 | [Lemonade](https://open.spotify.com/track/6ygDuZR468369KJvtcQr5Z) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Lemonade](https://open.spotify.com/album/6jMpfEJqxuHjwlX0o7vFe7) | 2:30 |
 | 22 | [Crickets](https://open.spotify.com/track/3V3WXwhwGY3HsM0uoHks7J) | [Anjoli](https://open.spotify.com/artist/2HIo2lcofrHHGCTQNFlGca) | [Crickets](https://open.spotify.com/album/3hFHHnivWcFqeox3ff7LtZ) | 2:46 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 27 | [I'm Good](https://open.spotify.com/track/2kjoWLm7yLCSfhH7iFROz9) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [I'm Good](https://open.spotify.com/album/4CXzaH691RzeQUTEnFtk8W) | 3:49 |
 | 28 | [Motions](https://open.spotify.com/track/4ebCOToHyqhl75EMMh6LiB) | [Tejy](https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk) | [Motions](https://open.spotify.com/album/6S6uqA3uUewPCdR3zepUGK) | 3:01 |
 | 29 | [Gravitron](https://open.spotify.com/track/1IwLgJqYAATGbyMyGa4ry4) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Gravitron](https://open.spotify.com/album/2pQlM0iTNZlonNOmtvTTHl) | 3:23 |
-| 30 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:28 |
+| 30 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 |
 | 31 | [Fallen](https://open.spotify.com/track/0IOZkD051sYu2FTG112Wnj) | [Sam V](https://open.spotify.com/artist/6m0VpWIUbhI3aITZFK2hmr) | [You Left Your Things Here](https://open.spotify.com/album/7as0SKupii7xv169VjeuCH) | 2:49 |
 | 32 | [Triggered](https://open.spotify.com/track/308cBpzXgANzgEP8dJATNx) | [Keiynan](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [The Heart Defence Mixtape](https://open.spotify.com/album/2O0tPgoAICbvlaMSS5IGK5) | 2:04 |
 | 33 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Mixed Signals](https://open.spotify.com/track/37Ul8ruDPOdhMuCRYbSUn6) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr), [Matt McGhee](https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN) | [Conversations From A Payphone](https://open.spotify.com/album/0T4Z5y6addAX9snpSlDNr7) | 4:08 |
 | 175 | [Man Down](https://open.spotify.com/track/5M3VijDTOgFsu9wtT2v4WM) | [JAAS](https://open.spotify.com/artist/58d2ZdXnLiZ4xhRNef78kt) | [Man Down](https://open.spotify.com/album/6MpUQUAXYyf69a2kSvIpyb) | 2:36 |
 
-Snapshot ID: `MCw3ZGQ5ODI2MjUzZjhiMzg3M2E2OTViNGUxMTVmOGVjMmJkYzQ3MGU2`
+Snapshot ID: `MCxkZjQ0Yzc2MjA3Y2JlMTlhZWFjYjYwOWZjNzVkZjBiZWQxZjRjYzYy`

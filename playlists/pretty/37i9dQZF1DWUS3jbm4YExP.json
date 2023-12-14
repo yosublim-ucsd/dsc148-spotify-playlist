@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 684636,
+  "num_followers": 684809,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTE0ZjVjMzYxNzUwZGQ3MzExZGQ5ZTk2NDVhOTEzZDk2MDQ3NzFh",
+  "snapshot_id": "MCwzYWJmMTNlNjIwMzExZTJhZjMzMDlkYjM2ZGNhYjkzNDk1MWJlMjQy",
   "tracks": [
     {
       "added_at": "2023-12-04 14:12:15",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 127545,
+      "name": "Suburban Breeze",
+      "url": "https://open.spotify.com/track/6xgskwtbWpagoXEIeAHHK3"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
         "name": "The Year of the Rabbit",
         "url": "https://open.spotify.com/album/4RrqryHIWFhPXkjjEqsjTt"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 221760,
       "name": "Long in the Tooth",
       "url": "https://open.spotify.com/track/6gZJn1abfUXsOcyBUKjp4D"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 127545,
-      "name": "Suburban Breeze",
-      "url": "https://open.spotify.com/track/6xgskwtbWpagoXEIeAHHK3"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
         "name": "2000 Blacks Got To Be Free (feat. Roy Ayers)",
         "url": "https://open.spotify.com/album/1YV7aEV84KGSUHIDuM4TtZ"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 293295,
       "name": "2000 Blacks Got to Be Free - Edit",
       "url": "https://open.spotify.com/track/6lI0dzCFeR86ijHg3SGSNP"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 450240,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -1791,22 +1791,18 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
-        "name": "Marvin",
-        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
+        "name": "Tayyara Warak (Habibi Funk 023)",
+        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
       },
       "artists": [
         {
-          "name": "Laurent Bardainne",
-          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
-        },
-        {
-          "name": "Tigre d'Eau Douce",
-          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
         }
       ],
-      "duration_ms": 235795,
-      "name": "Porsche 944",
-      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
+      "duration_ms": 168097,
+      "name": "Tayyara Warak",
+      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -1827,18 +1823,22 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
-        "name": "Tayyara Warak (Habibi Funk 023)",
-        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
+        "name": "Marvin",
+        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
       },
       "artists": [
         {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
         }
       ],
-      "duration_ms": 168097,
-      "name": "Tayyara Warak",
-      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
+      "duration_ms": 235795,
+      "name": "Porsche 944",
+      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -1855,26 +1855,6 @@
       "duration_ms": 151948,
       "name": "Space",
       "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
-        "name": "Jaiyede Afro",
-        "url": "https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5"
-      },
-      "artists": [
-        {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
-        },
-        {
-          "name": "The Heliocentrics",
-          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "In The Middle",
-      "url": "https://open.spotify.com/track/3OtxCmuaYCA8mX1sMcm7ba"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -1907,6 +1887,26 @@
       "duration_ms": 255558,
       "name": "Miss Universe",
       "url": "https://open.spotify.com/track/2CPpN4N2VPOzNsahwsopZj"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
+        "name": "Jaiyede Afro",
+        "url": "https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        },
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "In The Middle",
+      "url": "https://open.spotify.com/track/3OtxCmuaYCA8mX1sMcm7ba"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
+        "name": "Chaos Theories",
+        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "duration_ms": 261838,
+      "name": "Sky High",
+      "url": "https://open.spotify.com/track/0nxsB1Yg2nTscclsyNhy3M"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
         "name": "Maledetta Quella Notte",
         "url": "https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym"
       },
@@ -2015,38 +2031,6 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
-        "name": "Chaos Theories",
-        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
-      },
-      "artists": [
-        {
-          "name": "The Souljazz Orchestra",
-          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
-        }
-      ],
-      "duration_ms": 261838,
-      "name": "Sky High",
-      "url": "https://open.spotify.com/track/0nxsB1Yg2nTscclsyNhy3M"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
-        "name": "RAS II",
-        "url": "https://open.spotify.com/album/2c8tyrZcoohrBGmOAU8mjw"
-      },
-      "artists": [
-        {
-          "name": "RAS",
-          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
-        }
-      ],
-      "duration_ms": 348292,
-      "name": "Boogie",
-      "url": "https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
         "name": "Pueblo",
         "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 103220,
       "name": "Pueblo",
       "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
+        "name": "RAS II",
+        "url": "https://open.spotify.com/album/2c8tyrZcoohrBGmOAU8mjw"
+      },
+      "artists": [
+        {
+          "name": "RAS",
+          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
+        }
+      ],
+      "duration_ms": 348292,
+      "name": "Boogie",
+      "url": "https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
-        "name": "Diskomatik Katibim",
-        "url": "https://open.spotify.com/album/7BetE0Ec9rTDGAqezeDDSw"
-      },
-      "artists": [
-        {
-          "name": "Osman \u0130\u015fmen",
-          "url": "https://open.spotify.com/artist/25guZxbxESYr5Jo4iqPPHw"
-        }
-      ],
-      "duration_ms": 125133,
-      "name": "\u00dcsk\u00fcdar'dan Diskote\u011fe Giderken",
-      "url": "https://open.spotify.com/track/1vdPKKwFER1WLrQ9965AIA"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
         "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
         "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
       },
@@ -2183,22 +2167,6 @@
       "duration_ms": 171333,
       "name": "Souk el Ahad",
       "url": "https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
-        "name": "Spirituals",
-        "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 101560,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/7zvmi94ekefZgqq4E1JZ9H"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -2223,6 +2191,22 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
+        "name": "Spirituals",
+        "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 101560,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7zvmi94ekefZgqq4E1JZ9H"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
         "name": "Bayti Fi Rasi",
         "url": "https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 251319,
       "name": "Hana Mash Hu Al Yaman",
       "url": "https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
+        "name": "Diskomatik Katibim",
+        "url": "https://open.spotify.com/album/7BetE0Ec9rTDGAqezeDDSw"
+      },
+      "artists": [
+        {
+          "name": "Osman \u0130\u015fmen",
+          "url": "https://open.spotify.com/artist/25guZxbxESYr5Jo4iqPPHw"
+        }
+      ],
+      "duration_ms": 125133,
+      "name": "\u00dcsk\u00fcdar'dan Diskote\u011fe Giderken",
+      "url": "https://open.spotify.com/track/1vdPKKwFER1WLrQ9965AIA"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -2255,42 +2255,6 @@
       "duration_ms": 226568,
       "name": "Flames to Feed - Dr Rubberfunk Remix",
       "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
-        "name": "Soy Una Nube (Bosq Remix) - Single",
-        "url": "https://open.spotify.com/album/1SPKVznHu8hYWHhNNUaSmT"
-      },
-      "artists": [
-        {
-          "name": "Elia y Elizabeth",
-          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 347284,
-      "name": "Soy Una Nube - Bosq Remix",
-      "url": "https://open.spotify.com/track/3il9P7OQ9VJKoo3w1hpDoy"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -2327,6 +2291,42 @@
       "duration_ms": 179497,
       "name": "Shoreline Transit",
       "url": "https://open.spotify.com/track/3qo9MuJSAYzXSyxPmNN4HB"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
+        "name": "Soy Una Nube (Bosq Remix) - Single",
+        "url": "https://open.spotify.com/album/1SPKVznHu8hYWHhNNUaSmT"
+      },
+      "artists": [
+        {
+          "name": "Elia y Elizabeth",
+          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "duration_ms": 347284,
+      "name": "Soy Una Nube - Bosq Remix",
+      "url": "https://open.spotify.com/track/3il9P7OQ9VJKoo3w1hpDoy"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
+        "name": "Tropic of Tulli",
+        "url": "https://open.spotify.com/album/3vh0BivAB1dthp8mZRUXXl"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        }
+      ],
+      "duration_ms": 284070,
+      "name": "Musa Paradisa",
+      "url": "https://open.spotify.com/track/1f7ivAOOpU2pizwbzYkhmL"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
         "name": "Black Times",
         "url": "https://open.spotify.com/album/3drgm5Lvz5tS3d0paKXY8w"
       },
@@ -2435,6 +2451,26 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
+        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
+        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
+      },
+      "artists": [
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        },
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        }
+      ],
+      "duration_ms": 267316,
+      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
+      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
+    },
+    {
+      "added_at": "2023-12-04 14:12:15",
+      "album": {
         "name": "\u015eatellites",
         "url": "https://open.spotify.com/album/7olTOjGQOUzJxugpToyPMK"
       },
@@ -2455,22 +2491,6 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
-        "name": "Tropic of Tulli",
-        "url": "https://open.spotify.com/album/3vh0BivAB1dthp8mZRUXXl"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 284070,
-      "name": "Musa Paradisa",
-      "url": "https://open.spotify.com/track/1f7ivAOOpU2pizwbzYkhmL"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
         "name": "The Age of Aquarius",
         "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
@@ -2483,26 +2503,6 @@
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
-    },
-    {
-      "added_at": "2023-12-04 14:12:15",
-      "album": {
-        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
-        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
-      },
-      "artists": [
-        {
-          "name": "Lass",
-          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
-        },
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        }
-      ],
-      "duration_ms": 267316,
-      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
-      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -2563,18 +2563,18 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
         }
       ],
-      "duration_ms": 195999,
-      "name": "Hey Boy",
-      "url": "https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI"
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
       "added_at": "2023-12-04 14:12:15",
@@ -2595,34 +2595,34 @@
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "Chancla",
-          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 135017,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
+      "duration_ms": 195999,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI"
     },
     {
       "added_at": "2023-12-04 14:12:15",
       "album": {
-        "name": "Good Good Dub",
-        "url": "https://open.spotify.com/album/3dPw9VuoR3OG864MMhCEND"
+        "name": "Tonkori In The Moonlight",
+        "url": "https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx"
       },
       "artists": [
         {
-          "name": "Blundetto",
-          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO"
         }
       ],
-      "duration_ms": 246034,
-      "name": "Dub Azucar",
-      "url": "https://open.spotify.com/track/5GDcoQYmNc6o7ng1ergzpd"
+      "duration_ms": 310446,
+      "name": "Yaykatekar Dub (Love Dub)",
+      "url": "https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT"
     }
   ],
   "unique_name": "Global Groove",

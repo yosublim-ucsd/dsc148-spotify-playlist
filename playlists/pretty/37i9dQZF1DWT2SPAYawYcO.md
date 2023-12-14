@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,129 likes - 81 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,161 likes - 81 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 80 | [MUD](https://open.spotify.com/track/423KXgSOZb2wmoEYipMZQH) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2), [Emile Battour](https://open.spotify.com/artist/7LNI86kENOKWF35DjHr4rT) | [MUD](https://open.spotify.com/album/7kA1WMDFyThXvvbVMG7Noo) | 3:42 |
 | 81 | [DEEPEND](https://open.spotify.com/track/5FNuqSuNBxjoJgrWiTatcg) | [Boomchild](https://open.spotify.com/artist/2afAZxHpWLn3iynVnl9wkl) | [DEEPEND](https://open.spotify.com/album/5sTod6XjRuVCjJOCz1ytgl) | 3:15 |
 
-Snapshot ID: `MCw1ODkzMjBiYWUzMTViMjlhZGU3MWMxOTcyNTM2ZDA0MzI3MDhmZmNj`
+Snapshot ID: `MCw5MzZkMDE1MDA3MWY5NmQ2OTAzNWFlMjk2NjE2MTA0ODk1ODY2NmE5`

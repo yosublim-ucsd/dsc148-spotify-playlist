@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Ana Castela e os artistas mais ouvidos no Brasil em 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,231 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,229 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 22 | [Deus Perdoa](https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Deus Perdoa](https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv) | 2:17 |
 | 23 | [Mágica \- Ao Vivo](https://open.spotify.com/track/1UdVuXvwvIcXe8gDaSIB4n) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:51 |
 | 24 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
-| 25 | [Rua \- Ao Vivo em Bahamas](https://open.spotify.com/track/4aFZiSRqkxC5sIbSDMWBE5) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Rua \(Ao Vivo em Bahamas\)](https://open.spotify.com/album/4Hw3MhjC2hg8bPc9eNhvJ5) | 2:48 |
+| 25 | [Covardia](https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Covardia](https://open.spotify.com/album/5Bqlwew4I7DSJ2nK0jR53u) | 2:30 |
 | 26 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 |
 | 27 | [01 Não É 02](https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [01 Não É 02](https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl) | 2:08 |
 | 28 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/6e5byyKtx6R0h66gagelPe) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/2eDXZQ6rgIN3nZ6lwXbONV) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 49 | [Diferentão \- Ao Vivo](https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 2:43 |
 | 50 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 |
 
-Snapshot ID: `MCxhZDI0ZmUwY2FmZTM1MWEwNGYzYTQ2MzI3Mzc1Y2ExZGFlZDJkZGIx`
+Snapshot ID: `MCwyNjRkNGRhY2NlMmJkNmM1NTk1MzMzMWQ1Nzk1ZmFiNGIwNDM2ZTZh`

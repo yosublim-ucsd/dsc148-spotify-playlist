@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 50649,
+  "num_followers": 50665,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGQwNjBmOTcwMzEyZWNiOTAyOGEzZTNkNjJjYWQwNzViZGRiZTVh",
+  "snapshot_id": "MCwwZmYxZGM1OThlYjdmNzFlYmE3YTQyOWRjNjRkNjM3ZmI5Yjk1NTg2",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Date Brillo Cadenita",
-        "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
-      },
-      "artists": [
-        {
-          "name": "Fefita La Grande",
-          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
-        }
-      ],
-      "duration_ms": 438480,
-      "name": "La Chiflera",
-      "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Ibeyi",
         "url": "https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 252095,
       "name": "River",
       "url": "https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm"
+        "name": "Date Brillo Cadenita",
+        "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
       },
       "artists": [
         {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+          "name": "Fefita La Grande",
+          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
         }
       ],
-      "duration_ms": 160093,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t"
+      "duration_ms": 438480,
+      "name": "La Chiflera",
+      "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Bonito que Canta",
-        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
-      },
-      "artists": [
-        {
-          "name": "Petrona Martinez",
-          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "La Vida Vale la Pena",
-      "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Spell 31",
         "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 195204,
       "name": "Sister 2 Sister",
       "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Bonito que Canta",
+        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
+      },
+      "artists": [
+        {
+          "name": "Petrona Martinez",
+          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "La Vida Vale la Pena",
+      "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Gimme Light",
-        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Gimme Light",
-      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "They Love Us",
         "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 147535,
       "name": "Vete Y Dile",
       "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Gimme Light",
+        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
+      },
+      "artists": [
+        {
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Gimme Light",
+      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
       },
       "artists": [
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+      "duration_ms": 227836,
+      "name": "Mal\u00e9vola",
+      "url": "https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 227836,
-      "name": "Mal\u00e9vola",
-      "url": "https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq"
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 146023,
-      "name": "Oye Mi Ritmo",
-      "url": "https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 208203,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 146023,
+      "name": "Oye Mi Ritmo",
+      "url": "https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "ABUC",
-        "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
+        "name": "EnVy",
+        "url": "https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl"
       },
       "artists": [
         {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+          "name": "Rauli V",
+          "url": "https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG"
         }
       ],
-      "duration_ms": 225173,
-      "name": "Afro Mambo",
-      "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
+      "duration_ms": 169412,
+      "name": "EnVy",
+      "url": "https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx"
     }
   ],
   "unique_name": "Orgullo Afro-Latino",

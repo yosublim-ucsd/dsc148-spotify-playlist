@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Quevedo y Saiko en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,544 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,586 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 29 | [Ténis Nuevos](https://open.spotify.com/track/1ZP97vG2hQ3sCw6z2fEOJx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Ténis Nuevos](https://open.spotify.com/album/3JGQ7wVltDcYjVyQqTqIFV) | 3:07 |
 | 30 | [Algo Mágico](https://open.spotify.com/track/7D93pJcwymzaZx8WgBo2zG) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:21 |
 | 31 | [Me Olvidé](https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 2:43 |
-| 32 | [Fango](https://open.spotify.com/track/4cIRzRikDWfeFskgAbC13R) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Fango](https://open.spotify.com/album/31vollZPe01eJhqLhugezp) | 3:03 |
+| 32 | [Fango](https://open.spotify.com/track/2Y0ZBxr2BOTQjiC0tfgFjg) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:06 |
 | 33 | [Llámame](https://open.spotify.com/track/5t3a5wvPkqgE4T6jlxfyIM) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Santa Griega](https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu) | [Llámame](https://open.spotify.com/album/6JVlUvEAlPVgbCyaYzT5l2) | 2:56 |
 | 34 | [Notificación](https://open.spotify.com/track/6qWukaKIiMt1G7TEfVHlzZ) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/1LzkBjuMTYNgFLaOmcx3UW) | 3:43 |
 | 35 | [Pulsiones](https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Pulsiones](https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I) | 2:57 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 100 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 |
 | 101 | [ESTÁ CABRÓN](https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af) | [ESTÁ CABRÓN](https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl) | 3:04 |
 
-Snapshot ID: `MCxlYjdhYTZlNmViMzE4MjdkNDAwNTMwYTNiZTc2OWQ0NGVmYzY3ZDM4`
+Snapshot ID: `MCw1NGFhMWY2ZTM1ZWQxZTJjYjdkNTRiMDI0MzRlYTk2MDAwODZmNzMz`

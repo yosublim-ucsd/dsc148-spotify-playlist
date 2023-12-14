@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 665906,
+  "num_followers": 665986,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTVkODJmYWExYjc2OTdjZTIzMTMwOWMxMGVhZmUxOGI2OTkyMWVh",
+  "snapshot_id": "MCw1ZjBjYjk4NjA0N2U3YmNkYjFmMDU3OWUzODJlMDRkNDU2Yjk5MzMz",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+        "name": "Live & Inspired",
+        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
+      "duration_ms": 226293,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Live & Inspired",
-        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 226293,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Punk Goes Pop, Vol. 6",
         "url": "https://open.spotify.com/album/1l6S45U20fiob98cV6siw8"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 204653,
       "name": "Royals",
       "url": "https://open.spotify.com/track/3RZxpy9ic7FhK3UPvxmPET"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Curse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
-      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Eleanor Rigby",
         "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 177413,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 189248,
+      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI"
-      },
-      "artists": [
-        {
-          "name": "Smith & Myers",
-          "url": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe"
-        }
-      ],
-      "duration_ms": 213878,
-      "name": "ROCKIN' IN THE FREE WORLD",
-      "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 169319,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/071hmHI51coELRK8hoH12U"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI"
+      },
+      "artists": [
+        {
+          "name": "Smith & Myers",
+          "url": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe"
+        }
+      ],
+      "duration_ms": 213878,
+      "name": "ROCKIN' IN THE FREE WORLD",
+      "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"
     },
     {
       "added_at": "2023-11-17 05:00:00",

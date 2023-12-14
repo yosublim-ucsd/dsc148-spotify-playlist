@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21819,
+  "num_followers": 21824,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGI4NTU2Njg2YmIzYWFlMDU1NjI5Yjg5MzYzMDY4NTk0OTNkZDA1",
+  "snapshot_id": "MCxlM2VkNzM0ZjhmYWUxNTE5YWI4MzUwOWM2ZmNlMjM2Y2VkN2NlZTZi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -227,8 +227,8 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65"
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
       },
       "artists": [
         {
@@ -242,7 +242,7 @@
       ],
       "duration_ms": 196800,
       "name": "Aguacero",
-      "url": "https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa"
+      "url": "https://open.spotify.com/track/7B01dO1ptQDr1B030skMxs"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Panoramas",
-        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
-      },
-      "artists": [
-        {
-          "name": "Klaatu Suuns",
-          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
-        }
-      ],
-      "duration_ms": 304901,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Cristales",
         "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 225362,
       "name": "Cristales",
       "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Panoramas",
+        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
+      },
+      "artists": [
+        {
+          "name": "Klaatu Suuns",
+          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
+        }
+      ],
+      "duration_ms": 304901,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ruinas",
-        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
-      },
-      "artists": [
-        {
-          "name": "Misile",
-          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Las Ruinas",
-      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Azulmagenta",
         "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 218354,
       "name": "Azulmagenta",
       "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ruinas",
+        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
+      },
+      "artists": [
+        {
+          "name": "Misile",
+          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Las Ruinas",
+      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
     },
     {
       "added_at": "2020-12-01 05:03:00",

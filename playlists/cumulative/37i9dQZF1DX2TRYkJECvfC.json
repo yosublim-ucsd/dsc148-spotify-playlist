@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-14",
       "duration_ms": 352000,
       "name": "Karizma",
       "url": "https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM"
@@ -8560,6 +8560,24 @@
       "duration_ms": 221760,
       "name": "When the Lights Go Out",
       "url": "https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W"
+    },
+    {
+      "album": {
+        "name": "When The World Stops Turning (Quiet Mix)",
+        "url": "https://open.spotify.com/album/4bXcZhVjyk6bV6xMpJD9Om"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "When The World Stops Turning - Quiet Mix",
+      "url": "https://open.spotify.com/track/0QYTRe6pYYgYmKQym4frbp"
     },
     {
       "album": {

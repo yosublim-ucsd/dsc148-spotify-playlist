@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Jigarthanda DoubleX
 
-117 songs - 7 hr 0 min
+118 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Soodam Karpooram \- From "Soppana Sundari"](https://open.spotify.com/track/5HcBzwZutEclerFcuhm5gV) | [Ajmal Tahseen](https://open.spotify.com/artist/327Ko6ilxhggzzjk5kLEnU), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Soodam Karpooram \(From "Soppana Sundari"\)](https://open.spotify.com/album/5UdUvzv4x4IE2RybJvcMgD) | 2:55 | 2023-04-11 | 2023-04-18 |
 | [Summa Surrunu](https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:46 | 2022-02-03 |  |
 | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/4jFrwveExsKoWw4uxDu8kz) | 4:18 | 2022-06-24 |  |
+| [Thaalam](https://open.spotify.com/track/7dIyC8fFRmYYevMQrUCYAP) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Fight Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lBvBSjtIVeGFkRqDdhTTV) | 2:48 | 2023-12-13 |  |
 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 | 2022-12-04 |  |
 | [Theekuchi](https://open.spotify.com/track/11ktAtbN1lp3aTvvbhDWi3) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:53 | 2023-11-09 |  |
 | [Thunder Kaaran \(Promo Song\)](https://open.spotify.com/track/2OPnWdJYLhqt5lTw3MK8RI) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thunder Kaaran \(Promo Song\) \(From "Veeran"\)](https://open.spotify.com/album/0GE9fz40zQay8v7DQ7HBYT) | 2:36 | 2023-03-31 | 2023-04-05 |

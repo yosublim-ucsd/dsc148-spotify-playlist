@@ -2,7 +2,7 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Alcolirykos en portada.
+> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Alcolirykoz en portada.
 
 261 songs - 15 hr 4 min
 
