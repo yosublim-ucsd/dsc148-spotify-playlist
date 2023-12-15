@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Sabrina Carpenter
 
-414 songs - 1 day 1 hr 36 min
+415 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Don't Look Back in Anger \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 5:04 | 2021-09-24 | 2022-07-28 |
 | [Don't Matter \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3yyWyHmynAWWCPASifJ7Ev) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj) | 3:09 | 2022-10-03 |  |
 | [Don't Matter \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4a00SVbdG6saNqRJlC4XKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:09 | 2021-09-24 | 2022-10-13 |
-| [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 | 2021-09-24 |  |
+| [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 | 2021-09-24 | 2023-12-15 |
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-09-24 |  |
 | [Don't Think Twice It's Alright \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4yjfib7L05XTjppPcTk29t) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Spotify Singles](https://open.spotify.com/album/7fxMPqE6oOmNwKMmMIOxaP) | 3:17 | 2021-09-24 | 2022-07-29 |
 | [Don’t Be Denied \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5t3ZGxzqyS79oP7rpFfPio) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles](https://open.spotify.com/album/6uof38bF3vLCZgMhjQKZ5y) | 5:54 | 2021-09-24 |  |
@@ -252,6 +252,7 @@
 | [Mind Games \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2UxY3bwMbuPdbG3teXYOxQ) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Spotify Singles](https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz) | 5:20 | 2022-03-24 | 2022-07-05 |
 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 | 2021-09-24 | 2022-07-21 |
 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-18 |  |
+| [More Than Words](https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp) | 3:34 | 2023-10-02 |  |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-06-07 | 2023-08-26 |
 | [Motivation \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 3:26 | 2021-09-24 |  |
 | [Mr\. Tambourine Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7tw38zojk2q0bN8JQcr3Cm) | [Hamilton Leithauser + Rostam](https://open.spotify.com/artist/3h0w83PsjASrm5999trG4n) | [Spotify Singles](https://open.spotify.com/album/0XyEzOV3gsUwkCjuFdxD47) | 4:11 | 2021-09-24 | 2022-04-21 |

@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 191730,
       "name": "Dare You To Doubt Me",
       "url": "https://open.spotify.com/track/10RUyNnakybrdAhIm65Lkx"
@@ -8114,6 +8114,24 @@
       "duration_ms": 197035,
       "name": "no excuses",
       "url": "https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y"
+    },
+    {
+      "album": {
+        "name": "Dirt Femme",
+        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
     },
     {
       "album": {

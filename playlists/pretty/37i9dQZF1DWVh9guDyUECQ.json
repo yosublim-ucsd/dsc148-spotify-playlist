@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 177934,
+  "num_followers": 177974,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "La M\u00fasica",
+        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "La M\u00fasica",
+      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Palpitaciones (Remix)",
         "url": "https://open.spotify.com/album/7arSsVZ5zYOxQakXbw73cv"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "La M\u00fasica",
-        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
+        "name": "El Hijo del Borracho",
+        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
       },
       "artists": [
         {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+          "name": "Arias",
+          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
         }
       ],
-      "duration_ms": 254000,
-      "name": "La M\u00fasica",
-      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
+      "duration_ms": 200636,
+      "name": "Ma' Na",
+      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "On (Deluxe)",
-        "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 206527,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Si Tu No Estas",
         "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Hijo del Borracho",
-        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
+        "name": "On (Deluxe)",
+        "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
       },
       "artists": [
         {
-          "name": "Arias",
-          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 200636,
-      "name": "Ma' Na",
-      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
+      "duration_ms": 206527,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1355,8 +1355,8 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Para Amarte",
-        "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
+        "name": "Soy Tan Feliz",
+        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
       },
       "artists": [
         {
@@ -1364,13 +1364,17 @@
           "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
         },
         {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Para Amarte",
-      "url": "https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj"
+      "duration_ms": 266571,
+      "name": "Soy Tan Feliz",
+      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1531,8 +1535,8 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Soy Tan Feliz",
-        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
+        "name": "Para Amarte",
+        "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
       },
       "artists": [
         {
@@ -1540,17 +1544,13 @@
           "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
         },
         {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         }
       ],
-      "duration_ms": 266571,
-      "name": "Soy Tan Feliz",
-      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
+      "duration_ms": 228000,
+      "name": "Para Amarte",
+      "url": "https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Cotizate",
-        "url": "https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC"
-      },
-      "artists": [
-        {
-          "name": "Militante Bierd",
-          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
-        }
-      ],
-      "duration_ms": 192036,
-      "name": "Cotizate",
-      "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "La Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 157100,
       "name": "Los Bendigo",
       "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Cotizate",
+        "url": "https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC"
+      },
+      "artists": [
+        {
+          "name": "Militante Bierd",
+          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
+        }
+      ],
+      "duration_ms": 192036,
+      "name": "Cotizate",
+      "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mateo 10:16",
-        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
-      },
-      "artists": [
-        {
-          "name": "Yowcend la Igriega",
-          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Yo Te Mir\u00e9",
         "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
       },
@@ -1707,6 +1687,22 @@
       "duration_ms": 246000,
       "name": "Yo Te Mire",
       "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Mi Cielo",
+        "url": "https://open.spotify.com/album/37vtl31mdLh338b2xDh0Vx"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/0am2qeRMSo0KF3Q8SBjdhu"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1735,18 +1731,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mi Cielo",
-        "url": "https://open.spotify.com/album/37vtl31mdLh338b2xDh0Vx"
+        "name": "Mateo 10:16",
+        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
       },
       "artists": [
         {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+          "name": "Yowcend la Igriega",
+          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 198640,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/0am2qeRMSo0KF3Q8SBjdhu"
+      "duration_ms": 179999,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Tu Siervo Pa",
         "url": "https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 310574,
       "name": "Amor de Hermano",
       "url": "https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "added_at": "2022-08-27 05:04:45",

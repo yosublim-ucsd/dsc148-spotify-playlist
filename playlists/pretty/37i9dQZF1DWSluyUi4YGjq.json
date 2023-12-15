@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: The Jesus and Mary Chain",
-  "num_followers": 133065,
+  "num_followers": 133188,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWFmNTk4MTY3MTg0YWI4MDNiODllMzI3OGI3ZTMyNWZlYjFjMDUw",
+  "snapshot_id": "MCw4MjNhOTExMDMxZjFhZDkxMzJlNTQyOTA4MzhiMmU2OWVkZTY3MWY1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -363,6 +363,22 @@
       "duration_ms": 242515,
       "name": "Haunt You Still",
       "url": "https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC"
+    },
+    {
+      "added_at": "2023-12-14 19:53:18",
+      "album": {
+        "name": "scars",
+        "url": "https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB"
+      },
+      "artists": [
+        {
+          "name": "Novulent",
+          "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
+        }
+      ],
+      "duration_ms": 95002,
+      "name": "scars",
+      "url": "https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF"
     },
     {
       "added_at": "2023-12-08 23:32:10",

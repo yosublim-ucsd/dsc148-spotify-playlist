@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,406 likes - 39 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,407 likes - 39 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

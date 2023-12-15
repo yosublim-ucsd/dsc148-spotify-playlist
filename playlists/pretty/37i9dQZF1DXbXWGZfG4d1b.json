@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 20972,
+  "num_followers": 20982,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Vamos a Destruir",
-        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
       },
       "artists": [
         {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
         }
       ],
-      "duration_ms": 250621,
-      "name": "Cangrejal",
-      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
+      "duration_ms": 236000,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
+        "name": "Vamos a Destruir",
+        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
       },
       "artists": [
         {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
         }
       ],
-      "duration_ms": 236000,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
+      "duration_ms": 250621,
+      "name": "Cangrejal",
+      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -255,42 +255,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "El rock and roll pas\u00f3 de moda",
-        "url": "https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        },
-        {
-          "name": "Lucas Jaubet",
-          "url": "https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr"
-        }
-      ],
-      "duration_ms": 241297,
-      "name": "El rock and roll pas\u00f3 de moda",
-      "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
-        "name": "Caldero",
-        "url": "https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 251128,
-      "name": "Semillas de Luz",
-      "url": "https://open.spotify.com/track/2ARsdraBKtezi5UBCmzXnW"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -311,6 +275,42 @@
       "duration_ms": 192389,
       "name": "CABEZAS DEL TIEMPO",
       "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "Caldero",
+        "url": "https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 251128,
+      "name": "Semillas de Luz",
+      "url": "https://open.spotify.com/track/2ARsdraBKtezi5UBCmzXnW"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "El rock and roll pas\u00f3 de moda",
+        "url": "https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Lucas Jaubet",
+          "url": "https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr"
+        }
+      ],
+      "duration_ms": 241297,
+      "name": "El rock and roll pas\u00f3 de moda",
+      "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Vamos a destruir",
-        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Vamos a destruir",
-      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "D\u00eda del Trabajador",
         "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
       },
@@ -447,22 +431,6 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 199901,
-      "name": "VOID",
-      "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
         "name": "Las Palomas",
         "url": "https://open.spotify.com/album/08k3nUDklrv3aQOnIsWCjp"
       },
@@ -475,6 +443,38 @@
       "duration_ms": 221843,
       "name": "Las Palomas",
       "url": "https://open.spotify.com/track/4qI9iwfb7U9Q14HSylzy0l"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "Vamos a destruir",
+        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Vamos a destruir",
+      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 199901,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -515,26 +515,22 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "Gracias Por Nada",
-        "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
+        "name": "MALA INFLUENCIA",
+        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
       },
       "artists": [
         {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
         },
         {
-          "name": "Mora S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
         }
       ],
-      "duration_ms": 225833,
-      "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
-      "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
+      "duration_ms": 133775,
+      "name": "MALA INFLUENCIA",
+      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -555,22 +551,42 @@
     {
       "added_at": "2023-12-07 21:35:13",
       "album": {
-        "name": "MALA INFLUENCIA",
-        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
       },
       "artists": [
         {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        },
-        {
-          "name": "Mora y los Metegoles",
-          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
         }
       ],
-      "duration_ms": 133775,
-      "name": "MALA INFLUENCIA",
-      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+    },
+    {
+      "added_at": "2023-12-07 21:35:13",
+      "album": {
+        "name": "Gracias Por Nada",
+        "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Mora S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 225833,
+      "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
+      "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
     },
     {
       "added_at": "2023-12-07 21:35:13",
@@ -635,22 +651,6 @@
       "duration_ms": 214409,
       "name": "Amor Express",
       "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
-    },
-    {
-      "added_at": "2023-12-07 21:35:13",
-      "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
     },
     {
       "added_at": "2023-12-07 21:35:13",

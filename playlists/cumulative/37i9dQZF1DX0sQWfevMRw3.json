@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 156206,
       "name": "ALLA SOM VILL LEKA",
       "url": "https://open.spotify.com/track/2tF0hgXyVxUoWMOoUm97Va"
@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 114483,
       "name": "DESIGNER",
       "url": "https://open.spotify.com/track/4CysBxV6dweKg1hJh9kYGa"
@@ -3468,6 +3468,32 @@
       "duration_ms": 137093,
       "name": "Dunk",
       "url": "https://open.spotify.com/track/3gOGhQv4Ti8lQDTatJ21Jv"
+    },
+    {
+      "album": {
+        "name": "Dunka dunka p\u00e5",
+        "url": "https://open.spotify.com/album/6JUF369KMb1w3ZdnCkslGZ"
+      },
+      "artists": [
+        {
+          "name": "SAGA",
+          "url": "https://open.spotify.com/artist/4Fdl5e4IWa9fgrILHXzdEs"
+        },
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "Peter Jezewski",
+          "url": "https://open.spotify.com/artist/401oO85UVJpqgksV56fTVg"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153620,
+      "name": "Dunka dunka p\u00e5",
+      "url": "https://open.spotify.com/track/4o5weGAWJfW9pvNCDAvqxf"
     },
     {
       "album": {
@@ -6407,6 +6433,28 @@
     },
     {
       "album": {
+        "name": "Gin och gl\u00f6gg (Mozby Remix)",
+        "url": "https://open.spotify.com/album/46A9HIxC5c0iYUucJZkkfD"
+      },
+      "artists": [
+        {
+          "name": "JulleMeck",
+          "url": "https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32"
+        },
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92250,
+      "name": "Gin och gl\u00f6gg - Mozby Remix",
+      "url": "https://open.spotify.com/track/3S4yXniNqhkSOF1SEW8Tf1"
+    },
+    {
+      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/6dGns7nbpxDipRomnj6mgC"
       },
@@ -6474,6 +6522,28 @@
       "duration_ms": 174248,
       "name": "Glowing Up (feat. Tudor & TUSO)",
       "url": "https://open.spotify.com/track/4JR7hMybbPl8jjJxXDxRXd"
+    },
+    {
+      "album": {
+        "name": "GL\u00d6GG OCH KABANOSS",
+        "url": "https://open.spotify.com/album/2k9Uu0KKi8RXN1KPL9QBi2"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157935,
+      "name": "GL\u00d6GG OCH KABANOSS",
+      "url": "https://open.spotify.com/track/2obQHaNMnII5WVpUavNBZq"
     },
     {
       "album": {
@@ -7390,7 +7460,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 128944,
       "name": "HEM MED MIG",
       "url": "https://open.spotify.com/track/0oHXVZGEEo73TYZ0N1ow5F"
@@ -12333,6 +12403,24 @@
     },
     {
       "album": {
+        "name": "PJ\u00c4XTR\u00c4FF",
+        "url": "https://open.spotify.com/album/4JpkaByVivNNnhcm3PlmhP"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "PJ\u00c4XTR\u00c4FF",
+      "url": "https://open.spotify.com/track/1Zq2BFcQu6ceuGqNCK9Da9"
+    },
+    {
+      "album": {
         "name": "PO PO PULL UP",
         "url": "https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z"
       },
@@ -14470,7 +14558,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 169658,
       "name": "Sista flaskan",
       "url": "https://open.spotify.com/track/2SuATJjKTbCxHFCLE10Gmh"
@@ -15072,6 +15160,24 @@
       "duration_ms": 136870,
       "name": "SN\u00c4LLA SOV MED MIG",
       "url": "https://open.spotify.com/track/2tLlVy7fuuoLyunFDoKiUZ"
+    },
+    {
+      "album": {
+        "name": "SN\u00d6BOLLSEFFEKTEN",
+        "url": "https://open.spotify.com/album/1G4Sba3rv2iRwh7g2OmR3Y"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137132,
+      "name": "SN\u00d6BOLLSEFFEKTEN",
+      "url": "https://open.spotify.com/track/5oMJVshrLMZupUh2I0X3T0"
     },
     {
       "album": {

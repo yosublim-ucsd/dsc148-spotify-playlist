@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 293500,
       "name": "Change",
       "url": "https://open.spotify.com/track/7lq0rAIgcnidrxl0GJ8lkE"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 136000,
       "name": "deep in the water",
       "url": "https://open.spotify.com/track/155hvjjETZnGJXg187HGXy"
@@ -5224,6 +5224,32 @@
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/3wROjwePZ2JrvHI2FPDqul"
+    },
+    {
+      "album": {
+        "name": "Hurts (clear eyes Remix)",
+        "url": "https://open.spotify.com/album/43m03WX1izq4aQlMA0z501"
+      },
+      "artists": [
+        {
+          "name": "Charlie Crown",
+          "url": "https://open.spotify.com/artist/3UB9E49EhIaD8mr9qJPe6r"
+        },
+        {
+          "name": "Sara Phillips",
+          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
+        },
+        {
+          "name": "clear eyes",
+          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151475,
+      "name": "Hurts - clear eyes Remix",
+      "url": "https://open.spotify.com/track/6bRfQTVewKLIEY2d6hr495"
     },
     {
       "album": {
@@ -8089,6 +8115,24 @@
     },
     {
       "album": {
+        "name": "planes",
+        "url": "https://open.spotify.com/album/5WsHwSqlEN60k483dej4E5"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182276,
+      "name": "planes",
+      "url": "https://open.spotify.com/track/0NZWvqOmV37gZJRCKvYX3A"
+    },
+    {
+      "album": {
         "name": "PLASTIC",
         "url": "https://open.spotify.com/album/0la5wm4k6MJJylzdxo3exf"
       },
@@ -8722,6 +8766,28 @@
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv"
+    },
+    {
+      "album": {
+        "name": "Ripple (Memphis LK Remix)",
+        "url": "https://open.spotify.com/album/1x0eqlITyteU8f457iMx4I"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        },
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186215,
+      "name": "Ripple (Memphis LK Remix)",
+      "url": "https://open.spotify.com/track/1Vay4LF63vPh7K0bBMj2fp"
     },
     {
       "album": {
@@ -9776,6 +9842,28 @@
       "duration_ms": 192063,
       "name": "slomo (with Tohji & Midas The Jagaban)",
       "url": "https://open.spotify.com/track/1siKLsvJLmVM8fBzJrpBNy"
+    },
+    {
+      "album": {
+        "name": "Small Sanctuary (nimino Remix)",
+        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252187,
+      "name": "Small Sanctuary - nimino Remix",
+      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
     },
     {
       "album": {
@@ -11894,7 +11982,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 194285,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/1g2q4DStDT1N6LRRUX0o6e"
@@ -12278,7 +12366,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 285400,
       "name": "Woke This Giant",
       "url": "https://open.spotify.com/track/7muWe1RUQDYkVyVCmB3IXg"

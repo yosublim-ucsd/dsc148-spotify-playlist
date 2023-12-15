@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-272 songs - 12 hr 23 min
+274 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2022-05-13 | 2022-09-09 |
 | [Caleidoscope](https://open.spotify.com/track/2G8m3fBQ4piCvfXsHoz2cj) | [Maxime La Pierre](https://open.spotify.com/artist/2cEK29tjbvZltwtXcXhq8w) | [Caleidoscope](https://open.spotify.com/album/1X5bu0XoGfIZGOlWhkbxam) | 3:47 | 2022-05-13 | 2022-07-08 |
 | [Candle](https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Swaying](https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY) | 3:07 | 2022-06-03 | 2023-08-12 |
+| [Cape May](https://open.spotify.com/track/77e7g7IzJHpk5hnwUguZIv) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cape May](https://open.spotify.com/album/0R1tZfJSsUmM0LOYppmziV) | 2:42 | 2023-12-15 |  |
 | [Catamount Mountain](https://open.spotify.com/track/0ESy5EctGe01Ko8Oy2JkIO) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Catamount Mountain](https://open.spotify.com/album/4qkR8LyWFPQ2dnnu0VPYxm) | 2:27 | 2023-02-24 |  |
 | [Cherry Blossom](https://open.spotify.com/track/3Eg6NOSgAuaA3wmTcvDFUI) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Sam Blakelock](https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR) | [Cherry Blossom](https://open.spotify.com/album/2lIfecqavjn0OLbc1YCapM) | 1:50 | 2022-05-13 | 2023-04-28 |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2022-05-13 |  |
@@ -70,8 +71,8 @@
 | [Come To My Window](https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Come To My Window](https://open.spotify.com/album/0E0UTRTQUYrcOpO7bZoovG) | 3:29 | 2022-05-13 | 2023-02-25 |
 | [Comin' Home](https://open.spotify.com/track/4zRT3cEjUXh715YPOYsf8D) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Comin' Home](https://open.spotify.com/album/0hTWpULZAfuqIre5Z8HyL0) | 2:57 | 2023-02-24 |  |
 | [Coming home to someone](https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Coming home to someone](https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp) | 2:45 | 2022-05-13 |  |
-| [Comings & Goings](https://open.spotify.com/track/04QYnXLbnPWSS2pgR0z1yZ) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Comings & Goings](https://open.spotify.com/album/1x5HTAuVJWSlbn3prj6Bfb) | 2:59 | 2022-05-13 |  |
-| [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 | 2022-05-13 |  |
+| [Comings & Goings](https://open.spotify.com/track/04QYnXLbnPWSS2pgR0z1yZ) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Comings & Goings](https://open.spotify.com/album/1x5HTAuVJWSlbn3prj6Bfb) | 2:59 | 2022-05-13 | 2023-12-15 |
+| [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 | 2022-05-13 | 2023-12-15 |
 | [Covered Bridge](https://open.spotify.com/track/5MWuwiaU3fMOuMWfsV3FIz) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Strings of Engagement](https://open.spotify.com/album/1mdk73KyB8l3CGuT5aslY5) | 2:37 | 2022-10-07 | 2023-11-24 |
 | [Crowns](https://open.spotify.com/track/1tYypP1QZl7IPoeFsW0yRm) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [Crowns](https://open.spotify.com/album/0CpZPSBZYRkXxCnOeBZmJA) | 2:15 | 2022-05-27 |  |
 | [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 |  |
@@ -214,6 +215,7 @@
 | [Save your tears](https://open.spotify.com/track/7GX8jHeQheQhGdG8gwYMg7) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Save your tears](https://open.spotify.com/album/0pKAiHWoZOb4LuSq31i8cB) | 3:21 | 2022-05-13 | 2023-09-01 |
 | [Sawdust Floors](https://open.spotify.com/track/22CshhpyS2gjbii88Rizzm) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Sawdust Floors](https://open.spotify.com/album/2cgfREGDztUfqSQoVib1Er) | 1:51 | 2023-04-28 | 2023-09-14 |
 | [Second Wind](https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 4:05 | 2022-05-13 |  |
+| [See It Through](https://open.spotify.com/track/0ZlfrENWdpQyEsBfynIFGF) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [See It Through](https://open.spotify.com/album/3VD0JGd9cvNWuMKFpIjlpq) | 3:02 | 2023-12-15 |  |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-05-13 |  |
 | [Shadow Mountain Road](https://open.spotify.com/track/0Qku1Xmz1hD569s8avKCYn) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Shadow Mountain Road](https://open.spotify.com/album/3ZZ558auGHvycTNuluHWAn) | 2:36 | 2023-08-11 |  |
 | [Snap](https://open.spotify.com/track/4cWXbxyBr0sj3fOGwrlA7Z) | [Maya Jackson](https://open.spotify.com/artist/0Fk3a9naiKu7BbE7UgtKfI) | [Snap](https://open.spotify.com/album/14EkrSpgL11nQiSjq6t1UP) | 2:22 | 2022-12-09 |  |
@@ -227,7 +229,7 @@
 | [Sunbeam](https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Sunbeam](https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd) | 2:52 | 2023-08-11 |  |
 | [Sunrise Murmur](https://open.spotify.com/track/1kJApkWnDkH6wgjApxlIcK) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [A Slow Winding Road](https://open.spotify.com/album/2T141nerYqMwPqgCgJk71E) | 3:13 | 2022-05-13 |  |
 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 | 2022-05-13 |  |
-| [Sweet Night](https://open.spotify.com/track/0K32rol95QOdpWtg2G7msF) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Jan Rørdam](https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA) | [Sweet Night](https://open.spotify.com/album/58PcVUWjDYJm3ji9ZNiqpP) | 3:31 | 2022-10-07 |  |
+| [Sweet Night](https://open.spotify.com/track/0K32rol95QOdpWtg2G7msF) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Jan Rørdam](https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA) | [Sweet Night](https://open.spotify.com/album/58PcVUWjDYJm3ji9ZNiqpP) | 3:31 | 2022-10-07 | 2023-12-15 |
 | [Sweet Night](https://open.spotify.com/track/3MqnHTCy6P5OH3Y6XIzeFj) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Jan Rørdam](https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA) | [Sweet Night](https://open.spotify.com/album/0F6QXaOHbcDKl3iqZdrlbv) | 3:31 | 2022-05-27 | 2022-10-14 |
 | [Søngleikur](https://open.spotify.com/track/5BvEzwZJeL2XIvoxT2zaOD) | [Elsa Selma](https://open.spotify.com/artist/6Xah5b0b62n9ozpTFFkvMo) | [Søngleikur](https://open.spotify.com/album/3PQYhV2ozQk3olZYqlFCQL) | 3:09 | 2022-05-13 |  |
 | [Tagträumen](https://open.spotify.com/track/7hyWalK1MDzO6VNROH8pwq) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Tagträumen](https://open.spotify.com/album/7h7jVxlst3yZXbiQi9ajwo) | 2:11 | 2022-12-09 |  |

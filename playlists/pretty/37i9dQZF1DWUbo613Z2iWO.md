@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Rhyan Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,459 likes - 123 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,484 likes - 123 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

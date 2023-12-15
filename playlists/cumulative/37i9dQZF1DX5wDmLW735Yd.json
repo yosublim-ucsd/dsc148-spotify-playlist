@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: 1991\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Benny Page\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 184542,
       "name": "Adrenaline Rush (feat. MORGAN)",
       "url": "https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX"
@@ -819,6 +819,32 @@
     },
     {
       "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/1430OXye8UzHJp4XUUMMcX"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        },
+        {
+          "name": "B Live 247",
+          "url": "https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/1AtDX5155W9zDdvzYPUcDb"
+    },
+    {
+      "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
       },
@@ -1328,7 +1354,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 179517,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr"
@@ -5365,6 +5391,28 @@
     },
     {
       "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy"
       },
@@ -7089,6 +7137,24 @@
     },
     {
       "album": {
+        "name": "On The List",
+        "url": "https://open.spotify.com/album/6yvwMxx3HNzEua962yBxpU"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180689,
+      "name": "On The List",
+      "url": "https://open.spotify.com/track/6S4JRqrrBl0yMGHjN3DFc6"
+    },
+    {
+      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
       },
@@ -8658,7 +8724,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
@@ -9824,7 +9890,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 156890,
       "name": "The Corner (feat. Joe Devlin)",
       "url": "https://open.spotify.com/track/4IXaBsfsyE1OIcM2zF8ns0"
@@ -9922,6 +9988,24 @@
       "duration_ms": 262921,
       "name": "The Swarm",
       "url": "https://open.spotify.com/track/7aB2972ZnAOJbwkNvepLgh"
+    },
+    {
+      "album": {
+        "name": "The Way (Saviour)",
+        "url": "https://open.spotify.com/album/0B2rxnCyHtfjClpmtsfuUs"
+      },
+      "artists": [
+        {
+          "name": "Teebee",
+          "url": "https://open.spotify.com/artist/7Cl1dU4G44kfQAg0f69J9v"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322500,
+      "name": "The Way (Saviour)",
+      "url": "https://open.spotify.com/track/0ZjHmToIhQG8k57CpD91Do"
     },
     {
       "album": {
@@ -10028,10 +10112,32 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "album": {
+        "name": "Today, Tomorrow and Forever",
+        "url": "https://open.spotify.com/album/3L7wL9vEGnsMeBar37mrNN"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "Today, Tomorrow and Forever",
+      "url": "https://open.spotify.com/track/25tArZza3TeM5GH86ewaHD"
     },
     {
       "album": {

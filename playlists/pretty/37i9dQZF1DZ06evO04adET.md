@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,607 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,151 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 49 | [Verdes Verdes](https://open.spotify.com/track/5UoFolYVqme3NABM96m0cD) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 2:38 |
 | 50 | [Platicame De Ti](https://open.spotify.com/track/3GfDHYumJhOu5xAZH88W9p) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Platicame De Ti](https://open.spotify.com/album/45QIufzJxZICkw5IFjCPRN) | 3:07 |
 
-Snapshot ID: `MjgzNzQ0ODUsMDAwMDAwMDBmMjA5MmRjOWI0YzVhYjYzZjUwNDkzMDIzNTAzZDA3Nw==`
+Snapshot ID: `MjgzNzU5MDgsMDAwMDAwMDA1NTAxOGUwMzFlM2Q3NTM1OWQ0MmZkOGQ1NzdjOGUyYw==`

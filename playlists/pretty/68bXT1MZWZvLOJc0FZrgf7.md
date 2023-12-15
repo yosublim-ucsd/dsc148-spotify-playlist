@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits \| 2023 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Gusted
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 112,594 likes - 124 songs - 6 hr 22 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 112,593 likes - 124 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

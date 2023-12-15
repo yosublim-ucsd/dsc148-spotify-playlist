@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Listen to all the iconic tracks from GTA, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,866 likes - 138 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,226 likes - 138 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-343 songs - 19 hr 36 min
+344 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [Another Day](https://open.spotify.com/track/2GFr1qKDZcByge6O956l2B) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP) | [In The Beginning: Before The Heavens](https://open.spotify.com/album/493jNMqrlOYhzQ0aoYU03s) | 3:53 | 2022-04-11 | 2022-04-21 |
 | [Any Way, Any Day](https://open.spotify.com/track/66KfkAGF4QBp4lElvKKqI1) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB), [Sadat X](https://open.spotify.com/artist/6Nf1gMtwFrHqlEySdSkzZw) | [Meditations](https://open.spotify.com/album/7dieRoSqwmlqOHJAxXPYsR) | 3:40 | 2022-04-11 | 2022-04-21 |
 | [Anything](https://open.spotify.com/track/7Et3XDHUjTjNs6CaUgpikz) | [Revolutionary Rhythm](https://open.spotify.com/artist/5d0FKWSfoD6MNcoevKzaV4), [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Predominance](https://open.spotify.com/artist/1BkTMajRH3wIlinOsyjn3i) | [Anything](https://open.spotify.com/album/2fmuNIYhWvhlYocZZJgMl7) | 3:25 | 2021-12-16 | 2022-11-29 |
+| [Articuno](https://open.spotify.com/track/6FvptLjpTE8ymMN8yHhL6e) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Articuno](https://open.spotify.com/album/5PoZ4iwuanehqnO2BZlPKM) | 1:56 | 2023-12-15 |  |
 | [Athens](https://open.spotify.com/track/4YKrRk2jraHkFuHcVaUvog) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [Athens](https://open.spotify.com/album/3jFju6gf1gujqRGxGyeoHy) | 2:30 | 2021-12-16 | 2022-07-29 |
-| [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-21 |  |
+| [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-21 | 2023-12-15 |
 | [Before It's Over](https://open.spotify.com/track/5LnOtXW4jm8hlkMTkB0X4O) | [EllMatic](https://open.spotify.com/artist/6DyhWc1O1h5v5olTLhKv3M), [Kijk Een Ster](https://open.spotify.com/artist/4mRAdzbdUDWVyTGuVV8TS6) | [Before It's Over](https://open.spotify.com/album/0nmryJ3Mx4NFUcSfVgfO9O) | 3:10 | 2022-04-11 | 2022-10-20 |
 | [Bittersweet Baby](https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [ARE WE STILL DREAMING?](https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ) | 3:19 | 2021-12-16 |  |
 | [Black Caesar](https://open.spotify.com/track/4NJA5rBHWOub0CzpgDAoya) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Kromanteng](https://open.spotify.com/artist/4fPiBk87lkWTYDVfo2ntGJ), [Werd Pace](https://open.spotify.com/artist/6NwNSLXKkg4ZlEbqCmqOun) | [Tales of Two Cities](https://open.spotify.com/album/3zxHKP2G7pUEcinqspnzsI) | 2:11 | 2021-12-16 | 2022-07-29 |

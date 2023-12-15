@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF?si=4ib3OByhT-OwqU0RgZWT6g\">Anke Richards</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7?si=Cfww9FxrTlS-GP2sZ8TYHA\">Aim\u00e9e Britannia</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 147900,
       "name": "BULLSHIT",
       "url": "https://open.spotify.com/track/7fcL6j5ndJeVpjehFynz7I"
@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Earthling",
+        "url": "https://open.spotify.com/album/6GroWBzRHe8gqtsT5nsSuI"
+      },
+      "artists": [
+        {
+          "name": "Stephan Kreussel",
+          "url": "https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299454,
+      "name": "Earthship",
+      "url": "https://open.spotify.com/track/4r0LGPrLCKkIHcRcLAbdYz"
+    },
+    {
+      "album": {
         "name": "Eau De Toilette",
         "url": "https://open.spotify.com/album/0BuWLZMQGOwlLREjXWDbeR"
       },
@@ -3111,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/6yXWiFRIs3Ko1K8xVaDTX4"
+      },
+      "artists": [
+        {
+          "name": "Myles Creamer",
+          "url": "https://open.spotify.com/artist/1eyiZ9G6tINrP8uHJIrlEL"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208584,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/2j7sYiFQN40rXPfW8PyJ0S"
+    },
+    {
+      "album": {
         "name": "Find You There",
         "url": "https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3"
       },
@@ -3440,6 +3476,24 @@
       "duration_ms": 164196,
       "name": "Give A Little Kindness",
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
+      "album": {
+        "name": "Give You My Sun",
+        "url": "https://open.spotify.com/album/4BmJDQ07i0Vphd0T7SaENh"
+      },
+      "artists": [
+        {
+          "name": "Isla Sutherland",
+          "url": "https://open.spotify.com/artist/123Fymzy8c82Cy05n3d08R"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232618,
+      "name": "Give You My Sun",
+      "url": "https://open.spotify.com/track/7xL4IucL4wueiPNkSZuHcx"
     },
     {
       "album": {
@@ -4414,7 +4468,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 181000,
       "name": "I'm A Queen Bee",
       "url": "https://open.spotify.com/track/2LjjY0ncuemeQfYWtn8cd8"
@@ -5082,7 +5136,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 215196,
       "name": "Leader",
       "url": "https://open.spotify.com/track/0gmgRX6SFUQ0wOSo9VZr97"
@@ -5676,7 +5730,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 165466,
       "name": "Mental Hell",
       "url": "https://open.spotify.com/track/5VgPz5vJdTNeFIoJNnXDJD"
@@ -6994,7 +7048,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 200816,
       "name": "Pizza Party",
       "url": "https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr"
@@ -7092,6 +7146,24 @@
       "duration_ms": 222172,
       "name": "Playground",
       "url": "https://open.spotify.com/track/3UiUxpHCWSycIPVl2rBNUP"
+    },
+    {
+      "album": {
+        "name": "Pleased to Meet Ya",
+        "url": "https://open.spotify.com/album/62Tsm0JDq1CA2jumaeSjYL"
+      },
+      "artists": [
+        {
+          "name": "Glass Diaper",
+          "url": "https://open.spotify.com/artist/43sMv1o4RnR9XbdpSCQvKJ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150440,
+      "name": "Pleased To Meet Ya",
+      "url": "https://open.spotify.com/track/6Ze9UgmH8F1teroIWXUa9A"
     },
     {
       "album": {
@@ -7416,6 +7488,24 @@
       "duration_ms": 181631,
       "name": "Raise Me Up",
       "url": "https://open.spotify.com/track/4FYldB9dN6Emigix7ppAYO"
+    },
+    {
+      "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/4HRhT7IhqcYA2iDIeoAxUC"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/1uyR0pvR6Ky0ZG9Fw1kCG9"
     },
     {
       "album": {
@@ -9037,6 +9127,24 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/6CKZvy2QFgXE7nLecCBaY6"
+      },
+      "artists": [
+        {
+          "name": "Aim\u00e9e Britannia",
+          "url": "https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226849,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0UTJPkS2BAI23HSE50A4J9"
+    },
+    {
+      "album": {
         "name": "The Phoenix",
         "url": "https://open.spotify.com/album/4Bt6P8MUACJ5f3oGSZ6hAb"
       },
@@ -9636,7 +9744,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 217434,
       "name": "Typical You - Radio Edit",
       "url": "https://open.spotify.com/track/0DCzIR6OsJCudA125jJPF9"

@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/6gmKFsmN2zrbUfluAczGuZ"
+      },
+      "artists": [
+        {
+          "name": "Tales of Urbania",
+          "url": "https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131069,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/5yiI18IfeUy42vBMTft4ub"
+    },
+    {
+      "album": {
         "name": "An afternoon in Paris",
         "url": "https://open.spotify.com/album/4vlbxUJW7e1L4teaGQjxLd"
       },
@@ -526,6 +544,24 @@
       "duration_ms": 121935,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3VfDlMZBq7GQ1L8ghRBID3"
+    },
+    {
+      "album": {
+        "name": "blossom",
+        "url": "https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U"
+      },
+      "artists": [
+        {
+          "name": "ai sayuri",
+          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "blossom",
+      "url": "https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE"
     },
     {
       "album": {
@@ -3696,7 +3732,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 119117,
       "name": "Like a Chameleon",
       "url": "https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm"
@@ -5282,6 +5318,24 @@
       "duration_ms": 100000,
       "name": "Parasail",
       "url": "https://open.spotify.com/track/2OwPp70goeC7P9CssKuoZu"
+    },
+    {
+      "album": {
+        "name": "peaceful",
+        "url": "https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2"
+      },
+      "artists": [
+        {
+          "name": "Tooslo",
+          "url": "https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127918,
+      "name": "peaceful",
+      "url": "https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe"
     },
     {
       "album": {

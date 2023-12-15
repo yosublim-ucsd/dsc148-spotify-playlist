@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,784 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,866 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Enjoy That](https://open.spotify.com/track/1r3YLVQ9Tdc8edwu5NtbX2) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3y1EcdsfzSNGRDEKHQcagK) | 3:03 |
 | 50 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 |
 
-Snapshot ID: `MjgzNzQ0ODUsMDAwMDAwMDA5NzI2NTRlM2Q0NjdlNDIxMjc3OTgyZmYyODcyMzYzOA==`
+Snapshot ID: `MjgzNzU5MDgsMDAwMDAwMDAwNzdhYmI1YWI1ODhlNGY3NzA4MDhjMjVmNGVjZDY0NA==`

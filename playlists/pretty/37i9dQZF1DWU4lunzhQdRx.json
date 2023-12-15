@@ -1,6 +1,6 @@
 {
   "description": "in our emo cowgirl era",
-  "num_followers": 133487,
+  "num_followers": 133576,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
@@ -831,18 +831,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+        "name": "Girl Of My Dreams (Deluxe)",
+        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 217807,
-      "name": "You Were Mine",
-      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
+      "duration_ms": 173893,
+      "name": "Better Version (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
     }
   ],
   "unique_name": "sad girl country",

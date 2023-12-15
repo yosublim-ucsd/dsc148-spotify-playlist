@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "At The Afterparty",
+        "url": "https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Deorachit",
+          "url": "https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142214,
+      "name": "At The Afterparty",
+      "url": "https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK"
+    },
+    {
+      "album": {
         "name": "Bandook",
         "url": "https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO"
       },
@@ -1058,7 +1080,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 232173,
       "name": "Moosedrilla (feat. DIVINE)",
       "url": "https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV"

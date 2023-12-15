@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Giol\u00ec & Assia",
+  "description": "New music off the beaten track. Cover: David Bay",
   "name": "OFF POP",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 221748,
       "name": "6am",
       "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "album": {
+        "name": "comic relief",
+        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "<3 beat",
+      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
     },
     {
       "album": {
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 167695,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4A2dPNaGmJxLdi3t0prhda"
@@ -3768,7 +3786,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 155541,
       "name": "Fungii",
       "url": "https://open.spotify.com/track/66oMViCpXVtPIK863fAC9e"
@@ -6746,7 +6764,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 256562,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/1INYpUDPkutq3NxAXgDlOC"
@@ -7832,6 +7850,24 @@
       "duration_ms": 254906,
       "name": "Ride With You",
       "url": "https://open.spotify.com/track/3WGGCYHebfKS0EaUcuqGOW"
+    },
+    {
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/0C75HbE7TLJVRHytSga0fQ"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250067,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/3O9m7ajjMbigoXLwrzZvpt"
     },
     {
       "album": {
@@ -8989,6 +9025,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4sYGgEKQIpp5NSZMG4Qv5u"
+      },
+      "artists": [
+        {
+          "name": "Say Yes Dog",
+          "url": "https://open.spotify.com/artist/039HWymb5EJiSHhtlJctsi"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217306,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/169m17LngQCxaxWdbVSVNL"
+    },
+    {
+      "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm"
       },
@@ -9189,6 +9243,24 @@
     },
     {
       "album": {
+        "name": "Draft: Beginning",
+        "url": "https://open.spotify.com/album/21Jo7FTlqHOlrSlX62saxK"
+      },
+      "artists": [
+        {
+          "name": "JETISOO",
+          "url": "https://open.spotify.com/artist/75KoLvLE1GbnaT4vMgAmXr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/50kbSIg3ZqHBdJ69y04FaO"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj"
       },
@@ -9266,7 +9338,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 149211,
       "name": "sweatshop",
       "url": "https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ"
@@ -9460,6 +9532,24 @@
       "duration_ms": 242115,
       "name": "Take Your Time (Do It Right)",
       "url": "https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY"
+    },
+    {
+      "album": {
+        "name": "Teenage Crime",
+        "url": "https://open.spotify.com/album/5w2hW6PibJ7ZXU3cQ2dcGN"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192282,
+      "name": "Teenage Crime",
+      "url": "https://open.spotify.com/track/54iQ7ZTkfp8kAJJYRexhm6"
     },
     {
       "album": {
@@ -11382,7 +11472,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 216716,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3MGUeh1vqSN0mbdVYomj06"

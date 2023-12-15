@@ -558,10 +558,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 217000,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/5HOkVAzmr3iDjBaIJH3CTb"
+    },
+    {
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5l6Vbwho1oOexmkQ5GnBKu"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/3M6uWThUeXWV1HCYnBz4wI"
     },
     {
       "album": {

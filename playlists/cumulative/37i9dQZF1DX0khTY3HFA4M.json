@@ -3619,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/2nYufpokQ8JM2sOLucVs8K"
+      },
+      "artists": [
+        {
+          "name": "Trippy Park",
+          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/4h3r8c7TlNLZGFMytXoqa6"
+    },
+    {
+      "album": {
         "name": "Fading Colors",
         "url": "https://open.spotify.com/album/0P2Fczuh7nB3AuAzzLEkrL"
       },
@@ -4890,6 +4908,24 @@
       "duration_ms": 168000,
       "name": "Heart-Shaped",
       "url": "https://open.spotify.com/track/35Y8cKrF1T4fvkWkfEXCZM"
+    },
+    {
+      "album": {
+        "name": "Heavensent",
+        "url": "https://open.spotify.com/album/0nzrNWqyAHUgLFiB4gE15Y"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184316,
+      "name": "Heavensent",
+      "url": "https://open.spotify.com/track/0SdZzPskMPdVibBUHNrrim"
     },
     {
       "album": {
@@ -8374,6 +8410,24 @@
       "duration_ms": 115750,
       "name": "Play that Moog!",
       "url": "https://open.spotify.com/track/2DCKv6nBysbFugFRD43W25"
+    },
+    {
+      "album": {
+        "name": "please",
+        "url": "https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "please",
+      "url": "https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc"
     },
     {
       "album": {

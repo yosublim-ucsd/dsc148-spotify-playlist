@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-404 songs - 19 hr 51 min
+405 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:04 | 2022-08-12 |  |
 | [Call Me Baby](https://open.spotify.com/track/5UVIKStRk79N7xoEZptJra) | [HAI\-LIFE](https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2) | [Call Me Baby](https://open.spotify.com/album/0DbPPf9K0CZd6ajeNMwfVl) | 3:45 | 2023-12-08 |  |
 | [Can't See](https://open.spotify.com/track/1kYkGEVNpugTZiigbiNK2W) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz) | [Can't See](https://open.spotify.com/album/2BncSMJsjWgHrl6XbgMbjr) | 3:07 | 2022-04-29 | 2022-07-15 |
-| [Can't Talk Right Now](https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Can't Talk Right Now](https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ) | 3:19 | 2023-09-15 |  |
+| [Can't Talk Right Now](https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Can't Talk Right Now](https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ) | 3:19 | 2023-09-15 | 2023-12-15 |
 | [Cardio](https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Cardio](https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo) | 2:20 | 2021-10-29 | 2022-12-17 |
 | [Carried Away \(Love To Love\) \(with Madison Beer\) \[Tchami Remix\]](https://open.spotify.com/track/4UWYz4VDyycuuyN2A9B2sY) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Carried Away \(Love To Love\) \[Tchami Remix\]](https://open.spotify.com/album/3jmkm8U4Fp8LX1qBH0nzmx) | 4:49 | 2021-10-29 | 2022-08-06 |
 | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 | 2023-05-19 |
@@ -81,6 +81,7 @@
 | [Cum Check This](https://open.spotify.com/track/7H5SIexFiXI5Li5qyV2TID) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Cum Check This](https://open.spotify.com/album/3b7bk20U1R74sAi7xKHQxJ) | 3:11 | 2021-10-29 | 2022-06-07 |
 | [D.I.S.C.O.](https://open.spotify.com/track/2BRqdAILazQ4Brd95GJjpv) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [BERROW](https://open.spotify.com/artist/307piZl5uWR3Nti6ssXp4T) | [D.I.S.C.O.](https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP) | 2:21 | 2023-03-24 | 2023-12-05 |
 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA) | 3:22 | 2023-10-27 | 2023-12-13 |
+| [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL) | 3:22 | 2023-12-08 |  |
 | [Dancin'](https://open.spotify.com/track/33ZmeSclK7iCu8HtHChTQw) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [KEYTON](https://open.spotify.com/artist/5Tfpom9xTru2xTcnd2QBLi) | [Dancin'](https://open.spotify.com/album/6XI0fO1BWw9u0cD2wMRg2c) | 3:25 | 2023-11-24 | 2023-12-09 |
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2022-07-22 |  |
 | [Daybreak](https://open.spotify.com/track/4VgZlIY58oEZPLKahmLbeP) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Daybreak](https://open.spotify.com/album/2J8jC1c6qGfQEf8X7NlGy3) | 3:22 | 2021-10-29 | 2022-03-13 |

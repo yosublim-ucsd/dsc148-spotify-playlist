@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-308 songs - 13 hr 12 min
+309 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-03-04 |  |
 | [Sawdust Floors](https://open.spotify.com/track/22CshhpyS2gjbii88Rizzm) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Sawdust Floors](https://open.spotify.com/album/2cgfREGDztUfqSQoVib1Er) | 1:51 | 2023-04-21 | 2023-08-26 |
 | [Seaside](https://open.spotify.com/track/3D3XY8qFF14XSFqhuTi63U) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Seaside](https://open.spotify.com/album/5aTyBkh2qENyZ2yLKuzQUb) | 2:30 | 2023-06-02 |  |
+| [See It Through](https://open.spotify.com/track/0ZlfrENWdpQyEsBfynIFGF) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [See It Through](https://open.spotify.com/album/3VD0JGd9cvNWuMKFpIjlpq) | 3:02 | 2023-12-15 |  |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-03-04 |  |
 | [Shadow Mountain Road](https://open.spotify.com/track/0Qku1Xmz1hD569s8avKCYn) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Shadow Mountain Road](https://open.spotify.com/album/3ZZ558auGHvycTNuluHWAn) | 2:36 | 2023-08-09 |  |
 | [Shimmering](https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b) | [Charles Theodore](https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq) | [Shimmering](https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt) | 2:53 | 2022-03-04 | 2022-04-06 |
@@ -312,7 +313,7 @@
 | [Windward Breath](https://open.spotify.com/track/65o5SX8EGxCoPhTh31YI94) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:35 | 2022-03-04 | 2022-07-22 |
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-06-02 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 |  |
-| [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 |  |
+| [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 | 2023-12-15 |
 | [Wordless](https://open.spotify.com/track/5X5sk7uUFqDYQSUXhJP2jg) | [Mell Woods](https://open.spotify.com/artist/4JapX3Eh1ncrfxZBaNvc6I) | [Wordless](https://open.spotify.com/album/7rfTvJgJZhlG5e5zeUrZtI) | 4:33 | 2022-10-07 | 2023-03-25 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-24 | 2023-09-01 |
 | [Zenith](https://open.spotify.com/track/1kinFdrDDnmBhrGyCIGrM3) | [Maxime La Pierre](https://open.spotify.com/artist/2cEK29tjbvZltwtXcXhq8w) | [Caleidoscope](https://open.spotify.com/album/1X5bu0XoGfIZGOlWhkbxam) | 2:55 | 2022-03-04 | 2022-07-22 |

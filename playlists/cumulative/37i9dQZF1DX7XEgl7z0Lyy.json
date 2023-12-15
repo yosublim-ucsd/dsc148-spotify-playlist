@@ -2939,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "WHAT YOU WANT!",
+        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122414,
+      "name": "WHAT YOU WANT!",
+      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
+    },
+    {
+      "album": {
         "name": "Myspace Addiction",
         "url": "https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S"
       },

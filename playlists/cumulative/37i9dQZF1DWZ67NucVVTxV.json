@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 175021,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5rFqCpVxRqwWFsDGvcwQZr"
@@ -4914,7 +4914,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 160770,
       "name": "My G",
       "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
@@ -4940,6 +4940,28 @@
       "duration_ms": 174500,
       "name": "My Race",
       "url": "https://open.spotify.com/track/3avHchHg8ik9FzU5nqoFVd"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/2dzgJyJLkZeq987rubSWb0"
+      },
+      "artists": [
+        {
+          "name": "Tepidz",
+          "url": "https://open.spotify.com/artist/3QkqTBBKUAAlsWD4wwqlRx"
+        },
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159817,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2kowwf46vMJ5yAScd8vPVu"
     },
     {
       "album": {
@@ -7314,6 +7336,28 @@
       "duration_ms": 165848,
       "name": "Time",
       "url": "https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x"
+    },
+    {
+      "album": {
+        "name": "Time No Dey",
+        "url": "https://open.spotify.com/album/2IaU9spZ5AhbFCnyQXQxKo"
+      },
+      "artists": [
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190088,
+      "name": "Time No Dey",
+      "url": "https://open.spotify.com/track/49I4qCmzTtk4Wp0DH5pEDC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-323 songs - 20 hr 57 min
+324 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bouquet](https://open.spotify.com/track/45I57NjUhhZuGWS0j3DGkI) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Bouquet](https://open.spotify.com/album/1tCZ5EdMtSdaimvdhSafS9) | 1:34 | 2023-04-13 | 2023-05-10 |
 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 | 2023-07-11 | 2023-08-18 |
 | [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 | 2023-07-11 | 2023-07-13 |
+| [Broken Face](https://open.spotify.com/track/2Ss8ae4buw5Lq5O2F9YVoa) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Broken Face](https://open.spotify.com/album/5jxdGCLfFNNRvfkIIVC1IS) | 2:52 | 2023-12-14 |  |
 | [Broken Hearted Kota \- Suzanne Kraft Remix](https://open.spotify.com/track/7natbLjSlCXaRzwCOnBrw6) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Broken Hearted Kota \(Suzanne Kraft Remix\)](https://open.spotify.com/album/66uKSxV4Zr9x9lJQseZ29R) | 5:00 | 2022-11-29 | 2022-12-14 |
 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-08-17 | 2023-08-27 |
 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 | 2023-08-31 |  |
@@ -222,7 +223,7 @@
 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-20 | 2022-12-24 |
 | [Real Good \- Kan Sano Remix](https://open.spotify.com/track/0i8cpVrAhgU8AVUbbksw8o) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Real Good \(Kan Sano Remix\)](https://open.spotify.com/album/0EWaHIvuG9d95xvmPTy2rR) | 3:08 | 2022-12-01 |  |
 | [REFERENCE \- Original Mix](https://open.spotify.com/track/67MF4RXq1oFbZMCVm65Xf3) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [KRICK](https://open.spotify.com/artist/4vD5wi2rLVnQoXKspx48x2) | [REFERENCES \- EP](https://open.spotify.com/album/5ISqyDSGXcR83zToqysegL) | 4:34 | 2023-02-28 | 2023-03-08 |
-| [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-16 |  |
+| [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-16 | 2023-12-15 |
 | [repeat](https://open.spotify.com/track/6P4jmwL4M4LSa4JWdgAPx2) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [repeat](https://open.spotify.com/album/2cCFHDzbTGF2rYjLNKEHV7) | 3:36 | 2023-07-20 | 2023-09-22 |
 | [Rhodes \(feat\. どんぐりず\)](https://open.spotify.com/track/63Gfp7Dqn34QRJcWYTb1DW) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [Rhodes \(feat\. どんぐりず\)](https://open.spotify.com/album/4JQ5eX7BKyVMgjeqGTEOK5) | 4:37 | 2023-03-14 | 2023-03-29 |
 | [Ringo](https://open.spotify.com/track/3rFNkXbvp9FUh3RBr8XG5s) | [Maïa Barouh](https://open.spotify.com/artist/1JFwQ8xTYUAe8CTnFpkkAG), [Pierre Barouh](https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl) | [AÏDA](https://open.spotify.com/album/11fW3TjqDtcqT1i4DNlLLM) | 3:09 | 2022-10-20 | 2022-12-02 |

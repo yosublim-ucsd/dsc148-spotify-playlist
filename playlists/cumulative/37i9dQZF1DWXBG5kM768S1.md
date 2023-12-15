@@ -4,12 +4,13 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-224 songs - 14 hr 21 min
+225 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20 år på vegen](https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [Søvnlaus](https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp) | 4:06 | 2021-12-16 |  |
 | [2020](https://open.spotify.com/track/2JCskibhK5KQk8v8An371h) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [2020](https://open.spotify.com/album/3pssxznFPsw3TO2ns1Mey3) | 4:35 | 2021-12-16 | 2022-07-28 |
+| [2023](https://open.spotify.com/track/7eM5YIrVzZFcXIe2hZ9IiB) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Heil ved \- Musikken](https://open.spotify.com/album/5mqPvf7oEXdng9pKsSz9NI) | 3:15 | 2023-12-14 |  |
 | [Adams Sang \(feat\. Myra\)](https://open.spotify.com/track/6HNnIJeTCjp3t3oj30nuW3) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Myra](https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5) | [Adams Sang \(feat\. Myra\)](https://open.spotify.com/album/3s7wpsEiUTSvJwSQ7L3G5Z) | 4:27 | 2022-01-20 | 2022-07-09 |
 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 | 2021-12-16 | 2022-07-20 |
 | [Alexander Kiellands plass \- Live](https://open.spotify.com/track/1vOMjmVZF9azOFd6SjIQuv) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e), [Andy Irvine](https://open.spotify.com/artist/1nVYeUhlYzmXf0Dl9yk8P2) | [Live in Telemark](https://open.spotify.com/album/1ICtv14N8EWSJKe7GjUIhj) | 3:15 | 2022-03-23 | 2022-07-10 |
@@ -17,7 +18,7 @@
 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 | 2022-07-14 |  |
 | [Alle snakker sant](https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle snakker sant](https://open.spotify.com/album/22vJhT8LsQgC27izuQ7Pd3) | 2:48 | 2022-03-23 | 2022-05-12 |
 | [Alltid En Lengsel](https://open.spotify.com/track/722vfzS4cD4mWPJfxgMg5L) | [Thomas Brøndbo](https://open.spotify.com/artist/1Oe2cHHegzll2In52CHVux) | [Alltid En Lengsel](https://open.spotify.com/album/4iLwTl4UIBnwU6bRkVtDd5) | 3:55 | 2022-02-17 | 2022-05-10 |
-| [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 | 2021-12-16 | 2023-01-18 |
+| [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 | 2021-12-16 |  |
 | [Alt hu treng](https://open.spotify.com/track/2XGCTjbIcQpNizbHANBfeM) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Alt hu treng](https://open.spotify.com/album/3aqmeN6RVHZteNNfIgABEK) | 5:17 | 2023-09-21 |  |
 | [Alt slik det var laga](https://open.spotify.com/track/3nfuXqTSLAAyVDMgZgjHpc) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Alt slik det var laga](https://open.spotify.com/album/0fIYDEa2RR461qmtpaJjUM) | 3:54 | 2022-01-06 | 2022-10-23 |
 | [Augneblink](https://open.spotify.com/track/531fxFOCsBCuHcEeTjei6D) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy) | [Alt vi har kjært](https://open.spotify.com/album/3IFHntkbXihZ5r7JkrfyVu) | 4:00 | 2022-03-23 | 2022-06-21 |
@@ -34,7 +35,7 @@
 | [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 | 2023-01-12 | 2023-10-22 |
 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 | 2021-12-16 |  |
 | [Bråtebrann](https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF) | 2:28 | 2022-03-23 | 2022-04-20 |
-| [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 | 2023-03-30 |  |
+| [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 | 2023-03-30 | 2023-12-15 |
 | [Crescendo i Gågata](https://open.spotify.com/track/6d35rdVufTVqEuaAPLxeMt) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Crescendo i Gågata](https://open.spotify.com/album/2HaKiwfbSwXrh7PNISjHuN) | 2:41 | 2021-12-16 | 2022-07-22 |
 | [Danny Boy](https://open.spotify.com/track/6W0REfkZAVTo1JrLUdsAfU) | [Narum](https://open.spotify.com/artist/6r2dDOJwJMfAdt9kPcQc4b) | [Danny Boy](https://open.spotify.com/album/1hxN75DWN4liP5FwODoGaX) | 3:27 | 2021-12-16 | 2022-07-17 |
 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 | 2021-12-16 |  |
@@ -157,7 +158,7 @@
 | [Mitt Andre Hjem](https://open.spotify.com/track/1PERYAkdjl7H6sobYpuLvO) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM), [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K) | [Mitt Andre Hjem](https://open.spotify.com/album/4WChofZor5RuSged93ZT0c) | 3:32 | 2021-12-16 | 2022-07-23 |
 | [Mitt Hjerte Er Ditt](https://open.spotify.com/track/6T95elNl2CwTnJXAUUq9LI) | [Maj Britt Andersen](https://open.spotify.com/artist/2bIqrsdC6t8Ps4AcBp2rAP) | [Hvis Jeg Kunne Fly](https://open.spotify.com/album/07QZyVv2dBqLijfzuye6NL) | 2:21 | 2021-12-16 | 2022-07-29 |
 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 | 2021-12-16 |  |
-| [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 | 2022-02-17 |  |
+| [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 | 2022-02-17 | 2023-12-15 |
 | [Måneskinnsmøyane](https://open.spotify.com/track/4nycvJuvgOsWihHd6S3815) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Elverhøy](https://open.spotify.com/album/3HguT8PpDjz4e8gEhS1zpy) | 4:06 | 2022-03-23 | 2022-04-21 |
 | [Nordlandsnetter](https://open.spotify.com/track/0Lli0anlVb2OgRMgrIEHpr) | [Kirsti Sparboe](https://open.spotify.com/artist/2sIuZYabYsCOevwupstDNr) | [Et Vennlig Ord](https://open.spotify.com/album/0vBJEktE1gYiq6LEZ13zxT) | 3:29 | 2022-01-06 | 2022-07-05 |
 | [Novemberdag novembernatt](https://open.spotify.com/track/2pnrk0bjGIhgsklVVrKz1v) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Sanger du skal få med KORK](https://open.spotify.com/album/5ss1h2s0lkcXkydRUzIqeA) | 5:22 | 2022-11-10 | 2022-12-29 |

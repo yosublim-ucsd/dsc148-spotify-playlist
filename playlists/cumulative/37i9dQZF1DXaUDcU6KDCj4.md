@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Brenn!
 
-1,680 songs - 4 day 6 hr 47 min
+1,681 songs - 4 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1157,7 +1157,8 @@
 | [Romain's Place](https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening, Pt\. 1](https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v) | 3:44 | 2022-09-02 | 2023-01-14 |
 | [Roof of the World](https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Roof of the World](https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP) | 4:16 | 2021-11-12 | 2022-01-22 |
 | [Rookie](https://open.spotify.com/track/6umMYISh8Lg5HzU3oVaeWC) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Rookie](https://open.spotify.com/album/4ugh9EbifcznVADdcyHzh1) | 4:19 | 2023-04-07 | 2023-06-03 |
-| [ROY G BIV](https://open.spotify.com/track/5SPggDyvUdcGd79qaf1NfN) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [ROY G BIV](https://open.spotify.com/album/3A4MqV9Ee1zGsaDV1qu8vD) | 2:08 | 2023-11-03 |  |
+| [ROY G BIV](https://open.spotify.com/track/3AG5nDI6HCUBtY4sKScTze) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Long Is The Tunnel](https://open.spotify.com/album/4jdazNCLxmTYP9Ip1qbR3e) | 2:08 | 2023-12-08 |  |
+| [ROY G BIV](https://open.spotify.com/track/5SPggDyvUdcGd79qaf1NfN) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [ROY G BIV](https://open.spotify.com/album/3A4MqV9Ee1zGsaDV1qu8vD) | 2:08 | 2023-11-03 | 2023-12-15 |
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-14 | 2022-04-02 |
 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2023-12-08 |  |
 | [Running](https://open.spotify.com/track/5VRGp1W4cpQ0kO3HWLsafP) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Running](https://open.spotify.com/album/2mGGXU9rtoBSgqVKthBSkJ) | 3:05 | 2022-09-09 | 2022-12-17 |

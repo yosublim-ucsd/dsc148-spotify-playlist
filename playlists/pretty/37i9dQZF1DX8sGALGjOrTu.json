@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Thrice",
-  "num_followers": 449692,
+  "num_followers": 449852,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Let's Cheers To This",
+        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Do It Now Remember It Later",
+      "url": "https://open.spotify.com/track/3I9c2OFpB0al6qmYNcyMht"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 242133,
       "name": "Buried Myself Alive",
       "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "I Brought You My Bullets, You Brought Me Your Love",
-        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 231096,
-      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
-      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Let's Cheers To This",
-        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Do It Now Remember It Later",
-      "url": "https://open.spotify.com/track/3I9c2OFpB0al6qmYNcyMht"
+      "duration_ms": 231096,
+      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Stare At The Sun",
-      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Dear Diary, My Teen Angst Has A Body Count",
         "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 233762,
       "name": "Note to Self",
       "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Stare At The Sun",
+      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
     },
     {
       "added_at": "2023-03-28 16:00:32",

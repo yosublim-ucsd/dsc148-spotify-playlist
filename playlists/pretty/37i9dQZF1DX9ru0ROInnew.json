@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 111496,
+  "num_followers": 111533,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Sexto Sentido (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
         "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 306373,
       "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
       "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Sexto Sentido (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Turbo",
+        "url": "https://open.spotify.com/album/2JRoucIrtBsiCFqAAxQHiV"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "duration_ms": 284839,
+      "name": "Turbo",
+      "url": "https://open.spotify.com/track/4vZVuZkymAK0G1eAmXIWbB"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 230520,
       "name": "Krippy Kush",
       "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Turbo",
-        "url": "https://open.spotify.com/album/2JRoucIrtBsiCFqAAxQHiV"
-      },
-      "artists": [
-        {
-          "name": "Euphemism",
-          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
-        }
-      ],
-      "duration_ms": 284839,
-      "name": "Turbo",
-      "url": "https://open.spotify.com/track/4vZVuZkymAK0G1eAmXIWbB"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
-      },
-      "artists": [
-        {
-          "name": "Tali",
-          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 226371,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "La Calle",
         "url": "https://open.spotify.com/album/1GaaDeoQbKR1VHPxiEiPWZ"
       },
@@ -2139,6 +2119,26 @@
       "duration_ms": 374142,
       "name": "Blanco o Negro - Remix",
       "url": "https://open.spotify.com/track/6Bt7uEWabZzgdN0g6UQurK"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
+      },
+      "artists": [
+        {
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Tu No Metes Cabra",
-        "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 170762,
-      "name": "Tu No Metes Cabra",
-      "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 227939,
       "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
       "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Tu No Metes Cabra",
+        "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 170762,
+      "name": "Tu No Metes Cabra",
+      "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
     },
     {
       "added_at": "2023-05-25 17:50:01",

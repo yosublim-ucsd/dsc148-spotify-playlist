@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-294 songs - 13 hr 19 min
+296 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Caledonia](https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ) | [Selena Dominguez](https://open.spotify.com/artist/2NixYvC1pTi52NazQO8zq6) | [Caledonia](https://open.spotify.com/album/4g2vl00ThtZT3xQW8BJIdz) | 3:28 | 2022-05-13 |  |
 | [Calming Rain](https://open.spotify.com/track/7gGoipsdaoYS99Sjw7gizS) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Say My Name!](https://open.spotify.com/album/3STB33e4MiSaNNvU2XXPbh) | 3:07 | 2022-07-01 | 2023-06-16 |
 | [Candle](https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Swaying](https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY) | 3:07 | 2022-06-10 | 2022-07-22 |
+| [Cape May](https://open.spotify.com/track/77e7g7IzJHpk5hnwUguZIv) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cape May](https://open.spotify.com/album/0R1tZfJSsUmM0LOYppmziV) | 2:42 | 2023-12-15 |  |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2022-05-13 |  |
 | [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 3:15 | 2022-05-13 | 2022-06-10 |
 | [Coiseachd](https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd) | [Maya Eden](https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS) | [Coiseachd](https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw) | 2:46 | 2022-05-13 | 2023-02-25 |
@@ -218,6 +219,7 @@
 | [Santa Madre](https://open.spotify.com/track/3WKEKL2OfzvYgkbd8MEk3o) | [Jannike Gillis](https://open.spotify.com/artist/1Vpf3M1HKpHTlvisJiYbNC) | [Santa Madre](https://open.spotify.com/album/7CDWbIKXx6pv0fPHWRZMxN) | 2:42 | 2022-05-13 | 2023-06-23 |
 | [Saskatoon](https://open.spotify.com/track/4BIM2ib6mlidsvIN8wgy1O) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Summer Hours](https://open.spotify.com/album/162323wg0KbD1JCf1zstHl) | 2:48 | 2022-06-10 | 2022-07-15 |
 | [Second Wind](https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 4:05 | 2022-05-13 | 2023-02-25 |
+| [See It Through](https://open.spotify.com/track/0ZlfrENWdpQyEsBfynIFGF) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [See It Through](https://open.spotify.com/album/3VD0JGd9cvNWuMKFpIjlpq) | 3:02 | 2023-12-15 |  |
 | [Seven Hills of Rome](https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Seven Hills of Rome](https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1) | 2:12 | 2022-05-13 | 2022-06-10 |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-05-13 |  |
 | [Shadow Mountain Road](https://open.spotify.com/track/0Qku1Xmz1hD569s8avKCYn) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Shadow Mountain Road](https://open.spotify.com/album/3ZZ558auGHvycTNuluHWAn) | 2:36 | 2023-08-11 |  |

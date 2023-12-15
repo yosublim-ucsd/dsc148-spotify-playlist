@@ -6399,6 +6399,28 @@
     },
     {
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Never Hating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
+    },
+    {
+      "album": {
         "name": "NS+ (ULTRA)",
         "url": "https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1"
       },
@@ -7388,6 +7410,32 @@
       "duration_ms": 175124,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/0Tnvy0iwmoGBD0mq5MtgZF"
+    },
+    {
+      "album": {
+        "name": "4Respect 4Freedom 4Loyalty 4WhatImportant",
+        "url": "https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198504,
+      "name": "Permanent Scar (feat. Young Thug and Quando Rondo)",
+      "url": "https://open.spotify.com/track/56y48l3RslFer22WytV6KU"
     },
     {
       "album": {
@@ -8454,6 +8502,28 @@
       "duration_ms": 96593,
       "name": "Second Day Out",
       "url": "https://open.spotify.com/track/0HoWwOa0XVeUFsmYz1sJok"
+    },
+    {
+      "album": {
+        "name": "Drip Season 2",
+        "url": "https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164623,
+      "name": "Secure the Vibe (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be"
     },
     {
       "album": {

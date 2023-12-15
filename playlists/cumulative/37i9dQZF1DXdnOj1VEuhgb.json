@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: BLOK3",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Kleo x Segah x Motive ",
   "name": "NKVT",
   "tracks": [
     {
@@ -74,10 +74,36 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 210044,
       "name": "25",
       "url": "https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8"
+    },
+    {
+      "album": {
+        "name": "A La Carte",
+        "url": "https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD"
+      },
+      "artists": [
+        {
+          "name": "Kleo",
+          "url": "https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm"
+        },
+        {
+          "name": "Segah",
+          "url": "https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155833,
+      "name": "A La Carte",
+      "url": "https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp"
     },
     {
       "album": {
@@ -798,6 +824,24 @@
       "duration_ms": 91578,
       "name": "Bruce Lee",
       "url": "https://open.spotify.com/track/1ELDprQdPHj6inFCAu7hlY"
+    },
+    {
+      "album": {
+        "name": "Bulamad\u0131m Yolu",
+        "url": "https://open.spotify.com/album/2kNNyoE2pxsZ3G2xYjEHlU"
+      },
+      "artists": [
+        {
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179994,
+      "name": "Bulamad\u0131m Yolu",
+      "url": "https://open.spotify.com/track/5QSi6zDxjgQyIPJaQrJAet"
     },
     {
       "album": {
@@ -2381,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "Kalpten",
+        "url": "https://open.spotify.com/album/0tdxiPBNcEZSomIc0d3bfm"
+      },
+      "artists": [
+        {
+          "name": "Defkhan",
+          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
+        },
+        {
+          "name": "Rota",
+          "url": "https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "Kalpten",
+      "url": "https://open.spotify.com/track/5MKGKt10qfgAwVplznJTHO"
+    },
+    {
+      "album": {
         "name": "KAN,TER",
         "url": "https://open.spotify.com/album/4Vo5JRP1ZwJTMCIpevTeP4"
       },
@@ -3722,7 +3788,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 152187,
       "name": "RANDEVU",
       "url": "https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m"
@@ -3805,6 +3871,44 @@
     },
     {
       "album": {
+        "name": "ROTTERDAM FREESTYLE",
+        "url": "https://open.spotify.com/album/5UVILVc0nsFsOKLULAPWq3"
+      },
+      "artists": [
+        {
+          "name": "Aksan",
+          "url": "https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK"
+        },
+        {
+          "name": "Critical",
+          "url": "https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        },
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "ROTTERDAM FREESTYLE",
+      "url": "https://open.spotify.com/track/2WhsQfqUJVU9wRzORsukX8"
+    },
+    {
+      "album": {
         "name": "Sahibinden",
         "url": "https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z"
       },
@@ -3881,6 +3985,32 @@
     },
     {
       "album": {
+        "name": "SAPLA",
+        "url": "https://open.spotify.com/album/3mB4gwydrZhKBvmXa1tbZb"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142736,
+      "name": "SAPLA",
+      "url": "https://open.spotify.com/track/2uHjJ9NkuTZj2luGH0rwJP"
+    },
+    {
+      "album": {
         "name": "Sa\u011flam Kal\u00e7a",
         "url": "https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk"
       },
@@ -3936,7 +4066,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 166666,
       "name": "Sen Yoksan",
       "url": "https://open.spotify.com/track/0aXeLLkRYPzlao0lf0Ay4H"
@@ -4376,7 +4506,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 192064,
       "name": "Uzayda A\u015fk",
       "url": "https://open.spotify.com/track/4GNt6Ymyb6ld5lZgN0HbKp"
@@ -4452,7 +4582,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 190270,
       "name": "VUR",
       "url": "https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF"
@@ -4510,7 +4640,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 116499,
       "name": "YAKALARSAN",
       "url": "https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx"
@@ -4802,6 +4932,24 @@
       "duration_ms": 171102,
       "name": "\u00d6ld\u00fcrd\u00fcn Beni",
       "url": "https://open.spotify.com/track/2KFH9ccit5Dx39CUfgCuT5"
+    },
+    {
+      "album": {
+        "name": "\u00c7\u0131\u011fl\u0131k Senfonisi 2",
+        "url": "https://open.spotify.com/album/4quESo01OoptGiaFWsq5vx"
+      },
+      "artists": [
+        {
+          "name": "Aspova",
+          "url": "https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "\u00f6l\u00fcml\u00fc d\u00fcnya",
+      "url": "https://open.spotify.com/track/6OixL8OpVDQDvWc2rCUDhd"
     },
     {
       "album": {

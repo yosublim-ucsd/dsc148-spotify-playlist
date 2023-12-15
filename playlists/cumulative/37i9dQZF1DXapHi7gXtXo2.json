@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
+      },
+      "artists": [
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
+    },
+    {
+      "album": {
         "name": "EME",
         "url": "https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 265173,
       "name": "Fractal",
       "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"

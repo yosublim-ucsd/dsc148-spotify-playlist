@@ -1462,16 +1462,16 @@
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
           "name": "Silva",
           "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         },
         {
           "name": "Anitta",
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         }
       ],
       "date_added": "2022-06-29",

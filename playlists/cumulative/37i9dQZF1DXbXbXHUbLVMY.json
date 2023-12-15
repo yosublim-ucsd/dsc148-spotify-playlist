@@ -27,6 +27,40 @@
     },
     {
       "album": {
+        "name": "03 Rica",
+        "url": "https://open.spotify.com/album/3aLl7TfFtN7iYy1BKn4iCj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Tee",
+          "url": "https://open.spotify.com/artist/4ihTfE4MtCrKerRYHU7e4p"
+        },
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "T Section",
+          "url": "https://open.spotify.com/artist/6JQh39rF2lAj25dMHEXpoC"
+        },
+        {
+          "name": "amir.",
+          "url": "https://open.spotify.com/artist/3pwG0vw2XedZiTh0qNVl8P"
+        },
+        {
+          "name": "OTG",
+          "url": "https://open.spotify.com/artist/1svzRrihwnGVSMLMKBGvTU"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153432,
+      "name": "03 Rica",
+      "url": "https://open.spotify.com/track/5jLuUEQG8HUp1ee8o2h1vf"
+    },
+    {
+      "album": {
         "name": "1,2 & Mer",
         "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
       },
@@ -646,7 +680,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 158836,
       "name": "F.H.D.S!",
       "url": "https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4"

@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 104762,
+  "num_followers": 104766,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Nada Para Ti",
-        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 236255,
-      "name": "Nada Para Ti",
-      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Una Caricia",
+      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
         "name": "SUPERSTICIONES: Remixes",
         "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
+        "name": "C\u00f3smica",
+        "url": "https://open.spotify.com/album/7ypr3KPhXSttdn4I1kp1qi"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
         }
       ],
-      "duration_ms": 188133,
-      "name": "Una Caricia",
-      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
+      "duration_ms": 216670,
+      "name": "C\u00f3smica",
+      "url": "https://open.spotify.com/track/7gtubJCPm9EcKuHgBxRZRJ"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1011,22 +1027,6 @@
       "duration_ms": 232947,
       "name": "Velocidad Crucero",
       "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
-        "name": "C\u00f3smica",
-        "url": "https://open.spotify.com/album/7ypr3KPhXSttdn4I1kp1qi"
-      },
-      "artists": [
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        }
-      ],
-      "duration_ms": 216670,
-      "name": "C\u00f3smica",
-      "url": "https://open.spotify.com/track/7gtubJCPm9EcKuHgBxRZRJ"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "Pediste flores (con Loli Molina)",
         "url": "https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 193643,
       "name": "Pediste flores (con Loli Molina)",
       "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Pedazo de Cielo",
+      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
         "name": "El bosque del recuerdo",
         "url": "https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 166945,
       "name": "Melodia de extra\u00f1ar",
       "url": "https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Pedazo de Cielo",
-      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "ReconoceR",
-        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
-      },
-      "artists": [
-        {
-          "name": "Pamela Rodriguez",
-          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Ligera Love",
-      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 238222,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "ReconoceR",
+        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
+      },
+      "artists": [
+        {
+          "name": "Pamela Rodriguez",
+          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
+        }
+      ],
+      "duration_ms": 147933,
+      "name": "Ligera Love",
+      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
+        "name": "Te Estoy Amando Locamente",
+        "url": "https://open.spotify.com/album/28zWvg3JwecBCXSgb94aLO"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 200234,
+      "name": "Te Estoy Amando Locamente",
+      "url": "https://open.spotify.com/track/04C2HgsiWUi8WNCp49f1Yj"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
         "name": "Por los Dos",
         "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 181622,
       "name": "Por los Dos",
       "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
-        "name": "Te Estoy Amando Locamente",
-        "url": "https://open.spotify.com/album/28zWvg3JwecBCXSgb94aLO"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 200234,
-      "name": "Te Estoy Amando Locamente",
-      "url": "https://open.spotify.com/track/04C2HgsiWUi8WNCp49f1Yj"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "Romance de Fin de Semana",
         "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2023-12-07 21:35:38",

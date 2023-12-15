@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: The Castellows
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,342 likes - 173 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,392 likes - 173 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

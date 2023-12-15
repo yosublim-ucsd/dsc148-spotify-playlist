@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Best Of Me (Originals) [Official Video]",
+        "url": "https://open.spotify.com/album/5ktfOa0AUMShUQXwDSuGQV"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237823,
+      "name": "Best Of Me (Originals)",
+      "url": "https://open.spotify.com/track/04m9VQHR3VqTaSKB19RU5Q"
+    },
+    {
+      "album": {
         "name": "KEYS",
         "url": "https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX"
       },
@@ -208,7 +226,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 239306,
       "name": "Best Of Me (Originals)",
       "url": "https://open.spotify.com/track/0VuONk2yU3wnSBtB881QXM"
@@ -306,6 +324,24 @@
       "duration_ms": 233560,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/0827eActpDYORuhgvWB0oY"
+    },
+    {
+      "album": {
+        "name": "Brand New Me (Official Video)",
+        "url": "https://open.spotify.com/album/51rzll8xRAAuqZF1aI2wNZ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272703,
+      "name": "Brand New Me",
+      "url": "https://open.spotify.com/track/3ddTcWO0otfZvR3zn0bduS"
     },
     {
       "album": {
@@ -758,10 +794,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 272613,
       "name": "Doesn't Mean Anything",
       "url": "https://open.spotify.com/track/5bpx60gYQoDDJcP7vBygPB"
+    },
+    {
+      "album": {
+        "name": "Doesn't Mean Anything (Official Video)",
+        "url": "https://open.spotify.com/album/2ALfo7D0Vt1jn1ySuSPElR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313514,
+      "name": "Doesn't Mean Anything",
+      "url": "https://open.spotify.com/track/2FKYQbdegoxuFDoSKbsYPn"
     },
     {
       "album": {
@@ -902,7 +956,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 206911,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/4M3VnGriMuTOUV65fj16yg"
@@ -920,7 +974,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
@@ -1596,7 +1650,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 262762,
       "name": "LALA (Unlocked)",
       "url": "https://open.spotify.com/track/5oRbU0qch8SO127OPwiFdX"
@@ -1618,7 +1672,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 271226,
       "name": "LALA (Unlocked) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/1P3RSPnpzibXUDIMz3kLxE"
@@ -1850,7 +1904,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 203320,
       "name": "Love Looks Better",
       "url": "https://open.spotify.com/track/0HL5XOeVxgX1cEPY2KgRRa"
@@ -1868,7 +1922,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 230293,
       "name": "Love Looks Better",
       "url": "https://open.spotify.com/track/4L5KZNybVabAoB8waldDbw"
@@ -2148,6 +2202,24 @@
       "duration_ms": 246011,
       "name": "NEW YORK (CONCEPT DE PARIS) (feat. Gil Scott-Heron)",
       "url": "https://open.spotify.com/track/52HkYMgslCfQjNuQ8zjE4P"
+    },
+    {
+      "album": {
+        "name": "No One (Official Music Video)",
+        "url": "https://open.spotify.com/album/1UpH7i6GjVP8G6u1mIWCxJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/1rEWI6tnJ3Za9sZC2YZm0J"
     },
     {
       "album": {
@@ -2456,10 +2528,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 211066,
       "name": "Perfect Way To Die",
       "url": "https://open.spotify.com/track/4rxetbgJZra2oJKBIF8vr5"
+    },
+    {
+      "album": {
+        "name": "Perfect Way To Die (Official Video)",
+        "url": "https://open.spotify.com/album/3H566OuLClLWCxLsuqw8pz"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238997,
+      "name": "Perfect Way To Die",
+      "url": "https://open.spotify.com/track/0ALegRhmtzVDGhXvrOUrI0"
     },
     {
       "album": {
@@ -2869,6 +2959,28 @@
     },
     {
       "album": {
+        "name": "So Done (Official Video)",
+        "url": "https://open.spotify.com/album/0r246iElWRuBrQvfvquMvx"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250218,
+      "name": "So Done",
+      "url": "https://open.spotify.com/track/3CHdCeXVBB5U7PYxjilNuT"
+    },
+    {
+      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -2884,7 +2996,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
@@ -3328,10 +3440,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 249013,
       "name": "Try Sleeping with a Broken Heart",
       "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
+    },
+    {
+      "album": {
+        "name": "Try Sleeping with a Broken Heart (Official Video)",
+        "url": "https://open.spotify.com/album/6igPywj4zKLD3NePZaCjIy"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279381,
+      "name": "Try Sleeping with a Broken Heart",
+      "url": "https://open.spotify.com/track/4YDZpE8SZF73i3D0BBW5pn"
     },
     {
       "album": {
@@ -3382,10 +3512,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 249240,
       "name": "Un-thinkable (I'm Ready)",
       "url": "https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996"
+    },
+    {
+      "album": {
+        "name": "Un-thinkable (I'm Ready) [Official Video]",
+        "url": "https://open.spotify.com/album/00EfygGhF64sja9WQ14BA8"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281791,
+      "name": "Un-thinkable (I'm Ready)",
+      "url": "https://open.spotify.com/track/3eIU2ArynyyP0uFJG6ibsj"
     },
     {
       "album": {
@@ -3418,7 +3566,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 204400,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg"
@@ -3436,7 +3584,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 208042,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/1umefo2cFpOUXfRhcqqhZM"
@@ -3556,7 +3704,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 284683,
       "name": "We Are Here",
       "url": "https://open.spotify.com/track/1lEPbd3Pf73s28zoem3IxX"
@@ -3574,7 +3722,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 304661,
       "name": "We Are Here",
       "url": "https://open.spotify.com/track/1m2sdZi5pG42sONPjoVYJj"

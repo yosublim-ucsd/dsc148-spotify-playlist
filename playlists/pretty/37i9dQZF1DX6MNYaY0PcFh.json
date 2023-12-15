@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 72450,
+  "num_followers": 72488,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/3FGBDhlwrAPNv486sGmYSS"
+      },
+      "artists": [
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "duration_ms": 170381,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7xonaZK7T4Z18vpx8LMNV2"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 182270,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/3FGBDhlwrAPNv486sGmYSS"
-      },
-      "artists": [
-        {
-          "name": "Drinks On Me",
-          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
-        }
-      ],
-      "duration_ms": 170381,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/7xonaZK7T4Z18vpx8LMNV2"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "More To Give",
+        "url": "https://open.spotify.com/album/7DrcBhY34PI4wgF16iY2E5"
+      },
+      "artists": [
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "duration_ms": 152061,
+      "name": "More To Give",
+      "url": "https://open.spotify.com/track/0c7OcnAQz6H3IIzQA3MP6C"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Don't Know About You (feat. Becky Hill & JME)",
         "url": "https://open.spotify.com/album/07qE5bujJguS4BK8Ah3l09"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 170805,
       "name": "Don't Know About You (feat. Becky Hill & JME)",
       "url": "https://open.spotify.com/track/5fHAZKWoCWC5lzDqWw49e6"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "More To Give",
-        "url": "https://open.spotify.com/album/7DrcBhY34PI4wgF16iY2E5"
-      },
-      "artists": [
-        {
-          "name": "Drinks On Me",
-          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
-        }
-      ],
-      "duration_ms": 152061,
-      "name": "More To Give",
-      "url": "https://open.spotify.com/track/0c7OcnAQz6H3IIzQA3MP6C"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Lost City Archives, Vol. 7",
+        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
+      },
+      "artists": [
+        {
+          "name": "Deadly Habitz",
+          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Henney & Coke",
+      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Big & Bad Riddim",
         "url": "https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 228750,
       "name": "With Me (feat. S\u00e2lo)",
       "url": "https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Lost City Archives, Vol. 7",
-        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
-      },
-      "artists": [
-        {
-          "name": "Deadly Habitz",
-          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Henney & Coke",
-      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
     },
     {
       "added_at": "2023-11-17 00:01:00",

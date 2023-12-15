@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-249 songs - 13 hr 50 min
+250 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 | 2023-06-02 | 2023-06-16 |
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2022-12-23 | 2023-06-02 |
 | [Breathe Me](https://open.spotify.com/track/14K7loEFfkISXmaIMeVTqL) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Breathe Me](https://open.spotify.com/album/3LKfvH0575rEfTQbhR0At8) | 3:14 | 2023-06-02 |  |
+| [Breathless](https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Breathless](https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn) | 2:46 | 2023-12-15 |  |
 | [Brief and Beautiful](https://open.spotify.com/track/7MOGp0X4VUfsvlZQFpKVhY) | [Fahrenhaidt](https://open.spotify.com/artist/36YkPEVyrGPidekkTErnko) | [Memories of Tomorrow](https://open.spotify.com/album/16gAW8RYGRjjHqUfedNpHY) | 3:39 | 2022-01-12 |  |
 | [Burning Ground](https://open.spotify.com/track/0IbrXdAcOPb7BCQqK9NqBh) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Burning Ground](https://open.spotify.com/album/1bsxq8JmnAhka3lbqm9nOp) | 3:55 | 2022-01-12 | 2022-06-04 |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-07-26 | 2023-06-02 |

@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-130 songs - 7 hr 5 min
+131 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Chacachá del Tren](https://open.spotify.com/track/4d1r4qqz6hH6Eq0YNcYGhK) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Chacachá del Tren](https://open.spotify.com/album/45Vwem5aRkEKT7YW6wUEzH) | 2:01 | 2023-06-02 | 2023-09-07 |
 | [Cielos Que Lloran](https://open.spotify.com/track/1YMUqYf5tNsXJEzaBlswnz) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Una Vida No Es Suficiente](https://open.spotify.com/album/0C7eBRwY63jNnFyqqwrwlj) | 2:53 | 2021-11-26 |  |
 | [Cien Inviernos](https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Monumentos](https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK) | 3:07 | 2021-11-26 |  |
-| [Ciencia Ficción](https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ) | [Ciencia Ficción](https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG) | 3:44 | 2023-08-31 |  |
+| [Ciencia Ficción](https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ) | [Ciencia Ficción](https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG) | 3:44 | 2023-08-31 | 2023-12-15 |
 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 | 2022-07-22 | 2023-08-22 |
 | [Cometas](https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Cometas](https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li) | 3:03 | 2021-11-26 | 2023-10-30 |
 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 | 2021-11-26 |  |
@@ -115,6 +115,7 @@
 | [Resiste](https://open.spotify.com/track/72uy4Nq5wCHFYnV6z2FCp5) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Resiste EP](https://open.spotify.com/album/2VgAfzswusFVxGpMxAzUY9) | 3:37 | 2023-09-22 | 2023-10-30 |
 | [Rolleando Fuerte](https://open.spotify.com/track/5eicvn7A3NuAGduvU6a68t) | [2contra1](https://open.spotify.com/artist/07QNsyKFdUIrz9DdQj1Df6) | [2 contra 1](https://open.spotify.com/album/4sEtbJkhpBn6S3NgotSMFa) | 2:35 | 2021-11-26 | 2022-07-19 |
 | [Rompe Mi Mente](https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT) | 3:29 | 2023-05-12 | 2023-09-23 |
+| [Rompe Mi Mente](https://open.spotify.com/track/3bPletoHVcZWG1wiudSU9H) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/1PFTujkH7IQLyGtX9ZeFii) | 3:29 | 2023-10-27 |  |
 | [Salven la torre del reloj](https://open.spotify.com/track/3FDeix0Xgpf74VX3nV3g9w) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Destinados a fallar](https://open.spotify.com/album/1OmvaIf4kLE46ZnX6Pfhnd) | 3:43 | 2021-11-26 | 2022-07-23 |
 | [Saoko \(Post\-Punk\)](https://open.spotify.com/track/1QcoAZN9XMAZQT2aeQqII0) | [Isaac De los Santos](https://open.spotify.com/artist/24jCcaU83zKxUs7BJylznZ) | [Saoko \(Post\-Punk\)](https://open.spotify.com/album/4Fmaxtk2DZgoQRZG3c8jn5) | 3:00 | 2022-10-01 | 2023-04-23 |
 | [Serás El Mástil De Mi Barco](https://open.spotify.com/track/3ehubcf2qVxCkpBwIeLBNu) | [May Sunday](https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE), [Alonzo Rodríguez](https://open.spotify.com/artist/6FabLitAKk8xbI901jJg6o) | [Ahora y Siempre](https://open.spotify.com/album/3FLGPjRkMAwnSN99iBR1e6) | 2:54 | 2021-11-26 | 2022-07-23 |

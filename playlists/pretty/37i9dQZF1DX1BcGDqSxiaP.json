@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 21609,
+  "num_followers": 21614,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Wander This World",
+        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Cherry Red Wine",
+      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Roots And Branches - The Songs Of Little Walter",
         "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 187186,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Wander This World",
-        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Cherry Red Wine",
-      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
     },
     {
       "added_at": "2023-05-17 15:52:13",

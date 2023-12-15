@@ -13024,10 +13024,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 203515,
       "name": "Nocturnal Fear",
       "url": "https://open.spotify.com/track/3kAR8IZNpye5CWWFqCfh16"
+    },
+    {
+      "album": {
+        "name": "Inspiratio Profanus",
+        "url": "https://open.spotify.com/album/6PMOZfuG2E4wDMZLGmpkkx"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Nocturnal Fear (Celtically Processed)",
+      "url": "https://open.spotify.com/track/7weyREHgfGWpKJDBRzUFo1"
     },
     {
       "album": {
@@ -16886,7 +16904,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 203080,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/6nfrIohSDBQvBX6rlHWEVO"
@@ -16904,7 +16922,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 203080,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/7nrvvUfMUXdPf0McTsDFti"

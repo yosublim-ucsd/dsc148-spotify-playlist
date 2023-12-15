@@ -8035,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Is Short",
+        "url": "https://open.spotify.com/album/0MnKnVzed2dgfNvcz2vsfE"
+      },
+      "artists": [
+        {
+          "name": "Old Town Trio",
+          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216022,
+      "name": "Wonderful Is Short",
+      "url": "https://open.spotify.com/track/7AeoW54UXtfDBV2WpWSR6f"
+    },
+    {
+      "album": {
         "name": "Wooden String",
         "url": "https://open.spotify.com/album/0JNbiCpZInQlQcYnRzVGZS"
       },

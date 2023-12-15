@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-199 songs - 10 hr 34 min
+200 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Akela](https://open.spotify.com/track/7kgNsbE5PjQq1eqinaZvEN) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Akela](https://open.spotify.com/album/1PqapJIkqEoL6CudXe6Rzd) | 4:03 | 2023-03-29 | 2023-04-17 |
 | [ALAG BT](https://open.spotify.com/track/6UWlAw7SRidFHyYgiqlqX0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [ALAG BT](https://open.spotify.com/album/0w17qtUDmxXdh5fsHynOCm) | 3:20 | 2023-03-29 | 2023-06-02 |
 | [All Fall Down](https://open.spotify.com/track/6hvrcoCUK0TkZ9BAL4m68e) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 3:25 | 2023-11-06 | 2023-12-07 |
+| [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 |  |
 | [Azhage \(Fallin\)](https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Azhage \(Fallin\)](https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h) | 3:42 | 2023-05-11 | 2023-06-02 |
 | [B.I.G.](https://open.spotify.com/track/3m58gGtcLLeeKpazlQmKjX) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:56 | 2023-11-06 | 2023-11-09 |
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2023-03-29 | 2023-04-17 |
@@ -154,7 +155,7 @@
 | [Oh My God](https://open.spotify.com/track/2a5XIrIFr3jDlxP3xAYIc5) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Oh My God](https://open.spotify.com/album/5KOYQGntgYRosJlKfc5G26) | 2:46 | 2023-03-29 |  |
 | [Online](https://open.spotify.com/track/5eJNm87J8KZswp9G8lpMCv) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Online](https://open.spotify.com/album/4ujgEUB3UANgxVK9LF7Ib9) | 2:46 | 2023-10-16 |  |
 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 | 2023-03-29 |  |
-| [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 |  |
+| [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 | 2023-12-15 |
 | [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 | 2023-03-29 | 2023-04-17 |
 | [Posterize \- From "epbl Pre\-Season Anthem"](https://open.spotify.com/track/3UZtufO3yR0BMrt9RHxw4A) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [ATHRV](https://open.spotify.com/artist/1Qdg9IrqdbU1J2TG7ORCHx) | [Posterize \(From "epbl Pre\-Season Anthem"\)](https://open.spotify.com/album/2J2rR2osjdly1HyJIBo4oO) | 2:51 | 2023-04-16 | 2023-11-09 |
 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 | 2023-08-29 | 2023-10-17 |

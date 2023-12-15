@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-721 songs - 1 day 19 hr 20 min
+722 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Foreign Fields](https://open.spotify.com/track/7e2lRhdJQ6vH4EwOrIMb4g) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Foreign Fields](https://open.spotify.com/album/4cL398EQIoZAKrTsNu3kSM) | 3:41 | 2020-10-16 | 2022-04-20 |
 | [Forever Thing](https://open.spotify.com/track/5c3NEMjZKsohIiQCygJiKv) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Forever Thing](https://open.spotify.com/album/5dmpDT2OwpoR8h3VzUSO0o) | 2:18 | 2023-09-29 | 2023-12-13 |
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-06-04 | 2022-04-19 |
+| [Forget Me Not](https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:56 | 2023-12-14 |  |
 | [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 | 2022-10-07 | 2023-03-12 |
 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 | 2022-10-07 | 2022-10-16 |
 | [Four Walls](https://open.spotify.com/track/1IcEofBOoS01ouUsqdn8ke) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:28 | 2021-05-03 | 2022-04-18 |
@@ -619,7 +620,7 @@
 | [Talk Words](https://open.spotify.com/track/1QloOO4c5p6DkvnjcHDSSb) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Talk Words](https://open.spotify.com/album/34rTpkluJXJnTmFojki6lQ) | 3:33 | 2022-06-01 | 2022-07-28 |
 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 | 2020-10-05\* | 2020-10-06 |
 | [Tangerine](https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tangerine](https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop) | 3:23 | 2023-08-11 |  |
-| [Tangerine Light](https://open.spotify.com/track/2nBUosccBuqHQEsK0ewSQY) | [Moon Panda](https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm) | [Sing Spaceship, Sing!](https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv) | 3:07 | 2023-07-26 |  |
+| [Tangerine Light](https://open.spotify.com/track/2nBUosccBuqHQEsK0ewSQY) | [Moon Panda](https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm) | [Sing Spaceship, Sing!](https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv) | 3:07 | 2023-07-26 | 2023-12-15 |
 | [Terms & Conditions](https://open.spotify.com/track/7AyjVbkONi9ENQOyorxsIT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Terms & Conditions](https://open.spotify.com/album/2M2POTrivOaYTX8TGwTE5B) | 4:04 | 2023-09-15 | 2023-12-13 |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-07-25 | 2023-04-15 |
 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 | 2020-10-16 | 2022-07-29 |

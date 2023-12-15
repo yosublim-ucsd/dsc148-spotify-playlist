@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 80th Golden Globe Awards\. Watch Jan 10, 2023 on NBC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,781 likes - 32 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,783 likes - 32 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 18 | [Theme from Glass Onion](https://open.spotify.com/track/3ah2iIRAY7R3xbh1c8hKrW) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Glass Onion: A Knives Out Mystery \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus) | 1:53 |
 | 19 | [Mrs\. Harris](https://open.spotify.com/track/4Chlib7xjLWRsCU4A2uGCo) | [Rael Jones](https://open.spotify.com/artist/6gmWKEK7HKvYBas0CWXdlW) | [Mrs\. Harris Goes to Paris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vjxJ2lyiNrKuV00JL5HRx) | 1:59 |
 | 20 | [Overture](https://open.spotify.com/track/0GmtAxeEI2VcZKWhUdXVV0) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Whale \(Original Motion Picture Score\)](https://open.spotify.com/album/377eHf66txjBwadOeFF8Co) | 1:48 |
-| 21 | [Agojie Return](https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Woman King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr) | 1:37 |
-| 22 | [Empire Of Light](https://open.spotify.com/track/6O22GpPxzXC3lnaiGZsGXa) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Empire of Light \(Original Score\)](https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D) | 5:17 |
+| 21 | [Empire Of Light](https://open.spotify.com/track/6O22GpPxzXC3lnaiGZsGXa) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Empire of Light \(Original Score\)](https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D) | 5:17 |
+| 22 | [Agojie Return](https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Woman King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr) | 1:37 |
 | 23 | [Stand By Your Man](https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp) | [Jessica Chastain](https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF), [Michael Shannon](https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89) | [George & Tammy \(Original Series Soundtrack\)](https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT) | 2:45 |
 | 24 | [We're Back \(Persons of Interest\)](https://open.spotify.com/track/7rhF7tvuOdveyQ74ophxml) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building: Season 2 \(Original Score\)](https://open.spotify.com/album/4mSME5Jj4ANMDdgZ6ZJWYH) | 1:16 |
 | 25 | [All Aboard \- from "The Menu" Soundtrack](https://open.spotify.com/track/1hT4ky9OMjtDpZJbJs08XY) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [The Menu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rNzQmIHjZCVQEfdOxEItQ) | 4:24 |

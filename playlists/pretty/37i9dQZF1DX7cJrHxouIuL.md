@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 
 > Kindie tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,524 likes - 161 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,544 likes - 161 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 125 | [Getting The Job Done](https://open.spotify.com/track/6ziD7qS2BGG8y5LhJ8FClh) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 3:39 |
 | 126 | [I Can Dance](https://open.spotify.com/track/1FsqNuSWpSXpuiCu9vmAYE) | [Trout Fishing in America](https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6) | [My Name is Chicken Joe](https://open.spotify.com/album/2iygDfA4MPfamRx3hkQq5T) | 2:51 |
 | 127 | [Starfish](https://open.spotify.com/track/4JdI5yswyco9cyUpoAqpXS) | [The Whizpops!](https://open.spotify.com/artist/5BT349IUUroVoKHXzkRtnU) | [Sea Blue Sea](https://open.spotify.com/album/2buAx33rqao1bLYCobtEC2) | 3:07 |
-| 128 | [Follow Your Heart](https://open.spotify.com/track/7llCAJGS4RvulKhZTwpxC6) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/2WvtEacxiiJJzKoeDr6T72) | 3:52 |
+| 128 | [Follow Your Heart](https://open.spotify.com/track/75R3FkOSwKBfwQHGREjwRv) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/0gjrnOe1wH1wUezVFtWWBP) | 3:52 |
 | 129 | [Piñata Attack! \(Spanish Version\)](https://open.spotify.com/track/6vB7wGPBsUbF68x2oP49lY) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 2:11 |
 | 130 | [Lightning](https://open.spotify.com/track/05G7em6cXUO1i4zNv8nCRT) | [Mr\. Steve, the Music Man](https://open.spotify.com/artist/41XCyhAiNvU600YWQREBO8) | [Earth Party!](https://open.spotify.com/album/0BdM7wmFLQM9ipSi5626hd) | 2:54 |
 | 131 | [Do You Hear the Birds Singing?](https://open.spotify.com/track/4gSpTGrxnh8xGSTs9t0Lga) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:37 |

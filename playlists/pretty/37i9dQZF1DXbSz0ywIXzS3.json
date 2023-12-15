@@ -1,6 +1,6 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 145978,
+  "num_followers": 145994,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "Bury Me Face Down",
-        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Bury Me Face Down",
-      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
-    },
-    {
-      "added_at": "2023-10-25 14:26:42",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 284798,
       "name": "Hey Gringo",
       "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "added_at": "2023-10-25 14:26:42",
+      "album": {
+        "name": "Bury Me Face Down",
+        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Bury Me Face Down",
+      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
     },
     {
       "added_at": "2023-10-25 14:26:42",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
-    },
-    {
-      "added_at": "2023-10-25 14:26:42",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 224786,
       "name": "The Emotion",
       "url": "https://open.spotify.com/track/03YZnK3XQWKpvo9TyNZzXf"
+    },
+    {
+      "added_at": "2023-10-25 14:26:42",
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
     },
     {
       "added_at": "2023-10-25 14:26:42",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "girlfriends",
-        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
       "artists": [
         {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 163832,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
+      "duration_ms": 253777,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/6Jqk2PWC70GEBNmXwmTGHp"
     },
     {
       "added_at": "2023-10-25 14:26:42",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
+        "name": "girlfriends",
+        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
         }
       ],
-      "duration_ms": 253777,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/6Jqk2PWC70GEBNmXwmTGHp"
+      "duration_ms": 163832,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
     },
     {
       "added_at": "2023-10-25 14:26:42",

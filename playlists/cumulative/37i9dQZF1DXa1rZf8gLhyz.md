@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-445 songs - 23 hr 14 min
+451 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Gentle Dance](https://open.spotify.com/track/0XRh40ZrxLXDEONZywjexP) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [A Gentle Dance](https://open.spotify.com/album/1gzd7kZ4kZji630lABbjIQ) | 2:31 | 2023-11-17 |  |
 | [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 |  |
 | [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 | 2022-11-17 |  |
+| [A Love Letter](https://open.spotify.com/track/5WYHkfV8ZIt9bMPLmSGnBr) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [A Love Letter](https://open.spotify.com/album/6JzplfUI6Epq8iYJX2LK0g) | 2:50 | 2023-12-15 |  |
 | [A Minute To Myself](https://open.spotify.com/track/0ZcjEawIY7jFDUTJdK9QkO) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [A Minute To Myself](https://open.spotify.com/album/2WzMQD7VpeIWG14dBHSTru) | 3:02 | 2023-08-17 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0fmlfBRcoK9vpKPxzcykWX) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/2OijUYhZR1MMnlH0gjAgeH) | 4:04 | 2023-01-12 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2021-12-07 | 2022-11-25 |
@@ -90,6 +91,7 @@
 | [Dear Marie](https://open.spotify.com/track/5FRNPaYCvTHiXZzlLom0Kn) | [Frank Keme](https://open.spotify.com/artist/05C8tAFDHOzinIBu7qExmR) | [Dear Marie](https://open.spotify.com/album/5pdCXbyqyQfUGnIrrX7fjM) | 2:24 | 2023-11-17 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Dear Old Stockholm](https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b) | 2:40 | 2022-08-29 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-03-16 |  |
+| [Deep in a dream](https://open.spotify.com/track/3HY9U21IszGUFH5z69pC93) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Deep in a dream](https://open.spotify.com/album/29LFHZB9VadmZSk5FmMWN6) | 4:04 | 2023-12-15 |  |
 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 | 2021-12-07 | 2022-08-30 |
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2022-04-25 |  |
 | [Didn't We](https://open.spotify.com/track/2mDRMm2mnegdONfu6RviPx) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [Didn't We](https://open.spotify.com/album/4k109TZny7qG5NFHe29c3c) | 2:49 | 2023-02-02 |  |
@@ -210,6 +212,7 @@
 | [It Could Happen to You](https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 2:35 | 2022-10-06 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 | 2022-01-04 | 2023-04-28 |
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2022-01-04 |  |
+| [It'll Never Work](https://open.spotify.com/track/7doLEZHmZmm9HSdLooK0qU) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [It'll Never Work](https://open.spotify.com/album/6WoDxo9ME7DIcTAFrtk51W) | 3:18 | 2023-12-15 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2021-12-07 | 2022-12-02 |
 | [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2021-12-07 | 2022-05-03 |
 | [Journeying](https://open.spotify.com/track/1DfdEGpdA0fELrmIsPAfuF) | [Lisa Rembrandt](https://open.spotify.com/artist/4jFvamolXB8GL2547RGGnm) | [Journeying](https://open.spotify.com/album/2wn9Ltw3roFXfB1c0XFkQe) | 3:06 | 2023-05-25 |  |
@@ -223,11 +226,13 @@
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
 | [Late Silence](https://open.spotify.com/track/5BLJfLNLFD7KsVMKeeCD9v) | [Joe Jørgensen](https://open.spotify.com/artist/0CkSmVYe54CjKJef33XTcy) | [Late Silence](https://open.spotify.com/album/3D8brxaURYvY6mGpKIkfyY) | 2:27 | 2023-11-17 |  |
 | [Later honey](https://open.spotify.com/track/0w4tcM6osjc6yykd0IqqYQ) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Later honey](https://open.spotify.com/album/3gCq5zExh1KnvrUhfxFrq5) | 3:17 | 2023-08-10 |  |
+| [Lazy Afternoon](https://open.spotify.com/track/1uaoVLtYpEbCJaQqQ78mbL) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [Lazy Afternoon](https://open.spotify.com/album/4g3jWHBTgPCUE3zid7T3Mr) | 2:12 | 2023-12-15 |  |
 | [Leave The Bottle](https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [Leave The Bottle](https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl) | 3:38 | 2023-01-12 |  |
 | [Lenox Hill](https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Lenox Hill](https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7) | 2:31 | 2023-02-23 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2021-12-07 | 2022-10-14 |
 | [Let's Fall in Love](https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 2:03 | 2022-05-24 |  |
 | [Let's Get Lost](https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Let's Get Lost](https://open.spotify.com/album/7ggibGb8ifmCqBz6TcxSix) | 2:52 | 2023-08-10 |  |
+| [Like Never Before](https://open.spotify.com/track/5Z7B6tRwYQj1h7dpk0LLw1) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Like Never Before](https://open.spotify.com/album/0zsSxEUcSIkspa42rF7jxB) | 2:54 | 2023-12-15 |  |
 | [Like Someone in Love](https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Like Someone in Love](https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r) | 3:32 | 2021-12-07 |  |
 | [Like Someone in Love](https://open.spotify.com/track/4PiUoO6xh4xQNxpKQwgGId) | [Milos Strevic](https://open.spotify.com/artist/5MCalzVGSntMjjmo9JZKgC) | [Like Someone in love](https://open.spotify.com/album/1nAbNCv6V6YSZfdLHjX9uj) | 3:32 | 2021-12-07 | 2022-01-14 |
 | [Little Bossy](https://open.spotify.com/track/0Rz7PvOkwkVnTlEFsmSt3n) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Little Bossy](https://open.spotify.com/album/5IsaWRF8HEtro5Ajt2DYUV) | 3:08 | 2023-08-10 |  |
@@ -314,6 +319,7 @@
 | [Reflections in the Rain](https://open.spotify.com/track/5bJ2WTF08YvfA51hFfD9TC) | [Tina Wellbeck](https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe) | [Reflections in the Rain](https://open.spotify.com/album/0VXnHbvR6mMKQ6jCQt7Fjw) | 2:35 | 2023-06-01 |  |
 | [Relief On A Shitty Day](https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [Relief On A Shitty Day](https://open.spotify.com/album/413eCTjZ1lJAjgtH5srUFp) | 3:08 | 2023-01-05 |  |
 | [Remembering Yesterday](https://open.spotify.com/track/2Zwb29cNNm14tWsiF3miBs) | [Roger Strauss](https://open.spotify.com/artist/2zvMk2zsPGcS2y7gKjmRn9) | [Remembering Yesterday](https://open.spotify.com/album/2VakgfW7V5sTcM4L4nOnxL) | 3:21 | 2021-12-07 |  |
+| [Rendezvous in Paris](https://open.spotify.com/track/6OIPUVNyFrn1kZ7GLVNweJ) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Rendezvous in Paris](https://open.spotify.com/album/5dcRy1998FNdT6ZVvk6G2D) | 2:40 | 2023-12-15 |  |
 | [Rest Well, My Good Friend](https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3) | [Angus Grove](https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL) | [Rest Well, My Good Friend](https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi) | 2:41 | 2021-12-07 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 | 2022-11-10 |  |
 | [Rosetta](https://open.spotify.com/track/3v9ZFIFthJgy27ypoPUaij) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Rosetta](https://open.spotify.com/album/2Fhw8PxgpBbSEe8GNTzI3K) | 2:37 | 2023-08-10 |  |

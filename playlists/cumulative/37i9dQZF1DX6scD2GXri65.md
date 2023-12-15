@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-170 songs - 9 hr 25 min
+171 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Free Fall](https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Free Fall](https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS) | 3:15 | 2023-03-30 | 2023-06-08 |
 | [Futurepower](https://open.spotify.com/track/5BEeBEAsRWIhAw18rkun9F) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Futurepower](https://open.spotify.com/album/2MG0xLJezHQAAlmpCVf7h6) | 4:06 | 2022-12-08 |  |
 | [Get Psycho](https://open.spotify.com/track/2qSbdjBKV4Ooa0yxZtA0px) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Alter Ego](https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8) | [Get Psycho](https://open.spotify.com/album/4eqnUJrLMljVfSbomWiVgG) | 2:15 | 2022-12-08 | 2023-02-28 |
-| [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 | 2022-12-08 |  |
+| [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 | 2022-12-08 | 2023-12-15 |
 | [Go Down Low](https://open.spotify.com/track/6QCs2VEwYeSrhutMPGw5Vs) | [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [Go Down Low](https://open.spotify.com/album/7tWUHSKe7LYJGSNT1NFLTb) | 3:32 | 2023-02-09 | 2023-03-25 |
 | [Go Mental](https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Go Mental](https://open.spotify.com/album/15A99aAZGYFpTuwvzQsjsu) | 2:45 | 2022-12-08 | 2023-10-01 |
 | [GO STUPID](https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [GO STUPID](https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q) | 3:37 | 2022-12-08 | 2023-02-10 |
@@ -110,6 +110,7 @@
 | [Next Level](https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Next Level](https://open.spotify.com/album/4V5Unm0OwUFn32saWfnqgU) | 3:28 | 2023-04-07 | 2023-06-02 |
 | [Nightmare Nirvana](https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Nightmare Nirvana](https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1) | 4:30 | 2022-12-08 | 2023-12-05 |
 | [No Fear](https://open.spotify.com/track/1h2ZpjNE4OKn9ZPEm5Nmye) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Phrantic](https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [No Fear](https://open.spotify.com/album/5L42QZz6StD9tZDsTC2vJU) | 3:46 | 2022-12-08 | 2023-02-10 |
+| [Nothing About You](https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing About You](https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx) | 3:16 | 2023-12-04 |  |
 | [NRG](https://open.spotify.com/track/014cgPQdDPnwysDT3453Nf) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [HDNA](https://open.spotify.com/album/6qOxQawMkqAyf1j8KD2I2q) | 3:43 | 2022-12-08 |  |
 | [On Fire](https://open.spotify.com/track/6KTEkElC6L57LWsG6i14B5) | [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [Sedutchion](https://open.spotify.com/artist/3wXY3DwFG8BCDOHsAZrprD) | [On Fire](https://open.spotify.com/album/68zJzjpFXZmG0iz7QC46Pu) | 2:42 | 2023-01-26 | 2023-02-28 |
 | [One And The Same](https://open.spotify.com/track/6NNRhitDn0DE7bRGcEESgb) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [One And The Same](https://open.spotify.com/album/7GKygds15lUloYYV0wyINF) | 3:32 | 2023-04-13 | 2023-07-13 |

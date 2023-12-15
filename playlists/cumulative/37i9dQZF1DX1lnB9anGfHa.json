@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
@@ -226,6 +226,24 @@
       "duration_ms": 394293,
       "name": "An Interior of Strange Beauty",
       "url": "https://open.spotify.com/track/65YpsPCRVa7texeE1e6ycl"
+    },
+    {
+      "album": {
+        "name": "The Disorder of Appearances",
+        "url": "https://open.spotify.com/album/1UY4FzbEnlU8GdDahQrDOX"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394293,
+      "name": "An Interior of Strange Beauty",
+      "url": "https://open.spotify.com/track/6dbkobz26W6ipF4krITVAu"
     },
     {
       "album": {
@@ -618,7 +636,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 264748,
       "name": "Bu Izd\u0131rab\u0131n Panzehiri",
       "url": "https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt"
@@ -636,7 +654,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 334500,
       "name": "Cabalga la bestia",
       "url": "https://open.spotify.com/track/4BmomxixYAtRPTTrnbFxed"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 282920,
       "name": "Closer Now",
       "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 178333,
       "name": "Exit to Enter",
       "url": "https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 362108,
       "name": "Glossy Bingo Stain",
       "url": "https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 256915,
       "name": "Hiding In My Room",
       "url": "https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM"
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 278830,
       "name": "Karada",
       "url": "https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 363346,
       "name": "Makkuroi Mizu",
       "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 240500,
       "name": "Me Acoplo",
       "url": "https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X"
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 149433,
       "name": "MY BLACK CAT",
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 234186,
       "name": "One",
       "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 410397,
       "name": "Oracles",
       "url": "https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp"
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 585901,
       "name": "Pillar",
       "url": "https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs"
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 190212,
       "name": "quiet face",
       "url": "https://open.spotify.com/track/0x2GowE3BwQCG7ZAYwiTxC"
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 180546,
       "name": "See Her",
       "url": "https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm"
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Signal (Maral Remix)",
       "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
@@ -3178,7 +3196,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 277726,
       "name": "Tectonic",
       "url": "https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY"
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 196891,
       "name": "The Fountain",
       "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "The House That Agnes Built",
       "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "The Order of the Rain",
       "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
@@ -3446,7 +3464,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 185813,
       "name": "Tintoretto, It's for You",
       "url": "https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP"
@@ -3580,7 +3598,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 202083,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/4cdatGZQkKpBKZOiXptz5I"
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 237999,
       "name": "Travel Lite",
       "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
@@ -3754,7 +3772,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 526066,
       "name": "V",
       "url": "https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 199150,
       "name": "Viconian Cycles",
       "url": "https://open.spotify.com/track/7iFWNZWamXLZBtQjCV07AO"

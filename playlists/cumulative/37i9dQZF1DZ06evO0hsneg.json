@@ -372,10 +372,32 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 152695,
       "name": "Go Get That B",
       "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
+    },
+    {
+      "album": {
+        "name": "Go Get That B",
+        "url": "https://open.spotify.com/album/4L0x5vBHiaushaskjdDPQu"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152695,
+      "name": "Go Get That B",
+      "url": "https://open.spotify.com/track/70m0i8abrcAwhEVeg1l6lx"
     },
     {
       "album": {
@@ -716,6 +738,24 @@
       "duration_ms": 253018,
       "name": "Riphunter",
       "url": "https://open.spotify.com/track/0RHXZwwxuHBohTlA6yyLkw"
+    },
+    {
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
     },
     {
       "album": {

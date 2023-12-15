@@ -8,11 +8,11 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Algorithm](https://open.spotify.com/track/7f0vVL3xi4i78Rv5Ptn2s1) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 4:05 | 2022-01-11 | 2023-12-14 |
+| [Algorithm](https://open.spotify.com/track/7f0vVL3xi4i78Rv5Ptn2s1) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 4:05 | 2022-01-11 |  |
 | [Animals](https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:22 | 2022-01-11 |  |
 | [Apocalypse Please](https://open.spotify.com/track/5MmvKstpiYPetHQ7TfyTJz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution XX Anniversary](https://open.spotify.com/album/5jVU78xvmaqPWJV7HaZqqj) | 4:12 | 2023-12-13 |  |
 | [Assassin](https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:31 | 2022-01-11 |  |
-| [Blackout](https://open.spotify.com/track/4Q0CesDHTEoo7HqgE7QPY6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution XX Anniversary](https://open.spotify.com/album/5jVU78xvmaqPWJV7HaZqqj) | 4:22 | 2023-12-13 |  |
+| [Blackout](https://open.spotify.com/track/4Q0CesDHTEoo7HqgE7QPY6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution XX Anniversary](https://open.spotify.com/album/5jVU78xvmaqPWJV7HaZqqj) | 4:22 | 2023-12-13 | 2023-12-15 |
 | [Blackout](https://open.spotify.com/track/2nTgdpxwpXTk5x1c9yaO3W) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 4:22 | 2022-01-11 | 2022-10-13 |
 | [Bliss](https://open.spotify.com/track/0j3obufLXq5toSs592dX9U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 4:11 | 2022-01-11 |  |
 | [Butterflies and Hurricanes](https://open.spotify.com/track/0xJLcjd0gaZct43xG1UlXS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 5:01 | 2022-01-11 |  |

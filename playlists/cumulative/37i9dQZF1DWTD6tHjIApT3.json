@@ -11285,6 +11285,24 @@
     },
     {
       "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/6FdNE5uVz75OxHzI0Hp2i5"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/2FCFjs91AYmxUwakxg6kP3"
+    },
+    {
+      "album": {
         "name": "Love Groovin'",
         "url": "https://open.spotify.com/album/6TwU6qWEIcymqe1ilpNyNi"
       },
@@ -13834,7 +13852,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 291427,
       "name": "NOT OK",
       "url": "https://open.spotify.com/track/690KKCzni7cDqy9EWe0rpc"
@@ -14902,6 +14920,24 @@
       "duration_ms": 225849,
       "name": "PEAKY",
       "url": "https://open.spotify.com/track/2NasBeuUvM5gGtq6EI7j38"
+    },
+    {
+      "album": {
+        "name": "Pendulum / Kakurembo",
+        "url": "https://open.spotify.com/album/62FGMfgpUVoI1PnqW2wcQu"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215333,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/0Hxrdyy6tofETWW10Vn82U"
     },
     {
       "album": {
@@ -22097,6 +22133,24 @@
     },
     {
       "album": {
+        "name": "winter again",
+        "url": "https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274017,
+      "name": "winter again",
+      "url": "https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ"
+    },
+    {
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi"
       },
@@ -22408,6 +22462,24 @@
       "duration_ms": 261282,
       "name": "Yae",
       "url": "https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb"
+    },
+    {
+      "album": {
+        "name": "Yellow.",
+        "url": "https://open.spotify.com/album/2IywDIPk6Q2s9LQlxMpxnt"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189642,
+      "name": "Yellow.",
+      "url": "https://open.spotify.com/track/5DavTYGypSFyGYv3zGxwyP"
     },
     {
       "album": {
@@ -23504,7 +23576,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 383613,
       "name": "\u3046\u308c\u3057\u304f\u3066",
       "url": "https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1"
@@ -28718,7 +28790,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 235814,
       "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
@@ -28794,7 +28866,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 249273,
       "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
@@ -29768,7 +29840,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 260066,
       "name": "\u4e0d\u6cd5\u4fb5\u5165",
       "url": "https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo"
@@ -36022,7 +36094,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 255605,
       "name": "\u79c1\u306e\u307e\u307e\u3067",
       "url": "https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI"
@@ -37232,6 +37304,24 @@
       "duration_ms": 334373,
       "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044\u306e\u3067\u3059 - 2023 Acoustic Ver.",
       "url": "https://open.spotify.com/track/0BOfGbWfgG4GP3xAsVMCgL"
+    },
+    {
+      "album": {
+        "name": "\u8d64\u3044\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc (English Jazz Ver.)",
+        "url": "https://open.spotify.com/album/3yDsynLI0UyD2U8tVp5A2Q"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265689,
+      "name": "\u8d64\u3044\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc - English Jazz Ver.",
+      "url": "https://open.spotify.com/track/7sZvxchusFfJalUdKXxxsU"
     },
     {
       "album": {

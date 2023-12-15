@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj?si=UFddna35Qde6UQ66Vm7Kbg"> KABEAUSHE</a>
 
-179 songs - 10 hr 47 min
+180 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 | 2023-11-17 |  |
 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 | 2023-01-27 | 2023-09-29 |
 | [It Ain't Right](https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [It Ain't Right](https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk) | 3:45 | 2023-06-02 | 2023-07-29 |
+| [Iyawo](https://open.spotify.com/track/1tRkWbxNCSFPeeTHPhqmlz) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [O.N.E](https://open.spotify.com/album/2fT7v7Hu2Mh1yDsx3JFWic) | 2:48 | 2023-12-15 |  |
 | [Japa Japa](https://open.spotify.com/track/3LohrjLiSAKdLxta3Y7sp5) | [BANTU](https://open.spotify.com/artist/2FIlpbCgw3KsywBZzuPU1H) | [What Is Your Breaking Point?](https://open.spotify.com/album/5BNEYB2U96GLnTo2CjG9qd) | 4:50 | 2023-06-08 |  |
 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 | 2023-04-14 |  |
 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 | 2021-10-22 | 2023-03-04 |
@@ -81,7 +82,7 @@
 | [Letting Go](https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq) | [Letting Go](https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ) | 3:33 | 2023-06-22 | 2023-09-22 |
 | [Light](https://open.spotify.com/track/41NqESXB9XqryxvtaRjubm) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 3:11 | 2023-10-13 |  |
 | [Love is all around you](https://open.spotify.com/track/1Ow7Aqj42PhFfzgtWaQOX9) | [Poetra Asantewa](https://open.spotify.com/artist/1wavl70KiuxkAOZdBnZwad) | [prelude to a poem \(EP\)](https://open.spotify.com/album/6keODjWos1S6S9646nrhdN) | 4:06 | 2023-08-17 | 2023-11-10 |
-| [Luci](https://open.spotify.com/track/69fYAKrHt69xFqH9OGojjp) | [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [David Hammond](https://open.spotify.com/artist/77dRhxijp3XSASVc3mYozX) | [The.rap.y](https://open.spotify.com/album/5imTQerf20f3s4TkWwlKaY) | 2:45 | 2023-04-14 |  |
+| [Luci](https://open.spotify.com/track/69fYAKrHt69xFqH9OGojjp) | [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [David Hammond](https://open.spotify.com/artist/77dRhxijp3XSASVc3mYozX) | [The.rap.y](https://open.spotify.com/album/5imTQerf20f3s4TkWwlKaY) | 2:45 | 2023-04-14 | 2023-12-15 |
 | [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-25 | 2023-06-03 |
 | [Luendu](https://open.spotify.com/track/1anZTHDNZp9OlQtqFwkVON) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Mopero Mupemba](https://open.spotify.com/artist/2WUJ6i3nedRAN5IycBqhBs) | [Archeology](https://open.spotify.com/album/3V4BPB1PiG4Uobib3AeRN3) | 3:08 | 2022-10-21 | 2022-11-04 |
 | [Magic In The Water](https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Magic In The Water](https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g) | 4:14 | 2022-02-24 | 2022-12-09 |

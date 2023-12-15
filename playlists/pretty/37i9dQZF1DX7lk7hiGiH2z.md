@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,408 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,448 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 54 | [Ein ganzes Jahr](https://open.spotify.com/track/67Co1VuT41BwFVZNvQKi3G) | [Larissa Pesch](https://open.spotify.com/artist/0EKqMShhmMhiac8F9pbdpZ) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:42 |
 | 55 | [Wir sind die Wichtel](https://open.spotify.com/track/5Z4oTHTkzt1hDD5DO0jzB0) | [Simon Sagt](https://open.spotify.com/artist/4B1AsCllmZk9SVd2OUyBRr) | [Wir sind die Wichtel](https://open.spotify.com/album/5EHR8zntKL9n3zLAoObvSq) | 2:49 |
 | 56 | [Eisbärn \(Kinderlied zum Winter\)](https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Winterlieder: Bayerisch\-Verschmitzte Kinderlieder für Winter und Weihnachten](https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ) | 4:33 |
-| 57 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 |
-| 58 | [Carla, die Weihnachtsfrau](https://open.spotify.com/track/5ATqvrY6bQZFt52cJ1AO3q) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Moritz Krämer](https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:00 |
+| 57 | [Carla, die Weihnachtsfrau](https://open.spotify.com/track/5ATqvrY6bQZFt52cJ1AO3q) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Moritz Krämer](https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:00 |
+| 58 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 |
 | 59 | [Kekse](https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:36 |
 | 60 | [Klingelingeling \(feat\. Dominikus Weilede\)](https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Dominikus Weilede](https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 3:01 |
-| 61 | [Die Weihnachtskinder](https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj) | [Eule und Lerche](https://open.spotify.com/artist/4rnjX26GPtQ12aFGuXgaew) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:09 |
-| 62 | [24 Türchen](https://open.spotify.com/track/3BXBI1g61AtNE0xIhJ6ONE) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 3:31 |
+| 61 | [24 Türchen](https://open.spotify.com/track/3BXBI1g61AtNE0xIhJ6ONE) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 3:31 |
+| 62 | [Die Weihnachtskinder](https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj) | [Eule und Lerche](https://open.spotify.com/artist/4rnjX26GPtQ12aFGuXgaew) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:09 |
 | 63 | [Der Weihnachtsmann ist eine Frau](https://open.spotify.com/track/6k3o3aMgSHDpHm4lp28xCp) | [Andreas Dorau](https://open.spotify.com/artist/7sbhauFwWAowzbg8yrm6wK) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:04 |
 | 64 | [Wunderschöne Weihnachtszeit](https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Weckt den Weihnachtsmann](https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H) | 3:33 |
 | 65 | [Fröhliche Weihnacht überall](https://open.spotify.com/track/71XOtd7ceMQJ6eGtJQ8UzT) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Summ, Summ, Summ! \- Best Of](https://open.spotify.com/album/6zaIi89MZCZeZHpl7lojle) | 2:41 |

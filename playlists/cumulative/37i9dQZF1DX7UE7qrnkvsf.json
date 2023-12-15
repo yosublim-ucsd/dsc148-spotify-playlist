@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Cloudy Water",
+        "url": "https://open.spotify.com/album/3YmMnjmRZ7NOQMlbt7fuVs"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300885,
+      "name": "Cloudy Water",
+      "url": "https://open.spotify.com/track/6peWV8hO9r1FUP0VvBZb6u"
+    },
+    {
+      "album": {
         "name": "Clowns And Crowns",
         "url": "https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p"
       },
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 225894,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/2QdenAOSAlaoMuQEUuDxj6"
@@ -2601,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Guess I'll Hang My Tears Out To Dry",
+        "url": "https://open.spotify.com/album/39KZ6ZyjrzII5xIgRi4fPf"
+      },
+      "artists": [
+        {
+          "name": "Elvine Harley",
+          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173824,
+      "name": "Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/6DL0rKjqsrrvIIVdl0WfUL"
+    },
+    {
+      "album": {
         "name": "Have You Seen Me Lately",
         "url": "https://open.spotify.com/album/7xiIJ61hKINcqgrLQo1csQ"
       },
@@ -2702,7 +2738,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 249398,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/4LNApTGS4bL5DrTEKMiyTH"
@@ -3228,7 +3264,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 229625,
       "name": "I'm Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ"
@@ -4818,7 +4854,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 257196,
       "name": "Misty",
       "url": "https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd"
@@ -7982,7 +8018,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 225398,
       "name": "When You're Not Around Me",
       "url": "https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg"
@@ -8202,6 +8238,24 @@
       "duration_ms": 245972,
       "name": "Would You Be So Kind",
       "url": "https://open.spotify.com/track/5rdkWQtSU6UT2Fg6MuwsNa"
+    },
+    {
+      "album": {
+        "name": "Yellow Leaves",
+        "url": "https://open.spotify.com/album/4zGEufTsfC4N20XqkdmeeV"
+      },
+      "artists": [
+        {
+          "name": "Willowdale",
+          "url": "https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245332,
+      "name": "Yellow Leaves",
+      "url": "https://open.spotify.com/track/1hFSmCBEIQDDT61MASBKJU"
     },
     {
       "album": {

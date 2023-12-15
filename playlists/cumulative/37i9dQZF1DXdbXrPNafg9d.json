@@ -103571,6 +103571,24 @@
     },
     {
       "album": {
+        "name": "Accompany",
+        "url": "https://open.spotify.com/album/7MahDOJx7kRezzio0EFO5D"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283294,
+      "name": "Tiny Flakes",
+      "url": "https://open.spotify.com/track/1Y7l3gD4gzwcal9gSxLYpL"
+    },
+    {
+      "album": {
         "name": "Tiny Flakes",
         "url": "https://open.spotify.com/album/3yg20LHAIGJPmoDOo2Uy3S"
       },
@@ -103582,7 +103600,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 283294,
       "name": "Tiny Flakes",
       "url": "https://open.spotify.com/track/6hFakqaFFxKhDBMaeeNErm"

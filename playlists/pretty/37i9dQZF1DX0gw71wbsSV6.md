@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,859 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,860 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 25 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 |
 | 26 | [Cry For You](https://open.spotify.com/track/1T2pnp74o3kbvT4zhyojAy) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Cry For You](https://open.spotify.com/album/7rRge1A2yeEk3KUIz76qxe) | 4:13 |
 | 27 | [Kissing In Swimming Pools](https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 4:47 |
-| 28 | [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz) | 3:28 |
+| 28 | [口笛吹き](https://open.spotify.com/track/57UWIPgkW7K5F2t50owYCw) | [北里彰久](https://open.spotify.com/artist/6XwlOVm6zIIx9ZdSHnLOHu) | [砂の時間 水の街](https://open.spotify.com/album/3BtnonIRUlwSH8xuGTuWU2) | 5:30 |
 | 29 | [ブルーワンダー](https://open.spotify.com/track/6nXfMNZEVy7F4kDGahfJm7) | [ERWIT](https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl) | [ブルーワンダー](https://open.spotify.com/album/2sTCnK7Omn6Fqym82oxurH) | 2:45 |
 | 30 | [Super Trouper](https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [ITEIAD Sessions](https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu) | 2:59 |
 | 31 | [call me](https://open.spotify.com/track/49WCwFt5TTXeEVfK3aB5Ln) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX), [Gracio Zaqueu](https://open.spotify.com/artist/2S0NEVzLlZGbfq4Mqkfd1i) | [call me](https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My) | 7:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 |
 | 50 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
 
-Snapshot ID: `MCw5MjZmY2Y5YjQ1OTdjYWVmNTY4OTEzY2FkYmRmYWVkYjIzNDI5NzM4`
+Snapshot ID: `MCxhMzc3YWZjYjZiMTBlYTVhNTJkZDg1MWI0MjJlMTFlYWU3Njk0NGUw`

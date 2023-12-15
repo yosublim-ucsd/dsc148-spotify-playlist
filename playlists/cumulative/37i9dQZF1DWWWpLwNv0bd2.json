@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Check out the Latest Romance Tracks.\nCover : Dhruva Natchathiram",
+  "description": "Check out the Latest Romance Tracks.\nCover : Fight Club",
   "name": "Latest Love Tamil",
   "tracks": [
     {
@@ -3870,6 +3870,32 @@
       "duration_ms": 217043,
       "name": "Yaaro Yaaro Iva - From \"Pattathu Arasan\"",
       "url": "https://open.spotify.com/track/2PLN6smipRqWw3gzKtqoTx"
+    },
+    {
+      "album": {
+        "name": "Yaarum Kaanadha (From \"Fight Club\")",
+        "url": "https://open.spotify.com/album/2US3NIwQ7DavSK8mODYRIJ"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Keerthana Vaidyanathan",
+          "url": "https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220812,
+      "name": "Yaarum Kaanadha (From \"Fight Club\")",
+      "url": "https://open.spotify.com/track/0eZhnyCegKvjpjwInI7veG"
     },
     {
       "album": {

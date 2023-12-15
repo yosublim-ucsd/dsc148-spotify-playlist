@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-13",
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "name": "Summer Dance Hits 2023",
+  "name": "Summer Dance Hits 2024",
   "tracks": [
     {
       "album": {
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 170039,
       "name": "Chances",
       "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 156620,
       "name": "Jacar\u00e9",
       "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
@@ -6282,7 +6282,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 166572,
       "name": "The One",
       "url": "https://open.spotify.com/track/0ZqgZiFqhDivCdXwltw7Up"
@@ -6548,6 +6548,28 @@
       "duration_ms": 135507,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6"
+    },
+    {
+      "album": {
+        "name": "Veins",
+        "url": "https://open.spotify.com/album/0CYBIhRLcl1SW0E8cxS7FA"
+      },
+      "artists": [
+        {
+          "name": "MACKS",
+          "url": "https://open.spotify.com/artist/3VTewdBCJtkpWW6lSFlDOy"
+        },
+        {
+          "name": "Able Faces",
+          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161803,
+      "name": "Veins",
+      "url": "https://open.spotify.com/track/4g3YQLcyhvEcVJSfiP5s1s"
     },
     {
       "album": {

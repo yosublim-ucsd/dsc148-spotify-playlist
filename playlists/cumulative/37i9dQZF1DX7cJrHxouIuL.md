@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-200 songs - 9 hr 35 min
+201 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Every Voice](https://open.spotify.com/track/06mJxVb3orAnVZzQXVnS2Y) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 3:31 | 2022-04-15 |  |
 | [Fluff](https://open.spotify.com/track/5GkNmyY5arMb8ffnPJjDqd) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [In Real Life](https://open.spotify.com/album/2M06NabAq3bZDl8ZHJlUOn) | 3:37 | 2022-04-15 | 2023-10-02 |
 | [Fluff](https://open.spotify.com/track/7lkitlORekAPwpBnVVPyej) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [In Real Life](https://open.spotify.com/album/1neKeoKXjVFOuRI3XIskLr) | 3:37 | 2023-09-08 |  |
-| [Follow Your Heart](https://open.spotify.com/track/7llCAJGS4RvulKhZTwpxC6) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/2WvtEacxiiJJzKoeDr6T72) | 3:52 | 2022-04-15 |  |
+| [Follow Your Heart](https://open.spotify.com/track/75R3FkOSwKBfwQHGREjwRv) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/0gjrnOe1wH1wUezVFtWWBP) | 3:52 | 2023-09-08 |  |
+| [Follow Your Heart](https://open.spotify.com/track/7llCAJGS4RvulKhZTwpxC6) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/2WvtEacxiiJJzKoeDr6T72) | 3:52 | 2022-04-15 | 2023-12-15 |
 | [For the Long Night](https://open.spotify.com/track/17F95g980LpKuKWjo3r43y) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Amadou Kouyate](https://open.spotify.com/artist/1WLB9ei0uFv9aDdnE2LXpg) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 4:17 | 2022-04-15 |  |
 | [From My Head to My Toes](https://open.spotify.com/track/02XuozZPsS2Exfcz10Bnvl) | [Music with Mandy](https://open.spotify.com/artist/2FkQ1kvpxbGnnL3hIW0uJ2) | [From My Head to My Toes](https://open.spotify.com/album/5GqrcPwPUPHuHGnmkBOaWA) | 4:00 | 2022-04-15 |  |
 | [Getting The Job Done](https://open.spotify.com/track/3yOp3GzFSCDE0UEilodXxN) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/1R2BqByAAsMXoGaa6Q2iNc) | 3:39 | 2022-04-15 | 2022-07-29 |

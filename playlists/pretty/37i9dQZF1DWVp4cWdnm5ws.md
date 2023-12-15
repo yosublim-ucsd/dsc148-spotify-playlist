@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Check out the top RADAR Philippines artists of 2023! Cover: mrld
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,742 likes - 24 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,765 likes - 24 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

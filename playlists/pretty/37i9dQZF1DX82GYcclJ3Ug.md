@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: ThxSoMch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,436 likes - 125 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,516 likes - 125 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

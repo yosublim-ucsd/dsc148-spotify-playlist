@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-94 songs - 5 hr 21 min
+97 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Asc\. Scorpio](https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ) | 2:46 | 2023-11-07 |  |
 | [Average Guy \(Blame\)](https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Average Guy \(Blame\)](https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo) | 3:00 | 2023-11-16 |  |
 | [Away From The Castle](https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg) | 3:42 | 2023-09-28 | 2023-10-06 |
-| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-09-28 |  |
+| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-09-28 | 2023-12-15 |
+| [Bad Influence \(feat\. Ina Forsman\)](https://open.spotify.com/track/6p3nMMyQjld8eUFllEFq0g) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [From A Bakermat Point Of View](https://open.spotify.com/album/3JtScdRMG6TjAoiibRIYCS) | 2:27 | 2023-12-14 |  |
 | [Berget](https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 3:18 | 2023-09-28 |  |
 | [Better Now](https://open.spotify.com/track/0kllTn8v9iKPe5TEJ2yBv0) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [Better Now](https://open.spotify.com/album/36rdJo7X2UWxAlp2XA0MWw) | 3:49 | 2023-10-26 |  |
 | [Boomerang](https://open.spotify.com/track/6yEANV0C15jXJg2lsHf6F5) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boomerang](https://open.spotify.com/album/5dRqkoDZOtMANCUqYyhswt) | 3:02 | 2023-11-14 |  |
@@ -61,12 +62,14 @@
 | [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 | 2023-11-30 | 2023-12-02 |
 | [More Than a Friend](https://open.spotify.com/track/0LZ0gm2rOvGTPnvmHg92aL) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [More Than a Friend](https://open.spotify.com/album/0UGe2LoLG5ecv0CZLy1QLf) | 3:40 | 2023-11-16 |  |
 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-09-28 | 2023-10-31 |
-| [More Than a Love Song](https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 4:47 | 2023-10-26 |  |
+| [More Than a Love Song](https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 4:47 | 2023-10-26 | 2023-12-15 |
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-28 | 2023-11-08 |
+| [Mrs\. Postman](https://open.spotify.com/track/2npr5ztbbykwXQrIdLRfDj) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 4:08 | 2023-12-14 |  |
 | [My Love](https://open.spotify.com/track/0AM6sRCaSrMzyqWwlIIy56) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 3:41 | 2023-09-28 | 2023-10-06 |
 | [Never Get Old](https://open.spotify.com/track/0ylGsNE2OGiav5r67JTZRU) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 2:44 | 2023-09-28 | 2023-10-13 |
 | [Never Give Up](https://open.spotify.com/track/6snZcyxY401V8zPoWWf3w8) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6) | [Never Give Up](https://open.spotify.com/album/7MeWkn9Yzn3ZZeLTedcjHn) | 3:13 | 2023-10-12 |  |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2023-09-28 |  |
+| [No One Does It Better Than You](https://open.spotify.com/track/5K286QPZ7Fere57NndcDLF) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [No One Does It Better Than You](https://open.spotify.com/album/0y5UCiZNkDfA2PHOb7PQBR) | 3:05 | 2023-12-14 |  |
 | [Nothing Left Behind](https://open.spotify.com/track/5oesdtnfEkDdImVtwngODg) | [Sage](https://open.spotify.com/artist/5dDQASlR9FyeP4VO0jw35F) | [Paint Myself](https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp) | 3:01 | 2023-10-05 |  |
 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 | 2023-09-28 | 2023-11-16 |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-19 |  |
@@ -79,7 +82,7 @@
 | [Ready Baby](https://open.spotify.com/track/0W27iECtGTgI94wQOiJGEm) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Ready Baby](https://open.spotify.com/album/1acFnL6yQpen1hzMX2RGyT) | 3:19 | 2023-11-23 |  |
 | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 | 2023-09-28 | 2023-11-17 |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-09-28 | 2023-10-27 |
-| [School Me Like That](https://open.spotify.com/track/1tXBY7guj2shZSOipaNy4o) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Santhosam](https://open.spotify.com/album/2E9hCWA7XVffqJ2nRPxswF) | 2:35 | 2023-11-30 |  |
+| [School Me Like That](https://open.spotify.com/track/1tXBY7guj2shZSOipaNy4o) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Santhosam](https://open.spotify.com/album/2E9hCWA7XVffqJ2nRPxswF) | 2:35 | 2023-11-30 | 2023-12-15 |
 | [Shower Beer](https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:11 | 2023-09-28 | 2023-10-13 |
 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-10-05 |  |
 | [Still Rolling](https://open.spotify.com/track/4uHTsdgtVHUbJcLvs9jE3P) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU) | 3:39 | 2023-09-28 |  |

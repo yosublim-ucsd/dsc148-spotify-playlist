@@ -1,6 +1,6 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 382404,
+  "num_followers": 382575,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-12-11 14:50:43",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2023-12-11 14:50:43",
-      "album": {
         "name": "Kabinenparty",
         "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
       },
@@ -747,58 +731,18 @@
     {
       "added_at": "2023-12-11 14:50:43",
       "album": {
-        "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
-        "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
       },
       "artists": [
         {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 223671,
-      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
-      "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
-    },
-    {
-      "added_at": "2023-12-11 14:50:43",
-      "album": {
-        "name": "Saufen aufm Spielplatz",
-        "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
-      },
-      "artists": [
-        {
-          "name": "BroyS",
-          "url": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
-        },
-        {
-          "name": "Pbb Yea",
-          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Saufen aufm Spielplatz",
-      "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
-    },
-    {
-      "added_at": "2023-12-11 14:50:43",
-      "album": {
-        "name": "DORFDiSKO ZWEi",
-        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "PECH & SCHWEFEL",
-      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2023-12-11 14:50:43",
@@ -827,18 +771,38 @@
     {
       "added_at": "2023-12-11 14:50:43",
       "album": {
-        "name": "Ouzo",
-        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+        "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+        "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
       },
       "artists": [
         {
-          "name": "Vincent Gross",
-          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
         }
       ],
-      "duration_ms": 274914,
-      "name": "Ouzo",
-      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
+      "duration_ms": 223671,
+      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+      "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
+    },
+    {
+      "added_at": "2023-12-11 14:50:43",
+      "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "PECH & SCHWEFEL",
+      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
     },
     {
       "added_at": "2023-12-11 14:50:43",
@@ -855,6 +819,62 @@
       "duration_ms": 144533,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+    },
+    {
+      "added_at": "2023-12-11 14:50:43",
+      "album": {
+        "name": "Saufen aufm Spielplatz",
+        "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
+      },
+      "artists": [
+        {
+          "name": "BroyS",
+          "url": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
+        },
+        {
+          "name": "Pbb Yea",
+          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Saufen aufm Spielplatz",
+      "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
+    },
+    {
+      "added_at": "2023-12-11 14:50:43",
+      "album": {
+        "name": "Ouzo",
+        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+      },
+      "artists": [
+        {
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+        }
+      ],
+      "duration_ms": 274914,
+      "name": "Ouzo",
+      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
+    },
+    {
+      "added_at": "2023-12-11 14:50:43",
+      "album": {
+        "name": "Filmriss",
+        "url": "https://open.spotify.com/album/3wulBgGVUtbWHJRNvhBtAP"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "duration_ms": 134125,
+      "name": "Filmriss",
+      "url": "https://open.spotify.com/track/3wPFB1azIiqIeydG9q9cYW"
     },
     {
       "added_at": "2023-12-11 14:50:43",
@@ -971,26 +991,6 @@
     {
       "added_at": "2023-12-11 14:50:43",
       "album": {
-        "name": "Filmriss",
-        "url": "https://open.spotify.com/album/3wulBgGVUtbWHJRNvhBtAP"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        },
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 134125,
-      "name": "Filmriss",
-      "url": "https://open.spotify.com/track/3wPFB1azIiqIeydG9q9cYW"
-    },
-    {
-      "added_at": "2023-12-11 14:50:43",
-      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-12-11 14:50:43",
       "album": {
-        "name": "Ich will mehr",
-        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Petry",
-          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Wahnsinn",
-      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
-    },
-    {
-      "added_at": "2023-12-11 14:50:43",
-      "album": {
         "name": "Nachbarn",
         "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-12-11 14:50:43",
       "album": {
+        "name": "Ich will mehr",
+        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Petry",
+          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Wahnsinn",
+      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
+    },
+    {
+      "added_at": "2023-12-11 14:50:43",
+      "album": {
         "name": "Bring mich nach Hause",
         "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
       },
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2023-12-11 14:50:43",
       "album": {
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2023-12-11 14:50:43",
+      "album": {
         "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
         "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
       },
@@ -1127,6 +1151,26 @@
       "duration_ms": 204283,
       "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
       "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+    },
+    {
+      "added_at": "2023-12-11 14:50:43",
+      "album": {
+        "name": "Zum Greifen nah",
+        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Zum Greifen nah",
+      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
     },
     {
       "added_at": "2023-12-11 14:50:43",
@@ -1155,50 +1199,6 @@
       "duration_ms": 142750,
       "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
       "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
-    },
-    {
-      "added_at": "2023-12-11 14:50:43",
-      "album": {
-        "name": "Zum Greifen nah",
-        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Zum Greifen nah",
-      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2023-12-11 14:50:43",
-      "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
-        },
-        {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
     },
     {
       "added_at": "2023-12-11 14:50:43",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-12-11 14:50:43",
       "album": {
+        "name": "Ich bleib hier",
+        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 162947,
+      "name": "Ich bleib hier",
+      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
+    },
+    {
+      "added_at": "2023-12-11 14:50:43",
+      "album": {
         "name": "Mannschaftsfahrt",
         "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
       },
@@ -1307,22 +1327,22 @@
     {
       "added_at": "2023-12-11 14:50:43",
       "album": {
-        "name": "Ich bleib hier",
-        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
+        "name": "Klempner Klaus",
+        "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "GABBY",
+          "url": "https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI"
         },
         {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
         }
       ],
-      "duration_ms": 162947,
-      "name": "Ich bleib hier",
-      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
+      "duration_ms": 155820,
+      "name": "Klempner Klaus",
+      "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
     },
     {
       "added_at": "2023-12-11 14:50:43",
@@ -1347,26 +1367,6 @@
       "duration_ms": 188000,
       "name": "Ciao 3 Tage Blau",
       "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
-    },
-    {
-      "added_at": "2023-12-11 14:50:43",
-      "album": {
-        "name": "Klempner Klaus",
-        "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
-      },
-      "artists": [
-        {
-          "name": "GABBY",
-          "url": "https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        }
-      ],
-      "duration_ms": 155820,
-      "name": "Klempner Klaus",
-      "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
     },
     {
       "added_at": "2023-12-11 14:50:43",

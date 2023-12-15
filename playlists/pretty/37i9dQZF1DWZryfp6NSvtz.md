@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Dead Poet Society
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,921 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,065 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 12 | [Deconstruction](https://open.spotify.com/track/0qX3XuE9FpgCLoHYzsdIKM) | [Gibson Band](https://open.spotify.com/artist/3RcpwEmMSqD1EysycFp689), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV), [Cesar Gueikian](https://open.spotify.com/artist/0oAV1TRT03wZlwmLzaRf60) | [Deconstruction](https://open.spotify.com/album/3jOniKvAymZ17r3rfxmlpE) | 5:56 |
 | 13 | [FLESH AND BONE](https://open.spotify.com/track/4jj7lOFhYu59x8QUgvQ6NJ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [DEATH CULT \- 8323](https://open.spotify.com/album/6E5Nnp3cPI7gGTIW9XJpqr) | 3:18 |
 | 14 | [Nimh](https://open.spotify.com/track/075VP0RTD4nsbMV7EhJD8O) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Nimh](https://open.spotify.com/album/4ii1wCmU3rG3ypMJlMZlAW) | 9:38 |
-| 15 | [Chewed Up](https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s) | 2:34 |
+| 15 | [Chewed Up](https://open.spotify.com/track/6hz0UeyredFZmDkfDvtEkU) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5ZUguAVzSt5Yz8toCv7KGX) | 2:34 |
 | 16 | [Tightrope](https://open.spotify.com/track/3NB9YhwxlY9RhEUY5Zw2X7) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Tightrope](https://open.spotify.com/album/2uoLTie8qzC4iU8Y6L0IRW) | 1:52 |
 | 17 | [Shame](https://open.spotify.com/track/2LL0NLJCBpZhxfXL2Mptan) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Shame](https://open.spotify.com/album/0xxYbhUM55qdlx1ND30hrW) | 2:40 |
 | 18 | [Anxious State of Mind](https://open.spotify.com/track/7uV2jXPIfxEXTDcGSwAgIZ) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Anxious State of Mind](https://open.spotify.com/album/0veEsBw8e77FDY5OwDwYvh) | 4:06 |

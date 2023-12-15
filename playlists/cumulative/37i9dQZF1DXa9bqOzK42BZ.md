@@ -2,9 +2,9 @@
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=cywZtkjkSPiy19VZJBVSvA">Joel Lwaga</a>
+> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=HadD\_XhBS2mDgi67XVbyhA">Phina</a>
 
-128 songs - 12 hr 22 min
+131 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alfa Na Omega](https://open.spotify.com/track/5zZc2QyZfxqZcQ89REWyzW) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 4:54 | 2022-06-24 |  |
 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/11dKptDVqtcyi1E36m8o02) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/3koeYsqfzhwDXkmrHmdKna) | 7:17 | 2022-06-24 | 2023-11-03 |
 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/1zLfTPsgjAUmNDgcG5AlGE) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs) | 7:17 | 2022-06-24 | 2023-09-26 |
+| [Amen \(feat\. Kusah\)](https://open.spotify.com/track/1VQbPM6ILavMZ8AM6OrEzP) | [Jimmy Chansa](https://open.spotify.com/artist/1xYbKRr6xuuA2gMVar7j83), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Amen \(feat\. Kusah\)](https://open.spotify.com/album/0jh7fThakW7i8vterefGcx) | 3:11 | 2023-12-15 |  |
 | [Amenifanyia Amani](https://open.spotify.com/track/0RHHtjtdCby9OnPL2qvsZy) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 7:48 | 2022-06-24 |  |
 | [Ameniweka huru kweli](https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9) | [Papi Clever & Dorcas](https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J) | [AMENIWEKA HURU KWELI \(Nyimbo za wokovu\) ALBUM 2](https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu) | 6:38 | 2023-08-25 |  |
 | [Amua](https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV) | [Alexis Zawadi](https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3) | [Amua](https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca) | 6:29 | 2023-05-12 | 2023-11-03 |
@@ -92,6 +93,7 @@
 | [Nothing](https://open.spotify.com/track/1cXe35isIgaErKaSyi1nP3) | [Nahash Mwathi](https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1), [Jackson Saya](https://open.spotify.com/artist/7EFTCBaclOkenIPumLmGyn) | [Nothing](https://open.spotify.com/album/4Hl2UURqrZ88wlOolmc7Mv) | 4:31 | 2023-05-05 |  |
 | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/track/2KpAGhLuf7SzVLHDOF4M1S) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/album/0yCHxjgEI4SqCDmye48Kvp) | 3:55 | 2023-07-14 |  |
 | [Patakatifu Pako](https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:03 | 2022-06-24 | 2023-05-12 |
+| [Pombe](https://open.spotify.com/track/4W3Bm7G15aXGEFd9oNaJJu) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Pombe](https://open.spotify.com/album/7bS2N5Hr5tmTzf58oxwXn7) | 5:41 | 2023-12-15 |  |
 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 | 2023-04-21 |  |
 | [RANDOM CHAPTER](https://open.spotify.com/track/62YgrP3kKNumc3BVX3rjwD) | [Lesynem Junior](https://open.spotify.com/artist/3wXe3E8A7Lwa1W08cYDsxU), [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [RANDOM CHAPTER](https://open.spotify.com/album/63klHeWXnQ972Rz4jCtEm9) | 2:33 | 2023-07-14 | 2023-11-25 |
 | [Rien](https://open.spotify.com/track/4xUgJ7IlDRhCEbjZwPaZS3) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [Rien](https://open.spotify.com/album/0VZTt4X6pRWrWplWtTnucU) | 3:53 | 2023-09-22 |  |
@@ -105,6 +107,7 @@
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
 | [Sisi Ndio Wale](https://open.spotify.com/track/7GtbWZzckE9diKrKYSQ4Gi) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sisi Ndio Wale](https://open.spotify.com/album/5DyJwA7sacoreQVSlDaBYo) | 4:23 | 2023-11-10 | 2023-11-25 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-10-13 |  |
+| [Sisi Ni Wale \(feat\. Freshow Band\) \- choir Version](https://open.spotify.com/track/6P9iYKJSKPJVFnBH1BAVWO) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Freshow Band](https://open.spotify.com/artist/4fhqxcc0V8TX4kAo1DEamA) | [Sisi Ni Wale \(feat\. Freshow Band\) \[choir Version\]](https://open.spotify.com/album/6IqGrFxiBkjLnalaa6oKc4) | 2:32 | 2023-12-15 |  |
 | [Taji](https://open.spotify.com/track/1Z6nxjk7F3J5h03zhruGQy) | [FMP Pan Da Beat](https://open.spotify.com/artist/073NcyQ3qYtj7rIZE762pW) | [Taji](https://open.spotify.com/album/2gdJZmV1BZO9YkqehjnyJo) | 2:40 | 2023-07-21 |  |
 | [Thankful](https://open.spotify.com/track/2CZNoaLPWNcIBjKkNlQ9GS) | [Ngalu P](https://open.spotify.com/artist/0WSlmwtEKyf4RwcuULH3K4) | [Thankful](https://open.spotify.com/album/6ViivhHL3tS4VQodPp4DQ9) | 3:38 | 2023-06-09 |  |
 | [The Way](https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Good To Go](https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf) | 3:25 | 2023-11-24 |  |

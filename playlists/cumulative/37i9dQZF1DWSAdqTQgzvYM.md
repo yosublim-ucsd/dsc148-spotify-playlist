@@ -4,7 +4,7 @@
 
 > Because everyone else is already taken!
 
-116 songs - 5 hr 55 min
+117 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Everybody's Welcome](https://open.spotify.com/track/1TBA44ZYMUyzxuDEfGG2UN) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Everybody's Welcome](https://open.spotify.com/album/1BNc82IhmE9jwYWdp4R9fe) | 2:18 | 2022-04-15 | 2022-07-29 |
 | [Everybody's Welcome](https://open.spotify.com/track/6cP7KLxZvfMPC767SdYfSm) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Everybody's Welcome](https://open.spotify.com/album/4pK8WY1GnPk2CfRTgThdpZ) | 2:18 | 2022-04-15 |  |
 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 | 2022-04-15 |  |
-| [Follow Your Heart](https://open.spotify.com/track/7llCAJGS4RvulKhZTwpxC6) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/2WvtEacxiiJJzKoeDr6T72) | 3:52 | 2022-04-15 |  |
+| [Follow Your Heart](https://open.spotify.com/track/75R3FkOSwKBfwQHGREjwRv) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/0gjrnOe1wH1wUezVFtWWBP) | 3:52 | 2023-10-10 |  |
+| [Follow Your Heart](https://open.spotify.com/track/7llCAJGS4RvulKhZTwpxC6) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/2WvtEacxiiJJzKoeDr6T72) | 3:52 | 2022-04-15 | 2023-12-15 |
 | [Girl Can't Be Herself](https://open.spotify.com/track/3ztWLUKTd7WnrZZc1nZHo6) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/66RQAPD5x5nQgQzOa0X3sz) | 2:39 | 2022-04-15 |  |
 | [Hello, Friend](https://open.spotify.com/track/1Z3KtWu0qZaxGL1fgMtzfr) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Lea Morris](https://open.spotify.com/artist/427Ci65XPGypuNn0Non7xq) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 2:38 | 2022-04-15 |  |
 | [I Can Be Anything](https://open.spotify.com/track/4giRqZsdTq0aiI3vnzePZC) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [I Can Be Anything](https://open.spotify.com/album/1nPzCQseyxa69KJVMl0sIE) | 4:37 | 2022-04-15 |  |

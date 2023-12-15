@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-211 songs - 12 hr 50 min
+212 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Deeper Dark](https://open.spotify.com/track/3cvKUJL7vSRgV5cWh7czXW) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Deeper Dark](https://open.spotify.com/album/6W9FWE4TcPOa3cdIk6F7ny) | 3:09 | 2021-12-09 | 2023-04-09 |
 | [Deflect](https://open.spotify.com/track/3GfpcEdZ4kRTgy8XC2hCdI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Deflect](https://open.spotify.com/album/3dpTqZYzAogVHL0Vt913w4) | 2:06 | 2021-12-09 |  |
 | [Deliverer](https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Deliverer](https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4) | 4:09 | 2023-04-07 |  |
-| [Desert Flower](https://open.spotify.com/track/3do3tKMN4LJO6G0kBZThtm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09) | 2:54 | 2022-09-29 |  |
+| [Desert Flower](https://open.spotify.com/track/3do3tKMN4LJO6G0kBZThtm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09) | 2:54 | 2022-09-29 | 2023-12-15 |
 | [Desert Flower](https://open.spotify.com/track/4fT4kJxP3QfmktqB6hxDhE) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:54 | 2021-12-09 | 2022-10-13 |
 | [Devil That I Know](https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:50 | 2022-06-16 | 2022-08-26 |
 | [Devil That I Know](https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Devil That I Know](https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3) | 2:50 | 2021-12-09 | 2022-07-29 |
@@ -89,6 +89,7 @@
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-06-16 | 2023-08-31 |
 | [Horsepower For The Streets \- Acoustic String Version](https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets \(Deluxe Version\)](https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP) | 2:25 | 2023-04-07 |  |
 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 | 2021-12-09 |  |
+| [Human being](https://open.spotify.com/track/5Qm3pqH0Nwnybuy5MSDJS2) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [Human being](https://open.spotify.com/album/48WCietPwTNvv69myEUp4O) | 2:52 | 2023-12-14 |  |
 | [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 | 2021-12-09 |  |
 | [I Know What They're Thinking \(Acoustic\)](https://open.spotify.com/track/325oE43qXw4fAredssR2y9) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [I Know What They're Thinking \(Acoustic\)](https://open.spotify.com/album/2kQBeFVxFXSA5eKhoUYFyP) | 3:30 | 2022-05-05 |  |
 | [I Love You More Than You'll Ever Know \- Live at Dockside Studio](https://open.spotify.com/track/1sZAeSXqwPoW9ZolRtgude) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Home \(The Dockside Sessions\)](https://open.spotify.com/album/1A0460fkZ49xjUGpIVBzhG) | 5:26 | 2022-06-16 | 2022-09-15 |

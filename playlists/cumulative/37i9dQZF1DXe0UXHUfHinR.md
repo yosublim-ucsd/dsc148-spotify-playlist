@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-680 songs - 2 day 5 hr 39 min
+681 songs - 2 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 | 2022-10-27 |  |
 | [Django \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/4w7EnqiLksvE6rcuR8F8bn) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 8:44 | 2022-10-27 |  |
 | [Django's Tiger](https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol15 / 1946 \- 1947](https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797) | 2:38 | 2023-06-21 | 2023-08-20 |
+| [Do Nothing 'Til You Hear From Me](https://open.spotify.com/track/31yWQ2e7dxRKtkDdMr1Rlo) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 2:16 | 2023-12-14 |  |
 | [Doc](https://open.spotify.com/track/7MJBBBCfhjj716IaUq4HVG) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Dream Come True](https://open.spotify.com/album/5aY7j8FtsBcTnD7G1vSGHt) | 4:46 | 2022-12-22 |  |
 | [Dolphin Dance](https://open.spotify.com/track/0kUYnVS6z9YhL22l9pDDcB) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 5:09 | 2022-10-27 |  |
 | [Don't Explain](https://open.spotify.com/track/2JncPNDwT04u0FhWxfJbi5) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:14 | 2022-10-27 | 2023-01-04 |
@@ -200,7 +201,7 @@
 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 | 2022-10-27 |  |
 | [Excerpts From The Blues](https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:04 | 2022-10-27 |  |
 | [Exit Music](https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 4:23 | 2023-01-03 |  |
-| [Fair Weather \- Remastered](https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Modern Art](https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6) | 5:44 | 2023-12-14 |  |
+| [Fair Weather \- Remastered](https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Modern Art](https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6) | 5:44 | 2023-12-14 | 2023-12-15 |
 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 | 2022-10-27 |  |
 | [Felicidade](https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Double Rainbow](https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH) | 4:44 | 2023-08-30 | 2023-09-21 |
 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 | 2022-10-27 |  |

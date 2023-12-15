@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 
 > Because everyone else is already taken!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,463 likes - 89 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,462 likes - 89 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 52 | [Smart](https://open.spotify.com/track/4ADVfhoTylxrCM8tQRLGXI) | [Madison](https://open.spotify.com/artist/02n1FZN9wmHROIziGS5JXa) | [Smart](https://open.spotify.com/album/4nZKR9JU7hUkKm7LrnrFJr) | 3:15 |
 | 53 | [Photoshop](https://open.spotify.com/track/2TzDvcvICUWLDzio9LHMOo) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Leanna Crawford \- EP](https://open.spotify.com/album/1JMEL72dcpvDYEHB0wlUSu) | 3:26 |
 | 54 | [Dare To Be Me](https://open.spotify.com/track/6ARM4mOjj3NmahFLZwnepA) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare To Be Me](https://open.spotify.com/album/3eTkFUGzZzb70aO7fORDqo) | 2:25 |
-| 55 | [Follow Your Heart](https://open.spotify.com/track/7llCAJGS4RvulKhZTwpxC6) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/2WvtEacxiiJJzKoeDr6T72) | 3:52 |
+| 55 | [Follow Your Heart](https://open.spotify.com/track/75R3FkOSwKBfwQHGREjwRv) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk), [Doug Stenhouse](https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA), [Siân](https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM) | [Follow Your Heart](https://open.spotify.com/album/0gjrnOe1wH1wUezVFtWWBP) | 3:52 |
 | 56 | [Beautiful](https://open.spotify.com/track/40fvlRGSBSEYWTgCpRyVqf) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Keeps Gettin' Better: A Decade of Hits](https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS) | 4:01 |
 | 57 | [Look Into the Mirror](https://open.spotify.com/track/3oGRdXlfbtavcTJpYvhFUm) | [Iya](https://open.spotify.com/artist/20GgGQeVYOrNNVBB0ZkfVc), [The Kuumba Kids](https://open.spotify.com/artist/1501mk3eANsOkQFymBuWp5) | [Ooh Kuumba](https://open.spotify.com/album/7rMINarWwcAFl7AB9S1NRd) | 1:37 |
 | 58 | [Beautiful Light](https://open.spotify.com/track/5ITD6b9f9HB3VBeLaeBob9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Beautiful Light](https://open.spotify.com/album/02ltiWrnd4NUIgNGjrH3S2) | 2:11 |

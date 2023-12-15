@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Our editors' picks of the top 100 Fresh Finds Dance tracks from around the world this year\. Cover: 1tbsp
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,385 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,442 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

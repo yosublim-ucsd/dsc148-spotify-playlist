@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Alex G
 
-200 songs - 13 hr 2 min
+201 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Runner](https://open.spotify.com/track/5DRnssBoVo8e7uAQZkNT8O) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:36 | 2023-02-23 |  |
 | [Runnin](https://open.spotify.com/track/01HfhwZbc9bHQl9wKQHjNj) | [Ohtis](https://open.spotify.com/artist/3u39r3hiQU2sq7VrV38L6x) | [Curve of Earth \(Deluxe Version\)](https://open.spotify.com/album/5lKZGMY4mh2IJTJ6goyzQV) | 4:21 | 2023-06-23 |  |
 | [Saddle](https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a) | [Symbol Soup](https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal) | [Slow Puncture](https://open.spotify.com/album/20JCvbAdAKeQIvj97M8Ayk) | 2:51 | 2023-07-28 |  |
-| [Sandy](https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Sandy EP](https://open.spotify.com/album/03cBUI3wQZrq5ia2wGe2zK) | 3:55 | 2023-06-09 |  |
+| [Sandy](https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Sandy EP](https://open.spotify.com/album/03cBUI3wQZrq5ia2wGe2zK) | 3:55 | 2023-06-09 | 2023-12-15 |
+| [Sandy](https://open.spotify.com/track/48qv6X8wNBhjQKPCns2CFw) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Country River](https://open.spotify.com/album/2LhqkKyEXH5huDebuxSvss) | 3:55 | 2023-12-08 |  |
 | [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 | 2023-12-01 |  |
 | [Sha](https://open.spotify.com/track/6HMdSCsyt5ZNPZokEgcoxQ) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Sha](https://open.spotify.com/album/5aBRXOGZlyci28Qps87Mdp) | 3:36 | 2023-08-18 |  |
 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 | 2023-07-28 | 2023-12-09 |

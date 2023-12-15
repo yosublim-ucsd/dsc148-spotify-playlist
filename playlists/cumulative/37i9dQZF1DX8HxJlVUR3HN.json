@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : SLIFT",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Delgr\u00e8s",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Hurricanes",
+        "url": "https://open.spotify.com/album/3coIK4BNVCgOLy9kAPGumC"
+      },
+      "artists": [
+        {
+          "name": "Mad Foxes",
+          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "Hurricanes",
+      "url": "https://open.spotify.com/track/5WKRrQTufyuSFeoV7rmuVm"
+    },
+    {
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 220240,
       "name": "Julia",
       "url": "https://open.spotify.com/track/7aK97PCxMNqp6XJHCPo03Q"
@@ -1129,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Motel Way of Life",
+        "url": "https://open.spotify.com/album/4TqCIDinCXhpoDuDKI5ENg"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "Motel Way of Life",
+      "url": "https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9"
+    },
+    {
+      "album": {
         "name": "Mysteryland",
         "url": "https://open.spotify.com/album/5QH2cz6F8F7lxENCQzJH8S"
       },
@@ -1194,7 +1230,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 174915,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/6BrXzU8dYbWBn1uOa3gfM8"
@@ -1435,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/2bNL3r3oBPFVAwk4s92ffj"
+      },
+      "artists": [
+        {
+          "name": "PURRS",
+          "url": "https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263187,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/4bG8gUgiCbnGrcjgdBrm3F"
+    },
+    {
+      "album": {
         "name": "Silly Dreams",
         "url": "https://open.spotify.com/album/1rw3wL6MeQmcyM4rbqTe7z"
       },
@@ -1651,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "The Clocks Are Bleeding",
+        "url": "https://open.spotify.com/album/0ZgDrBXFnnUS4Hx6diFVWF"
+      },
+      "artists": [
+        {
+          "name": "FUZETA",
+          "url": "https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180883,
+      "name": "The Clocks Are Bleeding",
+      "url": "https://open.spotify.com/track/2WX9OLhzayGFjKk75r4zII"
+    },
+    {
+      "album": {
         "name": "Born to Win",
         "url": "https://open.spotify.com/album/5z50zVDiNGT9Vgo09SHaWH"
       },
@@ -1828,7 +1900,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 189266,
       "name": "Us Blazing",
       "url": "https://open.spotify.com/track/2zbYpfHRqYn5HD4G5PySMt"
@@ -1918,7 +1990,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 200000,
       "name": "Without Shepherd or Guiding Star - Edit",
       "url": "https://open.spotify.com/track/0Mrj5rb5aa7ECXX8ATL9uD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>, <a href="spotify:artist:0iBTVnJ1Sff92zCDujfvyJ">Young Leosia</a> \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,991 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,005 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-565 songs - 1 day 2 hr 27 min
+568 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Nah Mean](https://open.spotify.com/track/3W2FgXliJL6SCGIrJ7vKNv) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [3AM Vibes](https://open.spotify.com/album/3orPhMBlpm0MQDS9ZuZxsI) | 2:04 | 2022-12-23 | 2023-12-14 |
 | [Never](https://open.spotify.com/track/0xX2DrW4nMot1KgwvW5ahh) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [ZaySkillz](https://open.spotify.com/artist/5JUrIP5DHSQXe9TF11fjzS), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 2:55 | 2022-07-17 | 2023-12-14 |
 | [Never Forget](https://open.spotify.com/track/3haDFkQVqexHwwxVNU5BHh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:19 | 2022-12-19 | 2023-08-28 |
+| [Never Hating \(feat\. Young Thug\)](https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:40 | 2023-12-15 |  |
 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 | 2022-11-18 | 2023-05-09 |
 | [New Drank](https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [New Drank](https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI) | 1:28 | 2022-09-01 | 2023-05-09 |
 | [New Semi](https://open.spotify.com/track/6ekOd6GLZJ3PZwyMmbZVGY) | [Slimesito](https://open.spotify.com/artist/1qIl64lvKUWBbNRuUOImVh) | [New Semi](https://open.spotify.com/album/3gEdxJx0fDwv40orvc784Y) | 2:19 | 2023-01-07 | 2023-05-09 |
@@ -387,6 +388,7 @@
 | [Pedestrian](https://open.spotify.com/track/30YhyUmaegqSxsBICCeVzY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:45 | 2023-08-28 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/3Ab6LCpjNI4GQZ5tXBpJkc) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/6x57aHz5UqOELrNukV6hoD) | 2:06 | 2022-09-09 | 2023-05-09 |
 | [Perfect Timing](https://open.spotify.com/track/0Tnvy0iwmoGBD0mq5MtgZF) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Sophomore Season](https://open.spotify.com/album/0AuGgD8nSb5Ct0sU6LGtiY) | 2:55 | 2022-10-28 | 2023-12-14 |
+| [Permanent Scar \(feat\. Young Thug and Quando Rondo\)](https://open.spotify.com/track/56y48l3RslFer22WytV6KU) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 3:18 | 2023-12-15 |  |
 | [Photo Copied](https://open.spotify.com/track/4Fi7fihVNkHPfBZ7KeSXVH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:52 | 2023-03-01 | 2023-04-12 |
 | [Pissed Off](https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:39 | 2023-12-10 |  |
 | [Plastic](https://open.spotify.com/track/1D0FXktMId8ocFISiXoGNG) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Flawless](https://open.spotify.com/album/3G9AmxmuqKPVRrcr0X7ns3) | 2:56 | 2023-02-02 | 2023-04-12 |
@@ -444,6 +446,7 @@
 | [Save Me](https://open.spotify.com/track/0PzncLHHW8Utar5zZwW6zG) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek, Vol\. 1](https://open.spotify.com/album/7EqMqgEZ40knsZwfnVxA48) | 3:34 | 2023-01-07 | 2023-04-12 |
 | [Savior \- Interlude](https://open.spotify.com/track/5G4uLkFKdEZLcuNyeomQmE) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 2:32 | 2023-07-10 | 2023-12-14 |
 | [Second Day Out](https://open.spotify.com/track/0HoWwOa0XVeUFsmYz1sJok) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Second Day Out](https://open.spotify.com/album/0P02ahe5RNTDXEKXIbQmMv) | 1:36 | 2023-01-11 | 2023-12-14 |
+| [Secure the Vibe \(feat\. Young Thug\)](https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drip Season 2](https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ) | 2:44 | 2023-12-15 |  |
 | [Self Care](https://open.spotify.com/track/4os8zlf0umDZxCvZC2u2Z1) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 1:46 | 2023-04-11 | 2023-05-09 |
 | [Sexual Healing](https://open.spotify.com/track/4PxqfF3aezYRkheYir1T5g) | [Grailed](https://open.spotify.com/artist/5wgXWK6qGrFD6uAFENCLXo) | [Sexual Healing](https://open.spotify.com/album/1Uo1cBKWEQdHUXoe7WYW82) | 2:33 | 2022-12-15 |  |
 | [Shane Battier](https://open.spotify.com/track/1tYFlf79p1H0eUBE3u300T) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Shane Battier](https://open.spotify.com/album/2hnS7N1TdftRB55sFR4mSz) | 1:11 | 2022-12-31 | 2023-05-09 |

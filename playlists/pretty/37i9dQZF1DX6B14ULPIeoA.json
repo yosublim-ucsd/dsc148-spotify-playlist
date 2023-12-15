@@ -1,6 +1,6 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 51702,
+  "num_followers": 51717,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Pensamiento",
-        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
-      },
-      "artists": [
-        {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Pensamiento",
-      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Antolog\u00eda... Hermanos Michel",
         "url": "https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 163240,
       "name": "Luna de octubre",
       "url": "https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Pensamiento",
+        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Pensamiento",
+      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
+        "name": "Un Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
+      "duration_ms": 251294,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Un Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
       },
       "artists": [
         {
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
         }
       ],
-      "duration_ms": 251294,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
+      "duration_ms": 192000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "El Paciente",
-        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
-      },
-      "artists": [
-        {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Pero Te Vas A Arrepentir",
         "url": "https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 266582,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "El Paciente",
+        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Con Tus Besos",
-        "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
-      },
-      "artists": [
-        {
-          "name": "Palladinos",
-          "url": "https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Chacra",
         "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
+        "name": "Con Tus Besos",
+        "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
       },
       "artists": [
         {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+          "name": "Palladinos",
+          "url": "https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
+      "duration_ms": 158996,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 200721,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Un Millon De Rosas",
-        "url": "https://open.spotify.com/album/0FIqFme3N87WDIyChM5Nev"
-      },
-      "artists": [
-        {
-          "name": "Francis Nola",
-          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Un Millon De Rosas",
-      "url": "https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Pa' Olvidarme De Ella",
         "url": "https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 186569,
       "name": "Pa' Olvidarme De Ella",
       "url": "https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Un Millon De Rosas",
+        "url": "https://open.spotify.com/album/0FIqFme3N87WDIyChM5Nev"
+      },
+      "artists": [
+        {
+          "name": "Francis Nola",
+          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Un Millon De Rosas",
+      "url": "https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS"
     },
     {
       "added_at": "2023-10-06 06:00:00",

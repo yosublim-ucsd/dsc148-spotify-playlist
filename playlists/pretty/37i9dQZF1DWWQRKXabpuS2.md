@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:فؤاد عبدالوهاب
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,625 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,640 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 17 | [Ma Fagadtek](https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ma Fagadtek](https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX) | 3:59 |
 | 18 | [مصلحتك](https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [مصلحتك](https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz) | 2:41 |
 | 19 | [Ahmed Allah Aleek](https://open.spotify.com/track/3wHwGaImG08yAIzOnh8qc4) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ahmed Allah Aleek](https://open.spotify.com/album/64pCUD9wMYdC4lQZOryvaB) | 2:26 |
-| 20 | [تولعت بك](https://open.spotify.com/track/0GUMuiH1nCUrv6Qn3XoSLt) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثالث](https://open.spotify.com/album/0gjd8nLLwr2sHk7lsfBfvL) | 4:59 |
+| 20 | [تولعت بك](https://open.spotify.com/track/1idQ7lQep9uQaGoxEDu3Nx) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 4:59 |
 | 21 | [Ehssas](https://open.spotify.com/track/0FZ83x8emlQB24jrOSDsYc) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ehssas](https://open.spotify.com/album/4c79IbeNeVTf7a0GXRa0l4) | 4:19 |
 | 22 | [Khatftni](https://open.spotify.com/track/1ZRtIeGiOwFBWDckCWaame) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Khatftni](https://open.spotify.com/album/3wxQX2Gzc7oh5AlziRmRRa) | 3:22 |
 | 23 | [زينة أيامي](https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 3:37 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 45 | [حظ من شافك](https://open.spotify.com/track/2vVlibedNRJkM7xIHkMiq4) | [Faisal Al Jasem](https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT) | [حظ من شافك](https://open.spotify.com/album/62oXdDuMezhgs39J3liFYg) | 3:49 |
 | 46 | [Alnehaiat Al Saeeda](https://open.spotify.com/track/6YijLSaqbmhfw4Z8ZQbwzh) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Alnehaiat Al Saeeda](https://open.spotify.com/album/1uRKnJDDUqGCrqFSxQpOhC) | 4:09 |
 | 47 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
-| 48 | [زلزال](https://open.spotify.com/track/0FO3XVNhGNq86mZ1uEhYvK) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 4:16 |
+| 48 | [زلزال](https://open.spotify.com/track/7ct7Fb7Z77kDpB1pxL3uLD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 4:16 |
 | 49 | [سواليف الوله](https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [سواليف الوله](https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor) | 3:23 |
 | 50 | [الحيلة](https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الحيلة](https://open.spotify.com/album/4P1CiqYMFvMvMsNxKQWJce) | 2:57 |
 

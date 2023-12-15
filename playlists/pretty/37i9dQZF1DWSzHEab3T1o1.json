@@ -1,6 +1,6 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7524,
+  "num_followers": 7523,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
@@ -331,30 +331,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/3MoV1UsAJmz64LHqyiRMp0"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Major Lazer Essentials",
         "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 169997,
       "name": "Que Calor",
       "url": "https://open.spotify.com/track/5dSWNkk66Gez4AM1kpZPiu"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/3MoV1UsAJmz64LHqyiRMp0"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -795,6 +795,26 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Neon Future IV",
+        "url": "https://open.spotify.com/album/7IzDIMRk24CJxqUADOSbZ4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168158,
+      "name": "Maldad",
+      "url": "https://open.spotify.com/track/33R8NSJ3eRCwWsnKDxxTrl"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Contra La Pared (Remixes)",
         "url": "https://open.spotify.com/album/08jjrwkMiZboulzCz7fQwe"
       },
@@ -819,28 +839,8 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Neon Future IV",
-        "url": "https://open.spotify.com/album/7IzDIMRk24CJxqUADOSbZ4"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168158,
-      "name": "Maldad",
-      "url": "https://open.spotify.com/track/33R8NSJ3eRCwWsnKDxxTrl"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Major Lazer Essentials",
-        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
+        "name": "Free The Universe (Extended Version)",
+        "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
       },
       "artists": [
         {
@@ -848,17 +848,21 @@
           "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         },
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "The Flexican",
+          "url": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
+        },
+        {
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
         }
       ],
-      "duration_ms": 167310,
-      "name": "Sua Cara",
-      "url": "https://open.spotify.com/track/5D2m0GT5EDngcqD7YdkF7w"
+      "duration_ms": 269146,
+      "name": "Watch Out For This (Bumaye)",
+      "url": "https://open.spotify.com/track/1lhpyjqKywDlNjw4nii2ZO"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -979,8 +983,8 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Free The Universe (Extended Version)",
-        "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
+        "name": "Major Lazer Essentials",
+        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
       },
       "artists": [
         {
@@ -988,21 +992,17 @@
           "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "The Flexican",
-          "url": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
-        },
-        {
-          "name": "FS Green",
-          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 269146,
-      "name": "Watch Out For This (Bumaye)",
-      "url": "https://open.spotify.com/track/1lhpyjqKywDlNjw4nii2ZO"
+      "duration_ms": 167310,
+      "name": "Sua Cara",
+      "url": "https://open.spotify.com/track/5D2m0GT5EDngcqD7YdkF7w"
     },
     {
       "added_at": "2021-12-31 04:31:13",

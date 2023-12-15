@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 221322,
       "name": "Echo Street",
       "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
@@ -1624,6 +1624,24 @@
       "duration_ms": 226715,
       "name": "Funny Job",
       "url": "https://open.spotify.com/track/1UkK5H2jqo3AsT1BqWN18p"
+    },
+    {
+      "album": {
+        "name": "Gelled Water",
+        "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
+      },
+      "artists": [
+        {
+          "name": "Dro\u00efd Fant\u00f4m",
+          "url": "https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226906,
+      "name": "Gelled Water",
+      "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
     },
     {
       "album": {
@@ -3360,7 +3378,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 258372,
       "name": "Only Weird People Can Fly",
       "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
@@ -4658,6 +4676,24 @@
       "duration_ms": 173379,
       "name": "The Ejector Side",
       "url": "https://open.spotify.com/track/0AoTadBjgwXlbLWryWXTqI"
+    },
+    {
+      "album": {
+        "name": "The Light in The Dark",
+        "url": "https://open.spotify.com/album/40nX8H16qVDUuQwTHlLFGe"
+      },
+      "artists": [
+        {
+          "name": "Yvet Garden",
+          "url": "https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273142,
+      "name": "The Light In The Dark",
+      "url": "https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC"
     },
     {
       "album": {

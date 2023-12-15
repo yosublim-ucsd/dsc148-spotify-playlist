@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcJC2hrJxL4F.md) - [plain]
 
 > you're gathering flowers in the forest, listening to birdsong, humming a sweet melody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,432 likes - 63 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,478 likes - 63 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

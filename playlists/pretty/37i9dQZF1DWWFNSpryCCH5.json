@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellas grandes canciones desenchufadas.",
-  "num_followers": 1079180,
+  "num_followers": 1079220,
   "original_name": "Grandes Unplugged",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
+        "name": "Un Segundo MTV Unplugged",
+        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 305280,
+      "name": "Eres - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
         "name": "MTV Unplugged: El Desconecte",
         "url": "https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 313400,
       "name": "Hit Me - MTV Unplugged",
       "url": "https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Un Segundo MTV Unplugged",
-        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 305280,
-      "name": "Eres - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0"
     },
     {
       "added_at": "2021-02-10 21:16:07",

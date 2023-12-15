@@ -1275,6 +1275,28 @@
     },
     {
       "album": {
+        "name": "i was only temporary",
+        "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98621,
+      "name": "i was only temporary",
+      "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
+    },
+    {
+      "album": {
         "name": "I'll make it better",
         "url": "https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK"
       },

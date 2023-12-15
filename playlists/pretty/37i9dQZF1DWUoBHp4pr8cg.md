@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Nasty C and ODUMODUBLVCK \(pictured\), Offset, Blxckie, Drake, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,972 likes - 61 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,042 likes - 61 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

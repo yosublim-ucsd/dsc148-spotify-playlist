@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume! Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,782 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,781 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 5 | [On the Rocks](https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Crowd Pleaser](https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u) | 2:50 |
 | 6 | [Worst Taste In Girls](https://open.spotify.com/track/3WSZgyMBLoNxXb8DjFFYDq) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Worst Taste In Girls](https://open.spotify.com/album/1D05rYqJaiYUhl3YX8t0Oq) | 2:56 |
 | 7 | [Clique](https://open.spotify.com/track/4NbG4RBZ3MBPznYgftjiOp) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Clique](https://open.spotify.com/album/3C9IYfLDrQVe54E1TMbYSv) | 3:13 |
-| 8 | [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 |
+| 8 | [Things Aren't Nice In Paradise](https://open.spotify.com/track/2SDJTVl0IlBbStlz0IUt0S) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/3N3XYGAKHwfZ7Xiop16IOu) | 3:11 |
 | 9 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 |
 | 10 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 |
 | 11 | [If You Want My Love](https://open.spotify.com/track/2Qm9VAt4t1BghrBzkbsRbJ) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [If You Want My Love](https://open.spotify.com/album/5yP5FeVIxjBNUnZ59Hg4sY) | 2:38 |

@@ -1,6 +1,6 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23830,
+  "num_followers": 23832,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-12-07 22:02:44",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 218663,
-      "name": "Maquillada en la Cama",
-      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
-    },
-    {
-      "added_at": "2023-12-07 22:02:44",
-      "album": {
         "name": "SAETA",
         "url": "https://open.spotify.com/album/2xqdV2npgZXiowXCAYwd2Y"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 198085,
       "name": "Viuda Negra",
       "url": "https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf"
+    },
+    {
+      "added_at": "2023-12-07 22:02:44",
+      "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
     },
     {
       "added_at": "2023-12-07 22:02:44",
@@ -531,18 +531,22 @@
     {
       "added_at": "2023-12-07 22:02:44",
       "album": {
-        "name": "TU SI K TA LOKO",
-        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
+        "name": "PARA AFUERA",
+        "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
       },
       "artists": [
         {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
         }
       ],
-      "duration_ms": 170095,
-      "name": "TU SI K TA LOKO",
-      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
+      "duration_ms": 154737,
+      "name": "PARA AFUERA",
+      "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
     },
     {
       "added_at": "2023-12-07 22:02:44",
@@ -563,22 +567,18 @@
     {
       "added_at": "2023-12-07 22:02:44",
       "album": {
-        "name": "PARA AFUERA",
-        "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
+        "name": "TU SI K TA LOKO",
+        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
       },
       "artists": [
         {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         }
       ],
-      "duration_ms": 154737,
-      "name": "PARA AFUERA",
-      "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
+      "duration_ms": 170095,
+      "name": "TU SI K TA LOKO",
+      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
     },
     {
       "added_at": "2023-12-07 22:02:44",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-12-07 22:02:44",
       "album": {
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        }
+      ],
+      "duration_ms": 134425,
+      "name": "PURA",
+      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
+    },
+    {
+      "added_at": "2023-12-07 22:02:44",
+      "album": {
         "name": "Ya fue",
         "url": "https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 186472,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG"
-    },
-    {
-      "added_at": "2023-12-07 22:02:44",
-      "album": {
-        "name": "PURA",
-        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
-      },
-      "artists": [
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        }
-      ],
-      "duration_ms": 134425,
-      "name": "PURA",
-      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
     },
     {
       "added_at": "2023-12-07 22:02:44",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-12-07 22:02:44",
       "album": {
-        "name": "SHAMPOO",
-        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 181983,
-      "name": "SHAMPOO",
-      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
-    },
-    {
-      "added_at": "2023-12-07 22:02:44",
-      "album": {
         "name": "Chicos de la Luz",
         "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
       },
@@ -1095,22 +1079,18 @@
     {
       "added_at": "2023-12-07 22:02:44",
       "album": {
-        "name": "blablablablabla",
-        "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
+        "name": "SHAMPOO",
+        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
       },
       "artists": [
         {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        },
-        {
-          "name": "musica gratis",
-          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
         }
       ],
-      "duration_ms": 201706,
-      "name": "blablablablabla",
-      "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
+      "duration_ms": 181983,
+      "name": "SHAMPOO",
+      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
     },
     {
       "added_at": "2023-12-07 22:02:44",
@@ -1131,6 +1111,26 @@
       "duration_ms": 332542,
       "name": "Teoria Espacial (Remix)",
       "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
+    },
+    {
+      "added_at": "2023-12-07 22:02:44",
+      "album": {
+        "name": "blablablablabla",
+        "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        },
+        {
+          "name": "musica gratis",
+          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "blablablablabla",
+      "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
     },
     {
       "added_at": "2023-12-07 22:02:44",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-12-07 22:02:44",
       "album": {
-        "name": "POKITO",
-        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
-      },
-      "artists": [
-        {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "POKITO",
-      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
-    },
-    {
-      "added_at": "2023-12-07 22:02:44",
-      "album": {
         "name": "Dir\u00e9 tu nombre",
         "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 179950,
       "name": "Dir\u00e9 tu nombre",
       "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
+    },
+    {
+      "added_at": "2023-12-07 22:02:44",
+      "album": {
+        "name": "POKITO",
+        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
     },
     {
       "added_at": "2023-12-07 22:02:44",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-12-07 22:02:44",
       "album": {
-        "name": "Formas",
-        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        }
-      ],
-      "duration_ms": 213018,
-      "name": "Housie",
-      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
-    },
-    {
-      "added_at": "2023-12-07 22:02:44",
-      "album": {
         "name": "MELONI",
         "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 178050,
       "name": "MELONI",
       "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
+    },
+    {
+      "added_at": "2023-12-07 22:02:44",
+      "album": {
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        }
+      ],
+      "duration_ms": 213018,
+      "name": "Housie",
+      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
     },
     {
       "added_at": "2023-12-07 22:02:44",

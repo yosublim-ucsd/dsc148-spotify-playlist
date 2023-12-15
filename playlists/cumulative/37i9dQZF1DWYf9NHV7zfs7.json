@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193021,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/1insvPZ3iQa5iTixWUpAMr"
+    },
+    {
+      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx"
       },
@@ -361,6 +379,24 @@
     },
     {
       "album": {
+        "name": "LALI DELUXE",
+        "url": "https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154548,
+      "name": "Baum Baum",
+      "url": "https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks"
+    },
+    {
+      "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
@@ -448,7 +484,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 168306,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/6mRxU581UjFtZpsjPJJdbQ"
@@ -2592,7 +2628,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 182400,
       "name": "Por Segunda Vez",
       "url": "https://open.spotify.com/track/0V5W6b9lMaW1QijnTUxl76"

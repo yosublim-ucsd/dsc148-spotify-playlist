@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-364 songs - 22 hr 36 min
+365 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,10 +119,11 @@
 | [Her Bright Smile Haunts Me Still](https://open.spotify.com/track/1wv7r3QLlnqngYlMmDgRS3) | [Eamon O'leary](https://open.spotify.com/artist/3zu3pj0EZ3OLEDnqO5FEtY), [Jefferson Hamer](https://open.spotify.com/artist/3y6Xgu4ghSkuPM8HVHijCv) | [The Murphy Beds](https://open.spotify.com/album/5XghajytiUZ0buWNnVoVFO) | 4:43 | 2022-01-21 | 2022-07-29 |
 | [Here I Am](https://open.spotify.com/track/7mqnso9Zqgv7TYy3ZTfBg0) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Here I Am](https://open.spotify.com/album/2ftaScR6cWLclbqmyvgcLx) | 4:16 | 2022-01-21 | 2022-05-28 |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-12-10 | 2023-12-09 |
+| [High And Dry](https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 3:52 | 2023-09-29 |  |
 | [Hockey Skates](https://open.spotify.com/track/1avuG0JHGZZB8HI69C0f4E) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Failer](https://open.spotify.com/album/3ZYobhZ7YRCG96p7P7BIek) | 4:28 | 2022-01-21 | 2022-06-09 |
 | [Hold Me \- Alternate Version](https://open.spotify.com/track/0OvPSLj3HCL9Jy6F2LbrRc) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG) | 4:23 | 2022-06-08 | 2022-11-13 |
 | [Hold Me \- Alternate Version](https://open.spotify.com/track/3JiqfgX20NPxT070KqaQV7) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4KGZ9vvxgNnF31SLj5Ll0v) | 4:23 | 2021-12-10 | 2022-07-29 |
-| [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 | 2021-12-10 |  |
+| [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 | 2021-12-10 | 2023-12-15 |
 | [Hollow \(Acoustic\)](https://open.spotify.com/track/1GIBQJItFW5tFPrilr6M6o) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow \(Acoustic\)](https://open.spotify.com/album/1o5nl7CllRMd5Zx4kwlxWR) | 3:56 | 2021-12-10 | 2022-07-09 |
 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 | 2022-06-08 |  |
 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 | 2022-06-08 |  |
@@ -194,7 +195,7 @@
 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0kb10fZdI2pvDKY3zc0Gs1) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/1nwW3p2Xq5BzSwGccjxWUr) | 3:39 | 2021-12-10 | 2022-07-29 |
 | [Nothing Else](https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:24 | 2021-12-10 | 2022-07-29 |
 | [Nothing Else](https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:24 | 2022-06-08 |  |
-| [Nothing's Easy](https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw) | [Tiz McNamara](https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS) | [Nothing's Easy](https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo) | 3:06 | 2022-01-21 |  |
+| [Nothing's Easy](https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw) | [Tiz McNamara](https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS) | [Nothing's Easy](https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo) | 3:06 | 2022-01-21 | 2023-12-15 |
 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 | 2021-12-10 |  |
 | [Now You Know](https://open.spotify.com/track/3vNt852RXNZB8PJsIf5P2E) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Xoa](https://open.spotify.com/album/0cE5sSsvz3GLgoAeFZ1oki) | 3:09 | 2021-12-10 | 2022-07-29 |
 | [Olalla](https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:07 | 2022-06-08 | 2022-11-13 |
@@ -300,7 +301,7 @@
 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 | 2022-06-08 |  |
 | [The Rains](https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Rains](https://open.spotify.com/album/2yYjpXzVcJhQ2D0e9dkwjX) | 3:31 | 2021-12-10 | 2022-07-28 |
 | [The Solitude](https://open.spotify.com/track/3zUBTeyqDS1GF1rFWZ8kvj) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Solitude](https://open.spotify.com/album/7Je0ebJ8Ipmf03Kxv2e63q) | 3:46 | 2021-12-10 | 2022-07-29 |
-| [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 | 2022-06-08 | 2023-12-12 |
+| [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 | 2022-06-08 |  |
 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 | 2022-06-08 |  |
 | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 | 2022-06-08 |  |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-12-10 | 2022-07-29 |

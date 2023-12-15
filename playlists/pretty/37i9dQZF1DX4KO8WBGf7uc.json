@@ -1,6 +1,6 @@
 {
   "description": "Lo que suena en la noche.",
-  "num_followers": 321405,
+  "num_followers": 321431,
   "original_name": "Andando De Noche",
   "owner": {
     "name": "Spotify",
@@ -1815,18 +1815,22 @@
     {
       "added_at": "2023-11-24 20:51:19",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/70VKqWL5FWgipcGP9ugXBw"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 206606,
-      "name": "Falsas Promesas",
-      "url": "https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN"
+      "duration_ms": 240306,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
     }
   ],
   "unique_name": "Andando De Noche",

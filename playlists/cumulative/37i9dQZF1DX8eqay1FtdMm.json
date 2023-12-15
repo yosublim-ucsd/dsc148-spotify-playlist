@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: BMK) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: PARK WON(\ubc15\uc6d0)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 256320,
       "name": "After this night",
       "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
@@ -5470,6 +5470,28 @@
       "duration_ms": 215653,
       "name": "Our unrequited love story (Korean Ver.)",
       "url": "https://open.spotify.com/track/4bAtJo9xcOBlWO6nAxbkRZ"
+    },
+    {
+      "album": {
+        "name": "Over the window",
+        "url": "https://open.spotify.com/album/3JKlj3W1hKvqICDM3pGXPF"
+      },
+      "artists": [
+        {
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241506,
+      "name": "Over the window (feat. Paul Kim)",
+      "url": "https://open.spotify.com/track/1TsMSWZHdljgsgIqAH7JuT"
     },
     {
       "album": {

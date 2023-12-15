@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=i0yQBd7qSLmL-p1eMh7pJg\">Pabi Cooper</a>, <a href=\"https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1?si=TKPqq2irRFyIbs396qaXsA\">Ch'cco</a>, <a href=\"https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P?si=Leox0rkxS5OLU-fgUyBwkg\">MJ</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=mFEFEmTZQn2rablpoRREUQ\">Mellow & Sleazy</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -1320,6 +1320,36 @@
       "duration_ms": 270194,
       "name": "Amakhamandela - Radio-Edit",
       "url": "https://open.spotify.com/track/6HnjB2NnimZnQRumWzLd2Y"
+    },
+    {
+      "album": {
+        "name": "Kurhula",
+        "url": "https://open.spotify.com/album/13msT9b5VOsDENyqMX7V1c"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        },
+        {
+          "name": "Nia Pearl",
+          "url": "https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509789,
+      "name": "Amalobolo",
+      "url": "https://open.spotify.com/track/6SYd9stPpCzbuLAeU3FR9K"
     },
     {
       "album": {
@@ -4559,6 +4589,48 @@
     },
     {
       "album": {
+        "name": "Bula Nthweo (feat. Jelly Babie, Xduppy, Uncool MC & Ricky Lenyora)",
+        "url": "https://open.spotify.com/album/7HhMEpGba0IUETuDUYHh0y"
+      },
+      "artists": [
+        {
+          "name": "Vetkuk",
+          "url": "https://open.spotify.com/artist/0N6CgWlBaskJj7kaAXSath"
+        },
+        {
+          "name": "Mahoota",
+          "url": "https://open.spotify.com/artist/4ak8w8LmNVLnT4sULNEimt"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Jelly Babie",
+          "url": "https://open.spotify.com/artist/1W6ErVtCubk26F3vVMxm7N"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Ricky Lenyora",
+          "url": "https://open.spotify.com/artist/2yS4gQUMlSvFIVZRLySfCZ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322793,
+      "name": "Bula Nthweo (feat. Jelly Babie, Xduppy, Uncool MC & Ricky Lenyora)",
+      "url": "https://open.spotify.com/track/1p77bVbZdKaMv4CgRys5Gu"
+    },
+    {
+      "album": {
         "name": "Trapiano, Vol. 1",
         "url": "https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw"
       },
@@ -4700,7 +4772,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 552212,
       "name": "Call You (feat. Zwayetoven)",
       "url": "https://open.spotify.com/track/469wMneThFNSUlTHDcpDgp"
@@ -5500,7 +5572,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 377159,
       "name": "Daily Paper",
       "url": "https://open.spotify.com/track/6BdVmPtF9ADkPb2Ewn1gDg"
@@ -6662,7 +6734,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 519650,
       "name": "Eduze",
       "url": "https://open.spotify.com/track/3j44D35ihRDXUdwPO8kiZi"
@@ -7368,7 +7440,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 381428,
       "name": "Entabeni",
       "url": "https://open.spotify.com/track/13qA1SmBLqaepUpabuzJ7u"
@@ -8146,6 +8218,28 @@
       "duration_ms": 416321,
       "name": "G.O.T (House of Dragon)",
       "url": "https://open.spotify.com/track/133aK2N3o4hj7PZQw4ASPF"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/1ZfjnouoAbgcSM5aHR9H3J"
+      },
+      "artists": [
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Officixl RSA",
+          "url": "https://open.spotify.com/artist/07tgScZ6FR7jYoaG9k1q2a"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383577,
+      "name": "Gabriella (feat. Officixl RSA)",
+      "url": "https://open.spotify.com/track/3s2qeMcvlTLdhkXy5VIUBA"
     },
     {
       "album": {
@@ -12249,6 +12343,32 @@
     },
     {
       "album": {
+        "name": "Black Is Brown Compilation Vol. 3",
+        "url": "https://open.spotify.com/album/1fzCYth3wk0NG3kzffiIgm"
+      },
+      "artists": [
+        {
+          "name": "Justin99",
+          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
+        },
+        {
+          "name": "Lemaza",
+          "url": "https://open.spotify.com/artist/4e8OCfGcar5TTk3HaA3FCR"
+        },
+        {
+          "name": "papi_sa",
+          "url": "https://open.spotify.com/artist/00GCb9v2NdZgVNHTMMyB4V"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308610,
+      "name": "Izinja",
+      "url": "https://open.spotify.com/track/0Lowa9hKmORoRxGsrSngHg"
+    },
+    {
+      "album": {
         "name": "Izinto",
         "url": "https://open.spotify.com/album/44zJbqYC54ymgbPNlUIj0i"
       },
@@ -12968,7 +13088,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 253658,
       "name": "Jukulyn",
       "url": "https://open.spotify.com/track/2Z5bMHsPlvPI3h9mZ3vR90"
@@ -15299,6 +15419,40 @@
     },
     {
       "album": {
+        "name": "Mabadle Basuthe (feat. L4Desh 55, Mo Tee)",
+        "url": "https://open.spotify.com/album/0KRSk545e6hlqLP9ICZrhK"
+      },
+      "artists": [
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Massive 95K",
+          "url": "https://open.spotify.com/artist/6JJsDtCQkBAr1lQi8yGepJ"
+        },
+        {
+          "name": "L4Desh 55",
+          "url": "https://open.spotify.com/artist/6oxvXr7c9kwPzL6QBFjmY3"
+        },
+        {
+          "name": "Mo Tee",
+          "url": "https://open.spotify.com/artist/7JwcfFMATUr3skNoYCgwsx"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341995,
+      "name": "Mabadle Basuthe (feat. L4Desh 55, Mo Tee)",
+      "url": "https://open.spotify.com/track/6AkgWL6X4GW8ds0h9z3Fs4"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU"
       },
@@ -16910,6 +17064,36 @@
       "duration_ms": 437000,
       "name": "Monate Ke Monate",
       "url": "https://open.spotify.com/track/2zpcKVM91HRvbz4k4fysVR"
+    },
+    {
+      "album": {
+        "name": "Monday Boys Holiday (feat. Madumane)",
+        "url": "https://open.spotify.com/album/2DW4HP2jboMDsjzJwbppke"
+      },
+      "artists": [
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Thuto The Human",
+          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390796,
+      "name": "Monday Boys Holiday (feat. Madumane)",
+      "url": "https://open.spotify.com/track/4pEAeKopzeGr3YCMaVVWwS"
     },
     {
       "album": {
@@ -25602,7 +25786,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 335219,
       "name": "This Year",
       "url": "https://open.spotify.com/track/46nZPFS8qTGRPuwoOAjSQz"
@@ -28204,7 +28388,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 444932,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/7ssA6kQHkrNSNx4ZLiTV8V"
@@ -29022,6 +29206,32 @@
       "duration_ms": 471567,
       "name": "Wandy",
       "url": "https://open.spotify.com/track/6UpI9YLzjN1aeHTZky6SwP"
+    },
+    {
+      "album": {
+        "name": "Boroko Keng",
+        "url": "https://open.spotify.com/album/6TBUy4v1qMRJINvnm8okUa"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Makhekhe Jr",
+          "url": "https://open.spotify.com/artist/6Zu4gpvzdmfXPDdj4psLFj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330875,
+      "name": "Wang Compromisa (feat. Focalistic & Makhekhe Jr)",
+      "url": "https://open.spotify.com/track/7wyxymLTOjYzcMfqd9jTDV"
     },
     {
       "album": {

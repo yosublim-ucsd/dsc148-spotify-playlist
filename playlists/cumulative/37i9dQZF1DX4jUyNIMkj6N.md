@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-238 songs - 14 hr 44 min
+239 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Kings and Aces](https://open.spotify.com/track/00FjPtTqy9JtPsjwVJMRxw) | [The White Album](https://open.spotify.com/artist/5JhaDdCfVwK1YJciYM7s6i) | [The Quiet Strum](https://open.spotify.com/album/4VHQklPYm6aSSbeRalAi62) | 2:49 | 2021-12-02 | 2022-07-19 |
 | [Kom heim](https://open.spotify.com/track/4GVZR9TdLp9D0ToG68ZxNh) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kom heim](https://open.spotify.com/album/445fT2wa4stnwaF4SNlJuF) | 3:22 | 2022-03-03 | 2022-07-29 |
 | [Late December](https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Late December](https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8) | 2:59 | 2023-12-08 |  |
+| [Let Go](https://open.spotify.com/track/6sxBh5RVUA3IP5i93WLIDn) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Let Go](https://open.spotify.com/album/3qnowTLuRg2RxHRztC22DG) | 2:41 | 2023-12-14 |  |
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2022-07-14 |  |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-12-02 | 2022-07-29 |
 | [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 | 2023-01-19 | 2023-02-08 |
@@ -171,7 +172,7 @@
 | [Spor i sand](https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann \(Vinyl Edition\)](https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F) | 4:48 | 2023-04-13 | 2023-05-16 |
 | [Starting Again](https://open.spotify.com/track/7BnzDWMDn1lV25kTTEefNz) | [Rebekka Lundstrøm](https://open.spotify.com/artist/3gVauPfgPGg6uKuR6dOMui) | [Starting Again](https://open.spotify.com/album/5IrLKl3WwY03Kmzar5n9Ds) | 4:36 | 2022-03-24 | 2022-07-19 |
 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 | 2021-12-02 |  |
-| [Still Here](https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Still Here](https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN) | 3:38 | 2023-01-26 |  |
+| [Still Here](https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Still Here](https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN) | 3:38 | 2023-01-26 | 2023-12-15 |
 | [Stilla](https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Nærmere](https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W) | 4:48 | 2022-11-10 | 2023-06-03 |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2023-12-08 |  |
 | [Sun, Moon, Stars](https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Sun, Moon, Stars](https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9) | 4:35 | 2022-11-17 |  |

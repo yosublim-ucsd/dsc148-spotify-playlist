@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-80 songs - 5 hr 29 min
+81 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [Revisão](https://open.spotify.com/track/3AQIGKFepAlEyMeV1VQVjZ) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Revisão](https://open.spotify.com/album/03SB4h85dE0paMinzDBIbO) | 4:35 | 2022-02-22 | 2023-09-08 |
 | [Se Ajoelhe](https://open.spotify.com/track/1xVzfXASMOg5zoBGRoe7in) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/79oJSsNswdXJ1wAH2JB929) | 3:47 | 2022-05-27 |  |
 | [Se Ajoelhe](https://open.spotify.com/track/4rKp63bn9KsACPgCahmLLP) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx), [Flash Beats](https://open.spotify.com/artist/7IFhE5NzZZlsfvPZH84fY9) | [Se Ajoelhe](https://open.spotify.com/album/3ZyyV0HWP8Z0nAFyCa3UIx) | 3:47 | 2022-02-22 | 2022-11-12 |
-| [Senpai](https://open.spotify.com/track/3bT0HyZG4LDJmG5IB8BHSi) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/47fz9EQIEJxhEx3lbvAMjn) | 3:13 | 2023-06-02 |  |
+| [Senpai](https://open.spotify.com/track/3bT0HyZG4LDJmG5IB8BHSi) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/47fz9EQIEJxhEx3lbvAMjn) | 3:13 | 2023-06-02 | 2023-12-15 |
 | [Senpai](https://open.spotify.com/track/6jEhGdJj7F3mDf4ABc5Mrx) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/61qHIjDtaPBkftWKSHkqua) | 3:13 | 2022-02-22 | 2023-06-18 |
+| [Senpai](https://open.spotify.com/track/70j0FQ3htaLkadLHHaiXDE) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/5rZU10IBURrvmenyMGF4zj) | 3:13 | 2023-11-10 |  |
 | [Sete Pecados Capitais](https://open.spotify.com/track/7hOpo4Xghw0EX1HgShJU3o) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Sete Pecados Capitais](https://open.spotify.com/album/7gZnPoiybTDKjXe7NmEvms) | 5:06 | 2022-02-22 |  |
 | [SpeedLord: Akatsuki](https://open.spotify.com/track/0Xo6kYVMKlisXIMUFJmbwS) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [SpeedLord: Akatsuki](https://open.spotify.com/album/14iuVUCKKTKUqJIDRCktTG) | 5:13 | 2022-02-22 |  |
 | [Tai Otoshi](https://open.spotify.com/track/1RYDGeACNeHLgK2XqJa3n8) | [Zero Meia](https://open.spotify.com/artist/4SqZO99ISUJpwisAug6yfQ), [Gean Brazy](https://open.spotify.com/artist/5Xw6Mw9iq5Q9pBf24Cu0EQ) | [Tai Otoshi](https://open.spotify.com/album/4G9Zhc8lxnXKU6sB66N7Vj) | 3:29 | 2023-11-10 |  |

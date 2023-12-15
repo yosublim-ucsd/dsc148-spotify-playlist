@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Nancy Kwai",
+  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Gordon Flanders",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 232087,
       "name": "1234",
       "url": "https://open.spotify.com/track/0sa1tVoQiF5aCpWh7BYQTH"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 196000,
       "name": "Never Meant to Hurt You",
       "url": "https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn"
@@ -1837,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "FLANDERS",
+        "url": "https://open.spotify.com/album/7kxIzybDHMVhyvFLTVFqki"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234212,
+      "name": "\u4e8c\u516b\u5e74\u83ef",
+      "url": "https://open.spotify.com/track/59pjYLvzUjSu6jj1NqKb2P"
+    },
+    {
+      "album": {
         "name": "\u4e94\u7a2e\u611b\u7684\u5bc6\u8a9e",
         "url": "https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG"
       },
@@ -2300,6 +2318,24 @@
       "duration_ms": 222907,
       "name": "\u60e1\u4f5c\u5287\u5b8c\u6210",
       "url": "https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z"
+    },
+    {
+      "album": {
+        "name": "FLANDERS",
+        "url": "https://open.spotify.com/album/7kxIzybDHMVhyvFLTVFqki"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228764,
+      "name": "\u6162\u534a\u62cd",
+      "url": "https://open.spotify.com/track/1eFbcn9JmUe57fwf6MZL01"
     },
     {
       "album": {

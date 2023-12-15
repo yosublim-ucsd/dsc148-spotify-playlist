@@ -2711,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t believe it",
+        "url": "https://open.spotify.com/album/7zDFXo0yXWXzQ8qDypDrdY"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188246,
+      "name": "Don\u2019t believe it",
+      "url": "https://open.spotify.com/track/2CwWhS5c1sDfJYIMKhoxPj"
+    },
+    {
+      "album": {
         "name": "Down the Pawn Shop",
         "url": "https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb"
       },
@@ -3752,6 +3770,24 @@
       "duration_ms": 162708,
       "name": "Graceful Rhapsody",
       "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
+    },
+    {
+      "album": {
+        "name": "Guess I'll Hang My Tears Out To Dry",
+        "url": "https://open.spotify.com/album/39KZ6ZyjrzII5xIgRi4fPf"
+      },
+      "artists": [
+        {
+          "name": "Elvine Harley",
+          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173824,
+      "name": "Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/6DL0rKjqsrrvIIVdl0WfUL"
     },
     {
       "album": {

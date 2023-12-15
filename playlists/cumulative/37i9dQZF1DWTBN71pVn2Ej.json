@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 193049,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
@@ -2435,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1lZmoIW2IkCBG1WySoiSCE"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200696,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2"
+    },
+    {
+      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -3361,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "Half Zombie",
+        "url": "https://open.spotify.com/album/6Kzgomzh4R4LqBRoCRlNIU"
+      },
+      "artists": [
+        {
+          "name": "PLAIINS",
+          "url": "https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Half Zombie",
+      "url": "https://open.spotify.com/track/1a5LKQKoIfQcVualRfj3Tl"
+    },
+    {
+      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/2WvEGTkP8WlvsPitQUlFQ8"
       },
@@ -3448,6 +3484,24 @@
       "duration_ms": 212228,
       "name": "Head First",
       "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241638,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE"
     },
     {
       "album": {
@@ -3646,6 +3700,24 @@
       "duration_ms": 186847,
       "name": "Honeybrains",
       "url": "https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR"
+    },
+    {
+      "album": {
+        "name": "Horns",
+        "url": "https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf"
+      },
+      "artists": [
+        {
+          "name": "Lysistrata",
+          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206873,
+      "name": "Horns",
+      "url": "https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax"
     },
     {
       "album": {
@@ -4244,7 +4316,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 141630,
       "name": "Kill the Moth",
       "url": "https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy"
@@ -4338,6 +4410,24 @@
       "duration_ms": 170813,
       "name": "Kleptomaniac",
       "url": "https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1"
+    },
+    {
+      "album": {
+        "name": "Know That I'm Alive",
+        "url": "https://open.spotify.com/album/0c1zW7kqZ6IZv4NRK6KlQ1"
+      },
+      "artists": [
+        {
+          "name": "Chiefland",
+          "url": "https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166733,
+      "name": "Know That I'm Alive",
+      "url": "https://open.spotify.com/track/0RZrNkCEGOYWqm1pWlmpCd"
     },
     {
       "album": {
@@ -5206,7 +5296,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 140027,
       "name": "Never Fucked Up Once",
       "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
@@ -6110,7 +6200,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 168631,
       "name": "Pushing Pins",
       "url": "https://open.spotify.com/track/7j26ZE6cddkHrdkWr13fw6"
@@ -6272,7 +6362,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 175440,
       "name": "respawn.",
       "url": "https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS"
@@ -7378,7 +7468,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 232928,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5SBl10YxMr1oimb5ur4VAl"
@@ -8010,6 +8100,24 @@
       "duration_ms": 225625,
       "name": "Tide Of Doubt",
       "url": "https://open.spotify.com/track/5SuqiH65FrbM731Cf6dYyp"
+    },
+    {
+      "album": {
+        "name": "Tightrope",
+        "url": "https://open.spotify.com/album/2uoLTie8qzC4iU8Y6L0IRW"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112245,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/3NB9YhwxlY9RhEUY5Zw2X7"
     },
     {
       "album": {

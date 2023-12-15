@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 131587,
       "name": "9 bis 9",
       "url": "https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8"
@@ -6260,7 +6260,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -12104,6 +12104,32 @@
       "duration_ms": 380929,
       "name": "FREITAG DER 13.",
       "url": "https://open.spotify.com/track/331oEKKHECAkRQhnMJMiGG"
+    },
+    {
+      "album": {
+        "name": "Fresh & Clean",
+        "url": "https://open.spotify.com/album/59OnPiQHtKrdyWOlB74mfQ"
+      },
+      "artists": [
+        {
+          "name": "Maro",
+          "url": "https://open.spotify.com/artist/3ewRkt1bjfMU6dIYdGEskP"
+        },
+        {
+          "name": "Markevo",
+          "url": "https://open.spotify.com/artist/27FpYcBCMw2ackCRm3JZ2p"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194814,
+      "name": "Fresh & Clean",
+      "url": "https://open.spotify.com/track/3dmssJKfhWL6obSkNUZwxL"
     },
     {
       "album": {
@@ -28292,7 +28318,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -28310,7 +28336,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 203493,
       "name": "Santa Tell Me - Naughty Version",
       "url": "https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q"
@@ -32252,7 +32278,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"

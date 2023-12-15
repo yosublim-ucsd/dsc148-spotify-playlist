@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu?si=nvvCipfkR6KQyMwv3cqysw\">Mnqobi Yazo</a>",
+  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=6LcMRZJuRgKhHuzR-k2a0A\">Jabulile Majola</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -4940,6 +4940,32 @@
       "duration_ms": 247688,
       "name": "Lilizela",
       "url": "https://open.spotify.com/track/7II1jN6iXtWsSt1e27wLVB"
+    },
+    {
+      "album": {
+        "name": "Nova Sounds Christmas Feels",
+        "url": "https://open.spotify.com/album/1cRcApfHcUHWfnmxlq4wic"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        },
+        {
+          "name": "047",
+          "url": "https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8"
+        },
+        {
+          "name": "Kwanda",
+          "url": "https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448787,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/7nwoJ5llZhWQJql6z7F1AH"
     },
     {
       "album": {
@@ -9886,7 +9912,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 229206,
       "name": "Umkhov'etsheni (feat. Igcokama elisha)",
       "url": "https://open.spotify.com/track/0RzfxaDqYuolVaKc0jUQ5e"
@@ -9938,7 +9964,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 355266,
       "name": "uMngani Wami",
       "url": "https://open.spotify.com/track/7ALJH5Zqi2vtNYY12TFw1N"
@@ -10860,6 +10886,24 @@
       "duration_ms": 294000,
       "name": "World's Gone Crazy",
       "url": "https://open.spotify.com/track/4fF0vcZOgs1ijRkjNe4pY7"
+    },
+    {
+      "album": {
+        "name": "Woza Mntana",
+        "url": "https://open.spotify.com/album/20EFdGGfdVSWpqu8KX0cmI"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358956,
+      "name": "Woza Mntana",
+      "url": "https://open.spotify.com/track/486lU2BE0ZY75sAOWViR6p"
     },
     {
       "album": {

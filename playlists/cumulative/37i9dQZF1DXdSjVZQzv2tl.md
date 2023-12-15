@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Israel & Rodolffo, Mc Don Juan, João Gomes
 
-183 songs - 8 hr 40 min
+184 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 | 2022-12-21 |  |
 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [A Maior Saudade \(Ao Vivo\)](https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW) | 3:10 | 2021-12-31 | 2022-08-23 |
 | [ABALO EMOCIONAL \- Ao Vivo](https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY AVENIDA AMARILDO SANTANA \(Ao Vivo\)](https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF) | 2:33 | 2022-02-11 | 2023-04-22 |
-| [Abre A Mente \- Ao Vivo Em Brasília](https://open.spotify.com/track/4KUj5wxJuY9Nf7L6guRxrU) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP4\)](https://open.spotify.com/album/4J251d8QDdjYABrjPImSTy) | 3:10 | 2023-06-30 |  |
+| [Abre A Mente \- Ao Vivo Em Brasília](https://open.spotify.com/track/4KUj5wxJuY9Nf7L6guRxrU) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP4\)](https://open.spotify.com/album/4J251d8QDdjYABrjPImSTy) | 3:10 | 2023-06-30 | 2023-12-15 |
 | [Acabei de Terminar \- Ao Vivo](https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acabei de Terminar \(Ao Vivo\)](https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo) | 3:43 | 2022-05-20 | 2023-08-05 |
 | [Acordo \- Ao Vivo](https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Acordo \(Ao Vivo\)](https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm) | 2:49 | 2021-12-31 | 2023-04-01 |
 | [Ai Eu Chorei \- Ao Vivo](https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Churrasco 2 \(Ao Vivo\)](https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u) | 2:56 | 2022-07-22 | 2023-08-05 |
@@ -103,6 +103,7 @@
 | [Mala dos Porta\-Mala \- Ao Vivo](https://open.spotify.com/track/7GScY8oE12cqTiNBzVQpUB) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Mala dos Porta\-Mala \(Ao Vivo\)](https://open.spotify.com/album/3KbuCPion6RqgTCrLigEJq) | 2:33 | 2023-07-21 |  |
 | [Manda um Oi \- Ao Vivo](https://open.spotify.com/track/7DkhndGTKaqkFxxKN7XlAh) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Manda um Oi \(Ao Vivo\)](https://open.spotify.com/album/1HItTCmal7a7jPpRwnV4g3) | 2:46 | 2023-06-02 |  |
 | [Me Ame Mais](https://open.spotify.com/track/4iavXH4dDUMA8yAabnUhSI) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 3:49 | 2021-12-31 | 2022-01-17 |
+| [Me Leva Pra Casa / Escrito Nas Estrelas / Saudade \- Ao Vivo](https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo\)](https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu) | 4:25 | 2023-12-14 |  |
 | [Meio Fio \- Ao Vivo](https://open.spotify.com/track/1t5dhHyXMwdbAcI3EQRqFV) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo Em São Paulo Vol\. 2](https://open.spotify.com/album/0V3ZGohMB2SF82xhUEN8QC) | 2:33 | 2022-08-12 | 2023-07-15 |
 | [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 2:55 | 2023-12-08 |  |
 | [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/4zUFA8l78k4tCmoVuGtV8z) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \- FASE 1](https://open.spotify.com/album/4dQAevCwvaHURvvM1ddXwM) | 2:55 | 2023-06-16 | 2023-12-11 |

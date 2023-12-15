@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 155383,
+  "num_followers": 155410,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,26 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
-        "name": "Equa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
+        "name": "ORDEM & PROGRESSO",
+        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
       },
       "artists": [
         {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 182205,
-      "name": "Equa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
+      "duration_ms": 209150,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -523,6 +527,26 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
+        "name": "Equa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182205,
+      "name": "Equa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
         "name": "Falar de Amor",
         "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
       },
@@ -547,30 +571,6 @@
       "duration_ms": 231529,
       "name": "Falar de Amor",
       "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
-        "name": "ORDEM & PROGRESSO",
-        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 209150,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
-      },
-      "artists": [
-        {
-          "name": "Roig",
-          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
-        }
-      ],
-      "duration_ms": 196729,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
         "name": "Mapa Astral",
         "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 193620,
       "name": "Mapa Astral",
       "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
+      },
+      "artists": [
+        {
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
+        }
+      ],
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "K.E",
+          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
         "name": "Mais uma Chance",
         "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 183700,
       "name": "Mais uma Chance",
       "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "K.E",
-          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
         "name": "Interfone",
         "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 232000,
       "name": "Interfone",
       "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
         "name": "Mist\u00e9rio",
         "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 142105,
       "name": "Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2023-12-08 13:27:37",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2023-12-08 13:27:37",
       "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Henriques",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
-    },
-    {
-      "added_at": "2023-12-08 13:27:37",
-      "album": {
         "name": "Nada Comum",
         "url": "https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO"
       },
@@ -1631,6 +1607,30 @@
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
+    },
+    {
+      "added_at": "2023-12-08 13:27:37",
+      "album": {
+        "name": "Meia Hora",
+        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Meia Hora",
+      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     },
     {
       "added_at": "2023-12-08 13:27:37",

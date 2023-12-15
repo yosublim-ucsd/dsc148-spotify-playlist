@@ -4,7 +4,7 @@
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-365 songs - 23 hr 24 min
+367 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,10 @@
 | [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-13 |  |
 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 | 2023-04-13 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 | 2021-12-14 | 2023-06-09 |
+| [A Perfect Day](https://open.spotify.com/track/4d97x2KkKklZZJsvtWBCn7) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [A Perfect Day](https://open.spotify.com/album/1LnXioxQMj65UL2GmLLDxh) | 3:33 | 2023-12-15 |  |
 | [A persuasive argument](https://open.spotify.com/track/5WwybHBAdhsJMNBbXymtS3) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [A persuasive argument](https://open.spotify.com/album/3OAJII4iToETQ0SPLK8b9z) | 3:54 | 2023-08-10 |  |
 | [A place I knew](https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [A place I knew](https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ) | 2:40 | 2023-04-13 |  |
+| [A Poetic City](https://open.spotify.com/track/0cbPof9LM6kJJRdaFvQxmR) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [A Poetic City](https://open.spotify.com/album/1U1p1pem5XggODiDC4Urhj) | 3:24 | 2023-12-15 |  |
 | [A Sleepin' Bee](https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [A Sleepin' Bee](https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p) | 3:42 | 2022-09-29 |  |
 | [A Time For Love](https://open.spotify.com/track/5hlXjAmHmvbLNR169UW394) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [A Time For Love](https://open.spotify.com/album/5VQ209Y2ATo0ehJJbwpSi5) | 3:48 | 2022-09-29 | 2023-09-01 |
 | [A Wayfarer's Tale](https://open.spotify.com/track/0RrvMxwdAX6qBQHjR3EEPZ) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [A Wayfarer's Tale](https://open.spotify.com/album/3E7581DaCGTtHOi5KvwYpN) | 3:34 | 2023-10-27 |  |

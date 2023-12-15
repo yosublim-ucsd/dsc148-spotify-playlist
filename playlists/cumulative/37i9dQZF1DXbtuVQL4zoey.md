@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-528 songs - 20 hr 21 min
+529 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Tokyo Trainspotting](https://open.spotify.com/track/1bFNVPttUZyzRxfsJAFkJx) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:00 | 2022-07-29 |  |
 | [Tokyo Trainspotting](https://open.spotify.com/track/5BytyiwDLVxJS1x4vgaeli) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:00 | 2022-10-28 | 2022-11-14 |
 | [Tokyo Trainspotting](https://open.spotify.com/track/71xDIzNBNBymTelTTUz3YC) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/0YMPRcQiUqkkWM6DHjUNRO) | 2:00 | 2022-05-20 | 2022-07-29 |
+| [toneHUG](https://open.spotify.com/track/3AD1MgwJWGEmKQ0CquSs8a) | [Max Hayward](https://open.spotify.com/artist/7BYvlfn9FHd6YH5eTY93zP) | [toneHUG](https://open.spotify.com/album/5VFZutKUl020tCSX5psL6p) | 3:03 | 2023-12-15 |  |
 | [Too Much Rain](https://open.spotify.com/track/0r1DmdncRC4AHRjFIZKwwn) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Too Much Rain](https://open.spotify.com/album/5W6jypRJ9xyuDl6zqVfblg) | 2:24 | 2022-09-30 |  |
 | [Tornado By The Fire](https://open.spotify.com/track/5KS0pPwHKZz5tStdFQrXAv) | [Liam Jones](https://open.spotify.com/artist/2XkWxaUYf6dO49IWb63OC8) | [Tornado By The Fire](https://open.spotify.com/album/31Fss9essrGr7FRVX0oW9P) | 2:20 | 2023-12-08 |  |
 | [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 | 2022-05-20 | 2023-10-23 |

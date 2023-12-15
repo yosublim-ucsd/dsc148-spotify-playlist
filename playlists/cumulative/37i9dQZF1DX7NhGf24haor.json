@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/54Gwf86TuAoruOQp3dSVTR"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4HJhLHwIqtSxNDJ8FpZ0PB"
+    },
+    {
+      "album": {
         "name": "Back 2 The Oldschool",
         "url": "https://open.spotify.com/album/1hj8C18dLHicYRwIuLdHmC"
       },
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 225000,
       "name": "Bound By Blood",
       "url": "https://open.spotify.com/track/0urHN48EcZuLqImG7ASp98"
@@ -1568,7 +1590,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 222631,
       "name": "Broken Dreams",
       "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
@@ -2324,7 +2346,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 222400,
       "name": "Daddy DJ",
       "url": "https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR"
@@ -2752,7 +2774,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 215590,
       "name": "Dia De Los Muertos",
       "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
@@ -3974,7 +3996,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 126093,
       "name": "Fly",
       "url": "https://open.spotify.com/track/3wA7idlHfIO8uClB6UoR0L"
@@ -4339,6 +4361,28 @@
     },
     {
       "album": {
+        "name": "Frozen Tears",
+        "url": "https://open.spotify.com/album/7jnc3csiDWdj5h2r7DeR7t"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167189,
+      "name": "Frozen Tears",
+      "url": "https://open.spotify.com/track/7w0Qt1Bw9DHqT7DE7mp3zW"
+    },
+    {
+      "album": {
         "name": "Gabber Style",
         "url": "https://open.spotify.com/album/5cfi9mCr5KXpp00c7MnKi4"
       },
@@ -4516,6 +4560,28 @@
       "duration_ms": 164129,
       "name": "Gimme Bass",
       "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
+    },
+    {
+      "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/7xJgSzzWqfbkzmezcGNXOT"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/31vWIsabfNqn6RcCaIBZmP"
     },
     {
       "album": {
@@ -4710,7 +4776,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 203076,
       "name": "Guns For Hire",
       "url": "https://open.spotify.com/track/0tpB1vEXAi5E1U0nT2bf55"
@@ -5296,7 +5362,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 267200,
       "name": "How We Rollin'",
       "url": "https://open.spotify.com/track/14jxwmNSkEDQw6WCjaW65S"
@@ -6625,6 +6691,32 @@
     },
     {
       "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0l4G9jBMrdIXWPdRGzWMji"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216152,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/54cwQJs1IBsp7uFAJB0aGK"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/4GgXak6TYk4IMUTFq7dZD3"
       },
@@ -7098,7 +7190,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 170823,
       "name": "Long Long Way To Go",
       "url": "https://open.spotify.com/track/3jLsXPKjVwyqFMwEtBi74B"
@@ -7422,7 +7514,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 199741,
       "name": "Love Song - TESFY Remix",
       "url": "https://open.spotify.com/track/6B59BB1c8E3h1eq9h7Q2JK"
@@ -7748,7 +7840,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 172677,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/5Na94pdFJdrlMa9fG6blh4"
@@ -8335,6 +8427,24 @@
     },
     {
       "album": {
+        "name": "MY THERAPY",
+        "url": "https://open.spotify.com/album/0GdzjWiQwwUptNFANQGI6i"
+      },
+      "artists": [
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "MY THERAPY",
+      "url": "https://open.spotify.com/track/34dJnMLYjSz5DHbNGPsXtA"
+    },
+    {
+      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/6twbJ6MrK36i8nTNpEuzPU"
       },
@@ -8642,7 +8752,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 143200,
       "name": "Nine 2 Five",
       "url": "https://open.spotify.com/track/5zylS3y0Yh4slf7IM1UFai"
@@ -9363,6 +9473,28 @@
     },
     {
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/4bLoSVrWCBsc33fPCnjdTD"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/64iEo5EHLWRtWyNQ19BYr3"
+    },
+    {
+      "album": {
         "name": "Pachanga",
         "url": "https://open.spotify.com/album/490Mim6cyzPDnz47PfbvKs"
       },
@@ -10077,6 +10209,28 @@
     },
     {
       "album": {
+        "name": "Realign",
+        "url": "https://open.spotify.com/album/5PvqY3FPsJVy5jt9ctDieT"
+      },
+      "artists": [
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        },
+        {
+          "name": "Sephyx",
+          "url": "https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189319,
+      "name": "Realign",
+      "url": "https://open.spotify.com/track/50lXm6nruD49kKZlvxpZGc"
+    },
+    {
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/5c1miQshKBEz9MGtviYMHU"
       },
@@ -10180,7 +10334,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 235348,
       "name": "Reflected Reality - Official Shockerz 2023 Anthem",
       "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
@@ -10845,6 +10999,28 @@
     },
     {
       "album": {
+        "name": "RTHM (Jay Reeve Remix)",
+        "url": "https://open.spotify.com/album/6m4XWwvsVBdqen9YeSE4Sr"
+      },
+      "artists": [
+        {
+          "name": "Josh & Wesz",
+          "url": "https://open.spotify.com/artist/7G7mVrnF4ag8MTX8o8sizx"
+        },
+        {
+          "name": "Jay Reeve",
+          "url": "https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222996,
+      "name": "RTHM - Jay Reeve Remix",
+      "url": "https://open.spotify.com/track/3DxyRFHGa0KaKECiCwQ8xK"
+    },
+    {
+      "album": {
         "name": "Ruffneck Sound",
         "url": "https://open.spotify.com/album/4yOfxfaE7xQmSaXjfRc2Xz"
       },
@@ -11044,7 +11220,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 192183,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/69hE042Myq7vwj6XMZIqIh"
@@ -11279,6 +11455,24 @@
     },
     {
       "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/0iCFyqcvr2DMB14ZdOX2M6"
+      },
+      "artists": [
+        {
+          "name": "Technikore",
+          "url": "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200727,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/1EoTKITHfkZZBwEj9fq4GE"
       },
@@ -11474,7 +11668,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 263999,
       "name": "Spirit of the Wolf - (Knockout Outdoor 2023 Anthem)",
       "url": "https://open.spotify.com/track/2r4viiAZKsiged9SPMN9Cj"
@@ -11576,7 +11770,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 208800,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0UIfBAak10aJTzuT1tNoha"
@@ -12376,7 +12570,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 162000,
       "name": "The Best Night",
       "url": "https://open.spotify.com/track/5RdqaD1NJS8CFxDogGEj7w"
@@ -12971,6 +13165,28 @@
     },
     {
       "album": {
+        "name": "The Same Blood (Official EPIK 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3R54Xa2tvyNnQL63vGSizR"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209097,
+      "name": "The Same Blood - Official EPIK 2023 Anthem",
+      "url": "https://open.spotify.com/track/3q2XAEa5btQAbgIha0I8JW"
+    },
+    {
+      "album": {
         "name": "The Shadows",
         "url": "https://open.spotify.com/album/741Fd6iewyCCkljnldU3RS"
       },
@@ -13122,7 +13338,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 195698,
       "name": "This Deejay",
       "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
@@ -13294,7 +13510,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 144000,
       "name": "TikTok Techno Jessica",
       "url": "https://open.spotify.com/track/3GLn4N1T4dccYCBzo5bpOH"
@@ -14099,6 +14315,24 @@
     },
     {
       "album": {
+        "name": "VIRUS (IN MY MIND)",
+        "url": "https://open.spotify.com/album/0y2GsOUwc2O8147YxzVrtl"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "VIRUS (IN MY MIND)",
+      "url": "https://open.spotify.com/track/70F9KVJPBkyBRtqj6646NV"
+    },
+    {
+      "album": {
         "name": "Voices Calling",
         "url": "https://open.spotify.com/album/5ebQkAOLxFRbcRTy18sduU"
       },
@@ -14140,7 +14374,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 239034,
       "name": "Vois Sur Ton Chemin - Hardstyle",
       "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"

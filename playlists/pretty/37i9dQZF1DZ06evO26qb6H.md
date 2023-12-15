@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,120 likes - 33 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,121 likes - 33 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 21 | [420 in London](https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [420 in London](https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh) | 3:39 |
 | 22 | [Don't Forget Me](https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:36 |
 | 23 | [LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 4:15 |
-| 24 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 |
-| 25 | [123](https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:50 |
+| 24 | [123](https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:50 |
+| 25 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 |
 | 26 | [Beef](https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU) | [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Beef](https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3) | 3:01 |
 | 27 | [Touchdown \(feat\. Peezy & Murda Beatz\)](https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:52 |
 | 28 | [Fendi \(feat\. Nicki Minaj & Murda Beatz\)](https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Fendi \(feat\. Nicki Minaj & Murda Beatz\)](https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr) | 3:00 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 32 | [Outside](https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Outside](https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN) | 2:16 |
 | 33 | [McQueen](https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl) | [TrifeDrew](https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [McQueen](https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an) | 2:36 |
 
-Snapshot ID: `MjgzNzQ0ODUsMDAwMDAwMDA2MjJjZDZlNzY5ZDk1MWJmNWQ2MGQwODI1NzY5NzE0Yw==`
+Snapshot ID: `MjgzNzU5MDgsMDAwMDAwMDA2NjczNTk0NDExN2U1ZDI1ODkxYzc5NzExNzRiOWVlZQ==`

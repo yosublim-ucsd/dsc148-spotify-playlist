@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/324613?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-4,358 songs - 11 day 0 hr 52 min
+4,360 songs - 11 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3405,6 +3405,7 @@
 | [ナイター](https://open.spotify.com/track/1FgOb6Qz6AbI43y7AGEh7M) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [ナイター](https://open.spotify.com/album/4xs45xcNyDl8Vnhwh6sBcF) | 3:44 | 2023-04-11 | 2023-04-19 |
 | [ナイトステップ](https://open.spotify.com/track/2MbUjnMzc2yMSTXUFCpQ20) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [ナイトステップ](https://open.spotify.com/album/6eoeyAqApWFxyB3rR287uQ) | 3:12 | 2023-06-13 | 2023-06-21 |
 | [ナイトミスティパーク \- feat\. Kanna Sato](https://open.spotify.com/track/6NKVkUE6NslKKkWXPTmxNc) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM), [Kanna Sato](https://open.spotify.com/artist/33faWWzPH47L5wBC2mgh6A) | [ナイトミスティパーク \(feat\. Kanna Sato\)](https://open.spotify.com/album/3WoCl4i4YZNjCCinEbuarE) | 3:44 | 2023-09-05 | 2023-09-13 |
+| [ナイトルーティーン \(cover\)](https://open.spotify.com/track/7uzcoT2etqeHFx9BDmi87Z) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ナイトルーティーン](https://open.spotify.com/album/2NqhmEu8cBbJatVQZRfMGT) | 3:42 | 2023-12-13 |  |
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-01-31 | 2023-02-08 |
 | [ナツメクル](https://open.spotify.com/track/1K1MRN7pf8EfYGZ5f5jJUi) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ナツメクル](https://open.spotify.com/album/1RSclYVEl9nTiWomrFsYeO) | 3:15 | 2023-06-27 | 2023-06-29 |
 | [ナナ](https://open.spotify.com/track/4E2hU1R5zgWwOUPVJWaKcg) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [ナナ](https://open.spotify.com/album/48dHjHqT0WohXywOLrqshJ) | 3:11 | 2023-10-17 | 2023-10-25 |
@@ -4264,6 +4265,7 @@
 | [貴方の恋人になりたいのです \- 2023 Acoustic Ver.](https://open.spotify.com/track/0BOfGbWfgG4GP3xAsVMCgL) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Acoustic \-Self Cover Album\-](https://open.spotify.com/album/1jjyTO0caMV3odlbCjq79V) | 5:34 | 2023-09-19 | 2023-09-21 |
 | [貴方依存症](https://open.spotify.com/track/1i9rg9GEjQCrVC5PzaDOHD) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [貴方依存症](https://open.spotify.com/album/0ONjD4LBW7N5V1XC6KcjT4) | 2:36 | 2023-09-12 | 2023-09-20 |
 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 | 2023-02-07 | 2023-02-15 |
+| [赤いスイートピー \- English Jazz Ver.](https://open.spotify.com/track/7sZvxchusFfJalUdKXxxsU) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [赤いスイートピー \(English Jazz Ver.\)](https://open.spotify.com/album/3yDsynLI0UyD2U8tVp5A2Q) | 4:25 | 2023-12-13 |  |
 | [走水](https://open.spotify.com/track/0uw8Dmb7ilp6U1TNabgtX3) | [山二つ](https://open.spotify.com/artist/0VmvWJ3kETXL0UFmXYj2lB) | [走水](https://open.spotify.com/album/5j3KZK0vGCCdbFVRdBbCvm) | 6:26 | 2023-07-18 | 2023-07-20 |
 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 | 2023-12-05 | 2023-12-07 |
 | [超たちがわるい](https://open.spotify.com/track/19201Ksp0bWnO7Th03g4XO) | [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh), [J\-Rexxx](https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx), [R\-指定](https://open.spotify.com/artist/5uq2RdkXHSXNbNidpVbnFG) | [シン・おはよう日本](https://open.spotify.com/album/1TZ9oWIb713N4ufxunaCgN) | 4:36 | 2023-08-08 | 2023-08-16 |

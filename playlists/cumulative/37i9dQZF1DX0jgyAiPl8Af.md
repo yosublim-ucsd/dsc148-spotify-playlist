@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-704 songs - 1 day 6 hr 21 min
+712 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Bezmocný](https://open.spotify.com/track/4VvEgdGaEGLlKEQZM4DK6a) | [Rémy Milburn](https://open.spotify.com/artist/6PRLsFki2KLDNw9lN9mgks) | [Bezmocný](https://open.spotify.com/album/1ViR3HfRO3uaioYDIJDnsZ) | 2:31 | 2023-01-06 |  |
 | [Bilbao](https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu) | [Márcia Sanz](https://open.spotify.com/artist/27OhafNGYrZXUPoBt4TNq8) | [Bilbao](https://open.spotify.com/album/3aVPFj2cpivc3pMcpqhKHq) | 2:51 | 2021-12-08 | 2022-09-23 |
 | [Bistro Giardino](https://open.spotify.com/track/1mCs31gM8QicTlUA8dlVCp) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Bistro Giardino](https://open.spotify.com/album/6xGMmuGK2uivCTjJ7n6a2s) | 2:51 | 2022-07-22 | 2022-11-18 |
+| [Blissfully](https://open.spotify.com/track/7htKUpIce6DxgjJhOd4xoX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Blissfully](https://open.spotify.com/album/4sFH3eqtmKVo0HVlyA8hnm) | 3:16 | 2023-12-15 |  |
 | [Bloom](https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Bloom](https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8) | 2:46 | 2023-09-29 |  |
 | [Blue Bird](https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Blue Bird](https://open.spotify.com/album/5SXq73X3KJcrUIUU1t0JEa) | 2:44 | 2023-06-02 |  |
 | [Blue Something](https://open.spotify.com/track/0UmR5k7YxioGuU6V0XVPbZ) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Blue Something](https://open.spotify.com/album/5pnWzZFzYCFVcfDjx66JaC) | 3:04 | 2022-11-18 | 2023-10-13 |
@@ -271,6 +272,7 @@
 | [Homage](https://open.spotify.com/track/71tfqdOmLGrICla4lRpBAS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Homage](https://open.spotify.com/album/3hRzOvbFJZEx7zpAq3kHjd) | 1:40 | 2022-11-18 | 2023-05-13 |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-21 | 2023-08-19 |
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2021-12-08 |  |
+| [Hours](https://open.spotify.com/track/3Eg3XbufTuk9LWhkSobKlX) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Hours](https://open.spotify.com/album/35N058QZy4FlJheUK0QLEh) | 2:07 | 2023-12-15 |  |
 | [How Far Have We Come](https://open.spotify.com/track/4LUusnBFGm3yI3Su7s8kg6) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Lake Varna](https://open.spotify.com/album/3uHH0omf5CaBUkuElcX4Bk) | 1:52 | 2023-03-10 | 2023-08-19 |
 | [Hugsanir](https://open.spotify.com/track/7cD1uV5Bzk1TEaPr9mqVt1) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Hugsanir](https://open.spotify.com/album/4SaiGm2h3DkUXZUj0hqQrx) | 3:12 | 2023-03-24 |  |
 | [Hymne](https://open.spotify.com/track/2QhRwV0zmaKmOYUZlMqKPa) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Hymne](https://open.spotify.com/album/4PFGZmjWndtIukc9wFVC2W) | 2:53 | 2023-01-06 |  |
@@ -289,6 +291,7 @@
 | [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 | 2023-06-22 |  |
 | [in den Bergen](https://open.spotify.com/track/4q2wB8Fkc6R6V03oksaiaI) | [Mikkel Adler](https://open.spotify.com/artist/5m5x5QR8woru1deGCXghUD) | [Batur](https://open.spotify.com/album/7cHyo7vC3GRSFJHgCWs4Gw) | 3:59 | 2021-12-08 | 2022-02-02 |
 | [In due time](https://open.spotify.com/track/60oudaUU0seUx9WI4Dlgiz) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [In due time](https://open.spotify.com/album/5evrAlWRbv2cGh79NZeBzP) | 1:55 | 2023-05-26 | 2023-08-19 |
+| [In good company](https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [In good company](https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc) | 2:25 | 2023-12-15 |  |
 | [In Madeira](https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8) | [Emil Dahl](https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6) | [In Madeira](https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr) | 1:45 | 2022-03-25 | 2023-08-19 |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
 | [In vino veritas](https://open.spotify.com/track/6BjN3um3X3aF0xI0i29NY1) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [New Amsterdam](https://open.spotify.com/album/10FZBKArCxME3V2PB8C818) | 3:07 | 2022-07-15 | 2022-10-29 |
@@ -380,6 +383,7 @@
 | [Lovers](https://open.spotify.com/track/4KYoSAttyUqmzYisjrK8WR) | [Marc Holland](https://open.spotify.com/artist/4DxiFVzQ4xv4YqS7eow6Mn) | [Lovers](https://open.spotify.com/album/2NKE6ENQqre2SzfA4NAy8E) | 2:36 | 2021-12-08 | 2022-11-18 |
 | [Lumen](https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Lumen](https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD) | 2:36 | 2023-08-24 |  |
 | [luminous](https://open.spotify.com/track/0jR7590uCLfEK8pe8bZAMC) | [Zé Barreto](https://open.spotify.com/artist/2O6o9mCeoLTDmsYBamVWBl) | [luminous](https://open.spotify.com/album/02BK5YS4DVi2adBR0grygQ) | 3:14 | 2021-12-08 | 2022-05-11 |
+| [Lux Brumalis](https://open.spotify.com/track/2QrxZvUD1JpMLREXy3D44T) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Lux Brumalis](https://open.spotify.com/album/7xfHnRzqnzx8rQNClgi6Pm) | 2:47 | 2023-12-15 |  |
 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 | 2022-09-02 | 2023-06-16 |
 | [Madeline](https://open.spotify.com/track/0jXI8KkVrQpZaHtKOpoSJ2) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/6pq0RlmMLCrhAKPNPKobJX) | 2:10 | 2022-10-28 | 2023-05-05 |
 | [Madeline](https://open.spotify.com/track/4GNgHIkp3jZLZItPYY1vt9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2uQ9zlH6Ti2wUgPIydEaL7) | 2:10 | 2022-08-19 | 2022-11-04 |
@@ -435,6 +439,7 @@
 | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2022-09-09 | 2023-10-13 |
 | [Nascondiglio](https://open.spotify.com/track/5lz0ZF3oUGWZpt7TjdlAwf) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Nascondiglio](https://open.spotify.com/album/6dxdPL7IFCKy0f0V15eJHX) | 2:25 | 2022-10-07 | 2023-05-13 |
 | [Natural State](https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7) | [Mia Cornell](https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB) | [Natural State](https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF) | 2:24 | 2021-12-08 |  |
+| [Nebula's Lullaby](https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Nebula's Lullaby](https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo) | 2:08 | 2023-12-15 |  |
 | [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2022-06-17 |  |
 | [Nessun Dorma \- Guitar Solo](https://open.spotify.com/track/2RLqDz5ZMBzqDflhRN3Lwx) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Nessun Dorma \(Guitar Solo\)](https://open.spotify.com/album/5vvf8nmZAFJkv5giEpMm68) | 2:55 | 2022-05-27 | 2022-07-08 |
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2022-04-22 | 2023-10-13 |
@@ -482,6 +487,7 @@
 | [Pavanas](https://open.spotify.com/track/3fc3Boou33c1h65A5EK0k0) | [Alain LaFontaine](https://open.spotify.com/artist/6WyfaTdxOnKaMAseLi5McX) | [Pavanas](https://open.spotify.com/album/7aNculG2nCCrehRVP4N3Ya) | 2:19 | 2022-07-08 | 2022-07-15 |
 | [Peaberry](https://open.spotify.com/track/22BqJ4x6hb0oRhtyvToTon) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Peaberry](https://open.spotify.com/album/5eOtON3CwbqLE9lgeuROqA) | 2:49 | 2023-09-29 |  |
 | [Peace for Awhile](https://open.spotify.com/track/7rNGsE6Nrvld0AMel0QZMW) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Pure Guitar](https://open.spotify.com/album/3Kxw34FNunjYtq8fJ4HdCG) | 2:05 | 2022-05-27 | 2022-09-09 |
+| [Peaceful evenings](https://open.spotify.com/track/0nJgsQqeqEU6nYipv81Ttw) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Peaceful evenings](https://open.spotify.com/album/7irDIdlp7tl6TRe6JJdAwq) | 2:16 | 2023-12-15 |  |
 | [Pelotas](https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg) | [Maria Gastona](https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV) | [Rosa](https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7) | 2:30 | 2021-12-08 | 2022-04-22 |
 | [Perso nell'eternità](https://open.spotify.com/track/4VOlHgQsej9SOUCBdf8t3O) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Perso nell'eternità](https://open.spotify.com/album/1zQ2BBNPd5Qf7i3zkTqr1x) | 2:52 | 2022-10-28 |  |
 | [Picturesque Dreams](https://open.spotify.com/track/079RvHezHwxo9DC7FIBzf5) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Strange Trails](https://open.spotify.com/album/2vhSHo4z27kq67g7MUfDau) | 2:10 | 2022-04-22 | 2023-11-24 |
@@ -542,6 +548,7 @@
 | [Seed](https://open.spotify.com/track/3VgV3RLmCE7PrXvOjCc6sq) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Seed](https://open.spotify.com/album/7KVUNVwGXvGuNxAItcX4IH) | 3:26 | 2021-12-08 | 2022-05-27 |
 | [Seed of Perfection](https://open.spotify.com/track/0kAHMCRN2lFkDnwhedKl1M) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Seed of Perfection](https://open.spotify.com/album/3zX0E0myYc2mtjWGVJzffI) | 2:39 | 2022-08-19 | 2023-03-25 |
 | [Seerosen Teich](https://open.spotify.com/track/1DOjcrbaQbzU2zyHbBg5KM) | [Marco Tournesol](https://open.spotify.com/artist/1CpSnAYIqeAWZVDyWDqxws) | [Seerosen Teich](https://open.spotify.com/album/3Tsldk3OSEHytaICuSND55) | 2:57 | 2021-12-08 | 2022-04-06 |
+| [Sense of narrative](https://open.spotify.com/track/0KDz1JWVTq6oKKflHHlmZD) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Sense of narrative](https://open.spotify.com/album/2nAHczJyLyaoAZEMxqqwVj) | 2:00 | 2023-12-15 |  |
 | [serenades](https://open.spotify.com/track/4QI998cXoXoHhDU2tQx0mB) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [serenades](https://open.spotify.com/album/1m2P646u6G7JsazHkDgLG4) | 1:41 | 2022-07-08 | 2022-09-09 |
 | [Serene Skies](https://open.spotify.com/track/5rvvtkkXrd8jvosvE0jJj0) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Serene Skies](https://open.spotify.com/album/2u8VTwNX8BXBTGRfAQf2x6) | 2:03 | 2023-08-10 |  |
 | [Serengeti](https://open.spotify.com/track/4yoILdPVTyiwWkJQfXqshB) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Serengeti](https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ) | 2:34 | 2023-05-12 |  |
@@ -619,6 +626,7 @@
 | [The Apple](https://open.spotify.com/track/1jWtn89sIC21MvZjMAXcJr) | [Duo Acoustica](https://open.spotify.com/artist/2kMgalFxtY6wl6nnaKB3W0) | [The Apple](https://open.spotify.com/album/78HoC1Nipn2jKskrl4bxSt) | 2:56 | 2022-11-18 |  |
 | [The Bells Of Rhymney](https://open.spotify.com/track/4uL4pjAWKhOaS9uetXHyp7) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Bells Of Rhymney](https://open.spotify.com/album/5tyKJQSus9jKR43yGAiasJ) | 1:58 | 2022-05-10 | 2023-08-19 |
 | [The Bird's Nest](https://open.spotify.com/track/1tY1E5TeQj4kcZVQQZLUqx) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [The Bird's Nest](https://open.spotify.com/album/1rFbbm5Ms87iwZR8gVgkUw) | 2:48 | 2022-07-01 | 2022-09-23 |
+| [The Bloomer Stars](https://open.spotify.com/track/4d4w8iA84Zvsf0TtyrDqpZ) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The Bloomer Stars](https://open.spotify.com/album/6zdqiQXuoGXKt5FlJDowmq) | 2:39 | 2023-12-15 |  |
 | [The Distant Echo](https://open.spotify.com/track/7dRtgpbpGUqOOQir25wm02) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [The Distant Echo](https://open.spotify.com/album/5xdr7fV5vsaLMgi8PArvGP) | 1:42 | 2022-11-18 | 2023-06-03 |
 | [The Highland](https://open.spotify.com/track/34fmLyZjHRr1iQQacMd6hn) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [At The Break Of Dawn](https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q) | 3:00 | 2021-12-08 | 2022-09-09 |
 | [The Hourglass](https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Hourglass](https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK) | 2:14 | 2022-12-16 |  |

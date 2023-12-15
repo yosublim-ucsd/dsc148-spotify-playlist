@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Jeanne Bonjour
+> The best French indie tracks right now\. Cover : Silly Boy Blue
 
-431 songs - 23 hr 37 min
+433 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Acapulco](https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Acapulco](https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI) | 3:05 | 2022-06-30 | 2023-03-25 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-10 | 2022-12-24 |
 | [Aidono](https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Aidono](https://open.spotify.com/album/5bYpJJqFRDseDSQ0z4vI0T) | 3:50 | 2022-11-10 | 2023-01-20 |
+| [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 | 2023-12-14 |  |
 | [Allo réseau \- Edit](https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Allo réseau \(Edit\)](https://open.spotify.com/album/5QwhFSw4107w2onum379QT) | 3:05 | 2021-12-16 | 2022-04-22 |
 | [Alma](https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Alma](https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he) | 3:40 | 2022-04-07 | 2022-10-14 |
 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 | 2022-06-02 | 2022-09-09 |
@@ -98,7 +99,7 @@
 | [Don't Wait For Me](https://open.spotify.com/track/3NMtxjqI71lyj1V0TkPwVR) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Don't Wait For Me](https://open.spotify.com/album/4oDHowJIOTQIHqVH6ZkJVG) | 2:58 | 2022-05-12 | 2022-06-17 |
 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-10-26 | 2023-12-01 |
 | [Dormir debout](https://open.spotify.com/track/4AKhnlPFlznenlPgWzSfBw) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Dormir debout](https://open.spotify.com/album/6TsNsHp2zPycXn1lpvM6jg) | 2:54 | 2023-05-25 | 2023-06-16 |
-| [Doucement](https://open.spotify.com/track/7CryBekeeP8H2xrkkOQ7y2) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Doucement](https://open.spotify.com/album/5uUjeCBEOZglFeYSo6ehIG) | 2:24 | 2023-10-05 |  |
+| [Doucement](https://open.spotify.com/track/7CryBekeeP8H2xrkkOQ7y2) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Doucement](https://open.spotify.com/album/5uUjeCBEOZglFeYSo6ehIG) | 2:24 | 2023-10-05 | 2023-12-15 |
 | [DOWN BY YOU](https://open.spotify.com/track/5fagnXIy20bLyP4XoIXOwV) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DOWN BY YOU](https://open.spotify.com/album/2AaP0Nw0YjC1UFDMFT3l2X) | 3:04 | 2023-09-28 | 2023-10-27 |
 | [Draw The Line](https://open.spotify.com/track/0CBPfpPRbJSJBiwwB4iba9) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1), [JoshSimmons](https://open.spotify.com/artist/0JFppXf80RNwxZ2nrtdh4H) | [Draw The Line](https://open.spotify.com/album/4UJYP88mzdccx0buZsNUzM) | 2:37 | 2023-06-01 | 2023-07-07 |
 | [Drôle d'idée](https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Drôle d'idée](https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h) | 2:37 | 2021-12-16 | 2022-06-10 |
@@ -316,7 +317,7 @@
 | [Postcards & Letters](https://open.spotify.com/track/1ki4jngOmaHbmyHoSABAhR) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp) | [Postcards & Letters](https://open.spotify.com/album/3ss4bwz8F6bI47Ahvm5HCv) | 4:03 | 2021-12-16 | 2022-04-15 |
 | [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 | 2022-09-22 | 2023-09-01 |
 | [Premier Incendie \- Edit](https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Premier Incendie \(Edit\)](https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv) | 3:01 | 2022-02-17 | 2022-05-13 |
-| [Premonitions](https://open.spotify.com/track/7hNRsJNe5XSRm8TI4QuZi8) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Premonitions](https://open.spotify.com/album/6aeZHE4ppb4tCzNlDTH91i) | 3:41 | 2023-11-02 |  |
+| [Premonitions](https://open.spotify.com/track/7hNRsJNe5XSRm8TI4QuZi8) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Premonitions](https://open.spotify.com/album/6aeZHE4ppb4tCzNlDTH91i) | 3:41 | 2023-11-02 | 2023-12-15 |
 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 | 2022-05-19 | 2022-07-01 |
 | [Puzzle](https://open.spotify.com/track/0pg4HD7aOTTYAbv1zsskFc) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Puzzle](https://open.spotify.com/album/3AQlnAfSMYUs5z4Mmru4CY) | 3:28 | 2023-03-09 | 2023-10-06 |
 | [Qu'est\-ce que j'y peux](https://open.spotify.com/track/7ovsYgRg8uaBuhIeONj1Jm) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Qu'est\-ce que j'y peux](https://open.spotify.com/album/2lXxEzMqi73YHiFywsxz3k) | 3:08 | 2023-11-16 | 2023-12-08 |
@@ -363,6 +364,7 @@
 | [Sparks](https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Eternal Lover](https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX) | 3:42 | 2023-05-11 |  |
 | [Start over](https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [YUMA](https://open.spotify.com/album/2vWf2mPJe2KIsQxyEmablS) | 3:31 | 2023-06-01 |  |
 | [Stay](https://open.spotify.com/track/7jkJWgGqpS8QrkibLlfMhz) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Stay](https://open.spotify.com/album/6DizoLGqfn6IXI4xk3yDwU) | 3:29 | 2022-10-13 | 2023-01-20 |
+| [Stay Tonight](https://open.spotify.com/track/2cQEVcWkIBoOPk2e6Wtgo7) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Stay Tonight](https://open.spotify.com/album/5FmKYqoVguD3KLINAfW9sn) | 2:41 | 2023-12-14 |  |
 | [Störm](https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi) | [Black Lilys](https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH) | [Störm](https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8) | 4:24 | 2022-04-14 | 2022-06-03 |
 | [Suddenly](https://open.spotify.com/track/72SCXk45WjDEHZSFjedoxx) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Suddenly](https://open.spotify.com/album/6jdkk8PtJCXpKnaMVeYhZ6) | 2:46 | 2023-10-19 |  |
 | [Summer Song](https://open.spotify.com/track/7mJeABldzfdo4aBmTLYqPq) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Summer Song](https://open.spotify.com/album/0bfoUIARISlCk2tGnJFRhd) | 2:53 | 2023-06-22 | 2023-10-06 |

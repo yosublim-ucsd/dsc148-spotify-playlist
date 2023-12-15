@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-81 songs - 7 hr 4 min
+82 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Es por Amor](https://open.spotify.com/track/7qxtwOk7ePRURULyXarzcY) | [Álvaro López](https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv), [Resq Band](https://open.spotify.com/artist/4Jlicahon7H3brjY6BqI1W), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sol Detente](https://open.spotify.com/album/4dKg3gO30DIdyaUEFWBHi0) | 4:55 | 2022-09-14 | 2022-10-11 |
 | [Esa Es La Razón \- Live](https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Esa Es La Razón \(Live\)](https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf) | 6:35 | 2023-11-10 |  |
 | [Estás Aquí](https://open.spotify.com/track/3PfeHVs2TwHtE1xeWvkrRw) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Estás Aquí](https://open.spotify.com/album/71kn6BrX7wojfsC5UeBbxn) | 5:21 | 2023-04-29 | 2023-05-26 |
+| [Exaltado Estas](https://open.spotify.com/track/0k6gGvr8QN8Pa8AffUZQmK) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Babies \(Musica para bebes\)](https://open.spotify.com/album/7a3R6BXHJSGQqwFoswzH2O) | 5:00 | 2023-12-14 |  |
 | [Exaltado Estas \(En Vivo\) \[feat\. Marco Barrientos\]](https://open.spotify.com/track/2o2alg3IL3k2qWyo8dDIOF) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:10 | 2022-09-14 |  |
 | [Fiesta \(En Vivo\)](https://open.spotify.com/track/7lBkUdbFVA1qXHP0hpVrIu) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 4:16 | 2022-09-14 |  |
 | [Glorificate](https://open.spotify.com/track/5IgyeqmhQwYvaztSsPH71W) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 2:05 | 2022-09-14 |  |
@@ -86,7 +87,7 @@
 | [Vivo Para Adorarte](https://open.spotify.com/track/7tMF8vNNCch6Fxbxex4ewn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:45 | 2022-09-14 | 2023-12-14 |
 | [Yeshua el Sonido de Libertad](https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Yeshua el Sonido de Libertad](https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0) | 5:23 | 2022-11-18 |  |
 | [Yo Iré](https://open.spotify.com/track/6AaawfHLnIerBSX3TuTRid) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 3:48 | 2022-09-14 |  |
-| [Yo Iré / Soy Feliz \(En Vivo\)](https://open.spotify.com/track/6eQAS1mIHgKxvSNJ8WmQrg) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 5:31 | 2023-06-15 |  |
+| [Yo Iré / Soy Feliz \(En Vivo\)](https://open.spotify.com/track/6eQAS1mIHgKxvSNJ8WmQrg) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 5:31 | 2023-06-15 | 2023-12-15 |
 | [Yo Venceré](https://open.spotify.com/track/6q8gNL44VMVDo4rx6wF8nC) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Dios Es Real](https://open.spotify.com/album/5nEf1gMQ9Vc9r1AczrRR1A) | 7:48 | 2022-09-14 |  |
 | [Óleo De Alegría \(feat\. Ovidio Barrios\)](https://open.spotify.com/track/56W5sxRrdEjCgAO0ZrWWVK) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Ovidio Barrios](https://open.spotify.com/artist/2CbtwylZWjiihnTSvxWCZw) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:41 | 2022-09-20 |  |
 

@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 41730,
+  "num_followers": 41734,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
+      "added_at": "2023-02-28 04:34:35",
+      "album": {
+        "name": "Shake & Bake",
+        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+      },
+      "artists": [
+        {
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+        }
+      ],
+      "duration_ms": 280822,
+      "name": "Shake & Bake",
+      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+    },
+    {
       "added_at": "2023-05-25 19:15:17",
       "album": {
         "name": "Luna Villera",
@@ -1321,20 +1337,20 @@
       "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
     },
     {
-      "added_at": "2023-02-28 04:34:35",
+      "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Shake & Bake",
-        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
       },
       "artists": [
         {
-          "name": "King Edi K",
-          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
         }
       ],
-      "duration_ms": 280822,
-      "name": "Shake & Bake",
-      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1351,22 +1367,6 @@
       "duration_ms": 225546,
       "name": "Thai Cumbia",
       "url": "https://open.spotify.com/track/4nwvjS6LoAXGtQnvJKJuMY"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lazalypso",
-      "url": "https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cosmic Wacho",
-        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 189574,
-      "name": "Ninfa de la Villa",
-      "url": "https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Cumbia Beat Volume 1",
         "url": "https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 175906,
       "name": "Mi Gran Noche",
       "url": "https://open.spotify.com/track/7Ce3RwQrxYwih27gpRjJhE"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cosmic Wacho",
+        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 189574,
+      "name": "Ninfa de la Villa",
+      "url": "https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1527,22 +1527,6 @@
       "duration_ms": 411040,
       "name": "Guaracha U.F.O (No Estamos Solos...)",
       "url": "https://open.spotify.com/track/5A8XYp8wXZD5Y3gQlZp81h"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Los Miticos del Ritmo",
-        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
-      "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
     },
     {
       "added_at": "2023-02-14 03:09:22",
@@ -1579,6 +1563,22 @@
       "duration_ms": 169746,
       "name": "El Bicho",
       "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
+      "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1629,22 +1629,6 @@
       "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
     },
     {
-      "added_at": "2023-06-30 15:09:39",
-      "album": {
-        "name": "Voltaje Raizal",
-        "url": "https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw"
-      },
-      "artists": [
-        {
-          "name": "Rizomagic",
-          "url": "https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt"
-        }
-      ],
-      "duration_ms": 316077,
-      "name": "\u00d1oco\u00f1oco",
-      "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Paganismo",
@@ -1679,18 +1663,34 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "The Roots of Chicha 2",
-        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
       },
       "artists": [
         {
-          "name": "Manzanita",
-          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Paga la Cuenta Sinverguenza",
-      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
+      "duration_ms": 174640,
+      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
+      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
+    },
+    {
+      "added_at": "2023-06-30 15:09:39",
+      "album": {
+        "name": "Voltaje Raizal",
+        "url": "https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw"
+      },
+      "artists": [
+        {
+          "name": "Rizomagic",
+          "url": "https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt"
+        }
+      ],
+      "duration_ms": 316077,
+      "name": "\u00d1oco\u00f1oco",
+      "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"
     }
   ],
   "unique_name": "TROPILOCO",

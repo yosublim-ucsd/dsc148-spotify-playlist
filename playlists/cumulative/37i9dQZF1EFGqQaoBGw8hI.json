@@ -4645,6 +4645,24 @@
     },
     {
       "album": {
+        "name": "I'm Still Standing",
+        "url": "https://open.spotify.com/album/7fUQQWrM4We8t2kcsyIe4h"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182920,
+      "name": "I'm Still Standing",
+      "url": "https://open.spotify.com/track/6bn12F3UPvNnJjJvXXbDIw"
+    },
+    {
+      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -4656,7 +4674,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 183440,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
@@ -7543,6 +7561,28 @@
     },
     {
       "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/2uOWm2VPKwF1TbczSVbbC7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235960,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/38AaGaTV3TTKYkFIg1Hr2P"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa"
       },
@@ -7558,7 +7598,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 322960,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/1relIAfP5Dn2cihAHv1efL"

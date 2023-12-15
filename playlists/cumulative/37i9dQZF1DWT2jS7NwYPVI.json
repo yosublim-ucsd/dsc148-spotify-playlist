@@ -6004,10 +6004,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 154333,
       "name": "Chewed Up",
       "url": "https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA"
+    },
+    {
+      "album": {
+        "name": "Chewed Up",
+        "url": "https://open.spotify.com/album/5ZUguAVzSt5Yz8toCv7KGX"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Chewed Up",
+      "url": "https://open.spotify.com/track/6hz0UeyredFZmDkfDvtEkU"
     },
     {
       "album": {

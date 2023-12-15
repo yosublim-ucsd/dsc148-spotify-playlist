@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,454 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,458 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 22 | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3) | 2:57 |
 | 23 | [Blue](https://open.spotify.com/track/6XnN3odDNIC7ALIxEEkjQq) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Blue](https://open.spotify.com/album/3F7Zw02ymEuJu1fLZl4Yf2) | 3:03 |
 | 24 | [Infame](https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Infame](https://open.spotify.com/album/5ajNNK3Yk53P8040QnuhOT) | 4:10 |
-| 25 | [Diz Pra Mim](https://open.spotify.com/track/2yHsmCovu6tuaq2avIKcz2) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Ao Vivo Em Paranavaí \- Vol\. 1](https://open.spotify.com/album/4jgS1WLCGvyeCtxQjJB2Ob) | 3:33 |
+| 25 | [Diz Pra Mim](https://open.spotify.com/track/5HdSXcnJZXf871r9Om6Ra0) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd) | 3:33 |
 | 26 | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/track/41ATRo4jo08OFfyRPU77Y3) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Power to Play \(Deluxe\)](https://open.spotify.com/album/6twHmY6QETLwAp4oMBRAp8) | 3:05 |
 | 27 | [Um Drink no Inferno](https://open.spotify.com/track/1ZIL3n6FyzFWOz0fHb0SUu) | [Pappa Jack](https://open.spotify.com/artist/5j8yCUAAtRgPbW98Eym3oo), [Igor Godoi](https://open.spotify.com/artist/6nx3QzI1c2xmdV8BrINtmG) | [Volume 1](https://open.spotify.com/album/1ueUmJn1wDaxpWZFzH1xJc) | 3:20 |
 | 28 | [Gigante](https://open.spotify.com/track/41T7H4623zni8AgZ37dIif) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/5lngOd9ckmPOL4xwcbkotM) | 3:57 |

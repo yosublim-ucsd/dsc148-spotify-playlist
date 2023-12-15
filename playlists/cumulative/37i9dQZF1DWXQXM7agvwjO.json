@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Bubble Tea and Cigarettes",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Elephant Gym (Taiwan)",
   "name": ".ORG",
   "tracks": [
     {
@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 245300,
       "name": "A Weekend Song for Me and You",
       "url": "https://open.spotify.com/track/6U7OAuBeJuAsx3zpDDABWW"
@@ -6800,7 +6800,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 262548,
       "name": "Happy Prince",
       "url": "https://open.spotify.com/track/3iQNce2vHa8N9M4uPYOsiT"
@@ -8730,7 +8730,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 298388,
       "name": "Intruder",
       "url": "https://open.spotify.com/track/6ksDpdIAvw6tXUV8oKEYIx"
@@ -11394,7 +11394,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 186577,
       "name": "Mr. Streetboy",
       "url": "https://open.spotify.com/track/63TccNreszvD0ySqpH6N6C"
@@ -11666,6 +11666,28 @@
       "duration_ms": 201642,
       "name": "Nadia",
       "url": "https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9"
+    },
+    {
+      "album": {
+        "name": "World",
+        "url": "https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        },
+        {
+          "name": "Seiji Kameda",
+          "url": "https://open.spotify.com/artist/4gxF6fznAjW2jjDzjZrOka"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196077,
+      "name": "Name",
+      "url": "https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj"
     },
     {
       "album": {
@@ -12346,7 +12368,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 188060,
       "name": "ONCE UPON ANOTHER TIME",
       "url": "https://open.spotify.com/track/09tosvSuf6ekm2NtMFD2cU"
@@ -12733,6 +12755,24 @@
     },
     {
       "album": {
+        "name": "Retune",
+        "url": "https://open.spotify.com/album/1b3UJcVwDhtbllbnAB5l9q"
+      },
+      "artists": [
+        {
+          "name": "\u5b88\u591c\u4eba",
+          "url": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225070,
+      "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/0ncyk8m3pWbzpWHRN5vk16"
+    },
+    {
+      "album": {
         "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA"
       },
@@ -12820,6 +12860,28 @@
       "duration_ms": 191538,
       "name": "Pastries",
       "url": "https://open.spotify.com/track/3aZxmDaau281Xp5KKcPYy0"
+    },
+    {
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6"
+      },
+      "artists": [
+        {
+          "name": "Just Bee",
+          "url": "https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx"
+        },
+        {
+          "name": "David Boring",
+          "url": "https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm"
     },
     {
       "album": {
@@ -14947,6 +15009,24 @@
     },
     {
       "album": {
+        "name": "Something In The Air",
+        "url": "https://open.spotify.com/album/0RGou0LZUtmH1aPoZgUPkA"
+      },
+      "artists": [
+        {
+          "name": "Powloh",
+          "url": "https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249767,
+      "name": "Something In The Air",
+      "url": "https://open.spotify.com/track/2yWcxvTuEoMnSeeylrDKse"
+    },
+    {
+      "album": {
         "name": "(image for) drawing on canvas",
         "url": "https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg"
       },
@@ -15594,7 +15674,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 215248,
       "name": "Summer",
       "url": "https://open.spotify.com/track/5r7f3btFkWiFJDazAIHOEB"
@@ -16017,6 +16097,24 @@
     },
     {
       "album": {
+        "name": "Swans",
+        "url": "https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "Swans",
+      "url": "https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm"
+    },
+    {
+      "album": {
         "name": "Sweater Kleptomaniac",
         "url": "https://open.spotify.com/album/10rhK8UDz3RyHarFgnBA83"
       },
@@ -16166,6 +16264,24 @@
       "duration_ms": 227301,
       "name": "Taken",
       "url": "https://open.spotify.com/track/0dDgHiRigu5x81GYhIPF2R"
+    },
+    {
+      "album": {
+        "name": "turnaround (10th Anniversary Re-Recording)",
+        "url": "https://open.spotify.com/album/2XZls1ZAs7LqA55pgNffGW"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u9152\u5410\u5ea7(Tokyo Shoegazer)",
+          "url": "https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353023,
+      "name": "Tasogare Perspective",
+      "url": "https://open.spotify.com/track/6brNws9ckOQ2WEPZXi6ZxQ"
     },
     {
       "album": {

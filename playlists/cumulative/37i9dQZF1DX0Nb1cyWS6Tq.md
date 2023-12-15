@@ -4,7 +4,7 @@
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-278 songs - 21 hr 2 min
+279 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Kangaroo \(Remastered\)](https://open.spotify.com/track/1HdIqEOl9MxoJNsz33VOvW) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/6D6C7jGsJdzJpcEaMcxswR) | 3:29 | 2021-10-15 | 2022-07-29 |
 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 | 2021-10-15 |  |
 | [Kick in the Eye](https://open.spotify.com/track/0Rrjl5kOxStwevpiiuDhDW) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/378ahhobt690RQEsyD8DaK) | 3:40 | 2021-10-15 | 2022-07-29 |
-| [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 | 2021-10-15 |  |
+| [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 | 2021-10-15 | 2023-12-15 |
 | [Laura](https://open.spotify.com/track/7CGJ8bX9yCRYaBjECFs4QY) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [From Gehenna To Here](https://open.spotify.com/album/6MHq62strb5rUYlXwqzwDR) | 3:52 | 2021-10-15 | 2022-04-17 |
 | [Lions](https://open.spotify.com/track/5da1FAYjU6rxJCtC7I485I) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/2HLe3MOLEKEhuGIbrGSN3i) | 3:58 | 2021-10-15 | 2022-07-19 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2021-10-15 |  |
@@ -251,6 +251,7 @@
 | [The Passion of Lovers](https://open.spotify.com/track/3BnW7igjh4qezy645pckgX) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/378ahhobt690RQEsyD8DaK) | 3:52 | 2021-10-15 | 2022-07-29 |
 | [The Right Moment](https://open.spotify.com/track/02u5KdFqXyYJlNXwEd0Ujf) | [Coreysan](https://open.spotify.com/artist/2xczNVLB4Ihs3PhlMAkwqf) | [Deeper Than Skin](https://open.spotify.com/album/6xUJymzxlkYQ3epdQ0Z3r6) | 4:02 | 2021-10-15 | 2022-04-18 |
 | [The Sanity Assassin](https://open.spotify.com/track/3YOq3S4v776CYTWru41U4V) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Burning From The Inside](https://open.spotify.com/album/7f94C8L3mdtdSZzQ0rH8nV) | 4:05 | 2021-10-15 | 2022-07-29 |
+| [The Sanity Assassin](https://open.spotify.com/track/57QSyj5zCax7vmsbALbRpl) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Burning from the Inside](https://open.spotify.com/album/7oaHUMs14oldwahz1WaVaR) | 4:05 | 2021-10-15 |  |
 | [The Shadow Of Love](https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria](https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2) | 3:49 | 2021-10-15 |  |
 | [The Shadow Of Love](https://open.spotify.com/track/5RpauKfTbXLIbFVvYH0Z8e) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria \(Remastered & Expanded\)](https://open.spotify.com/album/2dKQ3SMVtgHps9Tu6sIpDQ) | 3:52 | 2021-10-15 | 2022-07-29 |
 | [The Silver Threshold](https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA) | [hackedepicciotto](https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s) | [The Silver Threshold](https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv) | 4:16 | 2022-03-11 | 2022-07-29 |

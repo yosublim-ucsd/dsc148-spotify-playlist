@@ -2,7 +2,7 @@
 
 ### [Morning Motivation](https://open.spotify.com/playlist/37i9dQZF1DXc5e2bJhV6pu)
 
-> 
+> Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
 1,453 songs - 3 day 10 hr 26 min
 

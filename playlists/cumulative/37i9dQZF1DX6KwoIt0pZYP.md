@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-788 songs - 1 day 19 hr 10 min
+789 songs - 1 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [High Forever](https://open.spotify.com/track/6Mm7Z7dy3BEWxfe83jGDK6) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM) | [High Forever](https://open.spotify.com/album/1bx0R8DQSEriOR0xDHPmzh) | 3:02 | 2022-09-12 | 2022-09-27 |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-12 |  |
 | [High Water](https://open.spotify.com/track/0A7HEkQfNEe9bjg2x2VpNG) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [High Water](https://open.spotify.com/album/5PSNHuNaxZZABd6Lqs2vNP) | 4:11 | 2022-03-29 | 2022-04-21 |
+| [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 | 2023-12-08 |  |
 | [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 | 2023-10-06 | 2023-11-18 |
 | [Holding On \(to me\)](https://open.spotify.com/track/14yuV4Bo8csljf4SMRKRkg) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [Holding On \(to me\)](https://open.spotify.com/album/1pIv4AY3aQ7eqK3wjVtphV) | 3:59 | 2022-07-22 | 2022-08-13 |
 | [holly's ego](https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [blood lotus diary](https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK) | 3:16 | 2022-03-04 | 2022-07-28 |
@@ -772,7 +773,7 @@
 | [Worry](https://open.spotify.com/track/5c3I2e3j6HT1z9Kvh9PZ0X) | [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Worry](https://open.spotify.com/album/3oMFAfDIjrbrLXBjoiFRrC) | 4:25 | 2023-03-02 | 2023-03-10 |
 | [worst of me](https://open.spotify.com/track/1gfoaJKL6eZDr4w7lyboHc) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [worst of me](https://open.spotify.com/album/0uXaZ9LlHXSujIm7HhpONn) | 2:37 | 2022-01-28 | 2022-07-25 |
 | [worth it](https://open.spotify.com/track/6cBcNlf0IXnS1TXnwRtBsO) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY) | [BLUE.](https://open.spotify.com/album/2rmN4DkOxAUWcOzsb6pbaf) | 3:08 | 2022-03-29 | 2022-05-11 |
-| [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-02 |  |
+| [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-02 | 2023-12-15 |
 | [x's & o's \(feat\. DCMBR\)](https://open.spotify.com/track/05xoDw96h6t1adyZRpKm2R) | [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/4Fg6FrucbxgWym0hdmwXFF) | 2:48 | 2022-05-27 | 2022-06-18 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-17 |  |
 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 | 2022-01-28 | 2023-08-12 |

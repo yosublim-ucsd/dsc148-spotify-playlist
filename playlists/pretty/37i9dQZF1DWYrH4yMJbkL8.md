@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Shawnee Kish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,774 likes - 28 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,781 likes - 28 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

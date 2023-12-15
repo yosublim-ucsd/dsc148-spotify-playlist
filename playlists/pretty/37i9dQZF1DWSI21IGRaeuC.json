@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 30724,
+  "num_followers": 30752,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "U Won't See Me",
-        "url": "https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
       },
       "artists": [
         {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         },
         {
-          "name": "Mystic Bill",
-          "url": "https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV"
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
         }
       ],
-      "duration_ms": 186046,
-      "name": "U Won't See Me",
-      "url": "https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY"
+      "duration_ms": 337000,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "U Won't See Me",
+        "url": "https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        },
+        {
+          "name": "Mystic Bill",
+          "url": "https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV"
+        }
+      ],
+      "duration_ms": 186046,
+      "name": "U Won't See Me",
+      "url": "https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Space Bump",
         "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        }
-      ],
-      "duration_ms": 337000,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Dusty Showbiz",
         "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Whispers In The Wind",
         "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "I Am Somebody",
         "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+        "name": "Single Kiss",
+        "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Salom\u00e9 Le Chat",
+          "url": "https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV"
         }
       ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+      "duration_ms": 232000,
+      "name": "Single Kiss",
+      "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "TAKE ME HIGH",
-        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220531,
-      "name": "TAKE ME HIGH",
-      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Single Kiss",
-        "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
       },
       "artists": [
         {
-          "name": "Salom\u00e9 Le Chat",
-          "url": "https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Single Kiss",
-      "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bahr",
+          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "take notes. EP",
         "url": "https://open.spotify.com/album/4d1zqT0iOuJUG5ZLDGRvJN"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 195348,
       "name": "take notes.",
       "url": "https://open.spotify.com/track/58J7fIZAgLrCwqpucV2JKG"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bahr",
-          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Take",
-      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Lucky Bastard",
+        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Lucky Bastard",
+      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/3071HCpBw7F9QvLMYV31Jq"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Lucky Bastard",
-        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Lucky Bastard",
-      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Really Really Hot",
         "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 232133,
       "name": "Really Really Hot",
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "The Good, the Bad & the Acid",
+        "url": "https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 349565,
+      "name": "The Good, the Bad & the Acid",
+      "url": "https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 164340,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "The Good, the Bad & the Acid",
-        "url": "https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 349565,
-      "name": "The Good, the Bad & the Acid",
-      "url": "https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1523,46 +1523,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Connect the Dots",
-        "url": "https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj"
+        "name": "Thrill Me (LO'99 Remix)",
+        "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
       },
       "artists": [
         {
-          "name": "Dilby",
-          "url": "https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36"
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
         },
         {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Gorge",
-          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
         }
       ],
-      "duration_ms": 403772,
-      "name": "Connect the Dots - Oliver Schories & Gorge Remix",
-      "url": "https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Music4TheMasses (Andrea Oliva Remix)",
-        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 187652,
-      "name": "Music4TheMasses - Andrea Oliva Remix",
-      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+      "duration_ms": 186018,
+      "name": "Thrill Me - LO'99 Remix",
+      "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1587,22 +1563,46 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Thrill Me (LO'99 Remix)",
-        "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
+        "name": "Music4TheMasses (Andrea Oliva Remix)",
+        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
       "artists": [
         {
-          "name": "Junior Jack",
-          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
         },
         {
-          "name": "LO'99",
-          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
         }
       ],
-      "duration_ms": 186018,
-      "name": "Thrill Me - LO'99 Remix",
-      "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
+      "duration_ms": 187652,
+      "name": "Music4TheMasses - Andrea Oliva Remix",
+      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Connect the Dots",
+        "url": "https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj"
+      },
+      "artists": [
+        {
+          "name": "Dilby",
+          "url": "https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36"
+        },
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Gorge",
+          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
+        }
+      ],
+      "duration_ms": 403772,
+      "name": "Connect the Dots - Oliver Schories & Gorge Remix",
+      "url": "https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "winter '23",
+        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "buss it.",
+      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Azabache",
         "url": "https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 210932,
       "name": "Clapped",
       "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "winter '23",
-        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "buss it.",
-      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
     },
     {
       "added_at": "2023-12-08 05:00:00",

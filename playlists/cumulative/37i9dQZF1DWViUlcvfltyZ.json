@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Stunt Pilots",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: OMINI",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -3087,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "Djoser's Pyramid",
+        "url": "https://open.spotify.com/album/7765uzSqb8iUqlq4iOaqKT"
+      },
+      "artists": [
+        {
+          "name": "The Singer is Dead",
+          "url": "https://open.spotify.com/artist/21bN775otWRD0ldHpVqXHK"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387805,
+      "name": "Djoser's Pyramid",
+      "url": "https://open.spotify.com/track/21fEm7v8C7KCboQ3UD95uH"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/1pH8NNZryuGdbX3Wq6vAsN"
       },
@@ -3192,6 +3210,24 @@
       "duration_ms": 144686,
       "name": "DPCM",
       "url": "https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM"
+    },
+    {
+      "album": {
+        "name": "Dr\u00f6na",
+        "url": "https://open.spotify.com/album/1OP7wSDkO9wMspnp1YGFPc"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Dr\u00f6na",
+      "url": "https://open.spotify.com/track/0DSBc3B5lMjvgVKeeB6grQ"
     },
     {
       "album": {
@@ -4810,7 +4846,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 206091,
       "name": "Hunters Of Hope",
       "url": "https://open.spotify.com/track/4cl1EbCu1f5nZnFoxegWib"
@@ -4846,7 +4882,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 170000,
       "name": "I Cinici",
       "url": "https://open.spotify.com/track/36YiEcKhYLgyoPTe7LBl60"
@@ -6408,7 +6444,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 144548,
       "name": "Malinconica movida",
       "url": "https://open.spotify.com/track/4M5NGsrP3FBE59KlEwv7KV"
@@ -7781,6 +7817,24 @@
     },
     {
       "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149835,
+      "name": "OFF MY FACE",
+      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
+    },
+    {
+      "album": {
         "name": "Ok boomer (feat. Brunori Sas)",
         "url": "https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg"
       },
@@ -7832,7 +7886,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 188428,
       "name": "Oncetime",
       "url": "https://open.spotify.com/track/4bC4hPbLPwbF4d42ff3dfY"
@@ -8218,7 +8272,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 157792,
       "name": "Perch\u00e9 mi guardi?",
       "url": "https://open.spotify.com/track/7uUtgLyVinzi1pcnAbvtqF"
@@ -8272,7 +8326,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 195186,
       "name": "Piccoli fuochi",
       "url": "https://open.spotify.com/track/3948BtXvNRZgyOB1saVXHf"
@@ -9796,7 +9850,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 193689,
       "name": "Siamo troppi",
       "url": "https://open.spotify.com/track/1x36IsGDXJmhIZwuwPFcmA"
@@ -10750,7 +10804,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 270586,
       "name": "The Botanist",
       "url": "https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L"

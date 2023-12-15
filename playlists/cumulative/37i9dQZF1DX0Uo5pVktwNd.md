@@ -2,9 +2,9 @@
 
 ### [Indipop Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DX0Uo5pVktwNd)
 
-> Throwback to the golden age of Indian pop\. Cover \- Piya Basanti
+> Throwback to the golden age of Indian pop\. Cover \- Daler Mehndi
 
-94 songs - 7 hr 48 min
+95 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Duur](https://open.spotify.com/track/5Gl780bmLH2msWJ8kgCINq) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 5:07 | 2022-04-11 |  |
 | [Gori](https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 4:12 | 2022-12-29 | 2023-04-22 |
 | [Gur Nalon Ishq Mitha](https://open.spotify.com/track/5h9f2B6A7V4k50j1UtrSBD) | [Bally Sagoo](https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [Dance Connection \- The Compilation](https://open.spotify.com/album/7H8XVQxSBwZnBPZlHwxwiI) | 11:43 | 2023-02-13 |  |
-| [Ho Gayi Hai Mohabbat Tumse](https://open.spotify.com/track/5EAE2BxFMZVLFkHtKbXVMf) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Ho Gayi Hai Mohabbat Tumse \- Single](https://open.spotify.com/album/6rbBQzYNhPr7bOSpHK4tsI) | 4:38 | 2022-04-11 |  |
+| [Ho Gayi Hai Mohabbat Tumse](https://open.spotify.com/track/5EAE2BxFMZVLFkHtKbXVMf) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Ho Gayi Hai Mohabbat Tumse \- Single](https://open.spotify.com/album/6rbBQzYNhPr7bOSpHK4tsI) | 4:38 | 2022-04-11 | 2023-12-15 |
+| [Ho Jayegi Balle Balle](https://open.spotify.com/track/6ZdUoU3nGE4elsw4HSu5fu) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ho Jayegi Balle Balle](https://open.spotify.com/album/3GRXDOkaGugQQWm0dQgdxM) | 4:49 | 2023-12-14 |  |
 | [Hum \(Rok Sako Toh Rok Lo\)](https://open.spotify.com/track/6fvPWnXJ2F0yGAOXU1dCqa) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 3:10 | 2022-04-11 | 2022-12-30 |
 | [Jaana Hai Bollywood](https://open.spotify.com/track/09XIRSKpHvEPycP8pn3k3i) | [Models](https://open.spotify.com/artist/7rH3S7xMKRVSr0JrpqTUIZ) | [Jaana Hai Bollywood](https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx) | 4:50 | 2022-12-29 | 2023-03-16 |
 | [Jalwa](https://open.spotify.com/track/1alHWqMJiedYnajPifNBzQ) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Tunak Tunak Tun](https://open.spotify.com/album/0xEUOENXKtOMg0BVr34jur) | 4:53 | 2022-12-29 | 2023-04-22 |
@@ -64,7 +65,7 @@
 | [Maine Payal Hai Chhankai](https://open.spotify.com/track/6FOfGe6Y8kOwEiRTIMqx3F) | [Falguni Pathak](https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv) | [Maine Payal Hai Chhankai](https://open.spotify.com/album/20MpgikKnMlrmfpcW6QdgV) | 4:38 | 2022-06-01 | 2022-11-14 |
 | [Maine Payal Hai Chhankai](https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU) | [Falguni Pathak](https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv) | [Maine Payal Hai Chhankai & Other Hits](https://open.spotify.com/album/4qahs4ZSSw4yVX6HIghALw) | 4:39 | 2022-06-01 |  |
 | [Mehndi Ki Raat](https://open.spotify.com/track/6yyC676TchwgOyhVfOykxA) | [Models](https://open.spotify.com/artist/7rH3S7xMKRVSr0JrpqTUIZ) | [Jaana Hai Bollywood](https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx) | 4:23 | 2022-12-14 | 2023-04-22 |
-| [Mere Laung Gawacha](https://open.spotify.com/track/53rlGWkMhyyAsgz8EcX5Yg) | [Bally Sagoo](https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ), [Rama](https://open.spotify.com/artist/0o05MzSK2Y0ieIzF6l0EDL), [Cheshire Cat](https://open.spotify.com/artist/6AyEh5QaLxZnt6jurf5Pei) | [Star Crazy](https://open.spotify.com/album/0OCCKGEiMYzDmxV2GkbCyg) | 7:27 | 2023-10-12 |  |
+| [Mere Laung Gawacha](https://open.spotify.com/track/53rlGWkMhyyAsgz8EcX5Yg) | [Bally Sagoo](https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ), [Rama](https://open.spotify.com/artist/0o05MzSK2Y0ieIzF6l0EDL), [Cheshire Cat](https://open.spotify.com/artist/6AyEh5QaLxZnt6jurf5Pei) | [Star Crazy](https://open.spotify.com/album/0OCCKGEiMYzDmxV2GkbCyg) | 7:27 | 2023-10-12 | 2023-12-15 |
 | [Mere Naseeb Mein](https://open.spotify.com/track/5HpQ2SuB4EWkEvUhNYh75t) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Precha](https://open.spotify.com/artist/2FGYYE7TFz9Ui2nVK7Toae) | [Baby H Mere Naseeb .....Remix](https://open.spotify.com/album/0YNufU0WnqdamZZKq6t9i6) | 6:24 | 2022-12-29 | 2023-10-13 |
 | [Meri Neend](https://open.spotify.com/track/56zSBd38fcPGjawa6TTTri) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 5:00 | 2022-12-29 |  |
 | [Mona Re](https://open.spotify.com/track/5QHEv9iTvsZc6sSK2Bq8u0) | [Bombay Vikings](https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0) | [Kya Surat Hai](https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN) | 5:00 | 2023-06-15 | 2023-10-13 |
@@ -98,7 +99,7 @@
 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 | 2022-04-11 | 2022-07-29 |
 | [Tu Aashiqui Hai](https://open.spotify.com/track/2vuhZrEHS25D8xNQTSvuuj) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Jhankaar Beats \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yuwmFWvqSnCi2XaS13baP) | 6:08 | 2022-04-11 | 2022-12-15 |
 | [Tu Tu Hai Wahi \- Remix](https://open.spotify.com/track/1PO5SevsPWILl6VQDxPO8X) | [Vaishali](https://open.spotify.com/artist/0w8tFRpIwIcsX9HXUIaoAF) | [Pop Remixes](https://open.spotify.com/album/0sIr7hobjOz7vaIuOyZSrQ) | 6:08 | 2023-10-12 |  |
-| [Tunak Tunak Tun](https://open.spotify.com/track/131yybV7A3TmC34a0qE8u8) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Tunak Tunak Tun](https://open.spotify.com/album/0xEUOENXKtOMg0BVr34jur) | 5:03 | 2022-04-11 | 2023-10-13 |
+| [Tunak Tunak Tun](https://open.spotify.com/track/131yybV7A3TmC34a0qE8u8) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Tunak Tunak Tun](https://open.spotify.com/album/0xEUOENXKtOMg0BVr34jur) | 5:03 | 2022-04-11 |  |
 | [Woh Pehli Baar \(From "Pyaar Mein Kabhi Kabhi"\)](https://open.spotify.com/track/4Jm3Fekmlk6x2uANbmji2L) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shiraz](https://open.spotify.com/artist/7xVc0E3yppOTdqFbG7fYkA), [Samrat](https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rediscovered Gems: Shaan](https://open.spotify.com/album/3UpecWk3GRINATioR0ZlKz) | 4:31 | 2022-04-11 | 2022-12-15 |
 | [Yaaron](https://open.spotify.com/track/55wP1blaV9Vlr1MTsG8ceh) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 4:32 | 2022-04-11 |  |
 | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ), [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/album/0hMcNdQP1rGgdbNip7hLvH) | 5:28 | 2023-10-12 |  |

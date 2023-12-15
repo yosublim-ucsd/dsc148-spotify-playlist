@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Un paseo por la ciudad pintada de violeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,720 likes - 63 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,728 likes - 63 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2734,10 +2734,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 235223,
       "name": "Sandy",
       "url": "https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU"
+    },
+    {
+      "album": {
+        "name": "Country River",
+        "url": "https://open.spotify.com/album/2LhqkKyEXH5huDebuxSvss"
+      },
+      "artists": [
+        {
+          "name": "Teal Peel",
+          "url": "https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235223,
+      "name": "Sandy",
+      "url": "https://open.spotify.com/track/48qv6X8wNBhjQKPCns2CFw"
     },
     {
       "album": {

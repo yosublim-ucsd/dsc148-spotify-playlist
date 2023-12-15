@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-118 songs - 8 hr 0 min
+119 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Cantina de Mi Barrio](https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Relatos de Mi Vida](https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g) | 4:24 | 2023-03-03 |  |
 | [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 | 2023-05-29 | 2023-10-08 |
 | [Charros para Rato](https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 3:41 | 2023-03-03 |  |
-| [Chiki Chaka](https://open.spotify.com/track/1bSSnjwuxEOjHhyN0PHB6J) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [A todo corazón](https://open.spotify.com/album/37YcX6NwuExiCzUfZq25gp) | 2:16 | 2023-10-05 |  |
+| [Chiki Chaka](https://open.spotify.com/track/1bSSnjwuxEOjHhyN0PHB6J) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [A todo corazón](https://open.spotify.com/album/37YcX6NwuExiCzUfZq25gp) | 2:16 | 2023-10-05 | 2023-12-15 |
 | [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 | 2023-03-03 | 2023-05-30 |
 | [Como Te Va Mi Amor](https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Una Década de Éxitos](https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl) | 4:24 | 2023-03-03 |  |
 | [Como Tú](https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu) | [Tornado Ranchero](https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl) | [Tornado Ranchero](https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON) | 4:27 | 2023-03-03 |  |
@@ -34,6 +34,7 @@
 | [Dame Tu Pelo Niña](https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq), [René Inostroza](https://open.spotify.com/artist/6XV9G9NCLb6xx1FCxLddDG) | [Guarachas Rancheras](https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI) | 3:08 | 2023-03-03 |  |
 | [De Paisano a Paisano](https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:14 | 2023-03-03 |  |
 | [Deja de Llorar](https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2) | [Los Bohemios de Chile](https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS) | 4:12 | 2023-03-03 |  |
+| [Del Campo a la Ciudad](https://open.spotify.com/track/6mjCELq0QXKs0UV8BM4f52) | [Los Tukas del Sur](https://open.spotify.com/artist/3fum98bRuzJluGoYRqInHE) | [Del Campo a la Ciudad](https://open.spotify.com/album/7At6x4F85wqZB22sTzO0E4) | 2:44 | 2023-10-05 |  |
 | [Dime Quién Es](https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w) | [Líderes de Chile](https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb) | 5:37 | 2023-03-03 |  |
 | [El Aguacero](https://open.spotify.com/track/5BnQ8e4HVxTUmcnCn9ktFX) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:35 | 2023-03-03 |  |
 | [El Amante Apasionado](https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Éxitos Inolvidables](https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq) | 3:33 | 2023-03-03 |  |

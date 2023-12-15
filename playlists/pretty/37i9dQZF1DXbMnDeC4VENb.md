@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,036 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,070 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 75 | [Azul](https://open.spotify.com/track/3a5W4nmrBbVRjG021nr7TT) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Azul](https://open.spotify.com/album/2FMtltWwGmupZfrxlrBqgf) | 2:43 |
 | 76 | [0cm](https://open.spotify.com/track/4WCk2VAPDqySlBSxZTlNjK) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [0cm](https://open.spotify.com/album/5TTk79eZvPAB7D6PvrdANe) | 2:38 |
 | 77 | [Qué Más Da](https://open.spotify.com/track/2hlfF82K7N4Faivl5spUYR) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Qué Más Da](https://open.spotify.com/album/1uwybis0C2LleyWdZDc2KA) | 3:17 |
-| 78 | [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 |
-| 79 | [Te Amodio](https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Te Amodio](https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA) | 4:27 |
+| 78 | [Te Amodio](https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Te Amodio](https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA) | 4:27 |
+| 79 | [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 |
 | 80 | [Próximo Diciembre](https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Próximo Diciembre](https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1) | 3:44 |
 | 81 | [¿Qué Pasó Mi Amor?](https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Masoquista / ¿Qué Pasó Mi Amor?](https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs) | 3:02 |
 | 82 | [Ella Es](https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Ella Es](https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 
 > A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,527 likes - 39 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,587 likes - 39 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

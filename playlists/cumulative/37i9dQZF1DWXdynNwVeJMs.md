@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Azmari
 
-192 songs - 16 hr 33 min
+195 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,10 @@
 | [Flare](https://open.spotify.com/track/013xG5YMtNTe3CkHMloZMs) | [Flying Horseman](https://open.spotify.com/artist/27ZqgAuCnyX8PjNb9CHJP4) | [Flare](https://open.spotify.com/album/5PbZTfsTo3sUZ3hFIgbsZD) | 4:46 | 2022-09-08 | 2023-06-24 |
 | [Future Flora](https://open.spotify.com/track/7vNFSztgOnpeOgPhWEbiU1) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [Future Flora](https://open.spotify.com/album/2ON7c80IGfMp45NUAPZDIK) | 13:22 | 2022-09-08 | 2023-02-24 |
 | [galet](https://open.spotify.com/track/61iJHseE92EV2mXzFHWZ1n) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Urban Detox EP](https://open.spotify.com/album/5btzM3N10I3GvOPKTf9kdA) | 3:46 | 2022-09-08 | 2022-12-17 |
+| [GBG7](https://open.spotify.com/track/5sudUuLvTgX3KYt7mAKhFO) | [Yannick Peeters](https://open.spotify.com/artist/56mocJpAyqTTNCYwrWKbl8), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO), [Frederik Leroux](https://open.spotify.com/artist/3YV0ck6nM0n2Ee7BCifHmR), [Frans Van Isacker](https://open.spotify.com/artist/0CWdD3PavKLREUxKbT4KJK) | [GBG7](https://open.spotify.com/album/0swGd8dwpZyTg14i11o3RL) | 4:28 | 2023-12-14 |  |
 | [Gentse Leugentjes](https://open.spotify.com/track/3p0GOH8SUICpgPLKUYffze) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 5:30 | 2022-09-08 |  |
 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 | 2022-09-08 | 2023-02-24 |
+| [Holy Bee](https://open.spotify.com/track/6583TUNTEEgIeTB5M7NpYr) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [Propolis For The People](https://open.spotify.com/album/3qdAcFsTEriSmezw5jX5HM) | 6:57 | 2023-12-14 |  |
 | [Honu](https://open.spotify.com/track/2a0BmJt3vqnyrz9xaNnyot) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Honu](https://open.spotify.com/album/3mVXSxRPdBmrr7E854vH92) | 3:42 | 2022-09-08 | 2022-09-26 |
 | [Honu](https://open.spotify.com/track/6YcVox42IUeHfHRNxrj1WR) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:42 | 2022-09-15 | 2023-09-29 |
 | [How We'll Meet Tonight ?](https://open.spotify.com/track/3ao50dH6fEGQXKgZBlpQL1) | [WITVROUW](https://open.spotify.com/artist/2VkgYHdG7g57sHOZpEAy8x) | [WITVROUW](https://open.spotify.com/album/6oupqzhjk5i8ZZR7ISlgvd) | 7:30 | 2022-12-06 |  |
@@ -88,6 +90,7 @@
 | [Lambda](https://open.spotify.com/track/2RpAIod9HRKhrTWd7bv1QU) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 2:37 | 2022-09-15 | 2023-04-06 |
 | [Lambda](https://open.spotify.com/track/4Q0ndfrABOZ9OfaqMqLkf2) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Lambda](https://open.spotify.com/album/15CHatpLTNDCNRrjc9cXm6) | 2:37 | 2022-09-08 | 2022-09-25 |
 | [Last Dance](https://open.spotify.com/track/5AHYdlkvXQ4Lae83JZDm7K) | [Otto Kintet](https://open.spotify.com/artist/27CCZtAURerCD9yhrcJ3KE) | [Pico](https://open.spotify.com/album/5lZ2Y0VqVwjvxivPHlEYst) | 6:15 | 2022-09-08 |  |
+| [Little Ghost](https://open.spotify.com/track/5DRpk9OOJBbT9alKCqCud1) | [OOOTOKO](https://open.spotify.com/artist/4h2TjjbpGgzYjn4ovwB52c) | [Little Ghost](https://open.spotify.com/album/45HbdPoqL1ctz87ghrhuDz) | 4:11 | 2023-12-14 |  |
 | [Little Steps](https://open.spotify.com/track/01VLqczO49AFPdt4AiRTLC) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [The Cycle Repeats](https://open.spotify.com/album/2GtnEumRpH310S1lKgVxTe) | 5:11 | 2023-09-24 |  |
 | [Little Steps](https://open.spotify.com/track/20yGgGMyNJDELJk7nsJMRT) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Little Steps](https://open.spotify.com/album/0f7crbBu4TBbLOe91XHQVW) | 5:11 | 2023-06-23 | 2023-09-24 |
 | [Little Steps](https://open.spotify.com/track/3ouhg3MWKPPjXlCrRg1MXh) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Amulet](https://open.spotify.com/album/1HQmEGfHgCgy2LnCra5ZnJ) | 5:11 | 2023-09-07 | 2023-09-25 |
@@ -198,7 +201,7 @@
 | [Wessel](https://open.spotify.com/track/4wmiOqY3jAPOkS6pzYvyIs) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Wessel](https://open.spotify.com/album/0OEduMDNnxOH9s5wRRzIpQ) | 5:03 | 2022-09-08 | 2022-09-25 |
 | [Wessel](https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 5:03 | 2022-09-15 | 2022-10-03 |
 | [Wessel](https://open.spotify.com/track/7qmozlnwvvhUMzqKH80lfK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 5:03 | 2022-10-20 | 2022-10-24 |
-| [WGHWBH](https://open.spotify.com/track/2Gk2ojObQ0KJev9q4xANXm) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [WGHWBH](https://open.spotify.com/album/3IXktD0oxECWhvw7yBW8LU) | 4:45 | 2023-06-23 |  |
+| [WGHWBH](https://open.spotify.com/track/2Gk2ojObQ0KJev9q4xANXm) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [WGHWBH](https://open.spotify.com/album/3IXktD0oxECWhvw7yBW8LU) | 4:45 | 2023-06-23 | 2023-12-15 |
 | [Wolk](https://open.spotify.com/track/1psgbIT91j1nQMWMG9puWg) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Wolk](https://open.spotify.com/album/5KEYqGAofKWeCD7CZzojpB) | 3:59 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

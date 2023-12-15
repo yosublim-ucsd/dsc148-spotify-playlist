@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf?si=sjHEoBNESWa5Fxr7isJdNw">King Promise</a> , <a href="https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=\-aB7OKHRRwCXtoE2b7GDmw">Tiwa Savage</a>  and <a href="https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9?si=k04jqI0lSGyhW3WW\_asYmQ">Sean Paul</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,555 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,612 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

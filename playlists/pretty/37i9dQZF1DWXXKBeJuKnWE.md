@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: While She Sleeps
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,661 likes - 95 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,658 likes - 95 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

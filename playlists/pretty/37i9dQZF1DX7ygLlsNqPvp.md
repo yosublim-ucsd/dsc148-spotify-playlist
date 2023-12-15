@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn?si=C7E\_eE0SQaa4tMoedx4tBQ"> Beeztrap KOTM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,252 likes - 58 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,257 likes - 58 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=0UB5UrM3SRKJyuFiLPDgfQ">Tyla</a>
 
-112 songs - 5 hr 55 min
+115 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [CLOWN](https://open.spotify.com/track/4FqZJdnOhx9s2I6o8hmMsd) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [CLOWN](https://open.spotify.com/album/328alaY3n5WRAWkBzkBl7G) | 3:47 | 2023-10-12 | 2023-10-27 |
 | [Conversation Pit](https://open.spotify.com/track/7J8kn3b5AiRGB5YpeZV5rT) | [Junetober](https://open.spotify.com/artist/6QHi3isAdNj5T8N7y3vu3G) | [ADMISSIONS of a DELUDED MIND](https://open.spotify.com/album/5dSISrJ00HBIXOVayw60jw) | 3:41 | 2023-10-12 |  |
 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 | 2023-12-08 |  |
+| [Decide](https://open.spotify.com/track/47RGBqVpDOuG1lQXheVEuh) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Decide](https://open.spotify.com/album/28qJotgVoss0htjx54Z33G) | 2:48 | 2023-12-14 |  |
 | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS) | 5:38 | 2023-10-12 |  |
 | [Down](https://open.spotify.com/track/5PcO9uuhPX9PcdPC0SMDmz) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw), [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1) | [Tulipa](https://open.spotify.com/album/68I937NYViFxtNEAZyc6b9) | 3:11 | 2023-10-12 |  |
 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 | 2023-11-03 |  |
@@ -51,6 +52,7 @@
 | [Frontline](https://open.spotify.com/track/5UWNkFcMRrwjoLioVmr1Y7) | [Reba Red](https://open.spotify.com/artist/1zvBiIeuzPhBHYm0USZrAk) | [Awake](https://open.spotify.com/album/7rwoXMg0mjwc4nXNfsMRyK) | 2:32 | 2023-10-12 |  |
 | [Gentle Magic](https://open.spotify.com/track/7lczAygHoTb5pgd8fdiVz3) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ForPlay](https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX) | 2:22 | 2023-11-16 |  |
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-16 |  |
+| [Get You](https://open.spotify.com/track/6XqPLhC4EdmFMiAHuyUq1Q) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Get You](https://open.spotify.com/album/4sWOxBKH0HrElfZwzNFxKt) | 3:57 | 2023-12-14 |  |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-10-12 |  |
 | [How Does It Make You Feel](https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:36 | 2023-11-23 |  |
 | [How We Roll](https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How We Roll](https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ) | 3:19 | 2023-10-12 |  |
@@ -60,6 +62,7 @@
 | [In The Moment](https://open.spotify.com/track/2cyVJ0iYwUuBGIOiOtxCAU) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Things We Feel](https://open.spotify.com/album/1OSJjMs1WGeQYj9syquxGO) | 3:44 | 2023-11-30 |  |
 | [Infinity](https://open.spotify.com/track/1Ss0B3AuWkqqpdz8bLU9mn) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Infinity](https://open.spotify.com/album/2ho4rd64wGodDKv3nKojlU) | 2:39 | 2023-10-12 |  |
 | [It's Nearly Over](https://open.spotify.com/track/1N2D3apgTeJJ2anfr6tWfP) | [Femi Tahiru](https://open.spotify.com/artist/7Kf8nVYjut9xA328Xqs6gm) | [It's Nearly Over](https://open.spotify.com/album/0tSZ2SZSF7R7xYf69CD5Iy) | 3:18 | 2023-10-12 | 2023-10-20 |
+| [iThuba](https://open.spotify.com/track/02yisxKfhmx0wYutmtC21a) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Moluna](https://open.spotify.com/artist/17G8mTdamnMWDlGNiSJAY3), [Moïse Archipe](https://open.spotify.com/artist/6hzdkLWEWYy6jjYuDI8rQN) | [iThuba](https://open.spotify.com/album/6AcE5eBmYc6e3SjmZMUwkr) | 3:26 | 2023-12-14 |  |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-10-12 |  |
 | [Jingle Bells](https://open.spotify.com/track/1sQKLo1aULGxkuhoESx6US) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Santa's Baby](https://open.spotify.com/album/1PvhEz9b6JJMiYtkG8WHRv) | 2:59 | 2023-11-30 |  |
 | [Just The Start](https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY) | [Just The Start](https://open.spotify.com/album/6CPhshx8dpeoUO3BZXImCx) | 2:04 | 2023-10-12 |  |

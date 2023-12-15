@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-262 songs - 13 hr 22 min
+263 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Chasing Wind](https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Chasing Wind](https://open.spotify.com/album/1jqwJofD3wFz2drsplzRwY) | 3:38 | 2023-06-22 | 2023-09-10 |
 | [chokehold](https://open.spotify.com/track/1sTHELUvMf848Hr5b2ekav) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci), [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS) | [Nightshot](https://open.spotify.com/album/0L9LtAbap45bpiJsqX05fG) | 4:02 | 2023-02-24 | 2023-03-04 |
 | [Chop Life](https://open.spotify.com/track/6hd8cGU3nXykhV7LC6Kz1l) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Chop Life](https://open.spotify.com/album/5ETariiMZnVFViqw20NN55) | 2:59 | 2022-06-09 | 2022-07-27 |
+| [Cincinatti Pumpin!!](https://open.spotify.com/track/2tsmBwTvtJ0pU1IViRvsWJ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:51 | 2023-12-15 |  |
 | [City On Fire](https://open.spotify.com/track/0qABYZ6F2tmWV0FiZhwzHy) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Knobtunr Radio](https://open.spotify.com/artist/7dm5TGO0GF9rHC54DRHJSK) | [CITY ON FIRE](https://open.spotify.com/album/0KwVMg7w5BS96FQlOQMPs9) | 4:44 | 2023-08-10 | 2023-09-10 |
 | [Close To Me](https://open.spotify.com/track/6TyFIUgedV7EkYdk6nS4aw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:00 | 2022-06-09 | 2022-07-26 |
 | [CLOUD 9](https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [CLOUD 9](https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx) | 3:08 | 2022-06-09 | 2022-07-28 |
@@ -164,7 +165,7 @@
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2023-11-24 |
 | [MOVE SLOW](https://open.spotify.com/track/2mN5tLxoAUmfNKQsBUzNf9) | [IRIE SESSIONS](https://open.spotify.com/artist/2GGYWtloD2KYh0Ha6cAjsJ), [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [MOVE SLOW](https://open.spotify.com/album/5SxeIZTaAdJ8MCtRcO6185) | 2:13 | 2023-06-16 | 2023-09-10 |
 | [mr\. sneaky link](https://open.spotify.com/track/2vX0iHFbHF5q6H7kSvkMlH) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [mr\. sneaky link](https://open.spotify.com/album/7dRFkTfLMK9yObf5Pjz9s2) | 2:16 | 2023-07-14 | 2023-09-10 |
-| [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 |  |
+| [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 | 2023-12-15 |
 | [my intentions](https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [my Intentions](https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E) | 3:06 | 2022-06-09 | 2022-07-21 |
 | [My Lady](https://open.spotify.com/track/2qJKnWeXuINcyjGhufB0nZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [My Lady](https://open.spotify.com/album/1ISLNwowQgIUwjiWHAqf6W) | 2:58 | 2023-07-28 | 2023-09-10 |
 | [My Man \- Acoustic](https://open.spotify.com/track/5R1fjItNhkMxVmuN7wQ1JL) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man \(Acoustic\)](https://open.spotify.com/album/0oY04SQ5YE3hAxR9dv5K3X) | 4:42 | 2022-06-09 | 2022-07-29 |

@@ -2,14 +2,14 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo: KeBlack
+> Photo: Ninho
 
-62 songs - 3 hr 7 min
+64 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,2,3 Soleil](https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW) | [NAZAKEBLACK](https://open.spotify.com/artist/5H9EtsRc980WZMj0m0nwqa), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [1,2,3 Soleil](https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw) | 2:53 | 2023-09-28 |  |
-| [24](https://open.spotify.com/track/00anelAwwFxJXHD5MykhwG) | [Dj Quick](https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [24](https://open.spotify.com/album/7AVDqdCOZMjUSZdcuEUitO) | 3:09 | 2023-11-09 |  |
+| [24](https://open.spotify.com/track/00anelAwwFxJXHD5MykhwG) | [Dj Quick](https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [24](https://open.spotify.com/album/7AVDqdCOZMjUSZdcuEUitO) | 3:09 | 2023-11-09 | 2023-12-15 |
 | [760](https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [760](https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX) | 3:00 | 2023-09-28 |  |
 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-12 |  |
 | [Benda](https://open.spotify.com/track/4gGtXfBmsTlglZm6FeJ1T9) | [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H) | [Benda](https://open.spotify.com/album/3fPapZVnsbmGKldPL9TmER) | 2:51 | 2023-09-28 | 2023-11-24 |
@@ -23,7 +23,7 @@
 | [Crazy](https://open.spotify.com/track/4boEoouWug1KL4oIdO6yOn) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Crazy](https://open.spotify.com/album/6lLXMBYHPG6LziicXBNOiU) | 2:14 | 2023-09-28 |  |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2023-11-09 |  |
 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-23 |  |
-| [Eh toi](https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Eh toi](https://open.spotify.com/album/6Bt2qMEBgt0qbmtsOeEeL9) | 2:50 | 2023-10-26 |  |
+| [Eh toi](https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Eh toi](https://open.spotify.com/album/6Bt2qMEBgt0qbmtsOeEeL9) | 2:50 | 2023-10-26 | 2023-12-15 |
 | [Favel \(feat\. Leto\)](https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favel \(feat\. Leto\)](https://open.spotify.com/album/0tdVu7eDcfQcj2ECMutN2q) | 2:24 | 2023-09-28 | 2023-12-08 |
 | [Guadalajara](https://open.spotify.com/track/4e8h0zqi70JHvZbCzrgcHE) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Guadalajara](https://open.spotify.com/album/4ORZW3jfpRuUYC7hg3IBKf) | 2:41 | 2023-09-28 | 2023-11-10 |
 | [J'fais que danser](https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [J'fais que danser](https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27) | 2:53 | 2023-11-09 |  |
@@ -55,7 +55,7 @@
 | [Rêves de gosse](https://open.spotify.com/track/6vmIRK3rnKhfiCo0fLb2UL) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF) | [Rêves de gosse](https://open.spotify.com/album/0lKIcj2OM4dsPqrqowKqju) | 2:34 | 2023-09-28 |  |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-09-28 |  |
 | [Salsa](https://open.spotify.com/track/6Sn4DF082OidVgKmF2IJSo) | [HDX](https://open.spotify.com/artist/7GxsVvE196y7ZQKRmhyEY6) | [Salsa](https://open.spotify.com/album/1dHwor6ZgMyqwNCb6gxx4x) | 2:36 | 2023-10-19 | 2023-11-17 |
-| [Sans Coeur](https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans Coeur](https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk) | 2:56 | 2023-11-09 | 2023-11-17 |
+| [Sans Coeur](https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans Coeur](https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk) | 2:56 | 2023-11-09 |  |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-09-28 |  |
 | [Sensations](https://open.spotify.com/track/5Y8Zbqlmx97hTM8y5kqo0x) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Sensations](https://open.spotify.com/album/4mJQmamNVYsJ9FF5tKq71C) | 4:21 | 2023-11-23 |  |
 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2023-10-05 |  |
@@ -63,11 +63,13 @@
 | [T'as capté \(feat\. Bryan Mg\)](https://open.spotify.com/track/1qStFguolAbU8pPFoZu8xy) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [T'as capté \(feat\. Bryan Mg\)](https://open.spotify.com/album/1sluSODxoTSXYJbLJVl4uB) | 2:51 | 2023-09-28 | 2023-10-06 |
 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 | 2023-09-28 | 2023-10-13 |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 | 2023-12-14 |
+| [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-14 |  |
 | [Trop Bizarre](https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Trop Bizarre](https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI) | 4:32 | 2023-09-28 |  |
 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 | 2023-09-28 |  |
 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 | 2023-09-28 |  |
 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 | 2023-09-28 |  |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-09-28 |  |
+| [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2023-12-14 |  |
 | [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 | 2023-11-23 |  |
 | [Zéro Soucis](https://open.spotify.com/track/0eDyUBPdPjS5t2IapdVYim) | [Mkz](https://open.spotify.com/artist/738mFNWDY41RIA4TNT57Dp) | [Zéro Soucis](https://open.spotify.com/album/1ko9mdCInvVZpHv8yeuVUl) | 2:52 | 2023-09-28 | 2023-10-20 |
 

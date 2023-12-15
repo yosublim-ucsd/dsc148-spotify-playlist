@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: bby
 
-6,273 songs - 15 day 6 hr 31 min
+6,274 songs - 15 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5545,7 +5545,8 @@
 | [time waits](https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ) | 3:19 | 2023-05-05 | 2023-06-10 |
 | [TIME&PLACE](https://open.spotify.com/track/7I2SSOnol8GMtxP9kFojdW) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0), [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [TIME&PLACE](https://open.spotify.com/album/7GagREZar3joLD8XRgilsP) | 2:53 | 2023-02-03 | 2023-03-11 |
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2022-07-22 | 2022-09-03 |
-| [Tiny Flakes](https://open.spotify.com/track/6hFakqaFFxKhDBMaeeNErm) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Tiny Flakes](https://open.spotify.com/album/3yg20LHAIGJPmoDOo2Uy3S) | 4:43 | 2023-11-17 |  |
+| [Tiny Flakes](https://open.spotify.com/track/1Y7l3gD4gzwcal9gSxLYpL) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Accompany](https://open.spotify.com/album/7MahDOJx7kRezzio0EFO5D) | 4:43 | 2023-11-17 |  |
+| [Tiny Flakes](https://open.spotify.com/track/6hFakqaFFxKhDBMaeeNErm) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Tiny Flakes](https://open.spotify.com/album/3yg20LHAIGJPmoDOo2Uy3S) | 4:43 | 2023-11-17 | 2023-12-15 |
 | [tiny things](https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [tiny things](https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB) | 2:30 | 2023-03-17 | 2023-04-29 |
 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 | 2021-10-22 | 2022-01-08 |
 | [Tiptoes](https://open.spotify.com/track/3cQjgVZ6HtH9ckaC9TGvBZ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lost Songs \(Found\)](https://open.spotify.com/album/2LjPHNjmT7gqHGFi8cB7lo) | 3:34 | 2020-06-05 | 2020-06-29 |

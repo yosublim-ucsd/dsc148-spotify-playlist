@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,277 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,182 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 92 | [Blonde](https://open.spotify.com/track/4N7HxVSOdRKlPbSWzghIyN) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix](https://open.spotify.com/album/075lV4wdtLwFvIvCUdSYhL) | 2:24 |
 | 93 | [6.2 Music \(with Rob49\)](https://open.spotify.com/track/6ToibuSa6fjrrzh1aLZwqf) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [6.2 Music \(with Rob49\)](https://open.spotify.com/album/1UydpDxXkMRoB24N3iNQ5m) | 2:48 |
 | 94 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 |
-| 95 | [Chewed Up](https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s) | 2:34 |
+| 95 | [Chewed Up](https://open.spotify.com/track/6hz0UeyredFZmDkfDvtEkU) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5ZUguAVzSt5Yz8toCv7KGX) | 2:34 |
 | 96 | [Can of Hurt](https://open.spotify.com/track/3CQBojjRFxgfVyNTjlGyI5) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept \(Deluxe\)](https://open.spotify.com/album/4K4xd1yJCISdl7jkRHBb3G) | 2:39 |
 | 97 | [I WRITE SONGS ABOUT YOU](https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CATALYST\- EP](https://open.spotify.com/album/6gyeFXC2dYLrU3O0tovWqC) | 2:14 |
 | 98 | [bad tattoo](https://open.spotify.com/track/7iUhMgffcOTVXrpBKP0wxm) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [bad tattoo](https://open.spotify.com/album/0j7ZjvfGjpbiSZl4Jm0BKR) | 2:40 |

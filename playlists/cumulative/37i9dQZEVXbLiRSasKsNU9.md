@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,126 songs - 4 day 17 hr 11 min
+2,127 songs - 4 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [\#Doyalike](https://open.spotify.com/track/4JhL6VywH5lKtAW6E3gKpD) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#Doyalike](https://open.spotify.com/album/1E4Eap7cvWM5wtLNZsVlev) | 3:03 | 2022-04-11 | 2022-04-14 |
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2022-07-23 | 2022-08-10 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-11 | 2023-09-02 |
+| [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 | 2023-12-14 |  |
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-04-19 | 2022-05-16 |
 | [1001 Arabian Nights](https://open.spotify.com/track/2TL9ng664CxAiRs37Hfa2Z) | [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [The World Of CH!PZ \(Deluxe version\)](https://open.spotify.com/album/3fuyXU6qRuSyC8yK3cMu83) | 3:06 | 2022-11-19 | 2022-12-08 |
 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 | 2022-12-13 | 2022-12-16 |
@@ -907,7 +908,7 @@
 | [İNTİKAM](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İNTİKAM](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 | 2023-04-11 | 2023-04-13 |
 | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 | 2023-08-15 | 2023-08-30 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-02-01 | 2022-02-23 |
-| [Ja sagen](https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Ja sagen](https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz) | 2:45 | 2023-12-05 |  |
+| [Ja sagen](https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Ja sagen](https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz) | 2:45 | 2023-12-05 | 2023-12-15 |
 | [Jaadugar](https://open.spotify.com/track/6D2AxAujvOilOZqJRiWbWJ) | [Mahbub Islam](https://open.spotify.com/artist/0LJsq2Wm3kpcUF6qjT4Q39) | [Jaadugar](https://open.spotify.com/album/4ce4KxlUuD54lB8kg1wjce) | 3:08 | 2022-11-10 | 2022-11-23 |
 | [Jaadugar](https://open.spotify.com/track/0gmEt2nKOssVRStyUmjSpE) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/43iHptEDCmyn1WOQ40P7w4) | 3:12 | 2022-11-05 | 2022-11-28 |
 | [Jaadugar](https://open.spotify.com/track/0iqqui0LWoXkZsJHfFxlg2) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/0hf3YfPgRE0WfJ2CM7FvBD) | 3:12 | 2022-11-07 | 2022-11-11 |

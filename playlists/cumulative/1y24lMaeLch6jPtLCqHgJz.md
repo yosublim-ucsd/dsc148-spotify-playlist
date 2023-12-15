@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-264 songs - 13 hr 35 min
+265 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Be Free](https://open.spotify.com/track/74qL4Hr4I8papcKrpTVAw5) | [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Be Free](https://open.spotify.com/album/24flI70Ab8EV3KEOAfYFHT) | 3:49 | 2023-07-10 |  |
 | [Be With You](https://open.spotify.com/track/6nrxoCBatTLJ8GGXDB92vV) | [Marcus Rush](https://open.spotify.com/artist/19a5uNRf1LcUfKtl0C5tL8), [Mad Jester](https://open.spotify.com/artist/6xYAts9ORCoyg9Eeonriav), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Be With You](https://open.spotify.com/album/0WBJ1yTjcIsJ9KHW0RzEpM) | 2:57 | 2023-03-17 |  |
 | [Beautiful Disaster](https://open.spotify.com/track/2hqRbIBbF7rNqT9q5Zmqsq) | [Van Snyder](https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Beautiful Disaster](https://open.spotify.com/album/7xafuOSJw67DzfhM2KlPHE) | 3:07 | 2022-08-11 | 2023-08-11 |
+| [Beauty of Silence \- VIP Mix](https://open.spotify.com/track/3liSV859pCLM7WN1ZPqCOq) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Svenson & Gielen](https://open.spotify.com/artist/0u3QU5dRkT3Xeioo16EUtV), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [Beauty of Silence \(VIP Mix\)](https://open.spotify.com/album/74qJBuViaaymDTFxi0LfkH) | 3:15 | 2023-12-14 |  |
 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2023-06-02 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2023-08-10 |  |
 | [Better In Love](https://open.spotify.com/track/3OQnaZNH2ec0zSi3UOkonj) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [ATREOUS](https://open.spotify.com/artist/0EX6qdKwwNO9TN24DvRHwG), [VJAI](https://open.spotify.com/artist/0dAt2oefogiVi866jU3sRp), [Tobias Ward](https://open.spotify.com/artist/6qqQJ0M82YQCZQlifsYzlE) | [Here And Now EP](https://open.spotify.com/album/00gWoK8sxHKCRqTwiKEogM) | 3:07 | 2023-07-11 | 2023-11-11 |

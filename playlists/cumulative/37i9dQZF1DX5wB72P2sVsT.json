@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Mike Candys au top des bangers dance/electro du moment !",
+  "description": "Lizot au top des bangers dance/electro du moment !",
   "name": "Banger",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 182068,
       "name": "Atlantis (Robin Schulz Presents KOPPY)",
       "url": "https://open.spotify.com/track/5TdnT5EfvkF6K3jHDe7toT"
@@ -1506,6 +1506,32 @@
       "duration_ms": 148571,
       "name": "Still Cutting Shapes",
       "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx"
+      },
+      "artists": [
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "HALUNA",
+          "url": "https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT"
     },
     {
       "album": {

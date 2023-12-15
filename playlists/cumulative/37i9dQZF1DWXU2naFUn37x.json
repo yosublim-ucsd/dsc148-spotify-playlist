@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Ghali",
+  "description": "Solo il meglio dello street rap italiano. Cover: Fre_nky",
   "name": "Street Culto",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 130666,
       "name": "Automatic RMX (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14"
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 99327,
       "name": "Freddy Krueger Freestyle",
       "url": "https://open.spotify.com/track/6TbFOSCtOicAETFf0DxHFt"
@@ -3938,7 +3938,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 158714,
       "name": "Hagra",
       "url": "https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv"
@@ -4758,6 +4758,28 @@
       "duration_ms": 152000,
       "name": "Lakers",
       "url": "https://open.spotify.com/track/2TrImm2A5atWdBUasb0wvt"
+    },
+    {
+      "album": {
+        "name": "LAMBORGHINI (feat. Niky Savage)",
+        "url": "https://open.spotify.com/album/1BSDD0LzYDJEotW20OvvcD"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "LAMBORGHINI (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/5Tsa3ifiL3M1m0BQkMNndb"
     },
     {
       "album": {
@@ -6159,6 +6181,24 @@
     },
     {
       "album": {
+        "name": "OUTFIT",
+        "url": "https://open.spotify.com/album/7vElcMaft4eJYSn6qruSFR"
+      },
+      "artists": [
+        {
+          "name": "19F",
+          "url": "https://open.spotify.com/artist/1wtu0PppVIsGTuYVE3gkiR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179118,
+      "name": "OUTFIT",
+      "url": "https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD"
+    },
+    {
+      "album": {
         "name": "Identit\u00e0",
         "url": "https://open.spotify.com/album/061b4fp721yhJXddgLdmHE"
       },
@@ -6442,6 +6482,28 @@
       "duration_ms": 133858,
       "name": "Pel\u00e9",
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
+    },
+    {
+      "album": {
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
     },
     {
       "album": {
@@ -7004,7 +7066,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 183840,
       "name": "Que Lo Ke",
       "url": "https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e"
@@ -7290,6 +7352,28 @@
       "duration_ms": 132660,
       "name": "RS6",
       "url": "https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K"
+    },
+    {
+      "album": {
+        "name": "FEDE II",
+        "url": "https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134068,
+      "name": "RSQ8 (feat. Ghali)",
+      "url": "https://open.spotify.com/track/5QwgVFAmGzj1jmPhwSJZoI"
     },
     {
       "album": {
@@ -7979,6 +8063,28 @@
     },
     {
       "album": {
+        "name": "Maltempo",
+        "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172601,
+      "name": "Storia Infinita (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a"
+    },
+    {
+      "album": {
         "name": "Strade Unite (feat. Helmi sa7bi, emanuelino)",
         "url": "https://open.spotify.com/album/4pqW2BaSQ7qOdg8KMSxId3"
       },
@@ -8094,7 +8200,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 197837,
       "name": "Suave (feat. VillaBanks)",
       "url": "https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk"
@@ -8526,7 +8632,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 220255,
       "name": "TOP G (feat. Sacky)",
       "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
@@ -9036,6 +9142,24 @@
       "duration_ms": 171672,
       "name": "Vita",
       "url": "https://open.spotify.com/track/7unxZsFlo58iTbnxkoJ8lk"
+    },
+    {
+      "album": {
+        "name": "Vita Nuova",
+        "url": "https://open.spotify.com/album/3u3wHdWqQt4Xlkb9suOeq6"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153579,
+      "name": "Vita Nuova",
+      "url": "https://open.spotify.com/track/7L5AMtUojyMd0bpVyWePE1"
     },
     {
       "album": {

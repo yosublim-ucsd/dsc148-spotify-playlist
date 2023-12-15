@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Best performed tracks of Mollywood Gold in 2023 \#SpotifyWrapped Cover : King Of Kotha
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,208 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,260 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

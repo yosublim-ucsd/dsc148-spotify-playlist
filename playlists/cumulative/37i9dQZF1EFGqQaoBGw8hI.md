@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-609 songs - 1 day 18 hr 45 min
+611 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [I'll Stop Living When You Stop Loving Me \- Piano Demo](https://open.spotify.com/track/6MTdkyCyUn0d2umJWKpuRM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:23 | 2023-05-26 |  |
 | [I'm Going Home \- Piano Demo](https://open.spotify.com/track/3JGVQbfKChxILPc1xJw9HT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:03 | 2022-09-08 |  |
 | [I'm Going To Be A Teenage Idol](https://open.spotify.com/track/6bZ4nYreRpdPikggxXbzc6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 | 2022-09-08 |  |
-| [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2022-09-08 |  |
+| [I'm Still Standing](https://open.spotify.com/track/6bn12F3UPvNnJjJvXXbDIw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [I'm Still Standing](https://open.spotify.com/album/7fUQQWrM4We8t2kcsyIe4h) | 3:02 | 2023-12-14 |  |
+| [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2022-09-08 | 2023-12-15 |
 | [I've Been Loving You](https://open.spotify.com/track/7pXAV1MkJRTpYlNtBh8SDe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:17 | 2022-09-08 |  |
 | [I've Got 2 Wings](https://open.spotify.com/track/4FWVE1N9ikA1dTcUwT9T8q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:35 | 2022-09-08 |  |
 | [I've Seen That Movie Too \- Remastered 2014](https://open.spotify.com/track/3kiUD1IZ5icXuyKI1Rwh8j) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:57 | 2022-09-08 |  |
@@ -411,7 +412,8 @@
 | [Rope Around A Fool](https://open.spotify.com/track/6JC9HV0RxMWleQHqsXxq0K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:48 | 2022-09-08 |  |
 | [Rotten Peaches](https://open.spotify.com/track/1JhwFgtWL1CB1qrjRO62wg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:58 | 2022-09-08 |  |
 | [Roy Rogers \- Remastered 2014](https://open.spotify.com/track/6DlqxXju2H2mb0NcwgAFRM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:07 | 2022-09-08 |  |
-| [Runaway Train](https://open.spotify.com/track/1relIAfP5Dn2cihAHv1efL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:22 | 2022-09-08 |  |
+| [Runaway Train](https://open.spotify.com/track/38AaGaTV3TTKYkFIg1Hr2P) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Runaway Train](https://open.spotify.com/album/2uOWm2VPKwF1TbczSVbbC7) | 3:55 | 2023-12-14 |  |
+| [Runaway Train](https://open.spotify.com/track/1relIAfP5Dn2cihAHv1efL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:22 | 2022-09-08 | 2023-12-15 |
 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 | 2022-09-08 |  |
 | [Sad](https://open.spotify.com/track/4Oe9Fq5BZvTHEPxxqeCu3t) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:21 | 2022-09-08 |  |
 | [Sad Songs \(Say So Much\)](https://open.spotify.com/track/1fF2dvBsbTk2wrOEaR6f5B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:09 | 2022-09-08 |  |

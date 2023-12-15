@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-186 songs - 12 hr 30 min
+187 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Musica](https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Musica](https://open.spotify.com/album/4h30UXcT18pyZ5YMmT8kdY) | 5:49 | 2023-11-16 |  |
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-17 |  |
 | [Nautical \- Radio Edit](https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9), [Novak Manojlovic](https://open.spotify.com/artist/3m2QbQV4vmNLDSCbQlBkJB) | [Nautical](https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY) | 3:17 | 2023-08-31 | 2023-12-13 |
-| [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 | 2023-10-10 |  |
+| [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 | 2023-10-10 | 2023-12-15 |
+| [Never Fight The Way You Feel](https://open.spotify.com/track/4pZeOERX9UErM22y7nVjrL) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Domino](https://open.spotify.com/album/0YPLC3FyAYENuP3KhyLi2Q) | 2:43 | 2023-11-30 |  |
 | [New Meaning](https://open.spotify.com/track/6mPQan4lLDiKid0LWGIPHm) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Shadowlands](https://open.spotify.com/album/0kiImzjohOce2DmKzymLju) | 3:35 | 2023-09-14 |  |
 | [Nightclub Daydream](https://open.spotify.com/track/5tIWokaSlLIeH4xiQ5U1we) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5) | [Rarities 2010 \- 2020: Japanese Tour Singles](https://open.spotify.com/album/30lV8rmhO9bbOTD6NpZMts) | 3:32 | 2023-08-10 | 2023-09-01 |
 | [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 | 2023-08-10 | 2023-09-01 |

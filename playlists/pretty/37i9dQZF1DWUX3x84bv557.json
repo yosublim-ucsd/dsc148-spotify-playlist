@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: Isab\u00e8l Usher",
-  "num_followers": 160660,
+  "num_followers": 160689,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzkzYTMyMjhiNWViOWJjZGI4NjZmODczMDI1ZjJkZTE0ZGM0NDI0",
+  "snapshot_id": "MCxkNTMxOGViZDdkYjhmOTFhOTgzOTcwMWUxMThjYzIzNzU1OTkxYjAx",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -43,6 +43,26 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
+        "name": "Al Heb Ik Mijn Dag Niet",
+        "url": "https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Al Heb Ik Mijn Dag Niet",
+      "url": "https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 157174,
       "name": "Hartenbreker",
       "url": "https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Al Heb Ik Mijn Dag Niet",
-        "url": "https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet"
-      },
-      "artists": [
-        {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
-        },
-        {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Al Heb Ik Mijn Dag Niet",
-      "url": "https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -448,7 +448,7 @@
       "added_at": "2023-12-08 00:09:00",
       "album": {
         "name": "AEDM",
-        "url": "https://open.spotify.com/album/3ua3jJ5hreBT7dp0D8TJya"
+        "url": "https://open.spotify.com/album/6x3zIf1yzUpcL7Pr12cxSx"
       },
       "artists": [
         {
@@ -458,7 +458,7 @@
       ],
       "duration_ms": 193531,
       "name": "Stoel In De Hemel",
-      "url": "https://open.spotify.com/track/6bNfLrjVk5xFZSOQOhroYt"
+      "url": "https://open.spotify.com/track/6rJNM9Ep8bENSG3vkr2mst"
     },
     {
       "added_at": "2023-12-08 00:09:00",

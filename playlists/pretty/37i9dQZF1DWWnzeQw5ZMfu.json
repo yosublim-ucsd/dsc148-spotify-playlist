@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 66580,
+  "num_followers": 66613,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
-        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
+        "name": "Spotify Sessions London",
+        "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 312800,
-      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
-      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
+      "duration_ms": 246493,
+      "name": "Take Me to Church - Live From Spotify London",
+      "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Spotify Sessions London",
-        "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
+        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
+        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 246493,
-      "name": "Take Me to Church - Live From Spotify London",
-      "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
+      "duration_ms": 312800,
+      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
+      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Hurts So Good (Live From The Studio)",
-        "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 202833,
-      "name": "Hurts So Good - Live From The Studio",
-      "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Infinite Disco",
         "url": "https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "C\u00e9line... Une seule fois / Live 2013",
-        "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
+        "name": "Hurts So Good (Live From The Studio)",
+        "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 401840,
-      "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
-      "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
+      "duration_ms": 202833,
+      "name": "Hurts So Good - Live From The Studio",
+      "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -731,6 +715,22 @@
       "duration_ms": 288146,
       "name": "Goodbye My Lover - Live in Ireland",
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "C\u00e9line... Une seule fois / Live 2013",
+        "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 401840,
+      "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
+      "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Before You Go EP",
-        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 225047,
-      "name": "Before You Go - Live from Brixton Academy, London, 2019",
-      "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
+      "duration_ms": 295613,
+      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+        "name": "Before You Go EP",
+        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 295613,
-      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
+      "duration_ms": 225047,
+      "name": "Before You Go - Live from Brixton Academy, London, 2019",
+      "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Pompeii / Come As You Are (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 268690,
-      "name": "Pompeii - MTV Unplugged / Edit",
-      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
         "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 223226,
       "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
       "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Pompeii / Come As You Are (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 268690,
+      "name": "Pompeii - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
     },
     {
       "added_at": "2023-11-03 04:00:00",

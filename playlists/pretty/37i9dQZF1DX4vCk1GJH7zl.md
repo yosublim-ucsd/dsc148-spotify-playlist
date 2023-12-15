@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,016 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,046 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 71 | [Mais um Trabalhador](https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ) | [BÁRBARA SILVA](https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV) | [Mais um Trabalhador](https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d) | 3:19 |
 | 72 | [Abra as Cortinas](https://open.spotify.com/track/7C9J1E6XuC7m6RzmGJtLP7) | [Douglas Lopes](https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl) | [Abra as Cortinas](https://open.spotify.com/album/123gz25QTgvOuvy9nd9Fv4) | 3:07 |
 | 73 | [Menina Linda](https://open.spotify.com/track/7HUiek8MyBiLGM33NzgUSm) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:00 |
-| 74 | [Quero Te Levar](https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/22CxgpaTDyzRSzdeQq1jQc) | 2:59 |
+| 74 | [Quero Te Levar](https://open.spotify.com/track/5yBvVZR9fRKUQxfe6cg83b) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/6sFQsoONnVuvaf1ZKFl6kw) | 2:59 |
 | 75 | [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 |
 
 Snapshot ID: `MCw5OTk0YzRmMmE0YTMwZDA5NTdmMmQzZmFjMjIxOWM0YTM5M2Y0MWFi`

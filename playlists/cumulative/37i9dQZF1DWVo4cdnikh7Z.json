@@ -213,6 +213,32 @@
     },
     {
       "album": {
+        "name": "Aalathey (From \"Nanban Oruvan Vantha Piragu\")",
+        "url": "https://open.spotify.com/album/2DNkEWQfIINFW5ncWhHivY"
+      },
+      "artists": [
+        {
+          "name": "A H Kaashif",
+          "url": "https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222210,
+      "name": "Aalathey - From \"Nanban Oruvan Vantha Piragu\"",
+      "url": "https://open.spotify.com/track/4gSeRNfWsys27cbVW1dktD"
+    },
+    {
+      "album": {
         "name": "Modern Love (Chennai) [Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/3YdrTcu1YnQAcjJwnNeYgI"
       },

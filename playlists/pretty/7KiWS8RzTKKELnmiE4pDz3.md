@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 123 songs - 6 hr 42 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 126 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,5 +131,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 121 | [Pissed Off](https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:39 |
 | 122 | [With Them](https://open.spotify.com/track/0tISnxqgVmxqhVghsTi2Rr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 3:17 |
 | 123 | [ONE WATCH \(feat\. Young Thug\)](https://open.spotify.com/track/60XGm1Hmyx7UliCAYjiCd8) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:55 |
+| 124 | [Permanent Scar \(feat\. Young Thug and Quando Rondo\)](https://open.spotify.com/track/56y48l3RslFer22WytV6KU) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 3:18 |
+| 125 | [Never Hating \(feat\. Young Thug\)](https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:40 |
+| 126 | [Secure the Vibe \(feat\. Young Thug\)](https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drip Season 2](https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ) | 2:44 |
 
-Snapshot ID: `NzE3MCw3NmFhMDU1Y2IwOGZlOGY1Mzk2MzUxZWNkYTBlOTU4MGFlNmM0YTE4`
+Snapshot ID: `NzE3Myw0YTQ3NDNkNDBkMzdjMWQyZjkyNjAyZWUyNDYzMzhmMzkwMGNlYmU2`

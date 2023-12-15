@@ -4,11 +4,12 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-241 songs - 15 hr 43 min
+242 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 | 2021-10-13 |  |
+| [American Flowers](https://open.spotify.com/track/1CtsGuP3zaphCyUieBpOQF) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [JT Nero](https://open.spotify.com/artist/4KggKI2drVc4UIotyrOcvQ) | [American Flowers](https://open.spotify.com/album/3aw4lot05PgG9vCBvCQVpg) | 6:10 | 2023-06-23 |  |
 | [American Flowers](https://open.spotify.com/track/1uSi1D1EzfqpEiA2cmdKbA) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [JT Nero](https://open.spotify.com/artist/4KggKI2drVc4UIotyrOcvQ) | [American Flowers](https://open.spotify.com/album/1ySjZoIQXVfB2d8NO1bvOk) | 6:10 | 2021-10-13 | 2023-04-29 |
 | [Another Day](https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Before I Go](https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP) | 4:55 | 2021-10-13 | 2022-07-21 |
 | [Answers \(Acoustic\)](https://open.spotify.com/track/28peZbGhHydhLLeZb1FUbz) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/7dUwxuMBTGEprZv2i06YyN) | 3:10 | 2021-10-13 | 2021-12-30 |
@@ -190,7 +191,7 @@
 | [Seven Words](https://open.spotify.com/track/500G3gVwV5vrP2DWhOF7Tw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Front Row Seat to Earth](https://open.spotify.com/album/2jBj6Qyedfd0XwbvJFuzTh) | 4:37 | 2022-02-25 |  |
 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 | 2022-02-25 |  |
 | [Stonehurst Cowboy](https://open.spotify.com/track/0qZnGz4WmVFNUjnGdfe7SC) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Stonehurst Cowboy](https://open.spotify.com/album/1vvbi0xZ2EWcc7oRibhMqF) | 3:41 | 2022-01-12 | 2022-06-30 |
-| [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 | 2022-02-25 |  |
+| [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 | 2022-02-25 | 2023-12-15 |
 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 | 2022-02-25 |  |
 | [Sunsets For Somebody Else](https://open.spotify.com/track/3u0YCKg5DNalvfOnSrivFQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sunsets For Somebody Else](https://open.spotify.com/album/6jWU4Fkp5GZL0TJi56UnzZ) | 3:30 | 2021-10-13 | 2022-07-24 |
 | [Sweet Misery](https://open.spotify.com/track/5QDpRgmLJaWJaV7BUX5D0Y) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 3:09 | 2021-10-13 |  |

@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-774 songs - 1 day 21 hr 43 min
+779 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1sp7bA5S2pxf2mNsVLCjuU) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj) | 3:36 | 2022-08-30 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4pIF1SiB1GMFOFfo6OhrOi) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Here, There And Everywhere](https://open.spotify.com/album/0YDrnRN4lgzFDIWLtNLz2F) | 3:05 | 2021-12-07 | 2022-08-31 |
 | [A Note's Journey](https://open.spotify.com/track/4I6QjfPQz1InbbIOIbw1jz) | [Isaiah Lewis](https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP) | [A Note's Journey](https://open.spotify.com/album/7DsmLchOkUIMsesLaVWkWn) | 3:48 | 2023-12-08 |  |
+| [A Perfect Day](https://open.spotify.com/track/4d97x2KkKklZZJsvtWBCn7) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [A Perfect Day](https://open.spotify.com/album/1LnXioxQMj65UL2GmLLDxh) | 3:33 | 2023-12-15 |  |
 | [A persuasive argument](https://open.spotify.com/track/5WwybHBAdhsJMNBbXymtS3) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [A persuasive argument](https://open.spotify.com/album/3OAJII4iToETQ0SPLK8b9z) | 3:54 | 2023-08-10 |  |
 | [A place I knew](https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [A place I knew](https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ) | 2:40 | 2023-04-13 |  |
 | [A Rainy Night](https://open.spotify.com/track/3Ny1CmI8hRfDpwi1tyJut3) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [A Rainy Night](https://open.spotify.com/album/4obwJxbE1hcOa94R8ydLTk) | 3:25 | 2023-11-17 |  |
@@ -173,6 +174,7 @@
 | [Distractions](https://open.spotify.com/track/34LqEe9GAniMgCJgN7jQzW) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Distractions](https://open.spotify.com/album/1Wgg5pGImhtCo9FJ3qGtGA) | 3:56 | 2023-06-01 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-04-11 | 2023-02-03 |
 | [Don't Open Your Eyes](https://open.spotify.com/track/7df0Uedn5GeMUWObiYxqFe) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Johan Tengholm](https://open.spotify.com/artist/43zscbPDZ5M7eJTRs0Uuz0), [Henrik Jäderberg](https://open.spotify.com/artist/1wwJ6VEXQBeKg50pBqn6sJ) | [Don't Open Your Eyes](https://open.spotify.com/album/1ejv2hUVUyou505zdv37pB) | 2:55 | 2021-12-07 | 2022-03-02 |
+| [Don’t believe it](https://open.spotify.com/track/2CwWhS5c1sDfJYIMKhoxPj) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Don’t believe it](https://open.spotify.com/album/7zDFXo0yXWXzQ8qDypDrdY) | 3:08 | 2023-12-15 |  |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-06-14 |  |
 | [Downtrodden](https://open.spotify.com/track/08oIyomJzeb3f79sWVT24b) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Downtrodden](https://open.spotify.com/album/2VWoktWJQb1VQyzjjdC8vU) | 3:08 | 2023-01-05 |  |
 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-05-11 |  |
@@ -250,6 +252,7 @@
 | [Going Our Separate Ways](https://open.spotify.com/track/5gk8Zfd0JaAEfSmxr57xdg) | [Dusty Diamond Trio](https://open.spotify.com/artist/1FAFvLZfHJDhpfzib7ple0) | [Moonlight Hour](https://open.spotify.com/album/6dEcOLbZYo356tByGTH8Ff) | 4:08 | 2021-12-07 |  |
 | [Gone With The Wind](https://open.spotify.com/track/4JU856I3RFY6n37EKwCT2c) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Gone With The Wind](https://open.spotify.com/album/3EQf3toXuxIKOyALK1KlM5) | 4:09 | 2023-01-05 | 2023-10-06 |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
+| [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/6DL0rKjqsrrvIIVdl0WfUL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/album/39KZ6ZyjrzII5xIgRi4fPf) | 2:53 | 2023-12-15 |  |
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-04-20 |  |
 | [Happy Time](https://open.spotify.com/track/41UkKjPMvpzWjCymgm9nz2) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Happy Time](https://open.spotify.com/album/7gdwuoUHqFwmU8iCpPFfA7) | 3:15 | 2023-10-20 |  |
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-03-30 |  |
@@ -757,11 +760,13 @@
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-10-27 |  |
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 | 2023-09-01 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 |  |
+| [Wonderful Is Short](https://open.spotify.com/track/7AeoW54UXtfDBV2WpWSR6f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Wonderful Is Short](https://open.spotify.com/album/0MnKnVzed2dgfNvcz2vsfE) | 3:36 | 2023-12-15 |  |
 | [Wooden String](https://open.spotify.com/track/7A0Tfue4lSnzJsudy5m7y9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Wooden String](https://open.spotify.com/album/0JNbiCpZInQlQcYnRzVGZS) | 3:24 | 2023-08-10 |  |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |
 | [Would You Be So Kind](https://open.spotify.com/track/5rdkWQtSU6UT2Fg6MuwsNa) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Would You Be So Kind](https://open.spotify.com/album/7KkBDxCXqxEOkpFi4WaXtX) | 4:05 | 2023-11-24 |  |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Wrap Your Troubles In Dreams](https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q) | 2:49 | 2023-06-08 |  |
 | [Yearning](https://open.spotify.com/track/5VHpA5RrPEGY9NgHhahHnG) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Yearning](https://open.spotify.com/album/7boH53I2zbrw1GoeACrj8c) | 2:59 | 2023-08-31 |  |
+| [Yellow Leaves](https://open.spotify.com/track/1hFSmCBEIQDDT61MASBKJU) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Yellow Leaves](https://open.spotify.com/album/4zGEufTsfC4N20XqkdmeeV) | 4:05 | 2023-12-15 |  |
 | [Yet another dream](https://open.spotify.com/track/5tJwP1uR77rBWkFUdzmB2Y) | [Tom Bates](https://open.spotify.com/artist/2HyugLj7NVwGIowZWzX2D1) | [Just a fool](https://open.spotify.com/album/293iki1PCPrjghcqs9r8dY) | 4:46 | 2021-12-07 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [You Are Too Beautiful](https://open.spotify.com/album/33NCFfEVLRuMZduy6wUiQA) | 3:18 | 2023-05-25 |  |
 | [You bet!](https://open.spotify.com/track/79tPOqXrPFr2JDCunwgCt7) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [You bet!](https://open.spotify.com/album/3LtckKyDK6gOe3dTgVLpq6) | 3:42 | 2023-12-08 |  |

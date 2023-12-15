@@ -2120,10 +2120,32 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 213098,
       "name": "Diz Pra Mim",
       "url": "https://open.spotify.com/track/2yHsmCovu6tuaq2avIKcz2"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em Paranava\u00ed",
+        "url": "https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd"
+      },
+      "artists": [
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        },
+        {
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213098,
+      "name": "Diz Pra Mim",
+      "url": "https://open.spotify.com/track/5HdSXcnJZXf871r9Om6Ra0"
     },
     {
       "album": {

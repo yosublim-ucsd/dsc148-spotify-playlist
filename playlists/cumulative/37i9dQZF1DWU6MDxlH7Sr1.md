@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-310 songs - 19 hr 58 min
+312 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-05-10 | 2023-01-06 |
 | [A Long Day](https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [A Long Day](https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs) | 2:48 | 2023-10-13 |  |
 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 | 2023-04-13 |  |
+| [A Poetic City](https://open.spotify.com/track/0cbPof9LM6kJJRdaFvQxmR) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [A Poetic City](https://open.spotify.com/album/1U1p1pem5XggODiDC4Urhj) | 3:24 | 2023-12-15 |  |
 | [A Train to Cannes](https://open.spotify.com/track/4Gh6qRN0GWET3KFx6lIkzF) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [A Train to Cannes](https://open.spotify.com/album/7I75eKv2H6qCe26EFS5dsj) | 2:34 | 2023-01-05 |  |
 | [A Wayfarer's Tale](https://open.spotify.com/track/0RrvMxwdAX6qBQHjR3EEPZ) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [A Wayfarer's Tale](https://open.spotify.com/album/3E7581DaCGTtHOi5KvwYpN) | 3:34 | 2023-10-27 |  |
 | [Above All](https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Above All](https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ) | 3:02 | 2023-11-24 |  |
@@ -293,6 +294,7 @@
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 | 2023-01-06 |
 | [Under A Bridge and Dreaming](https://open.spotify.com/track/1NVA4xLrwF20auhmMge7Sp) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Under A Bridge and Dreaming](https://open.spotify.com/album/0ak7vmwVnS5VKDUqLYtUWB) | 3:24 | 2022-10-27 | 2023-03-02 |
+| [Vineyard](https://open.spotify.com/track/51vkNmbOPJkfP6nHu8wsGv) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Inner Peace](https://open.spotify.com/album/5kJ4YhodZnsl11AWeh71Rs) | 3:11 | 2023-12-15 |  |
 | [Walk Away](https://open.spotify.com/track/3GusQLpr2foU14c82En19S) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Walk Away](https://open.spotify.com/album/6X70Wc5iw2UvF2unoNb43G) | 3:56 | 2023-11-17 |  |
 | [Walk With Me](https://open.spotify.com/track/5Bta8U48xSE7r91zzuECxq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [A Penny for Your Thoughts](https://open.spotify.com/album/2zHoGZXTMc6bdL5098LVSP) | 3:46 | 2023-04-13 | 2023-08-25 |
 | [Walking into Love](https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Walking into Love](https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2) | 3:17 | 2023-04-13 |  |

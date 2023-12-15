@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 72542,
+  "num_followers": 72587,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
+        "name": "Ag\u00fazate",
+        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        }
+      ],
+      "duration_ms": 377253,
+      "name": "Ag\u00fazate",
+      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
         "name": "Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves",
         "url": "https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 383533,
       "name": "Yambeque",
       "url": "https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
-        "name": "Ag\u00fazate",
-        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        }
-      ],
-      "duration_ms": 377253,
-      "name": "Ag\u00fazate",
-      "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -827,22 +827,22 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Canciones Del Solar De Los Aburridos",
-        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+        "name": "Baile Con Cortijo",
+        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
       },
       "artists": [
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
         },
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
         }
       ],
-      "duration_ms": 364160,
-      "name": "Ligia Elena",
-      "url": "https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm"
+      "duration_ms": 180560,
+      "name": "El Negro Bemb\u00f3n",
+      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -863,22 +863,22 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Baile Con Cortijo",
-        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
+        "name": "Canciones Del Solar De Los Aburridos",
+        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
       "artists": [
         {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         },
         {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 180560,
-      "name": "El Negro Bemb\u00f3n",
-      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
+      "duration_ms": 364160,
+      "name": "Ligia Elena",
+      "url": "https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm"
     }
   ],
   "unique_name": "Salsa Brava",

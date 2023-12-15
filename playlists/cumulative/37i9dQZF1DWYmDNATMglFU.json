@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. MOD SUN & LiL Lotus",
+  "description": "it's a generation \u26d3 ft. Lauran Hibberd & Alex Gaskarth",
   "name": "The Locker",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 151863,
       "name": "17250",
       "url": "https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7"
@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "blindspot",
+        "url": "https://open.spotify.com/album/5LXixqIRcSzjsHRQkGDooc"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207636,
+      "name": "blindspot",
+      "url": "https://open.spotify.com/track/1rju0XLSgmtqpjrrCJxsp4"
+    },
+    {
+      "album": {
         "name": "Blood // Water",
         "url": "https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 189312,
       "name": "BLOODSTREAM",
       "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
@@ -1508,6 +1526,24 @@
       "duration_ms": 189706,
       "name": "Brackish",
       "url": "https://open.spotify.com/track/6lqwRfIHYRiJ7M9xfLqcRx"
+    },
+    {
+      "album": {
+        "name": "BRAIN DEAD",
+        "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121071,
+      "name": "BRAIN DEAD",
+      "url": "https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H"
     },
     {
       "album": {
@@ -7538,7 +7574,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 152926,
       "name": "More Than Chemical",
       "url": "https://open.spotify.com/track/02ub7Ai9EK14F2nOr5kwRC"
@@ -8753,6 +8789,28 @@
     },
     {
       "album": {
+        "name": "pretty good for a bad day",
+        "url": "https://open.spotify.com/album/3Rj2HxZFLcGCCb7bZWwe9r"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        },
+        {
+          "name": "Alex Gaskarth",
+          "url": "https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195688,
+      "name": "pretty good for a bad day",
+      "url": "https://open.spotify.com/track/00LBxD0r6QHfBYDrvJUsuw"
+    },
+    {
+      "album": {
         "name": "Pretty Mouth",
         "url": "https://open.spotify.com/album/0QOFmYTyIs9e1nyOdwBbgW"
       },
@@ -9418,6 +9476,28 @@
       "duration_ms": 136066,
       "name": "SHE\u2019S MY (SEXI BOY)",
       "url": "https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS"
+    },
+    {
+      "album": {
+        "name": "She\u2019s So Cool (with Pale Waves)",
+        "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "She\u2019s So Cool (with Pale Waves)",
+      "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
     },
     {
       "album": {
@@ -10220,7 +10300,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 134272,
       "name": "stuck.",
       "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"

@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 670438,
+  "num_followers": 670468,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "La Ducha",
-        "url": "https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 209941,
-      "name": "La Ducha",
-      "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "La Ducha",
+        "url": "https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 209941,
+      "name": "La Ducha",
+      "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Ya",
-        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
-      },
-      "artists": [
-        {
-          "name": "Flavio",
-          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
-        },
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 197910,
-      "name": "Ya",
-      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Intenciones",
         "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 163600,
       "name": "Intenciones",
       "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
+      },
+      "artists": [
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
+        },
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 197910,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Handful of Water",
-        "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 151746,
-      "name": "Handful of Water",
-      "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Una Noche (Unplugged)",
         "url": "https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 238654,
       "name": "Una Noche - Unplugged",
       "url": "https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Handful of Water",
+        "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 151746,
+      "name": "Handful of Water",
+      "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 93106,
+      "name": "superman",
+      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Pajaritos",
         "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 93106,
-      "name": "superman",
-      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Quieres de mi",
         "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
       },
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Soy capaz",
+        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 205452,
+      "name": "Soy capaz",
+      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Toma Mi Mano",
         "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 182000,
       "name": "Toma Mi Mano",
       "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Soy capaz",
-        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 205452,
-      "name": "Soy capaz",
-      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 256255,
-      "name": "Qu\u00e9 Bonito Es Lo Bonito",
-      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Lluvia (Man120)",
         "url": "https://open.spotify.com/album/7HpxvfyReSCZwrHSEe5tPA"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 231724,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/0kq1HuBQzWPJfC2qXQfeTK"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 256255,
+      "name": "Qu\u00e9 Bonito Es Lo Bonito",
+      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "beat relajado para estudiar",
         "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Guitarra",
-        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Guitarra",
-      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Indirecta",
         "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 200727,
       "name": "Indirecta",
       "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Guitarra",
+        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "7 de febrero",
         "url": "https://open.spotify.com/album/3drXdjre1aVmmXy43XDvbs"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 193953,
       "name": "7 de febrero",
       "url": "https://open.spotify.com/track/2S0RpAiBKgdVyelIjFDc0L"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "The Process 2",
-        "url": "https://open.spotify.com/album/7eWz5te5PJL41BdYN4CehQ"
+        "name": "Fin de Semana Largo",
+        "url": "https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7"
       },
       "artists": [
         {
-          "name": "Fer",
-          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 170666,
-      "name": "The Process 2",
-      "url": "https://open.spotify.com/track/5qR47w2aiijdN7EUCnqCeM"
+      "duration_ms": 173320,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s"
     }
   ],
   "unique_name": "Chill Latino",

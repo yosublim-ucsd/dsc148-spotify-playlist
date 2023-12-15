@@ -4,7 +4,7 @@
 
 > Highlights of 2023, listen to women at full volume! Cover: Jessica Mauboy
 
-535 songs - 1 day 4 hr 45 min
+536 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,8 @@
 | [They Wouldn't Let Me In](https://open.spotify.com/track/2xqGobDCp2jpQn8cD1sUak) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 2:43 | 2023-05-21 | 2023-06-01 |
 | [They Wouldn't Let Me In](https://open.spotify.com/track/7o7KZcYFilXgZXJE2tLRf5) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [They Wouldn't Let Me In](https://open.spotify.com/album/0eiFbTOOnsB0uLhgeoESSW) | 2:43 | 2023-04-30 | 2023-05-23 |
 | [Thing For You](https://open.spotify.com/track/5suy4kzP9HFYs468dPVdRo) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [Thing For You](https://open.spotify.com/album/4ABTbFxYXfuFCXmtjSLgsl) | 3:14 | 2022-10-31 | 2023-07-25 |
-| [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 | 2023-03-01 |  |
+| [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 | 2023-03-01 | 2023-12-15 |
+| [Things Aren't Nice In Paradise](https://open.spotify.com/track/2SDJTVl0IlBbStlz0IUt0S) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/3N3XYGAKHwfZ7Xiop16IOu) | 3:11 | 2023-11-29 |  |
 | [This Enchanted \- Edit](https://open.spotify.com/track/0t0lC8avHPxxf9VqiItfj6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [This Enchanted](https://open.spotify.com/album/5DU1S08aBz1JPVN6Q2hIWj) | 3:07 | 2022-02-03 | 2022-03-02 |
 | [This Generation Sucks](https://open.spotify.com/track/4NVNnpHWcw5AErkebQpz9j) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [This Generation Sucks](https://open.spotify.com/album/7wMxSUbeSMNnGQGhYo8fYV) | 2:58 | 2023-08-15 |  |
 | [Thoughts From My Bed](https://open.spotify.com/track/5RjF5qxO7SlAT0jMN3LqKs) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w) | [Thoughts From My Bed](https://open.spotify.com/album/1MyvolG2lTa1sJOkhVnoSv) | 2:26 | 2022-09-05 | 2023-04-01 |

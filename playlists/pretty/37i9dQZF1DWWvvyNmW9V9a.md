@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > She's the perfect all\-american
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,178,201 likes - 105 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,178,141 likes - 105 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

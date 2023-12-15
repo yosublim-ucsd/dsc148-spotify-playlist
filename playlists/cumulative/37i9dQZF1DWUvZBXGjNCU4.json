@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Cape May",
+        "url": "https://open.spotify.com/album/0R1tZfJSsUmM0LOYppmziV"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162387,
+      "name": "Cape May",
+      "url": "https://open.spotify.com/track/77e7g7IzJHpk5hnwUguZIv"
+    },
+    {
+      "album": {
         "name": "Ciudad nueva",
         "url": "https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp"
       },
@@ -3790,6 +3808,24 @@
       "duration_ms": 245777,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn"
+    },
+    {
+      "album": {
+        "name": "See It Through",
+        "url": "https://open.spotify.com/album/3VD0JGd9cvNWuMKFpIjlpq"
+      },
+      "artists": [
+        {
+          "name": "Oaktree Melodies",
+          "url": "https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/0ZlfrENWdpQyEsBfynIFGF"
     },
     {
       "album": {

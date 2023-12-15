@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 129843,
+  "num_followers": 129862,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -843,38 +843,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Foggy Morning Breaking",
-        "url": "https://open.spotify.com/album/0BDz3YhQcXKzOPUkgGvrG7"
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
       "artists": [
         {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        },
-        {
-          "name": "Steve Martin",
-          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
-        },
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Chris Eldridge",
-          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        },
-        {
-          "name": "Todd Phillips",
-          "url": "https://open.spotify.com/artist/2cyuIVFHVuM00QdzCyxbUs"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Foggy Morning Breaking",
-      "url": "https://open.spotify.com/track/1BmdMNhew9aApcN1YBb2oC"
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -911,18 +891,38 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+        "name": "Foggy Morning Breaking",
+        "url": "https://open.spotify.com/album/0BDz3YhQcXKzOPUkgGvrG7"
       },
       "artists": [
         {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+        },
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        },
+        {
+          "name": "Todd Phillips",
+          "url": "https://open.spotify.com/artist/2cyuIVFHVuM00QdzCyxbUs"
         }
       ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
+      "duration_ms": 220533,
+      "name": "Foggy Morning Breaking",
+      "url": "https://open.spotify.com/track/1BmdMNhew9aApcN1YBb2oC"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Spirit to the Sea",
+        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
+      },
+      "artists": [
+        {
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Squareneck Soul",
         "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Man With No Demons",
         "url": "https://open.spotify.com/album/4SayA2xvAGdZJI1Ba5bsmv"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Spirit to the Sea",
-        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 239346,
-      "name": "Last Chance",
-      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Fire in the Dark",
-        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
-      },
-      "artists": [
-        {
-          "name": "Gary Nichols",
-          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Fire in the Dark",
-      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "In The Ground",
         "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+        "name": "Fire in the Dark",
+        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
       },
       "artists": [
         {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+          "name": "Gary Nichols",
+          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
         }
       ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+      "duration_ms": 186000,
+      "name": "Fire in the Dark",
+      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 300676,
       "name": "Orphan Annie",
       "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Snake Charmer",
-        "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
-      },
-      "artists": [
-        {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Snake Charmer",
-      "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 225941,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Snake Charmer",
+        "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
+      },
+      "artists": [
+        {
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Snake Charmer",
+      "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
-      },
-      "artists": [
-        {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
-        }
-      ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+      },
+      "artists": [
+        {
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Message From Heaven",
         "url": "https://open.spotify.com/album/7eui7uH5V3HbAp0JLdHMTf"
       },
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Rhinestone Revival",
+        "url": "https://open.spotify.com/album/6WA5xRfslGXUYeytafpyeZ"
+      },
+      "artists": [
+        {
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+        }
+      ],
+      "duration_ms": 173233,
+      "name": "I Call Her Sunshine",
+      "url": "https://open.spotify.com/track/4MthZhAN8rpEhf7kzdDeSM"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Tall Tales & Fables",
         "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
@@ -1471,26 +1487,6 @@
       "duration_ms": 177414,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
-        "url": "https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78"
-      },
-      "artists": [
-        {
-          "name": "Dominick Leslie",
-          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
-        },
-        {
-          "name": "Ric Robertson",
-          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
-        }
-      ],
-      "duration_ms": 222646,
-      "name": "East Virginia Blues",
-      "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1531,18 +1527,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Rhinestone Revival",
-        "url": "https://open.spotify.com/album/6WA5xRfslGXUYeytafpyeZ"
+        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
+        "url": "https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78"
       },
       "artists": [
         {
-          "name": "The Kody Norris Show",
-          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+          "name": "Dominick Leslie",
+          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
+        },
+        {
+          "name": "Ric Robertson",
+          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
         }
       ],
-      "duration_ms": 173233,
-      "name": "I Call Her Sunshine",
-      "url": "https://open.spotify.com/track/4MthZhAN8rpEhf7kzdDeSM"
+      "duration_ms": 222646,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Places I've Been",
         "url": "https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Arm in Arm",
         "url": "https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 248760,
       "name": "In the Next Life",
       "url": "https://open.spotify.com/track/7zcuGv5rkuxFuKeDK6jNoJ"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Travelers Rest",
+        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
+      },
+      "artists": [
+        {
+          "name": "The Foreign Landers",
+          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Travelers Rest",
-        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
-      },
-      "artists": [
-        {
-          "name": "The Foreign Landers",
-          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Nashville No More",
         "url": "https://open.spotify.com/album/4p6qLQ2eKBQfwaMjzBRrSK"
       },
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Open The Road",
-        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
+        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
+        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
       },
       "artists": [
         {
-          "name": "We Banjo 3",
-          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
         }
       ],
-      "duration_ms": 178182,
-      "name": "Alive With You",
-      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
+      "duration_ms": 165600,
+      "name": "Running Out Of Hope, Arkansas",
+      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
-        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
+        "name": "Open The Road",
+        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
       },
       "artists": [
         {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+          "name": "We Banjo 3",
+          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Running Out Of Hope, Arkansas",
-      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
+      "duration_ms": 178182,
+      "name": "Alive With You",
+      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
     },
     {
       "added_at": "2023-11-24 06:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 494641,
+  "num_followers": 494726,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "Collage 1",
-        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
-    },
-    {
-      "added_at": "2023-12-08 17:14:32",
-      "album": {
         "name": "Fabrique Club",
         "url": "https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 227697,
       "name": "Fais rien (Petit Biscuit Remix)",
       "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
+    },
+    {
+      "added_at": "2023-12-08 17:14:32",
+      "album": {
+        "name": "Collage 1",
+        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1631,18 +1631,22 @@
     {
       "added_at": "2023-12-08 17:14:32",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+        "name": "We Stayed Up All Night",
+        "url": "https://open.spotify.com/album/0iKdUVQXTroQwMLsCEaVPy"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Ardyn",
+          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
         }
       ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+      "duration_ms": 265758,
+      "name": "We Stayed Up All Night",
+      "url": "https://open.spotify.com/track/4Tq3QocH9Okvn4wDgTlkR5"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1659,6 +1663,22 @@
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2023-12-08 17:14:32",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2023-12-08 17:14:32",
@@ -1691,26 +1711,6 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
-    },
-    {
-      "added_at": "2023-12-08 17:14:32",
-      "album": {
-        "name": "We Stayed Up All Night",
-        "url": "https://open.spotify.com/album/0iKdUVQXTroQwMLsCEaVPy"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Ardyn",
-          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
-        }
-      ],
-      "duration_ms": 265758,
-      "name": "We Stayed Up All Night",
-      "url": "https://open.spotify.com/track/4Tq3QocH9Okvn4wDgTlkR5"
     },
     {
       "added_at": "2023-12-08 17:14:32",

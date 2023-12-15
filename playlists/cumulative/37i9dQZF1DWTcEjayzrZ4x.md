@@ -4,7 +4,7 @@
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-771 songs - 1 day 22 hr 14 min
+773 songs - 1 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Golden Three](https://open.spotify.com/track/0qSLvyFx0jziMxNkC44GeL) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Golden Three](https://open.spotify.com/album/5iLklfPd2bChozA97kbNLZ) | 2:55 | 2023-01-26 | 2023-06-02 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-10 |  |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
+| [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/6DL0rKjqsrrvIIVdl0WfUL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/album/39KZ6ZyjrzII5xIgRi4fPf) | 2:53 | 2023-12-15 |  |
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-04-20 |  |
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-04-13 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/1EI2LEt7o54SZhbxCJYrms) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz Volume: Oscar Peterson](https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ) | 4:10 | 2022-11-17 | 2023-01-09 |
@@ -756,6 +757,7 @@
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 | 2023-06-09 |
 | [Withered Flowers](https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Withered Flowers](https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU) | 3:53 | 2022-11-24 | 2023-04-14 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 |  |
+| [Wonderful Is Short](https://open.spotify.com/track/7AeoW54UXtfDBV2WpWSR6f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Wonderful Is Short](https://open.spotify.com/album/0MnKnVzed2dgfNvcz2vsfE) | 3:36 | 2023-12-15 |  |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Wrap Your Troubles In Dreams](https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q) | 2:49 | 2023-06-08 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [You Are Too Beautiful](https://open.spotify.com/album/33NCFfEVLRuMZduy6wUiQA) | 3:18 | 2023-05-25 |  |
 | [You bet!](https://open.spotify.com/track/79tPOqXrPFr2JDCunwgCt7) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [You bet!](https://open.spotify.com/album/3LtckKyDK6gOe3dTgVLpq6) | 3:42 | 2023-12-08 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNjY4NjAsMDAwMDAwMDAxNzc4NmE1YzhlYmFjNzFlOTZiNjdkZDk2MWQyNzQ1NQ==",
+  "snapshot_id": "MjgzNjY4NjAsMDAwMDAwMDBlN2Q0NzE0ZGM2MDQwMDRiYzA1Y2Q2ODQ5ZDBlYzMxNw==",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "One Word",
+        "url": "https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe"
+      },
+      "artists": [
+        {
+          "name": "Persefone",
+          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
+        }
+      ],
+      "duration_ms": 357924,
+      "name": "One Word",
+      "url": "https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Facing The Sideways Rain",
         "url": "https://open.spotify.com/album/5HBMgTLkTcuqtbcdO9Oszx"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 342597,
       "name": "Facing The Sideways Rain",
       "url": "https://open.spotify.com/track/6ERGlzfgM0WRpvgraiXbdU"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "One Word",
-        "url": "https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe"
-      },
-      "artists": [
-        {
-          "name": "Persefone",
-          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
-        }
-      ],
-      "duration_ms": 357924,
-      "name": "One Word",
-      "url": "https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc"
     },
     {
       "added_at": "2023-12-08 05:00:00",

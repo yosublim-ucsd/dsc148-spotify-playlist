@@ -1074,10 +1074,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 191090,
       "name": "Murder She Wrote",
       "url": "https://open.spotify.com/track/0tJBeqmWBj0xuqagXetkbl"
+    },
+    {
+      "album": {
+        "name": "Murder She Wrote",
+        "url": "https://open.spotify.com/album/6bWg6jalDjYDpabESVxM8F"
+      },
+      "artists": [
+        {
+          "name": "Brian Puspos",
+          "url": "https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191090,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/5Vg4FhZIbx6z9wPHBlkG4h"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover: <a href="spotify:artist:6W6KuSNP1kE8MJAx6XVU09">Myles Brando</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,523 likes - 66 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,535 likes - 66 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She Ready 2](https://open.spotify.com/track/27rt6BpE2zbjc0GwNWKI2c) | [Myles Brando](https://open.spotify.com/artist/6W6KuSNP1kE8MJAx6XVU09), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [She Ready 2](https://open.spotify.com/album/61dfJtAsI75mR2c0zvf4oJ) | 3:23 |
 | 2 | [Bent](https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Bent](https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL) | 2:50 |
 | 3 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/1jgnKTfOVvOyanrHmGKYe0) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/3C86iW9ahozZFgzNtccPgp) | 2:05 |
-| 4 | [Outside All Night \(feat\. A$AP Rocky & N3WYRKLA\)](https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:22 |
+| 4 | [Outside All Night \(feat\. A$AP Rocky & N3WYRKLA\)](https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:22 |
 | 5 | [ready 2 live!](https://open.spotify.com/track/1hbf3w5z3KXCsIxtcSqNcP) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [ready 2 live!](https://open.spotify.com/album/0w51x7cat5Md51wQIrFH9R) | 2:09 |
 | 6 | [Alone On Christmas](https://open.spotify.com/track/04ZIwjbUaPZzbni4Z5MTUq) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [Alone On Christmas](https://open.spotify.com/album/44Q3Mk0CHcd8fiBNJHHRMx) | 3:42 |
 | 7 | [KITCHEN LIGHTS](https://open.spotify.com/track/4mlP10ICLhXt2QmUf0GkpB) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 5:00 |

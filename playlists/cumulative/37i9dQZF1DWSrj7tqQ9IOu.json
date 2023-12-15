@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Jeanne Bonjour",
+  "description": "The best French indie tracks right now. Cover : Silly Boy Blue",
   "name": "Made in France",
   "tracks": [
     {
@@ -200,6 +200,28 @@
       "duration_ms": 230356,
       "name": "Aidono",
       "url": "https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg"
+    },
+    {
+      "album": {
+        "name": "All day",
+        "url": "https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        },
+        {
+          "name": "Olivia Merilahti",
+          "url": "https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "All day",
+      "url": "https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv"
     },
     {
       "album": {
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 144493,
       "name": "Doucement",
       "url": "https://open.spotify.com/track/7CryBekeeP8H2xrkkOQ7y2"
@@ -5856,7 +5878,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 221986,
       "name": "Premonitions",
       "url": "https://open.spotify.com/track/7hNRsJNe5XSRm8TI4QuZi8"
@@ -6736,6 +6758,24 @@
       "duration_ms": 209582,
       "name": "Stay",
       "url": "https://open.spotify.com/track/7jkJWgGqpS8QrkibLlfMhz"
+    },
+    {
+      "album": {
+        "name": "Stay Tonight",
+        "url": "https://open.spotify.com/album/5FmKYqoVguD3KLINAfW9sn"
+      },
+      "artists": [
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161363,
+      "name": "Stay Tonight",
+      "url": "https://open.spotify.com/track/2cQEVcWkIBoOPk2e6Wtgo7"
     },
     {
       "album": {

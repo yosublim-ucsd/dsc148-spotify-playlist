@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-943 songs - 1 day 16 hr 51 min
+944 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Each glorious entity](https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Each glorious entity](https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r) | 2:13 | 2023-09-18 |  |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-02-15 | 2022-09-15 |
 | [Ebbe](https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS) | [Kia Leonharts](https://open.spotify.com/artist/6EEGgdrklC8HMkuZRXkfTx) | [Ebbe](https://open.spotify.com/album/3ZP0FpVQ6OAJM2Gns4lfOE) | 2:43 | 2021-02-25 | 2023-08-09 |
-| [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 | 2021-05-06 |  |
+| [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 | 2021-05-06 | 2023-12-15 |
 | [Eclipse](https://open.spotify.com/track/0Ck0h2BOe48JxLlPQrl1sV) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Eclipse](https://open.spotify.com/album/2tFttOMbr6jYqnsulIqdAy) | 2:17 | 2020-11-12 | 2021-06-02 |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2021-10-05 | 2023-05-04 |
 | [Eile mit Weile](https://open.spotify.com/track/1kcfjSzBu45W5l0Kav14n6) | [Jens Wechsler](https://open.spotify.com/artist/5BsoSlrs9ny1GMWKpESjyZ) | [Eile mit Weile](https://open.spotify.com/album/6c3kBwd4oRSuX19JUyTJFB) | 2:30 | 2020-08-14\* | 2020-09-16 |
@@ -384,6 +384,7 @@
 | [Introspection](https://open.spotify.com/track/2009vxkuztUlRIwJBHnDB3) | [Amadeo Rossi](https://open.spotify.com/artist/4nUAGaHP7awm9U9E9Cm9GJ) | [Introspection](https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR) | 2:10 | 2020-12-10 | 2023-03-04 |
 | [Irenic](https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Irenic](https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx) | 2:57 | 2023-10-04 |  |
 | [Irises](https://open.spotify.com/track/7azMv5J7HgganI20NqKa9P) | [Jenna Zabrosky](https://open.spotify.com/artist/3UWLIPhm28PKVe5Nun7yf7) | [Irises](https://open.spotify.com/album/4JBuho1GiboA519o6hz6Wd) | 2:57 | 2022-04-15 | 2022-06-08 |
+| [It Rained Last Night](https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [It Rained Last Night](https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo) | 2:12 | 2023-12-12 |  |
 | [I´ll see you again](https://open.spotify.com/track/5h0vdKMbHVfVBNvTaT3IyB) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [The Great Escape](https://open.spotify.com/album/4btrnBcp9tQk4R6DM8R9CY) | 2:43 | 2020-08-14\* | 2021-05-06 |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-01-04 | 2023-08-16 |
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-10-13 |  |

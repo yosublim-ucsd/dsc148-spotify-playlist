@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ไฮไลท์ปี 2023 ฟังเสียงของศิลปินหญิงในประเทศไทย\. Highlights of 2023, listen to women at full volume\. ปก: RedSpin
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,902 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,906 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

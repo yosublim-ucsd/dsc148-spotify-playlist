@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 157652,
       "name": "Didn't It Rain",
       "url": "https://open.spotify.com/track/3MxAT7MRx7V0CL3tVtJby1"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 171173,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 122946,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/5m7sUVVbJoPYcWysXT4NcS"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 155880,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/5QYpxuGQBvYhnqRNbbXS1t"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 160731,
       "name": "Rock Daniel (VD129)",
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 185973,
       "name": "Sleep on Darling Mother",
       "url": "https://open.spotify.com/track/5zwea1dgarGWUuCxOZfDvc"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 214273,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 173688,
       "name": "The Devil Has Thrown Him Down",
       "url": "https://open.spotify.com/track/4kAlnTkUPazNX7rIq03Npw"
@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Rock Me",
+        "url": "https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146773,
+      "name": "There Is Something Within Me",
+      "url": "https://open.spotify.com/track/6bM7JWEqwRTwNfmEMKym5R"
+    },
+    {
+      "album": {
         "name": "The Decca Singles, Vol. 4",
         "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
       },
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 282813,
       "name": "This Train",
       "url": "https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN"

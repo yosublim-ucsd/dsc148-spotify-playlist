@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/6gmKFsmN2zrbUfluAczGuZ"
+      },
+      "artists": [
+        {
+          "name": "Tales of Urbania",
+          "url": "https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131069,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/5yiI18IfeUy42vBMTft4ub"
+    },
+    {
+      "album": {
         "name": "Always There",
         "url": "https://open.spotify.com/album/1V4rk4pnxa3wo4N3HAMH9k"
       },
@@ -1027,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "calm nights",
+        "url": "https://open.spotify.com/album/3YXjQU0fIzU5J7ZELsdqMP"
+      },
+      "artists": [
+        {
+          "name": "giannis wang",
+          "url": "https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "calm nights",
+      "url": "https://open.spotify.com/track/57KG77P6mmQvQassZqe5BI"
+    },
+    {
+      "album": {
         "name": "Camping",
         "url": "https://open.spotify.com/album/1GjAfuFpQgKk3IcbUbjEPN"
       },
@@ -1441,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "Cloudy Haze",
+        "url": "https://open.spotify.com/album/5fzU8llBFqIRTGbVweNrQl"
+      },
+      "artists": [
+        {
+          "name": "Rein Dayz",
+          "url": "https://open.spotify.com/artist/7wiw28FhChBCUr3VYQ68HI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Cloudy Haze",
+      "url": "https://open.spotify.com/track/6tcHiMVFJ2mSL8S0xFZafh"
+    },
+    {
+      "album": {
         "name": "cloudyhead",
         "url": "https://open.spotify.com/album/2MbXVSmzStW4mUMFiUEHdJ"
       },
@@ -1728,6 +1782,24 @@
       "duration_ms": 116756,
       "name": "counting sheep",
       "url": "https://open.spotify.com/track/3x2Y0A58sRnkx2PD9dcbCc"
+    },
+    {
+      "album": {
+        "name": "Cozy",
+        "url": "https://open.spotify.com/album/4AYK42KZsekEDCi1rxnYN5"
+      },
+      "artists": [
+        {
+          "name": "Taipei Tapes",
+          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/4GJmFQTiFcpTHxhu08RIlx"
     },
     {
       "album": {
@@ -3076,7 +3148,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 202849,
       "name": "Get By",
       "url": "https://open.spotify.com/track/1EJh8OljwnAkky8n2eqVnN"
@@ -4868,7 +4940,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 127395,
       "name": "Nice To Meet U",
       "url": "https://open.spotify.com/track/1Pb35g6g0mTuT2FIMSqHwa"
@@ -8039,6 +8111,24 @@
     },
     {
       "album": {
+        "name": "toneHUG",
+        "url": "https://open.spotify.com/album/5VFZutKUl020tCSX5psL6p"
+      },
+      "artists": [
+        {
+          "name": "Max Hayward",
+          "url": "https://open.spotify.com/artist/7BYvlfn9FHd6YH5eTY93zP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "toneHUG",
+      "url": "https://open.spotify.com/track/3AD1MgwJWGEmKQ0CquSs8a"
+    },
+    {
+      "album": {
         "name": "Toyz",
         "url": "https://open.spotify.com/album/0dlp73C5zJvWig7sYMMnV0"
       },
@@ -8162,6 +8252,24 @@
       "duration_ms": 101647,
       "name": "undefined",
       "url": "https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t"
+    },
+    {
+      "album": {
+        "name": "until we meet again",
+        "url": "https://open.spotify.com/album/1uMajXkpkeVrHAwJd3DKTR"
+      },
+      "artists": [
+        {
+          "name": "LVTA",
+          "url": "https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125975,
+      "name": "until we meet again",
+      "url": "https://open.spotify.com/track/4WwnDyJgETzTG7tjHdlM27"
     },
     {
       "album": {

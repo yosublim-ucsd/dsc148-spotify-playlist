@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Roseline Layo
 
-164 songs - 9 hr 32 min
+165 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aicha trambler](https://open.spotify.com/track/5khZ14Ne0o9PoZfbP3oQBB) | [Dj domi 226](https://open.spotify.com/artist/47Ye8a65ZCXhODjHJfwNYQ) | [Aicha trambler](https://open.spotify.com/album/4LsBrpMBybnXbu47iLv0Et) | 2:57 | 2023-09-21 | 2023-10-29 |
 | [Allez Dire](https://open.spotify.com/track/1zxQQU3fRRPnpVKM8bd1cf) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Allez Dire](https://open.spotify.com/album/3Z9MaFaOQTvNmwK0PGrsve) | 3:31 | 2022-10-27 | 2023-05-19 |
 | [Alloco 2 Oeufs](https://open.spotify.com/track/74qcVTGMuaLJUHYwPlyyyD) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j), [Mr Key](https://open.spotify.com/artist/0hqEh6jBZkLJKgUHvb5tRS) | [Alloco 2 Oeufs](https://open.spotify.com/album/1UiTBXnzG2bIIm0MDn3Dfd) | 2:41 | 2022-10-27 | 2022-11-18 |
-| [Allumez](https://open.spotify.com/track/4b8vP4Nxy9RQF8ESYAtpyb) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Allumez](https://open.spotify.com/album/1Svwz2URG49O0mj9XsrhVN) | 4:55 | 2023-07-06 |  |
+| [Allumez](https://open.spotify.com/track/4b8vP4Nxy9RQF8ESYAtpyb) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Allumez](https://open.spotify.com/album/1Svwz2URG49O0mj9XsrhVN) | 4:55 | 2023-07-06 | 2023-12-15 |
 | [Ambiance Mopacho](https://open.spotify.com/track/2M4f4coh903vjprofqQcrW) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Ambiance Mopacho](https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6) | 4:15 | 2023-01-12 |  |
 | [Amour multiprise](https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz) | [Josée Delatour](https://open.spotify.com/artist/3o16PJgfLAo9FSDVyp1p0J) | [Amour multiprise](https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9) | 2:56 | 2023-05-18 | 2023-09-29 |
 | [Avec le cœur](https://open.spotify.com/track/3sjfComvig5HKUYTd82nf8) | [Sarah Liz](https://open.spotify.com/artist/3mGnigZzxWaPaaBucXbdtT) | [Avec le cœur](https://open.spotify.com/album/5NH1NFBjHk0X9ldAZDHVVi) | 3:44 | 2023-11-23 | 2023-12-01 |
@@ -151,6 +151,7 @@
 | [Sur le beat](https://open.spotify.com/track/2Mz0CKrmFgbLxfV44EbOcI) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0), [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Sur le beat](https://open.spotify.com/album/0vrSnFVV7uZ9AzQXpNi5Zz) | 3:29 | 2023-01-26 |  |
 | [Tala N'dile](https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT) | [Tala N'dile](https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW) | 3:54 | 2021-12-20 | 2022-07-29 |
 | [Tala n'dilé](https://open.spotify.com/track/71OGTXMcbDSajFHTEv7RNC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/1N7LMMxLFkvp58rh2X9PFa) | [Tala n'dilé](https://open.spotify.com/album/1Z8uKJAU7A0kwrVTuhtzKS) | 3:53 | 2022-07-28 | 2023-01-06 |
+| [Taper dedans](https://open.spotify.com/track/1shncRrvTSTQtK8hgGFL7m) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Taper dedans](https://open.spotify.com/album/6h8Pa5WVQy0SkwVHw6DDxP) | 2:40 | 2023-12-14 |  |
 | [Tchoutchou Kpangor](https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Tchoutchou Kpangor](https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07) | 3:43 | 2023-06-15 |  |
 | [TCHÔKÔRÔBA](https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [TCHÔKÔRÔBA](https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL) | 3:06 | 2023-02-02 | 2023-07-07 |
 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 | 2023-09-28 | 2023-11-24 |

@@ -2,9 +2,9 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Dhruva Natchathiram
+> Check out the Latest Romance Tracks.<br/>Cover : Fight Club
 
-163 songs - 10 hr 55 min
+164 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/album/1oA5gS57LrStSzavWwXZHx) | 5:04 | 2021-11-29 | 2022-06-21 |
 | [Yaaraiyum Ivlo Azhaga \- From "Sulthan"](https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Yaaraiyum Ivlo Azhaga \(From "Sulthan"\)](https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo) | 4:58 | 2021-11-29 | 2022-10-19 |
 | [Yaaro Yaaro Iva \- From "Pattathu Arasan"](https://open.spotify.com/track/2PLN6smipRqWw3gzKtqoTx) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Mani Amudhavan](https://open.spotify.com/artist/1kSTKro0qSNVuTIzuS6LQa) | [Yaaro Yaaro Iva \(From "Pattathu Arasan"\)](https://open.spotify.com/album/1CbNcQqjEjQfPScUB3MYbp) | 3:37 | 2022-11-16 | 2023-02-16 |
+| [Yaarum Kaanadha \(From "Fight Club"\)](https://open.spotify.com/track/0eZhnyCegKvjpjwInI7veG) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8) | [Yaarum Kaanadha \(From "Fight Club"\)](https://open.spotify.com/album/2US3NIwQ7DavSK8mODYRIJ) | 3:40 | 2023-12-14 |  |
 | [Yaayum Gnaayum](https://open.spotify.com/track/0ttkcK75OlPsU4MUQ3temk) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shivani Panneerselvam](https://open.spotify.com/artist/26EEAR1XpJq1py9GI2xwSI) | [Modern Love \(Chennai\) \[Original Series Soundtrack\]](https://open.spotify.com/album/3YdrTcu1YnQAcjJwnNeYgI) | 3:22 | 2023-05-19 | 2023-07-13 |
 | [Yedharkennai Sandhithai \(From "Kaalangalil Aval Vasantham"\)](https://open.spotify.com/track/22GFLZgrugad8yLVuNk7AD) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA) | [Yedharkennai Sandhithai \(From "Kaalangalil Aval Vasantham"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4ZDRVht7JuzwtcVxrNT9dS) | 1:35 | 2022-09-21 | 2023-05-20 |
 | [Yenadi Penne \- From "Yenni Thuniga"](https://open.spotify.com/track/59SkKZjBaM5DdVJx6ySO27) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp) | [Yenadi Penne \(From "Yenni Thuniga"\)](https://open.spotify.com/album/4beUm217qA0jILLRo4ZUTs) | 3:58 | 2021-12-14 | 2022-11-15 |

@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-677 songs - 1 day 15 hr 49 min
+679 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Dolphin Dance](https://open.spotify.com/track/5KGvJsyIZKQ2bTBzqd3Shh) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Dolphin Dance](https://open.spotify.com/album/4xz7ahUYTnpC8xzWfeDWV3) | 2:46 | 2023-01-12 |  |
 | [Don't Blame Me](https://open.spotify.com/track/5BDOsVUha92UcNnDmZkWTR) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Don't Blame Me](https://open.spotify.com/album/2dfSee4b6Y0iOmiatGOceh) | 3:06 | 2023-04-13 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-04-11 |  |
+| [Don’t believe it](https://open.spotify.com/track/2CwWhS5c1sDfJYIMKhoxPj) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Don’t believe it](https://open.spotify.com/album/7zDFXo0yXWXzQ8qDypDrdY) | 3:08 | 2023-12-15 |  |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-06-14 |  |
 | [Downtrodden](https://open.spotify.com/track/08oIyomJzeb3f79sWVT24b) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Downtrodden](https://open.spotify.com/album/2VWoktWJQb1VQyzjjdC8vU) | 3:08 | 2023-01-05 |  |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-04-11 |  |
@@ -213,6 +214,7 @@
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-10 |  |
 | [Goodbye](https://open.spotify.com/track/6mV94eTaeLShS60zi0lHxv) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Art & Soul](https://open.spotify.com/album/4e4qbotsDrDjZm3yUnVdP4) | 5:36 | 2022-04-11 | 2022-08-18 |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
+| [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/6DL0rKjqsrrvIIVdl0WfUL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/album/39KZ6ZyjrzII5xIgRi4fPf) | 2:53 | 2023-12-15 |  |
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-04-20 |  |
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-04-13 |  |
 | [He Knows I'm Sophisticated](https://open.spotify.com/track/7FoREcrEypkMF3bdA1auQF) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Knows I'm Sophisticated](https://open.spotify.com/album/4w9qBQ0YSTsrDXmXmZoNBf) | 2:47 | 2022-12-22 |  |

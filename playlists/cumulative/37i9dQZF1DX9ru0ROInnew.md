@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Arcangel
 
-202 songs - 13 hr 57 min
+203 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Estamos Bien](https://open.spotify.com/track/7glCSQqV5o6NU88Cn4zPZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Estamos Bien](https://open.spotify.com/album/4BTzqI5BYJZscSgm1TUncT) | 3:28 | 2021-12-09 | 2022-04-29 |
 | [Estamos Clear](https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Estamos Clear](https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x) | 4:35 | 2022-05-03 |  |
 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 | 2022-05-03 |  |
-| [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 | 2022-05-03 |  |
+| [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 | 2022-05-03 | 2023-12-15 |
+| [Flow Cabron](https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8) | [Tali Goya](https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq), [Arcangel](https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu) | [Flow Cabron](https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd) | 3:46 | 2023-05-25 |  |
 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 | 2021-12-09 |  |
 | [Fulete](https://open.spotify.com/track/5fpyo29qRpzaj3jx6bMdCM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Fulete](https://open.spotify.com/album/1IFkjNiY9wkcbcQZFkFWWs) | 3:46 | 2022-05-03 |  |
 | [Gan\-Ga](https://open.spotify.com/track/2J3jxgfp6GWoBsMPIa20oC) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Gan\-Ga](https://open.spotify.com/album/2SiqV96Sb1722dVP4TEDIY) | 3:14 | 2021-12-09 | 2022-04-29 |

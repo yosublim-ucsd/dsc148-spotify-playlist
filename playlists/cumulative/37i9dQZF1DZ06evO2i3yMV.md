@@ -4,13 +4,15 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 50 min
+69 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1st Boom](https://open.spotify.com/track/0ZQaDaNwhVqAuCWY98mXQY) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 1:08 | 2023-12-13 |  |
+| [2nd Boom](https://open.spotify.com/track/1ezQ8Q9pYUXaJ5lAFtoWw7) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 1:33 | 2023-12-14 |  |
 | [3rd Boom](https://open.spotify.com/track/2c4j5tKcZrTJdOkRfPrh2Z) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 0:47 | 2023-12-13 |  |
-| [Aching Nodes](https://open.spotify.com/track/0MJajPeMcWgAUo87zKHjRZ) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU) | 2:59 | 2023-05-02 |  |
+| [4th Boom](https://open.spotify.com/track/5yGttN7cpq88005UeU0EB0) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 1:30 | 2023-12-14 |  |
+| [Aching Nodes](https://open.spotify.com/track/0MJajPeMcWgAUo87zKHjRZ) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU) | 2:59 | 2023-05-02 | 2023-12-15 |
 | [Bready Soul](https://open.spotify.com/track/42hbE9hxMxRDizdr9UkzTj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 4:49 | 2023-11-10 | 2023-12-14 |
 | [Breath Strokes](https://open.spotify.com/track/2AK7aIPe5b1LtIZ7YMyUJP) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [You're Invited](https://open.spotify.com/album/25f18whwKF8gB6U8z7IlZ1) | 2:40 | 2023-05-02 | 2023-05-06 |
 | [Bright Shadows](https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:50 | 2023-05-02 |  |
@@ -23,7 +25,7 @@
 | [Don't Call Me \(feat\. Yuna\)](https://open.spotify.com/track/0Dy8xi4hjZHaZij3I4pyWP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:37 | 2023-05-02 |  |
 | [Dream Chorus](https://open.spotify.com/track/6kEZ1FCPDkCeaDeORgMzzZ) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Dream Chorus](https://open.spotify.com/album/3LsLYmmHtxx3j5aes44tZM) | 2:19 | 2023-05-02 |  |
 | [Drive](https://open.spotify.com/track/6Rspcj5SfbODT0JVlPxmca) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Arama](https://open.spotify.com/artist/3bRj518241KTJEkmDDgv57) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:14 | 2023-05-19 | 2023-09-10 |
-| [Dusty Stars](https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:11 | 2023-05-05 |  |
+| [Dusty Stars](https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:11 | 2023-05-05 | 2023-12-15 |
 | [Early to Dawn \(feat\. Selah Sue\)](https://open.spotify.com/track/3VIQEM7WmXhLBQBahoyPf2) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:38 | 2023-08-27 | 2023-09-10 |
 | [Eats The Tale](https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT) | 3:41 | 2023-08-13 |  |
 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 | 2023-05-02 |  |

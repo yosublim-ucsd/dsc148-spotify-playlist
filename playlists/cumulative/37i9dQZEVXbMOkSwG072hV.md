@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,895 songs - 4 day 1 hr 45 min
+1,896 songs - 4 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Anarrana](https://open.spotify.com/track/3QJSeb51jHsaLxIwSVcs8N) | [MC Japa](https://open.spotify.com/artist/2RzyuZzD2apLpKBELlsOjV) | [Anarrana](https://open.spotify.com/album/2aocmg4mm3KfV0mvbGyveH) | 2:33 | 2022-02-12 | 2022-03-23 |
 | [Ando Meio Desligado](https://open.spotify.com/track/1MhkTY7vEuWR0VfDefE6Lf) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["A Divina Comédia Ou Ando Meio Desligado"](https://open.spotify.com/album/7Brj8kqhEO9Zg4daamMieT) | 4:45 | 2023-05-16 | 2023-05-18 |
 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 | 2022-08-14 | 2022-09-09 |
-| [Anestesiado \- Ao Vivo](https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Anestesiado \(Ao Vivo\)](https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0) | 2:52 | 2023-12-07 |  |
+| [Anestesiado \- Ao Vivo](https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Anestesiado \(Ao Vivo\)](https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0) | 2:52 | 2023-12-07 | 2023-12-15 |
 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF) | 2:55 | 2023-06-13 | 2023-06-15 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-15 | 2022-11-26 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-11-08 | 2023-01-16 |
@@ -634,6 +634,7 @@
 | [Eu Vou Tacar x Essas Hora da Noite](https://open.spotify.com/track/29zKJzP17tazl0BtEaATee) | [Dj Mt Oliveira](https://open.spotify.com/artist/5h9joM2EsxToLaDG7XZM8M) | [Eu Vou Tacar x Essas Hora da Noite](https://open.spotify.com/album/43w7xbaBwdn8lkgXEGWY75) | 2:16 | 2022-10-06 | 2022-11-05 |
 | [Eu Vou Tacar x Essas Hora da Noite](https://open.spotify.com/track/5vOLqik7QlFD5eq3otyXBm) | [Dj Mt Oliveira](https://open.spotify.com/artist/5h9joM2EsxToLaDG7XZM8M), [Mc Alysson](https://open.spotify.com/artist/6j2S2PjYFjQdge0HPc4IRK) | [Eu Vou Tacar x Essas Hora da Noite](https://open.spotify.com/album/5yztPdm5Kb6eYDGoj2Q7an) | 2:16 | 2022-11-04 | 2022-11-27 |
 | [Eu Vou Tomar um Tacacá \- Poze x Joelma](https://open.spotify.com/track/6zVB2lbhbyf5u8Z7FlXma9) | [Deejay Lucca](https://open.spotify.com/artist/5OBENqsuqpWLapuOJTvCsK) | [Eu Vou Tomar um Tacacá \- Poze x Joelma](https://open.spotify.com/album/2VEfCJRPmrMDNQCzEXycTd) | 1:57 | 2023-11-28 | 2023-12-11 |
+| [EU VOU TOMAR UM TACACÁ X JOELMO DO RODO](https://open.spotify.com/track/2N2mexzqyE2KGmgRflQuNk) | [DJ MK De Niterói](https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs), [2L Motta](https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm) | [EU VOU TOMAR UM TACACÁ X JOELMO DO RODO](https://open.spotify.com/album/0SivtPh5Iwv3EhQ2bP3wjf) | 1:13 | 2023-12-14 |  |
 | [Eu\(S\)](https://open.spotify.com/track/36jHpclKntpDEiyLVFoUNE) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Eu\(S\)](https://open.spotify.com/album/47UmbXgK2mtJyfBj1CDIIP) | 3:23 | 2022-07-21 | 2022-07-25 |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-05-27 | 2023-06-25 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-22 | 2022-11-12 |

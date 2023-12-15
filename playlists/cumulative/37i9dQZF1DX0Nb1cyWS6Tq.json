@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 220160,
       "name": "Kick in the Eye",
       "url": "https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms"
@@ -4392,6 +4392,24 @@
       "duration_ms": 245466,
       "name": "The Sanity Assassin",
       "url": "https://open.spotify.com/track/3YOq3S4v776CYTWru41U4V"
+    },
+    {
+      "album": {
+        "name": "Burning from the Inside",
+        "url": "https://open.spotify.com/album/7oaHUMs14oldwahz1WaVaR"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "The Sanity Assassin",
+      "url": "https://open.spotify.com/track/57QSyj5zCax7vmsbALbRpl"
     },
     {
       "album": {

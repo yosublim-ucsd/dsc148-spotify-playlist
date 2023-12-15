@@ -1256,10 +1256,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 213593,
       "name": "MIDDLE CHILD",
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
+    },
+    {
+      "album": {
+        "name": "MIDDLE CHILD",
+        "url": "https://open.spotify.com/album/5WR1nrlurcA3o0vyZEn08G"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218676,
+      "name": "MIDDLE CHILD",
+      "url": "https://open.spotify.com/track/7MLUS3Vu3H1gBuODoAK4Xa"
     },
     {
       "album": {
@@ -1749,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "True to Self",
+        "url": "https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194266,
+      "name": "Somethin Tells Me",
+      "url": "https://open.spotify.com/track/3Jrs7cC2OJNlNSy9VnDOMZ"
+    },
+    {
+      "album": {
         "name": "Somethin Tells Me (Official Video)",
         "url": "https://open.spotify.com/album/3RXMk8a9LQYQXLuCStrEnK"
       },
@@ -1760,7 +1796,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 203520,
       "name": "Somethin Tells Me",
       "url": "https://open.spotify.com/track/5SSmSIjfduI5thuL7wuKS6"
@@ -1968,10 +2004,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 232148,
       "name": "Swimming Pools (Drank)",
       "url": "https://open.spotify.com/track/23RXMgsL67RwKHYy8tJRwF"
+    },
+    {
+      "album": {
+        "name": "Swimming Pools (Drank)",
+        "url": "https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Swimming Pools (Drank)",
+      "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
     },
     {
       "album": {
@@ -2052,10 +2106,36 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+    },
+    {
+      "album": {
+        "name": "The London (feat. J. Cole & Travis Scott)",
+        "url": "https://open.spotify.com/album/4VCUBbgs3uNjwggcq3sk5l"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207248,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/5h0ERFfd8oKj1LoKXTbbWz"
     },
     {
       "album": {
@@ -2081,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "MATA",
+        "url": "https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4UShCEJZnpywR6Y9M86Nu4"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/39FvtdM6WHUOOijXV7Iwup"
       },
@@ -2092,7 +2190,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 150850,
       "name": "The One",
       "url": "https://open.spotify.com/track/483jC5kP5kW7dnYDQ2NMh9"

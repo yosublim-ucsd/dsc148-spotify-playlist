@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-98 songs - 6 hr 42 min
+99 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [India Style](https://open.spotify.com/track/2Dr4gu3NnRA8vyikJMp1pw) | [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Mama India](https://open.spotify.com/album/0Qb4ObiRkJ17EvkYXa10ak) | 6:45 | 2023-10-27 |  |
 | [Inteha\-e\-Ishq \- Stereo Munk Reinterpretation](https://open.spotify.com/track/5yqM3cyY9lQLNOflyHArSG) | [Adnan Qureshi](https://open.spotify.com/artist/3F4hn6cXw4bc2RDWrAWMrL), [STEREO MUNK](https://open.spotify.com/artist/3r7gMVTtZJajmfLVhYH3Pj) | [Inteha\-e\-Ishq \(Stereo Munk Reinterpretation\)](https://open.spotify.com/album/3YZ8rrcC76UkReoBpeG2N2) | 6:30 | 2023-08-18 |  |
 | [Intro](https://open.spotify.com/track/4K0iKx3E9aJD2scXitC4XR) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 1:49 | 2023-10-03 | 2023-12-09 |
-| [Jaipur \- Paul Arcane Remix](https://open.spotify.com/track/5gAQFNZfsa2cZELFVIGdvb) | [Aneesh Gera](https://open.spotify.com/artist/71r2VlqG6rIgUtMS8ugZIP), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Jaipur](https://open.spotify.com/album/5TVhrNGLGRo02hs916Bmx5) | 4:05 | 2023-08-18 |  |
+| [Jaipur \- Paul Arcane Remix](https://open.spotify.com/track/5gAQFNZfsa2cZELFVIGdvb) | [Aneesh Gera](https://open.spotify.com/artist/71r2VlqG6rIgUtMS8ugZIP), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Jaipur](https://open.spotify.com/album/5TVhrNGLGRo02hs916Bmx5) | 4:05 | 2023-08-18 | 2023-12-15 |
 | [Jhanak Jhanak](https://open.spotify.com/track/3IvL7aRZDOsL4kcZ7qq9GV) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Gatha](https://open.spotify.com/artist/010FK25JoVsN1fr5iudnjv) | [Resurface](https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5) | 4:23 | 2023-10-27 |  |
 | [Jhoom](https://open.spotify.com/track/5AQAurxb48jq21Aqq5lsuW) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [Jhoom](https://open.spotify.com/album/0ojrFb00OSynZHJrxNforx) | 5:47 | 2023-08-18 |  |
 | [Kaise](https://open.spotify.com/track/0VycxVlytnXv4pNAWcHKYw) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Sutra](https://open.spotify.com/album/1WJY9xw9KJVtEplbSfn2HU) | 2:40 | 2023-08-18 |  |
@@ -91,6 +91,7 @@
 | [Sauda](https://open.spotify.com/track/6BgHJll6fCYkbBaW52FACV) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Sauda](https://open.spotify.com/album/7mbrC2oMrMrm034VVrVo9F) | 4:37 | 2023-08-18 |  |
 | [Siachen \[Jog Rework\]](https://open.spotify.com/track/5t91oMePoTBy68Gqx871fp) | [Fake Shamans](https://open.spotify.com/artist/3EI9a3jBhsXHQPFYZXJzQi), [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa), [Farhan Ali](https://open.spotify.com/artist/1sYPIiSyj5kE6TjQcvEvb1), [Aizaz Sohail](https://open.spotify.com/artist/69jbAALzkYxF5CgdADXfVM) | [Siachen \[Jog Rework\]](https://open.spotify.com/album/0Bj7DWZ4XIazLZHxreHGhJ) | 5:59 | 2023-08-18 |  |
 | [Sitar Flex](https://open.spotify.com/track/2uQPkioasNry7ehHaEnsyV) | [Sodhivine](https://open.spotify.com/artist/2S6ptKppxWXwvrTaabpeT0) | [Future Bollywood Trap Sounds](https://open.spotify.com/album/6jbG2VTBM4KAD652A2uhxQ) | 2:14 | 2023-08-18 |  |
+| [Softly \- Tiësto Remix](https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Softly \(Tiësto Remix\)](https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa) | 2:17 | 2023-12-14 |  |
 | [Suit Da Lahori](https://open.spotify.com/track/1DCtn0Ketorb33T15aibQX) | [SIDD](https://open.spotify.com/artist/7ok3oCifQBgzKJtiL0z3DU) | [Suit Da Lahori](https://open.spotify.com/album/2piSMhe8zs7Ng1up3KRPf3) | 3:30 | 2023-08-18 |  |
 | [TAAL](https://open.spotify.com/track/7prf1EivUElMLAQKBIoAcq) | [No Nazar](https://open.spotify.com/artist/2UUScVfE9qx9DAaWaD77DV), [DJ SUDI](https://open.spotify.com/artist/2pWqceB8JtcmbGm1WzWwgO), [Bianca Maieli](https://open.spotify.com/artist/5l5EeVNICQYXxMTe5oRqtG), [MTooray](https://open.spotify.com/artist/04bM00N2mc60qymFNlhElS) | [Piano Bazaar](https://open.spotify.com/album/0lx2QNZKKM2eE7YRqnnvBK) | 4:50 | 2023-08-18 |  |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-08-18 |  |

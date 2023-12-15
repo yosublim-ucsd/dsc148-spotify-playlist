@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 71620,
+  "num_followers": 71649,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 257386,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "L.A.B",
         "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
@@ -619,6 +599,26 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
         "name": "Durand Jones & The Indications (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "Man of the Universe",
-      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "L.A.B",
         "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 258200,
       "name": "Starry Eyes",
       "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Man of the Universe",
+      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213192,
-      "name": "Blue Magic (Waikiki)",
-      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "Honest Man",
         "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 325145,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213192,
+      "name": "Blue Magic (Waikiki)",
+      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Feels So Good (Don\u2019t It)",
-        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
-      },
-      "artists": [
-        {
-          "name": "Secret Rendezvous",
-          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
-        }
-      ],
-      "duration_ms": 209524,
-      "name": "Feels So Good Don\u2019t It",
-      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 214960,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Feels So Good (Don\u2019t It)",
+        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
+      },
+      "artists": [
+        {
+          "name": "Secret Rendezvous",
+          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
+        }
+      ],
+      "duration_ms": 209524,
+      "name": "Feels So Good Don\u2019t It",
+      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+        "name": "Ben L'Oncle Soul",
+        "url": "https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
         }
       ],
-      "duration_ms": 185333,
-      "name": "O-O-H Child",
-      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
+      "duration_ms": 222453,
+      "name": "Soulman - New English Version",
+      "url": "https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1223,6 +1223,22 @@
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "O-O-H Child",
+      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1255,22 +1271,6 @@
       "duration_ms": 247560,
       "name": "Oh No (Man)",
       "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
-        "name": "Ben L'Oncle Soul",
-        "url": "https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Soulman - New English Version",
-      "url": "https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "A Love Story",
-        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
+        "name": "The Woman I Am",
+        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
       },
       "artists": [
         {
-          "name": "Vivian Green",
-          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Fanatic",
-      "url": "https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j"
+      "duration_ms": 352466,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j"
     }
   ],
   "unique_name": "Soulful Day",

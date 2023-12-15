@@ -635,6 +635,32 @@
     },
     {
       "album": {
+        "name": "Beauty of Silence (VIP Mix)",
+        "url": "https://open.spotify.com/album/74qJBuViaaymDTFxi0LfkH"
+      },
+      "artists": [
+        {
+          "name": "MR.BLACK",
+          "url": "https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU"
+        },
+        {
+          "name": "Svenson & Gielen",
+          "url": "https://open.spotify.com/artist/0u3QU5dRkT3Xeioo16EUtV"
+        },
+        {
+          "name": "Johan Gielen",
+          "url": "https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195485,
+      "name": "Beauty of Silence - VIP Mix",
+      "url": "https://open.spotify.com/track/3liSV859pCLM7WN1ZPqCOq"
+    },
+    {
+      "album": {
         "name": "Bel Mercy",
         "url": "https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE"
       },

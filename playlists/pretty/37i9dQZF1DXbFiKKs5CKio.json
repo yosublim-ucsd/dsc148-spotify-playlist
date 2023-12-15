@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 53163,
+  "num_followers": 53204,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+        "name": "s\u00f3 eu sei",
+        "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
       },
       "artists": [
         {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
         }
       ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
+      "duration_ms": 115636,
+      "name": "s\u00f3 eu sei",
+      "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
-        "name": "s\u00f3 eu sei",
-        "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
       },
       "artists": [
         {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
         }
       ],
-      "duration_ms": 115636,
-      "name": "s\u00f3 eu sei",
-      "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
+        "name": "That's Why I Love You",
+        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        },
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "That's Why I Love You",
+      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
         "name": "Me Faz Sentir",
         "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 231402,
       "name": "Me Faz Sentir",
       "url": "https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
-        "name": "That's Why I Love You",
-        "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
-      },
-      "artists": [
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        },
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "That's Why I Love You",
-      "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
     },
     {
       "added_at": "2023-12-08 13:39:11",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-12-08 13:39:11",
       "album": {
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+    },
+    {
+      "added_at": "2023-12-08 13:39:11",
+      "album": {
         "name": "Dava Praia",
         "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2023-12-08 13:39:11",
-      "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
     },
     {
       "added_at": "2023-12-08 13:39:11",

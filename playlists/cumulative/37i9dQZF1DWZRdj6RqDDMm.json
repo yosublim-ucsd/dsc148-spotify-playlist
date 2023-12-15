@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 163200,
       "name": "123",
       "url": "https://open.spotify.com/track/5Zp4NRY9001doayfXBuzYq"
@@ -180,6 +180,24 @@
       "duration_ms": 163266,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1aJb5rl14uELMauKzgjW0v"
+    },
+    {
+      "album": {
+        "name": "Always Coming Through",
+        "url": "https://open.spotify.com/album/2F0azKEzn7ClTl91zdsFX5"
+      },
+      "artists": [
+        {
+          "name": "Ugee Royalty",
+          "url": "https://open.spotify.com/artist/1upKp4bI2MbgvvfVXTxakF"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300700,
+      "name": "Always Coming Through",
+      "url": "https://open.spotify.com/track/2EueEf9GMN9ppShrQYuhPk"
     },
     {
       "album": {
@@ -402,7 +420,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 128815,
       "name": "change me",
       "url": "https://open.spotify.com/track/2g891NqR60cX6EVNcjNzeD"
@@ -971,6 +989,24 @@
     },
     {
       "album": {
+        "name": "I Thank the Lord",
+        "url": "https://open.spotify.com/album/6DxGpp2IN37GnoEO8zGEDB"
+      },
+      "artists": [
+        {
+          "name": "Pv Idemudia",
+          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196169,
+      "name": "I Thank the Lord",
+      "url": "https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA"
+    },
+    {
+      "album": {
         "name": "I Will Pray",
         "url": "https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn"
       },
@@ -1218,7 +1254,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 196820,
       "name": "Mighty",
       "url": "https://open.spotify.com/track/6CpeBLNw7lzMnokEYgUjzf"
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 153600,
       "name": "Morning",
       "url": "https://open.spotify.com/track/4CePds7i6rqVBH0bD1vTIz"
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 187887,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0N6IfamxoAVLnqKGzTG97D"

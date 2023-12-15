@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Massimo Pericolo.  <a href=\"spotify:playlist:37i9dQZF1DWYQKKZPHGppf\">Scopri il Best Of del 2023 qui!</a>",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Rhove, ANNA.  <a href=\"spotify:playlist:37i9dQZF1DWYQKKZPHGppf\">Scopri il Best Of del 2023 qui!</a>",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 154105,
       "name": "1 MESSAGGIO",
       "url": "https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu"
@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "FEDE II",
+        "url": "https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/6nwsTLwf3gxDJcWgjilg4o"
+    },
+    {
+      "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
       },
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 226557,
       "name": "CVLT (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6hANXZUS2wryG1zSocof7J"
@@ -2662,6 +2680,32 @@
       "duration_ms": 168037,
       "name": "DUALIPA E DABABY",
       "url": "https://open.spotify.com/track/1vuSsLVeIb5tSAQsLrlyhV"
+    },
+    {
+      "album": {
+        "name": "Ultimo piano",
+        "url": "https://open.spotify.com/album/18frnKzFZcE7T8NqELRzOr"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175260,
+      "name": "E.T.A. (feat. J Balvin & Geolier)",
+      "url": "https://open.spotify.com/track/5MM97FmbSq9I2azOWBvXAY"
     },
     {
       "album": {
@@ -2946,7 +2990,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 149684,
       "name": "FASHION",
       "url": "https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa"
@@ -3697,6 +3741,28 @@
     },
     {
       "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156447,
+      "name": "HOODRICH",
+      "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"
+    },
+    {
+      "album": {
         "name": "PAIN",
         "url": "https://open.spotify.com/album/41grqs0jslpaOFto4UghCq"
       },
@@ -4296,6 +4362,32 @@
       "duration_ms": 172173,
       "name": "La Haine",
       "url": "https://open.spotify.com/track/4HQAiEh8J9MIFmtLzuB24a"
+    },
+    {
+      "album": {
+        "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
+        "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242540,
+      "name": "La Merce Pi\u00f9 Buona (feat. Emis Killa & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/1QuMDggqlPRHM4BRXVkPV9"
     },
     {
       "album": {
@@ -5038,7 +5130,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 188400,
       "name": "Mare d'Inverno (feat. ARIETE & VillaBanks)",
       "url": "https://open.spotify.com/track/6jBojPXv2qWNMuiorvrGnX"
@@ -5090,7 +5182,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 166285,
       "name": "MAY DAY",
       "url": "https://open.spotify.com/track/6t6x5aKlmeTXTQ0OlYr9lg"
@@ -6677,6 +6769,28 @@
     },
     {
       "album": {
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+    },
+    {
+      "album": {
         "name": "Pioggia",
         "url": "https://open.spotify.com/album/3vVqHdErmdhflt7QZXCLoz"
       },
@@ -7320,7 +7434,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 207435,
       "name": "RED&BLUE",
       "url": "https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG"
@@ -7386,10 +7500,54 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 226640,
       "name": "Restare (feat. Lazza)",
       "url": "https://open.spotify.com/track/4Vguuo2E1onl5knqW1X3fH"
+    },
+    {
+      "album": {
+        "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
+        "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "Restiamo Soli (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/4AwTEoiu3pfu1TZWtabJAV"
+    },
+    {
+      "album": {
+        "name": "Maltempo",
+        "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Ricordi Sbiaditi (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6"
     },
     {
       "album": {
@@ -7668,7 +7826,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 141116,
       "name": "SELE\u00c7AO (prod. MILES) 07.07.23",
       "url": "https://open.spotify.com/track/20vV3sZSFlDW4JMmJ0HNW7"
@@ -7844,7 +8002,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 184931,
       "name": "Shawty (feat. ANNA)",
       "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
@@ -8234,6 +8392,28 @@
       "duration_ms": 181266,
       "name": "Star (feat. Shiva)",
       "url": "https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw"
+    },
+    {
+      "album": {
+        "name": "Maltempo",
+        "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172601,
+      "name": "Storia Infinita (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a"
     },
     {
       "album": {
@@ -8792,6 +8972,24 @@
       "duration_ms": 181714,
       "name": "Un milione di volte (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+    },
+    {
+      "album": {
+        "name": "URAGANO DAMN",
+        "url": "https://open.spotify.com/album/6oOFkn3ItIWb1LPSZZbEEL"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202357,
+      "name": "URAGANO DAMN",
+      "url": "https://open.spotify.com/track/39bXW89KZH4V1T3zlstiap"
     },
     {
       "album": {

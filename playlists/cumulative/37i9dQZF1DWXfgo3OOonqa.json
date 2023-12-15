@@ -10483,6 +10483,24 @@
     },
     {
       "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158035,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt"
+    },
+    {
+      "album": {
         "name": "Homicide",
         "url": "https://open.spotify.com/album/2XIuHPp2PdrbKjD6COSolz"
       },

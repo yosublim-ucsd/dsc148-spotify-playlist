@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 154822,
+  "num_followers": 154847,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
+        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
+        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
         "name": "Zurukunai?",
         "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 208981,
       "name": "Zurukunai?",
       "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 181046,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
+        "name": "ADVENTURE",
+        "url": "https://open.spotify.com/album/7bUJ1pvnhxdbFA7DyY0DJf"
+      },
+      "artists": [
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Mystical Composer",
+      "url": "https://open.spotify.com/track/70aHCdlGCMaUmoFRyrA8gO"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
         "name": "Smoky Valley",
         "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
@@ -1199,6 +1215,22 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
         "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
         "url": "https://open.spotify.com/album/0SVLXumBBt6UUTALwxn67y"
       },
@@ -1219,22 +1251,6 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
-      },
-      "artists": [
-        {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
-        }
-      ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
         "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
         "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
       },
@@ -1247,6 +1263,22 @@
       "duration_ms": 249254,
       "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
       "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
+        "name": "Summer Ghost",
+        "url": "https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 222255,
+      "name": "Summer Ghost",
+      "url": "https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1275,22 +1307,6 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "Summer Ghost",
-        "url": "https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 222255,
-      "name": "Summer Ghost",
-      "url": "https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
         "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
         "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
-        "name": "AURORA TOKIO",
-        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
-      },
-      "artists": [
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
-        }
-      ],
-      "duration_ms": 215913,
-      "name": "AURORA TOKIO",
-      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "ADVENTURE",
-        "url": "https://open.spotify.com/album/7bUJ1pvnhxdbFA7DyY0DJf"
-      },
-      "artists": [
-        {
-          "name": "Momoko Kikuchi",
-          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Mystical Composer",
-      "url": "https://open.spotify.com/track/70aHCdlGCMaUmoFRyrA8gO"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
         "name": "The Lover",
         "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
       },
@@ -1375,6 +1359,38 @@
       "duration_ms": 225369,
       "name": "Venus Flytrap feat. Chiaki Sato",
       "url": "https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
+        "name": "AURORA TOKIO",
+        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "duration_ms": 215913,
+      "name": "AURORA TOKIO",
+      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1411,22 +1427,6 @@
       "duration_ms": 264963,
       "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
       "url": "https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
-        "name": "\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1495,30 +1495,6 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "Love Like A Bomb (feat. \u3072\u304b\u308a) [Desired Remix]",
-        "url": "https://open.spotify.com/album/1U18QgOoGhPvc36GYpVTeF"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a) - Desired Remix",
-      "url": "https://open.spotify.com/track/0DYzitVv6vogVzbf3Vkz2j"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
         "name": "PRIVATE",
         "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
@@ -1551,18 +1527,26 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "\u3072\u304b\u308a\u3092\u305f\u3081\u308b",
-        "url": "https://open.spotify.com/album/29eOgjIEgs8jsZ9h8m8TJm"
+        "name": "Love Like A Bomb (feat. \u3072\u304b\u308a) [Desired Remix]",
+        "url": "https://open.spotify.com/album/1U18QgOoGhPvc36GYpVTeF"
       },
       "artists": [
         {
-          "name": "whaledontsleep",
-          "url": "https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
         }
       ],
-      "duration_ms": 149863,
-      "name": "\u3072\u304b\u308a\u3092\u305f\u3081\u308b",
-      "url": "https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg"
+      "duration_ms": 213333,
+      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a) - Desired Remix",
+      "url": "https://open.spotify.com/track/0DYzitVv6vogVzbf3Vkz2j"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 243600,
       "name": "Change My Life",
       "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
+        "name": "\u3072\u304b\u308a\u3092\u305f\u3081\u308b",
+        "url": "https://open.spotify.com/album/29eOgjIEgs8jsZ9h8m8TJm"
+      },
+      "artists": [
+        {
+          "name": "whaledontsleep",
+          "url": "https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp"
+        }
+      ],
+      "duration_ms": 149863,
+      "name": "\u3072\u304b\u308a\u3092\u305f\u3081\u308b",
+      "url": "https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 176919,
-      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
         "name": "NO TIME",
         "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 160298,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
+        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 176919,
+      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
     },
     {
       "added_at": "2023-12-12 15:00:00",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: <a href="spotify:artist:7dYb5EKtRnRaWM0GQ12cKC">June Freedom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,734 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,740 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PARIS FASHION WEEK](https://open.spotify.com/track/3qtabYdFrlvU4zhsJkemMB) | [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [PLEASE DON’T STEAL MY CLOTHES](https://open.spotify.com/album/0QcpiVOJZ5wlCpcen2xSNc) | 1:59 |
-| 2 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 |
+| 2 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 |
 | 3 | [Tatum Jersey](https://open.spotify.com/track/2GCqLhaZdBdK2CUzyyrwqe) | [Chavo](https://open.spotify.com/artist/6nlHpSAfPX5rJCuRKF2997) | [You Get The Picture](https://open.spotify.com/album/1QRldUZau2pxqDUoTAUYYD) | 2:07 |
 | 4 | [FALLBACK](https://open.spotify.com/track/0v1WlVvr0XXoSziUdR5vmS) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:31 |
 | 5 | [Say Salud](https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Say Salud](https://open.spotify.com/album/6Yk2SJXrtKsP64Sdn1y3Z6) | 2:36 |

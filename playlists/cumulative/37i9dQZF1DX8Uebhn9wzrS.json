@@ -14580,7 +14580,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 138000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic"
@@ -16009,6 +16009,24 @@
     },
     {
       "album": {
+        "name": "lite",
+        "url": "https://open.spotify.com/album/3pd6RWbrq8w1QzkrIPHXxJ"
+      },
+      "artists": [
+        {
+          "name": "Hype Right",
+          "url": "https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119166,
+      "name": "lite",
+      "url": "https://open.spotify.com/track/4IXfJbHFwjkDKLKBS9IZwK"
+    },
+    {
+      "album": {
         "name": "Little Waves",
         "url": "https://open.spotify.com/album/1o8d0S1TJQDDedjoZ64JQo"
       },
@@ -16400,10 +16418,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 172024,
       "name": "Long Green",
       "url": "https://open.spotify.com/track/4ADWxy7ycP8yvfYvbKrgro"
+    },
+    {
+      "album": {
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/7bmRiZrMzbxwGPcvXw7sP6"
+      },
+      "artists": [
+        {
+          "name": "beatmon",
+          "url": "https://open.spotify.com/artist/57e9NWmKBJnNbKmEf4qOrk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115500,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/05GlRiSvnaggtZNRUa2uC0"
     },
     {
       "album": {
@@ -18906,7 +18942,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 135375,
       "name": "Mowet",
       "url": "https://open.spotify.com/track/39U3Csv6FnR77n4dZURepR"
@@ -20386,6 +20422,24 @@
       "duration_ms": 153600,
       "name": "Offspring",
       "url": "https://open.spotify.com/track/6lFJzrG2tEtKSq1sLCS4Bu"
+    },
+    {
+      "album": {
+        "name": "Oh Dear, its been a while",
+        "url": "https://open.spotify.com/album/6nxkxz1XLZ1Bnoyb0a810x"
+      },
+      "artists": [
+        {
+          "name": "Yankee Hart",
+          "url": "https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Oh Dear, its been a while",
+      "url": "https://open.spotify.com/track/1K9eYINfBVuW75487aGHrm"
     },
     {
       "album": {

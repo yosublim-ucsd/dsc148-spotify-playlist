@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-401 songs - 15 hr 12 min
+404 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [after dinner](https://open.spotify.com/track/3Ex8PXxB8xvF3LhICLm3KO) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [after dinner](https://open.spotify.com/album/2VfKcBtw3AluUKzW3zNgRa) | 2:46 | 2022-09-09 | 2023-09-05 |
 | [Afternoon Beat](https://open.spotify.com/track/3KIoACy4ofzCGGhqQFwTjn) | [Teenage Man](https://open.spotify.com/artist/0xjzjMBQw0sBH94feNt7n5) | [Afternoon Beat](https://open.spotify.com/album/4UdpnbyxbeC0CUx9hmb9Or) | 2:14 | 2022-09-30 | 2023-09-05 |
 | [Albatross](https://open.spotify.com/track/1R1MbRt1HmKWjgl0GSC0kf) | [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Albatross](https://open.spotify.com/album/0Dc7pbAboZYZJbp5dTUteW) | 1:22 | 2022-09-09 | 2023-01-07 |
+| [Altitude](https://open.spotify.com/track/5yiI18IfeUy42vBMTft4ub) | [Tales of Urbania](https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX) | [Altitude](https://open.spotify.com/album/6gmKFsmN2zrbUfluAczGuZ) | 2:11 | 2023-12-15 |  |
 | [An afternoon in Paris](https://open.spotify.com/track/12wVnuhk0HNmuoJ0XxUsZi) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [An afternoon in Paris](https://open.spotify.com/album/4vlbxUJW7e1L4teaGQjxLd) | 1:48 | 2022-11-18 | 2023-09-05 |
 | [Asteroid Belt](https://open.spotify.com/track/3KXeYDYMZO6rYIQEecFXcK) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [Uranus](https://open.spotify.com/album/05htkdTKd7Skemxf7T94Cf) | 2:17 | 2022-09-09 | 2022-10-29 |
 | [Atenas](https://open.spotify.com/track/4FkOI2R2sm3WDdPQgbx84z) | [Sintencion](https://open.spotify.com/artist/3rKdj5m4CAvH3kpD0b8SJl) | [Atenas](https://open.spotify.com/album/4y2q9NpFqqDZM9IJMLZ2Z4) | 4:49 | 2022-09-09 | 2023-09-05 |
@@ -34,6 +35,7 @@
 | [Behind the stars](https://open.spotify.com/track/2Qu8fz0Ae2tNvBefZoZIJF) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Behind the stars](https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9) | 2:22 | 2023-11-17 |  |
 | [Belorá](https://open.spotify.com/track/0TjZORJlPmVEbJSmxmsqgm) | [Papir Chaser](https://open.spotify.com/artist/64jtTdqJ8iLVkpbiQvBfy2) | [Belorá](https://open.spotify.com/album/7cUx2Ie3a8B95wQSoW8oki) | 2:08 | 2022-09-09 | 2023-01-13 |
 | [Bliss](https://open.spotify.com/track/3VfDlMZBq7GQ1L8ghRBID3) | [Afternoon In Stereo](https://open.spotify.com/artist/2eYljohSyHpRPrMM5sN8k8) | [Bliss](https://open.spotify.com/album/0UQSt0TXM7bv0n1lPmbC9i) | 2:01 | 2022-09-09 | 2023-01-20 |
+| [blossom](https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [blossom](https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U) | 2:17 | 2023-12-15 |  |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Blue Bird \(Naruto\)](https://open.spotify.com/track/2HYPqSwitksTpCFzYmP7Po) | [Otaku](https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA) | [Anime Lofi Vol\. 1](https://open.spotify.com/album/1e6MOfioKrfJQDUZBKWKBm) | 1:51 | 2022-09-09 | 2022-12-24 |
 | [Blue Moon Boys](https://open.spotify.com/track/0OkPqjJ4mJNZZbcwW1pzzv) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Blue Moon Boys](https://open.spotify.com/album/6fTZl1fGfyGQx88rUCWOaJ) | 2:54 | 2022-11-11 |  |
@@ -198,7 +200,7 @@
 | [Let Yourself Go](https://open.spotify.com/track/6laaoorH4dMBzxbHwOjqYi) | [Chuttersnap](https://open.spotify.com/artist/3AMiRynEiWSUzZ5yNkV4ku) | [Let Yourself Go](https://open.spotify.com/album/3E0tKMbK7kdetOap91qaY1) | 2:08 | 2022-12-09 |  |
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-09-08 |  |
 | [Lights Out](https://open.spotify.com/track/0kYQSFd5wZUOaxoe5CHsNY) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Lights Out](https://open.spotify.com/album/7sGsMM5RfNCcH3u4sfrwk8) | 2:12 | 2022-10-28 |  |
-| [Like a Chameleon](https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Like a Chameleon](https://open.spotify.com/album/5oSBoD1IusxIf8wcn8P0du) | 1:59 | 2023-11-17 |  |
+| [Like a Chameleon](https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Like a Chameleon](https://open.spotify.com/album/5oSBoD1IusxIf8wcn8P0du) | 1:59 | 2023-11-17 | 2023-12-15 |
 | [lite](https://open.spotify.com/track/4IXfJbHFwjkDKLKBS9IZwK) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [lite](https://open.spotify.com/album/3pd6RWbrq8w1QzkrIPHXxJ) | 1:59 | 2023-12-08 |  |
 | [Little Cloud](https://open.spotify.com/track/70GWHagnyrzyKf6e227ScK) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Milky Moustache Beats](https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu) | [Little Cloud](https://open.spotify.com/album/6OIPgL6LLPAQVFX4CqWk7h) | 2:24 | 2022-09-09 | 2022-12-16 |
 | [Long Time](https://open.spotify.com/track/0LV7tvc3Y45H7w8Pf9VtVR) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Long Time](https://open.spotify.com/album/4sWW2iBS1PUFuQGiKmJdUc) | 2:00 | 2022-11-11 |  |
@@ -280,6 +282,7 @@
 | [Panini](https://open.spotify.com/track/5W88jaxH2UoN0FNvPPp9yr) | [Pinetops Winston](https://open.spotify.com/artist/3Ypfonvr3ggb1Fe3OaYpEd) | [Panini](https://open.spotify.com/album/5oLRoaRNQPEPwb33HQeWKr) | 2:15 | 2022-09-16 |  |
 | [Paradise Found](https://open.spotify.com/track/1Mp9NQH50fNVtrAhlaAd4W) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx) | [Paradise Found](https://open.spotify.com/album/4xs7qmi2CHlnvGyMa21j6h) | 2:41 | 2022-09-09 | 2023-01-07 |
 | [Parasail](https://open.spotify.com/track/2OwPp70goeC7P9CssKuoZu) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Parasail](https://open.spotify.com/album/4Z08VcpuWOJsNgzGqYKtrP) | 1:40 | 2022-09-09 | 2022-12-03 |
+| [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 | 2023-12-15 |  |
 | [Pockets Full Of](https://open.spotify.com/track/1rqBSlF38nYSLjBbFr4hQf) | [Smoke & Beard](https://open.spotify.com/artist/6bRRD6xRqNwi1rhu6Lbzfn), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Pockets Full Of](https://open.spotify.com/album/7ux10GEYePmAXNO5MkdtvR) | 2:36 | 2022-11-11 | 2023-10-13 |
 | [Pond Jumping](https://open.spotify.com/track/3Sy7c30lh7w6L9olCcm1FE) | [Ippi](https://open.spotify.com/artist/5Apq17wh3bdYdX52rCYkQK) | [Pond Jumping](https://open.spotify.com/album/7z1hKpabLTophAUB2oGTq2) | 2:19 | 2022-10-14 |  |
 | [Praia](https://open.spotify.com/track/1cuxh6enmOiOgmEWVmVSzQ) | [Bossalova](https://open.spotify.com/artist/4JXUnImsKl7XbjQge1FDve) | [Praia](https://open.spotify.com/album/4yzHH9rmYqn1AmmPDP9BEu) | 2:12 | 2022-10-14 | 2023-09-29 |

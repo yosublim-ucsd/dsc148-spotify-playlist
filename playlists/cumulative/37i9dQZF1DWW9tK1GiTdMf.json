@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
@@ -4491,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "ESAGERATA",
+        "url": "https://open.spotify.com/album/3YJWHl0WUHIDErzwuna4l0"
+      },
+      "artists": [
+        {
+          "name": "PRINCIPE",
+          "url": "https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "ESAGERATA",
+      "url": "https://open.spotify.com/track/7w6ywduIXKd5NvQiZzduju"
+    },
+    {
+      "album": {
         "name": "Estranei",
         "url": "https://open.spotify.com/album/5tL8W7fnVBt3KoPS2E7wvH"
       },
@@ -4781,6 +4799,32 @@
     },
     {
       "album": {
+        "name": "Fare a meno di te",
+        "url": "https://open.spotify.com/album/7kIOtERD9jbfcfJIIJ751s"
+      },
+      "artists": [
+        {
+          "name": "v!ktoria",
+          "url": "https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu"
+        },
+        {
+          "name": "Tiasnow",
+          "url": "https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe"
+        },
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156562,
+      "name": "Fare a meno di te",
+      "url": "https://open.spotify.com/track/7J3cQLMWfIUj1SJZW3MKck"
+    },
+    {
+      "album": {
         "name": "Farmaci in bustine",
         "url": "https://open.spotify.com/album/4NuSzjkAg3Tu6lLGTS9QdZ"
       },
@@ -4796,6 +4840,24 @@
       "duration_ms": 171456,
       "name": "Farmaci in bustine",
       "url": "https://open.spotify.com/track/0QzwyqqXT20TY2cneTmLz3"
+    },
+    {
+      "album": {
+        "name": "FARMI MALE",
+        "url": "https://open.spotify.com/album/4M4rlrFtXQ3Vpwb1OTwcyE"
+      },
+      "artists": [
+        {
+          "name": "Wenzo",
+          "url": "https://open.spotify.com/artist/3nZjHRpNZSd3UoqJ7ELysU"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "FARMI MALE",
+      "url": "https://open.spotify.com/track/7eLrapdVU7KGC8m1ygfHgc"
     },
     {
       "album": {
@@ -5424,7 +5486,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 171085,
       "name": "GENERAZIONE Z",
       "url": "https://open.spotify.com/track/2eIZENRFcJPL14ScPKwYO1"
@@ -8122,7 +8184,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 185647,
       "name": "Mare Di Lacrime",
       "url": "https://open.spotify.com/track/35Jwhu5uWV0ekuzxDKCdpU"
@@ -8328,6 +8390,28 @@
       "duration_ms": 159473,
       "name": "Memory card",
       "url": "https://open.spotify.com/track/0aEn53Ylvg9hqBrh3DcvYx"
+    },
+    {
+      "album": {
+        "name": "Meta|verso",
+        "url": "https://open.spotify.com/album/0r0uvaU2cuAlWKSDC6MOeK"
+      },
+      "artists": [
+        {
+          "name": "Evrint Bless",
+          "url": "https://open.spotify.com/artist/6a9h2MsqrQTJqERdiWrMC8"
+        },
+        {
+          "name": "Last Nite",
+          "url": "https://open.spotify.com/artist/1GxITOgjLLxyZd8y6yG34i"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152885,
+      "name": "Meta|verso",
+      "url": "https://open.spotify.com/track/5J9kch9fW17r6bEgyhaZoe"
     },
     {
       "album": {
@@ -9028,6 +9112,28 @@
       "duration_ms": 141473,
       "name": "Non fa x me",
       "url": "https://open.spotify.com/track/1YCED21RSrmC6dSdY6oa5D"
+    },
+    {
+      "album": {
+        "name": "Non ironicamente",
+        "url": "https://open.spotify.com/album/7D87l1oJbleNR1GtVI8p4U"
+      },
+      "artists": [
+        {
+          "name": "Narcolessia",
+          "url": "https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139078,
+      "name": "Non ironicamente",
+      "url": "https://open.spotify.com/track/67h6Vo9zvGSVrxPmXR9WBh"
     },
     {
       "album": {
@@ -9935,6 +10041,24 @@
     },
     {
       "album": {
+        "name": "PEGGIO X ME",
+        "url": "https://open.spotify.com/album/0Ty4csTDjqi50rfMUECSR4"
+      },
+      "artists": [
+        {
+          "name": "LIL CIU",
+          "url": "https://open.spotify.com/artist/1gIo0q3Sj8MHi9DRqiOJlW"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136331,
+      "name": "PEGGIO X ME",
+      "url": "https://open.spotify.com/track/4wf7JDYqfgerUSm7o5D5Xj"
+    },
+    {
+      "album": {
         "name": "penso a te",
         "url": "https://open.spotify.com/album/1ezAixItQx43roebtin0Bc"
       },
@@ -10662,7 +10786,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 177678,
       "name": "Puoi fare meglio",
       "url": "https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV"
@@ -14222,7 +14346,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 225490,
       "name": "Un giorno indietro",
       "url": "https://open.spotify.com/track/2Bjhc9bjOaHAkhIbogmtIl"

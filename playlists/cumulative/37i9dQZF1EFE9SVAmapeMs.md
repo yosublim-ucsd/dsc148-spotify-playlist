@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-56 songs - 3 hr 13 min
+59 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2023-12-13 |  |
 | [Blowing Smoke](https://open.spotify.com/track/4B2OmQGLBVB51aYNgUvXeM) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 3:00 | 2023-12-13 |  |
 | [Bout Mine](https://open.spotify.com/track/4gqrnAtKytouenQdFRW14x) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:27 | 2023-12-13 |  |
-| [CAN'T SAY](https://open.spotify.com/track/7xzD7UFhi5PgwJVUET3ZdK) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [CAN'T SAY](https://open.spotify.com/album/3emvorlWCjeUsOAuKTxE66) | 3:16 | 2023-12-13 |  |
+| [CAN'T SAY](https://open.spotify.com/track/7xzD7UFhi5PgwJVUET3ZdK) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [CAN'T SAY](https://open.spotify.com/album/3emvorlWCjeUsOAuKTxE66) | 3:16 | 2023-12-13 | 2023-12-15 |
+| [CAN'T SAY](https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:18 | 2023-12-14 |  |
 | [Candy](https://open.spotify.com/track/6Ms3n5sUl0Bzg3bMCtUEAw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:56 | 2023-12-13 |  |
 | [Christopher Walking](https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:10 | 2023-12-13 |  |
 | [Cold \(feat\. Kaash Paige\)](https://open.spotify.com/track/4KiGhqUwjvrJqVbiwsMwkV) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 4:37 | 2023-12-13 |  |
@@ -27,7 +28,8 @@
 | [Don't Play](https://open.spotify.com/track/3LI5b1E6jYpMI8zRwuoeMw) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/0YsKj89MQL8KQgGjfWlUnI) | 2:17 | 2023-12-13 |  |
 | [Dreaming](https://open.spotify.com/track/7FWec1Je1DluKGUKZCwkq4) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:54 | 2023-12-13 |  |
 | [Feelings Mutual](https://open.spotify.com/track/5Y3Tj0wJhKAaPbwWxXxZGS) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:53 | 2023-12-13 |  |
-| [GANG GANG](https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 | 2023-12-13 |  |
+| [GANG GANG](https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 | 2023-12-13 | 2023-12-15 |
+| [GANG GANG](https://open.spotify.com/track/1AauIxlmueXbhqhbmzSxTy) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [GANG GANG \(Official Music Video\)](https://open.spotify.com/album/1OIlrGBaFFLI7eWkAxB447) | 4:10 | 2023-12-14 |  |
 | [Get Geeked](https://open.spotify.com/track/5StM7ktQ5TIstPckmRbWWH) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 1:45 | 2023-12-13 |  |
 | [Give N Go](https://open.spotify.com/track/5d042XvyliHl5ndka9Tyz9) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 2:54 | 2023-12-13 |  |
 | [Going Wild](https://open.spotify.com/track/0j5Ur0gX9kl4KOAZgCSKF4) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:13 | 2023-12-13 |  |
@@ -45,7 +47,8 @@
 | [Never Let Up](https://open.spotify.com/track/7yxxOZGMVcYJqUfeDqjEo7) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Surrender Your Soul](https://open.spotify.com/album/4lJR5ozGbDnCvikes1Veck) | 2:30 | 2023-12-13 |  |
 | [NO BYSTANDERS](https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:38 | 2023-12-13 |  |
 | [No Favors](https://open.spotify.com/track/1MksGqIztTT6M9R1ErKVs8) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 5:25 | 2023-12-13 |  |
-| [No Idea](https://open.spotify.com/track/1UMh84TkkryEyu0ECwpyhw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea](https://open.spotify.com/album/5kOXQsc47kkPkMe0CnLoAu) | 2:34 | 2023-12-13 |  |
+| [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2023-12-14 |  |
+| [No Idea](https://open.spotify.com/track/1UMh84TkkryEyu0ECwpyhw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea](https://open.spotify.com/album/5kOXQsc47kkPkMe0CnLoAu) | 2:34 | 2023-12-13 | 2023-12-15 |
 | [Odd Future](https://open.spotify.com/track/1theg4U4CQUh3PHK7uu8Tk) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Odd Future](https://open.spotify.com/album/5SjfLDf3bJsI0duL0ufSZg) | 4:47 | 2023-12-13 |  |
 | [One Mo' Gen](https://open.spotify.com/track/7pwAOy7WJBeSBPbH9lXvI8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:25 | 2023-12-13 |  |
 | [Period.](https://open.spotify.com/track/2DXQ8dS7PkrwgLqgX2t0sh) | [Smoove'L](https://open.spotify.com/artist/6FheakPfcCNN0NeROtOKeQ) | [Ice Cups And Shootouts](https://open.spotify.com/album/4vs6WKFkz4pctlEnLO2uCy) | 2:19 | 2023-12-13 |  |

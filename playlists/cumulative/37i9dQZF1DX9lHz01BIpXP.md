@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i?si=Tj2pMniQQDu3Zm2lEGp2NA">Bigbforever</a>
 
-118 songs - 6 hr 15 min
+119 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Hi Mitchell](https://open.spotify.com/track/0W1f1HfOqPyBQ5VLoc9lgL) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Is Ekke Man](https://open.spotify.com/album/3JLW4br5PUjGqKJklfoHv7) | 1:59 | 2023-02-09 | 2023-03-25 |
 | [Hou Jou Leka](https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [Hou Jou Leka](https://open.spotify.com/album/4VSqBELCwNITeYYx2uPfx0) | 4:23 | 2022-09-08 | 2023-09-29 |
 | [Hou Jou Man Dop](https://open.spotify.com/track/77f9qpCn1u53KwSQYIO4zK) | [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam), [Irshaad Ally](https://open.spotify.com/artist/3oBGG9N0i0jS5rcvNZP80k), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Hou Jou Man Dop](https://open.spotify.com/album/1jFkerCNl3QQ2FtYNQx0qr) | 3:49 | 2022-09-08 | 2023-03-31 |
+| [Hou Vas](https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [Illrow](https://open.spotify.com/artist/7CsyTb53IWkpe2j43VIsg7) | [Hou Vas](https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU) | 3:06 | 2023-12-14 |  |
 | [Innie Boland](https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7) | [Middelvinger](https://open.spotify.com/artist/76vCMjsvbkeG5cUXMU1jBG), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Innie Boland](https://open.spotify.com/album/10sJICqQGgC9KQPie2It2w) | 4:15 | 2022-09-08 | 2023-09-01 |
 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 | 2022-09-08 |  |
 | [Is Duidelik](https://open.spotify.com/track/0XsFvyPoCtoLsZ9oZ2JQsa) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [G Tha Rapper](https://open.spotify.com/artist/2cIvQUkcdnw2vbChJjPYmM) | [Is Duidelik](https://open.spotify.com/album/7sLCM6pQ5S1p967HFWVsfx) | 2:38 | 2022-09-22 | 2023-10-30 |

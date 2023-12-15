@@ -4,7 +4,7 @@
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka?si=BrZ\_qy7VTQqtW6k5J6oDQQ">QUE DJ</a>
 
-161 songs - 14 hr 27 min
+163 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [GWY](https://open.spotify.com/track/0sfYxexj1Sma2UfzLuCyhb) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [Chumza](https://open.spotify.com/artist/0C2qrnrnaf8B3R43gPRxoI) | [Back To Ebombeni \(Deluxe\)](https://open.spotify.com/album/2PPmVL7PqOfCT2p12gSTYO) | 4:46 | 2023-02-03 | 2023-08-25 |
 | [Hbd Dlala Chass](https://open.spotify.com/track/0MvzoUDnJRA6X1nMJIs1gS) | [Team Cpt](https://open.spotify.com/artist/23BjKeGujbA0AHfozSQyQo) | [For The Wait](https://open.spotify.com/album/0X59ANGZKEZQPAJWjn7UYN) | 6:27 | 2022-11-07 | 2023-08-25 |
 | [Hello There](https://open.spotify.com/track/6k2tB7WChbwR9BXAD5LTtH) | [DJ Sandiso](https://open.spotify.com/artist/2o7oc7fiP2eeLgKzKROgVg), [Omagoqa Thela Wayeka](https://open.spotify.com/artist/2qkxv0luKwKIAvFpRByf2g) | [Nande 2.0](https://open.spotify.com/album/4Z7cviz5RPiOFwke0SQ8NH) | 5:40 | 2022-06-30 | 2022-12-13 |
+| [Home Coming](https://open.spotify.com/track/6iBdg8inuT94xLgvlUIisb) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx) | [Home Coming](https://open.spotify.com/album/286IjeJkevfzMSkXlS3Q0y) | 5:39 | 2023-12-14 |  |
 | [Ibhasi](https://open.spotify.com/track/17s4JoacgNUVQSR6G8s2Ql) | [Msetash](https://open.spotify.com/artist/11gwYkHZtfGtIzDXE10xac), [Dlala Lazz](https://open.spotify.com/artist/56conUHVIKn4Tr02Gis3pN) | [Ibhasi](https://open.spotify.com/album/3bHIOci71PkzUQjMpNz9UU) | 5:36 | 2023-04-27 |  |
 | [iCombo](https://open.spotify.com/track/11lrus07lRkJ7WkhxVpN2U) | [Darktonic](https://open.spotify.com/artist/4hEG951PLvU4QhhufyvRNS), [Smiso maLouis](https://open.spotify.com/artist/5lIhGOUFnVuVKYRdW7ywc5) | [iCombo](https://open.spotify.com/album/4dDCfi3lzZ7wSpsotDEz4H) | 5:58 | 2022-07-28 | 2023-05-26 |
 | [iDombolo](https://open.spotify.com/track/6b29YLo9XSeEgF9PTbETJf) | [Bhuda M](https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL) | [iGqom iDombolo](https://open.spotify.com/album/2ZhBoen3D0iLH1k3tge2gM) | 6:21 | 2023-08-24 |  |
@@ -132,6 +133,7 @@
 | [Something Different](https://open.spotify.com/track/3EIhq0ezoBWiuB1pH7glxZ) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Meeting With The King](https://open.spotify.com/album/66ZkSQI3roUFYVDYy5kp9e) | 5:49 | 2022-02-17 | 2023-05-26 |
 | [Speak Of The Town](https://open.spotify.com/track/1YPBILT8eQNbWK7MN6MsUC) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr) | [Speak Of The Town](https://open.spotify.com/album/2vH7GWWu6svyaMkWNKvyvb) | 6:04 | 2021-08-19 | 2022-11-08 |
 | [Speed Limit](https://open.spotify.com/track/60LrKAurxTVnWjmU9sQVtG) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [Back to Ebombeni](https://open.spotify.com/album/47jsuTeh9UiCr2QBozkoIS) | 5:42 | 2022-12-12 | 2023-08-25 |
+| [Super Thing](https://open.spotify.com/track/58HD0SgOiyPBvPq6Ql6cEk) | [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv) | [Super Thing](https://open.spotify.com/album/0EMCAw8NQI9trHjTV6iP3M) | 5:22 | 2023-12-14 |  |
 | [Superman](https://open.spotify.com/track/5RlRzht5rtAeO6CqXMoRKl) | [Griffit Vigo](https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom) | [Art Is Talking](https://open.spotify.com/album/5GxIfUCsJWbFT4GFqoQEHZ) | 5:33 | 2021-12-02 | 2022-11-08 |
 | [Sus Ukshisa](https://open.spotify.com/track/1erGbSVwmZlWhhXPV9fZlZ) | [DJ Fanele](https://open.spotify.com/artist/6M8jIo6oHncJ1oIvHFtbY3) | [Pathway To: Drum's & I 2.0](https://open.spotify.com/album/76It5McaMUdGiPKVSqPku5) | 6:08 | 2022-03-24 | 2022-11-08 |
 | [Thayela](https://open.spotify.com/track/3nPRu3yG0hVuUOJOiW6zo3) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [DaSoul Boyz](https://open.spotify.com/artist/2S7v2kAhRB0rz9ZWDkIezR) | [Road Trip](https://open.spotify.com/album/5AzXeukxvO8Wb1vMMY4v58) | 5:37 | 2022-06-30 | 2023-12-09 |
@@ -139,7 +141,7 @@
 | [The Ozone](https://open.spotify.com/track/0x7jkL0NBuNsWKzdSEd9va) | [Team Cpt](https://open.spotify.com/artist/23BjKeGujbA0AHfozSQyQo), [Dustee Roots](https://open.spotify.com/artist/1Ywz8ROjygZpHrDUOFVEk1), [LindoH](https://open.spotify.com/artist/1JQQEoeDRLQHsAU8OsDuxK) | [The Ozone](https://open.spotify.com/album/6ZyN0Rk5EaitJvoxGv7QRJ) | 6:14 | 2022-02-24 | 2022-12-09 |
 | [This is Too Much](https://open.spotify.com/track/30qRb82NJDdYyTm5xucjqC) | [ChroniQ MusiQ](https://open.spotify.com/artist/2POBQCBCgygfHPqWGvcaQv), [Bhuda M](https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL) | [For The Streets](https://open.spotify.com/album/7jMKWYZvYcgrKB7NW6JYwI) | 5:41 | 2023-08-24 |  |
 | [Thunderstorm](https://open.spotify.com/track/14i6vgvjg5ZnRMKZ26R2uF) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle) | [Tronics Land Series 2](https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I) | 6:04 | 2023-12-08 |  |
-| [Thunderstorm](https://open.spotify.com/track/6t8xc0rGpx11LapBFYU28P) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle) | [Thunderstorm](https://open.spotify.com/album/3HssRiACCnBPuhOBkn8IAe) | 6:04 | 2023-08-24 |  |
+| [Thunderstorm](https://open.spotify.com/track/6t8xc0rGpx11LapBFYU28P) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle) | [Thunderstorm](https://open.spotify.com/album/3HssRiACCnBPuhOBkn8IAe) | 6:04 | 2023-08-24 | 2023-12-15 |
 | [Time Splitter](https://open.spotify.com/track/1Hnt3TjNLtFpOv1LqKsbh1) | [Dlala Chass](https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3), [Woza Spice](https://open.spotify.com/artist/5jXhHXqQusFuDslFf7VJYQ) | [Time Splitter](https://open.spotify.com/album/4pm7vPnxkapigLujLVz7sd) | 6:15 | 2022-03-10 | 2023-05-26 |
 | [Triple X](https://open.spotify.com/track/3wKpTCzEvxUIsex3upHWmy) | [AkiidMusiq](https://open.spotify.com/artist/6hE9NWdMgpcwc3QRWuRaPm) | [Triple X Package](https://open.spotify.com/album/6ayYiIH98TSk6sZOpBwf7k) | 5:41 | 2023-08-24 |  |
 | [Uhayizelani](https://open.spotify.com/track/5HamRh4oj341Q336qcQZEE) | [Abangani Bethu](https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT), [Formation Boyz](https://open.spotify.com/artist/1PpqhQEi4YnNyRVAatLKCW) | [Uhayizelani](https://open.spotify.com/album/18NjQSo84NAi032NOZSGVV) | 5:11 | 2022-06-30 | 2023-08-25 |

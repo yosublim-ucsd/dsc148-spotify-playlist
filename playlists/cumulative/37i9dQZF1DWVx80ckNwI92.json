@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Cincinnati Pumpin!!",
+        "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Cincinatti Pumpin!!",
+      "url": "https://open.spotify.com/track/2tsmBwTvtJ0pU1IViRvsWJ"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/2GcgN5vmoqcWeQx5tk9WeT"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 206400,
       "name": "falling~",
       "url": "https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk"
@@ -852,7 +870,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 209586,
       "name": "I'm On Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
@@ -1480,6 +1498,28 @@
       "duration_ms": 172691,
       "name": "One Sided",
       "url": "https://open.spotify.com/track/0W0s4QcraRtXxzkX92r5Zr"
+    },
+    {
+      "album": {
+        "name": "Cincinnati Pumpin!!",
+        "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122374,
+      "name": "Panic Island",
+      "url": "https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t"
     },
     {
       "album": {

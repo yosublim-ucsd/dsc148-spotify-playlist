@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,701 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,703 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 28 | [Masterpiece \(80s Remix\)](https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx) | [Summer C](https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7) | [Masterpiece \(80s Remix\)](https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z) | 3:58 |
 | 29 | [Mess](https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Mess](https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN) | 3:32 |
 | 30 | [You Look so Good](https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [You Look so Good](https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm) | 2:50 |
-| 31 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 |
-| 32 | [Fix Me](https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk) | 3:25 |
+| 31 | [Fix Me](https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk) | 3:25 |
+| 32 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 |
 | 33 | [Honey Understand](https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5fNeCyH1z4hzntsX0bfRrM) | 4:01 |
 | 34 | [Goals\_](https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Goals\_](https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a) | 3:29 |
 | 35 | [K I'm Mortal](https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [K I'm Mortal](https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P) | 3:40 |
 | 36 | [Abide](https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG) | [Summer C](https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7) | [Abide](https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO) | 3:11 |
-| 37 | [Sorry](https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [Sorry](https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn) | 2:54 |
-| 38 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
+| 37 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
+| 38 | [Sorry](https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [Sorry](https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn) | 2:54 |
 | 39 | [Open up Babe \- Perry twins remix](https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz) | [Wils](https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn), [Perry Twins](https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K) | [Open up Babe \(Perry twins remix\)](https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx) | 4:27 |
 | 40 | [Say My Name](https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Say My Name](https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL) | 2:47 |
 | 41 | [Hyperdome](https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Hyperdome](https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE) | 3:13 |

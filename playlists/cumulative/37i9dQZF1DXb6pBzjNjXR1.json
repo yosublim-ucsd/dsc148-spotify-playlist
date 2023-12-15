@@ -1137,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "Letha",
+        "url": "https://open.spotify.com/album/37pYGgSdq1sWxw9UC6BJx8"
+      },
+      "artists": [
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        },
+        {
+          "name": "Dj Beekay",
+          "url": "https://open.spotify.com/artist/58jrFyEJ3krC8cwAEsA2BM"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "Letha",
+      "url": "https://open.spotify.com/track/42fDq94MjR4FcQCSPVVEuz"
+    },
+    {
+      "album": {
         "name": "Like A Dream (Enoo Napa Remix)",
         "url": "https://open.spotify.com/album/3RnON1jDs8Gj8PaBNMIzif"
       },
@@ -1212,7 +1234,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 353671,
       "name": "Lotjhani",
       "url": "https://open.spotify.com/track/6gW8Lf7fNrzSw39Y50xc7f"
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 453000,
       "name": "Matasa",
       "url": "https://open.spotify.com/track/6G0od201NbSzN4Yutk2Ufc"
@@ -1440,6 +1462,48 @@
       "duration_ms": 248000,
       "name": "Misava",
       "url": "https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll"
+    },
+    {
+      "album": {
+        "name": "Mnike (Shimza Remix) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+        "url": "https://open.spotify.com/album/2snnfAYo8bYrvYLJyRCOd0"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tyrondee",
+          "url": "https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359989,
+      "name": "Mnike (Shimza Remix) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+      "url": "https://open.spotify.com/track/00mVHfhTC2vXrNxTgIofoq"
     },
     {
       "album": {
@@ -2268,7 +2332,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 385001,
       "name": "Tshwala Bami",
       "url": "https://open.spotify.com/track/1t9i8N7VERUnG5oAZbGU5L"

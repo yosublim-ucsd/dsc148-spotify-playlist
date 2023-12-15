@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-555 songs - 20 hr 54 min
+559 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [airless](https://open.spotify.com/track/6mQ7nxbrTeDirFw3wvdFyW) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [kidnapped lofigirl](https://open.spotify.com/album/0QRZoZCgMb4LPmE1ypHKpB) | 1:46 | 2022-11-11 |  |
 | [Alien Signals](https://open.spotify.com/track/3W2uAyn3ifuzD1r5ulraHM) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Simax](https://open.spotify.com/artist/5xvzwrBVjP32lf7rOuKPbB) | [Alien Signals](https://open.spotify.com/album/1KBMGiW3su49XLXY4NyjZB) | 2:21 | 2022-05-20 | 2022-06-10 |
 | [Alignment](https://open.spotify.com/track/459tqykAvuDfgPrWT1XsLn) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Sova](https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY) | 2:29 | 2022-05-20 | 2022-06-10 |
+| [Altitude](https://open.spotify.com/track/5yiI18IfeUy42vBMTft4ub) | [Tales of Urbania](https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX) | [Altitude](https://open.spotify.com/album/6gmKFsmN2zrbUfluAczGuZ) | 2:11 | 2023-12-15 |  |
 | [Altough](https://open.spotify.com/track/79lELM73k1T31gV9tdVVc6) | [Glorio](https://open.spotify.com/artist/2LlUmuRpHPxRL2B2CJDZB4) | [Altough](https://open.spotify.com/album/6Et5Lg5Unk4wULSp7AXm4H) | 2:40 | 2022-09-30 |  |
 | [ambar](https://open.spotify.com/track/0VOuTIdSvi1JdrbUA79hLs) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ambar](https://open.spotify.com/album/6nQPUOURWtXUUBqZpdKw9q) | 2:21 | 2022-07-15 | 2022-09-30 |
 | [Amboise](https://open.spotify.com/track/1aIgoyzrFUzUwJGTlUy4kN) | [Jail Daon](https://open.spotify.com/artist/0n24oVAxK02KVRQLnYN2PK) | [Amboise](https://open.spotify.com/album/0RR86LIQ8WqyRDEh700gzi) | 3:16 | 2022-05-20 | 2023-01-18 |
@@ -61,6 +62,7 @@
 | [Bitter Sea](https://open.spotify.com/track/1i0a3kPuCiCeIA2EHN6s8Y) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Bitter Sea](https://open.spotify.com/album/2KLXdX9AoWq0g0HExG5Wdk) | 2:30 | 2022-05-20 | 2023-11-18 |
 | [Black Sands White Coffee](https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 4:05 | 2022-05-20 | 2022-09-17 |
 | [Black Veil](https://open.spotify.com/track/6geApoVGb7Wxg23daGyiaa) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Black Veil](https://open.spotify.com/album/33JWJhKAfsDmHXb402ecoa) | 1:58 | 2022-09-30 | 2023-11-11 |
+| [blossom](https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [blossom](https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U) | 2:17 | 2023-12-15 |  |
 | [Blue](https://open.spotify.com/track/1L9zi0bBi6DD3wnJPFJPIT) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Blue](https://open.spotify.com/album/0TwX7omh8LLHGBkcfOBth0) | 2:18 | 2022-05-20 | 2023-01-20 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Boarded](https://open.spotify.com/track/3TYZ8OUPMZ0O6AiMRmv5lP) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Boarded](https://open.spotify.com/album/0971OYZtfCZfegzT2TDmqh) | 2:20 | 2022-05-20 | 2022-06-10 |
@@ -307,6 +309,7 @@
 | [Midnight Oil](https://open.spotify.com/track/7MGZ6G0or7ihnQ0zY9MQ5z) | [Mad Seedling](https://open.spotify.com/artist/7BZ7k3A6VWTeuE8i0y5hbu), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Midnight Oil](https://open.spotify.com/album/0olsBDcHn95BV3dwI5KJ6w) | 3:01 | 2022-05-20 | 2022-07-28 |
 | [Midnight Walk](https://open.spotify.com/track/6C1rhgHWEruSubTWYyP4hX) | [Plant Guy](https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH) | [Midnight Walk](https://open.spotify.com/album/1Cv3KDHJWZ98BjQoZp8iYq) | 1:59 | 2022-10-28 | 2023-11-11 |
 | [miletones](https://open.spotify.com/track/4vqrhPRaeoJ8pHL6dKTlfW) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [miletones](https://open.spotify.com/album/1JK0ujihjq1lSOBXrS38Mg) | 2:27 | 2022-05-20 | 2023-01-18 |
+| [Milky Swirl](https://open.spotify.com/track/0hmSTKEg8QxYcL67V6odjJ) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Milky Swirl](https://open.spotify.com/album/2JTzXEEL1CKLGNMCbmRcT7) | 2:17 | 2023-12-15 |  |
 | [Mindfeed](https://open.spotify.com/track/3DCTfQKjqFkLOH6h3RsviA) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Mindfeed](https://open.spotify.com/album/0qgpvMEpFqBZncu6mDlCwI) | 2:11 | 2023-09-08 |  |
 | [Mint Tea](https://open.spotify.com/track/6JlyLRUsQmNuMOXL0UYvFj) | [Osive](https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc) | [Mint Tea](https://open.spotify.com/album/4EoXqq0HVXcU6GIboZH92q) | 2:09 | 2022-09-09 | 2023-09-26 |
 | [Miraj](https://open.spotify.com/track/4arOeSBQwrFgbVjxht5ygt) | [Goodness Gracious Me](https://open.spotify.com/artist/0cwO6xBM8xlfwkbrbhP748) | [Los Pollos](https://open.spotify.com/album/0qEVlOESJNDWA6nrxR7Vp7) | 3:14 | 2022-05-20 | 2023-01-18 |
@@ -382,6 +385,7 @@
 | [Particles](https://open.spotify.com/track/0vx7bNNgm1wIAkMK0CjloG) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Particles](https://open.spotify.com/album/39sDeMgW5U6mp52z3Ij1PU) | 1:38 | 2022-05-20 | 2022-12-10 |
 | [path of the wind](https://open.spotify.com/track/5cQ3qAAaMsu0R3tTvCwuuV) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [path of the wind](https://open.spotify.com/album/3vai48VZOGUctdgeiaPIa4) | 2:41 | 2022-05-27 | 2023-09-26 |
 | [Pathfinder](https://open.spotify.com/track/50Svw9jVf6zNBi6Kpm0v1v) | [Waldmann](https://open.spotify.com/artist/0GgSqmhxj6tC9SF3jhVRVz), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Pathfinder](https://open.spotify.com/album/5jgmhw6WmNjfHyQhRGClhq) | 2:28 | 2022-09-16 | 2023-09-26 |
+| [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 | 2023-12-15 |  |
 | [Perspective](https://open.spotify.com/track/0GlR1PvA9q4o23kWFxbzMn) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [Perspective](https://open.spotify.com/album/6Mw0xJ1Al5CyPVpQMKMqyk) | 2:12 | 2022-12-09 | 2023-11-18 |
 | [phasing god](https://open.spotify.com/track/3lxR22HYuOOURW30anz4kV) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [phasing god](https://open.spotify.com/album/2r2WzXMGpAO6ze1gMO16u1) | 2:21 | 2022-05-20 | 2023-01-18 |
 | [Pick Me Up](https://open.spotify.com/track/17iyJIlUFdltEBELb6Dqpy) | [Hand Made](https://open.spotify.com/artist/5sWOIwfXsjzxjU31XYCsmU) | [Pick Me Up](https://open.spotify.com/album/54JTQj0RQFQJuC19vbxzN6) | 2:55 | 2022-05-20 | 2023-01-18 |

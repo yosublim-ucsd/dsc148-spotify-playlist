@@ -6997,6 +6997,24 @@
     },
     {
       "album": {
+        "name": "scars",
+        "url": "https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB"
+      },
+      "artists": [
+        {
+          "name": "Novulent",
+          "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95002,
+      "name": "scars",
+      "url": "https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF"
+    },
+    {
+      "album": {
         "name": "season/everblue",
         "url": "https://open.spotify.com/album/1tpA5j4ugBgRdiv0QHeDbj"
       },

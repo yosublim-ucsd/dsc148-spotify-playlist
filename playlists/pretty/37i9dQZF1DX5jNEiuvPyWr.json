@@ -1,63 +1,15 @@
 {
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Khali",
-  "num_followers": 351976,
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
+  "num_followers": 352009,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGZmYzZkMWFiMTEzOTU2YWZiZjgzOGJjM2U5YzU3YjA0MjE5Yzkw",
+  "snapshot_id": "MCxmNmUxNTc4MDVkNGFiMzJjYzZjNDVmZjcxYTk3NDU3NjA0MjJkZmVk",
   "tracks": [
     {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "23 -",
-        "url": "https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI"
-      },
-      "artists": [
-        {
-          "name": "Khali",
-          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "BOTTEGA",
-      "url": "https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Origine",
-        "url": "https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz"
-      },
-      "artists": [
-        {
-          "name": "Yuston XIII",
-          "url": "https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh"
-        }
-      ],
-      "duration_ms": 208336,
-      "name": "L'\u00e2me du phoenix",
-      "url": "https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Heureusement",
-        "url": "https://open.spotify.com/album/6uMOpdBVbFjlRt7Q3u1JyB"
-      },
-      "artists": [
-        {
-          "name": "joysad",
-          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
-        }
-      ],
-      "duration_ms": 158793,
-      "name": "Heureusement",
-      "url": "https://open.spotify.com/track/2RVDL4W0aKShVflFxNTkfH"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "L'enfant de la pluie",
         "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
@@ -68,32 +20,16 @@
           "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
         },
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
         }
       ],
-      "duration_ms": 209893,
-      "name": "Suspects",
-      "url": "https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS"
+      "duration_ms": 189973,
+      "name": "Perte de temps",
+      "url": "https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "SUN7",
-        "url": "https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0"
-      },
-      "artists": [
-        {
-          "name": "HOUDI",
-          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "AVANT TOI",
-      "url": "https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "Geneva",
         "url": "https://open.spotify.com/album/4u84K5dAcGP8ew41zNnqKu"
@@ -117,7 +53,39 @@
       "url": "https://open.spotify.com/track/0qfXETr4UazAeIbOzhsZJm"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "SUN7",
+        "url": "https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "AVANT TOI",
+      "url": "https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Anakin",
+        "url": "https://open.spotify.com/album/4cdxXpmBZKc5nFfsmihN8f"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "Anakin",
+      "url": "https://open.spotify.com/track/6RjO7UcAuz6z7J8RZtm4qh"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/6iou1JJdcUlbvNnUdmXuDR"
@@ -133,139 +101,7 @@
       "url": "https://open.spotify.com/track/6EkySKKzlCoJrcNXE8sfhG"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "IBIZA",
-        "url": "https://open.spotify.com/album/28YB7WeIlMMoeNihpT5msF"
-      },
-      "artists": [
-        {
-          "name": "Lapostroz",
-          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
-        }
-      ],
-      "duration_ms": 152598,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Gardien du Labyrinthe",
-        "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
-      },
-      "artists": [
-        {
-          "name": "Yuzmv",
-          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "L'incendie",
-      "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "nebula",
-        "url": "https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm"
-      },
-      "artists": [
-        {
-          "name": "Ashh",
-          "url": "https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF"
-        }
-      ],
-      "duration_ms": 210256,
-      "name": "nebula",
-      "url": "https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Karma (Extended)",
-        "url": "https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2"
-      },
-      "artists": [
-        {
-          "name": "DTF",
-          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "Loin",
-      "url": "https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Si tu savais",
-        "url": "https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K"
-      },
-      "artists": [
-        {
-          "name": "mademoiselle lou",
-          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
-        }
-      ],
-      "duration_ms": 145485,
-      "name": "Si tu savais",
-      "url": "https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Quali",
-        "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 181649,
-      "name": "Quali",
-      "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "L'enfant de la pluie",
-        "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
-      },
-      "artists": [
-        {
-          "name": "So La Lune",
-          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
-        }
-      ],
-      "duration_ms": 160053,
-      "name": "Triste temps",
-      "url": "https://open.spotify.com/track/6XGP90GUjC9BeT0tWlZ2Fx"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "TOUT VA BIEN",
-        "url": "https://open.spotify.com/album/22CKc4qEluGxJ5Rq7XscZS"
-      },
-      "artists": [
-        {
-          "name": "kobzx2z",
-          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
-        },
-        {
-          "name": "Klem Schen",
-          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "PERDU SANS TOI",
-      "url": "https://open.spotify.com/track/5Aeb85aDLZH4DuMGnMikAZ"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm"
@@ -281,39 +117,179 @@
       "url": "https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6"
+        "name": "23 -",
+        "url": "https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI"
       },
       "artists": [
         {
-          "name": "Django",
-          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
         }
       ],
-      "duration_ms": 155990,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7"
+      "duration_ms": 187431,
+      "name": "BOTTEGA",
+      "url": "https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "osowhereRu?",
-        "url": "https://open.spotify.com/album/2XFlLaI8vYV8Q1gzPrGgZt"
+        "name": "L'enfant de la pluie",
+        "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
       },
       "artists": [
         {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 133099,
-      "name": "STRESS!",
-      "url": "https://open.spotify.com/track/5PSTc9QCtJicfuMYF9OIIb"
+      "duration_ms": 209893,
+      "name": "Suspects",
+      "url": "https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Origine",
+        "url": "https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz"
+      },
+      "artists": [
+        {
+          "name": "Yuston XIII",
+          "url": "https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh"
+        }
+      ],
+      "duration_ms": 208336,
+      "name": "L'\u00e2me du phoenix",
+      "url": "https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Gardien du Labyrinthe",
+        "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "L'incendie",
+      "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Sans nouvelles",
+        "url": "https://open.spotify.com/album/2eMLdPbMAjpcn2MKC3zoly"
+      },
+      "artists": [
+        {
+          "name": "Roshi",
+          "url": "https://open.spotify.com/artist/4bDcCV0zjPsVs2GxtduYry"
+        },
+        {
+          "name": "Amine Farsi",
+          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
+        },
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Sans nouvelles",
+      "url": "https://open.spotify.com/track/6b4sQI99B6JRnrVsICipYw"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Heureusement",
+        "url": "https://open.spotify.com/album/6uMOpdBVbFjlRt7Q3u1JyB"
+      },
+      "artists": [
+        {
+          "name": "joysad",
+          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
+        }
+      ],
+      "duration_ms": 158793,
+      "name": "Heureusement",
+      "url": "https://open.spotify.com/track/2RVDL4W0aKShVflFxNTkfH"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/28YB7WeIlMMoeNihpT5msF"
+      },
+      "artists": [
+        {
+          "name": "Lapostroz",
+          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
+        }
+      ],
+      "duration_ms": 152598,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "L'enfant de la pluie",
+        "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
+      },
+      "artists": [
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Triste temps",
+      "url": "https://open.spotify.com/track/6XGP90GUjC9BeT0tWlZ2Fx"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Karma (Extended)",
+        "url": "https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2"
+      },
+      "artists": [
+        {
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "nebula",
+        "url": "https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm"
+      },
+      "artists": [
+        {
+          "name": "Ashh",
+          "url": "https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF"
+        }
+      ],
+      "duration_ms": 210256,
+      "name": "nebula",
+      "url": "https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "Le jour se l\u00e8ve",
         "url": "https://open.spotify.com/album/76IvkXLqQzw6JrjwOIq2PL"
@@ -333,7 +309,139 @@
       "url": "https://open.spotify.com/track/6qwe1TVcoWQ5oCVMmDKvV8"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Quali",
+        "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 181649,
+      "name": "Quali",
+      "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "L'EFFET DU TEMPS",
+        "url": "https://open.spotify.com/album/3ANUOjqlTITE0VgsroNPwC"
+      },
+      "artists": [
+        {
+          "name": "Laroma",
+          "url": "https://open.spotify.com/artist/7Hv2hIVAkEylgEKAOyF7bw"
+        }
+      ],
+      "duration_ms": 177482,
+      "name": "CAVIAR OU PESTO",
+      "url": "https://open.spotify.com/track/5vp9BsHDp7vIOknFC62HeE"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Le Nine",
+        "url": "https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr"
+      },
+      "artists": [
+        {
+          "name": "ELSO",
+          "url": "https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Le Nine",
+      "url": "https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6"
+      },
+      "artists": [
+        {
+          "name": "Django",
+          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
+        }
+      ],
+      "duration_ms": 155990,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Hiver 365",
+        "url": "https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB"
+      },
+      "artists": [
+        {
+          "name": "Nefaste",
+          "url": "https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Qu'est-ce tu veux qu'j'te dise?",
+      "url": "https://open.spotify.com/track/1gyWKoHQbbv9HBZa4UD2Gd"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "TOUT VA BIEN",
+        "url": "https://open.spotify.com/album/22CKc4qEluGxJ5Rq7XscZS"
+      },
+      "artists": [
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        },
+        {
+          "name": "Klem Schen",
+          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "PERDU SANS TOI",
+      "url": "https://open.spotify.com/track/5Aeb85aDLZH4DuMGnMikAZ"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Si tu savais",
+        "url": "https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K"
+      },
+      "artists": [
+        {
+          "name": "mademoiselle lou",
+          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
+        }
+      ],
+      "duration_ms": 145485,
+      "name": "Si tu savais",
+      "url": "https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "HABITU\u00c9",
+        "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
+      },
+      "artists": [
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "duration_ms": 180901,
+      "name": "HABITU\u00c9",
+      "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "CHEMINS",
         "url": "https://open.spotify.com/album/6ICJkCduEoZnmVzPVa8keo"
@@ -357,71 +465,23 @@
       "url": "https://open.spotify.com/track/01C3b59tdndDqaWlAb7Zyw"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "HABITU\u00c9",
-        "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
+        "name": "osowhereRu?",
+        "url": "https://open.spotify.com/album/2XFlLaI8vYV8Q1gzPrGgZt"
       },
       "artists": [
         {
-          "name": "Moha MMZ",
-          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
         }
       ],
-      "duration_ms": 180901,
-      "name": "HABITU\u00c9",
-      "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
+      "duration_ms": 133099,
+      "name": "STRESS!",
+      "url": "https://open.spotify.com/track/5PSTc9QCtJicfuMYF9OIIb"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Le Nine",
-        "url": "https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr"
-      },
-      "artists": [
-        {
-          "name": "ELSO",
-          "url": "https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Le Nine",
-      "url": "https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Makeup",
-        "url": "https://open.spotify.com/album/11ibFDueN32scqYIGwAX51"
-      },
-      "artists": [
-        {
-          "name": "Max DLG",
-          "url": "https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw"
-        }
-      ],
-      "duration_ms": 190307,
-      "name": "Makeup",
-      "url": "https://open.spotify.com/track/35MhSTXjGaO1dOMKd7WdKV"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "AKANI",
-        "url": "https://open.spotify.com/album/3UL2npniaZarBXBS10qpZl"
-      },
-      "artists": [
-        {
-          "name": "Berry",
-          "url": "https://open.spotify.com/artist/2DkgMESM21mm7IoELw2tjQ"
-        }
-      ],
-      "duration_ms": 160030,
-      "name": "AKANI",
-      "url": "https://open.spotify.com/track/4u9p90qPMSsEgifmnpEe64"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "ICE",
         "url": "https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX"
@@ -437,23 +497,7 @@
       "url": "https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "HUMAIN",
-        "url": "https://open.spotify.com/album/7JZT9iNvgUcdmiju0ps1z9"
-      },
-      "artists": [
-        {
-          "name": "MPablo",
-          "url": "https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU"
-        }
-      ],
-      "duration_ms": 183046,
-      "name": "MEILLEUR",
-      "url": "https://open.spotify.com/track/5atKLIetNSwYT8mYdVRWQO"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "Jour de pluie",
         "url": "https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO"
@@ -469,55 +513,7 @@
       "url": "https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "NUIT ET JOUR",
-        "url": "https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy"
-      },
-      "artists": [
-        {
-          "name": "HAKAI",
-          "url": "https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN"
-        }
-      ],
-      "duration_ms": 113894,
-      "name": "NUIT ET JOUR",
-      "url": "https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "SOUS L'AVERSE",
-        "url": "https://open.spotify.com/album/2kQVXn6S6Dk7KOs5UCbjGZ"
-      },
-      "artists": [
-        {
-          "name": "LVZ",
-          "url": "https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf"
-        }
-      ],
-      "duration_ms": 139218,
-      "name": "mayday",
-      "url": "https://open.spotify.com/track/6Ax8LuViU7B5YrJBX8V8oe"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "SAISONS",
-        "url": "https://open.spotify.com/album/3LpZHVqSCmVXwEKcXXFpnU"
-      },
-      "artists": [
-        {
-          "name": "Lyre",
-          "url": "https://open.spotify.com/artist/4gerBwxP6uezCu6vlSugaf"
-        }
-      ],
-      "duration_ms": 143876,
-      "name": "SAISONS",
-      "url": "https://open.spotify.com/track/2aLTTUSwkasORopU97TrfP"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "ICARE",
         "url": "https://open.spotify.com/album/0fOl6xbizjCOl1Hl2eCgMM"
@@ -533,7 +529,7 @@
       "url": "https://open.spotify.com/track/410PptAEZCpF56YJBxgDIQ"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "M\u00d6DI",
         "url": "https://open.spotify.com/album/6oGbaQspWtK4A3cCLC5noJ"
@@ -549,7 +545,7 @@
       "url": "https://open.spotify.com/track/3KXmiKG3D0imrkAJfMKv3X"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "Temps d'avant",
         "url": "https://open.spotify.com/album/17SmK3zouR37VS6JLDZWL3"
@@ -569,7 +565,55 @@
       "url": "https://open.spotify.com/track/0zBClWjxSCelFFMBTOAcrN"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Makeup",
+        "url": "https://open.spotify.com/album/11ibFDueN32scqYIGwAX51"
+      },
+      "artists": [
+        {
+          "name": "Max DLG",
+          "url": "https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw"
+        }
+      ],
+      "duration_ms": 190307,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/35MhSTXjGaO1dOMKd7WdKV"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "AKANI",
+        "url": "https://open.spotify.com/album/3UL2npniaZarBXBS10qpZl"
+      },
+      "artists": [
+        {
+          "name": "Berry",
+          "url": "https://open.spotify.com/artist/2DkgMESM21mm7IoELw2tjQ"
+        }
+      ],
+      "duration_ms": 160030,
+      "name": "AKANI",
+      "url": "https://open.spotify.com/track/4u9p90qPMSsEgifmnpEe64"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "SOUS L'AVERSE",
+        "url": "https://open.spotify.com/album/2kQVXn6S6Dk7KOs5UCbjGZ"
+      },
+      "artists": [
+        {
+          "name": "LVZ",
+          "url": "https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf"
+        }
+      ],
+      "duration_ms": 139218,
+      "name": "mayday",
+      "url": "https://open.spotify.com/track/6Ax8LuViU7B5YrJBX8V8oe"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "Sale Hiver",
         "url": "https://open.spotify.com/album/3rqd7xvsd4cZWRGY2u86bq"
@@ -585,71 +629,7 @@
       "url": "https://open.spotify.com/track/1DDJIzkgnpQdYmuHriicic"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Drapeau Blanc",
-        "url": "https://open.spotify.com/album/1dKUfKOZ0RxPt5lRKdU42X"
-      },
-      "artists": [
-        {
-          "name": "Kahra",
-          "url": "https://open.spotify.com/artist/31mTzsWIoE7mjpIQCzyBVi"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Drapeau Blanc",
-      "url": "https://open.spotify.com/track/4Q5hHlFSI6fkidddMx3SfC"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "Vide",
-        "url": "https://open.spotify.com/album/5j0mtAW5OGpVv7vO7MfEOF"
-      },
-      "artists": [
-        {
-          "name": "Sicario",
-          "url": "https://open.spotify.com/artist/0ajjnGmVt2aVGD70lDbVl6"
-        }
-      ],
-      "duration_ms": 198010,
-      "name": "Vide",
-      "url": "https://open.spotify.com/track/20jeEnFijJd4tRAtcww0tl"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "MAL",
-        "url": "https://open.spotify.com/album/37z6z2yjoIDEDBezztDN3G"
-      },
-      "artists": [
-        {
-          "name": "Chat noir",
-          "url": "https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "MAL",
-      "url": "https://open.spotify.com/track/1kaCrC3OD8nZF1MLKik7Td"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
-      "album": {
-        "name": "3motional b!tch",
-        "url": "https://open.spotify.com/album/0NTbynNDrYNbBBvGJSYgHq"
-      },
-      "artists": [
-        {
-          "name": "Ekloz",
-          "url": "https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw"
-        }
-      ],
-      "duration_ms": 120053,
-      "name": "Ice",
-      "url": "https://open.spotify.com/track/54d1LJ3a5xIlB5q3ONJQn3"
-    },
-    {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "SITCOM",
         "url": "https://open.spotify.com/album/1dgFGmX8Pogi4Ol44jDgFY"
@@ -665,7 +645,39 @@
       "url": "https://open.spotify.com/track/5vcpJ2wHyrWCCbhy20FvCL"
     },
     {
-      "added_at": "2023-12-08 00:10:00",
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "3motional b!tch",
+        "url": "https://open.spotify.com/album/0NTbynNDrYNbBBvGJSYgHq"
+      },
+      "artists": [
+        {
+          "name": "Ekloz",
+          "url": "https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw"
+        }
+      ],
+      "duration_ms": 120053,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/54d1LJ3a5xIlB5q3ONJQn3"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "NUIT ET JOUR",
+        "url": "https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy"
+      },
+      "artists": [
+        {
+          "name": "HAKAI",
+          "url": "https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN"
+        }
+      ],
+      "duration_ms": 113894,
+      "name": "NUIT ET JOUR",
+      "url": "https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "Dr. Surprise",
         "url": "https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg"

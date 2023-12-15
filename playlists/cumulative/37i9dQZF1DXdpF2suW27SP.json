@@ -2153,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "DEMONS",
+        "url": "https://open.spotify.com/album/6X04ooHMiN96MSveBdWffK"
+      },
+      "artists": [
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264554,
+      "name": "DEMONS",
+      "url": "https://open.spotify.com/track/0kDQEVHvQHCRabH817iOCg"
+    },
+    {
+      "album": {
         "name": "Dentu Di Espanha",
         "url": "https://open.spotify.com/album/3iC4A749XyBNEGTJUvGGGi"
       },
@@ -3060,7 +3078,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 229813,
       "name": "FAYA 2",
       "url": "https://open.spotify.com/track/3JySyJCvCgfSMhCAKqYGzT"
@@ -3338,7 +3356,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181192,
-      "name": "G3 (feat. Chefin & Leviano)",
+      "name": "G3",
       "url": "https://open.spotify.com/track/4Vo6xhWP515MuQRK55927I"
     },
     {
@@ -3643,6 +3661,28 @@
     },
     {
       "album": {
+        "name": "Guardado",
+        "url": "https://open.spotify.com/album/47bILmm6p1Nz5o2iTxI5l1"
+      },
+      "artists": [
+        {
+          "name": "Uzzy",
+          "url": "https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi"
+        },
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Guardado",
+      "url": "https://open.spotify.com/track/41mSs2SjEencvFY907sq8q"
+    },
+    {
+      "album": {
         "name": "Habilidosa",
         "url": "https://open.spotify.com/album/3OZ07lzQ352wTsJvnccElA"
       },
@@ -3902,7 +3942,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 194000,
       "name": "International Bizz",
       "url": "https://open.spotify.com/track/1mmYrB8rIUWA73nsivDPu4"
@@ -4084,6 +4124,24 @@
       "duration_ms": 183529,
       "name": "KEM KI FLA",
       "url": "https://open.spotify.com/track/4vQWU29Z2RZxI2unuj8aL9"
+    },
+    {
+      "album": {
+        "name": "Ki Sabi",
+        "url": "https://open.spotify.com/album/5WfhZRAzVuqBEUgvbjwWY4"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157043,
+      "name": "Ki Sabi",
+      "url": "https://open.spotify.com/track/0LSqNawb5VspBagrAyLDk6"
     },
     {
       "album": {
@@ -5062,10 +5120,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 151741,
       "name": "Moshpit",
       "url": "https://open.spotify.com/track/7rBbdHOQOtLnk7eVNJPdqN"
+    },
+    {
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/2CRsdNdX8XJmpHEaz9A3IK"
+      },
+      "artists": [
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        },
+        {
+          "name": "SDK",
+          "url": "https://open.spotify.com/artist/6hQpZrmcUI9Yb9PITngE67"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123350,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/49Qou0fp5AIyYxiIXbB1I8"
     },
     {
       "album": {
@@ -6644,7 +6724,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 128741,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/5UZA5YihP4l0OFmy3RlfVK"
@@ -7160,7 +7240,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 190222,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/23l4pQCiOq8QwMXVzVIIvc"
@@ -7222,7 +7302,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 175997,
       "name": "sem p\u00e9",
       "url": "https://open.spotify.com/track/2MO8cXrJ8B72x6n9z7yKGm"

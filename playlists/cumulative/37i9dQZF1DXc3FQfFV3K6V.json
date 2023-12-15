@@ -212,6 +212,24 @@
     {
       "album": {
         "name": "Annie's Song",
+        "url": "https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX"
+      },
+      "artists": [
+        {
+          "name": "Cameron Payne",
+          "url": "https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167887,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG"
+    },
+    {
+      "album": {
+        "name": "Annie's Song",
         "url": "https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o"
       },
       "artists": [

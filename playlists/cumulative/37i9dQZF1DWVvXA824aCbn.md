@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-512 songs - 1 day 8 hr 50 min
+513 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-04-20 |  |
 | [Come Sunday](https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk) | [Gustaf Scheringer Trio](https://open.spotify.com/artist/0g6Xp2bFgFDypArAQ1rSsU) | [Come Sunday](https://open.spotify.com/album/3KHznapFExslE80Vo6XPAB) | 4:19 | 2022-08-10 | 2023-09-24 |
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2023-01-05 |  |
-| [Comme Il Faut](https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Comme il faut](https://open.spotify.com/album/5xaDbiKgQA3kiGUKFvCgOz) | 3:42 | 2022-03-03 |  |
+| [Comme Il Faut](https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Comme il faut](https://open.spotify.com/album/5xaDbiKgQA3kiGUKFvCgOz) | 3:42 | 2022-03-03 | 2023-12-15 |
 | [Con Alba](https://open.spotify.com/track/0f0MxPmuo6W577AUYozNVr) | [The Lenny Ryan Trio](https://open.spotify.com/artist/4PygpE5Q24zDtDvRHUEV4E) | [Moon Time](https://open.spotify.com/album/5us4c8ltJbJGlyhpHzXIG3) | 3:17 | 2021-07-02 |  |
 | [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-05-24 |  |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-06-01 |  |
@@ -338,6 +338,7 @@
 | [Oh Good Grief](https://open.spotify.com/track/2Xa7KXq1fLZ6A4WyQSU6kF) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:08 | 2020-10-20\* | 2021-01-21 |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2020-10-20\* | 2020-12-15 |
 | [Once In A While](https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Once In A While](https://open.spotify.com/album/1cx3QPnfkgDUdr7SLyx4yg) | 3:53 | 2023-01-19 |  |
+| [Out of Nowhere](https://open.spotify.com/track/4ZQa7Mh6yQ2PY4p3ahK9qU) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Out of Nowhere](https://open.spotify.com/album/0i7uLYNXlVDX8OwRmE57Px) | 2:48 | 2023-12-15 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2020-10-20\* |  |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 |  |
 | [Part of the moment](https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Part of the moment](https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19) | 2:50 | 2023-08-17 |  |

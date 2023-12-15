@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-628 songs - 1 day 12 hr 28 min
+629 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Lacuna](https://open.spotify.com/track/7DJtpkk5hNrM8AFTjKPlZv) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Kymira](https://open.spotify.com/artist/6bWdHKULequjwRPTQYWzer) | [Lacuna](https://open.spotify.com/album/0uzhDCZK3SP1oPYSzqQHOA) | 3:59 | 2023-08-08 | 2023-12-14 |
 | [Land of the Living](https://open.spotify.com/track/5kfnCvlXXJEa9HpFKdSczm) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Land of the Living](https://open.spotify.com/album/1Ok5c9oP3hWgunQvhIsC0e) | 2:40 | 2023-08-22 | 2023-12-14 |
 | [Landslide](https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Landslide](https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n) | 3:10 | 2023-03-03 | 2023-05-30 |
+| [Landslide \- BOTCASH Remix](https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv) | [Landslide \(BOTCASH Remix\)](https://open.spotify.com/album/2mS5bt6HNrbxWKOBhAvR7i) | 3:22 | 2023-12-14 |  |
 | [Lastecostra](https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Lastecostra](https://open.spotify.com/album/1fwfYJCgNpfuYAq0FR0HC5) | 3:21 | 2023-10-03 |  |
 | [Leap Of Faith](https://open.spotify.com/track/3hxpfTyfr2dU55eVGheeDp) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Leap Of Faith](https://open.spotify.com/album/696TSD9rzaKK6hJbSgEPnN) | 3:13 | 2023-08-22 | 2023-12-14 |
 | [Let It Bloom](https://open.spotify.com/track/0c4m3t9QKH4PXXYbYX2GBu) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let It Bloom](https://open.spotify.com/album/5QItpT8Xs57eUsrDi5Spae) | 4:00 | 2023-07-27 | 2023-12-14 |

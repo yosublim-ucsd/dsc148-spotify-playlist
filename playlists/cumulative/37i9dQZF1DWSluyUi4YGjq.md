@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: The Jesus and Mary Chain
 
-514 songs - 1 day 9 hr 28 min
+515 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Saved For Summer](https://open.spotify.com/track/1vdGnzQYnZniAsJngfkIFP) | [SRSQ](https://open.spotify.com/artist/7oTWrSAsrqQnBE1LRUBZPE) | [Saved For Summer](https://open.spotify.com/album/0vzA5mPgaRnHycfywhbTNS) | 5:19 | 2022-08-19 | 2022-09-29 |
 | [Scapa Flow](https://open.spotify.com/track/1Qw8bC0vgxhLx1kLcNFEkk) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Scapa Flow](https://open.spotify.com/album/4aFQWkk0HOEz3zjxzj207N) | 3:59 | 2023-08-04 | 2023-12-12 |
 | [Scapa Flow](https://open.spotify.com/track/4oaLvyUUF7poPuAZSKnNT9) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Hard Light](https://open.spotify.com/album/3GzUPre1YjcoEjvV3cv6kB) | 3:59 | 2023-11-14 |  |
+| [scars](https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [scars](https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB) | 1:35 | 2023-12-14 |  |
 | [season](https://open.spotify.com/track/0tyZQfY6yHmfLsoOdJc8bd) | [Otherside](https://open.spotify.com/artist/1tgCXu3R4Q87v25CaUKaJf) | [season/everblue](https://open.spotify.com/album/1tpA5j4ugBgRdiv0QHeDbj) | 4:37 | 2023-11-10 |  |
 | [Send the Pain Below](https://open.spotify.com/track/6OxubR1H6gRz3VzYt37Sex) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Send the Pain Below](https://open.spotify.com/album/6L0Z8t0A1iZhcAtJRfpXnh) | 4:42 | 2023-02-17 | 2023-09-30 |
 | [Seven of Cups](https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7) | 3:53 | 2022-08-03 | 2022-12-16 |

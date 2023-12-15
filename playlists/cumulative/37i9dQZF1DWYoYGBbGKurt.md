@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,670 songs - 2 day 16 hr 24 min
+1,675 songs - 2 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [Lucifers Love](https://open.spotify.com/track/57qkIMqNxnUeelKeaObkbC) | [Farmor](https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63) | [Lucifers Love](https://open.spotify.com/album/3HAatDuJIFE8J79TBsFHc5) | 2:12 | 2022-11-25 | 2023-08-22 |
 | [Lullaby](https://open.spotify.com/track/62orJ92nlYMcEUHbVHetTK) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [Lullaby](https://open.spotify.com/album/6KE9ljDuX1ImjBU5dHqvr9) | 2:25 | 2023-01-06 |  |
 | [Lullaby](https://open.spotify.com/track/5hpaD3fhU5a6KZLWX18Td9) | [William Shine](https://open.spotify.com/artist/31qJcWRmZuRNILCRbn9idq), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Lullaby](https://open.spotify.com/album/1cAWmLBrk8mj1BdToc3xK4) | 2:30 | 2022-05-13 | 2022-11-12 |
+| [lullaby sayonara](https://open.spotify.com/track/5gmGU21qJOnyhfLaVFLsc8) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [lullaby sayonara](https://open.spotify.com/album/7aEVz9aLIagUCYVZnR4L4C) | 2:11 | 2023-12-15 |  |
 | [Luma Beach](https://open.spotify.com/track/4Sn9pCrvAruVFVAIP3rppA) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Luma Beach](https://open.spotify.com/album/7LjazepQBFDepvqeF5UPOR) | 2:40 | 2023-01-06 | 2023-09-02 |
 | [Lumbre](https://open.spotify.com/track/4uvIkNbOfh9w8VijIRn6EA) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Lumbre](https://open.spotify.com/album/5Ld9PgzYDbl4f42sN57ThN) | 2:00 | 2022-05-20 | 2023-08-22 |
 | [Lumen](https://open.spotify.com/track/0vW4qVB5AXPtzS5U998T2t) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Lumen](https://open.spotify.com/album/6huIj7ZcP9NZcHbyBAMPhF) | 2:38 | 2022-11-25 | 2023-09-22 |
@@ -1103,6 +1104,7 @@
 | [Outset](https://open.spotify.com/track/604oBYPrXNjkKQiwSoNQLJ) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Evermore](https://open.spotify.com/album/0uzhZQewlMQDQsEVk8hch1) | 2:40 | 2022-04-15 | 2022-11-12 |
 | [Palm Breeze](https://open.spotify.com/track/5gm3EF9cktGnOPkTnK3SNe) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Palm Breeze](https://open.spotify.com/album/5kTR2SstqSeZm39niVH0jc) | 1:49 | 2021-12-07 | 2022-08-12 |
 | [Paper Plane](https://open.spotify.com/track/7C3jWjgrThp6qP0KS6zZwy) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE) | [Paper Plane](https://open.spotify.com/album/4MAjQfYWQYYzkFaVrt7jGD) | 2:08 | 2021-12-07 | 2022-07-29 |
+| [park stroll](https://open.spotify.com/track/6lDAtiAKi02GGDLGxZb1OO) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [park stroll](https://open.spotify.com/album/3kJAru3uOEp1A0IAdBcgHi) | 2:08 | 2023-12-15 |  |
 | [parking lot](https://open.spotify.com/track/5oOq7LVY5RDNkZeajlOhgo) | [Beltiner](https://open.spotify.com/artist/4DzyAL1nvxYKEEavnXxVVm) | [parking lot](https://open.spotify.com/album/0fnroq8pifWBkuAX1bWsKj) | 2:19 | 2021-12-07 | 2023-02-18 |
 | [Part Ways](https://open.spotify.com/track/1d43Itql2O0FrcDXaKs8fV) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Part Ways](https://open.spotify.com/album/3OjV9mdJ1LQnnKs7nZ8zld) | 2:30 | 2022-09-09 | 2022-12-10 |
 | [Pasadena](https://open.spotify.com/track/1oIrVe05XbFLR6y4sngNvU) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Pasadena](https://open.spotify.com/album/7La4e1LchRTR0ZssnD3j47) | 2:12 | 2023-12-08 |  |
@@ -1114,6 +1116,7 @@
 | [patterns of peace](https://open.spotify.com/track/70BO1pxMmy4NW9Erwlymh4) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [kaleidoscopes](https://open.spotify.com/album/4GSUMxsOfySGzYumuJ9i8P) | 3:05 | 2021-12-07 | 2023-07-14 |
 | [Peace](https://open.spotify.com/track/6ivY5r6kbT1t8WQeWBK0kc) | [Eddie & George](https://open.spotify.com/artist/5aYybCPaexHcWutawAyUvv) | [Peace](https://open.spotify.com/album/56y7dcDWWN47pDCuaecWA0) | 2:06 | 2021-12-07 | 2022-09-10 |
 | [Peace and Stone](https://open.spotify.com/track/4P3flpTrYtN1VcVuK4BhPf) | [Skyplanter](https://open.spotify.com/artist/7iaPZbKQSJ5Sw9ThZNfJw7) | [Equivalence](https://open.spotify.com/album/63yQb9VeujB0rdz1m4g5jb) | 2:43 | 2021-12-07 | 2022-08-19 |
+| [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 | 2023-12-15 |  |
 | [Peaceful Memories](https://open.spotify.com/track/0OUpv9yCY3bLswfTRJRG71) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Peaceful Memories](https://open.spotify.com/album/1TNid7svH4s7JHDZynrKTJ) | 2:36 | 2022-09-23 | 2022-09-30 |
 | [Pearl Dust](https://open.spotify.com/track/4HhZZZAtRufBXnJyPtf7uB) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Pearl Dust](https://open.spotify.com/album/6CEev0dBhWl5ed27yrBEOL) | 2:28 | 2021-12-07 | 2022-09-23 |
 | [pearls](https://open.spotify.com/track/0Kh41UU4vey50k23eMKkzu) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [pearls & the professor](https://open.spotify.com/album/34QnvaYVCWi8GS8oCIcUl4) | 2:10 | 2022-04-22 | 2023-10-06 |
@@ -1615,6 +1618,7 @@
 | [Watch The Flowers Grow](https://open.spotify.com/track/2UVXdhM6Kc370337Qlfc6y) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Watch The Flowers Grow](https://open.spotify.com/album/2Rswhd1uFHMjx34xwRUeWI) | 1:28 | 2022-10-07 | 2022-11-20 |
 | [Water](https://open.spotify.com/track/4VSiIh1FpXbAOzu06XJ6L8) | [Kiki\_Q](https://open.spotify.com/artist/3xcD6O97TEOXcX1TCYYhAj) | [Water](https://open.spotify.com/album/5PwnbkmoRtJW6wXqpHaQXA) | 1:53 | 2022-09-30 |  |
 | [Water On Mars](https://open.spotify.com/track/0GI9BVvpUZgLEtN3sIWFlz) | [Thankyou](https://open.spotify.com/artist/3vCDftvjT8v9dN8Bmn7h36) | [Water On Mars](https://open.spotify.com/album/17HHdiUcF3si6Sb0S2sFfW) | 2:13 | 2022-10-07 | 2022-12-24 |
+| [watercolour](https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [watercolour](https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd) | 2:00 | 2023-12-15 |  |
 | [Watermelon](https://open.spotify.com/track/68gR19ZxmZuAGrNl4qiKCK) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Watermelon](https://open.spotify.com/album/4NADxBm2HCKJpdSSIE6tnT) | 2:03 | 2022-06-10 | 2022-11-26 |
 | [Wavelenght](https://open.spotify.com/track/27qmIjf5nzZXiTAz2mVp06) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:27 | 2021-12-07 | 2022-07-01 |
 | [Waves](https://open.spotify.com/track/1sv9a2DenuK90P0rBkXKEe) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Waves](https://open.spotify.com/album/4RE8BchKFFeqiijkE965MR) | 2:31 | 2023-04-03 |  |
@@ -1674,6 +1678,7 @@
 | [You Inspire Me](https://open.spotify.com/track/6eKjFdAM6omGCEqWgB4dM8) | [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [You Inspire Me](https://open.spotify.com/album/45WMRyFnGvT8bPlS22zJb8) | 2:36 | 2022-09-16 | 2022-12-24 |
 | [You Might Miss These Days](https://open.spotify.com/track/3WoDI6W6JzmyT8Jke5rgUX) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [You Might Miss These Days](https://open.spotify.com/album/1wbyEWNJo8ZruBLJBT8bQw) | 3:15 | 2022-05-13 | 2022-11-12 |
 | [Your Jacket Though](https://open.spotify.com/track/1uiK8qFJkHkC3OASMBPzvG) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Your Jacket Though](https://open.spotify.com/album/7FyNe1k7S2nSp34iszDkr2) | 2:58 | 2022-01-26 |  |
+| [Your Turn](https://open.spotify.com/track/20pPtdAkmg22o7ppIEomBS) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Your Turn](https://open.spotify.com/album/3OF7TEmukWCuo4iqLueDHt) | 3:14 | 2023-12-15 |  |
 | [Youth](https://open.spotify.com/track/3rJnVI5la01yfJGnlSix0j) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Youth](https://open.spotify.com/album/0SRnvs0zo8y9rZTl6l9y5f) | 1:58 | 2023-01-13 | 2023-09-22 |
 | [Zeeez](https://open.spotify.com/track/6MKV08WI49nZjhC5nqzOvi) | [Dizzy Halos](https://open.spotify.com/artist/4qiOgE9uEz6UkqPEpUA6Md) | [Zeeez](https://open.spotify.com/album/47YQYybeQm0ZQEAYanjOu3) | 3:06 | 2021-12-07 | 2022-07-01 |
 | [Zephyr](https://open.spotify.com/track/28VwDI1i3vtqn0csWOig5G) | [zxry.](https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC) | [Zephyr](https://open.spotify.com/album/01lJTebBu7GNUKFmLds5Yz) | 2:52 | 2022-06-03 | 2022-11-26 |

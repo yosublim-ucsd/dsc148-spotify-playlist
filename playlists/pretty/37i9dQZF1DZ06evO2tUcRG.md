@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,779 likes - 51 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,827 likes - 51 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 50 | [Braços do Pai / Em Teus braços \- Live 2020](https://open.spotify.com/track/4awRg8VFzaSxRnYKSLeI6d) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Mariana Valadão](https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 10:18 |
 | 51 | [Seu Nome É Amor](https://open.spotify.com/track/0VEvFNsfXVrDNRKmckGdRm) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Seu Nome É Amor](https://open.spotify.com/album/6TGF5PQBR0o6BdEetZWaFK) | 5:53 |
 
-Snapshot ID: `MjgzNzQ0ODUsMDAwMDAwMDA5OTJlNGI5NDM3YjYxMGM2M2VhMzI2ODg2MDFiZjMxMg==`
+Snapshot ID: `MjgzNzU5MDgsMDAwMDAwMDA3ZWI3Y2ZhYTQzNTZmYjdhNmJkMDI3YjA3Zjk1ZmVhYg==`

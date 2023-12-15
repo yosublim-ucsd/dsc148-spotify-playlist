@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "album": {
         "name": "California Breeze",
         "url": "https://open.spotify.com/album/3rPdEuCBw8Xg0a6MNG8bVz"
       },
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 183149,
       "name": "California Breeze",
       "url": "https://open.spotify.com/track/2Y3NB7AkXBMU69rzIjxMWY"
@@ -2186,10 +2204,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 244760,
       "name": "GANG GANG",
       "url": "https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK"
+    },
+    {
+      "album": {
+        "name": "GANG GANG (Official Music Video)",
+        "url": "https://open.spotify.com/album/1OIlrGBaFFLI7eWkAxB447"
+      },
+      "artists": [
+        {
+          "name": "JACKBOYS",
+          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250581,
+      "name": "GANG GANG",
+      "url": "https://open.spotify.com/track/1AauIxlmueXbhqhbmzSxTy"
     },
     {
       "album": {
@@ -2314,6 +2354,32 @@
     {
       "album": {
         "name": "Give No Fxk",
+        "url": "https://open.spotify.com/album/5PGZpfzDkbbTvhDAuZlSQo"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224243,
+      "name": "Give No Fxk",
+      "url": "https://open.spotify.com/track/6ZelF5APDN5r6XnFqcnvWR"
+    },
+    {
+      "album": {
+        "name": "Give No Fxk",
         "url": "https://open.spotify.com/album/1IPwm3ce4ANoquLgLFMB6N"
       },
       "artists": [
@@ -2332,7 +2398,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 234067,
       "name": "Give No Fxk",
       "url": "https://open.spotify.com/track/4MigBNn8T8ciOtfqnNsA08"
@@ -2573,6 +2639,24 @@
     },
     {
       "album": {
+        "name": "Have Mercy",
+        "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148778,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
+    },
+    {
+      "album": {
         "name": "Have Mercy (Official Video)",
         "url": "https://open.spotify.com/album/0t88wJMagDTc3rRSjrVnTD"
       },
@@ -2584,7 +2668,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 213610,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/17xePGxxXfP3iyvYBfk6Z0"
@@ -2943,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "In n Out (Official Video)",
+        "url": "https://open.spotify.com/album/3EIK3KMSkfamEeqgqKGan8"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223808,
+      "name": "In n Out",
+      "url": "https://open.spotify.com/track/0kPvosTvGR3bdOI6Fx5Yrb"
+    },
+    {
+      "album": {
         "name": "Queen of Da Souf",
         "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
       },
@@ -2958,7 +3064,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 194526,
       "name": "In n Out (feat. City Girls)",
       "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
@@ -3751,6 +3857,32 @@
     },
     {
       "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303076,
+      "name": "MotorSport",
+      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+    },
+    {
+      "album": {
         "name": "MotorSport",
         "url": "https://open.spotify.com/album/25bUoJum42Huvi0fzVsZLI"
       },
@@ -3770,7 +3902,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 317275,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/64xUwmvY5uEikzTGJWxVgn"
@@ -4284,10 +4416,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 199111,
       "name": "Nothing Changed",
       "url": "https://open.spotify.com/track/37If4sC0Si28T6z63qhR5z"
+    },
+    {
+      "album": {
+        "name": "Nothing Changed",
+        "url": "https://open.spotify.com/album/7u7rN4I6Sbo0kUNQcbylSM"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199165,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/0b2F2EB0UiiWDQ80zLTLeO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-137 songs - 7 hr 55 min
+139 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 | 2023-07-13 | 2023-10-02 |
 | [Always Waiting](https://open.spotify.com/track/4cLQpjdFdKjCuPf4crxuh1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 4:31 | 2022-12-22 | 2023-01-17 |
 | [And the Birds Sing](https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV) | 3:42 | 2022-12-22 | 2023-11-10 |
+| [Autumn Love](https://open.spotify.com/track/236HZ8DhG7k0cXgem99oPP) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Autumn Love](https://open.spotify.com/album/2aENqkLbaJgieNQX7fqDdl) | 3:18 | 2023-12-14 |  |
 | [Back](https://open.spotify.com/track/2tJ0GB8yDrGSHahyBHjDrB) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Blackbird \(Deluxe\)](https://open.spotify.com/album/6UzCkpGRJ4ojKeYUGKfyEc) | 3:38 | 2022-12-22 |  |
 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2022-12-22 | 2023-05-05 |
 | [Before You Let Me Go](https://open.spotify.com/track/2yu5RQzExtQOGV875tfPIX) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Declan J Donovan](https://open.spotify.com/album/2Cs94ATEIzIciZdTaL5igc) | 3:42 | 2023-07-13 |  |
@@ -38,13 +39,13 @@
 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 | 2022-12-22 |  |
 | [Electric Life](https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Electric Life](https://open.spotify.com/album/0rgJvUPcgTDdiirvy7wHs6) | 3:14 | 2022-12-22 |  |
 | [Eyes Shut](https://open.spotify.com/track/3vx3J3TSgqR6BW4JBXf4Ui) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:18 | 2022-12-22 | 2023-02-02 |
-| [Find The River](https://open.spotify.com/track/1e3Q7gE5TRUklXOlZFKIrv) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 3:49 | 2022-12-22 |  |
+| [Find The River](https://open.spotify.com/track/1e3Q7gE5TRUklXOlZFKIrv) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 3:49 | 2022-12-22 | 2023-12-15 |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2022-12-22 |  |
 | [Friends](https://open.spotify.com/track/4XlSTowke4Ul0J9xPGvzuY) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Friends](https://open.spotify.com/album/2kaJUzdxuVr6AQnOjqiw5W) | 3:32 | 2022-12-22 |  |
 | [get older](https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [get older](https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq) | 2:57 | 2022-12-22 |  |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-12-22 |  |
 | [Happiest Year](https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something \(Deluxe\)](https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p) | 3:48 | 2022-12-22 |  |
-| [Hard Act To Follow](https://open.spotify.com/track/6IKoE1DlvzdGfzUS9QQaVP) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Hard Act To Follow](https://open.spotify.com/album/0QbOUPiNJAU4h1tGnxfvnh) | 3:14 | 2022-12-22 |  |
+| [Hard Act To Follow](https://open.spotify.com/track/6IKoE1DlvzdGfzUS9QQaVP) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Hard Act To Follow](https://open.spotify.com/album/0QbOUPiNJAU4h1tGnxfvnh) | 3:14 | 2022-12-22 | 2023-12-15 |
 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 | 2022-12-22 |  |
 | [Have A Little Faith In Me](https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW) | 4:05 | 2022-12-22 |  |
 | [Hello](https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX) | 3:14 | 2022-12-22 |  |
@@ -58,6 +59,7 @@
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-12-22 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-12-22 | 2023-02-24 |
 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-12-22 |  |
+| [I Will](https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [BROWN & GRAY](https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN) | [I Will](https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj) | 2:49 | 2023-12-14 |  |
 | [I Won't](https://open.spotify.com/track/5ygnERCqjbRRvDxAUMGlsO) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [I Won't](https://open.spotify.com/album/0etuLc4PdQ5CG4YAINSnbs) | 3:35 | 2023-04-28 |  |
 | [i'll be there](https://open.spotify.com/track/0tdXJ2JYencFfW1QjZ0drx) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [i'll be there](https://open.spotify.com/album/13SZlBbp3KydSTvZ3cahvr) | 3:17 | 2022-12-22 |  |
 | [idlm](https://open.spotify.com/track/3CfI0vmUAQ7dlUvBdGZZ1D) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [idlm](https://open.spotify.com/album/33IfCg2Ou1Z56s2DnjhirV) | 2:33 | 2023-01-16 |  |

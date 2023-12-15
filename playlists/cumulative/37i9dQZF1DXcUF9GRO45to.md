@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-289 songs - 18 hr 22 min
+291 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Dropped By The Doves](https://open.spotify.com/track/3s8O2RnVyxDmm4zHELriYj) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Weathering](https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn) | 2:54 | 2022-04-17 |  |
 | [Déprime hostile](https://open.spotify.com/track/3aQjtAFl23kSadBxrVmrr1) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Déprime hostile](https://open.spotify.com/album/2yqWH1uIjg26bzGFNnV8RS) | 2:18 | 2021-12-15 | 2022-07-29 |
 | [Easy Living](https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 6:06 | 2022-03-24 |  |
-| [Echo Street](https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [The West Is the Best](https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA) | 3:41 | 2021-12-15 |  |
+| [Echo Street](https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [The West Is the Best](https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA) | 3:41 | 2021-12-15 | 2023-12-15 |
 | [Eleven the Fair](https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [HLA\-11TF](https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj) | 4:16 | 2022-11-28 |  |
 | [Enfer](https://open.spotify.com/track/1E32HzakrkfftyhRJrRISM) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [Requiem](https://open.spotify.com/album/2KQaSNYnMutOHHGAeUBSfO) | 3:58 | 2022-04-17 | 2022-07-29 |
 | [Enfer](https://open.spotify.com/track/3zn53uPgY6yn6m49wAt5x8) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [Requiem](https://open.spotify.com/album/7ul2sk365XBQ1EraPxkvaB) | 3:58 | 2022-11-28 |  |
@@ -97,6 +97,7 @@
 | [Full Circle Back](https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Full Circle Back](https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu) | 3:46 | 2022-04-17 | 2023-05-12 |
 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 | 2022-01-03 |  |
 | [Funny Job](https://open.spotify.com/track/1UkK5H2jqo3AsT1BqWN18p) | [Alista](https://open.spotify.com/artist/61hCos6hISn5le08kOOkIc) | [Home Alone](https://open.spotify.com/album/487GnXko7mltMClLrOXiI5) | 3:46 | 2021-12-15 | 2023-12-14 |
+| [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-12-14 |  |
 | [Get Down](https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP) | [Dewaere](https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF) | [Slot Logic](https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W) | 3:24 | 2021-12-15 | 2023-11-11 |
 | [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 | 2022-02-01 | 2023-12-11 |
 | [Getaway](https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO) | [MEULE](https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H) | [Meule](https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo) | 3:48 | 2022-03-24 |  |
@@ -192,7 +193,7 @@
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 | 2023-06-30 |
 | [Once You Taste Blood](https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Homes & Galaxies](https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3) | 4:23 | 2023-11-16 |  |
 | [One Big Mess](https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:56 | 2023-01-29 |  |
-| [Only Weird People Can Fly](https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ) | [Dust On Earth](https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6) | [Only Weird People Can Fly](https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV) | 4:18 | 2023-06-29 |  |
+| [Only Weird People Can Fly](https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ) | [Dust On Earth](https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6) | [Only Weird People Can Fly](https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV) | 4:18 | 2023-06-29 | 2023-12-15 |
 | [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 | 2022-03-24 | 2023-08-21 |
 | [Paradis](https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Paradis](https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9) | 2:21 | 2023-06-29 |  |
 | [Parasite](https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY) | [Fabulous Sheep](https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh) | [Parasite](https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz) | 2:38 | 2022-01-27 | 2023-06-30 |
@@ -264,6 +265,7 @@
 | [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 | 2022-06-30 |  |
 | [Testify](https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq) | [Stereotypical Working Class](https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX) | [Testify](https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu) | 4:29 | 2021-12-15 | 2023-11-23 |
 | [The Ejector Side](https://open.spotify.com/track/0AoTadBjgwXlbLWryWXTqI) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [The Ejector Side](https://open.spotify.com/album/4zjmdGy8wezpjAwXwPboBx) | 2:53 | 2021-12-30 | 2022-07-25 |
+| [The Light In The Dark](https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [The Light in The Dark](https://open.spotify.com/album/40nX8H16qVDUuQwTHlLFGe) | 4:33 | 2023-12-14 |  |
 | [The Midnight Son](https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j) | [Bukowski](https://open.spotify.com/artist/1CIApew7akAk8PyrxByyja) | [The Midnight Sons](https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ) | 3:29 | 2021-12-15 | 2023-04-14 |
 | [The Party](https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/7xfnCJRBfEBZgwkxFHIsb4) | 3:15 | 2022-11-28 | 2023-11-11 |
 | [The Party](https://open.spotify.com/track/763AHSnGhS2mBy5jhdGUio) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/449OW4ceXx64cWDDCrHM0i) | 3:15 | 2022-01-27 | 2022-04-20 |

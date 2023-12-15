@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : TERRIER
+> La scène française branchée sur courant alternatif\. Photo : Simia
 
-104 songs - 5 hr 36 min
+107 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Conspire](https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Conspire](https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1) | 5:53 | 2023-11-30 |  |
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-09-28 | 2023-11-17 |
 | [Dansé](https://open.spotify.com/track/4WBy4mNSb3ytse4qR2BjkG) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Dansé](https://open.spotify.com/album/44DuXaXwALoylbk0vUgC8o) | 2:51 | 2023-09-28 | 2023-11-10 |
-| [Double Tap](https://open.spotify.com/track/1F8y4UfslnzBpWKDZraeD3) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Double Tap](https://open.spotify.com/album/2K13urd2pDuRzpf9OlU2rg) | 2:25 | 2023-10-19 |  |
+| [Double Tap](https://open.spotify.com/track/1F8y4UfslnzBpWKDZraeD3) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Double Tap](https://open.spotify.com/album/2K13urd2pDuRzpf9OlU2rg) | 2:25 | 2023-10-19 | 2023-12-15 |
 | [doudoune northface](https://open.spotify.com/track/4gnbtbry3isjhb75nBIwLA) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [doudoune northface](https://open.spotify.com/album/3itgcSwBsO6trR75ThZCwW) | 3:14 | 2023-12-08 |  |
 | [Du Faux](https://open.spotify.com/track/5YA0jwcbbjL0bS4upsd5Kq) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Du Faux](https://open.spotify.com/album/30PG6zM9Qmvarc75N7c3Vp) | 2:34 | 2023-09-28 | 2023-11-03 |
 | [dénudée](https://open.spotify.com/track/4dJo55UsW4gWpKkkRvRTy1) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [dénudée](https://open.spotify.com/album/3n2PoNjcnOX4QSTbZuitU2) | 2:11 | 2023-09-28 | 2023-11-03 |
@@ -48,6 +48,7 @@
 | [Ikea Boy](https://open.spotify.com/track/64NFlmUuFlT9HPhshsvQk3) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Ikea Boy](https://open.spotify.com/album/5L2BWyQDdBO1GPERRBjqrU) | 3:29 | 2023-11-02 | 2023-12-08 |
 | [It's Over](https://open.spotify.com/track/1ZpbVeGleNHviKOyPQhMkU) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 4:57 | 2023-09-28 | 2023-10-13 |
 | [J'ai plus peur](https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Adulescent Fluorescent](https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf) | 3:23 | 2023-09-28 |  |
+| [J'aimerais tellement](https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [J'aimerais tellement](https://open.spotify.com/album/2tJlAcgwyoxrAa2iASbviH) | 3:15 | 2023-12-14 |  |
 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 | 2023-09-28 | 2023-10-06 |
 | [Je cours](https://open.spotify.com/track/51Gt7yGGiV4wEH9C8YgwBd) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Je cours](https://open.spotify.com/album/4mjbfmCjIffHSLbZRqNWNf) | 2:57 | 2023-09-28 | 2023-11-03 |
 | [Je Voulais](https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Je Voulais](https://open.spotify.com/album/6v0EOkmlVsamzKicsn8m2R) | 3:02 | 2023-09-28 | 2023-12-01 |
@@ -68,8 +69,9 @@
 | [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 | 2023-09-28 | 2023-11-03 |
 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 | 2023-09-28 |  |
 | [Miami](https://open.spotify.com/track/3xlzqzAs4T4LK0bsE0FEvB) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/46CCI0ZcsEnvxwMHWkZFqw) | 3:31 | 2023-11-09 |  |
-| [mignon](https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mignon](https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r) | 2:23 | 2023-10-12 |  |
+| [mignon](https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mignon](https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r) | 2:23 | 2023-10-12 | 2023-12-15 |
 | [Moins seul sans eux](https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Moins seul sans eux](https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp) | 2:11 | 2023-12-08 |  |
+| [Music on Hold 4 Ever](https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5) | [Music On Hold](https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda) | [4 Ever](https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO) | 3:08 | 2023-12-14 |  |
 | [MÉTA DEUIL](https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [MÉTA DEUIL](https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv) | 2:54 | 2023-11-02 |  |
 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 | 2023-09-28 | 2023-11-03 |
 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 | 2023-09-28 | 2023-10-06 |
@@ -78,7 +80,7 @@
 | [Opening](https://open.spotify.com/track/6JlZNJP7EKJIxXPaeDQcrz) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Opening](https://open.spotify.com/album/03BSJyijRZPzlCiPbTcHFC) | 2:04 | 2023-11-02 |  |
 | [Papier cigarette](https://open.spotify.com/track/3mLFOvEDHJHAycMoaNJmVw) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Papier cigarette](https://open.spotify.com/album/6X0woy9fNpjofxlARrsc76) | 3:33 | 2023-11-16 |  |
 | [Paradis](https://open.spotify.com/track/7s5RBWSYciJ7N2zvhSKgOs) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Paradis](https://open.spotify.com/album/22BjV2YN9xoEPqwJKQ3GRU) | 2:51 | 2023-09-28 |  |
-| [Plages Du Nord](https://open.spotify.com/track/1s39UIEJhtAYnpVgPkOYCt) | [Gaétan Nonchalant](https://open.spotify.com/artist/4AlnBIMrqDSEMMlAPzN6DJ) | [Changement de programme](https://open.spotify.com/album/5KqWkiMSoLMDlYwC1V50Il) | 3:10 | 2023-10-05 |  |
+| [Plages Du Nord](https://open.spotify.com/track/1s39UIEJhtAYnpVgPkOYCt) | [Gaétan Nonchalant](https://open.spotify.com/artist/4AlnBIMrqDSEMMlAPzN6DJ) | [Changement de programme](https://open.spotify.com/album/5KqWkiMSoLMDlYwC1V50Il) | 3:10 | 2023-10-05 | 2023-12-15 |
 | [Planisphère](https://open.spotify.com/track/4JMVCc9j54W3HqWD33YG46) | [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Planisphère](https://open.spotify.com/album/6fpYPafHSYj9xRdD6vMl9x) | 3:07 | 2023-09-28 | 2023-10-27 |
 | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg) | 2:10 | 2023-09-28 | 2023-11-10 |
 | [Presque un secret](https://open.spotify.com/track/5Xsu89IWIRc3s3WCP4o69p) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Presque un secret](https://open.spotify.com/album/5N9tpTQqC42sOtGeevzngE) | 3:04 | 2023-09-28 | 2023-10-06 |
@@ -101,6 +103,7 @@
 | [Superstar](https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [DÉSORDRES](https://open.spotify.com/album/6TGZoFUFnus52OtEXSmDEd) | 3:01 | 2023-09-28 | 2023-11-03 |
 | [Tes mains sales](https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Tes mains sales](https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057) | 2:38 | 2023-09-28 | 2023-10-13 |
 | [The 360 Holes Bird](https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp) | [BLVL](https://open.spotify.com/artist/35ky25MGfnUDQehlu1hzdS) | [The 360 Holes Bird](https://open.spotify.com/album/3AKYrcj3lRLL5B6EUuJAkL) | 3:00 | 2023-11-02 |  |
+| [The Sun](https://open.spotify.com/track/30j4tyGI42zwfsg6uP9dly) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4) | [The Sun](https://open.spotify.com/album/2pXrfCYo3YVH5OWBKfPdRX) | 3:39 | 2023-12-14 |  |
 | [Tout eteindre](https://open.spotify.com/track/3TVR0qA8G8V30Ywtnf1Xgm) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Tout eteindre](https://open.spotify.com/album/7kWbrWPzUb3j1BySkQRqJI) | 4:41 | 2023-11-09 |  |
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 |  |
 | [Une dernière fois](https://open.spotify.com/track/3FWo0LZdY98cNzlJ3vkBPO) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Bella Vita](https://open.spotify.com/album/1CUDj03p5bIJMthHyrqpYZ) | 3:07 | 2023-09-28 | 2023-10-20 |

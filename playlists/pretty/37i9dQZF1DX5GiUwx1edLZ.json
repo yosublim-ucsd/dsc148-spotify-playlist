@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277114,
+  "num_followers": 277123,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "King - Acoustic",
-      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 239453,
       "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
       "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "King - Acoustic",
+      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Sound Advice (Chapter One)",
-        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
-      },
-      "artists": [
-        {
-          "name": "Ben Gold",
-          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
-        },
-        {
-          "name": "Audrey Gallagher",
-          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "There Will Be Angels - Acoustic Version",
-      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
         "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 201468,
       "name": "How to Love (feat. Sofia Reyes) - Acoustic",
       "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Sound Advice (Chapter One)",
+        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "Audrey Gallagher",
+          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "There Will Be Angels - Acoustic Version",
+      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1823,6 +1823,30 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Living Without You (Acoustic)",
+        "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Living Without You - Acoustic",
+      "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1839,26 +1863,6 @@
       "duration_ms": 201748,
       "name": "Fears - Acoustic Version",
       "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Radio (Acoustic)",
-        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 138048,
-      "name": "Radio - Acoustic",
-      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1903,6 +1907,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "ABIR",
+          "url": "https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Finest Hour (feat. Abir) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
         "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
       },
@@ -1943,30 +1967,6 @@
       "duration_ms": 229701,
       "name": "Waiting - Strings & Vocals Mix",
       "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Living Without You (Acoustic)",
-        "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Living Without You - Acoustic",
-      "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
     }
   ],
   "unique_name": "mint Acoustic",

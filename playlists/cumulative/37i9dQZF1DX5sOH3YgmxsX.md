@@ -2,7 +2,7 @@
 
 ### [Hora da Resenha](https://open.spotify.com/playlist/37i9dQZF1DX5sOH3YgmxsX)
 
-> Papos, piadas, risadas e convidados certeiros: aqueles podcasts que são sucesso!
+> Aquele papo de boteco para se perder no play
 
 0 song - 0 sec
 

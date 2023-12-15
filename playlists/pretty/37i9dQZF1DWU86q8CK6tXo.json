@@ -1,6 +1,6 @@
 {
   "description": "Highlights of 2023, listen to women at full volume. Cover:  <a href=\u201cspotify:artist:5LkbTSqXfMBjFSGi9LOGjq\u201d>Samara Joy</a> ",
-  "num_followers": 45206,
+  "num_followers": 45216,
   "original_name": "Best of EQUAL US 2023",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "Why Does the Earth Give Us People to Love?",
+        "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "duration_ms": 325204,
+      "name": "dickhead blues",
+      "url": "https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Why Does the Earth Give Us People to Love?",
-        "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
-      },
-      "artists": [
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        }
-      ],
-      "duration_ms": 325204,
-      "name": "dickhead blues",
-      "url": "https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO"
     }
   ],
   "unique_name": "Best of EQUAL US 2023",

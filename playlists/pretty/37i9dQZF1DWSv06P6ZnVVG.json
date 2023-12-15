@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 28150,
+  "num_followers": 28179,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 226306,
       "name": "Chinelo Carnavalero",
       "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Bailando Ando",
-        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
-      },
-      "artists": [
-        {
-          "name": "Banda 466 Paso a Paso",
-          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
-        }
-      ],
-      "duration_ms": 134725,
-      "name": "La Rabia",
-      "url": "https://open.spotify.com/track/6vVdR7jAZVVCc4qx2JMLVz"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 264693,
       "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Bailando Ando",
+        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 134725,
+      "name": "La Rabia",
+      "url": "https://open.spotify.com/track/6vVdR7jAZVVCc4qx2JMLVz"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "La Fiera 2018",
+        "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona de Michoacan",
+          "url": "https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "El Pistolero - Son, Huapangobanda",
+      "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Las Mamirriquis",
         "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 164087,
       "name": "La Burra Orejona",
       "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "La Fiera 2018",
-        "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona de Michoacan",
-          "url": "https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "El Pistolero - Son, Huapangobanda",
-      "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 190171,
+      "name": "Conga Conguita",
+      "url": "https://open.spotify.com/track/3FJ7dZ6WXilGsBIVOoB0wB"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "La Trayectoria! (De Arturo Camarillo)",
         "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 243506,
       "name": "Popurr\u00ed Mexicano: Son de la Negra / Pelea de Gallos",
       "url": "https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 190171,
-      "name": "Conga Conguita",
-      "url": "https://open.spotify.com/track/3FJ7dZ6WXilGsBIVOoB0wB"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -935,38 +935,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Las m\u00e1s muerteras",
-        "url": "https://open.spotify.com/album/3gjCOwINDNAOi3VIk8PbZ8"
-      },
-      "artists": [
-        {
-          "name": "Los Oaxapen\u00b4S",
-          "url": "https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8"
-        }
-      ],
-      "duration_ms": 214674,
-      "name": "Carnavalezco",
-      "url": "https://open.spotify.com/track/0kk8kIdLalXbrl3DaFrXPM"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Mas Zacatecano Que Nunca",
-        "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 154266,
-      "name": "Zapateando Con La Banda",
-      "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr"
       },
@@ -987,38 +955,50 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "La Mariquita",
-        "url": "https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ"
+        "name": "Las m\u00e1s muerteras",
+        "url": "https://open.spotify.com/album/3gjCOwINDNAOi3VIk8PbZ8"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        },
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+          "name": "Los Oaxapen\u00b4S",
+          "url": "https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8"
         }
       ],
-      "duration_ms": 198665,
-      "name": "La Mariquita",
-      "url": "https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j"
+      "duration_ms": 214674,
+      "name": "Carnavalezco",
+      "url": "https://open.spotify.com/track/0kk8kIdLalXbrl3DaFrXPM"
     },
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "\u00a1La Mera Mera! (10 Aniversario) [La Historia Contin\u00faa]",
-        "url": "https://open.spotify.com/album/5rsRnvD5GXtK6IjyaHWexK"
+        "name": "El Toro Meko (Serie Titanium)",
+        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
       },
       "artists": [
         {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+          "name": "La Super Banda de Chilacachapa, Gro",
+          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
         }
       ],
-      "duration_ms": 345933,
-      "name": "Carnavaleando",
-      "url": "https://open.spotify.com/track/2J0zZ1yfeibAX3LCdJe8j9"
+      "duration_ms": 187680,
+      "name": "El Huitzuque\u00f1o",
+      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Mas Zacatecano Que Nunca",
+        "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 154266,
+      "name": "Zapateando Con La Banda",
+      "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1039,18 +1019,38 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "El Toro Meko (Serie Titanium)",
-        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
+        "name": "\u00a1La Mera Mera! (10 Aniversario) [La Historia Contin\u00faa]",
+        "url": "https://open.spotify.com/album/5rsRnvD5GXtK6IjyaHWexK"
       },
       "artists": [
         {
-          "name": "La Super Banda de Chilacachapa, Gro",
-          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
         }
       ],
-      "duration_ms": 187680,
-      "name": "El Huitzuque\u00f1o",
-      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
+      "duration_ms": 345933,
+      "name": "Carnavaleando",
+      "url": "https://open.spotify.com/track/2J0zZ1yfeibAX3LCdJe8j9"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "La Mariquita",
+        "url": "https://open.spotify.com/album/0GOqWn6wVT5MgFJtuPMOKZ"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        },
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 198665,
+      "name": "La Mariquita",
+      "url": "https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j"
     },
     {
       "added_at": "2022-08-02 22:31:47",

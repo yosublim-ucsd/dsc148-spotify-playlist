@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
+      },
+      "artists": [
+        {
+          "name": "WestSouth",
+          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166019,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4"
+    },
+    {
+      "album": {
         "name": "Memories of Tomorrow",
         "url": "https://open.spotify.com/album/16gAW8RYGRjjHqUfedNpHY"
       },

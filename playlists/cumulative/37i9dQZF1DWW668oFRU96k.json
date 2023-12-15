@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: MEDUZA x Clementine Douglas x Ferreck Dawn",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x YUQI x JVKE",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 200475,
       "name": "A&S",
       "url": "https://open.spotify.com/track/4joJLer0vBve2ME4A0YU2i"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 181875,
       "name": "Aisha",
       "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 195480,
       "name": "All Stand Together",
       "url": "https://open.spotify.com/track/5Tg7ljm6nxJiBh8jl6cpPz"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 161770,
       "name": "Big FU",
       "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
@@ -1688,6 +1688,32 @@
       "duration_ms": 131500,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/3wPQlLqYSWFsAKy6UeTjbq"
+    },
+    {
+      "album": {
+        "name": "Brighter (Dave Summer Remix)",
+        "url": "https://open.spotify.com/album/7AfDLIKksawCSHZXVoi3nl"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210014,
+      "name": "Brighter - Dave Summer Remix",
+      "url": "https://open.spotify.com/track/6TDdOZxGNvva3l36Me8XLc"
     },
     {
       "album": {
@@ -2732,6 +2758,24 @@
       "duration_ms": 139347,
       "name": "Da Blue",
       "url": "https://open.spotify.com/track/2qSARpbxlxwETeEP2jJC6T"
+    },
+    {
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/7lL7z2Kbqj7gCjRlAKENmb"
+      },
+      "artists": [
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/4bahlJIInsjIUKXrod6RqO"
     },
     {
       "album": {
@@ -4078,7 +4122,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 158781,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/51i2k5wwoVJETU1Ki8Omjp"
@@ -4342,7 +4386,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 173882,
       "name": "Fighting For You",
       "url": "https://open.spotify.com/track/7L71jX5uDYFXBCVCvZzb9D"
@@ -4516,6 +4560,32 @@
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "album": {
+        "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+        "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123624,
+      "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+      "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
     },
     {
       "album": {
@@ -5236,7 +5306,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
@@ -5856,7 +5926,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 212542,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1qeoq1tI6uUprUJNgnVRvp"
@@ -6241,6 +6311,28 @@
     },
     {
       "album": {
+        "name": "How Do I Say Goodbye (feat. Delaney Jane)",
+        "url": "https://open.spotify.com/album/2BP6zvUEaHNqxyTCSUGXPZ"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Delaney Jane",
+          "url": "https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "How Do I Say Goodbye (feat. Delaney Jane)",
+      "url": "https://open.spotify.com/track/7EdBkc2HvH9gIlBDtiYmY1"
+    },
+    {
+      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/0FXSoqL8Qhuzebtgm9CSIa"
       },
@@ -6374,7 +6466,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
@@ -6648,7 +6740,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 150967,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/6o22sJrb4PANBL21hepBJD"
@@ -6998,7 +7090,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
@@ -7202,6 +7294,32 @@
       "duration_ms": 181532,
       "name": "IRL",
       "url": "https://open.spotify.com/track/1TWo3biVjxcOMoJpG1u7TG"
+    },
+    {
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/2vgm4daUWxQbvV4C0w08Lw"
+      },
+      "artists": [
+        {
+          "name": "BrillLion",
+          "url": "https://open.spotify.com/artist/1hzTGiVMoHHDQwybbnUClq"
+        },
+        {
+          "name": "Jade Key",
+          "url": "https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb"
+        },
+        {
+          "name": "Manda Malina",
+          "url": "https://open.spotify.com/artist/4qjfNTFY3hqd68NDa5AGwx"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/03ca4bsBCkhRoN2ds1XNkm"
     },
     {
       "album": {
@@ -8074,7 +8192,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 213333,
       "name": "Love Like A Bomb (feat. \u3072\u304b\u308a) - Desired Remix",
       "url": "https://open.spotify.com/track/0DYzitVv6vogVzbf3Vkz2j"
@@ -8144,6 +8262,24 @@
       "duration_ms": 166451,
       "name": "Love or Die",
       "url": "https://open.spotify.com/track/3pB0Dprmvibh84EQaOAggE"
+    },
+    {
+      "album": {
+        "name": "Love Up High",
+        "url": "https://open.spotify.com/album/3LEE5fUFSInw4x777ecBvC"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184821,
+      "name": "Love Up High",
+      "url": "https://open.spotify.com/track/2XrbbnU0xnKybBGUWqJG1p"
     },
     {
       "album": {
@@ -8224,6 +8360,28 @@
       "duration_ms": 157241,
       "name": "Loveline",
       "url": "https://open.spotify.com/track/1srU3olawRkqWsazU5neT0"
+    },
+    {
+      "album": {
+        "name": "Lovely Day (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165789,
+      "name": "Lovely Day - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy"
     },
     {
       "album": {
@@ -8548,7 +8706,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
@@ -9345,6 +9503,28 @@
     },
     {
       "album": {
+        "name": "Nice & Chill (feat. Snoop Dogg)",
+        "url": "https://open.spotify.com/album/2qbbWIlButDWaIAStr8Aj0"
+      },
+      "artists": [
+        {
+          "name": "HINA",
+          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155476,
+      "name": "Nice & Chill (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0YpGZ3doNPRq9mMj4kgUZB"
+    },
+    {
+      "album": {
         "name": "NIGHT",
         "url": "https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB"
       },
@@ -9757,6 +9937,32 @@
     },
     {
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/7KQdgdXYqfjqnTNsyaVWHd"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113500,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/37tXaBDUaXH9MXHN0LRzhG"
+    },
+    {
+      "album": {
         "name": "Novocaine",
         "url": "https://open.spotify.com/album/5iuBVACmobAL1yhELHTPo6"
       },
@@ -9986,7 +10192,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 206998,
       "name": "On A Trip (with Marten H\u00f8rger)",
       "url": "https://open.spotify.com/track/61nIe3FaqSOGtWdL1dsHCc"
@@ -10479,6 +10685,24 @@
     },
     {
       "album": {
+        "name": "TC/TC Edition 002",
+        "url": "https://open.spotify.com/album/6juCC1SNV4XiKJraqeuBym"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201461,
+      "name": "OVER YOU - TC/TC",
+      "url": "https://open.spotify.com/track/2o2DVGwdsT1yMUigt2oO6j"
+    },
+    {
+      "album": {
         "name": "Overtaking",
         "url": "https://open.spotify.com/album/03k3DU7ds9Tqw2PStMKQzT"
       },
@@ -10908,7 +11132,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
@@ -11478,7 +11702,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 191859,
       "name": "Road To Nowhere",
       "url": "https://open.spotify.com/track/4MZPKuMk4zZnpRKvvhBgu1"
@@ -13770,7 +13994,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 167903,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
@@ -13854,7 +14078,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 206410,
       "name": "The Switch",
       "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
@@ -14610,6 +14834,32 @@
       "duration_ms": 143253,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
+    },
+    {
+      "album": {
+        "name": "Voyage Voyage",
+        "url": "https://open.spotify.com/album/5uy4i6ebA5lKrsWvQ6J2Oy"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Voyage Voyage",
+      "url": "https://open.spotify.com/track/5vKKfaYOmxAC3973l5y2sU"
     },
     {
       "album": {

@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 307924,
       "name": "Anarkali",
       "url": "https://open.spotify.com/track/4kvmWGtZmFXimJl1hgnmg4"
@@ -2574,6 +2574,32 @@
       "duration_ms": 129504,
       "name": "Move Shawty",
       "url": "https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr"
+    },
+    {
+      "album": {
+        "name": "Mugile",
+        "url": "https://open.spotify.com/album/3A1Sa3slUaD2eP2CVmK1IY"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        },
+        {
+          "name": "VJSH",
+          "url": "https://open.spotify.com/artist/0mR1GgJfsTdVgclygjlXtT"
+        },
+        {
+          "name": "Carnival Crooks",
+          "url": "https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161921,
+      "name": "Mugile",
+      "url": "https://open.spotify.com/track/4pzOZiFpauKynFuOfjs94g"
     },
     {
       "album": {

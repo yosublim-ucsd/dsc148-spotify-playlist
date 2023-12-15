@@ -4,11 +4,12 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-108 songs - 4 hr 38 min
+109 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/album/7cI6WjL8tRjS8mpFf07Wox) | 3:10 | 2023-09-21 |  |
+| [03 Rica](https://open.spotify.com/track/5jLuUEQG8HUp1ee8o2h1vf) | [Tommy Tee](https://open.spotify.com/artist/4ihTfE4MtCrKerRYHU7e4p), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [T Section](https://open.spotify.com/artist/6JQh39rF2lAj25dMHEXpoC), [amir.](https://open.spotify.com/artist/3pwG0vw2XedZiTh0qNVl8P), [OTG](https://open.spotify.com/artist/1svzRrihwnGVSMLMKBGvTU) | [03 Rica](https://open.spotify.com/album/3aLl7TfFtN7iYy1BKn4iCj) | 2:33 | 2023-12-14 |  |
 | [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 | 2023-09-21 |  |
 | [1877](https://open.spotify.com/track/0QhExfZSTY5TnRzHOxJGwm) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Xania](https://open.spotify.com/album/7H1IWk2YAccSqlGqkA6Ac7) | 2:39 | 2023-09-21 | 2023-09-29 |
 | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx) | 5:22 | 2023-11-16 |  |
@@ -39,7 +40,7 @@
 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 | 2023-09-21 |  |
 | [Eneste jeg vil](https://open.spotify.com/track/0psfsKyQhgh1ZoezmBNtNC) | [Larsiveli](https://open.spotify.com/artist/3xQ7Td9gKHIT3J7w7e2CeW) | [Bitterhetens Hotell](https://open.spotify.com/album/4TA1oZbrSZWKV1jmLVB02m) | 2:43 | 2023-10-19 | 2023-11-11 |
 | [EXTEND](https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [SILENT HILLS](https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo) | 2:29 | 2023-11-09 |  |
-| [F.H.D.S!](https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [F.H.D.S!](https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj) | 2:38 | 2023-11-09 |  |
+| [F.H.D.S!](https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [F.H.D.S!](https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj) | 2:38 | 2023-11-09 | 2023-12-15 |
 | [Fantasy](https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Fantasy](https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI) | 2:18 | 2023-09-21 |  |
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-09-21 |  |
 | [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-12-08 |  |

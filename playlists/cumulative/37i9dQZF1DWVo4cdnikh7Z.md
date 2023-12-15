@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Captain Miller
 
-1,033 songs - 2 day 15 hr 20 min
+1,034 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aagoozhilae](https://open.spotify.com/track/1lFaBr3FHJ50muREghdg5C) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/5giXKnWYxmiHDn2Aky5tPc) | 3:53 | 2022-03-13 | 2022-06-29 |
 | [Aala Aala](https://open.spotify.com/track/6XG5M4MbpyeSVYq36NBdEm) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Yaanai Mugathaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22bkoTuX7Va2wTpiPe2V6J) | 3:34 | 2023-03-14 | 2023-06-08 |
 | [Aalankaayaa Anjaneya \(From "HanuMan"\) \[Tamil\]](https://open.spotify.com/track/2s7WbMRiUXFgUlTru0bgmu) | [Sahithi Galidevara](https://open.spotify.com/artist/2ogBMV4xBxzWqWXNKkKzGl) | [Aalankaayaa Anjaneya \(From "HanuMan"\) \[Tamil\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7kQETXlCNzgbS8bNyGkVr0) | 4:19 | 2023-11-28 | 2023-12-13 |
+| [Aalathey \- From "Nanban Oruvan Vantha Piragu"](https://open.spotify.com/track/4gSeRNfWsys27cbVW1dktD) | [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Aalathey \(From "Nanban Oruvan Vantha Piragu"\)](https://open.spotify.com/album/2DNkEWQfIINFW5ncWhHivY) | 3:42 | 2023-12-14 |  |
 | [Aanaal](https://open.spotify.com/track/1I8Ndpi4x0ZAK03YGLdmZS) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Modern Love \(Chennai\) \[Original Series Soundtrack\]](https://open.spotify.com/album/3YdrTcu1YnQAcjJwnNeYgI) | 2:18 | 2023-05-13 | 2023-05-24 |
 | [Aanandham Koothadum \- From "Bakasuran"](https://open.spotify.com/track/2SXTELPQfPA5EqhqATxwbE) | [VV Prasanna](https://open.spotify.com/artist/3VU0fQDGgrP774sDeVvJbs), [Sam CS](https://open.spotify.com/artist/2Ktds0sOwPd0hq4kgquAda), [Snehan](https://open.spotify.com/artist/7uekXH8SqDlOL2SLPvEYIx) | [Aanandham Koothadum \(From "Bakasuran"\)](https://open.spotify.com/album/3M7OUXOhtrLDyIB8xZFozz) | 3:02 | 2023-02-13 | 2023-02-21 |
 | [Aaradho](https://open.spotify.com/track/7HjqEsj7iKHbcWAD5QaiD1) | [Radhan](https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi), [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Miss Shetty Mr Polishetty \(Tamil\)](https://open.spotify.com/album/1zBj0kEH9AlOV97UvpWoLe) | 2:58 | 2023-09-08 | 2023-09-22 |

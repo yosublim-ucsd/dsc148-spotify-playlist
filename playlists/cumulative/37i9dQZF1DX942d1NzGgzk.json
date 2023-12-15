@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 221493,
       "name": "As You Are - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH"
@@ -3380,6 +3380,24 @@
       "duration_ms": 195715,
       "name": "Uptown",
       "url": "https://open.spotify.com/track/5noIlg392n8MvtJdZrQYLB"
+    },
+    {
+      "album": {
+        "name": "Used Girl",
+        "url": "https://open.spotify.com/album/1eey2MhbcWPrS29wVQZ4BC"
+      },
+      "artists": [
+        {
+          "name": "Tallia Storm",
+          "url": "https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232762,
+      "name": "Used Girl",
+      "url": "https://open.spotify.com/track/6TdDjjugHtkTNF6pUGre1I"
     },
     {
       "album": {

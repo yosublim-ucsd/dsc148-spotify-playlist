@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/28qJotgVoss0htjx54Z33G"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168680,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/47RGBqVpDOuG1lQXheVEuh"
+    },
+    {
+      "album": {
         "name": "Don't Lie/See It Through - A COLORS SHOW",
         "url": "https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS"
       },
@@ -871,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Get You",
+        "url": "https://open.spotify.com/album/4sWOxBKH0HrElfZwzNFxKt"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "Get You",
+      "url": "https://open.spotify.com/track/6XqPLhC4EdmFMiAHuyUq1Q"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -1042,6 +1078,36 @@
       "duration_ms": 198480,
       "name": "It's Nearly Over",
       "url": "https://open.spotify.com/track/1N2D3apgTeJJ2anfr6tWfP"
+    },
+    {
+      "album": {
+        "name": "iThuba",
+        "url": "https://open.spotify.com/album/6AcE5eBmYc6e3SjmZMUwkr"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "BasicCity",
+          "url": "https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY"
+        },
+        {
+          "name": "Moluna",
+          "url": "https://open.spotify.com/artist/17G8mTdamnMWDlGNiSJAY3"
+        },
+        {
+          "name": "Mo\u00efse Archipe",
+          "url": "https://open.spotify.com/artist/6hzdkLWEWYy6jjYuDI8rQN"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "iThuba",
+      "url": "https://open.spotify.com/track/02yisxKfhmx0wYutmtC21a"
     },
     {
       "album": {

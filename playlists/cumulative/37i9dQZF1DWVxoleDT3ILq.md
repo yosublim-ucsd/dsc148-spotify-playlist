@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Yorka
 
-442 songs - 1 day 2 hr 38 min
+443 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Te lo pido por favor](https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:50 | 2022-04-15 |  |
 | [Te puedes ir, amor](https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Te puedes ir, amor](https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt) | 3:09 | 2023-10-12 |  |
 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 | 2022-04-15 | 2022-12-10 |
-| [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 |  |
+| [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 | 2023-12-15 |
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 | 2023-01-28 |
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
 | [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 | 2023-07-07 |
@@ -395,6 +395,7 @@
 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-05-26 |  |
 | [Tinder uwu](https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Tinder uwu](https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm) | 3:03 | 2022-04-15 | 2022-12-10 |
 | [Tormenta](https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Tormenta](https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i) | 2:37 | 2022-05-06 | 2023-11-01 |
+| [Tormenta](https://open.spotify.com/track/6oTQtxgdzrQFRTbGchCNjn) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/4JujA1bT5q4BGZXqfsbFQ8) | 2:37 | 2023-12-07 |  |
 | [tournesol](https://open.spotify.com/track/0qJrBdxMDcKANTRrPxMZGB) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [tournesol](https://open.spotify.com/album/60CR0x9lxB2FUadJhSeKJg) | 3:09 | 2022-04-15 | 2022-12-10 |
 | [Triálogo](https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [Cuatro](https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS) | 2:30 | 2022-08-05 |  |
 | [Tu Centro Se Aferra a Mi](https://open.spotify.com/track/59OQfyqSyAbfJIKIaixaS1) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [III](https://open.spotify.com/album/2T9nC7wwk50wrpcFwpYxLz) | 3:16 | 2022-04-15 | 2022-07-27 |

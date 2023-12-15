@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: BIG SPECIAL",
+  "description": "The best new music from the wide world of punk. Cover: Sum 41",
   "name": "All New Punk",
   "tracks": [
     {
@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/0JcxakFKSDNIlNcqjEbPVj"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "999",
+      "url": "https://open.spotify.com/track/3X6kv6zO5IP2rSTYuUOFJi"
+    },
+    {
+      "album": {
         "name": "A Cow to Milk",
         "url": "https://open.spotify.com/album/4wNS3fZuQ4RIcJgbpbTUbw"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 194880,
       "name": "All Better",
       "url": "https://open.spotify.com/track/2DfZp0Ho5MhZwTANjHtlHe"
@@ -1434,6 +1452,24 @@
     {
       "album": {
         "name": "Antidote",
+        "url": "https://open.spotify.com/album/5LlPRkM2T4UK4INb33AhhV"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109704,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/2xU2W9p3gi9ZyX0L7rBF0F"
+    },
+    {
+      "album": {
+        "name": "Antidote",
         "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
       "artists": [
@@ -1628,6 +1664,28 @@
       "duration_ms": 161489,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/0cphnlzamiAzqoX52U0UtB"
+    },
+    {
+      "album": {
+        "name": "nulla.",
+        "url": "https://open.spotify.com/album/2w0oUtRdOjhPPS30TcJi4X"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        },
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215435,
+      "name": "Arrows",
+      "url": "https://open.spotify.com/track/35r4qfODdAxAUuDl7VRE8C"
     },
     {
       "album": {
@@ -2751,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "BLITZ",
+        "url": "https://open.spotify.com/album/5nmvr2jW0aMmiwNefK2v6t"
+      },
+      "artists": [
+        {
+          "name": "nascar aloe",
+          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82285,
+      "name": "BLITZ",
+      "url": "https://open.spotify.com/track/0gIsd766Flqf38dalTiqN5"
+    },
+    {
+      "album": {
         "name": "BLOOD",
         "url": "https://open.spotify.com/album/1CGWtH3bwXd21ClTFC0kUL"
       },
@@ -3178,6 +3254,24 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "album": {
+        "name": "BRAIN DEAD",
+        "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121071,
+      "name": "BRAIN DEAD",
+      "url": "https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H"
     },
     {
       "album": {
@@ -3774,7 +3868,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 473984,
       "name": "Camp Orchestra / Metallic Taste - Medley | Live in Santa Ana | 2023",
       "url": "https://open.spotify.com/track/0txQHeeC5Jt9w42HujbLiP"
@@ -3984,7 +4078,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 236130,
       "name": "Carrie & Lowell & Cody (Pendent)",
       "url": "https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc"
@@ -4366,10 +4460,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 154333,
       "name": "Chewed Up",
       "url": "https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA"
+    },
+    {
+      "album": {
+        "name": "Chewed Up",
+        "url": "https://open.spotify.com/album/5ZUguAVzSt5Yz8toCv7KGX"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Chewed Up",
+      "url": "https://open.spotify.com/track/6hz0UeyredFZmDkfDvtEkU"
     },
     {
       "album": {
@@ -5142,6 +5254,24 @@
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
+    },
+    {
+      "album": {
+        "name": "Cringe",
+        "url": "https://open.spotify.com/album/4iAC5j23FLuzhZF164ttVe"
+      },
+      "artists": [
+        {
+          "name": "Misplaced",
+          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134326,
+      "name": "Cringe",
+      "url": "https://open.spotify.com/track/5xfUEcKx72EcuqYuZCD67L"
     },
     {
       "album": {
@@ -7926,7 +8056,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND"
@@ -11722,7 +11852,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 184266,
       "name": "Identical Days",
       "url": "https://open.spotify.com/track/4hrptHq1WUVnUIsZpyt3YE"
@@ -12812,6 +12942,32 @@
       "duration_ms": 147186,
       "name": "Kind Love",
       "url": "https://open.spotify.com/track/0geKAq5A4DXDiOmDtiGKL4"
+    },
+    {
+      "album": {
+        "name": "King For A Day (feat. Kasey Karlsen of Deadlands)",
+        "url": "https://open.spotify.com/album/4hWs3SJFD2LbFjiQ61zQ9P"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        },
+        {
+          "name": "Kasey Karlsen",
+          "url": "https://open.spotify.com/artist/2y2juR6NAvHg1nD6qFgRDh"
+        },
+        {
+          "name": "Deadlands",
+          "url": "https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263444,
+      "name": "King For A Day (feat. Kasey Karlsen of Deadlands)",
+      "url": "https://open.spotify.com/track/5W3aG3QA2ZVII4MtstSHHf"
     },
     {
       "album": {
@@ -14456,7 +14612,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 279284,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo"
@@ -15166,7 +15322,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 179091,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5zcwr8ousvLdjUz8RqwN1j"
@@ -16468,6 +16624,28 @@
       "duration_ms": 118586,
       "name": "Non Serviam",
       "url": "https://open.spotify.com/track/4vXAg3OK3D5HNPcGxmYWIG"
+    },
+    {
+      "album": {
+        "name": "North Road",
+        "url": "https://open.spotify.com/album/4y1hMN0SINazJmAhwvJQzB"
+      },
+      "artists": [
+        {
+          "name": "Darcy Baker",
+          "url": "https://open.spotify.com/artist/49LwU3fR40rbtp7FNzBGla"
+        },
+        {
+          "name": "Eat Your Heart Out",
+          "url": "https://open.spotify.com/artist/1Zj2DULoJ6vo0FZ2R8HM3i"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "North Road",
+      "url": "https://open.spotify.com/track/0OiSXtzkFLi4Et6FqZxHgd"
     },
     {
       "album": {
@@ -19211,6 +19389,24 @@
     },
     {
       "album": {
+        "name": "Religion for One",
+        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199727,
+      "name": "Religion for One",
+      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
+    },
+    {
+      "album": {
         "name": "Do All Words Can Do",
         "url": "https://open.spotify.com/album/39NLIYLEjLnvA3N9wF9slF"
       },
@@ -19450,6 +19646,24 @@
       "duration_ms": 339120,
       "name": "Rise",
       "url": "https://open.spotify.com/track/4tHLpL9O5fxa2scH2yXNvb"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196837,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S"
     },
     {
       "album": {
@@ -19724,7 +19938,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 173822,
       "name": "Sacred Blasphemy",
       "url": "https://open.spotify.com/track/35ftdglCpTUAjY5KEJ0vQI"
@@ -25044,7 +25258,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 237477,
       "name": "Try",
       "url": "https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt"
@@ -26138,7 +26352,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 210317,
       "name": "Wasting All These Tears - Cassadee's Version",
       "url": "https://open.spotify.com/track/6ggAqp1zV8uSxZdItKRuWO"
@@ -27124,6 +27338,24 @@
       "duration_ms": 186214,
       "name": "Wouldn't That Be Nice",
       "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
+    },
+    {
+      "album": {
+        "name": "Wounded",
+        "url": "https://open.spotify.com/album/1lXYNQFd2GBYjKUv3Cq36t"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ster",
+          "url": "https://open.spotify.com/artist/0ZwbQSTZLxufDAmbfjRZzd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220872,
+      "name": "Wounded",
+      "url": "https://open.spotify.com/track/11VmB1AH5ftVdADlTUPJDx"
     },
     {
       "album": {

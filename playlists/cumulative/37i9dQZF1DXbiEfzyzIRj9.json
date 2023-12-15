@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 180960,
       "name": "54 Hours",
       "url": "https://open.spotify.com/track/7GMv05oN3VnJLsQptfT6ZQ"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 165018,
       "name": "Aglio e olio",
       "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 246840,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 471942,
       "name": "Ascendant Resonance",
       "url": "https://open.spotify.com/track/49gYKKM8U6poZrrkTjHxD6"
@@ -1115,6 +1115,32 @@
     },
     {
       "album": {
+        "name": "Blue Bird (Shinichi Osawa Remix)",
+        "url": "https://open.spotify.com/album/7ldnBgNHj1BVwSZJJGspxG"
+      },
+      "artists": [
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        },
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        },
+        {
+          "name": "Maika Loubt\u00e9",
+          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254165,
+      "name": "Blue Bird feat. Maika Loubt\u00e9 (Shinichi Osawa Remix)",
+      "url": "https://open.spotify.com/track/0GbgR4OseI6D4nFr5HmXkW"
+    },
+    {
+      "album": {
         "name": "Blue Lights",
         "url": "https://open.spotify.com/album/1ZsDpgACrpIQ2w4qctiPF7"
       },
@@ -1290,7 +1316,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 362033,
       "name": "Busted",
       "url": "https://open.spotify.com/track/0GUrbWUS4pnKx7rqJZhgek"
@@ -2862,7 +2888,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 332571,
       "name": "Everything",
       "url": "https://open.spotify.com/track/06AbpLxu17SbYQ6R3ZFAoL"
@@ -3548,7 +3574,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 272375,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/16WI1ZPGF23IV7GJQiBdLm"
@@ -3642,7 +3668,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 174145,
       "name": "Freedom (In Ur Mind)",
       "url": "https://open.spotify.com/track/1eUW1kuvyCq6oFUXNLIumU"
@@ -3694,6 +3720,24 @@
       "duration_ms": 220166,
       "name": "Fuck what u heard",
       "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
+    },
+    {
+      "album": {
+        "name": "Sail the Seven Seas",
+        "url": "https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174556,
+      "name": "Fucked Up",
+      "url": "https://open.spotify.com/track/5KjSqJiqmt89tOqGTxWgB4"
     },
     {
       "album": {
@@ -3904,7 +3948,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 187374,
       "name": "Golden Leaves",
       "url": "https://open.spotify.com/track/4kgAtYwG7vkQIiJ6BaUvzZ"
@@ -3980,7 +4024,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 300547,
       "name": "gr etiquette",
       "url": "https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF"
@@ -4170,7 +4214,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 203805,
       "name": "Hawthorn",
       "url": "https://open.spotify.com/track/6qCAzYKHTO6GwNiuT9qlyn"
@@ -4658,7 +4702,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 204413,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/1pl7PJVpbuu360NatjDpRI"
@@ -5924,7 +5968,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
@@ -6076,7 +6120,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 445429,
       "name": "Magic Hour",
       "url": "https://open.spotify.com/track/7uu7uNCBwow3iHO7EXulbc"
@@ -6354,7 +6398,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 376822,
       "name": "Missing",
       "url": "https://open.spotify.com/track/64uRVLBFO8U6EbuC4eggql"
@@ -6812,7 +6856,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 213666,
       "name": "Nobody Else Will Do",
       "url": "https://open.spotify.com/track/0X2BDvXWRUYKkgOvWqvUdM"
@@ -7154,7 +7198,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 492500,
       "name": "Outdoor Limit",
       "url": "https://open.spotify.com/track/2Td6XIXTwJXWuLg3amKiZi"
@@ -8506,6 +8550,28 @@
       "duration_ms": 209280,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
+    },
+    {
+      "album": {
+        "name": "Small Sanctuary (nimino Remix)",
+        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252187,
+      "name": "Small Sanctuary - nimino Remix",
+      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
     },
     {
       "album": {
@@ -10558,7 +10624,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 260148,
       "name": "Y",
       "url": "https://open.spotify.com/track/4bBGHKiW0Fdu9BG9oyjAeX"

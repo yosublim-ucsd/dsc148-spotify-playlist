@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9736,
+  "num_followers": 9737,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
+        "name": "What are we (Feat. PARK JIWON of fromis_9)",
+        "url": "https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa"
+      },
+      "artists": [
+        {
+          "name": "BAEKHO",
+          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
+        },
+        {
+          "name": "PARK JI WON (fromis_9)",
+          "url": "https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "What are we (Feat. PARK JIWON of fromis_9)",
+      "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
       },
@@ -311,6 +331,22 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
@@ -327,22 +363,6 @@
       "duration_ms": 232866,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
     },
     {
       "added_at": "2023-12-09 12:43:14",
@@ -379,26 +399,6 @@
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
-        "name": "What are we (Feat. PARK JIWON of fromis_9)",
-        "url": "https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa"
-      },
-      "artists": [
-        {
-          "name": "BAEKHO",
-          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
-        },
-        {
-          "name": "PARK JI WON (fromis_9)",
-          "url": "https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "What are we (Feat. PARK JIWON of fromis_9)",
-      "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
     },
     {
       "added_at": "2023-12-09 12:43:14",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
-        "name": "The One and Only, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB"
+        "name": "My First June",
+        "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
       },
       "artists": [
         {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        },
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
         }
       ],
-      "duration_ms": 225133,
-      "name": "Your name",
-      "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
+      "duration_ms": 230640,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
     },
     {
       "added_at": "2023-12-09 12:43:14",
@@ -835,22 +839,18 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
-        "name": "My First June",
-        "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
+        "name": "The One and Only, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB"
       },
       "artists": [
         {
-          "name": "JUNIEL",
-          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
-        },
-        {
-          "name": "Jung Yong Hwa",
-          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
         }
       ],
-      "duration_ms": 230640,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
+      "duration_ms": 225133,
+      "name": "Your name",
+      "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
     },
     {
       "added_at": "2023-12-09 12:43:14",

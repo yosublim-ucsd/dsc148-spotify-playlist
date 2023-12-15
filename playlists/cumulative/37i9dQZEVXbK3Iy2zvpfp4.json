@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -2867,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "BABYMONSTER Debut Digital Single [BATTER UP]",
+        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188179,
+      "name": "BATTER UP",
+      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
+    },
+    {
+      "album": {
         "name": "BAZ+ (T\u00fal vagyok rajtad)",
         "url": "https://open.spotify.com/album/0ISupiy3v5iiVsLvir8d4n"
       },
@@ -3816,7 +3834,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 159298,
       "name": "BOLI SME KRASNI",
       "url": "https://open.spotify.com/track/2pbUkXEmW6HFPaeGkRV5tl"
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 146000,
       "name": "Bombs Away",
       "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
@@ -5268,6 +5286,24 @@
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+    },
+    {
+      "album": {
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "Cigarettes out the Window",
+      "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
     },
     {
       "album": {
@@ -7262,7 +7298,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 204880,
       "name": "Don't Go Insane",
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
@@ -9869,6 +9905,28 @@
     },
     {
       "album": {
+        "name": "Get Down Tonight",
+        "url": "https://open.spotify.com/album/4OxzcwRIf9rd1cGSkSDIsD"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169310,
+      "name": "Get Down Tonight",
+      "url": "https://open.spotify.com/track/0US9lbL0BESSgE0eeYFCkL"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -11352,6 +11410,24 @@
       "duration_ms": 115555,
       "name": "Hey, Mickey!",
       "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
+    },
+    {
+      "album": {
+        "name": "high",
+        "url": "https://open.spotify.com/album/4otUqupc4uI89cUXaCbzDH"
+      },
+      "artists": [
+        {
+          "name": "Aryabeats",
+          "url": "https://open.spotify.com/artist/1Z2aqwlKmotGmI3wjJnY93"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127433,
+      "name": "high",
+      "url": "https://open.spotify.com/track/4m7dt9RNmwNhDc9rrPlMMf"
     },
     {
       "album": {
@@ -20072,7 +20148,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 193591,
       "name": "Nothing You Can Take From Me (Boot-Stompin' Version) - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L"
@@ -20090,7 +20166,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
@@ -21074,7 +21150,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 170191,
       "name": "PANORAMA",
       "url": "https://open.spotify.com/track/54QisDYJoguOZMNBb4TPyF"
@@ -24844,7 +24920,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 218426,
       "name": "Sen",
       "url": "https://open.spotify.com/track/2gacTPRpwes3Ixrg9ZDb4R"
@@ -29464,7 +29540,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 210533,
       "name": "T\u00e1rgyal\u00e1s A N\u0151k Vez\u00e9rigazgat\u00f3j\u00e1val",
       "url": "https://open.spotify.com/track/616njAaXFdHu5rs3FbjyUw"
@@ -32656,7 +32732,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 128106,
       "name": "\u0411\u0443\u0439\u043d\u043e \u0433\u043e\u043b\u043e\u0432\u0430",
       "url": "https://open.spotify.com/track/5F9ecUyErlNAPgDRAQqo5v"

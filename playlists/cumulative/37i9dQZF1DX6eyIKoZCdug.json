@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 449964,
       "name": "IQHAWE",
       "url": "https://open.spotify.com/track/30RylevGyD4EFyV4VYbPj3"
@@ -1216,6 +1216,28 @@
       "duration_ms": 361526,
       "name": "Isibani",
       "url": "https://open.spotify.com/track/5AM1JybeEtluAK5mpM3l6u"
+    },
+    {
+      "album": {
+        "name": "Lost In Nairobi",
+        "url": "https://open.spotify.com/album/1VbU9VqEzQFQp2we8qk5c8"
+      },
+      "artists": [
+        {
+          "name": "Candy Man",
+          "url": "https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor"
+        },
+        {
+          "name": "Sazi",
+          "url": "https://open.spotify.com/artist/5MV0ZxPETyyyKbaI2nlSpq"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393474,
+      "name": "Ithi Nqo",
+      "url": "https://open.spotify.com/track/2PLxYRtyKwfIui6PyH2Ijr"
     },
     {
       "album": {
@@ -1564,7 +1586,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 457774,
       "name": "Lobela",
       "url": "https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ"
@@ -2032,6 +2054,36 @@
       "duration_ms": 409180,
       "name": "Osama",
       "url": "https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq"
+    },
+    {
+      "album": {
+        "name": "Osanisiya",
+        "url": "https://open.spotify.com/album/3LXoa6T7tZwQ43xfp2h6gp"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        },
+        {
+          "name": "Y.LOH",
+          "url": "https://open.spotify.com/artist/1gvykSoZ2FsfbsnKywDQnW"
+        },
+        {
+          "name": "Mumba Yachi",
+          "url": "https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "Osanisiya",
+      "url": "https://open.spotify.com/track/3HnmM3C6ohQxXSSisoUgDW"
     },
     {
       "album": {

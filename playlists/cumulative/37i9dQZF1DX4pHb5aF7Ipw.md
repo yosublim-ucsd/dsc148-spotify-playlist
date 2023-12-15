@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover:  Channi Nattan, Inderpal Moga
 
-81 songs - 3 hr 59 min
+82 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Akaal](https://open.spotify.com/track/0llzWsqUifJ2B2UtP9ST0o) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Akaal](https://open.spotify.com/album/6Xe0PVNMmjZVl4ofQNy9xd) | 2:28 | 2023-03-18 | 2023-10-12 |
 | [ALL ABOUT ME](https://open.spotify.com/track/2ZW4EoAqKdxhPQBcnXQUyQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:28 | 2023-07-31 |  |
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2023-03-18 |  |
+| [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 |  |
 | [Bandook](https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Bandook](https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO) | 2:54 | 2023-11-24 | 2023-12-07 |
 | [Bar 4 Bar Champ 2023](https://open.spotify.com/track/1P2Un5t2ybxh43Wz5eSuF6) | [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Bar 4 Bar Champ 2023](https://open.spotify.com/album/3aV2FnHhTFdvZATdsnHZwX) | 3:38 | 2023-03-18 | 2023-12-07 |
 | [Be Careful](https://open.spotify.com/track/0dqsYMuzld5YZRM6jUToQq) | [Fastmoney RK](https://open.spotify.com/artist/48r4tbkl8jwyqxbqWsCkuh), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A) | [Be Careful](https://open.spotify.com/album/6nNopjEYxdELrzlNROKxnB) | 2:18 | 2023-03-18 | 2023-04-27 |
@@ -55,7 +56,7 @@
 | [Messiah](https://open.spotify.com/track/1flBeSEMyqnJvY3olfBS6i) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk) | [Messiah](https://open.spotify.com/album/6Dw5vjF9XOoR7SdfDRajiY) | 2:17 | 2023-11-24 |  |
 | [Mic Naal](https://open.spotify.com/track/1SLyCkYNyrG97uxhoTBmJa) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [H$](https://open.spotify.com/artist/6BX0k14TnSKrto2FyXiakW) | [Mic Naal](https://open.spotify.com/album/3HHbnXG28SluMAf6vg1rYO) | 2:56 | 2023-05-09 |  |
 | [Midnight Mob](https://open.spotify.com/track/6phxf8uhi3eQ0EGefpTeTA) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Jagga](https://open.spotify.com/artist/6eRi6fEqY6bxzFN2iNPSwz), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Midnight Mob](https://open.spotify.com/album/5ysc3i4fJbBo9hPivlXslV) | 3:22 | 2023-03-18 | 2023-10-12 |
-| [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-18 |  |
+| [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-18 | 2023-12-15 |
 | [My Talk](https://open.spotify.com/track/1blSrivSm7CgTwoy3JeIC9) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [My Talk](https://open.spotify.com/album/6QedbscvibNXbm8MIKy9Kz) | 3:09 | 2023-03-18 |  |
 | [my turn/meri vaari](https://open.spotify.com/track/1lnRtzXxijmzDRixUHz1aL) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk) | [my turn/meri vaari](https://open.spotify.com/album/1vpMvJS3I00wguWHQjx3pQ) | 3:01 | 2023-03-18 | 2023-10-12 |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2023-03-18 |  |

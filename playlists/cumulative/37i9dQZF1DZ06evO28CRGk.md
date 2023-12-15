@@ -4,7 +4,7 @@
 
 > This is Marco Polo\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 46 min
+51 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Rap Shit](https://open.spotify.com/track/7qwh8F8XrjJg9WKIuFBE2T) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 2:38 | 2023-12-13 |  |
 | [Relax](https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 4:01 | 2023-12-13 |  |
 | [Reloaded \(Intro\)](https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 1:34 | 2023-12-13 |  |
+| [Scat Hard](https://open.spotify.com/track/2oxmOcry9kGMGuIDUgn9Kt) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [MP On The MP: The Beat Tape Vol\. 3](https://open.spotify.com/album/1hSrrsdr7BqgV8ub21IFcQ) | 3:17 | 2023-12-14 |  |
 | [Still Love Her \(feat\. Pearl Gates\)](https://open.spotify.com/track/1vqDKx8kMxbicnFPso4ICi) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Pearl Gates](https://open.spotify.com/artist/13j8j5VnTX0hALjojjqDdk) | [A Breukelen Story](https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth) | 4:35 | 2023-12-13 |  |
 | [Straight Spittin 4.5](https://open.spotify.com/track/0P4OciCm3Bm4jb7rMljgy3) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Baker's Dozen: Marco Polo](https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt) | 2:30 | 2023-12-13 |  |
 | [Sunken Place \(feat\. Pav Bundy\)](https://open.spotify.com/track/6wKf0bWNwfiBI0E1yWRAoh) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Pav Bundy](https://open.spotify.com/artist/2wPjPKxuic6mP4qJ5Yvljl) | [A Breukelen Story](https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth) | 3:56 | 2023-12-13 |  |
@@ -55,7 +56,7 @@
 | [Use These Blues](https://open.spotify.com/track/0gvB2hth2OeXAK4qHJTfWz) | [A\-F\-R\-O](https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [A\-F\-R\-O POLO](https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3) | 3:18 | 2023-12-13 |  |
 | [War](https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 3:56 | 2023-12-13 |  |
 | [Watch the Sky Fall \(feat\. Royce da 5'9\)](https://open.spotify.com/track/1MOub6s2JiT3D5Gs51TeCy) | [Koncept](https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Awaken](https://open.spotify.com/album/4CTMQGaFA9t4nnsKKwU6d8) | 2:49 | 2023-12-13 |  |
-| [Wild Elephants](https://open.spotify.com/track/3GtQGmaq7N0MCgO8tZH2Bl) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [MP On The MP: The Beat Tape Vol\. 1](https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh) | 2:08 | 2023-12-13 |  |
+| [Wild Elephants](https://open.spotify.com/track/3GtQGmaq7N0MCgO8tZH2Bl) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [MP On The MP: The Beat Tape Vol\. 1](https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh) | 2:08 | 2023-12-13 | 2023-12-15 |
 | [Wrong One](https://open.spotify.com/track/40H22sFbazRwISu76U1qh0) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Wordsworth](https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 3:41 | 2023-12-13 |  |
 | [You & I](https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 3:10 | 2023-12-13 |  |
 

@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -936,6 +936,24 @@
       "duration_ms": 215000,
       "name": "White Snow",
       "url": "https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p"
+    },
+    {
+      "album": {
+        "name": "winter again",
+        "url": "https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274017,
+      "name": "winter again",
+      "url": "https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ"
     },
     {
       "album": {

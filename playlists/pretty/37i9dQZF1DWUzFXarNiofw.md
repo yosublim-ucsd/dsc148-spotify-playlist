@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Usher & H.E.R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,850 likes - 175 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,958 likes - 175 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

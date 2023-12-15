@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A New Dawn",
+        "url": "https://open.spotify.com/album/5RAxvYKuKUeZgVrSQorrBo"
+      },
+      "artists": [
+        {
+          "name": "Mr. DDavid",
+          "url": "https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191998,
+      "name": "A New Dawn",
+      "url": "https://open.spotify.com/track/71Q679KBIjayiuMLuHYxgK"
+    },
+    {
+      "album": {
         "name": "Africa Praise Jam",
         "url": "https://open.spotify.com/album/7Fvb9pGRnZES7qdJ0tFoio"
       },
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 91760,
       "name": "We Praise You Lord",
       "url": "https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q"

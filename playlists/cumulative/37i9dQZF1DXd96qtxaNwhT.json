@@ -4364,6 +4364,24 @@
     {
       "album": {
         "name": "Chasing Nirvana",
+        "url": "https://open.spotify.com/album/03ncM3EqWJCKOmfveoP5Kl"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176259,
+      "name": "It's All Over You",
+      "url": "https://open.spotify.com/track/3GKkksr23a0jJjQbRvs4Iw"
+    },
+    {
+      "album": {
+        "name": "Chasing Nirvana",
         "url": "https://open.spotify.com/album/6508WBT3t0ON8b5KBQL37m"
       },
       "artists": [
@@ -4374,7 +4392,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176259,
       "name": "It's All Over You",
       "url": "https://open.spotify.com/track/7hw3AFHSYdOFtVdplMWaIl"

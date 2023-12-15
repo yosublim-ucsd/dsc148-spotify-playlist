@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bHEIZE( \ud5e4\uc774\uc988)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bPark Ji Yoon(\ubc15\uc9c0\uc724)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -8648,7 +8648,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 220133,
       "name": "It Just Happened",
       "url": "https://open.spotify.com/track/2ITzkZG5HnW2f1ABSALPv6"
@@ -14068,7 +14068,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 259829,
       "name": "Scented Things",
       "url": "https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4"
@@ -15510,6 +15510,28 @@
       "duration_ms": 256959,
       "name": "Sun Shower",
       "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
+    },
+    {
+      "album": {
+        "name": "Sunday Latte (from \"A Good Day to be a Dog\" Original Television Sountrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Jea",
+          "url": "https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Sunday Latte",
+      "url": "https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY"
     },
     {
       "album": {
@@ -20090,6 +20112,24 @@
       "duration_ms": 219571,
       "name": "\uc0ac\ub791\uc744 \ubbff\uc5b4\uc694",
       "url": "https://open.spotify.com/track/3Qxoh4asAlkbzk5QffZjIS"
+    },
+    {
+      "album": {
+        "name": "breathe breathe",
+        "url": "https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "\uc0ac\ub791\uc744 \uc0ac\ub791\ud558\uace0 \uc2f6\uc5b4 Love was my song",
+      "url": "https://open.spotify.com/track/2VuSetmtz31gOKyHVD1LXg"
     },
     {
       "album": {

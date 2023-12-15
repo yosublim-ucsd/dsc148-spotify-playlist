@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "A Culpa \u00e9 do Meu Grau (feat. Z\u00e9 Neto & Cristiano) - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7gL7YRproDW26eSk16yMbc"
+    },
+    {
+      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia - EP1",
         "url": "https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL"
       },
@@ -1208,7 +1230,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 172693,
       "name": "Nunca Vai Ser N\u00f3s",
       "url": "https://open.spotify.com/track/6KoWlMNCiFdHnzYSX1Ag8q"

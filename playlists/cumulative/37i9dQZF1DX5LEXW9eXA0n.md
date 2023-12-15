@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:HEIZE\( 헤이즈\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Park Ji Yoon\(박지윤\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,112 songs - 3 day 0 hr 3 min
+1,114 songs - 3 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [Is this love? \(with YOUN TOVEN\)](https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [YOUN TOVEN](https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr) | [Is this love?](https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K) | 3:03 | 2023-05-16 | 2023-09-19 |
 | [Island](https://open.spotify.com/track/5qLt5LS1WVUwo1CYl08wFQ) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr) | [Island](https://open.spotify.com/album/3wtjtiFtIyB8TfvT8qkMsz) | 3:36 | 2022-10-07 | 2023-01-11 |
 | [It has to be you](https://open.spotify.com/track/1xmqzVBGXJUq2k0I0nc1qS) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [It has to be you](https://open.spotify.com/album/5Z3B3zzGkNhjDa03rlPBQw) | 3:47 | 2022-02-16 | 2022-02-26 |
-| [It Just Happened](https://open.spotify.com/track/2ITzkZG5HnW2f1ABSALPv6) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [It Just Happened](https://open.spotify.com/album/7KCSaQrghmQ7BjO3wuxTGF) | 3:40 | 2023-09-18 |  |
+| [It Just Happened](https://open.spotify.com/track/2ITzkZG5HnW2f1ABSALPv6) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [It Just Happened](https://open.spotify.com/album/7KCSaQrghmQ7BjO3wuxTGF) | 3:40 | 2023-09-18 | 2023-12-15 |
 | [It was really nice to be with you \(Feat\. Yoo Ye jin\)](https://open.spotify.com/track/4LZ7T5p9KHyagB4ahKb6Be) | [Dawn window](https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm), [Yoo Ye Jin](https://open.spotify.com/artist/7zI6krwMwRxnms4UKkcgOf) | [It was really nice to be with you](https://open.spotify.com/album/7wtzQIg2f3gDYfBVRj3C4C) | 3:29 | 2023-02-24 | 2023-06-23 |
 | [It's all just lies](https://open.spotify.com/track/4T2XFY63jsrqFx2Hc7YXEn) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/4MVXmcZU1FDhR9OGarTEQK) | 3:42 | 2022-07-26 | 2022-10-15 |
 | [It's all my fault](https://open.spotify.com/track/2ScIOszpvKuJvIJwd0Ywkf) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [It's all my fault](https://open.spotify.com/album/26d67oV1i2jC3LX1PWOHHP) | 3:59 | 2022-08-12 | 2022-12-27 |
@@ -768,7 +768,7 @@
 | [Say You Love Me, Please](https://open.spotify.com/track/2j4wvCivrFmYCJdCVXnAeI) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Say You Love Me, Please](https://open.spotify.com/album/2OmpCFrEM7MlskEEBbrOA2) | 4:34 | 2023-02-24 | 2023-04-27 |
 | [Saying Goodbye](https://open.spotify.com/track/5vQboX1LeFD2CmBSjM0zGj) | [Baek Grim](https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB) | [Saying Goodbye](https://open.spotify.com/album/6mbvM7r6Se69qZKmDOU6rF) | 4:15 | 2023-11-02 |  |
 | [Scars leave beautiful trace](https://open.spotify.com/track/1y6dEjheBdnopNo0xDXJ9P) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Alchemy of Souls, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5suBD7aDfNiIkbUvYaHtfR) | 3:33 | 2022-07-07 | 2022-09-30 |
-| [Scented Things](https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Unfading Sense \- The 5th Mini Album](https://open.spotify.com/album/2iN8rALWBgiirEB5QlzhRw) | 4:19 | 2023-10-04 |  |
+| [Scented Things](https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Unfading Sense \- The 5th Mini Album](https://open.spotify.com/album/2iN8rALWBgiirEB5QlzhRw) | 4:19 | 2023-10-04 | 2023-12-15 |
 | [SCRIBBLE](https://open.spotify.com/track/56Kg60sX4TdHoGpbQNFg8e) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SCRIBBLE](https://open.spotify.com/album/5yj7qJv6e3sqGg0xj7bl6R) | 4:11 | 2023-10-27 |  |
 | [Sea embrace](https://open.spotify.com/track/7Mq7FFRRSTK0AsfJ3L6Iio) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [sea embrace](https://open.spotify.com/album/0J0JusNg8kl65dkkLV1JOK) | 4:20 | 2022-07-07 | 2022-09-06 |
 | [Season that doesn't exist](https://open.spotify.com/track/1v8XwbN8dIcDfTSOondTJT) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Season that doesn't exist](https://open.spotify.com/album/7CWzdLS0zw8drF8L5Ss4W7) | 4:32 | 2023-02-14 | 2023-03-28 |
@@ -846,6 +846,7 @@
 | [Suddenly](https://open.spotify.com/track/789mOE8Bws9wCYSFkoeq6i) | [Div](https://open.spotify.com/artist/33EogRsZc7AZ2RwY90VsJn) | [Suddenly](https://open.spotify.com/album/0PZHs6jgIvohnWOiqkrbEw) | 3:49 | 2022-12-26 | 2023-02-25 |
 | [summer rain](https://open.spotify.com/track/6t4gXrmMmZ0rPXvyaP7VC7) | [JIN JU](https://open.spotify.com/artist/6vmnjbKZsgDFzGJEYZ9YFI) | [summer rain](https://open.spotify.com/album/38o1YPBuMbaBb5Ahqhkc9c) | 4:10 | 2022-07-07 | 2022-08-19 |
 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 | 2022-03-31 | 2022-04-19 |
+| [Sunday Latte](https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 | 2023-12-14 |  |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-20 | 2022-03-08 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-22 | 2023-01-21 |
 | [Take a taxi](https://open.spotify.com/track/6OBHmeHMdkZXB63phryUKh) | [Wolfie](https://open.spotify.com/artist/2DINOPURfQUFdSe0d0x6DQ) | [Take a taxi](https://open.spotify.com/album/74qafhjd3Y9ZsfV1cSUhGp) | 3:47 | 2023-02-23 | 2023-04-27 |
@@ -1094,6 +1095,7 @@
 | [비밀의 화원 the secret garden](https://open.spotify.com/track/37oNX55SMkw6bWjv8BL07C) | [안단테 ANDANTE](https://open.spotify.com/artist/06HP47mq0TcpHMhsOrAIOB) | [안단테 NO.1 The Korea Crossover Andante NO.1 The Korea Crossover](https://open.spotify.com/album/7xSniY5bw35nzJLlyix4MI) | 4:49 | 2021-12-23 | 2022-04-19 |
 | [사계절이 지나 다시 가을이 와도](https://open.spotify.com/track/0LNFfjxX0BXK4aRJBOqvND) | [Sangmin Chu](https://open.spotify.com/artist/1h1MFg2X9xB9Gx32edDF2f) | [RAINBOW STATION Episode.4](https://open.spotify.com/album/2ebrszefspT0qZJkhQlgsm) | 3:33 | 2022-11-03 | 2023-01-21 |
 | [사랑을 믿어요](https://open.spotify.com/track/3Qxoh4asAlkbzk5QffZjIS) | [JINWOOCHUL](https://open.spotify.com/artist/4xvPog1scf67ui3Lrb5FYZ) | [사랑을 믿어요](https://open.spotify.com/album/1B2UTfGDOuENmhHGnySfrO) | 3:39 | 2022-08-12 | 2022-09-30 |
+| [사랑을 사랑하고 싶어 Love was my song](https://open.spotify.com/track/2VuSetmtz31gOKyHVD1LXg) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [breathe breathe](https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ) | 3:15 | 2023-12-14 |  |
 | [사랑을 하다가 \(While I’m in love\)](https://open.spotify.com/track/0FH2RXfEIJS7enXYoehAgG) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [사랑을 하다가 \(While I’m in love\)](https://open.spotify.com/album/3ZMXJBXHxa5DUt5UVXWqz5) | 3:24 | 2023-11-15 |  |
 | [사랑이 늦어서 미안해](https://open.spotify.com/track/6YaIQLN1KDocHTQuxPjBhN) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Soul Family with Johan](https://open.spotify.com/album/5y7fjiyU5WlRuwTI8nAEkJ) | 4:13 | 2023-05-05 | 2023-05-16 |
 | [사랑이라 쓰고 이별이라 읽어 \(Write love and Read breakup\)](https://open.spotify.com/track/1VJJ5i8jxeWc3rRFD0tJ8Z) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [사랑이라 쓰고 이별이라 읽어 \(Write love and Read breakup\)](https://open.spotify.com/album/3e0vL5HQsCead5QUmN1Igj) | 3:00 | 2023-09-14 | 2023-12-14 |

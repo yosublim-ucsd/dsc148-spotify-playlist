@@ -196,10 +196,28 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 139001,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf"
+    },
+    {
+      "album": {
+        "name": "House On Fire (Official Music Video)",
+        "url": "https://open.spotify.com/album/5qG3zaKFxgQXjgUD2SiU36"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158485,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3oy1jvGbUDdYPyQRSfSCdJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 90104,
+  "num_followers": 90172,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "A Bit Of Soul",
+        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Diana & Marvin",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "A Bit Of Soul",
-        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 153600,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -759,22 +775,6 @@
       "duration_ms": 337333,
       "name": "For the Love of You, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "The Love Songs Collection",
-        "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 373893,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Vicious & Fresh",
         "url": "https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 357560,
       "name": "Dream Lover",
       "url": "https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "The Love Songs Collection",
+        "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 373893,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C"
     },
     {
       "added_at": "2023-09-14 19:15:58",

@@ -1,6 +1,6 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 27754,
+  "num_followers": 27762,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "La Sonora Matancera Desde Cuba. 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/1kbXCTnGNOxY3jPGnrfxN1"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 177333,
-      "name": "Angustia",
-      "url": "https://open.spotify.com/track/5ZQi9369ovLvjyvp4vEHTM"
+      "duration_ms": 202560,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -295,18 +291,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+        "name": "La Sonora Matancera Desde Cuba. 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1kbXCTnGNOxY3jPGnrfxN1"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
         }
       ],
-      "duration_ms": 202560,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU"
+      "duration_ms": 177333,
+      "name": "Angustia",
+      "url": "https://open.spotify.com/track/5ZQi9369ovLvjyvp4vEHTM"
     },
     {
       "added_at": "2023-02-17 20:56:35",

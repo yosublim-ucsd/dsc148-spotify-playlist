@@ -119,6 +119,24 @@
     },
     {
       "album": {
+        "name": "AnKur",
+        "url": "https://open.spotify.com/album/40SX8MUqAxrVtI6XpsgnsW"
+      },
+      "artists": [
+        {
+          "name": "Jaunx",
+          "url": "https://open.spotify.com/artist/4vipzfP6wRvnEAvVaeIt1h"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "AnKur",
+      "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
+    },
+    {
+      "album": {
         "name": "Antipanico",
         "url": "https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W"
       },
@@ -820,6 +838,24 @@
       "duration_ms": 153666,
       "name": "ESPINAS",
       "url": "https://open.spotify.com/track/3kcIQKnSLJP0KUWumNsDfb"
+    },
+    {
+      "album": {
+        "name": "estr333s",
+        "url": "https://open.spotify.com/album/2zfh7YFIZ8fVusC4diAAVE"
+      },
+      "artists": [
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "estr333s",
+      "url": "https://open.spotify.com/track/3fEirtdnmiW0BZNKs0mfxF"
     },
     {
       "album": {
@@ -2730,6 +2766,28 @@
       "duration_ms": 184012,
       "name": "TRACCI\u00d3N",
       "url": "https://open.spotify.com/track/7zwkHVkt7HR1RxBu9tUkDk"
+    },
+    {
+      "album": {
+        "name": "Traketera",
+        "url": "https://open.spotify.com/album/7bh0rEJbextPzbTMFDSHmL"
+      },
+      "artists": [
+        {
+          "name": "PauByChance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        },
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Traketera",
+      "url": "https://open.spotify.com/track/66Du2AJyRfGk6DUquh65xU"
     },
     {
       "album": {

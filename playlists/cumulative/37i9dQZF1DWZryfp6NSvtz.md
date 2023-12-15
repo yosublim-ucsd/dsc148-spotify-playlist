@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Dead Poet Society
 
-5,045 songs - 11 day 22 hr 17 min
+5,046 songs - 11 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,7 +769,8 @@
 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 | 2022-08-19 | 2022-08-27 |
 | [Cherry Wine](https://open.spotify.com/track/5zBN51NWoM9hAJPN8xpAfp) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Cherry Wine](https://open.spotify.com/album/5XpHk2AesKoVrTQGHEbTaz) | 3:15 | 2023-08-18 | 2023-08-26 |
 | [Chew Me Up \(feat\. Terrible Johnny\)](https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Terrible Johnny](https://open.spotify.com/artist/4ekKTR0gTosJEoEcLd5RSZ) | [Introvert](https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6) | 3:39 | 2022-06-30 | 2022-07-09 |
-| [Chewed Up](https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s) | 2:34 | 2023-12-08 |  |
+| [Chewed Up](https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s) | 2:34 | 2023-12-08 | 2023-12-15 |
+| [Chewed Up](https://open.spotify.com/track/6hz0UeyredFZmDkfDvtEkU) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5ZUguAVzSt5Yz8toCv7KGX) | 2:34 | 2023-12-08 |  |
 | [Chewing Glass](https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Chewing Glass](https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv) | 3:01 | 2022-11-18 | 2022-11-26 |
 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-02 | 2023-06-10 |
 | [Childish World](https://open.spotify.com/track/2T90flkgMSkqHYTbbmE1xv) | [I Me Mine](https://open.spotify.com/artist/49Aanvac9LY0no4ysTsYvw) | [Childish World](https://open.spotify.com/album/7CMKlkjgIYCxvYUPrQEfji) | 3:13 | 2023-12-01 | 2023-12-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Angie K
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,581 likes - 113 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,596 likes - 113 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,12 +113,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 103 | [Made Me Cry](https://open.spotify.com/track/4BHiDQEOsguauSBmNyQZPv) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Made Me Cry](https://open.spotify.com/album/5X1C3UxSZamJ2Kc6iMILq4) | 3:24 |
 | 104 | [Ring of Fire](https://open.spotify.com/track/0s62CMcYQzqro7kFKCVIAd) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [Country from another Country](https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W) | 3:42 |
 | 105 | [Achy Breaky Heart 25 \(Spanglish\) \[feat\. Jencarlos Canela\]](https://open.spotify.com/track/6AJJN8totfQ19PPft5qJqt) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Set the Record Straight](https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE) | 3:14 |
-| 106 | [OBVIOUS \- Español](https://open.spotify.com/track/5i6oUSLYzolwKWXWeus5gV) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:51 |
+| 106 | [OBVIOUS \- Español](https://open.spotify.com/track/39jEIuozQLWe7cwD650tgK) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/7KcPa7EJTnMn3ftNlYK2eP) | 2:51 |
 | 107 | [Tomemos Un Trago \- Let's Find A Bar \- Spanish Version](https://open.spotify.com/track/38sGy3JpSD3oT6NyFhUtPc) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Tomemos Un Trago \(Let's Find A Bar \- Spanish Version\)](https://open.spotify.com/album/3fThkG75KkFTnCjG4sss5N) | 2:58 |
 | 108 | [Mountains](https://open.spotify.com/track/0YrVuZbN2BmMjXYdyUQo4k) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Mountains](https://open.spotify.com/album/7n1yMlzN1ciH8dEsWFYmmZ) | 3:15 |
 | 109 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 |
 | 110 | [Vaquera and the Cowboy](https://open.spotify.com/track/1S05YF8kpBxDLq9TCc2kIG) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Vaquera and the Cowboy](https://open.spotify.com/album/1uSY1zzeup2XbOZUNctQ3I) | 2:50 |
-| 111 | [Chevy Bel Air](https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Chevy Bel Air](https://open.spotify.com/album/2z6mvbkzLrnpWYSe7VT03Q) | 2:57 |
+| 111 | [Chevy Bel Air](https://open.spotify.com/track/0NfnGKHH9Al0IsAWIkw1vb) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Chevy Bel Air](https://open.spotify.com/album/6hwxiEY9OG621hU306W70f) | 2:57 |
 | 112 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 113 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 

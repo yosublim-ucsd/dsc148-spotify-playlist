@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 318348,
+  "num_followers": 318375,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Aline",
-        "url": "https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA"
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
       "artists": [
         {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
         }
       ],
-      "duration_ms": 169946,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9"
+      "duration_ms": 217640,
+      "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -831,22 +847,6 @@
       "duration_ms": 179666,
       "name": "Il venait d'avoir 18 ans",
       "url": "https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Les mots bleus",
+        "url": "https://open.spotify.com/album/07pa1E8vPhXBbKE0PJuLWb"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Les mots bleus",
+      "url": "https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Le coeur grenadine",
         "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
       },
@@ -1235,26 +1251,6 @@
       "duration_ms": 217333,
       "name": "Capri c'est fini",
       "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
-        "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
-      },
-      "artists": [
-        {
-          "name": "Damien Sargue",
-          "url": "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
-        },
-        {
-          "name": "Joy Esther",
-          "url": "https://open.spotify.com/artist/5yIbkMHQyrQ5eNWaFtlXpX"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Aimer - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
-      "url": "https://open.spotify.com/track/12x3erRdPdMLrCY4vPMLq1"
     }
   ],
   "unique_name": "French Kiss",

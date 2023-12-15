@@ -1,6 +1,6 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 54351,
+  "num_followers": 54358,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Tower Of Power",
-        "url": "https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "What Is Hip?",
-      "url": "https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Best of Delegation",
         "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 269640,
       "name": "Put a Little Love On Me",
       "url": "https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Tower Of Power",
+        "url": "https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 304733,
+      "name": "What Is Hip?",
+      "url": "https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Death Or Devotion",
-      "url": "https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
       },
@@ -1243,22 +1227,6 @@
       "duration_ms": 249973,
       "name": "Dancin' To The Truth",
       "url": "https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 328479,
-      "name": "Hangin' with My Baby",
-      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1279,18 +1247,34 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Shake Your Money",
-        "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
       },
       "artists": [
         {
-          "name": "Brother Strut",
-          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
         }
       ],
-      "duration_ms": 200190,
-      "name": "Shake Your Money",
-      "url": "https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S"
+      "duration_ms": 265800,
+      "name": "Death Or Devotion",
+      "url": "https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 328479,
+      "name": "Hangin' with My Baby",
+      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1311,6 +1295,22 @@
       "duration_ms": 211988,
       "name": "Take It Back (feat. Doc Brown)",
       "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Shake Your Money",
+        "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
+      },
+      "artists": [
+        {
+          "name": "Brother Strut",
+          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+        }
+      ],
+      "duration_ms": 200190,
+      "name": "Shake Your Money",
+      "url": "https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1365,24 +1365,24 @@
       "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
     },
     {
-      "added_at": "2019-08-22 14:26:16",
+      "added_at": "2019-09-20 18:17:51",
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/2lDlIdzf14yMxmPxF4Orvx"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
         },
         {
-          "name": "Daniel Merriweather",
-          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
         }
       ],
-      "duration_ms": 224832,
-      "name": "Losin' Streak (feat. Daniel Merriweather)",
-      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
+      "duration_ms": 177080,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/34gV8KREMiciMm8annmIOo"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Daniel Merriweather",
+          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
+        }
+      ],
+      "duration_ms": 224832,
+      "name": "Losin' Streak (feat. Daniel Merriweather)",
+      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Gnomes and Badgers",
         "url": "https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 216800,
       "name": "I'm Your Biggest Fan",
       "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
-    },
-    {
-      "added_at": "2019-09-20 18:17:51",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/2lDlIdzf14yMxmPxF4Orvx"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
-        }
-      ],
-      "duration_ms": 177080,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/34gV8KREMiciMm8annmIOo"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "St. Ann",
-        "url": "https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn"
-      },
-      "artists": [
-        {
-          "name": "Brother Theodore",
-          "url": "https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg"
-        }
-      ],
-      "duration_ms": 347237,
-      "name": ".img",
-      "url": "https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Lab Experiments, Vol. 2",
         "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 211615,
       "name": "Warning",
       "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "St. Ann",
+        "url": "https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn"
+      },
+      "artists": [
+        {
+          "name": "Brother Theodore",
+          "url": "https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg"
+        }
+      ],
+      "duration_ms": 347237,
+      "name": ".img",
+      "url": "https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA"
     },
     {
       "added_at": "2019-08-22 14:26:16",

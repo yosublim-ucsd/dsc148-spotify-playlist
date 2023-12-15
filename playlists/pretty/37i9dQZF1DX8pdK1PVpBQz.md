@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Fresh Finds AU & NZ Class of 2023\. Cover: Maina Doe\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,816 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,815 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

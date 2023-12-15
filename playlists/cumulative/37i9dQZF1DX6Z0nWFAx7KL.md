@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-179 songs - 8 hr 58 min
+180 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Gold](https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Gold](https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y) | 3:40 | 2022-09-15 | 2023-12-01 |
 | [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 | 2023-03-02 |  |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-09-15 | 2022-11-17 |
-| [Heartbreak In Seychelles](https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Heartbreak In Seychelles](https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL) | 2:56 | 2022-09-15 |  |
+| [Heartbreak In Seychelles](https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Heartbreak In Seychelles](https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL) | 2:56 | 2022-09-15 | 2023-12-15 |
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2022-09-15 |  |
 | [High Hopes](https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [High Hopes](https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm) | 2:07 | 2022-09-15 |  |
 | [High Life](https://open.spotify.com/track/11gK0X635BKiS9qN7ExWlw) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [High Life](https://open.spotify.com/album/6eht4KegFCx2Lb4OM2wzZH) | 2:41 | 2023-04-12 | 2023-05-20 |
@@ -105,6 +105,7 @@
 | [Light A Fire](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Light A Fire](https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl) | 2:34 | 2022-09-15 |  |
 | [Lightning To Strike](https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Lightning To Strike](https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ) | 2:58 | 2023-02-16 |  |
 | [Lightning To Strike](https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Lightning To Strike](https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH) | 2:58 | 2022-11-16 | 2023-02-25 |
+| [Lights Go Down](https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 3:03 | 2023-12-08 |  |
 | [Lights Go Down \(with SIDEPIECE\)](https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:03 | 2022-09-15 | 2023-12-11 |
 | [Like Home](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Like Home](https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4) | 3:11 | 2023-03-09 |  |
 | [Like Home](https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Like Home](https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP) | 3:11 | 2022-09-15 | 2023-02-24 |

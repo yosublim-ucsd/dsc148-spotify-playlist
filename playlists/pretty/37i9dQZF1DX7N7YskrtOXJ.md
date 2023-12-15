@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia, de la buena!<br/>Foto: La Combo Tortuga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,278 likes - 102 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,312 likes - 102 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

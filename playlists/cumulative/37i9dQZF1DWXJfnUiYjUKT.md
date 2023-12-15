@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Nicki Minaj
 
-9,954 songs - 21 day 20 hr 38 min
+9,955 songs - 21 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1634,7 +1634,8 @@
 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-12-02 | 2022-12-10 |
 | [chess with friends](https://open.spotify.com/track/5bsfGuTSjqfkJdQQ4xVx9X) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [like dying stars, we’re reaching out](https://open.spotify.com/album/6jkHto9kw0tfs59PFEIO0c) | 2:34 | 2023-02-17 | 2023-02-25 |
 | [Chew Me Up \(feat\. Terrible Johnny\)](https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Terrible Johnny](https://open.spotify.com/artist/4ekKTR0gTosJEoEcLd5RSZ) | [Introvert](https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6) | 3:39 | 2022-07-01 | 2022-07-08 |
-| [Chewed Up](https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s) | 2:34 | 2023-12-08 |  |
+| [Chewed Up](https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s) | 2:34 | 2023-12-08 | 2023-12-15 |
+| [Chewed Up](https://open.spotify.com/track/6hz0UeyredFZmDkfDvtEkU) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5ZUguAVzSt5Yz8toCv7KGX) | 2:34 | 2023-12-08 |  |
 | [Chichi Pana](https://open.spotify.com/track/0Lqxq5eO2zfQJadlzh89YM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chichi Pana](https://open.spotify.com/album/7aLKhm7x1iCzRyHqyqCVdK) | 3:01 | 2023-11-10 | 2023-11-18 |
 | [Chicken Little](https://open.spotify.com/track/5NzrfsIkCCexhDh2R9A2cG) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chicken Little](https://open.spotify.com/album/54Pdjd4Q1XSYJqt2dAdYko) | 2:42 | 2023-07-14 | 2023-07-22 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-02-24 | 2022-03-04 |

@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> Vianney & Zazie au top des 50 hits de variété française du moment.
+> Aliocha Schneider au top des 50 hits de variété française du moment.
 
-78 songs - 4 hr 8 min
+80 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,16 +26,17 @@
 | [Dernière](https://open.spotify.com/track/1PC25sIu8MEzagtD44W9do) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/1DO9NnnNHJHstVla096ryH) | 3:23 | 2023-09-28 | 2023-11-11 |
 | [Dernière danse](https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Dernière danse](https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q) | 3:11 | 2023-09-28 |  |
 | [Dernière fois](https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Dernière fois](https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv) | 3:18 | 2023-09-28 | 2023-11-11 |
-| [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 | 2023-12-07 |  |
+| [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 | 2023-12-07 | 2023-12-15 |
 | [Dis le moi quand même](https://open.spotify.com/track/06OsS6q8FfbctG1WhbDQDO) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Osmose](https://open.spotify.com/album/1438Nj1KVGJuLJdsSYNa0t) | 3:33 | 2023-09-28 | 2023-12-09 |
 | [Dis Moi Tout](https://open.spotify.com/track/387yCeKQgJON67MA3a5w0e) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [EQUATEUR](https://open.spotify.com/album/5JTIaFxUwxcK3ZqQ0KcFWR) | 2:52 | 2023-09-28 | 2023-11-11 |
+| [Douce](https://open.spotify.com/track/5QQeluaiHf0b1wQ1RTI5Gi) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Douce](https://open.spotify.com/album/48cdzmZdWpG9INtGhh9jvg) | 3:03 | 2023-12-14 |  |
 | [Dépassé](https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Dépassé](https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS) | 2:52 | 2023-09-28 |  |
 | [Encore](https://open.spotify.com/track/2clu3lEp5DLIlCKLLml7kP) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 4:10 | 2023-09-28 | 2023-11-11 |
 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2023-09-28 |  |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-09-28 | 2023-10-02 |
 | [Et un jour une femme](https://open.spotify.com/track/6vB93dZmNfYrNuk2vsmb7f) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Et un jour une femme](https://open.spotify.com/album/1Kc8wvRqOBiwtBYpRu2leY) | 5:18 | 2023-09-28 |  |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-11-09 |  |
-| [Fuguer](https://open.spotify.com/track/14EyAVX55liO55GZUr6LOQ) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 3:06 | 2023-10-05 |  |
+| [Fuguer](https://open.spotify.com/track/14EyAVX55liO55GZUr6LOQ) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 3:06 | 2023-10-05 | 2023-12-15 |
 | [Hey Bro](https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Hey Bro](https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD) | 2:30 | 2023-09-28 |  |
 | [Holidays \- Ofenbach Rework](https://open.spotify.com/track/1tZQQot5H6wxWXiwsclT13) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Holidays \(Ofenbach Rework\)](https://open.spotify.com/album/3GoqRd7odk60LOJW8fvftD) | 2:26 | 2023-09-28 |  |
 | [HORIZON](https://open.spotify.com/track/5RwpbhPihTkwqLWldaMTE1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/2qyAcVIZv3wwnmAUOIXInf) | 3:12 | 2023-09-28 | 2023-10-24 |
@@ -78,6 +79,7 @@
 | [Pays des merveilles](https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [CEUZANY](https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L) | [Pays des merveilles](https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC) | 3:26 | 2023-09-28 | 2023-11-11 |
 | [Plus de sens](https://open.spotify.com/track/7HEKgyGKb9oil5ZrW7cHH4) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:29 | 2023-09-28 |  |
 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 | 2023-09-28 |  |
+| [Populaire](https://open.spotify.com/track/49kXz61GcX62tPkwmz4oM5) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Populaire](https://open.spotify.com/album/6MjGsKipgUJ1qUZqbNmDQE) | 3:21 | 2023-12-14 |  |
 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 | 2023-11-09 |  |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-10-19 |  |
 | [Retiens les rêves](https://open.spotify.com/track/3tYSZZjpt5lth5lZbWdQVR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Retiens les rêves](https://open.spotify.com/album/6pWAMFNK0xTDAj3CLFaYKy) | 3:39 | 2023-09-28 |  |

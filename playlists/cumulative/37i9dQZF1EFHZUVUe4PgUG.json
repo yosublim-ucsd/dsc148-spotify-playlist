@@ -360,7 +360,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 188546,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 190376,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/0zGbhbTSsXJihtQweRSR4J"
@@ -567,6 +567,32 @@
     },
     {
       "album": {
+        "name": "Desconocidos (Official Video)",
+        "url": "https://open.spotify.com/album/3jRMhT0zogvUlBghBxgVDu"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203861,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/43dGfZIUUpi31ZiZe1ym90"
+    },
+    {
+      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -586,7 +612,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
@@ -689,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Doler\u00eda (Official Video)",
+        "url": "https://open.spotify.com/album/2YV8amPLARedWd9bHwmp1J"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175808,
+      "name": "Doler\u00eda",
+      "url": "https://open.spotify.com/track/7elxtubhDzD7mWxyA9dqTl"
+    },
+    {
+      "album": {
         "name": "rifresh",
         "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
       },
@@ -700,7 +744,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 177515,
       "name": "Doler\u00eda",
       "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
@@ -822,10 +866,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 221386,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
+    },
+    {
+      "album": {
+        "name": "En Guerra",
+        "url": "https://open.spotify.com/album/65gRTH2ZPVjIKDWD13aJMm"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312020,
+      "name": "En Guerra",
+      "url": "https://open.spotify.com/track/5OlztYUTU56HqQwlmTn3Td"
     },
     {
       "album": {
@@ -902,10 +968,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
+    },
+    {
+      "album": {
+        "name": "For Ya (Official Video)",
+        "url": "https://open.spotify.com/album/23jEnnogE0PSCwhwd93urB"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154922,
+      "name": "For Ya",
+      "url": "https://open.spotify.com/track/3TeolhkLiUxnMlNeyIskah"
     },
     {
       "album": {
@@ -938,10 +1022,28 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 118773,
       "name": "Guaro",
       "url": "https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y"
+    },
+    {
+      "album": {
+        "name": "Guaro (Official Video)",
+        "url": "https://open.spotify.com/album/2QsopGRGHXPf5sHjPVsq8h"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131711,
+      "name": "Guaro",
+      "url": "https://open.spotify.com/track/0YU53P25kD7JK8P6g4AoDv"
     },
     {
       "album": {
@@ -1101,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "La Boca (Official Video)",
+        "url": "https://open.spotify.com/album/5qYLeFfuKKZ0R91ANhFxVh"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219711,
+      "name": "La Boca",
+      "url": "https://open.spotify.com/track/1YfMT1kT3hWTyWdEHP6w5L"
+    },
+    {
+      "album": {
         "name": "La Cobra",
         "url": "https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP"
       },
@@ -1130,7 +1254,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 158708,
       "name": "La Grosera",
       "url": "https://open.spotify.com/track/2FM5hCiv6FE8b7d0KIjABb"
@@ -1148,7 +1272,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 173205,
       "name": "La Grosera",
       "url": "https://open.spotify.com/track/6u6m9vEfEGjspOT69PcZYL"
@@ -1254,7 +1378,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 216733,
       "name": "Lento",
       "url": "https://open.spotify.com/track/31dIPeytivJSNsEqeyVyfW"
@@ -1276,7 +1400,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 229610,
       "name": "Lento",
       "url": "https://open.spotify.com/track/5JKiVNxTcziggFviKzyTmq"
@@ -1600,7 +1724,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 168167,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ"
@@ -1636,7 +1760,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 181311,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/1sn93I0KEmGp9IBitEpSbc"
@@ -1654,7 +1778,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 141508,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/4R5xvs5X0phd0EYWyGigju"
@@ -1672,7 +1796,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 173256,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/4ku0D5uNkQwwk8tH95vQYg"
@@ -1964,10 +2088,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
+    },
+    {
+      "album": {
+        "name": "No Me Acuerdo (Official Video)",
+        "url": "https://open.spotify.com/album/0ys1OYqQnRszIx4XEGHNpG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220202,
+      "name": "No Me Acuerdo",
+      "url": "https://open.spotify.com/track/6oVRRFFyxTg1ybUz3iDHOq"
     },
     {
       "album": {
@@ -2190,10 +2336,46 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 193825,
       "name": "PAP\u00c1S",
       "url": "https://open.spotify.com/track/5k06NOShiGa9ZxXHtavS2p"
+    },
+    {
+      "album": {
+        "name": "PAP\u00c1S (Official Video)",
+        "url": "https://open.spotify.com/album/47W6b8wJLYorVBtLOwdvvq"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197994,
+      "name": "PAP\u00c1S",
+      "url": "https://open.spotify.com/track/2PON306vxEvIdohnhp7Xfk"
+    },
+    {
+      "album": {
+        "name": "Para Olvidarte",
+        "url": "https://open.spotify.com/album/51THsXWwxAZE7uX6B2tGvE"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255786,
+      "name": "Para Olvidarte",
+      "url": "https://open.spotify.com/track/4CpW2IVnZ0ooRFUb4vPeoR"
     },
     {
       "album": {
@@ -2208,7 +2390,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 257079,
       "name": "Para Olvidarte",
       "url": "https://open.spotify.com/track/0hcWdM4WIeBI7DNlTd2ssb"
@@ -2658,10 +2840,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 186842,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/3aWCkmStzGLDDmlwxJtQrU"
+    },
+    {
+      "album": {
+        "name": "Un Poquito (Official Video)",
+        "url": "https://open.spotify.com/album/1w4FdlnuXI7wsvECwn98Yh"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/016PgM2tBnXkKfoaXg0WBA"
     },
     {
       "album": {
@@ -2734,7 +2938,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 193600,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/0LTcMkl0IhBSRWYmHQ8mkY"
@@ -2756,7 +2960,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/3ldgkMriNO5qTaIJ4zlNCL"

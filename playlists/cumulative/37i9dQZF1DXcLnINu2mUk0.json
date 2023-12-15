@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 213437,
       "name": "Desejos",
       "url": "https://open.spotify.com/track/2EDyvafmx73KbIKDtlrSLx"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 189333,
       "name": "Dialecto",
       "url": "https://open.spotify.com/track/6BmKTlVozkFwDHHzjSqaFQ"
@@ -4242,7 +4242,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 205894,
       "name": "Incondicional",
       "url": "https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy"
@@ -4962,6 +4962,24 @@
       "duration_ms": 201666,
       "name": "L\u00e1grimas de Crocodilo",
       "url": "https://open.spotify.com/track/73gJZZHt9yo0h3FjUuOztm"
+    },
+    {
+      "album": {
+        "name": "M3lodia",
+        "url": "https://open.spotify.com/album/1pypARVuRnmDlBQBavMWdz"
+      },
+      "artists": [
+        {
+          "name": "Belarmino Nascimento",
+          "url": "https://open.spotify.com/artist/2eti7KfFdqkEquaNTlIZ4d"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235344,
+      "name": "M3lodia",
+      "url": "https://open.spotify.com/track/7caI289frHAR8RLR0Ez0Xq"
     },
     {
       "album": {
@@ -6639,6 +6657,28 @@
     },
     {
       "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ"
+      },
+      "artists": [
+        {
+          "name": "Sergio",
+          "url": "https://open.spotify.com/artist/5eimxLCITlwq8OnT8nxCw7"
+        },
+        {
+          "name": "Fingaz",
+          "url": "https://open.spotify.com/artist/3rSDUm0Q6QFFISsUaanplB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8"
+    },
+    {
+      "album": {
         "name": "Perdidos num ride",
         "url": "https://open.spotify.com/album/0b8fBRFdog2EDrlKOpbeUi"
       },
@@ -7606,7 +7646,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 282250,
       "name": "Say Now",
       "url": "https://open.spotify.com/track/6GQ3ZjpAvzlBKH0eSrgSim"
@@ -7784,7 +7824,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 186352,
       "name": "Sem Ti",
       "url": "https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6"
@@ -8270,7 +8310,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 188808,
       "name": "Strong",
       "url": "https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ"
@@ -8460,7 +8500,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 190272,
       "name": "Take Time",
       "url": "https://open.spotify.com/track/3LRhcI8eViqzywRA9tTu59"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Redferrin
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,296 likes - 150 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,302 likes - 150 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

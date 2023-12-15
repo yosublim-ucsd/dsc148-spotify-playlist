@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-613 songs - 1 day 2 hr 20 min
+616 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2021-12-07 |  |
 | [Aegean Fantaisie](https://open.spotify.com/track/2Thxya1kxFfK0o5NUe8rEM) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7) | 2:51 | 2022-07-28 | 2023-10-05 |
 | [Aegean Fantaisie](https://open.spotify.com/track/3U7ITXsh5lsZXbYheMBpdY) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY) | 2:51 | 2021-12-07 | 2022-07-29 |
+| [Affection](https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Affection](https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR) | 3:27 | 2023-12-12 |  |
 | [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2021-12-07 | 2023-08-06 |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 |  |
 | [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 | 2023-10-18 |
@@ -46,7 +47,7 @@
 | [Ambiguos](https://open.spotify.com/track/4ckUU6TR19hXSAc5C0DdIf) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Ambiguos](https://open.spotify.com/album/0GK3JsrJx1KfurBpPzjNau) | 3:11 | 2022-12-22 |  |
 | [Amici](https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Amici](https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI) | 2:08 | 2021-12-07 | 2023-01-27 |
 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 | 2021-12-07 |  |
-| [And The Birds Go North Again](https://open.spotify.com/track/3oFGPNVlFHgz8s5rTYnpM7) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [And The Birds Go North Again](https://open.spotify.com/album/1PUIqiqGelOnTayisMTOcM) | 2:36 | 2021-12-07 |  |
+| [And The Birds Go North Again](https://open.spotify.com/track/3oFGPNVlFHgz8s5rTYnpM7) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [And The Birds Go North Again](https://open.spotify.com/album/1PUIqiqGelOnTayisMTOcM) | 2:36 | 2021-12-07 | 2023-12-15 |
 | [And Then I Knew It Was Wind](https://open.spotify.com/track/7bJxUqoWJBnVvKkd6PlMdU) | [Neon Riab](https://open.spotify.com/artist/0OkfroQB6K6gfa3TQ9ehim) | [And Then I Knew It Was Wind](https://open.spotify.com/album/6LP8MWgUNCVq0sOvmelr93) | 2:09 | 2021-12-07 | 2022-07-16 |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-01-18 | 2022-07-16 |
 | [Antique Clock](https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Antique Clock](https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB) | 2:20 | 2023-11-08 |  |
@@ -253,6 +254,7 @@
 | [Into the Subconscious](https://open.spotify.com/track/68WU8PnAO2EajCfL1s7TIL) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Into the Subconscious](https://open.spotify.com/album/3RWMMRlWWlpEfBikCBpSLC) | 2:43 | 2022-05-20 | 2023-10-18 |
 | [Irenic](https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Irenic](https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx) | 2:57 | 2023-10-04 |  |
 | [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2021-12-07 |  |
+| [It Rained Last Night](https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [It Rained Last Night](https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo) | 2:12 | 2023-12-12 |  |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-01-04 |  |
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-12-07 | 2023-01-27 |
 | [Julia](https://open.spotify.com/track/3q5Z6pJSHH8s2ClI7WS45p) | [Jenna Elizabeth](https://open.spotify.com/artist/5If5kZtYCXDNwUSgVqu5Fr) | [Julia](https://open.spotify.com/album/5h0ryO3dNKBJ8gywTezvD2) | 2:36 | 2022-01-04 | 2022-01-14 |
@@ -330,6 +332,7 @@
 | [Melodrome](https://open.spotify.com/track/27ftHERJqvYDHTPpcebRsb) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Melodrome](https://open.spotify.com/album/2ZEJfWjjBJBhENAQKKkmQk) | 2:51 | 2021-12-07 | 2022-02-02 |
 | [Melopedie](https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Melopedie](https://open.spotify.com/album/5AbUGX4J4L3ppLWif6ZGKR) | 2:56 | 2021-12-07 |  |
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2021-12-07 | 2023-10-05 |
+| [Memoirs](https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Memoirs](https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652) | 2:53 | 2023-12-12 |  |
 | [Memoria](https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Memoria](https://open.spotify.com/album/4vHvAO3vlJBIjwBeyaNHqw) | 2:01 | 2021-12-07 | 2023-01-27 |
 | [Memorialize](https://open.spotify.com/track/08OA5MVsPdfmNqsFojGdNR) | [Alice Weintraub](https://open.spotify.com/artist/3QWDQ8jiQ4daXnAWkOMSYA) | [Memorialize](https://open.spotify.com/album/6DeMUMVGO6RAaMu3Jujzft) | 2:42 | 2022-04-20 | 2023-08-17 |
 | [Memories](https://open.spotify.com/track/29oFfCDtNaQF9q7ilyLpz9) | [bzur](https://open.spotify.com/artist/0oGuRxr8O9eLnI4MS3pkTt) | [Memories](https://open.spotify.com/album/10jbRX3Xdwagm2xs54Gb4j) | 2:00 | 2022-01-18 |  |
@@ -342,7 +345,7 @@
 | [Mitternacht](https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Mitternacht](https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39) | 2:35 | 2022-12-22 |  |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2021-12-07 |  |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-01-04 |  |
-| [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2021-12-07 |  |
+| [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2021-12-07 | 2023-12-15 |
 | [Morning Air](https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Morning Air](https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj) | 2:57 | 2022-02-15 |  |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-03-01 |  |
 | [Mother May I](https://open.spotify.com/track/46yWOqnL99hM5O7OD0Y8Tf) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Mother May I](https://open.spotify.com/album/5nJnrCHJTzd429URLTrfch) | 2:34 | 2021-12-07 | 2022-12-24 |
@@ -469,7 +472,7 @@
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-12-07 |  |
 | [Sehnsucht](https://open.spotify.com/track/3EhtUTpX6miXbO7dzrQDgg) | [Claude Pascalli](https://open.spotify.com/artist/2sqhWN2ZRzjFdYJ6f60yZq) | [tea on a rainy day](https://open.spotify.com/album/5RWO4WBPYvUpFp4mAafWPs) | 2:17 | 2021-12-07 | 2022-07-16 |
 | [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 | 2021-12-07 | 2023-07-05 |
-| [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 | 2022-12-22 |  |
+| [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 | 2022-12-22 | 2023-12-15 |
 | [Serán](https://open.spotify.com/track/0KuTiAtn3Dx74iJfTJknWt) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 2:32 | 2021-12-07 |  |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2021-12-07 |  |
 | [Shadows On The Lawn](https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Shadows On The Lawn](https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN) | 2:13 | 2023-09-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:1riHqX633Kup3mJAw8WR8p">Kenny Wayne Shepherd</a> is taking over to share his blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,806 likes - 39 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,815 likes - 39 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

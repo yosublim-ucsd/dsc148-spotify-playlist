@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Oswald
+> Les hits zouk du moment\. Photo : Lycinaïs Jean
 
-69 songs - 3 hr 40 min
+70 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [En sang](https://open.spotify.com/track/0uUF8ZLICJbqW0WrnGpbqj) | [ADJA](https://open.spotify.com/artist/4f8FFKe4ZyOO8tNMxz3Ijp) | [En sang](https://open.spotify.com/album/5PB3y3i9V2mkvHU3P3jTbP) | 3:07 | 2023-10-26 | 2023-12-01 |
 | [Faut doser](https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv) | [Faut doser](https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6) | 3:56 | 2023-10-26 |  |
 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 | 2023-09-28 |  |
-| [Haut niveau](https://open.spotify.com/track/2nXOUhAUyZQ0btHePjTzni) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:02 | 2023-09-28 |  |
+| [Goo Goo Eyes](https://open.spotify.com/track/0EJhQvITO12fLbIiGbhUa9) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Goo Goo Eyes](https://open.spotify.com/album/4FgEzWpTjIIckVtXCRCbLN) | 3:40 | 2023-12-14 |  |
+| [Haut niveau](https://open.spotify.com/track/2nXOUhAUyZQ0btHePjTzni) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:02 | 2023-09-28 | 2023-12-15 |
 | [Hollandaise](https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Hollandaise](https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ) | 2:38 | 2023-11-30 |  |
 | [Je le savais](https://open.spotify.com/track/0GmFgFtkqsgnrFMWJZ1x99) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN) | [Je le savais](https://open.spotify.com/album/6n9uhoJnNGaNd6mENrluEC) | 2:42 | 2023-09-28 | 2023-10-27 |
 | [Je veux ton coeur](https://open.spotify.com/track/0qAlln8GToiVhlmS9VTokc) | [Teety](https://open.spotify.com/artist/6HeLKMKnHapbFxCOFppEF9) | [Je veux ton coeur \(Audio\)](https://open.spotify.com/album/3KzcVgfho9IgIo24nqWtVt) | 3:37 | 2023-09-28 | 2023-10-06 |

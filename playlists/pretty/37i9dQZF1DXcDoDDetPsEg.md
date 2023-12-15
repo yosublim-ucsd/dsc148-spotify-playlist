@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,250 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,295 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 31 | [Bon Appétit](https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Bon Appétit](https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk) | 3:17 |
 | 32 | [Artiste](https://open.spotify.com/track/1uAFzVmlo4V4ndVtbF1ZlM) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Antisocial](https://open.spotify.com/album/1LC0NKB3yklAQE4prNhFbU) | 2:06 |
 | 33 | [Grandma's Kitchen](https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Melo](https://open.spotify.com/album/3m8xFZm5azXCXreTC3rJ0Q) | 2:27 |
-| 34 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 |
+| 34 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 |
 | 35 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
 | 36 | [Hollows](https://open.spotify.com/track/3S5QlSVPAatCWNnVaAI102) | [CB](https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [bkayproducer](https://open.spotify.com/artist/4XuCohRQfXJKVtmlFu34wv) | [A Drillers Perspective 2.7](https://open.spotify.com/album/66VJMqcCT2UWLul7ZHyjvF) | 3:04 |
 | 37 | [What’s Real?](https://open.spotify.com/track/4ZuAAHYpnXDWBrJpDXFBek) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Lil Macks](https://open.spotify.com/artist/0r8PPl6CXkR4SWhbyoSTLU) | [What’s Real?](https://open.spotify.com/album/6yGAfG9FbUBztv5l7U8h0I) | 2:56 |

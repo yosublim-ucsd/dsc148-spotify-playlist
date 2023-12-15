@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 118149,
+  "num_followers": 118170,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
-        "name": "A Sua Chance",
-        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
-        },
-        {
-          "name": "Diego Tiguez",
-          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
-        }
-      ],
-      "duration_ms": 241162,
-      "name": "A Sua Chance",
-      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
         "name": "Vamo Com Tudo",
         "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 179527,
       "name": "Vamo Com Tudo",
       "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
+        "name": "A Sua Chance",
+        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
+      },
+      "artists": [
+        {
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+        },
+        {
+          "name": "Diego Tiguez",
+          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+        }
+      ],
+      "duration_ms": 241162,
+      "name": "A Sua Chance",
+      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
         "name": "Ele Voltar\u00e1",
         "url": "https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 269958,
       "name": "Ele Voltar\u00e1",
       "url": "https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
         "name": "Sorrindo \u00e0 Toa (Remix)",
         "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 155142,
       "name": "Sorrindo \u00e0 Toa - Remix",
       "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
+        "name": "Renascido das Cinzas",
+        "url": "https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Viviane Franco",
+          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Das Trevas para Luz - VIP Version",
+      "url": "https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
         "name": "Vejo o Teu Amor",
         "url": "https://open.spotify.com/album/1s57AU2OPwk6TvZukEe5RL"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 150138,
       "name": "Vejo o Teu Amor",
       "url": "https://open.spotify.com/track/4BVlnHrTr3l58riMroKcT3"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
-        "name": "Renascido das Cinzas",
-        "url": "https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Viviane Franco",
-          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Das Trevas para Luz - VIP Version",
-      "url": "https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -1459,6 +1459,30 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
+        "name": "Hora de Adorar",
+        "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "DJ Albery",
+          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Hora de Adorar",
+      "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
         "name": "Me Encontrou Remix",
         "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
       },
@@ -1499,30 +1523,6 @@
       "duration_ms": 186280,
       "name": "Vem Com Josu\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/2JV5mbWknaQejsso4UGAGo"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
-        "name": "Hora de Adorar",
-        "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "DJ Albery",
-          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Hora de Adorar",
-      "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
     },
     {
       "added_at": "2023-11-24 07:22:59",

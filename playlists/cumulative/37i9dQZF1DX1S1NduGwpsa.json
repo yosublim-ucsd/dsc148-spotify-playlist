@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gregory Porter",
+  "description": "The best jazz new releases. Cover: Dominique Fils-Aim\u00e9",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 203394,
       "name": "Baila Mulata",
       "url": "https://open.spotify.com/track/7Ax9Ex9DhMnczPd0pjlPQr"
@@ -3312,6 +3312,24 @@
       "duration_ms": 239533,
       "name": "Great Wind",
       "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
+    },
+    {
+      "album": {
+        "name": "Great Wind (Radio Edit)",
+        "url": "https://open.spotify.com/album/7zPhaeFUk57yoU5cdTCfHg"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Great Wind - Radio Edit",
+      "url": "https://open.spotify.com/track/7k620TJe42bIg16RE51EZ4"
     },
     {
       "album": {
@@ -8765,6 +8783,28 @@
     },
     {
       "album": {
+        "name": "Christmas Wish",
+        "url": "https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236696,
+      "name": "What Are You Doing New Year\u2019s Eve?",
+      "url": "https://open.spotify.com/track/23EYzUDHSg24UfDRDnDES3"
+    },
+    {
+      "album": {
         "name": "Entre eux deux",
         "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
       },
@@ -8860,7 +8900,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 323522,
       "name": "Why Am I Treated So Bad (with Questlove, Christian McBride) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP"

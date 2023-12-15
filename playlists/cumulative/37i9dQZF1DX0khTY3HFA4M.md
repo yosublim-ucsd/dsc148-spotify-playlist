@@ -4,7 +4,7 @@
 
 > Relaxing instrumental beats to chill to.
 
-684 songs - 1 day 2 hr 48 min
+687 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Evenings](https://open.spotify.com/track/2ndnpUGxbiOgKEjLIOCQ23) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Now / Again](https://open.spotify.com/album/5xEAyf7uCr6rFCTnpHccvh) | 2:49 | 2023-01-13 | 2023-10-20 |
 | [evergreen](https://open.spotify.com/track/10k7XdxpS6i00BeMJCJzmT) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [evergreen](https://open.spotify.com/album/60KEA71jBdwwLq1q2KzeUR) | 3:22 | 2023-07-19 |  |
 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 | 2023-01-13 |  |
+| [Faces](https://open.spotify.com/track/4h3r8c7TlNLZGFMytXoqa6) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Faces](https://open.spotify.com/album/2nYufpokQ8JM2sOLucVs8K) | 1:53 | 2023-12-15 |  |
 | [Fading Colors](https://open.spotify.com/track/4Su1EazQcPKvETX64OhB8t) | [Newline](https://open.spotify.com/artist/1I4wkU56nEpzuLLEm2ldge) | [Fading Colors](https://open.spotify.com/album/0P2Fczuh7nB3AuAzzLEkrL) | 1:55 | 2023-01-13 |  |
 | [Fairy Tale](https://open.spotify.com/track/33x57rcYVkrWtkWB9y2PF2) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Fairy Tale](https://open.spotify.com/album/7rGiBNEMGF8BY4pLWf0VcU) | 2:15 | 2023-01-13 | 2023-10-13 |
 | [falling](https://open.spotify.com/track/0JwITaadgbbBnQIioNbjrD) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [falling](https://open.spotify.com/album/3YpHJzRylTi7Y3jU2KcXVS) | 2:40 | 2023-01-13 |  |
@@ -266,6 +267,7 @@
 | [Healing](https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Healing](https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF) | 2:25 | 2023-12-08 |  |
 | [Heart Chakra](https://open.spotify.com/track/7jOoaIGbwxtH1dpcGp1YSP) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Heart Chakra](https://open.spotify.com/album/1Ns9DLdpOhM2MN8LRuwBHx) | 2:17 | 2023-01-13 |  |
 | [Heart\-Shaped](https://open.spotify.com/track/35Y8cKrF1T4fvkWkfEXCZM) | [Lovely Rascals](https://open.spotify.com/artist/3vxzErr7ghDB5qnfFXnaw3) | [Heart\-Shaped](https://open.spotify.com/album/3QREKCZ4wBIIjZT9iLnXN8) | 2:48 | 2023-01-13 |  |
+| [Heavensent](https://open.spotify.com/track/0SdZzPskMPdVibBUHNrrim) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Heavensent](https://open.spotify.com/album/0nzrNWqyAHUgLFiB4gE15Y) | 3:04 | 2023-12-15 |  |
 | [hello there](https://open.spotify.com/track/4KXDXzJQSFnDBwxee5OWuR) | [akanekuro](https://open.spotify.com/artist/1KyLdid5oA2QFMEzAwo3ZJ) | [hello there](https://open.spotify.com/album/5cSWlGSvXTpMYKX7IEhdbY) | 2:08 | 2023-01-13 |  |
 | [Henka](https://open.spotify.com/track/0jHCVeoWsGiD7CGVKg6rT9) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Henka](https://open.spotify.com/album/0RpOOXOrpLr4YZ8v6dit0E) | 1:42 | 2023-01-13 |  |
 | [Here4U](https://open.spotify.com/track/4Zr23rd2GwYCV6UmLkGMvF) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp) | [Here4U](https://open.spotify.com/album/2R1SYxvtrO2AtkVLAFm67h) | 3:13 | 2023-01-13 | 2023-09-16 |
@@ -452,6 +454,7 @@
 | [Planets Over There](https://open.spotify.com/track/4gKvs3VsnSFtPlcNiDwFgN) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [Planets Over There](https://open.spotify.com/album/7CQ4XolMl1vPh6DF9biQdt) | 2:15 | 2023-01-13 | 2023-09-16 |
 | [Plastic Boys](https://open.spotify.com/track/0VVkD4K9rMQtQYFdzKXMIv) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2023-01-13 |  |
 | [Play that Moog!](https://open.spotify.com/track/2DCKv6nBysbFugFRD43W25) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Play that Moog!](https://open.spotify.com/album/0uwL8vG0o3N0gKs6yBGLIR) | 1:55 | 2023-04-11 |  |
+| [please](https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [please](https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt) | 2:03 | 2023-12-15 |  |
 | [Plum Tea](https://open.spotify.com/track/1AEwoOf4Fv8R7RneJsa1i7) | [Bace](https://open.spotify.com/artist/47O6yNspcql1nYBI3nTdyf) | [Plum Tea](https://open.spotify.com/album/2bVqZKLoO4uhzMnOWibCHQ) | 2:26 | 2023-01-13 | 2023-09-22 |
 | [Pool of Swim](https://open.spotify.com/track/3xK38Jy0gEs7yprInWoFZQ) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [Pool of Swim](https://open.spotify.com/album/0GPUOPd04HhfgvCmWWtEGb) | 2:34 | 2023-01-13 |  |
 | [Portra](https://open.spotify.com/track/0w2DwiZ8BEdqNoxZgoCIAS) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Portra](https://open.spotify.com/album/1bg66tYiYsQycYn5VKD9GB) | 1:54 | 2023-01-13 |  |

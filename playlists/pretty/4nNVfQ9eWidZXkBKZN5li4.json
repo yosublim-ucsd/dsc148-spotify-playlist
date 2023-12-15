@@ -1,12 +1,12 @@
 {
   "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon. Follow now!",
-  "num_followers": 231351,
+  "num_followers": 231346,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "NTI1NSw2ZGExNjI1YTNiZmUyODhiOWJkMGRiZTc0NmQ5NjlhODU1OGVhNTk3",
+  "snapshot_id": "NTI1OSxiNmMyOWIwZWNhNjgyZWIwOTRiNDAyZTE0MmVhNzI4ZjU0ZTY4ZWQ3",
   "tracks": [
     {
       "added_at": "2022-07-18 10:03:31",
@@ -69,30 +69,6 @@
       "url": "https://open.spotify.com/track/0vqtlDkv6BamM6PIKM9ptz"
     },
     {
-      "added_at": "2023-11-30 07:17:16",
-      "album": {
-        "name": "Satranga (From \"ANIMAL\")",
-        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shreyas Puranik",
-          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
-        },
-        {
-          "name": "Siddharth - Garima",
-          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
-        }
-      ],
-      "duration_ms": 271169,
-      "name": "Satranga (From \"ANIMAL\")",
-      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
-    },
-    {
       "added_at": "2023-08-10 11:59:00",
       "album": {
         "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
@@ -125,6 +101,26 @@
       "url": "https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW"
     },
     {
+      "added_at": "2023-12-14 13:21:57",
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "duration_ms": 250158,
+      "name": "Pehle Bhi Main",
+      "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
+    },
+    {
       "added_at": "2023-11-07 05:03:17",
       "album": {
         "name": "Tujhe Yaad Na Meri Ayee - 2",
@@ -147,6 +143,30 @@
       "duration_ms": 294146,
       "name": "Tujhe Yaad Na Meri Ayee - 2",
       "url": "https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx"
+    },
+    {
+      "added_at": "2023-11-30 07:17:16",
+      "album": {
+        "name": "Satranga (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "duration_ms": 271169,
+      "name": "Satranga (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
       "added_at": "2023-11-30 07:18:07",
@@ -584,7 +604,7 @@
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Dulquer Salmaan",
+          "name": "Harrykahanhai",
           "url": "https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk"
         }
       ],

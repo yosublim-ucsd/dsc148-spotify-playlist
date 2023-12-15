@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 8420,
+  "num_followers": 8426,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "IN the mood",
-        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Alchemy of Souls, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5suBD7aDfNiIkbUvYaHtfR"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 213946,
       "name": "Scars leave beautiful trace",
       "url": "https://open.spotify.com/track/1y6dEjheBdnopNo0xDXJ9P"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "IN the mood",
+        "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -631,26 +631,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Hopeless Romantic",
-        "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Lost Mood",
         "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 159000,
       "name": "Blue mood",
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
         "name": "Only you",
         "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
       },
@@ -911,18 +927,22 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
       "artists": [
         {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
         }
       ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -955,26 +975,6 @@
       "duration_ms": 231759,
       "name": "That's You",
       "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "I Want to Be Closer to You",
-      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Don't be mad",
         "url": "https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 184093,
       "name": "Don't be mad",
       "url": "https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "THE BOYZ Special Single [All About You]",
         "url": "https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 218306,
       "name": "All About You",
       "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "My Dearest (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/682NAeZRyEWYzwvOcrFCMu"
       },
@@ -1323,22 +1307,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Unfading Sense - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/2iN8rALWBgiirEB5QlzhRw"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 259829,
-      "name": "Scented Things",
-      "url": "https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Crush on you",
         "url": "https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw"
       },
@@ -1351,6 +1319,38 @@
       "duration_ms": 175040,
       "name": "Crush on you",
       "url": "https://open.spotify.com/track/3TUPqVuyNK2mPeA9QmHygo"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Unfading Sense - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/2iN8rALWBgiirEB5QlzhRw"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 259829,
+      "name": "Scented Things",
+      "url": "https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4"
     }
   ],
   "unique_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",

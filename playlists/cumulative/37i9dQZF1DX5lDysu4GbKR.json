@@ -852,7 +852,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 174195,
       "name": "Desert Flower",
       "url": "https://open.spotify.com/track/3do3tKMN4LJO6G0kBZThtm"
@@ -1552,6 +1552,24 @@
       "duration_ms": 247346,
       "name": "Human",
       "url": "https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN"
+    },
+    {
+      "album": {
+        "name": "Human being",
+        "url": "https://open.spotify.com/album/48WCietPwTNvv69myEUp4O"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zanne",
+          "url": "https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172183,
+      "name": "Human being",
+      "url": "https://open.spotify.com/track/5Qm3pqH0Nwnybuy5MSDJS2"
     },
     {
       "album": {

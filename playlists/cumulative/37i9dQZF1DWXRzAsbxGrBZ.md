@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-102 songs - 11 hr 46 min
+103 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 | 2022-09-14 |  |
 | [Forever \- TekniQ Soulful Mix](https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Forever \(TekniQ Remixes\)](https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3) | 5:55 | 2022-09-14 | 2023-03-18 |
 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 | 2022-09-14 |  |
-| [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 | 2022-09-14 |  |
+| [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 | 2022-09-14 | 2023-12-15 |
 | [Gotsom](https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN) | 6:42 | 2022-09-29 | 2023-09-28 |
 | [Grootman \(Spiritual Love Affair\)](https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz) | [Daano](https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd) | [The Jazz Kid III](https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI) | 7:27 | 2023-03-17 |  |
 | [HER](https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [Day Dream](https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu) | 6:13 | 2022-09-29 |  |
@@ -100,6 +100,7 @@
 | [To The World](https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A) | [Brazo Wa Afrika](https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP), [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [To The World](https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v) | 6:27 | 2022-09-14 |  |
 | [Trill is Gone \- Original Mix](https://open.spotify.com/track/6eHT2RqorlHgS68W6U62X2) | [Deep Xcape](https://open.spotify.com/artist/1PZwBIf3nPI7r8jvS0Oh9Z), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Sin City \[Italian Mafia \(God Father Edition\)\]](https://open.spotify.com/album/5qK2NsJpHTj6mcZ37BvozA) | 6:30 | 2022-09-14 | 2022-11-18 |
 | [Vertigo](https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [NEO](https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986) | 7:16 | 2022-11-10 |  |
+| [Voices](https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Simeon](https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x) | [Taru](https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL) | 6:39 | 2023-12-08 |  |
 | [We Beg Your Pardon](https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [We Beg Your Pardon](https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu) | 7:11 | 2022-09-14 | 2023-03-18 |
 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 | 2022-11-10 | 2023-11-10 |
 | [Wena](https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Disciples of House](https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr) | [Ghost](https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU) | 4:10 | 2022-11-10 | 2023-03-18 |

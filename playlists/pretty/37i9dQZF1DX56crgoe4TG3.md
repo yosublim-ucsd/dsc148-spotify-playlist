@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,101 likes - 139 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,130 likes - 139 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

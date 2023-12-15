@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Home Coming",
+        "url": "https://open.spotify.com/album/286IjeJkevfzMSkXlS3Q0y"
+      },
+      "artists": [
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339083,
+      "name": "Home Coming",
+      "url": "https://open.spotify.com/track/6iBdg8inuT94xLgvlUIisb"
+    },
+    {
+      "album": {
         "name": "Ibhasi",
         "url": "https://open.spotify.com/album/3bHIOci71PkzUQjMpNz9UU"
       },
@@ -2877,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Super Thing",
+        "url": "https://open.spotify.com/album/0EMCAw8NQI9trHjTV6iP3M"
+      },
+      "artists": [
+        {
+          "name": "Dee Traits",
+          "url": "https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322273,
+      "name": "Super Thing",
+      "url": "https://open.spotify.com/track/58HD0SgOiyPBvPq6Ql6cEk"
+    },
+    {
+      "album": {
         "name": "Art Is Talking",
         "url": "https://open.spotify.com/album/5GxIfUCsJWbFT4GFqoQEHZ"
       },
@@ -3034,7 +3070,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 364773,
       "name": "Thunderstorm",
       "url": "https://open.spotify.com/track/6t8xc0rGpx11LapBFYU28P"

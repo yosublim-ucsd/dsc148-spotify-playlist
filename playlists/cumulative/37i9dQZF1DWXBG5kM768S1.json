@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Heil ved - Musikken",
+        "url": "https://open.spotify.com/album/5mqPvf7oEXdng9pKsSz9NI"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/7eM5YIrVzZFcXIe2hZ9IiB"
+    },
+    {
+      "album": {
         "name": "Adams Sang (feat. Myra)",
         "url": "https://open.spotify.com/album/3s7wpsEiUTSvJwSQ7L3G5Z"
       },
@@ -186,7 +204,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 250403,
       "name": "Alt det som skinner",
       "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
@@ -496,7 +514,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 260778,
       "name": "Club 7",
       "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
@@ -2834,7 +2852,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 239586,
       "name": "Mysteriet deg",
       "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"

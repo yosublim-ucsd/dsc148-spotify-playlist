@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best songs of 2023 across all of Frequency's genre playlists!  Cover: <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,747 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,915 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

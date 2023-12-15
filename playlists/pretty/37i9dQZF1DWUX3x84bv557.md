@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Isabèl Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,660 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,689 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Laatste Keer](https://open.spotify.com/track/3OBDE2Zx4u2YZYd0PUUOGp) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Laatste Keer](https://open.spotify.com/album/7rUuXDGfkkWAxDXFKTxigi) | 2:18 |
 | 2 | [Trots Op Haar](https://open.spotify.com/track/5Ak0hJNb5chvknl5OY7xnB) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Trots Op Haar](https://open.spotify.com/album/3H6QGkLIgvx71MlLgPQizY) | 2:49 |
-| 3 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
-| 4 | [Hartenbreker](https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Hartenbreker](https://open.spotify.com/album/0PqE4iqArw2Ax0mbKqfjFU) | 2:37 |
-| 5 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 |
+| 3 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 |
+| 4 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
+| 5 | [Hartenbreker](https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Hartenbreker](https://open.spotify.com/album/0PqE4iqArw2Ax0mbKqfjFU) | 2:37 |
 | 6 | [Maken of Breken](https://open.spotify.com/track/3o8mKz6JvIxl08QXq6vyxQ) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Maken of Breken](https://open.spotify.com/album/3DSkY5g59gmmWnezLp6880) | 3:21 |
 | 7 | [Rock ‘n Roll in Nederland](https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:03 |
 | 8 | [Champions League](https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec) | 2:22 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 23 | [Rollercoaster](https://open.spotify.com/track/3n3Y9thrEHlvXBWKEbU27n) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Rollercoaster](https://open.spotify.com/album/1YlWqhTlNHlRpGpRSDZADD) | 3:22 |
 | 24 | [Medeplichtig](https://open.spotify.com/track/1M19j4iqQyyWK1IzfY5Cod) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Medeplichtig](https://open.spotify.com/album/52Rv3uBuWFbr6NAfSDufny) | 2:46 |
 | 25 | [Weerspiegelde Pijn](https://open.spotify.com/track/5I7Albio6CNHPM8uHoyWuF) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw) | [Weerspiegelde Pijn](https://open.spotify.com/album/2FdMP9V6my6LEpTZWM4thN) | 2:57 |
-| 26 | [Stoel In De Hemel](https://open.spotify.com/track/6bNfLrjVk5xFZSOQOhroYt) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [AEDM](https://open.spotify.com/album/3ua3jJ5hreBT7dp0D8TJya) | 3:13 |
+| 26 | [Stoel In De Hemel](https://open.spotify.com/track/6rJNM9Ep8bENSG3vkr2mst) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [AEDM](https://open.spotify.com/album/6x3zIf1yzUpcL7Pr12cxSx) | 3:13 |
 | 27 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 |
 | 28 | [17](https://open.spotify.com/track/2Y4vxLDN2mCweUrN6ZcY1i) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [17](https://open.spotify.com/album/7g58IGmaCmCx1giHXtiVpz) | 2:40 |
 | 29 | [Door De Regen](https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Door De Regen](https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI) | 2:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Treintje Later](https://open.spotify.com/track/1TJ7XbsAzUpJ3evpxbrAhx) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Treintje Later](https://open.spotify.com/album/1OSE4trfYFvnV2HPsJl4D4) | 3:08 |
 | 80 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 
-Snapshot ID: `MCxhMzkzYTMyMjhiNWViOWJjZGI4NjZmODczMDI1ZjJkZTE0ZGM0NDI0`
+Snapshot ID: `MCxkNTMxOGViZDdkYjhmOTFhOTgzOTcwMWUxMThjYzIzNzU1OTkxYjAx`

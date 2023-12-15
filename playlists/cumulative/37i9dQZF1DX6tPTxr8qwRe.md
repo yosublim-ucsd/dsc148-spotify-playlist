@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Ellise
 
-555 songs - 1 day 1 hr 28 min
+556 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 | 2021-12-10 | 2022-03-05 |
 | [Pretty Distraction](https://open.spotify.com/track/6cPh0IceWYeMEeYmbSgIMG) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [Pretty Distraction](https://open.spotify.com/album/3KGO7t6s7VEAmJntA0R59Q) | 2:55 | 2023-09-08 |  |
 | [Pretty In The Dark](https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Pretty In The Dark](https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw) | 2:56 | 2023-06-23 | 2023-11-18 |
-| [Pretty Little Addict](https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8) | 2:47 | 2023-06-02 |  |
+| [Pretty Little Addict](https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8) | 2:47 | 2023-06-02 | 2023-12-15 |
+| [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 | 2023-10-06 |  |
 | [pretty poison](https://open.spotify.com/track/1a6SSxTLJK6AT9eTd8K6ao) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:17 | 2021-09-10 | 2022-02-19 |
 | [Problems](https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Problems](https://open.spotify.com/album/7ARGpnH0DV4qXGSzC08Rf2) | 2:50 | 2022-08-12 | 2023-02-04 |
 | [PSYCHO FREAK](https://open.spotify.com/track/5BH7kDLK881aVA6FiYLvzY) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [PSYCHO FREAK](https://open.spotify.com/album/4VXl7eff0Zu9XfN7Q9hEdZ) | 2:45 | 2023-01-13 | 2023-04-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,535 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,546 likes - 74 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 65 | [Summer Bolero](https://open.spotify.com/track/2TpnRrHffsh7aeYgPWrGdK) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Summer Bolero](https://open.spotify.com/album/5FOX3HXCU2JH47vrNSUnAy) | 3:19 |
 | 66 | [San Sebastien](https://open.spotify.com/track/6brr1dBt7PqEuuGckXew6A) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Into The Sunset](https://open.spotify.com/album/4cBzYpHUYX82WDoQuhYeRd) | 3:09 |
 | 67 | [Un Tambour sur les Roses](https://open.spotify.com/track/1oYGtB1E2bEjakyLElrdBX) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Réunion](https://open.spotify.com/album/3KduaJCpIteIgNVgo5GSAh) | 3:08 |
-| 68 | [Carretera Libertad](https://open.spotify.com/track/0dhVo1Lo1eJT6cOE0AEKWi) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu), [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U) | [Camino Latino](https://open.spotify.com/album/6SabvwpHfzkgzkPwqUb0Wy) | 3:38 |
-| 69 | [Runaway](https://open.spotify.com/track/0VwA4OOrK4K0qrfaFBHCoi) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Runaway](https://open.spotify.com/album/2R6ToEr49KC9zrmE3zevdV) | 2:50 |
-| 70 | [La Ultima Vez](https://open.spotify.com/track/4ohd4Soqh0KVuT3c5wVNs5) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Alma Azul](https://open.spotify.com/album/573aR866i22zkC8OTWKOVU) | 2:10 |
-| 71 | [Karleken \(arr\. for guitar and double bass\): Kärleken](https://open.spotify.com/track/7076W3oIAwyydfx4WMU5sJ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/69YsaSWpIzKGe85DuTtKw2) | 4:16 |
-| 72 | [Estanys de Baiau](https://open.spotify.com/track/6JbPD7lazbivEBZbBiI9U0) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Abendrot](https://open.spotify.com/album/45UIG5yVX62bS76ybHXrG5) | 2:28 |
-| 73 | [Back In Vienna](https://open.spotify.com/track/7f5KoA0YwUSblUJJ1Fhgq3) | [Carey Bestwood](https://open.spotify.com/artist/2retIxvtHYYB3JXjfYLAOW) | [Back In Vienna](https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu) | 2:00 |
-| 74 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 |
-| 75 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
+| 68 | [Runaway](https://open.spotify.com/track/0VwA4OOrK4K0qrfaFBHCoi) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Runaway](https://open.spotify.com/album/2R6ToEr49KC9zrmE3zevdV) | 2:50 |
+| 69 | [La Ultima Vez](https://open.spotify.com/track/4ohd4Soqh0KVuT3c5wVNs5) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Alma Azul](https://open.spotify.com/album/573aR866i22zkC8OTWKOVU) | 2:10 |
+| 70 | [Karleken \(arr\. for guitar and double bass\): Kärleken](https://open.spotify.com/track/7076W3oIAwyydfx4WMU5sJ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/69YsaSWpIzKGe85DuTtKw2) | 4:16 |
+| 71 | [Estanys de Baiau](https://open.spotify.com/track/6JbPD7lazbivEBZbBiI9U0) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Abendrot](https://open.spotify.com/album/45UIG5yVX62bS76ybHXrG5) | 2:28 |
+| 72 | [Back In Vienna](https://open.spotify.com/track/7f5KoA0YwUSblUJJ1Fhgq3) | [Carey Bestwood](https://open.spotify.com/artist/2retIxvtHYYB3JXjfYLAOW) | [Back In Vienna](https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu) | 2:00 |
+| 73 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 |
+| 74 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
 
-Snapshot ID: `MCxmOWRlZjI3YTE1MTU2MTg5Y2MyYjFlYjRkZDYzM2ViYThmMGY5NGJl`
+Snapshot ID: `MCw1YjA2ZDAxNjVhOTljN2U5N2NiODJlNzRiZTVmYWJjYjBiNzFjZTdk`

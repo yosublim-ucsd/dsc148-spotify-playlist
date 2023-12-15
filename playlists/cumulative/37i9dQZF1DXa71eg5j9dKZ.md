@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Fred again..
+> The home for alternative electronic music\. Cover: Duskus
 
 863 songs - 2 day 13 hr 6 min
 

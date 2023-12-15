@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 忘れらんねえよ
 
-680 songs - 1 day 12 hr 20 min
+681 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [INVITATION](https://open.spotify.com/track/5UeAFjIxgay5XnbfhaJ0hq) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [INVITATION](https://open.spotify.com/album/4ZifRxvNe7VyUx2puhgVXP) | 1:59 | 2022-05-12 | 2022-06-07 |
 | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/track/5k4vMqDvrkMq4roJ1CEcQ5) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/album/5cV5NuuUhNhhQoCYIRj3SH) | 3:28 | 2022-10-04 | 2022-10-26 |
 | [IT'S ONLY PUNK ROCK](https://open.spotify.com/track/50Msl98h4Yodp4HUBkMQ4C) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [FRIENDS](https://open.spotify.com/album/7yoAy5YMIW3GfFqxkdoBbH) | 2:29 | 2022-05-24 | 2022-07-26 |
-| [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2022-05-12 |  |
+| [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2022-05-12 | 2023-12-15 |
 | [JINJYA](https://open.spotify.com/track/2VwNxrdyl0LVnCIEMfUxi0) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [JINJYA](https://open.spotify.com/album/31UBWBFS2imNZPWrxwWvwl) | 3:22 | 2022-12-27 | 2023-01-11 |
 | [Juggling](https://open.spotify.com/track/70YGqUBNdA30qVJF7ugRwC) | [HPCP](https://open.spotify.com/artist/72kIwXb0A0YB76BqSt1JDw) | [Juggling](https://open.spotify.com/album/4vHwALMqMouRPeV542w1T2) | 2:58 | 2023-04-18 | 2023-07-05 |
 | [JUST MY LIFE](https://open.spotify.com/track/6KUy8S7PTSHX2WRW4drmlU) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:46 | 2022-07-14 | 2022-07-16 |
@@ -406,6 +406,7 @@
 | [STAY GLOW](https://open.spotify.com/track/3JdLuVZzVu8NAb6n2Ml49h) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [TAKUMA](https://open.spotify.com/artist/4nOzNf1MhztxPec9rMTQ1i) | [S.A.L](https://open.spotify.com/album/7sWgmxbx6fOYBxiQbyMG2L) | 5:10 | 2022-05-19 | 2022-07-27 |
 | [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2022-08-02 | 2023-12-10 |
 | [STAY GOLD](https://open.spotify.com/track/4fyZ8EqPZzxPyrpMmr1CYQ) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/5ZLz1cMuiUoRDHx9qLmqqg) | 2:00 | 2022-05-12 | 2022-07-27 |
+| [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 | 2023-12-12 |  |
 | [STAY GOLD \- PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/track/1bFjI57VlMreMqR4Vtp2TJ) | [Akihiro Namba](https://open.spotify.com/artist/7F1stPkk7RZf19mw2mwtJH) | [PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/album/02tJBtvZr9frKBKY2cIJaW) | 2:29 | 2022-05-19 | 2022-07-27 |
 | [Stay Punk Forever](https://open.spotify.com/track/4kO0rBpUaPKV0d2r9w3Fip) | [THE STARBEMS](https://open.spotify.com/artist/6SXxBrj5sKrSXiAV2tpWWq) | [STAY PUNK FOREVER](https://open.spotify.com/album/0bIO2OKQ3k4fnE8tqUw03U) | 2:41 | 2022-05-19 | 2022-07-28 |
 | [Stay Pure](https://open.spotify.com/track/3YnshcRCGme6KvEykGpjtF) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [PURE](https://open.spotify.com/album/6Ym1lCGxIlduxxTNp6FTaP) | 3:38 | 2022-05-17 | 2022-07-29 |

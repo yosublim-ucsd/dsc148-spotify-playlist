@@ -794,6 +794,32 @@
     {
       "album": {
         "name": "Follow Your Heart",
+        "url": "https://open.spotify.com/album/0gjrnOe1wH1wUezVFtWWBP"
+      },
+      "artists": [
+        {
+          "name": "Kath Bee",
+          "url": "https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk"
+        },
+        {
+          "name": "Doug Stenhouse",
+          "url": "https://open.spotify.com/artist/6k8AlHXW9D08RhKC8UjHDA"
+        },
+        {
+          "name": "Si\u00e2n",
+          "url": "https://open.spotify.com/artist/6KkfJjh5ROtKrDG92MDYAM"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232057,
+      "name": "Follow Your Heart",
+      "url": "https://open.spotify.com/track/75R3FkOSwKBfwQHGREjwRv"
+    },
+    {
+      "album": {
+        "name": "Follow Your Heart",
         "url": "https://open.spotify.com/album/2WvtEacxiiJJzKoeDr6T72"
       },
       "artists": [
@@ -812,7 +838,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 232057,
       "name": "Follow Your Heart",
       "url": "https://open.spotify.com/track/7llCAJGS4RvulKhZTwpxC6"

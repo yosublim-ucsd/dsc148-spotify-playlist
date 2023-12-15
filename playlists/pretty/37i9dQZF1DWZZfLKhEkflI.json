@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 67441,
+  "num_followers": 67465,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -347,8 +347,8 @@
     {
       "added_at": "2023-12-07 16:01:37",
       "album": {
-        "name": "The Big Beat (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+        "name": "Buhaina's Delight (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 385573,
-      "name": "Lester Left Town - Remastered 2005",
-      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
+      "duration_ms": 358440,
+      "name": "Backstage Sally - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f"
     },
     {
       "added_at": "2023-12-07 16:01:37",
@@ -491,8 +491,8 @@
     {
       "added_at": "2023-12-07 16:01:37",
       "album": {
-        "name": "Buhaina's Delight (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9"
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 358440,
-      "name": "Backstage Sally - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f"
+      "duration_ms": 385573,
+      "name": "Lester Left Town - Remastered 2005",
+      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
     },
     {
       "added_at": "2023-12-07 16:01:37",
@@ -699,18 +699,22 @@
     {
       "added_at": "2023-12-07 16:01:37",
       "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
+        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+      "duration_ms": 530840,
+      "name": "Blues Up And Down",
+      "url": "https://open.spotify.com/track/22IK0azgagib3S51e9AIOF"
     },
     {
       "added_at": "2023-12-07 16:01:37",
@@ -731,22 +735,18 @@
     {
       "added_at": "2023-12-07 16:01:37",
       "album": {
-        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
-        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 530840,
-      "name": "Blues Up And Down",
-      "url": "https://open.spotify.com/track/22IK0azgagib3S51e9AIOF"
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
     },
     {
       "added_at": "2023-12-07 16:01:37",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-12-07 16:01:37",
       "album": {
+        "name": "Our Thing",
+        "url": "https://open.spotify.com/album/6NMyU9AYokycLD4cY2BzGd"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 379786,
+      "name": "Back Road - Rudy Van Gelder, 2000 Remaster",
+      "url": "https://open.spotify.com/track/6ZjpsZ5mmMmM7rMqK4nOLz"
+    },
+    {
+      "added_at": "2023-12-07 16:01:37",
+      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 345466,
       "name": "Preach Brother",
       "url": "https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v"
-    },
-    {
-      "added_at": "2023-12-07 16:01:37",
-      "album": {
-        "name": "Our Thing",
-        "url": "https://open.spotify.com/album/6NMyU9AYokycLD4cY2BzGd"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 379786,
-      "name": "Back Road - Rudy Van Gelder, 2000 Remaster",
-      "url": "https://open.spotify.com/track/6ZjpsZ5mmMmM7rMqK4nOLz"
     },
     {
       "added_at": "2023-12-07 16:01:37",

@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "Cincinnati Pumpin!!",
+        "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158064,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr"
+    },
+    {
+      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
@@ -1022,7 +1044,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 170960,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ"
@@ -1458,7 +1480,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
@@ -1622,6 +1644,24 @@
       "duration_ms": 210163,
       "name": "Dangerous Hearts",
       "url": "https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd"
+    },
+    {
+      "album": {
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/28qJotgVoss0htjx54Z33G"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168680,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/47RGBqVpDOuG1lQXheVEuh"
     },
     {
       "album": {
@@ -6295,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "Permission - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1hUr66rPGJ5efTaN4qWLWC"
+      },
+      "artists": [
+        {
+          "name": "Theecember",
+          "url": "https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199992,
+      "name": "Permission - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2aCSffIsSsS0e7y4CVLPiS"
+    },
+    {
+      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/4DeGCqMQZgH5K7RCFkAGwi"
       },
@@ -8782,7 +8840,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 152072,
       "name": "Undercover Lover",
       "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"

@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176818,
       "name": "Furore",
       "url": "https://open.spotify.com/track/1grE7P4DFbcgWrG8uTW6W0"
@@ -334,6 +334,24 @@
       "duration_ms": 176818,
       "name": "Furore",
       "url": "https://open.spotify.com/track/3iC2XYVM8P19VQz6N2bP60"
+    },
+    {
+      "album": {
+        "name": "Furore (Official Video - Sanremo 2023)",
+        "url": "https://open.spotify.com/album/6ppxonXmys4Kfc5t1lmvep"
+      },
+      "artists": [
+        {
+          "name": "Paola & Chiara",
+          "url": "https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228885,
+      "name": "Furore",
+      "url": "https://open.spotify.com/track/126uno7VzFHCCL1FQI1vCO"
     },
     {
       "album": {
@@ -564,10 +582,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 166216,
       "name": "malibu",
       "url": "https://open.spotify.com/track/4p0o4pBoJPxYMXKhYbRzzw"
+    },
+    {
+      "album": {
+        "name": "malibu",
+        "url": "https://open.spotify.com/album/44sFwu9PaZJ0bVKT5JkdAd"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183410,
+      "name": "malibu",
+      "url": "https://open.spotify.com/track/34VtrzecYLVHKmcuuwGb8q"
     },
     {
       "album": {
@@ -608,10 +644,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 154000,
       "name": "mariposas",
       "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
+    },
+    {
+      "album": {
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/0GaIRDUkMJ6juvZU7D5cg8"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162674,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/7uGG7fssFM4BwW698xCpYg"
     },
     {
       "album": {
@@ -840,7 +898,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 180770,
       "name": "scossa",
       "url": "https://open.spotify.com/track/7MENCuP8CKhahYmLhludoR"
@@ -858,7 +916,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 181056,
       "name": "scossa",
       "url": "https://open.spotify.com/track/7aoU4HfD4yc1LhpyldWFtm"

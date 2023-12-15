@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap der holder det 100 / For Life: Jamaika 🚨
+> dk rap der holder det 100 / Merro8 🚨
 
-94 songs - 4 hr 1 min
+95 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baddies & Draris](https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Baddies & Draris](https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw) | 2:26 | 2023-09-21 | 2023-12-14 |
 | [Baggen](https://open.spotify.com/track/1I3SW3d0TGH1NWY0tfK4QH) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Baggen](https://open.spotify.com/album/1X7LxXRddLunOvIu3gXDTP) | 2:20 | 2023-11-10 |  |
 | [Balancen \(feat\. Kesi\)](https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:53 | 2023-10-12 |  |
+| [Barcelona](https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT) | [Volkan](https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox) | [Barcelona](https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h) | 2:00 | 2023-12-14 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 |  |
 | [Chocola](https://open.spotify.com/track/0ZtqiH3Law79itqfAzHApC) | [Sleiman](https://open.spotify.com/artist/2HTE5rhkzmNb4IiGrop13q), [AWADA](https://open.spotify.com/artist/08Mi8yWtTfL2aWlZIG135P) | [Chocola](https://open.spotify.com/album/6OEqU0UOYKlqn099nLP1oM) | 2:12 | 2023-11-10 |  |
 | [Company](https://open.spotify.com/track/6Nb9knmY0K5SXDU0IZRcGK) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI), [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Company](https://open.spotify.com/album/0wiQ5yItDLDmfKBxPlBFhR) | 2:24 | 2023-11-10 |  |

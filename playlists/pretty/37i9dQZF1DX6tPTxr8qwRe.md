@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Ellise
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,877 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,983 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 71 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
 | 72 | [B!TCH](https://open.spotify.com/track/2Nyv7f1EPb0orOAV358ipT) | [NIKI DEMAR](https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5) | [RUINED MY LIFE](https://open.spotify.com/album/3IN651OP5lN22mIlzqj9lt) | 2:59 |
 | 73 | [heartbreak in the hamptons](https://open.spotify.com/track/447l6JfZdDYsmHjrJLRvEh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [hell is a teenage girl](https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4) | 2:35 |
-| 74 | [Pretty Little Addict](https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8) | 2:47 |
+| 74 | [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 |
 | 75 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 
 Snapshot ID: `MCw5NDFmZGNlYzhjNTc2OGVlOWZkOThmY2EzYWYwOTA5MDg4NjVmZTdh`

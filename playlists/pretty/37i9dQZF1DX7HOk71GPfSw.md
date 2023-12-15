@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > he was a boy, i was a horse\. could that make it any more difficult.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,091 likes - 144 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,113 likes - 144 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: The Kentucky Gentlemen
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,835 likes - 128 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,848 likes - 128 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

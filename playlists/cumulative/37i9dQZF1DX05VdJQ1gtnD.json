@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Cape May",
+        "url": "https://open.spotify.com/album/0R1tZfJSsUmM0LOYppmziV"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162387,
+      "name": "Cape May",
+      "url": "https://open.spotify.com/track/77e7g7IzJHpk5hnwUguZIv"
+    },
+    {
+      "album": {
         "name": "Catamount Mountain",
         "url": "https://open.spotify.com/album/4qkR8LyWFPQ2dnnu0VPYxm"
       },
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 179277,
       "name": "Comings & Goings",
       "url": "https://open.spotify.com/track/04QYnXLbnPWSS2pgR0z1yZ"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 189550,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8"
@@ -3745,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "See It Through",
+        "url": "https://open.spotify.com/album/3VD0JGd9cvNWuMKFpIjlpq"
+      },
+      "artists": [
+        {
+          "name": "Oaktree Melodies",
+          "url": "https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/0ZlfrENWdpQyEsBfynIFGF"
+    },
+    {
+      "album": {
         "name": "Seven Trees",
         "url": "https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV"
       },
@@ -3994,7 +4030,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 211119,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/0K32rol95QOdpWtg2G7msF"

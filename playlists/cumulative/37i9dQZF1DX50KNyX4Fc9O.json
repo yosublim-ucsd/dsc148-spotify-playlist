@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Keep your finger on the pulse of pop. Cover: Alec Benjamin",
+  "description": "Keep your finger on the pulse of pop. Cover: Karol G",
   "name": "Pop n' Fresh",
   "tracks": [
     {
@@ -158,6 +158,28 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "album": {
+        "name": "5AM IN LONDON.",
+        "url": "https://open.spotify.com/album/57J1GeWv8VH6gm4gFWNsj0"
+      },
+      "artists": [
+        {
+          "name": "Trip",
+          "url": "https://open.spotify.com/artist/0hbVJum7eC65vjCpq5qw8j"
+        },
+        {
+          "name": "Jai Waetford",
+          "url": "https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216709,
+      "name": "5AM IN LONDON.",
+      "url": "https://open.spotify.com/track/4TOlBWTYnzVRtX8FQzo68j"
     },
     {
       "album": {
@@ -1036,7 +1058,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 171566,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P"
@@ -1855,6 +1877,28 @@
     },
     {
       "album": {
+        "name": "Deadly (feat. Victony)",
+        "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181979,
+      "name": "Deadly (feat. Victony)",
+      "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
+    },
+    {
+      "album": {
         "name": "Dear Emily",
         "url": "https://open.spotify.com/album/71FQ4dVP5oGNneDow9OFl8"
       },
@@ -1964,6 +2008,24 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180237,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K"
     },
     {
       "album": {
@@ -2788,7 +2850,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 251886,
       "name": "Faithfully",
       "url": "https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg"
@@ -2896,7 +2958,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 196356,
       "name": "fight or flight",
       "url": "https://open.spotify.com/track/4HLgLWqVYZTjCbakheLHW5"
@@ -3022,7 +3084,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 145420,
       "name": "Freaking Out",
       "url": "https://open.spotify.com/track/56ztBAdzbxjBn6CAea9wMq"
@@ -3639,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "Grown Woman",
+        "url": "https://open.spotify.com/album/3Zpdg1WMQqfWrf4sXAHxLJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310863,
+      "name": "Grown Woman",
+      "url": "https://open.spotify.com/track/2YrAC1ZW7G7jiZfz2tHoXw"
+    },
+    {
+      "album": {
         "name": "Analysis Paralysis",
         "url": "https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7"
       },
@@ -3940,7 +4020,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
@@ -5126,6 +5206,24 @@
     {
       "album": {
         "name": "Chasing Nirvana",
+        "url": "https://open.spotify.com/album/03ncM3EqWJCKOmfveoP5Kl"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176259,
+      "name": "It's All Over You",
+      "url": "https://open.spotify.com/track/3GKkksr23a0jJjQbRvs4Iw"
+    },
+    {
+      "album": {
+        "name": "Chasing Nirvana",
         "url": "https://open.spotify.com/album/6508WBT3t0ON8b5KBQL37m"
       },
       "artists": [
@@ -5136,7 +5234,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176259,
       "name": "It's All Over You",
       "url": "https://open.spotify.com/track/7hw3AFHSYdOFtVdplMWaIl"
@@ -5316,7 +5414,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176431,
       "name": "know that you're not alone",
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
@@ -5806,7 +5904,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 202520,
       "name": "Love Should Be Easy",
       "url": "https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO"
@@ -6185,6 +6283,28 @@
     },
     {
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "album": {
         "name": "Sorry I\u2019m Late",
         "url": "https://open.spotify.com/album/3WZfVdlY9ft0aRSsbiYSsa"
       },
@@ -6232,7 +6352,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 165746,
       "name": "Never Ever Love a Liar",
       "url": "https://open.spotify.com/track/4Y9ZFT6aD1PfZJHLZXi9EQ"
@@ -6333,6 +6453,28 @@
     },
     {
       "album": {
+        "name": "Not My Fault (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT"
+    },
+    {
+      "album": {
         "name": "Head Noise",
         "url": "https://open.spotify.com/album/149BiguXHjEMV5lwOUTiwe"
       },
@@ -6348,6 +6490,28 @@
       "duration_ms": 220170,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/3DRUVDeCVBtvhhVpQ2cJQp"
+    },
+    {
+      "album": {
+        "name": "NOTHING WRONG",
+        "url": "https://open.spotify.com/album/4JnbqQ7i2dHRxuye81bsYQ"
+      },
+      "artists": [
+        {
+          "name": "Kayps",
+          "url": "https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx"
+        },
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "NOTHING WRONG",
+      "url": "https://open.spotify.com/track/7xYpIPjCyI5eMtxGTOZnA5"
     },
     {
       "album": {
@@ -6424,6 +6588,24 @@
       "duration_ms": 208901,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/4K1n9wTnjshdk3IOHnwVt3"
+    },
+    {
+      "album": {
+        "name": "Oh No (Pt. 2)",
+        "url": "https://open.spotify.com/album/5Hnuvo0FsD2vgVPp8FHHEN"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248800,
+      "name": "Oh No (Pt. 2)",
+      "url": "https://open.spotify.com/track/7ppapk8LyD7fRS1KkOHyWw"
     },
     {
       "album": {
@@ -6518,6 +6700,28 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "album": {
+        "name": "One Of Your Girls (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2osZd5UmUxgyeQYN5Dr9bb"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183818,
+      "name": "One Of Your Girls - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/2g9QPGMEe9WTAMtvotuD1e"
     },
     {
       "album": {
@@ -7085,6 +7289,24 @@
     },
     {
       "album": {
+        "name": "QUE CHIMBA DE VIDA",
+        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123351,
+      "name": "QUE CHIMBA DE VIDA",
+      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH"
       },
@@ -7626,6 +7848,24 @@
       "duration_ms": 148742,
       "name": "Slap",
       "url": "https://open.spotify.com/track/0MWxdsMxd0K1ZniGeyJLmv"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228376,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
     },
     {
       "album": {
@@ -8462,7 +8702,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 192600,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5"
@@ -8654,7 +8894,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 239680,
       "name": "The Last One",
       "url": "https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ"
@@ -9195,6 +9435,24 @@
     },
     {
       "album": {
+        "name": "GORE",
+        "url": "https://open.spotify.com/album/18qf5tvWCzzhPauoKyJSTh"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148678,
+      "name": "unpredictable thinGs",
+      "url": "https://open.spotify.com/track/3pDAsFoenMVsbPFEkdGuXR"
+    },
+    {
+      "album": {
         "name": "Up in My Head",
         "url": "https://open.spotify.com/album/1ITFtENz4S2SXWRykPhiPq"
       },
@@ -9512,7 +9770,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 162191,
       "name": "WHAT JUST HAPPENED",
       "url": "https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J"

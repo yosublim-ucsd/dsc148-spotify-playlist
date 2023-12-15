@@ -4,7 +4,7 @@
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-105 songs - 5 hr 40 min
+106 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Christmas Dreaming](https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:47 | 2021-12-21 |  |
 | [Christmas Eve](https://open.spotify.com/track/4rQqEqdse1jmBQcMAMG9Pm) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Christmas For Lovers](https://open.spotify.com/album/0eyfxFNfrY9QYb8kcKKfVL) | 3:02 | 2022-11-10 | 2022-11-13 |
 | [Christmas Eve](https://open.spotify.com/track/7gXjaS8KmxBtsoyv6XNogg) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Let It Swing: A Jazz Christmas With Verve](https://open.spotify.com/album/2OVtgimkNWYBek4ue7gdL2) | 3:02 | 2021-12-21 | 2022-07-29 |
-| [Christmas Eve](https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:05 | 2021-12-21 |  |
+| [Christmas Eve](https://open.spotify.com/track/5sRb0r1wP7nK6dKQBxO197) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Have Yourself A Jazzy Little Christmas](https://open.spotify.com/album/5DBehOkzdmTBJ2m56Dk2sS) | 3:03 | 2023-12-13 |  |
+| [Christmas Eve](https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:05 | 2021-12-21 | 2023-12-15 |
 | [Christmas In Herald Square](https://open.spotify.com/track/4XJ9FZtkJxnzGyB6mVXgld) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:25 | 2021-12-21 | 2023-11-24 |
 | [Christmas in New York](https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z) | 2:57 | 2021-12-21 | 2022-07-29 |
 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 | 2021-12-21 |  |

@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: Palaye Royale
 
-2,032 songs - 4 day 11 hr 12 min
+2,033 songs - 4 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-01-20 | 2023-02-18 |
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-04 | 2022-05-28 |
 | [Cherry Wine](https://open.spotify.com/track/5zBN51NWoM9hAJPN8xpAfp) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Cherry Wine](https://open.spotify.com/album/5XpHk2AesKoVrTQGHEbTaz) | 3:15 | 2023-08-18 | 2023-09-16 |
-| [Chewed Up](https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s) | 2:34 | 2023-12-08 |  |
+| [Chewed Up](https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s) | 2:34 | 2023-12-08 | 2023-12-15 |
+| [Chewed Up](https://open.spotify.com/track/6hz0UeyredFZmDkfDvtEkU) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5ZUguAVzSt5Yz8toCv7KGX) | 2:34 | 2023-12-08 |  |
 | [Chewing Glass](https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Chewing Glass](https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv) | 3:01 | 2022-11-18 | 2023-02-11 |
 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-02 | 2023-06-24 |
 | [Choking](https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:07 | 2021-11-19 | 2022-01-29 |

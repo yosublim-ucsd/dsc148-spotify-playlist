@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Quantic
 
-793 songs - 2 day 0 hr 43 min
+794 songs - 2 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 | 2022-10-14 | 2023-06-08 |
 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 | 2020-06-02 | 2020-06-05 |
 | [The Chi](https://open.spotify.com/track/7dGRHEMO0oOLeaZhFa9qqx) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [The Chi](https://open.spotify.com/album/4jtY1Lg1gzf8IaUSYVuLyU) | 3:24 | 2021-06-25 | 2021-09-24 |
+| [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2023-12-14 |  |
 | [The Farmer](https://open.spotify.com/track/6E6BLeqT0pttSDS4OqP7e0) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [The Farmer](https://open.spotify.com/album/0x0EdZcQ8yFFD10KowmQSQ) | 3:17 | 2023-06-07 | 2023-07-11 |
 | [The Fool](https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Fool](https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H) | 4:12 | 2022-04-08 | 2022-09-30 |
 | [The Healer](https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [The Healer](https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI) | 5:52 | 2022-10-28 | 2023-04-24 |

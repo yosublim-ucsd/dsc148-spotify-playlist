@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stephenasmith/">Stephen A\. Smith</a>.
 
-50 songs - 3 hr 47 min
+51 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Lady](https://open.spotify.com/track/7sPLPOIORz3sLE2oNbpndr) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Whispers: Greatest Hits](https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp) | 5:07 | 2023-05-01 |  |
 | [Lean Back](https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [True Story](https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F) | 4:07 | 2023-05-01 |  |
 | [Loungin \(Who Do Ya Luv\)](https://open.spotify.com/track/0fKolf0hpjCwjTSLszadI8) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 3:46 | 2023-05-01 |  |
-| [Love Is The Icon](https://open.spotify.com/track/2CLbDTKEoN9Z8QhLnjC98n) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/3u3kSJCvZLdKq4kvSeMVs5) | 4:37 | 2023-05-01 |  |
+| [Love Is The Icon](https://open.spotify.com/track/2CLbDTKEoN9Z8QhLnjC98n) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/3u3kSJCvZLdKq4kvSeMVs5) | 4:37 | 2023-05-01 | 2023-12-15 |
+| [Love Is The Icon](https://open.spotify.com/track/3iWVmHlcMHnhq8SykLPkol) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 4:37 | 2023-05-01 |  |
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2023-05-01 |  |
 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 | 2023-05-01 |  |
 | [Mad](https://open.spotify.com/track/6Hn9Uc1mMNfqChXU3txNke) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman \(Bonus Track Edition\)](https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x) | 4:14 | 2023-05-01 |  |

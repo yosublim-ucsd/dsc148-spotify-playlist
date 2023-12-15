@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3ND264N08pv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ND264N08pv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ND264N08pv)
 
-### [Hardcore Rage 2023](https://open.spotify.com/playlist/37i9dQZF1DX3ND264N08pv)
+### [Hardcore Rage 2024](https://open.spotify.com/playlist/37i9dQZF1DX3ND264N08pv)
 
 > Hardcore and uptempo to get you pumped
 
-219 songs - 12 hr 24 min
+220 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Mad Masquerade](https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Mad Masquerade](https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud) | 3:47 | 2023-02-23 | 2023-06-23 |
 | [Magic](https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr) | [Noctyz](https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh) | [Magic](https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn) | 2:49 | 2023-10-16 |  |
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
+| [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 |  |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 | 2023-03-07 |
 | [MORE THAN HUMAN](https://open.spotify.com/track/3dKT1n8DfajEoMTyU3hMTU) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [MORE THAN HUMAN](https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF) | 2:53 | 2022-12-08 | 2022-12-25 |
@@ -220,7 +221,7 @@
 | [Warriors Of Valhalla](https://open.spotify.com/track/1uRTpjcx6qdbo9NPWosv8H) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Warriors Of Valhalla](https://open.spotify.com/album/4TQLZCdkZ4VRMy8U31vfMw) | 2:39 | 2023-06-22 |  |
 | [Wave of Destruction](https://open.spotify.com/track/2mTSCJKqM5TaZXxPdWALaP) | [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Runeforce](https://open.spotify.com/artist/7fzicDRhTE3rhGdO4ssCcH) | [Wave Of Destruction](https://open.spotify.com/album/7J4zZlQKZlAohMDKkGMwJ5) | 4:25 | 2023-09-01 | 2023-11-03 |
 | [We are Frenchcore](https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [We are Frenchcore](https://open.spotify.com/album/5RYJtjJ2BCCWg5SwMSbQkz) | 3:24 | 2023-05-15 | 2023-06-30 |
-| [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Broken Brains](https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8), [Mc Braincase](https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve) | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j) | 4:01 | 2023-10-06 |  |
+| [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Broken Brains](https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8), [Mc Braincase](https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve) | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j) | 4:01 | 2023-10-06 | 2023-12-15 |
 | [Welcome To My Nightmare](https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Welcome To My Nightmare](https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui) | 3:27 | 2023-09-21 |  |
 | [Without Respect](https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd) | [System of Fury](https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN) | [Without Respect](https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw) | 3:25 | 2023-06-26 |  |
 | [Woo](https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Woo](https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB) | 3:37 | 2023-08-24 |  |

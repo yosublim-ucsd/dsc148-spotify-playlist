@@ -4,7 +4,7 @@
 
 > It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video.
 
-169 songs - 9 hr 31 min
+170 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [GOODBYE](https://open.spotify.com/track/7G4yUa1qawOeOImIjDnjcf) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 2:49 | 2023-07-28 |  |
 | [Goodbye](https://open.spotify.com/track/50nZ2pvMssa7zcSI8ZgARe) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 4:16 | 2023-07-28 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2023-07-14 |  |
-| [Happy Together](https://open.spotify.com/track/5lsqoAqRnzpkDze5iy3VxL) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [Covers](https://open.spotify.com/album/6YsYS9U2ngTayFloBzJMoP) | 2:20 | 2023-08-18 |  |
+| [Happy Together](https://open.spotify.com/track/562I30eTR14zkJUpbhyJen) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [Covers](https://open.spotify.com/album/0lvzbJ2p5zTA4iwW5aNv7P) | 2:20 | 2023-08-22 |  |
+| [Happy Together](https://open.spotify.com/track/5lsqoAqRnzpkDze5iy3VxL) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [Covers](https://open.spotify.com/album/6YsYS9U2ngTayFloBzJMoP) | 2:20 | 2023-08-18 | 2023-12-15 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2023-07-14 |  |
 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 | 2023-07-28 |  |
 | [Hey Stephen \(Taylor’s Version\)](https://open.spotify.com/track/550erGcdD9n6PnwxrvYqZT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:14 | 2023-07-14 |  |

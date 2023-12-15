@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9369,
+  "num_followers": 9370,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,46 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+        },
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        },
+        {
+          "name": "xs",
+          "url": "https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8"
+        },
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "DSEL",
+          "url": "https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
+      "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
         "name": "School Rapper2 Team-battle Pt. 2",
         "url": "https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2"
       },
@@ -919,30 +959,6 @@
       "duration_ms": 164035,
       "name": "The Little Prince (Prod. Godic)",
       "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
-        "name": "School Rapper 2 Final",
-        "url": "https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE"
-      },
-      "artists": [
-        {
-          "name": "Rohann",
-          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
-        },
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 279884,
-      "name": "Lee Rohan (Prod. by Padi)",
-      "url": "https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -1039,46 +1055,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "Rohann",
-          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
-        },
-        {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        },
-        {
-          "name": "xs",
-          "url": "https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8"
-        },
-        {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
-        },
-        {
-          "name": "DSEL",
-          "url": "https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
-      "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
         "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
       },
@@ -1095,6 +1071,30 @@
       "duration_ms": 274493,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "School Rapper3 Final",
+        "url": "https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU"
+      },
+      "artists": [
+        {
+          "name": "Young Kay",
+          "url": "https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        }
+      ],
+      "duration_ms": 229467,
+      "name": "HERE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

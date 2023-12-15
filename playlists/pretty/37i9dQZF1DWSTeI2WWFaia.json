@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mark Battles",
-  "num_followers": 1617673,
+  "num_followers": 1617671,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-12-08 05:02:04",
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
+      },
+      "artists": [
+        {
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+        }
+      ],
+      "duration_ms": 162162,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
+    },
+    {
+      "added_at": "2023-12-08 05:02:04",
+      "album": {
         "name": "Flying High, Part 2",
         "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 177360,
       "name": "Vertigo (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
-    },
-    {
-      "added_at": "2023-12-08 05:02:04",
-      "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
-      },
-      "artists": [
-        {
-          "name": "Jourden",
-          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
     },
     {
       "added_at": "2023-12-08 05:02:04",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-12-08 05:02:04",
       "album": {
-        "name": "Flying High, Part 2",
-        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Phil Drummond (feat. Conway the Machine)",
-      "url": "https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra"
-    },
-    {
-      "added_at": "2023-12-08 05:02:04",
-      "album": {
         "name": "The Caliphate (feat. Vince Staples)",
         "url": "https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD"
       },
@@ -775,6 +755,42 @@
       "duration_ms": 230720,
       "name": "The Caliphate (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
+    },
+    {
+      "added_at": "2023-12-08 05:02:04",
+      "album": {
+        "name": "Flying High, Part 2",
+        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Phil Drummond (feat. Conway the Machine)",
+      "url": "https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra"
+    },
+    {
+      "added_at": "2023-12-08 05:02:04",
+      "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 108281,
+      "name": "Burning Desire",
+      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
     },
     {
       "added_at": "2023-12-08 05:02:04",
@@ -815,18 +831,22 @@
     {
       "added_at": "2023-12-08 05:02:04",
       "album": {
-        "name": "Burning Desire",
-        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+        "name": "No Pun Intended",
+        "url": "https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL"
       },
       "artists": [
         {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 108281,
-      "name": "Burning Desire",
-      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
+      "duration_ms": 194430,
+      "name": "No Pun Intended",
+      "url": "https://open.spotify.com/track/0G7ckZvVPFF8HSsz99i5Zv"
     },
     {
       "added_at": "2023-12-08 05:02:04",
@@ -855,26 +875,6 @@
       "duration_ms": 288018,
       "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
       "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
-    },
-    {
-      "added_at": "2023-12-08 05:02:04",
-      "album": {
-        "name": "No Pun Intended",
-        "url": "https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "No Pun Intended",
-      "url": "https://open.spotify.com/track/0G7ckZvVPFF8HSsz99i5Zv"
     },
     {
       "added_at": "2023-12-08 05:02:04",

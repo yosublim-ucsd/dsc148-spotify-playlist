@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 4 hr 56 min
+91 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Mind \(feat\. Kai\)](https://open.spotify.com/track/6ZpR2XFuQJSHAQwg9495KZ) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:02 | 2022-11-11 |  |
 | [Mon seul abri](https://open.spotify.com/track/47kSaGCROStUQFjMxVO9bl) | [Olivier Cheuwa](https://open.spotify.com/artist/2izAP4n3Cio3Yzh1g7v0XX) | [Mon idéal](https://open.spotify.com/album/5WqTxX9o3AxiheK4eOyGTR) | 3:36 | 2022-11-11 |  |
 | [Murder She Wrote](https://open.spotify.com/track/0GXVf8MuVWOlHmZuO2twqa) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/4xzY2KvcFofA9oKCGRb0LO) | 3:11 | 2022-11-11 | 2023-02-11 |
-| [Murder She Wrote](https://open.spotify.com/track/0tJBeqmWBj0xuqagXetkbl) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/0xkzaBfYdedCClL20VAvxW) | 3:11 | 2023-02-10 |  |
+| [Murder She Wrote](https://open.spotify.com/track/0tJBeqmWBj0xuqagXetkbl) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/0xkzaBfYdedCClL20VAvxW) | 3:11 | 2023-02-10 | 2023-12-15 |
+| [Murder She Wrote](https://open.spotify.com/track/5Vg4FhZIbx6z9wPHBlkG4h) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/6bWg6jalDjYDpabESVxM8F) | 3:11 | 2023-12-14 |  |
 | [No Strings](https://open.spotify.com/track/3tPvpGO4yTqpDuJIKnPRYv) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:00 | 2022-11-11 |  |
 | [Nonchalant](https://open.spotify.com/track/1bFkegc1VrmfYl26qeTWAl) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 1:27 | 2022-11-11 |  |
 | [Not Worth It](https://open.spotify.com/track/0eSx5b1VuqB8ncSmXdhCpV) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:06 | 2022-11-11 |  |

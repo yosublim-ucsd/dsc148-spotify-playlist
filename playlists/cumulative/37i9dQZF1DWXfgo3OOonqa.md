@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,300 songs - 2 day 9 hr 16 min
+1,301 songs - 2 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [HIT](https://open.spotify.com/track/6cxsZBG6pyWdwFvsuvRLcN) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [HIT](https://open.spotify.com/album/5H1qCWg1kaLodR8GAPlhkr) | 2:29 | 2022-07-14 | 2022-09-23 |
 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 | 2023-10-19 |  |
 | [Hold Me Down](https://open.spotify.com/track/2QiljLrPi93yW7X9zegdKo) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Hold Me Down](https://open.spotify.com/album/0XqSpgSZzeCS9PwW7qWwV5) | 2:28 | 2022-12-15 | 2023-03-04 |
+| [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 | 2023-12-14 |  |
 | [Homicide](https://open.spotify.com/track/1Vnuzbfuj8WCwK5QWEBKZD) | [Artie](https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE) | [Homicide](https://open.spotify.com/album/2XIuHPp2PdrbKjD6COSolz) | 2:48 | 2023-05-25 | 2023-06-09 |
 | [Homicide](https://open.spotify.com/track/2jPC7jcDhcPmj5vv9B2liZ) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [Homicide](https://open.spotify.com/album/3LgXFc6nP5eIqMvOYgMlE6) | 2:13 | 2021-12-16 | 2022-01-28 |
 | [Hon](https://open.spotify.com/track/1IyG8EmcVtbT5eE1el0axQ) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it), [FI:VO](https://open.spotify.com/artist/58ENnwqOR5abhgrvdUvquj) | [Hon](https://open.spotify.com/album/27hPDytpaHMDgonTekAQX5) | 2:58 | 2022-08-12 | 2022-08-26 |

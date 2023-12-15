@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Arlo Parks",
+  "description": "The home of the best new alternative music. Cover: Softcult",
   "name": "The Other List",
   "tracks": [
     {
@@ -7032,7 +7032,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 220515,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/1l8JstRdpupds1kZgWT4Hg"
@@ -7360,7 +7360,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 164514,
       "name": "Dang",
       "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
@@ -9400,7 +9400,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 211885,
       "name": "Eat My Words",
       "url": "https://open.spotify.com/track/19hDkmzEGBksfhsi68kDn1"
@@ -9524,6 +9524,24 @@
       "duration_ms": 184329,
       "name": "ELON",
       "url": "https://open.spotify.com/track/3hxjq9GcQn1jPVySDlWsdz"
+    },
+    {
+      "album": {
+        "name": "Emily G",
+        "url": "https://open.spotify.com/album/5Lz8IXtAaMhNfPO0b6eKia"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347195,
+      "name": "Emily G",
+      "url": "https://open.spotify.com/track/2I1GaaBS6JWn2ZfsCUkoxp"
     },
     {
       "album": {
@@ -10588,7 +10606,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 198354,
       "name": "Fingerlickin' Goodness",
       "url": "https://open.spotify.com/track/2QyDW2O9bISuK7nvZEeeMY"
@@ -11510,7 +11528,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 302578,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
@@ -12636,7 +12654,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 259812,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2EonwBGjylKZocutExSRzY"
@@ -12778,7 +12796,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 242362,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/2Hgtu5s75EqH0skGGdICIr"
@@ -13809,6 +13827,24 @@
     },
     {
       "album": {
+        "name": "heartbreak is silent",
+        "url": "https://open.spotify.com/album/3EHSo6UsZCgs9vbBrXA70p"
+      },
+      "artists": [
+        {
+          "name": "WILDES",
+          "url": "https://open.spotify.com/artist/0ypTT9UqAU5sZpPo5JZmjR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191597,
+      "name": "heartbreak is silent",
+      "url": "https://open.spotify.com/track/3bN0fbBuwGHAXKrFNbyvE3"
+    },
+    {
+      "album": {
         "name": "Heartquake",
         "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
@@ -13864,6 +13900,24 @@
       "duration_ms": 154451,
       "name": "heaven",
       "url": "https://open.spotify.com/track/5C1fqZBORhw6rLvqG0dDdp"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241638,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE"
     },
     {
       "album": {
@@ -15522,6 +15576,24 @@
       "duration_ms": 199062,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
+    },
+    {
+      "album": {
+        "name": "WHILE YOU WAIT",
+        "url": "https://open.spotify.com/album/3vG0J5QUzyQZOeLXahe8IM"
+      },
+      "artists": [
+        {
+          "name": "Monjola",
+          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184070,
+      "name": "I'll BE THERE",
+      "url": "https://open.spotify.com/track/3EP4ZYi6GOHAaZCCrRy6zY"
     },
     {
       "album": {
@@ -23391,6 +23463,28 @@
     },
     {
       "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/0Xu17UGt6rn4ViWJTQnwTe"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        },
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208702,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4Z8Q1ysqqdTYDr7yyP3ONx"
+    },
+    {
+      "album": {
         "name": "Party Sickness",
         "url": "https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf"
       },
@@ -25159,6 +25253,24 @@
     },
     {
       "album": {
+        "name": "Religion for One",
+        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199727,
+      "name": "Religion for One",
+      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
+    },
+    {
+      "album": {
         "name": "reload",
         "url": "https://open.spotify.com/album/0UnY2rJpvRlNh1E0VbsBnY"
       },
@@ -25770,6 +25882,24 @@
       "duration_ms": 175186,
       "name": "Rough Mercy",
       "url": "https://open.spotify.com/track/1OR0bmfkATADJ4NCkg8Zxv"
+    },
+    {
+      "album": {
+        "name": "ROUND HERE",
+        "url": "https://open.spotify.com/album/66Kdoqkhg6iT6lNJrspv56"
+      },
+      "artists": [
+        {
+          "name": "Finn Foxell",
+          "url": "https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "ROUND HERE",
+      "url": "https://open.spotify.com/track/3NvTqpuCU4AW7XTCGekj8l"
     },
     {
       "album": {
@@ -30216,7 +30346,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 162161,
       "name": "Take a Look at My Tongue",
       "url": "https://open.spotify.com/track/4SGCxKyg67fbzDFw0NmBD0"
@@ -32232,6 +32362,24 @@
       "duration_ms": 211153,
       "name": "This Is Gonna Hurt",
       "url": "https://open.spotify.com/track/5gDFQs6TYDevsUq7lDN0Fp"
+    },
+    {
+      "album": {
+        "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/1tghmd68kDvjfM9zf0obnm"
+      },
+      "artists": [
+        {
+          "name": "VLURE",
+          "url": "https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196761,
+      "name": "This Is Not The End",
+      "url": "https://open.spotify.com/track/20OZFpJWz3ojDCNKfIbrmx"
     },
     {
       "album": {

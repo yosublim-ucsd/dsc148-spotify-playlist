@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Agua Helada",
+      "url": "https://open.spotify.com/track/7lRfKTQ0wVYEvkPHfn0qws"
+    },
+    {
+      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },

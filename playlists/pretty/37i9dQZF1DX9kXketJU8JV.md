@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kXketJU8JV.md) - [plain]
 
 > 受験本番へ。努力のすべては、出し切れる。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,739 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,010 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:5Sae4YeLcFZ1P75vhzUDrp">piazzabologna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,187 likes - 37 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,190 likes - 37 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

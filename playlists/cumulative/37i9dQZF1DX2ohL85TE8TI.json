@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: CASTAWAY DIVA(\ubb34\uc778\ub3c4\uc758 \ub514\ubc14)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: A Good Day to be a Dog(\uc624\ub298\ub3c4 \uc0ac\ub791\uc2a4\ub7fd\uac1c)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "Korean OSTs",
   "tracks": [
     {
@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Soundtrack #2: Vol. 1",
+        "url": "https://open.spotify.com/album/3I4gPQQ9JMsM5lNEsTFurJ"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "Can We Go Back To The Good Old Days",
+      "url": "https://open.spotify.com/track/0Tk3i4zjMKNbD5xvOXKIii"
+    },
+    {
+      "album": {
         "name": "The Forbidden Marriage, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/18VCgh64atR5QRwlV6fyEh"
       },
@@ -3277,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Moon in the day, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3lPWY7gF6Nkwbd3rrQiBwZ"
+      },
+      "artists": [
+        {
+          "name": "XIA",
+          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204053,
+      "name": "Everything of Us",
+      "url": "https://open.spotify.com/track/6GZdBkrKNN2eD6TbKLFzFv"
+    },
+    {
+      "album": {
         "name": "The Escape of the Seven OST Part.1",
         "url": "https://open.spotify.com/album/3Uv6LiZNT7I2hLKVQBK6SS"
       },
@@ -4388,7 +4424,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 227253,
       "name": "History and Mystery",
       "url": "https://open.spotify.com/track/5LdGNC63ufqSFe4RauOToR"
@@ -5279,6 +5315,24 @@
     },
     {
       "album": {
+        "name": "The Matchmakers OST Part.4",
+        "url": "https://open.spotify.com/album/652wRvL6hsZZjJjEyfCS5p"
+      },
+      "artists": [
+        {
+          "name": "BO RA (Cherry Bullet)",
+          "url": "https://open.spotify.com/artist/6s6Nq0B0SbJViFZ3R6B691"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243253,
+      "name": "I'm afraid love will come again",
+      "url": "https://open.spotify.com/track/3txb1pa6m3bYVBZMZv2GD5"
+    },
+    {
+      "album": {
         "name": "Crazy Love (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/46l3dmaoKKZey0eBG9whW1"
       },
@@ -5954,7 +6008,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 205920,
       "name": "I\u2019ll Embrace Your Past",
       "url": "https://open.spotify.com/track/068TBg8PXTiiTmPogHDQRi"
@@ -6182,7 +6236,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 212106,
       "name": "Keep Me Busy",
       "url": "https://open.spotify.com/track/6RQJn6zIOXt57vvkT1bjSc"
@@ -7166,7 +7220,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 177600,
       "name": "love condition",
       "url": "https://open.spotify.com/track/6HcbotM1ErtNzmT3zuiwKj"
@@ -10887,6 +10941,28 @@
     },
     {
       "album": {
+        "name": "Sunday Latte (from \"A Good Day to be a Dog\" Original Television Sountrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Jea",
+          "url": "https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Sunday Latte",
+      "url": "https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY"
+    },
+    {
+      "album": {
         "name": "Woori The Virgin, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/09jEbMGUNe8el2xPyJrhDj"
       },
@@ -12008,6 +12084,24 @@
       "duration_ms": 210810,
       "name": "True Color",
       "url": "https://open.spotify.com/track/1EBn3dURVMbwLixhAF1QMr"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267040,
+      "name": "try not to cry",
+      "url": "https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb"
     },
     {
       "album": {
@@ -13610,7 +13704,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 272946,
       "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
       "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"

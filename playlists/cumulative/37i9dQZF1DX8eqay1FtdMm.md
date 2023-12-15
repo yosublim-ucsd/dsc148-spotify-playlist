@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: BMK\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: PARK WON\(박원\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-461 songs - 1 day 6 hr 2 min
+462 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 |  |
 | [After Summer](https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [After Summer](https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5) | 3:15 | 2021-12-20 | 2022-07-27 |
 | [After the uphill road](https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: After the uphill road](https://open.spotify.com/album/5rDdHRH0w9dNSnbUnaLPXF) | 4:16 | 2022-12-19 | 2023-01-11 |
-| [After this night](https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4) | 4:16 | 2023-07-11 |  |
+| [After this night](https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4) | 4:16 | 2023-07-11 | 2023-12-15 |
 | [All about you](https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel Del Luna OST Part.3](https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR) | 3:29 | 2021-12-20 | 2022-07-29 |
 | [All I Have is My Heart](https://open.spotify.com/track/3VqPDP2g1wR8F0J4utm3yX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Ghost Doctor, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Y9r0IoRE4uftS7lSprK8e) | 3:17 | 2022-01-27 | 2022-04-21 |
 | [All is you](https://open.spotify.com/track/5nTJoIraxw2S0Bp5LEqGbk) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [All is you](https://open.spotify.com/album/10pOd9mtldRpC7tbHNz6WS) | 4:27 | 2022-04-01 | 2022-04-21 |
@@ -300,6 +300,7 @@
 | [Orpheus \(Feat\. Jo Gwangil\)](https://open.spotify.com/track/77pO7md3F2lmlXioPzNY0q) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj), [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY) | [First of all](https://open.spotify.com/album/55BqAH8rp3OjiisTNm7de1) | 3:51 | 2022-11-23 | 2022-12-25 |
 | [Our Song](https://open.spotify.com/track/7wlxkkC6PM8PknUiQIFAVE) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [Let's Meet up Now](https://open.spotify.com/album/1CeHxf4K2yyRTGSqgxqJTe) | 4:17 | 2022-03-24 | 2022-04-25 |
 | [Our unrequited love story \(Korean Ver.\)](https://open.spotify.com/track/4bAtJo9xcOBlWO6nAxbkRZ) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Our unrequited love story](https://open.spotify.com/album/0suBDEQUPriV1qzaWkfjX2) | 3:35 | 2023-12-01 | 2023-12-14 |
+| [Over the window \(feat\. Paul Kim\)](https://open.spotify.com/track/1TsMSWZHdljgsgIqAH7JuT) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Over the window](https://open.spotify.com/album/3JKlj3W1hKvqICDM3pGXPF) | 4:01 | 2023-12-14 |  |
 | [Paindrops](https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [Tiny Bits of Life Part.7](https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv) | 4:22 | 2022-03-29 | 2022-04-15 |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2021-12-20 |  |
 | [Poem for you](https://open.spotify.com/track/7FTA2rnH392cty5UFNS8gg) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Old story](https://open.spotify.com/album/17n1MjwV3qBfhgjeixlUHE) | 3:39 | 2021-12-27 | 2022-07-29 |

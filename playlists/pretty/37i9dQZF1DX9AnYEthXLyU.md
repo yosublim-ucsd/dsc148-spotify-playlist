@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnYEthXLyU.md) - [plain]
 
 > when things just feel heavy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,776 likes - 56 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,797 likes - 56 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

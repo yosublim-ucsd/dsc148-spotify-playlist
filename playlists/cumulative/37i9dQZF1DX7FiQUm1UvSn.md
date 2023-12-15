@@ -4,7 +4,7 @@
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-128 songs - 6 hr 49 min
+129 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 | 2023-06-08 |  |
 | [All Shook Up](https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [All Shook Up](https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR) | 1:44 | 2023-01-13 | 2023-05-12 |
 | [Angel](https://open.spotify.com/track/7lSdBy34Oxd06fK4KlaXVj) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Angel](https://open.spotify.com/album/6PzZNFS1QaobNN9MrnRDJh) | 3:15 | 2023-05-12 |  |
+| [Annie's Song](https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG) | [Cameron Payne](https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi) | [Annie's Song](https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX) | 2:47 | 2023-12-15 |  |
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2023-01-13 |  |
 | [apologize](https://open.spotify.com/track/2UQJXhcg7d7pY80VMknAUs) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [apologize](https://open.spotify.com/album/5nuhZCXLzUKCcknWkmsFS7) | 2:58 | 2023-03-10 |  |
 | [As It Was](https://open.spotify.com/track/3lC9XokJGOOH41srH9kg2x) | [Killian Turner](https://open.spotify.com/artist/5P5rNoaQffJDfUUTPNWKH5) | [As It Was](https://open.spotify.com/album/0mU1KA0IX9tn2lR1gSyNUB) | 3:46 | 2023-01-13 | 2023-09-02 |

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 142703,
+  "num_followers": 142730,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "D\u00e9pass\u00e9",
+      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "Un jour, je",
         "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 165557,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Dure limite (Remasteris\u00e9 en 2015)",
-        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9phone",
-          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Cendrillon - Remasteris\u00e9 en 2015",
-      "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+        "name": "Dure limite (Remasteris\u00e9 en 2015)",
+        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
       },
       "artists": [
         {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+          "name": "T\u00e9l\u00e9phone",
+          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
         }
       ],
-      "duration_ms": 173266,
-      "name": "D\u00e9pass\u00e9",
-      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+      "duration_ms": 238546,
+      "name": "Cendrillon - Remasteris\u00e9 en 2015",
+      "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "\u00c9ph\u00e9m\u00e8re",
         "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 225240,
       "name": "Tailler la route",
       "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "La vie ne vaut rien",
-      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "La R\u00e9alit\u00e9",
         "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 232440,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "La vie ne vaut rien",
+      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Derri\u00e8re l'amour",
-        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
       },
       "artists": [
         {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
+      "duration_ms": 196693,
+      "name": "Les choses qu'on fait",
+      "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+        "name": "Derri\u00e8re l'amour",
+        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
       },
       "artists": [
         {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
         }
       ],
-      "duration_ms": 196693,
-      "name": "Les choses qu'on fait",
-      "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
+      "duration_ms": 173733,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Tout savoir",
-        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e9",
-          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Tout savoir",
-      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "L'instant d'apr\u00e8s",
         "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 326186,
       "name": "Un \u00e9t\u00e9 fran\u00e7ais",
       "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Tout savoir",
+        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Tout savoir",
+      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
     },
     {
       "added_at": "2023-11-16 16:29:20",

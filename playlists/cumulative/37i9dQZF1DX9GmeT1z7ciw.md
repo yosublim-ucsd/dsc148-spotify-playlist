@@ -4,7 +4,7 @@
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-75 songs - 4 hr 9 min
+76 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2023-09-07 |  |
 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2023-10-19 | 2023-11-10 |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2023-09-07 |  |
+| [BROKEN GAMES \- Remix](https://open.spotify.com/track/55QWScNHZIgJ6qXJc4ICGh) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [BROKEN GAMES \(Remix\)](https://open.spotify.com/album/4vmmbgywov4RSGDKbzr86D) | 3:15 | 2023-12-14 |  |
 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 | 2023-10-03 | 2023-12-01 |
 | [Burn the System](https://open.spotify.com/track/1iyCbqo9UgeLCVYo867Nol) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Untopia](https://open.spotify.com/album/11xqOdJhWSMrVgds4m5gLY) | 4:49 | 2023-09-07 | 2023-10-04 |
 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 | 2023-09-07 |  |
@@ -69,7 +70,7 @@
 | [STFU!](https://open.spotify.com/track/2S3KvNGyadSvbSr2C1JpDB) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN) | 3:23 | 2023-09-07 |  |
 | [Survive!](https://open.spotify.com/track/0IRT1uu2f4spuVnw8Bh27f) | [Discavil](https://open.spotify.com/artist/0H6SzT0325flzVvef2vquM), [金富烈](https://open.spotify.com/artist/4oh6YxbjbSjod1g0iomHqf) | [Across End of the Century](https://open.spotify.com/album/7ir50CIZIV44ZKBiZVRwP0) | 6:46 | 2023-11-09 | 2023-11-29 |
 | [SYOKISHODO](https://open.spotify.com/track/08JA6xRSgOcycZ94PqzJoE) | [HIKAGE](https://open.spotify.com/artist/5GmWKtZuqNYrBrrHlhY9DO) | [SYOKISHODO](https://open.spotify.com/album/7nchzTfUv6iZxjSFvWj3Yr) | 3:08 | 2023-09-07 | 2023-09-29 |
-| [Underneath](https://open.spotify.com/track/6QgBcizFhhAywXr1Er0TAo) | [Falling Asleep](https://open.spotify.com/artist/10ieHOzetJ5VD9IBD1flWx) | [HEAVEN'S WHERE OUR SOULS BELONG](https://open.spotify.com/album/7g3nYJsl25536GHWALEpJn) | 3:37 | 2023-09-07 |  |
+| [Underneath](https://open.spotify.com/track/6QgBcizFhhAywXr1Er0TAo) | [Falling Asleep](https://open.spotify.com/artist/10ieHOzetJ5VD9IBD1flWx) | [HEAVEN'S WHERE OUR SOULS BELONG](https://open.spotify.com/album/7g3nYJsl25536GHWALEpJn) | 3:37 | 2023-09-07 | 2023-12-15 |
 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 | 2023-09-07 |  |
 | [Voyuer](https://open.spotify.com/track/714b2diY0lAC23l1UwucEg) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [Voyuer](https://open.spotify.com/album/68prMgrp45QL4qb8tlBQ24) | 3:49 | 2023-09-07 | 2023-10-04 |
 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 | 2023-12-12 |  |

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Feyjão, Silva
 
-519 songs - 1 day 1 hr 45 min
+520 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Cofre](https://open.spotify.com/track/4p9aBRtgLpwtrfXRNubECr) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Cofre](https://open.spotify.com/album/5TLAQQvsUK7W9jKfPnbw6d) | 3:19 | 2023-09-15 | 2023-09-30 |
 | [Coisa Boa](https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 2:19 | 2023-07-21 | 2023-11-07 |
 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 | 2022-05-13 | 2022-10-11 |
-| [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 | 2023-03-06 |  |
+| [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 | 2023-03-06 | 2023-12-15 |
+| [Coisas De Você](https://open.spotify.com/track/7ngk2XR1c7NrDwVhjcdf0X) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/2xBdXe7N6E8TkjXGxsvsO4) | 3:17 | 2023-12-08 |  |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Releituras](https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM) | 2:58 | 2023-03-24 |  |
 | [colorida](https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [JOVEM \(DELUXE\)](https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M) | 2:54 | 2023-11-24 |  |
 | [Como cê tá?](https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Friozinho](https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5) | 2:44 | 2023-06-30 |  |

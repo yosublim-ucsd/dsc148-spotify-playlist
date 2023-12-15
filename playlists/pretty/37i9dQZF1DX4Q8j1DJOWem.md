@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ไฮไลท์ปี 2023 เพลย์ลิสต์ RADAR Thailand\. ศิลปิน: PURPEECH
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,410 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,416 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

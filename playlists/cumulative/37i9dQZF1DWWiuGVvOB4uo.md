@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-292 songs - 15 hr 57 min
+294 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 | 2022-12-02 |  |
 | [Always Be My Baby](https://open.spotify.com/track/7tvUpiHnjjkBA8BbMwCwTs) | [Luke Antony](https://open.spotify.com/artist/6W6FBsdtIeUFTHE3e9ZsHI) | [Always Be My Baby](https://open.spotify.com/album/6qGIYcVJnlz3D32wqAJ6Qz) | 4:00 | 2022-09-29 |  |
 | [Angel](https://open.spotify.com/track/7lSdBy34Oxd06fK4KlaXVj) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Angel](https://open.spotify.com/album/6PzZNFS1QaobNN9MrnRDJh) | 3:15 | 2023-05-12 |  |
+| [Annie's Song](https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG) | [Cameron Payne](https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi) | [Annie's Song](https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX) | 2:47 | 2023-12-15 |  |
 | [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-08-26 | 2023-01-20 |
 | [Anti\-Hero](https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Anti\-Hero](https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9) | 3:19 | 2022-12-02 |  |
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2022-08-26 |  |
@@ -32,7 +33,7 @@
 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 | 2023-08-08 |  |
 | [Back To You](https://open.spotify.com/track/3y3nLykfrbL6zCLmfMNQVg) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Back To You](https://open.spotify.com/album/1o6Z13Usl6t73yQTLRVby7) | 3:35 | 2022-08-26 | 2023-05-12 |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-08-26 |  |
-| [Barbie Girl](https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9) | [Jill & Jane](https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG) | [Barbie Girl](https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD) | 2:50 | 2023-08-08 |  |
+| [Barbie Girl](https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9) | [Jill & Jane](https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG) | [Barbie Girl](https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD) | 2:50 | 2023-08-08 | 2023-12-15 |
 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 | 2022-08-26 | 2023-05-12 |
 | [Beautiful Mistakes \- Acoustic](https://open.spotify.com/track/0pXzUDxuD3DvVNYILK8MjE) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Beautiful Mistakes \(Acoustic\)](https://open.spotify.com/album/01di81nQaDVDEQO8epsg7M) | 3:03 | 2022-08-26 |  |
 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 | 2022-08-26 |  |
@@ -50,6 +51,7 @@
 | [Body like backroad](https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Body like backroad](https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO) | 2:48 | 2022-12-02 |  |
 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 | 2022-08-26 |  |
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2022-12-23 |  |
+| [Breathless](https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Breathless](https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn) | 2:46 | 2023-12-15 |  |
 | [Brief and Beautiful](https://open.spotify.com/track/7MOGp0X4VUfsvlZQFpKVhY) | [Fahrenhaidt](https://open.spotify.com/artist/36YkPEVyrGPidekkTErnko) | [Memories of Tomorrow](https://open.spotify.com/album/16gAW8RYGRjjHqUfedNpHY) | 3:39 | 2022-08-26 | 2023-02-03 |
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2022-08-26 |  |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-08-26 | 2023-09-01 |

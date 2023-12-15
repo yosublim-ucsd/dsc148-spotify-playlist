@@ -1,6 +1,6 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 846613,
+  "num_followers": 846642,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 219013,
       "name": "Don't Go Far",
       "url": "https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Do It All Again",
-        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Do It All Again",
-      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 192000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bare",
-        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 257582,
-      "name": "Awake Me",
-      "url": "https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ"
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 230589,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "For The Company",
         "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 221706,
       "name": "Seven Hours",
       "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 230589,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
       "artists": [
         {
@@ -1300,9 +1300,9 @@
           "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
+      "duration_ms": 257582,
+      "name": "Awake Me",
+      "url": "https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Hanging",
-        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Hanging",
-      "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Violence in a Quiet Mind",
         "url": "https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 181200,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/26eylodAJLTp1GkG4Q7wNy"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Hanging",
+        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 233680,
+      "name": "Hanging",
+      "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Shiftshaping",
-        "url": "https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 221076,
-      "name": "Shiftshaping",
-      "url": "https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 206669,
       "name": "Arc - Stripped",
       "url": "https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Overlook",
+        "url": "https://open.spotify.com/album/3UAI3FHdoMIdFDK0Pwb4Cd"
+      },
+      "artists": [
+        {
+          "name": "Jack Bradley Vaught",
+          "url": "https://open.spotify.com/artist/5wblMUnLVqEef2mIpuiDED"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "Overlook",
+      "url": "https://open.spotify.com/track/6gsZ2naKRWRnadouOtpcNt"
     }
   ],
   "unique_name": "Chill + Atmospheric",

@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Problem Patterns
 
-206 songs - 10 hr 16 min
+207 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 | 2022-12-02 | 2023-01-19 |
 | [No Guilt](https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [No Guilt](https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9) | 2:04 | 2023-11-13 |  |
 | [No One to Judge Me](https://open.spotify.com/track/3caRPcZ7eOYhxvgIsiVEQe) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings \(Deluxe\)](https://open.spotify.com/album/01qHqKXqAp9103BTmj4J1A) | 2:41 | 2022-12-02 | 2023-02-05 |
-| [Off The Rails](https://open.spotify.com/track/5kmBAp1D2G0vNZUdbXu0vM) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Off The Rails](https://open.spotify.com/album/3HV7no3piIbAJsyfpSpb3l) | 2:41 | 2023-08-23 |  |
+| [Off The Rails](https://open.spotify.com/track/5kmBAp1D2G0vNZUdbXu0vM) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Off The Rails](https://open.spotify.com/album/3HV7no3piIbAJsyfpSpb3l) | 2:41 | 2023-08-23 | 2023-12-15 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-12-02 | 2023-11-18 |
 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-12-02 |  |
 | [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 | 2022-12-02 | 2023-05-11 |
@@ -153,6 +153,7 @@
 | [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 | 2023-08-23 |  |
 | [Phone Machine](https://open.spotify.com/track/5zTi9uSGOjdjN5N9bB56tI) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Phone Machine](https://open.spotify.com/album/7gP0mw9vv2bouxi3a5pgI5) | 2:37 | 2023-09-22 |  |
 | [Piece of Me](https://open.spotify.com/track/4WlZkSjQ0ZJlZfhwVcQmXB) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Piece of Me](https://open.spotify.com/album/06LTuc8p6IdzP0lGil2aCZ) | 3:06 | 2023-11-13 |  |
+| [Punk's Dead](https://open.spotify.com/track/0aiJF3M2Tj5iHfQSmvR943) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/7rhKQg4KTvDZZguZEX3YA9) | 3:12 | 2023-11-13 |  |
 | [Punk's Dead](https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/26CBoch8r0WmpjOYQedOnM) | 3:12 | 2023-08-23 | 2023-12-14 |
 | [Put On Dog](https://open.spotify.com/track/2q6l5suoodd4GWSDoLnMdG) | [THUS LOVE](https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl) | [Put On Dog](https://open.spotify.com/album/0GYRu2d493XVadeoJjxfAR) | 4:07 | 2023-11-13 |  |
 | [Raised By Wolves](https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:01 | 2023-03-03 | 2023-11-18 |

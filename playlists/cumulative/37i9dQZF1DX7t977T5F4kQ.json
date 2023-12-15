@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 177693,
       "name": "Amina",
       "url": "https://open.spotify.com/track/4ZSjfHkPNAB1ywr4yW72fS"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 268277,
       "name": "Been A Fool For You",
       "url": "https://open.spotify.com/track/0KL0cCn54gGCggbKFtT3Sb"
@@ -1981,6 +1981,50 @@
     },
     {
       "album": {
+        "name": "Gangalia",
+        "url": "https://open.spotify.com/album/5ZGwOAQ8uKjQ1MtOrTaFpQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228745,
+      "name": "Gangalia",
+      "url": "https://open.spotify.com/track/0BBb5pPkfSWpf6HjEM398B"
+    },
+    {
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/6zJfi1Ey442LFULpxma6vS"
+      },
+      "artists": [
+        {
+          "name": "Demmi",
+          "url": "https://open.spotify.com/artist/2lF5l1MCyqNj4WyBE4Jopk"
+        },
+        {
+          "name": "The Ganyo",
+          "url": "https://open.spotify.com/artist/1XRErztmwGC9jKhzkxLlJx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148490,
+      "name": "Gbemidebe",
+      "url": "https://open.spotify.com/track/7GnTsvc6WXJLnc94DT8wCG"
+    },
+    {
+      "album": {
         "name": "Gboza",
         "url": "https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5"
       },
@@ -2202,7 +2246,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 180000,
       "name": "Heart",
       "url": "https://open.spotify.com/track/2HNTbsyt01LxsNYt4KT34x"
@@ -2464,6 +2508,24 @@
       "duration_ms": 178000,
       "name": "Jo 'Dance",
       "url": "https://open.spotify.com/track/4ja7B6pvvdV0GKXzsDZR2C"
+    },
+    {
+      "album": {
+        "name": "Joo",
+        "url": "https://open.spotify.com/album/7kgD44Ey7k9NQDygaUO28K"
+      },
+      "artists": [
+        {
+          "name": "Moffy",
+          "url": "https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163467,
+      "name": "Joo",
+      "url": "https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-276 songs - 17 hr 8 min
+277 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-18 | 2023-06-02 |
 | [Don't Wanna Fight](https://open.spotify.com/track/5nO2FV3svLJtslwjKFw30m) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Don't Wanna Fight](https://open.spotify.com/album/0Gcs5fEjawL4ReXJADECtN) | 4:39 | 2023-12-05 |  |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-10-16 | 2023-01-11 |
-| [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz) | 3:28 | 2023-11-14 |  |
+| [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz) | 3:28 | 2023-11-14 | 2023-12-15 |
 | [doze off](https://open.spotify.com/track/0nkqg2Sf2dtOYcLwkIcMWZ) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [doze off](https://open.spotify.com/album/3MsQs4mgM7rNanS8Eh1T6b) | 3:43 | 2022-10-16 | 2023-01-13 |
 | [doze off](https://open.spotify.com/track/2fHgtQ0Uys5yGW8EaAimw2) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:44 | 2022-11-08 | 2022-11-13 |
 | [Dreamin' of You](https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Dreamin' of You](https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk) | 3:08 | 2023-05-09 | 2023-07-05 |
@@ -264,6 +264,7 @@
 | [ブルーワンダー](https://open.spotify.com/track/6nXfMNZEVy7F4kDGahfJm7) | [ERWIT](https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl) | [ブルーワンダー](https://open.spotify.com/album/2sTCnK7Omn6Fqym82oxurH) | 2:45 | 2023-10-17 |  |
 | [ミアネ](https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 3:35 | 2023-01-31 | 2023-04-14 |
 | [伝えたい](https://open.spotify.com/track/5PMH2m73WhuCs10kw0s2Bz) | [中川理沙](https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO) | [動物の庭](https://open.spotify.com/album/42oeZcCANlpXLzGq1nAunm) | 4:45 | 2023-10-03 | 2023-11-16 |
+| [口笛吹き](https://open.spotify.com/track/57UWIPgkW7K5F2t50owYCw) | [北里彰久](https://open.spotify.com/artist/6XwlOVm6zIIx9ZdSHnLOHu) | [砂の時間 水の街](https://open.spotify.com/album/3BtnonIRUlwSH8xuGTuWU2) | 5:30 | 2023-12-14 |  |
 | [咲まう](https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 4:08 | 2023-04-04 | 2023-05-13 |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-10-16 | 2023-01-29 |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-10-16 | 2023-05-10 |

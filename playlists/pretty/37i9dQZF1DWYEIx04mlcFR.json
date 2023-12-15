@@ -1,6 +1,6 @@
 {
   "description": "La nueva generaci\u00f3n del pop que defini\u00f3 el 2023 con RENEE en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 66959,
+  "num_followers": 66980,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Coastin' (with Alem\u00e1n)",
-        "url": "https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 244992,
-      "name": "Coastin' (with Alem\u00e1n)",
-      "url": "https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "2 A.M.",
         "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 141818,
       "name": "Enculado - feat. Nsqk",
       "url": "https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Coastin' (with Alem\u00e1n)",
+        "url": "https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 244992,
+      "name": "Coastin' (with Alem\u00e1n)",
+      "url": "https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Ah\u00ed Estar\u00e9",
-        "url": "https://open.spotify.com/album/2XVv6MnogPJ1bOt298SqpX"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ah\u00ed Estar\u00e9",
-      "url": "https://open.spotify.com/track/1HDSpp1hQxCuUloQCS7GcD"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Sat\u00e9lites",
         "url": "https://open.spotify.com/album/7KE8OXh0yBO1VdP7XIsQ5r"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 199000,
       "name": "Sat\u00e9lites",
       "url": "https://open.spotify.com/track/4ZkDM3luQLAL8oXmDUHbuh"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Ah\u00ed Estar\u00e9",
+        "url": "https://open.spotify.com/album/2XVv6MnogPJ1bOt298SqpX"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ah\u00ed Estar\u00e9",
+      "url": "https://open.spotify.com/track/1HDSpp1hQxCuUloQCS7GcD"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "odiarte",
-        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "odiarte",
-      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "hoy no me encuentro para nadie",
         "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 164540,
       "name": "hoy no me encuentro para nadie",
       "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "odiarte",
+        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "odiarte",
+      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Agua Caliente",
-        "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Agua Caliente",
-      "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Algo De Verdad",
         "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 147853,
       "name": "Algo De Verdad",
       "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Agua Caliente",
+        "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200339,
+      "name": "Agua Caliente",
+      "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Ultraviolento",
-        "url": "https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ultraviolento",
-      "url": "https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "SKB",
         "url": "https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218709,
       "name": "SKB",
       "url": "https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Ultraviolento",
+        "url": "https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ultraviolento",
+      "url": "https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi"
     },
     {
       "added_at": "2023-11-29 12:16:00",

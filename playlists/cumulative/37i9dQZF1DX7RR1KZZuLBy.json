@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 288902,
       "name": "Ba Buwa Ka Wena",
       "url": "https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ"
@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292261,
+      "name": "Bless God",
+      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
+    },
+    {
+      "album": {
         "name": "Blessings (Everywhere I Go)",
         "url": "https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg"
       },
@@ -408,7 +426,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 655253,
       "name": "Bow Down and Worship - Live",
       "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 420160,
       "name": "Elshadai Adonai Medley (Live)",
       "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
@@ -808,6 +826,36 @@
       "duration_ms": 176379,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
+    },
+    {
+      "album": {
+        "name": "Fall On Me (Maverick City Music Version)",
+        "url": "https://open.spotify.com/album/5AXnIJzI8jSbXecVXwJdMP"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Fall On Me (Maverick City Music Version)",
+      "url": "https://open.spotify.com/track/3u17j60STzpuF3nBptem3b"
     },
     {
       "album": {
@@ -882,6 +930,54 @@
       "duration_ms": 525758,
       "name": "Firm Foundation (He Won't) [feat. Cody Carnes]",
       "url": "https://open.spotify.com/track/6KY6K2UVCcYHkQyI4ePMSx"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (Live)",
+        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Firm Foundation (He Won\u2019t) - Live",
+      "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
+    },
+    {
+      "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498332,
+      "name": "For My Good (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
     },
     {
       "album": {
@@ -1093,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Good Plans / Doxology",
+        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495246,
+      "name": "Good Plans / Doxology",
+      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
+    },
+    {
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -1162,7 +1276,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 433773,
       "name": "Haleluyah Mdumiseni (Live)",
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
@@ -1198,7 +1312,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 336213,
       "name": "Hallelujah Nkateko (Lihle's Version) - Live",
       "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
@@ -1292,6 +1406,32 @@
       "duration_ms": 207800,
       "name": "He Wants It All",
       "url": "https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS"
+    },
+    {
+      "album": {
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410958,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
     },
     {
       "album": {
@@ -1416,6 +1556,24 @@
       "duration_ms": 405000,
       "name": "Hold On (Live)",
       "url": "https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO"
+    },
+    {
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "album": {
@@ -1600,10 +1758,28 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 245146,
       "name": "If He Did It Before....Same God - Live",
       "url": "https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M"
     },
     {
       "album": {
@@ -1970,7 +2146,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 183426,
       "name": "Just Like God",
       "url": "https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f"
@@ -2199,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Look At God",
+        "url": "https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219514,
+      "name": "Look At God",
+      "url": "https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz"
+    },
+    {
+      "album": {
         "name": "Love On The Cross",
         "url": "https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh"
       },
@@ -2330,7 +2524,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 246252,
       "name": "Messiah - Live",
       "url": "https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u"
@@ -2378,6 +2572,24 @@
       "duration_ms": 405513,
       "name": "Million Little Miracles (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "album": {
+        "name": "COAT OF MANY COLORS",
+        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243666,
+      "name": "MIRACLE CHILD",
+      "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
     },
     {
       "album": {
@@ -2462,7 +2674,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
@@ -2760,6 +2972,28 @@
       "duration_ms": 224000,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/4TVf5D7GwfLhB8OSNbKI35"
+    },
+    {
+      "album": {
+        "name": "Nothing Else (Live)",
+        "url": "https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526768,
+      "name": "Nothing Else - Live",
+      "url": "https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF"
     },
     {
       "album": {
@@ -3275,6 +3509,46 @@
     },
     {
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252013,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
+    },
+    {
+      "album": {
+        "name": "Strike The Ground",
+        "url": "https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317146,
+      "name": "Simple Matter",
+      "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
+    },
+    {
+      "album": {
         "name": "Izililo",
         "url": "https://open.spotify.com/album/6thyPQyQMTgLI3TzkRh4GP"
       },
@@ -3494,7 +3768,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 271480,
       "name": "Thandwa Ndim",
       "url": "https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP"
@@ -3694,7 +3968,7 @@
       ],
       "date_added": "2019-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
@@ -3930,7 +4204,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 356306,
       "name": "Ungukuphila",
       "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
@@ -4221,6 +4495,28 @@
     },
     {
       "album": {
+        "name": "How To Start A Housefire (Pt. III)",
+        "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415598,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
+    },
+    {
+      "album": {
         "name": "Wozani Zindlamafa",
         "url": "https://open.spotify.com/album/2n0NKGMn0EwidGUlYKFxW4"
       },
@@ -4284,7 +4580,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 406600,
       "name": "Xa Ndiyekelelwa (Live)",
       "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
@@ -4420,7 +4716,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"

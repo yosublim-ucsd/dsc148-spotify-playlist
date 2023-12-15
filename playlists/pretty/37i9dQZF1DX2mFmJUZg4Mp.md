@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mFmJUZg4Mp.md) - [plain]
 
 > Soothing sounds of gentle rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,144 likes - 275 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,222 likes - 275 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

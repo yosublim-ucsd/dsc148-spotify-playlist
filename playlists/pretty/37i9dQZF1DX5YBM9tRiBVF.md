@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume! Cover: <a href="spotify:artist:6WYC0ES42uaiJPtdBKDkIz">Amber Broos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,854 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,856 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

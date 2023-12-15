@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Poetic City",
+        "url": "https://open.spotify.com/album/1U1p1pem5XggODiDC4Urhj"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204144,
+      "name": "A Poetic City",
+      "url": "https://open.spotify.com/track/0cbPof9LM6kJJRdaFvQxmR"
+    },
+    {
+      "album": {
         "name": "A Train to Cannes",
         "url": "https://open.spotify.com/album/7I75eKv2H6qCe26EFS5dsj"
       },
@@ -5192,6 +5210,24 @@
       "duration_ms": 204067,
       "name": "Under A Bridge and Dreaming",
       "url": "https://open.spotify.com/track/1NVA4xLrwF20auhmMge7Sp"
+    },
+    {
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/5kJ4YhodZnsl11AWeh71Rs"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191180,
+      "name": "Vineyard",
+      "url": "https://open.spotify.com/track/51vkNmbOPJkfP6nHu8wsGv"
     },
     {
       "album": {

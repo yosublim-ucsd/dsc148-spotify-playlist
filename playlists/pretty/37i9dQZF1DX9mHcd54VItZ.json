@@ -1,15 +1,31 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi?si=mzpc0FFRSMmhOyHHh_XGng\">RAAF</a>",
-  "num_followers": 15920,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK?si=_iRLv4ZCTlih-QpybwO6Rg\">Toughguy</a>",
+  "num_followers": 15936,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzljNTYxY2M3ZTdkZjkyNTEzNDNmM2FjY2EwMjNiMzJkZDQ3YzM0",
+  "snapshot_id": "MCwyMTdmN2YxMzNjZDE4Nzk4MDkwODJmNDllODE1MGFhMzAxNWE3ZjE4",
   "tracks": [
     {
-      "added_at": "2023-12-08 00:08:00",
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/3pKC1FFpmpRPhu1qsD0MH9"
+      },
+      "artists": [
+        {
+          "name": "Toughguy",
+          "url": "https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK"
+        }
+      ],
+      "duration_ms": 238403,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/7CcnVBrlWIS8LSyxFWAaMN"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Prediker",
         "url": "https://open.spotify.com/album/6DLr0e6UlImONhBrEK9Dlp"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/4awOkMUUOHxxjU9uJBmd1G"
     },
     {
-      "added_at": "2023-11-24 06:00:13",
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Lavender Lane",
+        "url": "https://open.spotify.com/album/675tLYXwkvKPduMx2eclvW"
+      },
+      "artists": [
+        {
+          "name": "Cal Motto-Ros",
+          "url": "https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Lavender Lane",
+      "url": "https://open.spotify.com/track/7FfcwpuGCi1uBszQxNCXf6"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Dans Deur Die Donker",
         "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
@@ -41,23 +73,23 @@
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
     },
     {
-      "added_at": "2023-12-08 00:08:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
-        "name": "Miss Demeanour",
-        "url": "https://open.spotify.com/album/7bwBgt4WywsawL0mMQ5g5Y"
+        "name": "Surfing Sunshine",
+        "url": "https://open.spotify.com/album/45TtfU9h3o2KT4tUjMyeHt"
       },
       "artists": [
         {
-          "name": "Wonderboom",
-          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
         }
       ],
-      "duration_ms": 191978,
-      "name": "Miss Demeanour",
-      "url": "https://open.spotify.com/track/2GbdaRIjEkcjN2sivNUYSl"
+      "duration_ms": 213000,
+      "name": "Surfing Sunshine",
+      "url": "https://open.spotify.com/track/5dEmj0lyKNp7Vx1saMUaAk"
     },
     {
-      "added_at": "2023-11-24 06:00:13",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Terapie Vir Nou",
         "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
@@ -73,27 +105,23 @@
       "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
     },
     {
-      "added_at": "2023-12-08 00:08:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
-        "name": "INTERNET ROCKSTAR",
-        "url": "https://open.spotify.com/album/2pCcEeO9WHERPNzdemOnVr"
+        "name": "Generation Bored",
+        "url": "https://open.spotify.com/album/62qllVlsSubfxk690MmXGG"
       },
       "artists": [
         {
-          "name": "Yung Beathoven",
-          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
-        },
-        {
-          "name": "Brogan the band",
-          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
+          "name": "New Volume",
+          "url": "https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q"
         }
       ],
-      "duration_ms": 160135,
-      "name": "INTERNET ROCKSTAR",
-      "url": "https://open.spotify.com/track/2T7Lk6O1Op9IiYzGJQ4aXJ"
+      "duration_ms": 187600,
+      "name": "Worst Human Alive",
+      "url": "https://open.spotify.com/track/3sSwKeQK3yImeS9GYtCLHu"
     },
     {
-      "added_at": "2023-11-30 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Die Lig",
         "url": "https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk"
@@ -113,7 +141,91 @@
       "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
     },
     {
-      "added_at": "2023-12-08 00:08:00",
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Glide Stride",
+        "url": "https://open.spotify.com/album/2Me4bFxziBPEr9omsL9LYV"
+      },
+      "artists": [
+        {
+          "name": "Alibi Friday",
+          "url": "https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg"
+        }
+      ],
+      "duration_ms": 302019,
+      "name": "Glide Stride",
+      "url": "https://open.spotify.com/track/5TKySOZAIyhdpzwN01SDux"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Vakansie Vir My Siel",
+        "url": "https://open.spotify.com/album/3lkkoC0gKDx7uplWEymzAk"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "duration_ms": 261579,
+      "name": "Vakansie Vir My Siel",
+      "url": "https://open.spotify.com/track/1lJ44Qfd4jmcpxzUMRaGoU"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Die Beste Kant",
+        "url": "https://open.spotify.com/album/1YNPtUPFbSNG5kPNWKv5o9"
+      },
+      "artists": [
+        {
+          "name": "Rugga Rock",
+          "url": "https://open.spotify.com/artist/1eggpWPvqpbFpSWVkjGvwG"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Die Beste Kant",
+      "url": "https://open.spotify.com/track/4ksJTGu0FybEZDEYNH5b1d"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Miss Demeanour",
+        "url": "https://open.spotify.com/album/7bwBgt4WywsawL0mMQ5g5Y"
+      },
+      "artists": [
+        {
+          "name": "Wonderboom",
+          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
+        }
+      ],
+      "duration_ms": 191978,
+      "name": "Miss Demeanour",
+      "url": "https://open.spotify.com/track/2GbdaRIjEkcjN2sivNUYSl"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "INTERNET ROCKSTAR",
+        "url": "https://open.spotify.com/album/2pCcEeO9WHERPNzdemOnVr"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Brogan the band",
+          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
+        }
+      ],
+      "duration_ms": 160135,
+      "name": "INTERNET ROCKSTAR",
+      "url": "https://open.spotify.com/track/2T7Lk6O1Op9IiYzGJQ4aXJ"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6AX7duuUmGSxA2GV0QdsTh"
@@ -133,23 +245,7 @@
       "url": "https://open.spotify.com/track/0TFdmmMFx0KtMThDCnINHP"
     },
     {
-      "added_at": "2023-11-24 06:00:13",
-      "album": {
-        "name": "Vakansie Vir My Siel",
-        "url": "https://open.spotify.com/album/3lkkoC0gKDx7uplWEymzAk"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        }
-      ],
-      "duration_ms": 261579,
-      "name": "Vakansie Vir My Siel",
-      "url": "https://open.spotify.com/track/1lJ44Qfd4jmcpxzUMRaGoU"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Twak In Die Sak",
         "url": "https://open.spotify.com/album/4sQIxY95sJP8RyIx17tVsh"
@@ -165,7 +261,7 @@
       "url": "https://open.spotify.com/track/0kBHPLX0L9okVxNzaBOhW1"
     },
     {
-      "added_at": "2023-11-24 06:00:13",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Shadow Fiend",
         "url": "https://open.spotify.com/album/2D6QcBj0AN3i3E0YUeoZFd"
@@ -181,7 +277,7 @@
       "url": "https://open.spotify.com/track/080JBnOECwq62d9KOSoYFD"
     },
     {
-      "added_at": "2023-12-08 00:08:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Dans Deur Die Donker",
         "url": "https://open.spotify.com/album/7jUyw77fSgURWIUtikiidJ"
@@ -197,7 +293,7 @@
       "url": "https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D"
     },
     {
-      "added_at": "2023-11-24 06:00:13",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Down to the River",
         "url": "https://open.spotify.com/album/31QhV7ZJ1nznjUKJuX4JAW"
@@ -217,7 +313,7 @@
       "url": "https://open.spotify.com/track/2XcyCqS4tINmDjYXzz3e39"
     },
     {
-      "added_at": "2023-12-08 00:08:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "ISO",
         "url": "https://open.spotify.com/album/25EOl6GdkEV6xilN5S7ghr"
@@ -233,7 +329,7 @@
       "url": "https://open.spotify.com/track/2crUqw80TRpgHwQ3XrxcyH"
     },
     {
-      "added_at": "2023-11-24 06:00:13",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Kwart Voor Agt",
         "url": "https://open.spotify.com/album/4xBSzNEi7mGjeLmZd3GGAN"
@@ -249,7 +345,7 @@
       "url": "https://open.spotify.com/track/6TpfBdBtrDpzl7NEn11PMu"
     },
     {
-      "added_at": "2023-11-09 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Weet Jy",
         "url": "https://open.spotify.com/album/2Bk9aiTtgW5uq3BWtHpbn6"
@@ -265,7 +361,7 @@
       "url": "https://open.spotify.com/track/6XvJrj4flDveKeKgtlP5Qe"
     },
     {
-      "added_at": "2023-09-07 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Yo Yo",
         "url": "https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf"
@@ -281,7 +377,7 @@
       "url": "https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Lente",
         "url": "https://open.spotify.com/album/0npVagHg875j2gbr4CAvzS"
@@ -297,7 +393,7 @@
       "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
     },
     {
-      "added_at": "2023-11-30 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "She's Heavenly",
         "url": "https://open.spotify.com/album/3BvK4KOrQSqfbI99e8oQXl"
@@ -313,7 +409,7 @@
       "url": "https://open.spotify.com/track/2AHhIcPVeEkjsZ5PWzRchd"
     },
     {
-      "added_at": "2023-11-09 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/2Q9BQwWEgZYeoPUylHEXX6"
@@ -329,7 +425,7 @@
       "url": "https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM"
     },
     {
-      "added_at": "2023-07-06 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Sosiaal Gebreek",
         "url": "https://open.spotify.com/album/6aBLqzJka0CJfqOqC7HQbn"
@@ -345,7 +441,7 @@
       "url": "https://open.spotify.com/track/1vmgF0APgogTK1C19NH4r5"
     },
     {
-      "added_at": "2023-09-15 04:14:22",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Altyd Daar",
         "url": "https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab"
@@ -361,7 +457,7 @@
       "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
     },
     {
-      "added_at": "2023-10-12 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Invisible Walls",
         "url": "https://open.spotify.com/album/74hEUTUDoPPxa5HP2DcTT7"
@@ -377,7 +473,7 @@
       "url": "https://open.spotify.com/track/1eQRPJcdoX8D4nbnxPlJX1"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "O, My Donner",
         "url": "https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw"
@@ -397,7 +493,7 @@
       "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "I Don't Feel Like Anything Makes Sense",
         "url": "https://open.spotify.com/album/0E6TA2CrTRxNzJOj95khrf"
@@ -417,7 +513,7 @@
       "url": "https://open.spotify.com/track/6nSY9w8oUTQ7cuB6bC6IwH"
     },
     {
-      "added_at": "2023-09-28 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Sirens & Cathedrals",
         "url": "https://open.spotify.com/album/1iEZfxbS3b0fwDU9UapROP"
@@ -433,7 +529,7 @@
       "url": "https://open.spotify.com/track/39Yc140rdc73NQYiYGRlEh"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Nakhu Ses\u2019Fika",
         "url": "https://open.spotify.com/album/2Wvspa9VimsIhlaKrlmfJp"
@@ -449,7 +545,7 @@
       "url": "https://open.spotify.com/track/5ldT2XXjE1vGrJqzaeO1Ez"
     },
     {
-      "added_at": "2023-09-28 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Versmoor",
         "url": "https://open.spotify.com/album/5gfwTqz9mMIWuW4tvhsnop"
@@ -465,7 +561,7 @@
       "url": "https://open.spotify.com/track/4meblP6oLazdZUZPIizdbh"
     },
     {
-      "added_at": "2023-09-28 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "roadkill~",
         "url": "https://open.spotify.com/album/72h5rMFASPwgX5i5wSuwGx"
@@ -481,7 +577,7 @@
       "url": "https://open.spotify.com/track/7oPBtckFtCURWFEn55xb2C"
     },
     {
-      "added_at": "2023-03-02 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Hoer In Beton",
         "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
@@ -501,7 +597,7 @@
       "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
     },
     {
-      "added_at": "2023-10-12 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Hold Back The River",
         "url": "https://open.spotify.com/album/0GsUUoZHzXm7mT86HWtKCw"
@@ -517,7 +613,7 @@
       "url": "https://open.spotify.com/track/50iOr6N8l3xmJqKhF80apP"
     },
     {
-      "added_at": "2023-09-15 04:14:22",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Hou Bene Hou",
         "url": "https://open.spotify.com/album/56hil9lgMhYIeR3kabttwB"
@@ -533,7 +629,7 @@
       "url": "https://open.spotify.com/track/0PwwO8REYMl65SU8esvtxc"
     },
     {
-      "added_at": "2023-09-28 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Earth Demon",
         "url": "https://open.spotify.com/album/5Pm64aOAGvY23k51TRB258"
@@ -549,7 +645,7 @@
       "url": "https://open.spotify.com/track/5vbEAOh1toNWlM2ehfvAqu"
     },
     {
-      "added_at": "2023-09-28 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "I Don't Believe You",
         "url": "https://open.spotify.com/album/5bdsdYwIrF22kYUxopl97M"
@@ -565,7 +661,7 @@
       "url": "https://open.spotify.com/track/1puKFb5Swz4Mz5v0elWiPY"
     },
     {
-      "added_at": "2023-09-22 04:15:46",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Tiptoe",
         "url": "https://open.spotify.com/album/3h3GSXsm9dsxIOxjemmAan"
@@ -585,7 +681,7 @@
       "url": "https://open.spotify.com/track/2sb1iOmBnDrPFpzRagOhgS"
     },
     {
-      "added_at": "2023-09-28 22:00:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Soothing",
         "url": "https://open.spotify.com/album/1SmWpe54evwGksth7sACJT"
@@ -601,7 +697,7 @@
       "url": "https://open.spotify.com/track/4t10kSOLO3ZIpztOXqupHy"
     },
     {
-      "added_at": "2023-09-07 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Crimson Kings",
         "url": "https://open.spotify.com/album/3jj8jMBm0dNIoPc1Hu9TLk"
@@ -617,7 +713,7 @@
       "url": "https://open.spotify.com/track/2I6bp0qyPkg5xUGFdXXcBE"
     },
     {
-      "added_at": "2023-09-15 04:14:22",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Vriend",
         "url": "https://open.spotify.com/album/1nDlCjKf176FOs2ej8puEC"
@@ -633,39 +729,7 @@
       "url": "https://open.spotify.com/track/4N0DKF5cPNjxPWRGLsXvvH"
     },
     {
-      "added_at": "2023-09-15 04:14:22",
-      "album": {
-        "name": "Flower",
-        "url": "https://open.spotify.com/album/0qaFvNHmuPFEXqzzFGasPW"
-      },
-      "artists": [
-        {
-          "name": "RAYNE",
-          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
-        }
-      ],
-      "duration_ms": 203513,
-      "name": "Flower (\uaf43)",
-      "url": "https://open.spotify.com/track/5z4Etcsgyj0bXQBefoiC7w"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Unbreasted",
-        "url": "https://open.spotify.com/album/2EeaGJ8yoA1q8lAcRmDWua"
-      },
-      "artists": [
-        {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
-        }
-      ],
-      "duration_ms": 182888,
-      "name": "The Great Antagonist",
-      "url": "https://open.spotify.com/track/2wz74k8mcxoYRW4Qvxckrp"
-    },
-    {
-      "added_at": "2023-09-15 04:14:22",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Rescue",
         "url": "https://open.spotify.com/album/2AxR1RKuskyb1ZK0AQxMD7"
@@ -681,7 +745,7 @@
       "url": "https://open.spotify.com/track/2X7CueiRw3znYvsRPHSIkv"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Rising After Midnight",
         "url": "https://open.spotify.com/album/7vWHO6IMU8NqLDrNvN5GRZ"
@@ -697,7 +761,7 @@
       "url": "https://open.spotify.com/track/6mMLPWw1Dc8sNu8yJOhsOZ"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "ONE MORE DAY",
         "url": "https://open.spotify.com/album/29Agk5eMCnSKWzasCi6XH0"
@@ -713,39 +777,23 @@
       "url": "https://open.spotify.com/track/3dBlMjiGarWFzOdYevS2xs"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
-        "name": "Star Collides",
-        "url": "https://open.spotify.com/album/4BghOtMD05NAtrSAeqrU3I"
+        "name": "Supermark",
+        "url": "https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj"
       },
       "artists": [
         {
-          "name": "Anti Rabbit",
-          "url": "https://open.spotify.com/artist/1A36YbUjwBuj8tryOeKYFd"
+          "name": "Aya Nixon",
+          "url": "https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY"
         }
       ],
-      "duration_ms": 217443,
-      "name": "Star Collides",
-      "url": "https://open.spotify.com/track/5I6wDmXnxQRaZbk5fuLy6x"
+      "duration_ms": 180750,
+      "name": "Supermark",
+      "url": "https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
-      "album": {
-        "name": "Bietjie Bipol\u00ear",
-        "url": "https://open.spotify.com/album/2kw0oaEV8IeAtfJ3PBRA3t"
-      },
-      "artists": [
-        {
-          "name": "Brigite Duvenhage",
-          "url": "https://open.spotify.com/artist/0UBwRVPVLHsViFuFcpiPB4"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Bietjie Bipol\u00ear",
-      "url": "https://open.spotify.com/track/6vxQqhd7fTIKVOa9CT3WYd"
-    },
-    {
-      "added_at": "2023-09-07 21:59:00",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Feeding Time",
         "url": "https://open.spotify.com/album/6iqaBcWoMbV9ObOJU369r4"
@@ -765,55 +813,7 @@
       "url": "https://open.spotify.com/track/7aP7aYj4OWS5MFtQtgtora"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
-      "album": {
-        "name": "Vir Ewig",
-        "url": "https://open.spotify.com/album/6vFklUu7QaerJHZdwOjpXZ"
-      },
-      "artists": [
-        {
-          "name": "William Wolf",
-          "url": "https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY"
-        }
-      ],
-      "duration_ms": 234979,
-      "name": "Vir Ewig",
-      "url": "https://open.spotify.com/track/4duchzNuzguXiPND75nVGr"
-    },
-    {
-      "added_at": "2023-08-31 21:59:00",
-      "album": {
-        "name": "Hold You",
-        "url": "https://open.spotify.com/album/7eHKq7xyL3UBRP0hwPUGq1"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 245638,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/2em2HgEcpE1OAJevg8suiw"
-    },
-    {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "Supermark",
-        "url": "https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj"
-      },
-      "artists": [
-        {
-          "name": "Aya Nixon",
-          "url": "https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Supermark",
-      "url": "https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT"
-    },
-    {
-      "added_at": "2023-08-11 08:29:40",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Ons Is Die Vuur",
         "url": "https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw"
     },
     {
-      "added_at": "2023-08-19 09:43:29",
+      "added_at": "2023-12-14 22:00:00",
       "album": {
         "name": "Reckless Love",
         "url": "https://open.spotify.com/album/1KG0Gznjj6ieMsSQ86ZKO1"

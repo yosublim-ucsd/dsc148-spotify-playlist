@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "Kentucky Waltz",
-      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Rockabilly Gold Masters",
         "url": "https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 165986,
       "name": "Hot Rod Lincoln",
       "url": "https://open.spotify.com/track/2FvpvjHX32OLvendFImN9N"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Kentucky Waltz",
+      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -848,22 +848,6 @@
       "added_at": "2023-01-02 21:50:32",
       "album": {
         "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Cotton Eyed Joe - Single Version",
-      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Columbia Historic Edition",
         "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
       "artists": [
@@ -875,6 +859,22 @@
       "duration_ms": 208066,
       "name": "Blue Yodel No. 4",
       "url": "https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Cotton Eyed Joe - Single Version",
+      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -923,22 +923,6 @@
       "duration_ms": 166813,
       "name": "Filipino Baby",
       "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "The Essential Bob Wills And His Texas Playboys",
-        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "New San Antonio Rose",
-      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1011,22 +995,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Louisiana (Soundtrack from the Motion Picture)",
-        "url": "https://open.spotify.com/album/4vFZ8HSqPCNYQpwqXKrAZS"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Davis",
-          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "There's A New Moon Over My Shoulder",
-      "url": "https://open.spotify.com/track/0zJyenyeIqcu7h8OyXBJ4n"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 161120,
       "name": "Texarkana Baby",
       "url": "https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Essential Bob Wills And His Texas Playboys",
+        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "New San Antonio Rose",
+      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Louisiana (Soundtrack from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4vFZ8HSqPCNYQpwqXKrAZS"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Davis",
+          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "There's A New Moon Over My Shoulder",
+      "url": "https://open.spotify.com/track/0zJyenyeIqcu7h8OyXBJ4n"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
-      },
-      "artists": [
-        {
-          "name": "Little Jimmy Dickens",
-          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Take an Old Cold 'Tater (and Wait)",
-      "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Bill Monroe",
         "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 161626,
       "name": "Mule Skinner Blues (Blue Yodel #8)",
       "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
+      },
+      "artists": [
+        {
+          "name": "Little Jimmy Dickens",
+          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Take an Old Cold 'Tater (and Wait)",
+      "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
     },
     {
       "added_at": "2023-01-02 21:50:32",

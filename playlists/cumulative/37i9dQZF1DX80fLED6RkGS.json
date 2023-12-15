@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz?si=mcTXRG1rQAqpwjZf15XBQw\">Chris Kaiga </a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=lz5Z-BE5RS2SZ15p5f1ffg\"> Maandy</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 129227,
       "name": "Bend Ova",
       "url": "https://open.spotify.com/track/4gcNXiKTZ0ISYdR4o9wQ55"
@@ -598,6 +598,24 @@
       "duration_ms": 192237,
       "name": "Benga Na Mugithi",
       "url": "https://open.spotify.com/track/5vM0Y4MatVHi8laJoHtBtj"
+    },
+    {
+      "album": {
+        "name": "Bestie Bestie",
+        "url": "https://open.spotify.com/album/46oe1I6dhof7Fk15sM18Rf"
+      },
+      "artists": [
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202352,
+      "name": "Bestie Bestie",
+      "url": "https://open.spotify.com/track/3yvo1fzIADFYewf9McFjoN"
     },
     {
       "album": {
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 168979,
       "name": "Blueticks",
       "url": "https://open.spotify.com/track/3n9GFwWJZbOHr0bFz62dMm"
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 186000,
       "name": "Classy Feat (Exray Taniua & Kristoff MWB)",
       "url": "https://open.spotify.com/track/0tbntItotdcLQ8tb1aFDJ8"
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 173818,
       "name": "Kamkora",
       "url": "https://open.spotify.com/track/6MTKpuVgwGXlTImS6gGYGu"
@@ -4886,7 +4904,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 173147,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/1yjqZSp6GZUh4CNW4w5ATO"
@@ -6139,6 +6157,32 @@
     },
     {
       "album": {
+        "name": "THE KONG EFFECT",
+        "url": "https://open.spotify.com/album/6HfReOmZ0xgIZzktvTKW0v"
+      },
+      "artists": [
+        {
+          "name": "Denzel Kong",
+          "url": "https://open.spotify.com/artist/7CXNaTqdDb2fprzHN0ESAc"
+        },
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Juicee Mann",
+          "url": "https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213572,
+      "name": "So nice",
+      "url": "https://open.spotify.com/track/5qFo47h5fM98znW7QTM6GI"
+    },
+    {
+      "album": {
         "name": "Soko Ni Chafu",
         "url": "https://open.spotify.com/album/3tGmTCTfZrkVAlKUA7uLkX"
       },
@@ -6202,7 +6246,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 146938,
       "name": "Spoil",
       "url": "https://open.spotify.com/track/3w2WZOz87AHiYpqf5BlT6e"
@@ -6386,7 +6430,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 204068,
       "name": "Tbt Swara",
       "url": "https://open.spotify.com/track/1qYxUjoC8CPbyYuchYwBPG"

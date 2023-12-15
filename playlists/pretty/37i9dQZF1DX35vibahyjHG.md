@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume Cover: <a href="https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8?si=2rweaO8cQg6QJJVXDfF1Mw"> Abigail Chams </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,517 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,542 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

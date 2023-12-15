@@ -66187,6 +66187,24 @@
     },
     {
       "album": {
+        "name": "\u30ca\u30a4\u30c8\u30eb\u30fc\u30c6\u30a3\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/2NqhmEu8cBbJatVQZRfMGT"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222133,
+      "name": "\u30ca\u30a4\u30c8\u30eb\u30fc\u30c6\u30a3\u30fc\u30f3 (cover)",
+      "url": "https://open.spotify.com/track/7uzcoT2etqeHFx9BDmi87Z"
+    },
+    {
+      "album": {
         "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
         "url": "https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC"
       },
@@ -82246,6 +82264,24 @@
       "duration_ms": 189786,
       "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
       "url": "https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH"
+    },
+    {
+      "album": {
+        "name": "\u8d64\u3044\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc (English Jazz Ver.)",
+        "url": "https://open.spotify.com/album/3yDsynLI0UyD2U8tVp5A2Q"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265689,
+      "name": "\u8d64\u3044\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc - English Jazz Ver.",
+      "url": "https://open.spotify.com/track/7sZvxchusFfJalUdKXxxsU"
     },
     {
       "album": {

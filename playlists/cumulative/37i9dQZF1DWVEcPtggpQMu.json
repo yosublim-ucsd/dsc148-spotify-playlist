@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv?si=Y9W-QzMpQjW9WnMwxiDUyw\">YoungstaCPT</a>, <a href=\"https://open.spotify.com/artist/2ZHcwxaWe7O0aleLIPklnq?si=3i2VPpsaRXOJa4D5nPGsNg\">DJ Ready D</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=aSHo-0MxTGCtM3fmI-26Vw\">Blxckie</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -3335,6 +3335,24 @@
     },
     {
       "album": {
+        "name": "EBBS & FLOWS: Hard Candy",
+        "url": "https://open.spotify.com/album/5HbmDuxrO0ZsCLjGfLNdh6"
+      },
+      "artists": [
+        {
+          "name": "LANDMARQUE",
+          "url": "https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176747,
+      "name": "EBBS & FLOWS: Hard Candy",
+      "url": "https://open.spotify.com/track/7HHVwqGx84YKhIX1r2lKRT"
+    },
+    {
+      "album": {
         "name": "EBBS & FLOWS: Hard Target",
         "url": "https://open.spotify.com/album/3uZNYBqHWdUW0LJcMc6DjU"
       },
@@ -3734,6 +3752,24 @@
       "duration_ms": 133000,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/1T6m8bY04csDL3rvRlUlk1"
+    },
+    {
+      "album": {
+        "name": "From Bremersdorp With Love",
+        "url": "https://open.spotify.com/album/4szU6hyRM7HVQnIgxRhcjT"
+      },
+      "artists": [
+        {
+          "name": "Amarii",
+          "url": "https://open.spotify.com/artist/3gKOKbH38pzUAC6c0ybcCY"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "fame",
+      "url": "https://open.spotify.com/track/1ec7ZBFPtVFQsi9mLryik0"
     },
     {
       "album": {
@@ -4855,6 +4891,28 @@
     },
     {
       "album": {
+        "name": "Handling Business",
+        "url": "https://open.spotify.com/album/2qtCtbe6idi2lZ88Px451Q"
+      },
+      "artists": [
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196754,
+      "name": "Handling Business",
+      "url": "https://open.spotify.com/track/1jxHnGpNOqWiyYQ2zaUn93"
+    },
+    {
+      "album": {
         "name": "VIBES",
         "url": "https://open.spotify.com/album/7kZF3NyxpIXgyyKl72h9KR"
       },
@@ -5434,6 +5492,28 @@
       "duration_ms": 223846,
       "name": "If Found, Bring Home",
       "url": "https://open.spotify.com/track/4KWEslYcPrdxG48W8zcJSw"
+    },
+    {
+      "album": {
+        "name": "iFilimu",
+        "url": "https://open.spotify.com/album/4ov7gMLaWaQP9iw5qHnFPU"
+      },
+      "artists": [
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166478,
+      "name": "iFilimu",
+      "url": "https://open.spotify.com/track/2XJJe5RxR3Fq1gNjTXfPzI"
     },
     {
       "album": {

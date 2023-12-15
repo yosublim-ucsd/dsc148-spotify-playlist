@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Abel Pintos & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,495 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,768 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 60 | [Provenza / Te Felicito / Despechao](https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Provenza / Te Felicito / Despechao](https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc) | 6:02 |
 | 61 | [Amor Infiel](https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [A Toda Fiesta](https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov) | 3:28 |
 | 62 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 |
-| 63 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 |
+| 63 | [No Me Mientas](https://open.spotify.com/track/0mYPt9hLmZZvqWAbR9SdNj) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh) | 3:59 |
 | 64 | [Aunque Sea En Otra Vida](https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Aunque Sea En Otra Vida](https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo) | 3:51 |
 | 65 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 |
-| 66 | [No Me Mientas](https://open.spotify.com/track/0mYPt9hLmZZvqWAbR9SdNj) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh) | 3:59 |
+| 66 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 |
 | 67 | [Ocho Cuarenta \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ocho Cuarenta \(feat\. Los Caligaris \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO) | 4:08 |
 | 68 | [Si Tu Supieras](https://open.spotify.com/track/4QvuV3TTM3HZwkrXuLdqd0) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Escondidos](https://open.spotify.com/album/6OidQw7FBKbvZtjNTK8sZr) | 2:28 |
 | 69 | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS) | 4:24 |

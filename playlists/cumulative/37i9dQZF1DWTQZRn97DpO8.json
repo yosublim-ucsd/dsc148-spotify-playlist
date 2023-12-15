@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Ana\u00efs Cardot",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Yam\u00ea",
   "name": "le miel",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 183446,
       "name": "Cigarette apr\u00e8s l'amour",
       "url": "https://open.spotify.com/track/43G27zY6jl4NF0Kv5AyvAq"
@@ -430,6 +430,24 @@
       "duration_ms": 182786,
       "name": "Donne-moi tout",
       "url": "https://open.spotify.com/track/0iUXT3c1wN4SBt7UdzaBEc"
+    },
+    {
+      "album": {
+        "name": "D\u00e9connect\u00e9e",
+        "url": "https://open.spotify.com/album/10veteFNNieljiqKbrJuDn"
+      },
+      "artists": [
+        {
+          "name": "Re\u00ffn",
+          "url": "https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171990,
+      "name": "D\u00e9connect\u00e9e",
+      "url": "https://open.spotify.com/track/5iPIGpFQZLtvw78mvcWqQZ"
     },
     {
       "album": {
@@ -781,6 +799,28 @@
     },
     {
       "album": {
+        "name": "Ma Go",
+        "url": "https://open.spotify.com/album/6uzWRdxMpk51b2f1QjI5iA"
+      },
+      "artists": [
+        {
+          "name": "Ysos",
+          "url": "https://open.spotify.com/artist/1SQBvSuDIDiab53e3JCuLP"
+        },
+        {
+          "name": "Yakuzian",
+          "url": "https://open.spotify.com/artist/5lpfeX5C3gGvxa5dja8JhM"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157700,
+      "name": "Ma Go",
+      "url": "https://open.spotify.com/track/5sl1qh0eclSeUTGW5XgZnc"
+    },
+    {
+      "album": {
         "name": "Lumi\u00e8re",
         "url": "https://open.spotify.com/album/0crLrXnmTkvukqmoPQh2Yv"
       },
@@ -799,6 +839,32 @@
     },
     {
       "album": {
+        "name": "Mauvais Pressentiment",
+        "url": "https://open.spotify.com/album/5kdv7c7jY0TGSjsNASas2p"
+      },
+      "artists": [
+        {
+          "name": "Raplume",
+          "url": "https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8"
+        },
+        {
+          "name": "YG Pablo",
+          "url": "https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D"
+        },
+        {
+          "name": "Kyana",
+          "url": "https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137368,
+      "name": "Mauvais Pressentiment",
+      "url": "https://open.spotify.com/track/7D5CKBjZ1ylncHKMUAm5bU"
+    },
+    {
+      "album": {
         "name": "NLSM",
         "url": "https://open.spotify.com/album/3xXgREhv7YglpAix0bTbFm"
       },
@@ -810,7 +876,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 187683,
       "name": "NLSM",
       "url": "https://open.spotify.com/track/1rjs9YCSrSSQoAmKNtnC0y"
@@ -1186,7 +1252,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 171431,
       "name": "Say my name",
       "url": "https://open.spotify.com/track/13IWwumPWR4yxibM1ILGen"

@@ -1,60 +1,32 @@
 {
-  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=cywZtkjkSPiy19VZJBVSvA\">Joel Lwaga</a> ",
-  "num_followers": 6531,
+  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=HadD_XhBS2mDgi67XVbyhA\">Phina</a> ",
+  "num_followers": 6577,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWNjNDNmNDRkNWVlYWE4MzM3MzUwZGVlOWNjZTQxZDU4MGNjNjcx",
+  "snapshot_id": "MCw5YTc0ODYzZWI3MzYxNTU1OGFhOTRiYzhjMWE0MTgyYjVjMmE5OTBj",
   "tracks": [
     {
-      "added_at": "2023-06-16 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Shusha Nyavu",
-        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Shusha Nyavu",
-      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Sisi Ni Wale",
-        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
+        "name": "Sisi Ni Wale (feat. Freshow Band) [choir Version]",
+        "url": "https://open.spotify.com/album/6IqGrFxiBkjLnalaa6oKc4"
       },
       "artists": [
         {
           "name": "Phina",
           "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "Sisi Ni Wale",
-      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "AMENIWEKA HURU KWELI (Nyimbo za wokovu) ALBUM 2",
-        "url": "https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu"
-      },
-      "artists": [
+        },
         {
-          "name": "Papi Clever & Dorcas",
-          "url": "https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J"
+          "name": "Freshow Band",
+          "url": "https://open.spotify.com/artist/4fhqxcc0V8TX4kAo1DEamA"
         }
       ],
-      "duration_ms": 398000,
-      "name": "Ameniweka huru kweli",
-      "url": "https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9"
+      "duration_ms": 152842,
+      "name": "Sisi Ni Wale (feat. Freshow Band) - choir Version",
+      "url": "https://open.spotify.com/track/6P9iYKJSKPJVFnBH1BAVWO"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -75,6 +47,38 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "AMENIWEKA HURU KWELI (Nyimbo za wokovu) ALBUM 2",
+        "url": "https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu"
+      },
+      "artists": [
+        {
+          "name": "Papi Clever & Dorcas",
+          "url": "https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J"
+        }
+      ],
+      "duration_ms": 398000,
+      "name": "Ameniweka huru kweli",
+      "url": "https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "Shusha Nyavu",
+        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Shusha Nyavu",
+      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Niseme Nini",
         "url": "https://open.spotify.com/album/2mdLbdOQc9Cst2FE4TQK1m"
       },
@@ -87,6 +91,38 @@
       "duration_ms": 937638,
       "name": "Niseme Nini",
       "url": "https://open.spotify.com/track/1CrMQWrcbgM12xZWAnPITv"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Pombe",
+        "url": "https://open.spotify.com/album/7bS2N5Hr5tmTzf58oxwXn7"
+      },
+      "artists": [
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        }
+      ],
+      "duration_ms": 341284,
+      "name": "Pombe",
+      "url": "https://open.spotify.com/track/4W3Bm7G15aXGEFd9oNaJJu"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Nita Amini (Live)",
+        "url": "https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9"
+      },
+      "artists": [
+        {
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
+        }
+      ],
+      "duration_ms": 779914,
+      "name": "Nita Amini - Live",
+      "url": "https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -121,6 +157,42 @@
       "url": "https://open.spotify.com/track/6ry9UkAiQWj9lucisl02OR"
     },
     {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Sisi Ni Wale",
+        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "Sisi Ni Wale",
+      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Amen (feat. Kusah)",
+        "url": "https://open.spotify.com/album/0jh7fThakW7i8vterefGcx"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Chansa",
+          "url": "https://open.spotify.com/artist/1xYbKRr6xuuA2gMVar7j83"
+        },
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        }
+      ],
+      "duration_ms": 191836,
+      "name": "Amen (feat. Kusah)",
+      "url": "https://open.spotify.com/track/1VQbPM6ILavMZ8AM6OrEzP"
+    },
+    {
       "added_at": "2023-06-16 00:01:00",
       "album": {
         "name": "Safari: The Journey",
@@ -135,54 +207,6 @@
       "duration_ms": 282932,
       "name": "Naomba",
       "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Nita Amini (Live)",
-        "url": "https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9"
-      },
-      "artists": [
-        {
-          "name": "Israel Mbonyi",
-          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
-        }
-      ],
-      "duration_ms": 779914,
-      "name": "Nita Amini - Live",
-      "url": "https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Tosheka",
-        "url": "https://open.spotify.com/album/7ruFnl7nU40u9rvmyQXhDF"
-      },
-      "artists": [
-        {
-          "name": "Ben Cyco",
-          "url": "https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug"
-        }
-      ],
-      "duration_ms": 192623,
-      "name": "Tosheka",
-      "url": "https://open.spotify.com/track/7wMBdjdvTxLlkZxhvS2aZx"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Good To Go",
-        "url": "https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 205790,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
     },
     {
       "added_at": "2023-06-16 00:01:00",
@@ -221,6 +245,54 @@
       "url": "https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn"
     },
     {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Tosheka",
+        "url": "https://open.spotify.com/album/7ruFnl7nU40u9rvmyQXhDF"
+      },
+      "artists": [
+        {
+          "name": "Ben Cyco",
+          "url": "https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug"
+        }
+      ],
+      "duration_ms": 192623,
+      "name": "Tosheka",
+      "url": "https://open.spotify.com/track/7wMBdjdvTxLlkZxhvS2aZx"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "duration_ms": 205790,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Nimekutana Na Yesu",
+        "url": "https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3"
+      },
+      "artists": [
+        {
+          "name": "Angela Chibalonza Muliri",
+          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
+        }
+      ],
+      "duration_ms": 295784,
+      "name": "Asante Yesu",
+      "url": "https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D"
+    },
+    {
       "added_at": "2023-10-20 00:01:00",
       "album": {
         "name": "Nimekubali",
@@ -237,20 +309,60 @@
       "url": "https://open.spotify.com/track/5Z0z3ZJyJmFBETJtBwm97K"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Daima Milele",
-        "url": "https://open.spotify.com/album/17miwO9oyLABYvNNJ53ofy"
+        "name": "Kama Si Wewe",
+        "url": "https://open.spotify.com/album/406zuP4Ou96lLG9Stb5laf"
       },
       "artists": [
         {
-          "name": "Beda Andrew",
-          "url": "https://open.spotify.com/artist/11VA7kqmrvG4yAs57K1h8Z"
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
         }
       ],
-      "duration_ms": 295323,
-      "name": "Daima Milele",
-      "url": "https://open.spotify.com/track/2cw73wKNCMZ0mYWhR8dnvb"
+      "duration_ms": 297168,
+      "name": "Kama Si Wewe",
+      "url": "https://open.spotify.com/track/14hf7H0VxlkUp2AOMaFqmu"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Uko Wapi Mungu",
+        "url": "https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0"
+      },
+      "artists": [
+        {
+          "name": "William Yilima",
+          "url": "https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0"
+        }
+      ],
+      "duration_ms": 142996,
+      "name": "Yesu Nitie Nguvu",
+      "url": "https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "Kumama",
+        "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
+      },
+      "artists": [
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 260064,
+      "name": "Kumama Papa",
+      "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -271,34 +383,22 @@
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Uko Wapi Mungu",
-        "url": "https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0"
+        "name": "Umejua Kunifurahisha",
+        "url": "https://open.spotify.com/album/0457zdsea1nLhcXW45GvLc"
       },
       "artists": [
         {
-          "name": "William Yilima",
-          "url": "https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0"
-        }
-      ],
-      "duration_ms": 142996,
-      "name": "Yesu Nitie Nguvu",
-      "url": "https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q"
-    },
-    {
-      "added_at": "2023-07-07 00:01:00",
-      "album": {
-        "name": "BY FAITH ALL THE WAY (LIVE)",
-        "url": "https://open.spotify.com/album/0BYK7CQapZgEasptDNl9Gr"
-      },
-      "artists": [
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        },
         {
-          "name": "Jemmimah Thiong'o",
-          "url": "https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC"
+          "name": "Chris Shalom",
+          "url": "https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU"
         }
       ],
-      "duration_ms": 332068,
-      "name": "MIPANGO YA MUNGU - LIVE",
-      "url": "https://open.spotify.com/track/4WtjItEj1oDmzoGnMww63A"
+      "duration_ms": 312784,
+      "name": "Umejua Kunifurahisha",
+      "url": "https://open.spotify.com/track/2PydoapfePzFzBc6CoVcru"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -327,8 +427,24 @@
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Kama Si Wewe",
-        "url": "https://open.spotify.com/album/406zuP4Ou96lLG9Stb5laf"
+        "name": "Nimekutana Na Yesu",
+        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
+      },
+      "artists": [
+        {
+          "name": "Angela Chibalonza",
+          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "Ebenezer",
+      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Shukurani",
+        "url": "https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97"
       },
       "artists": [
         {
@@ -336,45 +452,25 @@
           "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
         }
       ],
-      "duration_ms": 297168,
-      "name": "Kama Si Wewe",
-      "url": "https://open.spotify.com/track/14hf7H0VxlkUp2AOMaFqmu"
+      "duration_ms": 279384,
+      "name": "Shukurani",
+      "url": "https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC"
     },
     {
-      "added_at": "2022-06-24 17:41:13",
+      "added_at": "2023-07-07 00:01:00",
       "album": {
-        "name": "Umejua Kunifurahisha",
-        "url": "https://open.spotify.com/album/0457zdsea1nLhcXW45GvLc"
+        "name": "BY FAITH ALL THE WAY (LIVE)",
+        "url": "https://open.spotify.com/album/0BYK7CQapZgEasptDNl9Gr"
       },
       "artists": [
         {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        },
-        {
-          "name": "Chris Shalom",
-          "url": "https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU"
+          "name": "Jemmimah Thiong'o",
+          "url": "https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC"
         }
       ],
-      "duration_ms": 312784,
-      "name": "Umejua Kunifurahisha",
-      "url": "https://open.spotify.com/track/2PydoapfePzFzBc6CoVcru"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Nimekutana Na Yesu",
-        "url": "https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3"
-      },
-      "artists": [
-        {
-          "name": "Angela Chibalonza Muliri",
-          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
-        }
-      ],
-      "duration_ms": 295784,
-      "name": "Asante Yesu",
-      "url": "https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D"
+      "duration_ms": 332068,
+      "name": "MIPANGO YA MUNGU - LIVE",
+      "url": "https://open.spotify.com/track/4WtjItEj1oDmzoGnMww63A"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -395,42 +491,86 @@
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Nimekutana Na Yesu",
-        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
+        "name": "Mimi Ni Wa Juu",
+        "url": "https://open.spotify.com/album/6OYWPLTZstNkzi8de2fRdB"
       },
       "artists": [
         {
-          "name": "Angela Chibalonza",
-          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
         }
       ],
-      "duration_ms": 295920,
-      "name": "Ebenezer",
-      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
+      "duration_ms": 230218,
+      "name": "Mimi Ni Wa Juu",
+      "url": "https://open.spotify.com/track/13uQrjPPEOv9pVfTJm14LU"
     },
     {
-      "added_at": "2023-06-16 00:01:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Kumama",
-        "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
+        "name": "Daima Milele",
+        "url": "https://open.spotify.com/album/17miwO9oyLABYvNNJ53ofy"
       },
       "artists": [
         {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Beda Andrew",
+          "url": "https://open.spotify.com/artist/11VA7kqmrvG4yAs57K1h8Z"
         }
       ],
-      "duration_ms": 260064,
-      "name": "Kumama Papa",
-      "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+      "duration_ms": 295323,
+      "name": "Daima Milele",
+      "url": "https://open.spotify.com/track/2cw73wKNCMZ0mYWhR8dnvb"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Gharama",
+        "url": "https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        },
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        }
+      ],
+      "duration_ms": 194851,
+      "name": "Gharama",
+      "url": "https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Narudisha",
+        "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
+      },
+      "artists": [
+        {
+          "name": "Gloria Muliro",
+          "url": "https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV"
+        }
+      ],
+      "duration_ms": 269688,
+      "name": "Narudisha",
+      "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Sijaona Kama Wewe",
+        "url": "https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU"
+      },
+      "artists": [
+        {
+          "name": "Patrick Kubuya",
+          "url": "https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2"
+        }
+      ],
+      "duration_ms": 673019,
+      "name": "Sijaona Kama Wewe",
+      "url": "https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C"
     },
     {
       "added_at": "2023-09-08 00:01:00",
@@ -447,6 +587,38 @@
       "duration_ms": 212457,
       "name": "Unarudi Lini",
       "url": "https://open.spotify.com/track/61Zc74od47dj7dXVuKxsO9"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Pacato Worship",
+        "url": "https://open.spotify.com/album/0rtr6F0F2LnjZKSFQXInWg"
+      },
+      "artists": [
+        {
+          "name": "Pastor Anthony Musembi J.C.C. Mombasa",
+          "url": "https://open.spotify.com/artist/12UXrRdVxNm2TbYBeF0vl1"
+        }
+      ],
+      "duration_ms": 420597,
+      "name": "Natamani Wamebarikiwa",
+      "url": "https://open.spotify.com/track/2xJA3Bbn20xQYiWh1Cjj6E"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Mtawala",
+        "url": "https://open.spotify.com/album/0GMXCuggw4s5gBQ9X9LhT2"
+      },
+      "artists": [
+        {
+          "name": "Mathias Walichupa",
+          "url": "https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU"
+        }
+      ],
+      "duration_ms": 294764,
+      "name": "Mtawala",
+      "url": "https://open.spotify.com/track/37MDQQIuuJ7PXp5WmxJ4Ud"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -489,58 +661,6 @@
       "url": "https://open.spotify.com/track/3QxGvXzFz43WkhdhwOXDGY"
     },
     {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Mtawala",
-        "url": "https://open.spotify.com/album/0GMXCuggw4s5gBQ9X9LhT2"
-      },
-      "artists": [
-        {
-          "name": "Mathias Walichupa",
-          "url": "https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU"
-        }
-      ],
-      "duration_ms": 294764,
-      "name": "Mtawala",
-      "url": "https://open.spotify.com/track/37MDQQIuuJ7PXp5WmxJ4Ud"
-    },
-    {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Gharama",
-        "url": "https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z"
-      },
-      "artists": [
-        {
-          "name": "Guardian Angel",
-          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
-        },
-        {
-          "name": "Rose Muhando",
-          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
-        }
-      ],
-      "duration_ms": 194851,
-      "name": "Gharama",
-      "url": "https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Shukurani",
-        "url": "https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97"
-      },
-      "artists": [
-        {
-          "name": "Goodluck Gozbert",
-          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
-        }
-      ],
-      "duration_ms": 279384,
-      "name": "Shukurani",
-      "url": "https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC"
-    },
-    {
       "added_at": "2023-08-18 00:01:00",
       "album": {
         "name": "Shida",
@@ -559,66 +679,50 @@
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Mimi Ni Wa Juu",
-        "url": "https://open.spotify.com/album/6OYWPLTZstNkzi8de2fRdB"
+        "name": "Usiyeshindwa",
+        "url": "https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won"
       },
       "artists": [
         {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+          "name": "Paul Clement",
+          "url": "https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T"
         }
       ],
-      "duration_ms": 230218,
-      "name": "Mimi Ni Wa Juu",
-      "url": "https://open.spotify.com/track/13uQrjPPEOv9pVfTJm14LU"
+      "duration_ms": 468010,
+      "name": "Amenifanyia Amani",
+      "url": "https://open.spotify.com/track/0RHHtjtdCby9OnPL2qvsZy"
+    },
+    {
+      "added_at": "2023-04-14 00:30:00",
+      "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc"
+      },
+      "artists": [
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+        }
+      ],
+      "duration_ms": 200891,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
     },
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Narudisha",
-        "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
+        "name": "Kumtegemea",
+        "url": "https://open.spotify.com/album/1hih5ZsfuKJ1KSP3oAPcb0"
       },
       "artists": [
         {
-          "name": "Gloria Muliro",
-          "url": "https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV"
+          "name": "Doudou Manengu",
+          "url": "https://open.spotify.com/artist/07RTKxQdPJhGVvu17fMYjd"
         }
       ],
-      "duration_ms": 269688,
-      "name": "Narudisha",
-      "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Pacato Worship",
-        "url": "https://open.spotify.com/album/0rtr6F0F2LnjZKSFQXInWg"
-      },
-      "artists": [
-        {
-          "name": "Pastor Anthony Musembi J.C.C. Mombasa",
-          "url": "https://open.spotify.com/artist/12UXrRdVxNm2TbYBeF0vl1"
-        }
-      ],
-      "duration_ms": 420597,
-      "name": "Natamani Wamebarikiwa",
-      "url": "https://open.spotify.com/track/2xJA3Bbn20xQYiWh1Cjj6E"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Hakuna Wa Kufanana Na Yeye",
-        "url": "https://open.spotify.com/album/5Sv5uFjTEmMzgMg0MXyg9c"
-      },
-      "artists": [
-        {
-          "name": "Sifaeli Mwabuka",
-          "url": "https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq"
-        }
-      ],
-      "duration_ms": 436024,
-      "name": "Hakuna Wa Kufanana Na Yeye",
-      "url": "https://open.spotify.com/track/5aBT3GfDCZP2GQZa3OqOF6"
+      "duration_ms": 341520,
+      "name": "Nina Haja Nawe",
+      "url": "https://open.spotify.com/track/6mwX6AqfESrCdVmxpXQc7Y"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -639,6 +743,38 @@
       "duration_ms": 410906,
       "name": "I Have Tasted / Nimeonja",
       "url": "https://open.spotify.com/track/3BlvopHOGCh134vhugmiyv"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "11th Hour",
+        "url": "https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS"
+      },
+      "artists": [
+        {
+          "name": "Betty Bayo",
+          "url": "https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T"
+        }
+      ],
+      "duration_ms": 370024,
+      "name": "Maneno",
+      "url": "https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Hakuna Wa Kufanana Na Yeye",
+        "url": "https://open.spotify.com/album/5Sv5uFjTEmMzgMg0MXyg9c"
+      },
+      "artists": [
+        {
+          "name": "Sifaeli Mwabuka",
+          "url": "https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq"
+        }
+      ],
+      "duration_ms": 436024,
+      "name": "Hakuna Wa Kufanana Na Yeye",
+      "url": "https://open.spotify.com/track/5aBT3GfDCZP2GQZa3OqOF6"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -671,22 +807,6 @@
       "duration_ms": 568052,
       "name": "Nami Nataka Nikuone",
       "url": "https://open.spotify.com/track/31SuK9LQAlG2z4VnXriZ47"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "11th Hour",
-        "url": "https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS"
-      },
-      "artists": [
-        {
-          "name": "Betty Bayo",
-          "url": "https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T"
-        }
-      ],
-      "duration_ms": 370024,
-      "name": "Maneno",
-      "url": "https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -723,22 +843,6 @@
       "duration_ms": 347479,
       "name": "Neno Lako",
       "url": "https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Usiyeshindwa",
-        "url": "https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won"
-      },
-      "artists": [
-        {
-          "name": "Paul Clement",
-          "url": "https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T"
-        }
-      ],
-      "duration_ms": 468010,
-      "name": "Amenifanyia Amani",
-      "url": "https://open.spotify.com/track/0RHHtjtdCby9OnPL2qvsZy"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -795,22 +899,6 @@
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Sijaona Kama Wewe",
-        "url": "https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU"
-      },
-      "artists": [
-        {
-          "name": "Patrick Kubuya",
-          "url": "https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2"
-        }
-      ],
-      "duration_ms": 673019,
-      "name": "Sijaona Kama Wewe",
-      "url": "https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
         "name": "Higher + Deeper (Live in Dar Es Salaam)",
         "url": "https://open.spotify.com/album/3Vsi0VHAZvFXHQg5RKho0T"
       },
@@ -823,38 +911,6 @@
       "duration_ms": 623693,
       "name": "Mlima - Live",
       "url": "https://open.spotify.com/track/3KMb9RdwHVN5yblwN7GyNF"
-    },
-    {
-      "added_at": "2023-04-14 00:30:00",
-      "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc"
-      },
-      "artists": [
-        {
-          "name": "Fena Gitu",
-          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
-        }
-      ],
-      "duration_ms": 200891,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Kumtegemea",
-        "url": "https://open.spotify.com/album/1hih5ZsfuKJ1KSP3oAPcb0"
-      },
-      "artists": [
-        {
-          "name": "Doudou Manengu",
-          "url": "https://open.spotify.com/artist/07RTKxQdPJhGVvu17fMYjd"
-        }
-      ],
-      "duration_ms": 341520,
-      "name": "Nina Haja Nawe",
-      "url": "https://open.spotify.com/track/6mwX6AqfESrCdVmxpXQc7Y"
     },
     {
       "added_at": "2023-07-21 00:01:00",

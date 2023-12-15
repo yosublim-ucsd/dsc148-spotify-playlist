@@ -4,7 +4,7 @@
 
 > Noah Kahan op de cover van Fresh Pop
 
-424 songs - 21 hr 20 min
+426 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Dance Dance \(Don't Go\)](https://open.spotify.com/track/0Bjb6ooycRufxEEroOmYuB) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/0isvwHsmToFvaEV4Lr4t5c) | 2:10 | 2023-03-30 | 2023-06-23 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-25 | 2023-09-08 |
 | [dance!](https://open.spotify.com/track/6LDZ2iOlkzKd8p8XkBCm97) | [Lena Hessels](https://open.spotify.com/artist/6YBkOQlHylyrItGxWofF64) | [dance!](https://open.spotify.com/album/03zDCdsipxn2quln99VRcF) | 2:11 | 2023-10-26 |  |
+| [Dancing While Destroyed](https://open.spotify.com/track/2QOYxzlboZF3AHvvdxhAeR) | [Meryn](https://open.spotify.com/artist/2dBrtYc8IGsaLK0kgzhvKz) | [Dancing While Destroyed](https://open.spotify.com/album/761nMNJwB4zckkBA0K2UWU) | 3:36 | 2023-12-14 |  |
 | [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2023-02-24 | 2023-03-31 |
 | [Dani](https://open.spotify.com/track/6bghqHHv3lSrGiz97vDyon) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Dani](https://open.spotify.com/album/62pcnIOSyWj3BxniV5T3Ja) | 2:54 | 2023-09-29 |  |
 | [Dating The Devil](https://open.spotify.com/track/6Ke5dZvbqRmjTGCZEjFBqB) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Dating The Devil](https://open.spotify.com/album/6guX1X73FritPfc4b7Yi7d) | 3:00 | 2023-08-03 | 2023-11-03 |
@@ -250,6 +251,7 @@
 | [Love Language](https://open.spotify.com/track/6zHJ0wJT8MWEpVJADAwxN9) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/7pGwBisCaQygmhmC1UADsC) | 3:28 | 2023-03-09 | 2023-06-09 |
 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 | 2023-07-21 | 2023-10-13 |
 | [Love Should Be Easy](https://open.spotify.com/track/0IjKMUZhLXpypvK4jI0rrO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/48VXJ1UcddBS5dYoRewoRn) | 3:22 | 2023-11-07 |  |
+| [Love Situation \(911\)](https://open.spotify.com/track/1s4FnYPkihRFSzyfCNlRXb) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [And So It Begins](https://open.spotify.com/album/6nxKx36eNYHiy2IHos6bQD) | 2:42 | 2023-12-14 |  |
 | [Loved By You](https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:58 | 2023-10-12 |  |
 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 | 2023-02-24 | 2023-04-14 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-02-24 | 2023-03-03 |
@@ -282,7 +284,7 @@
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-02-24 | 2023-03-31 |
 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 | 2023-03-30 | 2023-06-23 |
 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 | 2023-05-18 | 2023-08-26 |
-| [Not Scared Anymore](https://open.spotify.com/track/55dQwii8sIpOsZqktTfgYN) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Not Scared Anymore](https://open.spotify.com/album/0L5BvSVDRn4NQ2yDgQs4Sv) | 2:49 | 2023-09-20 |  |
+| [Not Scared Anymore](https://open.spotify.com/track/55dQwii8sIpOsZqktTfgYN) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Not Scared Anymore](https://open.spotify.com/album/0L5BvSVDRn4NQ2yDgQs4Sv) | 2:49 | 2023-09-20 | 2023-12-15 |
 | [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 | 2023-06-08 | 2023-08-26 |
 | [Obsessed With Your Ex \- Single Edit](https://open.spotify.com/track/2Hf6UGTEoeVyzCLrcR8uSG) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Obsessed With Your Ex](https://open.spotify.com/album/1pCHoS6EvvWD9giAIZfVgf) | 3:05 | 2023-05-11 | 2023-08-26 |
 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 | 2023-09-20 | 2023-12-01 |
@@ -318,7 +320,7 @@
 | [Puppy](https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:55 | 2023-08-25 |  |
 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2023-02-24 | 2023-03-25 |
 | [Put Me Second](https://open.spotify.com/track/5ykMr8VUgakEOjBgrv0xgT) | [Chloe Ann](https://open.spotify.com/artist/5exxY2lkkf9pVwgAvjEHpG) | [Put Me Second](https://open.spotify.com/album/1gtDhuDzLPE0jjODH1vr6g) | 2:49 | 2023-05-11 | 2023-08-18 |
-| [Ray\-Bans](https://open.spotify.com/track/75Krgu40syJQZMrrU853Kp) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ray\-Bans](https://open.spotify.com/album/7KHyrCP5S4FmyawTNyGk7x) | 3:25 | 2023-09-20 |  |
+| [Ray\-Bans](https://open.spotify.com/track/75Krgu40syJQZMrrU853Kp) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ray\-Bans](https://open.spotify.com/album/7KHyrCP5S4FmyawTNyGk7x) | 3:25 | 2023-09-20 | 2023-12-15 |
 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-02-24 | 2023-04-07 |
 | [Rest In Peace](https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Rest In Peace](https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704) | 2:55 | 2023-08-25 | 2023-12-01 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-09 | 2023-06-23 |

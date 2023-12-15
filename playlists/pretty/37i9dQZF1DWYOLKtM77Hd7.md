@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family\. Curated by John Legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,921 likes - 33 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,607 likes - 33 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

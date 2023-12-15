@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 56875,
+  "num_followers": 56893,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Radiante",
         "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 189806,
       "name": "Mi Dulce Amor",
       "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Amares",
-        "url": "https://open.spotify.com/album/6q5zjSBR2FNNJpD78AFMjJ"
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
       "artists": [
         {
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 211937,
-      "name": "Amares",
-      "url": "https://open.spotify.com/track/0hM3wjGKeVuc8p20YNyNWv"
+      "duration_ms": 250493,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1383,8 +1383,8 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+        "name": "Amares",
+        "url": "https://open.spotify.com/album/6q5zjSBR2FNNJpD78AFMjJ"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 250493,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
+      "duration_ms": 211937,
+      "name": "Amares",
+      "url": "https://open.spotify.com/track/0hM3wjGKeVuc8p20YNyNWv"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "El Gran Poder, Vol. 2",
+        "url": "https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U"
+      },
+      "artists": [
+        {
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        }
+      ],
+      "duration_ms": 215083,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Flores y Burbujas",
         "url": "https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 257255,
       "name": "Es Real",
       "url": "https://open.spotify.com/track/4X4hOKhoNHdwpvS6bwLvX9"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "El Gran Poder, Vol. 2",
-        "url": "https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U"
-      },
-      "artists": [
-        {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
-        }
-      ],
-      "duration_ms": 215083,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz"
     },
     {
       "added_at": "2023-12-08 03:00:00",

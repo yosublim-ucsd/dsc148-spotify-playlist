@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Fúria
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,273 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,283 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 7 | [Midio](https://open.spotify.com/track/48x2oAieb2KwWhab3vhifB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Midio](https://open.spotify.com/album/0XiqFoJpqkH0DOHbq5bBlY) | 2:43 |
 | 8 | [Paco de 100](https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [Paco de 100](https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE) | 2:53 |
 | 9 | [Dias sem dormir](https://open.spotify.com/track/35rDOlA5PaPyboTNjIrXQ0) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 3:03 |
-| 10 | [G3 \(feat\. Chefin & Leviano\)](https://open.spotify.com/track/4Vo6xhWP515MuQRK55927I) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:01 |
+| 10 | [G3](https://open.spotify.com/track/4Vo6xhWP515MuQRK55927I) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:01 |
 | 11 | [Pelo Prêmio \- Remix](https://open.spotify.com/track/4M6YxopOmUreT4AL5GoGAL) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [OG Duke](https://open.spotify.com/artist/3cV6HDJYsR1qKYmJJezmXH) | [Pelo Prêmio \(Remix\)](https://open.spotify.com/album/5l4SkyCYfqFjbjiKcatHQp) | 1:37 |
 | 12 | [Tô Tranquila](https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:01 |
 | 13 | [Boca](https://open.spotify.com/track/0om5OHq5YXfbqyWjNRtytV) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [Vetin](https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs) | 2:53 |

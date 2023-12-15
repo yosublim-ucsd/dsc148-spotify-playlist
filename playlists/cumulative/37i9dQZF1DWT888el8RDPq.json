@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176431,
       "name": "know that you're not alone",
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
@@ -5040,6 +5040,24 @@
       "duration_ms": 182213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/2OBm1U8uu9tq5w40QEIGAY"
+    },
+    {
+      "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/1qoWMG811aHluLAKqxOEsp"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/7jWDcwF7HDPjlK77uy2oON"
     },
     {
       "album": {

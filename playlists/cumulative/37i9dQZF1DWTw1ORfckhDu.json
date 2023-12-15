@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa AHTI ja HUGO.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Averagekidluke ja Turisti.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 184930,
       "name": "530",
       "url": "https://open.spotify.com/track/4gAs5czJjOhLWuswsiz4Dy"
+    },
+    {
+      "album": {
+        "name": "8 raajaa",
+        "url": "https://open.spotify.com/album/0PQl5a7zOqvTvT2HhHgCbi"
+      },
+      "artists": [
+        {
+          "name": "Mikko T\u00e4hti",
+          "url": "https://open.spotify.com/artist/2GLA9InZVMzVU9mjlENW6J"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "8 raajaa",
+      "url": "https://open.spotify.com/track/513HUrV6nzrYQpzpF1tuHs"
     },
     {
       "album": {
@@ -202,7 +220,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 166062,
       "name": "Aji Aji",
       "url": "https://open.spotify.com/track/2lo7W7vYvMN3BOfKDxdxfB"
@@ -293,6 +311,72 @@
     },
     {
       "album": {
+        "name": "Anna menn\u00e4",
+        "url": "https://open.spotify.com/album/1qrokFLG5pyFvHJRfxEuNJ"
+      },
+      "artists": [
+        {
+          "name": "JAG",
+          "url": "https://open.spotify.com/artist/0P6SIBpWwVJjR8HW3NTDt5"
+        },
+        {
+          "name": "Br\u00e4di",
+          "url": "https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7"
+        },
+        {
+          "name": "Antisankari",
+          "url": "https://open.spotify.com/artist/0UHimDJ0Xqjb8IPjtXwgRn"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253693,
+      "name": "Anna menn\u00e4",
+      "url": "https://open.spotify.com/track/5fX01EBr1vtikePLVTY1LT"
+    },
+    {
+      "album": {
+        "name": "Armoo",
+        "url": "https://open.spotify.com/album/78obkta6yQ7DmxsoJ7nUvD"
+      },
+      "artists": [
+        {
+          "name": "Ainty",
+          "url": "https://open.spotify.com/artist/5aUZAXbicTE1Q29666xC8U"
+        },
+        {
+          "name": "Kapu",
+          "url": "https://open.spotify.com/artist/1o4XlgF854Y2FBMCfSc0FI"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182790,
+      "name": "Armoo",
+      "url": "https://open.spotify.com/track/3FyvJmR0jH2Xqy1KGBjzyP"
+    },
+    {
+      "album": {
+        "name": "Babii",
+        "url": "https://open.spotify.com/album/6ZFpfPhHS0c6aecaErso4T"
+      },
+      "artists": [
+        {
+          "name": "Eevil St\u00f6\u00f6",
+          "url": "https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138333,
+      "name": "Babii",
+      "url": "https://open.spotify.com/track/3uhlkrLVK5mYPVxH1VpyJg"
+    },
+    {
+      "album": {
         "name": "W1NDY SEASON",
         "url": "https://open.spotify.com/album/0AMQd51PmhVYbnM3M35dBL"
       },
@@ -374,7 +458,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 169095,
       "name": "Bemari",
       "url": "https://open.spotify.com/track/7qieHJQ1UTmYidnAq31rWx"
@@ -400,6 +484,24 @@
       "duration_ms": 224506,
       "name": "Big simpin\u00b4",
       "url": "https://open.spotify.com/track/15HumKnAm2ofLvqZzHkKTi"
+    },
+    {
+      "album": {
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/5mjC8jRbEGvn6PUbupsrZl"
+      },
+      "artists": [
+        {
+          "name": "Prinssi",
+          "url": "https://open.spotify.com/artist/1ZFNjryB9zNiSA74KZoaEf"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/6DMa71al0ZY3WaXMKfwsRG"
     },
     {
       "album": {
@@ -634,7 +736,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 186062,
       "name": "Down With Me",
       "url": "https://open.spotify.com/track/19jIH6vZtyZU96Azs9Y6oT"
@@ -734,6 +836,28 @@
       "duration_ms": 197121,
       "name": "EN MAINDAA",
       "url": "https://open.spotify.com/track/00ssF7TTgdRhmNCHpeKWVS"
+    },
+    {
+      "album": {
+        "name": "3.49",
+        "url": "https://open.spotify.com/album/31ChKeeViuk8j2yYSZRdKj"
+      },
+      "artists": [
+        {
+          "name": "Jonas",
+          "url": "https://open.spotify.com/artist/3CtogfgamUizgteA10dzgM"
+        },
+        {
+          "name": "$auli",
+          "url": "https://open.spotify.com/artist/1c8ko0XPXmns7XKIR78iNI"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158270,
+      "name": "Ennen (feat. $auli)",
+      "url": "https://open.spotify.com/track/1t16WgULo1jwHIB2PPro6w"
     },
     {
       "album": {
@@ -1094,7 +1218,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 125955,
       "name": "HOTLINE (feat. Gabri)",
       "url": "https://open.spotify.com/track/4RQfjtiyg5aB3iwcTQWVJ7"
@@ -1174,7 +1298,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 198955,
       "name": "I MADE IT",
       "url": "https://open.spotify.com/track/7himCW3eabGPJ17qGSgb1X"
@@ -1361,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Junaraiteilla",
+        "url": "https://open.spotify.com/album/2FyOmPXPusPnOX4N9vn4mg"
+      },
+      "artists": [
+        {
+          "name": "Olli Antonio",
+          "url": "https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Junaraiteilla",
+      "url": "https://open.spotify.com/track/4bWl21qS8JMFA4bi4y1idZ"
+    },
+    {
+      "album": {
         "name": "Just sillee",
         "url": "https://open.spotify.com/album/2Dw5jml0SGkxUES45CrUFk"
       },
@@ -1437,6 +1579,32 @@
     },
     {
       "album": {
+        "name": "Kadotaan",
+        "url": "https://open.spotify.com/album/70k5B3xRXkZV9YdnZ3RO03"
+      },
+      "artists": [
+        {
+          "name": "Kuningaskunta",
+          "url": "https://open.spotify.com/artist/7DmB7b3J17LwKsXux4wGoS"
+        },
+        {
+          "name": "Fredi Fate",
+          "url": "https://open.spotify.com/artist/3tI4FGZRUCpaxcVz4blXEc"
+        },
+        {
+          "name": "SuperStefu",
+          "url": "https://open.spotify.com/artist/3MQqLDk5QiO5EPm7lE46vv"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Kadotaan",
+      "url": "https://open.spotify.com/track/45Ca7ClN0tf4xElGX2VoCt"
+    },
+    {
+      "album": {
         "name": "Kahdestaan (la di da)",
         "url": "https://open.spotify.com/album/01k7k2mVuOAP8rzEFsPMjx"
       },
@@ -1448,7 +1616,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 140062,
       "name": "Kahdestaan (la di da)",
       "url": "https://open.spotify.com/track/4eUeYZTu9Hk7VlKkgSjfXz"
@@ -1640,7 +1808,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 122142,
       "name": "Keskity",
       "url": "https://open.spotify.com/track/2wEOigSxWzDqn7SctkeVb5"
@@ -1808,6 +1976,24 @@
       "duration_ms": 235664,
       "name": "Kortteli (feat. Aste, EKI JA RAY & Becki)",
       "url": "https://open.spotify.com/track/2mCYmOIJxf7CxRVn7Pn4Pz"
+    },
+    {
+      "album": {
+        "name": "KUKA ON SUN ISI?",
+        "url": "https://open.spotify.com/album/4y0tselhP8JBf3FidO2u4j"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4pfaija",
+          "url": "https://open.spotify.com/artist/2eGbmJfjYbZatbebJxY6PD"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "KUKA ON SUN ISI?",
+      "url": "https://open.spotify.com/track/7BQHwUxhmCTKY9PJQIFFJ7"
     },
     {
       "album": {
@@ -2362,7 +2548,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 153075,
       "name": "Meid\u00e4n p\u00f6yt\u00e4 (feat. Cledos, Elastinen)",
       "url": "https://open.spotify.com/track/2l67fMyuuQVC5wWx1VyXl3"
@@ -2430,7 +2616,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 422493,
       "name": "MILJOONII",
       "url": "https://open.spotify.com/track/3tikbLyxxOoXhSlJDhf5oc"
@@ -2478,6 +2664,24 @@
       "duration_ms": 114350,
       "name": "Missaat Mut",
       "url": "https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb"
+    },
+    {
+      "album": {
+        "name": "Miss\u00e4 vaan",
+        "url": "https://open.spotify.com/album/3TNq9O7e8slBIkCRhoAoXO"
+      },
+      "artists": [
+        {
+          "name": "Andrei",
+          "url": "https://open.spotify.com/artist/0lIcMDl3l4xlsCCF3o4LWR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185194,
+      "name": "Miss\u00e4 vaan",
+      "url": "https://open.spotify.com/track/1swQNrz5cMAVer9jAzbPFq"
     },
     {
       "album": {
@@ -3005,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Porttikielto",
+        "url": "https://open.spotify.com/album/5RlDbVHk6bamllrJwXMzY6"
+      },
+      "artists": [
+        {
+          "name": "Aadam Lucas",
+          "url": "https://open.spotify.com/artist/73EkrwfceBeWADkoYET2Lh"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Porttikielto",
+      "url": "https://open.spotify.com/track/3Dhc7Y2QMw2mO9EtzjepF5"
+    },
+    {
+      "album": {
         "name": "Puhaltaa",
         "url": "https://open.spotify.com/album/1835LWhm6AfndYUghwHVle"
       },
@@ -3180,10 +3402,32 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 164846,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5om9e07j4TldvFZ5QeMRxX"
+    },
+    {
+      "album": {
+        "name": "Rich Man (feat. Turisti)",
+        "url": "https://open.spotify.com/album/6Cu34u07DXd8IRQzPmClFG"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159236,
+      "name": "Rich Man (feat. Turisti)",
+      "url": "https://open.spotify.com/track/17ClyalxrJFArxC0GoMG0l"
     },
     {
       "album": {
@@ -3390,7 +3634,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 171668,
       "name": "Sin\u00e4",
       "url": "https://open.spotify.com/track/3AwfD24xT4sDfKqZOwcJAI"
@@ -3535,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "Sua Ei Oo",
+        "url": "https://open.spotify.com/album/3Y3yFYFr8bROdWyN1T8Dqr"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172275,
+      "name": "Sua Ei Oo",
+      "url": "https://open.spotify.com/track/6sqPOCugqjcu11jIpnAkaL"
+    },
+    {
+      "album": {
         "name": "Helsingis on tulva - EP",
         "url": "https://open.spotify.com/album/2459H0Xc9lago9C1d1S3eE"
       },
@@ -3564,7 +3826,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 194540,
       "name": "Sunkaa",
       "url": "https://open.spotify.com/track/3aIrzifDaeYYfMGrsOFCfw"
@@ -3600,7 +3862,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 155105,
       "name": "Sw\u00e4g\u00e4koulu",
       "url": "https://open.spotify.com/track/3uP1nrOhAFN09fmp2Rf1X2"
@@ -3792,7 +4054,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 157610,
       "name": "Tanssimaan",
       "url": "https://open.spotify.com/track/5Sh887PC6sjUoPlVOKbQ0G"
@@ -3937,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Toistoi",
+        "url": "https://open.spotify.com/album/7ubUJKPvPMLs4SBaWVa124"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139469,
+      "name": "Toistoi",
+      "url": "https://open.spotify.com/track/0yHRLkeNe9j9vqek47Of6f"
+    },
+    {
+      "album": {
         "name": "MINNESOTA",
         "url": "https://open.spotify.com/album/749Cb2vryMtdSlD4Zk1jfW"
       },
@@ -3992,7 +4272,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 145035,
       "name": "Tunnettu Plugi",
       "url": "https://open.spotify.com/track/3K265QDIKTbM1MitKJdgOZ"
@@ -4076,6 +4356,42 @@
       "duration_ms": 169462,
       "name": "T\u00c4\u00c4 ILTA (feat. Senya)",
       "url": "https://open.spotify.com/track/3Q2AIM4SuTHcar4Wy1hAr2"
+    },
+    {
+      "album": {
+        "name": "UPSET",
+        "url": "https://open.spotify.com/album/5DWeJJEbyd9HLubYMLGOI2"
+      },
+      "artists": [
+        {
+          "name": "Nick-E Maggz",
+          "url": "https://open.spotify.com/artist/4THoP0ZeHikbfshug7w8RG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187339,
+      "name": "UPSET",
+      "url": "https://open.spotify.com/track/3rA6GMPodPP30dV0X8S9oD"
+    },
+    {
+      "album": {
+        "name": "OLIPA KERRAN",
+        "url": "https://open.spotify.com/album/0dRhX7witstdBf06bioo8E"
+      },
+      "artists": [
+        {
+          "name": "Totoro.Sex",
+          "url": "https://open.spotify.com/artist/2bWxvzMa6AP7PxVdTSlDnU"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88903,
+      "name": "VAATEKOMERO",
+      "url": "https://open.spotify.com/track/3XSpHwStP70NI29chDcpQ7"
     },
     {
       "album": {
@@ -4166,7 +4482,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 149192,
       "name": "Varaa",
       "url": "https://open.spotify.com/track/44zG6A0g1hMKzrTnwhIAWa"

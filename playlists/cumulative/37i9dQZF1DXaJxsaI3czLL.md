@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-384 songs - 1 day 3 hr 12 min
+385 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Nights](https://open.spotify.com/track/25iGEuF3yz9m3LMU6deCJb) | [MLV LUNG](https://open.spotify.com/artist/7Fg0IzAh17pdIgOt6nSCWK) | [WAVES](https://open.spotify.com/album/6VPWyt3IzjcyEHW9M9xrhP) | 2:30 | 2023-08-29 | 2023-09-06 |
 | [Nobose](https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:02 | 2023-03-30 | 2023-04-19 |
 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 |  |
+| [one window](https://open.spotify.com/track/1Gpvx7JZcjUEBm5PlpmHCe) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [one window](https://open.spotify.com/album/1FC4MalP7xTMrwnY0G1aav) | 3:46 | 2023-12-14 |  |
 | [only time will tell..\. \- naked](https://open.spotify.com/track/360eGzbp66k5gAn1AKan1d) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [sphaera anatomica \(ius\)](https://open.spotify.com/album/3FTYtUdPJSaKy5LrDWUlyI) | 5:46 | 2023-02-07 | 2023-02-22 |
 | [only time will tell..\. \- naked](https://open.spotify.com/track/4uioPoQmPjHc7vcZjb04x5) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [sphaera anatomica \(ius\)](https://open.spotify.com/album/1T1UNuk2F1aEN8CmGa8nq9) | 5:46 | 2023-02-07 | 2023-02-09 |
 | [Oyasuminasai](https://open.spotify.com/track/5ZNvOTXfclQg193urphVaB) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Aki Soba ni Iruyo](https://open.spotify.com/album/0xsggoIvgXQUNxWwwQQLTV) | 5:59 | 2023-05-23 | 2023-09-06 |
@@ -368,7 +369,7 @@
 | [糸](https://open.spotify.com/track/1Q3wFTqaH9rmVGdGj85Lsa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 3:44 | 2023-01-26 | 2023-02-01 |
 | [糸](https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [命の別名](https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I) | 5:07 | 2022-11-27 | 2023-02-22 |
 | [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 | 2022-10-20 | 2023-11-22 |
-| [素直](https://open.spotify.com/track/3WMOGfwdooXGzFI62zi7JK) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [We Love Mackey](https://open.spotify.com/album/60SAcVHhDuo8KgYm802Rlp) | 4:58 | 2023-12-10 | 2023-12-13 |
+| [素直](https://open.spotify.com/track/3WMOGfwdooXGzFI62zi7JK) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [We Love Mackey](https://open.spotify.com/album/60SAcVHhDuo8KgYm802Rlp) | 4:58 | 2023-12-10 |  |
 | [綻び](https://open.spotify.com/track/2vE2pvqVvonR7sEIf697xO) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [綻び](https://open.spotify.com/album/5i4JlotjA0vsgko8HccOuo) | 4:35 | 2023-08-29 | 2023-08-31 |
 | [缶ビール](https://open.spotify.com/track/1FVwIVuTtMaptIxyE6zJZj) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ユラレル](https://open.spotify.com/album/7Ba3DMHpngjawGFVGE6Guw) | 2:52 | 2023-06-13 | 2023-06-21 |
 | [美しい森](https://open.spotify.com/track/1kyMnvdnlt3bKF9jUg7v5q) | [音沙汰](https://open.spotify.com/artist/0f7VaIN3RXWoaWqBsSoew2) | [Musicalium](https://open.spotify.com/album/6PwH6MOazT3anivW965oHY) | 4:40 | 2023-09-19 | 2023-10-11 |
@@ -385,8 +386,8 @@
 | [誰も知らない](https://open.spotify.com/track/7CimRPvAQ7bCNfBrrRQ4NU) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [AyaneYamazaki Cover EP](https://open.spotify.com/album/4lvkL8tH9U9iFhsBrXHQgx) | 5:59 | 2023-08-31 | 2023-09-06 |
 | [輪郭](https://open.spotify.com/track/0skmyRXzwNAiZ9IarqQsGF) | [広瀬咲楽](https://open.spotify.com/artist/6yeUkhrcup2C8moSddE9et) | [輪郭](https://open.spotify.com/album/5XdfH9IsxJxmVwYT7rpKrC) | 4:39 | 2023-09-12 | 2023-10-11 |
 | [透明なぬくもり](https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [中川 理沙](https://open.spotify.com/artist/777vRijuj99nwWotZD3D5y) | [透明なぬくもり](https://open.spotify.com/album/4XO6MTetKMR09jeqTb0M0m) | 3:17 | 2023-06-20 | 2023-06-22 |
-| [遊覧船](https://open.spotify.com/track/2Uf76zPC65kpeIfkZkhqZ4) | [Ai Iwasaki](https://open.spotify.com/artist/51qaMmNzuOlzFsRI7GXK6H) | [TSUBOMI](https://open.spotify.com/album/0PC24I2HdtyX6jYvB6KkQ8) | 3:14 | 2023-11-16 |  |
-| [金柑](https://open.spotify.com/track/3hCF2YuOSO3QffMNXRRaFQ) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [金柑](https://open.spotify.com/album/5UwH0a9bjXQJbg06RQoI3k) | 6:50 | 2023-10-24 |  |
+| [遊覧船](https://open.spotify.com/track/2Uf76zPC65kpeIfkZkhqZ4) | [Ai Iwasaki](https://open.spotify.com/artist/51qaMmNzuOlzFsRI7GXK6H) | [TSUBOMI](https://open.spotify.com/album/0PC24I2HdtyX6jYvB6KkQ8) | 3:14 | 2023-11-16 | 2023-12-15 |
+| [金柑](https://open.spotify.com/track/3hCF2YuOSO3QffMNXRRaFQ) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [金柑](https://open.spotify.com/album/5UwH0a9bjXQJbg06RQoI3k) | 6:50 | 2023-10-24 | 2023-12-15 |
 | [銀ちゃん](https://open.spotify.com/track/29mDhjw6oBooOY6h5sXLpX) | [みぃなとルーチ](https://open.spotify.com/artist/3y3QVcRaHp6wskSfDQsNKZ) | [銀ちゃん/Sea song\-324P REMIX\-](https://open.spotify.com/album/4AyAtrelhhuZ9IK5AItB9n) | 4:21 | 2023-01-17 | 2023-02-01 |
 | [陽の光](https://open.spotify.com/track/5sPGdKrfakWBcXjozOzkPA) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [陽の光](https://open.spotify.com/album/11BZlhrKnhq0DbScjXtorx) | 3:13 | 2023-10-10 | 2023-11-16 |
 | [雪解](https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9) | [湊大瀬](https://open.spotify.com/artist/0gbV5LrMApRAILxgr3gfFB), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [雪解](https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5) | 4:10 | 2023-12-12 |  |

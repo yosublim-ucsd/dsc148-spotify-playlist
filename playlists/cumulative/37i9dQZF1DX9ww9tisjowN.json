@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "HITO Mania",
+        "url": "https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "HITO Mania",
+      "url": "https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE"
+    },
+    {
+      "album": {
         "name": "Hyper",
         "url": "https://open.spotify.com/album/1SVGVA68dbU3oTG8nRISM4"
       },
@@ -1436,10 +1454,28 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 173288,
       "name": "ISOGA\u2661PEACH",
       "url": "https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs"
+    },
+    {
+      "album": {
+        "name": "JUNEJULY\u26612023",
+        "url": "https://open.spotify.com/album/42cCivg1nBBh53UbU74Zyd"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229916,
+      "name": "JUNEJULY\u26612023",
+      "url": "https://open.spotify.com/track/788SK754z15X19vOe2c2ND"
     },
     {
       "album": {
@@ -1824,7 +1860,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 179874,
       "name": "Magnetized",
       "url": "https://open.spotify.com/track/3dBn4h8S8UhY9npfamBOSD"
@@ -2810,7 +2846,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 132295,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
@@ -4270,6 +4306,24 @@
       "duration_ms": 198066,
       "name": "\u30cf\u30ed",
       "url": "https://open.spotify.com/track/69cF34CNjzxX1ySIPJxtMf"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37"
     },
     {
       "album": {

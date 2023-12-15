@@ -950,7 +950,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 158933,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/6Z0x8WDZnXs7QbRz1Atick"
@@ -2166,10 +2166,36 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 252466,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0ftNNfxBAJJeN0E7iq27fZ"
+    },
+    {
+      "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/0UbhNhXXqRPZDQmcZDpHbM"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Christian Daniel",
+          "url": "https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278314,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/2VWLm3cy2tkiYDinhY5rKf"
     },
     {
       "album": {
@@ -2672,10 +2698,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
+    },
+    {
+      "album": {
+        "name": "No Me Acuerdo (Official Video)",
+        "url": "https://open.spotify.com/album/0ys1OYqQnRszIx4XEGHNpG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220202,
+      "name": "No Me Acuerdo",
+      "url": "https://open.spotify.com/track/6oVRRFFyxTg1ybUz3iDHOq"
     },
     {
       "album": {
@@ -3736,10 +3784,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 192612,
       "name": "TO' ESTO ES TUYO",
       "url": "https://open.spotify.com/track/2KPo9aqUtpB8bNFSyPpLrh"
+    },
+    {
+      "album": {
+        "name": "TO' ESTO ES TUYO (Official Video)",
+        "url": "https://open.spotify.com/album/6CcyhvZ4OURsoIr00WmMIv"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192917,
+      "name": "TO' ESTO ES TUYO",
+      "url": "https://open.spotify.com/track/6NWkruDXIU0lsvfNVu2V1m"
     },
     {
       "album": {

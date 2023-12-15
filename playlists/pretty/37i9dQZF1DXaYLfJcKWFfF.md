@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj?si=UFddna35Qde6UQ66Vm7Kbg"> KABEAUSHE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,773 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,783 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,18 +37,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 27 | [SAID](https://open.spotify.com/track/57kmRD4yNmP3HTrKm56Yfd) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 3:14 |
 | 28 | [Polished Masks](https://open.spotify.com/track/4ost2G6dIe7SQpbPrqSDOh) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [TWO II](https://open.spotify.com/album/0LxizsZ3vRcN4KwXuShA83) | 3:38 |
 | 29 | [Mpenzi Wangu](https://open.spotify.com/track/46OHcOnDAzUxcfmSggZAhA) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Mpenzi Wangu](https://open.spotify.com/album/0XBbgMNrZQXyNSZTSd0llv) | 2:52 |
-| 30 | [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 |
-| 31 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
-| 32 | [Light](https://open.spotify.com/track/41NqESXB9XqryxvtaRjubm) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 3:11 |
-| 33 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 |
-| 34 | [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 |
-| 35 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |
-| 36 | [Stranger](https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 3:43 |
-| 37 | [Dunia](https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Dunia](https://open.spotify.com/album/1hXshFVVMUj9ezwxRqwYSH) | 2:45 |
-| 38 | [Sometin Small](https://open.spotify.com/track/1OUtnF5LExKbHllln1ljMK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:06 |
-| 39 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
-| 40 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 |
-| 41 | [Luci](https://open.spotify.com/track/69fYAKrHt69xFqH9OGojjp) | [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [David Hammond](https://open.spotify.com/artist/77dRhxijp3XSASVc3mYozX) | [The.rap.y](https://open.spotify.com/album/5imTQerf20f3s4TkWwlKaY) | 2:45 |
+| 30 | [Iyawo](https://open.spotify.com/track/1tRkWbxNCSFPeeTHPhqmlz) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [O.N.E](https://open.spotify.com/album/2fT7v7Hu2Mh1yDsx3JFWic) | 2:48 |
+| 31 | [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 |
+| 32 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
+| 33 | [Light](https://open.spotify.com/track/41NqESXB9XqryxvtaRjubm) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 3:11 |
+| 34 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 |
+| 35 | [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 |
+| 36 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |
+| 37 | [Stranger](https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 3:43 |
+| 38 | [Dunia](https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Dunia](https://open.spotify.com/album/1hXshFVVMUj9ezwxRqwYSH) | 2:45 |
+| 39 | [Sometin Small](https://open.spotify.com/track/1OUtnF5LExKbHllln1ljMK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:06 |
+| 40 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
+| 41 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 |
 | 42 | [Ibaasi](https://open.spotify.com/track/4FFAIsIjrbkA8W7lP64v2y) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Ibaasi](https://open.spotify.com/album/47BT0AkQNjqq5YExNikw43) | 4:33 |
 | 43 | [Crescent](https://open.spotify.com/track/419o5hR6s53S0ic5iP984q) | [Talicia](https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP) | [Crescent](https://open.spotify.com/album/2UqMiDdH0yhMelJ9pvvkCf) | 1:48 |
 | 44 | [All On Me \- Spotify Singles](https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [All On Me \(Spotify Singles\)](https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 |
 | 50 | [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 |
 
-Snapshot ID: `MCw1M2I4MmI3NjQyNzQ3ODQzNTI4N2Q0NThjZGU1ZTMwZGIwZmQ2ZWZh`
+Snapshot ID: `MCxhOTcyMjBiN2EwNzc0OGI3ODMxOGE1M2ZmOTg2MjMxN2ZjNmU3ODcy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: NMIXX",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: THE BOYZ",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 193400,
       "name": "C'mon (feat. Amin\u00e9)",
       "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"
@@ -2914,7 +2914,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 189984,
       "name": "Changed Man",
       "url": "https://open.spotify.com/track/63iWifTpRd4odAeDsw8du5"
@@ -3645,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Dear My U",
+        "url": "https://open.spotify.com/album/6WmnLIcrMrGWN8y5bT2pe7"
+      },
+      "artists": [
+        {
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211693,
+      "name": "Dear My U",
+      "url": "https://open.spotify.com/track/3GFI9dc6mDo4ROdxmaSVyc"
+    },
+    {
+      "album": {
         "name": "THE BOYZ Special Single [Dear.]",
         "url": "https://open.spotify.com/album/4AaM6fXI6FAGOgaMQO22AD"
       },
@@ -3822,7 +3840,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 211733,
       "name": "Dilly Dally",
       "url": "https://open.spotify.com/track/38dDP2uFYXr9fo4EkGQSbE"
@@ -5898,10 +5916,28 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 187786,
       "name": "Grand Prix",
       "url": "https://open.spotify.com/track/5btc1Il6aABmVNUOjooNK8"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0ABUfTXhUfaZIfgzbtqWU6"
+      },
+      "artists": [
+        {
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/00rHhOjnxKfnwVyJAOSACS"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3qaw1x6fazbhitNdWXJltj"
     },
     {
       "album": {
@@ -9586,7 +9622,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 212720,
       "name": "On My Youth - English Version",
       "url": "https://open.spotify.com/track/3aybnlPK0zZK2YRmlRm0Ph"
@@ -12552,7 +12588,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 154293,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/7GvWR4mvfvzvWtVXBcU23t"
@@ -14232,7 +14268,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"

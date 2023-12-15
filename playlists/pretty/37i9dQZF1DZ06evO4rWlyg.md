@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,453 likes - 47 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,476 likes - 47 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 46 | [Ancestress](https://open.spotify.com/track/08sEEy8n3kkCDBjZdYZ4GV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Sindri Eldon](https://open.spotify.com/artist/7MrUhoxTFdz4HWkm0VIooA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 7:17 |
 | 47 | [Notget](https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:26 |
 
-Snapshot ID: `MjgzNzQ0ODUsMDAwMDAwMDBiOGQwMGZlYWMwODExNDAzNjRhOGYzZjczYzI3MmEzNg==`
+Snapshot ID: `MjgzNzU5MDgsMDAwMDAwMDA2Y2ZhNjczZGE5MjgyNTJiYWVhZDA3OGRhOTExNDFlYQ==`

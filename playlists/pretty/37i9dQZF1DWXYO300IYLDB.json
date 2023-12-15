@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 100754,
+  "num_followers": 100767,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
+        "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
+        "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
       },
       "artists": [
         {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
         }
       ],
-      "duration_ms": 157373,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
+      "duration_ms": 315640,
+      "name": "\u3086\u3081\u3046\u3064\u3064",
+      "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
-        "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 315640,
-      "name": "\u3086\u3081\u3046\u3064\u3064",
-      "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
+      "duration_ms": 157373,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1531,18 +1531,22 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "Bright Lights (Lights Re-pack / Bonus Version)",
-        "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         }
       ],
-      "duration_ms": 191826,
-      "name": "Your Song - Bonus Track",
-      "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"
+      "duration_ms": 189247,
+      "name": "reckless driving",
+      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1567,22 +1571,18 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Bright Lights (Lights Re-pack / Bonus Version)",
+        "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 189247,
-      "name": "reckless driving",
-      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
+      "duration_ms": 191826,
+      "name": "Your Song - Bonus Track",
+      "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "I Love You So (Acoustic)",
-        "url": "https://open.spotify.com/album/5WU3xyxDUz9pSjBg8h6cYU"
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC"
       },
       "artists": [
         {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+          "name": "The Macarons Project",
+          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
         }
       ],
-      "duration_ms": 147333,
-      "name": "I Love You So - Acoustic",
-      "url": "https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf"
+      "duration_ms": 155402,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "Fly Me to the Moon",
-        "url": "https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC"
+        "name": "I Love You So (Acoustic)",
+        "url": "https://open.spotify.com/album/5WU3xyxDUz9pSjBg8h6cYU"
       },
       "artists": [
         {
-          "name": "The Macarons Project",
-          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
         }
       ],
-      "duration_ms": 155402,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s"
+      "duration_ms": 147333,
+      "name": "I Love You So - Acoustic",
+      "url": "https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf"
     },
     {
       "added_at": "2023-12-12 15:00:00",

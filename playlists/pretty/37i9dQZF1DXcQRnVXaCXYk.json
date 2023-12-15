@@ -1,6 +1,6 @@
 {
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
-  "num_followers": 44152,
+  "num_followers": 44151,
   "original_name": "The Pop Lounge",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-12-11 13:39:13",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 211837,
-      "name": "Best Days",
-      "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
-    },
-    {
-      "added_at": "2023-12-11 13:39:13",
-      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO"
+    },
+    {
+      "added_at": "2023-12-11 13:39:13",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 211837,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
     },
     {
       "added_at": "2023-12-11 13:39:13",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-12-11 13:39:13",
       "album": {
-        "name": "Spend The Night",
-        "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 193729,
-      "name": "Spend The Night",
-      "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
-    },
-    {
-      "added_at": "2023-12-11 13:39:13",
-      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 222624,
       "name": "Sometimes\u2026 (with Daya & Earthgang)",
       "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
+    },
+    {
+      "added_at": "2023-12-11 13:39:13",
+      "album": {
+        "name": "Spend The Night",
+        "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 193729,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
     },
     {
       "added_at": "2023-12-11 13:39:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-12-11 13:39:13",
       "album": {
-        "name": "hunger",
-        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 191297,
-      "name": "hunger",
-      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
-    },
-    {
-      "added_at": "2023-12-11 13:39:13",
-      "album": {
         "name": "Long Run (feat. Nina Nesbitt)",
         "url": "https://open.spotify.com/album/5D3DPkdMjst8RNJi9LmWm7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 174480,
       "name": "Long Run (feat. Nina Nesbitt)",
       "url": "https://open.spotify.com/track/71xLha47XAePi0EbzHAbEW"
+    },
+    {
+      "added_at": "2023-12-11 13:39:13",
+      "album": {
+        "name": "hunger",
+        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 191297,
+      "name": "hunger",
+      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
     },
     {
       "added_at": "2023-12-11 13:39:13",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-12-11 13:39:13",
       "album": {
-        "name": "Learn to Love (Stripped)",
-        "url": "https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Hagen",
-          "url": "https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq"
-        },
-        {
-          "name": "MAXINE",
-          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
-        }
-      ],
-      "duration_ms": 212777,
-      "name": "Learn to Love - Stripped",
-      "url": "https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE"
-    },
-    {
-      "added_at": "2023-12-11 13:39:13",
-      "album": {
         "name": "Trippin",
         "url": "https://open.spotify.com/album/5czzOP2xMdJJybVvju91DF"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 190438,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/2VTV2S3TThrY5fGjWHZ6yu"
+    },
+    {
+      "added_at": "2023-12-11 13:39:13",
+      "album": {
+        "name": "Learn to Love (Stripped)",
+        "url": "https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Hagen",
+          "url": "https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq"
+        },
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "duration_ms": 212777,
+      "name": "Learn to Love - Stripped",
+      "url": "https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE"
     },
     {
       "added_at": "2023-12-11 13:39:13",

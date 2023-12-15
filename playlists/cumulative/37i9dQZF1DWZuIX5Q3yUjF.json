@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Heartman",
+  "description": "Il meglio dell'R&B italiano. Cover: G-laspada",
   "name": "anima R&B",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 167231,
       "name": "baci baci",
       "url": "https://open.spotify.com/track/4Dog9VJrenfwhZXvbuhm5s"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 159146,
       "name": "ESSA",
       "url": "https://open.spotify.com/track/1XegoRQwPnsCdVfnzupWc7"
@@ -3268,7 +3268,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 236307,
       "name": "Iliade",
       "url": "https://open.spotify.com/track/4pmK8N7r8tajDezvfo3wj6"
@@ -3294,6 +3294,28 @@
       "duration_ms": 134840,
       "name": "In My Way (chi sei)",
       "url": "https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW"
+    },
+    {
+      "album": {
+        "name": "INDELEBILE",
+        "url": "https://open.spotify.com/album/0rwcM8qV94f15hRbXlDxMP"
+      },
+      "artists": [
+        {
+          "name": "Nico Kyni",
+          "url": "https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9"
+        },
+        {
+          "name": "The Ceasars",
+          "url": "https://open.spotify.com/artist/0MwDm81UjbaXIeFCeCa5sw"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244994,
+      "name": "INDELEBILE",
+      "url": "https://open.spotify.com/track/4OhRX1lmUhy7MRlsU53bNB"
     },
     {
       "album": {
@@ -4049,6 +4071,24 @@
     },
     {
       "album": {
+        "name": "Logico",
+        "url": "https://open.spotify.com/album/6IypNihBpby9NiEFHNVIfY"
+      },
+      "artists": [
+        {
+          "name": "Paola Pizzino",
+          "url": "https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228740,
+      "name": "Logico",
+      "url": "https://open.spotify.com/track/3EVJI76wxQWE410QSDGtcH"
+    },
+    {
+      "album": {
         "name": "lontano",
         "url": "https://open.spotify.com/album/0pJXhN2RnAViiSVwKMYa5M"
       },
@@ -4344,6 +4384,28 @@
       "duration_ms": 179861,
       "name": "Ma non adesso",
       "url": "https://open.spotify.com/track/7LVIJLuM7agM4C32LivEYX"
+    },
+    {
+      "album": {
+        "name": "MA' (feat. Tormento)",
+        "url": "https://open.spotify.com/album/5dcpfTZ1NHNrj3A7F5i32K"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "MA' (feat. Tormento)",
+      "url": "https://open.spotify.com/track/6v73Nrui5JfgAVGlis1pct"
     },
     {
       "album": {
@@ -4698,7 +4760,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 171000,
       "name": "Mostro",
       "url": "https://open.spotify.com/track/7iR0VBMG8q5yQBAKyrHxzI"
@@ -4716,7 +4778,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 174137,
       "name": "N'Anima",
       "url": "https://open.spotify.com/track/5lELyaYDICf3gj0xjXleOs"
@@ -5010,7 +5072,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 186434,
       "name": "Non Esisto",
       "url": "https://open.spotify.com/track/6rQPAiHbOHdsAfTl9VSpfA"
@@ -5460,6 +5522,28 @@
       "duration_ms": 212769,
       "name": "Odissea / Astronave",
       "url": "https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY"
+    },
+    {
+      "album": {
+        "name": "Oi N\u00ec",
+        "url": "https://open.spotify.com/album/7MJlfrfLxP6UI6q53PUaJv"
+      },
+      "artists": [
+        {
+          "name": "Livio Cori",
+          "url": "https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX"
+        },
+        {
+          "name": "Jack & la Banda",
+          "url": "https://open.spotify.com/artist/0tw8jmYQo1RZ8XtzyyYvyH"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156818,
+      "name": "Oi N\u00ec",
+      "url": "https://open.spotify.com/track/4dXuDQTfZqNZFnMQJQT1rq"
     },
     {
       "album": {
@@ -6432,6 +6516,24 @@
       "duration_ms": 176585,
       "name": "Rosso di Marte",
       "url": "https://open.spotify.com/track/5rMe8OtABwtqal2o4e7bDL"
+    },
+    {
+      "album": {
+        "name": "Ros\u00e8 Sulle Tn",
+        "url": "https://open.spotify.com/album/2jZP3oCM0U1A5d1XT2mffP"
+      },
+      "artists": [
+        {
+          "name": "Marquisslove",
+          "url": "https://open.spotify.com/artist/2OtLUQ1TBgbtR2BCqnANWd"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Ros\u00e8 Sulle Tn",
+      "url": "https://open.spotify.com/track/453xgFXbSyQ8WWhEVPLPZs"
     },
     {
       "album": {
@@ -7988,6 +8090,24 @@
       "duration_ms": 170571,
       "name": "Tutto da rifare",
       "url": "https://open.spotify.com/track/2ESOFOksMJ58Pn1K9iVCe8"
+    },
+    {
+      "album": {
+        "name": "Tutto il Mare",
+        "url": "https://open.spotify.com/album/16vT8Yu4y37enmv7HD9udt"
+      },
+      "artists": [
+        {
+          "name": "Arden",
+          "url": "https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175981,
+      "name": "Tutto il Mare",
+      "url": "https://open.spotify.com/track/1iFsilgFMXQY9hcaOpcMqE"
     },
     {
       "album": {

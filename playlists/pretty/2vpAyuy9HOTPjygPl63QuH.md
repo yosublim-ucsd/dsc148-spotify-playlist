@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,067 likes - 61 songs - 3 hr 29 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 7,074 likes - 62 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 59 | [Lisa Sin La Vi\-sa](https://open.spotify.com/track/4x18ftK8TlJpDvkTaxiwJv) | [Raffa Castillo](https://open.spotify.com/artist/0NakbcldLR7JE7Zbwae5Fy), [Pato D'Auria](https://open.spotify.com/artist/2yJc7sy3LUQM3fg39vWeDH) | [From South EP](https://open.spotify.com/album/2wx0KAJs8bpJgWdlyL2RR6) | 5:30 |
 | 60 | [What Am I](https://open.spotify.com/track/69t14OOHdfQsNLxL7peGyZ) | [Logan Camin](https://open.spotify.com/artist/1ZYrw1flEe0vZfDwE94G7o) | [Shake And Move](https://open.spotify.com/album/0dulJelG3F9rKdgmItvWnY) | 3:44 |
 | 61 | [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 |
+| 62 | [Party All The Time \- D.O.D Remix](https://open.spotify.com/track/5JBtawmFkJ1Qs9Fzrdgkxt) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Party All The Time \(D.O.D Remix\)](https://open.spotify.com/album/0ko9z0wMuLm1sDVhKYS4lg) | 2:14 |
 
-Snapshot ID: `ODEwOSw4ZjAyYzQ5MTk1YjliMTU3YmI0M2JkY2U2N2E0ODI1OTFjNjhlNzhj`
+Snapshot ID: `ODExMCwzMTcyMmNjZTNlODAyNGEwMzIyMDhlYTNjM2MwYjczOGU2ODQ1ZDlm`

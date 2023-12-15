@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Jess Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,153 likes - 149 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,165 likes - 149 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

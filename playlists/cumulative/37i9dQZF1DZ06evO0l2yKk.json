@@ -680,7 +680,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 193186,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/39jp91yfW61L2bBjpucX1D"
@@ -1084,6 +1084,24 @@
       "duration_ms": 161893,
       "name": "Si Yo Fuera \u00c9l",
       "url": "https://open.spotify.com/track/2tyKgPRebzOFzUguy7taHP"
+    },
+    {
+      "album": {
+        "name": "Si Yo Fuera \u00c9l",
+        "url": "https://open.spotify.com/album/7GXmCjQu3vvkTTe8USWzQz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167883,
+      "name": "Si Yo Fuera \u00c9l",
+      "url": "https://open.spotify.com/track/22rCojP0ehRcElNvE5dG7U"
     },
     {
       "album": {

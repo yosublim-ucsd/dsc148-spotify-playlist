@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > featuring some of your favorites this year, plus some new gems\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,895 likes - 119 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,165 likes - 119 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

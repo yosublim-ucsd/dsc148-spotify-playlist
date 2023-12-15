@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmMxNzU5ODBiMjA2ZWMyNjJiNjBmMTU0NjE2NzQwODY3NDQwNDE3",
+  "snapshot_id": "MCxjYThjYWQwNWRmNDk1MGYzNWJlNzc1ZjMwNzY2YTdiZWVjNzMwYjdh",
   "tracks": [
     {
       "added_at": "2023-10-25 08:03:09",
@@ -43,6 +43,30 @@
       "duration_ms": 191791,
       "name": "SKY",
       "url": "https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR"
+    },
+    {
+      "added_at": "2023-12-14 09:24:54",
+      "album": {
+        "name": "Mugile",
+        "url": "https://open.spotify.com/album/3A1Sa3slUaD2eP2CVmK1IY"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        },
+        {
+          "name": "VJSH",
+          "url": "https://open.spotify.com/artist/0mR1GgJfsTdVgclygjlXtT"
+        },
+        {
+          "name": "Carnival Crooks",
+          "url": "https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q"
+        }
+      ],
+      "duration_ms": 161921,
+      "name": "Mugile",
+      "url": "https://open.spotify.com/track/4pzOZiFpauKynFuOfjs94g"
     },
     {
       "added_at": "2023-11-20 12:24:27",
@@ -1839,26 +1863,6 @@
       "duration_ms": 179801,
       "name": "Amrutha Kshana (Female Version)",
       "url": "https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s"
-    },
-    {
-      "added_at": "2023-05-16 04:53:29",
-      "album": {
-        "name": "Anarkali",
-        "url": "https://open.spotify.com/album/3KfwfuKsi0lDo6ZrLBITKS"
-      },
-      "artists": [
-        {
-          "name": "Sabik Sabi Puttur",
-          "url": "https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG"
-        },
-        {
-          "name": "Ajay Warrier",
-          "url": "https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC"
-        }
-      ],
-      "duration_ms": 307924,
-      "name": "Anarkali",
-      "url": "https://open.spotify.com/track/4kvmWGtZmFXimJl1hgnmg4"
     },
     {
       "added_at": "2023-05-09 07:08:56",

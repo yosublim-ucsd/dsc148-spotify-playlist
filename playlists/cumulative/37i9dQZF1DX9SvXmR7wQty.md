@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Jul
 
-2,228 songs - 4 day 23 hr 2 min
+2,229 songs - 4 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1387,6 +1387,7 @@
 | [Mon sang](https://open.spotify.com/track/4x6YcJgEFXLZiCYkaexWYA) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Prince Limonade](https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M) | 2:19 | 2022-10-14 | 2022-10-29 |
 | [Monalisa](https://open.spotify.com/track/0Y5f4WhEaaEBBiIJ94mOnX) | [Pierre Cruz](https://open.spotify.com/artist/3unauNRhq1rfgHqUhcKVjx), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Prince Amine](https://open.spotify.com/artist/0VFVWl6dkb5b7rLn8AYSY4) | [Monalisa](https://open.spotify.com/album/41T5Beaejz8cXcOJbQuHEL) | 3:44 | 2021-12-31 | 2022-01-05 |
 | [Money](https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx) | 3:17 | 2023-04-28 | 2023-06-17 |
+| [MONEY MAKER](https://open.spotify.com/track/3WM94J8wiCVZxGcHEHzAej) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [AMBITION](https://open.spotify.com/album/3uiDxNXAJJzru700mPfYwE) | 2:32 | 2023-12-08 |  |
 | [Monkey See Monkey Do](https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Monkey See Monkey Do](https://open.spotify.com/album/2XHD8IJglSeKL203sKOFkR) | 3:18 | 2022-10-07 | 2022-10-22 |
 | [Monnaie](https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r) | 2:29 | 2022-09-09 | 2022-09-24 |
 | [Monnaie Parle](https://open.spotify.com/track/1ktEW6r8qhIwdnUTEV2vP5) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Monnaie Parle](https://open.spotify.com/album/4jbeoYqPSRSFIRZ9FWl5pv) | 2:45 | 2023-02-24 | 2023-03-11 |
@@ -2075,7 +2076,7 @@
 | [Un jour ou l'autre](https://open.spotify.com/track/6w8xHbn3VHOQBzJ85majul) | [Pete](https://open.spotify.com/artist/40gbkGuMLWOxH0oGvH3MXk), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Un jour ou l'autre](https://open.spotify.com/album/2F6noOdaLKnBxtl78geaLW) | 3:02 | 2022-05-13 | 2022-05-28 |
 | [Un kid](https://open.spotify.com/track/2E1FCN9N6vNFejyksglQnZ) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Un kid](https://open.spotify.com/album/31rtUB4ct0i4tXJV0w6gPp) | 2:53 | 2022-11-18 | 2022-12-03 |
 | [un million](https://open.spotify.com/track/3l2sADKbSEpg1F72iiZV6j) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [un million](https://open.spotify.com/album/2ltFJFhFDJmBvCtDdVyWnF) | 3:23 | 2023-01-13 | 2023-01-28 |
-| [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 | 2023-10-20 |  |
+| [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 | 2023-10-20 | 2023-12-15 |
 | [Un murmure dans le décor](https://open.spotify.com/track/2ojnBSChKn8i7EsjVfNiJb) | [Sébastien Lacombe](https://open.spotify.com/artist/2MZsADwBuFuSv6eRNIQm1t) | [Un murmure dans le décor](https://open.spotify.com/album/0Mw4CysbKjPrN1DqDXPKFo) | 3:22 | 2022-03-25 | 2022-04-09 |
 | [Un Palmier Dans La Neige](https://open.spotify.com/track/5dviT0SFLaLbLcy9SpRt90) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Wuachuma](https://open.spotify.com/artist/6aD1s6Aopus9Yguowm39qJ) | [Un Palmier Dans La Neige](https://open.spotify.com/album/01ChPqyfVKKqEATEjPvA7d) | 7:00 | 2022-08-19 | 2022-09-03 |
 | [Un Peu d'Amour](https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Un Peu d'Amour](https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce) | 5:31 | 2022-05-13 | 2022-05-20 |

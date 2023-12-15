@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "fuyu ga sugitara",
+        "url": "https://open.spotify.com/album/7ApemSByPg78zmcga7T9h5"
+      },
+      "artists": [
+        {
+          "name": "nyamura",
+          "url": "https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137301,
+      "name": "fuyu ga sugitara",
+      "url": "https://open.spotify.com/track/3VBOu2YNXP2nav4tarq7Ws"
+    },
+    {
+      "album": {
         "name": "THE MESSAGE 5",
         "url": "https://open.spotify.com/album/5UXjRj6Qq9K1tNfz7I6SWh"
       },
@@ -3108,7 +3126,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 189772,
       "name": "Show",
       "url": "https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN"
@@ -3206,6 +3224,24 @@
       "duration_ms": 249600,
       "name": "something about kiss",
       "url": "https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv"
+    },
+    {
+      "album": {
+        "name": "SOULSOUP",
+        "url": "https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314469,
+      "name": "SOULSOUP",
+      "url": "https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi"
     },
     {
       "album": {
@@ -3531,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "twilight",
+        "url": "https://open.spotify.com/album/5UT8tarzeeubxICZb7IAuQ"
+      },
+      "artists": [
+        {
+          "name": "Sano ibuki",
+          "url": "https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "twilight",
+      "url": "https://open.spotify.com/track/4RointGDAgN9lumV9VY27q"
+    },
+    {
+      "album": {
         "name": "Under the skin",
         "url": "https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K"
       },
@@ -3684,7 +3738,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 148213,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr"
@@ -3728,6 +3782,24 @@
       "duration_ms": 185034,
       "name": "Wind Rise",
       "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
+    },
+    {
+      "album": {
+        "name": "WINTER WITHOUT YOU",
+        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243520,
+      "name": "WINTER WITHOUT YOU",
+      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
     },
     {
       "album": {
@@ -4040,7 +4112,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 325893,
       "name": "\u3053\u306e\u604b\u306f\u30b9\u30af\u30fc\u30d7\u3055\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/6d2AAgZbFFDe3TSX5dGOEi"
@@ -4202,7 +4274,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 273600,
       "name": "\u3082\u3046\u604b\u306a\u3093\u3066\u3057\u306a\u3044 - 2012 Remaster",
       "url": "https://open.spotify.com/track/2GU85vhIa7EGUt5mDNLHK6"

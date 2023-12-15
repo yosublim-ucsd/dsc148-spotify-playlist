@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion, fissa & good vibes! Cover: Kosso",
+  "description": "Motion, fissa & good vibes! Cover: J Balvin",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195066,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
+    },
+    {
+      "album": {
         "name": "Respect The Pain 1",
         "url": "https://open.spotify.com/album/2IWDkp7lBkc1sAyIIU13P3"
       },
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 190000,
       "name": "BabyMaker (WAIT A MINUTE) (feat. BadBoyGoodVibes & Eurosoundz)",
       "url": "https://open.spotify.com/track/4GqFsq4vpyrszD3xhCUhL2"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 175789,
       "name": "Badman Love",
       "url": "https://open.spotify.com/track/1fDTVpr032sozi3eJl3PKt"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 157607,
       "name": "Blijf Je Bij Mij",
       "url": "https://open.spotify.com/track/7tqXxVp9ZnxOhOxM3wZTWN"
@@ -3288,7 +3306,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 174231,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/6GCpMCbl9ZBiTfPP5awzFa"
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 160178,
       "name": "Coco rico",
       "url": "https://open.spotify.com/track/5wc60TVZQPZJW8o9rPI6nI"
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 211621,
       "name": "Cuff It",
       "url": "https://open.spotify.com/track/4aklcHyOrgB2t4iXNgpvk9"
@@ -4586,7 +4604,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 166000,
       "name": "DND",
       "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 147403,
       "name": "Domino",
       "url": "https://open.spotify.com/track/1BymSDOQY7CZY5BUekA8yH"
@@ -6824,7 +6842,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 126606,
       "name": "Het Kost Wat",
       "url": "https://open.spotify.com/track/1JgVMnVVOhPBmUDD7SYva3"
@@ -8957,6 +8975,24 @@
     },
     {
       "album": {
+        "name": "Life Is A Beach",
+        "url": "https://open.spotify.com/album/4TK5pOkXCTXDqgtC6E7g0H"
+      },
+      "artists": [
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143266,
+      "name": "Life Is A Beach",
+      "url": "https://open.spotify.com/track/3Z0WcZvat8eH1kn4mLer8s"
+    },
+    {
+      "album": {
         "name": "Likkle Riddim",
         "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
       },
@@ -10690,7 +10726,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 109333,
       "name": "Murda",
       "url": "https://open.spotify.com/track/05asUqfJz9ps3hnAQkMttp"
@@ -11005,6 +11041,28 @@
     },
     {
       "album": {
+        "name": "Niet Doen",
+        "url": "https://open.spotify.com/album/2mzWEU9GSWtRVZPKeo2DYC"
+      },
+      "artists": [
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        },
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180657,
+      "name": "Niet Doen (feat. Kempi)",
+      "url": "https://open.spotify.com/track/15GtBuDme0phDZO8E8W2ba"
+    },
+    {
+      "album": {
         "name": "Niet Hetzelfde (feat. Alessio)",
         "url": "https://open.spotify.com/album/5vDOcbFVe4uOauTMc2Y4F3"
       },
@@ -11042,7 +11100,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 142256,
       "name": "Niet op spelen",
       "url": "https://open.spotify.com/track/0tpFK2jhOAxHBgBBBJO6iM"
@@ -11068,6 +11126,28 @@
       "duration_ms": 126000,
       "name": "Niet Opzoek",
       "url": "https://open.spotify.com/track/4yegAeaRmvjFhNA8XD5rae"
+    },
+    {
+      "album": {
+        "name": "Niet Perfect",
+        "url": "https://open.spotify.com/album/5zzMKLGrnSicNAj2z5doao"
+      },
+      "artists": [
+        {
+          "name": "Toobss",
+          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
+        },
+        {
+          "name": "SydjeBW",
+          "url": "https://open.spotify.com/artist/7zs3xb2lF7fO8eDgddDqpX"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Niet Perfect",
+      "url": "https://open.spotify.com/track/0CB9HU2LvedKQxVD8daImr"
     },
     {
       "album": {
@@ -12004,7 +12084,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 180512,
       "name": "Outside (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt"
@@ -12360,7 +12440,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 136114,
       "name": "Paycation",
       "url": "https://open.spotify.com/track/2eLe2NhjAUYg2So10wVXzo"
@@ -12496,7 +12576,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 129651,
       "name": "persian girl",
       "url": "https://open.spotify.com/track/7eRZPR6E9xMtObnVfA1xIC"
@@ -13264,6 +13344,28 @@
       "duration_ms": 167372,
       "name": "RARRii",
       "url": "https://open.spotify.com/track/0RPEhK1UCgtLb9Nc97lA4R"
+    },
+    {
+      "album": {
+        "name": "Rashel",
+        "url": "https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "Rashel",
+      "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
     },
     {
       "album": {
@@ -15851,6 +15953,24 @@
     },
     {
       "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172394,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
+    },
+    {
+      "album": {
         "name": "Toute La Night",
         "url": "https://open.spotify.com/album/0SABD3TM0FJTEZ8qls4OzU"
       },
@@ -15954,7 +16074,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176326,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/31BsqR4z06NKoMnsvsMt5z"
@@ -15976,7 +16096,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 145500,
       "name": "Trap & Dance 1 (Fidel Castro)",
       "url": "https://open.spotify.com/track/3dnK1TRtxZQiAtlUELGIdU"
@@ -16136,7 +16256,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 134400,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/0AHFRN8Cp9qBMFnP7d9LzK"
@@ -16699,6 +16819,28 @@
     },
     {
       "album": {
+        "name": "Via via",
+        "url": "https://open.spotify.com/album/21QkfqGDiAq5hNv2shTL7w"
+      },
+      "artists": [
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131803,
+      "name": "Via Via",
+      "url": "https://open.spotify.com/track/71cXfWMNxBwSMYGSrPDfzx"
+    },
+    {
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/6DIBjtZBgMaFMAzUfljJPc"
       },
@@ -17198,7 +17340,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -17866,6 +18008,32 @@
       "duration_ms": 188139,
       "name": "Zak Dat",
       "url": "https://open.spotify.com/track/4S95ERtdulZdDr8dS9pRGZ"
+    },
+    {
+      "album": {
+        "name": "Zeg Het Je",
+        "url": "https://open.spotify.com/album/4cI1dHBU1irfYLPi9n1uvw"
+      },
+      "artists": [
+        {
+          "name": "Lucky Jones",
+          "url": "https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet"
+        },
+        {
+          "name": "Elf",
+          "url": "https://open.spotify.com/artist/3RYdggbT5C9r4BsljokJ1Q"
+        },
+        {
+          "name": "Hero",
+          "url": "https://open.spotify.com/artist/1rHkJiRhUBpjAsGvA3JWtl"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185361,
+      "name": "Zeg Het Je",
+      "url": "https://open.spotify.com/track/66ycx9BWaH4C3Ra7v64BTV"
     },
     {
       "album": {

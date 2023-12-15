@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,427 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,456 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 84 | [How We Rock](https://open.spotify.com/track/7kvmOl9he8v0649CG1KjLL) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [H1GHR : RED TAPE](https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT) | 4:40 |
 | 85 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 |
 | 86 | [Bite](https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Bite](https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA) | 3:39 |
-| 87 | [Replay](https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 2:43 |
-| 88 | [All The Way Up](https://open.spotify.com/track/0LPIfrP6dURnrG5qXweTDZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [All The Way Up](https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr) | 3:43 |
+| 87 | [All The Way Up](https://open.spotify.com/track/0LPIfrP6dURnrG5qXweTDZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [All The Way Up](https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr) | 3:43 |
+| 88 | [Replay](https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 2:43 |
 | 89 | [I Don’t Disappoint](https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:30 |
 | 90 | [ENGINE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1) | 3:40 |
 | 91 | [SOJU \(feat\. 2 Chainz\)](https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:48 |

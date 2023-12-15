@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vem de dm 🔥  ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,385 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,411 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 37 | [Como Se Fosse a Primeira Vez](https://open.spotify.com/track/7feU3MT0RImQ1pC2DJHbCw) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Como Se Fosse a Primeira Vez](https://open.spotify.com/album/0y13SIfG3kpyhMJWx01kYK) | 2:16 |
 | 38 | [Espelho Meu](https://open.spotify.com/track/7JDV1Mw6D8IQJst0w3NYmD) | [Dimitre](https://open.spotify.com/artist/4mzh8Rz93TKnaChyWoZGxz) | [Espelho meu](https://open.spotify.com/album/3uxyRYWIKDu89kIbt1AoUa) | 3:12 |
 | 39 | [ping pong](https://open.spotify.com/track/4eqGugaXrz8KLlFBO8FBMh) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [ping pong](https://open.spotify.com/album/5SSw7iIVLAS6KkFmSfgczZ) | 3:05 |
-| 40 | [Sem lançamento](https://open.spotify.com/track/5T9Mw2mK6Naw141IyGK93d) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Sem lançamento](https://open.spotify.com/album/3Jz8AePyjnd3NbB2Cldaai) | 2:48 |
+| 40 | [Quer um sorvete?](https://open.spotify.com/track/70p0fcNPOC1NmM4x1ziI7M) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/5P3hk2BAEI3cDIDmOaIDbC) | 2:48 |
 | 41 | [Coquinha de Café](https://open.spotify.com/track/2wKsVwVQzc9tp9zdNRmwB1) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Guilherme Galeno](https://open.spotify.com/artist/31aLhhJNZBcilYlPCXxdGv) | [Coquinha de Café](https://open.spotify.com/album/3HQ8wBouWUkLeljTZLKmtO) | 3:22 |
 | 42 | [Só Eu](https://open.spotify.com/track/6MOKtdcZrMOjTFcAOqKyQQ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Só Eu](https://open.spotify.com/album/5BP4n60jKYxbs3HSo2944E) | 2:52 |
 | 43 | [Ainda Lembro 2](https://open.spotify.com/track/5zEu047A1dckMMPk2ipsIP) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Ainda Lembro 2](https://open.spotify.com/album/7JmNFkUeNhHBgqAHlOucMP) | 3:00 |

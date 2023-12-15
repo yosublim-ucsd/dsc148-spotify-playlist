@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "Les meilleurs Pop Hits Maghr\u00e9bins sont ici. Cover: Plylist",
+  "description": "Les meilleurs Pop Hits Maghr\u00e9bins sont ici. Cover: Mounim Slimani",
   "name": "Top Maghreb Pop",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 259591,
       "name": "Allo - \u0627\u0644\u0648",
       "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
+    },
+    {
+      "album": {
+        "name": "Ana Lik",
+        "url": "https://open.spotify.com/album/2q0y1UupuNPvEzT6cZC8Nn"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152118,
+      "name": "Ana Lik",
+      "url": "https://open.spotify.com/track/5RF5tKkAi4rmPOZRBPaSoM"
     },
     {
       "album": {
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 204923,
       "name": "Mchat Alik",
       "url": "https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl"

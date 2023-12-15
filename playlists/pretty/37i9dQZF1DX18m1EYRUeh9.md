@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,526 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,743 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 37 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 38 | [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 |
 | 39 | [Nothing on Me](https://open.spotify.com/track/4qsv98a7IMkAJQzO1k8hkx) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:44 |
-| 40 | [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 |
+| 40 | [Never Fight The Way You Feel](https://open.spotify.com/track/4pZeOERX9UErM22y7nVjrL) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Domino](https://open.spotify.com/album/0YPLC3FyAYENuP3KhyLi2Q) | 2:43 |
 | 41 | [Bad State](https://open.spotify.com/track/5CiWTX6qSqNtHIAUcRaSmS) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/1KE5ZOll4qVQTZNLOjp3qa) | 2:23 |
 | 42 | [Too Much](https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [edbl & friends – Jackson Mathod](https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI) | 2:52 |
 | 43 | [Stalemate \(Edit\)](https://open.spotify.com/track/6Nc3VlsiqEZNvF42ziCCAl) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 6:43 |

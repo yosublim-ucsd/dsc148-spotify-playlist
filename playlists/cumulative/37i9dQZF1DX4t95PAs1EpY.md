@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-478 songs - 18 hr 24 min
+480 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [I Am a Flower](https://open.spotify.com/track/2jxi0UFqcT99mvQ05TjsFW) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Pilot Girl](https://open.spotify.com/album/1XJVz61Pjb6HJhhMTTIpxi) | 1:43 | 2021-12-07 | 2023-06-07 |
 | [i just really like you](https://open.spotify.com/track/1oiw4rSikuk2SHWxDDiwkq) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Neverland](https://open.spotify.com/album/7hqkuF8La9P8fpEh1lHSHF) | 2:39 | 2022-10-14 |  |
 | [i'm coming too \(Zion\)](https://open.spotify.com/track/1zSBHs3pALBjOlZHQFOD6S) | [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB), [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r) | [i'm coming too \(Zion\)](https://open.spotify.com/album/2mRIekQzraCUxdAWKvJDEY) | 1:50 | 2022-10-28 |  |
-| [Ice Cubes](https://open.spotify.com/track/7o2M9p2nBQzBBNOXCE1XPL) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Ice Cubes](https://open.spotify.com/album/0PQRvgoWtUJmbkXwNawC2d) | 2:18 | 2023-02-07 |  |
+| [Ice Cubes](https://open.spotify.com/track/7o2M9p2nBQzBBNOXCE1XPL) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Ice Cubes](https://open.spotify.com/album/0PQRvgoWtUJmbkXwNawC2d) | 2:18 | 2023-02-07 | 2023-12-15 |
 | [In My Head](https://open.spotify.com/track/6i83YIqDjFSe6zrNG8k0G4) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [In My Head](https://open.spotify.com/album/6n58bGQ0vW1pgM3ODMGgS8) | 2:03 | 2023-06-06 |  |
 | [in soft focus](https://open.spotify.com/track/0glnbDMV9T38Iy5d6xhB74) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [in soft focus](https://open.spotify.com/album/2CIJPBsMHx0LNW8BccodNN) | 2:07 | 2023-03-16 |  |
 | [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 | 2022-07-22 |  |
@@ -277,6 +277,7 @@
 | [Midnight Thoughts](https://open.spotify.com/track/174cmffB1DSf8pH4A14bDr) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [breakfast oats.](https://open.spotify.com/artist/60GtRTpm5lE77BuKLejtlw) | [Midnight Thoughts](https://open.spotify.com/album/0w1OFJ3h2RQ4oj1JHsBr6I) | 2:10 | 2022-05-13 | 2023-09-16 |
 | [Mikonos](https://open.spotify.com/track/0qnvXzItiOWH4YzNoztrPc) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Mikonos](https://open.spotify.com/album/5oJF59iGEfTX7grO1ovUy6) | 2:20 | 2022-04-08 | 2023-01-07 |
 | [Miles Away](https://open.spotify.com/track/35JriQLtao7FdiHcXRYjFr) | [H U M A](https://open.spotify.com/artist/5ZJJFdZwWeLYkv3P1GR1YL), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Miles Away](https://open.spotify.com/album/3uw1fjhnFM0D7iwBdUgZ4R) | 1:55 | 2022-08-19 | 2022-10-14 |
+| [minamii](https://open.spotify.com/track/58O3hjQt2WnaDxyxqtauH9) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [minamii](https://open.spotify.com/album/5h6hhA2XMVBxjjvZGB5CVb) | 1:57 | 2023-12-15 |  |
 | [miracle moments](https://open.spotify.com/track/6snIEB81asah6vQbdaOG9Z) | [flotate](https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS) | [miracle moments](https://open.spotify.com/album/6UkZPXSF0d6J2HU6zRH3E1) | 2:36 | 2021-12-07 |  |
 | [Miss Me](https://open.spotify.com/track/0QJf2jG5h87TjsbX3t1OdF) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH) | [Miss Me](https://open.spotify.com/album/5s8HyUB1RLqXY1WHXmUUL7) | 1:48 | 2023-08-31 |  |
 | [Misty](https://open.spotify.com/track/0e2vLETBobKiFlU41o32GJ) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Misty](https://open.spotify.com/album/0w8RDYGKcerJMVMB0dFDDK) | 2:24 | 2023-06-06 |  |
@@ -330,6 +331,7 @@
 | [Overgrown](https://open.spotify.com/track/3jwiD3PrS9xU6XjpLf9Qq7) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Overgrown](https://open.spotify.com/album/2nKtq2OE8jM8xmiAsgw44k) | 3:04 | 2023-03-16 |  |
 | [Pacific Ave](https://open.spotify.com/track/6G0L1J6Vg2kY2HHjdvKJ8E) | [Peaches & Boo](https://open.spotify.com/artist/0jts2tk2AOzVPENYEBK4TT) | [Pacific Ave](https://open.spotify.com/album/0N8NoIShc8iKKuLeaIEeEc) | 1:26 | 2021-12-07 | 2022-05-20 |
 | [Papayas](https://open.spotify.com/track/1bDLcjxSbBR4MCmxlkJpq7) | [Fritz Pants](https://open.spotify.com/artist/6gGcdv1surWW1Mh32Q3GF1) | [Papayas](https://open.spotify.com/album/5uxb6yqNQ8O8ZbIBmA0Oat) | 2:29 | 2023-06-06 |  |
+| [park stroll](https://open.spotify.com/track/6lDAtiAKi02GGDLGxZb1OO) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [park stroll](https://open.spotify.com/album/3kJAru3uOEp1A0IAdBcgHi) | 2:08 | 2023-12-15 |  |
 | [park stroll](https://open.spotify.com/track/1lm9DJDac6sVS6PyhDMMTv) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [park stroll & pathways](https://open.spotify.com/album/7azzpnzNfYqZQR3bCmuqYn) | 2:50 | 2021-12-07 | 2022-09-03 |
 | [park walk](https://open.spotify.com/track/2tYqNlXXcHJwBFStIOyZye) | [Jokabi](https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP) | [park walk](https://open.spotify.com/album/3gCAuvEpg2fYeroRriEk5F) | 2:04 | 2022-08-12 |  |
 | [parking lot](https://open.spotify.com/track/53vEyz7nn9Br7g4yR6uouX) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [parking lot](https://open.spotify.com/album/4fROUMc91P2AGZRlsKpOkC) | 2:40 | 2023-03-08 |  |

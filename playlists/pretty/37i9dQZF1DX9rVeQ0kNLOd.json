@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22653,
+  "num_followers": 22590,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "\u7d19\u4e00\u91cd",
-        "url": "https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN"
+        "name": "The Flame of Love",
+        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
         }
       ],
-      "duration_ms": 249477,
-      "name": "\u7d19\u4e00\u91cd",
-      "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
+      "duration_ms": 199117,
+      "name": "The Flame of Love",
+      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "The Flame of Love",
-        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
+        "name": "\u7d19\u4e00\u91cd",
+        "url": "https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN"
       },
       "artists": [
         {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "duration_ms": 199117,
-      "name": "The Flame of Love",
-      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
+      "duration_ms": 249477,
+      "name": "\u7d19\u4e00\u91cd",
+      "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
+        "name": "swipe sheep",
+        "url": "https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do"
+      },
+      "artists": [
+        {
+          "name": "Rin\u97f3",
+          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
+        }
+      ],
+      "duration_ms": 185378,
+      "name": "snow jam",
+      "url": "https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
         "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
         "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 224633,
       "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
       "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
-        "name": "swipe sheep",
-        "url": "https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do"
-      },
-      "artists": [
-        {
-          "name": "Rin\u97f3",
-          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
-        }
-      ],
-      "duration_ms": 185378,
-      "name": "snow jam",
-      "url": "https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-12 15:00:00",
       "album": {
-        "name": "\u3053\u3053\u306b\u3044\u3088\u3046",
-        "url": "https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK"
-      },
-      "artists": [
-        {
-          "name": "GADORO",
-          "url": "https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "\u3053\u3053\u306b\u3044\u3088\u3046",
-      "url": "https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
         "name": "\u820c\u6253",
         "url": "https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v"
       },
@@ -799,22 +783,6 @@
       "duration_ms": 177813,
       "name": "\u6e9c\u3081\u606f",
       "url": "https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb"
-    },
-    {
-      "added_at": "2023-12-12 15:00:00",
-      "album": {
-        "name": "\u5207\u611b",
-        "url": "https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf"
-      },
-      "artists": [
-        {
-          "name": "BASI",
-          "url": "https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "\u3053\u308c\u3060\u3051\u3067\u5341\u5206\u306a\u306e\u306b - (BASI REMIX)",
-      "url": "https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd"
     },
     {
       "added_at": "2023-12-12 15:00:00",
@@ -839,6 +807,38 @@
       "duration_ms": 211266,
       "name": "bathroom",
       "url": "https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
+        "name": "\u3053\u3053\u306b\u3044\u3088\u3046",
+        "url": "https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK"
+      },
+      "artists": [
+        {
+          "name": "GADORO",
+          "url": "https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "\u3053\u3053\u306b\u3044\u3088\u3046",
+      "url": "https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l"
+    },
+    {
+      "added_at": "2023-12-12 15:00:00",
+      "album": {
+        "name": "\u5207\u611b",
+        "url": "https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf"
+      },
+      "artists": [
+        {
+          "name": "BASI",
+          "url": "https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq"
+        }
+      ],
+      "duration_ms": 223346,
+      "name": "\u3053\u308c\u3060\u3051\u3067\u5341\u5206\u306a\u306e\u306b - (BASI REMIX)",
+      "url": "https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

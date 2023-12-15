@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 337906,
       "name": "When It's Love",
       "url": "https://open.spotify.com/track/7gG1RvwQRrofiL3tvq8pBI"
@@ -3574,6 +3574,24 @@
       "duration_ms": 300146,
       "name": "Who's Crying Now",
       "url": "https://open.spotify.com/track/5IK2FtuC0qmHHam9sWFxUI"
+    },
+    {
+      "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299653,
+      "name": "Who's Crying Now (2022 Remaster)",
+      "url": "https://open.spotify.com/track/4KWzsYmXYYbTjb4tYxulvd"
     },
     {
       "album": {

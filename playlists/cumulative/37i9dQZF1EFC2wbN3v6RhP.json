@@ -258,10 +258,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 194165,
       "name": "Bejeweled",
       "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
+    },
+    {
+      "album": {
+        "name": "Bejeweled",
+        "url": "https://open.spotify.com/album/1ijBGcd42yRaFSV8X9YAGE"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353861,
+      "name": "Bejeweled",
+      "url": "https://open.spotify.com/track/0Ikmd78xMknzbCN23IBDS4"
     },
     {
       "album": {

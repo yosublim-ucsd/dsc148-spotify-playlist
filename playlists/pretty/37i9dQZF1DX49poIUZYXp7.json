@@ -1,6 +1,6 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Megan Moroney",
-  "num_followers": 477515,
+  "num_followers": 477596,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
-        "name": "Pistol Made of Roses",
-        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+        "name": "Stronger Than I Am",
+        "url": "https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
         }
       ],
-      "duration_ms": 187749,
-      "name": "Fix You Too",
-      "url": "https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA"
+      "duration_ms": 176087,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3"
     },
     {
       "added_at": "2023-12-01 19:54:45",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-12-01 19:54:45",
       "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 187749,
+      "name": "Fix You Too",
+      "url": "https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA"
+    },
+    {
+      "added_at": "2023-12-01 19:54:45",
+      "album": {
         "name": "Never Will",
         "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 217706,
       "name": "Martha Divine",
       "url": "https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS"
-    },
-    {
-      "added_at": "2023-12-01 19:54:45",
-      "album": {
-        "name": "Stronger Than I Am",
-        "url": "https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg"
-      },
-      "artists": [
-        {
-          "name": "Lily Rose",
-          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
-        }
-      ],
-      "duration_ms": 176087,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3"
     },
     {
       "added_at": "2023-12-01 19:54:45",

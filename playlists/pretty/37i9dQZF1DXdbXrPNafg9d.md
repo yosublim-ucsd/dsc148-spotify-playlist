@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280,850 likes - 170 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,896 likes - 170 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 105 | [T\-Shirt](https://open.spotify.com/track/4nbUCgADOoOzz8bU8SXkk0) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [T\-Shirt](https://open.spotify.com/album/4xxjiWgYKD5P1g0SFKBqNh) | 2:47 |
 | 106 | [BUTTERFLY 나비](https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [A PROPHECY](https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg) | 2:28 |
 | 107 | [O SOFIA](https://open.spotify.com/track/0TfGE5Pt5ZfJwK7GDPtyAC) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [O SOFIA](https://open.spotify.com/album/6H0f6KUQWQPJ2Of4eHMzQH) | 2:31 |
-| 108 | [Tiny Flakes](https://open.spotify.com/track/6hFakqaFFxKhDBMaeeNErm) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Tiny Flakes](https://open.spotify.com/album/3yg20LHAIGJPmoDOo2Uy3S) | 4:43 |
+| 108 | [Tiny Flakes](https://open.spotify.com/track/1Y7l3gD4gzwcal9gSxLYpL) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Accompany](https://open.spotify.com/album/7MahDOJx7kRezzio0EFO5D) | 4:43 |
 | 109 | [Lonely Night \- French](https://open.spotify.com/track/2tG2dub4lqNVDvMuixmQTH) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Lonely Night](https://open.spotify.com/album/3Yn2hFCzeo7oRCXatwDiHl) | 3:29 |
 | 110 | [All In Vain](https://open.spotify.com/track/3ZINqVgKWFWJ6eNjtHRcYl) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [All In Vain](https://open.spotify.com/album/63HRl5LuCZyHWNXRkS3ZUC) | 3:08 |
 | 111 | [luchador](https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [luchador ep](https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0) | 2:22 |

@@ -1321,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "Broken Dreams",
+        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
+      },
+      "artists": [
+        {
+          "name": "Re-Style",
+          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
+        },
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222631,
+      "name": "Broken Dreams",
+      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
+    },
+    {
+      "album": {
         "name": "Brutal X",
         "url": "https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq"
       },
@@ -1700,7 +1722,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 199741,
       "name": "Chaos & Crime",
       "url": "https://open.spotify.com/track/6Ouzg40su5Hj3m1R0X32k6"
@@ -6114,7 +6136,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 199200,
       "name": "Inception",
       "url": "https://open.spotify.com/track/40PNoHlTWzatS0dbhah6AW"
@@ -7692,7 +7714,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 186000,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4YgTTzcixZv8jF8jL71YwO"
@@ -9464,7 +9486,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 227272,
       "name": "Pray 4 Party",
       "url": "https://open.spotify.com/track/5PzIVypjkmW2oJ9arHKa0D"
@@ -9951,6 +9973,24 @@
     },
     {
       "album": {
+        "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
+        "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235348,
+      "name": "Reflected Reality - Official Shockerz 2023 Anthem",
+      "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
+    },
+    {
+      "album": {
         "name": "REJECTOFRAGE",
         "url": "https://open.spotify.com/album/1EVU3jXj28NEYPR3KyotZR"
       },
@@ -10295,6 +10335,32 @@
     },
     {
       "album": {
+        "name": "Run For Cover (feat. Maikki)",
+        "url": "https://open.spotify.com/album/0o4HJX5cqF12QlPQsuyqXn"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274901,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/0sH9yijfwa77I4EwUFueFK"
+    },
+    {
+      "album": {
         "name": "Run From Reality",
         "url": "https://open.spotify.com/album/43eHHMBCkXFjxWdwda3XLQ"
       },
@@ -10440,6 +10506,24 @@
       "duration_ms": 223659,
       "name": "Running up That Hill",
       "url": "https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY"
+    },
+    {
+      "album": {
+        "name": "Sandstorm",
+        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188774,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
     },
     {
       "album": {
@@ -10604,7 +10688,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 213200,
       "name": "Shake The Ground",
       "url": "https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi"
@@ -11694,7 +11778,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 204350,
       "name": "Symphony - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/3GsarN4hTtOdfqU9dJ1cP5"
@@ -12382,6 +12466,36 @@
       "duration_ms": 206709,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/70y974H4TEVIuyImLTsAHV"
+    },
+    {
+      "album": {
+        "name": "This Deejay",
+        "url": "https://open.spotify.com/album/5Ee5i1mH1oGgm2NmfaYH9O"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195698,
+      "name": "This Deejay",
+      "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
     },
     {
       "album": {
@@ -13338,6 +13452,32 @@
       "duration_ms": 299957,
       "name": "Virtual Reality",
       "url": "https://open.spotify.com/track/38SDIW3EtlODsybg6c7OAO"
+    },
+    {
+      "album": {
+        "name": "Vois Sur Ton Chemin (Hardstyle)",
+        "url": "https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR"
+      },
+      "artists": [
+        {
+          "name": "Bern-AT & WARLEX",
+          "url": "https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf"
+        },
+        {
+          "name": "Enmity",
+          "url": "https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh"
+        },
+        {
+          "name": "crypvolk",
+          "url": "https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239034,
+      "name": "Vois Sur Ton Chemin - Hardstyle",
+      "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"
     },
     {
       "album": {

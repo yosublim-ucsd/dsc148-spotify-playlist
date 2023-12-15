@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=w5COGWuuThWSR57bXIsUzA">Xolly Mnchwango</a>
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA">Sneziey</a>
 
-180 songs - 18 hr 8 min
+181 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Ungikhathalele](https://open.spotify.com/track/6C6oM5DpJaeq2wyzQHAVRX) | [Jumbo](https://open.spotify.com/artist/3WsA13hdiZ1K7NwjemXvz9) | [Ungikhathalele](https://open.spotify.com/album/24bzMduuwBDsGtapX9lqnG) | 5:06 | 2018-09-24 | 2023-05-06 |
 | [Ungubaba](https://open.spotify.com/track/6e3EkJFMU2NALtPkC20IUp) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 4:17 | 2020-08-28 | 2023-06-16 |
 | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/track/2GrEouhLr4QoieMsy1LD8u) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/album/3NbtHoVq45LvFW1yS9Tjzn) | 7:14 | 2022-09-15 |  |
+| [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 6:15 | 2023-12-15 |  |
 | [Unjalo wena Kuphakama](https://open.spotify.com/track/4v0USK76OtYzuZ73g4FcZm) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Unjalo wena Kuphakama](https://open.spotify.com/album/6mlXloaetu8glEQSiVsROw) | 2:48 | 2023-08-18 | 2023-09-15 |
 | [Upperroom \(Live\)](https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Upperroom \(Live\)](https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg) | 7:18 | 2023-09-22 |  |
 | [Uthando Lwakho Luyangengama](https://open.spotify.com/track/3Epue4IrmtoN8KB4O2wF6R) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakho Luyangengama](https://open.spotify.com/album/5NH9mTLkfgXouUoDG9IhHg) | 4:28 | 2023-10-27 |  |

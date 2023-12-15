@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Omah Lay",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Kizz Daniel",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 148672,
       "name": "Butta My Bread",
       "url": "https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR"
@@ -2813,6 +2813,28 @@
     },
     {
       "album": {
+        "name": "Deadly (feat. Victony)",
+        "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181979,
+      "name": "Deadly (feat. Victony)",
+      "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
+    },
+    {
+      "album": {
         "name": "Dendisa",
         "url": "https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L"
       },
@@ -3866,7 +3888,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 184444,
       "name": "Fais \u00e7a bien",
       "url": "https://open.spotify.com/track/7lTpq4P6yA8YbldQ7CgcDx"
@@ -4289,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Garde ta position",
+        "url": "https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133584,
+      "name": "Garde ta position",
+      "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
+    },
+    {
+      "album": {
         "name": "Gbadun",
         "url": "https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO"
       },
@@ -4300,7 +4340,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 160000,
       "name": "Gbadun",
       "url": "https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F"
@@ -6809,6 +6849,24 @@
     },
     {
       "album": {
+        "name": "era 24",
+        "url": "https://open.spotify.com/album/3AtIL5qSiwp7dXB7Hjr8Nx"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135626,
+      "name": "M\u00e9chante - Bonus",
+      "url": "https://open.spotify.com/track/3NBSAeAixlWOpyTUuSePMZ"
+    },
+    {
+      "album": {
         "name": "O'bosso, Vol. 2 (Afro Swing Don Edition)",
         "url": "https://open.spotify.com/album/3FgQafXs5a8qM9ZuhUF4RH"
       },
@@ -6842,6 +6900,32 @@
       "duration_ms": 140253,
       "name": "M\u00e9lodie (Tatami)",
       "url": "https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7"
+    },
+    {
+      "album": {
+        "name": "Na nko",
+        "url": "https://open.spotify.com/album/1KCsbYW5kIb3lDaMhByDqS"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Na nko",
+      "url": "https://open.spotify.com/track/2JabqDTQuQ1vqNi6tYVbKE"
     },
     {
       "album": {
@@ -7236,7 +7320,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 182307,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
@@ -8489,6 +8573,28 @@
     },
     {
       "album": {
+        "name": "Rashel",
+        "url": "https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "Rashel",
+      "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
+    },
+    {
+      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -9290,7 +9396,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 178262,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3XCFxDCTrEONvcyiooiVMc"
@@ -10219,6 +10325,24 @@
     },
     {
       "album": {
+        "name": "Too Busy To Be Bae",
+        "url": "https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177203,
+      "name": "Too Busy To Be Bae",
+      "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
+    },
+    {
+      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -10328,7 +10452,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 175842,
       "name": "Tout couper",
       "url": "https://open.spotify.com/track/5qeK6PMxjJAqgx3wPuVlJ2"

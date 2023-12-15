@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-663 songs - 2 day 9 hr 15 min
+664 songs - 2 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Get Out! Now!](https://open.spotify.com/track/1bqmDGI38tQZRX4B5ssTHt) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Dee Snider](https://open.spotify.com/artist/2pD123sZTm8brthWviUKlQ), [Tom Baker](https://open.spotify.com/artist/2tavQL0L3uLZYV2HyXvpGm), [Marcela Bovio](https://open.spotify.com/artist/5tXNu1Z66uFlhcDSdRLP6i), [Caroline Westendorp](https://open.spotify.com/artist/4SIUiZEikEKimM7BjiH0Gd), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8), [Joost van den Broek](https://open.spotify.com/artist/2HmiEUdBpKXIVcbfKYQmmk) | [Transitus](https://open.spotify.com/album/59ZZ5lCjcxyHz1ULozDnmA) | 5:02 | 2022-07-08 | 2022-09-03 |
 | [Get Out! Now! \(feat\. Tom Baker, Dee Snider, Marcela Bovio, Caroline Westendorp, Joe Satriani, Joost van den Broek\)](https://open.spotify.com/track/62tBqHIXChqpGfdjA3JaA2) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Caroline Westendorp](https://open.spotify.com/artist/4SIUiZEikEKimM7BjiH0Gd), [Dee Snider](https://open.spotify.com/artist/2pD123sZTm8brthWviUKlQ), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8), [Joost van den Broek](https://open.spotify.com/artist/2HmiEUdBpKXIVcbfKYQmmk), [Marcela Bovio](https://open.spotify.com/artist/5tXNu1Z66uFlhcDSdRLP6i), [Tom Baker](https://open.spotify.com/artist/2tavQL0L3uLZYV2HyXvpGm) | [Hopelessly Slipping Away / Get Out! Now!](https://open.spotify.com/album/2pRitSnhUHD1wtOcFpI3Q3) | 5:02 | 2021-12-17 | 2022-07-21 |
 | [Ghost Horses](https://open.spotify.com/track/7MDcO067h1hlRrUmkaP2Yq) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Ghost Horses](https://open.spotify.com/album/4z1sS5gWwT0QoNfZIMhk5J) | 5:53 | 2021-12-17 | 2022-09-03 |
-| [Ghost Pains](https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr) | [Life Barrier](https://open.spotify.com/artist/27vqyARCCaYTZQXlaMNJLY) | [Ghost Pains](https://open.spotify.com/album/1K675PF4REEeBp5eGstXWA) | 4:19 | 2023-01-20 |  |
+| [Ghost Pains](https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr) | [Life Barrier](https://open.spotify.com/artist/27vqyARCCaYTZQXlaMNJLY) | [Ghost Pains](https://open.spotify.com/album/1K675PF4REEeBp5eGstXWA) | 4:19 | 2023-01-20 | 2023-12-15 |
 | [Glass](https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Glass](https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc) | 3:46 | 2023-12-06 |  |
 | [Go With Your Ghost](https://open.spotify.com/track/4qa0jsQWm6pUWeffnaYxYT) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Go With Your Ghost](https://open.spotify.com/album/7huklU2xBCjc6Ms0nJjHc3) | 4:03 | 2021-12-17 | 2022-05-09 |
 | [God is in the Slumber](https://open.spotify.com/track/5CiLiwu8FzetlzVa15taDs) | [Hippotraktor](https://open.spotify.com/artist/2gK9GyHbKYyvigK6wOb7pv) | [God is in the Slumber](https://open.spotify.com/album/5rDrzED7ZQRb706aNnElUh) | 4:35 | 2021-12-17 | 2022-07-26 |
@@ -382,6 +382,7 @@
 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 |  |
 | [Nowhere](https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me) | 5:02 | 2022-10-28 |  |
 | [Nowhere](https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv) | 5:02 | 2022-07-13 | 2022-11-20 |
+| [Nyetflix and Chill](https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [Nyetflix and Chill](https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe) | 3:23 | 2023-12-06 |  |
 | [Obsolete Beings](https://open.spotify.com/track/0FiVaht935tCYXQFMJF5uX) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Obsolete Beings](https://open.spotify.com/album/3mZkwo2gwJP5smBjH04Hp9) | 5:34 | 2021-12-17 | 2022-01-29 |
 | [Ocean Floor](https://open.spotify.com/track/46BZw3T2wk1Y38U04wUUTn) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [I Wonder](https://open.spotify.com/album/4c3hETZkctstH28srhPFZh) | 6:17 | 2021-12-17 | 2022-07-17 |
 | [Ocean in the Sky](https://open.spotify.com/track/0FyPJSY4kuQwwd6Bras3ek) | [NUTRONIC](https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/7o7ksjM61aXwu3x91xLS4V) | 6:06 | 2022-09-02 | 2023-01-21 |

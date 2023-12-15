@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : The Killers",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : The Libertines",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 191589,
       "name": "DESPERATE BREAKFAST",
       "url": "https://open.spotify.com/track/0dWxRisAsPcoN1DOWj4hRR"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 236426,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP"
@@ -1010,6 +1010,28 @@
       "duration_ms": 248340,
       "name": "Night Of The Hunter",
       "url": "https://open.spotify.com/track/0ytE5aUxuTyXXrUiQMyHUq"
+    },
+    {
+      "album": {
+        "name": "Northern Attitude (with Hozier)",
+        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267256,
+      "name": "Northern Attitude (with Hozier)",
+      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
     },
     {
       "album": {
@@ -1118,6 +1140,24 @@
       "duration_ms": 183386,
       "name": "Plastic Island",
       "url": "https://open.spotify.com/track/5sZUG9b9QXD0sRDNy1z2vh"
+    },
+    {
+      "album": {
+        "name": "Religion for One",
+        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199727,
+      "name": "Religion for One",
+      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
     },
     {
       "album": {
@@ -1332,7 +1372,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 283093,
       "name": "Skipping Like A Stone (feat. Beck)",
       "url": "https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2"
@@ -1660,6 +1700,24 @@
       "duration_ms": 187566,
       "name": "Time Of Your Life",
       "url": "https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl"
+    },
+    {
+      "album": {
+        "name": "TREES",
+        "url": "https://open.spotify.com/album/6vZAJX21PTGk70FR4IZ7De"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "TREES",
+      "url": "https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY"
     },
     {
       "album": {

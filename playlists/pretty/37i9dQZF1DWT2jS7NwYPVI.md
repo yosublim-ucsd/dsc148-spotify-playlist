@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: Palaye Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,724 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,798 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 78 | [Basement](https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Basement](https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz) | 3:24 |
 | 79 | [I Think You Should Leave](https://open.spotify.com/track/6YcrBSmLlD2vRUjAQkcUtL) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I Think You Should Leave](https://open.spotify.com/album/1XsERUmCUSsSnoGCsNpbX3) | 2:43 |
 | 80 | [Limousine](https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Limousine](https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh) | 3:21 |
-| 81 | [Chewed Up](https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s) | 2:34 |
+| 81 | [Chewed Up](https://open.spotify.com/track/6hz0UeyredFZmDkfDvtEkU) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Chewed Up](https://open.spotify.com/album/5ZUguAVzSt5Yz8toCv7KGX) | 2:34 |
 | 82 | [Final Summer](https://open.spotify.com/track/1Vl9uXkXwSCEit0hafWtFd) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Final Summer](https://open.spotify.com/album/1QXeBl2ZJ382SCUs2uqJK5) | 2:36 |
 | 83 | [Bandaid](https://open.spotify.com/track/0C6LlhYKEYyQHjhDfyM2Oh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Bandaid](https://open.spotify.com/album/6FOv6s2xRkMWAXwNpL2L36) | 2:54 |
 | 84 | [So Long](https://open.spotify.com/track/1mQYvjPXigBBxEyM6VfPPp) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Stupid and Famous](https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0) | 1:54 |

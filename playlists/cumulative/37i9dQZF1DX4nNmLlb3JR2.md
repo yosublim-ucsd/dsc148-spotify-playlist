@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-219 songs - 8 hr 46 min
+220 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [chandelier](https://open.spotify.com/track/25AjoIOjVfxe6kgE9ftvep) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [chandelier](https://open.spotify.com/album/7rd5lKApMDcncjp7ZBEoMQ) | 3:33 | 2023-01-06 |  |
 | [changes \- lofi](https://open.spotify.com/track/48c0IQHjMzz0ZVjObrCs9K) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [lofi chill vibes with 2Pac](https://open.spotify.com/album/5W1jGRoH27AASKghzZmt4Q) | 2:18 | 2023-08-21 | 2023-10-19 |
 | [Chasing Cars](https://open.spotify.com/track/1VOGwVCwqfCN57a1g1ZMSg) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/070uuSMrffZLnxkqseJehl) | 2:31 | 2022-09-02 | 2022-10-02 |
-| [Chasing Cars](https://open.spotify.com/track/2kGy10LaMDzVoSjB3t4xAq) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/0MvaTmVF5rnkSZlLLNfLzo) | 2:31 | 2022-09-30 |  |
+| [Chasing Cars](https://open.spotify.com/track/2kGy10LaMDzVoSjB3t4xAq) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/0MvaTmVF5rnkSZlLLNfLzo) | 2:31 | 2022-09-30 | 2023-12-15 |
 | [Children](https://open.spotify.com/track/7JcLj7YKRbjFnoMFHOPTi3) | [RetroBlend](https://open.spotify.com/artist/0RbBkpf8a8qyPt7hi8ouT7), [Vincent Lee](https://open.spotify.com/artist/0cuXND9aMsZhko0y3w8uxw), [2Bough](https://open.spotify.com/artist/5oie92RnkCpuSHGWiReZtq) | [Children](https://open.spotify.com/album/6geMwmmof8UzPHf1Sa601e) | 2:05 | 2023-08-28 |  |
 | [Circles](https://open.spotify.com/track/1D7pJ9CBEQa9O48kgB5acI) | [<3BEAT](https://open.spotify.com/artist/1GXEDNbnO4Zq5DSNfayzN5) | [Feelin' Cute](https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12) | 3:03 | 2022-09-02 | 2023-10-19 |
 | [Closer](https://open.spotify.com/track/2up6gzK4iCDRe03q15Ed1U) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD) | [Closer](https://open.spotify.com/album/7LqUb7JXODvXG8oL03pgyZ) | 1:30 | 2022-09-02 |  |
@@ -54,6 +54,7 @@
 | [crazy](https://open.spotify.com/track/5Ef8wG2dTT24vh4a79IWin) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [crazy](https://open.spotify.com/album/50wsgeti0VbzwGjs4458yM) | 2:15 | 2022-12-09 |  |
 | [creep](https://open.spotify.com/track/0uqoO6T12XapKNDvsD0vUz) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [take cover](https://open.spotify.com/album/4miMnywBrNgI5A3P45Gj6P) | 3:08 | 2022-09-02 |  |
 | [Creepin](https://open.spotify.com/track/33nYtG8rlanRyq3v9bcb6w) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Creepin](https://open.spotify.com/album/0jZdGZMQud5jzPD3bxLlbj) | 3:10 | 2023-04-03 |  |
+| [cruel summer](https://open.spotify.com/track/5doH6Rkv9E1qoDPzboyzr2) | [Leo Zane](https://open.spotify.com/artist/7xIrUrdfYoRUQdcBUGP3di) | [cruel summer](https://open.spotify.com/album/4sEGykzuyEK0vfexHbBr2x) | 1:56 | 2023-12-15 |  |
 | [Dance Monkey \- lofi version](https://open.spotify.com/track/17DdnBLc7zGBiPeS6mT6PR) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Covers of 2020 by Golden Era \- An Epic LoFi Edit Collection](https://open.spotify.com/album/6fmm45uHKdFF6wgeAyXa4d) | 3:11 | 2022-09-02 | 2023-11-24 |
 | [dancing in the moonlight](https://open.spotify.com/track/1ZlN7b6imuKQUQa7ZoRmvk) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [dancing in the moonlight](https://open.spotify.com/album/5r9jGo8HPdSpDJRW7ofhSv) | 2:17 | 2022-12-16 |  |
 | [DEAR APRIL](https://open.spotify.com/track/5R2ZqLZeKRzAEH1eehC4LM) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [Cover Art](https://open.spotify.com/album/494oa37Z1PTRpKolGp5JO8) | 2:15 | 2022-09-02 |  |

@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-228 songs - 10 hr 40 min
+229 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Dark Sky City](https://open.spotify.com/track/3PlXrxRDrSpg2JEShdEPGY) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:37 | 2022-05-13 | 2023-12-09 |
 | [Dawning](https://open.spotify.com/track/57u6QzHGiQ3StJd6jvdrBF) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dawning](https://open.spotify.com/album/763ZNUvb9O0SpjjcpakkvV) | 2:24 | 2022-05-13 |  |
 | [deep wild](https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [deep wild](https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh) | 2:32 | 2023-11-24 |  |
+| [Departure](https://open.spotify.com/track/3Z4WkV2DCXy0PhrsmjejtD) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Departure](https://open.spotify.com/album/72SigODeRfd6EU7mYgbOLs) | 3:25 | 2023-12-15 |  |
 | [Distant Roads](https://open.spotify.com/track/6GLI5euDmcPIB19IjyqzDP) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Distant Roads](https://open.spotify.com/album/3GxH3FW59guYKpYi3ok0y6) | 2:47 | 2022-10-07 |  |
 | [Dunlin](https://open.spotify.com/track/7LQGIJsi90gdSKo5yzEDOb) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Swan](https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk) | 2:22 | 2022-05-13 | 2023-12-09 |
 | [Echoed Memory](https://open.spotify.com/track/4oNCXU6RZG6qpVDAfZUoEh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Echoed Memory](https://open.spotify.com/album/4YPcKVNUkNycSD4tdfsWDh) | 2:08 | 2023-04-28 |  |
@@ -83,7 +84,7 @@
 | [Frozen Lakes](https://open.spotify.com/track/0acEauszFAvCGw9cNF0kZM) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Frozen Lakes](https://open.spotify.com/album/33iYingDDSa1X0iPiotQT8) | 2:46 | 2023-11-24 |  |
 | [Fulfillment](https://open.spotify.com/track/6oX1TzgDmZQfQywfNBKx9J) | [Briére](https://open.spotify.com/artist/0yDkxn6hxSnJ9jtlcY8xfq) | [Fulfillment](https://open.spotify.com/album/3X1hYyV8Sv3KpkT8RtLMQU) | 3:04 | 2022-11-18 |  |
 | [Further Than Far](https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Further Than Far](https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX) | 2:48 | 2023-11-24 |  |
-| [Going In Circles](https://open.spotify.com/track/6Fkjd2eFXuHC8tGGn2eLBo) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [Going In Circles](https://open.spotify.com/album/6Brv2ew17Cu7gTBZho5P3Z) | 2:29 | 2022-09-09 |  |
+| [Going In Circles](https://open.spotify.com/track/6Fkjd2eFXuHC8tGGn2eLBo) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [Going In Circles](https://open.spotify.com/album/6Brv2ew17Cu7gTBZho5P3Z) | 2:29 | 2022-09-09 | 2023-12-15 |
 | [Going South](https://open.spotify.com/track/0j2Md7ZOc77W7x7A9Ng7iz) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Going South \(Rework 2022\)](https://open.spotify.com/album/43qV2tqhDNrjxySBbXQZkq) | 2:23 | 2022-12-23 | 2023-06-10 |
 | [Golden Hours](https://open.spotify.com/track/2roySwrcc0FUTKV1JNUwle) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Golden Hours](https://open.spotify.com/album/5BJW6pgJ5dKnPMmvhy622K) | 2:57 | 2022-10-28 |  |
 | [Golden Sunlight](https://open.spotify.com/track/6f0V6AQ5jEUxe8LULVJsmE) | [Humasnó](https://open.spotify.com/artist/2Wz9qZXuCKpiz1XY33xXOp) | [Golden Sunlight](https://open.spotify.com/album/0GWFhwNMKAeZieFJu523gt) | 1:53 | 2023-05-19 | 2023-09-16 |

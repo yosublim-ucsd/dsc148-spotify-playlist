@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo: KeBlack\n",
+  "description": "Photo: Ninho",
   "name": "Best Life",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 189339,
       "name": "24",
       "url": "https://open.spotify.com/track/00anelAwwFxJXHD5MykhwG"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 170527,
       "name": "Eh toi",
       "url": "https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Sans Coeur",
       "url": "https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4"
@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Traficante",
+        "url": "https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Traficante",
+      "url": "https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj"
+    },
+    {
+      "album": {
         "name": "Trop Bizarre",
         "url": "https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI"
       },
@@ -1274,6 +1292,24 @@
       "duration_ms": 145620,
       "name": "Y Dor",
       "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
+    },
+    {
+      "album": {
+        "name": "Yemma",
+        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157625,
+      "name": "Yemma",
+      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
     },
     {
       "album": {

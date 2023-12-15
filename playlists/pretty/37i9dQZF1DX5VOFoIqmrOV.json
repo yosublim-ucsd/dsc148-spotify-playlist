@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Ala Vaikunthapurramuloo",
-  "num_followers": 313938,
+  "num_followers": 314072,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Kumari 21 F",
+        "url": "https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "duration_ms": 299290,
+      "name": "Meghaalu Lekunna",
+      "url": "https://open.spotify.com/track/4YpxBrMONvVqbmXmYI2P5M"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Nenu Sailaja",
         "url": "https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 209961,
       "name": "Crazy Feeling",
       "url": "https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Agnyaathavaasi",
-        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Baitikochi Chuste",
-      "url": "https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -421,20 +421,20 @@
       "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
+      "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Kumari 21 F",
-        "url": "https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc"
+        "name": "Agnyaathavaasi",
+        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
       },
       "artists": [
         {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         }
       ],
-      "duration_ms": 299290,
-      "name": "Meghaalu Lekunna",
-      "url": "https://open.spotify.com/track/4YpxBrMONvVqbmXmYI2P5M"
+      "duration_ms": 206666,
+      "name": "Baitikochi Chuste",
+      "url": "https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -491,26 +491,6 @@
       "duration_ms": 225034,
       "name": "Jinthaak Chithaka (From \"Dhamaka\")",
       "url": "https://open.spotify.com/track/2u9LdS454v6gjzDOhCQrmJ"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Nava Manmadhudu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WIwDUoFvEy6o01B29dIz0"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 214765,
-      "name": "Emannavoo",
-      "url": "https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -579,6 +559,26 @@
       "duration_ms": 263505,
       "name": "Nee Chitram Choosi",
       "url": "https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Nava Manmadhudu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WIwDUoFvEy6o01B29dIz0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "duration_ms": 214765,
+      "name": "Emannavoo",
+      "url": "https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "MCA",
+        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
+      },
+      "artists": [
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Sravana Bhargavi",
+          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
+        }
+      ],
+      "duration_ms": 204230,
+      "name": "Yevandoi Nani Garu",
+      "url": "https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Son Of Satyamurthy",
         "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 278188,
       "name": "Super Machi",
       "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "MCA",
-        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
-      },
-      "artists": [
-        {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        },
-        {
-          "name": "Sravana Bhargavi",
-          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
-        }
-      ],
-      "duration_ms": 204230,
-      "name": "Yevandoi Nani Garu",
-      "url": "https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g"
     },
     {
       "added_at": "2023-08-07 09:11:28",

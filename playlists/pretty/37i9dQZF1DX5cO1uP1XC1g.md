@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=0YJbRhSmTM\-p68DBwaI\_Ag">Assala</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,441 likes - 45 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,614 likes - 45 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

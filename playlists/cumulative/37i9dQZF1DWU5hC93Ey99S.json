@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/1ZP90zyxvU4zTy6qSYLq2m"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170384,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/1eiD9V8Ypb1ASaEQrtwWNw"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P"
       },
@@ -1409,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "DESCEND",
+        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "DESCEND",
+      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
+    },
+    {
+      "album": {
         "name": "die young (33 Below Remix)",
         "url": "https://open.spotify.com/album/4CuHqQsLcaHoiveB3Evl6v"
       },
@@ -2564,6 +2600,24 @@
       "duration_ms": 221311,
       "name": "Home",
       "url": "https://open.spotify.com/track/7LcoNxnl1UpDTVlFxyWuc7"
+    },
+    {
+      "album": {
+        "name": "How Do U Feel",
+        "url": "https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7"
+      },
+      "artists": [
+        {
+          "name": "HU",
+          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "How Do U Feel",
+      "url": "https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1"
     },
     {
       "album": {
@@ -5407,6 +5461,24 @@
     },
     {
       "album": {
+        "name": "see u",
+        "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130615,
+      "name": "see u",
+      "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
+    },
+    {
+      "album": {
         "name": "See You / Feel So Lonely",
         "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
       },
@@ -5501,6 +5573,32 @@
     },
     {
       "album": {
+        "name": "Sign Of The Times",
+        "url": "https://open.spotify.com/album/5mbMwlniFCiNRDDV43dKok"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "Fylo",
+          "url": "https://open.spotify.com/artist/5pXpBRwYE8x1Gy8PnBqyG7"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202736,
+      "name": "Sign Of The Times",
+      "url": "https://open.spotify.com/track/2ARN7wBXxusGxT1plo4X6O"
+    },
+    {
+      "album": {
         "name": "Silence In The Hollow",
         "url": "https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ"
       },
@@ -5578,6 +5676,46 @@
       "duration_ms": 165992,
       "name": "sleeping satellite",
       "url": "https://open.spotify.com/track/63MQ2xbknPiLzGHLMEFt3Z"
+    },
+    {
+      "album": {
+        "name": "Small Sanctuary (nimino Remix)",
+        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252187,
+      "name": "Small Sanctuary - nimino Remix",
+      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
+    },
+    {
+      "album": {
+        "name": "valo",
+        "url": "https://open.spotify.com/album/3fBbbnUJxjPQ81d8rMZgFr"
+      },
+      "artists": [
+        {
+          "name": "henri",
+          "url": "https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "so cold",
+      "url": "https://open.spotify.com/track/3WN37jy92FcsxyLSebdnQm"
     },
     {
       "album": {
@@ -6116,6 +6254,24 @@
       "duration_ms": 223056,
       "name": "The Pace - niina Remix",
       "url": "https://open.spotify.com/track/4yI1ZlRHKK5oUkcbdunYpJ"
+    },
+    {
+      "album": {
+        "name": "the search",
+        "url": "https://open.spotify.com/album/1s1PoYSfV17Cu2Ee1qvbG1"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187341,
+      "name": "the search",
+      "url": "https://open.spotify.com/track/6YGQnwuKcbKIMkDwjwLBWA"
     },
     {
       "album": {

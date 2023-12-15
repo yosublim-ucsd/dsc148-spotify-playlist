@@ -266,10 +266,32 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 226371,
       "name": "Flow Cabron",
       "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
+    },
+    {
+      "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
+      },
+      "artists": [
+        {
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226324,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
     },
     {
       "album": {

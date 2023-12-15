@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Les hits marocains du moment. Cover: Morad, GIMS",
+  "description": "Les hits marocains du moment. Cover: Tawsen",
   "name": "Maroc Hits",
   "tracks": [
     {
@@ -1607,6 +1607,28 @@
     },
     {
       "album": {
+        "name": "El 7ob Sa3b",
+        "url": "https://open.spotify.com/album/2G28Q9Sn9WWgPFuCd5fWU8"
+      },
+      "artists": [
+        {
+          "name": "Masri",
+          "url": "https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA"
+        },
+        {
+          "name": "Chirin",
+          "url": "https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "El 7ob Sa3b",
+      "url": "https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G"
+    },
+    {
+      "album": {
         "name": "El Hala'",
         "url": "https://open.spotify.com/album/72a9NuF8ZI7ynsbjqGEj3o"
       },
@@ -1852,6 +1874,24 @@
       "duration_ms": 195840,
       "name": "Ghadi Jay",
       "url": "https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf"
+    },
+    {
+      "album": {
+        "name": "Ghanili",
+        "url": "https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI"
+      },
+      "artists": [
+        {
+          "name": "Kawtar",
+          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Ghanili",
+      "url": "https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0"
     },
     {
       "album": {
@@ -2924,7 +2964,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 242708,
       "name": "L7ARB - Spotify Singles",
       "url": "https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa"
@@ -3250,6 +3290,24 @@
       "duration_ms": 196965,
       "name": "Lberra7",
       "url": "https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN"
+    },
+    {
+      "album": {
+        "name": "LEHMAM",
+        "url": "https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "LEHMAM - \u0627\u0644\u062d\u0645\u0627\u0645",
+      "url": "https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk"
     },
     {
       "album": {
@@ -5362,7 +5420,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 229776,
       "name": "TAY9 - Spotify Singles",
       "url": "https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG"
@@ -5446,7 +5504,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 206511,
       "name": "TODO BEN\u00c9 - Spotify Singles",
       "url": "https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd"
@@ -5468,7 +5526,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176589,
       "name": "Unplugged - Spotify Singles",
       "url": "https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN"
@@ -6048,6 +6106,28 @@
       "duration_ms": 162185,
       "name": "Ykoun Li Ykoun",
       "url": "https://open.spotify.com/track/6NMJafTjSDcjwX3rYwvSug"
+    },
+    {
+      "album": {
+        "name": "Zahri",
+        "url": "https://open.spotify.com/album/6Y1e0RlGzHc4GGIu8bOePo"
+      },
+      "artists": [
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Zahri",
+      "url": "https://open.spotify.com/track/2zNX2jsAoYjWoSWNvdVzRr"
     },
     {
       "album": {

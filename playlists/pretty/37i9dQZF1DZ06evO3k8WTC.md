@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,571 likes - 32 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,572 likes - 32 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 16 | [Metronome Arthritis](https://open.spotify.com/track/6qNexfLfNiGD3RPiaUvqNT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 4:00 |
 | 17 | [Cosmonaut](https://open.spotify.com/track/4rLFh3Mt36EZHB6C2ytNi3) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 3:23 |
 | 18 | [Communication Drive\-in](https://open.spotify.com/track/5zRFyfg5g32auwHudWKNca) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 1:44 |
-| 19 | [Pickpocket](https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 2:38 |
+| 19 | [Hulahoop Wounds](https://open.spotify.com/track/3uwAwOdZubXp2xdN8t85cw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:24 |
 | 20 | [198d](https://open.spotify.com/track/4YvaVYEOZdrpwd6HlalDXO) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 4:04 |
 | 21 | [Invalid Litter Dept.](https://open.spotify.com/track/003EH00EjWXmkmNMpQH1Sv) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 6:05 |
 | 22 | [No Wolf Like The Present](https://open.spotify.com/track/0LbD8kPWxh8kyce8RoC4T7) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:39 |
-| 23 | [Hulahoop Wounds](https://open.spotify.com/track/3uwAwOdZubXp2xdN8t85cw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:24 |
+| 23 | [Pickpocket](https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 2:38 |
 | 24 | [Ursa Minor](https://open.spotify.com/track/6xfIRp2iifXKbNYOUsLY76) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:22 |
 | 25 | [Ebroglio](https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:47 |
 | 26 | [Tilting At The Univendor](https://open.spotify.com/track/31tEi0FX1c4bABw8yDNiRu) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:26 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 31 | [Ticklish](https://open.spotify.com/track/52u5f5h1sARj7zEmHi2o6G) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 4:35 |
 | 32 | [Continuum](https://open.spotify.com/track/67GKBxCS4OBLzigktvn2Un) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 4:02 |
 
-Snapshot ID: `MjgzNzQ0ODUsMDAwMDAwMDAwYzc3NTg1N2JlYmZjNGU1ZjRjZGE0MDBhNGQ5MDY0ZA==`
+Snapshot ID: `MjgzNzU5MDgsMDAwMDAwMDBlN2MyZmIzNTY3ZTM1ZDkzMGJjZmI2N2ZmN2M1Yzg5YQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,438 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,446 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 23 | [Dilbar Arabic](https://open.spotify.com/track/5EdkHBTXHVXrLz1AkIMweE) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Fnaire](https://open.spotify.com/artist/1g8q1m1XjmUW8zOO3vCqcW), [Mohcine Tizaf](https://open.spotify.com/artist/2iO6cqotEJYZC0H3mch1ZC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dilbar Arabic](https://open.spotify.com/album/4EF0E4sgNEA27ZrB4QMbjy) | 3:18 |
 | 24 | [Dil Bechara](https://open.spotify.com/track/4UJkUnfEEL8B2JZ1OQfYOO) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 2:43 |
 | 25 | [Ishq](https://open.spotify.com/track/0AKWRh7wMW7Pzz2xo7SXlV) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [shipra goyal](https://open.spotify.com/artist/2RYQVpBwHLxuqpDZtlM5BP), [Myles Castello](https://open.spotify.com/artist/7o91XC7guOffmKcTtc5UvS) | [Ishq](https://open.spotify.com/album/2eYD0f2Tp1n8GQbmDoVft3) | 3:41 |
-| 26 | [Didi](https://open.spotify.com/track/6ZOSOeJi0C6FAOUVn1YD6Q) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Khaled](https://open.spotify.com/album/5vp5VVCujQe9SmpSaD4uEL) | 5:00 |
-| 27 | [First Class \(Kalank\)](https://open.spotify.com/track/2EvGNKagKtvFeZMLjOfgDP) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oGrVe1XTTji8TBQh5eJit) | 4:36 |
+| 26 | [First Class \(Kalank\)](https://open.spotify.com/track/2EvGNKagKtvFeZMLjOfgDP) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oGrVe1XTTji8TBQh5eJit) | 4:36 |
+| 27 | [Didi](https://open.spotify.com/track/6ZOSOeJi0C6FAOUVn1YD6Q) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Khaled](https://open.spotify.com/album/5vp5VVCujQe9SmpSaD4uEL) | 5:00 |
 | 28 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
 | 29 | [The Naari Naari Song \(From "Made in China"\)](https://open.spotify.com/track/0VhKdIMXZ3INkyDoIyPy5l) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [The Naari Naari Song \(From "Made in China"\)](https://open.spotify.com/album/6C6MkQFaFZpyMnH5aVdqqL) | 3:17 |
 | 30 | [YE YE](https://open.spotify.com/track/6CVSoFxNZtg0RpRNTAYopU) | [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [YE YE](https://open.spotify.com/album/1z3ZJREitHx8NeJ4Jg2sAF) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 52364,
+  "num_followers": 52400,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "looking 4 me",
-        "url": "https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 147245,
-      "name": "looking 4 me",
-      "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Come Around",
         "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 228706,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "looking 4 me",
+        "url": "https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 147245,
+      "name": "looking 4 me",
+      "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/3DZExPtWIJE8LPMCLpHGxK"
     },
     {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Ultralight",
+        "url": "https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Ultralight",
+      "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "I Don't Care",
@@ -971,22 +987,6 @@
       "duration_ms": 187506,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1hti59rRsgErr8lhgMMHK7"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Ultralight",
-        "url": "https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Ultralight",
-      "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Viper Style / Lana",
-        "url": "https://open.spotify.com/album/7Ad97zEHtyN7GNLN9lGhGc"
-      },
-      "artists": [
-        {
-          "name": "Halogenix",
-          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
-        }
-      ],
-      "duration_ms": 206919,
-      "name": "Lana",
-      "url": "https://open.spotify.com/track/33VXCIGxpVYgntrRjhCsJo"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "High Roller",
         "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 275862,
       "name": "High Roller",
       "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Viper Style / Lana",
+        "url": "https://open.spotify.com/album/7Ad97zEHtyN7GNLN9lGhGc"
+      },
+      "artists": [
+        {
+          "name": "Halogenix",
+          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
+        }
+      ],
+      "duration_ms": 206919,
+      "name": "Lana",
+      "url": "https://open.spotify.com/track/33VXCIGxpVYgntrRjhCsJo"
     }
   ],
   "unique_name": "Jump Up!",

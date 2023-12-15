@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-355 songs - 18 hr 15 min
+356 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Korlebu](https://open.spotify.com/track/6XNbESCL31jctqJLxRjv51) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [The Teacher](https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY) | 3:47 | 2023-09-09 | 2023-09-28 |
 | [KOTTO](https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [KOTTO](https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV) | 3:50 | 2022-11-18 | 2023-01-20 |
 | [Kpanla](https://open.spotify.com/track/7vyPsq17QO1sN982fxtL3z) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kpanla](https://open.spotify.com/album/6Be7V1VsrltIu9AQoKkJ6k) | 2:46 | 2022-05-05 | 2022-07-29 |
-| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 |  |
+| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 | 2023-12-15 |
 | [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-06-23 | 2022-08-05 |
 | [L'Eko](https://open.spotify.com/track/58fWPJ1REJ13XULjMhTZI9) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 2:20 | 2023-07-20 | 2023-08-04 |
 | [La Maluka](https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7) | [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [La Maluka](https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm) | 4:34 | 2023-01-27 | 2023-04-15 |
@@ -331,6 +331,7 @@
 | [Tossmitoss](https://open.spotify.com/track/5d5GWx48aGuO0A1ZYJPAr7) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:30 | 2023-06-02 | 2023-06-17 |
 | [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 | 2023-12-01 | 2023-12-08 |
 | [Turkey Nla \(Remix\)](https://open.spotify.com/track/70u9ZcQTuh6Px72BpoQWIj) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Turkey Nla](https://open.spotify.com/album/2XuIjzprhWmIMOjSHdNMAL) | 3:00 | 2022-12-08 | 2023-01-20 |
+| [Twe Twe](https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Twe Twe](https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2) | 2:25 | 2023-12-15 |  |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-03-30 |  |
 | [Universe](https://open.spotify.com/track/53xvLHBlltsQQG3X9MrGtH) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Universe](https://open.spotify.com/album/76lQfFP5A7OnL68NJ8k9QB) | 4:25 | 2022-06-30 | 2022-07-27 |
 | [Up Forever](https://open.spotify.com/track/1KlbfHhbjOYMBQCCwjTYAi) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Up Forever](https://open.spotify.com/album/0MudurbiRd1bZh3Vpagh2Z) | 2:30 | 2023-12-01 |  |

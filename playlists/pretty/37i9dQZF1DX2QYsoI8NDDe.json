@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Thalia ",
-  "num_followers": 500913,
+  "num_followers": 500928,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
@@ -907,18 +907,22 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Ese es el problema",
-        "url": "https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f"
+        "name": "Cu\u00e9ntenle Mentiras",
+        "url": "https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Sheyla",
+          "url": "https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh"
         }
       ],
-      "duration_ms": 167075,
-      "name": "Ese es el problema",
-      "url": "https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi"
+      "duration_ms": 198000,
+      "name": "Cu\u00e9ntenle Mentiras",
+      "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -939,22 +943,18 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Cu\u00e9ntenle Mentiras",
-        "url": "https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY"
+        "name": "Ese es el problema",
+        "url": "https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "Sheyla",
-          "url": "https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Cu\u00e9ntenle Mentiras",
-      "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
+      "duration_ms": 167075,
+      "name": "Ese es el problema",
+      "url": "https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
+        "name": "Te fallaste a ti",
+        "url": "https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Banda las Angelinas",
+          "url": "https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Te fallaste a ti",
+      "url": "https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 194034,
       "name": "En Mil Cosas - En Vivo",
       "url": "https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "Te fallaste a ti",
-        "url": "https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "Banda las Angelinas",
-          "url": "https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Te fallaste a ti",
-      "url": "https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6"
     },
     {
       "added_at": "2023-12-08 17:59:24",

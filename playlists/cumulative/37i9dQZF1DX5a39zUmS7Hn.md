@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Shane MacGowan
 
-271 songs - 19 hr 22 min
+272 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Teach Me To Tango](https://open.spotify.com/track/5oIrbqdUT5z05cld5cXbaI) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Zoom In EP](https://open.spotify.com/album/5xaZbHax4UZEtgBUCsFRyy) | 3:07 | 2022-04-08 | 2022-07-27 |
 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 | 2022-04-08 | 2022-07-28 |
 | [Tenement Time](https://open.spotify.com/track/4xJjPbl4GjPqaNRJ30NTOi) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Tenement Time / Sensory Street](https://open.spotify.com/album/3kmrgtQtnxUEPGhQ48Hl4o) | 4:18 | 2022-07-05 | 2022-07-08 |
-| [That's Entertainment](https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 3:32 | 2022-04-08 |  |
+| [That's Entertainment](https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 3:32 | 2022-04-08 | 2023-12-15 |
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2022-07-28 |  |
 | [The Buzz](https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Hate for Sale](https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t) | 3:50 | 2022-04-08 | 2022-07-29 |
 | [The Celtic Soul Brothers \(More, Please, Thank You\)](https://open.spotify.com/track/6K9wIZpz2D8xNt7jPURm54) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 3:13 | 2022-04-08 | 2022-07-29 |
@@ -251,6 +251,7 @@
 | [This Love Starved Heart of Mine \(It's Killing Me\)](https://open.spotify.com/track/32SqqH3of0MA2bwuy3C8tW) | [The Jaded Hearts Club](https://open.spotify.com/artist/7qZ3cinlwpZtJpylqOLFCA), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP) | [You've Always Been Here](https://open.spotify.com/album/4bLyKjPIhAijzz3JLUBJQn) | 2:50 | 2022-04-08 | 2022-07-14 |
 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-10-07 | 2022-12-29 |
 | [Time for Heroes \- December 2001 Demo](https://open.spotify.com/track/6k87YyUT0jGFSF8ezHGnu1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Up the Bracket: Early Demos](https://open.spotify.com/album/5yhLhJL3vRJruNifGspbYS) | 2:39 | 2022-10-20 | 2022-10-28 |
+| [Time is Running Out](https://open.spotify.com/track/0EdMqiKs9LKXhspeQhl4RZ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 3:56 | 2023-11-30 |  |
 | [Time is Running Out](https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:57 | 2022-07-28 | 2023-12-10 |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-18 | 2022-12-02 |
 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 | 2023-10-19 | 2023-11-04 |

@@ -4,7 +4,7 @@
 
 > 寒い季節がやってきました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-80 songs - 5 hr 33 min
+81 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2023-12-12 |  |
 | [FUYU](https://open.spotify.com/track/76qMVdk2nqV2JGfQSzuhQq) | [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK), [Noconoco](https://open.spotify.com/artist/7mqeh0ppveN8XEZLXo8PkS), [Saba](https://open.spotify.com/artist/3st6n375XAVbTiurmhpa1Q), [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [FUYU](https://open.spotify.com/album/3HspJUOkTe12sN4Cpvoor1) | 3:14 | 2023-12-12 |  |
 | [ghost](https://open.spotify.com/track/2IAw3jr5rgI8k7DuJxis29) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 5:52 | 2023-12-12 |  |
-| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2023-12-12 |  |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2023-12-12 | 2023-12-15 |
 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 | 2023-12-12 |  |
 | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/track/1nBYPBo39v4KrtsBQVJ05F) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Good Thing We Stayed](https://open.spotify.com/album/5dD6Wiq5qbFX0hNoFlQpkX) | 5:03 | 2023-12-12 |  |
 | [Holy Night](https://open.spotify.com/track/6ELmWMFxDS4GpUuNv753mG) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:52 | 2023-12-12 |  |
@@ -57,6 +57,7 @@
 | [Tampopo](https://open.spotify.com/track/0ykZ3mzjgdnrTEzj2Q09L3) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/73wIJr5w62OjFZhctd8lfh) | 4:13 | 2023-12-12 |  |
 | [WE ARE THE BORDERS](https://open.spotify.com/track/0SEjMo9VZxyf3h9ObPxCWx) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [WINTER SONGS FOR YOU!](https://open.spotify.com/album/7EFz4zyigKAMM2JOiJvGEn) | 3:12 | 2023-12-12 |  |
 | [White Snow](https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N) | 3:35 | 2023-12-12 |  |
+| [winter again](https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [winter again](https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa) | 4:34 | 2023-12-14 |  |
 | [Winter Beat](https://open.spotify.com/track/7mjamiJ2zplbZQ2ymbn5T7) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 4:11 | 2023-12-12 |  |
 | [Winter Candle](https://open.spotify.com/track/4msb9K8jtCWI8MJgnyt3ro) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Winter Candle](https://open.spotify.com/album/3Ll0Gxx43IIuBwhJuAH5Du) | 4:04 | 2023-12-12 |  |
 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 | 2023-12-12 |  |

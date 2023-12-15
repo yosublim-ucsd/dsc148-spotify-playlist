@@ -10576,7 +10576,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 182333,
       "name": "Gl\u00e4ns \u00f6ver sj\u00f6 och strand",
       "url": "https://open.spotify.com/track/4pdnPqZ6NOnofNfOOEO0iz"
@@ -10612,7 +10612,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 154043,
       "name": "Go",
       "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
@@ -15086,7 +15086,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
@@ -15366,7 +15366,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 134769,
       "name": "Kod R\u00f6d",
       "url": "https://open.spotify.com/track/1OybzYUfQ4Kv3WbWp3Gby2"
@@ -16772,7 +16772,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 110769,
       "name": "Lokalisering",
       "url": "https://open.spotify.com/track/0SBiVhqITXijjCtsnKQjBK"
@@ -17276,7 +17276,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 80306,
       "name": "Lucia (S\u00e5 m\u00f6rk \u00e4r natten)",
       "url": "https://open.spotify.com/track/4fXpKspFnY2bbjZDiUgOZS"
@@ -20020,7 +20020,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 161293,
       "name": "Nu t\u00e4ndas tusen juleljus",
       "url": "https://open.spotify.com/track/08D5bPhVLw01WdNchYxsqg"
@@ -21926,7 +21926,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 153600,
       "name": "Problem",
       "url": "https://open.spotify.com/track/5IRNbZsfr5HGPpoXVCAdXo"
@@ -22760,7 +22760,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 121219,
       "name": "RID MIG SOM EN DALAH\u00c4ST",
       "url": "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg"
@@ -23602,7 +23602,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 141813,
       "name": "Sankta Lucia",
       "url": "https://open.spotify.com/track/5ErxWx9p1ReydTb0HTF57t"
@@ -23627,6 +23627,28 @@
     },
     {
       "album": {
+        "name": "Sankta Lucia (Ute \u00e4r m\u00f6rkt och kallt)",
+        "url": "https://open.spotify.com/album/3x9rhpfDXRZS5NYpB2Hwl6"
+      },
+      "artists": [
+        {
+          "name": "Judit",
+          "url": "https://open.spotify.com/artist/7a1xK8q1C7Gx4n7f9bU5jF"
+        },
+        {
+          "name": "Barnens jul",
+          "url": "https://open.spotify.com/artist/4fa39DDfkx8Z3gupRvfD78"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127590,
+      "name": "Sankta Lucia (Ute \u00e4r m\u00f6rkt och kallt)",
+      "url": "https://open.spotify.com/track/5nbaIRkMOp76tuDSzGSw1d"
+    },
+    {
+      "album": {
         "name": "Hej tomtegubbar!",
         "url": "https://open.spotify.com/album/6wyAKui2S66dAXET6BmjDD"
       },
@@ -23646,7 +23668,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 141626,
       "name": "Santa Lucia (Lucias\u00e5ngen)",
       "url": "https://open.spotify.com/track/0RHP9A8jBPLyAwIsadryDM"
@@ -23664,7 +23686,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -23682,7 +23704,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 203493,
       "name": "Santa Tell Me - Naughty Version",
       "url": "https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q"
@@ -25834,7 +25856,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 183533,
       "name": "Staffan var en stalledr\u00e4ng",
       "url": "https://open.spotify.com/track/3iK9QAubUYpznnsEHxJ3yd"
@@ -28854,7 +28876,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 136615,
       "name": "Twogunkid",
       "url": "https://open.spotify.com/track/0kxi8BDubqlXhRqTkuIZe7"

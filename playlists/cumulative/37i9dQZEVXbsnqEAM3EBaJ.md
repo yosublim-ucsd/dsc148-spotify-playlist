@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,095 songs - 3 day 4 hr 18 min
+1,096 songs - 3 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,7 +650,8 @@
 | [NO+SAD](https://open.spotify.com/track/1hdpMoNDNKvsgosL6c7ywF) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [NO+SAD](https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam) | 2:54 | 2023-10-20 | 2023-11-11 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 | 2023-03-25 |
 | [Nobody Gets Me](https://open.spotify.com/track/02xryujVOT8wOxSxCfGG9M) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:05 | 2023-05-05 | 2023-05-28 |
-| [Nocturnal Fear](https://open.spotify.com/track/3kAR8IZNpye5CWWFqCfh16) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Inspiratio Profanus](https://open.spotify.com/album/6PMOZfuG2E4wDMZLGmpkkx) | 3:23 | 2023-12-08 |  |
+| [Nocturnal Fear](https://open.spotify.com/track/3kAR8IZNpye5CWWFqCfh16) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Inspiratio Profanus](https://open.spotify.com/album/6PMOZfuG2E4wDMZLGmpkkx) | 3:23 | 2023-12-08 | 2023-12-15 |
+| [Nocturnal Fear \(Celtically Processed\)](https://open.spotify.com/track/7weyREHgfGWpKJDBRzUFo1) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Inspiratio Profanus](https://open.spotify.com/album/6PMOZfuG2E4wDMZLGmpkkx) | 3:29 | 2023-12-08 |  |
 | [Nomadic](https://open.spotify.com/track/7EcsxqSLkDD1BbOjUBQuIq) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [1977](https://open.spotify.com/album/6mcf4AWNm0DG0vR0RAWkNN) | 4:26 | 2023-06-16 | 2023-06-24 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Nothing Compares 2 U](https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd) | 4:22 | 2023-03-24 | 2023-04-01 |
 | [Nothing Ever After](https://open.spotify.com/track/1YWT9j6SVGwvdwofuxRBe7) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Nothing Ever After](https://open.spotify.com/album/4MOY5APNUqjtJDnxzhGyT1) | 3:55 | 2023-04-28 | 2023-05-28 |
@@ -839,8 +840,8 @@
 | [Sometimes You Lose Before You Win](https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Sometimes You Lose Before You Win](https://open.spotify.com/album/17CJhGkrhZomJmYP0WSFrK) | 3:29 | 2023-09-01 | 2023-09-20 |
 | [Somos](https://open.spotify.com/track/3fazcg7eWWZuVFbMFI3Rku) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Somos](https://open.spotify.com/album/2rYomdMuHD8lWptdOECkAC) | 3:27 | 2023-10-27 | 2023-11-11 |
 | [Somos el presente](https://open.spotify.com/track/3ak013wOBFAGdEfPYqBjy1) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Somos el presente](https://open.spotify.com/album/7pKC2QqGYbj6DskPv4wyE2) | 5:29 | 2023-05-26 | 2023-06-25 |
-| [Songbird](https://open.spotify.com/track/6nfrIohSDBQvBX6rlHWEVO) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Songbird](https://open.spotify.com/album/6yLorJHpW7BUD7RecIVLfI) | 3:23 | 2023-12-01 |  |
-| [Songbird](https://open.spotify.com/track/7nrvvUfMUXdPf0McTsDFti) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Best of The Corrs](https://open.spotify.com/album/6HjzFZsg2S3soe9Dqd9yeL) | 3:23 | 2023-12-01 | 2023-12-13 |
+| [Songbird](https://open.spotify.com/track/6nfrIohSDBQvBX6rlHWEVO) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Songbird](https://open.spotify.com/album/6yLorJHpW7BUD7RecIVLfI) | 3:23 | 2023-12-01 | 2023-12-15 |
+| [Songbird](https://open.spotify.com/track/7nrvvUfMUXdPf0McTsDFti) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Best of The Corrs](https://open.spotify.com/album/6HjzFZsg2S3soe9Dqd9yeL) | 3:23 | 2023-12-01 |  |
 | [Sostenibile](https://open.spotify.com/track/6wfqbUgJZ6YfNATUrntv6f) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN), [Giulio Wilson](https://open.spotify.com/artist/33aEMBHiyvhAdzcUZ3Nflz) | [Sostenibile](https://open.spotify.com/album/57jIf6qF9vJN29QvoiaJFu) | 3:48 | 2023-03-10 | 2023-03-18 |
 | [Sosteniendo la Visión](https://open.spotify.com/track/6LQtGlPkwPJc5wAz5TTvFK) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [El Hilo del Tiempo](https://open.spotify.com/album/4wGsXVkJVkyl6XttneSkyg) | 6:03 | 2023-09-29 | 2023-10-06 |
 | [Soundtrack To A Generation \- Pan Belgian Dub](https://open.spotify.com/track/6l7JIPpUSbdXXDCc7Q7vEO) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Soundtrack To A Generation](https://open.spotify.com/album/4spqtH92efZEnmrkrGCKXW) | 5:57 | 2023-10-13 | 2023-10-28 |

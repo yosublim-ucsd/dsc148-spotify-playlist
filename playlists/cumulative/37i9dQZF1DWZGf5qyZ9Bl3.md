@@ -4,7 +4,7 @@
 
 > chill piano melodies and cozy lofi beats
 
-106 songs - 4 hr 3 min
+107 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 | 2023-09-22 |  |
 | [back to the way it was](https://open.spotify.com/track/7A96feaxjLPBkVksD221Vb) | [slone](https://open.spotify.com/artist/7srYknHlhn9AnHNmBhAFOb) | [back to the way it was](https://open.spotify.com/album/1IOafL6GAmdaqvCzPHunUd) | 1:49 | 2023-09-22 |  |
 | [Balancing Act](https://open.spotify.com/track/4vCoZT4ZIQa34l60caeafu) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Balancing Act](https://open.spotify.com/album/4aDPMhyeN3LRMVDNWKzvns) | 1:33 | 2023-09-22 |  |
-| [Been Up Late](https://open.spotify.com/track/26PhJlzeqe0FgLzjxWX2RT) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Been Up Late](https://open.spotify.com/album/7m8y89ElzYGrgst01C8Ir9) | 2:05 | 2023-09-22 |  |
+| [Been Up Late](https://open.spotify.com/track/26PhJlzeqe0FgLzjxWX2RT) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Been Up Late](https://open.spotify.com/album/7m8y89ElzYGrgst01C8Ir9) | 2:05 | 2023-09-22 | 2023-12-15 |
 | [BLANKETS & TEA](https://open.spotify.com/track/61dILGHsXFOJf4hM9RIZ2M) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [BLANKETS & TEA](https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u) | 2:30 | 2023-09-22 |  |
 | [blind spot](https://open.spotify.com/track/2I18znGi0ssGoWmIugOcjK) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [blind spot](https://open.spotify.com/album/4aN4CpFSuRQQN22f4zk02q) | 2:38 | 2023-09-22 |  |
 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 | 2023-09-22 |  |
@@ -70,13 +70,14 @@
 | [N.Y.](https://open.spotify.com/track/0kQ8yqgEkjHuvhXXqUovPv) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [N.Y.](https://open.spotify.com/album/0TR8lEfa1kfhzyUT7LWf3a) | 2:25 | 2023-09-22 |  |
 | [Never Give Up](https://open.spotify.com/track/5us6nhibrqe4bMTPTEOtHs) | [Nivyer G](https://open.spotify.com/artist/1oh4y1bJOM0oUzEm3dZgWv) | [Never Give Up](https://open.spotify.com/album/1foUeI3f0BJyi2FWnxVGXk) | 2:29 | 2023-09-22 | 2023-11-24 |
 | [next to me](https://open.spotify.com/track/3IZcTC5ntPwhjsNIyQygh8) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [next to me](https://open.spotify.com/album/3RAIFftTjeHKcdq8WOr6HT) | 1:48 | 2023-09-22 |  |
+| [night impressionism](https://open.spotify.com/track/6h0CAChkoKd7DiyDy0ApZy) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL) | [night impressionism](https://open.spotify.com/album/0qwW7iPELLdDGTmYcTlk5C) | 2:11 | 2023-12-15 |  |
 | [Nordic Noir](https://open.spotify.com/track/2WNBXRh0PiCUoFVQNVAPXs) | [Ullis](https://open.spotify.com/artist/3GGTIeWyoM9LCS27Mo2UH2) | [Nordic Noir](https://open.spotify.com/album/5IGLvQzRwTAkKuC8XT5us4) | 2:13 | 2023-09-22 |  |
 | [Paris](https://open.spotify.com/track/7dfiqQg1mpguXK7gNwgQle) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Paris](https://open.spotify.com/album/7mT3it3tSO1fk0aA2ooxS2) | 2:35 | 2023-09-22 |  |
 | [pearls](https://open.spotify.com/track/0Kh41UU4vey50k23eMKkzu) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [pearls & the professor](https://open.spotify.com/album/34QnvaYVCWi8GS8oCIcUl4) | 2:10 | 2023-09-22 |  |
 | [Perfect Tonight](https://open.spotify.com/track/524rHs2pC8DmYZar2qJD7v) | [Rapido\_](https://open.spotify.com/artist/6lOeB8MEOAX0dqRJEFrQV6) | [Perfect Tonight](https://open.spotify.com/album/0qP01fvaJRELe91ZVoxgJR) | 1:32 | 2023-09-22 |  |
 | [petal](https://open.spotify.com/track/3dkGPR1S8xKvV9RwmII3Mp) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [petal](https://open.spotify.com/album/4n6F9v7ajeO9Fp6lmFeLnH) | 2:01 | 2023-09-22 |  |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2023-09-22 |  |
-| [Rain on a train](https://open.spotify.com/track/5fwV9gvxDehRq760bJYBst) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Rain on a train](https://open.spotify.com/album/5zlyQWR1roEcOru70HTVkl) | 2:12 | 2023-09-22 |  |
+| [Rain on a train](https://open.spotify.com/track/5fwV9gvxDehRq760bJYBst) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Rain on a train](https://open.spotify.com/album/5zlyQWR1roEcOru70HTVkl) | 2:12 | 2023-09-22 | 2023-12-15 |
 | [rebundance](https://open.spotify.com/track/7KLD4ITn31VoczaKOfSmGE) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [rebundance](https://open.spotify.com/album/5YRofK4ZSwPEaXhzGBcrpL) | 1:46 | 2023-09-22 |  |
 | [regn](https://open.spotify.com/track/4ViobejmVUpQS5CHu1T3DU) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [my reverie](https://open.spotify.com/album/2QWcdyMoDsGlTdIkpXbcHG) | 3:14 | 2023-09-22 |  |
 | [Remember Us](https://open.spotify.com/track/7azNHjz8p1am7uQGVf0Qwh) | [Tojo McBee](https://open.spotify.com/artist/6EFSyrUYvhtp1vbYitZMh3) | [Remember Us](https://open.spotify.com/album/4aPbMJpheu9Zigz93qVD5H) | 2:17 | 2023-09-22 |  |

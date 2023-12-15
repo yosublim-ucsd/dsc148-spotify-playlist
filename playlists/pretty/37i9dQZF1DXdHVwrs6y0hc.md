@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,533 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,616 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 16 | [The Bright Side of the Moon](https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5) | [Cyril O Donoghue](https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:47 |
 | 17 | [The Wild Rover](https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:04 |
 | 18 | [Dicey Reilly](https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 2:17 |
-| 19 | [Come Up the Stairs](https://open.spotify.com/track/0y8YLiCQmsmG1PLaQGk4gp) | [Lonely Stranded Band](https://open.spotify.com/artist/2SEZuwzh7YLEnD6go7gk2W) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:05 |
-| 20 | [Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's](https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p) | [Patrick Street](https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp) | [Patrick Street](https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO) | 4:17 |
+| 19 | [Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's](https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p) | [Patrick Street](https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp) | [Patrick Street](https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO) | 4:17 |
+| 20 | [Come Up the Stairs](https://open.spotify.com/track/0y8YLiCQmsmG1PLaQGk4gp) | [Lonely Stranded Band](https://open.spotify.com/artist/2SEZuwzh7YLEnD6go7gk2W) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:05 |
 | 21 | [Cry of a Dreamer](https://open.spotify.com/track/4I7Oz5upkSNM4UzvyMkBVN) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Cry of a Dreamer](https://open.spotify.com/album/06rprGquuwrn4HOrV7W3Rc) | 3:24 |
 | 22 | [The Craic Was 90 in the Isle of Man](https://open.spotify.com/track/18YgzC9PYPzCagclA5AlQ8) | [The Dicey Reillys](https://open.spotify.com/artist/5lRAgykmSF0P87fBzjsh0h) | [St\. Patrick's Day: Ultimate Irish Pub Songs](https://open.spotify.com/album/4VcdKePWLXjMgOVq59EJ4u) | 3:17 |
 | 23 | [Galway Bay](https://open.spotify.com/track/6XqzrUnvg1hqOAqIuVQHhY) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Noel Mcloughlin: Ireland](https://open.spotify.com/album/0qfxcep6yTL2PPHta6CGwf) | 3:18 |

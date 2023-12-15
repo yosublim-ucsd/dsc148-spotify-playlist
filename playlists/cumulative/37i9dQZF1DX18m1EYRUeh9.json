@@ -1984,10 +1984,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 163000,
       "name": "Never Fight The Way You Feel",
       "url": "https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl"
+    },
+    {
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/0YPLC3FyAYENuP3KhyLi2Q"
+      },
+      "artists": [
+        {
+          "name": "Ella Thompson",
+          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Never Fight The Way You Feel",
+      "url": "https://open.spotify.com/track/4pZeOERX9UErM22y7nVjrL"
     },
     {
       "album": {

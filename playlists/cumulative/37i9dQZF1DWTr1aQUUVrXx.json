@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Poetic City",
+        "url": "https://open.spotify.com/album/1U1p1pem5XggODiDC4Urhj"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204144,
+      "name": "A Poetic City",
+      "url": "https://open.spotify.com/track/0cbPof9LM6kJJRdaFvQxmR"
+    },
+    {
+      "album": {
         "name": "A Real Show",
         "url": "https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z"
       },
@@ -560,6 +578,24 @@
       "duration_ms": 216097,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp"
+    },
+    {
+      "album": {
+        "name": "Cloudy Water",
+        "url": "https://open.spotify.com/album/3YmMnjmRZ7NOQMlbt7fuVs"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300885,
+      "name": "Cloudy Water",
+      "url": "https://open.spotify.com/track/6peWV8hO9r1FUP0VvBZb6u"
     },
     {
       "album": {

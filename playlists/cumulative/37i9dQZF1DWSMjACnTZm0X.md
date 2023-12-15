@@ -2,9 +2,9 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=LE\_AWnYITxmEyJm2j\-RCpQ">Davido</a>
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl?si=tbPbAVC\_TzeXRCjNzQypDw">Azanti</a>, "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=JoIroqdaQWORwjx3PAb7Fw">Psycho YP</a>
 
-176 songs - 12 hr 31 min
+178 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 | 2022-05-23 |  |
 | [Chapati](https://open.spotify.com/track/1HILIVRnXkORHqLYzRbRaG) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Chapati](https://open.spotify.com/album/4pcHseb6o0Gv6ZUVmGW33d) | 3:20 | 2023-09-22 |  |
 | [Chocolati \- Amapiano Remix](https://open.spotify.com/track/61O7SPcO5NUWCEkC3uTrGf) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Larizzle](https://open.spotify.com/artist/6mmhTw2T6ai4vCudah2sXH), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Chocolati \(Amapiano Remix\)](https://open.spotify.com/album/7d7wpNvX0eIGRYcullotnp) | 3:36 | 2023-07-28 |  |
+| [Clear Road](https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Clear Road](https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x) | 2:39 | 2023-12-14 |  |
 | [Cleopatra \(feat\. Alex Price\)](https://open.spotify.com/track/3VkVbl3uuVnceUaGUlrN83) | [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Alex Price](https://open.spotify.com/artist/2xtZchCzPx5YtM0cMNKedw) | [Cleopatra \(feat\. Alex Price\)](https://open.spotify.com/album/0MIKGb3t0qcRRLftv6Nv99) | 2:55 | 2022-11-10 | 2023-03-03 |
 | [Cross My Lane](https://open.spotify.com/track/5u3DBDAtwldSB0vq2wRKPG) | [Broda Shaggi](https://open.spotify.com/artist/0W1pukpZRU3zjGUKgSJW8o), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Cross My Lane](https://open.spotify.com/album/38IxB0W7HqdzGJvrtW4iP5) | 3:37 | 2022-11-17 | 2023-03-03 |
 | [Daddy ohh](https://open.spotify.com/track/576ny2Fu52p2iacJxWKYn6) | [Willy Will](https://open.spotify.com/artist/7COHnUQjxEVi5SggMxlu4E) | [Daddy ohh](https://open.spotify.com/album/4jFB19VG7Zn6lCSxve8QRI) | 2:47 | 2023-08-03 |  |
@@ -127,6 +128,7 @@
 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 | 2023-06-15 |  |
 | [Ozumba Mbadiwe \- Remix](https://open.spotify.com/track/0WZv29OGhRABeryXBPMAV6) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Ozumba Mbadiwe \(Remix\)](https://open.spotify.com/album/656VMGOU4NL8RpviUz5IYF) | 3:31 | 2022-05-23 | 2022-08-12 |
 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-11 | 2022-09-10 |
+| [Party](https://open.spotify.com/track/3w6sbb4d9p4XC9EF0BoB4c) | [DTX](https://open.spotify.com/artist/4lttdlnXFTMlbRZ6IggLXd), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Party](https://open.spotify.com/album/2PBljrtBDlby5LvWFC3lXl) | 4:02 | 2023-12-14 |  |
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-07-28 |  |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-22 |  |
 | [Personne](https://open.spotify.com/track/1a2iA1NgFnmnQ8YhisT2Rz) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Blessing](https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ) | 2:23 | 2023-06-30 | 2023-08-11 |

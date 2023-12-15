@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-315 songs - 23 hr 33 min
+316 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2021-12-17 | 2023-09-14 |
 | [Early Autumn](https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza) | [The Jazz Trio](https://open.spotify.com/artist/5zX4srAEfIPgYbERzNCJ1Y), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [Early Autumn](https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p) | 3:13 | 2023-08-24 | 2023-11-27 |
 | [East of the Sun and West of the Moon](https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:21 | 2022-03-10 |  |
+| [Eat It Too](https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn) | 3:46 | 2023-12-13 |  |
 | [Eat It Too](https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/6DeT7vD5VN5vGj9vnTji0d) | 3:46 | 2023-06-08 | 2023-12-10 |
 | [Embraceable You](https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:51 | 2021-12-17 |  |
 | [Emily](https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI) | [Ben Besiakov](https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4) | [The Art of Jazz with Ben Besiakov](https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3) | 5:19 | 2021-12-17 |  |
@@ -249,7 +250,7 @@
 | [Surrey With The Fringe On Top](https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:20 | 2021-12-17 | 2023-02-16 |
 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 | 2022-09-22 |  |
 | [Sway](https://open.spotify.com/track/4ubyfFKXBVBFZD145I6XPX) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 6:12 | 2021-12-17 | 2023-08-11 |
-| [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 | 2022-09-13 |  |
+| [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 | 2022-09-13 | 2023-12-15 |
 | [Sweet Lorraine](https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:22 | 2021-12-17 |  |
 | [Take My Breath Away](https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Take My Breath Away](https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ) | 3:30 | 2021-12-17 | 2022-02-19 |
 | [Tenderly](https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [The Uptown Shuffle](https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A) | 10:18 | 2021-12-17 |  |

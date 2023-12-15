@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-152 songs - 5 hr 15 min
+153 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [vampire love](https://open.spotify.com/track/6HcEJg4rcHWNEI0bD5Wvvp) | [nami](https://open.spotify.com/artist/3E2CPSMNaUMT0OosI4ogam) | [vampire love](https://open.spotify.com/album/0EIqsSmwIP5GZJesgYTchK) | 2:43 | 2023-08-18 | 2023-09-02 |
 | [waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [waiting alonE](https://open.spotify.com/album/342UvGijO1QgI9wQFXDq9m) | 2:53 | 2023-08-11 | 2023-08-15 |
 | [Want u more!](https://open.spotify.com/track/3RKEW4HMiRZQMXY63XSieF) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [sonicreations!](https://open.spotify.com/artist/5t8B0ba1AOHP8ckEPhPVoF) | [Want u more!](https://open.spotify.com/album/1azh3Y1Q4qnjI41GmRAZCR) | 2:46 | 2023-07-21 | 2023-08-26 |
+| [WHAT YOU WANT!](https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [WHAT YOU WANT!](https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd) | 2:02 | 2023-12-14 |  |
 | [Won't Last Long](https://open.spotify.com/track/5yeNAyTWcAXGlRUinVjmjQ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:35 | 2023-09-22 |  |
 | [XoWoah](https://open.spotify.com/track/43zAiS2UVIZ1V4tKoS7wA4) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [XoWoah](https://open.spotify.com/album/6CHQdCW2DoR2hYg8uaYlBd) | 1:37 | 2023-07-21 | 2023-07-29 |
 | [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/55n5kEar6hN5QOv1xbb8f7) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:10 | 2023-09-22 |  |

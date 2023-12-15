@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 374768,
+  "num_followers": 374774,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
       },
       "artists": [
         {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+      "duration_ms": 154466,
+      "name": "Poetry In Motion",
+      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion",
-      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Phantom 309",
         "url": "https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 121893,
       "name": "Love's Gonna Live Here - Mono Single Version",
       "url": "https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "The Bottle Let Me Down",
+      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
         "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 166266,
       "name": "Jackson (with June Carter Cash)",
       "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "The Bottle Let Me Down",
-      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
     },
     {
       "added_at": "2023-11-21 21:06:39",

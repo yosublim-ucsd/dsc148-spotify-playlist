@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/2aENqkLbaJgieNQX7fqDdl"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198434,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/236HZ8DhG7k0cXgem99oPP"
+    },
+    {
+      "album": {
         "name": "Blackbird (Deluxe)",
         "url": "https://open.spotify.com/album/6UzCkpGRJ4ojKeYUGKfyEc"
       },
@@ -568,7 +586,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 229733,
       "name": "Find The River",
       "url": "https://open.spotify.com/track/1e3Q7gE5TRUklXOlZFKIrv"
@@ -684,7 +702,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 194422,
       "name": "Hard Act To Follow",
       "url": "https://open.spotify.com/track/6IKoE1DlvzdGfzUS9QQaVP"
@@ -922,6 +940,28 @@
       "duration_ms": 199152,
       "name": "I Wanna See You Smile",
       "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
+    },
+    {
+      "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
+      },
+      "artists": [
+        {
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "BROWN & GRAY",
+          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169585,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,053 likes - 75 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,131 likes - 75 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 49 | [Ram Bum Bum \(From "Jodi"\)](https://open.spotify.com/track/7trJWJHc3V4SrWtP0vzcrp) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Timmy](https://open.spotify.com/artist/0fqwlPxx9zEr5zfs7y6dF1) | [Hits of A.R.Rahman Nenjame](https://open.spotify.com/album/3iKVYlP2xoFhuDhXOWZt9b) | 4:03 |
 | 50 | [Anjathey Jeeva \(From "Jodi"\)](https://open.spotify.com/track/5uAFZbSNpU2bgR1IistMJN) | [Siva Sithambaram](https://open.spotify.com/artist/4g0Hc0xD7DkmevneR7Eef8), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Hits of A.R.Rahman En Suvasam](https://open.spotify.com/album/5BRIU5u1J0YeZd6YZZmVVH) | 5:26 |
 | 51 | [Sowkkiyama](https://open.spotify.com/track/1Bzj1DJpWaIEPfXrXbhvU0) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7), [Nithyasree](https://open.spotify.com/artist/6yLXX4buMky6p4XAwLmrNS) | [Sangamam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6vdKBhSKTE87sq6zq4BoAM) | 5:54 |
-| 52 | [Varaaha Nathi](https://open.spotify.com/track/5Lw43l88SSLFl0hbeQgjcJ) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Sangamam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6vdKBhSKTE87sq6zq4BoAM) | 6:18 |
-| 53 | [Kannalanae](https://open.spotify.com/track/0ZMOIWlRK56eQPamwvg9Cf) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bombay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fz5xoaToq6uZ3VOi5L6Lw) | 5:53 |
+| 52 | [Kannalanae](https://open.spotify.com/track/0ZMOIWlRK56eQPamwvg9Cf) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bombay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fz5xoaToq6uZ3VOi5L6Lw) | 5:53 |
+| 53 | [Varaaha Nathi](https://open.spotify.com/track/5Lw43l88SSLFl0hbeQgjcJ) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Sangamam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6vdKBhSKTE87sq6zq4BoAM) | 6:18 |
 | 54 | [Ennuyire \(From "Uyire"\)](https://open.spotify.com/track/6AJzl9nQmsKiga3fnspkkc) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Hits of A.R.Rahman En Suvasam](https://open.spotify.com/album/5BRIU5u1J0YeZd6YZZmVVH) | 7:22 |
 | 55 | [Ottagtha Katikko](https://open.spotify.com/track/7pT6IaXJKXDq85Ucu2fNUg) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 5:14 |
 | 56 | [Veerapandi Kotayyile](https://open.spotify.com/track/20GvRntcVUf2iB9yuN5jZ3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 6:29 |

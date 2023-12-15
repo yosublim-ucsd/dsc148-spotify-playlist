@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,691 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,723 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 27 | [Seremos \- En Vivo Desde El Lunario/Mariachi/Banda](https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Desde El Lunario, Ciudad De México \(En Vivo Desde El Lunario/Mariachi/Banda\)](https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5) | 3:07 |
 | 28 | [Homenaje a Lola \(Popurrí\) \- En Vivo \[Desde el Instituto Nacional de Bellas Artes\]](https://open.spotify.com/track/1jAuWENO3fqVV95sZRyKGQ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Celebrando 25 Años De Juan Gabriel En El Palacio De Bellas Artes](https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH) | 8:44 |
 | 29 | [Amaneci Entre Tus Brazos \- En Vivo](https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:30 |
-| 30 | [Estos Celos \- En Vivo](https://open.spotify.com/track/1bHfUhyFqo6toBM3YMvG8I) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 4:52 |
+| 30 | [Guadalajara \- En Vivo](https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:23 |
 | 31 | [No \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/0qVDR0ggGqFmiyOQQPY9k9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 3:27 |
 | 32 | [A Pesar de Todos \- En Vivo](https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 3:48 |
 | 33 | [Llorar \- En Vivo](https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 3:09 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 60 | [Romances \(Voy a apagar la luz / Contigo aprendí / Por debajo de la mesa / El reloj / Sabor a mí / La gloria eres tú / Bésame mucho\) \- En vivo](https://open.spotify.com/track/7exfNBa2ZlzKKDikpyGyKu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 14:46 |
 | 61 | [Segundo romance \(El día que me quieras / Solamente una vez / Somos novios / Todo y nada / Nosotros\) \- En vivo](https://open.spotify.com/track/1vx0yzcHzr7kB3MPB5J2y2) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 10:53 |
 | 62 | [La Media Vuelta \- En Vivo](https://open.spotify.com/track/0BbrG0xytWfEwZrYoqqPKR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:44 |
-| 63 | [Guadalajara \- En Vivo](https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:23 |
+| 63 | [Estos Celos \- En Vivo](https://open.spotify.com/track/1bHfUhyFqo6toBM3YMvG8I) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 4:52 |
 | 64 | [La Diferencia \- En Vivo](https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:00 |
 | 65 | [Estos Celos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/0w2gzREUayU0MUNSMFrqnf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:09 |
 | 66 | [Para Siempre \- En Vivo](https://open.spotify.com/track/271KWDMsmn3f0JoFB1ol6w) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:12 |

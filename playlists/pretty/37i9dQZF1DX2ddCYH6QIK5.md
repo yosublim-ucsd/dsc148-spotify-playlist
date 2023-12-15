@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The top 50 tracks from Fresh Finds GSA in 2023\. Cover: Carla Ahad, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,476 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,532 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

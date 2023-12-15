@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi?si=mzpc0FFRSMmhOyHHh_XGng\">RAAF</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK?si=_iRLv4ZCTlih-QpybwO6Rg\">Toughguy</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 168666,
       "name": "Bietjie Bipol\u00ear",
       "url": "https://open.spotify.com/track/6vxQqhd7fTIKVOa9CT3WYd"
@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Die Beste Kant",
+        "url": "https://open.spotify.com/album/1YNPtUPFbSNG5kPNWKv5o9"
+      },
+      "artists": [
+        {
+          "name": "Rugga Rock",
+          "url": "https://open.spotify.com/artist/1eggpWPvqpbFpSWVkjGvwG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Die Beste Kant",
+      "url": "https://open.spotify.com/track/4ksJTGu0FybEZDEYNH5b1d"
+    },
+    {
+      "album": {
         "name": "Dans Deur Die Donker",
         "url": "https://open.spotify.com/album/7jUyw77fSgURWIUtikiidJ"
       },
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 203513,
       "name": "Flower (\uaf43)",
       "url": "https://open.spotify.com/track/5z4Etcsgyj0bXQBefoiC7w"
@@ -2343,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "Glide Stride",
+        "url": "https://open.spotify.com/album/2Me4bFxziBPEr9omsL9LYV"
+      },
+      "artists": [
+        {
+          "name": "Alibi Friday",
+          "url": "https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302019,
+      "name": "Glide Stride",
+      "url": "https://open.spotify.com/track/5TKySOZAIyhdpzwN01SDux"
+    },
+    {
+      "album": {
         "name": "Gods Gift",
         "url": "https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi"
       },
@@ -2394,6 +2430,24 @@
       "duration_ms": 292636,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/13bC2RZHqYhWOdUiMAH4O1"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/3pKC1FFpmpRPhu1qsD0MH9"
+      },
+      "artists": [
+        {
+          "name": "Toughguy",
+          "url": "https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238403,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/7CcnVBrlWIS8LSyxFWAaMN"
     },
     {
       "album": {
@@ -2640,7 +2694,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 245638,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/2em2HgEcpE1OAJevg8suiw"
@@ -3366,6 +3420,24 @@
       "duration_ms": 318000,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/11hwRTYLm0gWMxYGnzUGE8"
+    },
+    {
+      "album": {
+        "name": "Lavender Lane",
+        "url": "https://open.spotify.com/album/675tLYXwkvKPduMx2eclvW"
+      },
+      "artists": [
+        {
+          "name": "Cal Motto-Ros",
+          "url": "https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Lavender Lane",
+      "url": "https://open.spotify.com/track/7FfcwpuGCi1uBszQxNCXf6"
     },
     {
       "album": {
@@ -5464,7 +5536,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 217443,
       "name": "Star Collides",
       "url": "https://open.spotify.com/track/5I6wDmXnxQRaZbk5fuLy6x"
@@ -5684,6 +5756,24 @@
       "duration_ms": 180750,
       "name": "Supermark",
       "url": "https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT"
+    },
+    {
+      "album": {
+        "name": "Surfing Sunshine",
+        "url": "https://open.spotify.com/album/45TtfU9h3o2KT4tUjMyeHt"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Surfing Sunshine",
+      "url": "https://open.spotify.com/track/5dEmj0lyKNp7Vx1saMUaAk"
     },
     {
       "album": {
@@ -5998,7 +6088,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 182888,
       "name": "The Great Antagonist",
       "url": "https://open.spotify.com/track/2wz74k8mcxoYRW4Qvxckrp"
@@ -6570,7 +6660,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 234979,
       "name": "Vir Ewig",
       "url": "https://open.spotify.com/track/4duchzNuzguXiPND75nVGr"
@@ -6874,6 +6964,24 @@
       "duration_ms": 193542,
       "name": "Woman of My Own Damn Mind",
       "url": "https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl"
+    },
+    {
+      "album": {
+        "name": "Generation Bored",
+        "url": "https://open.spotify.com/album/62qllVlsSubfxk690MmXGG"
+      },
+      "artists": [
+        {
+          "name": "New Volume",
+          "url": "https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "Worst Human Alive",
+      "url": "https://open.spotify.com/track/3sSwKeQK3yImeS9GYtCLHu"
     },
     {
       "album": {

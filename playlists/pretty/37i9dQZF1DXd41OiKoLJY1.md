@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The Top 100 Tracks from Fresh Finds Philippines this 2023! Cover: The 12/21 Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,471 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,509 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

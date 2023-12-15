@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 172680,
       "name": "Hard For Me",
       "url": "https://open.spotify.com/track/0LUNJ9nKDMVE1j6LHu3m7l"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 177946,
       "name": "Hard For Me",
       "url": "https://open.spotify.com/track/00PesUdTmC3Y5xtZbZND0p"
@@ -2638,10 +2638,28 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 182283,
       "name": "Hold You 'Til We\u2019re Old",
       "url": "https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK"
+    },
+    {
+      "album": {
+        "name": "Hold You 'Til We\u2019re Old",
+        "url": "https://open.spotify.com/album/2i1G52eL7dri8FAU7YT8nE"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198531,
+      "name": "Hold You 'Til We\u2019re Old",
+      "url": "https://open.spotify.com/track/6BqHfjVBwIUU3ySrVhOCpg"
     },
     {
       "album": {
@@ -3896,7 +3914,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 172597,
       "name": "Lost",
       "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
@@ -3914,7 +3932,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 187528,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4uDXJSGlet5KBJQHPKVxGc"
@@ -4310,6 +4328,24 @@
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6s7T0FuCOdIZFEMk7R1O4i"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195111,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3G3OsZQKVUyS2ELc3yTKGM"
     },
     {
       "album": {
@@ -4716,7 +4752,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 222598,
       "name": "Never Be Mine",
       "url": "https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M"
@@ -4734,7 +4770,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 222933,
       "name": "Never Be Mine",
       "url": "https://open.spotify.com/track/54fDv21WMG1aProaN093Ro"
@@ -5500,10 +5536,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 169333,
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
+    },
+    {
+      "album": {
+        "name": "Prisoner (feat. Dua Lipa) [Official Video]",
+        "url": "https://open.spotify.com/album/07VoOzuLIG6lVKEs0TE3of"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Prisoner (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/58afIQUnU0b0c4ogarMSLW"
     },
     {
       "album": {
@@ -5536,7 +5594,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 243186,
       "name": "Quite Miss Home",
       "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
@@ -5554,7 +5612,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 256362,
       "name": "Quite Miss Home",
       "url": "https://open.spotify.com/track/37BYxYcdeTCoiXm9YR12Bk"
@@ -6456,7 +6514,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 156684,
       "name": "Talk You Down",
       "url": "https://open.spotify.com/track/5y41zHFubnN6T5TpU8wHOx"
@@ -6474,7 +6532,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 162453,
       "name": "Talk You Down",
       "url": "https://open.spotify.com/track/3svRM2uWSrOqptOjICWsd3"
@@ -7037,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191185,
+      "name": "Used To Be Young",
+      "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
+    },
+    {
+      "album": {
         "name": "Used To Be Young (Official Video)",
         "url": "https://open.spotify.com/album/1kBfLFXPSDQ8idV5je8gvn"
       },
@@ -7048,7 +7124,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 201023,
       "name": "Used To Be Young",
       "url": "https://open.spotify.com/track/0gclApgGDuO3FNiS7voEye"

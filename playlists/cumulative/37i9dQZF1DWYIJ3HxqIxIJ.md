@@ -4,7 +4,7 @@
 
 > Vv Pete is our new RADAR artist to watch!
 
-271 songs - 14 hr 3 min
+272 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [The City](https://open.spotify.com/track/1GNU5GDMAP2xTlLa7qN18k) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The City](https://open.spotify.com/album/0gsbIh3mdGUbtHZ0sXOlhO) | 3:02 | 2023-03-02 |  |
 | [The Morning](https://open.spotify.com/track/6SS1m6gUnH6LhB2eOtBDFM) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [The Morning](https://open.spotify.com/album/1Pmmu2U0fv00xXxmZeNBT5) | 2:57 | 2022-11-10 | 2023-03-02 |
 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2023-03-02 |  |
-| [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 | 2023-03-02 |  |
+| [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 | 2023-03-02 | 2023-12-15 |
+| [Things Aren't Nice In Paradise](https://open.spotify.com/track/2SDJTVl0IlBbStlz0IUt0S) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/3N3XYGAKHwfZ7Xiop16IOu) | 3:11 | 2023-11-30 |  |
 | [This Enchanted \- Edit](https://open.spotify.com/track/0t0lC8avHPxxf9VqiItfj6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [This Enchanted](https://open.spotify.com/album/5DU1S08aBz1JPVN6Q2hIWj) | 3:07 | 2021-10-15 | 2022-07-29 |
 | [This Enchanted \- Edit](https://open.spotify.com/track/3Y4bQtUuAPjfNCx5k1OcA9) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [This Enchanted](https://open.spotify.com/album/19rbfCDAnOxvNajKvDbhiu) | 3:07 | 2021-10-15 | 2022-08-16 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-08-15 | 2023-03-02 |

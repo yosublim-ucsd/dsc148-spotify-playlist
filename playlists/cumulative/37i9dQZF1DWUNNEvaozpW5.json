@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Sidecars.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 226539,
       "name": "Cada vez duele menos",
       "url": "https://open.spotify.com/track/5lSYmIvz1g7hUtEqLdnQrK"
@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "En alg\u00fan lugar (feat. Santi Balmes & V\u00edctor Cabezuelo)",
       "url": "https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe"
@@ -3968,7 +3968,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 191360,
       "name": "Lugar perfecto",
       "url": "https://open.spotify.com/track/2nUwZKuTz2vXh0qSqbPiEp"
@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 240400,
       "name": "Mar antiguo - Versi\u00f3n 2023",
       "url": "https://open.spotify.com/track/4azPip5EUOk4jJxJxb6wbm"
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 257637,
       "name": "OK",
       "url": "https://open.spotify.com/track/1MYQcK8lIZXO1oXIc6vT4U"
@@ -6600,6 +6600,24 @@
       "duration_ms": 222013,
       "name": "Veneno en la Piel",
       "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+    },
+    {
+      "album": {
+        "name": "Se nos lleva el aire",
+        "url": "https://open.spotify.com/album/3V0gXpeLYWle5J3vy1O4Lu"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415000,
+      "name": "Viajando por el interior",
+      "url": "https://open.spotify.com/track/26vkdWyOHx3rBY2zTb7f8I"
     },
     {
       "album": {

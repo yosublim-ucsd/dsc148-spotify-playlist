@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Tyla
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 344,306 likes - 211 songs - 10 hr 40 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 344,300 likes - 211 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

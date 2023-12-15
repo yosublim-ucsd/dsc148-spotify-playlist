@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Guest Curator:   <a href="spotify:artist:4jwROPSUkTkohLCRiyjiZZ">Destin Conrad</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,093 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,101 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

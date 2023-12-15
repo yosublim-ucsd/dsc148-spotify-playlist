@@ -4,7 +4,7 @@
 
 > Acoustic versions of well\-known songs.
 
-267 songs - 14 hr 48 min
+268 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [American Tune](https://open.spotify.com/track/1nQv2QYty0lSfc5CCeLJAd) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [American Tune](https://open.spotify.com/album/2g2rX08oAA6EpTn6HFVGox) | 4:06 | 2021-12-09 | 2022-07-29 |
 | [American Tune \- Special Edition](https://open.spotify.com/track/2leIRF8ATcYWf0ntdVjttp) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:09 | 2022-07-26 | 2022-08-04 |
 | [Angel](https://open.spotify.com/track/7lSdBy34Oxd06fK4KlaXVj) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Angel](https://open.spotify.com/album/6PzZNFS1QaobNN9MrnRDJh) | 3:15 | 2023-05-12 |  |
+| [Annie's Song](https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG) | [Cameron Payne](https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi) | [Annie's Song](https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX) | 2:47 | 2023-12-15 |  |
 | [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-08-03 | 2022-11-07 |
 | [Annie’s Song](https://open.spotify.com/track/2GAK2qFjh7mOCE24RiGi7i) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 2:55 | 2022-09-20 | 2023-02-03 |
 | [Annie’s Song](https://open.spotify.com/track/5RHki2k4mpVxjqbvv2JIYE) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Your Song](https://open.spotify.com/album/17wpR31pu1gRi2OHilvbdY) | 2:55 | 2022-09-20 | 2022-11-13 |

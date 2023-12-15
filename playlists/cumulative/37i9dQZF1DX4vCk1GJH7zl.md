@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: The Beatles
 
-108 songs - 6 hr 35 min
+109 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Quanto Tempo Demora Um Mês](https://open.spotify.com/track/64kByFEamIW6sVECquQlRm) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quanto Tempo Demora Um Mês](https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8) | 3:30 | 2023-07-21 |  |
 | [Que Haja Amor \- Ao Vivo](https://open.spotify.com/track/0QNtVyOxfVs8qUcTzB3nz8) | [Delittus](https://open.spotify.com/artist/3jGgAV4HKOqvQcOEdK4yer), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Delittus 15 Anos \(Ao Vivo\)](https://open.spotify.com/album/0o1b8zCvsWHiakPhlC0YJY) | 4:46 | 2023-07-21 |  |
 | [Quem Me Dera](https://open.spotify.com/track/6NqgtbC5WuR20UKSnDCsQ2) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Invernia](https://open.spotify.com/album/6aICwiB8bpY0ZA409IIfdx) | 3:30 | 2023-09-15 |  |
-| [Quero Te Levar](https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/22CxgpaTDyzRSzdeQq1jQc) | 2:59 | 2023-07-21 |  |
+| [Quero Te Levar](https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/22CxgpaTDyzRSzdeQq1jQc) | 2:59 | 2023-07-21 | 2023-12-15 |
+| [Quero Te Levar](https://open.spotify.com/track/5yBvVZR9fRKUQxfe6cg83b) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/6sFQsoONnVuvaf1ZKFl6kw) | 2:59 | 2023-12-08 |  |
 | [Quimera](https://open.spotify.com/track/38AhroLzkLm5gs2JRkVjPJ) | [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly) | [Estradas Dentro](https://open.spotify.com/album/2HS046T4uwxsytXEKHMXTt) | 3:43 | 2023-09-15 |  |
 | [Rainha Do Luar \- Acoustic](https://open.spotify.com/track/4TeG3MuhkWvYV0iBRkMvOF) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Rainha Do Luar \(Acoustic\)](https://open.spotify.com/album/52Kl1OzGWBtNE9nCho2Uqn) | 2:54 | 2023-09-01 | 2023-11-18 |
 | [Renata](https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Renata](https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI) | 2:50 | 2023-11-10 |  |

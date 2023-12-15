@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-203 songs - 10 hr 51 min
+204 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Christmas Don't Be Late](https://open.spotify.com/track/3kGFPy5aDF9UI2riRHoNdU) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:40 | 2023-11-17 |  |
 | [Christmas Eve](https://open.spotify.com/track/4rQqEqdse1jmBQcMAMG9Pm) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Christmas For Lovers](https://open.spotify.com/album/0eyfxFNfrY9QYb8kcKKfVL) | 3:02 | 2022-11-10 | 2022-11-13 |
 | [Christmas Eve](https://open.spotify.com/track/7gXjaS8KmxBtsoyv6XNogg) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Let It Swing: A Jazz Christmas With Verve](https://open.spotify.com/album/2OVtgimkNWYBek4ue7gdL2) | 3:02 | 2021-12-21 | 2022-07-29 |
-| [Christmas Eve](https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:05 | 2022-01-03 |  |
+| [Christmas Eve](https://open.spotify.com/track/5sRb0r1wP7nK6dKQBxO197) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Have Yourself A Jazzy Little Christmas](https://open.spotify.com/album/5DBehOkzdmTBJ2m56Dk2sS) | 3:03 | 2023-12-13 |  |
+| [Christmas Eve](https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:05 | 2022-01-03 | 2023-12-15 |
 | [Christmas In New Orleans](https://open.spotify.com/track/7HPPCbM4FEiYhB7dg3PyqO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:53 | 2022-11-10 | 2022-11-13 |
 | [Christmas In New Orleans](https://open.spotify.com/track/4Jj3HUcLGj0ysrJRmtgN3a) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Best Of / 20th Century \- Christmas](https://open.spotify.com/album/6ZDopFxyk160WEpKuIuhUq) | 2:54 | 2021-12-21 | 2022-07-29 |
 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 | 2022-01-03 | 2022-11-01 |

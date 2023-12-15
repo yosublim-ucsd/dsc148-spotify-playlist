@@ -1,13 +1,33 @@
 {
   "description": "no-clip out of reality",
-  "num_followers": 696884,
+  "num_followers": 698079,
   "original_name": "liminal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDUzOTY3NWVlZTdhMGIxZjY4MGJlN2U1NTg0ZWUwOGZjZGE2Yzg5",
+  "snapshot_id": "MCwwYjFkMjI4OWI0YTM1NTFhZTg4NTE0ZTIzYjUwMTgyZmJhYzIzZjYw",
   "tracks": [
+    {
+      "added_at": "2023-12-14 18:51:10",
+      "album": {
+        "name": "i was only temporary",
+        "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "duration_ms": 98621,
+      "name": "i was only temporary",
+      "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
+    },
     {
       "added_at": "2023-10-20 16:05:28",
       "album": {

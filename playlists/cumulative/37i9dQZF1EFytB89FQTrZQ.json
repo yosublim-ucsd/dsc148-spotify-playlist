@@ -828,7 +828,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 221280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/22VBxThfU7M01FQ4TnomrO"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 208106,
       "name": "Breathe (feat. Ina Wroldsen)",
       "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Change My Love",
+        "url": "https://open.spotify.com/album/3p3c0o6PCYCR49JLs2topV"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193365,
+      "name": "Change My Love",
+      "url": "https://open.spotify.com/track/3p7x1m7QkmeawRAujjGWd2"
+    },
+    {
+      "album": {
         "name": "Following My Intuition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 204453,
       "name": "Change My Love",
       "url": "https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX"
@@ -1238,10 +1256,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 201420,
       "name": "Colour",
       "url": "https://open.spotify.com/track/7haQE5nOcxwk0HXahP0aV3"
+    },
+    {
+      "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/5VsT3qJVgsG0TqpVsyKKIo"
+      },
+      "artists": [
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        },
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "Colour",
+      "url": "https://open.spotify.com/track/7nnoV1ckXaU97Ij2AoimH4"
     },
     {
       "album": {
@@ -2046,7 +2086,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 191977,
       "name": "Feel Good (It's Alright) (feat. Karen Harding)",
       "url": "https://open.spotify.com/track/46VKKXfpbJDi9aqhomNFrZ"
@@ -2068,7 +2108,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 192480,
       "name": "Feel Good (It's Alright) (feat. Karen Harding)",
       "url": "https://open.spotify.com/track/2kAyiwRPpj40XYMUXRR1RD"
@@ -2218,6 +2258,24 @@
     {
       "album": {
         "name": "Finally",
+        "url": "https://open.spotify.com/album/2VpeSVALHIUSTNiNAOdK9F"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243501,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/3L2YVdNHcxmyLE5WKPKGU1"
+    },
+    {
+      "album": {
+        "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
       "artists": [
@@ -2228,7 +2286,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 245000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
@@ -2319,6 +2377,28 @@
     },
     {
       "album": {
+        "name": "Fly Girl",
+        "url": "https://open.spotify.com/album/4s2N3zPwtSbkyhihNGPJFR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/3qYbFcdGwTDulw6zVFOT2b"
+    },
+    {
+      "album": {
         "name": "Fly Girl (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
       },
@@ -2334,7 +2414,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
@@ -2687,6 +2767,32 @@
     },
     {
       "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/2SLt3P7OdxkJljYcNp5dN6"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244250,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/2gwI89uI3UQ23rSpK8B6vX"
+    },
+    {
+      "album": {
         "name": "About Last Night...",
         "url": "https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm"
       },
@@ -2706,7 +2812,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 235453,
       "name": "Good Luck (with Jax Jones & Galantis)",
       "url": "https://open.spotify.com/track/2BfJX65Te5q84Pku7osGRH"
@@ -2746,7 +2852,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 170280,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/53kWAAfx7IopXRa31MQHB8"
@@ -2768,7 +2874,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 188040,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/2YLjBvgHVj9RqG17T6bVQp"
@@ -2829,6 +2935,28 @@
     },
     {
       "album": {
+        "name": "Harder",
+        "url": "https://open.spotify.com/album/2WzGeHavxmefHq862JEy8c"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Harder",
+      "url": "https://open.spotify.com/track/4EU6GdtxEABURTJxMTc4S2"
+    },
+    {
+      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -2844,7 +2972,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 159760,
       "name": "Harder (with Bebe Rexha)",
       "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
@@ -3247,6 +3375,28 @@
     },
     {
       "album": {
+        "name": "I Could Get Used To This",
+        "url": "https://open.spotify.com/album/6AbgWfL0hTYitvnB0iT5gG"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "I Could Get Used To This",
+      "url": "https://open.spotify.com/track/0GN9ZMBqfeBTpCWT1XL2hl"
+    },
+    {
+      "album": {
         "name": "Get To Know",
         "url": "https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q"
       },
@@ -3262,7 +3412,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 194760,
       "name": "I Could Get Used To This (with WEISS)",
       "url": "https://open.spotify.com/track/6MSuMFyOdoJMAEgvnhqbRu"
@@ -3371,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/5H3Lk0j2n7NRD6bLwfmE3r"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223520,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/0xxrzE1V4R2XBk4CfuTss0"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -3400,10 +3568,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
+    },
+    {
+      "album": {
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/1ZmmvBN2o03B0NYgIaDOd4"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174970,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/1XCjpj82P2JeMza6yPc7Dn"
     },
     {
       "album": {
@@ -3918,10 +4104,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 148773,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/3iEwla99ovgF0Rdla6FZm4"
+    },
+    {
+      "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/5yP4ApUADDkqRWnwxadFAY"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182850,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/3hSe567EWQTIE1FMPhS9HZ"
     },
     {
       "album": {
@@ -4528,10 +4732,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 213427,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
+    },
+    {
+      "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/07xxlJWizHzlTQIZj30N62"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242709,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/03xHr4qu6VkaArjRs8KEi4"
     },
     {
       "album": {
@@ -4582,7 +4808,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 183021,
       "name": "No",
       "url": "https://open.spotify.com/track/0ONFGnOEErh2tL0HY39F3V"
@@ -4600,7 +4826,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 200320,
       "name": "No",
       "url": "https://open.spotify.com/track/2tY9Hf0oArZ1iYvqaKnMe9"
@@ -5000,10 +5226,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 216533,
       "name": "OK (Anxiety Anthem)",
       "url": "https://open.spotify.com/track/6bW7xROpvstfDvXdOnH96p"
+    },
+    {
+      "album": {
+        "name": "OK (Anxiety Anthem)",
+        "url": "https://open.spotify.com/album/1aCbwYG0q34xFf6QurDNd6"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "OK (Anxiety Anthem)",
+      "url": "https://open.spotify.com/track/6CuvET3Z4fcM20Oy82GTLf"
     },
     {
       "album": {
@@ -5282,6 +5526,28 @@
       "duration_ms": 203022,
       "name": "Phone",
       "url": "https://open.spotify.com/track/2ClPhnTuoffoj3CkDxEdGi"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/3d85K2o6sbyhYnr8t0TtcE"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/5MQRqJYqoOGT5hHNd5jvnC"
     },
     {
       "album": {
@@ -5787,6 +6053,32 @@
     },
     {
       "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/6UXJbGxdaSM6KUUYxs2Paa"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239200,
+      "name": "Ring Ring",
+      "url": "https://open.spotify.com/track/3RLcG58HLAW5lIMBjMdaW9"
+    },
+    {
+      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -5806,7 +6098,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 217906,
       "name": "Ring Ring (with Mabel feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/51FZnO9sWc2dazJneozkHp"
@@ -6368,7 +6660,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 153742,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
@@ -6390,7 +6682,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 158290,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5MjIJP6IHMgp986qKPr16E"
@@ -6745,6 +7037,24 @@
     },
     {
       "album": {
+        "name": "Sweet Melody (Official Video)",
+        "url": "https://open.spotify.com/album/5APiRHRllqL2WynbPS9IHG"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212586,
+      "name": "Sweet Melody",
+      "url": "https://open.spotify.com/track/7tDXKvR41asAMSVF0KAlBz"
+    },
+    {
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF"
       },
@@ -6756,7 +7066,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 213693,
       "name": "Sweet Melody",
       "url": "https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B"
@@ -6914,10 +7224,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 246074,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/4laPvATil8SrIAlysZazYN"
+    },
+    {
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/4sitRmXDuq6H90ghVDOVxw"
+      },
+      "artists": [
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255240,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/0k9KhK3PCrI5c7Q5biOUIs"
     },
     {
       "album": {
@@ -6997,6 +7325,28 @@
     },
     {
       "album": {
+        "name": "This Is Real",
+        "url": "https://open.spotify.com/album/3BKwEORNqeybbJ3xxY7p7V"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "This Is Real",
+      "url": "https://open.spotify.com/track/5RFeRJXgAGsmRlOvQH2rd8"
+    },
+    {
+      "album": {
         "name": "Snacks (Supersize)",
         "url": "https://open.spotify.com/album/4p2j0vmXiz57RWkipyrMZt"
       },
@@ -7012,7 +7362,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 199160,
       "name": "This Is Real (ft. Ella Henderson)",
       "url": "https://open.spotify.com/track/1pRShUtGOG6ZP5fsnw9G4h"
@@ -7458,7 +7808,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 181683,
       "name": "Valentino",
       "url": "https://open.spotify.com/track/4ejTiGZJNOkc3RM6RUITJi"
@@ -7480,7 +7830,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 183720,
       "name": "Valentino",
       "url": "https://open.spotify.com/track/3UPnTKiCtzwR6e2uBUyTTo"
@@ -7570,10 +7920,28 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 163700,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+    },
+    {
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/4PngEsZCbuIIo1K2f21f22"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202377,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/4KAsJ5ES1pdHl9CyYWQAo3"
     },
     {
       "album": {

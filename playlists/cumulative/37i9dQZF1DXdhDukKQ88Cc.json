@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "dk rap der holder det 100 / For Life: Jamaika \ud83d\udea8 \n",
+  "description": "dk rap der holder det 100 / Merro8 \ud83d\udea8 \n",
   "name": "100 DK",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 173069,
       "name": "Balancen (feat. Kesi)",
       "url": "https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU"
+    },
+    {
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h"
+      },
+      "artists": [
+        {
+          "name": "Volkan",
+          "url": "https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT"
     },
     {
       "album": {

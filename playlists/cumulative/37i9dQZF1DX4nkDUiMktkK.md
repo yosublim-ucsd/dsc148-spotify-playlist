@@ -4,7 +4,7 @@
 
 > All juice
 
-181 songs - 11 hr 32 min
+185 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,9 @@
 | [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 | 2023-08-03 |  |
 | [Looking For Love \- Duskus Remix](https://open.spotify.com/track/1P4M5cERVSYoANyIbrjjqH) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Looking For Love \(Duskus Remix\)](https://open.spotify.com/album/7FXaI1qZ7Vtb13FnaqLO41) | 3:32 | 2023-10-26 |  |
 | [Looking For Love \- salute remix](https://open.spotify.com/track/3pbaa7YbnJLNif8TOONI9t) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Looking For Love \(salute remix\)](https://open.spotify.com/album/550Hl0NNiWdFJcIqaMGWuT) | 4:59 | 2023-10-05 |  |
+| [Love FM \- Ragel Mood Remix](https://open.spotify.com/track/5NF5plvuOajbe1wNlm446m) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Ragel Mood](https://open.spotify.com/artist/0iaxpN2ImZjHgBzoj2yU1t) | [Love FM \(Remixes\)](https://open.spotify.com/album/2s4HqKzkDESpIV3igA3p3O) | 5:05 | 2023-12-14 |  |
 | [Love Me Back](https://open.spotify.com/track/7o1K0RtnM5cdvZrmgnta98) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Love Me Back](https://open.spotify.com/album/4W0FcfxQA688pFBQHfjcqY) | 3:15 | 2023-08-03 |  |
+| [Luv\-N\-Me \- DJ Q Remix](https://open.spotify.com/track/316K7WHzzKAo97Meb3Tk8e) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Luv\-N\-Me \(DJ Q Remix\)](https://open.spotify.com/album/04I6LAUpilmKlTadDC6RxA) | 3:12 | 2023-12-14 |  |
 | [Make It Work](https://open.spotify.com/track/6S9HZZ2TCwUyi7GuK1SwTs) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Make It Work](https://open.spotify.com/album/09Do0PDhXz1QeDAwHcFeF1) | 3:41 | 2023-10-19 |  |
 | [MISS U \- Glimji Remix](https://open.spotify.com/track/10ScB3ISReMgZtTsxhDbyo) | [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC), [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [MISS U \(Glimji Remix\)](https://open.spotify.com/album/3xIC14qwn4sYXiaHO96JJQ) | 2:50 | 2023-10-12 |  |
 | [Moss](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Moss](https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc) | 2:51 | 2023-10-19 |  |
@@ -113,6 +115,7 @@
 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-06-08 |  |
 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2023-06-08 |  |
 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 | 2023-07-06 |  |
+| [okok](https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ) | 3:30 | 2023-12-14 |  |
 | [On Your Face](https://open.spotify.com/track/4jBNsu6NFXquBSviiw0qy9) | [New Spectrum](https://open.spotify.com/artist/2pf5q0TzKjDmsr8iwU5N5B) | [On Your Face](https://open.spotify.com/album/6rYn0XHoKz4IT24vx6FDbL) | 2:20 | 2023-08-03 |  |
 | [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/6A7KmZX6KCf5ho1UUnPoA4) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [TDJ123 DELUXE](https://open.spotify.com/album/70AGf26YBlKu5Yo3GyHkkp) | 6:22 | 2023-09-21 |  |
 | [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/7MaUMSoRK33GaBHCd52xbp) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Open Air \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/4PiaykMiQ2Bf8dFepojhYl) | 6:22 | 2023-06-08 | 2023-09-22 |
@@ -188,6 +191,7 @@
 | [Whippet](https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Whippet](https://open.spotify.com/album/2IWRdfMEjaA1RHBEtNdkSn) | 4:18 | 2023-06-08 |  |
 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 | 2023-06-08 |  |
 | [With U](https://open.spotify.com/track/7EnwSEceUcWFCEstHjAaXO) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [With U](https://open.spotify.com/album/2efHZKxHn5CVuLltB5g1PU) | 4:24 | 2023-07-06 |  |
+| [You & I](https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [You & I](https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm) | 3:33 | 2023-12-14 |  |
 | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/album/3sWZKvKbMl5eJcTHzD045K) | 5:41 | 2023-09-21 |  |
 
 \*This playlist was first scraped on 2023-06-10. Prior content cannot be recovered.

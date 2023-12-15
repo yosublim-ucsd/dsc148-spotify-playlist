@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Bad Bunny plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,989 likes - 94 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,120 likes - 94 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Provinz, ENNIO",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: BRUCKNER, Eli Preiss",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -500,6 +500,28 @@
       "duration_ms": 193979,
       "name": "Alles brennt",
       "url": "https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO"
+    },
+    {
+      "album": {
+        "name": "Alles In Mir",
+        "url": "https://open.spotify.com/album/0WLmo4z8XSdmcYRCCw3QOq"
+      },
+      "artists": [
+        {
+          "name": "Lupid",
+          "url": "https://open.spotify.com/artist/6MyDQj8ZCDSwJmA5P653Sr"
+        },
+        {
+          "name": "Lophelia",
+          "url": "https://open.spotify.com/artist/1paJ5czNaSTO0uc5tslUl5"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141454,
+      "name": "Alles In Mir",
+      "url": "https://open.spotify.com/track/7MmFcP5x6RcPmAWKKjvY5n"
     },
     {
       "album": {
@@ -2398,7 +2420,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 185045,
       "name": "Es zieht im Paradies",
       "url": "https://open.spotify.com/track/72japCviuui2IqOffiZurS"
@@ -3552,7 +3574,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 136958,
       "name": "ich f\u00fchl nix",
       "url": "https://open.spotify.com/track/0mJoSoRUK42lC5OoxS9dcV"
@@ -5243,6 +5265,24 @@
     },
     {
       "album": {
+        "name": "Milliard\u00e4re & Verlierer",
+        "url": "https://open.spotify.com/album/2XbQhG7bL5POsT9zXNFaFy"
+      },
+      "artists": [
+        {
+          "name": "CASTILLO",
+          "url": "https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163475,
+      "name": "Morgentau",
+      "url": "https://open.spotify.com/track/6ZcX73DnGNfp0sFaS46dvM"
+    },
+    {
+      "album": {
         "name": "Moshpit",
         "url": "https://open.spotify.com/album/3TOjET9DF6t5ShxPWjmlIZ"
       },
@@ -5673,6 +5713,24 @@
     },
     {
       "album": {
+        "name": "O STRASSE",
+        "url": "https://open.spotify.com/album/3SQcKefvJEd3R7kvYgqqXK"
+      },
+      "artists": [
+        {
+          "name": "WEIL",
+          "url": "https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "o strasse",
+      "url": "https://open.spotify.com/track/4WwrvzFnouOufSlZQf5gjc"
+    },
+    {
+      "album": {
         "name": "Offiziell Gl\u00fccklich",
         "url": "https://open.spotify.com/album/5nI1xih2hIWj0zf056x31C"
       },
@@ -5938,6 +5996,28 @@
       "duration_ms": 143500,
       "name": "Parkdeck",
       "url": "https://open.spotify.com/track/21pFcMCJtXxicn7pGxKDQs"
+    },
+    {
+      "album": {
+        "name": "Party mit mir selbst",
+        "url": "https://open.spotify.com/album/7FYIEyAdivc1sNE7j6cqkW"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        },
+        {
+          "name": "Eli Preiss",
+          "url": "https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174907,
+      "name": "Party mit mir selbst",
+      "url": "https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs"
     },
     {
       "album": {
@@ -7740,7 +7820,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 195385,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/7lpwtFvlf5jhNZAfmzFFiY"
@@ -7762,7 +7842,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 198495,
       "name": "Unendlichkeit",
       "url": "https://open.spotify.com/track/5oUaUa8t6ld88QUCyYFb2H"

@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 819457,
+  "num_followers": 819581,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Vento Forte",
-        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Dj Tk",
-          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
-        }
-      ],
-      "duration_ms": 123711,
-      "name": "Vento Forte",
-      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Vento Forte",
+        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Dj Tk",
+          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
+        }
+      ],
+      "duration_ms": 123711,
+      "name": "Vento Forte",
+      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "As Melhores 2018",
-        "url": "https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 203075,
-      "name": "T\u00e1 Rocheda",
-      "url": "https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Cheirosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 181930,
       "name": "Cheirosa - Ao Vivo",
       "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "As Melhores 2018",
+        "url": "https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 203075,
+      "name": "T\u00e1 Rocheda",
+      "url": "https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "WS On Board (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Piseiro Sofr\u00eancia",
         "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 173037,
       "name": "N\u00e3o, N\u00e3o Vou",
       "url": "https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "WS On Board (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Tijol\u00e3o (ao Vivo)",
+        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 175219,
+      "name": "Tijol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Churrasquinho Menos \u00c9 Mais (Ao Vivo)",
         "url": "https://open.spotify.com/album/7s2MXOVpIWBNcfnHGCDh3v"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 415915,
       "name": "Pot-Pourri: Tempo de Aprender / Energia Surreal / N\u00e3o Pedi Pra Me Apaixonar / Deixa Acontecer - Ao Vivo",
       "url": "https://open.spotify.com/track/03PztApOdNGJ1Cn9kDKRNr"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Tijol\u00e3o (ao Vivo)",
-        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 175219,
-      "name": "Tijol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cachorro",
-        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
-      },
-      "artists": [
-        {
-          "name": "Avine Vinny",
-          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 150802,
-      "name": "Cora\u00e7\u00e3o Cachorro",
-      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Open House (Ao Vivo)",
         "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 177067,
       "name": "Sogra - Ao Vivo",
       "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cachorro",
+        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 150802,
+      "name": "Cora\u00e7\u00e3o Cachorro",
+      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Amor da Despedida",
-        "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        },
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Amor da Despedida",
-      "url": "https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "SORRIA",
         "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 181122,
       "name": "SORRIA",
       "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Amor da Despedida",
+        "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        },
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Amor da Despedida",
+      "url": "https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "A Culpa \u00e9 do Meu Grau (feat. Z\u00e9 Neto & Cristiano) - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7gL7YRproDW26eSk16yMbc"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Atrasadinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/64LfkmEoS9FMwXuSUAWCR3"
       },
@@ -1767,26 +1787,6 @@
       "duration_ms": 148386,
       "name": "Ousadia & Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Nunca Vai Ser N\u00f3s",
-        "url": "https://open.spotify.com/album/1XhqEq2zud4YlQ5MsOhY6R"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        },
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "Nunca Vai Ser N\u00f3s",
-      "url": "https://open.spotify.com/track/6KoWlMNCiFdHnzYSX1Ag8q"
     },
     {
       "added_at": "2023-11-17 03:01:00",

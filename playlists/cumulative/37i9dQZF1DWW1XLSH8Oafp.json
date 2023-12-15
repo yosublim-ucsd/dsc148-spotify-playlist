@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "ur on the list bb \ud83e\ude90 featuring Maya Randle",
+  "description": "ur on the list bb \ud83e\ude90 featuring Marlon Hoffstadt",
   "name": "planet rave",
   "tracks": [
     {
@@ -1863,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Born for This",
+        "url": "https://open.spotify.com/album/0mjn9cfTpcgmrLxmnlj7TO"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "Born for This",
+      "url": "https://open.spotify.com/track/6UmPw1Rv3Ms2kMBdIDrbAh"
+    },
+    {
+      "album": {
         "name": "Bottle of Bombay",
         "url": "https://open.spotify.com/album/6ulvGwN90v3vb6GS1EoNLz"
       },
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 135000,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/7khx13eqI5VDKQ85GdNXra"
@@ -3310,6 +3328,28 @@
       "duration_ms": 111592,
       "name": "deAth2Wings",
       "url": "https://open.spotify.com/track/3gDkbsRoHqJpQcDxdy3Hi8"
+    },
+    {
+      "album": {
+        "name": "Deep Blue Sea (NOTION Remix)",
+        "url": "https://open.spotify.com/album/7qZDn64BgERGFJT6qah3Dt"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Deep Blue Sea - Notion Remix",
+      "url": "https://open.spotify.com/track/1Q16QFSYVocGlAvMz3DSmb"
     },
     {
       "album": {
@@ -4668,7 +4708,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 186231,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G"
@@ -11039,6 +11079,28 @@
     },
     {
       "album": {
+        "name": "run away",
+        "url": "https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        },
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "run away",
+      "url": "https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr"
+    },
+    {
+      "album": {
         "name": "Run Sound",
         "url": "https://open.spotify.com/album/1Ad4UI9JleYLNNtT7xcWVu"
       },
@@ -13194,7 +13256,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 157495,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/6pOf6ARcTJJMcJzWJbitsj"
@@ -13639,6 +13701,36 @@
     },
     {
       "album": {
+        "name": "Uncut Gems (Seb Widblood Remix)",
+        "url": "https://open.spotify.com/album/1Ok7s1b6fZCfU4Yb1Keby3"
+      },
+      "artists": [
+        {
+          "name": "THE WHALES",
+          "url": "https://open.spotify.com/artist/6eVFiaexVx7Lmt2G2ZAsOc"
+        },
+        {
+          "name": "MarcLo",
+          "url": "https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X"
+        },
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203393,
+      "name": "Uncut Gems (with MarcLo, Seb Wildblood & KYLE) - Seb Wildblood Remix",
+      "url": "https://open.spotify.com/track/5oSSyBIviKLRv2OxAnnWLT"
+    },
+    {
+      "album": {
         "name": "Under my Bed",
         "url": "https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB"
       },
@@ -13930,7 +14022,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 216000,
       "name": "vision$$",
       "url": "https://open.spotify.com/track/2R40Mf4ntKNb1B2ZqOBmIo"
@@ -14126,6 +14218,28 @@
       "duration_ms": 258591,
       "name": "Wat Is Die Mo?",
       "url": "https://open.spotify.com/track/4dpV1kwSTAEP2Nlo6lqmwY"
+    },
+    {
+      "album": {
+        "name": "Wayside (Wave Racer Remix)",
+        "url": "https://open.spotify.com/album/1M4fMi3BJpPclA8wwdPZeo"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Wave Racer",
+          "url": "https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152541,
+      "name": "Wayside - Wave Racer Remix",
+      "url": "https://open.spotify.com/track/0gqObamjYGPDrDashLtGzn"
     },
     {
       "album": {
@@ -15058,7 +15172,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 150671,
       "name": "\u2665one love\u2665",
       "url": "https://open.spotify.com/track/2zFcvXGPhkbOiNYZekEoYK"

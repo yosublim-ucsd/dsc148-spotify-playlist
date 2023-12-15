@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Pierre de Maere",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Rouquine",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 214605,
       "name": "Alabama",
       "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
+    },
+    {
+      "album": {
+        "name": "Albert",
+        "url": "https://open.spotify.com/album/6Acj3MqHBGWSc9BtNgTGyN"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170917,
+      "name": "Albert",
+      "url": "https://open.spotify.com/track/2cFoPkVgux9RqiqLV23yu2"
     },
     {
       "album": {
@@ -224,7 +242,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 158604,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/1AQnssggAwAJTeV9hFzZHu"
@@ -278,7 +296,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 187200,
       "name": "CC SAVA",
       "url": "https://open.spotify.com/track/6HoSoaAfrL9F3lZMuMVZFb"
@@ -718,7 +736,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 176087,
       "name": "Idiot",
       "url": "https://open.spotify.com/track/6JOlXpSpvjk6wi2pFJhhau"
@@ -1481,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7"
+      },
+      "artists": [
+        {
+          "name": "Morgan",
+          "url": "https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS"
+        },
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169569,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr"
+    },
+    {
+      "album": {
         "name": "QUAND LA NUIT TOMBE",
         "url": "https://open.spotify.com/album/769m5Tn6dsfqtV2Kqe611Y"
       },
@@ -1734,7 +1774,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 190186,
       "name": "Stigmate",
       "url": "https://open.spotify.com/track/3SsLyXY1ddnhjAwSafPIrc"
@@ -1756,6 +1796,24 @@
       "duration_ms": 131907,
       "name": "Super potos",
       "url": "https://open.spotify.com/track/6zeKT4FyrZogtpv1NZqINr"
+    },
+    {
+      "album": {
+        "name": "Comme je suis",
+        "url": "https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW"
+      },
+      "artists": [
+        {
+          "name": "DAYSY",
+          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152373,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh"
     },
     {
       "album": {
@@ -1908,6 +1966,24 @@
       "duration_ms": 156477,
       "name": "XS",
       "url": "https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i"
+    },
+    {
+      "album": {
+        "name": "\u00c7a ira",
+        "url": "https://open.spotify.com/album/18sxQrfpUxfwygD6RTtcju"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/7IEKUdw3xG4W1DpxvLL0di"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158051,
+      "name": "\u00c7a ira",
+      "url": "https://open.spotify.com/track/4fzoguCLFCgt2ldzSkLkL4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3"

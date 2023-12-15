@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jaivah",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Maua Sama",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -536,6 +536,28 @@
       "duration_ms": 224999,
       "name": "Buruda",
       "url": "https://open.spotify.com/track/2iGBUGhHFUsEQHdxnH7tTd"
+    },
+    {
+      "album": {
+        "name": "Nusu Peponi Nusu Kuzimu",
+        "url": "https://open.spotify.com/album/6KwazaiOQF0r8YCOlBD1hT"
+      },
+      "artists": [
+        {
+          "name": "PROFESSOR JAY",
+          "url": "https://open.spotify.com/artist/1Q5oCRnwsddhlxhXLSXuiK"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264853,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/3VpMYV059tiJxLaoGfa197"
     },
     {
       "album": {
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 197648,
       "name": "Hapa",
       "url": "https://open.spotify.com/track/3o2XGqeVS2V6zQWjCtSBPd"
@@ -2443,6 +2465,28 @@
     },
     {
       "album": {
+        "name": "Look At Me (feat. Darassa)",
+        "url": "https://open.spotify.com/album/16zlAY3MZgtHXQAGjyMxWk"
+      },
+      "artists": [
+        {
+          "name": "Maua Sama",
+          "url": "https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188389,
+      "name": "Look At Me (feat. Darassa)",
+      "url": "https://open.spotify.com/track/2xKxUYprwnd2IQOOo1Ifhj"
+    },
+    {
+      "album": {
         "name": "Love (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
       },
@@ -2786,7 +2830,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 208583,
       "name": "Maokoto",
       "url": "https://open.spotify.com/track/3n7rdIFLwOqDRzb634nuKg"
@@ -4843,6 +4887,24 @@
     },
     {
       "album": {
+        "name": "Samaleko",
+        "url": "https://open.spotify.com/album/3U9ZAB16h5kSsqV93wympg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Mars",
+          "url": "https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Samaleko",
+      "url": "https://open.spotify.com/track/1TfAUIxVO6eUrM3aSSsJWw"
+    },
+    {
+      "album": {
         "name": "Sasambu",
         "url": "https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz"
       },
@@ -5354,7 +5416,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 183637,
       "name": "Slow",
       "url": "https://open.spotify.com/track/04Out6ePtODoAuUqr38uXt"

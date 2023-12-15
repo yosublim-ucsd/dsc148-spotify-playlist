@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-464 songs - 17 hr 27 min
+467 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 | 2022-05-20 | 2023-08-30 |
 | [Fantasy](https://open.spotify.com/track/602YfZUMO4FM5NcEzKf3SL) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Fantasy](https://open.spotify.com/album/2KHytBna06YLkLBK0tVmKR) | 2:29 | 2022-05-20 | 2022-05-27 |
 | [fastback ride](https://open.spotify.com/track/2J4JxUvNa8zqP6N5BUitlt) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [fastback ride](https://open.spotify.com/album/0sfVPSFcr0vdy3QDwoy2uM) | 2:49 | 2023-11-24 |  |
+| [february blue](https://open.spotify.com/track/5NZ8vxOcuyjcLmjCnjzTrw) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [february blue](https://open.spotify.com/album/3VEvkmVVk4m3g0aJT8482L) | 2:30 | 2023-12-15 |  |
 | [fields](https://open.spotify.com/track/1e5dZyZNViKRhDOFnbVEc0) | [yellow book](https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe) | [fields](https://open.spotify.com/album/2H99kIrZ8LihEuIPwTWB4g) | 1:57 | 2022-09-09 |  |
 | [Find Some Time](https://open.spotify.com/track/0u4Nkd8V0id0ypMEqzUwbb) | [Boredoom](https://open.spotify.com/artist/4Z6uWpbUphWlLHvmsqAb8W) | [Umbrella](https://open.spotify.com/album/31dlN9mDUPgMtE3belNyxS) | 1:48 | 2022-05-20 | 2023-08-19 |
 | [Finding Things](https://open.spotify.com/track/4ZYwazraeW9WplKF0A3Y8z) | [Fractured Moons](https://open.spotify.com/artist/0jOT2t9HcoueZ4JEDoY2IC) | [Stonecut](https://open.spotify.com/album/5UWqKcFCuByy8CtHpAkIrd) | 2:40 | 2022-05-20 |  |
@@ -290,6 +291,7 @@
 | [Oysterz](https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [ramen noodles](https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx) | 2:21 | 2023-09-08 |  |
 | [Palette](https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Palette](https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy) | 2:23 | 2023-09-22 |  |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
+| [park stroll](https://open.spotify.com/track/6lDAtiAKi02GGDLGxZb1OO) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [park stroll](https://open.spotify.com/album/3kJAru3uOEp1A0IAdBcgHi) | 2:08 | 2023-12-15 |  |
 | [Pass It On](https://open.spotify.com/track/6W14nPKn5Xro5bg98uTM33) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Pass It On](https://open.spotify.com/album/50qapmoJ4j60haCzDTp9hX) | 2:15 | 2022-05-20 | 2023-10-27 |
 | [Pass Out](https://open.spotify.com/track/5mePmsWKsgqAW2MY8PuAae) | [Tentoe](https://open.spotify.com/artist/6FpbduvSpaRBCVrmiiJfwk) | [Pass Out](https://open.spotify.com/album/1aRc3EAbwe7o57jYRTH0ny) | 2:17 | 2022-12-09 |  |
 | [pEach cObbler](https://open.spotify.com/track/7nLZjRukkxR0WHv95DrnZX) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [pEach cObbler](https://open.spotify.com/album/1jYX0kd0KX5wALVLaiur3i) | 1:50 | 2022-05-20 |  |
@@ -470,6 +472,7 @@
 | [Yambula](https://open.spotify.com/track/4ecmvloQdEjcx1a85qhHe1) | [Elengi](https://open.spotify.com/artist/3wCEfYsM06yRGxVUgvnuAZ) | [Yambula](https://open.spotify.com/album/3OMuwO9VZvWQ3InylSXOLz) | 1:54 | 2022-05-20 |  |
 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 | 2023-09-22 |  |
 | [You Mon Amour](https://open.spotify.com/track/1vFb56Lp6HTIQiD478AxBT) | [Copacabana Lab](https://open.spotify.com/artist/23W74tErlUvKnwMfr8jExa), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [You Mon Amour](https://open.spotify.com/album/4B1d4WQrHthefUbWccsfz0) | 2:05 | 2022-06-10 | 2022-06-17 |
+| [Your Turn](https://open.spotify.com/track/20pPtdAkmg22o7ppIEomBS) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Your Turn](https://open.spotify.com/album/3OF7TEmukWCuo4iqLueDHt) | 3:14 | 2023-12-15 |  |
 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 | 2023-11-17 |  |
 | [Zzz](https://open.spotify.com/track/57ZIaQ4dKo9CD3MRKzG7c7) | [G O L](https://open.spotify.com/artist/5UnjO9XLvCeBWIP1fiOden) | [Zzz](https://open.spotify.com/album/6pN80mrAR2NNrGECgSVtOm) | 2:20 | 2023-07-17 |  |
 

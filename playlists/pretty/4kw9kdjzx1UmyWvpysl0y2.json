@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127157,
+  "num_followers": 127160,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDQ5OSw2MTUyMjAzYWFkYWJiOTMzN2Y4YzNmMWI0NzRiZWViZWZhN2ZlOTNl",
+  "snapshot_id": "NDUwMCxjMzJmZGY1ZDQ0Y2UxMDY5YzU0MTY4NGM4YTQwMzEwNTYzM2IzYTFl",
   "tracks": [
+    {
+      "added_at": "2023-12-14 15:18:42",
+      "album": {
+        "name": "Landslide (BOTCASH Remix)",
+        "url": "https://open.spotify.com/album/2mS5bt6HNrbxWKOBhAvR7i"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        },
+        {
+          "name": "BOTCASH",
+          "url": "https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv"
+        }
+      ],
+      "duration_ms": 202794,
+      "name": "Landslide - BOTCASH Remix",
+      "url": "https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6"
+    },
     {
       "added_at": "2023-12-13 16:20:37",
       "album": {

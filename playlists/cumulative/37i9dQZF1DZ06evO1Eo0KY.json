@@ -505,6 +505,32 @@
     },
     {
       "album": {
+        "name": "Gia... \u00c0 La Carte",
+        "url": "https://open.spotify.com/album/3JcTKxn4KDrYnPx2kqPb9Z"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163949,
+      "name": "Fleece",
+      "url": "https://open.spotify.com/track/5E6nDvrqxj5kb5OMXDTQCG"
+    },
+    {
+      "album": {
         "name": "Latin Quarter, Pt. 2",
         "url": "https://open.spotify.com/album/40jVyMws7SyYAScwQQw5Ne"
       },
@@ -1060,7 +1086,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 141349,
       "name": "The Reaper's Hood",
       "url": "https://open.spotify.com/track/5Sd2MOkV1pCorwKiiFsEFF"

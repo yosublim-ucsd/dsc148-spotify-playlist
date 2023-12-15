@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : TERRIER",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Simia",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 145993,
       "name": "Double Tap",
       "url": "https://open.spotify.com/track/1F8y4UfslnzBpWKDZraeD3"
@@ -730,6 +730,24 @@
       "duration_ms": 203920,
       "name": "J'ai plus peur",
       "url": "https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775"
+    },
+    {
+      "album": {
+        "name": "J'aimerais tellement",
+        "url": "https://open.spotify.com/album/2tJlAcgwyoxrAa2iASbviH"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195735,
+      "name": "J'aimerais tellement",
+      "url": "https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx"
     },
     {
       "album": {
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 143986,
       "name": "mignon",
       "url": "https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz"
@@ -1126,6 +1144,24 @@
       "duration_ms": 131004,
       "name": "Moins seul sans eux",
       "url": "https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl"
+    },
+    {
+      "album": {
+        "name": "4 Ever",
+        "url": "https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO"
+      },
+      "artists": [
+        {
+          "name": "Music On Hold",
+          "url": "https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188730,
+      "name": "Music on Hold 4 Ever",
+      "url": "https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5"
     },
     {
       "album": {
@@ -1284,7 +1320,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 190920,
       "name": "Plages Du Nord",
       "url": "https://open.spotify.com/track/1s39UIEJhtAYnpVgPkOYCt"
@@ -1692,6 +1728,24 @@
       "duration_ms": 180000,
       "name": "The 360 Holes Bird",
       "url": "https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp"
+    },
+    {
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/2pXrfCYo3YVH5OWBKfPdRX"
+      },
+      "artists": [
+        {
+          "name": "Naive New Beaters",
+          "url": "https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219833,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/30j4tyGI42zwfsg6uP9dly"
     },
     {
       "album": {

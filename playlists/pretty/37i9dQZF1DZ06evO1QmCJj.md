@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,667 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,701 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 38 | [Respira](https://open.spotify.com/track/1TMGfpNI1iANwJvplASSa2) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La República](https://open.spotify.com/album/3SSr7Txt7OCcA4D31tRScH) | 3:02 |
 | 39 | [Tamagochi](https://open.spotify.com/track/2SQ1gU5lP0C6yAZQu37iTr) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:46 |
 | 40 | [LUNA](https://open.spotify.com/track/1CPAiHBpTTtHPAlOcVWIwT) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LUNA](https://open.spotify.com/album/1gmighJ1w3l8qJL8hd7LsA) | 3:29 |
-| 41 | [Borracha \- Remix](https://open.spotify.com/track/1lsRNW64tkv9fSZ7V0Ub2e) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Borracha \(Remix\)](https://open.spotify.com/album/6KiAz62idWWsLZXCsnM6t2) | 3:27 |
-| 42 | [CALLE](https://open.spotify.com/track/53X5FmHdNxcnZuY8YhOkgJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [CALLE](https://open.spotify.com/album/3tmWYrXOkrEF0MjxCSbZc5) | 3:42 |
+| 41 | [CALLE](https://open.spotify.com/track/53X5FmHdNxcnZuY8YhOkgJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [CALLE](https://open.spotify.com/album/3tmWYrXOkrEF0MjxCSbZc5) | 3:42 |
+| 42 | [Borracha \- Remix](https://open.spotify.com/track/1lsRNW64tkv9fSZ7V0Ub2e) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Borracha \(Remix\)](https://open.spotify.com/album/6KiAz62idWWsLZXCsnM6t2) | 3:27 |
 | 43 | [Nada A Nadie](https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:02 |
 | 44 | [Fuerte](https://open.spotify.com/track/3uXGLqSmVher9OpP23ao0G) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:03 |
 | 45 | [ABC](https://open.spotify.com/track/70xn2qWD5C7A98bGeUVPrE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Toy Story](https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj) | 2:21 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 51 | [La Llorera](https://open.spotify.com/track/0sAnHXFgvyCw6gztFhNdZO) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:34 |
 | 52 | [No Se Toca](https://open.spotify.com/track/1JNWhyAuTvjgJvmi6Psct4) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 2:32 |
 
-Snapshot ID: `MjgzNzQ0ODUsMDAwMDAwMDA5ZjE4MGRlNGNmNmVjY2Y2M2JhZDJlMzg4NmFhNDg3ZA==`
+Snapshot ID: `MjgzNzU5MDgsMDAwMDAwMDA5OGZjODM3MDIxOTkxMjY2Yjg5ZGQ4NTBmZDgyYTlmZA==`

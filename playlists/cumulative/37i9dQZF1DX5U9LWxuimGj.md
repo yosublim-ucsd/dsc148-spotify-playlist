@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Angie K
 
-142 songs - 7 hr 50 min
+144 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Buscando El Olvido](https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:41 | 2023-04-28 |  |
 | [Caminando](https://open.spotify.com/track/4A2WUGWWhMomNd3SshZK2E) | [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Alamo Country Band](https://open.spotify.com/album/5rIcbhlN8jUeXVAPZYWaTv) | 3:50 | 2021-12-10 |  |
 | [Chero en la Gran Ciudad](https://open.spotify.com/track/6Xc7SksAQwy2sbX1dAbT45) | [Los Vikingos Del Norte](https://open.spotify.com/artist/1M4xkleBO7JywHJ9oPw3qM), [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Chero en la Gran Ciudad](https://open.spotify.com/album/5lhxb1lo9wPEKi0CdCNehw) | 2:32 | 2021-12-10 |  |
-| [Chevy Bel Air](https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Chevy Bel Air](https://open.spotify.com/album/2z6mvbkzLrnpWYSe7VT03Q) | 2:57 | 2022-06-24 |  |
+| [Chevy Bel Air](https://open.spotify.com/track/0NfnGKHH9Al0IsAWIkw1vb) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Chevy Bel Air](https://open.spotify.com/album/6hwxiEY9OG621hU306W70f) | 2:57 | 2023-12-01 |  |
+| [Chevy Bel Air](https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Chevy Bel Air](https://open.spotify.com/album/2z6mvbkzLrnpWYSe7VT03Q) | 2:57 | 2022-06-24 | 2023-12-15 |
 | [Come And Take IT](https://open.spotify.com/track/18txSFCPcylzKJsdY2d9wC) | [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj), [Tommy Calle](https://open.spotify.com/artist/542gnZqusCXArVqHCL2b5F) | [Come And Take IT](https://open.spotify.com/album/1SgtqqngrSUdTYQVjSViZR) | 2:35 | 2023-04-21 |  |
 | [Como Las Cinco Un Viernes \- 5 on a Friday \- Spanish Version](https://open.spotify.com/track/3ndv8kUmluaGkfrHMeYfmo) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Kat & Alex Lado B](https://open.spotify.com/album/2q3MgdvSHJ2MbldHccxoC2) | 2:41 | 2022-09-30 |  |
 | [Country'd Look Good On You](https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Country'd Look Good On You](https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO) | 3:22 | 2021-12-10 | 2023-11-05 |
@@ -104,7 +105,8 @@
 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 | 2021-12-10 |  |
 | [Never Have I Ever \- Yo Nunca He..\. / Spanish Version](https://open.spotify.com/track/4UwGBrXXpGWXdBWuvtU5hZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Never Have I Ever \(Yo Nunca He..\. / Spanish Version\)](https://open.spotify.com/album/41pi8PQFunXaqPy3xuVUlM) | 3:09 | 2021-12-10 |  |
 | [No Rompas Mi Corazon](https://open.spotify.com/track/50kX2IurNXtSQZG5e4z9VP) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Leyendas del Pueblo Con Caballo Dorado](https://open.spotify.com/album/19LluRsD0BLJNqcs5ryzuA) | 4:34 | 2021-12-10 |  |
-| [OBVIOUS \- Español](https://open.spotify.com/track/5i6oUSLYzolwKWXWeus5gV) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:51 | 2021-12-10 |  |
+| [OBVIOUS \- Español](https://open.spotify.com/track/39jEIuozQLWe7cwD650tgK) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/7KcPa7EJTnMn3ftNlYK2eP) | 2:51 | 2023-12-01 |  |
+| [OBVIOUS \- Español](https://open.spotify.com/track/5i6oUSLYzolwKWXWeus5gV) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:51 | 2021-12-10 | 2023-12-15 |
 | [Once Upon a Time \(feat\. Martina McBride\)](https://open.spotify.com/track/4gE9TM6eai2wzYbCga0WmD) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Play the Hits](https://open.spotify.com/album/3aAtwgAJcKzXVsxDsotriL) | 2:59 | 2021-12-10 |  |
 | [Once Upon a Time in Mexico](https://open.spotify.com/track/2OMp5B6BUCvnH7hVlZgMZH) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Once Upon a Time in Mexico](https://open.spotify.com/album/2j7lE1XBdiQdo4T9K2z4ci) | 2:44 | 2021-12-10 |  |
 | [Overthink](https://open.spotify.com/track/3l0oInOR4MnPPgpG2PYQex) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Overthink](https://open.spotify.com/album/5WcaHxFqd0BjF3xBtZ8Fd9) | 3:50 | 2023-03-03 |  |

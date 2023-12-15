@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > DJ Bullet takes over Haitian Heat for Miami Carnival 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,725 likes - 36 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,738 likes - 36 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

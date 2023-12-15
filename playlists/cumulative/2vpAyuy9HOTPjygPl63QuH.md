@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,588 songs - 3 day 18 hr 36 min
+1,589 songs - 3 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1033,6 +1033,7 @@
 | [Parcera](https://open.spotify.com/track/56oomeTRgamzypt6iObrvA) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Parcera](https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm) | 2:32 | 2023-08-11 | 2023-08-26 |
 | [Party](https://open.spotify.com/track/50k4HwDl7aR04THsqnesjg) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Party](https://open.spotify.com/album/0vfB0j9FIwXNqUrrHvTF1m) | 2:44 | 2023-09-29 | 2023-10-07 |
 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-08-25 | 2023-09-02 |
+| [Party All The Time \- D.O.D Remix](https://open.spotify.com/track/5JBtawmFkJ1Qs9Fzrdgkxt) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Party All The Time \(D.O.D Remix\)](https://open.spotify.com/album/0ko9z0wMuLm1sDVhKYS4lg) | 2:14 | 2023-12-14 |  |
 | [Party Diva](https://open.spotify.com/track/5n7zRKeW16p5o42sasOmah) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Party Diva](https://open.spotify.com/album/4vVbfW76h5gKz396zd5CMR) | 3:12 | 2022-09-23 | 2022-10-01 |
 | [Party Goes On](https://open.spotify.com/track/1N7elpUQthoEjIhf1ncHe7) | [Don't Stop](https://open.spotify.com/artist/5OVyKxezzganCl9U4JnELn), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Party Goes On](https://open.spotify.com/album/3ZrtyLpcW8UZUjo5tb0yvk) | 2:34 | 2022-12-02 | 2022-12-17 |
 | [Party People](https://open.spotify.com/track/4CdNJGwzSXTU1EE1GJBxM6) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Party People](https://open.spotify.com/album/3m11xfvM8zaRt5i9Ozj6hY) | 3:06 | 2022-09-02 | 2022-09-10 |

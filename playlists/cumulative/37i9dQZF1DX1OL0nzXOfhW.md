@@ -2,13 +2,13 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲！Cover: Nancy Kwai
+> 持續發掘世一超新聲！Cover: Gordon Flanders
 
-154 songs - 8 hr 51 min
+156 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1234](https://open.spotify.com/track/0sa1tVoQiF5aCpWh7BYQTH) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [SMY](https://open.spotify.com/artist/5bysmCOhvkQFNDDX9hpLJU) | [1234](https://open.spotify.com/album/3Nx0YNuzkEUGblTjsK2Tv8) | 3:52 | 2023-04-13 |  |
+| [1234](https://open.spotify.com/track/0sa1tVoQiF5aCpWh7BYQTH) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [SMY](https://open.spotify.com/artist/5bysmCOhvkQFNDDX9hpLJU) | [1234](https://open.spotify.com/album/3Nx0YNuzkEUGblTjsK2Tv8) | 3:52 | 2023-04-13 | 2023-12-15 |
 | [1973時光機](https://open.spotify.com/track/0jyjo2cXhAkRppXIUvnaEU) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973時光機](https://open.spotify.com/album/0g3iNv1VndF71XB7dL9dzG) | 3:56 | 2022-08-18 | 2023-04-14 |
 | [1973的舞會](https://open.spotify.com/track/77VQioAN4XNTQHRCY1bBmu) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [1973的舞會](https://open.spotify.com/album/0rQvDSqY1lKYtYRN5OjtJK) | 3:27 | 2023-03-16 | 2023-04-14 |
 | [1973的軌跡](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Tsui Ho San Jack](https://open.spotify.com/artist/7yLAJpqpc2qhvP3stnEvKU), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的軌跡](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 | 2022-08-18 | 2023-03-10 |
@@ -60,7 +60,7 @@
 | [MAD CITY](https://open.spotify.com/track/2raebFPnm3Y1CXdQWNoel6) | [VGONLOKO](https://open.spotify.com/artist/33UR6DvTm32A3qVYeDuUG5), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [MAD CITY](https://open.spotify.com/album/3wesOZL6BkAiUWxp1T2qzk) | 2:03 | 2023-08-31 |  |
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-04-13 |  |
 | [Mask Off](https://open.spotify.com/track/5DWa1yu3YyOooCNOCP88M0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [Mask Off](https://open.spotify.com/album/7lPukklXy0yedXd8j68rnW) | 3:28 | 2023-04-13 |  |
-| [Never Meant to Hurt You](https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [Never Meant to Hurt You](https://open.spotify.com/album/2CPfE2n9b4XbtLUQXT7HJs) | 3:16 | 2023-04-13 |  |
+| [Never Meant to Hurt You](https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [Never Meant to Hurt You](https://open.spotify.com/album/2CPfE2n9b4XbtLUQXT7HJs) | 3:16 | 2023-04-13 | 2023-12-15 |
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2023-11-23 |  |
 | [Never Say Never](https://open.spotify.com/track/2WhmAUL2A1alXac2uCTBau) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [Never Say Never](https://open.spotify.com/album/54jacCNqvBtQIAgBM6LtKe) | 3:36 | 2023-10-27 |  |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-05-26 | 2023-04-14 |
@@ -102,6 +102,7 @@
 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 | 2023-04-13 |  |
 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 | 2022-08-04 | 2023-04-14 |
 | [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 | 2023-10-13 |  |
+| [二八年華](https://open.spotify.com/track/59pjYLvzUjSu6jj1NqKb2P) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [FLANDERS](https://open.spotify.com/album/7kxIzybDHMVhyvFLTVFqki) | 3:54 | 2023-12-14 |  |
 | [五種愛的密語](https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [五種愛的密語](https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG) | 3:06 | 2023-04-13 |  |
 | [係咁先啦](https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦](https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm) | 3:29 | 2022-07-28 | 2023-04-14 |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2022-05-26 | 2022-07-29 |
@@ -127,6 +128,7 @@
 | [年月漫漫 \- 電影《年少日記》主題曲](https://open.spotify.com/track/4X9Z19oJlxgR4G6i9hwCYZ) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [年月漫漫 \(電影《年少日記》主題曲\)](https://open.spotify.com/album/77YMeS9QqVa3cYEeaQOO11) | 4:07 | 2023-11-16 |  |
 | [彷彿](https://open.spotify.com/track/0ciMEnrEBZQeeB5PHQLIKt) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [彷彿](https://open.spotify.com/album/2Z4cHJ5pLtyeqNsE3NnM4P) | 5:16 | 2023-04-13 |  |
 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 | 2022-11-24 | 2023-04-14 |
+| [慢半拍](https://open.spotify.com/track/1eFbcn9JmUe57fwf6MZL01) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [FLANDERS](https://open.spotify.com/album/7kxIzybDHMVhyvFLTVFqki) | 3:48 | 2023-12-14 |  |
 | [憑實力單身](https://open.spotify.com/track/4vTrVuUu1WKna22qQaKgK4) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [憑實力單身](https://open.spotify.com/album/4bvYTZJ2yqZ53ZDFemidF7) | 3:17 | 2023-04-13 |  |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-11 |  |
 | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/track/4vJWlKoZMLmWMWrmyRjKwz) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/album/2ZwoicOeT63UEyBDpSMsUQ) | 1:17 | 2023-04-13 |  |

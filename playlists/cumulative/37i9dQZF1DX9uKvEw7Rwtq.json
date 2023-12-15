@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "endless, somewhere",
+        "url": "https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK"
+      },
+      "artists": [
+        {
+          "name": "Nitewalk",
+          "url": "https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "endless, somewhere",
+      "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"
+    },
+    {
+      "album": {
         "name": "Enfold",
         "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-15",
       "duration_ms": 256026,
       "name": "Open Hill",
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
