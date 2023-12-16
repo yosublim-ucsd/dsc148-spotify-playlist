@@ -2,9 +2,9 @@
 
 ### [100% Cuarteto](https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE)
 
-> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Abel Pintos & Luck Ra.
+> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno  & Migrantes.
 
-379 songs - 1 day 0 hr 13 min
+380 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Amor Infiel](https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [A Toda Fiesta](https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov) | 3:28 | 2021-12-24 |  |
 | [Amor Secreto](https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Facu Y La Fuerza](https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU) | [Amor Secreto](https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2) | 3:04 | 2021-12-24 | 2023-05-04 |
 | [Amor secreto](https://open.spotify.com/track/2weCRoOw9dVUiTQI9gUjVx) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Toro Quevado](https://open.spotify.com/artist/6q0xSaNIE7hMPT1rc6CPzO) | [Homenaje \(Los Amigos del Mismo Palo\)](https://open.spotify.com/album/09LIOeWRW3Hh5y6RrhNM7q) | 5:20 | 2021-12-24 | 2022-07-28 |
+| [Anti Amor](https://open.spotify.com/track/3XnGmGMsZKUUslNt2Nr0V4) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Anti Amor](https://open.spotify.com/album/4Ak5qyIHTsPMDAgNeWIA5C) | 3:00 | 2023-12-15 |  |
 | [Aqui No Es](https://open.spotify.com/track/7xUuyJLGZg0osGSxhlI8MV) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Aqui No Es](https://open.spotify.com/album/39ONwIdsefek7bPlFV75an) | 3:08 | 2023-01-20 | 2023-04-12 |
 | [Arrasando / Soy Lo Que Me Das](https://open.spotify.com/track/3Khcr6j3UJ4fktFHhUc3SA) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Arrasando / Soy Lo Que Me Das](https://open.spotify.com/album/6HKNcLg2AYBEVE9FhCoaUU) | 3:22 | 2022-03-25 | 2022-06-21 |
 | [Atrevida \- En Vivo](https://open.spotify.com/track/7JkQzAl2Yr6VvEkDV3aqdP) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Atrevida](https://open.spotify.com/album/3Cmyeu1yxpExTUpPn8bDHq) | 4:16 | 2021-12-24 | 2022-07-23 |
@@ -115,7 +116,7 @@
 | [Esto se Acabó](https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Esto Se Acabó](https://open.spotify.com/album/1usW30QraosvadgKpteABF) | 3:19 | 2023-09-29 |  |
 | [Ex de Verdad](https://open.spotify.com/track/4iRMSAo4Ghq2njwcUAZy9n) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Ex de Verdad](https://open.spotify.com/album/3KHctnefJp6w3hfYQetKoB) | 2:58 | 2022-09-05 | 2023-01-14 |
 | [Extrañándote](https://open.spotify.com/track/37UdTgNxwIaDUxRy9wr4kf) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:52 | 2021-12-24 | 2023-04-24 |
-| [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 | 2023-03-17 | 2023-11-25 |
+| [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 | 2023-03-17 |  |
 | [Fiesta para dos](https://open.spotify.com/track/5iH1LuJAXVadg4p4GZQkVB) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Fiesta para dos](https://open.spotify.com/album/0qPqSqsuiRk6WuNhc3fNEx) | 5:05 | 2022-01-21 | 2022-06-18 |
 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 | 2023-01-27 |  |
 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 | 2022-06-24 | 2023-01-23 |
@@ -124,7 +125,7 @@
 | [Fue Culpa del Amor](https://open.spotify.com/track/2PapQiMjbJ5ALCPnpwIk87) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Fue Culpa del Amor](https://open.spotify.com/album/4iXP6iThkVJY1Y6Zi0niPL) | 3:52 | 2021-12-24 | 2022-07-11 |
 | [Fuego y Pasion](https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:21 | 2021-12-24 |  |
 | [Fuera del Mundo](https://open.spotify.com/track/3oNx2PDf86Pibc0mS1nwKQ) | [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Fuera del Mundo](https://open.spotify.com/album/1YWlaT2eIQctble1SrmdrU) | 3:31 | 2021-12-24 | 2022-07-04 |
-| [Gabriela](https://open.spotify.com/track/1LoDp9jyH2guSm5wQAy6Ei) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:28 | 2023-09-15 |  |
+| [Gabriela](https://open.spotify.com/track/1LoDp9jyH2guSm5wQAy6Ei) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:28 | 2023-09-15 | 2023-12-16 |
 | [Gabriela](https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:28 | 2021-12-24 | 2023-09-21 |
 | [Gracias por Todo](https://open.spotify.com/track/3vZNBLqQQ3FK6gwZXsaQsI) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Gracias por Todo](https://open.spotify.com/album/7bGURqaTiFKXpgO7eQt4fX) | 3:18 | 2022-08-12 | 2022-08-27 |
 | [Hola Bebe](https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Hola Bebe](https://open.spotify.com/album/2bLKhZCC42Tqm28MqmQAZ4) | 3:24 | 2023-01-13 | 2023-01-21 |
@@ -373,7 +374,7 @@
 | [Volverte a Amar](https://open.spotify.com/track/7ja61puQjfwINZNVjKC1Iw) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Volverte a Amar](https://open.spotify.com/album/2rweJcXr6E2FiWDJKnsqIF) | 2:57 | 2022-11-11 | 2022-12-24 |
 | [Volverás a mi cama](https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm), [Fabián Show](https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH) | [Volverás a mi cama](https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV) | 3:12 | 2022-01-07 | 2023-01-14 |
 | [Voy A Olvidarme De Mi](https://open.spotify.com/track/7At4ts4UEcrRJSP0rR3Q0B) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Voy A Olvidarme De Mi](https://open.spotify.com/album/4FEH9l7ARowZhR1kL9X4WF) | 3:07 | 2023-07-21 |  |
-| [Vuela \(En Vivo\)](https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [La Fiesta Es de Primera](https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu) | 5:19 | 2021-12-24 |  |
+| [Vuela \(En Vivo\)](https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [La Fiesta Es de Primera](https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu) | 5:19 | 2021-12-24 | 2023-12-16 |
 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 | 2021-12-24 | 2022-07-29 |
 | [Ya lo sabía](https://open.spotify.com/track/5hqxuK3VJuESk7V1TPt7UT) | [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Ya lo sabía](https://open.spotify.com/album/3bBKKJriXCCiBr0eDDBGR8) | 3:19 | 2021-12-24 | 2022-07-09 |
 | [Ya No Llora \- En Vivo](https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ya No Llora \(En Vivo\)](https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S) | 2:58 | 2022-12-10 |  |

@@ -4,7 +4,7 @@
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-364 songs - 16 hr 11 min
+368 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Blurt](https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Blurt](https://open.spotify.com/album/4iM2ECj6UkJ3sUwcnofnOF) | 2:13 | 2023-09-29 |  |
 | [bones](https://open.spotify.com/track/0fwYe53RLfXtqJzjvzfTn4) | [Numl6ck](https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx), [pwon](https://open.spotify.com/artist/3KTZgaWBh344GgAHftarFM) | [bones](https://open.spotify.com/album/3KmErbslecY06JTn8vJU8s) | 2:22 | 2023-06-09 | 2023-11-18 |
 | [Borderline Personality](https://open.spotify.com/track/2XQh0Gvc6KGOIPQRm30M3K) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Sick Sad Obsession](https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb) | 2:03 | 2023-06-23 |  |
+| [BOUND 2 U](https://open.spotify.com/track/09EH1eKKDdNK2cVeIqKWaW) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [BOUND 2 U](https://open.spotify.com/album/7Cw9sXEeO8gQf6xGkQkfiS) | 2:05 | 2023-12-15 |  |
 | [bounty](https://open.spotify.com/track/76nPwPy3z57UlFiLTWUKS7) | [Jay Kim](https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6) | [bounty](https://open.spotify.com/album/0VHaKFRIkracVMCyzw8y7E) | 2:52 | 2023-12-08 |  |
 | [boythots](https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [boythots](https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv) | 2:17 | 2023-03-01 | 2023-09-22 |
 | [break!](https://open.spotify.com/track/2uuBejJUbUb6EsKfEwE00L) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic), [Jay Kim](https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6) | [break!](https://open.spotify.com/album/0xBcwKwEV6QJaRxDK7A5rY) | 3:47 | 2023-11-10 |  |
@@ -146,6 +147,7 @@
 | [have you had enough?](https://open.spotify.com/track/5mUmnERjdOtCpXrk3acdQY) | [dylxn](https://open.spotify.com/artist/5UlvB9ajvjZf8TDhySUF0i) | [have you had enough?](https://open.spotify.com/album/1PXCNZP2ZdEDvKbXZ4O54Q) | 3:15 | 2023-03-24 | 2023-09-22 |
 | [Haven't Heard From You Much](https://open.spotify.com/track/5YUKL6XBvFWuLKJnhaBMXl) | [Tom Verberne](https://open.spotify.com/artist/6VBC0wHJglsZSqSUCfbepv) | [Don't Walk](https://open.spotify.com/album/0ODGsocnu7AHzBtDcqw3bW) | 3:03 | 2023-06-16 | 2023-06-24 |
 | [heart attack](https://open.spotify.com/track/69hETV9gK14D20pyT55RMH) | [Endie](https://open.spotify.com/artist/3B7lDutNv1vGrqkujRx78O), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [heart attack](https://open.spotify.com/album/1bIFXVDg0VGmasvfKyw2da) | 3:01 | 2023-06-23 |  |
+| [Heaven](https://open.spotify.com/track/0r3cq4kZ3cXhYvmkywATG2) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [M\*A\*D \(Miss American Dream\)](https://open.spotify.com/album/6yrOPZonbgXTeb4TbJ7odD) | 3:26 | 2023-12-15 |  |
 | [Heavy Jacket](https://open.spotify.com/track/5NxwAYPr4gyc7gLmhZHwAl) | [Peech.](https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk), [Xedrin](https://open.spotify.com/artist/0T8OlNkaNRP75U1kSlRyWG) | [Heavy Jacket](https://open.spotify.com/album/6hLHsUqzVj6Z4fpzynQckd) | 2:44 | 2023-01-27 | 2023-04-15 |
 | [highscore!](https://open.spotify.com/track/2crXnfUgYV2a5yfMWOmQdT) | [cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc) | [highscore!](https://open.spotify.com/album/11mhTCGVCQjg2t13MXHRcX) | 3:47 | 2023-03-10 | 2023-09-22 |
 | [HOLD](https://open.spotify.com/track/0YJBmQTqJyexrx5DNfog6n) | [Caleb Peters](https://open.spotify.com/artist/1AaJS5oq6oQMUjd1mpO1t3) | [HOLD](https://open.spotify.com/album/0WZvUnHEnnAzpxd60ZeJVp) | 2:47 | 2023-03-21 | 2023-11-11 |
@@ -334,6 +336,7 @@
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-03-24 | 2023-04-09 |
 | [Ughh Parents Evening](https://open.spotify.com/track/09NAWwOkfRCGurjHthLeJL) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [three.one](https://open.spotify.com/album/2xGck9uWnQCNpiBfhHa7JI) | 2:31 | 2023-05-19 | 2023-08-17 |
 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 | 2023-09-29 |  |
+| [unpredictable thinGs](https://open.spotify.com/track/3pDAsFoenMVsbPFEkdGuXR) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [GORE](https://open.spotify.com/album/18qf5tvWCzzhPauoKyJSTh) | 2:28 | 2023-12-15 |  |
 | [unwind](https://open.spotify.com/track/69XCORenfXQeypvDU6dRYW) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [unwind](https://open.spotify.com/album/5TZGkQC8aNOoC6Y2jMQnkq) | 2:08 | 2023-05-31 | 2023-11-18 |
 | [update failed](https://open.spotify.com/track/0Fn5lBgRWCxZUM1NI5Qvp7) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [update failed](https://open.spotify.com/album/3Ga4jF853bRTfUMjKq7QjW) | 3:46 | 2023-03-17 | 2023-11-11 |
 | [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/track/3k1IuNcDLXsB191yDLmoDm) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/album/1j1VISKM5ayELFLFUPu0nn) | 2:38 | 2023-01-20 | 2023-09-09 |
@@ -355,6 +358,7 @@
 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 | 2023-08-04 |  |
 | [white noise! \(feat\. cybertrash\)](https://open.spotify.com/track/4RZRRDbFDgxkf5hV2xizyr) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [white noise! \(feat\. cybertrash\)](https://open.spotify.com/album/4gIJoCUfHRHnKeAY8uiCTt) | 2:07 | 2023-01-20 | 2023-03-02 |
 | [white tiger](https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [White Tiger](https://open.spotify.com/album/2ij1JaqxLVOKTOsSUZKMji) | 1:54 | 2023-06-23 |  |
+| [why????? \(all my angels cry\)](https://open.spotify.com/track/6NoAkMdjhzRlruHG38LHm5) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [why????? \(all my angels cry\)](https://open.spotify.com/album/0epE3hbGlJp3dZSNsZs9YR) | 1:58 | 2023-12-15 |  |
 | [WISH I NEVER KNEW YOU](https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WISH I NEVER KNEW YOU](https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp) | 2:59 | 2023-03-17 | 2023-11-11 |
 | [wishucouldseemenow](https://open.spotify.com/track/3EI0kBRAlONmiD6Hi4etqM) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [dygytaldysmorphya](https://open.spotify.com/album/0ImUgw3PkFRTa37uBMpyKY) | 2:33 | 2023-08-04 | 2023-09-22 |
 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 | 2022-12-09 | 2023-03-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Raisa",
-  "num_followers": 170492,
+  "num_followers": 170598,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzM1NDdmMDM2MzJlM2U2NDA3NjE4Y2Q4ODJjZGQ3ODYxOTQxNzIy",
+  "snapshot_id": "MCxjN2VjNjk1ODkwNTY0NDA5OGZkM2ZjMTcxZWQ0ZDhjN2MxYmE0OWZh",
   "tracks": [
     {
       "added_at": "2023-12-14 17:00:00",
@@ -74,6 +74,10 @@
         {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
       "duration_ms": 123624,
@@ -423,6 +427,26 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2023-12-14 17:00:00",
+      "album": {
+        "name": "The Grinch Freestyle (feat. Latto)",
+        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146673,
+      "name": "The Grinch Freestyle (feat. Latto)",
+      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
     },
     {
       "added_at": "2023-12-14 17:00:00",
@@ -797,7 +821,7 @@
         }
       ],
       "duration_ms": 176055,
-      "name": "You and Me Makes Us",
+      "name": "You & Me Makes Us",
       "url": "https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q"
     },
     {

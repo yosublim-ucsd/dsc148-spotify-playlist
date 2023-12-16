@@ -1159,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "Brunt",
+        "url": "https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Nosphere",
+          "url": "https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Brunt",
+      "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
+    },
+    {
+      "album": {
         "name": "BUBBLE BASS",
         "url": "https://open.spotify.com/album/0Xns6eK58lVfQsZFMoTZRQ"
       },
@@ -4116,7 +4138,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 196004,
       "name": "Hexed Opera",
       "url": "https://open.spotify.com/track/2nLIjKSv9zudWVd2EKAd01"
@@ -4533,7 +4555,7 @@
     },
     {
       "album": {
-        "name": "IN THE PLACE",
+        "name": "In The Place",
         "url": "https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc"
       },
       "artists": [
@@ -4546,7 +4568,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230400,
-      "name": "IN THE PLACE",
+      "name": "In The Place",
       "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
     },
     {
@@ -4602,7 +4624,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 177103,
       "name": "Internet G",
       "url": "https://open.spotify.com/track/0WfQUDK0wxEjecrAzQL84y"
@@ -4922,7 +4944,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 274153,
       "name": "Killa Sound",
       "url": "https://open.spotify.com/track/3w5zppchpoYcxkipSI9PJs"
@@ -5607,6 +5629,28 @@
     },
     {
       "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/7f0LR3Mm5uD7oCBjCJ2Xt4"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos"
+    },
+    {
+      "album": {
         "name": "Mind Pluck",
         "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
       },
@@ -5718,6 +5762,24 @@
       "duration_ms": 240380,
       "name": "Mitosis",
       "url": "https://open.spotify.com/track/0zOqoAh2thAbmju80p850h"
+    },
+    {
+      "album": {
+        "name": "Monomyth LP",
+        "url": "https://open.spotify.com/album/5qGz0eFyGi5sTklBY0Syhc"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "Monomyth",
+      "url": "https://open.spotify.com/track/3eohbDWubHzKPcrXs4bHOE"
     },
     {
       "album": {
@@ -6560,7 +6622,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 192857,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/2SS2oPAFHFHUimjfwyoYyC"
@@ -8706,7 +8768,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 266482,
       "name": "Squad Anthem",
       "url": "https://open.spotify.com/track/4QEinGQxNXRzHgus28v42T"
@@ -8950,6 +9012,32 @@
       "duration_ms": 204800,
       "name": "Style",
       "url": "https://open.spotify.com/track/79uUlT0sPzOO2XY035m729"
+    },
+    {
+      "album": {
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/5jmKFRbnggeDNuaTWhyKpD"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "RZRKT",
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
+        },
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/2ccd5DFVTdoUOXGmChrM9j"
     },
     {
       "album": {
@@ -10202,6 +10290,24 @@
       "duration_ms": 211862,
       "name": "Watch Me - Jon Casey",
       "url": "https://open.spotify.com/track/22tYNfFswhekyfe3VACcgr"
+    },
+    {
+      "album": {
+        "name": "Watch Your Mouth",
+        "url": "https://open.spotify.com/album/2ua4XpTh7g1qmXnZ77qQ0w"
+      },
+      "artists": [
+        {
+          "name": "Herobust",
+          "url": "https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254487,
+      "name": "Watch Your Mouth",
+      "url": "https://open.spotify.com/track/7hVpOq9UfCGz1dMw2BnVqX"
     },
     {
       "album": {

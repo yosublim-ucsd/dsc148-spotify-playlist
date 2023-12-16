@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke ja Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,838 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,863 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Savu](https://open.spotify.com/track/14MZ5VjSRPjwToGzWDL5mw) | [Laineen Kasperi](https://open.spotify.com/artist/5tZ4tk3tuZXAafP4ColDmA) | [Savu](https://open.spotify.com/album/1j18NYiIzN3DbEbFSt9dpU) | 4:20 |
 | 60 | [Pavlovin koira](https://open.spotify.com/track/3HHaCbh6efnW0bvHfxbCPp) | [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Pavlovin koira](https://open.spotify.com/album/35L1h9yiKcgK3EGuiW2rND) | 2:53 |
 
-Snapshot ID: `MCwzMWZlNzYyZDhjNzBjZDAzYWFhN2IwNjhkNWQ3OTliYmJjNTA1ZGIz`
+Snapshot ID: `MCw1YjNiNWE5ZGYzODQ4OTQ2M2E0NDA3YzA2NDVjMWRlMjcwZTk2OTYx`

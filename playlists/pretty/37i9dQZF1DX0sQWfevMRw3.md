@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JULEN PÅ FYRA HJUL ÄR HÄR!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,181 likes - 98 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,291 likes - 98 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 97 | [FÖRSÖKER LE](https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [FÖRSÖKER LE](https://open.spotify.com/album/5bcB7h6aFU9mQj3hUjLmre) | 3:49 |
 | 98 | [50/50](https://open.spotify.com/track/7wQKO9dOporjLvFD0TY5nG) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [50/50](https://open.spotify.com/album/6vUTGS6AJ8mAIadZjGefoP) | 2:44 |
 
-Snapshot ID: `MCwwZDRhNDA2YTg2NWU3MWE0OGMyMmQxNGZhZWRlY2YwM2FjMTIzY2Y5`
+Snapshot ID: `MCwwNGQwZmIwZmExYmFhMmZhMzU4NGRmYzIwNTc3NmI4OGFiNDhkNGNm`

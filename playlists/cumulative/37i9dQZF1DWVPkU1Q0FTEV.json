@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "90's Rave",
+        "url": "https://open.spotify.com/album/3NDYM3BN9RihJR583b1AQ1"
+      },
+      "artists": [
+        {
+          "name": "Schiere",
+          "url": "https://open.spotify.com/artist/1TRZlQz6GZva8e648Cns57"
+        },
+        {
+          "name": "Svetec",
+          "url": "https://open.spotify.com/artist/2IOR06B1bFw3KTm2UADPY4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "90's Rave - SveTec Remix",
+      "url": "https://open.spotify.com/track/3ywcK35WkUjOedVHleco5k"
+    },
+    {
+      "album": {
         "name": "AC130",
         "url": "https://open.spotify.com/album/6bIn8rG8n82QCsFxV2rYTZ"
       },
@@ -104,6 +126,24 @@
       "duration_ms": 353218,
       "name": "AC130",
       "url": "https://open.spotify.com/track/6xUHsQMHmN8HvBygDTXD45"
+    },
+    {
+      "album": {
+        "name": "Activision",
+        "url": "https://open.spotify.com/album/0m0UKPZAt6YUANuExU87oO"
+      },
+      "artists": [
+        {
+          "name": "Basswell",
+          "url": "https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228116,
+      "name": "Activision",
+      "url": "https://open.spotify.com/track/0otQe3ObcrAuJWNpNEWQUy"
     },
     {
       "album": {
@@ -212,7 +252,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 363999,
       "name": "Bite",
       "url": "https://open.spotify.com/track/4qBwEoLZ7ZenEjTaeWI8ti"
@@ -284,7 +324,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 225109,
       "name": "Cabroncete",
       "url": "https://open.spotify.com/track/1xPm1Gy46lvDV3WHOm2ndy"
@@ -446,7 +486,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 379012,
       "name": "Distorted Emotions",
       "url": "https://open.spotify.com/track/3hD2li014cgOZvElEBs7eu"
@@ -489,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Dont Believe The Hype",
+        "url": "https://open.spotify.com/album/2tiVK8vd3JTC2oXfOtkLUJ"
+      },
+      "artists": [
+        {
+          "name": "Buchecha",
+          "url": "https://open.spotify.com/artist/2Z1NLvqe2wDzApSVsb4GA0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386063,
+      "name": "Dont Believe the Hype",
+      "url": "https://open.spotify.com/track/0vNqsKGdZ5zi0tDZ2FHkbA"
+    },
+    {
+      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4avTBCORCRBkqwsZt2qvLj"
       },
@@ -500,7 +558,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 226086,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/5GlppuRB70itNumGWhmdF5"
@@ -525,6 +583,32 @@
     },
     {
       "album": {
+        "name": "F*CK THE POLICE",
+        "url": "https://open.spotify.com/album/5ppMRWCfWPtyylDafbxrLJ"
+      },
+      "artists": [
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "elMefti",
+          "url": "https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy"
+        },
+        {
+          "name": "FACELESS",
+          "url": "https://open.spotify.com/artist/4yd7jUZ9LIJlHkMWt4P6lO"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346838,
+      "name": "F*CK THE POLICE",
+      "url": "https://open.spotify.com/track/3aJEySm2QaO3JCYboBwqyW"
+    },
+    {
+      "album": {
         "name": "Right Time",
         "url": "https://open.spotify.com/album/1iCQnhj0JxyRnOLXJUNM9k"
       },
@@ -536,7 +620,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 341937,
       "name": "F.K.K.",
       "url": "https://open.spotify.com/track/2sN5GgpBMcvQMfElOJSBop"
@@ -554,10 +638,76 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 369250,
       "name": "Feet Down",
       "url": "https://open.spotify.com/track/3BrEKAZM9dwKV21dGxURHQ"
+    },
+    {
+      "album": {
+        "name": "Fuck This",
+        "url": "https://open.spotify.com/album/504y7ALrscVc9n9Yy3fHS8"
+      },
+      "artists": [
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "elMefti",
+          "url": "https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy"
+        },
+        {
+          "name": "FACELESS",
+          "url": "https://open.spotify.com/artist/4yd7jUZ9LIJlHkMWt4P6lO"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207631,
+      "name": "Fuck This",
+      "url": "https://open.spotify.com/track/3AF3nGA0feGjLByXNvvSKJ"
+    },
+    {
+      "album": {
+        "name": "Fucking Presumption",
+        "url": "https://open.spotify.com/album/4Jw7GsraZ2S2uxAbZKTGAI"
+      },
+      "artists": [
+        {
+          "name": "Denis Dekay",
+          "url": "https://open.spotify.com/artist/3bJNAzLC9MAaAScBx7WSDh"
+        },
+        {
+          "name": "Cassandrah",
+          "url": "https://open.spotify.com/artist/06TC1aVUw9eLvV0IFLemm0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330810,
+      "name": "Fucking Presumption",
+      "url": "https://open.spotify.com/track/4l1kLMSKRfvsvzGEOYTyET"
+    },
+    {
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/6I4CZgkVlGt7hL6iUSiG59"
+      },
+      "artists": [
+        {
+          "name": "STORM",
+          "url": "https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253960,
+      "name": "Fury",
+      "url": "https://open.spotify.com/track/0dSFpko9xr9DxkvUutnezZ"
     },
     {
       "album": {
@@ -594,7 +744,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 376300,
       "name": "Fxck",
       "url": "https://open.spotify.com/track/4WUa4xnXRX1grjrTfjClEg"
@@ -612,7 +762,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 336000,
       "name": "Fxck Off",
       "url": "https://open.spotify.com/track/5vbC20Xe6wbHy4mqRGTC1W"
@@ -630,7 +780,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 364800,
       "name": "Gier - Original Mix",
       "url": "https://open.spotify.com/track/1g0BGueeHWy8fSlBTv5DRA"
@@ -673,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Heavy Bastard",
+        "url": "https://open.spotify.com/album/5R4GkJOe38qYwZn7FliPyo"
+      },
+      "artists": [
+        {
+          "name": "RBX",
+          "url": "https://open.spotify.com/artist/2G4dTLD07Q52jBjkO8kHST"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338125,
+      "name": "Heavy Bastard",
+      "url": "https://open.spotify.com/track/1v8fIyjlFItDovtyf2roUS"
+    },
+    {
+      "album": {
         "name": "Hellfire",
         "url": "https://open.spotify.com/album/53jsEwUmQ41VRINewRW4te"
       },
@@ -702,7 +870,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 360000,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/6yTWUKQcvGeNocIBSPTFmw"
@@ -724,6 +892,24 @@
       "duration_ms": 284500,
       "name": "Hybrid Boom",
       "url": "https://open.spotify.com/track/01Uf0wEBvU5trPVFauh5wh"
+    },
+    {
+      "album": {
+        "name": "Investigation",
+        "url": "https://open.spotify.com/album/1vU29dUN86SZFvm1sxX49F"
+      },
+      "artists": [
+        {
+          "name": "HOEHENANGST",
+          "url": "https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366486,
+      "name": "Investigation",
+      "url": "https://open.spotify.com/track/6GP1EQ7bXV8rrVDUCcg6R8"
     },
     {
       "album": {
@@ -800,7 +986,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 370600,
       "name": "Just Like This",
       "url": "https://open.spotify.com/track/59QvjqyCMH3SqpW1jUSxny"
@@ -818,7 +1004,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 287988,
       "name": "Kaltes Fieber",
       "url": "https://open.spotify.com/track/246gVjD6sh8Lga2ZfOqWjT"
@@ -854,7 +1040,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 178285,
       "name": "Konfi",
       "url": "https://open.spotify.com/track/2aezJJAtxkH3vU0i7GUbYS"
@@ -897,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Fresh Blood : Tome 3",
+        "url": "https://open.spotify.com/album/69j4gGZAsXru7YlPHF4Ir7"
+      },
+      "artists": [
+        {
+          "name": "Sancer",
+          "url": "https://open.spotify.com/artist/4ar0DskzXYsTpxqb78W48y"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260129,
+      "name": "LSD - Original Mix",
+      "url": "https://open.spotify.com/track/7MnAFGsd5Ddk2yGY7EQkEI"
+    },
+    {
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/6oZleqlQch4NIKtMtZ1PFn"
       },
@@ -912,10 +1116,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 218526,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/0clhrrVpyYs9aHVckh20V1"
+    },
+    {
+      "album": {
+        "name": "Techno Germany - Various Artists EP",
+        "url": "https://open.spotify.com/album/1xyzLqdM8KGm6HyzlVVWRG"
+      },
+      "artists": [
+        {
+          "name": "DYEN",
+          "url": "https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319152,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/4bwOSTD7ujDm6pr6JSmTle"
     },
     {
       "album": {
@@ -930,10 +1152,32 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 300774,
       "name": "Man Feel Alive",
       "url": "https://open.spotify.com/track/74u62IxGepJQYICXH7o5fc"
+    },
+    {
+      "album": {
+        "name": "Mercenary",
+        "url": "https://open.spotify.com/album/4W9vx9NvpeGtzI6z5uNHmV"
+      },
+      "artists": [
+        {
+          "name": "APH\u00d8TIC",
+          "url": "https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4"
+        },
+        {
+          "name": "KSMS",
+          "url": "https://open.spotify.com/artist/0BMlmXmFVNm7ytMmFtWTpp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322105,
+      "name": "Mercenary",
+      "url": "https://open.spotify.com/track/6hXvAW44t2aMHgXZqoPkkF"
     },
     {
       "album": {
@@ -955,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Devil May Cry",
+        "url": "https://open.spotify.com/album/0RdkCpTUPeU3xqICHWvk0N"
+      },
+      "artists": [
+        {
+          "name": "TRIPTYKH",
+          "url": "https://open.spotify.com/artist/3MOapFRDlfT55vNqZgf026"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Move Your Body - Original Mix",
+      "url": "https://open.spotify.com/track/63ZW9vN2WYoY4S9Sax1RwM"
+    },
+    {
+      "album": {
         "name": "New Place",
         "url": "https://open.spotify.com/album/0yuYM8DFQ0sK9m18JcoUnL"
       },
@@ -966,10 +1228,86 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 311172,
       "name": "New Place",
       "url": "https://open.spotify.com/track/1FuxbTMzZhhwqT31uBQFKV"
+    },
+    {
+      "album": {
+        "name": "One Motion",
+        "url": "https://open.spotify.com/album/0PfaLJrtvXPycU4ZOKaiz5"
+      },
+      "artists": [
+        {
+          "name": "STORM",
+          "url": "https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315500,
+      "name": "One Motion",
+      "url": "https://open.spotify.com/track/6vGIHAvmveK5QbRpZZFze0"
+    },
+    {
+      "album": {
+        "name": "Oxitocina",
+        "url": "https://open.spotify.com/album/1J1u1OVRVtHtk4U1AmFjXp"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Oxitocina",
+      "url": "https://open.spotify.com/track/0NKR7cVUfkdsGYAVGNv7Xs"
+    },
+    {
+      "album": {
+        "name": "Paro Hour (Luciid VIP)",
+        "url": "https://open.spotify.com/album/2uw3jWGJljae3E4LQcnSS0"
+      },
+      "artists": [
+        {
+          "name": "Luciid",
+          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303774,
+      "name": "Paro Hour (Luciid VIP)",
+      "url": "https://open.spotify.com/track/1ryhnGlHlpBXb68UZSBv7Z"
+    },
+    {
+      "album": {
+        "name": "Guerrilla Radio VA 001",
+        "url": "https://open.spotify.com/album/0VDZq8QRdFL123aW2FhuTZ"
+      },
+      "artists": [
+        {
+          "name": "GUERRILLA RADIO",
+          "url": "https://open.spotify.com/artist/2CooZSSsap5HwR3pwDmjqr"
+        },
+        {
+          "name": "ANSBRO",
+          "url": "https://open.spotify.com/artist/1zSOxtMarFja6UNU9ZZWFu"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324804,
+      "name": "Patakha Guddi",
+      "url": "https://open.spotify.com/track/3teldiOOgXYvXhRvs6BaP4"
     },
     {
       "album": {
@@ -1009,6 +1347,28 @@
     },
     {
       "album": {
+        "name": "Rave Salvo",
+        "url": "https://open.spotify.com/album/2mPNkBufNHT70BgUnQfldi"
+      },
+      "artists": [
+        {
+          "name": "KSMS",
+          "url": "https://open.spotify.com/artist/0BMlmXmFVNm7ytMmFtWTpp"
+        },
+        {
+          "name": "USH",
+          "url": "https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326250,
+      "name": "Rave Salvo",
+      "url": "https://open.spotify.com/track/5iMls4HEvV43Lu4RERITvu"
+    },
+    {
+      "album": {
         "name": "Rave Killa EP",
         "url": "https://open.spotify.com/album/6Ia4fFVK7Y84uShycxc4WE"
       },
@@ -1038,7 +1398,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 338500,
       "name": "Raw - Original Mix",
       "url": "https://open.spotify.com/track/2JEScrYsvoF1IpsZQR3e43"
@@ -1110,10 +1470,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 409600,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/1HQn5g3gz7LK4FNXFcBfP8"
+    },
+    {
+      "album": {
+        "name": "Unholy",
+        "url": "https://open.spotify.com/album/0QWp3eKjnZvU47vijjx2Cx"
+      },
+      "artists": [
+        {
+          "name": "TRIPTYKH",
+          "url": "https://open.spotify.com/artist/3MOapFRDlfT55vNqZgf026"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305454,
+      "name": "Rock The Beat",
+      "url": "https://open.spotify.com/track/6GhsX7XmAPzrsQvLrcvKnn"
     },
     {
       "album": {
@@ -1153,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Say My Name EP",
+        "url": "https://open.spotify.com/album/74wRxPjl4EkXCsm84VYND8"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370769,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/3ilMTmdIAhvj0JhGhQXQTO"
+    },
+    {
+      "album": {
         "name": "Sky Walker",
         "url": "https://open.spotify.com/album/7MXRxfBiojCjoIsMzAFvoP"
       },
@@ -1164,7 +1560,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 330389,
       "name": "Sky Walker",
       "url": "https://open.spotify.com/track/16qJHC1EXtLvEh3I1Oqw8O"
@@ -1229,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Hidden Gems Vol. 2",
+        "url": "https://open.spotify.com/album/2jHU3hqW8UXb3fiKn6v1k9"
+      },
+      "artists": [
+        {
+          "name": "PISAPIA (IT)",
+          "url": "https://open.spotify.com/artist/6wBqeigBUFAIAnPuBQl071"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371451,
+      "name": "Start Thard",
+      "url": "https://open.spotify.com/track/1xTRaSEPY2wEAmk8FjAxKZ"
+    },
+    {
+      "album": {
         "name": "Strange Signal",
         "url": "https://open.spotify.com/album/1hTJ4DAstuoOfgmxrLkKK5"
       },
@@ -1247,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "System Damage",
+        "url": "https://open.spotify.com/album/7aF5SxvSns5ygCWBTlv4Aq"
+      },
+      "artists": [
+        {
+          "name": "PISAPIA (IT)",
+          "url": "https://open.spotify.com/artist/6wBqeigBUFAIAnPuBQl071"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342758,
+      "name": "System Damage",
+      "url": "https://open.spotify.com/track/7A8mb5m9DSljcOE1qDIXFl"
+    },
+    {
+      "album": {
         "name": "T.M.",
         "url": "https://open.spotify.com/album/4dpbZXFaMuTQNY53S28fUJ"
       },
@@ -1258,7 +1690,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 366400,
       "name": "T.M.",
       "url": "https://open.spotify.com/track/0EPuTADUDAQ8xCTj9QGqar"
@@ -1276,7 +1708,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 426960,
       "name": "The Aftermath",
       "url": "https://open.spotify.com/track/1eRVsFpFd4NfHG2ll5QneP"
@@ -1298,6 +1730,24 @@
       "duration_ms": 220123,
       "name": "THE NARCISSIST",
       "url": "https://open.spotify.com/track/65BLNYgVZuIdWOLrceH3pI"
+    },
+    {
+      "album": {
+        "name": "Hard Techno Engines EP",
+        "url": "https://open.spotify.com/album/3fJtUwQhYOokjpfu6wjC2H"
+      },
+      "artists": [
+        {
+          "name": "Buchecha",
+          "url": "https://open.spotify.com/artist/2Z1NLvqe2wDzApSVsb4GA0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364679,
+      "name": "The Number Of The Girl - Svetec Remix",
+      "url": "https://open.spotify.com/track/5D7AXgH2awm86okXZRqFyN"
     },
     {
       "album": {
@@ -1330,7 +1780,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 316706,
       "name": "Too Hot",
       "url": "https://open.spotify.com/track/0amia3Ptk21pqJXohPwNuQ"
@@ -1374,7 +1824,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 423800,
       "name": "Unchanged",
       "url": "https://open.spotify.com/track/5X88Dzc8T01NmYrbsiIPoh"
@@ -1454,7 +1904,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 354216,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/50O6NdBaTWeOnrBm059PVE"

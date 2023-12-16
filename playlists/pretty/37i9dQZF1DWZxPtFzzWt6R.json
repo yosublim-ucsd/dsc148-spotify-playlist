@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 75716,
+  "num_followers": 75766,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODNjNzgwYmQ3OTExNDM4NDRjZDBlYmM1YmIxMTQyMzY0MDAzY2Zl",
+  "snapshot_id": "MCw0NzM1NTM5YWZiYTJjOTE4MDM3YzJhMTEwN2VlNjU5OGVkYWY2OWVi",
   "tracks": [
     {
       "added_at": "2023-11-24 07:22:12",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-24 07:22:12",
       "album": {
-        "name": "N\u00f3s (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 255250,
-      "name": "N\u00f3s - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj"
-    },
-    {
-      "added_at": "2023-11-24 07:22:12",
-      "album": {
         "name": "Estou no Controle",
         "url": "https://open.spotify.com/album/2LqLcq7bxp7pOMyMaLTx9M"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 299407,
       "name": "Estou no Controle",
       "url": "https://open.spotify.com/track/1WDXhve7KOKXp38Sy0eiL1"
+    },
+    {
+      "added_at": "2023-11-24 07:22:12",
+      "album": {
+        "name": "N\u00f3s (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 255250,
+      "name": "N\u00f3s - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj"
     },
     {
       "added_at": "2023-11-24 07:22:12",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-11-24 07:22:12",
       "album": {
+        "name": "Triunfo de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 336796,
+      "name": "O Pr\u00f3digo Vai Voltar",
+      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
+    },
+    {
+      "added_at": "2023-11-24 07:22:12",
+      "album": {
         "name": "Valor de uma Alma",
         "url": "https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 266404,
       "name": "Valor de uma Alma",
       "url": "https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK"
-    },
-    {
-      "added_at": "2023-11-24 07:22:12",
-      "album": {
-        "name": "Triunfo de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 336796,
-      "name": "O Pr\u00f3digo Vai Voltar",
-      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
     },
     {
       "added_at": "2023-11-24 07:22:12",
@@ -763,18 +763,22 @@
     {
       "added_at": "2023-11-24 07:22:12",
       "album": {
-        "name": "De Volta \u00e0 Inoc\u00eancia",
-        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
+        "name": "Nascer de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC"
       },
       "artists": [
         {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
         }
       ],
-      "duration_ms": 288012,
-      "name": "De Volta \u00e0 Inoc\u00eancia",
-      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
+      "duration_ms": 239791,
+      "name": "Nascer de Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t"
     },
     {
       "added_at": "2023-11-24 07:22:12",
@@ -815,22 +819,18 @@
     {
       "added_at": "2023-11-24 07:22:12",
       "album": {
-        "name": "Nascer de Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC"
+        "name": "De Volta \u00e0 Inoc\u00eancia",
+        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
       },
       "artists": [
         {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
         }
       ],
-      "duration_ms": 239791,
-      "name": "Nascer de Novo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t"
+      "duration_ms": 288012,
+      "name": "De Volta \u00e0 Inoc\u00eancia",
+      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
     },
     {
       "added_at": "2023-11-24 07:22:12",

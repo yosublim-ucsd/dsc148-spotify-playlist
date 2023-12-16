@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,493 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,593 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,7 +201,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 191 | [Heat Waves](https://open.spotify.com/track/6yxflva6Afzk0xvlRCGFy2) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [LØU](https://open.spotify.com/artist/760P7Qzgd5FwrIA3renAWG), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Heat Waves](https://open.spotify.com/album/5V8yhEPiVAmr5oV80T7vLc) | 2:20 |
 | 192 | [you broke me first](https://open.spotify.com/track/3ztpVHzt35X2zwBbEh4gMg) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [you broke me first](https://open.spotify.com/album/0OowUlZkI9g5T1qTWWyhID) | 2:41 |
 | 193 | [Numb](https://open.spotify.com/track/16oOcqhWq0jLesfL1ICC74) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Numb](https://open.spotify.com/album/61RourHT0SNrh4KGPRnIrZ) | 3:11 |
-| 194 | [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 |
+| 194 | [One by One \- Radio Edit](https://open.spotify.com/track/6VwLxr8s5AWQahRW1DtXNX) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One by One](https://open.spotify.com/album/6XgUanSbXwk4TSduWNcSe4) | 2:18 |
 | 195 | [Hymn](https://open.spotify.com/track/22xDdf0JS0VXF2M71dRBQ1) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Hymn](https://open.spotify.com/album/0MTks76jsqF6eno3qwiDs1) | 2:34 |
 | 196 | [Don't Stop Believin' \(feat\. Andy Marsh & DMNDS\)](https://open.spotify.com/track/5mcwpRXcOiIuepIeNphJJa) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt), [Andy Marsh](https://open.spotify.com/artist/4Vx3VPJihz4TANn7HsPuTn), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO) | [Don't Stop Believin' \(feat\. Andy Marsh & DMNDS\)](https://open.spotify.com/album/4EeFKt93e3BmAKh3VzXCmi) | 2:23 |
 | 197 | [Come Along](https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Come Along](https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY) | 2:44 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCxlYjIzNzU2NjBkNWQ2MjIzMjM2OTc3MTZhODIwNWI1MTZkZjRlMmYx`
+Snapshot ID: `MCxhNGUxNmMzMTc4OTA0MGM4ZWJhZmJhMGRjODY1OTE5MWZmZTIzMjYw`

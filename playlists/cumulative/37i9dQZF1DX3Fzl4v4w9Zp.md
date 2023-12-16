@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Jess Williamson
 
-570 songs - 1 day 11 hr 16 min
+571 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 | 2023-02-24 |  |
 | [Deep Breath](https://open.spotify.com/track/4rMMf0ClXWO25fkYwTx4cZ) | [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [Deep Breath](https://open.spotify.com/album/4cJNWqoxIpfgDZzpDR1JGS) | 3:08 | 2021-12-17 | 2022-01-22 |
 | [Denial](https://open.spotify.com/track/7MQp9woZdjakP8lCby1Upc) | [Jonathan Peyton](https://open.spotify.com/artist/1rKBNFP4jc1iLEH8ziP7O0) | [Denial](https://open.spotify.com/album/37JPi0mnfoW9HB8VYnJliU) | 3:39 | 2023-01-27 | 2023-06-10 |
+| [Devil In Disguise](https://open.spotify.com/track/4tTxMLnr9eZmSz6ljylmMz) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Devil In Disguise](https://open.spotify.com/album/7l5LHAiohHjQq602sGXbmF) | 3:17 | 2023-12-15 |  |
 | [Diamond Studded Shoes](https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Diamond Studded Shoes](https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5) | 3:24 | 2021-12-17 | 2022-02-23 |
 | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj), [Andrea Kukuly Uriarte](https://open.spotify.com/artist/5RBnd1QU744YvLMRf458SS) | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 | 2023-10-13 |  |
 | [Dogs Run On](https://open.spotify.com/track/0s7aoxrKBPvqc0SptaSm35) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Dogs Run On](https://open.spotify.com/album/0XxzYBvtUBUdoqw6VrqhvK) | 3:36 | 2021-12-17 | 2022-04-02 |
@@ -301,7 +302,7 @@
 | [Long, Long Year](https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T) | [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [Long, Long Year](https://open.spotify.com/album/3vkg2n1PUlk9V4Q6jBRze8) | 4:19 | 2022-08-05 | 2023-05-13 |
 | [Lost Lover's Eyes](https://open.spotify.com/track/4mrFszdYwKUgN5hlxEAfKK) | [Vince Herman](https://open.spotify.com/artist/68y27sv6lj2UUtFw4ckGiG) | [Lost Lover's Eyes](https://open.spotify.com/album/1eEqgnT0al5DaAaDHdShsG) | 3:23 | 2022-11-11 |  |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-21 | 2022-11-19 |
-| [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2023-01-13 |  |
+| [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2023-01-13 | 2023-12-16 |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2022-09-30 | 2023-04-01 |
 | [Low Dog Blues](https://open.spotify.com/track/07Xkk56uB6HfGekcA5N8wn) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 3:47 | 2022-08-05 | 2023-06-10 |
 | [Lowland Trail](https://open.spotify.com/track/6MlCY2smbnEbF2cgrNK2oQ) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 2:24 | 2023-09-29 | 2023-10-14 |

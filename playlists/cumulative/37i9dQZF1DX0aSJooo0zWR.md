@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-159 songs - 15 hr 18 min
+160 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Riding Giants](https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Riding Giants \(feat\. Mike Stern, Dave Weckl\)](https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI) | 6:11 | 2021-02-12 |  |
 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 | 2021-08-27 |  |
 | [S&R Video \(feat\. Randy Brecker\)](https://open.spotify.com/track/3kOzWLkvTi1uPAo7cPYxpe) | [Benjamin Croft](https://open.spotify.com/artist/6DrVJByeJgHqJ7A3SsBnFE), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [S&R Video \(feat\. Randy Brecker\)](https://open.spotify.com/album/356BiZhePgIIHCwm3DFaMf) | 5:07 | 2021-06-11 | 2022-07-29 |
+| [Samosas & Kingfishers](https://open.spotify.com/track/4HNuC9t4oQQrP0i2UzYLQ8) | [Robby Krieger](https://open.spotify.com/artist/6sKdTMcmqO5te16RNTmp0Z) | [Samosas & Kingfishers](https://open.spotify.com/album/2HjDVFPtSYXeEGXEZBSUCX) | 5:15 | 2023-12-15 |  |
 | [Sand](https://open.spotify.com/track/1ShkndHksfid3GCvIuSu2k) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/7HzTW0cBacJZwUomqAWPId) | 5:25 | 2021-02-12 | 2022-07-28 |
 | [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 | 2021-02-12 |  |
 | [Savannah](https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Free Colors](https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa) | 4:11 | 2022-04-08 |  |

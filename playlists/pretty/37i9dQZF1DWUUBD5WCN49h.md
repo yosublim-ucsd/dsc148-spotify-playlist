@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,443 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,449 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 37 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 |
 | 38 | [The Money](https://open.spotify.com/track/5tJkUjlnqiRs7tzbK5HX83) | [TRACKDILLA](https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR) | [The Money](https://open.spotify.com/album/3RwaH0yePuFVaNeLDrZO9B) | 3:08 |
 | 39 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 |
-| 40 | [Warfront](https://open.spotify.com/track/5v6yUcApqhGDCv7G7QNbQY) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Warfront](https://open.spotify.com/album/4WNNKdQQ9AqLJacXu1kFQk) | 3:12 |
+| 40 | [Warfront](https://open.spotify.com/track/1Cs3EK3wOXl1NAhHgDO1GL) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Warfront](https://open.spotify.com/album/3ma7Fote7RBthotc40gklt) | 3:12 |
 | 41 | [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 |
 | 42 | [Distance](https://open.spotify.com/track/4VfXcG4R34Wu0AMsQCMQKu) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Loved Ones](https://open.spotify.com/album/2uVBRxKpcJAh0LwANbtmRa) | 3:53 |
 | 43 | [CHOSEN](https://open.spotify.com/track/7aPr9KnO3XLXQQ8u5JDsMb) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHOSEN](https://open.spotify.com/album/6IG94A5YQ5AKqZs0RtXWTv) | 2:35 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 64 | [woosah](https://open.spotify.com/track/5DNe0aazQiYo0ZQJkgPmkb) | [Prince Elorm](https://open.spotify.com/artist/3z4uisPPS3BhE21bhGmlMT) | [woosah](https://open.spotify.com/album/70rdy51wZtCGxYXWIfeYam) | 2:16 |
 | 65 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 |
 | 66 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
-| 67 | [Free](https://open.spotify.com/track/12GIrfQdKSQAZ7wYgwmhUb) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [ALT SOUL, Vol\. 1](https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN) | 3:10 |
+| 67 | [Free](https://open.spotify.com/track/12GIrfQdKSQAZ7wYgwmhUb) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [ALT SOUL, Vol\. 1](https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN) | 2:40 |
 | 68 | [Signs](https://open.spotify.com/track/11Hgw9wXWzS4RbqWsKu0JP) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [Naughty by Nature](https://open.spotify.com/album/3uaeQQUWVQyCvnFOtTmS1Y) | 2:03 |
 | 69 | [Show Me Love](https://open.spotify.com/track/39KMqRO39T7yjijC8Hbkkg) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Show Me Love](https://open.spotify.com/album/0GnipIQCgYKtWD6BP0xYie) | 3:13 |
 | 70 | [Home \(Family & Friends\)](https://open.spotify.com/track/3sYKYMAqnq3yUMVwbeQPXM) | [RYT PATH](https://open.spotify.com/artist/4e9kAcO6FMhOgshwVbpNBu), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Menxee](https://open.spotify.com/artist/2CNqMl9z4LJJhv6YZNsv7x), [Eazy Bob Wizzy](https://open.spotify.com/artist/6xHoXUHxadvzoFLpbj4PXI) | [Home \(Family & Friends\)](https://open.spotify.com/album/7inLnloJPXQcAvx3m6MJQe) | 3:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [Unforgettable](https://open.spotify.com/track/62pnmQnkWCNVQusRO0sIPM) | [J.E.N.N.Y](https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc) | [Unforgettable](https://open.spotify.com/album/5D0Uo5APiROUL9ukcALFXC) | 2:43 |
 | 90 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
 
-Snapshot ID: `MCw0ODUwZmY4MGVkZWVmOWRkZmNmNTY2YjBjN2RmMWNjYzhiNmQ0Nzk5`
+Snapshot ID: `MCw4NWM2YWIwNjcwMzY3NWZiNWUzMjlhYjk5YmMzMGY4NzlkZjNlMDg2`

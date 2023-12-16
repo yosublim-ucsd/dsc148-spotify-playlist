@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 160463,
       "name": "Concussion",
       "url": "https://open.spotify.com/track/4N1pMSrj3YkrZyLEWW3Pv9"
@@ -2506,6 +2506,24 @@
       "duration_ms": 200280,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z"
+    },
+    {
+      "album": {
+        "name": "No Trouble",
+        "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170019,
+      "name": "No Trouble",
+      "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
     },
     {
       "album": {

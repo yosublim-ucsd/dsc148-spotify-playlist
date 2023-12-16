@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25327,
+  "num_followers": 25342,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDhlMDgzMDk0OWQwY2I2YmUwOGRhMjJmZmE5ODE5YjhhNzdmNjkx",
+  "snapshot_id": "MCwyOWJkOTk0ZmE4YTFmNzk0OTdlZGU3YTY3NTgwZmEzOGI1MjRlZjhj",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Sticky Nostalgia",
-        "url": "https://open.spotify.com/album/4u5QlJAmFtzmgGfQufbt8D"
-      },
-      "artists": [
-        {
-          "name": "Grace & Badlove",
-          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
-        }
-      ],
-      "duration_ms": 282919,
-      "name": "Zoom Out",
-      "url": "https://open.spotify.com/track/1WrMYp7UbkzClUkqd3grc2"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Niguiri Sessions",
         "url": "https://open.spotify.com/album/0qJs4hALyuV9PIiMz3leXl"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 248615,
       "name": "Supremac\u00eda - Niguiri Sessions",
       "url": "https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Sticky Nostalgia",
+        "url": "https://open.spotify.com/album/4u5QlJAmFtzmgGfQufbt8D"
+      },
+      "artists": [
+        {
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+        }
+      ],
+      "duration_ms": 282919,
+      "name": "Zoom Out",
+      "url": "https://open.spotify.com/track/1WrMYp7UbkzClUkqd3grc2"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Croupier Funk",
-        "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
-      },
-      "artists": [
-        {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Fornicazzione",
-      "url": "https://open.spotify.com/track/3TsyBes13Sv5NSHT731ERU"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 176924,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Croupier Funk",
+        "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
+      },
+      "artists": [
+        {
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Fornicazzione",
+      "url": "https://open.spotify.com/track/3TsyBes13Sv5NSHT731ERU"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -715,22 +715,6 @@
       "duration_ms": 196000,
       "name": "Libre",
       "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 218172,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 218172,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
@@ -815,6 +815,30 @@
       "duration_ms": 274102,
       "name": "One Night",
       "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Poppin",
+        "url": "https://open.spotify.com/album/6NFHjrAmxBu1h3wqrZglVE"
+      },
+      "artists": [
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+        },
+        {
+          "name": "Josefina Fiebelkorn",
+          "url": "https://open.spotify.com/artist/5cTcXQ78LkQxxXNZcYyIiC"
+        },
+        {
+          "name": "Rojai",
+          "url": "https://open.spotify.com/artist/2j6f7lxXOFnCcHVPcv9osR"
+        }
+      ],
+      "duration_ms": 296319,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/4y0BxbN4myQ0ty0mu0ZVty"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -847,30 +871,6 @@
       "duration_ms": 213267,
       "name": "Sr. A",
       "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Poppin",
-        "url": "https://open.spotify.com/album/6NFHjrAmxBu1h3wqrZglVE"
-      },
-      "artists": [
-        {
-          "name": "C-Funk",
-          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
-        },
-        {
-          "name": "Josefina Fiebelkorn",
-          "url": "https://open.spotify.com/artist/5cTcXQ78LkQxxXNZcYyIiC"
-        },
-        {
-          "name": "Rojai",
-          "url": "https://open.spotify.com/artist/2j6f7lxXOFnCcHVPcv9osR"
-        }
-      ],
-      "duration_ms": 296319,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/4y0BxbN4myQ0ty0mu0ZVty"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -943,22 +943,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Flecha Verde",
-        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
+        "name": "Family Game",
+        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
       },
       "artists": [
         {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
         }
       ],
-      "duration_ms": 183215,
-      "name": "Flecha Verde",
-      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
+      "duration_ms": 218045,
+      "name": "B\u00e9sala",
+      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -975,6 +971,26 @@
       "duration_ms": 296542,
       "name": "Recipe",
       "url": "https://open.spotify.com/track/1Sdz6Kvfs1bYTK0kLRuUSz"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Flecha Verde",
+        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 183215,
+      "name": "Flecha Verde",
+      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Tony 70",
-        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
-      },
-      "artists": [
-        {
-          "name": "Tony 70",
-          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Simon Freak",
-      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Los Funktasticos Genitales",
         "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 236858,
       "name": "Alergica",
       "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Tony 70",
+        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
+      },
+      "artists": [
+        {
+          "name": "Tony 70",
+          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Simon Freak",
+      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 287639,
       "name": "Myselfed",
       "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Family Game",
-        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 218045,
-      "name": "B\u00e9sala",
-      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Guacamole",
-        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 337573,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/2OzRdN6EUUfVBl7QACp6B1"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "De Reviente",
         "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
       },
@@ -1255,6 +1239,38 @@
       "duration_ms": 205374,
       "name": "Pret\u00e9rito Mujer",
       "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Guacamole",
+        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 337573,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/2OzRdN6EUUfVBl7QACp6B1"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1275,22 +1291,6 @@
       "duration_ms": 175957,
       "name": "Contra la Corriente",
       "url": "https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 230250,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
       },
@@ -1519,26 +1535,6 @@
       "duration_ms": 190373,
       "name": "Aire",
       "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "7 Am",
-        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
-      },
-      "artists": [
-        {
-          "name": "Afromama",
-          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
-        },
-        {
-          "name": "P1cky",
-          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
-        }
-      ],
-      "duration_ms": 239387,
-      "name": "7 Am",
-      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1575,18 +1571,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+        "name": "7 Am",
+        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
       "artists": [
         {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+          "name": "Afromama",
+          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
+        },
+        {
+          "name": "P1cky",
+          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
         }
       ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+      "duration_ms": 239387,
+      "name": "7 Am",
+      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
     },
     {
       "added_at": "2023-12-08 03:00:00",

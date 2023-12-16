@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-212 songs - 12 hr 41 min
+213 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bonita y Mentirosa](https://open.spotify.com/track/5nek9u170O2y9lGK9a7uRJ) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Bonita y Mentirosa](https://open.spotify.com/album/0xdNqIKfuVie2xOX827Tmn) | 1:17 | 2022-06-10 | 2022-06-23 |
 | [Bonita, bonita](https://open.spotify.com/track/2GTwGhVC3g5ySwKKLcEqbj) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Bonita, bonita](https://open.spotify.com/album/7nItwbrFs3J5pwQVpTgTdH) | 3:18 | 2022-06-17 | 2022-07-05 |
 | [Brindis](https://open.spotify.com/track/7GFsruIOvW7kE3iw48zAHi) | [Los Lamas](https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Brindis](https://open.spotify.com/album/4D7iZ7xXU4GQM8s8pCC9W4) | 3:56 | 2023-08-04 | 2023-09-27 |
+| [Cartas Amarillas](https://open.spotify.com/track/1ocurWY5pulPF8aqZQR5UI) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Cartas Amarillas](https://open.spotify.com/album/11pJMcBhkIUVGSlIzE9Apl) | 3:58 | 2023-12-15 |  |
 | [Cicatrices](https://open.spotify.com/track/2LFMTbg0ZbHiY62Egds0Cl) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk), [Sergio Moran y su Banda](https://open.spotify.com/artist/7hSXBaGwB70P4kBDzqoTT2) | [Cicatrices](https://open.spotify.com/album/52O7lz8Y4dnFUxHEPQFGCD) | 3:07 | 2022-04-15 | 2022-07-24 |
 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 | 2022-04-15 |  |
 | [Como Fui a Enamorarme de Ti](https://open.spotify.com/track/0il6l9iz9KKcLPJR6RCSiJ) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Como Fui a Enamorarme de Ti](https://open.spotify.com/album/4FcwPA4QdPzgXsDykQHblR) | 4:14 | 2022-06-03 | 2022-07-12 |
@@ -149,7 +150,7 @@
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Hay Contra para Rato](https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf) | 4:05 | 2022-07-15 |  |
 | [Paloma](https://open.spotify.com/track/25JRvUTvdnLwxdog75mJSY) | [Los Lirios](https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A), [Claudio Benitez](https://open.spotify.com/artist/3xj9078sS7agJpcsdQGjuo) | [25 Años Clásicos Con Clásicos](https://open.spotify.com/album/3yRkYWmRNloQ3t2zAjx5sY) | 3:47 | 2022-06-10 | 2022-07-29 |
 | [Paloma](https://open.spotify.com/track/3MxI6yhm9SPQSB1xXmvcfs) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 3:42 | 2022-12-16 | 2023-10-04 |
-| [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 | 2022-04-15 |  |
+| [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 | 2022-04-15 | 2023-12-16 |
 | [Perdido por Ti](https://open.spotify.com/track/5nYFh4mbCDGDVHse3PuCKy) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Perdido por Ti](https://open.spotify.com/album/1RZsKu4AKUB1iMnLWNNhzk) | 3:35 | 2022-11-04 | 2022-12-17 |
 | [Perra](https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Filarmónica de Santa Fe](https://open.spotify.com/artist/3hNlZvzmCEeSSLBTvwJ7E6) | [Sinfónico 45 Años \- En Vivo](https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH) | 4:11 | 2022-04-15 | 2022-07-29 |
 | [Piropo](https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 3:08 | 2022-07-15 |  |

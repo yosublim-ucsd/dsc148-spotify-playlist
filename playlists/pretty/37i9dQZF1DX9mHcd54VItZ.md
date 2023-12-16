@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK?si=\_iRLv4ZCTlih\-QpybwO6Rg">Toughguy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,936 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,950 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Goodbye](https://open.spotify.com/track/7CcnVBrlWIS8LSyxFWAaMN) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/3pKC1FFpmpRPhu1qsD0MH9) | 3:58 |
+| 1 | [Goodbye](https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS) | 3:58 |
 | 2 | [Prediker](https://open.spotify.com/track/4awOkMUUOHxxjU9uJBmd1G) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Prediker](https://open.spotify.com/album/6DLr0e6UlImONhBrEK9Dlp) | 4:52 |
 | 3 | [Lavender Lane](https://open.spotify.com/track/7FfcwpuGCi1uBszQxNCXf6) | [Cal Motto\-Ros](https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg) | [Lavender Lane](https://open.spotify.com/album/675tLYXwkvKPduMx2eclvW) | 2:48 |
 | 4 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Ons Is Die Vuur](https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Ons Is Die Vuur](https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili) | 2:58 |
 | 50 | [Reckless Love](https://open.spotify.com/track/6ECuZmmXiLXqDtoBOsId2M) | [Jackson Colt](https://open.spotify.com/artist/3gIIWO1zON6oNM0MSWUeJ4) | [Reckless Love](https://open.spotify.com/album/1KG0Gznjj6ieMsSQ86ZKO1) | 2:17 |
 
-Snapshot ID: `MCwyMTdmN2YxMzNjZDE4Nzk4MDkwODJmNDllODE1MGFhMzAxNWE3ZjE4`
+Snapshot ID: `MCwwZjM2ZDM1YjFiZWY0OWYzMThjZmMyMzFmNzFjODdlMWEyMDY1MmJk`

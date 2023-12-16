@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7?si=Cfww9FxrTlS\-GP2sZ8TYHA">Aimée Britannia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,661 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,667 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [Tattoo](https://open.spotify.com/track/3meaikRcam6lf7sWD2Xnn2) | [Zwicky & Jono](https://open.spotify.com/artist/7hNwRAV7IDRDqI4q3Pcdgz) | [Tattoo](https://open.spotify.com/album/71wGwnBWvbl2TloIPK9Oxi) | 3:28 |
 | 100 | [Treffers vir Tannies](https://open.spotify.com/track/7BlZyyyaCjZeuRNRdb98ig) | [Mymymy](https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf), [SAMPAULE](https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8) | [Treffers vir Tannies](https://open.spotify.com/album/0NbLj5sQbqOqQEyLVoCbhp) | 3:42 |
 
-Snapshot ID: `MCwyMjA4ZGE3YzM1ZDMyMjRiMGIwMWEzZjNmMjA2MGFjNjExMjRmYWEz`
+Snapshot ID: `MCxhZWRmYzk0YzNiYTUwYzIwOGEyMTgxZDQzNjhiZTI1YzM0ZjEwMGI0`

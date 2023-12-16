@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,046 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,107 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 32 | [HERMES](https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:56 |
 | 33 | [0 In Tasca](https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ) | [Luis Add](https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0), [Anthony](https://open.spotify.com/artist/4kAf149Iextkiu3MpCX4ut) | [0 In Tasca](https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu) | 2:58 |
 | 34 | [Love Song](https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz) | 3:24 |
-| 35 | [ESAME DI COSCIENZA](https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [ESAME DI COSCIENZA](https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z) | 2:41 |
+| 35 | [ESAME DI COSCIENZA](https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Sio](https://open.spotify.com/artist/5h1ppfMPwMGC0gT9vPUrI2) | [ESAME DI COSCIENZA](https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z) | 2:41 |
 | 36 | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E) | 3:06 |
 | 37 | [Ma Xkè A Me?](https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ma Xkè A Me?](https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea) | 2:36 |
 | 38 | [MONEY](https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [MONEY](https://open.spotify.com/album/1L3BundfZgLB9db5496I4y) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 59 | [KRIRM](https://open.spotify.com/track/0PupYO4b4ZA8tdihwNCUo9) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [KRIRM](https://open.spotify.com/album/2SAb40pFyvOYpbPQDirxlL) | 2:31 |
 | 60 | [Preghiera](https://open.spotify.com/track/1sA6XW1Ijn9GWOvGkmpwqt) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [Preghiera](https://open.spotify.com/album/6uGSUalrJ1dmERfJtU2jJy) | 2:52 |
 
-Snapshot ID: `MCxhY2RjYTQ4ZmNmNTgzZjUyOWFiMzFlYTVkZjM1YWE5NTU2ZjU4ZjJm`
+Snapshot ID: `MCw5MzNlMjFhMzNlNTE4Y2IwNDQ3YTljMzcwMDU2NzZiNWI4Njg2N2Rl`

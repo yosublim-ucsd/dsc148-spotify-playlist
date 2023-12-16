@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 
 ### [Christmas Piano by the Fireplace](https://open.spotify.com/playlist/37i9dQZF1DWYQi0ZCT7HlO)
 
-> Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside to warm up with.
+> Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,502 likes - 58 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,553 likes - 58 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 57 | [Good King Wenceslas \- Fireside Christmas](https://open.spotify.com/track/5csN7WSalVyJjXgrGcZzQ5) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Carols By The Fire](https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN) | 2:01 |
 | 58 | [Where are you Christmas](https://open.spotify.com/track/57MY9r6qFLirorQLs7T0ks) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Home by Christmas](https://open.spotify.com/album/7yqj1JebK54UjJ6SC5d2Bx) | 3:09 |
 
-Snapshot ID: `MCxhM2ViMDM0NWI5ZDY5YWFjNzRhZjcyNThjMjI2Y2M0ZDk4OWJlZWRm`
+Snapshot ID: `MCw4N2ZjOTRjZWRjY2UwMzkwZWY4NTc5NTAyZmViZDY4ZGVjMTRjMDhl`

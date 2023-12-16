@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-378 songs - 1 day 4 hr 22 min
+379 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/75WWh4xWED0GSpXbiHgS8Y) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/3Afm0bArE1APMnbS0shw69) | 3:05 | 2023-11-02 |  |
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2023-11-16 |  |
 | [Cash](https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Cash](https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14) | 2:42 | 2023-11-16 |  |
-| [Caçando XXT](https://open.spotify.com/track/5jFA9x74h0Ym7VrtY1Tdcl) | [Whighle](https://open.spotify.com/artist/1mnkzYGcsPQFR3wonZgPLv), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Caçando XXT](https://open.spotify.com/album/4dKVITBa84Abop0FNPfr6c) | 2:45 | 2023-10-26 |  |
+| [Caçando XXT](https://open.spotify.com/track/5jFA9x74h0Ym7VrtY1Tdcl) | [Whighle](https://open.spotify.com/artist/1mnkzYGcsPQFR3wonZgPLv), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Caçando XXT](https://open.spotify.com/album/4dKVITBa84Abop0FNPfr6c) | 2:45 | 2023-10-26 | 2023-12-16 |
+| [Caçando XXT](https://open.spotify.com/track/7mYYjz6TQmj61TzH5rdoyF) | [Whighle](https://open.spotify.com/artist/1mnkzYGcsPQFR3wonZgPLv), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Caçando XXT](https://open.spotify.com/album/57XxCwJBrsadHwqxUi14UX) | 2:45 | 2023-12-14 |  |
 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 | 2023-08-24 |  |
 | [Changes](https://open.spotify.com/track/5o3sxlnEcM5M9lnav6DAiZ) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Changes](https://open.spotify.com/album/6OwDyAPg2sKKWCwICtmZ2P) | 3:32 | 2023-06-29 | 2023-08-25 |
 | [Channel Z](https://open.spotify.com/track/2ojGxz1MKMnxSnu9DB8E9d) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Channel Z](https://open.spotify.com/album/7uR57HXlzykbHKPpETyXDg) | 3:10 | 2023-09-07 |  |

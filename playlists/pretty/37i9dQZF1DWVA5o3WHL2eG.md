@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Diese Künstlerinnen haben uns 2023 bewegt\. Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,038 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,088 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Wenn Kometen fallen](https://open.spotify.com/track/05xLWwAxV6cP5zrYBF2eM6) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [NIEMALS ALLEIN](https://open.spotify.com/album/06DubYwQD77eHnScU3wBFb) | 2:21 |
 | 50 | [Paradies](https://open.spotify.com/track/0KUkgvA7qnnJ6QF5RGGXZq) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 3:57 |
 
-Snapshot ID: `MCxjZDU0ODExZjY3MjUwMTgxN2RhOTU3ZTdjMWNmNWM0N2U0Y2IzZDEy`
+Snapshot ID: `MCw1ZjMzZDdmYzc5YzlhZGI2ZWI4ZGIxMDAxOWQ5OTY0NTc4ZDMyZGQ5`

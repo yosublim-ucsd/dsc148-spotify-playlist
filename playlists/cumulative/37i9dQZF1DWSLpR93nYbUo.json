@@ -944,6 +944,24 @@
     {
       "album": {
         "name": "Haunting Me",
+        "url": "https://open.spotify.com/album/6CSYEhL34pO5NLPLRRl8pw"
+      },
+      "artists": [
+        {
+          "name": "Kyllow",
+          "url": "https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291147,
+      "name": "Haunting Me",
+      "url": "https://open.spotify.com/track/3OGDGKB1NlZiiU6oJU4l0S"
+    },
+    {
+      "album": {
+        "name": "Haunting Me",
         "url": "https://open.spotify.com/album/2FAmKfV5eesqqXSH3pXH2i"
       },
       "artists": [
@@ -954,7 +972,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 291147,
       "name": "Haunting Me",
       "url": "https://open.spotify.com/track/7iXNeFZwe4CwUaiHT9qK99"

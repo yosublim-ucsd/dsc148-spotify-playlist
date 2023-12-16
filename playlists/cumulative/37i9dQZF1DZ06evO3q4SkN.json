@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 84650,
       "name": "Arriving to Ginny's Farm",
       "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 99826,
       "name": "Dora the Explorer Theme Song",
       "url": "https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 160624,
       "name": "En Este Momento (feat. Gabriela Martinez)",
       "url": "https://open.spotify.com/track/4qTcmOgCo92nYfslCYTWxg"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 91546,
       "name": "I Can't Risk It",
       "url": "https://open.spotify.com/track/6zmfEoBznpFaNjvbaioBmj"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 113493,
       "name": "New Cave",
       "url": "https://open.spotify.com/track/0H1ih0eeTMjJd7sIZZ8N2b"
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89926,
+      "name": "Skittles",
+      "url": "https://open.spotify.com/track/1pOAAbPKHLaKNBnCOj7vi6"
+    },
+    {
+      "album": {
         "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
         "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 124973,
       "name": "Spring Passes Into Summer",
       "url": "https://open.spotify.com/track/3Q2dB7nmnKkaEjU9gtTPw4"
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 59093,
       "name": "To the Tower",
       "url": "https://open.spotify.com/track/2KaeyCRhQe9aoJCaMqAY9A"
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 84240,
       "name": "Wolf Watcher",
       "url": "https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus"

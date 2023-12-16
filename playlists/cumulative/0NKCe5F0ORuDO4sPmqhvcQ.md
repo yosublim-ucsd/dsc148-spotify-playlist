@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-559 songs - 1 day 7 hr 28 min
+561 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 | 2022-02-04 | 2022-02-16 |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-09-17 | 2023-01-20 |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-15 | 2022-03-10 |
+| [bitbybit](https://open.spotify.com/track/38iLG7Onussu2QuehUiK1Y) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [leo](https://open.spotify.com/album/2HCJZS3ePjIeJIY4yxI7Hy) | 5:11 | 2023-12-15 |  |
 | [BLACKOUT](https://open.spotify.com/track/2bGOko2yETQVFk1YsGuvJ9) | [Siala](https://open.spotify.com/artist/74NRwx8DjZNrYjExNs7X1D) | [BLACKOUT](https://open.spotify.com/album/3eiGZXr67A3nol7CuxAlxB) | 2:47 | 2022-02-15 | 2022-03-10 |
 | [Bliss](https://open.spotify.com/track/17xeVh2ZpFfYPsC6JVeBbF) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Shylow](https://open.spotify.com/artist/0YUf68058a5Q4W0gSGOdi6), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Bliss](https://open.spotify.com/album/3BoSAkJgsGyLNTLO2eWpw0) | 3:04 | 2023-08-28 | 2023-10-06 |
 | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA) | 3:04 | 2022-02-28 | 2022-03-31 |
@@ -215,6 +216,7 @@
 | [Haircut](https://open.spotify.com/track/3vJ7IorxIUTETdUYc8Wmif) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Haircut](https://open.spotify.com/album/6MpnYFXkjVgmzpDwlvofou) | 2:58 | 2022-03-30 | 2022-04-19 |
 | [Halo](https://open.spotify.com/track/5CvVWD27KlJNkvzDLU1zPS) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [Halo](https://open.spotify.com/album/1aY0os7oA39KJiT4cfWf6x) | 3:46 | 2022-06-30 | 2023-10-06 |
 | [Handyman](https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Handyman](https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h) | 3:06 | 2022-02-28 | 2022-03-31 |
+| [Happy Days In Happy Weather](https://open.spotify.com/track/28lCdfM7o2ZrT6EkZNDd3A) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Happy Days In Happy Weather](https://open.spotify.com/album/4ztz1tyse71PSaomFWkvox) | 3:04 | 2023-12-15 |  |
 | [Haunted](https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Haunted](https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf) | 2:35 | 2023-10-20 |  |
 | [haze](https://open.spotify.com/track/2HfWwr1FyagotRzp7RDEms) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw), [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [haze](https://open.spotify.com/album/13WO7BXMhRBtl19YlBpIBi) | 3:05 | 2023-11-30 |  |
 | [Head Low](https://open.spotify.com/track/0fJyqGqEJ2ljF9OVOhZi2K) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:24 | 2021-11-23 |  |

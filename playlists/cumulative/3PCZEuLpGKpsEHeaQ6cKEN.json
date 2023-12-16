@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Inner City",
+        "url": "https://open.spotify.com/album/1MhjZLn5ZKLok20AJq0YAB"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Big Fun (Remastered)",
+      "url": "https://open.spotify.com/track/37vkp7meAAGF6KxtaqAILs"
+    },
+    {
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
       },
@@ -5455,6 +5473,28 @@
     },
     {
       "album": {
+        "name": "The Best Of Inner City",
+        "url": "https://open.spotify.com/album/1MhjZLn5ZKLok20AJq0YAB"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Good Life - Remastered",
+      "url": "https://open.spotify.com/track/00wt3lu6MmnEoCsMOCIUpP"
+    },
+    {
+      "album": {
         "name": "Good4U",
         "url": "https://open.spotify.com/album/0yly88bOai4MF3kmFTkrdx"
       },
@@ -9258,6 +9298,28 @@
       "duration_ms": 186000,
       "name": "Lose This Feeling - Maddix Remix",
       "url": "https://open.spotify.com/track/4k6rfEGWGrv8rOHnjVcXVw"
+    },
+    {
+      "album": {
+        "name": "Losing Control (feat. Nathan Nicholson)",
+        "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209056,
+      "name": "Losing Control (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
     },
     {
       "album": {

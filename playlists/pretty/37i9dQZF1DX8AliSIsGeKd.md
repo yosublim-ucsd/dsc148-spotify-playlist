@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Lauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,921 likes - 90 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,065 likes - 90 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 59 | [Liquid Happiness](https://open.spotify.com/track/5k31y6CmrD0MAkAvstKJYZ) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Liquid Happiness](https://open.spotify.com/album/0t1REYab62Z2bfzI85fJGX) | 4:44 |
 | 60 | [Hollow \- Joe Goddard Remix](https://open.spotify.com/track/4vo9RlUaL3jHapwpUMfFKZ) | [Kaleida](https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Hollow \(Joe Goddard Remix\)](https://open.spotify.com/album/5xijjV9VS7NRJz0dMwmQqv) | 6:41 |
 | 61 | [Find U](https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Find U](https://open.spotify.com/album/5clE9ya21baTT6qhtNEVF9) | 3:34 |
-| 62 | [Voices](https://open.spotify.com/track/4Z1O4FZd2xORYWA4tpjEsu) | [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [Voices](https://open.spotify.com/album/3QQIZByi1dGLNvy15XTiVN) | 6:48 |
+| 62 | [Voices](https://open.spotify.com/track/0HGh1ezSWnJdjyMaiZiXsM) | [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [Atomic Rush](https://open.spotify.com/album/1jGmPkX2VyNR0PHncniGKA) | 6:48 |
 | 63 | [Stay](https://open.spotify.com/track/1dOg4RVCNLoEzu5kUMkJDL) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Stay](https://open.spotify.com/album/1ZtjirUb6qECMb3lAr3waj) | 4:39 |
 | 64 | [Oblivion](https://open.spotify.com/track/7p7ynUWRKWApwEAbE9HAJg) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Oliver Jass](https://open.spotify.com/artist/2ODPpeNxF16AvaVFhbo0sy) | [Oblivion](https://open.spotify.com/album/0bH98ZSn4uWsvDdaRDomml) | 5:16 |
 | 65 | [Endless Climb](https://open.spotify.com/track/4swlhubrIbSC2H4PNngT3Y) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Gravitation](https://open.spotify.com/album/7fZyLVtIfTjbDIPxtFtdfS) | 6:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Peace Rebel](https://open.spotify.com/track/39xq5dL8GwtmfDuOVULtMJ) | [T Raum](https://open.spotify.com/artist/7jHCloejllFXAIYkM6oWjB), [Kiko King](https://open.spotify.com/artist/41Zpr6YmxvrDei5y8xtxbp) | [Peace Rebel](https://open.spotify.com/album/2BnLUVIZ0qCw4Y6eTR5Y9L) | 7:10 |
 | 90 | [PETRICORE](https://open.spotify.com/track/7f9BnBBd58z9CRZHOhygWi) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [PETRICORE](https://open.spotify.com/album/4YyzLEHukTOoMFQJWqGHee) | 3:37 |
 
-Snapshot ID: `MCxmNzZhMDMxZjlkNjM2Y2Y0Y2RlYjFiNmFiNzhmZThhNzNiM2I2NWFj`
+Snapshot ID: `MCxmZmZhNDFhY2M4NGIxNGYxZDI3MjU0OGI3NDMxNjE4N2IxZDNjYWEx`

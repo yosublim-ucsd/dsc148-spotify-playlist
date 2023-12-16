@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 4501,
+  "num_followers": 4512,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzg0NWI4MjVhNzI2N2QwZDFlMjQ4YmQwMzM2ZTEyYWYwMmVjZDc0",
+  "snapshot_id": "MCxlYzE5Yzg4OTgyYzMyZjg2ODM3OGEzNDgzNjMzNDNlZjBjNjQ3YzU5",
   "tracks": [
     {
       "added_at": "2023-11-27 14:59:06",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "Akristofoo Adooso",
-        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
-      },
-      "artists": [
-        {
-          "name": "Hannah Marfo",
-          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "Meda Wase",
-      "url": "https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL"
-    },
-    {
-      "added_at": "2023-11-27 14:59:06",
-      "album": {
         "name": "My Vision",
         "url": "https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 331990,
       "name": "Metease yi",
       "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
+    },
+    {
+      "added_at": "2023-11-27 14:59:06",
+      "album": {
+        "name": "Akristofoo Adooso",
+        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+      },
+      "artists": [
+        {
+          "name": "Hannah Marfo",
+          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "Meda Wase",
+      "url": "https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "Obi Nyanime",
-        "url": "https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ"
+        "name": "Akristofoo Adooso",
+        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
       },
       "artists": [
         {
-          "name": "Patience Nyarko",
-          "url": "https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI"
+          "name": "Hannah Marfo",
+          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
         }
       ],
-      "duration_ms": 374230,
-      "name": "Obi Nyanime",
-      "url": "https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5"
+      "duration_ms": 442409,
+      "name": "Akristofoo Adooso",
+      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
     },
     {
       "added_at": "2023-11-27 14:59:06",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-11-27 14:59:06",
       "album": {
-        "name": "Akristofoo Adooso",
-        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+        "name": "Obi Nyanime",
+        "url": "https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ"
       },
       "artists": [
         {
-          "name": "Hannah Marfo",
-          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+          "name": "Patience Nyarko",
+          "url": "https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI"
         }
       ],
-      "duration_ms": 442409,
-      "name": "Akristofoo Adooso",
-      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
+      "duration_ms": 374230,
+      "name": "Obi Nyanime",
+      "url": "https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5"
     },
     {
       "added_at": "2023-11-27 14:59:06",

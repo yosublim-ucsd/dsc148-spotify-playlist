@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Medy, thasup, Gemitaiz, MV Killa, Dani Faiv, Luchè e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,925 likes - 99 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,945 likes - 99 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 45 | [Dorian Gray \(feat\. Kid Yugi & Mark Tembo\)](https://open.spotify.com/track/4qtf8Gha9N7Om8oYCJUE0v) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Mark Tembo](https://open.spotify.com/artist/4pR9DSTd8bVJcAh8IkBc2f) | [EP 5/3 \(feat\. Kid Yugi\)](https://open.spotify.com/album/0ehvmKwfQpweBfpBA6dESZ) | 2:15 |
 | 46 | [DAMN ¡!](https://open.spotify.com/track/5ef8Gx0sUwDv1FLBKy8xwZ) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [BLOOD MOON](https://open.spotify.com/album/6rqBpQ8HaT1z8RpdEa96KO) | 1:56 |
 | 47 | [SCUSAMI](https://open.spotify.com/track/5A67l2REi7nTtv3qWTI2dK) | [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [SCUSAMI](https://open.spotify.com/album/2ZlHgGqQRef018SqvzKGiq) | 3:23 |
-| 48 | [ESAME DI COSCIENZA](https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [ESAME DI COSCIENZA](https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z) | 2:41 |
+| 48 | [ESAME DI COSCIENZA](https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX), [Sio](https://open.spotify.com/artist/5h1ppfMPwMGC0gT9vPUrI2) | [ESAME DI COSCIENZA](https://open.spotify.com/album/6x5LrOvqh7U92hLFUGc88z) | 2:41 |
 | 49 | [CRONACA NERA](https://open.spotify.com/track/529MhaG7LVlmD9ilXs5Wzd) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Trittico vol\. 3](https://open.spotify.com/album/1fvKdlTqPGK3Vb2zAcTGuC) | 2:56 |
-| 50 | [Devil Child](https://open.spotify.com/track/4aZ640mINc1Ld8Kbnc6ufa) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Devil Child](https://open.spotify.com/album/3MaMLdcHxdxgYihEEQqbbI) | 2:37 |
+| 50 | [Dirty Child](https://open.spotify.com/track/4aZ640mINc1Ld8Kbnc6ufa) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Dirty Child](https://open.spotify.com/album/3MaMLdcHxdxgYihEEQqbbI) | 2:37 |
 | 51 | [Cosa Diresti](https://open.spotify.com/track/4j5rHb1TcEKspSew77Wpaj) | [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH) | [Cosa Diresti](https://open.spotify.com/album/5MyGfDTtsdnVHcDs1miHAo) | 2:49 |
 | 52 | [Circoloco](https://open.spotify.com/track/7GKdk7W67z3eYT06w3PhbQ) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Circoloco](https://open.spotify.com/album/79jOBobzr8eiNuZZdUndpc) | 2:35 |
 | 53 | [BIMBO \(feat\. Silent Bob\)](https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [1998](https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm) | 2:46 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 98 | [Carne Halal \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/track/6jiRQs8QM6ozzFxdIDUkm2) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Carne Halal \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/album/5J3YRgWiaxwdDR1zCJTph6) | 4:04 |
 | 99 | [Tempesta](https://open.spotify.com/track/4uMmhSKniLClHn4Ekkdeob) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX), [Sike](https://open.spotify.com/artist/1kUcmfCqDuYQDkokeHjUyZ) | [Tempesta](https://open.spotify.com/album/5Fy6KGPNA6m65doFgXiAOZ) | 2:55 |
 
-Snapshot ID: `MCwyZDdhYzc0MzMzZmZjOGRmYjU2YjE2Nzc4NTJkODk5ZTMxMGZlNmU1`
+Snapshot ID: `MCwyZTIzYzE4ODFmMWFiOWIyZTM2NzU1NWYzMDQzNTBjNDNmZTBhZWVj`

@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "The Early Years - Revisited",
+        "url": "https://open.spotify.com/album/7Jss3QVea2jKy9X7FgsU7I"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        },
+        {
+          "name": "Jean-Ken Johnny",
+          "url": "https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Devil on My Shoulder (feat. Jean Ken Johnny)",
+      "url": "https://open.spotify.com/track/7rTyQP1gwGW15NTUawp3WI"
+    },
+    {
+      "album": {
         "name": "The Bonus Brothers (Japan Only Bonus Tracks)",
         "url": "https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs"
       },
@@ -707,6 +729,24 @@
     },
     {
       "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190075,
+      "name": "Middle Seat Blues",
+      "url": "https://open.spotify.com/track/3TTZSzruGpNwO54bdhjCHO"
+    },
+    {
+      "album": {
         "name": "Middle Seat Blues",
         "url": "https://open.spotify.com/album/1CyQE3ghzFgt9RBF1Ga6R4"
       },
@@ -718,7 +758,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 190075,
       "name": "Middle Seat Blues",
       "url": "https://open.spotify.com/track/4HJJyFnQKbGwPYpWCuhGqv"
@@ -754,10 +794,28 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 193273,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/22L3BjZDqU8ETWa1wfwdah"
+    },
+    {
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194657,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/1Jkhd7PGnybdLLVRYgVWZN"
     },
     {
       "album": {
@@ -830,7 +888,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 168872,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/0OM9ZTTdf2DAitov20CZ5l"
@@ -1028,7 +1086,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 191023,
       "name": "Russian Roulette Is for Lovers?",
       "url": "https://open.spotify.com/track/6eXTQ6yAWOpvgBkOcadUxv"
@@ -1262,7 +1320,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 227390,
       "name": "We\u2019re Not a Cover Band, We\u2019re a Tribute Band",
       "url": "https://open.spotify.com/track/2c6XGY8oaMu6c0u0ggP81q"

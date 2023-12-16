@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno. Foto: Harry Nach & Aqua VS.",
+  "description": "La casa del trap chileno al mando de Lleflight.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0TDOQOWiL6iw3xW0EF0GKc"
@@ -652,10 +652,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 410381,
       "name": "CARAS VEMOS - Remix",
       "url": "https://open.spotify.com/track/45bDKqcXUgd7IVAvFYsTTe"
+    },
+    {
+      "album": {
+        "name": "CARROS BILLETES Y PT$",
+        "url": "https://open.spotify.com/album/3BEZAWi3SWk1pMCjVTXU3A"
+      },
+      "artists": [
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145297,
+      "name": "CARROS BILLETES Y PT$",
+      "url": "https://open.spotify.com/track/3e2j7sCxw2sOnOtmpVF03E"
     },
     {
       "album": {
@@ -1923,6 +1941,28 @@
     },
     {
       "album": {
+        "name": "Las manos que rezan",
+        "url": "https://open.spotify.com/album/1PjUMepqUJ8DhLNUd6uG7i"
+      },
+      "artists": [
+        {
+          "name": "Bby Lean",
+          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157899,
+      "name": "Las manos que rezan",
+      "url": "https://open.spotify.com/track/6isAORqqdDtZ2mjCc9fByg"
+    },
+    {
+      "album": {
         "name": "Like Boss (Remix) (feat. Duki, Bizarrap, Akapellah, Moonkey, Polima Westcoast, Santoz, Zanto)",
         "url": "https://open.spotify.com/album/5nFrn5iITgj3ScvqIUcKP1"
       },
@@ -2120,6 +2160,24 @@
       "duration_ms": 180550,
       "name": "Mafia Chilena: WHIPPING",
       "url": "https://open.spotify.com/track/30O2NJ4xRG91Y50dI8A6mT"
+    },
+    {
+      "album": {
+        "name": "MAGNATA",
+        "url": "https://open.spotify.com/album/5QvE1pdXnRBTnbdxVPrtrl"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116033,
+      "name": "MAGNATA",
+      "url": "https://open.spotify.com/track/6FBcaOaJPmz1n64Y26WeI1"
     },
     {
       "album": {
@@ -2590,7 +2648,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 152516,
       "name": "MONA XINA",
       "url": "https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA"
@@ -3021,6 +3079,32 @@
     },
     {
       "album": {
+        "name": "PADRINO",
+        "url": "https://open.spotify.com/album/6RFX5CxHa5ZQHJUlbCclr2"
+      },
+      "artists": [
+        {
+          "name": "Lil Snow",
+          "url": "https://open.spotify.com/artist/6yYRLzRO7whe1IjNtvEQOV"
+        },
+        {
+          "name": "Young Piri",
+          "url": "https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv"
+        },
+        {
+          "name": "Daimi",
+          "url": "https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157702,
+      "name": "PADRINO",
+      "url": "https://open.spotify.com/track/79bLJKy8pSYpBPLyyNuS19"
+    },
+    {
+      "album": {
         "name": "Party Party",
         "url": "https://open.spotify.com/album/1oMDsqFLrfTG5Pom1hNmYH"
       },
@@ -3106,7 +3190,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 224086,
       "name": "POPCORN",
       "url": "https://open.spotify.com/track/5ChxsXRR90JKLyOjMeTPL0"

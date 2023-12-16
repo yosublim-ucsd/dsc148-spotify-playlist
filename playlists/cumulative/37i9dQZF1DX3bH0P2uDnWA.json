@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/0el4P0rtIJ46J1Vfceel3r"
+      },
+      "artists": [
+        {
+          "name": "MVTRIIIX",
+          "url": "https://open.spotify.com/artist/6GLNZ4AhvB6M0JkT9Zjw16"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "In the Pub",
+      "url": "https://open.spotify.com/track/4b4z3GQPXfoeL2Yj0TVngR"
+    },
+    {
+      "album": {
         "name": "Remixed Vol.2",
         "url": "https://open.spotify.com/album/546Yu1nefHSycXD93meodm"
       },
@@ -2500,6 +2518,28 @@
       "duration_ms": 248000,
       "name": "Joe's Break",
       "url": "https://open.spotify.com/track/2peYxS4wKuwbOxcw8frdHb"
+    },
+    {
+      "album": {
+        "name": "Jukebox (Klisch\u00e9e Remix)",
+        "url": "https://open.spotify.com/album/4rCi9v4xoOHCbtgwovWtS5"
+      },
+      "artists": [
+        {
+          "name": "Tarmac Rod\u00e9o",
+          "url": "https://open.spotify.com/artist/3PIvA0wLyZcwc780QVTeud"
+        },
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199499,
+      "name": "Jukebox - Klisch\u00e9e Remix",
+      "url": "https://open.spotify.com/track/04YDvAAexHrUDKXYGXdOWA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Karol G
 
-546 songs - 1 day 4 hr 21 min
+547 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,8 @@
 | [Numbers In The Sky](https://open.spotify.com/track/1D7CDsNKONhcvZB05k7Hjp) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Dad's Son](https://open.spotify.com/album/7ts2LGHO4QDmsTG8b0QOzU) | 3:20 | 2023-10-19 | 2023-12-01 |
 | [Off By Heart](https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Off By Heart](https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1) | 3:03 | 2023-08-10 | 2023-09-29 |
 | [Oh My](https://open.spotify.com/track/4K1n9wTnjshdk3IOHnwVt3) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Oh My](https://open.spotify.com/album/78B0K7fpzAxJ1BLtU3oKVe) | 3:28 | 2023-10-19 | 2023-12-08 |
-| [Oh No \(Pt\. 2\)](https://open.spotify.com/track/7ppapk8LyD7fRS1KkOHyWw) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No \(Pt\. 2\)](https://open.spotify.com/album/5Hnuvo0FsD2vgVPp8FHHEN) | 4:08 | 2023-12-14 |  |
+| [Oh No \(Pt\. 2\)](https://open.spotify.com/track/7ppapk8LyD7fRS1KkOHyWw) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No \(Pt\. 2\)](https://open.spotify.com/album/5Hnuvo0FsD2vgVPp8FHHEN) | 4:08 | 2023-12-14 | 2023-12-16 |
+| [Oh No, Pt\. 2](https://open.spotify.com/track/1cHmANSBDzxAWAKruCpc6m) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No, Pt\. 2](https://open.spotify.com/album/7seqV24vhfyk9pJRLqD7Wq) | 4:08 | 2023-12-14 |  |
 | [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 | 2023-06-15 | 2023-06-30 |
 | [On My Own](https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [On My Own](https://open.spotify.com/album/6iJaI3mbYF4tlPPUnAhJ2l) | 3:04 | 2023-06-15 | 2023-07-07 |
 | [One Condition](https://open.spotify.com/track/4DINlwRuT0YxROtUJrudQF) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Mercurial \(Deluxe\)](https://open.spotify.com/album/7ujVKxJz8UhQG8dLlUFoMP) | 3:18 | 2023-06-15 | 2023-07-14 |

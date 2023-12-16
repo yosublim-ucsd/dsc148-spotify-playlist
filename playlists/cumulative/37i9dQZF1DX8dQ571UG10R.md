@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-81 songs - 5 hr 32 min
+82 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Bbay](https://open.spotify.com/track/12U9gfj6mqCY7HO1HiZYIw) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Baby](https://open.spotify.com/album/5IruRk9n5F8C986iA5JGg2) | 4:11 | 2023-06-23 |  |
 | [Chainsaw Man](https://open.spotify.com/track/3AF9WkqyCw1U6Vlalt3pQ5) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Chainsaw Man](https://open.spotify.com/album/5c5TZZCOaiwyBO479W12a2) | 3:19 | 2023-06-02 |  |
 | [Chamas Azuis](https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg) | 3:42 | 2022-02-22 |  |
-| [Chuva de Kunai](https://open.spotify.com/track/4usBkW8CT7JWQeKKFOrzmX) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/6Ws7SAfsSmqkGGCjhX3LUk) | 3:19 | 2023-06-02 |  |
+| [Chuva de Kunai](https://open.spotify.com/track/4usBkW8CT7JWQeKKFOrzmX) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/6Ws7SAfsSmqkGGCjhX3LUk) | 3:19 | 2023-06-02 | 2023-12-16 |
+| [Chuva de Kunai](https://open.spotify.com/track/5nOfsUpaptWMqeyGmkyz9i) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/30XPTajhSn4Ppj3V3UXvlZ) | 3:19 | 2023-11-10 |  |
 | [Chuva de Kunai](https://open.spotify.com/track/7iKZKK9gpHpOeW0Hwredfy) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/3VfiWdnJHEUHT34XUUn68f) | 3:19 | 2022-02-22 | 2023-06-18 |
 | [Cria Da Folha](https://open.spotify.com/track/2g57Cb8iArpvKqfEArfZcY) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Cria Da Folha](https://open.spotify.com/album/74MIWbllspaCXOOGhX7UPb) | 2:39 | 2022-02-22 |  |
 | [Death Note](https://open.spotify.com/track/1K6yxhSJsQuMzDhtmk7W81) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/3odZS05zGujBVVRLMNEwR5) | 3:51 | 2022-05-27 |  |

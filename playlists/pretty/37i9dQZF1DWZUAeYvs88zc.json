@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 585371,
+  "num_followers": 585458,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2VjZTVhMTVkZTUyOGU1MDI5M2E1NTA2MDYwMzVmYWI2ZTU2MDEw",
+  "snapshot_id": "MCxlMjZmZThhMWVjNTBjM2RlNTc5YzYyM2U1ZDZlZjJkNzYyODc1Y2Q1",
   "tracks": [
     {
       "added_at": "2023-11-17 16:08:56",
@@ -1209,6 +1209,26 @@
       "url": "https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Different Lives",
+        "url": "https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        },
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Different Lives",
+      "url": "https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq"
+    },
+    {
       "added_at": "2023-11-17 16:08:56",
       "album": {
         "name": "Hopeless Romantic",
@@ -1255,22 +1275,6 @@
       "duration_ms": 209787,
       "name": "Into Your Room",
       "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
-    },
-    {
-      "added_at": "2023-11-17 16:08:56",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 309320,
-      "name": "If It Wasn't For The Nights",
-      "url": "https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3"
     }
   ],
   "unique_name": "Sad Bops",

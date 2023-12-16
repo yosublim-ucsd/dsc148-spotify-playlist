@@ -350,7 +350,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 149469,
       "name": "Bana Sharabi - Reprise",
       "url": "https://open.spotify.com/track/5uQe4p4rE9CTzBIXaqzJ7v"
@@ -540,6 +540,36 @@
       "duration_ms": 287076,
       "name": "Ek Charraiya - Unplugged",
       "url": "https://open.spotify.com/track/780UgU7JF1TJZp9zjpzjFi"
+    },
+    {
+      "album": {
+        "name": "Mast Mein Rehne Ka",
+        "url": "https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Keshav Tyohar",
+          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
+        },
+        {
+          "name": "Anurag Saikia",
+          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
+        },
+        {
+          "name": "Vijay Maurya",
+          "url": "https://open.spotify.com/artist/0DPMEDEtRZYhlbWSAtbpNX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203202,
+      "name": "Ek Taara Reprise",
+      "url": "https://open.spotify.com/track/1c0FE1ZloNTZpLS8CRwl6X"
     },
     {
       "album": {
@@ -1195,6 +1225,32 @@
     },
     {
       "album": {
+        "name": "Mast Mein Rehne Ka",
+        "url": "https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Shailendra Barve",
+          "url": "https://open.spotify.com/artist/0sjbD7Avb0d3C74ymZA4hg"
+        },
+        {
+          "name": "Vijay Maurya",
+          "url": "https://open.spotify.com/artist/0DPMEDEtRZYhlbWSAtbpNX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295022,
+      "name": "Kabhi Kabhi Zindagi",
+      "url": "https://open.spotify.com/track/68SwtkJRPhtlZBzXaV4jrZ"
+    },
+    {
+      "album": {
         "name": "Yeh Jawaani Hai Deewani",
         "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
       },
@@ -1572,7 +1628,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 209602,
       "name": "Mitra Re (Reprise)",
       "url": "https://open.spotify.com/track/0VvSU2eXRF3E0b1hClv1uX"

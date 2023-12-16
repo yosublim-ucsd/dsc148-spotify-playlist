@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: paopao",
-  "num_followers": 230482,
+  "num_followers": 230494,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjkyMmFkNDBlYzFhNWRiNTA1MzE0OTRkZWJlYzU3MGRhYTZlNGNl",
+  "snapshot_id": "MCxjMmEyZGE4ZTg5MmRjMmUwZmE2ODUxNTI3N2RjODJlM2NkMDI3ZGY3",
   "tracks": [
     {
       "added_at": "2023-12-08 18:45:03",
@@ -343,22 +343,26 @@
     {
       "added_at": "2023-12-08 18:45:03",
       "album": {
-        "name": "Baja y Sube",
-        "url": "https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4"
+        "name": "UuU 2",
+        "url": "https://open.spotify.com/album/0Q0tPst1r7QwrFGzhj2XwO"
       },
       "artists": [
         {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         },
         {
           "name": "Luar La L",
           "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         }
       ],
-      "duration_ms": 170422,
-      "name": "Baja y Sube",
-      "url": "https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ"
+      "duration_ms": 308666,
+      "name": "UuU 2",
+      "url": "https://open.spotify.com/track/63ix3pSwtXbR2IBwpNwPv5"
     },
     {
       "added_at": "2023-12-08 18:45:03",
@@ -375,6 +379,26 @@
       "duration_ms": 162244,
       "name": "Quien Es Dei V?",
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "added_at": "2023-12-08 18:45:03",
+      "album": {
+        "name": "Baja y Sube",
+        "url": "https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 170422,
+      "name": "Baja y Sube",
+      "url": "https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ"
     },
     {
       "added_at": "2023-12-08 18:45:03",
@@ -399,30 +423,6 @@
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
-    },
-    {
-      "added_at": "2023-12-08 18:45:03",
-      "album": {
-        "name": "UuU 2",
-        "url": "https://open.spotify.com/album/0Q0tPst1r7QwrFGzhj2XwO"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "UuU 2",
-      "url": "https://open.spotify.com/track/63ix3pSwtXbR2IBwpNwPv5"
     },
     {
       "added_at": "2023-12-08 18:45:03",
@@ -543,6 +543,38 @@
     {
       "added_at": "2023-12-08 18:45:03",
       "album": {
+        "name": "FREELANCE 2.0 ROA, Amarion, Ankhal ( FT. CDobleta, Anubiis)",
+        "url": "https://open.spotify.com/album/5x5L7lXzNVon76iOsZKdPx"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "duration_ms": 336960,
+      "name": "FREELANCE 2.0",
+      "url": "https://open.spotify.com/track/49vODnnBxP9MrmlJ6PDe5v"
+    },
+    {
+      "added_at": "2023-12-08 18:45:03",
+      "album": {
         "name": "Anfetamina",
         "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
       },
@@ -579,38 +611,6 @@
       "duration_ms": 191232,
       "name": "en guerra",
       "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
-    },
-    {
-      "added_at": "2023-12-08 18:45:03",
-      "album": {
-        "name": "FREELANCE 2.0 ROA, Amarion, Ankhal ( FT. CDobleta, Anubiis)",
-        "url": "https://open.spotify.com/album/5x5L7lXzNVon76iOsZKdPx"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        },
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        },
-        {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        },
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        }
-      ],
-      "duration_ms": 336960,
-      "name": "FREELANCE 2.0",
-      "url": "https://open.spotify.com/track/49vODnnBxP9MrmlJ6PDe5v"
     },
     {
       "added_at": "2023-12-08 18:45:03",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-12-08 18:45:03",
       "album": {
-        "name": "Si o Si",
-        "url": "https://open.spotify.com/album/09BB6rm4djzSBZtlmGWRzv"
-      },
-      "artists": [
-        {
-          "name": "JC Karo",
-          "url": "https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl"
-        }
-      ],
-      "duration_ms": 128532,
-      "name": "Si o Si",
-      "url": "https://open.spotify.com/track/3asgf84YiPbTxiFdUDZIYk"
-    },
-    {
-      "added_at": "2023-12-08 18:45:03",
-      "album": {
         "name": "GPS",
         "url": "https://open.spotify.com/album/5HOaaGSTfwEZH6hRdGCmlk"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 115187,
       "name": "GPS",
       "url": "https://open.spotify.com/track/355IlAxn9iHU6OcQo5PyXA"
+    },
+    {
+      "added_at": "2023-12-08 18:45:03",
+      "album": {
+        "name": "Si o Si",
+        "url": "https://open.spotify.com/album/09BB6rm4djzSBZtlmGWRzv"
+      },
+      "artists": [
+        {
+          "name": "JC Karo",
+          "url": "https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl"
+        }
+      ],
+      "duration_ms": 128532,
+      "name": "Si o Si",
+      "url": "https://open.spotify.com/track/3asgf84YiPbTxiFdUDZIYk"
     },
     {
       "added_at": "2023-12-08 18:45:03",

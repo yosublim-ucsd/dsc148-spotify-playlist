@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 108999,
+  "num_followers": 109045,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjkwNjA2YzEwNDVmY2E5YmY4YWEyZTVmNGE1MzY2NTM4NmIzODY3",
+  "snapshot_id": "MCwwNjhlNjA3NWQ0NTEyYTUxMTQ2Nzk1ZGM1ZGJkOTZjNWY1YzgwZDgy",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "HAAT",
-        "url": "https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 150821,
-      "name": "HAAT - Instrumental",
-      "url": "https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/49khuIg6AMmQiF98bSxiSi"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "HAAT",
+        "url": "https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 150821,
+      "name": "HAAT - Instrumental",
+      "url": "https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "How Did We",
         "url": "https://open.spotify.com/album/5fipQ4LDq89FOPhQUd1KpB"
       },
@@ -323,6 +323,30 @@
       "duration_ms": 181739,
       "name": "Selflessly",
       "url": "https://open.spotify.com/track/1tiurfNf4pcUra6NJiJJ1b"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Backwood",
+        "url": "https://open.spotify.com/album/1zxoOPYrefFbFXNEdQK92v"
+      },
+      "artists": [
+        {
+          "name": "SHXDAI BEATS",
+          "url": "https://open.spotify.com/artist/77xAqQMe40k0KyrVhfPaa4"
+        },
+        {
+          "name": "Nesyu Beats",
+          "url": "https://open.spotify.com/artist/4QCC5wBIBSAKDuw2IbE4Sp"
+        },
+        {
+          "name": "Retnik Beats",
+          "url": "https://open.spotify.com/artist/1z0fheUisBfsQkowPsvnG5"
+        }
+      ],
+      "duration_ms": 205766,
+      "name": "Backwood",
+      "url": "https://open.spotify.com/track/5JdZhHy9TWpXGwvVoXQJyF"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -379,30 +403,6 @@
       "duration_ms": 144968,
       "name": "The Ace",
       "url": "https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Backwood",
-        "url": "https://open.spotify.com/album/1zxoOPYrefFbFXNEdQK92v"
-      },
-      "artists": [
-        {
-          "name": "SHXDAI BEATS",
-          "url": "https://open.spotify.com/artist/77xAqQMe40k0KyrVhfPaa4"
-        },
-        {
-          "name": "Nesyu Beats",
-          "url": "https://open.spotify.com/artist/4QCC5wBIBSAKDuw2IbE4Sp"
-        },
-        {
-          "name": "Retnik Beats",
-          "url": "https://open.spotify.com/artist/1z0fheUisBfsQkowPsvnG5"
-        }
-      ],
-      "duration_ms": 205766,
-      "name": "Backwood",
-      "url": "https://open.spotify.com/track/5JdZhHy9TWpXGwvVoXQJyF"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Rudimentary",
+        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "duration_ms": 129098,
+      "name": "Spectra",
+      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Draai Je Om",
         "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 217163,
       "name": "Adults",
       "url": "https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Rudimentary",
-        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
-      },
-      "artists": [
-        {
-          "name": "Ballpoint",
-          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
-        }
-      ],
-      "duration_ms": 129098,
-      "name": "Spectra",
-      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Skye",
-        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
-      },
-      "artists": [
-        {
-          "name": "Off / Side",
-          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Skye",
-      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Stay at Home",
         "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 175384,
       "name": "Stay at Home",
       "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Skye",
+        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
+      },
+      "artists": [
+        {
+          "name": "Off / Side",
+          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
+        }
+      ],
+      "duration_ms": 190098,
+      "name": "Skye",
+      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
     },
     {
       "added_at": "2022-03-22 11:23:16",

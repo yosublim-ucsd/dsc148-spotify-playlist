@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20882,
+  "num_followers": 20881,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NjksNTQ2OWUzODU5NGIwYWM1YjliMTY5NmFlNTE2ZDI2OTE1NWI0MDk0ZA==",
+  "snapshot_id": "MTA1NzEsYTNkYjFlNGZiZWM2NGNkMDVlOGNiZmJjMGE3NTNhM2NmNzliOWZmZA==",
   "tracks": [
     {
       "added_at": "2023-11-24 18:25:16",
@@ -2687,6 +2687,42 @@
       "duration_ms": 159614,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3D9gig3g2yGheqkpzjnKnN"
+    },
+    {
+      "added_at": "2023-12-15 02:21:51",
+      "album": {
+        "name": "leo",
+        "url": "https://open.spotify.com/album/2HCJZS3ePjIeJIY4yxI7Hy"
+      },
+      "artists": [
+        {
+          "name": "44 Ardent",
+          "url": "https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J"
+        }
+      ],
+      "duration_ms": 311067,
+      "name": "bitbybit",
+      "url": "https://open.spotify.com/track/38iLG7Onussu2QuehUiK1Y"
+    },
+    {
+      "added_at": "2023-12-15 02:22:04",
+      "album": {
+        "name": "Happy Days In Happy Weather",
+        "url": "https://open.spotify.com/album/4ztz1tyse71PSaomFWkvox"
+      },
+      "artists": [
+        {
+          "name": "Headaches",
+          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
+        },
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        }
+      ],
+      "duration_ms": 184563,
+      "name": "Happy Days In Happy Weather",
+      "url": "https://open.spotify.com/track/28lCdfM7o2ZrT6EkZNDd3A"
     }
   ],
   "unique_name": "Moving Castle Monthly",

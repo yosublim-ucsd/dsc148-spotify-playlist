@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Tems
+> Where R&B lives\. Cover: Brent Faiyaz
 
 403 songs - 22 hr 53 min
 

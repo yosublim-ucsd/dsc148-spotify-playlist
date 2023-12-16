@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-393 songs - 1 day 5 hr 3 min
+395 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 | 2023-07-10 |  |
 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 | 2023-07-10 |  |
 | [Bat Macumba](https://open.spotify.com/track/1R0e4UjiRmtWIAoWJx334e) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 3:10 | 2023-07-10 |  |
-| [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 | 2023-07-10 |  |
+| [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 | 2023-07-10 | 2023-12-16 |
 | [Batonga](https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:36 | 2023-07-10 |  |
 | [Bağrımızda Taş](https://open.spotify.com/track/5oM45QTUrGCVfkzOVrVcuN) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [İstikrarlı Hayal Hakikattir](https://open.spotify.com/album/0XeJCeFtaorG7IjszOIxXV) | 3:57 | 2023-07-10 | 2023-09-09 |
 | [Berimbau](https://open.spotify.com/track/6HZMEUcs4M3JQLEJEeQuyB) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Look To The Rainbow](https://open.spotify.com/album/2C6vaaU6Jwx5JQe3qhG0OD) | 2:25 | 2023-07-10 |  |
@@ -117,6 +117,7 @@
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3) | [Caetano Veloso e Gilberto Gil](https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl) | [Tropicalia 2](https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg) | 5:11 | 2023-07-10 |  |
 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 | 2023-07-10 |  |
 | [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2023-07-10 |  |
+| [Donde](https://open.spotify.com/track/6vyZChBXOy1jWnTHp2nm3K) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Donde](https://open.spotify.com/album/5CD5EJOEBfzlONn3rMA7lK) | 3:30 | 2023-12-15 |  |
 | [Doni Doni](https://open.spotify.com/track/1HL6VLMulQMCCOinuaS5ex) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Mon Pays](https://open.spotify.com/album/1LBvD0jnXocA0JCM08NoJI) | 4:14 | 2023-07-10 |  |
 | [Dooyo](https://open.spotify.com/track/09GZlaxVlta1K5USLQ0FoG) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 3:49 | 2023-07-10 |  |
 | [Drume negrita](https://open.spotify.com/track/4SDJ1j1yDow7XtZkd3KG1f) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Mambo Sinuendo](https://open.spotify.com/album/7Bbr1kphzvv9LEUoAFMmkj) | 4:59 | 2023-07-10 |  |
@@ -147,7 +148,7 @@
 | [Exodus](https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 7:40 | 2023-07-10 |  |
 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 | 2023-07-10 |  |
 | [Feel da Fayah](https://open.spotify.com/track/2viGSjnyloxhBaVA5JXXnx) | [La Inedita](https://open.spotify.com/artist/0iazHkXB3jfE8iVb1IV5AF) | [Feel da Fayah](https://open.spotify.com/album/0FgRpGEp4MAPo34WAPZb9y) | 2:26 | 2023-07-10 | 2023-11-30 |
-| [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 | 2023-07-10 |  |
+| [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 | 2023-07-10 | 2023-12-16 |
 | [Flores y Tamales](https://open.spotify.com/track/6gucJfZpSTJp3g0Do75dgM) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [The Thread That Keeps Us \(Deluxe Edition\)](https://open.spotify.com/album/5Ws4bwfBSjDopuj2oUISaU) | 2:48 | 2023-07-10 | 2023-11-08 |
 | [Floricanto](https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:10 | 2023-07-10 |  |
 | [Footsteps](https://open.spotify.com/track/6LN5AQcUWItYKTSwJPFIWy) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:51 | 2023-07-10 |  |
@@ -322,6 +323,7 @@
 | [Sodade](https://open.spotify.com/track/27qDeWzA33YSsMxL9yxYI6) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:23 | 2023-07-10 |  |
 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 | 2023-07-10 |  |
 | [Sol Redondo](https://open.spotify.com/track/3l2VZMsl934nTrNck6WNFa) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z), [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Sol Redondo](https://open.spotify.com/album/4VxzckECYwhZLsOZtFIxtm) | 3:45 | 2023-07-10 |  |
+| [Sol y Tierra](https://open.spotify.com/track/0ggo3fbGnEU0IYa5DVD9B9) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Sue](https://open.spotify.com/album/1NrRQTfJLS2VmzoqEKcdk9) | 3:53 | 2023-12-15 |  |
 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2023-07-10 | 2023-11-05 |
 | [Soma](https://open.spotify.com/track/2m84UV92ba26JYwue9yVUH) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/2dJ5sy2pN5ch1gRyJX6Ozq) | 5:11 | 2023-11-13 |  |
 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 | 2023-07-10 |  |

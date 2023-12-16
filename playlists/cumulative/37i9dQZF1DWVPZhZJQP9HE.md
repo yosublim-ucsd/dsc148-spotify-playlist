@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-472 songs - 1 day 4 hr 1 min
+474 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Ananda Yazhinee](https://open.spotify.com/track/6wMmIm1W5V8dGE2JA8cIxY) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Ananda Yazhinee](https://open.spotify.com/album/7zobUQmvGovVvKPi18K75l) | 3:29 | 2022-12-09 | 2023-03-22 |
 | [Anbe](https://open.spotify.com/track/2h0NDOymvdOahxvkqwcySB) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Jerin C Raj](https://open.spotify.com/artist/02iErDOt6h6WChRfbjoZ56) | [Anbe](https://open.spotify.com/album/3jiHmbr4D2i9vtPyAZl71e) | 4:02 | 2022-05-30 | 2022-06-17 |
 | [Anname](https://open.spotify.com/track/1Ia2fRMFcmpWatE3qJMaDW) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O), [Abhijith Ramaswami](https://open.spotify.com/artist/71Rq1l3001C96Z3xNwKChs) | [Anname](https://open.spotify.com/album/6FoSUc4jffTbyd53AFQfA7) | 2:21 | 2022-10-06 | 2023-02-07 |
+| [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 | 2023-12-15 |  |
 | [Aragora](https://open.spotify.com/track/62DquyoXGWnFqGQeXVLQkx) | [Santhosh Music](https://open.spotify.com/artist/4T2qnZvIkmrkLlRFcP1vWy) | [Aragora](https://open.spotify.com/album/77Sykobp50UQEKhGQ2CbaL) | 2:54 | 2022-12-23 | 2023-07-25 |
 | [Arugey Nee Pothumay](https://open.spotify.com/track/3T2tjy8V4meKO1cWNoQm6k) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Akshaya Jayakumar](https://open.spotify.com/artist/47q4WcACVC3frG4ZTgslUR) | [Arugey Nee Pothumay \- Single](https://open.spotify.com/album/4Hzjc66esQ4wvOjdfTrtDc) | 4:58 | 2022-09-23 | 2022-11-22 |
 | [Asku Maaro](https://open.spotify.com/track/4gmZ9uup1Jl1AyzLGHdgDQ) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Asku Maaro](https://open.spotify.com/album/73N2dOPA0VuWPWfD6LDUPX) | 4:00 | 2021-12-01 | 2022-08-12 |
@@ -88,6 +89,7 @@
 | [Dope](https://open.spotify.com/track/6xkzTg34yOZdXsWkG0at4k) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/1DP9Sd9EmMtfteqwatNRPZ) | 2:21 | 2023-04-28 | 2023-07-11 |
 | [Durai Sleeping \- From "Think Originals"](https://open.spotify.com/track/197dZDgejcTSZ8RYPEDowe) | [Durai](https://open.spotify.com/artist/17g7q1dOGhKiEfUY1BRQNe), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Durai Sleeping \(From "Think Originals"\)](https://open.spotify.com/album/6mYSDtZpONcrjnJCqFXPR1) | 2:31 | 2023-03-03 | 2023-03-23 |
 | [Ean Machi](https://open.spotify.com/track/6IxYter8iWxtHJgQzK0DPQ) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Ean Machi](https://open.spotify.com/album/7JPauQxNNTAYPLXnxSOZlx) | 3:37 | 2022-12-15 | 2023-02-07 |
+| [Edho Unnale](https://open.spotify.com/track/7FNKAUfUFqnK3hmQdaL38D) | [Praveen Arris](https://open.spotify.com/artist/1owcWmHWTwVlRWjYJA2YE8), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS), [Darini Hariharan](https://open.spotify.com/artist/5MYdWjprWPQD05hTPmRd8E) | [Edho Unnale](https://open.spotify.com/album/2w92uIb1AtSnh6CqQxwvOQ) | 3:03 | 2023-12-15 |  |
 | [Edhuvum Kedaikalana? \- From "Think Indie"](https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Edhuvum Kedaikalana? \(From "Think Indie"\)](https://open.spotify.com/album/15uNR5mPqm88Kj5Y614Oxc) | 2:49 | 2022-10-10 | 2023-11-07 |
 | [Elley Loh](https://open.spotify.com/track/7yC4h7vt7rKqkUm5Xd5Fk6) | [Ram Nath RNB](https://open.spotify.com/artist/4ZhOflcedK9HGUVUeZzyWg) | [Elley Loh](https://open.spotify.com/album/5pp4p2QpfEVkZajZZVMWdw) | 3:11 | 2022-01-10 | 2022-07-18 |
 | [En Kannae Pogathey](https://open.spotify.com/track/7mdGxqgNLZx98ZnBzSIm0D) | [Al Rufian](https://open.spotify.com/artist/57o1IPq5xCi32XkPLCDsjh), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Rubesh Radhakrishnan](https://open.spotify.com/artist/2qIYXydYDYpTGiPBeh2eNx) | [En Kannae Pogathey](https://open.spotify.com/album/2U5qUOrOkAcp654GSBTlmW) | 4:40 | 2023-04-03 |  |

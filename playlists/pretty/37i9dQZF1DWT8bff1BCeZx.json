@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 10579,
+  "num_followers": 10609,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2YyN2M4ZWFhNjdiMWI4NjdhNGY1MTNmN2U3NWU5YzU1YmJiZTAy",
+  "snapshot_id": "MCwyMzI2ODA1ZmRlMGMyZjU1ZTM2YTFjY2M0Y2NkNzI5ODY0NDA2NTM2",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -967,18 +967,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "A New Dawn",
-        "url": "https://open.spotify.com/album/5RAxvYKuKUeZgVrSQorrBo"
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
       },
       "artists": [
         {
-          "name": "Mr. DDavid",
-          "url": "https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC"
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
         }
       ],
-      "duration_ms": 191998,
-      "name": "A New Dawn",
-      "url": "https://open.spotify.com/track/71Q679KBIjayiuMLuHYxgK"
+      "duration_ms": 140198,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
     }
   ],
   "unique_name": "Higher",

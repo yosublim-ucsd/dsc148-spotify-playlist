@@ -1,12 +1,12 @@
 {
   "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Low Jay",
-  "num_followers": 168102,
+  "num_followers": 168160,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTI2NDAzZjJlY2I3NzdhNjQwZmM2MjVlNmVjODA0ZWUxNjg5YjQw",
+  "snapshot_id": "MCxhNTg0YjE3ZTE1Mzg2YjVkZTc5NmU3MmNmNDcyMTJmNTg3ZTM0MzRi",
   "tracks": [
     {
       "added_at": "2023-12-15 00:21:02",
@@ -207,6 +207,22 @@
       "duration_ms": 206720,
       "name": "D\u00e9lire (feat. Tiakola)",
       "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
+    },
+    {
+      "added_at": "2023-12-15 00:21:02",
+      "album": {
+        "name": "Manipuler",
+        "url": "https://open.spotify.com/album/56QZ4sVP7l63GykMdGp9wh"
+      },
+      "artists": [
+        {
+          "name": "Iliana",
+          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+        }
+      ],
+      "duration_ms": 156144,
+      "name": "Manipuler",
+      "url": "https://open.spotify.com/track/0cyOhlRd9F8PHyqHEKeiTg"
     },
     {
       "added_at": "2023-12-15 00:21:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,463 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,505 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 32 | [Mimosa 2000](https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0) | [27 Anos Nacional](https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW) | 2:20 |
 | 33 | [Blood In The Snow \- Tibi Dabo Remix](https://open.spotify.com/track/49vNlVxrCBf5WwUCDySVuN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Tibi Dabo](https://open.spotify.com/artist/3PbY6HSGOo5aqdo2TGo5ye) | [Blood In The Snow \(Tibi Dabo Remix\)](https://open.spotify.com/album/73wQ9Xm8wzPKgCmLxysMv0) | 6:26 |
 | 34 | [No Promises](https://open.spotify.com/track/4AX3HUxF377bqmKfqC0s2N) | [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Modern Girls \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6VSHcaLDYJIv5dIu5nkuOS) | 3:42 |
-| 35 | [Fountains of the World](https://open.spotify.com/track/4mR5vaLDwq8pGUzA2DXgtj) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fountains of the World](https://open.spotify.com/album/3lRIRlLhAIFGLZqh10wCTW) | 3:11 |
+| 35 | [Fountains of the World](https://open.spotify.com/track/5t2aFda4pHBeLf9maqXIG7) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fountains of the World](https://open.spotify.com/album/3ty1lyNi5hoZzVXY4M0yC3) | 3:11 |
 | 36 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
 | 37 | [Cloudy \- Kelbin Remix](https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Cloudy \(Kelbin Remix\)](https://open.spotify.com/album/53JK9SLZCpbiCzNfcEGgHa) | 5:36 |
 | 38 | [Perfect Life](https://open.spotify.com/track/1lCic9SNC6dEaYY0mokFsj) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Perfect Life](https://open.spotify.com/album/47TFvHtoVAsNYGUGl9Jv1G) | 3:57 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 51 | [Love Loop To Fade](https://open.spotify.com/track/2tFR5NPXOFszGPGcrAazJB) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 2:03 |
 | 52 | [COPY COPY \- Logic1000 & Big Ever Remix](https://open.spotify.com/track/5QglfG3SyT9ZHFTtcxA0FK) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:15 |
 
-Snapshot ID: `MCwwOTQ4NTM2YWRmZGMzZTY3NmY4NTdiMmRmYjlmZTg0MTVjZDgwN2Vj`
+Snapshot ID: `MCxlZWU1ZDg4NDY1YTE2NjlhNmFkYWMxZTZlMjE0MTQzNWIwODRlNmMx`

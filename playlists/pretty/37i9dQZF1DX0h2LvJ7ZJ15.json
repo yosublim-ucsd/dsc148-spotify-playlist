@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1122344,
+  "num_followers": 1123801,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWIzNGM0ZmEyOTNjZTc0NDJlMjYzODAzZjY4NWYzNjM3OTdkZDYy",
+  "snapshot_id": "MCw2ZTUyMjYwNzM2ZTU1OTFmNjQ3OWJjOGI0NmUyNTQ1ZmRjMDZlNjU1",
   "tracks": [
     {
       "added_at": "2023-12-08 16:27:46",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-12-08 16:27:46",
       "album": {
-        "name": "Call Me (Slowed)",
-        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
-      },
-      "artists": [
-        {
-          "name": "plenka",
-          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Call Me - Slowed",
-      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
-    },
-    {
-      "added_at": "2023-12-08 16:27:46",
-      "album": {
         "name": "Kerosene (Slowed)",
         "url": "https://open.spotify.com/album/6tiGvKDEPIPBW0LeGXnNQX"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 142105,
       "name": "Kerosene - Slowed",
       "url": "https://open.spotify.com/track/3BOQDjSv5ANlwvK97WDSyK"
+    },
+    {
+      "added_at": "2023-12-08 16:27:46",
+      "album": {
+        "name": "Call Me (Slowed)",
+        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Call Me - Slowed",
+      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
     },
     {
       "added_at": "2023-12-08 16:27:46",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-12-08 16:27:46",
       "album": {
-        "name": "Only Love Can Hurt Like This (Slowed Down Version)",
-        "url": "https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        },
-        {
-          "name": "sped up + slowed",
-          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
-        }
-      ],
-      "duration_ms": 257743,
-      "name": "Only Love Can Hurt Like This - Slowed Down Version",
-      "url": "https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8"
-    },
-    {
-      "added_at": "2023-12-08 16:27:46",
-      "album": {
         "name": "Shootout (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 140142,
       "name": "Shootout (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
+    },
+    {
+      "added_at": "2023-12-08 16:27:46",
+      "album": {
+        "name": "Only Love Can Hurt Like This (Slowed Down Version)",
+        "url": "https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        }
+      ],
+      "duration_ms": 257743,
+      "name": "Only Love Can Hurt Like This - Slowed Down Version",
+      "url": "https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8"
     },
     {
       "added_at": "2023-12-08 16:27:46",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
     },
     {
-      "added_at": "2023-12-08 16:27:46",
-      "album": {
-        "name": "Swing Lynn (Slowed Version)",
-        "url": "https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Swing Lynn - Slowed Version",
-      "url": "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
-    },
-    {
       "added_at": "2023-12-08 16:29:47",
       "album": {
         "name": "NO GOING BACK",
@@ -735,6 +719,22 @@
       "duration_ms": 138000,
       "name": "BAIXO - slowed",
       "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
+    },
+    {
+      "added_at": "2023-12-08 16:27:46",
+      "album": {
+        "name": "Swing Lynn (Slowed Version)",
+        "url": "https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Swing Lynn - Slowed Version",
+      "url": "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
     },
     {
       "added_at": "2023-12-08 16:27:46",
@@ -897,20 +897,32 @@
       "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
     },
     {
-      "added_at": "2023-12-08 16:27:46",
+      "added_at": "2023-12-14 19:49:13",
       "album": {
-        "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d (Slowed)",
-        "url": "https://open.spotify.com/album/6TKmUmRJInYDQbbGQ2Rf2H"
+        "name": "Bent (Pack)",
+        "url": "https://open.spotify.com/album/5RTw6vQXTIXkB9fP6Aheu7"
       },
       "artists": [
         {
-          "name": "INSTASAMKA",
-          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
         }
       ],
-      "duration_ms": 187884,
-      "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d (Slowed)",
-      "url": "https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe"
+      "duration_ms": 183592,
+      "name": "Bent - slowed + reverb",
+      "url": "https://open.spotify.com/track/6ZqFoM0KMHDGiXwojXDqot"
     }
   ],
   "unique_name": "slowed and reverbed",

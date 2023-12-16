@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-180 songs - 9 hr 1 min
+181 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 | 2022-09-15 | 2023-01-26 |
 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 | 2022-12-22 | 2023-05-27 |
 | [Downtown](https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Downtown](https://open.spotify.com/album/0JBjEAchOXgp5LzTd2kYyt) | 2:51 | 2022-09-15 | 2022-10-19 |
-| [Dreams](https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Dreams](https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ) | 3:09 | 2023-06-01 |  |
+| [Dreams](https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Dreams](https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ) | 3:09 | 2023-06-01 | 2023-12-16 |
 | [Drift](https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Drift](https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J) | 2:44 | 2022-09-15 |  |
 | [Easy On Me](https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS) | [Cookie Crumble](https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V) | [Easy On Me](https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg) | 2:55 | 2022-09-15 |  |
 | [Easy To Love](https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:31 | 2023-03-30 | 2023-10-03 |
@@ -84,6 +84,7 @@
 | [High Hopes](https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [High Hopes](https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm) | 2:07 | 2022-09-15 |  |
 | [High Life](https://open.spotify.com/track/11gK0X635BKiS9qN7ExWlw) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [High Life](https://open.spotify.com/album/6eht4KegFCx2Lb4OM2wzZH) | 2:41 | 2023-04-12 | 2023-05-20 |
 | [Hold On Tight](https://open.spotify.com/track/03YFjP88VNLZID5o112R3W) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [ASTIR](https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Hold On Tight](https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl) | 3:26 | 2023-02-16 | 2023-11-25 |
+| [Hold on Tight](https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [ASTIR](https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Hold on Tight](https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS) | 3:26 | 2023-12-08 |  |
 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 | 2022-10-21 |  |
 | [Hold You Down](https://open.spotify.com/track/6JC7P4epKYJtW7og3pEaWc) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Hold You Down](https://open.spotify.com/album/3GjLINFWwkDBAylZHl4jLY) | 2:38 | 2022-10-21 | 2022-12-24 |
 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 | 2023-11-13 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Peso Pluma, Anitta",
+  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Ivete Sangalo",
   "name": "Hot Hits Brasil",
   "tracks": [
     {
@@ -2453,6 +2453,32 @@
     },
     {
       "album": {
+        "name": "Joga Pra Lua",
+        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125108,
+      "name": "Joga Pra Lua",
+      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
+    },
+    {
+      "album": {
         "name": "JOIA RARA",
         "url": "https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN"
       },
@@ -2472,6 +2498,32 @@
       "duration_ms": 152888,
       "name": "JOIA RARA",
       "url": "https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp"
+    },
+    {
+      "album": {
+        "name": "Lancha No Mar",
+        "url": "https://open.spotify.com/album/5X7VuQ7u60fXQpPAaWh1LN"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Lancha No Mar",
+      "url": "https://open.spotify.com/track/15HxJyDE8KBAeWPyWTYAHn"
     },
     {
       "album": {
@@ -2724,6 +2776,28 @@
       "duration_ms": 133385,
       "name": "Love, Love",
       "url": "https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA"
+    },
+    {
+      "album": {
+        "name": "Reivete-se 3.0",
+        "url": "https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4"
     },
     {
       "album": {
@@ -3578,7 +3652,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 122666,
       "name": "Papin",
       "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
@@ -4094,7 +4168,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 120461,
       "name": "Sem Alian\u00e7a no Dedo",
       "url": "https://open.spotify.com/track/22sAwsBH0NoNJXnrBenQuO"
@@ -5058,7 +5132,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
@@ -5098,7 +5172,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 158091,
       "name": "\u00c9 Tes\u00e3o ou \u00c9 Amor",
       "url": "https://open.spotify.com/track/7tDkT8KRWl7xyghFLwgTgt"
@@ -5124,7 +5198,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 158091,
       "name": "\u00c9 Tes\u00e3o ou \u00c9 Amor",
       "url": "https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i"

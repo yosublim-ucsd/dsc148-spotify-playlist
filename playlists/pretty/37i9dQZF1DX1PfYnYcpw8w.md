@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PfYnYcpw8w.md) - [plain]
 
 > Today she's Arianators' favourite pop princess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,439,125 likes - 72 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,439,910 likes - 72 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PfYnYcpw8w.md) - [plain]
 | 71 | [make up](https://open.spotify.com/track/27356GVuMPFWiJSZCragoM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:20 |
 | 72 | [get well soon](https://open.spotify.com/track/7u6DMPznGbpziuEgCE0JGQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 5:22 |
 
-Snapshot ID: `MCw0Zjk0NmNiMWU3YzdjMDAxYzNjZmUyNGRhN2Y4MDVlY2Q1ZjI2MmRk`
+Snapshot ID: `MCwzZmNlZmVmMDkwOWMxMTg5MjcyNWE3NWQ4ODQzY2FhYTJhN2Q4NzUx`

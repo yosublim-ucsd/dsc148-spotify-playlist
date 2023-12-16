@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-114 songs - 9 hr 18 min
+115 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [La Lune \(Prelude\)](https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN) | [Leprofici](https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd) | [J'ai Fame](https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp) | 3:33 | 2022-06-10 |  |
 | [Lalitha](https://open.spotify.com/track/58rPweB9GHlIvpxuR2oje1) | [Rasika Shekar](https://open.spotify.com/artist/0v8Vu84KyjZUxCD1P8LpDp) | [Lalitha](https://open.spotify.com/album/09ww2kgps2B9CPtVNJqH2U) | 3:49 | 2022-06-10 |  |
 | [Legacy Makers](https://open.spotify.com/track/65skfrGCGs0RCaGC3cHOaH) | [Darshan Doshi](https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy), [Mark Hartsuch](https://open.spotify.com/artist/0YHxyyD4PHmFZipMtvH5K5) | [Better Than Sax](https://open.spotify.com/album/4WIsMlGITAMy1QUYUY1zx2) | 4:29 | 2023-08-25 |  |
-| [Level Up](https://open.spotify.com/track/4YF5L6U90H7bU7GQ25497z) | [Wabisabi](https://open.spotify.com/artist/5YII9GsBhqKzQgqLy3xDgA), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2), [Abhishek Dasgupta](https://open.spotify.com/artist/7gWcOkLaYH0PfJ8RBZeYmj), [Sanglap Sengupta](https://open.spotify.com/artist/2SmBVQOuykpq3Uz3AhMU0V), [Jairaj Joshi](https://open.spotify.com/artist/26c2bpTdcmjA3nYGzfgnif) | [Beginners Luck](https://open.spotify.com/album/4l6UFFoN4C7uixV6qFVuqz) | 2:58 | 2022-06-10 |  |
+| [Level Up](https://open.spotify.com/track/54E4eQqdmgVVasIVQPtD7V) | [Wabisabi](https://open.spotify.com/artist/5YII9GsBhqKzQgqLy3xDgA), [Abhishek Dasgupta](https://open.spotify.com/artist/7gWcOkLaYH0PfJ8RBZeYmj), [Sanglap Sengupta](https://open.spotify.com/artist/2SmBVQOuykpq3Uz3AhMU0V), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2), [Jairaj Joshi](https://open.spotify.com/artist/26c2bpTdcmjA3nYGzfgnif) | [Beginners Luck](https://open.spotify.com/album/5SLwlEBEjeU0emMvRpxB3v) | 2:58 | 2022-06-10 |  |
+| [Level Up](https://open.spotify.com/track/4YF5L6U90H7bU7GQ25497z) | [Wabisabi](https://open.spotify.com/artist/5YII9GsBhqKzQgqLy3xDgA), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2), [Abhishek Dasgupta](https://open.spotify.com/artist/7gWcOkLaYH0PfJ8RBZeYmj), [Sanglap Sengupta](https://open.spotify.com/artist/2SmBVQOuykpq3Uz3AhMU0V), [Jairaj Joshi](https://open.spotify.com/artist/26c2bpTdcmjA3nYGzfgnif) | [Beginners Luck](https://open.spotify.com/album/4l6UFFoN4C7uixV6qFVuqz) | 2:58 | 2022-06-10 | 2023-12-16 |
 | [Lost Still Dreaming](https://open.spotify.com/track/5uV8ERbSoQBlPeBmfKvLKq) | [Deepayan Deep Maitra](https://open.spotify.com/artist/6B17cD6lXJeb08B2MvRx2b), [Debangshu Bhattacharjee](https://open.spotify.com/artist/6ehWecw14JSzcx7W9Kc0A7) | [Lost Still Dreaming](https://open.spotify.com/album/3V6e65LtNHnzOVLIoBahUY) | 5:11 | 2022-06-10 |  |
 | [Mask](https://open.spotify.com/track/1yJCoiSJp7pXxMa62NbzEU) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Mask](https://open.spotify.com/album/2qScRh7rkLscjO20vXCWIf) | 4:57 | 2022-06-10 |  |
 | [Maybe Someday](https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy) | [Abhishek Bonthu](https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5) | [Maybe Someday](https://open.spotify.com/album/2Tt6FvcQmkFXo0vAIpWIM1) | 2:42 | 2022-06-10 |  |

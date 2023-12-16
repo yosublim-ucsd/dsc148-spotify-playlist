@@ -2517,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Underneath The River (Live 2023)",
+        "url": "https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394880,
+      "name": "Underneath The River - Live 2023",
+      "url": "https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC"
+    },
+    {
+      "album": {
         "name": "Live at the '62 Center",
         "url": "https://open.spotify.com/album/4j4Uu6TIBjVFcGvm57olqw"
       },
@@ -2658,6 +2676,24 @@
       "duration_ms": 771564,
       "name": "West L.A. Fadeaway - Live",
       "url": "https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj"
+    },
+    {
+      "album": {
+        "name": "What Kind Of Fool (Live from Haute Spot)",
+        "url": "https://open.spotify.com/album/4y4WAI9zFPkgDphk9kgvn7"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271826,
+      "name": "What Kind Of Fool - Live from Haute Spot",
+      "url": "https://open.spotify.com/track/6wXEjuK8cueaGdyiLat7M0"
     },
     {
       "album": {

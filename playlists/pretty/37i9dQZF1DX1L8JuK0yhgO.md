@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,316 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,315 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 29 | [utakata](https://open.spotify.com/track/3eykHc29ohMniwKamyArxu) | [UNI TONE LAB](https://open.spotify.com/artist/718tI1utYk7LZePpcBPc7D), [Ryozo Band](https://open.spotify.com/artist/0SAQKUQfA2JpZZwvO1rG0I), [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi), [BubblesChill](https://open.spotify.com/artist/68hipgRw1izJTjCUI1UwM2) | [utakata](https://open.spotify.com/album/5lcynszlvjl2fGwjCtmp2m) | 3:37 |
 | 30 | [My Flame](https://open.spotify.com/track/5usp781NGq7N1gipzaNy7V) | [Bobby Bellwood](https://open.spotify.com/artist/5gQ7P4nisWdcNScTNrOI0R), [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs), [THG](https://open.spotify.com/artist/6q4Jk98cJ12ned3A0IueHo) | [My Flame](https://open.spotify.com/album/3BMdpQvhMrV4Q1ki8rmSIb) | 4:53 |
 | 31 | [Nicety](https://open.spotify.com/track/4JNaiaqrepEWZDINHsoC01) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu), [LazyWii](https://open.spotify.com/artist/7uHOum5FsgkGwkc2UfdkSL) | [Nicety](https://open.spotify.com/album/1HMykbwGQ3eFmqpjp98Jl8) | 4:08 |
-| 32 | [180](https://open.spotify.com/track/0UWUBGIvqn4sD479lvLhDx) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [180](https://open.spotify.com/album/6L0WrUO7vJaQowiMSNqu8C) | 3:05 |
+| 32 | [180](https://open.spotify.com/track/5IvBP2ndyYFfzYduC2ncSb) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [Wisteria](https://open.spotify.com/album/4ShmCLaYtD0iusN23PnN7g) | 3:05 |
 | 33 | [Uncover](https://open.spotify.com/track/1Ab04PsirFDU1YwHw5SuKm) | [TEITO](https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm) | [Uncover](https://open.spotify.com/album/4JMg1a925swgeX7Azqpoab) | 1:50 |
 | 34 | [Do My Thing](https://open.spotify.com/track/6si4M55L98W1Ry8Wt5JXsP) | [Yusuke Saint Laurent](https://open.spotify.com/artist/7xTliLH8uU8A0jttkKIMrD), [ONENESS](https://open.spotify.com/artist/6LHXDH2zKswgGpGvVzU4TL) | [Do My Thing](https://open.spotify.com/album/3HaPCuqdx5A8zUDdPnWVlW) | 2:07 |
 | 35 | [Merry Merry](https://open.spotify.com/track/7cIL6A9GGyXeCFsf6gu4VX) | [Kikuchi Kenta](https://open.spotify.com/artist/0i9EkQd4tVCPbtxk6lyYEm), [ANPYO](https://open.spotify.com/artist/42OaUjnLIdRnlCRH7Dczb7) | [Merry Merry](https://open.spotify.com/album/57J8FTglgAKXVbbcn9Lb27) | 4:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Toxic Love](https://open.spotify.com/track/2Oa8yH2CacmF1jYEEbfqpB) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Toxic Love](https://open.spotify.com/album/2XXdrTRRcnmWrIgsyNtIV4) | 5:34 |
 | 60 | [FCKNJP](https://open.spotify.com/track/5txPLu9suP8msI1sVUApbV) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [FCKNJP](https://open.spotify.com/album/7gT7u7jM7N5w4TPrxaSDzm) | 3:27 |
 
-Snapshot ID: `MCw2OTg2MzVjMDM0ZGRiYjYzMDlmZTBjZTg4MjVmZmUzMThlNDFlNzk3`
+Snapshot ID: `MCxmYjkwOGQxYzJmOWY4ZGYwNGZhY2RkNzcwMzMyYzU1Nzc2OTVhMzBi`

@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 202624,
       "name": "Blue Tequila",
       "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "B\u00e0i N\u00e0y Chill Ph\u1ebft",
       "url": "https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 384000,
       "name": "Cypher 2G2G",
       "url": "https://open.spotify.com/track/19bybZCZQPWmawAkCkAPDg"
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "G's",
+        "url": "https://open.spotify.com/album/0nHmPtA2PbTwSH58TyvlvT"
+      },
+      "artists": [
+        {
+          "name": "GDucky",
+          "url": "https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159881,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/5fNkucozFTBFE2NCLMjgEP"
+    },
+    {
+      "album": {
         "name": "D\u1eady Mau",
         "url": "https://open.spotify.com/album/0TulZiji6TY2OSx9au0CTw"
       },
@@ -724,7 +742,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 176150,
       "name": "Em Th\u00edch",
       "url": "https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 258668,
       "name": "Li\u1ec7u Gi\u1edd",
       "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 147475,
       "name": "ng\u01b0\u1eddi \u0111i\u00ean",
       "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 213523,
       "name": "Nh\u1ea1c Trap C\u0103ng Nh\u1ea5t 2023",
       "url": "https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 268732,
       "name": "N\u01b0\u1edbc M\u1eaft \u0110\u00e2u Th\u1ec3 R\u01a1i \u0110\u01b0\u1ee3c",
       "url": "https://open.spotify.com/track/7vG5QPy4Bw79XNGHOR8PJA"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 139276,
       "name": "Okeokeoke",
       "url": "https://open.spotify.com/track/3nw5vYaH4qVx8joq3qhtNx"
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 256124,
       "name": "QV3D",
       "url": "https://open.spotify.com/track/44v8VGC9c2Jg59M8cJg3YZ"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 198857,
       "name": "Room 808",
       "url": "https://open.spotify.com/track/5EYv6Jj1adjB8qilHiSC3t"
@@ -1620,10 +1638,28 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 175924,
       "name": "SUNDAY HIPHOP CYPHER",
       "url": "https://open.spotify.com/track/3q9N2v6fXZFLdTrXS6v8Ma"
+    },
+    {
+      "album": {
+        "name": "S\u00e1 X\u1ecb Ch\u01b0\u01a1ng D\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/64Ws2OwRhwTqiKkITCMtYd"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/4IiJbbRn328Zxw8mtHb7bo"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101647,
+      "name": "S\u00e1 X\u1ecb Ch\u01b0\u01a1ng D\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/6K4Bzwf1Zl07n3C9myO35P"
     },
     {
       "album": {
@@ -1812,7 +1848,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 193125,
       "name": "Th\u1ee7 \u0110\u00f4 Cypher (RPT Phongkhin Remix)",
       "url": "https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y"
@@ -2008,7 +2044,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 260370,
       "name": "U\u1ea7YYY",
       "url": "https://open.spotify.com/track/1qZ6CjwIIchUP3YWcZ97ox"
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 170000,
       "name": "Vi\u1ec7t Ki\u1ec1u",
       "url": "https://open.spotify.com/track/4YJVXeScYoka1p1cAWRqlM"
@@ -2104,7 +2140,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 243750,
       "name": "XTC (X\u00edch Th\u00eam Ch\u00fat) (Remix)",
       "url": "https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB"
@@ -2276,7 +2312,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 213350,
       "name": "\u0110\u1eebng Tin Her",
       "url": "https://open.spotify.com/track/0MOxfxgqBnCmy63x58ChdP"
@@ -2298,7 +2334,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 192195,
       "name": "\u1ede S\u00e2u Trong Tim N\u00e0y",
       "url": "https://open.spotify.com/track/3dYB4zyko7GBOgWaP19y5I"

@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-95 songs - 6 hr 5 min
+98 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,12 +35,13 @@
 | [El Umbral](https://open.spotify.com/track/5dhzfsKB4dx9i4RoHaApxH) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [El Umbral](https://open.spotify.com/album/4LLjvqOSUFPpq6gstFRbec) | 3:44 | 2022-04-01 | 2022-07-29 |
 | [En Esta Habitación](https://open.spotify.com/track/1gAB76RAMN8sZl0PjKyqXA) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 4:32 | 2022-04-01 |  |
 | [En Ésta Habitación](https://open.spotify.com/track/4cmwZNWaTgRZttPTEy5lE5) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/5s10x7mdcsdV6kOIG7FyKT) | 4:32 | 2022-04-01 | 2022-07-29 |
-| [Equidistante](https://open.spotify.com/track/6Cdr1voGvpaY2LWXwXKXfL) | [TK](https://open.spotify.com/artist/2Fyl2R5qMxAPabuAlQEn6l) | [Equidistante](https://open.spotify.com/album/6RNPd8DKJsW3NJX2OHprcf) | 4:39 | 2022-04-01 |  |
+| [Equidistante](https://open.spotify.com/track/6Cdr1voGvpaY2LWXwXKXfL) | [TK](https://open.spotify.com/artist/2Fyl2R5qMxAPabuAlQEn6l) | [Equidistante](https://open.spotify.com/album/6RNPd8DKJsW3NJX2OHprcf) | 4:39 | 2022-04-01 | 2023-12-16 |
 | [Escribir Todo de Nuevo](https://open.spotify.com/track/654uAZgLcfWlXZwQovgDbG) | [Cuchillazo](https://open.spotify.com/artist/2PUyeJkrdcOntByKHmnKtv) | [Cuchillazo](https://open.spotify.com/album/36uS9S86kA68XQAcgTCRl9) | 3:20 | 2022-04-01 |  |
 | [Fugitivos](https://open.spotify.com/track/1AfCj3oLpV8sX8tv65s5zg) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Fugitivos](https://open.spotify.com/album/3ukqeYP9wEZQ7E4RcwuhCd) | 3:51 | 2022-04-01 |  |
 | [Gracias](https://open.spotify.com/track/0ECtfhLKp1wB7q67bwgUSi) | [Chachi Luján](https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx) | 3:49 | 2022-04-01 | 2023-08-19 |
-| [Gracias](https://open.spotify.com/track/0FFeZk78Oi8QkfwvJbvrAP) | [Chachi Luján](https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/2ym9M1mJ2SapuBYjjcs1jd) | 3:49 | 2022-04-01 |  |
+| [Gracias](https://open.spotify.com/track/0FFeZk78Oi8QkfwvJbvrAP) | [Chachi Luján](https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/2ym9M1mJ2SapuBYjjcs1jd) | 3:49 | 2022-04-01 | 2023-12-16 |
 | [Gracias](https://open.spotify.com/track/711rKcAa0NsjGDlfsJ0ghb) | [Chachi Luján](https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y) | [Crónicas del Rock Peruano](https://open.spotify.com/album/2mHkM0wvLB7V8qNibFxB3c) | 3:49 | 2022-04-01 | 2023-11-11 |
+| [Gracias \- Live](https://open.spotify.com/track/4cw7cnFOKgWWDacisZ6xsk) | [Dudó](https://open.spotify.com/artist/6jspqbeNnxkCf0XP7eb139), [Chachi Luján](https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y) | [Dudó Alive! \(Live, 1986 \- 2006\)](https://open.spotify.com/album/68jXWBxR2ct5unld7I7Ga3) | 4:55 | 2023-12-15 |  |
 | [Gris](https://open.spotify.com/track/1xDTqhyb1FhvhCGjcaW6j5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:18 | 2022-04-01 |  |
 | [Inmortales](https://open.spotify.com/track/6mYHFgxnHqtTZVGmDcvryy) | [Cementerio Club](https://open.spotify.com/artist/3LEwFZc846sAmu2QRFaRGY) | [Vacaciones en Mediocielo](https://open.spotify.com/album/4xet4pruZwcfNJw3Eu9h9X) | 3:56 | 2022-04-01 | 2022-07-29 |
 | [Inmortales](https://open.spotify.com/track/79VP5Ap32a7ilnhZL0nn8v) | [Cementerio Club](https://open.spotify.com/artist/3LEwFZc846sAmu2QRFaRGY) | [Vacaciones en Mediocielo](https://open.spotify.com/album/0PfYVe4QyKeFgXMtcy1PlF) | 3:56 | 2022-04-01 |  |
@@ -50,6 +51,7 @@
 | [Las Torres](https://open.spotify.com/track/0sN4ERM2Q2UBKyePqfcgv9) | [Nosequien y los Nosecuantos](https://open.spotify.com/artist/53NElDuSIPdjifOGOcvqqe) | [XX Larga Duración](https://open.spotify.com/album/1EGY0YnV5576fW6v8mw9pK) | 3:21 | 2022-04-01 |  |
 | [Las Torres](https://open.spotify.com/track/3sC6meZ0JVduBUG2DDhbHk) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:20 | 2022-04-01 | 2022-10-05 |
 | [Las Torres](https://open.spotify.com/track/5QX7YdxL6LtpWyfbNzaIPC) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/5uxCbEVfLhM7P1UoSrBrT0) | 3:20 | 2022-04-01 | 2022-10-06 |
+| [LIBERTAD 21](https://open.spotify.com/track/4mNo5jNXTy4an0LCIJVjRV) | [Chabelos](https://open.spotify.com/artist/2dYl8MEkvG2QDJ0BvnRaU6) | [Con los huevos colgando \(Lado A\): El Levante](https://open.spotify.com/album/4QSyC1RZ1C5k3pzJBF0qTs) | 4:08 | 2023-12-15 |  |
 | [Lo Peor de Todo](https://open.spotify.com/track/7cnUsQVdrZFNdtIBKZBMb5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:03 | 2022-04-01 |  |
 | [Los Buenos Tiempos](https://open.spotify.com/track/01HnBtxksndufRZ0G4P78H) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 4:32 | 2022-04-01 | 2023-02-24 |
 | [Los Buenos Tiempos](https://open.spotify.com/track/7CIkH5bColvkIiHdo0cQVd) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 4:32 | 2022-04-01 |  |
@@ -82,7 +84,8 @@
 | [Siempre Alguien](https://open.spotify.com/track/4vC0zwOAEKtHIG3xPYdBZr) | [Jhovan](https://open.spotify.com/artist/3sDWekwERR8IkNhXXrBvjP) | [La Señal](https://open.spotify.com/album/5LLmBCTkXNbIe1eZLEbCg1) | 3:16 | 2022-04-01 |  |
 | [Sin Parar](https://open.spotify.com/track/1pxcZ0CzsN6oRlraoAnUxE) | [Ivonne & Los Mercantiles](https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM) | [Crónicas del Rock Peruano](https://open.spotify.com/album/2mHkM0wvLB7V8qNibFxB3c) | 3:59 | 2022-04-01 | 2023-11-11 |
 | [Sin Parar](https://open.spotify.com/track/2URrkcVRi83IC3slwFyOqv) | [Ivonne & Los Mercantiles](https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx) | 3:59 | 2022-04-01 | 2023-08-19 |
-| [Sin Parar](https://open.spotify.com/track/4NpcGehrYPDq0KcbGMQqTz) | [Ivonne & Los Mercantiles](https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/2ym9M1mJ2SapuBYjjcs1jd) | 3:59 | 2022-04-01 |  |
+| [Sin Parar](https://open.spotify.com/track/4NpcGehrYPDq0KcbGMQqTz) | [Ivonne & Los Mercantiles](https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/2ym9M1mJ2SapuBYjjcs1jd) | 3:59 | 2022-04-01 | 2023-12-16 |
+| [Sin Parar](https://open.spotify.com/track/5Qex5xfLvmLJCJqceMV4q3) | [Ivonne & Los Mercantiles](https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/69nQ4DQfL7LZpYad5vpp7Y) | 3:59 | 2023-12-15 |  |
 | [Soledad](https://open.spotify.com/track/5ydFRIeNY2evR79eae0Ur2) | [Indigo](https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx) | 3:41 | 2022-04-01 | 2023-08-12 |
 | [Soledad](https://open.spotify.com/track/0bYlL7XNEvLC34f53mmqEO) | [Indigo](https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK) | [Indigo](https://open.spotify.com/album/10PdZeHhCFhOekUFsuNHlM) | 3:43 | 2022-04-01 |  |
 | [Solo Estoy](https://open.spotify.com/track/7zvUaHQrp6Pr3UG743kmP5) | [Los York's](https://open.spotify.com/artist/5fOfpeBPZeyWDHPOHA8UY5) | [El Viaje 1966\-1971](https://open.spotify.com/album/0rhBP0kJsvRzIAbytOySyw) | 4:36 | 2022-04-01 |  |

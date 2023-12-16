@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Marlon Hoffstadt
 
-783 songs - 1 day 19 hr 57 min
+785 songs - 1 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,8 @@
 | [Ghost](https://open.spotify.com/track/4orMsymF399H3xKBc0AIhx) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:05 | 2021-10-07 | 2022-06-04 |
 | [ghost](https://open.spotify.com/track/62ioLGu1vMLPuZB3wYvmxi) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [ghost](https://open.spotify.com/album/4LmcWugjjNYJnmNkLvW1At) | 2:19 | 2022-06-03 | 2022-07-20 |
 | [Gift](https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 3:55 | 2022-05-27 | 2023-03-04 |
-| [gimme gimme](https://open.spotify.com/track/0LWrBENo9TbgKc8hmIn1Ec) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [summer in the rain](https://open.spotify.com/album/5ZDHGnmqfZRdgsjDmw6xZz) | 2:38 | 2023-11-10 |  |
+| [gimme gimme](https://open.spotify.com/track/0LWrBENo9TbgKc8hmIn1Ec) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [summer in the rain](https://open.spotify.com/album/5ZDHGnmqfZRdgsjDmw6xZz) | 2:38 | 2023-11-10 | 2023-12-16 |
+| [gimme gimme](https://open.spotify.com/track/1gfID56ITv50NOl2OJjWYr) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [apple juice](https://open.spotify.com/album/6LfyurnoMknxDGX50Yfo4e) | 2:38 | 2023-12-15 |  |
 | [gimme gimme](https://open.spotify.com/track/4MMmuV5pqfBNeN80xWO48y) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [gimme gimme](https://open.spotify.com/album/42jhYLMuchMM04kVE1hWHY) | 2:38 | 2023-07-27 | 2023-10-14 |
 | [Girls Just Want Breaks \(yion\-flip\)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [Girls Just Want Breaks \(yion\-flip\)](https://open.spotify.com/album/1QYo6YHo7NPrVcHRiVybmo) | 1:46 | 2022-04-08 | 2022-06-18 |
 | [Girls just want to have fun](https://open.spotify.com/track/16aNHWdWoO9zobj4lqAoWV) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Girls just want to have fun](https://open.spotify.com/album/7jhAHwxV5NennB3lL6fva4) | 2:14 | 2022-03-23 | 2022-04-09 |
@@ -331,7 +332,8 @@
 | [Hold On](https://open.spotify.com/track/7lfzzDkPkf4gkMkyZUbDnw) | [Lwny](https://open.spotify.com/artist/0nwK1tWueQUPpKudMyAArz) | [Hold On](https://open.spotify.com/album/6FYQHkZTk1loxJmcTAynGh) | 2:30 | 2022-09-02 | 2022-11-19 |
 | [Holding U](https://open.spotify.com/track/2SNEa0hRBkovPufdgGjhys) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Holding U](https://open.spotify.com/album/2bMMRDSxXxFNwDNEpNut0b) | 2:47 | 2021-09-24 | 2022-02-26 |
 | [HOLDMECLOSE](https://open.spotify.com/track/0jONgVFz2gyvTf2OgowurS) | [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [HOLDMECLOSE](https://open.spotify.com/album/0ipWEfZihyye9p7SeoDZyi) | 2:30 | 2022-06-03 | 2022-10-01 |
-| [holdu](https://open.spotify.com/track/3yS493zkDMt3nGjoDrT9dG) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [genr.es \(let go/what breaks\-1\)](https://open.spotify.com/album/5xTiGK5L7tstao6DuxOIpn) | 2:38 | 2023-11-17 |  |
+| [holdu](https://open.spotify.com/track/3yS493zkDMt3nGjoDrT9dG) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [genr.es \(let go/what breaks\-1\)](https://open.spotify.com/album/5xTiGK5L7tstao6DuxOIpn) | 2:38 | 2023-11-17 | 2023-12-16 |
+| [holdu](https://open.spotify.com/track/4rDjhIe5WXuVPvszcY7z2V) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [genr.es \(let go/what breaks\-1\)](https://open.spotify.com/album/49LEXWD60YW18g75f5YUEA) | 2:38 | 2023-12-15 |  |
 | [home](https://open.spotify.com/track/5w2T0wLU7RDzNQ0JmaAOwP) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [home](https://open.spotify.com/album/2PycBAwXkUXFJWFV5NlhRG) | 3:06 | 2022-01-05 | 2022-06-04 |
 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 | 2022-01-21 | 2022-12-03 |
 | [HOMOSEXUAL](https://open.spotify.com/track/52JVlAIVYVJ47TD5ek5xxn) | [IX Fall$](https://open.spotify.com/artist/2dSovjwYl3QCrqyppFIovD), [florent!a](https://open.spotify.com/artist/7ayLUBXOg93y0lF36ShcLH) | [HOMOSEXUAL](https://open.spotify.com/album/0XXc1yC8PO7a3sQDnVPQnm) | 4:21 | 2022-03-18 | 2022-04-02 |
@@ -650,7 +652,7 @@
 | [stay](https://open.spotify.com/track/5CkrwMZvgBO068EhQyiTZt) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [stay](https://open.spotify.com/album/4ptRVYNs2KBa74ED3MvKmK) | 2:42 | 2023-01-20 | 2023-05-26 |
 | [Stay With Me \(with Absolutely\)](https://open.spotify.com/track/1p8R6ArQGBFpzoaLJiLvJh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Stay With Me \(with Absolutely\)](https://open.spotify.com/album/5IcJs3auFFMiIxrDqqweC6) | 3:26 | 2023-09-08 |  |
 | [stay\. x](https://open.spotify.com/track/0uYLn42kkUcLmXk00ncWsu) | [Cell M8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [stay\. x](https://open.spotify.com/album/0gLrB391OKZn8JhhJupbQ2) | 4:46 | 2023-11-24 | 2023-12-08 |
-| [stay\. x](https://open.spotify.com/track/7kXNol0cc3fAyNiYQBM5wY) | [Cell m8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [stay\. x](https://open.spotify.com/album/3uJrG3xIQLgmF1D7JjvJIn) | 4:46 | 2023-12-01 |  |
+| [stay\. x](https://open.spotify.com/track/7kXNol0cc3fAyNiYQBM5wY) | [cell m8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [stay\. x](https://open.spotify.com/album/3uJrG3xIQLgmF1D7JjvJIn) | 4:46 | 2023-12-01 |  |
 | [Steady Pace](https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Steady Pace](https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R) | 2:26 | 2023-09-28 |  |
 | [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2023-12-01 |  |
 | [Still Miss U](https://open.spotify.com/track/3C3rtf7n8TNyUarr5fnRMW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Still Miss U](https://open.spotify.com/album/6Twb7nEWGMHnKHB4RKIHNu) | 3:47 | 2021-11-19 | 2022-04-16 |

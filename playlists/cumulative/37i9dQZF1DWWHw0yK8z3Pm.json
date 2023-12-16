@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Bad Feelings",
+        "url": "https://open.spotify.com/album/5KxjbKMXpb297j01OIGuzd"
+      },
+      "artists": [
+        {
+          "name": "JJ Shiplett",
+          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208393,
+      "name": "Bad Feelings",
+      "url": "https://open.spotify.com/track/5qd1dQIQx64UBRrz9R2rv2"
+    },
+    {
+      "album": {
         "name": "Bad Omen",
         "url": "https://open.spotify.com/album/02wMdNPvlHyDhTe6CIQUXX"
       },
@@ -6830,7 +6848,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 234799,
       "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,019 likes - 49 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,049 likes - 49 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 48 | [Libre](https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:58 |
 | 49 | [Almost Like Praying \(feat\. Artists for Puerto Rico\)](https://open.spotify.com/track/3dskm5fAe8OkBtM9E0VVWx) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Alex Lacamoire](https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW), [Ana Villafañe](https://open.spotify.com/artist/5lVYBJYVtzSu6YH7vlMuhU), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Artists for Puerto Rico](https://open.spotify.com/artist/4cS0IGoIwn4vOj3uzkiOrK), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Dessa](https://open.spotify.com/artist/2CQAfzpwwaMxj3YNlb4Gbj), [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Gina Rodriguez](https://open.spotify.com/artist/5oC6sik8OGWHW5k4cdnEca), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Joell Ortiz](https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq), [John Leguizamo](https://open.spotify.com/artist/26nStRV6Waedt17W4Uhx6l), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Rita Moreno](https://open.spotify.com/artist/0o8VXZhF492Z1bKBRFA9Q2), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Almost Like Praying \(feat\. Artists for Puerto Rico\)](https://open.spotify.com/album/0CrR6wiiAF5Myln0EFTRUz) | 3:20 |
 
-Snapshot ID: `MjgzNzU5MDgsMDAwMDAwMDAxYjhjMTQ0MGM0ZjNkZmVhMDRmNjJkYTAyMzcyZDFjNw==`
+Snapshot ID: `MjgzNzc0MjMsMDAwMDAwMDA5ZDU3ZjlmYWU5MmE4MWNiMGU0OTRmYmM0ZTk5MmQ5MA==`

@@ -1,13 +1,41 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 397252,
+  "num_followers": 397274,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDcyMWE1ZWJhN2Q2OTljODBkYWNhNDY5ZDkwZjIxNTMxOGJlNzFl",
+  "snapshot_id": "MCw5MTQ3ZWY5ZWM3ZjlmODhkMjE4MTkyY2UzMDQxNzU3ZDViMjk0ZmFm",
   "tracks": [
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "We Outta B Funkin\u2019",
+        "url": "https://open.spotify.com/album/01wrFWt0KcWYNV2CIOslnN"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Soopafly",
+          "url": "https://open.spotify.com/artist/1fGNdi2u7XLBVYaq6fJUaT"
+        },
+        {
+          "name": "Temu Bacot",
+          "url": "https://open.spotify.com/artist/7h6PVrpt8H8BTvmL9LBxsU"
+        },
+        {
+          "name": "Myra Washington",
+          "url": "https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho"
+        }
+      ],
+      "duration_ms": 261359,
+      "name": "We Outta B Funkin\u2019",
+      "url": "https://open.spotify.com/track/13bwv0FluqVWXokMD8Wl7w"
+    },
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
@@ -1843,22 +1871,6 @@
       "duration_ms": 350972,
       "name": "Checker Wrecker",
       "url": "https://open.spotify.com/track/7CmmRmYeCU9BGU3NVY3z0r"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
-        "name": "Step Up",
-        "url": "https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 275910,
-      "name": "Let's Celebrate Our Love",
-      "url": "https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I"
     },
     {
       "added_at": "2020-10-30 04:02:00",

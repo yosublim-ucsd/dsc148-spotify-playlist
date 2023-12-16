@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 279193,
       "name": "Equidistante",
       "url": "https://open.spotify.com/track/6Cdr1voGvpaY2LWXwXKXfL"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 229040,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/0FFeZk78Oi8QkfwvJbvrAP"
@@ -612,6 +612,28 @@
       "duration_ms": 229040,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/711rKcAa0NsjGDlfsJ0ghb"
+    },
+    {
+      "album": {
+        "name": "Dud\u00f3 Alive! (Live, 1986 - 2006)",
+        "url": "https://open.spotify.com/album/68jXWBxR2ct5unld7I7Ga3"
+      },
+      "artists": [
+        {
+          "name": "Dud\u00f3",
+          "url": "https://open.spotify.com/artist/6jspqbeNnxkCf0XP7eb139"
+        },
+        {
+          "name": "Chachi Luj\u00e1n",
+          "url": "https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295573,
+      "name": "Gracias - Live",
+      "url": "https://open.spotify.com/track/4cw7cnFOKgWWDacisZ6xsk"
     },
     {
       "album": {
@@ -774,6 +796,24 @@
       "duration_ms": 200280,
       "name": "Las Torres",
       "url": "https://open.spotify.com/track/5QX7YdxL6LtpWyfbNzaIPC"
+    },
+    {
+      "album": {
+        "name": "Con los huevos colgando (Lado A): El Levante",
+        "url": "https://open.spotify.com/album/4QSyC1RZ1C5k3pzJBF0qTs"
+      },
+      "artists": [
+        {
+          "name": "Chabelos",
+          "url": "https://open.spotify.com/artist/2dYl8MEkvG2QDJ0BvnRaU6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248310,
+      "name": "LIBERTAD 21",
+      "url": "https://open.spotify.com/track/4mNo5jNXTy4an0LCIJVjRV"
     },
     {
       "album": {
@@ -1368,10 +1408,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 239466,
       "name": "Sin Parar",
       "url": "https://open.spotify.com/track/4NpcGehrYPDq0KcbGMQqTz"
+    },
+    {
+      "album": {
+        "name": "Cr\u00f3nicas del Rock Peruano, Vol. 3",
+        "url": "https://open.spotify.com/album/69nQ4DQfL7LZpYad5vpp7Y"
+      },
+      "artists": [
+        {
+          "name": "Ivonne & Los Mercantiles",
+          "url": "https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "Sin Parar",
+      "url": "https://open.spotify.com/track/5Qex5xfLvmLJCJqceMV4q3"
     },
     {
       "album": {

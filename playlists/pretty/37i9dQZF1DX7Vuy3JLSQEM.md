@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,153 likes - 84 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,162 likes - 84 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 23 | [Go Bananas](https://open.spotify.com/track/7sMTAnbe0GyC8SquQFyJuA) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Go Bananas](https://open.spotify.com/album/07LK91iHSOUy7U6Y0MASAe) | 2:01 |
 | 24 | [everything i wanted](https://open.spotify.com/track/7AcPWrp2mXYkoMl4I3W57e) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [SXTYSIX](https://open.spotify.com/artist/7BtgWJbGvd1WE3mMxT5z7i), [Matrino](https://open.spotify.com/artist/0jw0ZstZ0up9QaLPhOZsRi) | [everything i wanted](https://open.spotify.com/album/55VYu1LEqTq5Zh1ZWUVuHQ) | 3:46 |
 | 25 | [Tamos de Fiesta \- Remix](https://open.spotify.com/track/6OQHg2To0EDiaj4XyfJuBz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Tamos de Fiesta \(Remix\)](https://open.spotify.com/album/2qQ3Xr5jANxRww4AFN1ga2) | 2:22 |
-| 26 | [Carrusel](https://open.spotify.com/track/5sNMuWchAZxgd3dFGtQpEQ) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Carrusel](https://open.spotify.com/album/33w45l6hLQTlaqJExHJ4kT) | 2:43 |
+| 26 | [Carrusel](https://open.spotify.com/track/0I9u2AcBoLAtMVOWRRLDvN) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Carrusel](https://open.spotify.com/album/3PXgoT9rCUPaFYCYHg6ynR) | 2:43 |
 | 27 | [Amor Profundo \- M.A.N.D.Y\. Remix](https://open.spotify.com/track/1KerOLS4TMJanZeTb6usAh) | [Dani Boom](https://open.spotify.com/artist/33O26AJ88Zo4q4TeXttSeN), [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX) | [Amor Profundo](https://open.spotify.com/album/1hCMy6rIaK4fui9tQRYhTO) | 7:53 |
 | 28 | [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 |
 | 29 | [Dafne](https://open.spotify.com/track/6X5D4PowFB3IkPlp6NSkga) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Antidoto EP](https://open.spotify.com/album/0F36XdZb3xoUXdgMWz1z60) | 5:00 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 83 | [Enviada](https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:03 |
 | 84 | [Despertar](https://open.spotify.com/track/5zVRJaJBPPtOuc6ku1tln2) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Sketches, Vol\. 1 \(2004\-2007\)](https://open.spotify.com/album/2hCHId2M6SQ48hFEfIOtfh) | 3:37 |
 
-Snapshot ID: `MCw4MmE3ZjE3NmViZWE4OWU1YmYwM2U1NzgxNzgyNDI4NDY2MGUzMTBj`
+Snapshot ID: `MCxmYjc4MzliOTFlZjQ3YTE0ODAxMTU5YzI3ZmFjNjE1MzQwNmIwODEx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Masdddho",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -1564,6 +1564,24 @@
       "duration_ms": 200974,
       "name": "Kelingan Mantan",
       "url": "https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU"
+    },
+    {
+      "album": {
+        "name": "Kesel (Studio Version)",
+        "url": "https://open.spotify.com/album/1wGTcasaUfoIWZwpk9wkDW"
+      },
+      "artists": [
+        {
+          "name": "OMWAWES",
+          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348444,
+      "name": "Kesel - Studio Version",
+      "url": "https://open.spotify.com/track/1W9v2dH55jpVMOAcAjxarE"
     },
     {
       "album": {
@@ -3919,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "SAMAR",
+        "url": "https://open.spotify.com/album/3VWHaPhQyKU90o1YGS65Nk"
+      },
+      "artists": [
+        {
+          "name": "Masdddho",
+          "url": "https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264996,
+      "name": "SAMAR",
+      "url": "https://open.spotify.com/track/7kInuBn9J1a0tXn4hbGJRZ"
+    },
+    {
+      "album": {
         "name": "Sambat",
         "url": "https://open.spotify.com/album/51FhShmdp9AHOVwTd4rNT4"
       },
@@ -4794,6 +4830,24 @@
       "duration_ms": 318242,
       "name": "Wirang",
       "url": "https://open.spotify.com/track/31CJowm1yKm0GMKEEcODtP"
+    },
+    {
+      "album": {
+        "name": "Wirang",
+        "url": "https://open.spotify.com/album/076N6F6y9xyGLgtjqh1tDd"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317538,
+      "name": "Wirang",
+      "url": "https://open.spotify.com/track/1x7jcOKzJIEpN32MeXehf2"
     },
     {
       "album": {

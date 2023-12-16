@@ -2465,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Bansa 7aly",
+        "url": "https://open.spotify.com/album/01cwuv9Yy87R1HmNsKJsbi"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156038,
+      "name": "High and Alone",
+      "url": "https://open.spotify.com/track/4eJk6TUT561QX2BE73Q208"
+    },
+    {
+      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj"
       },

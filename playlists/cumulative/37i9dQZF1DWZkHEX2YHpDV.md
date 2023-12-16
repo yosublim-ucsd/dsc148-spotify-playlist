@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,097 songs - 2 day 9 hr 55 min
+1,100 songs - 2 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Are You Impressed?](https://open.spotify.com/track/0maaBh5icICjXYfY0urTnU) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 3:07 | 2023-09-22 |  |
 | [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 | 2023-04-10 | 2023-07-26 |
 | [Arm's Length](https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 4:18 | 2023-04-10 | 2023-04-12 |
+| [Arrows](https://open.spotify.com/track/35r4qfODdAxAUuDl7VRE8C) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE), [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [nulla.](https://open.spotify.com/album/2w0oUtRdOjhPPS30TcJi4X) | 3:35 | 2023-12-15 |  |
 | [Artorias](https://open.spotify.com/track/2Wtxf69QyhLU9fswgoD6Hd) | [WVNDER](https://open.spotify.com/artist/56LuTyFDFBgcq4hkc4XMu5) | [Nothing Stays](https://open.spotify.com/album/2yP06M3lbojJ7ihnjlSdX5) | 3:11 | 2022-02-04 | 2022-04-27 |
 | [At Home](https://open.spotify.com/track/7Hnyju3PAzodUyRRvNFUY5) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [At Home](https://open.spotify.com/album/0w2M9Us4mt0DL6yAG4nj9W) | 2:39 | 2022-01-14 | 2022-06-10 |
 | [Atlas Fugged](https://open.spotify.com/track/3WVssczpA2XWM5CtC0XYfm) | [Bony Macaroni](https://open.spotify.com/artist/5RsdlcuYtj4bWyGPVJCuet) | [Atlas Fugged](https://open.spotify.com/album/5YCuaFGWUM5GF1jSVjZbpW) | 3:11 | 2022-03-25 | 2022-04-15 |
@@ -241,7 +242,7 @@
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 | 2023-05-13 |
 | [dec 19](https://open.spotify.com/track/2q3MJC3hiXSLBRlJQXRbdt) | [Orson Wilds](https://open.spotify.com/artist/3XnFTYeZVpwvW5qQtmWAWe) | [dec 19](https://open.spotify.com/album/5Mie0Ud4qaQGtWSpD4PvwO) | 3:49 | 2021-12-10 | 2022-07-20 |
 | [December](https://open.spotify.com/track/6vwO3hiaHOfQzUACcfjgsD) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Change the Waters Vol\. 2: Our Sad Weather Hearts](https://open.spotify.com/album/79aiJf2UkRVNtQmXXLGmvY) | 3:30 | 2022-01-14 | 2022-06-08 |
-| [Deep End](https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Deep End](https://open.spotify.com/album/06zDKs4zyoeMS8SBC9r9Tm) | 3:16 | 2023-12-08 |  |
+| [Deep End](https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Deep End](https://open.spotify.com/album/06zDKs4zyoeMS8SBC9r9Tm) | 3:16 | 2023-12-08 | 2023-12-16 |
 | [Deja Vu](https://open.spotify.com/track/6w6sfHBkqDW9S1LqjEoddH) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Deja Vu](https://open.spotify.com/album/6zwzsD6kKE47Inn3FPEasA) | 3:03 | 2022-03-25 | 2022-05-18 |
 | [Deliberate](https://open.spotify.com/track/3q9jcU1tK1wEGGgLyszAno) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Deliberate](https://open.spotify.com/album/2wYuNoLMwvA1qEpGOoWAL1) | 2:57 | 2021-12-10 | 2022-06-18 |
 | [Deliver Us More Evil](https://open.spotify.com/track/67MpmnlrsgA8UEi3g9AqJh) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Deliver Us More Evil](https://open.spotify.com/album/39rKiyOEqTYIWterGQIOrk) | 4:12 | 2021-12-10 | 2022-07-29 |
@@ -310,8 +311,9 @@
 | [Everything Else Can Wait](https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Everything Else Can Wait](https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN) | 3:38 | 2023-04-10 |  |
 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 | 2023-09-22 | 2023-12-09 |
 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 | 2021-12-10 | 2022-06-25 |
+| [EXCALIBUR](https://open.spotify.com/track/6gg9wuYw3WvZ6bdfUxWZui) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \(vol\. 9\)](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 2:43 | 2023-12-15 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-28 | 2023-12-09 |
-| [F.A.K.E.](https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [F.A.K.E.](https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH) | 2:17 | 2023-12-08 |  |
+| [F.A.K.E.](https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [F.A.K.E.](https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH) | 2:17 | 2023-12-08 | 2023-12-16 |
 | [Face Down \- Symphonic Edition](https://open.spotify.com/track/3rzwBdOX741P5N394o5faL) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Face Down \(Symphonic Edition\)](https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx) | 3:27 | 2022-10-21 | 2023-11-11 |
 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 | 2023-11-10 |  |
 | [Fairytale](https://open.spotify.com/track/1idRNmfKufjZPlCic15EsI) | [WVNDER](https://open.spotify.com/artist/56LuTyFDFBgcq4hkc4XMu5) | [Nothing Stays](https://open.spotify.com/album/2yP06M3lbojJ7ihnjlSdX5) | 3:19 | 2021-12-10 | 2022-04-25 |
@@ -896,7 +898,8 @@
 | [Stuck In The Wake](https://open.spotify.com/track/5PaYtN6smm3be0Ip1pOK1Z) | [Another One Down!](https://open.spotify.com/artist/28qiA0MBepHKX8M6ROsQZL) | [Stuck In The Wake](https://open.spotify.com/album/4t2quzwG6LXvzIhLO1tjC0) | 3:27 | 2021-12-10 | 2022-05-12 |
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-08-02 | 2023-11-11 |
 | [Sucks to Be Yuh](https://open.spotify.com/track/09t8P8t232bmdvkasH15XO) | [HRTLSS](https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD) | [Sucks to Be Yuh](https://open.spotify.com/album/532dq0vUb2NzPPOqIkxg83) | 2:20 | 2022-02-04 | 2022-05-13 |
-| [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-07-14 |  |
+| [Sullenboy](https://open.spotify.com/track/3Y3CbwB3REfOWUkgKOKgcD) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Death is Nothing to Us](https://open.spotify.com/album/3VAS3XDxovzScTloSDxMo7) | 3:19 | 2023-12-15 |  |
+| [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-07-14 | 2023-12-16 |
 | [Sun Poisoning](https://open.spotify.com/track/4GbfJjEqf2UcMYVT19Hlva) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Home Made Satan](https://open.spotify.com/album/2w3ncZJGWsVbaUq2NvVVt3) | 2:53 | 2022-02-04 | 2022-05-03 |
 | [Sundown, Somehow](https://open.spotify.com/track/5teyrxwR2SnmUOf8nCiono) | [Neverkept](https://open.spotify.com/artist/6AO1JbLXSeXU18tt8dAlMp) | [Sundown, Somehow](https://open.spotify.com/album/3PSqgpmwMVUnimrLjFnBcn) | 3:41 | 2021-12-10 | 2022-07-29 |
 | [Sunsign](https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Sunsign](https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf) | 3:47 | 2023-04-10 | 2023-04-12 |

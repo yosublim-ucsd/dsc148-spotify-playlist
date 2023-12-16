@@ -4,7 +4,7 @@
 
 > 
 
-1,083 songs - 2 day 13 hr 2 min
+1,084 songs - 2 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Fuck Everybody](https://open.spotify.com/track/6pknjtaoUpibtJ0welYnNZ) | [Hatred](https://open.spotify.com/artist/3TvVKqrkgwoHXuj8r71GEJ) | [Fuck Everybody](https://open.spotify.com/album/4iMllgm9M3YYC5WgkWLlEJ) | 2:48 | 2022-09-21 |  |
 | [FUCK IT UP](https://open.spotify.com/track/6pA5u4u3caqeK90prrMhPv) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [FUCK IT UP](https://open.spotify.com/album/4gGUt2ApFSB7dWLbuRN2Ft) | 3:00 | 2023-07-10 |  |
 | [Fucked Up \- Radio Edit](https://open.spotify.com/track/1tZziIQfAQxm43OlMxbbkn) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd) | [Stalin Wears Balenciaga](https://open.spotify.com/album/23PghleQf6Bq79kzMSlpgH) | 2:52 | 2022-12-24 |  |
+| [FUCKIN KICKDRUM](https://open.spotify.com/track/3VoAwRSMcd7tU7iJ6LQrDO) | [Skull Demon](https://open.spotify.com/artist/2S0ARB7meisIgCWq01As9p), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [FUCKIN KICKDRUM](https://open.spotify.com/album/5mEFXrZfCubqvlbMiM7sb0) | 2:57 | 2023-12-16 |  |
 | [Fucking Drop](https://open.spotify.com/track/4JItG8JDQrECA06tPQYuKl) | [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM), [The Mind Destiny](https://open.spotify.com/artist/36yybhBDwjrHczARABTWeR) | [Fucking Drop](https://open.spotify.com/album/6kVjRMI22zVJpNmPdRhB2V) | 2:36 | 2023-04-24 |  |
 | [FULLFLAVOR ONDO](https://open.spotify.com/track/4n3aW8rwrT83iZvbQzFCip) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M), [Nanahira](https://open.spotify.com/artist/0bkkiFN0ghGl4j9aLi3oQx) | [FULLFLAVOR ONDO](https://open.spotify.com/album/6JVsIlH4eZF9s1P370nX0a) | 4:05 | 2022-11-21 |  |
 | [Fullspec](https://open.spotify.com/track/1rQOcHQ3vClmgADhfxnuVN) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Kick's For Liberation 7](https://open.spotify.com/album/5xOr34N3SqxVt3Yh8LjQ8D) | 4:59 | 2022-11-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,517 likes - 223 songs - 16 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,731 likes - 223 songs - 16 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 45 | [Freddie's Warmup](https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Freddie's Warmup](https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m) | 2:00 |
 | 46 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 |
 | 47 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
-| 48 | [Caçando XXT](https://open.spotify.com/track/5jFA9x74h0Ym7VrtY1Tdcl) | [Whighle](https://open.spotify.com/artist/1mnkzYGcsPQFR3wonZgPLv), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Caçando XXT](https://open.spotify.com/album/4dKVITBa84Abop0FNPfr6c) | 2:45 |
+| 48 | [Caçando XXT](https://open.spotify.com/track/7mYYjz6TQmj61TzH5rdoyF) | [Whighle](https://open.spotify.com/artist/1mnkzYGcsPQFR3wonZgPLv), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Caçando XXT](https://open.spotify.com/album/57XxCwJBrsadHwqxUi14UX) | 2:45 |
 | 49 | [Coco Loco](https://open.spotify.com/track/2n4Ul3ywASFI46NKxWrGtL) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [KUENTA](https://open.spotify.com/artist/3pr6mWxBNnh2OHul3o0A0p), [Cheryl Lispier](https://open.spotify.com/artist/57DvbdvXfkpcMOgSlo8rnt) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:52 |
 | 50 | [Now U Do \(Carlita Remix\) \- Edit](https://open.spotify.com/track/4npDRstA1cZPDshgtC3mvv) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Now U Do \(Carlita Remix\)](https://open.spotify.com/album/7t88wDCAJBUW98FDo1imXi) | 3:33 |
 | 51 | [Save My Life \- Folamour Remix](https://open.spotify.com/track/4IbfSkANxDLlaqDptTZ5hE) | [Benny Mussa](https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Save My Life \(Folamour Remix\)](https://open.spotify.com/album/7emMblwJ7MZ1ejnuBhJ9X7) | 4:53 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 222 | [maracuya massage \- Sam Ruffillo Remix](https://open.spotify.com/track/4AgAhaqv9RA6q7JnnyCMdv) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [maracuya massage \(Sam Ruffillo Remix\)](https://open.spotify.com/album/2Onz56a71k0NIcqMR93wqu) | 4:11 |
 | 223 | [phases \(feat\. Kojey Radical\) \- P\-rallel Remix](https://open.spotify.com/track/0BUU2Sw6QrDyIVg4U6G3Gl) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [phases \(feat\. Kojey Radical\) \[P\-rallel Remix\]](https://open.spotify.com/album/5UMUOPkLKNKKfHIT9D9D4x) | 3:08 |
 
-Snapshot ID: `MCxkZjcyODFhOTk3ZDg2M2YzNzVmNzNmMzAzYjM3ZWNjNjdiYTdkMmE5`
+Snapshot ID: `MCxiOWEwOGQwNzcxNDZkYjdlMmIyNzFhMDE4ZGU5ZjQ3NWZhNWNlMTE0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Instructions: volume up. Cover: Atreyu",
+  "description": "Instructions: volume up. Cover: Bad Omens",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -1122,6 +1122,24 @@
       "duration_ms": 219468,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
+    },
+    {
+      "album": {
+        "name": "RAT WARS",
+        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181130,
+      "name": "ASHAMED",
+      "url": "https://open.spotify.com/track/2olEwF2igUG4f2eooVChni"
     },
     {
       "album": {
@@ -3132,7 +3150,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 200624,
       "name": "CHILDREN OF SORROW",
       "url": "https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd"
@@ -3896,7 +3914,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 195133,
       "name": "D4MAGE DONE",
       "url": "https://open.spotify.com/track/7BnK1opiLlkxkBQ0TVKRYw"
@@ -10416,7 +10434,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 232593,
       "name": "Loyal to the Lie",
       "url": "https://open.spotify.com/track/7AIj2haVhqsX2MDDZ8cEmn"
@@ -11293,6 +11311,24 @@
     },
     {
       "album": {
+        "name": "Mourning The Dawn",
+        "url": "https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV"
+      },
+      "artists": [
+        {
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301371,
+      "name": "Mourning The Dawn",
+      "url": "https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm"
+    },
+    {
+      "album": {
         "name": "Mr Medicine",
         "url": "https://open.spotify.com/album/61YA2rZJLN30UgkVRlHwZM"
       },
@@ -11376,7 +11412,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 181400,
       "name": "Mystic Cord",
       "url": "https://open.spotify.com/track/2gO2rwntCs0InXql4AOQTV"
@@ -13804,6 +13840,24 @@
       "duration_ms": 184018,
       "name": "Rhythm and Rapture",
       "url": "https://open.spotify.com/track/5ZISq7eZLSHQBYKw9HMSAh"
+    },
+    {
+      "album": {
+        "name": "Right Side of Wrong",
+        "url": "https://open.spotify.com/album/4H1ejQ2JLKUgKy3bCgW9g1"
+      },
+      "artists": [
+        {
+          "name": "Mick Mars",
+          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194125,
+      "name": "Right Side of Wrong",
+      "url": "https://open.spotify.com/track/787VnvRnGZatxoIzv2yNkc"
     },
     {
       "album": {
@@ -19382,6 +19436,28 @@
       "duration_ms": 281380,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "album": {
+        "name": "Wish I Could Cry",
+        "url": "https://open.spotify.com/album/00GILBvoFXuKGg9uZjKaT8"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        },
+        {
+          "name": "Halocene",
+          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Wish I Could Cry",
+      "url": "https://open.spotify.com/track/5sH8NrFiSFEoYuGjzmAofE"
     },
     {
       "album": {

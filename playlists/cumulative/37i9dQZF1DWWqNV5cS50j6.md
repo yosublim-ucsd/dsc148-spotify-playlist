@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,579 songs - 3 day 4 hr 8 min
+1,580 songs - 3 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,7 +914,7 @@
 | [N Side](https://open.spotify.com/track/095foEhooqEP6YmtvnOxLL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/0LEiJIsoVxfkiGOpUCyZez) | 3:44 | 2022-02-28 | 2022-06-18 |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2021-12-15 | 2022-03-01 |
 | [N\. Michigan Gospel](https://open.spotify.com/track/241v3QlWhV2l7EQBtbXudq) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0) | [N\. Michigan Gospel](https://open.spotify.com/album/0ZRLr4WfLYtHZyiuR5Hp9D) | 3:56 | 2021-09-11 | 2021-10-13 |
-| [N2](https://open.spotify.com/track/5n6CAuAvZDlVmPvGUbKzNQ) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [N2](https://open.spotify.com/album/6OrQ3W1y2H0xMGLav3Tzs8) | 2:13 | 2023-12-08 |  |
+| [N2](https://open.spotify.com/track/5n6CAuAvZDlVmPvGUbKzNQ) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [N2](https://open.spotify.com/album/6OrQ3W1y2H0xMGLav3Tzs8) | 2:13 | 2023-12-08 | 2023-12-16 |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2021-10-15 | 2023-04-15 |
 | [n2o](https://open.spotify.com/track/4z3cLkhxB7dTf1L7xrHTly) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:59 | 2022-02-28 | 2022-03-02 |
 | [napalm!](https://open.spotify.com/track/5YqKNiieSFJ1fbMlZYrITW) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [napalm!](https://open.spotify.com/album/7jyge5yG2MYlHwgB512jrp) | 2:52 | 2022-03-11 | 2022-04-29 |
@@ -1320,6 +1320,7 @@
 | [SWEET](https://open.spotify.com/track/4ICjGWAFoZWXvRQta9UHuj) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SWEET](https://open.spotify.com/album/1HUGoLeGEmtg1Csw88DeTs) | 4:34 | 2023-10-13 |  |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-14 | 2022-11-17 |
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-10-17 |  |
+| [sweet tooth](https://open.spotify.com/track/7Ip7z542rLsvn0LFZ7HUZZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sweet tooth](https://open.spotify.com/album/2aRRL6f516XszykD7DKiFZ) | 2:28 | 2023-12-15 |  |
 | [Sweet Tooth](https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/4y309EcmaqipImcRdFlX5s) | 3:35 | 2023-06-16 | 2023-11-11 |
 | [SWEETBABYRAE](https://open.spotify.com/track/6MNTsxexrJEsDW4fSEAiXS) | [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX) | [SWEETBABYRAE](https://open.spotify.com/album/5lM0nji3ybQGwNhHOoxIrJ) | 2:43 | 2021-08-07 | 2021-10-16 |
 | [Sweets](https://open.spotify.com/track/6e00JUwAfYnotIMLbNhTaE) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Sweets](https://open.spotify.com/album/0SnyMBptlJ62tcEg3gMW1Z) | 2:45 | 2021-07-18 | 2021-10-16 |

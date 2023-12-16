@@ -77,6 +77,32 @@
     },
     {
       "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230015,
+      "name": "All In A Dream",
+      "url": "https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI"
+    },
+    {
+      "album": {
         "name": "Talkie Walkie",
         "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
       },
@@ -179,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Ikebana",
+        "url": "https://open.spotify.com/album/2OUpIvg8YdmFNAqJVuCnoo"
+      },
+      "artists": [
+        {
+          "name": "Lemongrass",
+          "url": "https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "Beach Ball",
+      "url": "https://open.spotify.com/track/7rRaAzsnAcZSMGp6KKHckc"
+    },
+    {
+      "album": {
         "name": "Seeds in Sand",
         "url": "https://open.spotify.com/album/4IZtfkdzACIDkdBXq6N5vH"
       },
@@ -194,6 +238,24 @@
       "duration_ms": 291580,
       "name": "Black Fur",
       "url": "https://open.spotify.com/track/51loDBKDk2hhKZCC9DoSTP"
+    },
+    {
+      "album": {
+        "name": "Groove Division Vol.1",
+        "url": "https://open.spotify.com/album/4jANedCyEsMYPHw8cDDTG1"
+      },
+      "artists": [
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413119,
+      "name": "Boogie Mafioso",
+      "url": "https://open.spotify.com/track/51MezbvsdlmFPTZZ8QgImb"
     },
     {
       "album": {
@@ -342,7 +404,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 201882,
       "name": "Change",
       "url": "https://open.spotify.com/track/58czdfdkPFvp8a3DRTUyBI"
@@ -761,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Follow The Lead",
+        "url": "https://open.spotify.com/album/1dKEbgV1x6CkS4ozGCa5Tz"
+      },
+      "artists": [
+        {
+          "name": "Patrick Podage",
+          "url": "https://open.spotify.com/artist/7iuZjXDugV2YunAMWauN0F"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447096,
+      "name": "Follow The Lead",
+      "url": "https://open.spotify.com/track/2KvWrnqhS7UfHlhYXrlqcV"
+    },
+    {
+      "album": {
         "name": "Speicher 33",
         "url": "https://open.spotify.com/album/3EvsE2DqzKGl6UcThEhtlz"
       },
@@ -831,6 +911,24 @@
     },
     {
       "album": {
+        "name": "That Record With Friends On It",
+        "url": "https://open.spotify.com/album/7BS3DH6pneZw3VwuX1FJuo"
+      },
+      "artists": [
+        {
+          "name": "Tech Support",
+          "url": "https://open.spotify.com/artist/1q9DdIVexjOaCYVpMJnOmq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372741,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/1zrD9siDiFNYPJ9wQNYhU8"
+    },
+    {
+      "album": {
         "name": "Memento Mori",
         "url": "https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q"
       },
@@ -842,7 +940,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 238945,
       "name": "Ghosts Again",
       "url": "https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf"
@@ -1307,6 +1405,46 @@
     },
     {
       "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
+    },
+    {
+      "album": {
+        "name": "Kick It (Club Version)",
+        "url": "https://open.spotify.com/album/2StcgtgaUeDocIlHnEvLXS"
+      },
+      "artists": [
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "AKA Lui",
+          "url": "https://open.spotify.com/artist/4ZCvesZqn6v6oJRBtvR5xx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477096,
+      "name": "Kick It - Club Version",
+      "url": "https://open.spotify.com/track/5m2rVz0urzUomLJrRUsA9S"
+    },
+    {
+      "album": {
         "name": "Kings & Queens",
         "url": "https://open.spotify.com/album/57N4CzLOa2UnTf8WG3I6u0"
       },
@@ -1326,6 +1464,24 @@
       "duration_ms": 307500,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/4FltqWgq9lNJhYHnOMjJ7s"
+    },
+    {
+      "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237826,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
     },
     {
       "album": {
@@ -1561,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4fbfSC8PRmDXYHQrol9IEZ"
+      },
+      "artists": [
+        {
+          "name": "Closer Musik",
+          "url": "https://open.spotify.com/artist/2j7JwncWKK8w0Lfb2xjKdy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307709,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6d5fwsXEP3U0h5qD1JizGG"
+    },
+    {
+      "album": {
         "name": "Louden Up Now",
         "url": "https://open.spotify.com/album/6D46fenYr525Ozdrd5k9ua"
       },
@@ -1576,6 +1750,28 @@
       "duration_ms": 542893,
       "name": "Me and Guiliani Down by the School Yard - A True Story",
       "url": "https://open.spotify.com/track/4sOqyIRocvZURPrjsOrn3x"
+    },
+    {
+      "album": {
+        "name": "Memories (Gui Boratto Remix)",
+        "url": "https://open.spotify.com/album/3ria9lD64o9Ys0Z2Nfz0XD"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "Memories - Gui Boratto Remix",
+      "url": "https://open.spotify.com/track/4pymny7B9v2m1y2muDYQ4Y"
     },
     {
       "album": {
@@ -1879,6 +2075,28 @@
     },
     {
       "album": {
+        "name": "Sevilla",
+        "url": "https://open.spotify.com/album/4F2X3Z2cnNKbZPylb6ZhdC"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Fernanda Ouro",
+          "url": "https://open.spotify.com/artist/226GKyqOgh2SXoJ8lHaEBe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354374,
+      "name": "NO8DO - Plaza Edit",
+      "url": "https://open.spotify.com/track/6nkuxT71Ze6bi3fNxOUO2K"
+    },
+    {
+      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -1912,6 +2130,24 @@
       "duration_ms": 349693,
       "name": "oh baby",
       "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
+    },
+    {
+      "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325160,
+      "name": "Orozco",
+      "url": "https://open.spotify.com/track/1dzEjFQAJBmewLjPzD8B3t"
     },
     {
       "album": {
@@ -2197,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Anything in Return",
+        "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253119,
+      "name": "Rose Quartz",
+      "url": "https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1"
+    },
+    {
+      "album": {
         "name": "Silver Linings Remixed",
         "url": "https://open.spotify.com/album/02E7iwwppG1VOSoP6JdY66"
       },
@@ -2255,6 +2509,32 @@
     },
     {
       "album": {
+        "name": "Energetic (Remixes), Pt. 2",
+        "url": "https://open.spotify.com/album/493zJ8N1NNR0g6Vk5vtHNe"
+      },
+      "artists": [
+        {
+          "name": "Mathias Kaden",
+          "url": "https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S"
+        },
+        {
+          "name": "Zo\u00eb Xenia",
+          "url": "https://open.spotify.com/artist/5HrUbYq85HT5B1dtYrh3fg"
+        },
+        {
+          "name": "Pulshar",
+          "url": "https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379678,
+      "name": "Soulmakers - Pulshar Remix",
+      "url": "https://open.spotify.com/track/2Z8opQRSukV6Wc7IdtVoZj"
+    },
+    {
+      "album": {
         "name": "Sounds Of Blue (Gui Boratto Remix)",
         "url": "https://open.spotify.com/album/7KXjPDhqYbbXNPUGKdlpAU"
       },
@@ -2292,6 +2572,24 @@
       "duration_ms": 444653,
       "name": "Spacer Woman - Vocal Mix",
       "url": "https://open.spotify.com/track/6bhFPL4VvCSyh0Dow2P8A3"
+    },
+    {
+      "album": {
+        "name": "DJ-Kicks (Maceo Plex) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2IKQbqaZhhEnTI6ha9udxP"
+      },
+      "artists": [
+        {
+          "name": "Monsters From ID",
+          "url": "https://open.spotify.com/artist/0Xxn1O431zevNZYg6X2ZoA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257032,
+      "name": "Spatial Lobe - Mixed",
+      "url": "https://open.spotify.com/track/57QEqFOJKkr8fGkYG1XkPH"
     },
     {
       "album": {
@@ -2361,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234300,
+      "name": "Sunset Drive",
+      "url": "https://open.spotify.com/track/7zybSU9tFO9HNlwmGF7stc"
+    },
+    {
+      "album": {
         "name": "\u00c1g\u00e6tis byrjun",
         "url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC"
       },
@@ -2376,6 +2692,24 @@
       "duration_ms": 606850,
       "name": "Svefn-g-englar",
       "url": "https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu"
+    },
+    {
+      "album": {
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/5rEo4lfkEQabpJ1WpA6Drf"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252245,
+      "name": "Swimswimswim",
+      "url": "https://open.spotify.com/track/37UcMho3b1s8HcS6dG9N2x"
     },
     {
       "album": {
@@ -2531,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "The Swindle",
+        "url": "https://open.spotify.com/album/1K5dJda1NZP3tG14aX3oBA"
+      },
+      "artists": [
+        {
+          "name": "Mihai Popoviciu",
+          "url": "https://open.spotify.com/artist/0NkrYKqkzWI0pilb6ko9uM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479201,
+      "name": "The Swindle",
+      "url": "https://open.spotify.com/track/2tw8IMRIVSAfdRgHJD5ncE"
+    },
+    {
+      "album": {
         "name": "The Vase",
         "url": "https://open.spotify.com/album/0yy7hj0ZpYa98Qxnlt125H"
       },
@@ -2546,6 +2898,24 @@
       "duration_ms": 653839,
       "name": "The Vase",
       "url": "https://open.spotify.com/track/5UowxN23FGcjucbVrnpIOE"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216751,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM"
     },
     {
       "album": {

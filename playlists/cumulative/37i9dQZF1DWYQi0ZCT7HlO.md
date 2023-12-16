@@ -2,7 +2,7 @@
 
 ### [Christmas Piano by the Fireplace](https://open.spotify.com/playlist/37i9dQZF1DWYQi0ZCT7HlO)
 
-> Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside to warm up with.
+> Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
 58 songs - 2 hr 31 min
 

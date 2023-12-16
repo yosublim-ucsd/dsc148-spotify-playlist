@@ -2633,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "Manipuler",
+        "url": "https://open.spotify.com/album/56QZ4sVP7l63GykMdGp9wh"
+      },
+      "artists": [
+        {
+          "name": "Iliana",
+          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156144,
+      "name": "Manipuler",
+      "url": "https://open.spotify.com/track/0cyOhlRd9F8PHyqHEKeiTg"
+    },
+    {
+      "album": {
         "name": "Mauvais gar\u00e7on",
         "url": "https://open.spotify.com/album/1ZA1hPGaEm7bbUVt6oDOYQ"
       },

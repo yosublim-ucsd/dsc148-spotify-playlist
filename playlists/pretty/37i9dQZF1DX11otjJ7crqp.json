@@ -1,13 +1,249 @@
 {
   "description": "Essential new pop tracks. Cover: FLETCHER",
-  "num_followers": 70913,
+  "num_followers": 70952,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2Q2NzJjMDI1NzVhNmU3MjBiOTFmN2NkMDk3N2ZlNTVhZDdkMGM2",
+  "snapshot_id": "MCw3ZmYxNTU3YjI1M2VhMzVlOThlZDU3NTQ3ZjhlNzdlNDdjMmZmZTdi",
   "tracks": [
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Passionate",
+        "url": "https://open.spotify.com/album/0HRDrAf6GrC3yzIrsDTTaF"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "Passionate",
+      "url": "https://open.spotify.com/track/5TrEgRKwwmmfNx4KN8usfU"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Lovely Day (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "Lovely Day - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "You & Me Makes Us",
+        "url": "https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "DEEGAN",
+          "url": "https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi"
+        }
+      ],
+      "duration_ms": 176055,
+      "name": "You & Me Makes Us",
+      "url": "https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Not My Fault (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Don't Need to Sleep",
+        "url": "https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 188875,
+      "name": "Don't Need to Sleep",
+      "url": "https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "hold it down",
+        "url": "https://open.spotify.com/album/753H3OAYnndq1otPKdgj4P"
+      },
+      "artists": [
+        {
+          "name": "we're ok!",
+          "url": "https://open.spotify.com/artist/4HZ5fqzmMUI1khzRpOeZBP"
+        },
+        {
+          "name": "Emily Vaughn",
+          "url": "https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2"
+        },
+        {
+          "name": "Joseph Tilley",
+          "url": "https://open.spotify.com/artist/12knc5DPOIJKd0qEeYaDVm"
+        }
+      ],
+      "duration_ms": 123571,
+      "name": "hold it down",
+      "url": "https://open.spotify.com/track/2AmpnCFtpxHZVCNBanT3hL"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/5gq8nJ80bbp7GlhuW6n9qK"
+      },
+      "artists": [
+        {
+          "name": "Jake Miller",
+          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/4uC7GIhUSVPZoJStTsQJYf"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Broken Face",
+        "url": "https://open.spotify.com/album/5jxdGCLfFNNRvfkIIVC1IS"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 172168,
+      "name": "Broken Face",
+      "url": "https://open.spotify.com/track/2Ss8ae4buw5Lq5O2F9YVoa"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/5rnutWsxDlAvEgju4iCO7z"
+      },
+      "artists": [
+        {
+          "name": "Alex Aiono",
+          "url": "https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/1dtc2hcmpcTuCeXSwmPTe2"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/34Hs2lyzBc9ORd5X0a1m1w"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        },
+        {
+          "name": "Tayler Buono",
+          "url": "https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Dear Life",
+      "url": "https://open.spotify.com/track/6WD4zuRFRzfH7pLenncQON"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Girls Just Wanna",
+        "url": "https://open.spotify.com/album/5nxQak3UtJ8UARd6u3v0SX"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 130478,
+      "name": "Girls Just Wanna",
+      "url": "https://open.spotify.com/track/3jlxGtWO91pqDHD3Nb00ku"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "don't break my...",
+        "url": "https://open.spotify.com/album/4H3mkT4AxfYkDpdVR1mafr"
+      },
+      "artists": [
+        {
+          "name": "Kenzie Cait",
+          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
+        }
+      ],
+      "duration_ms": 130642,
+      "name": "don't break my...",
+      "url": "https://open.spotify.com/track/4IobQL4j9hi0KdYoRFA4n9"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "UFHO",
+        "url": "https://open.spotify.com/album/6RSzn0zreMMYliXT0L1E9k"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 131117,
+      "name": "UFHO",
+      "url": "https://open.spotify.com/track/2g3pFa3ySgKc86ZzcgBts5"
+    },
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {

@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-705 songs - 1 day 18 hr 33 min
+707 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Cherry](https://open.spotify.com/track/4sRmzVSedvFkENbSJ342Ex) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Cherry \(Deluxe\)](https://open.spotify.com/album/6OqegZkCUq29CJarqL8trP) | 4:31 | 2022-07-22 | 2023-10-24 |
 | [Chewing Gum](https://open.spotify.com/track/3jxExv27cf3OSt0BXtAR6Z) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:23 | 2022-05-06 | 2022-05-08 |
 | [Circles](https://open.spotify.com/track/4EdKkFTADTOnzjZx0ek57X) | [The Amazing](https://open.spotify.com/artist/16f3WYlA4miISj20MG5J30) | [Picture You](https://open.spotify.com/album/5GyjftTci65k0lr3TTnh9t) | 6:20 | 2020-12-21 | 2022-04-21 |
+| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-11-21 |  |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2020-12-21 | 2022-04-17 |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2022-07-22 | 2023-10-24 |
 | [Cold War](https://open.spotify.com/track/3l1QX9fhldeI23AlON5iY3) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/0I55n0pRuelv0nfZHKhA8f) | 3:23 | 2020-12-21 | 2022-07-29 |
@@ -367,7 +368,7 @@
 | [Let's Go to Trader Joe's](https://open.spotify.com/track/69j9dsNUQQPBab9vCBu99r) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Cinya Khan](https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 2:36 | 2023-11-21 |  |
 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 | 2022-07-20 | 2022-10-08 |
 | [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-08-12 | 2023-10-24 |
-| [Like a Pie](https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [No Pressure at All](https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ) | 2:17 | 2023-11-21 |  |
+| [Like a Pie](https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [No Pressure at All](https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ) | 2:17 | 2023-11-21 | 2023-12-16 |
 | [Like That](https://open.spotify.com/track/5490nPSAaHMvDhmIQQgMp4) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [5 for U](https://open.spotify.com/album/4471ljhgdoqBKAiLmeb4bI) | 4:20 | 2023-10-17 | 2023-11-18 |
 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 | 2023-05-25 | 2023-11-23 |
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2020-12-21 | 2022-08-17 |
@@ -550,7 +551,7 @@
 | [She's Just the Type of Girl](https://open.spotify.com/track/79ri2kyVbP57qMLfNDHI3S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:41 | 2023-11-21 |  |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2022-12-01 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2020-12-21 | 2022-07-13 |
-| [Show Me How \- Live at RBC Echo Beach](https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Live at RBC Echo Beach](https://open.spotify.com/album/5r70krK838xAiHP8t0algB) | 3:33 | 2023-10-17 |  |
+| [Show Me How \- Live at RBC Echo Beach](https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Live at RBC Echo Beach](https://open.spotify.com/album/5r70krK838xAiHP8t0algB) | 3:33 | 2023-10-17 | 2023-12-16 |
 | [Silent Moon](https://open.spotify.com/track/5KJFcDDzmaf1xlaOkzcmWj) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dad's Old Tapes](https://open.spotify.com/album/4qrjeTgHr22oG9piwLhsxA) | 4:13 | 2023-10-17 | 2023-11-18 |
 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 | 2021-06-25 | 2022-04-26 |
 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 | 2020-12-21 | 2022-04-18 |
@@ -621,6 +622,7 @@
 | [TEENAGE FEVER](https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Cerulean Tapes](https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M) | 4:16 | 2023-08-18 |  |
 | [temporary nothing](https://open.spotify.com/track/0Szyn0SgWSx5z1tw87zbOv) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1KHgVqga6vV89zAQ2X9MMg) | 3:07 | 2020-12-21 | 2022-04-14 |
 | [Thanks 4 Nothing](https://open.spotify.com/track/6brwAQ6P9ypRb7S8IvtYcx) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Do You Like Pain?](https://open.spotify.com/album/0KZRvIcM5bkQeQGgPfDixh) | 4:47 | 2020-12-21 | 2022-04-19 |
+| [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 | 2023-11-24 |  |
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2022-07-22 | 2023-10-24 |
 | [The Barrel](https://open.spotify.com/track/3s71tbgmSN9TfJLj4D18Mt) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 4:59 | 2020-12-21 | 2022-04-20 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2023-01-04 | 2023-06-17 |

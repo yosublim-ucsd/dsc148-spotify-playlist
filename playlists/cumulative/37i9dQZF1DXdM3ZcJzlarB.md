@@ -2,9 +2,9 @@
 
 ### [mint argentina](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
+> Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Pyura
 
-105 songs - 12 hr 9 min
+107 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Cerca](https://open.spotify.com/track/1hbK6LHdQBxgtVJIOLnbVl) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Marco Viera](https://open.spotify.com/artist/348ec6yd9QpDujVnSPoe2P) | [Cerca EP](https://open.spotify.com/album/68Zl4ptqDpo84aNs9TDTau) | 6:20 | 2023-11-17 |  |
 | [Club Del Ocio \- Andrés Moris Remix](https://open.spotify.com/track/0rqfIHj0GdqQ5P9xI2pHMb) | [Madloch](https://open.spotify.com/artist/3iLQiB17qiXyeTKSD8sr2w), [Subnode](https://open.spotify.com/artist/3LLW1zLSHWxtqCLXOBGYD6), [Andrés Moris](https://open.spotify.com/artist/5xF3czoOZ49p8AvxtYLzYy) | [Club Del Ocio \(Andrés Moris Remix\)](https://open.spotify.com/album/2CMALeumdcEHx6QUrPc3Z4) | 7:56 | 2023-11-17 |  |
 | [Confidence](https://open.spotify.com/track/1DOHyT1tEtZYh8J9jvLGzq) | [Ktrina](https://open.spotify.com/artist/2NW4Gi5HSZrdLpv8MLxL1T), [Geronimo](https://open.spotify.com/artist/37m1wNFQCAtqHDbR30zrAw) | [Confidence](https://open.spotify.com/album/0I8YY90QY7xv31VmPKNJkN) | 5:12 | 2023-11-17 |  |
-| [COPENHAGUE](https://open.spotify.com/track/2EmVWDyNM4DJuyiEOuVCkx) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:33 | 2023-11-17 |  |
+| [COPENHAGUE](https://open.spotify.com/track/2EmVWDyNM4DJuyiEOuVCkx) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:33 | 2023-11-17 | 2023-12-16 |
+| [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 | 2023-12-15 |  |
 | [Deep Blue](https://open.spotify.com/track/2TwTdjD7lHnozBQQryPoyT) | [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx) | [Deep Blue](https://open.spotify.com/album/1bTs3ExHXuljU7uTi1wOZA) | 3:04 | 2023-11-17 |  |
 | [Desde El Oceano](https://open.spotify.com/track/43DCA32pZIcXt1OY1YvyCi) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Technical Progress, Vol\. 7 \(Compiled by Stergios Sigma & Mike T\)](https://open.spotify.com/album/2FAhMFku8qW0Jv3THYvpvj) | 8:54 | 2020-09-04 | 2023-11-18 |
 | [Desde El Oceano](https://open.spotify.com/track/4RvnwukV6qD5L5PsQDib4C) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Stay Home, Vol\. 017](https://open.spotify.com/album/0YJk6w2qDhT9P1yA2PJNsZ) | 8:54 | 2020-09-04 | 2022-07-29 |
@@ -88,6 +89,7 @@
 | [Plexo](https://open.spotify.com/track/1GtBfYQR8FJig0YiYNjedr) | [FunkState](https://open.spotify.com/artist/6V83rdyRMOwknBz8d4UKng) | [Plexo](https://open.spotify.com/album/7e0MJ7cxWWFKAwkzMUui6J) | 7:04 | 2020-09-04 | 2023-11-18 |
 | [Prana Vayu](https://open.spotify.com/track/3QknknkTXnwcy8gEOiTxQY) | [Berni Turletti](https://open.spotify.com/artist/1lhA46N6VsjJDN8wQccLtW) | [Prana Vayu](https://open.spotify.com/album/38SCAuXZIlAXKcqq6xw2VH) | 8:32 | 2023-11-17 |  |
 | [Reliance \- Original Mix](https://open.spotify.com/track/5N6kCxZHx2gXSvshCBP1K6) | [Eze Ramirez](https://open.spotify.com/artist/3Opa18T1i19my4JhThTWiw) | [My Pleasures](https://open.spotify.com/album/127OqDJSx9zNsu5AnwbPjF) | 7:06 | 2020-09-04 | 2023-11-18 |
+| [Revolver](https://open.spotify.com/track/0Ra80nnt0fgglrQx7mjpSU) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF), [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [The Mambo EP](https://open.spotify.com/album/1kqrRoUWXRn2OmfWxytR5F) | 8:21 | 2023-12-15 |  |
 | [Rhapsody](https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Rhapsody](https://open.spotify.com/album/3o67s2rF1XBkueTauBJ9jm) | 5:24 | 2020-09-04 | 2023-11-18 |
 | [Ritual of Love](https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR) | 8:18 | 2020-09-04 | 2023-09-10 |
 | [Ritual of Love](https://open.spotify.com/track/7mcixcEvf5YTyTtx541vuM) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/2fbePD3aAPGImmJxY4adPn) | 8:18 | 2020-09-04 | 2023-11-18 |

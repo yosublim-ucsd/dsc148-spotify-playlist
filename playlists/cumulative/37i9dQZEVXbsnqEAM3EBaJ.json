@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 211005,
       "name": "1 AND 1",
       "url": "https://open.spotify.com/track/7HwVsGcBua5RD0XcIvmYKM"
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 235640,
       "name": "Bittersweet - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 217847,
       "name": "Burn MF (feat Rob Zombie)",
       "url": "https://open.spotify.com/track/1kX3ylcsV6CICzRfwLOnq0"
@@ -5224,7 +5224,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 243448,
       "name": "EL CABALLO Y EL NI\u00d1O",
       "url": "https://open.spotify.com/track/5g8C9WqETMlujruYdxCoen"
@@ -6242,7 +6242,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 227426,
       "name": "Follow The Reaper - Final Show in Helsinki Ice Hall 2019",
       "url": "https://open.spotify.com/track/3zC4RUrTFhIEjXkMnuiiV1"
@@ -7152,7 +7152,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 144072,
       "name": "Guitar Solo (Neal Schon) - Live",
       "url": "https://open.spotify.com/track/2NWbOuarPwAo7G3erN0xjI"
@@ -9709,6 +9709,24 @@
     },
     {
       "album": {
+        "name": "Hackney Diamonds (Live Edition)",
+        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334204,
+      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
+      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: The Seasons, Op. 37a",
         "url": "https://open.spotify.com/album/3fnH6D6hS1djsoUdWJocK5"
       },
@@ -11157,6 +11175,28 @@
     },
     {
       "album": {
+        "name": "Losing My Religion (Mikosonic Remix)",
+        "url": "https://open.spotify.com/album/2WqNxDv6awfT6Il4hiTvDq"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        },
+        {
+          "name": "Mikosonic",
+          "url": "https://open.spotify.com/artist/1wy0gDq3U3T5dA9Pzay47k"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192951,
+      "name": "Losing My Religion - Mikosonic Remix",
+      "url": "https://open.spotify.com/track/3MjnG4Xw81GU5JX50srgvz"
+    },
+    {
+      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/7cSjOM6t4Sg5a8WJ4qW2hi"
       },
@@ -12585,6 +12625,24 @@
     },
     {
       "album": {
+        "name": "Nacimos Solos (Banda Sonora Original de la serie \"Zorro\")",
+        "url": "https://open.spotify.com/album/2XwdwHP5q4aUn553Rcrp2H"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172853,
+      "name": "Nacimos Solos - Banda Sonora Original de la serie \"Zorro\"",
+      "url": "https://open.spotify.com/track/3775mRz3EYGa9gdmqlh1T4"
+    },
+    {
+      "album": {
         "name": "Como Asesinar a Felipes (remastered)",
         "url": "https://open.spotify.com/album/6ePG8JBkPJb8dmyjnMETzW"
       },
@@ -13042,7 +13100,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 209293,
       "name": "Nocturnal Fear (Celtically Processed)",
       "url": "https://open.spotify.com/track/7weyREHgfGWpKJDBRzUFo1"
@@ -13162,6 +13220,24 @@
       "duration_ms": 206804,
       "name": "Numb - Live at Metal Church",
       "url": "https://open.spotify.com/track/2bgx3oEAX3rrxDa0wjkn9e"
+    },
+    {
+      "album": {
+        "name": "Leviathan III",
+        "url": "https://open.spotify.com/album/5eZNazLt5qKRz4bruPUu3S"
+      },
+      "artists": [
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150266,
+      "name": "Nummo",
+      "url": "https://open.spotify.com/track/5VrlMbxzsWqkdDEd2GZZvl"
     },
     {
       "album": {
@@ -15335,6 +15411,24 @@
     },
     {
       "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196837,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S"
+    },
+    {
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/0VEGkgBCCQJuSVrNNEbtHw"
       },
@@ -16487,6 +16581,28 @@
     },
     {
       "album": {
+        "name": "Still Not Getting Any Sleep",
+        "url": "https://open.spotify.com/album/4I4mQUzDqkUS5fXorBtPF0"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293590,
+      "name": "Shut Up!",
+      "url": "https://open.spotify.com/track/6gs0NGgd2C9jkhzaCtUj9p"
+    },
+    {
+      "album": {
         "name": "Live In El Paso 1980",
         "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
       },
@@ -16904,7 +17020,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 203080,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/6nfrIohSDBQvBX6rlHWEVO"
@@ -16922,7 +17038,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 203080,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/7nrvvUfMUXdPf0McTsDFti"
@@ -17543,6 +17659,24 @@
     },
     {
       "album": {
+        "name": "Migration (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/743FRH3bqa4Lac8U9fJa78"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Survivor (Full Version)",
+      "url": "https://open.spotify.com/track/4NVJ6YedmGvLHKBkRMCCVs"
+    },
+    {
+      "album": {
         "name": "Dark Academia - Edition I",
         "url": "https://open.spotify.com/album/7Agp69I1p5qufi98DDxzAP"
       },
@@ -17690,10 +17824,32 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 459741,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga) - Live at Racket, NYC",
       "url": "https://open.spotify.com/track/5vo05MN3AjGdbiTtnw5jbg"
+    },
+    {
+      "album": {
+        "name": "Hackney Diamonds (Live Edition)",
+        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459741,
+      "name": "Sweet Sounds Of Heaven - Live at Racket, NYC",
+      "url": "https://open.spotify.com/track/6Uazt0Y1PzoXCFjN7jkotc"
     },
     {
       "album": {
@@ -21276,6 +21432,32 @@
       "duration_ms": 162356,
       "name": "What If There Were No Sides At All",
       "url": "https://open.spotify.com/track/2yzFHrj9wQLkBtF87dwIHh"
+    },
+    {
+      "album": {
+        "name": "What We're Up Against",
+        "url": "https://open.spotify.com/album/3LxpLZIrctTM8oLFrSD3VG"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Elize Ryd",
+          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
+        },
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "What We're Up Against feat. Elize Ryd of Amaranthe",
+      "url": "https://open.spotify.com/track/7BfZXCDOxgbzeQnXJfzjDr"
     },
     {
       "album": {

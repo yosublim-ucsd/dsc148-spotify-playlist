@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/324613?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,146 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,193 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [ダレカ](https://open.spotify.com/track/6lp7sXjH7jj8Hy9aIYSwVC) | [Thinking Dogs](https://open.spotify.com/artist/09bKUD807BdDQb21HLz0Lq) | [FAQ](https://open.spotify.com/album/7GtgP4pcUclzhG8BgFOszR) | 3:35 |
 | 80 | [お祝い](https://open.spotify.com/track/70R4kcMkdb6UueiRfNUR9N) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [お祝い/萌芽](https://open.spotify.com/album/2Ak5HCnM63B3frzikGOHQv) | 4:21 |
 
-Snapshot ID: `MCwzNzAyNmJiMGIxNWM0NmUzYzJlYTIzY2E2ZTY4NDUzMmEyNjJlMTU0`
+Snapshot ID: `MCxkNWZiYmQxOGJmZTU3NGRjZTk1YzlmZjVlZmYyZGYzZDU2ZTMzODZk`

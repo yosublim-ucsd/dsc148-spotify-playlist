@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-07",
-  "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: YouNotUs, SERA",
+  "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: SERA, YouNotUs",
   "name": "Dance Brandneu",
   "tracks": [
     {
@@ -3240,6 +3240,10 @@
         {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
       "date_added": "2023-12-14",
@@ -4850,10 +4854,32 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 144104,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/4Gh5m12mee8uyHfFeVLJnZ"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0voMWxbr0bYMxBReoyPkZC"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Lavinia Hope",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144104,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/6vFGXhwRFDG7301VGpUfy2"
     },
     {
       "album": {

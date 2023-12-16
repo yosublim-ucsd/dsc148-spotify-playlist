@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Mr Man (Dusky Revisit)",
+        "url": "https://open.spotify.com/album/7azyENMb9wOHFWoRShPs0x"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314295,
+      "name": "Mr Man - Dusky Revisit",
+      "url": "https://open.spotify.com/track/20kMYR1urcBTumqu7A9mub"
+    },
+    {
+      "album": {
         "name": "My Mother Was A Synthesizer",
         "url": "https://open.spotify.com/album/6fN16ql9IGuF2mpChQbIYO"
       },
@@ -670,7 +688,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 208000,
       "name": "Snow Day",
       "url": "https://open.spotify.com/track/4om6fOW3uXnGWfTSmLDfwq"
@@ -714,6 +732,24 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216751,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM"
     },
     {
       "album": {
@@ -786,7 +822,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 158418,
       "name": "Your Depth Of Imagination",
       "url": "https://open.spotify.com/track/3RFMabGRVnc46cWqceyT9W"

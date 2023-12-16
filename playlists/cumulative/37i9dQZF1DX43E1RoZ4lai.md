@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-414 songs - 1 day 12 hr 48 min
+415 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Farbenlehre](https://open.spotify.com/track/04P9FtFkN7rHipt52aM6E5) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Christian Weber](https://open.spotify.com/artist/6p18gAI7K7nuCFyqbqJcmZ), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg) | [Oslo](https://open.spotify.com/album/2221mPPi9Hcd2AQQBBQ5ab) | 3:21 | 2022-02-10 | 2022-07-22 |
 | [Fascinating Rhythm.](https://open.spotify.com/track/71NarEYn0jwMqcvdq9Uq2z) | [Guy Mintus Trio](https://open.spotify.com/artist/6AV0yd6NDoecPNG1HvFyvt) | [A Gershwin Playground](https://open.spotify.com/album/0DC58UO1vzq92evwau1rNu) | 10:21 | 2022-02-10 | 2022-07-31 |
 | [Feira de Mangaio](https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK) | [Trio Corrente](https://open.spotify.com/artist/2CJ5GDZmO801WYjUTvSAis), [Edu Ribeiro](https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX), [Fabio Torres](https://open.spotify.com/artist/5TJUHR3NQ7KfmQq7VI8Fnh), [Paulo Paulelli](https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y) | [Sincronia](https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0) | 6:35 | 2022-02-10 |  |
-| [Feldgrau](https://open.spotify.com/track/2N2KnRruCRlQw2J2buS9tJ) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Viridian](https://open.spotify.com/album/0KsCfzrnCh37kVzNIi9dM3) | 5:02 | 2022-03-07 |  |
+| [Feldgrau](https://open.spotify.com/track/2N2KnRruCRlQw2J2buS9tJ) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Viridian](https://open.spotify.com/album/0KsCfzrnCh37kVzNIi9dM3) | 5:02 | 2022-03-07 | 2023-12-16 |
 | [Fellowship](https://open.spotify.com/track/1QA6L3kxug6hTpPIOInH7r) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/3YTvz5YwqUCGOQhbvk1aEs) | 6:57 | 2022-02-10 | 2022-07-29 |
 | [Fellowship](https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:57 | 2022-02-10 | 2022-09-03 |
 | [Fig Foot](https://open.spotify.com/track/1HaZ1JfPZKZpgwFS9RdMTp) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Not Two, Not One](https://open.spotify.com/album/2T1wPOSkQiao3xI27f9SoO) | 5:39 | 2022-02-10 | 2022-07-27 |
@@ -160,6 +160,7 @@
 | [In Memory](https://open.spotify.com/track/4M7Hi6wUOQ7ECOup83DYov) | [Tingvall Trio](https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M) | [Dance](https://open.spotify.com/album/1KDGAEkezlMWQ46iXhVuok) | 5:18 | 2022-02-10 | 2022-09-03 |
 | [In Motion, Pt\. 1](https://open.spotify.com/track/1QD5K2FWd9Z2g94LBacKzr) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [In Motion, Pt\. 1](https://open.spotify.com/album/2PLSvQLZJAn0bNpUiep3ot) | 5:22 | 2022-02-10 |  |
 | [In Our Time](https://open.spotify.com/track/2wTB1uX6A223d7VkA7vmnE) | [Victor Gould](https://open.spotify.com/artist/37MrIQfFRvlCAidwFyY8RY) | [In Our Time](https://open.spotify.com/album/6hDNnQWpJ8dlfpNw6XKifQ) | 4:25 | 2022-02-10 | 2023-11-13 |
+| [In Place](https://open.spotify.com/track/2EQ4o9Bxfi9R4Xw9pty8Ae) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA) | 5:08 | 2022-02-25 |  |
 | [In Place](https://open.spotify.com/track/3U7QS0oySVgb5vL3ZJsD3P) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:08 | 2022-02-25 | 2023-10-18 |
 | [In The Night](https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E) | [Stefania Tallini](https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb), [Matteo Bortone](https://open.spotify.com/artist/6Igu2eu1zPLL09auCGQqS8), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [Uneven](https://open.spotify.com/album/5q8nd3LqfzNaOfrv9VRhG8) | 4:00 | 2022-02-10 | 2022-09-03 |
 | [In viaggio verso Nizza](https://open.spotify.com/track/7lW9wItya6Ov9e3fuL2Prx) | [Danilo Madonia](https://open.spotify.com/artist/14lGCmKZJtOvOPqYAe2Jst), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR), [Rosario Jermano](https://open.spotify.com/artist/7HlqpHfiosmHyjhM3reHba), [Flavio Ibba](https://open.spotify.com/artist/07cufUNz3TfQgFl1My3rap), [Elio Veniali](https://open.spotify.com/artist/40nbGvejD0aPzVSzloYeV1) | [In viaggio verso Nizza](https://open.spotify.com/album/1KqA7nxSeflGTGgyBHTJ2p) | 4:19 | 2022-04-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9182,
+  "num_followers": 9184,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTA5MixlNmZiNmM1YzcyMWNlMmY0MzNhMDUwZDU2YWU5N2I0ZWZhYzYxNTc1",
+  "snapshot_id": "MTA5NCw4YTZmMmRiMTVlMTVlNzIxYTFjNzM0MTRlMzJhODkzZDg5MTBjNWFl",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -345,20 +345,24 @@
       "url": "https://open.spotify.com/track/2loi3zjGZ2Cs1nDu6QHGe3"
     },
     {
-      "added_at": "2023-08-21 19:14:38",
+      "added_at": "2023-12-15 05:59:36",
       "album": {
-        "name": "Iris (Acoustic)",
-        "url": "https://open.spotify.com/album/3C6YfaOgmdH7A40A6JHuMU"
+        "name": "Landslide (Acoustic)",
+        "url": "https://open.spotify.com/album/6T983j5MMR8IYWzKHWyDaU"
       },
       "artists": [
         {
           "name": "Jonah Baker",
           "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        },
+        {
+          "name": "Reid Zingale",
+          "url": "https://open.spotify.com/artist/1ZjNNCAZ7gtZIVmLiCvKoq"
         }
       ],
-      "duration_ms": 182708,
-      "name": "Iris - Acoustic",
-      "url": "https://open.spotify.com/track/2bvnbXhGaMnl8QBYqzbHdD"
+      "duration_ms": 204796,
+      "name": "Landslide - Acoustic",
+      "url": "https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt"
     },
     {
       "added_at": "2023-03-23 11:57:58",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-133 songs - 10 hr 45 min
+134 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [feel me](https://open.spotify.com/track/7hsqpR9vgiLxWSoOTCBjNB) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [CUTE](https://open.spotify.com/album/6BvDmyz4nJ9ucotNDbEnWh) | 3:56 | 2023-04-13 |  |
 | [Fifty\-Phiphti](https://open.spotify.com/track/6nffBafJaZk3s8mNuph0ev) | [I'lls](https://open.spotify.com/artist/4bX7daXTJkeUBuBAI9Fmae) | [Fifty\-Phiphti / Asakusa](https://open.spotify.com/album/2Jg7q37DtuCfcoPqcceZKu) | 5:25 | 2022-07-29 | 2023-04-14 |
 | [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2023-04-13 |  |
-| [Fountains of the World](https://open.spotify.com/track/4mR5vaLDwq8pGUzA2DXgtj) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fountains of the World](https://open.spotify.com/album/3lRIRlLhAIFGLZqh10wCTW) | 3:11 | 2023-04-13 |  |
+| [Fountains of the World](https://open.spotify.com/track/4mR5vaLDwq8pGUzA2DXgtj) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fountains of the World](https://open.spotify.com/album/3lRIRlLhAIFGLZqh10wCTW) | 3:11 | 2023-04-13 | 2023-12-16 |
+| [Fountains of the World](https://open.spotify.com/track/5t2aFda4pHBeLf9maqXIG7) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fountains of the World](https://open.spotify.com/album/3ty1lyNi5hoZzVXY4M0yC3) | 3:11 | 2023-04-13 |  |
 | [Gasoline, Pt\. 2](https://open.spotify.com/track/76rWWUIdZ3QonRhUOzLjvS) | [Darcy Baylis](https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P) | [Days After Breaking](https://open.spotify.com/album/30UnTsr4oe3T2QzpKYt7OB) | 6:30 | 2022-07-29 | 2023-04-14 |
 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 | 2022-07-29 | 2023-04-14 |
 | [Gentle Romance](https://open.spotify.com/track/54BJDdU38sXG8mRO0KgDBS) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [Gentle Romance](https://open.spotify.com/album/3PoSc1ElaxLbLk8QQaunBn) | 6:07 | 2022-07-29 | 2023-04-14 |

@@ -4,10 +4,11 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-119 songs - 12 hr 29 min
+119 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/7i650ozZjXNUNT1AFqxAI4) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3myUaKhlvdBmSQlKxYugTQ) | 0:00 | 2022-07-23 |  |
 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 | 2022-07-23 | 2022-10-15 |
 | [A Glitch](https://open.spotify.com/track/3E14RZfj8Wt9WtFdJ0Qj6f) | [Planet Caravan](https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5) | [A Glitch](https://open.spotify.com/album/6SaEmxtunTWm1r2FgcQ5lH) | 6:14 | 2022-10-14 |  |
 | [Afiafi \- Islandman Remix](https://open.spotify.com/track/38AhDHElViAYUjbP7x1byB) | [AmuAmu](https://open.spotify.com/artist/7GzNbtoPAo9kVJbBG2eSlz), [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Afiafi](https://open.spotify.com/album/4AR7PXF4hQE7uExigOkvw0) | 5:28 | 2022-10-14 |  |
@@ -93,7 +94,6 @@
 | [Pulse VI](https://open.spotify.com/track/5GvqeuJ8c9a3x5rmdjh0Mn) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Pulse VI](https://open.spotify.com/album/0ZU01aBiNrTOe5WPCZxoHW) | 5:27 | 2022-10-14 | 2022-10-22 |
 | [Pulse VI](https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:27 | 2022-10-14 |  |
 | [Pulse VI](https://open.spotify.com/track/7LNKDRkuLunvJUpT79kYO3) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Red Light](https://open.spotify.com/album/2srVSncOOFBD9mH25YIJM8) | 5:27 | 2022-10-14 | 2022-11-14 |
-| [Punto Cero](https://open.spotify.com/track/7i650ozZjXNUNT1AFqxAI4) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi](https://open.spotify.com/artist/3y89DR1J1RB96pJUByabwi) | [Punto Cero](https://open.spotify.com/album/3myUaKhlvdBmSQlKxYugTQ) | 8:42 | 2022-07-23 |  |
 | [Queen of the Highway](https://open.spotify.com/track/0yMkBK3Mfe6zRZnqEAm30B) | [Kalaha Moon](https://open.spotify.com/artist/5ZzHOBBOXZdhypyaffUrJG) | [Queen of the Highway](https://open.spotify.com/album/2GC1gz92bTF1lDg1ttMjql) | 7:52 | 2022-07-23 |  |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2022-07-23 |  |
 | [Resiliencia](https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resiliencia](https://open.spotify.com/album/6WiwJthVBqLR7rd5tQ4jzz) | 4:49 | 2022-07-23 | 2022-10-13 |

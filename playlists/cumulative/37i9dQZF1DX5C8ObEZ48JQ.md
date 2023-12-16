@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds tracks from Africa this year\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=XU\-hT4i7TO\-GoA1GLDBjRA"> YKB </a>\. Artwork: Isu Kim.
 
-621 songs - 1 day 7 hr 25 min
+622 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,8 @@
 | [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 | 2023-03-29 |  |
 | [My Guy](https://open.spotify.com/track/3TTbM8DVf2ZE4nUWFmQPYA) | [Don Calya](https://open.spotify.com/artist/7wquJuUVLU8gxXP1YRSmFm), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [My Guy](https://open.spotify.com/album/76c4kYT3B0XLq5suV5lUCQ) | 2:25 | 2022-09-02 | 2022-10-01 |
 | [My Killa](https://open.spotify.com/track/5KOWD6wjr3SYferAnSVYt4) | [Wax](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Anjeli](https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC), [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4) | [SITW/My Killa](https://open.spotify.com/album/21QRyfpVgNvixeecZxqF7j) | 2:49 | 2022-09-02 | 2022-10-01 |
-| [My Life](https://open.spotify.com/track/0hFw0OeMn5wVSUFp4DJBFU) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [My Life](https://open.spotify.com/album/3RB22aNgGwRmZkyrt66Zj1) | 2:26 | 2023-01-25 |  |
+| [My Life](https://open.spotify.com/track/0hFw0OeMn5wVSUFp4DJBFU) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [My Life](https://open.spotify.com/album/3RB22aNgGwRmZkyrt66Zj1) | 2:26 | 2023-01-25 | 2023-12-16 |
+| [My Life](https://open.spotify.com/track/1f3q8XJyuf2nLBCJ0AqKWu) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [My Life](https://open.spotify.com/album/05zyTCB7U6SIpsPXEvtLnw) | 2:26 | 2023-11-29 |  |
 | [My Love Awaits](https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [DEDICATED](https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ) | 3:44 | 2023-11-29 |  |
 | [Nakabamba](https://open.spotify.com/track/5iujDDiu0gjbQ61RvamWeK) | [Hanstone](https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw) | [Nakabamba](https://open.spotify.com/album/7LCZP34ftubsPoBoGHB2M5) | 3:13 | 2023-03-29 | 2023-06-06 |
 | [Naked](https://open.spotify.com/track/7wK1jzZsnnHhltFheGhQyT) | [Bryan Cheru](https://open.spotify.com/artist/7lCzTXOAcnqLYNZM3xxBfo) | [747](https://open.spotify.com/album/3BcfEENadRFRQQdgNABKdA) | 1:55 | 2023-06-05 | 2023-06-28 |

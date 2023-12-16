@@ -4,11 +4,11 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-145 songs - 8 hr 36 min
+146 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Child Is Born](https://open.spotify.com/track/6lWQOwoNxotgEFuphJ19FU) | [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [A Child Is Born](https://open.spotify.com/album/0qHFbks8ePNTKHEev7RtAj) | 3:43 | 2021-11-12 |  |
+| [A Child Is Born](https://open.spotify.com/track/6lWQOwoNxotgEFuphJ19FU) | [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [A Child Is Born](https://open.spotify.com/album/0qHFbks8ePNTKHEev7RtAj) | 3:43 | 2021-11-12 | 2023-12-16 |
 | [A Child Is Born](https://open.spotify.com/track/2xoTSMtigVw64fJ9Ff5Tlk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:16 | 2021-11-12 | 2022-07-28 |
 | [A Child Is Born \- Remastered 2003](https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Together Again \(Remastered 2003\)](https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6) | 3:14 | 2021-11-12 |  |
 | [A Nightingale Sang In Berkeley Square \(duet with Gloria Estefan\)](https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined](https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare) | 4:59 | 2021-11-12 |  |
@@ -110,6 +110,7 @@
 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 | 2021-11-12 |  |
 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 | 2021-11-12 |  |
 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 | 2021-11-12 |  |
+| [Skating \(From "A Charlie Brown Christmas"\)](https://open.spotify.com/track/5KWaPLKMq7KIeuBwCw6WUu) | [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93), [Moisés Nieto](https://open.spotify.com/artist/6i5jeqNyrzyfDwIiAfNdyF) | [Skating \(From "A Charlie Brown Christmas"\)](https://open.spotify.com/album/3mVdS138yyCiejNGfKiuuY) | 2:47 | 2023-12-15 |  |
 | [Sleigh Ride](https://open.spotify.com/track/1YrVIuRdDYU9eWBBzw1QUC) | [Bill Cantos](https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D) | [Sleigh Ride](https://open.spotify.com/album/0NvuVQK17mnmE4hzALEuDZ) | 3:00 | 2022-11-25 |  |
 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 | 2021-11-12 |  |
 | [Sleigh Ride](https://open.spotify.com/track/7DvMep6G9cf4tJ85lGj0P3) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1) | [Blue Christmas](https://open.spotify.com/album/51un0U9tdv3Tnz6fZWlEKL) | 4:29 | 2023-09-22 | 2023-12-02 |

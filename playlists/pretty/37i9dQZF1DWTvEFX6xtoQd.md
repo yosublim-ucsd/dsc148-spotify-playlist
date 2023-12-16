@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 
 > 528 Hz solfeggio frequencies used by many to activate positive energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,321 likes - 137 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,417 likes - 137 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 | 124 | [Imagination Booster \(528 Hz Solfeggio Frequency\)](https://open.spotify.com/track/4ODuujsx5VRf6W7UfJv4uP) | [Marun Valenti](https://open.spotify.com/artist/0UFMKIKMcCZApRPCnS23pt) | [Imagination Booster \(528 Hz Solfeggio Frequency\)](https://open.spotify.com/album/1bekhuWpcVqb39OVKJQiW6) | 2:42 |
 | 125 | [528 Hz Morning Miracle](https://open.spotify.com/track/3DZulX7snXKBp91TG8tTje) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Morning Miracle](https://open.spotify.com/album/4A2KCK3kY9pOVWdmVmFWoW) | 3:02 |
 | 126 | [Miracles 528 Hz](https://open.spotify.com/track/2mFDUp9CvYn6mGtfhoiKk7) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 4:00 |
-| 127 | [528 Hz Manipura Chakra](https://open.spotify.com/track/6KkWAocfZ9bRqxwapOhPBb) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Solfeggio Frequency](https://open.spotify.com/album/5zW84fjGlZMEdgFzzwl2bo) | 3:21 |
+| 127 | [528 Hz Manipura Chakra](https://open.spotify.com/track/0xlxfh1Rl5wXfEq7z6uqRF) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Transformation & Miracles DNA Repair \(The Solar Plexus Chakra\)](https://open.spotify.com/album/7rxXRL2nVwner9Viwp31Ap) | 3:21 |
 | 128 | [528 Hertz \- Solar Plexus Chakra](https://open.spotify.com/track/3kEz4qG9NTVEYWBpuZQPus) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Solfeggio \#2](https://open.spotify.com/album/0hFVXILa2hJgT8aVZIlhya) | 3:29 |
 | 129 | [528 Hz Intercosmic](https://open.spotify.com/track/3qi2w7B2z4XwdpsT057YUq) | [Gereo Luna](https://open.spotify.com/artist/6K0fHaGkCN3DGCD3tRT5Ru) | [528 Hz Intercosmic](https://open.spotify.com/album/2sFzGlwOzJ1KegG4kwzgkb) | 2:15 |
 | 130 | [528 Hz Angelic Morning](https://open.spotify.com/track/3rPXQBQQ8LazrVuOI0X7d6) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 3](https://open.spotify.com/album/3dbNlAIfcmieBOZrhoI2Ll) | 2:52 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 | 136 | [Fundamental Balance 528Hz](https://open.spotify.com/track/4wBolRa7DIRoxHLKHmSfDc) | [Transcendent Solfeggio Frequencies](https://open.spotify.com/artist/4GUZWtXoW9tKcogKvdspjK) | [Fundamental Balance 528Hz](https://open.spotify.com/album/3jMtxmg0gPjsASjVDjrM6U) | 3:29 |
 | 137 | [Distant Shores](https://open.spotify.com/track/7g6FnYrGcwTSSlTVLA0gFh) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Solar Wind](https://open.spotify.com/album/16wm7HaUsJXzFIbW2yTTfi) | 2:57 |
 
-Snapshot ID: `MCwzMzZjOWY3NGRmNzAwMmQxNTNhNTM3MDdhMmNlODhlZGIzZDVhMzc5`
+Snapshot ID: `MCw4NGQxMTU4MTExMjU0YzkzMDQzMjY1OGJhNzgxZGNkMWRhY2QzMDIy`

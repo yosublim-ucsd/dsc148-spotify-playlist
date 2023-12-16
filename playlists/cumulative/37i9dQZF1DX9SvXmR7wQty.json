@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Jul",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lost",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/57YHJnI0jgOmfoCMnJtkoy"
+      },
+      "artists": [
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "48H",
+      "url": "https://open.spotify.com/track/3cYZm8Opme14PnSlJe7Fvw"
+    },
+    {
+      "album": {
         "name": "Rien n'a chang\u00e9",
         "url": "https://open.spotify.com/album/27CuGXzwlWOTrLdy9GzGBD"
       },
@@ -920,7 +938,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 237653,
       "name": "_sept magie mauve",
       "url": "https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky"
@@ -3844,7 +3862,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 275342,
       "name": "Big Pharma",
       "url": "https://open.spotify.com/track/2HhKYAgFjRf63cXqSMMr5w"
@@ -4916,6 +4934,24 @@
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "album": {
+        "name": "H\u00c9RITAGE (Deluxe)",
+        "url": "https://open.spotify.com/album/5bEAst4zPVbagufynpA9L2"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167641,
+      "name": "BUSINESS CLASS",
+      "url": "https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1"
     },
     {
       "album": {
@@ -6585,6 +6621,28 @@
     },
     {
       "album": {
+        "name": "CHF",
+        "url": "https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "Di-Meh",
+          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176299,
+      "name": "CHF",
+      "url": "https://open.spotify.com/track/6q2RqjaTbyl4foSZmbTl9t"
+    },
+    {
+      "album": {
         "name": "VOL 169 ATTERRISSAGE",
         "url": "https://open.spotify.com/album/7u3TOtAemTZ2eXT7JjNBCh"
       },
@@ -7518,7 +7576,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 171649,
       "name": "Commando",
       "url": "https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2"
@@ -9890,7 +9948,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 148133,
       "name": "Deux visages",
       "url": "https://open.spotify.com/track/6K1Hq4PNJrVJ81xZjXFLIb"
@@ -15921,6 +15979,28 @@
     },
     {
       "album": {
+        "name": "H\u00e9r\u00e9ditaire",
+        "url": "https://open.spotify.com/album/6GCDqMGLmIVudsDTFsR1t5"
+      },
+      "artists": [
+        {
+          "name": "Zagata",
+          "url": "https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ"
+        },
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "H\u00e9r\u00e9ditaire",
+      "url": "https://open.spotify.com/track/7z7NGgxgskYYCCBUpLE9Gz"
+    },
+    {
+      "album": {
         "name": "Le d\u00e9cor (\u00c9dition Limit\u00e9e 20e Anniversaire)",
         "url": "https://open.spotify.com/album/1bsip4q3j32HhjgLblNppT"
       },
@@ -21188,7 +21268,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 178216,
       "name": "La Vie Qu'on M\u00e8ne",
       "url": "https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re"
@@ -23518,7 +23598,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 156975,
       "name": "lettre \u00e0 maman",
       "url": "https://open.spotify.com/track/5dsvNYZiUOYoZWmmtWhOdw"
@@ -29046,7 +29126,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 190506,
       "name": "Onze",
       "url": "https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr"
@@ -32314,7 +32394,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 188093,
       "name": "Promets-moi",
       "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
@@ -35113,6 +35193,24 @@
     },
     {
       "album": {
+        "name": "Saturn Return (version fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/0vRzOVCDqAcr4temOQdIcn"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232331,
+      "name": "Saturn Return - version fran\u00e7aise",
+      "url": "https://open.spotify.com/track/6MIkxsfCxbFSTWeHGYBJgy"
+    },
+    {
+      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/6hAhnqdpxyyMd09u5FVjIT"
       },
@@ -37206,7 +37304,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 190696,
       "name": "Sur la glace",
       "url": "https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb"
@@ -37720,7 +37818,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 240000,
       "name": "TANNANCE",
       "url": "https://open.spotify.com/track/2p74T4FWsclCtwapawzKns"
@@ -40304,7 +40402,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 242360,
       "name": "Un morceau de Sicre",
       "url": "https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl"
@@ -40994,7 +41092,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 190815,
       "name": "Vautours",
       "url": "https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO"
@@ -41800,7 +41898,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 191416,
       "name": "Warda",
       "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"

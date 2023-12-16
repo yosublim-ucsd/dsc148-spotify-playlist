@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 160851,
       "name": "L.A.",
       "url": "https://open.spotify.com/track/7xHd8aFOX4O3VATKbaT12o"
@@ -2220,6 +2220,36 @@
       "duration_ms": 221100,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
+    },
+    {
+      "album": {
+        "name": "La Ruta 2 (Remix)",
+        "url": "https://open.spotify.com/album/3qt4XqW6StnIUKzRhKxBno"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Fulo El Yeyo",
+          "url": "https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295601,
+      "name": "La Ruta 2 - Remix",
+      "url": "https://open.spotify.com/track/4ooP7lycA7xq4HQnxxAPeK"
     },
     {
       "album": {
@@ -3065,6 +3095,28 @@
     },
     {
       "album": {
+        "name": "No Me Tocan",
+        "url": "https://open.spotify.com/album/6R68TZ2KRjaeDH3QarpOlq"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228391,
+      "name": "No Me Tocan",
+      "url": "https://open.spotify.com/track/0lLdwqrYSHDh55xxp2LOVg"
+    },
+    {
+      "album": {
         "name": "Smile Riddim",
         "url": "https://open.spotify.com/album/418F3f9pX5ZW5FJMFrCrJj"
       },
@@ -3621,6 +3673,40 @@
     },
     {
       "album": {
+        "name": "Polvo Sano (Remix)",
+        "url": "https://open.spotify.com/album/6rzmnY64zFToExBKAvPkKn"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Arez",
+          "url": "https://open.spotify.com/artist/7lkOYikCqUXJmw9mvuzojx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261648,
+      "name": "Polvo Sano - Remix",
+      "url": "https://open.spotify.com/track/2Czhk9PBWdo15wrRc7O7iW"
+    },
+    {
+      "album": {
         "name": "Por Ley",
         "url": "https://open.spotify.com/album/27lo0482W5P6mkzkinHEJD"
       },
@@ -3916,7 +4002,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 170633,
       "name": "Ronaldo Naz\u00e1rio",
       "url": "https://open.spotify.com/track/4EMTyrQGUFpsjiQSEw5NuZ"
@@ -4966,7 +5052,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 253411,
       "name": "VIP (feat. Konshens)",
       "url": "https://open.spotify.com/track/7GQCVjmydhic9zd7GdaQRO"

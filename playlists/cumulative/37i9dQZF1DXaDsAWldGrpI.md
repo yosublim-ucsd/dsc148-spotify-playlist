@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-140 songs - 9 hr 56 min
+141 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Over For You \- Live in Melbourne](https://open.spotify.com/track/5GAMPTTXZgtFJZzN7VcDNX) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:34 | 2023-06-30 |  |
 | [Over Now \- Live From London](https://open.spotify.com/track/0sUzqTXuvRZQGkWb3uhbj1) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Live From London](https://open.spotify.com/album/5YHZoRo1sGcOfWVYMUP9Ch) | 3:34 | 2023-05-05 |  |
 | [Penthouse \(Healed Version\) \- Live](https://open.spotify.com/track/0CWzAubKh2XcmGVdGZfJTV) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 4:20 | 2023-08-11 |  |
-| [Pick Up the Tempo \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/5Ck5ySY5fVPXUndrPYXjym) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Pick Up the Tempo \(from Long Story Short: Willie Nelson 90\)](https://open.spotify.com/album/05uOOGR9UWdI4kQQjrG4T0) | 2:47 | 2023-11-03 |  |
+| [Pick Up the Tempo \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/5VpZHfbzYfN6o8F0WyUwfa) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Long Story Short: Willie Nelson 90 \(Live At The Hollywood Bowl\)](https://open.spotify.com/album/3FSyqiY2cUZTeCoQaJDHBM) | 2:44 | 2023-11-10 |  |
+| [Pick Up the Tempo \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/5Ck5ySY5fVPXUndrPYXjym) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Pick Up the Tempo \(from Long Story Short: Willie Nelson 90\)](https://open.spotify.com/album/05uOOGR9UWdI4kQQjrG4T0) | 2:47 | 2023-11-03 | 2023-12-16 |
 | [Real Good Man \- Live From Spotify NYC](https://open.spotify.com/track/0MNezJUzb1fx2gqQ8cPeLT) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Spotify Sessions](https://open.spotify.com/album/3citk3NfGLpdph8cGMiKQz) | 3:51 | 2021-07-22 |  |
 | [Record Year \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/1aaVflBoMypwij2UKVschg) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:41 | 2021-07-22 |  |
 | [Round Here \- Live From Joe's Bar, Chicago / 2012](https://open.spotify.com/track/40NEsJv5x0HsxDrvvxLwvc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Round Here \(Live From Joe's Bar, Chicago / 2012\)](https://open.spotify.com/album/0D83bO5GmEHbFkmVVWPhYV) | 4:04 | 2022-08-26 |  |

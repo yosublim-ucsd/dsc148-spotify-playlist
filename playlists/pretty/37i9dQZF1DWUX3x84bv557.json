@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: Isab\u00e8l Usher",
-  "num_followers": 160689,
+  "num_followers": 160698,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTMxOGViZDdkYjhmOTFhOTgzOTcwMWUxMThjYzIzNzU1OTkxYjAx",
+  "snapshot_id": "MCxiZmNmZDg4YjA1Y2ZiNDJlNGM5NWZjZDk5YWE5OGRjODUzMmZiMmM0",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 143437,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Hartenbreker",
         "url": "https://open.spotify.com/album/0PqE4iqArw2Ax0mbKqfjFU"
       },
@@ -91,22 +75,6 @@
       "duration_ms": 157174,
       "name": "Hartenbreker",
       "url": "https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Maken of Breken",
-        "url": "https://open.spotify.com/album/3DSkY5g59gmmWnezLp6880"
-      },
-      "artists": [
-        {
-          "name": "Sleeq",
-          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
-        }
-      ],
-      "duration_ms": 201031,
-      "name": "Maken of Breken",
-      "url": "https://open.spotify.com/track/3o8mKz6JvIxl08QXq6vyxQ"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -127,6 +95,38 @@
       "duration_ms": 183518,
       "name": "Rock \u2018n Roll in Nederland",
       "url": "https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 143437,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Maken of Breken",
+        "url": "https://open.spotify.com/album/3DSkY5g59gmmWnezLp6880"
+      },
+      "artists": [
+        {
+          "name": "Sleeq",
+          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
+        }
+      ],
+      "duration_ms": 201031,
+      "name": "Maken of Breken",
+      "url": "https://open.spotify.com/track/3o8mKz6JvIxl08QXq6vyxQ"
     },
     {
       "added_at": "2023-12-08 00:09:00",

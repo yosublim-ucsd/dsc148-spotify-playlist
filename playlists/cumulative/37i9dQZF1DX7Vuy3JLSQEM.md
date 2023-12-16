@@ -4,7 +4,7 @@
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-87 songs - 5 hr 25 min
+88 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Brujas](https://open.spotify.com/track/4itVQwCX3QvJsYoucIEEZa) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Brujas](https://open.spotify.com/album/4uYXgXhToQQ8abIIepfHrv) | 2:51 | 2022-10-14 |  |
 | [Call Me](https://open.spotify.com/track/5zcfDiFLp0dVGFxzzoiSly) | [The Panda](https://open.spotify.com/artist/0xOZcnWY1Gt1TcUp0NYjBl) | [Call Me](https://open.spotify.com/album/5zchOO72H5Dvc9XN8njsF8) | 3:02 | 2022-10-14 |  |
 | [Cantiga II](https://open.spotify.com/track/1U1dT3dqpNxBM0LOgKkXWB) | [Mel](https://open.spotify.com/artist/2mKgBhUVcHvlTme6RlBLwS), [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1), [Femme Falafel](https://open.spotify.com/artist/3nIaYArAYnl6JHORKJmrjS) | [Cantiga II](https://open.spotify.com/album/25RNz8d2qRigFqKE9m9FNA) | 4:04 | 2022-10-14 |  |
-| [Carrusel](https://open.spotify.com/track/5sNMuWchAZxgd3dFGtQpEQ) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Carrusel](https://open.spotify.com/album/33w45l6hLQTlaqJExHJ4kT) | 2:43 | 2022-10-14 |  |
+| [Carrusel](https://open.spotify.com/track/0I9u2AcBoLAtMVOWRRLDvN) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Carrusel](https://open.spotify.com/album/3PXgoT9rCUPaFYCYHg6ynR) | 2:43 | 2022-10-14 |  |
+| [Carrusel](https://open.spotify.com/track/5sNMuWchAZxgd3dFGtQpEQ) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Carrusel](https://open.spotify.com/album/33w45l6hLQTlaqJExHJ4kT) | 2:43 | 2022-10-14 | 2023-12-16 |
 | [Chama Cha Trumpeta](https://open.spotify.com/track/2dPRr9aD6xgRJT1vMS67BV) | [The Angels](https://open.spotify.com/artist/2pVGLwnxVTzWK6fdTzwVSz), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Chama Cha Trumpeta](https://open.spotify.com/album/10TktKYjJDH0vL0IkEiMQG) | 4:27 | 2022-10-14 |  |
 | [Choir Roads](https://open.spotify.com/track/6VOLVcWyy5Rf0vSPYYN4JT) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Tálita](https://open.spotify.com/artist/18OPt8obRRChUWsZjRVqUx) | [Choir Roads](https://open.spotify.com/album/6R2CCusiNwKkFUj8HoHOYi) | 3:17 | 2022-10-14 |  |
 | [Dafne](https://open.spotify.com/track/6X5D4PowFB3IkPlp6NSkga) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Antidoto EP](https://open.spotify.com/album/0F36XdZb3xoUXdgMWz1z60) | 5:00 | 2022-10-14 |  |

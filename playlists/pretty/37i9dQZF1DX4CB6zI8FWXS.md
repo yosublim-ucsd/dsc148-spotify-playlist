@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,599 likes - 79 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,614 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 75 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
 | 76 | [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 |
 | 77 | [Madness](https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Madness](https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E) | 3:30 |
-| 78 | [No Fear](https://open.spotify.com/track/3V0rNeBbdBfWzsP6nk98iT) | [Starceed](https://open.spotify.com/artist/5LUczylybNr9ylPScEvlSz) | [No Fear](https://open.spotify.com/album/4WBNdhnG9x36CVnyDJ83VM) | 2:47 |
+| 78 | [No Fear](https://open.spotify.com/track/596tehHMkW1OJSM2qRYBrX) | [Starceed](https://open.spotify.com/artist/2zz1LTzFkZyEn9FlldGuwm) | [No Fear](https://open.spotify.com/album/2ZRsLwBTj6AFR5T0DFAZtI) | 2:47 |
 | 79 | [Smooth Operator](https://open.spotify.com/track/08CZBPPhtvtSnSRk88Z6AK) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu), [Michaela](https://open.spotify.com/artist/4ORoaZhVBXIzhnubUbdd5S) | [Smooth Operator](https://open.spotify.com/album/1Gt2tyMYNqqUDNPWk3R1QX) | 2:51 |
 
-Snapshot ID: `MCwzNzIzNjBhN2MwYjY1NTcyOTMzZDQ0YmQwMDk4Y2M0NzM1NTgxMGM1`
+Snapshot ID: `MCxlODUzY2I1OGI5MjkwZDk2MzBlNDAzNGI3ZDlkNTMzMjRkMDUxMTk5`

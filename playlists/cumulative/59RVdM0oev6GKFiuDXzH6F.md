@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-498 songs - 1 day 0 hr 35 min
+499 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-04-12 | 2023-05-02 |
 | [Saviour](https://open.spotify.com/track/0T8VMb5jV2XeNJvXG4wWr4) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Saviour](https://open.spotify.com/album/4NpfiBoBzu80w4eTDhJCD6) | 3:14 | 2023-04-14 | 2023-05-02 |
 | [Schemer](https://open.spotify.com/track/5Vd2Y0u0IgKUBssZhXlMYi) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Schemer](https://open.spotify.com/album/6peDhpkTBae0aIs1n9fHbx) | 4:58 | 2023-07-13 | 2023-12-14 |
+| [Secrets In The Dark](https://open.spotify.com/track/18bvVlnfkZ0ZoBaq9yJGeh) | [ELI YAZ](https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R) | [Secrets In The Dark](https://open.spotify.com/album/7AikqLQHF8ouF6i5YTTmCM) | 5:16 | 2023-12-15 |  |
 | [Sex Drugs Energie](https://open.spotify.com/track/6aB7mV6RHoshGo2ExvoRVQ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Sex Drugs Energie](https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe) | 2:32 | 2023-11-10 |  |
 | [Shark Teeth](https://open.spotify.com/track/369h1UyxxGJUw4WRUepNgC) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Shark Teeth](https://open.spotify.com/album/0rXzI1zDPMDBuDn24W5Dvl) | 3:38 | 2023-08-25 | 2023-12-14 |
 | [Shined On Me](https://open.spotify.com/track/5p7vudRbvO9jMpzG2lfAO9) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Shined On Me](https://open.spotify.com/album/2lOBogTucTmpkO5ghcZIu4) | 2:13 | 2023-10-06 |  |

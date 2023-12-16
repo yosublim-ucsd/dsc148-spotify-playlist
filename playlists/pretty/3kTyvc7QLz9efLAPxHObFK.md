@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 15 likes - 1,083 songs - 2 day 13 hr 2 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 15 likes - 1,084 songs - 2 day 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1091,5 +1091,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1081 | [Sleepless](https://open.spotify.com/track/3w3QmBH6dLqpRRanVrNI2P) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Sleepless](https://open.spotify.com/album/0sCEcdawxeimU4rCZFjJ7s) | 3:25 |
 | 1082 | [Detonate](https://open.spotify.com/track/2c7Jv9fSxjPS0kxMZkqHky) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6) | [Detonate](https://open.spotify.com/album/517fKTIPfH45YYWLIp4zGf) | 2:50 |
 | 1083 | [What It Feels Like](https://open.spotify.com/track/4v92frjOGG0wEWQUl2GORt) | [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [What It Feels Like](https://open.spotify.com/album/3xZ3JaSZNsPmfwKM7rfNxw) | 3:14 |
+| 1084 | [FUCKIN KICKDRUM](https://open.spotify.com/track/3VoAwRSMcd7tU7iJ6LQrDO) | [Skull Demon](https://open.spotify.com/artist/2S0ARB7meisIgCWq01As9p), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [FUCKIN KICKDRUM](https://open.spotify.com/album/5mEFXrZfCubqvlbMiM7sb0) | 2:57 |
 
-Snapshot ID: `MTEyNiwxNjVjY2ZkZjI4ZmQ5ZmI3MmUyN2RkMjM1ODlhNjMwMjI3MTZjZTI1`
+Snapshot ID: `MTEyNyxiZjZjMTEyMDRlNTdhMTM3ZDU4NTdkMTVkNzk2Y2UzYTExOWM0ZTlk`

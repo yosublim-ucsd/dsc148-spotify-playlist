@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-178 songs - 10 hr 11 min
+180 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adiye](https://open.spotify.com/track/2ZVIeS1p17UmWSjLSJYOt3) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Krishan J](https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw) | [Adiye](https://open.spotify.com/album/3I5C4OE79iGOAGazuzmVth) | 3:33 | 2023-07-24 | 2023-12-12 |
 | [Alavilla Azhagiye](https://open.spotify.com/track/07eegSrNoTXO1EZhBEJsdr) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Inzy](https://open.spotify.com/artist/07XxDCSIhiEvcAtxPm0uWV) | [Alavilla Azhagiye](https://open.spotify.com/album/0m5QDfTQuK0gz9h1hHsDMd) | 4:14 | 2023-07-13 |  |
 | [All Star Dancer](https://open.spotify.com/track/0wlv59Trb8ALs2Gws9dXLH) | [Baha Mista\-B](https://open.spotify.com/artist/1pkIXc0pidcuYpGgYUaU4g), [Whit](https://open.spotify.com/artist/035QHIg786p1aSadep5XsC), [Pavithra Nair](https://open.spotify.com/artist/1cebDDeYCqk8637xxrqtD2), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B) | [All Star Dancer](https://open.spotify.com/album/2Xw58cOidG6fZI83o1hN4U) | 3:52 | 2023-03-21 | 2023-09-26 |
+| [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 | 2023-12-15 |  |
 | [Azhagai Oru Matram](https://open.spotify.com/track/2mHq2tCYbtQ9grc6sMwdGd) | [Sanjit Lucksman](https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C), [Nirushka Paiva](https://open.spotify.com/artist/5aNpNoS5ntHTUIEvGcCBc7), [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI) | [Azhagai Oru Matram](https://open.spotify.com/album/6GrbtoW90L2SVgNN5a8veW) | 3:13 | 2023-03-21 | 2023-07-25 |
 | [Azhagale](https://open.spotify.com/track/3Or8quXbuFLp5KPeI2K9vf) | [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01), [Ishita Premnath](https://open.spotify.com/artist/6GdS9YEjh6oCoyARskMTt9), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Azhagale](https://open.spotify.com/album/6YhqkTX8SmTCD9C6XZZ7c4) | 3:52 | 2023-03-21 | 2023-07-25 |
 | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/track/2zLqnD7Cj6BCjIfsZDyXqV) | [Hari Haran B.Tech](https://open.spotify.com/artist/2egHlcbHbBTNT4SGDonzQB) | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/album/0qN4EwXinA34YR4hygVhdK) | 3:10 | 2023-03-21 | 2023-08-08 |
@@ -185,6 +186,7 @@
 | [Vittu Pogathae](https://open.spotify.com/track/4UmTxePUQTN4SWc5zy42nT) | [Ramana](https://open.spotify.com/artist/1nL4VLawzrO0jA4wD6uO0K) | [Vittu Pogathae](https://open.spotify.com/album/4ySIE31IPWCDIxpDBDiEEe) | 3:56 | 2023-11-15 |  |
 | [Vizhigalil Aasa](https://open.spotify.com/track/0M3vAjj63SOIIlfBr3Ts7M) | [RAJ\-RIZ](https://open.spotify.com/artist/6OAMNxGZwWZAuYqRhh4Y5d), [Surabhi Vimala](https://open.spotify.com/artist/03W0fDGDp3NuAgNUXjm6pT) | [Vizhigalil Aasa](https://open.spotify.com/album/5Sb2VNYMrRVWAcO1KtOsso) | 4:02 | 2023-10-04 |  |
 | [Without You](https://open.spotify.com/track/4vsmUOSYq1RkeSKJXRKr7S) | [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Niriksha Manoj](https://open.spotify.com/artist/2ZShEPlbOdm7sfbKuPIuaZ), [Vaaheesan Rasaiya](https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye) | [Without You](https://open.spotify.com/album/5i75qd9PvfHvZlSZwaQs20) | 3:07 | 2023-07-25 |  |
+| [Yendrum](https://open.spotify.com/track/2a7RHJyHZmgarjTvgAW1rQ) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Yendrum](https://open.spotify.com/album/4vVcdlRidM9liFbLfuzJlH) | 4:49 | 2023-12-15 |  |
 | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/track/2fuTKZlkfYox0kst02bAEA) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/album/4Rxs9oN8ofjCQYFFUHFqQo) | 4:26 | 2023-07-31 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

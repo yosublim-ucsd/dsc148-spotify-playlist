@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "For The Love Of You",
+        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301080,
+      "name": "For The Love Of You",
+      "url": "https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 276333,
       "name": "Groovin' In Philly",
       "url": "https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz"

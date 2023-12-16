@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 127529,
       "name": "Man At Home",
       "url": "https://open.spotify.com/track/7G5Cf56y5w6ttJQvhNk8wH"
@@ -930,6 +930,28 @@
       "duration_ms": 197880,
       "name": "Sexyy",
       "url": "https://open.spotify.com/track/0MeW6WVJH6ogfpVxKg61CG"
+    },
+    {
+      "album": {
+        "name": "SEXT8PE",
+        "url": "https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170523,
+      "name": "Sexyy & Conceited",
+      "url": "https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h"
     },
     {
       "album": {

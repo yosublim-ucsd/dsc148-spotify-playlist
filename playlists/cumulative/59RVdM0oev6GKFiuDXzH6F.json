@@ -7655,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "Secrets In The Dark",
+        "url": "https://open.spotify.com/album/7AikqLQHF8ouF6i5YTTmCM"
+      },
+      "artists": [
+        {
+          "name": "ELI YAZ",
+          "url": "https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316444,
+      "name": "Secrets In The Dark",
+      "url": "https://open.spotify.com/track/18bvVlnfkZ0ZoBaq9yJGeh"
+    },
+    {
+      "album": {
         "name": "Sex Drugs Energie",
         "url": "https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe"
       },

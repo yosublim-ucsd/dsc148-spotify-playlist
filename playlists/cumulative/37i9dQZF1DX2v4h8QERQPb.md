@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-234 songs - 12 hr 0 min
+235 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Get Money](https://open.spotify.com/track/1GHm53pGbnQF6sXQgota78) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Get Money](https://open.spotify.com/album/5nhijg5KlUIzFsXSFg7Lpq) | 2:39 | 2021-11-26 | 2022-04-12 |
 | [Hasta Siempre](https://open.spotify.com/track/119OqJPLpJGUGJI8Gj8H4t) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Hasta Siempre](https://open.spotify.com/album/4kXelnbRunlmMhbP1jbynJ) | 2:10 | 2023-05-12 | 2023-08-19 |
 | [Hit o Nada](https://open.spotify.com/track/0cdZtTvXfrKyesvhbh8ipu) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/3XQgN3REnMiKgQddK9bKQv) | 4:53 | 2022-04-11 |  |
-| [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 | 2022-04-11 |  |
+| [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 | 2022-04-11 | 2023-12-16 |
 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/3VCo2tJEa1a8GDCvSIqwP0) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/6m6qmfyl9LCn1801SzmpGO) | 3:01 | 2021-11-26 | 2022-10-02 |
 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/4HFzNSCfkNssUid9hoy2Ls) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/2hKEYwv7oSNI0xc4nsIFcs) | 3:01 | 2022-09-22 |  |
 | [HOOP HOOP](https://open.spotify.com/track/3dD1H5ick5Txfngx7hje7X) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 | 2022-05-12 | 2023-10-21 |
@@ -135,6 +135,7 @@
 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 | 2021-11-26 |  |
 | [Lo Importante](https://open.spotify.com/track/4GRrsacA6p5AqwZMYwmjQS) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [No Name](https://open.spotify.com/artist/4D58BLqL09mSKPaQy2xAno), [Sonhorus](https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB) | [Lo Importante](https://open.spotify.com/album/5iVQhgHm6DKSf9BTJnQIRg) | 3:05 | 2022-03-11 | 2023-10-07 |
 | [Lo Que Se Fue](https://open.spotify.com/track/5LEssCmCg4xpjySBOGiuQQ) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Lo Que Se Fue](https://open.spotify.com/album/5iPNnC9h8e3appfs7SsfJk) | 3:45 | 2023-06-09 |  |
+| [Locura y Pasión](https://open.spotify.com/track/0q4SC66JHhp7fOAjMKJFle) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Locura y Pasión](https://open.spotify.com/album/2XkJ6nOendZfvQx7azNEmW) | 2:01 | 2023-12-15 |  |
 | [Los Pumas](https://open.spotify.com/track/4yN6f9onu86pSfpayG7ryc) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Los Pumas](https://open.spotify.com/album/2Q95rrB6nNBee2PXD2hGnD) | 2:38 | 2023-08-25 |  |
 | [Low La](https://open.spotify.com/track/7tWS3WOhV4OErtDDB7YE65) | [Rapstinencia](https://open.spotify.com/artist/7dAfBnC7ILLBR3eIWocI9c), [T&K](https://open.spotify.com/artist/2SMK4TrK8djKN6CuunZpcr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Low La](https://open.spotify.com/album/2YNDW8yGbk1ITM68xgLatS) | 4:02 | 2021-11-26 |  |
 | [LQRA Session \#8](https://open.spotify.com/track/1Z65FyDTWd2DAi5ZcowZ52) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LQRA Session \#8](https://open.spotify.com/album/5Z592gYrUeJwm50Z3UDY79) | 2:32 | 2022-11-18 |  |

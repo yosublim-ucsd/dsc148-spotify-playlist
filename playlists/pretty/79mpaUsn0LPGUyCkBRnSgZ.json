@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTExOCw3MmUyZGQ2NjcyNTUwYzZhN2FlMDYzYjE0YTQ1NDU5N2RjZTFlZWU1",
+  "snapshot_id": "MTEyMCwwMmZlZTM4YjE0ZjNjYjJiMzYyODY4YjdlMWRiNTc1ZDZiODI0MmI2",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -4803,6 +4803,42 @@
       "duration_ms": 243933,
       "name": "Jenny Was A Friend Of Mine",
       "url": "https://open.spotify.com/track/60eVCXFCuw1WYswBuNZc4H"
+    },
+    {
+      "added_at": "2023-12-15 19:40:14",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 75626,
+      "name": "Wildlife Analysis",
+      "url": "https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI"
+    },
+    {
+      "added_at": "2023-12-15 23:22:01",
+      "album": {
+        "name": "Wicked City",
+        "url": "https://open.spotify.com/album/6E2VHYLPTtFOtdRcpt6YwP"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        },
+        {
+          "name": "Injury Reserve",
+          "url": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Robert",
+      "url": "https://open.spotify.com/track/2e8lfpyLA5OBzZqdcMEuIN"
     }
   ],
   "unique_name": "Zacklog",

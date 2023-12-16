@@ -2,9 +2,9 @@
 
 ### [Turnt Mode – Rap Pregame](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: Busta Rhymes
+> Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: DDG
 
-329 songs - 15 hr 20 min
+332 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Frozen](https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Frozen](https://open.spotify.com/album/0Qql7tnjwxJ4Lpmy8H3Uwl) | 2:45 | 2022-08-05 | 2023-03-04 |
 | [FU](https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FU](https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ) | 2:16 | 2023-12-08 |  |
 | [G Nikes \(feat\. Polo G\)](https://open.spotify.com/track/1YZkTazuoK1cHt4cLPrgRO) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [G Nikes \(feat\. Polo G\)](https://open.spotify.com/album/63SZDWNflSp5XfQNduQuyK) | 3:14 | 2022-10-14 |  |
+| [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 | 2023-12-15 |  |
 | [Glitch](https://open.spotify.com/track/69pRzSXB0Lc0kkD1kRezQm) | [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6) | [Glitch](https://open.spotify.com/album/1MlzLQq5J4BXonkjFxidye) | 1:22 | 2022-11-18 | 2023-04-01 |
 | [Go DJ](https://open.spotify.com/track/5goFCtUGQHU4kQuwIupc5D) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:36 | 2023-02-03 |  |
 | [Gone On Tour](https://open.spotify.com/track/36ZAeH9kyuXHYGqzYKRqiB) | [Baby Jamo](https://open.spotify.com/artist/6zFixzuUUZYLye59Ajwfb0) | [Gone On Tour](https://open.spotify.com/album/1Pof9UfN6OxFioVWla1OcG) | 2:21 | 2023-12-08 |  |
@@ -226,6 +227,7 @@
 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 | 2022-07-15 | 2023-07-14 |
 | [No Help](https://open.spotify.com/track/3Pmv09b7FK4ysYeQi0ODZc) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ) | [The Industry Made Me Hate Music](https://open.spotify.com/album/3P2PoHyrMMyFeytGF624bS) | 2:16 | 2023-12-08 |  |
 | [No Limit](https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [The Beautiful & Damned](https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b) | 4:05 | 2023-02-03 |  |
+| [No Love](https://open.spotify.com/track/0UlAxLlUGzB6MMd5tpXvQh) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp) | [No Love](https://open.spotify.com/album/71NR9WGF9Ke6ziA6OKYiLc) | 2:30 | 2023-12-15 |  |
 | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7) | 2:30 | 2022-06-03 | 2022-06-25 |
 | [Not Opps \(feat\. EST Gee\)](https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:54 | 2022-07-08 | 2023-02-25 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-08-10 |  |
@@ -273,6 +275,7 @@
 | [SCARING THE HOES](https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/2W8QmJ48TFvnkjrrQOHDBR) | 2:22 | 2023-03-24 |  |
 | [Secrets](https://open.spotify.com/track/3AGsZ8Wegk3OBbghcC1EGd) | [Jay Bezzy](https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ) | [Secrets](https://open.spotify.com/album/1l01cI32s2eLY7S3hsVphY) | 2:30 | 2022-09-16 |  |
 | [Sex Symbol](https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Sex Symbol](https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC) | 2:10 | 2022-10-21 |  |
+| [She Don't Play](https://open.spotify.com/track/07DzN4K6A7nP9ObnBRQAcO) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [She Don't Play](https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y) | 2:20 | 2023-12-15 |  |
 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:49 | 2022-06-03 | 2022-10-01 |
 | [Shootaz](https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Shootaz](https://open.spotify.com/album/43SV1kuMfBm9HCPI6v0l3c) | 3:28 | 2023-03-10 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2023-02-03 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "brime \u00e9 AULAS ",
+  "description": "leall \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 194000,
       "name": "A Volta por Baixo",
       "url": "https://open.spotify.com/track/7Eh9GH4NJJWYEPZ51tjF9y"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 194285,
       "name": "Destravei",
       "url": "https://open.spotify.com/track/6k1vUdEGISLogRQj5rkBXA"
@@ -3248,7 +3248,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 165000,
       "name": "Manifesto",
       "url": "https://open.spotify.com/track/4yikW3aqZOTTuTJVlLB6Mv"
@@ -5545,6 +5545,40 @@
     },
     {
       "album": {
+        "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/06NDDonUGSC7qknse3ZpoP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178869,
+      "name": "Sensa\u00e7\u00e3o de Liberdade",
+      "url": "https://open.spotify.com/track/5Mlq6dGC4QUk8p07HLxsMt"
+    },
+    {
+      "album": {
         "name": "Intoc\u00e1vel",
         "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
       },
@@ -6363,6 +6397,40 @@
     },
     {
       "album": {
+        "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        },
+        {
+          "name": "Erick Jay",
+          "url": "https://open.spotify.com/artist/7ntlG8Jb2UFaxMKaq81EhX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142133,
+      "name": "Viv\u00eancia Maldita",
+      "url": "https://open.spotify.com/track/7Cfmo0VnZPTxWNKvGilixA"
+    },
+    {
+      "album": {
         "name": "Voc\u00ea Est\u00e1 Com Febre?",
         "url": "https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL"
       },
@@ -6500,6 +6568,24 @@
       "duration_ms": 86817,
       "name": "\u00c9ter",
       "url": "https://open.spotify.com/track/1abTn1WYft3Yx2K4TtHQJX"
+    },
+    {
+      "album": {
+        "name": "\u00cdndice",
+        "url": "https://open.spotify.com/album/16IrThl9OarJ6SaRAPldiA"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70000,
+      "name": "\u00cdndice",
+      "url": "https://open.spotify.com/track/29ivwdubSLLU9OLR33FpJT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi"

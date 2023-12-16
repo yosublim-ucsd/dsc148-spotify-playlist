@@ -1,13 +1,285 @@
 {
-  "description": "The newest r&b drops, every week. Cover: Usher & H.E.R.",
-  "num_followers": 1033958,
+  "description": "The newest r&b drops, every week. Cover: Omarion",
+  "num_followers": 1034066,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmM1YWQwMTc5ZTdkMjA4ZDJjODE2ZDU1ZTM3N2JmNzQ4YTc4ZTZl",
+  "snapshot_id": "MCxjYzI3ZDE2YTc2YzhmMWRhMzVlZDMxNTY5OWZmODUwODM3MTFhYjgy",
   "tracks": [
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Full Circle: Sonic Book Two",
+        "url": "https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "duration_ms": 229838,
+      "name": "Taking Off",
+      "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Grown Woman",
+        "url": "https://open.spotify.com/album/3Zpdg1WMQqfWrf4sXAHxLJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 310863,
+      "name": "Grown Woman",
+      "url": "https://open.spotify.com/track/2YrAC1ZW7G7jiZfz2tHoXw"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "No Love Lost (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/5Lina8ikyTx5PcCLibvQrZ"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 284657,
+      "name": "No Love Lost - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/4sYEbnGCzKSQdhNjQj1kjE"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Bless Your Heart pt. 2 (Ft. Baby Rose)",
+        "url": "https://open.spotify.com/album/31NMNfrjGa6KYidmiMTTQH"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Bless Your Heart pt. 2 (Ft. Baby Rose)",
+      "url": "https://open.spotify.com/track/1cTp43BLzPouiJEow6oB2T"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4NZcudZGLMwhRMgdqGdRBm"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Good & Great",
+        "url": "https://open.spotify.com/album/1oKWdztnVhen1p8Irs5sJ5"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 207451,
+      "name": "Good & Great",
+      "url": "https://open.spotify.com/track/3Iy2NBkFdAmv8lipqrCELH"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/1kVdPf4akEAG56XYh1reG3"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
+        }
+      ],
+      "duration_ms": 183646,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/6jGSAwnrXnIYPwhrvftCoB"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/0tVOPNZO4KTdb03rWuXjYC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Leslie",
+          "url": "https://open.spotify.com/artist/3aTMDZLtkFlYQfQL7bzccp"
+        }
+      ],
+      "duration_ms": 230886,
+      "name": "Run It Back",
+      "url": "https://open.spotify.com/track/2dSkLQLd2roPXtd8JePLqp"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "You See Me (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/2vaz5XRZkVOgiuTMSqqnwK"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 191411,
+      "name": "You See Me - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/7y4Vr30vLgR0o5Pzr3Lj4z"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Take It Personal",
+        "url": "https://open.spotify.com/album/4n4InJrgimhQkVcyEvo85K"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 165432,
+      "name": "Take It Personal",
+      "url": "https://open.spotify.com/track/51pmSmEShGFFKKZ4wszESe"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/5qYpTAiam2ad9DkIbBqxVg"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 146301,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/2bykKLIOGkqpeEVny89YZm"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Greenroom",
+        "url": "https://open.spotify.com/album/75lCAYIEKESlpnv2lHMNb7"
+      },
+      "artists": [
+        {
+          "name": "Larrenwong",
+          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
+        }
+      ],
+      "duration_ms": 209491,
+      "name": "Greenroom",
+      "url": "https://open.spotify.com/track/2u1jeYToTwnu7XvvmioPdI"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Your Biggest Fan",
+        "url": "https://open.spotify.com/album/7uzehpmU3qefejzvQqSXZn"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Your Biggest Fan",
+      "url": "https://open.spotify.com/track/12zOYNZ9vqbKbRBRlC7jwr"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/28qJotgVoss0htjx54Z33G"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/47RGBqVpDOuG1lQXheVEuh"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "Same Mistakes",
+        "url": "https://open.spotify.com/album/57hj8borrNjzo4cfCMfCUD"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "duration_ms": 158289,
+      "name": "Same Mistakes",
+      "url": "https://open.spotify.com/track/1ZUGTfYnbyc7hB4Y2uXXf0"
+    },
+    {
+      "added_at": "2023-12-15 05:36:35",
+      "album": {
+        "name": "One Of A Kind Love Affair",
+        "url": "https://open.spotify.com/album/5mQYZSGfBe180WE8G0tc6j"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "duration_ms": 278466,
+      "name": "One Of A Kind Love Affair",
+      "url": "https://open.spotify.com/track/5PAJzKSzJHI82YBmnzNOvq"
+    },
     {
       "added_at": "2023-12-08 05:19:43",
       "album": {
@@ -884,7 +1156,7 @@
       "added_at": "2023-12-01 18:04:59",
       "album": {
         "name": "Fresh Face",
-        "url": "https://open.spotify.com/album/1kSQfWrluR91j2QEQk4AEz"
+        "url": "https://open.spotify.com/album/4rDhAtlijzx29Qg8O7eI2b"
       },
       "artists": [
         {
@@ -894,7 +1166,7 @@
       ],
       "duration_ms": 190476,
       "name": "Fresh Face",
-      "url": "https://open.spotify.com/track/3ig9oCmDyIbjt2Rgq05DaZ"
+      "url": "https://open.spotify.com/track/7DXB01MU0RGDenTFJrexSJ"
     },
     {
       "added_at": "2023-12-01 18:04:59",
@@ -2855,290 +3127,6 @@
       "duration_ms": 174878,
       "name": "TIDE (Interlude)",
       "url": "https://open.spotify.com/track/7mVg5kSbpGkHQ9MPmWu1eG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "GHS Pt. 2",
-        "url": "https://open.spotify.com/album/6O6sUvzt2rp0ZyKPpiOZtp"
-      },
-      "artists": [
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        },
-        {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        }
-      ],
-      "duration_ms": 197784,
-      "name": "Separate (feat. Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/1tPZvWPG2WyOP69lD1wE4w"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 224606,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Wild Ride - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 162313,
-      "name": "Wild Ride - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Need U Tonite",
-        "url": "https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V"
-      },
-      "artists": [
-        {
-          "name": "Breez Kennedy",
-          "url": "https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p"
-        },
-        {
-          "name": "Genia",
-          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Need U Tonite (with Genia)",
-      "url": "https://open.spotify.com/track/0DFrS6DTGOH3CEWFuPDKtk"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 178216,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/3NeGz5eGD5F2cjLoC8acaD"
-      },
-      "artists": [
-        {
-          "name": "A\u00e1yanna",
-          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
-        }
-      ],
-      "duration_ms": 147538,
-      "name": "Show Up",
-      "url": "https://open.spotify.com/track/3l5OFU1tiqryc4NTBKkxZa"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 162787,
-      "name": "Push (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
-        "name": "Phases III - EP",
-        "url": "https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 160581,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
-        "name": "I Left My Heart In Ladera",
-        "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 135189,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/1YtC5fvdj2z7XosDbmZYAS"
-      },
-      "artists": [
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 177796,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/5UzLPjUzrIStZCocniiH1y"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
-        "name": "Drifted (feat. Jayla Darden)",
-        "url": "https://open.spotify.com/album/03ekiMgr3rkTqWmHYOKcIz"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Jayla Darden",
-          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
-        }
-      ],
-      "duration_ms": 250221,
-      "name": "Drifted (feat. Jayla Darden)",
-      "url": "https://open.spotify.com/track/562S3M4AGzUZcZ6G1WorfN"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/0UZ64CPmniIULvZDBrM4iI"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/2n7RgVuhj9oT6iaAZN0Oa2"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
-        "name": "LOML",
-        "url": "https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf"
-      },
-      "artists": [
-        {
-          "name": "Sha\u00e9 Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "LOML",
-      "url": "https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
-        "name": "Conversations From A Payphone",
-        "url": "https://open.spotify.com/album/0T4Z5y6addAX9snpSlDNr7"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        },
-        {
-          "name": "Matt McGhee",
-          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
-        }
-      ],
-      "duration_ms": 248871,
-      "name": "Mixed Signals",
-      "url": "https://open.spotify.com/track/37Ul8ruDPOdhMuCRYbSUn6"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/6MpUQUAXYyf69a2kSvIpyb"
-      },
-      "artists": [
-        {
-          "name": "JAAS",
-          "url": "https://open.spotify.com/artist/58d2ZdXnLiZ4xhRNef78kt"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Man Down",
-      "url": "https://open.spotify.com/track/5M3VijDTOgFsu9wtT2v4WM"
     }
   ],
   "unique_name": "R&B Weekly",

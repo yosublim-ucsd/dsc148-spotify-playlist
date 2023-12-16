@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
-  "num_followers": 166360,
+  "num_followers": 166393,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWRiYmI5YzcyOTFjNmU5ZWY3YWRjOTJkN2RlMjhmZWE5MTBkZDVh",
+  "snapshot_id": "MCwwNzgzYzRkZGQyNTBkZDA5MGY0NDBmOTkxNGIxOWY5ZGI2Nzk1NTZh",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 456997,
       "name": "Always Free (Live in Austin)",
       "url": "https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Underneath The River (Live 2023)",
+        "url": "https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        }
+      ],
+      "duration_ms": 394880,
+      "name": "Underneath The River - Live 2023",
+      "url": "https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -211,6 +227,22 @@
       "duration_ms": 349253,
       "name": "Gravity - Live at the House of Blues, Chicago, Illinois, September 22, 2005",
       "url": "https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "What Kind Of Fool (Live from Haute Spot)",
+        "url": "https://open.spotify.com/album/4y4WAI9zFPkgDphk9kgvn7"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 271826,
+      "name": "What Kind Of Fool - Live from Haute Spot",
+      "url": "https://open.spotify.com/track/6wXEjuK8cueaGdyiLat7M0"
     },
     {
       "added_at": "2021-04-09 04:00:00",

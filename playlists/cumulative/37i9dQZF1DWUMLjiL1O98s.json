@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-06",
-  "description": "La nueva ola del Afrobeats con un toque latino. Feid y Rema en portada  ",
+  "description": "La nueva ola del Afrobeats con un toque latino. Piso 21 en portada  ",
   "name": "calorcito afrobeats",
   "tracks": [
     {
@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
+    },
+    {
+      "album": {
         "name": "AFROCOLOMBIA",
         "url": "https://open.spotify.com/album/2rRxRnkCMNcnctsli9i5aU"
       },
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 192856,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/6oq0tTpAsb9jA1LvaROCGl"
@@ -2916,7 +2934,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 202886,
       "name": "Toke",
       "url": "https://open.spotify.com/track/6PS1RodeppDBBDo4Y7Y5b9"
@@ -2938,6 +2956,24 @@
       "duration_ms": 230013,
       "name": "Topdown",
       "url": "https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5"
+    },
+    {
+      "album": {
+        "name": "TQMQA",
+        "url": "https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "TQMQA",
+      "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"
     },
     {
       "album": {

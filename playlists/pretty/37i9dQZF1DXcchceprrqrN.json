@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 66407,
+  "num_followers": 66481,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGJjNmIzYjAwZjlkNDM0MzdlY2ZkYTMyOWE3Y2NiMjBjYmQ4MDZi",
+  "snapshot_id": "MCxkYzNjMzZiZTQ4MGE4NzBiZDkwMjgwMzA4ZWRlNGQ2ZTIxMjNiZWQ3",
   "tracks": [
     {
       "added_at": "2023-12-06 16:27:02",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-06 16:27:02",
       "album": {
-        "name": "Two of Me",
-        "url": "https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Biohazard",
-      "url": "https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX"
-    },
-    {
-      "added_at": "2023-12-06 16:27:02",
-      "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+    },
+    {
+      "added_at": "2023-12-06 16:27:02",
+      "album": {
+        "name": "Two of Me",
+        "url": "https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Biohazard",
+      "url": "https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX"
     },
     {
       "added_at": "2023-12-06 16:27:02",

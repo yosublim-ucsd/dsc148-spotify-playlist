@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK?si=\_iRLv4ZCTlih\-QpybwO6Rg">Toughguy</a>
 
-380 songs - 22 hr 38 min
+381 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Gods Gift](https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N) | [Beyond Rebellion](https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe) | [Gods Gift](https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi) | 3:16 | 2022-11-17 | 2023-03-03 |
 | [Good Little Girl](https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y) | [Saturn Return](https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt) | [Good Little Girl](https://open.spotify.com/album/2A2SF1ydODURrgfp9hOp8A) | 3:25 | 2023-05-05 | 2023-07-29 |
 | [Good Time](https://open.spotify.com/track/13bC2RZHqYhWOdUiMAH4O1) | [Filthy Hippies](https://open.spotify.com/artist/69KIxpkIadv1nMT3h6G8bC) | [Good Time](https://open.spotify.com/album/4m93HqALWDte1O3e6uIvm6) | 4:52 | 2023-08-11 | 2023-09-29 |
-| [Goodbye](https://open.spotify.com/track/7CcnVBrlWIS8LSyxFWAaMN) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/3pKC1FFpmpRPhu1qsD0MH9) | 3:58 | 2023-12-14 |  |
+| [Goodbye](https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS) | 3:58 | 2023-12-14 |  |
+| [Goodbye](https://open.spotify.com/track/7CcnVBrlWIS8LSyxFWAaMN) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/3pKC1FFpmpRPhu1qsD0MH9) | 3:58 | 2023-12-14 | 2023-12-16 |
 | [Goue Lokke](https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL) | [Skelm](https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD) | [Vreemd](https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM) | 3:42 | 2023-07-06 | 2023-11-25 |
 | [Greetings from The Room](https://open.spotify.com/track/4AOimaZwuTMPO6PFYCZ0VE) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Eating Dirt](https://open.spotify.com/album/43wjvldlI53z3hfRxRX4rO) | 3:16 | 2023-06-01 | 2023-07-07 |
 | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/track/6jszxDsTnpI6xOeBuJ3l8K) | [Lincoln Hunter](https://open.spotify.com/artist/1pDMcSajVybIxvEbeazPG1) | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK) | 3:19 | 2023-05-11 | 2023-07-29 |

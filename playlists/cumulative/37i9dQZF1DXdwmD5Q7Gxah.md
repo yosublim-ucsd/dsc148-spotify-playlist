@@ -4,7 +4,7 @@
 
 > featuring some of your favorites this year, plus some new gems\. Cover: The Japanese House
 
-2,536 songs - 5 day 16 hr 24 min
+2,538 songs - 5 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1108,6 +1108,7 @@
 | [I Want U](https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [I Want U](https://open.spotify.com/album/0AuX0J4cRITW4Xzejp1e8d) | 3:33 | 2021-11-13 | 2022-01-08 |
 | [i want, doesn't get](https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [i want, doesn't get](https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi) | 2:31 | 2022-06-17 | 2022-06-28 |
 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 | 2022-07-27 | 2022-09-28 |
+| [I'd Hate Me Too](https://open.spotify.com/track/1Rxx5MHJv03Qzt7sZUKGoO) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [I'd Hate Me Too](https://open.spotify.com/album/4kmMFdbi4MX1wckBiEkc07) | 4:08 | 2023-12-15 |  |
 | [I'll Call You Mine](https://open.spotify.com/track/0cH6s5bw1BS4hL06hmUO6F) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:21 | 2021-05-03 | 2022-04-09 |
 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 | 2019-07-30\* | 2019-10-10 |
 | [I'll Just Dance](https://open.spotify.com/track/3Y3wmxmyrBkKBGWXfEjIsM) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [I'll Just Dance](https://open.spotify.com/album/2krExFjxvjUi1SU6Ek0Da3) | 2:41 | 2020-12-23 | 2021-03-06 |
@@ -1958,6 +1959,7 @@
 | [Sleeping Through Sunshine](https://open.spotify.com/track/6FQvYKMIg47n3Q5GG1n5Zd) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host B Sides & Remixes](https://open.spotify.com/album/4paNaQZ8eB1cUU1ZJh14gJ) | 3:16 | 2022-09-09 | 2022-09-24 |
 | [Sleepwalk](https://open.spotify.com/track/3sip0psKnaeJ8kbG4rs0Ps) | [Good One](https://open.spotify.com/artist/7uCcOAttAhT0QF1HWEG23C) | [Sleepwalk](https://open.spotify.com/album/3Fxw3qZOqWBwd6dEYnYWTA) | 3:46 | 2022-12-14 | 2023-01-19 |
 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 | 2023-03-24 | 2023-05-13 |
+| [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2023-12-15 |  |
 | [Slow Amnesia](https://open.spotify.com/track/4F67cQkiqrZ5u8GuEhdNyH) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Slow Amnesia](https://open.spotify.com/album/5wt4VQ0dO0VAmNL0YkfAPd) | 3:26 | 2022-12-07 | 2023-02-22 |
 | [Slow Amnesia](https://open.spotify.com/track/4p0IASuyV6phpRHicEJMAb) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Glasshead](https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz) | 3:26 | 2022-12-07 | 2023-04-15 |
 | [SLOW DOWN](https://open.spotify.com/track/6Lh3fG0DogMGBW5MTlnO7q) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [SLOW DOWN](https://open.spotify.com/album/6nr0gqbSGeWijV20Q5f2jZ) | 2:30 | 2023-09-29 | 2023-11-11 |

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Matt Force & Young Queenz
 
-802 songs - 1 day 21 hr 20 min
+804 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [BE WATER](https://open.spotify.com/track/6zasKzpAgR1vUq3wEKGdGE) | [FIESTER](https://open.spotify.com/artist/2XFADx63n5mL7ZNnUwX8Aj), [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh) | [FULLNESS](https://open.spotify.com/album/0CW5rLz42bfAKXNs15e5gt) | 3:24 | 2023-01-19 | 2023-05-26 |
 | [Be You](https://open.spotify.com/track/4YA05pFBqNtqYe9NasRpEm) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Be You](https://open.spotify.com/album/7xwOuaf0bp3EBG9tXpz32a) | 3:32 | 2022-08-11 | 2022-11-04 |
 | [Better Days](https://open.spotify.com/track/1eBAncEA6SXHGwD5kL248j) | [Slimjongun](https://open.spotify.com/artist/1LsJXW9nCYGMqUdYhrttyI) | [Better Days](https://open.spotify.com/album/6mtrX5Ak54H6syJhGl6ZlV) | 2:59 | 2023-02-09 | 2023-07-14 |
+| [BLOOD SWEAT TEARS AND GEARS](https://open.spotify.com/track/4yjv9GfqLd7ybSdceMCp4T) | [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [YoungQueenz](https://open.spotify.com/artist/4L55QUybdNNklpqnecZ5Bl) | [LAND](https://open.spotify.com/album/5wBBnOfybmA2VtWqJETICV) | 3:09 | 2023-12-15 |  |
 | [Blue feather.](https://open.spotify.com/track/6q0MNv4aPZXih35MfDyJ3R) | [Katana](https://open.spotify.com/artist/4F2bVX4e5WsiK9Xa30blEh) | [Blue feather.](https://open.spotify.com/album/1J5NdOvkXvYoiwrxM6iuwv) | 4:04 | 2023-01-12 | 2023-02-03 |
 | [Blue Moon](https://open.spotify.com/track/1vh4MSiuZAPYddzyZUKXkk) | [kaaai](https://open.spotify.com/artist/10Dni0SDMpzGLmB1O6hp5c) | [Blue Moon](https://open.spotify.com/album/4BXVb18G7PlQC6xucdWtpC) | 3:26 | 2023-06-01 | 2023-09-01 |
 | [Blue Moon \(feat\. Yusuke Kobayashi from The Novembers\)](https://open.spotify.com/track/1j5ncONtcKhA2LPs6edqhL) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p), [Yusuke Kobayashi](https://open.spotify.com/artist/6RmXHj7JiSCVZSvdsN5a10) | [Blue Moon \(feat\. Yusuke Kobayashi from The Novembers\)](https://open.spotify.com/album/2S8636Q868GRrXEwdaIhSZ) | 3:35 | 2023-07-27 | 2023-09-15 |
@@ -229,7 +230,8 @@
 | [It's Starting to Rain](https://open.spotify.com/track/34zi4KYkM2Xh4utbUSk0qE) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/5lYKLyu7mfLm2sPRVqRUzP) | 3:33 | 2023-04-13 | 2023-06-01 |
 | [Josh Groove](https://open.spotify.com/track/6a1YjzaPhDWqdAp4KUPkXt) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt), [Bella World](https://open.spotify.com/artist/3XUDJGDts81L0k83qK4Zft) | [Josh Groove](https://open.spotify.com/album/5kCtNE3X8U3OFFHgujnmK9) | 3:46 | 2023-01-19 | 2023-05-26 |
 | [june \(february’s not long ahead\)](https://open.spotify.com/track/1MKkSOM3kebfkMT6lKLwZc) | [loegunn](https://open.spotify.com/artist/4RjEsC8wfSLI9V86HJsLQn) | [june \(february’s not long ahead\)](https://open.spotify.com/album/0xB5mmnFwgW0J5irnKzFqT) | 1:39 | 2022-11-24 | 2023-02-03 |
-| [Just Be A Rock](https://open.spotify.com/track/7G2ftw98tKO5wFf4fdH1Bj) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Just Be A Rock](https://open.spotify.com/album/4GKatOmxAIFkri4pyAIA24) | 4:39 | 2023-12-07 |  |
+| [Just Be A Rock](https://open.spotify.com/track/1s78kLTDtEZLjLwdGMD6Gu) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Just Be A Rock](https://open.spotify.com/album/0waIK4rOKJ8S03wVbNL5GP) | 4:39 | 2023-12-15 |  |
+| [Just Be A Rock](https://open.spotify.com/track/7G2ftw98tKO5wFf4fdH1Bj) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Just Be A Rock](https://open.spotify.com/album/4GKatOmxAIFkri4pyAIA24) | 4:39 | 2023-12-07 | 2023-12-16 |
 | [kix \- freestyle](https://open.spotify.com/track/6FyYc5GDvi9xFkRigFJ6Wd) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [kix \(freestyle\)](https://open.spotify.com/album/7eBDrjZkiRcbVvpDSVjTpP) | 1:30 | 2023-07-20 | 2023-08-16 |
 | [kix freestyle](https://open.spotify.com/track/2rP3qGaeSmZ4UEio41Oz2l) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [kix freestyle](https://open.spotify.com/album/7BbkF2Ipp4z3XUb5HRRQTf) | 1:30 | 2023-08-10 | 2023-11-03 |
 | [KODC](https://open.spotify.com/track/7Ku0BAVQTzzqqh1i81DbPz) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [Y5](https://open.spotify.com/artist/2wjdv6QcrpyNzdeHoYgcgb) | [KODC](https://open.spotify.com/album/4j9diWkR9TkbpuErvDL82H) | 2:52 | 2023-09-21 |  |

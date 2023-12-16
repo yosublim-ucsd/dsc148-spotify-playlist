@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Airbag
 
-233 songs - 14 hr 36 min
+234 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Está todo mal](https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Está todo mal](https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc) | 2:44 | 2023-11-10 |  |
 | [Ex](https://open.spotify.com/track/6gsUGjcizYAKy2LBflu1Pw) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Ex](https://open.spotify.com/album/2qM8b51qb8jpolJ4AVRCGt) | 3:59 | 2022-06-24 | 2023-09-27 |
 | [Fango](https://open.spotify.com/track/1GFQig8E1kpHcJVAVg5IOH) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Fango](https://open.spotify.com/album/3Y5uIFvMnozIUvF0soxaM5) | 4:22 | 2022-06-24 | 2023-04-15 |
-| [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 | 2023-04-14 |  |
+| [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 | 2023-04-14 | 2023-12-16 |
 | [Fuego Eterno](https://open.spotify.com/track/0qJ9B3TEky2xt6xKnObtK8) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Fuego Eterno](https://open.spotify.com/album/21JuTMChSUvV1TA4k3yRNr) | 3:37 | 2022-11-11 | 2023-06-03 |
 | [Fugar](https://open.spotify.com/track/7a9TQ1i4S2MyQT52KfRnmM) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Irreal](https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk) | 3:16 | 2023-11-10 |  |
 | [Galvanizado](https://open.spotify.com/track/2fuNZrprXsWj8MxzAblDhO) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Galvanizado](https://open.spotify.com/album/4csOppCBwphip5JnxwhL7Z) | 3:17 | 2022-06-24 | 2023-09-27 |
@@ -105,6 +105,7 @@
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 | 2023-09-27 |
 | [Himno de Mi Corazón](https://open.spotify.com/track/34IdqsIJU7LvCOZbxMkmdt) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [Himno de Mi Corazón](https://open.spotify.com/album/486m3Z1LXcVvDl3uRZNE38) | 4:11 | 2023-12-08 |  |
 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 | 2022-06-24 |  |
+| [Imposible](https://open.spotify.com/track/2ogIId7Mb4XbHbP70aANN9) | [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Imposible](https://open.spotify.com/album/0T7oqLj0aXoS2ZCIegMEXQ) | 3:39 | 2023-12-15 |  |
 | [Impulsando El Encuentro](https://open.spotify.com/track/2La3j8YgEErCVBXWIopKym) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Impulsando El Encuentro](https://open.spotify.com/album/6aaFN44R7nF2J7uI6kiAKj) | 4:19 | 2023-03-31 | 2023-06-03 |
 | [Indómito Sentir](https://open.spotify.com/track/0ldljvvUw0ApIcnVdzrupm) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Indómito Sentir](https://open.spotify.com/album/0Cqfl5mK3EmyH2baOd2a7K) | 4:09 | 2022-09-30 | 2023-09-09 |
 | [Inmediatez](https://open.spotify.com/track/54lymSICrfTr7Z0UeVPmRY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Germán Daffunchio](https://open.spotify.com/artist/3WFJJl01wqMrNjjiGSOyrJ) | [Inmediatez](https://open.spotify.com/album/6LoA2hbjy7lPdLBh46l2M8) | 3:54 | 2022-06-24 | 2022-07-02 |

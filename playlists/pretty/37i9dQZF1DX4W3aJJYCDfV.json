@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Stefflon Don (pictured), Rene\u00e9 Rap & Megan Thee Stallion, Celeste and more!",
-  "num_followers": 845003,
+  "num_followers": 845193,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGMwMjE0MDcxMDVlNjk4NjZkMzNmZDY5YTNmZTE5MzIxOTBiNGQ2",
+  "snapshot_id": "MCw5NmQ0ZWZlZWY4NjY1MjUxMjE1Y2QwN2YwOWI2MjJjMGM0ZjE4NTJk",
   "tracks": [
     {
       "added_at": "2023-12-15 00:00:00",
@@ -168,7 +168,7 @@
       "added_at": "2023-12-15 00:00:00",
       "album": {
         "name": "Slipping Through My Fingers",
-        "url": "https://open.spotify.com/album/0koTZdaOlOsITAVODhjAAp"
+        "url": "https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr"
       },
       "artists": [
         {
@@ -178,7 +178,7 @@
       ],
       "duration_ms": 263500,
       "name": "Slipping Through My Fingers",
-      "url": "https://open.spotify.com/track/5GRarkYarOgejsLCxLprQD"
+      "url": "https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -199,8 +199,8 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Doubted Me",
-        "url": "https://open.spotify.com/album/5B0Xw3dQy4AgwQUyuRzxtE"
+        "name": "Meekzness",
+        "url": "https://open.spotify.com/album/2puF8hJFMPoEaYMaSHTZ8F"
       },
       "artists": [
         {
@@ -210,7 +210,7 @@
       ],
       "duration_ms": 166285,
       "name": "Doubted Me",
-      "url": "https://open.spotify.com/track/6QkbFCm2xmn9giRK2YgRfk"
+      "url": "https://open.spotify.com/track/6UtbpIkvZkL3eODRJ8QuHQ"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -371,6 +371,42 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2023-12-15 10:49:17",
+      "album": {
+        "name": "An Idea Was Born",
+        "url": "https://open.spotify.com/album/1MbqtSUEXS79NyHJ2rx63M"
+      },
+      "artists": [
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        },
+        {
+          "name": "tendai",
+          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "An Idea Was Born",
+      "url": "https://open.spotify.com/track/7MMT2yeDKLjbxV3HS7k8Gf"
+    },
+    {
+      "added_at": "2023-12-15 10:49:17",
+      "album": {
+        "name": "Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -665,6 +701,38 @@
       "url": "https://open.spotify.com/track/2aQiqmGWTdaP7st3xwwg8q"
     },
     {
+      "added_at": "2023-12-15 10:49:17",
+      "album": {
+        "name": "No Apologies 1.9 V2_demo",
+        "url": "https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 127329,
+      "name": "No Apologies 1.9 V2_demo",
+      "url": "https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1"
+    },
+    {
+      "added_at": "2023-12-15 10:49:17",
+      "album": {
+        "name": "Million Years",
+        "url": "https://open.spotify.com/album/1Uo9XK3LQy3YAeyaKJYLIU"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Million Years",
+      "url": "https://open.spotify.com/track/3qRsxAXWaXAK9WrNhuTtSs"
+    },
+    {
       "added_at": "2023-12-15 00:00:00",
       "album": {
         "name": "Religion for One",
@@ -952,7 +1020,7 @@
       "added_at": "2023-12-15 00:00:00",
       "album": {
         "name": "come so far",
-        "url": "https://open.spotify.com/album/1wHD0DjKRZMOccQmcPDq0l"
+        "url": "https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX"
       },
       "artists": [
         {
@@ -966,7 +1034,7 @@
       ],
       "duration_ms": 165483,
       "name": "come so far",
-      "url": "https://open.spotify.com/track/0qY0A7PoppSjSRwQDzoiaf"
+      "url": "https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1094,6 +1162,10 @@
         {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
       "duration_ms": 123624,
@@ -1359,26 +1431,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "TEACH ME HOW TO DRILL (FEAT. FIVIO FOREIGN)",
-        "url": "https://open.spotify.com/album/1IwT4O2dDNGtTamYJe7uuv"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 196216,
-      "name": "TEACH ME HOW TO DRILL (FEAT. FIVIO FOREIGN)",
-      "url": "https://open.spotify.com/track/3sc0gnX1tOCoaMbiVujFmM"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Daddy",
         "url": "https://open.spotify.com/album/7lL7z2Kbqj7gCjRlAKENmb"
       },
@@ -1543,6 +1595,22 @@
       "duration_ms": 267146,
       "name": "Final Rule",
       "url": "https://open.spotify.com/track/7mQtkS5leqTFbgMa4qUAtJ"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/0csthgfGKnJIar7TlqRGKE"
+      },
+      "artists": [
+        {
+          "name": "Laura Davidson",
+          "url": "https://open.spotify.com/artist/09HoJ8gs0b933TzQs0qvKf"
+        }
+      ],
+      "duration_ms": 141880,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/1m1DJcA1MNiadetY9tFZzD"
     },
     {
       "added_at": "2023-12-15 00:00:00",

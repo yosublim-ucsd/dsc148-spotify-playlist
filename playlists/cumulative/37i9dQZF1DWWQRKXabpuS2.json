@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Qarar Saab",
+        "url": "https://open.spotify.com/album/0qA4LjeVNh0CYgPdCZvi8f"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196728,
+      "name": "Qarar Saab",
+      "url": "https://open.spotify.com/track/08dzFnwCGE11vXoH9Pw5aa"
+    },
+    {
+      "album": {
         "name": "Qatlni Hobak",
         "url": "https://open.spotify.com/album/5rM0FdvjpBafPkf7ojIeVQ"
       },
@@ -4338,6 +4356,24 @@
       "duration_ms": 296525,
       "name": "\u0627\u0644\u0639\u0645\u0631 \u0645\u0631\u0647",
       "url": "https://open.spotify.com/track/0Sy22uAj6TAgeMaBYsZoA8"
+    },
+    {
+      "album": {
+        "name": "\u0631\u0627\u0628\u062d \u0635\u0642\u0631 2023",
+        "url": "https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi"
+      },
+      "artists": [
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393209,
+      "name": "\u0628\u062d \u0635\u0648\u062a\u0643",
+      "url": "https://open.spotify.com/track/3sXJMNSewXpeBn4Kmr8GR4"
     },
     {
       "album": {

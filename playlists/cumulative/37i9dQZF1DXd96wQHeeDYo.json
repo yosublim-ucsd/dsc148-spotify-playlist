@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 144888,
       "name": "Baila (dan\u00e7a) [feat. D-Lex]",
       "url": "https://open.spotify.com/track/5vggGH3CE98GF2NoChwka7"
@@ -373,6 +373,68 @@
     },
     {
       "album": {
+        "name": "Welcome To C\u00f3rdoba City",
+        "url": "https://open.spotify.com/album/475EGaBnVDjgGIjbhKPPvv"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Fan\u00e1tico",
+      "url": "https://open.spotify.com/track/2f2CU0j1OrjoP8otmx8eoM"
+    },
+    {
+      "album": {
+        "name": "Fijado",
+        "url": "https://open.spotify.com/album/1PdINrzzMIRjMyUb332ro6"
+      },
+      "artists": [
+        {
+          "name": "Euken",
+          "url": "https://open.spotify.com/artist/4vJpB66s9Z3XW0vqZSpjfm"
+        },
+        {
+          "name": "MC Buzzz",
+          "url": "https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150937,
+      "name": "Fijado",
+      "url": "https://open.spotify.com/track/6fYv7oTfvJ01aEjJnoyjso"
+    },
+    {
+      "album": {
+        "name": "Flako",
+        "url": "https://open.spotify.com/album/2BIncDcXHTvzmG8tePNb6V"
+      },
+      "artists": [
+        {
+          "name": "Elena Torres",
+          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
+        },
+        {
+          "name": "MPV",
+          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Flako",
+      "url": "https://open.spotify.com/track/3F5o16g6oMioqGhfNTFgOc"
+    },
+    {
+      "album": {
         "name": "Funk Generation: A Favela Love Story",
         "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
       },
@@ -409,6 +471,28 @@
     },
     {
       "album": {
+        "name": "GUSTOSA",
+        "url": "https://open.spotify.com/album/2SVbUSjaglwqSugsqKtbEg"
+      },
+      "artists": [
+        {
+          "name": "Chiko Alfa",
+          "url": "https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks"
+        },
+        {
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140459,
+      "name": "GUSTOSA",
+      "url": "https://open.spotify.com/track/7H3kGnOJWMlPqBLQ0OEYBb"
+    },
+    {
+      "album": {
         "name": "Milly Funk",
         "url": "https://open.spotify.com/album/7EFxpZSryfzGMc4nMkW0P0"
       },
@@ -424,6 +508,32 @@
       "duration_ms": 168556,
       "name": "Innuendo",
       "url": "https://open.spotify.com/track/5pGFEsSUP5O3J8HMz3gfc6"
+    },
+    {
+      "album": {
+        "name": "Joga Pra Lua",
+        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125108,
+      "name": "Joga Pra Lua",
+      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
     },
     {
       "album": {
@@ -494,6 +604,32 @@
       "duration_ms": 162692,
       "name": "La Joaqui | Omar Algo Anda Mal #5",
       "url": "https://open.spotify.com/track/74KSJNT6UcJ6gEElkGousM"
+    },
+    {
+      "album": {
+        "name": "LALA",
+        "url": "https://open.spotify.com/album/6ZiCwWmYPqgE4Sgmd45XDB"
+      },
+      "artists": [
+        {
+          "name": "Cattleya Sita",
+          "url": "https://open.spotify.com/artist/0YlwmsE9bVH9aLziYLQzBr"
+        },
+        {
+          "name": "Jare Flossy",
+          "url": "https://open.spotify.com/artist/6piO976AEeCpgHpEPS2G6t"
+        },
+        {
+          "name": "Mr. Tucker",
+          "url": "https://open.spotify.com/artist/1O5fokOSqcMDszgWqSHrFH"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129714,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/4cnsPDehVLtnwm4xnjMCDy"
     },
     {
       "album": {
@@ -637,6 +773,32 @@
     },
     {
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/7KQdgdXYqfjqnTNsyaVWHd"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113500,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/37tXaBDUaXH9MXHN0LRzhG"
+    },
+    {
+      "album": {
         "name": "Bien:(",
         "url": "https://open.spotify.com/album/3Sat3hmUbXJdivRd9PIhrX"
       },
@@ -682,6 +844,32 @@
       "duration_ms": 208615,
       "name": "PANAMERA (feat. Djay W)",
       "url": "https://open.spotify.com/track/4oz9vFuQjXdqaDVcdZ2ZHY"
+    },
+    {
+      "album": {
+        "name": "Passinho, Passito",
+        "url": "https://open.spotify.com/album/6ofdpI0jAHi5WOoQHEPJZ3"
+      },
+      "artists": [
+        {
+          "name": "Cesar & Thiago",
+          "url": "https://open.spotify.com/artist/1b0YI2iIgWQJ6svhkBqSvh"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
+          "name": "Lil Tec",
+          "url": "https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209081,
+      "name": "Passinho, Passito",
+      "url": "https://open.spotify.com/track/6mIj6IBDn8Qsl8Wq5Pmh9y"
     },
     {
       "album": {
@@ -737,6 +925,32 @@
     },
     {
       "album": {
+        "name": "Qlo",
+        "url": "https://open.spotify.com/album/5C2hwJYQm12YtwGjr6DwnX"
+      },
+      "artists": [
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        },
+        {
+          "name": "Amara La Negra",
+          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
+        },
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75840,
+      "name": "Qlo",
+      "url": "https://open.spotify.com/track/1X5PIQVtkegtLVpDP1tQFL"
+    },
+    {
+      "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
@@ -756,6 +970,28 @@
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
+    },
+    {
+      "album": {
+        "name": "Ba\u00fal 2",
+        "url": "https://open.spotify.com/album/1euVCsaWFIYeWwbXfZUSHh"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC JottaP\u00ea",
+          "url": "https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185809,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/0mKhtoSpTyJGnmdKWcVwJf"
     },
     {
       "album": {
@@ -1084,6 +1320,28 @@
       "duration_ms": 169846,
       "name": "Ya No Me Enamoro",
       "url": "https://open.spotify.com/track/5DNW0IrnjRLUykNo08VwP5"
+    },
+    {
+      "album": {
+        "name": "Ya No Quiero Tu Amor",
+        "url": "https://open.spotify.com/album/3lpq0ThuYETt0pZjKqwoNy"
+      },
+      "artists": [
+        {
+          "name": "Carla Clavijo",
+          "url": "https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146307,
+      "name": "Ya No Quiero Tu Amor",
+      "url": "https://open.spotify.com/track/27mz93tltnSLKXzU0cOWcB"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=OGTgUyZZTVmdTLzHMoNOHw"> Wakadinali</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH?si=roNQADyrTT28BLPrWvaZyg"> Femi One</a>
 
 177 songs - 9 hr 8 min
 
@@ -140,7 +140,7 @@
 | [Situation Sticky](https://open.spotify.com/track/4UMUYdkPJTXml0XOXiH1AR) | [On Safari](https://open.spotify.com/artist/7C4Sna90V9C5gRrtZNh8kZ), [Bryvvn](https://open.spotify.com/artist/1YcGi2JIfTzbotFBDiysfS), [7AY](https://open.spotify.com/artist/3MiRH0LK3bcno7nZa6QtLm), [Prince.Wasabi](https://open.spotify.com/artist/2Gaxo8kmFvgNJvNmg6ZsGH), [CHozenAfitra](https://open.spotify.com/artist/3ezTcPg7Z7zY1p1XbVuRiQ), [Vandrel](https://open.spotify.com/artist/6nYKLho6i0KRNEEqffoJfv) | [Situation Sticky](https://open.spotify.com/album/20aSo6Bl2IP2Qku5aFAx5i) | 3:35 | 2022-06-30 | 2022-11-11 |
 | [Smash](https://open.spotify.com/track/2Azllbj8lN32T84iCwKhfd) | [Dope\-I\-Mean](https://open.spotify.com/artist/2oZxeOa6ShBENROOYB5TsW), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Smash](https://open.spotify.com/album/5Ga0YvnWe3Me0N0CLDnM4x) | 2:58 | 2023-04-06 | 2023-11-04 |
 | [So Gone Gfix](https://open.spotify.com/track/6oI7qnO61ysdOFBDemA13S) | [Vinc On The Beat](https://open.spotify.com/artist/1zAkmlAKP4fCnJnAymX4r9), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [So Gone Gfix](https://open.spotify.com/album/1P0SXdYFMgygK9hqjdEzEI) | 2:41 | 2023-06-29 | 2023-12-01 |
-| [Sock](https://open.spotify.com/track/5EIUmd3oVvAYGbAwe16rFR) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ) | [Sock](https://open.spotify.com/album/3eq47b44p7l0T4HS6p0SZR) | 1:50 | 2023-05-11 |  |
+| [Sock](https://open.spotify.com/track/5EIUmd3oVvAYGbAwe16rFR) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ) | [Sock](https://open.spotify.com/album/3eq47b44p7l0T4HS6p0SZR) | 1:50 | 2023-05-11 | 2023-12-16 |
 | [Soulfood](https://open.spotify.com/track/2gybX86egA9595tqi3cgbB) | [Spliff Jonah](https://open.spotify.com/artist/7rRZcSUBkPkZlV2tQkhxqp), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt) | [Soulfood](https://open.spotify.com/album/6uasSuja5WHzVi9vkXpjpG) | 3:04 | 2022-10-27 | 2023-10-07 |
 | [Splurge](https://open.spotify.com/track/5UMOz9M4VwvgAb02K3leia) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Trvp Hvrd](https://open.spotify.com/artist/6jrhrfcjpF6XcaI7fmSPkd), [KANJII](https://open.spotify.com/artist/190UXOe4cz5zZaPlLuz9Iy) | [Splurge](https://open.spotify.com/album/1NUrQb9xy6Hn47782a6hVm) | 3:14 | 2023-09-01 |  |
 | [Spooky Shit.](https://open.spotify.com/track/323Aol9VAFndxhTaIVxqV0) | [Trill Hunnid Ke](https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4) | [Spooky Shit.](https://open.spotify.com/album/7f7xbV76grCg1PJeQSYpVe) | 2:31 | 2023-04-20 |  |

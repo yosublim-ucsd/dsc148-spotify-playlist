@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-918 songs - 2 day 12 hr 9 min
+923 songs - 2 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Amoeba](https://open.spotify.com/track/5O4dlgfCLqkyrHWghRfIrT) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Amoeba](https://open.spotify.com/album/52FqqjTl9kg5St3EAJMqBz) | 3:52 | 2023-04-28 | 2023-06-17 |
 | [Ancient Chain](https://open.spotify.com/track/4QTWUydBn9Z5C8Zc0kz3xQ) | [Lightman Jarvis Ecstatic Band](https://open.spotify.com/artist/2vAyB8ZkJe6do0JsLIwN1x), [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt), [Romy Lightman](https://open.spotify.com/artist/5Sp1FBaAQ0NDun0wEzzvuG) | [Banned](https://open.spotify.com/album/2uxqYOWnMBsD7FKVnDkF42) | 3:37 | 2021-06-25 | 2022-04-15 |
 | [Another One](https://open.spotify.com/track/63q9LqTK5iiZLy3cTvLMUf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another One](https://open.spotify.com/album/5FiDVzxLqGtYjF5yzmMoj4) | 2:40 | 2023-03-06 | 2023-04-29 |
+| [Another Year Gone](https://open.spotify.com/track/3DPcH2cjFG7QvBh2DI1ajr) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Another Year Gone](https://open.spotify.com/album/5Ue9eH8utP2C5koj3Efp6q) | 1:44 | 2023-12-15 |  |
 | [Anti Heaven](https://open.spotify.com/track/0mkppcEMgeTPYfAGmQYEtG) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Pantomime](https://open.spotify.com/album/4vgZGwIOSxIBVZNkQ37VYy) | 4:48 | 2022-07-11 | 2022-07-30 |
 | [ANTIGRAVITY](https://open.spotify.com/track/1lSG3Ge7N03xw9HPaYOjSR) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [ANTIGRAVITY](https://open.spotify.com/album/5MvHUtsrb6kYAQGP6deljn) | 1:53 | 2022-08-19 | 2022-09-30 |
 | [Any Hour](https://open.spotify.com/track/6Zg3jsZ1CGHJPPAG7oLAFJ) | [Kaíoti](https://open.spotify.com/artist/6etW5uO8UuEovfiv2Nw10f), [Ghost King](https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84) | [Any Hour](https://open.spotify.com/album/5JlQub3PCeoNb1hiUxx5Qi) | 4:11 | 2021-04-02 | 2022-04-21 |
@@ -479,6 +480,7 @@
 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 | 2023-03-07 | 2023-11-18 |
 | [Lucid Dream](https://open.spotify.com/track/7kzoKUweUtcgZCyCruojmF) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY) | [Glue Trip](https://open.spotify.com/album/77vBVSbov2E7xVdvsiZqYf) | 6:14 | 2022-07-22 | 2022-07-30 |
 | [Lung](https://open.spotify.com/track/4Pi72tLDcxfsIlYgoDYlcY) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Lung](https://open.spotify.com/album/0pnr5IIqUTcYdHx2wGGxAw) | 2:49 | 2022-02-11 | 2022-07-27 |
+| [Lust For Time](https://open.spotify.com/track/6ZvZ26Aq1EqyPw2zitkVLZ) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Lust for Time](https://open.spotify.com/album/1RZiYUeAL6IIc6rYAZCYSr) | 2:19 | 2023-12-15 |  |
 | [Luxury](https://open.spotify.com/track/4MO2wrcoedE7l5QoZGNIiu) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc) | [Write Me off the Show](https://open.spotify.com/album/1Z2y4FrxO6Mrnv8Bc1TR4g) | 3:04 | 2021-11-19 | 2022-06-08 |
 | [Lyssa](https://open.spotify.com/track/19xywCfoKJ2q9fEJ5bZF7j) | [CULT OF DOM KELLER](https://open.spotify.com/artist/5ilEeNYaEoUR7PAxHRXO1d) | [Lyssa](https://open.spotify.com/album/4BV1fTa41JQR0M32Oj7Pcg) | 3:54 | 2021-06-04 | 2022-04-14 |
 | [M.R.](https://open.spotify.com/track/0GDHyRVlxRVxofJfrw3aVF) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 3:37 | 2021-04-02 | 2022-04-20 |
@@ -537,6 +539,7 @@
 | [Naima's Dream](https://open.spotify.com/track/2EXM4GiSRb60AA4BtYeQgm) | [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [Naima's Dream](https://open.spotify.com/album/36jye0varM2wI5vOzOmauk) | 3:20 | 2021-04-02 | 2022-04-21 |
 | [Nangs](https://open.spotify.com/track/1cCbsojaA6GIT7Y3zuMJ1q) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 1:47 | 2022-04-20 | 2022-06-01 |
 | [Natural Form](https://open.spotify.com/track/60Oujdr8ytHABaPlKeGjsJ) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Easy Listening](https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo) | 3:09 | 2023-05-26 |  |
+| [Neptunne](https://open.spotify.com/track/3o68NfY8DRpevdlXuWI33g) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [Neptunne](https://open.spotify.com/album/3xOLLJBueYAHqroPeORhHT) | 5:23 | 2023-12-15 |  |
 | [Never Know](https://open.spotify.com/track/5esN0pQ9BeHk9n0oqdRkTG) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Never Know](https://open.spotify.com/album/4RhiXkEa1tqaVpx6e6NPZQ) | 3:29 | 2021-04-02 | 2022-07-09 |
 | [Neverending Sunshine](https://open.spotify.com/track/4s5KTgdzPuC0R2BjpTeOHK) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [The Other](https://open.spotify.com/album/3x3rZHLmXFkRMapEbGa0VN) | 3:40 | 2021-04-02 | 2022-04-16 |
 | [New Day](https://open.spotify.com/track/6Prcel5XODQO4MmnrdGS1r) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Outlaw R&B](https://open.spotify.com/album/1DGCLu0B5zZ5YPlcHrK3O7) | 3:32 | 2022-04-20 | 2022-05-05 |
@@ -703,6 +706,7 @@
 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 | 2023-05-05 |  |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 | 2023-01-27 | 2023-07-22 |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9) | 4:26 | 2023-01-27 | 2023-04-22 |
+| [Simulacrum](https://open.spotify.com/track/73qCc86jf0LPG7pRdB7Ob8) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Simulacrum / Nnff](https://open.spotify.com/album/6pEWsFQUx7sTfodZetvdup) | 4:23 | 2023-12-15 |  |
 | [Since August](https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Since August](https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9) | 2:55 | 2023-08-04 |  |
 | [Sink or Swim](https://open.spotify.com/track/1lddVTsxR1k0waF1NqTbbn) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 4:39 | 2023-09-29 |  |
 | [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 | 2023-08-04 |  |
@@ -830,6 +834,7 @@
 | [Tongo Barra](https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Tongo Barra](https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN) | 5:33 | 2022-09-02 | 2023-03-07 |
 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 | 2023-09-29 |  |
 | [Top Steppa](https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29) | 3:29 | 2022-09-23 | 2023-03-07 |
+| [Treasure](https://open.spotify.com/track/0R81IMaZQhGFFvAmAQFRUG) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [Treasure](https://open.spotify.com/album/389KWBHLq0wKHnACVK52cQ) | 7:43 | 2023-12-15 |  |
 | [Tres Hermanos](https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Tres Hermanos](https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4) | 3:21 | 2022-08-19 | 2023-03-07 |
 | [Trip to Mars](https://open.spotify.com/track/4Ck37ynkUxayjxsKST96uT) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Trip to Mars](https://open.spotify.com/album/3DRL4b6dIxcHdCi4Ob83UZ) | 3:49 | 2023-08-18 |  |
 | [Trophy](https://open.spotify.com/track/4zBc604ytzPmwin9VbsvUd) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Trophy](https://open.spotify.com/album/1EYaUyZIpJVEVvmJKQ5b6n) | 3:12 | 2021-06-04 | 2022-07-12 |

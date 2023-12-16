@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-128 songs - 11 hr 11 min
+129 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Clear \- Jose “Animal” Diaz Remix](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 | 2020-10-06 |  |
 | [Code Red](https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ) | [Conquering Lion](https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG) | [Code Red](https://open.spotify.com/album/3J7BL97p8taetIOLtaXyI6) | 4:31 | 2020-10-06 | 2022-07-21 |
 | [Cubes](https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw) | [Modular Expansion](https://open.spotify.com/artist/7gzna5FLH7KeMHxbqImL7P) | [Unit 1](https://open.spotify.com/album/5w3AS9phJPcCVQMcvefeHt) | 4:05 | 2020-10-06 | 2022-07-20 |
-| [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 | 2020-10-06 |  |
+| [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 | 2020-10-06 | 2023-12-16 |
 | [Cübik \(Original Mix\)](https://open.spotify.com/track/4wOqlDz4gK8tmIBHkOery6) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [EX:EL](https://open.spotify.com/album/0PbQC8LnwDcO02TiiAlpWc) | 3:44 | 2020-10-06 | 2022-07-29 |
 | [Digeridoo](https://open.spotify.com/track/2xfCPmY2rPmy7IqVdoQsBS) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 7:11 | 2020-10-06 | 2022-11-13 |
 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 | 2020-10-06 |  |
@@ -99,6 +99,7 @@
 | [Pulp Fiction](https://open.spotify.com/track/4bsF2ZJgmq2JiDfyIV3CaX) | [Alex Reece](https://open.spotify.com/artist/74AkwPErO7y6jYZwR7ggJA) | [Pulp Fiction](https://open.spotify.com/album/7CrelOKM75tC3HaQ8a7dsV) | 6:11 | 2020-10-06 |  |
 | [Quadrophonia](https://open.spotify.com/track/3UWI95pROyfLZZz4YEwFP3) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Quadrophonia](https://open.spotify.com/artist/5h9kVRnbuvrdgWJMOPkGna) | [Old Skool](https://open.spotify.com/album/4uKTXO3kX3Tb1i2vtnPREm) | 3:20 | 2020-10-06 | 2022-11-13 |
 | [R.I.P.](https://open.spotify.com/track/1SHNtEYq8rz1MnCpAQVHnP) | [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [R.I.P / Ice Cream & Syrup](https://open.spotify.com/album/5RX5DEe12BK2L8FCCPQv3W) | 4:36 | 2020-10-06 | 2023-11-04 |
+| [R.I.P.](https://open.spotify.com/track/70TKASL1fqQKO7fOvuQ6ab) | [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [R.I.P / Ice Cream & Syrup](https://open.spotify.com/album/4akQkQhsOJxUyTueQ4VjEX) | 4:36 | 2023-10-19 |  |
 | [Raving I'm Raving \- Remix.mp3](https://open.spotify.com/track/0xi6k3xSyrxWG0oeQMQJnk) | [Shut Up and Dance](https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej) | [Death Is Not the End](https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK) | 4:22 | 2020-10-06 | 2022-08-16 |
 | [Rhythm Is A Mystery \- Radio Edit](https://open.spotify.com/track/366YPzDm8YVTAXgpe7EqJz) | [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Floorfillers 90s Club Classics / Compilation](https://open.spotify.com/album/0eUaCTABoVin6xQcE1jS9R) | 3:18 | 2020-10-06 | 2022-07-29 |
 | [Samplemania](https://open.spotify.com/track/6J1en9RZriRTeTfVfzv2Ba) | [DJ Seduction](https://open.spotify.com/artist/3QCLS2hkq3jpkJuPmJZHyD) | [The Best of Impact Mixed By Slipmatt](https://open.spotify.com/album/3izM4uFu9nBTD3A5qJDQhx) | 4:46 | 2020-10-06 | 2022-07-14 |

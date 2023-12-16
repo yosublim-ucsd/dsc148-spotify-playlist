@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Mont en Portada
 
-250 songs - 12 hr 40 min
+252 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [BUSINESS WOMAN](https://open.spotify.com/track/3rkbuNUCnmdaWBn7XY5Nd6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [BUSINESS WOMAN](https://open.spotify.com/album/3BTGhFn6HnEKGRYFTBoIzJ) | 3:47 | 2021-12-13 | 2023-02-04 |
 | [Bésame](https://open.spotify.com/track/3F4xZkq6lEgkqGrLDV5VZi) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bésame](https://open.spotify.com/album/1OqqID9z2VfSPsWreYdsWY) | 2:23 | 2023-10-27 |  |
 | [Búscame](https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Búscame](https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06) | 3:44 | 2023-10-06 |  |
-| [Chicos, Tenis y Cachucha \- Remastered 2010](https://open.spotify.com/track/2m1B2pQEgeh3i7Rtapwa4O) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Chicos, Tenis y Cachucha \(Remastered 2010\)](https://open.spotify.com/album/4XfzTVKkzNjXyiY2yt6Ar3) | 3:49 | 2023-11-10 |  |
+| [Chicos, Tenis y Cachucha \- Remastered 2010](https://open.spotify.com/track/2m1B2pQEgeh3i7Rtapwa4O) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Chicos, Tenis y Cachucha \(Remastered 2010\)](https://open.spotify.com/album/4XfzTVKkzNjXyiY2yt6Ar3) | 3:49 | 2023-11-10 | 2023-12-16 |
 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0wF1oTllq50PkLfPBjiQDh) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 | 2023-04-14 | 2023-07-01 |
 | [Clean](https://open.spotify.com/track/4q9np9mNabLYcWcnl73Vfw) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Clean](https://open.spotify.com/album/6INIElfYqLQhwSIhC0vJBd) | 3:00 | 2022-10-16 | 2023-07-01 |
 | [Clean](https://open.spotify.com/track/7D8Pvq75dsFE0sgRr278tX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [BAD BITCHES](https://open.spotify.com/album/2RtCDcpElT5bmoyhRK0Dyt) | 2:34 | 2023-11-10 |  |
@@ -91,6 +91,7 @@
 | [Espacio](https://open.spotify.com/track/4SrHJfvi1rwasva1uJe0KH) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Espacio](https://open.spotify.com/album/3arqwB5XTiXhJz7j6JZb62) | 3:37 | 2022-06-27 | 2023-11-18 |
 | [Espacio](https://open.spotify.com/track/63FlJhCXIrBRvw93XKsbyn) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Espacio](https://open.spotify.com/album/4e2aY5NFttjRbJHCg3gNSs) | 3:37 | 2021-12-13 | 2022-07-29 |
 | [Espada Sombra \- Narvarte Colectivo & Sacro Imperio Romano Remix](https://open.spotify.com/track/6s1ulsFVGXkF1RGr8SVGrm) | [Corina Lawrence](https://open.spotify.com/artist/0ov01DAYH1rS1xCroze7vn), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Narvarte Colectivo](https://open.spotify.com/artist/5QRHSZvwF2adtrJCEqigsS), [Sacro Imperio Romano](https://open.spotify.com/artist/0ds927QdYnDvjNX3t1KVn6) | [Espada Sombra \(Remixes\)](https://open.spotify.com/album/0GY9RaB38E8eelwgpuEh0u) | 3:53 | 2023-02-03 | 2023-10-07 |
+| [Esquirlas](https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb), [Montebel](https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV) | [Esquirlas](https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi) | 3:40 | 2023-12-15 |  |
 | [Experiencia](https://open.spotify.com/track/2hJtIUSPDlqqCKDt5dSyYO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/0R9wzfqAVBxRvfuRGFQIDs) | 2:13 | 2022-06-27 | 2023-07-01 |
 | [Experiencia](https://open.spotify.com/track/2rOGiQFlSp7CK3MhYruYxf) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/2C3NwN17FmCqXMDlzSMcnN) | 2:13 | 2021-12-13 | 2022-07-29 |
 | [Eyeliner de Katana](https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Eyeliner de Katana](https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW) | 2:01 | 2022-05-13 | 2023-03-11 |
@@ -234,6 +235,7 @@
 | [Tengo Un Trato](https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Mala Rodríguez / Lujo Ibérico](https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx) | 2:47 | 2021-12-13 | 2023-10-28 |
 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 | 2023-09-01 |  |
 | [Thug Love](https://open.spotify.com/track/3UzvM5oPrOJXshAJOSUUar) | [Vitz Music](https://open.spotify.com/artist/6dEJkQwezGsQdWJyLGEjDf), [Phyzh Eye](https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01) | [Thug Love](https://open.spotify.com/album/4i8kWHlG8oMVp9yc7z666C) | 3:14 | 2023-02-10 |  |
+| [Tiempos Felices](https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Nax](https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn) | [Tiempos Felices](https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L) | 3:21 | 2023-12-15 |  |
 | [TIKI TAKA](https://open.spotify.com/track/731NNSNXS57BuFlBWyUuuH) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU) | [7Z7](https://open.spotify.com/album/3RtE5spt4kZB1Q8nHB3tWD) | 2:34 | 2023-03-03 |  |
 | [Toda La Noche](https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Toda La Noche](https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH) | 2:42 | 2023-02-24 |  |
 | [Toda Perra Mugrosa](https://open.spotify.com/track/2no18yKAUmqkJG2fxUZ7bz) | [La Gallo 3:20](https://open.spotify.com/artist/3vMfBXxAZ9iG2u0VjNZ0IA), [norek](https://open.spotify.com/artist/1FmEWwOZLr0u0PWHVUXL0j) | [Toda Perra Mugrosa](https://open.spotify.com/album/6Ep14yIKFjYEP0J6yTJWnO) | 2:09 | 2023-09-15 |  |
@@ -256,7 +258,7 @@
 | [Yo Aprendi](https://open.spotify.com/track/0GgamUsKuvYz3gv8k4uTuI) | [Danay Suárez](https://open.spotify.com/artist/2bMCqLC25iBaqp2gDYEgDT) | [Polvo De La Humedad](https://open.spotify.com/album/7pxFxYIDIvoDg6eYZbtbTS) | 3:12 | 2021-12-13 | 2023-10-28 |
 | [ZAZA](https://open.spotify.com/track/66RGE8Et3bZadgVbSbJ0vX) | [Red 6xteen](https://open.spotify.com/artist/0CBib0Hd5BqqwNdwUzNPyk) | [ZAZA](https://open.spotify.com/album/39lEOuKAujltMiZ2QcguWj) | 2:33 | 2021-12-13 | 2023-07-01 |
 | [¿Qué Pasó?](https://open.spotify.com/track/0fT5Z1yon9HQbvO8Rc9bce) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [¿Qué Pasó?](https://open.spotify.com/album/30dn71E64gblVEnseumlgK) | 2:20 | 2021-12-13 | 2022-07-29 |
-| [¿Qué Vas a Hacer?](https://open.spotify.com/track/5LxOVQ907XF7bHKnesDsh2) | [Linda Habitante](https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE) | [¿Qué Vas a Hacer?](https://open.spotify.com/album/7hDYANxnUCnGI5Ro2Q1umN) | 2:54 | 2023-11-17 |  |
+| [¿Qué Vas a Hacer?](https://open.spotify.com/track/5LxOVQ907XF7bHKnesDsh2) | [Linda Habitante](https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE) | [¿Qué Vas a Hacer?](https://open.spotify.com/album/7hDYANxnUCnGI5Ro2Q1umN) | 2:54 | 2023-11-17 | 2023-12-16 |
 | [Últimamente](https://open.spotify.com/track/0TkvjgWhJWu3jvcmTaAKWE) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Últimamente](https://open.spotify.com/album/1jDdp6VLMKPTU8trOHFYGo) | 3:44 | 2023-03-03 | 2023-09-23 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

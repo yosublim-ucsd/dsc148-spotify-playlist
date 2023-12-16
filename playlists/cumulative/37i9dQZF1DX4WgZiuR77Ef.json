@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 275910,
       "name": "Let's Celebrate Our Love",
       "url": "https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I"
@@ -4130,6 +4130,36 @@
       "duration_ms": 272722,
       "name": "We Got What You Need",
       "url": "https://open.spotify.com/track/3EeKxDfgZh7O1YyjzgwDTc"
+    },
+    {
+      "album": {
+        "name": "We Outta B Funkin\u2019",
+        "url": "https://open.spotify.com/album/01wrFWt0KcWYNV2CIOslnN"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Soopafly",
+          "url": "https://open.spotify.com/artist/1fGNdi2u7XLBVYaq6fJUaT"
+        },
+        {
+          "name": "Temu Bacot",
+          "url": "https://open.spotify.com/artist/7h6PVrpt8H8BTvmL9LBxsU"
+        },
+        {
+          "name": "Myra Washington",
+          "url": "https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261359,
+      "name": "We Outta B Funkin\u2019",
+      "url": "https://open.spotify.com/track/13bwv0FluqVWXokMD8Wl7w"
     },
     {
       "album": {

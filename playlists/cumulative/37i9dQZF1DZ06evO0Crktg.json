@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 183306,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz"
@@ -472,6 +472,32 @@
       "duration_ms": 167635,
       "name": "Johnny and June",
       "url": "https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ"
+    },
+    {
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/38Xgxs0gyMoxftBuTrV83I"
+      },
+      "artists": [
+        {
+          "name": "Benny Holiday",
+          "url": "https://open.spotify.com/artist/4YMAnaqA8h3Djt7Z5SPgbL"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "C-Lance",
+          "url": "https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155795,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/3aohNUmAixSr12gJxaR2wE"
     },
     {
       "album": {

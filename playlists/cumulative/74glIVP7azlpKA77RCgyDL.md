@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Psycho\-Frame
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Brand of Sacrifice
 
-574 songs - 1 day 12 hr 51 min
+580 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Hysterics](https://open.spotify.com/track/75w7La8hnnsSeq9CDCBT89) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Hysterics](https://open.spotify.com/album/1cBEmj03uPsuMgywV43rDt) | 2:10 | 2023-04-21 |  |
 | [I Don't Wanna Talk About It](https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I) | [Candy Apple](https://open.spotify.com/artist/3EYZaeK8iJPw5PWdNyeFgy) | [I Don't Wanna Talk About It](https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm) | 2:33 | 2022-09-09 | 2023-07-15 |
 | [I Saw You Dancing](https://open.spotify.com/track/6S6KWV6SltScbAcOJU1arC) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [I Saw You Dancing](https://open.spotify.com/album/0PvgVoh30xJa3yicoZcwxx) | 3:51 | 2022-08-19 | 2023-07-15 |
+| [I Was a Teenage Nihilist](https://open.spotify.com/track/6VjuopTLuHqN8OPxKcab0o) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \(vol\. 9\)](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 1:32 | 2023-12-15 |  |
 | [I Would Die for You](https://open.spotify.com/track/6ACZ1lOkgxm1PUyMvU0cwm) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [John Wick: Chapter 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0TZNgMbhqhmcD6GUW8aGbM) | 4:39 | 2023-03-24 |  |
 | [I'll Find You](https://open.spotify.com/track/5MQuH4phGyxoHE6Glhq3T6) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [I'll Find You](https://open.spotify.com/album/73ROZuODtjMQfv3NjqgzoI) | 2:50 | 2023-10-13 |  |
 | [Idealized](https://open.spotify.com/track/2MkkjpplmZcb2XqCdwsTUG) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Idealized](https://open.spotify.com/album/1I00QM6BWuhWaFKVGuFWjq) | 3:41 | 2023-05-12 |  |
@@ -265,6 +266,7 @@
 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-08-25 |  |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-13 |  |
 | [Jesus is God](https://open.spotify.com/track/2CnfignhSXZI0gLCxASRlv) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [Jesus is God](https://open.spotify.com/album/3oaYa6fAwAcCOKtk2f8Sj9) | 2:03 | 2022-12-16 | 2023-07-15 |
+| [Jesus Wept](https://open.spotify.com/track/7GVFOmpSPzqqKWgOQvFwd1) | [Apex Predator](https://open.spotify.com/artist/53qLVEhC45AQjy3ThTRmlW) | [Jesus Wept](https://open.spotify.com/album/7yo0JKIvSz1GBozApXNs4J) | 2:16 | 2023-12-15 |  |
 | [Journey of the Host](https://open.spotify.com/track/7fm2ipYq1hEBTdOkAGqdOm) | [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Journey of the Host](https://open.spotify.com/album/00BeFzpaDtXKCWkEoglFqz) | 2:40 | 2023-03-10 |  |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-01-14 | 2023-07-15 |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 | 2023-07-15 |
@@ -297,6 +299,7 @@
 | [Mark of the Beast](https://open.spotify.com/track/2H7S1nfwOMiorqcxIngVdx) | [Jarhead Fertilizer](https://open.spotify.com/artist/58NoEzpin3N6OEtvVZwOtj) | [Mark of the Beast](https://open.spotify.com/album/5HxfVHLTw5GbJ6sPxxEITk) | 3:11 | 2023-12-01 |  |
 | [Masters of Morbidity](https://open.spotify.com/track/0T6GFp0XeYDiQv083xTZyp) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/7IAQnZhOMVvzgeAS4BMRu7) | 4:22 | 2022-11-11 | 2023-07-15 |
 | [Meat & Greet](https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Meat & Greet](https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp) | 3:30 | 2023-10-20 |  |
+| [Meat Magnet](https://open.spotify.com/track/35r5Dt58LBPIwL0Tzk3wX8) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG), [Barney Greenway](https://open.spotify.com/artist/62sEOi8iaAJtqjv6pq7XO9) | [Meat Magnet](https://open.spotify.com/album/48xhkBjkwomTJ8XpYK8sxk) | 3:07 | 2023-12-15 |  |
 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 | 2023-05-05 |  |
 | [Message Like a Bomb](https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX) | [Message Like a Bomb](https://open.spotify.com/album/0mRYDMAOJtEGtAkeU7ScNb) | 3:15 | 2023-07-28 |  |
 | [Mind Right](https://open.spotify.com/track/4HRZod3GJM4LeC59Ytn3JC) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Mind Right](https://open.spotify.com/album/2sOtTpQaKQkMAa7Sq4D1Ck) | 3:13 | 2022-08-05 | 2023-07-15 |
@@ -357,6 +360,7 @@
 | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/album/7s8v300WVzKUhsATpx692e) | 5:36 | 2022-09-30 | 2023-07-15 |
 | [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 | 2023-10-13 |  |
 | [Panic Song](https://open.spotify.com/track/41enh722WYrH5i2rJTXCxP) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Panic Song](https://open.spotify.com/album/6gnfEqQYoJqG0FqWYIHANY) | 3:01 | 2022-03-25 | 2023-07-15 |
+| [Paradise Failed \(feat\. Shadows Fall\)](https://open.spotify.com/track/2IoFXiUOo0OQGLRknL7XJc) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf), [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [Paradise Failed \(feat\. Shadows Fall\)](https://open.spotify.com/album/6SJUrr8XhPU3mCwfKpAXEV) | 3:40 | 2023-12-15 |  |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-02 | 2023-07-15 |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-24 | 2023-07-15 |
 | [Pearl](https://open.spotify.com/track/1Ki7u6kfylNZlKVHNsZ54U) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Pearl](https://open.spotify.com/album/2pdE3vNWf94N1aXijKwL3G) | 1:22 | 2023-04-28 |  |
@@ -380,6 +384,7 @@
 | [Psychopath](https://open.spotify.com/track/134Enu11pXxLWWPwadoq2f) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Psychopath](https://open.spotify.com/album/5FfQVGAscDySGRgP799p4Y) | 3:00 | 2023-10-27 |  |
 | [PULSE](https://open.spotify.com/track/5vCM9Qp6iLSORqHXihDx4P) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [PULSE](https://open.spotify.com/album/7vJJxl2wVlT1YEh3qZan4O) | 3:20 | 2023-10-27 |  |
 | [Punishment Existence](https://open.spotify.com/track/3qcvJm4YIazQkccz5n7eFZ) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Punishment Existence](https://open.spotify.com/album/6diHtrU9U8XN0t2li2Fg8N) | 4:07 | 2022-01-28 | 2023-07-15 |
+| [Purge](https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Purge](https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF) | 4:42 | 2023-12-15 |  |
 | [Pushing The Pink Envelope](https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/1aQ0u8V9EOwE8ohlaFeHhm) | 4:11 | 2023-09-22 |  |
 | [Put Your Back Into The Oar](https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Put Your Back Into The Oar](https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo) | 4:37 | 2022-02-18 | 2023-07-15 |
 | [Rage](https://open.spotify.com/track/5fKQoFnP46hSNH2xD6hlDL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/2UaM4rE9GCvkjbdrDyqxwu) | 3:54 | 2022-05-20 | 2023-07-15 |
@@ -528,6 +533,7 @@
 | [Valkyriernes Sang](https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Valkyriernes Sang](https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y) | 3:55 | 2023-10-06 |  |
 | [Valley of Disease](https://open.spotify.com/track/6ikLavFLZeKyA31uxx3nHn) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Valley of Disease](https://open.spotify.com/album/24sVSx3ya9USRw9tsxau3o) | 4:08 | 2022-09-23 | 2023-07-15 |
 | [Very High](https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Very High](https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb) | 1:54 | 2023-04-21 |  |
+| [Vessel of Suffering](https://open.spotify.com/track/3WggKw5QGXX9tcvkQyHq5p) | [Hulder](https://open.spotify.com/artist/65vrcJ67suxLePeEhUtLLo) | [Vessel Of Suffering](https://open.spotify.com/album/0tszKj1sh2azWncyNgc9Vh) | 3:56 | 2023-12-15 |  |
 | [Victim](https://open.spotify.com/track/586QQTfbiI4qtk9l5d1l07) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Dust to Dust](https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS) | 2:57 | 2023-02-03 |  |
 | [Victoria](https://open.spotify.com/track/092s2mBt9gxSKCPjT2CWNz) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Victoria](https://open.spotify.com/album/0UPo0E0JG2cSsce1ehoSpI) | 3:58 | 2022-09-09 | 2023-07-15 |
 | [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 | 2023-06-16 |  |

@@ -2,9 +2,9 @@
 
 ### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Lovely, acoustic pop\. Cover: Haley Joelle
+> Lovely, acoustic pop\. Cover: Alex Warren
 
-224 songs - 12 hr 25 min
+225 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Bruises \- Guitar Acoustic](https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:46 | 2022-01-28 | 2023-04-15 |
 | [Burning Bridges \- up close, acoustic](https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Burning Bridges \(up close, acoustic\)](https://open.spotify.com/album/7iDmvsp438Mr3g1j4unr5F) | 2:48 | 2022-01-28 | 2023-02-25 |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2023-06-16 |  |
-| [Chasing Shadows \- Acoustic](https://open.spotify.com/track/2B9E8ofcNTXRhMtzNgKr4h) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows \(Acoustic\)](https://open.spotify.com/album/7blH1R6aCVgNqRUi8lVp3f) | 2:42 | 2023-04-14 |  |
+| [Chasing Shadows \- Acoustic](https://open.spotify.com/track/2B9E8ofcNTXRhMtzNgKr4h) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows \(Acoustic\)](https://open.spotify.com/album/7blH1R6aCVgNqRUi8lVp3f) | 2:42 | 2023-04-14 | 2023-12-16 |
 | [Chasing Stars \(feat\. James Bay\) \[Stripped\]](https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(Stripped\)](https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz) | 2:44 | 2022-01-28 |  |
 | [Closer \(Side A\)](https://open.spotify.com/track/7xAgn8pKEF0kYykyXOYzGb) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Elliot Greer Presents: Barebones II](https://open.spotify.com/album/1NwqBdHo8IPvu8CKqzwa51) | 3:33 | 2023-12-08 |  |
 | [club \- ballerini album version](https://open.spotify.com/track/76W2GSF7RhguLirVZ7gClG) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 2:46 | 2022-01-28 |  |
@@ -227,6 +227,7 @@
 | [Without Me \- Stripped](https://open.spotify.com/track/7EwVFWY45ClBKUV93a76db) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:02 | 2022-01-28 |  |
 | [Wonder \- Acoustic](https://open.spotify.com/track/3Plgpbvrf4pS7dVeUmzyK9) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/1xKftSvUbbwou80OuiQZFt) | 2:53 | 2022-01-28 | 2022-05-14 |
 | [Worlds On Fire \(with R3HAB & Au/Ra\) \(Acoustic\)](https://open.spotify.com/track/1qMbwBNvXzhHg0nK2ciMUt) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\) \(Acoustic\)](https://open.spotify.com/album/2WspulXhqZ7U6XQAInH2UU) | 2:32 | 2023-06-30 | 2023-10-28 |
+| [Yard Sale \- Folk Version](https://open.spotify.com/track/542DdjMash8Ci6aWpFwT90) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Yard Sale \(Folk Version\)](https://open.spotify.com/album/1GQeJDY5tnkVO3deoOLWXj) | 2:56 | 2023-12-15 |  |
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2022-01-28 |  |
 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 | 2023-06-09 | 2023-10-28 |
 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-27 |  |

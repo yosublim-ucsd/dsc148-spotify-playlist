@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 加藤ミリヤ
 
-2,028 songs - 5 day 11 hr 2 min
+2,029 songs - 5 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Brilliant](https://open.spotify.com/track/7s8Pu5rHHufv1CD6Xj6ko0) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [outliving](https://open.spotify.com/artist/2T4vplbHCoej8xKTcMVhNk) | [Brilliant](https://open.spotify.com/album/4OcEvpSo1TI6qrkgbB89B2) | 3:33 | 2023-12-05 | 2023-12-13 |
 | [Bubble](https://open.spotify.com/track/2z0GNBjMSx3HJLdRKkBg6S) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Bubble](https://open.spotify.com/album/6ns8AeeWp3tOmgPQ9EpIW1) | 2:58 | 2023-06-13 | 2023-06-21 |
 | [Budo Juice](https://open.spotify.com/track/6mUCPz6VnyA62upkWEbYNA) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:09 | 2023-03-28 | 2023-04-05 |
-| [Buriki No Dance](https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Buriki No Dance](https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk) | 3:19 | 2023-11-28 |  |
+| [Buriki No Dance](https://open.spotify.com/track/5m3EBf4cWHWxzjBTCG1gHx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:18 | 2023-12-14 |  |
+| [Buriki No Dance](https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Buriki No Dance](https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk) | 3:19 | 2023-11-28 | 2023-12-16 |
 | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/track/0GTeyD3fKkDzy81I3u32yl) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/album/2ajTXT9fYCCBGIsAQnP6H0) | 4:34 | 2023-01-24 | 2023-01-26 |
 | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/track/3kxwqpINAbuqo2jlW0MwYs) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/album/0Xy27LJYDsqky0xkGXeeUt) | 4:34 | 2023-01-24 | 2023-02-08 |
 | [by my side](https://open.spotify.com/track/1YjRuInbzyhuiiLIUhH2GT) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [by my side](https://open.spotify.com/album/7DiXZ9iUWqwkRHFv7Z6BNy) | 2:41 | 2022-11-01 | 2022-11-09 |

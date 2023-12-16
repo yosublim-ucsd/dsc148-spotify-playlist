@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Marshmello & Tyla",
+  "description": "The hottest new pop with all the drops. Cover: YUQI, ALAN WALKER & JVKE",
   "name": "Fresh Dance Pop",
   "tracks": [
     {
@@ -284,8 +284,8 @@
       },
       "artists": [
         {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/3ndzUh03qyl9TONYfSspqO"
         }
       ],
       "date_added": "2023-12-01",
@@ -2208,7 +2208,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 180967,
       "name": "Catch Me (Beautiful Fall)",
       "url": "https://open.spotify.com/track/1Ibb0sjzCNzhHGe3V1RakV"
@@ -4693,6 +4693,36 @@
     },
     {
       "album": {
+        "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+        "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123624,
+      "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+      "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
+    },
+    {
+      "album": {
         "name": "Firewalk",
         "url": "https://open.spotify.com/album/7q1cqbwRgGWzz341ZFFOpD"
       },
@@ -5324,6 +5354,32 @@
       "duration_ms": 235417,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha"
+    },
+    {
+      "album": {
+        "name": "good to me",
+        "url": "https://open.spotify.com/album/23eWdkcVDVzgkE1rqBjuAI"
+      },
+      "artists": [
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        },
+        {
+          "name": "Jakey KRUMM",
+          "url": "https://open.spotify.com/artist/05NjHhge1XpqyNtgpjsHej"
+        },
+        {
+          "name": "North Ave Jax",
+          "url": "https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121967,
+      "name": "good to me",
+      "url": "https://open.spotify.com/track/15YvfDB4xjwOsIVnFE4h4B"
     },
     {
       "album": {
@@ -6275,6 +6331,28 @@
     },
     {
       "album": {
+        "name": "How Do I Say Goodbye (feat. Delaney Jane)",
+        "url": "https://open.spotify.com/album/2BP6zvUEaHNqxyTCSUGXPZ"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Delaney Jane",
+          "url": "https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "How Do I Say Goodbye (feat. Delaney Jane)",
+      "url": "https://open.spotify.com/track/7EdBkc2HvH9gIlBDtiYmY1"
+    },
+    {
+      "album": {
         "name": "How Do You Love (with Lee Brice & Lindsay Ell)",
         "url": "https://open.spotify.com/album/3s8fBzIbBGrRhlR2dOk4bq"
       },
@@ -6446,6 +6524,28 @@
       "duration_ms": 173360,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
+    },
+    {
+      "album": {
+        "name": "I Can\u2019t Be The Only One",
+        "url": "https://open.spotify.com/album/2O6fjlU6SK9FX4bl5jq5fJ"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171165,
+      "name": "I Can\u2019t Be The Only One",
+      "url": "https://open.spotify.com/track/7GOo87JXSvaZued7ICTp3A"
     },
     {
       "album": {
@@ -6682,6 +6782,24 @@
       "duration_ms": 185522,
       "name": "I Love U",
       "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
+    },
+    {
+      "album": {
+        "name": "I Might",
+        "url": "https://open.spotify.com/album/4NMpGb1smUUcI7uqovgz6N"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rys",
+          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "I Might",
+      "url": "https://open.spotify.com/track/76RqGYYJgQJjI4AR8iZ2KD"
     },
     {
       "album": {
@@ -10279,6 +10397,28 @@
     },
     {
       "album": {
+        "name": "One Of Your Girls (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2osZd5UmUxgyeQYN5Dr9bb"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183818,
+      "name": "One Of Your Girls - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/2g9QPGMEe9WTAMtvotuD1e"
+    },
+    {
+      "album": {
         "name": "One On One",
         "url": "https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW"
       },
@@ -11438,6 +11578,28 @@
       "duration_ms": 216685,
       "name": "Remedy - Sigma Remix",
       "url": "https://open.spotify.com/track/0w9PcuILDOamr0pSTSEWJH"
+    },
+    {
+      "album": {
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/6gwNZoJSrLZlbg8e5FPFWX"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Hilda",
+          "url": "https://open.spotify.com/artist/0gNDtB2LFXVzalP35MXaql"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154356,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/4HPUbi24ZEBCwO9kSQ0Jk3"
     },
     {
       "album": {
@@ -12732,7 +12894,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 216774,
       "name": "Something On My Mind",
       "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
@@ -14928,7 +15090,7 @@
     {
       "album": {
         "name": "HiROQUEST 2: Double Helix",
-        "url": "https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO"
+        "url": "https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT"
       },
       "artists": [
         {
@@ -14943,6 +15105,28 @@
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196849,
+      "name": "Us ft. ERNEST",
+      "url": "https://open.spotify.com/track/0Tcr2YRAz84AVjopX9Sm7Q"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST 2: Double Helix",
+        "url": "https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
       "duration_ms": 196849,
       "name": "Us ft. ERNEST",
       "url": "https://open.spotify.com/track/1pNvwvyu0toAciKIigdbO5"

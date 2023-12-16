@@ -296,8 +296,8 @@
           "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
         },
         {
-          "name": "Youngveer",
-          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
         }
       ],
       "date_added": "2023-12-14",
@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 215316,
       "name": "Leke Prabhu Ka Naam (From \"Tiger 3\")",
       "url": "https://open.spotify.com/track/66v97IvccVkHt40FIOq1LH"
@@ -3350,6 +3350,32 @@
       "duration_ms": 218423,
       "name": "Saure Ghar (From \"Yaariyan 2\")",
       "url": "https://open.spotify.com/track/6HygOrpoVjDPqrOBi4fPpR"
+    },
+    {
+      "album": {
+        "name": "Sher Khul Gaye (From \"Fighter\")",
+        "url": "https://open.spotify.com/album/1U6AnQckzmqa0k1MerIOUs"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180172,
+      "name": "Sher Khul Gaye (From \"Fighter\")",
+      "url": "https://open.spotify.com/track/0VXBujZKMLLlmee25BXEQs"
     },
     {
       "album": {

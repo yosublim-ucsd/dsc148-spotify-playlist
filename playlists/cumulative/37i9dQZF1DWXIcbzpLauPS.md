@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: I SEE STARS
+> Metalcore at its finest\. Cover: NOVELISTS
 
-791 songs - 2 day 1 hr 30 min
+792 songs - 2 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Asymmetry](https://open.spotify.com/track/3DKSM1HppHmGgEztFS5q2T) | [Eradicate Me](https://open.spotify.com/artist/1PqHlQtpYfnuWGNoWhZB6l) | [Asymmetry](https://open.spotify.com/album/5ArIhP5EoNogavKjUzWg89) | 3:13 | 2022-07-13 | 2022-07-23 |
 | [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 | 2022-05-28 |
 | [Awake](https://open.spotify.com/track/7B5rQr5b0wyfH108vtVMUI) | [Devil In Me](https://open.spotify.com/artist/4iJJYo1VWZPEvJzE8YxXqL) | [On The Grind](https://open.spotify.com/album/5I8Uwe1MtN6WWMKVHo1IDM) | 2:56 | 2022-01-14 | 2022-02-26 |
-| [away](https://open.spotify.com/track/4rNn6vx1vmzJfr894A5bM7) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [away](https://open.spotify.com/album/0TWnG9BOpdFeMZAKTWFVUT) | 4:22 | 2022-12-16 |  |
+| [away](https://open.spotify.com/track/4rNn6vx1vmzJfr894A5bM7) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [away](https://open.spotify.com/album/0TWnG9BOpdFeMZAKTWFVUT) | 4:22 | 2022-12-16 | 2023-12-16 |
 | [Baba Yaga](https://open.spotify.com/track/2qk76H18li0kh0hPJTZmMk) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Baba Yaga](https://open.spotify.com/album/1fUP56lgqAS5bzycn35WAl) | 4:15 | 2022-07-13 | 2022-07-23 |
 | [Back for More](https://open.spotify.com/track/3DM9DwtKbAiwvRc4bJ1NyF) | [AVIIRA](https://open.spotify.com/artist/5jrO7JLjq5hKKKENDwrun4) | [Back for More](https://open.spotify.com/album/490ljTJrUAlYnjTgjMQMrU) | 3:41 | 2021-12-17 | 2022-01-08 |
 | [Backfire](https://open.spotify.com/track/2zd7WJWnvGNNnqnNZ2xzkg) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:22 | 2023-03-31 | 2023-09-16 |
@@ -472,6 +472,7 @@
 | [Monster](https://open.spotify.com/track/3s14tMRyXZ9p9vpWfjAf3Q) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Alternate Realities](https://open.spotify.com/album/71Lcm9f08c9QDz7beKpp43) | 3:18 | 2022-03-18 | 2022-05-21 |
 | [MONSTER](https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [MONSTER](https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9) | 3:24 | 2022-02-11 | 2022-04-23 |
 | [Mother's Repine](https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD) | [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Mother's Repine](https://open.spotify.com/album/3L1lsCwUm2rIXFhh36Tx5n) | 3:34 | 2022-07-13 | 2022-07-16 |
+| [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 | 2023-12-15 |  |
 | [My Demon](https://open.spotify.com/track/7tWHAHMCxxyoxEWafamf3F) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [My Demon](https://open.spotify.com/album/0HY8gcdCCNbZnM5cQKnnJH) | 3:01 | 2022-04-01 | 2022-06-11 |
 | [My Everything](https://open.spotify.com/track/1Zsy3xy9TvYELEGg1js4yw) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4) | 3:53 | 2023-03-10 |  |
 | [MY WAY](https://open.spotify.com/track/7m2pH8YJAhAXN0ini7NV4K) | [STEELSHOOTER](https://open.spotify.com/artist/5e4eCpkqD4AK5mFyRjDPSk) | [MY WAY](https://open.spotify.com/album/7EQ3ZSc4aBHBSCx6IjPLEH) | 2:32 | 2022-07-13 | 2022-07-16 |

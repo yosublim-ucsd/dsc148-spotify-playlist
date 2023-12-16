@@ -4114,7 +4114,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 181318,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8"
@@ -6841,6 +6841,24 @@
     },
     {
       "album": {
+        "name": "pizzas lalin freestyle",
+        "url": "https://open.spotify.com/album/3NKPeFeHkwgarbvQDZlbua"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "pizzas lalin freestyle",
+      "url": "https://open.spotify.com/track/1InVblPYh4DpszAJpOm1eI"
+    },
+    {
+      "album": {
         "name": "Plakoson",
         "url": "https://open.spotify.com/album/6ni2nMiyyoUY5DLvualRIU"
       },
@@ -7643,6 +7661,28 @@
     },
     {
       "album": {
+        "name": "Rap y Calle No. 15",
+        "url": "https://open.spotify.com/album/2vCrdTZlz1ilVKY1UrqCUg"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Tankeone",
+          "url": "https://open.spotify.com/artist/6CJ0EnASyencrooPZNBpaB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Rap y Calle No. 15",
+      "url": "https://open.spotify.com/track/1XCxkTqxdQu83IDH491H24"
+    },
+    {
+      "album": {
         "name": "RCKY BALBOA",
         "url": "https://open.spotify.com/album/694zroK8Vzyk6Hyi6qQJtO"
       },
@@ -7694,7 +7734,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 202517,
       "name": "Requisito 420",
       "url": "https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO"

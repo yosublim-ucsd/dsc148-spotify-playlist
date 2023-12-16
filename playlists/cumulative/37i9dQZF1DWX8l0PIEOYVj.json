@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "All Around Me",
+        "url": "https://open.spotify.com/album/24kWp8UgeW6UEdJo1OggDo"
+      },
+      "artists": [
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214599,
+      "name": "All Around Me",
+      "url": "https://open.spotify.com/track/14es1xHTQWKyK1c8VZuaci"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 291200,
       "name": "Another Way",
       "url": "https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv"
@@ -548,7 +566,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 202788,
       "name": "Art Of Letting Go (feat. James Gillespie)",
       "url": "https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX"
@@ -648,6 +666,32 @@
       "duration_ms": 192900,
       "name": "Away From Myself",
       "url": "https://open.spotify.com/track/1MTHQrIE43p9HnjtC5kBDP"
+    },
+    {
+      "album": {
+        "name": "Back In Time",
+        "url": "https://open.spotify.com/album/7fsKyGmfki0E7u7t6KISeu"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "MmmCherry",
+          "url": "https://open.spotify.com/artist/2pjOLjJD4lElSnRaeYad57"
+        },
+        {
+          "name": "Leah Culver",
+          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290482,
+      "name": "Back In Time",
+      "url": "https://open.spotify.com/track/6APQnRyhLuPtpWyYDNSyCt"
     },
     {
       "album": {
@@ -858,7 +902,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 287000,
       "name": "Before You Leave",
       "url": "https://open.spotify.com/track/5tkIlZJ0rIGFpNg0q94H10"
@@ -1004,7 +1048,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 252278,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/3UMEjrLQVEq2S1SBpxRPei"
@@ -1774,7 +1818,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 190985,
       "name": "Denial",
       "url": "https://open.spotify.com/track/7J7bv8GnGKDgKKqmsYsY4H"
@@ -4310,6 +4354,28 @@
     {
       "album": {
         "name": "Here & Now",
+        "url": "https://open.spotify.com/album/3YOC4EbjmKKpS52xBcOd4A"
+      },
+      "artists": [
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "Francis Skyes",
+          "url": "https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Here & Now (Holding On)",
+      "url": "https://open.spotify.com/track/2BkFJvfU6tNKY1nodlWUN6"
+    },
+    {
+      "album": {
+        "name": "Here & Now",
         "url": "https://open.spotify.com/album/6QRUf7H4GVlTNT42e8SWKG"
       },
       "artists": [
@@ -5042,7 +5108,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 276383,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/5wYHPCDZjhEYbbehpjmk2J"
@@ -5828,7 +5894,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 234776,
       "name": "Love Is A Highway (feat. NERIAH)",
       "url": "https://open.spotify.com/track/1725ZPzVwEYaFTztQzmu9s"
@@ -9844,7 +9910,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 263200,
       "name": "We Fall Down",
       "url": "https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy"
@@ -9984,7 +10050,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 211862,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/493ydMYkpqzzn69ztUszv3"

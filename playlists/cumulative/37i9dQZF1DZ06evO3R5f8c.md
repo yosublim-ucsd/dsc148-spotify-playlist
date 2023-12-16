@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-84 songs - 10 hr 42 min
+85 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [We Are One \- Black Coffee Original Dub](https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [We Are One](https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz) | 7:58 | 2021-12-28 |  |
 | [We Dance Again](https://open.spotify.com/track/6HvCOJvbEzVTmEFmv79pTf) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [We Dance Again](https://open.spotify.com/album/2ASR0MV1bBqDKVaS3jDxGD) | 4:41 | 2021-12-28 |  |
 | [Wish You Were Here](https://open.spotify.com/track/5TsLsLTg3kTuv2RMRL3vaB) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here](https://open.spotify.com/album/7iRNDskXthAJT8k6k4qZzV) | 4:32 | 2021-12-28 |  |
-| [You Need Me \(feat\. Maxine Ashley & Sun\-El Musician\)](https://open.spotify.com/track/2ieFaRzeA5yfRjanzaBS8Q) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 6:15 | 2021-12-28 |  |
+| [You Need Me \(feat\. Maxine Ashley & Sun\-El Musician\)](https://open.spotify.com/track/2ieFaRzeA5yfRjanzaBS8Q) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 6:15 | 2021-12-28 | 2023-12-16 |
+| [You Need Me \(feat\. Maxine Ashley & Sun\-El Musician\) \(feat\. Maxine Ashley & Sun\-El Musician\)](https://open.spotify.com/track/5XXmLfa7hehw6WNPntuvFx) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 6:15 | 2023-12-15 |  |
 | [You Turn Me On](https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:13 | 2022-07-02 |  |
 | [Your Eyes](https://open.spotify.com/track/3E9mI43Xj65JMRcKZMIxtV) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Your Eyes](https://open.spotify.com/album/5eBzVYiQ4l3SOJyDIfSYMP) | 4:10 | 2021-12-28 |  |
 

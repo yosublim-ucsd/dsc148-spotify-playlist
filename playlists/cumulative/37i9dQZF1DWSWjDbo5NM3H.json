@@ -1469,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 3 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/2bO8T4lcPz1Zzx6YFv0Qm7"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "Girl's generation",
+      "url": "https://open.spotify.com/track/5VkE9KtLSfVt82bpX904TW"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.3 [Live]",
         "url": "https://open.spotify.com/album/3MfMXBnTshqDB6haaZg7Xl"
       },
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 179680,
       "name": "Girl's generation - Live",
       "url": "https://open.spotify.com/track/5zNzhWzZgS4CajXcPNAPPs"
@@ -2018,8 +2036,8 @@
           "url": "https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI"
         },
         {
-          "name": "Seo Young Ju",
-          "url": "https://open.spotify.com/artist/5BGs9LtlPLWs8NNmVsw5Fa"
+          "name": "Seo YoungJu of Nerd Connection",
+          "url": "https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr"
         }
       ],
       "date_added": "2022-07-20",
@@ -4745,24 +4763,6 @@
     },
     {
       "album": {
-        "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV Show)",
-        "url": "https://open.spotify.com/album/6af1BRXMXeUySRV7TAj4Sv"
-      },
-      "artists": [
-        {
-          "name": "Seo Young Ju",
-          "url": "https://open.spotify.com/artist/5BGs9LtlPLWs8NNmVsw5Fa"
-        }
-      ],
-      "date_added": "2022-07-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203310,
-      "name": "With you - Live",
-      "url": "https://open.spotify.com/track/3IYw8aTdhYp55e9WybqzAY"
-    },
-    {
-      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.6 [Live]",
         "url": "https://open.spotify.com/album/6I7E0bs8De5BTPFyNnIzXI"
       },
@@ -4778,6 +4778,24 @@
       "duration_ms": 203310,
       "name": "With you - Live",
       "url": "https://open.spotify.com/track/3iPH5A2rCIvhUpVC5u43ro"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV Show)",
+        "url": "https://open.spotify.com/album/6af1BRXMXeUySRV7TAj4Sv"
+      },
+      "artists": [
+        {
+          "name": "Seo YoungJu of Nerd Connection",
+          "url": "https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203310,
+      "name": "With you - Live",
+      "url": "https://open.spotify.com/track/3IYw8aTdhYp55e9WybqzAY"
     },
     {
       "album": {

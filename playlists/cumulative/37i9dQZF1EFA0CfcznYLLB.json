@@ -2737,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Garrafas e Bocas (A Saideira)",
+        "url": "https://open.spotify.com/album/1OkHrSmhDHn8q4y6P4JYb6"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187711,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/4GsIfzjwGJbC5uWKwIdsHN"
+    },
+    {
+      "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/4cwGmNixX4JhqPVr26enrO"
       },
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 215808,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/288BphIlN4jqBvndYM85eZ"
@@ -2788,10 +2806,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml"
+    },
+    {
+      "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/2WJp24bUYBKyBPRtHy08DV"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204045,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/4fFJKLWwKqUmMolFi7b7Vb"
     },
     {
       "album": {
@@ -3770,10 +3810,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 103777,
       "name": "Misery Loves Company",
       "url": "https://open.spotify.com/track/4ui1Pja7YshNBdalTg6Swp"
+    },
+    {
+      "album": {
+        "name": "Misery Loves Company",
+        "url": "https://open.spotify.com/album/1Nmt85yvFpWEluqTVJURrw"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103903,
+      "name": "Misery Loves Company",
+      "url": "https://open.spotify.com/track/5DFxXh1HrWyKlUy1rXuxpd"
     },
     {
       "album": {
@@ -3876,7 +3934,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 303076,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
@@ -3902,7 +3960,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 317275,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/64xUwmvY5uEikzTGJWxVgn"
@@ -4383,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "NORTHSIDE",
+        "url": "https://open.spotify.com/album/1mfl1ZqMP3FQfY2AWSi9VS"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208708,
+      "name": "NORTHSIDE",
+      "url": "https://open.spotify.com/track/6HWhCZfP4JJiDWFVRjA4Sc"
+    },
+    {
+      "album": {
         "name": "Ama, who?",
         "url": "https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw"
       },
@@ -4394,7 +4470,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 209722,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf"
@@ -5068,10 +5144,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 165925,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
+    },
+    {
+      "album": {
+        "name": "RAPSTAR (Official Video)",
+        "url": "https://open.spotify.com/album/4eD14m5SXSKXQjwLBWNSvT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/4GFswbsSpiVT4OLcJYPj5l"
     },
     {
       "album": {
@@ -5599,6 +5693,28 @@
     },
     {
       "album": {
+        "name": "Still Got Time (Official Video)",
+        "url": "https://open.spotify.com/album/2ExknKVGZ3LsUaw7E0zpIC"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225002,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/3U2fhbo37wXw92wetfbwqV"
+    },
+    {
+      "album": {
         "name": "Icarus Falls",
         "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
       },
@@ -5614,7 +5730,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 188490,
       "name": "Still Got Time (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/75xAS5ctghhPaL7BJi34hi"

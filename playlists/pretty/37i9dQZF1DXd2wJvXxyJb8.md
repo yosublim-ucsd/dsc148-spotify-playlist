@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > 15 dias pro fim do ano ein bicho SALVE\-SE QUEM PUDER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,588 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216,163 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 2 | [Eu Vou Tomar um Tacacá \- Poze x Joelma](https://open.spotify.com/track/6zVB2lbhbyf5u8Z7FlXma9) | [Deejay Lucca](https://open.spotify.com/artist/5OBENqsuqpWLapuOJTvCsK) | [Eu Vou Tomar um Tacacá \- Poze x Joelma](https://open.spotify.com/album/2VEfCJRPmrMDNQCzEXycTd) | 1:57 |
 | 3 | [Baile do Bruxo](https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Baile do Bruxo](https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx) | 3:41 |
 | 4 | [Quer Ser Minha Atriz \(feat\. DJ Lc do Martins\)](https://open.spotify.com/track/6GBwa8Kb3hGyf4Gk9Bs2qb) | [DJ Fb de Niteroi](https://open.spotify.com/artist/0t4tLEUHkkktoY9vnaLW3B), [PL Torvic](https://open.spotify.com/artist/6EsIkeJwPhFIfzJ5l8CGSm), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Lc do Martins](https://open.spotify.com/artist/4F8L071IkAkc3QaNKuUReg) | [Quer Ser Minha Atriz \[Remix Funk RJ\]](https://open.spotify.com/album/61bnAZo53stAlV7Moq5pEM) | 2:11 |
-| 5 | [É Tesão ou É Amor](https://open.spotify.com/track/7tDkT8KRWl7xyghFLwgTgt) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV) | [É Tesão ou É Amor](https://open.spotify.com/album/0Om40W41WEFM4xJeRI7S3a) | 2:38 |
+| 5 | [É Tesão ou É Amor](https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [É Tesão ou É Amor](https://open.spotify.com/album/6yimbyJdwJgL4bKA8MfS1s) | 2:38 |
 | 6 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 7 | [Então Vai](https://open.spotify.com/track/5umLuCLbHMc0m1lWNru1UL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Coloca O Capacete](https://open.spotify.com/album/3BzQ4N413txzGk13Wxahsw) | 2:43 |
 | 8 | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7) | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL) | 2:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 64 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
 | 65 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 |
 
-Snapshot ID: `MCwyYTI2NWYzODhmNzViYTRlZWJlOWU1NzUxNDU1Y2Q1ZDIwNjZhNzdm`
+Snapshot ID: `MCxiNTVlZTk0ZWQyN2VmYjY0ZTdhY2FhNWY0YjhhYWFkYzVjYzk4NmVl`

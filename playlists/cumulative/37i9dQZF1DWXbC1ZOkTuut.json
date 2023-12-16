@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Herencia de Grandes",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Luis Alfonso Partida El Yaki",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Corridos Alternativos",
+        "url": "https://open.spotify.com/album/6XATE16MzC571kcQ66D6te"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148261,
+      "name": "Abundan los Billetes",
+      "url": "https://open.spotify.com/track/1hkr0aU0ltKFJn3usZNqNV"
+    },
+    {
+      "album": {
         "name": "Mil Pedazos",
         "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
       },
@@ -136,6 +158,24 @@
       "duration_ms": 161905,
       "name": "Adivina D\u00f3nde Estoy",
       "url": "https://open.spotify.com/track/1m9xETNiRKEE5h2UxGZFA1"
+    },
+    {
+      "album": {
+        "name": "Perdona (Estudio)",
+        "url": "https://open.spotify.com/album/1VqXJXP3g6etYfTeBHWWW0"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142178,
+      "name": "Afirmo Y Confirmo",
+      "url": "https://open.spotify.com/track/6B0RIpnSENnQ1pVglfhh9W"
     },
     {
       "album": {
@@ -1809,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "El Rog\u00f3n",
+        "url": "https://open.spotify.com/album/4z8VsTXlpgRpqLCucPhGlD"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161346,
+      "name": "El Rog\u00f3n",
+      "url": "https://open.spotify.com/track/3RBeE3VtrTXxGILHzdlxSe"
+    },
+    {
+      "album": {
         "name": "Fiesta, Fiesta",
         "url": "https://open.spotify.com/album/5oMNdms9HuOfAtlUf3mF8J"
       },
@@ -1878,6 +1936,32 @@
       "duration_ms": 163536,
       "name": "El Yuko (En Vivo)",
       "url": "https://open.spotify.com/track/2tTHGLNxwZ4vIL3hYppWvl"
+    },
+    {
+      "album": {
+        "name": "Culiac\u00e1n Deluxe 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272913,
+      "name": "El Zapata (En Vivo)",
+      "url": "https://open.spotify.com/track/2I6NDO6Y43LseIqBj5v3oC"
     },
     {
       "album": {
@@ -2965,6 +3049,28 @@
     },
     {
       "album": {
+        "name": "Culiac\u00e1n Deluxe 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Los Intocables Del Norte",
+          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261157,
+      "name": "Lo Que No Sab\u00edan de Balta (En Vivo)",
+      "url": "https://open.spotify.com/track/5PyjETNqm2TqFBcOfU6EJz"
+    },
+    {
+      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -3016,6 +3122,24 @@
       "duration_ms": 195626,
       "name": "Los 3 Tipos",
       "url": "https://open.spotify.com/track/0gAh4p8QTyCms9HnGuLF7K"
+    },
+    {
+      "album": {
+        "name": "El Rog\u00f3n",
+        "url": "https://open.spotify.com/album/4z8VsTXlpgRpqLCucPhGlD"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "Los Hombres Tambi\u00e9n Lloran",
+      "url": "https://open.spotify.com/track/2PZSxu1jwgjhjtW6HGBULI"
     },
     {
       "album": {
@@ -3153,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "El Rog\u00f3n",
+        "url": "https://open.spotify.com/album/4z8VsTXlpgRpqLCucPhGlD"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Malamente",
+      "url": "https://open.spotify.com/track/4jIwk3iqEMDH77PPuNJcJu"
+    },
+    {
+      "album": {
         "name": "La S\u00e1nchez",
         "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
       },
@@ -3284,6 +3426,24 @@
       "duration_ms": 239420,
       "name": "Me Decepcionaste",
       "url": "https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl"
+    },
+    {
+      "album": {
+        "name": "Perdona (Estudio)",
+        "url": "https://open.spotify.com/album/1VqXJXP3g6etYfTeBHWWW0"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133522,
+      "name": "Me Enamor\u00e9 De Sinaloa",
+      "url": "https://open.spotify.com/track/7kjWgdYIpunRnxv3tUTDGD"
     },
     {
       "album": {
@@ -4085,6 +4245,24 @@
     },
     {
       "album": {
+        "name": "Perdona (Estudio)",
+        "url": "https://open.spotify.com/album/1VqXJXP3g6etYfTeBHWWW0"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150685,
+      "name": "Nunca Existi\u00f3",
+      "url": "https://open.spotify.com/track/41Xea12Hh4dXhJZzk1iGU6"
+    },
+    {
+      "album": {
         "name": "Segunda Temporada",
         "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
       },
@@ -4373,6 +4551,28 @@
     },
     {
       "album": {
+        "name": "Corridos Alternativos",
+        "url": "https://open.spotify.com/album/6XATE16MzC571kcQ66D6te"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Daniel Vazquez",
+          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128591,
+      "name": "Polvito Lila",
+      "url": "https://open.spotify.com/track/6YfxqE4R21DdrmarfEkQmF"
+    },
+    {
+      "album": {
         "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
         "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
       },
@@ -4406,6 +4606,28 @@
       "duration_ms": 180394,
       "name": "Poquito a Poco",
       "url": "https://open.spotify.com/track/7v4VONOI3WKPui7J3gdIcz"
+    },
+    {
+      "album": {
+        "name": "Corridos Alternativos",
+        "url": "https://open.spotify.com/album/6XATE16MzC571kcQ66D6te"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Gabriel Ssoe",
+          "url": "https://open.spotify.com/artist/6jj51ACAVuQf2879t7p7O8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172164,
+      "name": "Por la Ciudad",
+      "url": "https://open.spotify.com/track/4Qs1ZU59JCbzEhW0UCb8Xg"
     },
     {
       "album": {
@@ -5138,6 +5360,28 @@
       "duration_ms": 198321,
       "name": "Sorry Pa\u2019 Los Gabachos",
       "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
+    },
+    {
+      "album": {
+        "name": "Culiac\u00e1n Deluxe 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234273,
+      "name": "Soy El Cabez\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/7yWlXAjKdfdAPRLrk6mZ9X"
     },
     {
       "album": {

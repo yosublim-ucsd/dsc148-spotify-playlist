@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 164114,
       "name": "*69",
       "url": "https://open.spotify.com/track/25y8mFqpFmhHTma6f0LEW1"
@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 196799,
       "name": "Neon",
       "url": "https://open.spotify.com/track/2M2MpJLcjmuXYDbFrA8OoE"
@@ -6127,6 +6127,24 @@
     },
     {
       "album": {
+        "name": "Roadkill",
+        "url": "https://open.spotify.com/album/07MbK4v2mIQz0rYBBGUzMs"
+      },
+      "artists": [
+        {
+          "name": "Ev Bird",
+          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135343,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/409Wu3XqnCwqgXV3JM175Y"
+    },
+    {
+      "album": {
         "name": "Rock & roll sur ton chemin",
         "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
       },
@@ -6588,6 +6606,24 @@
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "album": {
+        "name": "*69 b/w Spotlite",
+        "url": "https://open.spotify.com/album/1Ftwhb11RZkJ6gjLU3NyXR"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156128,
+      "name": "Spotlite",
+      "url": "https://open.spotify.com/track/2E2lgZQrewdgFAHoGRp7ob"
     },
     {
       "album": {

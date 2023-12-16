@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 154900,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/50jNARBU3p0YcvDx2LSM7L"
@@ -5462,7 +5462,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 213869,
       "name": "Godiva",
       "url": "https://open.spotify.com/track/5bHIPAiHcWMeBMkchlJtY1"
@@ -9191,6 +9191,28 @@
     },
     {
       "album": {
+        "name": "Mon Aura",
+        "url": "https://open.spotify.com/album/4vP0R9pgditMVbL1nS14Xn"
+      },
+      "artists": [
+        {
+          "name": "Mecca of Stank",
+          "url": "https://open.spotify.com/artist/7IhF8c7PdWTObgQWyH48Nz"
+        },
+        {
+          "name": "KLo E",
+          "url": "https://open.spotify.com/artist/6sD8xYpgXpEsftGymdETQU"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362534,
+      "name": "Mon Aura",
+      "url": "https://open.spotify.com/track/08mPDKpDc0Si2jGw8pMjUY"
+    },
+    {
+      "album": {
         "name": "MORAL",
         "url": "https://open.spotify.com/album/7eMOW9nITxzhIs7RUzv26H"
       },
@@ -11932,7 +11954,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 148717,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp"
@@ -16201,6 +16223,28 @@
     },
     {
       "album": {
+        "name": "Welcome to Nostalgia",
+        "url": "https://open.spotify.com/album/5FfiLItrCZyXr8n9i7AuUm"
+      },
+      "artists": [
+        {
+          "name": "Ruben Young",
+          "url": "https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF"
+        },
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221702,
+      "name": "Welcome to Nostalgia",
+      "url": "https://open.spotify.com/track/42ES1zVyBVYY0oLeLTJK5Q"
+    },
+    {
+      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
       },
@@ -17002,6 +17046,24 @@
       "duration_ms": 169516,
       "name": "Young Boy Problems",
       "url": "https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo"
+    },
+    {
+      "album": {
+        "name": "Your Biggest Fan",
+        "url": "https://open.spotify.com/album/7uzehpmU3qefejzvQqSXZn"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Your Biggest Fan",
+      "url": "https://open.spotify.com/track/12zOYNZ9vqbKbRBRlC7jwr"
     },
     {
       "album": {

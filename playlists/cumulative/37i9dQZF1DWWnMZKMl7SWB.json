@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 156927,
       "name": "Alley",
       "url": "https://open.spotify.com/track/1inA5xQQGch2bU4NS5uNqY"
@@ -3970,6 +3970,24 @@
       "duration_ms": 138795,
       "name": "Cavaquinho",
       "url": "https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw"
+    },
+    {
+      "album": {
+        "name": "Changing Lanes",
+        "url": "https://open.spotify.com/album/6W1heIRffQoahfENAWZ9v3"
+      },
+      "artists": [
+        {
+          "name": "Weekly Bagel",
+          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Changing Lanes",
+      "url": "https://open.spotify.com/track/3j6aJ31Ri6y6Oywx7tM38W"
     },
     {
       "album": {
@@ -10806,7 +10824,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 171233,
       "name": "Jokes On You I'm A Ninja",
       "url": "https://open.spotify.com/track/1FggDvwM0V0pmjsko1FhQz"
@@ -14136,6 +14154,24 @@
       "duration_ms": 153000,
       "name": "New Beat",
       "url": "https://open.spotify.com/track/14uY4GHgFvf4A0kRkrGTVZ"
+    },
+    {
+      "album": {
+        "name": "new cans",
+        "url": "https://open.spotify.com/album/7tkx7cknQ6rRta2uiBypHL"
+      },
+      "artists": [
+        {
+          "name": "Re-Lax & Re-Why'nd",
+          "url": "https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134874,
+      "name": "new cans",
+      "url": "https://open.spotify.com/track/099r2YIhwSeUsDOaqG0tXb"
     },
     {
       "album": {

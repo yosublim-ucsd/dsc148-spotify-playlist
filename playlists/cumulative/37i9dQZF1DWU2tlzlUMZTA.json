@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Mast Mein Rehne Ka",
+        "url": "https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf"
+      },
+      "artists": [
+        {
+          "name": "Kaam Bhaari",
+          "url": "https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3"
+        },
+        {
+          "name": "Jackie Shroff",
+          "url": "https://open.spotify.com/artist/46SMOVWQ7uye43ncijUu98"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136076,
+      "name": "Mast Mein Rehne Ka Title Track (Feat. Jackie Shroff)",
+      "url": "https://open.spotify.com/track/0BXR32oDbjYIjOVKcs30qy"
+    },
+    {
+      "album": {
         "name": "Nyaay Yuddh Dharm Yuddh",
         "url": "https://open.spotify.com/album/1HAIYajWGoWi2syh7owPqg"
       },

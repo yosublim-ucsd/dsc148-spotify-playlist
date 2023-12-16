@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo 5, Joey Montana",
-  "num_followers": 108627,
+  "num_followers": 108685,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzk5NWMzOWFhNjNkYjgxMGZkY2E2Y2U0NWE3NzU2MjA0ZWUzNjcy",
+  "snapshot_id": "MCwzNjZjMDViYzkyZjljNjg4ODhiNmNlNTgyNjgxNGNmYjFkYTkzZjBi",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -663,8 +663,8 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Domingos de Fiesta (En Vivo)",
-        "url": "https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy"
+        "name": "Tu Amor Fue una Mentira, Vol. 11",
+        "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
         }
       ],
-      "duration_ms": 247536,
-      "name": "Tu Traici\u00f3n Se Acab\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS"
+      "duration_ms": 213826,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/13kU9mfnrPRqd0TPjk0Sms"
+      },
+      "artists": [
+        {
+          "name": "Armonia 10",
+          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
+        }
+      ],
+      "duration_ms": 330933,
+      "name": "Cervecero",
+      "url": "https://open.spotify.com/track/3HfZfxi1UWSK0GssEUgM1R"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "No S\u00e9",
         "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Historia Musical",
-        "url": "https://open.spotify.com/album/13kU9mfnrPRqd0TPjk0Sms"
-      },
-      "artists": [
-        {
-          "name": "Armonia 10",
-          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
-        }
-      ],
-      "duration_ms": 330933,
-      "name": "Cervecero",
-      "url": "https://open.spotify.com/track/3HfZfxi1UWSK0GssEUgM1R"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "El Tirul\u00e1",
         "url": "https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG"
       },
@@ -807,8 +807,8 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Tu Amor Fue una Mentira, Vol. 11",
-        "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
+        "name": "Domingos de Fiesta (En Vivo)",
+        "url": "https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
         }
       ],
-      "duration_ms": 213826,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
+      "duration_ms": 247536,
+      "name": "Tu Traici\u00f3n Se Acab\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS"
     }
   ],
   "unique_name": "Cumbias de Oro",

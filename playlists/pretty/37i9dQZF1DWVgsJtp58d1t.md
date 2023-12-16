@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best songs of 2023 across all of Frequency's genre playlists!  Cover: <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,915 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,048 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Air I Breathe](https://open.spotify.com/track/546AarSsNEMYLpLCRYqmB6) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:41 |
 | 100 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 |
 
-Snapshot ID: `MCw0ZmM0N2U4MzRkNDljNmQzNzMwNjYxNWEzNDlkZmQ5Yzg3NjEzODhh`
+Snapshot ID: `MCxhM2U3MGQ5M2IzYTFkOTQyZWNmNmE2ZTg1ZGFkNjc0MjdmMjkzODVl`

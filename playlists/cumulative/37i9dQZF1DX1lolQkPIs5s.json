@@ -3047,6 +3047,28 @@
     },
     {
       "album": {
+        "name": "Wish (Japanese Original Soundtrack)",
+        "url": "https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR"
+      },
+      "artists": [
+        {
+          "name": "Erika Ikuta",
+          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147946,
+      "name": "Welcome To Rosas",
+      "url": "https://open.spotify.com/track/5c3bvB7zb0Oasv0djPgkWm"
+    },
+    {
+      "album": {
         "name": "Welcome To Rosas (From \"Wish\"/Soundtrack Version)",
         "url": "https://open.spotify.com/album/2OwYly4n2Y4saLkIWCbycG"
       },
@@ -3062,7 +3084,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 147946,
       "name": "Welcome To Rosas - From \"Wish\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5ySSse1zgkV8c2aVa8gy36"

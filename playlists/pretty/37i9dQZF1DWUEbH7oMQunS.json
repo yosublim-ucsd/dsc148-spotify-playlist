@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58562,
+  "num_followers": 58563,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTRlZWM4ZmEwZWM5YzQ2YzhjNDQwMjg5MDgzNDJhYzM1ZDBmNjc4",
+  "snapshot_id": "MCw3M2ZlYjYyM2MxZTVmYjRhN2ZiYzE4ZjgyMjRmZGY4MDQwNmNkYzg4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Asaph",
-        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 342453,
-      "name": "(73) the Nearness of You",
-      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Attention (a Devotional Project)",
         "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 222613,
       "name": "Rest with Me",
       "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Asaph",
+        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 342453,
+      "name": "(73) the Nearness of You",
+      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Eternal Jetlag",
-        "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
-      },
-      "artists": [
-        {
-          "name": "WILLO",
-          "url": "https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N"
-        }
-      ],
-      "duration_ms": 236172,
-      "name": "I Go",
-      "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 358373,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Eternal Jetlag",
+        "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
+      },
+      "artists": [
+        {
+          "name": "WILLO",
+          "url": "https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N"
+        }
+      ],
+      "duration_ms": 236172,
+      "name": "I Go",
+      "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
-      },
-      "artists": [
-        {
-          "name": "Radiant City Music",
-          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
-        },
-        {
-          "name": "Devin Strasser",
-          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
-        }
-      ],
-      "duration_ms": 338504,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 391413,
       "name": "Abba - Live",
       "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
+      },
+      "artists": [
+        {
+          "name": "Radiant City Music",
+          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
+        },
+        {
+          "name": "Devin Strasser",
+          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
+        }
+      ],
+      "duration_ms": 338504,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
-      },
-      "artists": [
-        {
-          "name": "Audrey Marie",
-          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I'm Healing",
         "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 150612,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
+      },
+      "artists": [
+        {
+          "name": "Audrey Marie",
+          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I Won't Let Go",
-        "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "I Won't Let Go",
-      "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Undress My Heart",
         "url": "https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "I Won't Let Go",
+        "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "I Won't Let Go",
+      "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Suddenly - EP",
         "url": "https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 289213,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
-      },
-      "artists": [
-        {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
-        }
-      ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "undone",
-        "url": "https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z"
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
       },
       "artists": [
         {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
         }
       ],
-      "duration_ms": 291242,
-      "name": "dust to dust/lose myself (undone)",
-      "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 252631,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "undone",
+        "url": "https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 291242,
+      "name": "dust to dust/lose myself (undone)",
+      "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1631,38 +1631,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Caves (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ"
-      },
-      "artists": [
-        {
-          "name": "Caves",
-          "url": "https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD"
-        }
-      ],
-      "duration_ms": 331026,
-      "name": "A Reason to Hide",
-      "url": "https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "There is a King (Live Rehearsal Demo)",
-        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 222421,
-      "name": "There is a King - Live Rehearsal Demo",
-      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Even Here Love Comes",
         "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
@@ -1683,6 +1651,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Caves (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ"
+      },
+      "artists": [
+        {
+          "name": "Caves",
+          "url": "https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD"
+        }
+      ],
+      "duration_ms": 331026,
+      "name": "A Reason to Hide",
+      "url": "https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 219782,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "SEVEN",
+        "url": "https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n"
+      },
+      "artists": [
+        {
+          "name": "Gamie",
+          "url": "https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "God Keep Us",
+      "url": "https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr"
     }
   ],
   "unique_name": "The Good Cup",

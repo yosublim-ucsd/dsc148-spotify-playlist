@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-235 songs - 13 hr 18 min
+236 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [El Bass](https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [El Bass](https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX) | 3:10 | 2022-05-06 | 2023-03-25 |
 | [El Camino](https://open.spotify.com/track/30OijpZOdRk5DrfaaXNudS) | [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln) | [El Camino](https://open.spotify.com/album/3fzj1kzp4MLpUfpmkfKrmp) | 2:24 | 2022-05-06 | 2023-01-26 |
 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 | 2022-05-06 | 2023-12-14 |
+| [El Pana Dero](https://open.spotify.com/track/6rlhaRVuyfMEbLqdY7iWEP) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5B1upn3tokanXGtSeSuGHM) | 2:44 | 2023-11-17 |  |
 | [El Santito](https://open.spotify.com/track/5fau5l1O4BhhJlho8S7UdC) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g) | [El Santito](https://open.spotify.com/album/5nZ6ZTp4KeOq9EYlV4n2SZ) | 3:42 | 2022-05-06 | 2023-03-25 |
 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 | 2023-09-29 |  |
 | [Empty Words](https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Empty Words](https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme) | 2:47 | 2023-11-17 |  |
@@ -96,7 +97,7 @@
 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 | 2023-07-04 | 2023-07-29 |
 | [It's a Joke](https://open.spotify.com/track/20nb4i2WWyPDXhiQTZqlrV) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Altriparty](https://open.spotify.com/artist/1xAYeH3iONpgJQy6wyrPkA), [Hypsidia](https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ) | [It's a Joke](https://open.spotify.com/album/1iMYQwnbZ9ruhWRwbzrL04) | 4:16 | 2022-05-06 | 2023-03-25 |
 | [Just Leave The Past Behind \- Human Version](https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq) | [Genis](https://open.spotify.com/artist/0Bcv2l62XJ2dND1hjO4pJw), [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Just Leave The Past Behind](https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU) | 3:42 | 2023-02-28 |  |
-| [KARMA](https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk) | [Clara Floc](https://open.spotify.com/artist/0e16Li9kILC0goZoA7WR5f), [Light Reaction](https://open.spotify.com/artist/4ImPMY6kcAHp54Zfvc035x), [Gabo Versus](https://open.spotify.com/artist/1N4FEl0zyRocPbZBiWPzJN) | [KARMA](https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr) | 3:34 | 2022-05-06 |  |
+| [KARMA](https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk) | [Clara Floc](https://open.spotify.com/artist/0e16Li9kILC0goZoA7WR5f), [Light Reaction](https://open.spotify.com/artist/4ImPMY6kcAHp54Zfvc035x), [Gabo Versus](https://open.spotify.com/artist/1N4FEl0zyRocPbZBiWPzJN) | [KARMA](https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr) | 3:34 | 2022-05-06 | 2023-12-16 |
 | [killed love](https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [killed love](https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP) | 3:52 | 2022-05-06 | 2023-10-21 |
 | [La Casa](https://open.spotify.com/track/4lJRxIW4WKjowKQloinr2C) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [La Casa](https://open.spotify.com/album/1nOAKE07lAwQoVaHIVhgSe) | 2:43 | 2022-05-06 | 2023-03-25 |
 | [LA LLORONA](https://open.spotify.com/track/0yeqFFADufeX5WrPZnYG7V) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [LA LLORONA](https://open.spotify.com/album/4R4l8ss2gfFI0RAw0bk9ZZ) | 4:01 | 2023-10-20 |  |

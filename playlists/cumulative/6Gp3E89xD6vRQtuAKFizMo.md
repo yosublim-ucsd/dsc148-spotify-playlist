@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-257 songs - 12 hr 33 min
+259 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/track/6mgdm4CSdu8E3EAO3IMbLj) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Melissa Brooks](https://open.spotify.com/artist/0L8mLYqMuEW3901GuLVVVr) | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/album/44ksgbVSEp80E8K94zwDvH) | 2:31 | 2023-06-09 |  |
 | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/track/5jjGgAp2RC0ZFlhEcLkAyv) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Ramlode](https://open.spotify.com/artist/5bVbzfyZTpqz8pys7V9Yk7), [2ka](https://open.spotify.com/artist/1pMJ813KdUF6uEBeKMPwo4) | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/album/2o7w2FNR74JTSKERxiwCOV) | 2:35 | 2023-05-19 |  |
 | [Bassline](https://open.spotify.com/track/1PiALnVslHSZ5VlpxwAVOm) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Bassline](https://open.spotify.com/album/0M2LKloVUYhCCADQ915mgl) | 2:34 | 2023-12-01 |  |
+| [Bassline \- 4B Remix](https://open.spotify.com/track/7GGhEm8OtSxjjA0kTacEzo) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Bassline \(4B Remix\)](https://open.spotify.com/album/0fz5yLDyUogI8CK98sSlid) | 1:48 | 2023-12-15 |  |
 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 | 2023-04-07 |  |
 | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/track/1ZFTwYqAi4QYtZ0AEesGvC) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/album/3ceLFqR6p8w0JlcsAjudsk) | 2:48 | 2023-05-06 |  |
 | [Believer](https://open.spotify.com/track/7dYBCDao1pYAKvqzAexYod) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Believer](https://open.spotify.com/album/7LgLoJOnLn4yvDOe6vFthx) | 2:09 | 2023-05-26 |  |
@@ -167,6 +168,7 @@
 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 | 2023-03-24 |  |
 | [Nothing On You \(feat\. Chris Pree\)](https://open.spotify.com/track/7xoot19ryXi8maMYeu08FD) | [Sangarang](https://open.spotify.com/artist/1lpYFtlybuldYAw2IyXjyI), [Chris Pree](https://open.spotify.com/artist/7EccQTucmvRW7s6DUy6pQb) | [Nothing On You \(feat\. Chris Pree\)](https://open.spotify.com/album/6V6eGyclS8zPqEEzLsHsOB) | 3:07 | 2023-12-07 |  |
 | [Ocean](https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Ocean](https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP) | 2:55 | 2023-04-21 |  |
+| [Ocean Avenue](https://open.spotify.com/track/7MmpWpWAHFYGBnm2NkOR7E) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/2ZCysCyAAnuFMC8xsaKQ0o) | 3:46 | 2023-12-15 |  |
 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 | 2023-04-07 |  |
 | [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 | 2023-04-28 |  |
 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 | 2022-05-06 | 2022-10-08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Joel Ross",
+  "description": "New jazz for open minds. Cover: Jahari Massamba Unit",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 225394,
       "name": "Beyond Brass",
       "url": "https://open.spotify.com/track/1anNWVU4IRaVzQhXFsFXQv"
@@ -5602,7 +5602,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 205334,
       "name": "Diamond Exchange",
       "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
@@ -7171,6 +7171,36 @@
     },
     {
       "album": {
+        "name": "Eyyy",
+        "url": "https://open.spotify.com/album/0MQC8ESbj87uX0ayDqaGJE"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Lindsey Webster",
+          "url": "https://open.spotify.com/artist/3lBD383C0a92MbCRj9dEHZ"
+        },
+        {
+          "name": "Davonte \"Deuce\" Harris",
+          "url": "https://open.spotify.com/artist/7plArfgEJ3wHAeSa4EMojf"
+        },
+        {
+          "name": "Ledaris \"LJ\" Jones",
+          "url": "https://open.spotify.com/artist/24fKdc1YoPQlaqiGZ0F6Wx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170314,
+      "name": "Eyyy",
+      "url": "https://open.spotify.com/track/0y3De9aDdRr6kRw2SaR1tf"
+    },
+    {
+      "album": {
         "name": "Face in the Crowd",
         "url": "https://open.spotify.com/album/6PeCd0KNESOpKAucTdNbtQ"
       },
@@ -7708,6 +7738,32 @@
       "duration_ms": 297333,
       "name": "Fluorescences",
       "url": "https://open.spotify.com/track/7rIoLIUgAER2l6ye8SdbRp"
+    },
+    {
+      "album": {
+        "name": "Owl Song",
+        "url": "https://open.spotify.com/album/6HYZUqe4sXwIu5VWlfaV2E"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Herlin Riley",
+          "url": "https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303080,
+      "name": "Flux Fuelings (feat. Bill Frisell & Herlin Riley)",
+      "url": "https://open.spotify.com/track/339kfnKfy8HDVhSJVmJKTI"
     },
     {
       "album": {
@@ -10866,7 +10922,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 262846,
       "name": "It's Ok, B U",
       "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
@@ -13758,6 +13814,36 @@
       "duration_ms": 309340,
       "name": "Ministry of Love",
       "url": "https://open.spotify.com/track/6cbX2oMafEsIZZBTsq1cEp"
+    },
+    {
+      "album": {
+        "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
+        "url": "https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
+      "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
     },
     {
       "album": {
@@ -16721,6 +16807,32 @@
     },
     {
       "album": {
+        "name": "Plum Blossoms",
+        "url": "https://open.spotify.com/album/4YFjC1cwSPVNhRjdiXRWgp"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Sara Kawai",
+          "url": "https://open.spotify.com/artist/1umhlU8WUwF8leg9QZtRqp"
+        },
+        {
+          "name": "miamore",
+          "url": "https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251562,
+      "name": "Plum Blossoms",
+      "url": "https://open.spotify.com/track/1mDLMzb6eE8IilF7ZD2P01"
+    },
+    {
+      "album": {
         "name": "Polos (feat. Chris Fishman & Daryl Johns)",
         "url": "https://open.spotify.com/album/0RD2Gt7xiZbiZfNIKzWMV1"
       },
@@ -17838,7 +17950,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 242573,
       "name": "Reste un oiseau - Piers Faccini Remix",
       "url": "https://open.spotify.com/track/52g21WkPWgf96mrch0h7Rk"
@@ -20462,6 +20574,32 @@
       "duration_ms": 245876,
       "name": "Stolper Jim",
       "url": "https://open.spotify.com/track/5V6OPGZZMF9d92kjYd5eP8"
+    },
+    {
+      "album": {
+        "name": "Stomping Gamay",
+        "url": "https://open.spotify.com/album/2sEcFb3cjKz2tUacORfyUg"
+      },
+      "artists": [
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293106,
+      "name": "Stomping Gamay",
+      "url": "https://open.spotify.com/track/3ZV8bAhDtf8zfIktp6oF6B"
     },
     {
       "album": {
@@ -23376,7 +23514,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 437026,
       "name": "Time for Priorities",
       "url": "https://open.spotify.com/track/4SjY3BkWy44NhhIVqyA8wz"

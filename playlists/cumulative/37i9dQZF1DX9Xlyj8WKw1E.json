@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Midwest music breaking waves. Cover: <a href=\"spotify:artist:5YHM0i7v5TqqibZhS0YiuX\">Ryan Trey</a>",
+  "description": "Midwest music breaking waves. Cover: <a href=\"spotify:artist:6AUl0ykLLpvTktob97x9hO\">Tee Grizzley</a>",
   "name": "Ripple Effect:  Midwest",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 173146,
       "name": "Back In Office",
       "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 229642,
       "name": "Brand New Chanel Kicks",
       "url": "https://open.spotify.com/track/0prAuFTSQwbptjREc7vWpH"
@@ -3653,6 +3653,28 @@
     },
     {
       "album": {
+        "name": "Hood Bible 2",
+        "url": "https://open.spotify.com/album/3B21T4ldEEBgPCyXfESc0z"
+      },
+      "artists": [
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195608,
+      "name": "Fucking Em Up (feat. Mello Buckzz)",
+      "url": "https://open.spotify.com/track/1ggyCaNNDylh0U42FFz7M8"
+    },
+    {
+      "album": {
         "name": "Fukitup!",
         "url": "https://open.spotify.com/album/5ZRHNu0CuPPk8cGl7h7zFG"
       },
@@ -4204,7 +4226,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 170748,
       "name": "Got Me Hot",
       "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
@@ -5144,7 +5166,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 189026,
       "name": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
       "url": "https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc"
@@ -7080,7 +7102,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 144000,
       "name": "Need Prescriptions (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn"
@@ -7284,6 +7306,28 @@
       "duration_ms": 150400,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/46sfNtXHVx3rJ2BZwCqrsA"
+    },
+    {
+      "album": {
+        "name": "No Pun Intended",
+        "url": "https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "No Pun Intended",
+      "url": "https://open.spotify.com/track/0G7ckZvVPFF8HSsz99i5Zv"
     },
     {
       "album": {
@@ -8811,6 +8855,24 @@
     },
     {
       "album": {
+        "name": "Roll With Me",
+        "url": "https://open.spotify.com/album/6MDeXfz6FV2ssjJj690UXD"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Roll With Me",
+      "url": "https://open.spotify.com/track/4MbUtjvqoNZaCC7SdNZm6G"
+    },
+    {
+      "album": {
         "name": "Rolling Stoned",
         "url": "https://open.spotify.com/album/668tNmQLE5eckVzVHyZY62"
       },
@@ -8882,6 +8944,28 @@
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
+    },
+    {
+      "album": {
+        "name": "Rose Gold (feat. Tee Grizzley)",
+        "url": "https://open.spotify.com/album/5NmHH14He9o9TLwwaZii9p"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125160,
+      "name": "Rose Gold (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/1f4n208NzgSki8uG62mde7"
     },
     {
       "album": {
@@ -9224,6 +9308,24 @@
       "duration_ms": 162064,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/5TXHfDONIkjJo9L3VbeNPp"
+    },
+    {
+      "album": {
+        "name": "She Don't Play",
+        "url": "https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140463,
+      "name": "She Don't Play",
+      "url": "https://open.spotify.com/track/07DzN4K6A7nP9ObnBRQAcO"
     },
     {
       "album": {
@@ -9684,6 +9786,28 @@
       "duration_ms": 200698,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw"
+    },
+    {
+      "album": {
+        "name": "Spend That Bag",
+        "url": "https://open.spotify.com/album/47ofz7Q2l3tVbeRaIj6lft"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159144,
+      "name": "Spend That Bag",
+      "url": "https://open.spotify.com/track/7BRllEPvzxFw0vTAfkfUwt"
     },
     {
       "album": {
@@ -10470,7 +10594,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 177909,
       "name": "Thi Shi MLKrazy",
       "url": "https://open.spotify.com/track/5MqoCQTYC0YwZI1VOK4rok"
@@ -11030,7 +11154,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 237534,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
@@ -11718,7 +11842,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 182845,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/3VSBjeNW4XzxPdE2yaJNHR"

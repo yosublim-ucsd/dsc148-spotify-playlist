@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-219 songs - 15 hr 21 min
+220 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Less Is More](https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Less Is More](https://open.spotify.com/album/1vr964CwAICSadDDA9EuaJ) | 4:16 | 2020-10-30 | 2022-07-29 |
 | [Let a Man Do What He Wanna Do](https://open.spotify.com/track/21tzl7QqFs2UJwaGQpwtCk) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let a Man Do What He Wanna Do](https://open.spotify.com/album/6VlxpL1jxNMJ1b8XEgV70i) | 2:50 | 2020-10-30 | 2022-08-06 |
 | [Let's Celebrate Our Love](https://open.spotify.com/track/3ZQZUODe0CoMcgndwZ7cK9) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Let's Celebrate Our Love](https://open.spotify.com/album/73zVIvNpWoV68BTDOFPPvH) | 4:35 | 2020-10-30 | 2022-07-29 |
-| [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 | 2020-10-30 |  |
+| [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 | 2020-10-30 | 2023-12-16 |
 | [Let's Get a Groove On](https://open.spotify.com/track/3wHAECTBbg1jAck1XzfTeT) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let's Get a Groove On](https://open.spotify.com/album/2MRnKlIIuBYkDQOgVXMwI2) | 2:54 | 2020-10-30 |  |
 | [Let's Get a Groove On](https://open.spotify.com/track/6nNHyyYKi90iRQbLuIdO8O) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let's Get a Groove On](https://open.spotify.com/album/0MKoTL2lYJ3hUVDYyhmyTi) | 2:54 | 2020-10-30 | 2023-04-30 |
 | [Let's Party](https://open.spotify.com/track/2TlbhmuwUA0gEN4E9o5JRA) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI), [Sha Sha Jones](https://open.spotify.com/artist/0w8rt6SigpH4SOUOxJxWxq) | [Let's Party \(feat\. Sha Sha Jones\)](https://open.spotify.com/album/3FMoeHPuAVuYiVwzjEwVue) | 3:20 | 2023-07-14 |  |
@@ -206,6 +206,7 @@
 | [We Can Move](https://open.spotify.com/track/4UdJg615OBpJu6MepS6Hq8) | [Free Youth](https://open.spotify.com/artist/6sam1utI6B6K9ggk8UH0kv) | [We Can Move](https://open.spotify.com/album/2J7KkktKcCxf5lMRFxCZjG) | 6:29 | 2020-10-30 | 2022-04-09 |
 | [We Can Work it Out](https://open.spotify.com/track/7gsAzeAY7SZXcHbfGg9X0J) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [We Can Work it Out](https://open.spotify.com/album/00gL2Gu8zFTvgvmRvq4Ka7) | 3:04 | 2021-07-30 |  |
 | [We Got What You Need](https://open.spotify.com/track/3EeKxDfgZh7O1YyjzgwDTc) | [Matador! Soul Sounds](https://open.spotify.com/artist/30F766ZDjMVs5CZYLzVVsm), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Alan Evans](https://open.spotify.com/artist/6AX7W5WmmO571y95QmDVHo), [Chris Spies](https://open.spotify.com/artist/5JDw5ZB3Br9wCkUjvf91Zp), [Kevin Scot](https://open.spotify.com/artist/0RAyFK98Fpiq9LRoPCSFK7), [Kim Dawson](https://open.spotify.com/artist/2pm78OlCPfYj9Ln9vm4Iug), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [We Got What You Need](https://open.spotify.com/album/03wcr8UKUnHVXoTsszpRzc) | 4:32 | 2020-10-30 | 2022-04-09 |
+| [We Outta B Funkin’](https://open.spotify.com/track/13bwv0FluqVWXokMD8Wl7w) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Soopafly](https://open.spotify.com/artist/1fGNdi2u7XLBVYaq6fJUaT), [Temu Bacot](https://open.spotify.com/artist/7h6PVrpt8H8BTvmL9LBxsU), [Myra Washington](https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho) | [We Outta B Funkin’](https://open.spotify.com/album/01wrFWt0KcWYNV2CIOslnN) | 4:21 | 2023-12-15 |  |
 | [Weightless](https://open.spotify.com/track/1gQi5c9jiPG7ZhIpCMTkHv) | [Smoke & Rain](https://open.spotify.com/artist/7dgA0Ic4BW9OYPZre13ESd) | [Weightless](https://open.spotify.com/album/4fqJE7PspGjoTNKtaufgz0) | 4:36 | 2020-10-30 | 2022-04-09 |
 | [Whatever \(feat\. Bootsy Collins\)](https://open.spotify.com/track/0KlnFmi4G9od9PQ2niFSGO) | [Uché](https://open.spotify.com/artist/2b2yYpcmZA6gDChy2EBvUW), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Whatever \(feat\. Bootsy Collins\)](https://open.spotify.com/album/1wkdRyItSsjQbh8oz9j1YG) | 3:35 | 2020-10-30 | 2023-05-27 |
 | [Where Do We Go From Here](https://open.spotify.com/track/1ax95j7TLkNoP6UeQFlU22) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/5PVTLcwmvKzPE4gY5ca8db) | 8:35 | 2020-10-30 | 2022-07-29 |

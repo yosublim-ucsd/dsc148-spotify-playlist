@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Snor, Akoa",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Sipo, Inkonnu",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 196666,
       "name": "FTA",
       "url": "https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3"
@@ -1961,6 +1961,28 @@
     },
     {
       "album": {
+        "name": "MAKISALICH",
+        "url": "https://open.spotify.com/album/0IwEjmFl0ULYBJxCfuggui"
+      },
+      "artists": [
+        {
+          "name": "YEAH HUSS!",
+          "url": "https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl"
+        },
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "MAKISALICH",
+      "url": "https://open.spotify.com/track/5TyZgckgGJqM1fw3Ddg8D0"
+    },
+    {
+      "album": {
         "name": "MARK",
         "url": "https://open.spotify.com/album/3Sx4uvZhdQW38tYqIjRCVW"
       },
@@ -2320,6 +2342,24 @@
       "duration_ms": 165722,
       "name": "Pepete",
       "url": "https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR"
+    },
+    {
+      "album": {
+        "name": "Pharmacie 2",
+        "url": "https://open.spotify.com/album/66C2VxOUAuM5ldmVPPGAvh"
+      },
+      "artists": [
+        {
+          "name": "21 Tach",
+          "url": "https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Pharmacie 2",
+      "url": "https://open.spotify.com/track/3oeS7Fx2DMathnP2qSztJi"
     },
     {
       "album": {
@@ -2874,7 +2914,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 187454,
       "name": "Stephen Curry",
       "url": "https://open.spotify.com/track/07ywsLQdDF0lhOc6jjkccp"

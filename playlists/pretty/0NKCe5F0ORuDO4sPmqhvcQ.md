@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,882 likes - 145 songs - 8 hr 16 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,881 likes - 147 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,5 +153,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 143 | [Darkness](https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Darkness](https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2) | 3:20 |
 | 144 | [haze](https://open.spotify.com/track/2HfWwr1FyagotRzp7RDEms) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw), [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [haze](https://open.spotify.com/album/13WO7BXMhRBtl19YlBpIBi) | 3:05 |
 | 145 | [Paradise](https://open.spotify.com/track/3D9gig3g2yGheqkpzjnKnN) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Paradise](https://open.spotify.com/album/5FjrKHMfuMTNnp2SqAUzUN) | 2:39 |
+| 146 | [bitbybit](https://open.spotify.com/track/38iLG7Onussu2QuehUiK1Y) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [leo](https://open.spotify.com/album/2HCJZS3ePjIeJIY4yxI7Hy) | 5:11 |
+| 147 | [Happy Days In Happy Weather](https://open.spotify.com/track/28lCdfM7o2ZrT6EkZNDd3A) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Happy Days In Happy Weather](https://open.spotify.com/album/4ztz1tyse71PSaomFWkvox) | 3:04 |
 
-Snapshot ID: `MTA1NjksNTQ2OWUzODU5NGIwYWM1YjliMTY5NmFlNTE2ZDI2OTE1NWI0MDk0ZA==`
+Snapshot ID: `MTA1NzEsYTNkYjFlNGZiZWM2NGNkMDVlOGNiZmJjMGE3NTNhM2NmNzliOWZmZA==`

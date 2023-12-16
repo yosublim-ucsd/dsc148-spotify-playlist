@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Because He Lives",
+        "url": "https://open.spotify.com/album/5le9OqZy28NXnXNlpalXJ4"
+      },
+      "artists": [
+        {
+          "name": "Chris Else",
+          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253058,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/4dvtl2lwkAvRF58oDzHCjZ"
+    },
+    {
+      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -1615,6 +1633,28 @@
     },
     {
       "album": {
+        "name": "How I Learned To Pray (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D"
+      },
+      "artists": [
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270933,
+      "name": "How I Learned To Pray (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI"
+    },
+    {
+      "album": {
         "name": "Humble And Kind",
         "url": "https://open.spotify.com/album/4gpCST5Fb2FF23aZkWRy9e"
       },
@@ -2456,6 +2496,28 @@
       "duration_ms": 211200,
       "name": "More Than Me",
       "url": "https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha"
+    },
+    {
+      "album": {
+        "name": "My Inheritance",
+        "url": "https://open.spotify.com/album/4d0tG6cGFGiNhRDWsjZR2P"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214466,
+      "name": "My Inheritance (feat. Corey Kent)",
+      "url": "https://open.spotify.com/track/7HhAzrseYW1JI1Mqj5CWYq"
     },
     {
       "album": {

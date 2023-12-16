@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002KAROL G, imase, Awich, James Arthur, John Legend and more! Cover: KAROL G",
-  "num_followers": 100279,
+  "num_followers": 100323,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njk1YmVjZGFiY2FmMDk0YjMzMTUwYjA5Y2U4ZmVmYzQ2OWJiZmUw",
+  "snapshot_id": "MCw4MmJlOGZiZmZlYzJkYzUyMGUwMDRjNTU2OTZkYWU0MmYxMDY0ZThm",
   "tracks": [
     {
       "added_at": "2023-12-14 15:00:00",
@@ -111,8 +111,8 @@
     {
       "added_at": "2023-12-14 15:00:00",
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/21mNCl1z482tKpGKv13iig"
+        "name": "Pavlove (Demo)",
+        "url": "https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Pavlove",
-      "url": "https://open.spotify.com/track/6PzQE81zHTaJkuoyhGcXlK"
+      "duration_ms": 213093,
+      "name": "Pavlove - Demo",
+      "url": "https://open.spotify.com/track/73kIi1OijvzVIWP4OhBm7D"
     },
     {
       "added_at": "2023-12-14 15:00:00",
@@ -177,7 +177,7 @@
         }
       ],
       "duration_ms": 176055,
-      "name": "You and Me Makes Us",
+      "name": "You & Me Makes Us",
       "url": "https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q"
     },
     {
@@ -238,6 +238,10 @@
         {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
       "duration_ms": 123624,
@@ -511,6 +515,26 @@
       "duration_ms": 209751,
       "name": "Home Alone (with J. Cole)",
       "url": "https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf"
+    },
+    {
+      "added_at": "2023-12-14 15:00:00",
+      "album": {
+        "name": "The Grinch Freestyle (feat. Latto)",
+        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146673,
+      "name": "The Grinch Freestyle (feat. Latto)",
+      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
     },
     {
       "added_at": "2023-12-14 15:00:00",

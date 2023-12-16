@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Amy's Back In Austin",
+        "url": "https://open.spotify.com/album/51EfDF9ysbbelIVF20ygZC"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        },
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257831,
+      "name": "Amy's Back In Austin",
+      "url": "https://open.spotify.com/track/6zQYNHtuXmHkfYVJNzOYRG"
+    },
+    {
+      "album": {
         "name": "FREE",
         "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
       },
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 235365,
       "name": "Bring You Down",
       "url": "https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET"
@@ -2652,6 +2674,24 @@
       "duration_ms": 215693,
       "name": "Down in Flames",
       "url": "https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f"
+    },
+    {
+      "album": {
+        "name": "Kolton Moore & the Clever Few",
+        "url": "https://open.spotify.com/album/7mCkI0xX5X1CAToGU6ZDOE"
+      },
+      "artists": [
+        {
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Dramamine Dreams",
+      "url": "https://open.spotify.com/track/60SuPrdFMXcQW9w6vXvxS3"
     },
     {
       "album": {
@@ -5120,7 +5160,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 188995,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
@@ -9351,6 +9391,24 @@
     },
     {
       "album": {
+        "name": "Up In Texas",
+        "url": "https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191269,
+      "name": "Up In Texas",
+      "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
+    },
+    {
+      "album": {
         "name": "Up to Me",
         "url": "https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4"
       },
@@ -10614,7 +10672,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 279435,
       "name": "Your Alpine",
       "url": "https://open.spotify.com/track/0zxMh6r7kGqomTu9KzcYbi"

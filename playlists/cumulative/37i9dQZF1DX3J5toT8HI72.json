@@ -1430,10 +1430,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 178622,
       "name": "Ouro",
       "url": "https://open.spotify.com/track/1VJ93t38cXKJc58CZxyO2O"
+    },
+    {
+      "album": {
+        "name": "Ouro",
+        "url": "https://open.spotify.com/album/4HQkaZ33OBPGxuG9ezeesH"
+      },
+      "artists": [
+        {
+          "name": "Jhama",
+          "url": "https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178622,
+      "name": "Ouro",
+      "url": "https://open.spotify.com/track/2FuoW530jTi249KuGz3irZ"
     },
     {
       "album": {

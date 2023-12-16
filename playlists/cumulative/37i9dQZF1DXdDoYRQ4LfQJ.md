@@ -4,7 +4,7 @@
 
 > Bien al tiro con Fuerza Regida and the hottest corridos in the U.S.!
 
-317 songs - 16 hr 3 min
+318 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Gordo Pesado](https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Gordo Pesado](https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF) | 3:34 | 2022-10-13 | 2022-10-22 |
 | [Gorra L.A.](https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Gorra L.A.](https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j) | 2:41 | 2023-09-08 |  |
 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 | 2022-05-20 | 2023-09-09 |
+| [Guerras En El Barrio](https://open.spotify.com/track/6iUvmPTsniLqC1vN3Hoxb0) | [Código Rojo](https://open.spotify.com/artist/5MtON3xriFgVSy9ZrkEtqy), [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO), [Beto Quintero](https://open.spotify.com/artist/6iTpBHV0DyWLKNLdA6Heo9) | [Guerras En El Barrio](https://open.spotify.com/album/1fD71IDAlVNmqsKQYilnUD) | 4:00 | 2023-12-15 |  |
 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 | 2022-05-20 |  |
 | [Hay Les Encargo](https://open.spotify.com/track/7c5TvrRGKpFlXCyDAiy2WV) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hay Les Encargo](https://open.spotify.com/album/2pth52UsiIBDwqhuP9UHNS) | 2:42 | 2022-12-22 | 2023-01-23 |
 | [Hay Les Encargo](https://open.spotify.com/track/2oU624ui3RVaSNpMqA4Gd3) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hay Les Encargo](https://open.spotify.com/album/6rAmk14u7dDPQ0W10ogTwa) | 2:42 | 2023-02-10 | 2023-03-04 |
@@ -200,7 +201,7 @@
 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-09-08 |  |
 | [Lagunilla Mi Barrio](https://open.spotify.com/track/2MximwTNDRejUMEZ9LjqPh) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Lagunilla Mi Barrio](https://open.spotify.com/album/2SJjtVS3XVUmck4nUrhJ7S) | 2:46 | 2022-05-20 | 2022-07-22 |
 | [Las Caravanas](https://open.spotify.com/track/3geTjtaleLUKu8yIkj3A14) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Las Caravanas](https://open.spotify.com/album/2nYuw5IYnD73NmPzjL0vjP) | 3:17 | 2023-02-10 | 2023-03-18 |
-| [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 | 2023-05-15 |  |
+| [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 | 2023-05-15 | 2023-12-16 |
 | [Leche Confleis \(El Mandado\)](https://open.spotify.com/track/1QVoakViwwpICHftBHOJuP) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Leche Confleis \(El Mandado\)](https://open.spotify.com/album/4cEJ02a6rLIp8S8OC2IyiX) | 2:41 | 2023-09-08 |  |
 | [Llenas Las Cuentas \(feat\. Oscar Maydon\)](https://open.spotify.com/track/7LTKDPiFik2UkZ9S7mnemu) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Llenas Las Cuentas \(feat\. Oscar Maydon\)](https://open.spotify.com/album/62AN96209BXULxjH8DOvH9) | 3:21 | 2022-05-20 | 2022-08-22 |
 | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/track/1XRkSe7d9DGIABTi4gpna9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/album/2pg9lePFwsEtRNTnijEI9U) | 2:55 | 2023-01-09 | 2023-03-04 |

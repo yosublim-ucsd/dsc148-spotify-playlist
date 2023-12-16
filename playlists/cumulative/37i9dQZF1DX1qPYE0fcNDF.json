@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Hip Hop and Happy Holidays! Cover: Gucci Mane",
-  "name": "Hip Hop Holiday",
+  "description": "Hip-Hop and Happy Holidays! Cover: Gucci Mane",
+  "name": "Hip-Hop Holiday",
   "tracks": [
     {
       "album": {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 220706,
       "name": "Are U Live",
       "url": "https://open.spotify.com/track/7yP65veNqfCOmc2j6vqmp6"
@@ -416,6 +416,24 @@
       "duration_ms": 85413,
       "name": "Big Bag",
       "url": "https://open.spotify.com/track/1flloiRJOCenDSSjnuHGln"
+    },
+    {
+      "album": {
+        "name": "BigXmas",
+        "url": "https://open.spotify.com/album/374CAh7sWDNDNcAuOH4cOt"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136308,
+      "name": "BigXmas",
+      "url": "https://open.spotify.com/track/5W8a43gnXVrPHdsFjdyfGB"
     },
     {
       "album": {
@@ -694,7 +712,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 201369,
       "name": "Christmas On A Sunday",
       "url": "https://open.spotify.com/track/4qnryBw1r2DeXA7ZO4JPSc"
@@ -770,6 +788,24 @@
       "duration_ms": 241880,
       "name": "Dipset X-mas Time",
       "url": "https://open.spotify.com/track/5TiZO9v3hLqILmfatAJMV0"
+    },
+    {
+      "album": {
+        "name": "For Christmas",
+        "url": "https://open.spotify.com/album/1IGfaD2okQY6fy0ONciDhn"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "For Christmas",
+      "url": "https://open.spotify.com/track/3wDiFajnQ1hxMP8nQ8vaTc"
     },
     {
       "album": {
@@ -1058,7 +1094,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 187193,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7wy0z84DaALeFYa53tJ9F2"
@@ -1282,6 +1318,24 @@
       "duration_ms": 226873,
       "name": "Sex for Christmas",
       "url": "https://open.spotify.com/track/6YGafW6x5LnUYTmdVJNKBN"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/6Qgr3aGOhi5KzjZedNIwSr"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169120,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/6XrD23vipgol0TqM0UUc0l"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. <br/> Cover:  <a href="spotify:artist:181bsRPaVXVlUKXrxwZfHK">Megan Thee Stallion</a>
 
-620 songs - 1 day 6 hr 11 min
+621 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Ends](https://open.spotify.com/track/1Oa3tGhckEJBsY3Zgt5XWb) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Miss Me Yet?](https://open.spotify.com/album/2PTlYF3EfRdjlpGjFOKXdc) | 3:24 | 2023-08-25 | 2023-10-14 |
 | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP) | 3:19 | 2022-04-01 | 2022-05-14 |
 | [Everything Texas](https://open.spotify.com/track/5mloC6mb6ar1CvT8g77BSU) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Big Pokey](https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8) | [25 Summers](https://open.spotify.com/album/3uifyeDiLX9fmIny0lwoKU) | 2:26 | 2023-07-18 | 2023-12-02 |
+| [EXCESSIVE CELEBRATION](https://open.spotify.com/track/1cyqKDC2Wdz5GhIT6AIyBV) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Ochocinco](https://open.spotify.com/artist/4KdKJI82m303dLW4RYZCuT) | [EXCESSIVE CELEBRATION](https://open.spotify.com/album/3q0giSaERc2Gfk9bK00FM5) | 1:09 | 2023-12-15 |  |
 | [Fake Love](https://open.spotify.com/track/3PPDszDT4HXh8Pp6Da1Mvr) | [Mosa](https://open.spotify.com/artist/1cyaSULWtI17yYEk4301Pe) | [Fake Love](https://open.spotify.com/album/7t6gQJZJBl3OImI5DJzNNc) | 2:14 | 2023-12-01 |  |
 | [Familiarity](https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Familiarity](https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE) | 3:27 | 2023-04-24 | 2023-06-12 |
 | [Fantasy \(Give It All\)](https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Hoofy Baby](https://open.spotify.com/artist/5Bb8NSase0poSD0lXSyBSp) | [Fantasy \(Give It All\)](https://open.spotify.com/album/7exmvMCbKRJUDrjNxxIyF9) | 2:57 | 2023-08-25 | 2023-12-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-[paige](https://open.spotify.com/user/paigebethanyy) - 39,074 likes - 104 songs - 5 hr 27 min
+[paige](https://open.spotify.com/user/paigebethanyy) - 39,070 likes - 107 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,6 +111,9 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 | 101 | [\-](https://open.spotify.com/track/6Wrs0EgZ8VXnFFrFBYlVav) | [Leviathan](https://open.spotify.com/artist/6CJU2RwwB10D0KoYYqWYeM) | [Scar Sighted](https://open.spotify.com/album/4hnlvhL0RR3AH2YOVChSsh) | 2:18 |
 | 102 | [Again](https://open.spotify.com/track/2jThFJZKxkmtNwly0a1RRt) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Again](https://open.spotify.com/album/2zz6j2mGH5JHk0ihNvy6KM) | 4:44 |
 | 103 | [Hide \- CS01 Version](https://open.spotify.com/track/1WZGaNYzreZrvteuUEfp8X) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Hide \(CS01 Version\)](https://open.spotify.com/album/245oQswZLETcE6V7aEdNWG) | 3:01 |
-| 104 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
+| 104 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
+| 105 | [rain and cassette tape hiss, just a few of my favourite things](https://open.spotify.com/track/0K6SBiuDPvmSs1xiqL0ojI) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 5:12 |
+| 106 | [voice vi \- remaster](https://open.spotify.com/track/3cBf8wQi7K91W9vK8FrxtG) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT) | 1:30 |
+| 107 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
 
-Snapshot ID: `ODA3LDBhNjA1ZTdmYTY0M2E5NmE2NTRiZGQwMTlhNTA4MTdhODlhY2NhOGU=`
+Snapshot ID: `ODE0LDYxNDRjMmIyYTg5YTY0NzliMGE2YzdiMjg4YTViYWQ4NmFlYjBhOTg=`

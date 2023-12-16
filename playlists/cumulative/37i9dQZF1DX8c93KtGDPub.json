@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 215867,
       "name": "(anywhere but) Home for the Holidays",
       "url": "https://open.spotify.com/track/1mcK8CwRiYfxW3Bq0yaZQr"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 213693,
       "name": "1996",
       "url": "https://open.spotify.com/track/4Ty0vDG9dS1dLa2x2aPK3v"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 430475,
       "name": "Arthur McBride",
       "url": "https://open.spotify.com/track/3zkhQWdW4O2t0cnZIdoj3u"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 244871,
       "name": "As Soon as Winter Comes",
       "url": "https://open.spotify.com/track/6MlJrVMeHKRPiudD4CUmmS"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 129013,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3vEqfGwQpw1pPFTzfVyUsw"
@@ -666,10 +666,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 155261,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/4Vqioxd7rPzv5bJV0YnUVx"
+    },
+    {
+      "album": {
+        "name": "Silent Night b/w Blue Christmas",
+        "url": "https://open.spotify.com/album/2uV3toNhIWZJx63And14NO"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/6CgEVE9ZOCZNQ6Hkvti8MF"
     },
     {
       "album": {
@@ -774,7 +792,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 237223,
       "name": "Cathedrals",
       "url": "https://open.spotify.com/track/3ix3bHsj4H8ceIuMe4T5T9"
@@ -792,7 +810,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 218077,
       "name": "Champagne Drops",
       "url": "https://open.spotify.com/track/4FSKL9VBXp8CCxo93uBkik"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 228573,
       "name": "Christmas Alone",
       "url": "https://open.spotify.com/track/6CiWjivcgYzpHZ44XiHoqW"
@@ -868,7 +886,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 210508,
       "name": "Christmas Alone - Live",
       "url": "https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV"
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 177866,
       "name": "Christmas Dream",
       "url": "https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl"
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 191586,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI"
@@ -1146,6 +1164,24 @@
       "duration_ms": 191586,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/3FLo2Axjd3CB22BUbrcJmZ"
+    },
+    {
+      "album": {
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163093,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
     },
     {
       "album": {
@@ -1196,7 +1232,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 193100,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/3gKRfnGUslHVHIA0EhkucQ"
@@ -1401,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Every Holiday",
+        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224275,
+      "name": "Every Holiday",
+      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
+    },
+    {
+      "album": {
         "name": "A John Prine Christmas",
         "url": "https://open.spotify.com/album/51feGjlV8hDiJ4U7XO9Kcb"
       },
@@ -1488,7 +1542,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 226052,
       "name": "First Snow",
       "url": "https://open.spotify.com/track/0zUAob6pnNxXj6hK2JK61r"
@@ -1618,7 +1672,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 221007,
       "name": "Grace",
       "url": "https://open.spotify.com/track/2TESHzTfZn6rl9988rnTG7"
@@ -1910,10 +1964,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 208988,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/7GnQsPZ4C4mecUcglkUJgr"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "album": {
@@ -2054,7 +2126,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 339328,
       "name": "Holidays",
       "url": "https://open.spotify.com/track/7CH8W7Nt7gJDEZLFfFjqly"
@@ -2090,7 +2162,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 253360,
       "name": "Home For The Season",
       "url": "https://open.spotify.com/track/5T5FkiC6rR5G6853YPeIZj"
@@ -2126,7 +2198,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 172186,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/4varvMsuXV7dqeOm6WgC8a"
@@ -2198,7 +2270,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 158633,
       "name": "If We Make It Through December",
       "url": "https://open.spotify.com/track/6bvCOyEZxaPtUjyJ3Z6Nsy"
@@ -2274,7 +2346,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 231000,
       "name": "In The Bleak Midwinter",
       "url": "https://open.spotify.com/track/59vU9HvjJx09uWeAC7wai5"
@@ -2508,7 +2580,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 198171,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/6qGS2JPJXzRnnSPiqkubWP"
@@ -2634,7 +2706,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 396760,
       "name": "Listening To Otis Redding At Home During Christmas",
       "url": "https://open.spotify.com/track/5RjWj5pWHegnAWqdbVscar"
@@ -2916,7 +2988,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 241827,
       "name": "Neat Christmas",
       "url": "https://open.spotify.com/track/58CQnYt3Gq4Ye8x3TYP1cr"
@@ -2934,7 +3006,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 280053,
       "name": "New Year's Eve",
       "url": "https://open.spotify.com/track/2Y3QNql9jAa5ARHcyF2WBE"
@@ -2952,7 +3024,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 240840,
       "name": "Nothing but a Child",
       "url": "https://open.spotify.com/track/7JoGFAI17R9IZVjcfmL4fP"
@@ -3324,7 +3396,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 143293,
       "name": "Pretty Paper",
       "url": "https://open.spotify.com/track/6FQvh5rJdhuuQqNyiPsR0I"
@@ -3414,7 +3486,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 258225,
       "name": "Rexroth's Daughter",
       "url": "https://open.spotify.com/track/0Yj8SWQh7DAKlzLmvFjkyD"
@@ -3432,7 +3504,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 288013,
       "name": "River",
       "url": "https://open.spotify.com/track/3OWDjREsOTGLOYHB2JZkYG"
@@ -3450,10 +3522,36 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 245040,
       "name": "River",
       "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
+    },
+    {
+      "album": {
+        "name": "Seasons of Life and Landscape",
+        "url": "https://open.spotify.com/album/2h13BU85H4mJzbihJpuGXD"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "Canadian Chamber Choir",
+          "url": "https://open.spotify.com/artist/1WusniewK32JmIEMtBWnXx"
+        },
+        {
+          "name": "Karla Ferguson",
+          "url": "https://open.spotify.com/artist/3jSRAP373uRmafudqVrj3x"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253360,
+      "name": "River",
+      "url": "https://open.spotify.com/track/4XPC5QEa8US2fNStQ5LIYk"
     },
     {
       "album": {
@@ -3476,7 +3574,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 256030,
       "name": "River",
       "url": "https://open.spotify.com/track/7hsERedGiD6KkxTJCzEjXY"
@@ -3584,7 +3682,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 224347,
       "name": "Save Christmas Day For Me",
       "url": "https://open.spotify.com/track/0qrgsgJluraNxaeAKSOHjt"
@@ -3602,7 +3700,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 193535,
       "name": "Shepherd's Lament",
       "url": "https://open.spotify.com/track/3m98R0jISPu5cKZFvFjuVA"
@@ -3762,7 +3860,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 198133,
       "name": "Sleet and Snow",
       "url": "https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM"
@@ -3780,7 +3878,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 186653,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/3xM6VgByz6g9loXIyPvEcR"
@@ -3868,6 +3966,24 @@
       "duration_ms": 215996,
       "name": "Snow in Montana",
       "url": "https://open.spotify.com/track/2qNdBOuOlZaML9ZEktD6mi"
+    },
+    {
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
     },
     {
       "album": {
@@ -4034,7 +4150,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 125960,
       "name": "Take Me Back to Toyland",
       "url": "https://open.spotify.com/track/35VxpFYw78qOvQbwgENTyX"
@@ -4088,7 +4204,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 229833,
       "name": "Thank You Bruce",
       "url": "https://open.spotify.com/track/3EBawrYqLkRHQXVtOqngwa"
@@ -4308,7 +4424,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 223480,
       "name": "The Dollar Store",
       "url": "https://open.spotify.com/track/07UMo7srhwwbAYiy0ocfPI"
@@ -4482,7 +4598,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 259853,
       "name": "This Christmas Is for Us",
       "url": "https://open.spotify.com/track/2bZFe1ofcf8XwudrXSGcaN"
@@ -4500,7 +4616,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 236351,
       "name": "This December",
       "url": "https://open.spotify.com/track/03jjfF3WRY8cUOsf8yFIVw"
@@ -4590,7 +4706,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 273000,
       "name": "This Holiday",
       "url": "https://open.spotify.com/track/4lnCnaLrmoTWrlIzB7Zx4B"
@@ -4716,7 +4832,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 250852,
       "name": "Two Turtle Doves",
       "url": "https://open.spotify.com/track/0otPi3y1f7sSWgHGo42ep0"
@@ -5192,7 +5308,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 244273,
       "name": "Xmas Song (War is Over)",
       "url": "https://open.spotify.com/track/4tf0qvezl6A4n9Gvx81NBr"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:7iETGaxJ4crz3qaljDPCKC\">Brooke Ligertwood</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:6piIAIurGAryW5h1rqQC16\">Passion</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -5725,6 +5725,32 @@
     },
     {
       "album": {
+        "name": "Never Been",
+        "url": "https://open.spotify.com/album/0tuajk7f2pPvbAvzgef4jM"
+      },
+      "artists": [
+        {
+          "name": "Jordan Merritt",
+          "url": "https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE"
+        },
+        {
+          "name": "The Band Table",
+          "url": "https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L"
+        },
+        {
+          "name": "People & Songs",
+          "url": "https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354600,
+      "name": "Never Been",
+      "url": "https://open.spotify.com/track/2GA5R0AVGt0DIf1cY2APhv"
+    },
+    {
+      "album": {
         "name": "Never Has",
         "url": "https://open.spotify.com/album/62fw7o9qvVqvzeYK29Aijn"
       },
@@ -7924,7 +7950,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 285880,
       "name": "Thank You for What You've Done (feat. The Band Table)",
       "url": "https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL"

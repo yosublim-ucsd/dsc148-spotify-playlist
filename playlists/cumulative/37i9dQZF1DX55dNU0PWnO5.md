@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: berlioz
 
-389 songs - 23 hr 42 min
+390 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Game 5!](https://open.spotify.com/track/4NZZyhOsyhyFdDn2AFUFHI) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [monkeybars](https://open.spotify.com/artist/1iAcExmAigO44V6sIHkWyV) | [Game 5!](https://open.spotify.com/album/2gQeq8M64YQnyuMsOCowSk) | 2:12 | 2021-12-10 | 2022-07-29 |
 | [GET BACK](https://open.spotify.com/track/7jkKWwXQqFWCxNRDX5Kocp) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h) | [GET BACK](https://open.spotify.com/album/0LVOAUF6ObwK91vRlj1ukD) | 2:43 | 2023-05-12 |  |
 | [Gharial](https://open.spotify.com/track/0RoUe4WOuGtGfqes7xUrg1) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Gharial](https://open.spotify.com/album/5KT1qVVsq7UvOS0yDKAnnI) | 2:42 | 2022-01-21 |  |
+| [Ghost](https://open.spotify.com/track/5kYrJ6RMys0aA4Yok6vOVK) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Ghost](https://open.spotify.com/album/1JaLA871fBR3fmwxquKuS8) | 4:50 | 2023-12-15 |  |
 | [Ghosted](https://open.spotify.com/track/2qPIpeVx42NgsaXdhwBbtd) | [Adam Meckler](https://open.spotify.com/artist/3vvgv6M5R6ZdQ0kgDubGRl), [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW) | [Ghosted](https://open.spotify.com/album/7F1uU4FGRolC3dqshRFalm) | 2:15 | 2022-08-12 |  |
 | [Gigi’s Revenge](https://open.spotify.com/track/4RAEg1FjBjXwo0qykxrnF3) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Gemini with Mood Swings](https://open.spotify.com/album/0PqKxVkrzkNXAYv5qTFXG0) | 2:22 | 2022-09-23 |  |
 | [Golden](https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE) | [BlackLight](https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h) | [Golden](https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49) | 7:46 | 2021-05-14 |  |
@@ -217,7 +218,7 @@
 | [Morning](https://open.spotify.com/track/25SL48P1d76Ujb94f3yy1H) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Morning](https://open.spotify.com/album/2tsspdCQVMBbozWK76DDnV) | 2:42 | 2022-04-29 | 2022-08-30 |
 | [Morning Insense](https://open.spotify.com/track/7BYeQannpqq7LYHBwaAVIg) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ) | [Depths of Madness](https://open.spotify.com/album/5mxgJbHiimwRg1bqobBKUr) | 4:09 | 2021-01-29 | 2022-03-26 |
 | [Morse Code](https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Noah Denton](https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9), [Raghav Mehrotra](https://open.spotify.com/artist/2OaPpcWxL1WlWaauI2NAV1), [Aidan McKeon](https://open.spotify.com/artist/6qaTtKeFbJy2rVupwowXpk), [Noah Wise](https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb) | [Morse Code](https://open.spotify.com/album/3IfDOB3CQ0a2CJt8iXrBVy) | 3:04 | 2022-01-14 | 2023-06-03 |
-| [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 | 2021-02-12 |  |
+| [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 | 2021-02-12 | 2023-12-16 |
 | [Moves](https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/3ZkymHWkq4HgtD200354OI) | 3:43 | 2021-02-12 | 2022-07-21 |
 | [Neon Afterglow](https://open.spotify.com/track/5gafFoQtekM5jI7LLmQ7OD) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Neon Afterglow](https://open.spotify.com/album/4UvRcOGBZHA5yqG6ytDssp) | 4:16 | 2022-01-14 |  |
 | [Neptune's Mood](https://open.spotify.com/track/12Hy5vRXRJmpEecv8By4ce) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Neptune's Mood](https://open.spotify.com/album/4uMDiIpxJzspNlu1JbChbx) | 4:49 | 2021-10-22 | 2022-07-29 |

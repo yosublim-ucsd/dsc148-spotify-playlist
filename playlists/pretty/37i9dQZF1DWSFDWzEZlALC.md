@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: BRUCKNER, Eli Preiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,433 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,578 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 62 | [RIP](https://open.spotify.com/track/3vqML7qAPUXH7AbtESolBY) | [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Goldie](https://open.spotify.com/album/24QB7vyHwRrU1irXktaWMM) | 3:13 |
 | 63 | [blue](https://open.spotify.com/track/1WL5aNWaoWjtbqOKOphCSv) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [blue](https://open.spotify.com/album/56V2Kulz8kNpLvhHO3IApl) | 2:58 |
 | 64 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
-| 65 | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M) | 3:14 |
-| 66 | [Halt mich \(feat\. laloba\)](https://open.spotify.com/track/4vRptSf2KRSneN26gjlIPM) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [laloba](https://open.spotify.com/artist/3C26GfV6N8ldIZdARc928z) | [Durch die Blume](https://open.spotify.com/album/0JHy72rVJDNxmvhNHVNDhD) | 4:25 |
-| 67 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
-| 68 | [Wie lang](https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wie lang](https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo) | 2:29 |
-| 69 | [Bitterlemon](https://open.spotify.com/track/3MQXzVtLzCaLaScZpq9c6O) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Bitterlemon](https://open.spotify.com/album/3FLExWlp1ZLPxNwLVMmXYN) | 2:52 |
-| 70 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
-| 71 | [Balladen](https://open.spotify.com/track/2Sww227sDMO4volJHpOval) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG), [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Balladen](https://open.spotify.com/album/3M9OiEvddu4EiNxVDdrDJ6) | 3:26 |
-| 72 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 |
-| 73 | [primetime](https://open.spotify.com/track/2gsaXMADNny0n6eHFeBryZ) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [PRIMETIME](https://open.spotify.com/album/3RK4pNM1XeJ0ZxhKHdSuKr) | 2:51 |
-| 74 | [Offline](https://open.spotify.com/track/7Jpjui3BOS3fYqKYzddHm4) | [MOA](https://open.spotify.com/artist/1E7MNGR2FctfNRyFwWLcCY), [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Offline](https://open.spotify.com/album/2tZZnHcwcJsJ7NbSLKLaAd) | 3:30 |
-| 75 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
+| 65 | [Wie lang](https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wie lang](https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo) | 2:29 |
+| 66 | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M) | 3:14 |
+| 67 | [Halt mich \(feat\. laloba\)](https://open.spotify.com/track/4vRptSf2KRSneN26gjlIPM) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [laloba](https://open.spotify.com/artist/3C26GfV6N8ldIZdARc928z) | [Durch die Blume](https://open.spotify.com/album/0JHy72rVJDNxmvhNHVNDhD) | 4:25 |
+| 68 | [Bitterlemon](https://open.spotify.com/track/3MQXzVtLzCaLaScZpq9c6O) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Bitterlemon](https://open.spotify.com/album/3FLExWlp1ZLPxNwLVMmXYN) | 2:52 |
+| 69 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
+| 70 | [Balladen](https://open.spotify.com/track/2Sww227sDMO4volJHpOval) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG), [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Balladen](https://open.spotify.com/album/3M9OiEvddu4EiNxVDdrDJ6) | 3:26 |
+| 71 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 |
+| 72 | [primetime](https://open.spotify.com/track/2gsaXMADNny0n6eHFeBryZ) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [PRIMETIME](https://open.spotify.com/album/3RK4pNM1XeJ0ZxhKHdSuKr) | 2:51 |
+| 73 | [Offline](https://open.spotify.com/track/7Jpjui3BOS3fYqKYzddHm4) | [MOA](https://open.spotify.com/artist/1E7MNGR2FctfNRyFwWLcCY), [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Offline](https://open.spotify.com/album/2tZZnHcwcJsJ7NbSLKLaAd) | 3:30 |
+| 74 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
+| 75 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 
-Snapshot ID: `MCw3OTdkMDZlYTZjN2M0OTQ0NGFkNjAzMWRkZTFjYWI0NWJlOTdlMmEz`
+Snapshot ID: `MCw2YmUwNTllZDM1NDZhNzBjYjhiNzYzMjhiZmRjMDYxZDNjZTQ0N2E4`

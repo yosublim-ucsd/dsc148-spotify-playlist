@@ -204,7 +204,7 @@
     {
       "album": {
         "name": "Carrusel",
-        "url": "https://open.spotify.com/album/33w45l6hLQTlaqJExHJ4kT"
+        "url": "https://open.spotify.com/album/3PXgoT9rCUPaFYCYHg6ynR"
       },
       "artists": [
         {
@@ -215,6 +215,24 @@
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163920,
+      "name": "Carrusel",
+      "url": "https://open.spotify.com/track/0I9u2AcBoLAtMVOWRRLDvN"
+    },
+    {
+      "album": {
+        "name": "Carrusel",
+        "url": "https://open.spotify.com/album/33w45l6hLQTlaqJExHJ4kT"
+      },
+      "artists": [
+        {
+          "name": "Kyllow",
+          "url": "https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
       "duration_ms": 163920,
       "name": "Carrusel",
       "url": "https://open.spotify.com/track/5sNMuWchAZxgd3dFGtQpEQ"

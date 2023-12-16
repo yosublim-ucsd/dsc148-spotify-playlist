@@ -984,7 +984,7 @@
     {
       "album": {
         "name": "HiROQUEST 2: Double Helix",
-        "url": "https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO"
+        "url": "https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT"
       },
       "artists": [
         {
@@ -999,6 +999,28 @@
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163438,
+      "name": "Cartagena ft. Greeicy",
+      "url": "https://open.spotify.com/track/12jhGbUw1YTXnu8L0KxcST"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST 2: Double Helix",
+        "url": "https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
       "duration_ms": 163438,
       "name": "Cartagena ft. Greeicy",
       "url": "https://open.spotify.com/track/3VG2UqE5YM89gamF9Ibn88"

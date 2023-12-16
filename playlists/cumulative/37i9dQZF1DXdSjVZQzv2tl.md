@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Israel & Rodolffo, Mc Don Juan, João Gomes
+> O melhor do sertanejo em uma só playlist! Foto: Ana Castela, Gustavo Mioto
 
 184 songs - 8 hr 44 min
 

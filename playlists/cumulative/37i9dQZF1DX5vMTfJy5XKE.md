@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-571 songs - 1 day 5 hr 56 min
+574 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Christmas Feels Different This Year](https://open.spotify.com/track/5mB92R9lCbajm6jHTiwi79) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Christmas Feels Different This Year](https://open.spotify.com/album/1GFtrmA7LSta9pauZI9fPj) | 3:23 | 2023-10-27 |  |
 | [Christmas Feels Like Home](https://open.spotify.com/track/1VqBqC0hLpNGvX60Ykhh9i) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Christmas Feels Like Home](https://open.spotify.com/album/6Nz6wJjdo39R7VyPYlK9jv) | 3:28 | 2021-12-24 | 2022-09-28 |
 | [Christmas Got Colder](https://open.spotify.com/track/5OOavrga0WgJlOei52P9h1) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [a heartfelt holiday](https://open.spotify.com/album/39RsW9bJUFYT8ena41A4P1) | 2:09 | 2021-12-24 | 2022-09-28 |
+| [Christmas in Hollis](https://open.spotify.com/track/2tgKBrQZb1mvZfRPKP7fLn) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Christmas in Hollis](https://open.spotify.com/album/2T0CET3F8jkrCesxqB9rTr) | 2:59 | 2023-12-15 |  |
 | [Christmas in LA](https://open.spotify.com/track/4qi5UztNgd00YhtxB8fAat) | [Olivia Rox](https://open.spotify.com/artist/5CFBvt5T4o48iAy8mstupj) | [An Olivia Rox Christmas](https://open.spotify.com/album/7qEbuwZO9xkr85ycHqkS4r) | 2:27 | 2022-11-11 | 2023-10-04 |
 | [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 | 2022-10-28 | 2023-10-04 |
 | [Christmas in New York](https://open.spotify.com/track/7jCdK822bbHtDLSXKmNMd9) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Christmas in New York](https://open.spotify.com/album/4xq8uAmrX7wFF6thULGYhb) | 2:58 | 2021-12-24 | 2022-07-27 |
@@ -411,6 +412,7 @@
 | [Prayers For This World](https://open.spotify.com/track/0np4wrLitfNjaqqkYsPt79) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Prayers For This World](https://open.spotify.com/album/6e4ASUu9fUIw2QBGppK4Qb) | 3:42 | 2022-09-27 | 2022-10-29 |
 | [Pretty Paper](https://open.spotify.com/track/02N6DYWfmvh8IPhak3uDrl) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Songs for Christmas](https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX) | 2:42 | 2021-12-24 | 2022-09-11 |
 | [Pure Imagination / Christmas Time Is Here](https://open.spotify.com/track/18QnV6B8oCorqVYkz0Nljp) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:20 | 2023-10-20 |  |
+| [Rest Of Our Days](https://open.spotify.com/track/0jLsr3uZp9i5VUpWdmd3k6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Rest Of Our Days](https://open.spotify.com/album/50L3qkwrnkqHoEwOT6bp12) | 2:31 | 2023-12-15 |  |
 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 | 2022-11-11 | 2023-10-04 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/6sYE0q44GF0pQA5M1nyqCG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/5cYuIkRzTLIwaPEXv3LYcr) | 2:28 | 2021-12-24 | 2022-10-29 |
 | [Rockin’ Around The Christmas Tree](https://open.spotify.com/track/1hecBi6qXM8bjTPnJjr205) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Brett Young & Friends Sing The Christmas Classics](https://open.spotify.com/album/0qWmDshW80OTUuipP3Wvla) | 2:12 | 2021-12-24 | 2022-09-28 |
@@ -524,7 +526,8 @@
 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 | 2022-10-23 | 2023-10-04 |
 | [U Set My Christmas on Fire](https://open.spotify.com/track/36S5xBpOUpEkl0IXV5bY6I) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [U Set My Christmas on Fire](https://open.spotify.com/album/50WyLvO6Ubkvi7q3LNSwGh) | 2:27 | 2023-12-01 |  |
 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-19 | 2023-10-04 |
-| [Under The Tree](https://open.spotify.com/track/2AUC52roPNq9PkoCcp8tUP) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Under The Tree](https://open.spotify.com/album/0vFMkAIBKD7Y9mlubhfria) | 2:00 | 2023-11-03 |  |
+| [Under The Tree](https://open.spotify.com/track/2AUC52roPNq9PkoCcp8tUP) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Under The Tree](https://open.spotify.com/album/0vFMkAIBKD7Y9mlubhfria) | 2:00 | 2023-11-03 | 2023-12-16 |
+| [Under The Tree](https://open.spotify.com/track/3IYPdd7uyMcFtBHO2uefId) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Under The Tree](https://open.spotify.com/album/5U25anIJWmH57WGzfqs6HP) | 2:00 | 2023-11-20 |  |
 | [Underneath The Tree](https://open.spotify.com/track/1xfBmQkjurAYQMXEyPnDAA) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Underneath The Tree](https://open.spotify.com/album/3mIY6ZvlE41XkHusX8ypdg) | 3:19 | 2021-12-24 | 2022-07-29 |
 | [Very Merry Christmas](https://open.spotify.com/track/2ohY4mWfX09o4B8zAn5Kub) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [A Crazy Confetti Christmas](https://open.spotify.com/album/2FN4sRJ0ewbIkwzxbQvJQB) | 2:28 | 2022-11-18 | 2023-10-04 |
 | [Very Merry Christmas](https://open.spotify.com/track/4W0AMs5hHgRXC8gNgWriDc) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Very Merry Christmas](https://open.spotify.com/album/6vSn9jm97EwAL2BBfAYt4D) | 2:28 | 2022-11-18 | 2023-02-01 |

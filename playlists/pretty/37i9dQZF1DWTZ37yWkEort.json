@@ -1,12 +1,12 @@
 {
   "description": "From joyful jubillance to hushed harmonies. Cover: Pentatonix ",
-  "num_followers": 43548,
+  "num_followers": 43774,
   "original_name": "A Cappella Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmIyMTk0N2VkZTI4YWI3MmQzNGViYTM1OTg1NjVkM2VlYzZhYzNi",
+  "snapshot_id": "MCw5ZGYzZjk2MTkyYWVmMTcyYjBkNDhjMWFmMDdjMzNiZWU5MTIwMDJh",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -85,6 +85,22 @@
       "url": "https://open.spotify.com/track/7ecfZxGVN2PphzwOLd4GSQ"
     },
     {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/4uflf5jBf1oZ1E8BfmZdSs"
+      },
+      "artists": [
+        {
+          "name": "The Swingles",
+          "url": "https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/79F8kAOjY7378yM98rc5Gh"
+    },
+    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Carol of the Bells",
@@ -131,6 +147,26 @@
       "duration_ms": 115775,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7h0jTze9vNvp7Kpid2i2dB"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Like It's Christmas",
+        "url": "https://open.spotify.com/album/14aO4xYovAlvSSmMrFxY7F"
+      },
+      "artists": [
+        {
+          "name": "The Trills",
+          "url": "https://open.spotify.com/artist/1ndCTkNbTXQmLkuRZsh5qI"
+        },
+        {
+          "name": "Charlie Curtis-Beard",
+          "url": "https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb"
+        }
+      ],
+      "duration_ms": 219804,
+      "name": "Like It's Christmas",
+      "url": "https://open.spotify.com/track/0olvHpyM6ObSE3kgFaN5zQ"
     },
     {
       "added_at": "2022-12-08 15:27:43",
@@ -783,22 +819,6 @@
     {
       "added_at": "2022-01-14 15:08:50",
       "album": {
-        "name": "A Pentatonix Christmas Deluxe",
-        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Merry Christmas, Happy Holidays",
-      "url": "https://open.spotify.com/track/6crJeVAyChFwjdI6oo0lwm"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
         "name": "Sorted Noise Records: A Holiday Album, Vol. 2",
         "url": "https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 146493,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/2xsQpFWuAxu5XhhOLQlB7J"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     },
     {
       "added_at": "2022-01-14 15:08:50",

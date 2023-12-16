@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Strangers",
+        "url": "https://open.spotify.com/album/1Wopro4nOGhYXwfNkOHmd9"
+      },
+      "artists": [
+        {
+          "name": "HARBER",
+          "url": "https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Beautiful Strangers",
+      "url": "https://open.spotify.com/track/0pSWd4x9Nc2JfyofJnjVg7"
+    },
+    {
+      "album": {
         "name": "Begin",
         "url": "https://open.spotify.com/album/2UILEJmXX3a0STzNJCWEqA"
       },

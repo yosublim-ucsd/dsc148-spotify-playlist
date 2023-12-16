@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Piece",
+        "url": "https://open.spotify.com/album/3xwclNQx4vY9Axr6x3Giib"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "Wound Deeper Than Love (duet with Lim Jae Beum)",
+      "url": "https://open.spotify.com/track/687VC5tfsrdmpjKUVgRF1A"
+    },
+    {
+      "album": {
         "name": "Will in FALL",
         "url": "https://open.spotify.com/album/0zTnt5jVnRUOaBEu1hqSYs"
       },
@@ -2750,7 +2768,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 183511,
       "name": "\ub9cc\uc57d\uc5d0 \ub9d0\uc57c",
       "url": "https://open.spotify.com/track/21umNQmuRyMzdcOccAwNhK"
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 183646,
       "name": "\ub9cc\uc57d\uc5d0 \ub9d0\uc57c",
       "url": "https://open.spotify.com/track/2XKuRwspIG5xIKZYVCNbty"
@@ -3132,7 +3150,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 261381,
       "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740\uc0c1\ucc98 (DUET WITH \uc784\uc7ac\ubc94)",
       "url": "https://open.spotify.com/track/6NPtRKUzSeGccAxOSUMuMI"
@@ -3186,7 +3204,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 145294,
       "name": "\uc0ac\ub791\uc5d0 \ube60\uc9c0\uace0 \uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/5QxIGFY3RWXRp1KoqgcoWj"
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 145333,
       "name": "\uc0ac\ub791\uc5d0 \ube60\uc9c0\uace0 \uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/2e460Sd7WZ6BQTNuzK3FwE"

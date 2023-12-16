@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-973 songs - 2 day 3 hr 17 min
+974 songs - 2 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [BATIDA DE FUNK](https://open.spotify.com/track/5cqTrRH9KD2vf8pi0mruHZ) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [BATIDA DE FUNK](https://open.spotify.com/album/219SHZSr9CjzSbuC6tTC70) | 1:25 | 2023-08-04 | 2023-10-28 |
 | [Be Free](https://open.spotify.com/track/66CEPFHeeZuMTaODDOUwJj) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Be Free](https://open.spotify.com/album/1XWmso7QfG25h0xhu3eShw) | 3:12 | 2022-01-14 | 2022-01-29 |
 | [Beautiful Nothing](https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Beautiful Nothing](https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f) | 3:31 | 2023-07-14 |  |
+| [Beautiful Strangers](https://open.spotify.com/track/0pSWd4x9Nc2JfyofJnjVg7) | [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd) | [Beautiful Strangers](https://open.spotify.com/album/1Wopro4nOGhYXwfNkOHmd9) | 3:00 | 2023-12-15 |  |
 | [Begin](https://open.spotify.com/track/0T2n3HaXUmYa5m20OMvPDW) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Begin](https://open.spotify.com/album/2UILEJmXX3a0STzNJCWEqA) | 3:25 | 2023-04-08 | 2023-05-27 |
 | [Better Alone \(with IDontloveu\)](https://open.spotify.com/track/3maRMTZGRVguZPqOBUFvOB) | [Jaxxtone](https://open.spotify.com/artist/3ASDNZT1AaVuC0bqu60oaY), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i), [IDontloveu](https://open.spotify.com/artist/6hw2y5rA6aoebyj53vUhZ3), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 3:37 | 2022-11-18 | 2023-02-22 |
 | [BETTER OFF ALONE](https://open.spotify.com/track/1xuA0Xfi6BVrTZDQnX8X4i) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [BETTER OFF ALONE](https://open.spotify.com/album/3yRr0L3utmRicx3Yc9kCj7) | 2:40 | 2023-10-27 | 2023-12-09 |

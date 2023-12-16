@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 53131,
+  "num_followers": 53150,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzBmYjVjNWM0NjQwNjI5ZTg2NGFmZjIxZWJlZTc0NzEwMzYyZWRm",
+  "snapshot_id": "MCxhZGE0NjI0YjhlZDQ4NGI5MTg2NDk1ZjljOTlmMzAyOTkwZDA2NjY4",
   "tracks": [
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/29TtZtZzeVNxPsjRKdaelu"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        },
+        {
+          "name": "Will Wilde",
+          "url": "https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ"
+        }
+      ],
+      "duration_ms": 249705,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/5khIty4Quq18tSkDrI0UaC"
+    },
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
@@ -1023,22 +1043,6 @@
       "duration_ms": 156973,
       "name": "Ace Of Spades",
       "url": "https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "High Is Low",
-      "url": "https://open.spotify.com/track/3yrV9iFHJYULuE8jogoPec"
     },
     {
       "added_at": "2022-09-30 04:01:00",

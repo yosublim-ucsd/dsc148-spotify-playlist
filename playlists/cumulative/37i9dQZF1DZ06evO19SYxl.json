@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 58586,
       "name": "El Bailable",
       "url": "https://open.spotify.com/track/1w8DzpklmbRnIhWEiRbLOI"
@@ -676,6 +676,28 @@
       "duration_ms": 300760,
       "name": "Ni una M\u00e1s",
       "url": "https://open.spotify.com/track/13eFPA8zkZoJBEhCSz9sj1"
+    },
+    {
+      "album": {
+        "name": "Segunda Oportunidad (Duetos: Caminando Voy)",
+        "url": "https://open.spotify.com/album/7HGHoQGRRbC0B6vh23FTy0"
+      },
+      "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        },
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Octubre",
+      "url": "https://open.spotify.com/track/3yKdnG4abZ5HRLhp8lh4TG"
     },
     {
       "album": {

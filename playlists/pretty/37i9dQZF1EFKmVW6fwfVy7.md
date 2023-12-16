@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKmVW6fwfVy7.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Temperatura \(feat\. Eli Palacios\)](https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Eli Palacios](https://open.spotify.com/artist/06U8PS34QCpLW3CqwJgfj2) | [PB.DB\. The Mixtape](https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc) | 3:44 |
+| 1 | [La Temperatura](https://open.spotify.com/track/7zUMeJ7wp2RZkwPYiNocZJ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Eli Palacios](https://open.spotify.com/artist/06U8PS34QCpLW3CqwJgfj2) | [La Temperatura \(Video\)](https://open.spotify.com/album/5k4SV4JWkpKdhGbbUAfsxW) | 3:57 |
 | 2 | [Moviendo Caderas \(feat\. Daddy Yankee\)](https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [De Líder a Leyenda](https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul) | 3:19 |
 | 3 | [Obsesionado](https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:31 |
 | 4 | [Carnaval](https://open.spotify.com/track/1VG7hlZpY73n8h8NgidVTh) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PB.DB\. The Mixtape](https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc) | 3:32 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKmVW6fwfVy7.md) - [plain]
 | 22 | [Poco a Poquito](https://open.spotify.com/track/59NmhscVDdq8lPILs9fF3p) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 3:03 |
 | 23 | [Me Gustó](https://open.spotify.com/track/0qZLgZHQ7JlRyE8oiBYKbS) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 3:19 |
 
-Snapshot ID: `MjgzNzY3NzAsMDAwMDAwMDA2YmMzYWRhYTVkMGJkZmY2ZWU0YjEzYjM5NWE0Y2VmNA==`
+Snapshot ID: `MjgzNzgyMTAsMDAwMDAwMDBiYzRhODk2YjU3MjRlYWRjNmQ5Y2ExMTRkMjFjZDg2Ng==`

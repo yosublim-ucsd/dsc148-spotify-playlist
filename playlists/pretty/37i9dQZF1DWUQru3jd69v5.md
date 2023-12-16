@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Digital Astro, Niky Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,592 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,597 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 19 | [N.47](https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [N.47](https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC) | 2:25 |
 | 20 | [FACE ID](https://open.spotify.com/track/6fGoyDw3Wq5zRPr4KJVvrU) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [FACE ID](https://open.spotify.com/album/1GgiWqTF0F7tWO0ZWCPfH4) | 2:33 |
 | 21 | [CAPO MOVES](https://open.spotify.com/track/0liE5Cvv22tXUNGmtV9Arp) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [CAPO MOVES](https://open.spotify.com/album/0pkxqmGIy5z6Q0h6eu60h5) | 2:16 |
-| 22 | [MAR7ABA \(feat\. Nabi\)](https://open.spotify.com/track/3WFlIMxM6GteBtgtt5nNFg) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [MAR7ABA \(feat\. Nabi\)](https://open.spotify.com/album/0EzPLBiSfAiOYD1q68c6ch) | 3:00 |
+| 22 | [MAR7ABA \(feat\. Nabi, LaMagieDuTiel\)](https://open.spotify.com/track/3WFlIMxM6GteBtgtt5nNFg) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [MAR7ABA \(feat\. Nabi, LaMagieDuTiel\)](https://open.spotify.com/album/0EzPLBiSfAiOYD1q68c6ch) | 3:00 |
 | 23 | [LE BAMBINE FANNO OH \(feat\. Nerissima Serpe, ANNA, Papa V, Artie 5ive\)](https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:16 |
 | 24 | [Valentino Rossi](https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Valentino Rossi](https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ) | 1:59 |
 | 25 | [Poto](https://open.spotify.com/track/55wSyoqffHuph5oqDYsZPR) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK) | [Poto](https://open.spotify.com/album/05YvdzQimCEuruP7PkMyOt) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Dakar](https://open.spotify.com/track/0e1L1DTR2koDnvZJ4n3ljJ) | [Abe Kayn](https://open.spotify.com/artist/1U7o0SH2ec5y6KnMJgyjGn), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Flaco Pnz](https://open.spotify.com/artist/6CaMJhccw2F1BhhtS1QCgj), [Paco](https://open.spotify.com/artist/5DN3xDZBYJwXznoicLtbSy), [Svg Pnz](https://open.spotify.com/artist/5C18A3u0i59737iDQas7eO), [WadeLeVrai](https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW) | [Dakar](https://open.spotify.com/album/1FbAGKKdivCNVeoNmtJWCM) | 3:18 |
 | 50 | [Come a Dakar](https://open.spotify.com/track/6a9yidr8DpQwO8qNY29x5B) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [Come a Dakar](https://open.spotify.com/album/20jMLLeQuGTntObzVBXyzW) | 2:05 |
 
-Snapshot ID: `MCxjOWE1Y2QwNTY4ZGFkYTkyYzgwOTMyMTZlNWUzNTFlNDQxYjBhN2Iy`
+Snapshot ID: `MCw2OWRjNTdlMzZiZTFiNTVjODgwNWRlNjBjMGZlMzI3YTE3MmEwOGI4`

@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia, de la buena!<br/>Foto: La Combo Tortuga.
 
-109 songs - 6 hr 31 min
+110 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Solos Solitos](https://open.spotify.com/track/4oYdiPvx5diufwkMGVipSC) | [Sonora Barón](https://open.spotify.com/artist/3IrgBju6MoDqMqxSUB3zCk) | [Algún día sabremos como se llama](https://open.spotify.com/album/00Hc5ZVRt1CUnrP7VjFISx) | 3:56 | 2023-08-25 |  |
 | [Somos](https://open.spotify.com/track/4KhzKBfSMmRj9xYrsD4UZX) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [Somos](https://open.spotify.com/album/0o8fC6tDlWIBzcGtWHUIUF) | 3:13 | 2023-08-25 |  |
 | [Soy Feo Pero Rico](https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [De Amor y Vacilón](https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV) | 3:07 | 2023-08-25 |  |
+| [Super Ladron](https://open.spotify.com/track/3c7S0Rw8eExdMh7Xypb6ff) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Super Ladron](https://open.spotify.com/album/1m8Z8zHCHZiXo5FcXBHIDQ) | 3:16 | 2023-12-15 |  |
 | [Supermandoneao](https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Cumbia E' Plaza](https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj) | 4:32 | 2023-08-25 |  |
 | [Te Vas](https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe) | 3:54 | 2023-08-25 |  |
 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 | 2023-08-25 |  |

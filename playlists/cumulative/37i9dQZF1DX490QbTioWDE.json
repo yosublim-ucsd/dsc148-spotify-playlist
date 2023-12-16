@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Abel Pintos & Luck Ra.",
+  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno  & Migrantes.",
   "name": "100% Cuarteto",
   "tracks": [
     {
@@ -448,6 +448,28 @@
       "duration_ms": 320373,
       "name": "Amor secreto",
       "url": "https://open.spotify.com/track/2weCRoOw9dVUiTQI9gUjVx"
+    },
+    {
+      "album": {
+        "name": "Anti Amor",
+        "url": "https://open.spotify.com/album/4Ak5qyIHTsPMDAgNeWIA5C"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180198,
+      "name": "Anti Amor",
+      "url": "https://open.spotify.com/track/3XnGmGMsZKUUslNt2Nr0V4"
     },
     {
       "album": {
@@ -2058,7 +2080,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 169589,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
@@ -2280,7 +2302,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 268199,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1LoDp9jyH2guSm5wQAy6Ei"
@@ -7098,7 +7120,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 319280,
       "name": "Vuela (En Vivo)",
       "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"

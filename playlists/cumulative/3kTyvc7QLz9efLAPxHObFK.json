@@ -7507,6 +7507,28 @@
     },
     {
       "album": {
+        "name": "FUCKIN KICKDRUM",
+        "url": "https://open.spotify.com/album/5mEFXrZfCubqvlbMiM7sb0"
+      },
+      "artists": [
+        {
+          "name": "Skull Demon",
+          "url": "https://open.spotify.com/artist/2S0ARB7meisIgCWq01As9p"
+        },
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177609,
+      "name": "FUCKIN KICKDRUM",
+      "url": "https://open.spotify.com/track/3VoAwRSMcd7tU7iJ6LQrDO"
+    },
+    {
+      "album": {
         "name": "Fucking Drop",
         "url": "https://open.spotify.com/album/6kVjRMI22zVJpNmPdRhB2V"
       },

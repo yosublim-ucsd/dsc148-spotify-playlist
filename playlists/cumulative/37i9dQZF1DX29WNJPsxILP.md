@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring KR$NA & Raftaar
 
-112 songs - 5 hr 54 min
+113 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Nanchaku](https://open.spotify.com/track/6YwiqqQ5xoeUkPwrn9cfEw) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nanchaku](https://open.spotify.com/album/4cniRITVrmzAABlGgNv6k4) | 3:13 | 2023-03-10 |  |
 | [NCR Ke \(Original Song from "NCR Days"\)](https://open.spotify.com/track/0PHCoJBQyXpTci3lfy7i1s) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Escape Sequence](https://open.spotify.com/artist/2fZRHmeAZvkd3dDhEfWt8I) | [NCR Ke \(Original Song from "NCR Days"\)](https://open.spotify.com/album/3BCkXObf5upU3nKFAgQlmz) | 2:30 | 2023-03-10 | 2023-11-30 |
 | [NGL](https://open.spotify.com/track/58h9f4lWnyLPIwqucWydxj) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 4:00 | 2023-03-10 |  |
+| [Ninja Flow](https://open.spotify.com/track/6Om0ZJBDTaLh6SGYZQVvI2) | [MassQline](https://open.spotify.com/artist/0kMK558QxTuQu1uvWJKuvh) | [Ninja Flow](https://open.spotify.com/album/6v7tXgTWmM1MlSeyjd7mbL) | 2:39 | 2023-12-15 |  |
 | [No Cap](https://open.spotify.com/track/1XdUEm2MwB6ysy6E80ltMg) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [No Cap](https://open.spotify.com/album/0cqxAGBxVVlB19D01Eb2TS) | 3:25 | 2023-03-10 |  |
 | [NO CHINA](https://open.spotify.com/track/1LZbyxhEXOjdHwWoaWN7Ve) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:18 | 2023-03-10 |  |
 | [No ID \- Tunnel Vision](https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [No ID \(Tunnel Vision\)](https://open.spotify.com/album/0sOz3qB67vifJ7xChlGXWQ) | 2:39 | 2023-08-28 |  |
@@ -99,7 +100,7 @@
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2023-03-10 |  |
 | [Sehwag](https://open.spotify.com/track/5jOAVIOdsTusLQaHmGz2bj) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Sehwag](https://open.spotify.com/album/1zDxYpPhKFUaiaXC1dAWEG) | 3:48 | 2023-03-10 | 2023-10-12 |
 | [Sheher](https://open.spotify.com/track/5fbKzbj3GMXvWpyBUAhXnJ) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Sheher](https://open.spotify.com/album/7Es8qPSX7mg6l0FpfPXkY8) | 3:30 | 2023-03-10 | 2023-10-12 |
-| [Sukoon](https://open.spotify.com/track/7e9eUqJIIKwN95T7Xsx8Jn) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:30 | 2023-03-10 |  |
+| [Sukoon](https://open.spotify.com/track/7e9eUqJIIKwN95T7Xsx8Jn) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:30 | 2023-03-10 | 2023-12-16 |
 | [Taakat](https://open.spotify.com/track/3RGalL1QdsfG6b8mzATGKx) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:36 | 2023-08-28 |  |
 | [Tarakkiyan \- From "Multani Mitti"](https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Tarakkiyan \(From "Multani Mitti"\)](https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW) | 2:12 | 2023-10-06 | 2023-11-17 |
 | [tere saath \(i feel good\)](https://open.spotify.com/track/5EavRVLo1nDNTgLXPgfQYY) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [tere saath \(i feel good\)](https://open.spotify.com/album/1eZUWcFJQ5gzlE1Q8Ps5T3) | 1:49 | 2023-07-25 | 2023-09-02 |

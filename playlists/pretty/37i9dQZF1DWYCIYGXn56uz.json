@@ -1,159 +1,15 @@
 {
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Mew. <a href=\"spotify:playlist:37i9dQZF1DWTDcvdOAx9xg\">Scopri il Best Of del 2023 qui!</a>",
-  "num_followers": 387226,
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Ayle. <a href=\"spotify:playlist:37i9dQZF1DWTDcvdOAx9xg\">Scopri il Best Of del 2023 qui!</a>",
+  "num_followers": 387218,
   "original_name": "GENERAZIONE Z",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzI1YTg0OThkZDM4YmZmMGJmZmQ1ZjY2ZjZmZTIwZDMzYzJhNGEx",
+  "snapshot_id": "MCxjZGYxMzI4NTAwZTkzZGYxNzIxMjNhZjcwMTE3MGJiMzc4ZTgyMDJl",
   "tracks": [
     {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "MERCOLED\u00cc MAI",
-        "url": "https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk"
-      },
-      "artists": [
-        {
-          "name": "mew",
-          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
-        }
-      ],
-      "duration_ms": 174879,
-      "name": "MERCOLED\u00cc MAI",
-      "url": "https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "NUVOLA",
-        "url": "https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk"
-      },
-      "artists": [
-        {
-          "name": "Holden",
-          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
-        }
-      ],
-      "duration_ms": 169483,
-      "name": "NUVOLA",
-      "url": "https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "Fila indiana",
-        "url": "https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 193387,
-      "name": "Fila indiana",
-      "url": "https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "ROSSOFUOCO",
-        "url": "https://open.spotify.com/album/4r6P74TpYpXFgHam09a8KA"
-      },
-      "artists": [
-        {
-          "name": "Mida",
-          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
-        }
-      ],
-      "duration_ms": 162684,
-      "name": "ROSSOFUOCO",
-      "url": "https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "MI ODIERAI",
-        "url": "https://open.spotify.com/album/7rUUGvVIkru8hoJYd21OlT"
-      },
-      "artists": [
-        {
-          "name": "Mida",
-          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
-        }
-      ],
-      "duration_ms": 207034,
-      "name": "MI ODIERAI",
-      "url": "https://open.spotify.com/track/6eumBM7ThMaSPPGRlWZfWM"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "CHE FAI",
-        "url": "https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah"
-      },
-      "artists": [
-        {
-          "name": "Petit",
-          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
-        }
-      ],
-      "duration_ms": 141436,
-      "name": "CHE FAI",
-      "url": "https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "VIVO",
-        "url": "https://open.spotify.com/album/2IokIZBdDMvu0nayy0ZEEB"
-      },
-      "artists": [
-        {
-          "name": "mew",
-          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
-        }
-      ],
-      "duration_ms": 203039,
-      "name": "VIVO",
-      "url": "https://open.spotify.com/track/5Z94e6QpyQI50ehSfeeLy3"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "DIMMI CHE NON \u00c8 UN ADDIO",
-        "url": "https://open.spotify.com/album/6U5GyoLm2UlkuMFAWMQ0s7"
-      },
-      "artists": [
-        {
-          "name": "Holden",
-          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
-        }
-      ],
-      "duration_ms": 177769,
-      "name": "DIMMI CHE NON \u00c8 UN ADDIO",
-      "url": "https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "PERLE",
-        "url": "https://open.spotify.com/album/33AHHEQNnTjoJCjp6WJ4jf"
-      },
-      "artists": [
-        {
-          "name": "Tancredi",
-          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
-        }
-      ],
-      "duration_ms": 190319,
-      "name": "PERLE",
-      "url": "https://open.spotify.com/track/6MKM3j9rx5fP80y9ZJfygk"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "ALLERGICA ALLE FRAGOLE",
         "url": "https://open.spotify.com/album/3uaa9er9i5Qmpq64qmS8N5"
@@ -169,7 +25,183 @@
       "url": "https://open.spotify.com/track/0hYdFsDUc23IOXCra6ddkB"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "NUVOLA",
+        "url": "https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "duration_ms": 169483,
+      "name": "NUVOLA",
+      "url": "https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "americana",
+        "url": "https://open.spotify.com/album/3U8aGMcvbUxvyngs3Jamv4"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "duration_ms": 159042,
+      "name": "americana",
+      "url": "https://open.spotify.com/track/0VEcCKqnXUU2yALEhsYq2X"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "ROSSOFUOCO",
+        "url": "https://open.spotify.com/album/4r6P74TpYpXFgHam09a8KA"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "ROSSOFUOCO",
+      "url": "https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "MERCOLED\u00cc MAI",
+        "url": "https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "duration_ms": 174879,
+      "name": "MERCOLED\u00cc MAI",
+      "url": "https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "Fila indiana",
+        "url": "https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 193387,
+      "name": "Fila indiana",
+      "url": "https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "MI ODIERAI",
+        "url": "https://open.spotify.com/album/7rUUGvVIkru8hoJYd21OlT"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "duration_ms": 207034,
+      "name": "MI ODIERAI",
+      "url": "https://open.spotify.com/track/6eumBM7ThMaSPPGRlWZfWM"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "CHE FAI",
+        "url": "https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah"
+      },
+      "artists": [
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        }
+      ],
+      "duration_ms": 141436,
+      "name": "CHE FAI",
+      "url": "https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "VIVO",
+        "url": "https://open.spotify.com/album/2IokIZBdDMvu0nayy0ZEEB"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "duration_ms": 203039,
+      "name": "VIVO",
+      "url": "https://open.spotify.com/track/5Z94e6QpyQI50ehSfeeLy3"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "DIMMI CHE NON \u00c8 UN ADDIO",
+        "url": "https://open.spotify.com/album/6U5GyoLm2UlkuMFAWMQ0s7"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "duration_ms": 177769,
+      "name": "DIMMI CHE NON \u00c8 UN ADDIO",
+      "url": "https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "Guagli\u00f2",
+        "url": "https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS"
+      },
+      "artists": [
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        }
+      ],
+      "duration_ms": 162524,
+      "name": "Guagli\u00f2",
+      "url": "https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "PERLE",
+        "url": "https://open.spotify.com/album/33AHHEQNnTjoJCjp6WJ4jf"
+      },
+      "artists": [
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "duration_ms": 190319,
+      "name": "PERLE",
+      "url": "https://open.spotify.com/track/6MKM3j9rx5fP80y9ZJfygk"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Che t\u2019o dico a fa\u2019",
         "url": "https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
@@ -213,7 +245,23 @@
       "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "Si \u00e8 spenta anche la luna - LUNA",
+        "url": "https://open.spotify.com/album/0XMf0lGQAJmxdo2r9x1ob0"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Aloia",
+          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Si \u00e8 spenta anche la luna - LUNA",
+      "url": "https://open.spotify.com/track/2nWVJWO9bQRH6OsvG5bWIO"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "UN MILIONE DI NOTTI",
         "url": "https://open.spotify.com/album/0Pn7cZPPgzGwugQ2QgrlPV"
@@ -233,7 +281,7 @@
       "url": "https://open.spotify.com/track/2ro9FlKCYKTLHB6Ke7Uqld"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Viole e Violini",
         "url": "https://open.spotify.com/album/6FPMkD4uAvcGVYxLQ0bm7Y"
@@ -249,7 +297,27 @@
       "url": "https://open.spotify.com/track/60ir328nxqnjOLXxvsqmHm"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "triste vederti felice",
+        "url": "https://open.spotify.com/album/70Z7WXM2C4b17sosjolYhV"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "duration_ms": 186724,
+      "name": "triste vederti felice",
+      "url": "https://open.spotify.com/track/1BXVLLsX5jX08LolcAss8G"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Altamente Mia",
         "url": "https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A"
@@ -269,7 +337,7 @@
       "url": "https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Mai dire mai",
         "url": "https://open.spotify.com/album/3qGimCe6zsNuq4M52YzFWj"
@@ -285,7 +353,23 @@
       "url": "https://open.spotify.com/track/0a0u4xR56rAzQVWbY2ovqx"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "FINO ALLE 6",
+        "url": "https://open.spotify.com/album/4xQGwlG5pBrTxg3gsRglDX"
+      },
+      "artists": [
+        {
+          "name": "Astol",
+          "url": "https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "FINO ALLE 6",
+      "url": "https://open.spotify.com/track/3tXM57Khcgj7Az8sW7pWnA"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/6XxvQNfV0vhA3KWFCE0g8B"
@@ -305,7 +389,7 @@
       "url": "https://open.spotify.com/track/5ODYIdPDyNVFXZpqAh3WEa"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "BOULEVARD",
         "url": "https://open.spotify.com/album/216MCmKzpLIcu8rMpCHWUZ"
@@ -321,7 +405,7 @@
       "url": "https://open.spotify.com/track/68ptyloCwRwBybEte88mxp"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Promesse (from the original Netflix series \"DI4RI\")",
         "url": "https://open.spotify.com/album/2c3QzmZOHzb3T1Z0IQxBZM"
@@ -337,7 +421,7 @@
       "url": "https://open.spotify.com/track/1cSRzvNN1xMHpkgCBFAqIE"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "La mia canzone per te",
         "url": "https://open.spotify.com/album/6k62hQzg2h4sPlusK7JazO"
@@ -353,7 +437,7 @@
       "url": "https://open.spotify.com/track/5UeIcE8opHwuFFk6em1U0l"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "TOUCH\u00c9",
         "url": "https://open.spotify.com/album/54PgfzlzOhf2WwN8AUeS4y"
@@ -369,7 +453,7 @@
       "url": "https://open.spotify.com/track/2x5H6jg0wEXYR9a5Gxxbjq"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
@@ -385,7 +469,23 @@
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "GRETA",
+        "url": "https://open.spotify.com/album/5bpW91E9krBVNx7enxPriy"
+      },
+      "artists": [
+        {
+          "name": "Greta",
+          "url": "https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "GRETA",
+      "url": "https://open.spotify.com/track/5UmOOuF0uHZ7qMmSgAwMuE"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Bruciasse Il Cielo",
         "url": "https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk"
@@ -401,7 +501,7 @@
       "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Stupida Libert\u00e0",
         "url": "https://open.spotify.com/album/7yEiN9dB700F55cpt1shTh"
@@ -417,27 +517,7 @@
       "url": "https://open.spotify.com/track/08yqlwXJL84xS3q6iY1S8Y"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "Io ti conosco",
-        "url": "https://open.spotify.com/album/0bdyF5AN6DdgwCAEvBrmqW"
-      },
-      "artists": [
-        {
-          "name": "gIANMARIA",
-          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 186852,
-      "name": "Io ti conosco",
-      "url": "https://open.spotify.com/track/7A9fo9j49DRPLPOGnfE2Ud"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "INVISIBILI",
         "url": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL"
@@ -453,23 +533,7 @@
       "url": "https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "Disincanto",
-        "url": "https://open.spotify.com/album/2iIjf4mpJWQqApJsoFBB45"
-      },
-      "artists": [
-        {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "la parte peggiore di me",
-      "url": "https://open.spotify.com/track/40VTzcSiXwrYrEvwPTi2Zu"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Papaya",
         "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
@@ -485,7 +549,7 @@
       "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "TANANAI",
         "url": "https://open.spotify.com/album/4aecpa6YWXWu1rVqBIgY1c"
@@ -501,7 +565,7 @@
       "url": "https://open.spotify.com/track/0IFp7DNMUrHroGDK7GASC7"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -517,7 +581,23 @@
       "url": "https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
+      "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
+    },
+    {
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP"
@@ -537,7 +617,7 @@
       "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "La parte pi\u00f9 bella di me (RMX)",
         "url": "https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2"
@@ -557,7 +637,7 @@
       "url": "https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Soraya",
         "url": "https://open.spotify.com/album/2y65ScAlc5MUfUa72fQcdo"
@@ -577,7 +657,7 @@
       "url": "https://open.spotify.com/track/0xDhwzzCx7eamMB11VBgOo"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "COSE CHE NON SAI",
         "url": "https://open.spotify.com/album/73TFa19BEx0BEhfHbswCDn"
@@ -597,23 +677,7 @@
       "url": "https://open.spotify.com/track/6qd8pqUuKwmzmv30nTe7i6"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "INCOLMABILE",
-        "url": "https://open.spotify.com/album/2SywZjY7wHMeGZRQmGC6VG"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 190688,
-      "name": "INCOLMABILE",
-      "url": "https://open.spotify.com/track/76Sybu8V1i5sp7Ew4pp4l8"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Caff\u00e8 sulla Via Lattea",
         "url": "https://open.spotify.com/album/4NA8oWAIBxQrWHMdR3kfWu"
@@ -629,7 +693,7 @@
       "url": "https://open.spotify.com/track/75rJXt1sAMNfK5zOtgZVtk"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Parlami",
         "url": "https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N"
@@ -649,7 +713,7 @@
       "url": "https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "bellissimissima <3",
         "url": "https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns"
@@ -665,23 +729,7 @@
       "url": "https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "Anche se fa male",
-        "url": "https://open.spotify.com/album/7ffTACBFs9ZZtAdi9e3umU"
-      },
-      "artists": [
-        {
-          "name": "ALBE.x",
-          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Anche se fa male",
-      "url": "https://open.spotify.com/track/0cgSCy6U9CzwNjT81n5dyC"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Ancora un minuto",
         "url": "https://open.spotify.com/album/7qLIFQSH0hbvt9wjTi6dIa"
@@ -697,7 +745,7 @@
       "url": "https://open.spotify.com/track/0MTabSNX8sZzRgjRDqqJ0e"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Follia",
         "url": "https://open.spotify.com/album/2QVkDVj1xNoSE0Pk7sZMBb"
@@ -713,7 +761,7 @@
       "url": "https://open.spotify.com/track/6MndhxNWKY5Du4pIGk3CW0"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "DAMMI UN BACIO JA\u2019",
         "url": "https://open.spotify.com/album/63Lct71NrJl6FjsJSgBRp5"
@@ -729,7 +777,7 @@
       "url": "https://open.spotify.com/track/3OCCmqxxlz7AXI1Ns7gY2C"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
         "url": "https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA"
@@ -753,7 +801,7 @@
       "url": "https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Un po' di te",
         "url": "https://open.spotify.com/album/1ayaxYovLmlTBMLMZjSA9M"
@@ -769,7 +817,7 @@
       "url": "https://open.spotify.com/track/7l20UfYfWQDfElcp1rvkjd"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Domani ci passa",
         "url": "https://open.spotify.com/album/1CxqsMftYqwpHFyV0llE5q"
@@ -785,39 +833,7 @@
       "url": "https://open.spotify.com/track/3elLXGwE5zaREuOzWdlRJ2"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "Tatta\u00f9",
-        "url": "https://open.spotify.com/album/5dLvo90i3sebbBhPC8p5On"
-      },
-      "artists": [
-        {
-          "name": "Ludwig",
-          "url": "https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "Tatta\u00f9",
-      "url": "https://open.spotify.com/track/06olUq0UU2Uv3JVLD0hYwA"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "VENERE",
-        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
-      },
-      "artists": [
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
-        }
-      ],
-      "duration_ms": 168095,
-      "name": "VENERE",
-      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Buchi ai lobi",
         "url": "https://open.spotify.com/album/0yBYqUOcJsCNiYRvTv1E5p"
@@ -837,23 +853,7 @@
       "url": "https://open.spotify.com/track/1EK9LRcQxtUiZUxXevX1nP"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
-      "album": {
-        "name": "effetto vuoto",
-        "url": "https://open.spotify.com/album/1FJBy3FzaWRdaxjjYPomUz"
-      },
-      "artists": [
-        {
-          "name": "Chakra",
-          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
-        }
-      ],
-      "duration_ms": 185328,
-      "name": "effetto vuoto",
-      "url": "https://open.spotify.com/track/2vX89NuNGOB4jPgstw3TJb"
-    },
-    {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Anni 70",
         "url": "https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Tutto con te",
         "url": "https://open.spotify.com/album/1kcuGFGOcoGsWi2GUTdwFJ"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "sofia </3",
         "url": "https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Pensando a lei",
         "url": "https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Pop Corn e patatine RMX",
         "url": "https://open.spotify.com/album/2zFbkDYonDRzA6zf0M7zDx"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/1ovirVCRbRPiDttcIxqWus"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "CHI SONO VERAMENTE EP",
         "url": "https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Polvere",
         "url": "https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Niente da perdere",
         "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "ROMA",
         "url": "https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z"
     },
     {
-      "added_at": "2023-12-12 11:50:13",
+      "added_at": "2023-12-15 10:02:08",
       "album": {
         "name": "Piango In Discoteca",
         "url": "https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD"

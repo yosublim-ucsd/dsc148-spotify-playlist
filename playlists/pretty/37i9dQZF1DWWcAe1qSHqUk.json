@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 59000,
+  "num_followers": 59010,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2EwODljYjJiYTMzNDQ2MTkyYTg2OWRlYmE4OGYzMmNlZTJkZDlk",
+  "snapshot_id": "MCxiOTdkN2MxNzE1YWIwNjg3NDEyMWM4MTE4MDZjYThlYzM5YjNiNGZl",
   "tracks": [
     {
       "added_at": "2023-12-11 01:28:28",
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 198426,
-      "name": "You're Mine, You!",
-      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
+      "duration_ms": 162733,
+      "name": "The Touch Of Your Lips",
+      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
     },
     {
       "added_at": "2023-12-11 01:28:28",
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 162733,
-      "name": "The Touch Of Your Lips",
-      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
+      "duration_ms": 198426,
+      "name": "You're Mine, You!",
+      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
     },
     {
       "added_at": "2023-12-11 01:28:28",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-11 01:28:28",
       "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
-    },
-    {
-      "added_at": "2023-12-11 01:28:28",
-      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/3oJQhXk20kCoMh5ECFd9VR"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 154360,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/6QupNh6FsuLo5k47KC16yG"
+    },
+    {
+      "added_at": "2023-12-11 01:28:28",
+      "album": {
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2023-12-11 01:28:28",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-11 01:28:28",
       "album": {
-        "name": "Colors of Rio",
-        "url": "https://open.spotify.com/album/367pDgfdeqOW5hYRwdsRsN"
-      },
-      "artists": [
-        {
-          "name": "Marcela Mangabeira",
-          "url": "https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "September",
-      "url": "https://open.spotify.com/track/2ECLI6x33wCKkU49hwfVux"
-    },
-    {
-      "added_at": "2023-12-11 01:28:28",
-      "album": {
         "name": "Vira Talisa",
         "url": "https://open.spotify.com/album/1QlGWCclW1wtmodp1pD9OO"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 158351,
       "name": "If I See You Tomorrow",
       "url": "https://open.spotify.com/track/2B5mptUTfxrq1JTEUd4kTH"
+    },
+    {
+      "added_at": "2023-12-11 01:28:28",
+      "album": {
+        "name": "Colors of Rio",
+        "url": "https://open.spotify.com/album/367pDgfdeqOW5hYRwdsRsN"
+      },
+      "artists": [
+        {
+          "name": "Marcela Mangabeira",
+          "url": "https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "September",
+      "url": "https://open.spotify.com/track/2ECLI6x33wCKkU49hwfVux"
     },
     {
       "added_at": "2023-12-11 01:28:28",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-12-11 01:28:28",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
-      },
-      "artists": [
-        {
-          "name": "Erin Boheme",
-          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
-        }
-      ],
-      "duration_ms": 279853,
-      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
-      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
-    },
-    {
-      "added_at": "2023-12-11 01:28:28",
-      "album": {
         "name": "I Fall in Love Too Easily",
         "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 235866,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
+    },
+    {
+      "added_at": "2023-12-11 01:28:28",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
+      },
+      "artists": [
+        {
+          "name": "Erin Boheme",
+          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
+        }
+      ],
+      "duration_ms": 279853,
+      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
+      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
     },
     {
       "added_at": "2023-12-11 01:28:28",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-12-11 01:28:28",
       "album": {
+        "name": "Aqui, Ali, Em Qualquer Lugar",
+        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 158160,
+      "name": "She Loves You",
+      "url": "https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw"
+    },
+    {
+      "added_at": "2023-12-11 01:28:28",
+      "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 312293,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
-    },
-    {
-      "added_at": "2023-12-11 01:28:28",
-      "album": {
-        "name": "Aqui, Ali, Em Qualquer Lugar",
-        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 158160,
-      "name": "She Loves You",
-      "url": "https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw"
     },
     {
       "added_at": "2023-12-11 01:28:28",

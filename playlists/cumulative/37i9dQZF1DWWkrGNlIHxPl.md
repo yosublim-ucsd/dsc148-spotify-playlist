@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Mishaal Tamer
 
-316 songs - 17 hr 43 min
+317 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [hellcats & audis](https://open.spotify.com/track/3KuHRM5HCxlROknbeaNCVw) | [sobhhï](https://open.spotify.com/artist/0nRWv1xU9ooWFExNxKTKef), [NIVO](https://open.spotify.com/artist/6x7vGmycbgmj5h2kexW5fY), [NHYN](https://open.spotify.com/artist/70zsYc3eGQ87Culaq7eYm5) | [hellcats & audis](https://open.spotify.com/album/5xmfn1YnCLipGCWv5CQaIa) | 2:10 | 2022-03-14 | 2022-08-05 |
 | [HELLSTORM](https://open.spotify.com/track/7ka672CmPkXWtQUQOLwRqq) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [HELLSTORM](https://open.spotify.com/album/2w0Wpf3Ebuy5ibLqmnc34B) | 3:18 | 2022-03-18 | 2023-04-01 |
 | [Hero](https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Hero](https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM) | 2:54 | 2021-12-16 | 2022-11-20 |
+| [High and Alone](https://open.spotify.com/track/4eJk6TUT561QX2BE73Q208) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Bansa 7aly](https://open.spotify.com/album/01cwuv9Yy87R1HmNsKJsbi) | 2:36 | 2023-12-15 |  |
 | [High Hopes](https://open.spotify.com/track/6TmuUKIwlBkFzK6ryJmjy9) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [High Hopes](https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj) | 3:06 | 2023-05-07 | 2023-05-27 |
 | [High No More](https://open.spotify.com/track/71p2ub5QJhJTzfvXbXaUXd) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [High No More](https://open.spotify.com/album/2NEmopTAPp4ZmqRRJ6wTdB) | 3:18 | 2021-12-16 | 2022-11-20 |
 | [High Tech Low Life](https://open.spotify.com/track/2nu8abrs7QJ1n40VTmkWQx) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Rey Khan](https://open.spotify.com/artist/6hWkOdX0jU4HLoPeYRGBRS) | [High Tech Low Life](https://open.spotify.com/album/4adNHlP6IbOahAKPgcTGtq) | 2:38 | 2021-12-16 | 2022-11-20 |

@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-56 songs - 2 hr 4 min
+57 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Issa Vibe \(From "Bloody Daddy"\)](https://open.spotify.com/track/5hhBvvpp7zyZiS2fuQgEa4) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Issa Vibe \(From "Bloody Daddy"\)](https://open.spotify.com/album/7DGKbA1EoSICnyUhorwxDF) | 2:27 | 2023-05-30 |  |
 | [Kar Gayi Chull \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/track/3Q8yDujnXxwRiZ4p6VqY7b) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Kar Gayi Chull \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/album/6GbJgAWazNCzOxobNoDeIv) | 3:07 | 2023-02-15 |  |
 | [Let's Nacho](https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:35 | 2023-02-15 |  |
+| [Mast Mein Rehne Ka Title Track \(Feat\. Jackie Shroff\)](https://open.spotify.com/track/0BXR32oDbjYIjOVKcs30qy) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Jackie Shroff](https://open.spotify.com/artist/46SMOVWQ7uye43ncijUu98) | [Mast Mein Rehne Ka](https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf) | 2:16 | 2023-12-15 |  |
 | [Nyaay Yuddh Dharm Yuddh](https://open.spotify.com/track/2OlLzyE9YtysMoOjA8KkHK) | [Nishant Singh](https://open.spotify.com/artist/07Pnq6qTXLN3hG449JAstv), [Jay Rajesh Arya](https://open.spotify.com/artist/6ylnONsh24bLFXi3HZA2Pr) | [Nyaay Yuddh Dharm Yuddh](https://open.spotify.com/album/1HAIYajWGoWi2syh7owPqg) | 2:22 | 2023-02-15 |  |
 | [Paagal](https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paagal](https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW) | 2:49 | 2023-02-15 |  |
 | [Paintra](https://open.spotify.com/track/3FbwHPeM5myHMTvOTi6ipl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Paintra \(From "Mukkabaaz"\) \- Single](https://open.spotify.com/album/5u6calkleLhJulsH9dEgZi) | 3:52 | 2023-02-15 | 2023-11-05 |

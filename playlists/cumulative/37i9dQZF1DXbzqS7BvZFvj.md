@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Bas
 
-460 songs - 23 hr 37 min
+461 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [24 hours to live](https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [24 hours to live](https://open.spotify.com/album/73djAmtght7e1sfNLior3P) | 3:28 | 2023-11-09 | 2023-12-09 |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-07 | 2023-06-23 |
 | [6IX](https://open.spotify.com/track/0GvvVJGxR5kBAMIU5JmAwv) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk), [CH \(GMD\)](https://open.spotify.com/artist/0GB9JwyieSfl4FONkheT6k), [RA](https://open.spotify.com/artist/1zFu9jOWeBB1PCCnBZfQno), [TeeRowdy](https://open.spotify.com/artist/3eoXjqgj0qDqNqG581rKpg) | [6IX](https://open.spotify.com/album/0JmftTPXtS9dWj7i3c4zcK) | 2:21 | 2023-11-09 | 2023-12-09 |
-| [6ix Pack](https://open.spotify.com/track/2nb8HRnCAyGZOYa5hrYGHU) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [6ix Pack](https://open.spotify.com/album/4cCMKAVwht4t9pzJ7EMB0q) | 2:45 | 2023-12-08 |  |
+| [6ix Pack](https://open.spotify.com/track/2nb8HRnCAyGZOYa5hrYGHU) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [6ix Pack](https://open.spotify.com/album/4cCMKAVwht4t9pzJ7EMB0q) | 2:45 | 2023-12-08 | 2023-12-16 |
+| [6ix Pack](https://open.spotify.com/track/6RmSzjCKSevNrwIb7WXcKX) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [Wisteria](https://open.spotify.com/album/4ShmCLaYtD0iusN23PnN7g) | 2:46 | 2023-12-14 |  |
 | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/album/0Ow1LzDAS3hCPzGNK9TeOT) | 3:39 | 2023-03-23 | 2023-05-19 |
 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 | 2023-12-08 |  |
 | [A STAR IS BORN](https://open.spotify.com/track/3jLqjORECve7AAg7dPMSup) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Treach](https://open.spotify.com/artist/3b3teOkAyYfhj4xiMvqYvW), [Mc Shan](https://open.spotify.com/artist/0rnCjnMc8YqkoELqomHOcz), [DJ Wino](https://open.spotify.com/artist/7wV8FJAwzw07RTmgAd9oWT) | [A STAR IS BORN](https://open.spotify.com/album/4u2w8zSKSeCPnQvvYFkYxy) | 4:17 | 2023-07-06 | 2023-07-13 |

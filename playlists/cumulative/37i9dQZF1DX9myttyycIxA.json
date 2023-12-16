@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: ratbag",
+  "description": "Underground indie rock gems. Cover: Wednesday",
   "name": "undercurrents",
   "tracks": [
     {
@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "August 19",
+        "url": "https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155177,
+      "name": "August 19",
+      "url": "https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK"
+    },
+    {
+      "album": {
         "name": "Avoid The Voice",
         "url": "https://open.spotify.com/album/2rOYC7u84HcNIcLnJnLLfr"
       },
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 190105,
       "name": "Bath County",
       "url": "https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb"
@@ -4238,7 +4256,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 171493,
       "name": "Cramps",
       "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
@@ -9411,6 +9429,28 @@
     },
     {
       "album": {
+        "name": "i saw a flying saucer",
+        "url": "https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI"
+        },
+        {
+          "name": "ctrl + me",
+          "url": "https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169062,
+      "name": "i saw a flying saucer",
+      "url": "https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY"
+    },
+    {
+      "album": {
         "name": "Soaring",
         "url": "https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ"
       },
@@ -9560,6 +9600,24 @@
       "duration_ms": 177343,
       "name": "I Wanted the Real Thing",
       "url": "https://open.spotify.com/track/59sCcKFTV5pShKkjSrfMH2"
+    },
+    {
+      "album": {
+        "name": "I'd Hate Me Too",
+        "url": "https://open.spotify.com/album/4kmMFdbi4MX1wckBiEkc07"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248428,
+      "name": "I'd Hate Me Too",
+      "url": "https://open.spotify.com/track/1Rxx5MHJv03Qzt7sZUKGoO"
     },
     {
       "album": {
@@ -10186,10 +10244,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 194656,
       "name": "iwantthis2last!",
       "url": "https://open.spotify.com/track/1e9MeUoNqaTNzdXOUdFlNu"
+    },
+    {
+      "album": {
+        "name": "light is gone 2",
+        "url": "https://open.spotify.com/album/1QBJjgXDWuaTdfQhGzz7PA"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194656,
+      "name": "iwantthis2last!",
+      "url": "https://open.spotify.com/track/5zD6Zpb1JSMeYP9qRXyEVV"
     },
     {
       "album": {
@@ -12394,7 +12470,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 183163,
       "name": "My Year (This Is Going To Be)",
       "url": "https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL"
@@ -12860,7 +12936,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 224373,
       "name": "No Stranger",
       "url": "https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj"
@@ -14228,6 +14304,24 @@
       "duration_ms": 158810,
       "name": "Quantum Physics",
       "url": "https://open.spotify.com/track/5mI7nxjalLOnhoqeHLOSOX"
+    },
+    {
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247520,
+      "name": "Quarry",
+      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
     },
     {
       "album": {
@@ -19424,7 +19518,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 218013,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/08Gw7Yl7peYu7zbXrMKohF"

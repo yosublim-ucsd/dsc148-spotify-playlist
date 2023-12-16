@@ -29425,6 +29425,28 @@
     },
     {
       "album": {
+        "name": "This Weekend",
+        "url": "https://open.spotify.com/album/6EPBJt100FsfbEoi3Y3QUg"
+      },
+      "artists": [
+        {
+          "name": "AISKA",
+          "url": "https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI"
+        },
+        {
+          "name": "Julian Black",
+          "url": "https://open.spotify.com/artist/1Ycha6SrzTDSAaQxxeqdEy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166248,
+      "name": "This Weekend",
+      "url": "https://open.spotify.com/track/2FoeymOIsOKVkiii3u3OBt"
+    },
+    {
+      "album": {
         "name": "Thousand Faces",
         "url": "https://open.spotify.com/album/4vDUyNCzRKIBSHTSnAUwbb"
       },
@@ -33676,7 +33698,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 152000,
       "name": "Your Love (9PM) - Bikini Bandits UK Piano House Edit",
       "url": "https://open.spotify.com/track/1NnT4KACmFT03E9vkyH3s1"

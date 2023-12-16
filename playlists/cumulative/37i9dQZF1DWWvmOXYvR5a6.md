@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: BM\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Jambino\(잠비노\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-658 songs - 1 day 11 hr 46 min
+659 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Drowning \(Feat\. SOLE\)](https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [1st Single 'S.i.R'](https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH) | 2:49 | 2023-03-28 |  |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-04 | 2022-07-28 |
 | [Dry Flower \(Feat\. OLNL, GEMma\)](https://open.spotify.com/track/1izqekFgQhPvnYnMWV6Ciq) | [GRIO](https://open.spotify.com/artist/0MjC05t54hhvrqLBsIeTbu), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [Dry Flower](https://open.spotify.com/album/4pKLK15Rc5OBNUeJbuA65W) | 2:57 | 2022-08-18 | 2022-09-06 |
-| [Dumb](https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:54 | 2023-06-23 |  |
+| [Dumb](https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:54 | 2023-06-23 | 2023-12-16 |
 | [Earphone](https://open.spotify.com/track/3Z32X2KetQtfp40lMU90CN) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:18 | 2022-04-21 | 2022-07-29 |
 | [EGG RICE](https://open.spotify.com/track/4pen9dLfeSHfI3uuXibiYU) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [EGG RICE](https://open.spotify.com/album/2iiHvjADaBZPSqt91XTb2z) | 2:51 | 2022-05-28 | 2022-07-15 |
 | [EMPTY GLASS \(Feat\. Bona Zoe\) \(Prod\. TOIL\)](https://open.spotify.com/track/2YOybbhiuvqlJhVi1FpjhK) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Bona Zoe](https://open.spotify.com/artist/1Y0vVGBkBNCcR0swcfXR1z) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:43 | 2022-08-17 | 2022-09-29 |
@@ -253,6 +253,7 @@
 | [Homebody](https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [staying](https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG) | 3:42 | 2022-07-24 |  |
 | [homesick](https://open.spotify.com/track/1lv4wAkmRwrfQ3oaKDoXqv) | [SANHA](https://open.spotify.com/artist/297dw08YGO0GSd6vOQ3eCO), [JJAX](https://open.spotify.com/artist/4lFWYe3BfUH22wUrAR8nzB) | [homesick](https://open.spotify.com/album/65KWlcE7BKuhhHmKhQJVSm) | 2:56 | 2022-05-28 | 2022-05-31 |
 | [Honey](https://open.spotify.com/track/6TxxgPdGN3NFYcFELXjeGD) | [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [DICE](https://open.spotify.com/album/3fFiQcWrFBXquCtmmgoNTo) | 2:28 | 2023-02-15 | 2023-02-25 |
+| [Hoopee \(Feat\. Loco\) \(Prod\. GRAY\)](https://open.spotify.com/track/0VebFVYxoeIHQPDg1MvSES) | [Jambino](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [podo](https://open.spotify.com/album/3b26Thw21bgz0tyCAJ9IN2) | 2:45 | 2023-12-15 |  |
 | [Hotel Lobby \(Feat\. Verbal Jint\)](https://open.spotify.com/track/3yLDH4UmohTSuBmnBcqJqG) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 4:03 | 2022-04-01 | 2022-07-28 |
 | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD) | 3:00 | 2022-07-13 | 2022-07-25 |
 | [HOW U FEEL? \(feat\. Woo\)](https://open.spotify.com/track/2c3D51aioWeAIjdoj90it3) | [HOLYDAY](https://open.spotify.com/artist/6BEleStcBwip7cF71WVt1L), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [HOLY](https://open.spotify.com/album/1odIOe9NrMNHlQg5l895Zc) | 2:52 | 2023-02-15 | 2023-02-25 |

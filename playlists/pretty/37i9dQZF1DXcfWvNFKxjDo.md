@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: YouNotUs, SERA
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: SERA, YouNotUs
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,812 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,899 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Can’t Be The Only One](https://open.spotify.com/track/7GOo87JXSvaZued7ICTp3A) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Can’t Be The Only One](https://open.spotify.com/album/2O6fjlU6SK9FX4bl5jq5fJ) | 2:51 |
-| 2 | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 |
+| 2 | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 |
 | 3 | [Strangers](https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [Strangers](https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx) | 3:09 |
 | 4 | [Scream \(Techno\)](https://open.spotify.com/track/7norURbihuqSvwMtgeI00A) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Micano](https://open.spotify.com/artist/41xNKEGO4zpUBZ7xc3QXmU) | [Scream \(Techno\)](https://open.spotify.com/album/5CkmAmQTzyajLAXAUJFyMT) | 2:14 |
 | 5 | [OVER YOU \- TC/TC](https://open.spotify.com/track/2o2DVGwdsT1yMUigt2oO6j) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/6juCC1SNV4XiKJraqeuBym) | 3:21 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 54 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 |
 | 55 | [Remind Me](https://open.spotify.com/track/4HPUbi24ZEBCwO9kSQ0Jk3) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Hilda](https://open.spotify.com/artist/0gNDtB2LFXVzalP35MXaql) | [Remind Me](https://open.spotify.com/album/6gwNZoJSrLZlbg8e5FPFWX) | 2:34 |
 | 56 | [Pacem](https://open.spotify.com/track/4meSV0y86IP4gTABWbVETw) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Pacem](https://open.spotify.com/album/19WSprGrbcSwPO4KGVw1NX) | 2:17 |
-| 57 | [In My Head](https://open.spotify.com/track/4Gh5m12mee8uyHfFeVLJnZ) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [In My Head](https://open.spotify.com/album/7FnJZ2UDGEYWdbo0JrPFKx) | 2:24 |
+| 57 | [In My Head](https://open.spotify.com/track/6vFGXhwRFDG7301VGpUfy2) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [In My Head](https://open.spotify.com/album/0voMWxbr0bYMxBReoyPkZC) | 2:24 |
 | 58 | [The Sun](https://open.spotify.com/track/7dt3lpVCrbJYZKSRjdG70N) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [The Sun](https://open.spotify.com/album/1ZutBxmeZXXY6c1ZBDm9ti) | 3:40 |
 | 59 | [Move It \(with Luciana\) \[Sam Noton, Alex Mueller, Retrika Remix\]](https://open.spotify.com/track/2d4a2pdV2O2aWv20g4LZgd) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS), [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Sam Noton](https://open.spotify.com/artist/1Ma2cokH15saLZiU2eKrdj) | [Move It \(with Luciana\) \[Sam Noton, Alex Mueller, Retrika Remix\]](https://open.spotify.com/album/6ScSg0ieBwxuNj0iddpXJt) | 2:14 |
 | 60 | [Cool Kids](https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Cool Kids](https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Dark Side](https://open.spotify.com/track/5bjnLSscT0TTioiKivgXzA) | [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [GEMINA](https://open.spotify.com/artist/1V04322RZCas7VQX5KfdDr), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Dark Side](https://open.spotify.com/album/7uyuaCqdg6tn0vhZ79NWjk) | 3:20 |
 | 75 | [All That She Wants](https://open.spotify.com/track/1afAOCyizL3cbVnXkIUsWP) | [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o), [Sterbinszky](https://open.spotify.com/artist/1POYG7KwBZ5ggYhku54hoQ) | [All That She Wants](https://open.spotify.com/album/41Hc7Hc8xXVNGl31FjuxgZ) | 3:03 |
 
-Snapshot ID: `MCw1NWNkOGE1ZGJhMGYzMzAzMThmY2NjMTIxOWU3ZmZmY2RlYzUxNDZh`
+Snapshot ID: `MCwyODBjZWI5NTRkYTlhMzRjODUyYjQyNjA3MDEzZTZiMDYyNjYyZTQ0`

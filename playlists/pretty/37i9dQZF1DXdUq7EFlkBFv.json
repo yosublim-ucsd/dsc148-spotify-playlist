@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 13734,
+  "num_followers": 13788,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTE0ZmM3Yzg2ODExZjk1OTgyYzU2NzYyZGI0ODI4ZWEyY2UwMDgz",
+  "snapshot_id": "MCw3ZjhjMjE5NjMxNGRhOGQzNjAxNmU1NjE4MjE0ZTVkMDRmNWNhZDEx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Top",
-        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 156662,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/7CdoE8U5DwrwCaLoyf3ME0"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Trip At Knight",
         "url": "https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 188025,
       "name": "Matt Hardy 999",
       "url": "https://open.spotify.com/track/2W5cWH1DZ19KFA6n7G1eiK"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Top",
+        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 156662,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/7CdoE8U5DwrwCaLoyf3ME0"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "LLC",
-        "url": "https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 137813,
-      "name": "LLC",
-      "url": "https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "LLC",
+        "url": "https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 137813,
+      "name": "LLC",
+      "url": "https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H"
     },
     {
       "added_at": "2022-10-01 16:17:17",

@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
 
-412 songs - 23 hr 7 min
+414 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,9 @@
 | [Carta pro Futuro](https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Cartas](https://open.spotify.com/album/1pBoUcfZM0WaiOlAEb7TRb) | 3:32 | 2022-05-27 | 2022-09-24 |
 | [caso sério](https://open.spotify.com/track/4pYAk484VaJNKTW3QET7nw) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [caso sério](https://open.spotify.com/album/7Abz7lBZpBs0raAaltfK49) | 4:00 | 2023-01-27 | 2023-08-12 |
 | [CECI](https://open.spotify.com/track/5sofnKyROetFfcVNm5Ztm8) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [CECI \(Deluxe\)](https://open.spotify.com/album/7bo4M7e5HEnTtD03eAWLxc) | 2:44 | 2023-01-20 | 2023-04-01 |
+| [Cedo Ou Tarde \- Mixagem 2023](https://open.spotify.com/track/1QAtLoN3Pz2P5mWqbWMs4L) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Agora \(Mixagem 2023\)](https://open.spotify.com/album/6DtTX1ZvNBhN15LTYBhuYz) | 3:14 | 2023-12-15 |  |
 | [Chama De Amor](https://open.spotify.com/track/7FENXy3cRC1nkwerVvxgCI) | [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Amor É A Lei](https://open.spotify.com/album/2Q9MleGD9sn4WnOO51KPix) | 3:12 | 2023-09-15 | 2023-09-30 |
-| [Chiclete](https://open.spotify.com/track/7GjRbh1cG6x7VMn626Q3Y3) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X) | [RIO](https://open.spotify.com/album/2Sjxdn2OLpidqMDYE59Oxa) | 2:39 | 2023-10-27 |  |
+| [Chiclete](https://open.spotify.com/track/7GjRbh1cG6x7VMn626Q3Y3) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X) | [RIO](https://open.spotify.com/album/2Sjxdn2OLpidqMDYE59Oxa) | 2:39 | 2023-10-27 | 2023-12-16 |
 | [Chá](https://open.spotify.com/track/4GaUS9fESqZsMdk7aqnexu) | [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [iceboy999](https://open.spotify.com/artist/1PK0jb0W4nrxZItuuCUwXK), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Chá](https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg) | 3:17 | 2022-01-14 | 2022-09-24 |
 | [Cicatrizes](https://open.spotify.com/track/24I2J5wbWmy25ftfgsOLGh) | [Forte Norte](https://open.spotify.com/artist/5BnsBwbTCpt3f37fQerMux) | [Cicatrizes](https://open.spotify.com/album/1KuS8PL0K7I22EXIvOw29n) | 3:49 | 2022-05-27 | 2023-02-25 |
 | [Ciclos](https://open.spotify.com/track/4MSY2abyzFULkXnHGOCN4v) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Caracol.A](https://open.spotify.com/artist/7kcH00HHM8BkhfySXoQfUo) | [Ciclos](https://open.spotify.com/album/1de4pIwXgTDs0YWu1jAwAr) | 3:13 | 2022-10-07 | 2022-11-12 |
@@ -89,7 +90,7 @@
 | [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 2:45 | 2022-01-14 | 2023-03-11 |
 | [Conflitos](https://open.spotify.com/track/0W1i5vb0qmCgUwd3RPH6VX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [Conflitos](https://open.spotify.com/album/3swynHE8l786dCRToj5OwS) | 3:09 | 2022-10-21 | 2023-03-18 |
 | [Contramão](https://open.spotify.com/track/13ytqWx0ClTspSuIWsMTYd) | [Wry](https://open.spotify.com/artist/3hUJEMJojO6OmzGWumutys) | [Contramão](https://open.spotify.com/album/2z33uZxRMmV0vve8z8PCQJ) | 2:42 | 2022-10-14 | 2023-01-14 |
-| [Coração Cheio](https://open.spotify.com/track/3Xl0nvpXQ5UxXICgQSfoTi) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Emmercia](https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy) | [Coração Cheio](https://open.spotify.com/album/2fB058NV8aXCxHMHzdMvJf) | 3:48 | 2023-08-11 |  |
+| [Coração Cheio](https://open.spotify.com/track/3Xl0nvpXQ5UxXICgQSfoTi) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Emmercia](https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy) | [Coração Cheio](https://open.spotify.com/album/2fB058NV8aXCxHMHzdMvJf) | 3:48 | 2023-08-11 | 2023-12-16 |
 | [Coração Codificado](https://open.spotify.com/track/7p39pt1zEPGAJqhBL7VHVM) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Coração Codificado](https://open.spotify.com/album/6q4dxXqEwVg2Bf3SFOQmGl) | 3:24 | 2023-11-10 |  |
 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 | 2023-03-24 | 2023-11-25 |
 | [Cruel](https://open.spotify.com/track/3f8PZ7RZezcJYNmrLLRZdw) | [Nakara](https://open.spotify.com/artist/4CLTPlhKeXJzbqIyfDELlm) | [Cruel](https://open.spotify.com/album/1CPoaapWJCITmBOKSRjapV) | 1:44 | 2023-04-07 | 2023-04-15 |
@@ -289,6 +290,7 @@
 | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/track/6lgVeRqNEqBRsdQr8MKW7P) | [lia suspira](https://open.spotify.com/artist/1dcS0XcfidYHAYJ5zGUMvr) | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/album/0Q8jEA0Z3dJDJDIBbibA2Q) | 2:41 | 2022-07-15 | 2023-01-28 |
 | [Paradoxo](https://open.spotify.com/track/0KVO2HuQO24yNo7zLjeO8Z) | [Lado Brasil](https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z) | [Paradoxo](https://open.spotify.com/album/4omX4iA6T5O5TB0Nhy51Li) | 3:35 | 2023-05-19 | 2023-06-24 |
 | [Paranoia Gigante](https://open.spotify.com/track/0tt3xMFyE29zsNT0GIWKB0) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z) | [Paranoia Gigante](https://open.spotify.com/album/2rFlV9QEHKscbrr8HbKRTO) | 2:22 | 2022-01-14 | 2022-03-18 |
+| [Paraíso Cão](https://open.spotify.com/track/5KfCD43SLeLfR4qNvnxsMy) | [Rocca Vegas](https://open.spotify.com/artist/5hOHXXF9GYiw81ouLrI2sl) | [Paraíso Cão](https://open.spotify.com/album/4qN8yn1dzy4oPTuWXWuyrS) | 3:28 | 2023-12-15 |  |
 | [Partido](https://open.spotify.com/track/3PJLp4egjTYexNyFbG5doI) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG) | [Partido](https://open.spotify.com/album/5BeuqWG61r5jImQSa34KdA) | 3:49 | 2022-10-28 | 2023-05-20 |
 | [Passageira](https://open.spotify.com/track/4mkYd2T8dbLG6KtyT7Zh9F) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Passageira](https://open.spotify.com/album/7FPnMFyWc8gw6doOkUVmly) | 3:48 | 2022-05-20 | 2022-07-09 |
 | [Paulo](https://open.spotify.com/track/2Edw1VGM0Snc6CIWZfkyiJ) | [Lupe De Lupe](https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR) | [Um Tijolo Com Seu Nome](https://open.spotify.com/album/3WnT2JL8vgH7KYIvwvf7My) | 1:52 | 2023-09-01 | 2023-09-30 |

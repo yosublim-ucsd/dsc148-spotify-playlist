@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-1,007 songs - 2 day 7 hr 47 min
+1,008 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 | 2022-10-28 | 2022-11-25 |
 | [Shells Don't Crack](https://open.spotify.com/track/5qYjnhPMMUn5zOezycm3Hn) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [All Stars Aligned](https://open.spotify.com/album/2VEq651G0Pc7ePooOCwqpr) | 2:22 | 2022-11-17 | 2023-03-03 |
 | [Shimmer Boy](https://open.spotify.com/track/3YFJuZcaC45GjDWRmfz1GT) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Shimmer Boy](https://open.spotify.com/album/4PfTZjhBVlZgvJoUOKPJZM) | 3:37 | 2023-03-23 | 2023-05-12 |
+| [SHINE \(with SiR\)](https://open.spotify.com/track/79cQ8BxtYKsb8nAp8LfcZB) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [SHINE \(with SiR\)](https://open.spotify.com/album/41oaGXdQll9lAxJAwoZrlm) | 2:59 | 2023-12-14 |  |
 | [Shlut](https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shlut](https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25) | 2:12 | 2022-10-28 | 2022-12-16 |
 | [Show Me Love](https://open.spotify.com/track/5GrEpYqEg0tTK9m0l2JJMf) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Show Me Love](https://open.spotify.com/album/3XREb27jlwQesTQUWSvV6d) | 3:15 | 2022-11-03 | 2023-03-03 |
 | [Show Me Love](https://open.spotify.com/track/6EWeItmffV03QSa0CjUHfc) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn), [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ) | [Show Me Love](https://open.spotify.com/album/6GpmKJVILU8jvDog2Ey64c) | 4:16 | 2022-11-17 | 2022-12-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Our favorite electronic songs from around the world this year. Cover: Jungle",
-  "num_followers": 51417,
+  "num_followers": 51758,
   "original_name": "Best Electronic Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGQwNzY0NTNkMTM2MTIwOTlkMTBhNjk3NWQ2N2ExNjE4MTBmOTBj",
+  "snapshot_id": "MCwxMWU1OTZiN2IwODQyNWZhNTQ3ZThiNGU3M2U1NTBjMDMwNWVjMzQ4",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 205421,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Dreamcast",
         "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 325744,
       "name": "Dreamcast",
       "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 205421,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Turn The Lights",
-        "url": "https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5"
-      },
-      "artists": [
-        {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
-        }
-      ],
-      "duration_ms": 247519,
-      "name": "Turn The Lights",
-      "url": "https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Golden Door",
         "url": "https://open.spotify.com/album/153hNVE9Gd8KEaRUH72vgP"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 457875,
       "name": "Golden Door",
       "url": "https://open.spotify.com/track/5CssKUX7YWpZVJp3jYC4ri"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Turn The Lights",
+        "url": "https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "duration_ms": 247519,
+      "name": "Turn The Lights",
+      "url": "https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ"
     },
     {
       "added_at": "2023-11-29 12:16:00",

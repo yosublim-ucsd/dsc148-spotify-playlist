@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-900 songs - 1 day 12 hr 56 min
+904 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Caddy](https://open.spotify.com/track/0kTQcDTWmeSKp2EOHLK7AY) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Caddy](https://open.spotify.com/album/3Z17WkBq7D8FDqXW4NYlmy) | 1:56 | 2021-10-29 | 2022-02-19 |
 | [CALL!](https://open.spotify.com/track/6nGnG6NsO77qRkXa9eqDna) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [HABITS](https://open.spotify.com/album/1Id0Mj1E6NyiwBmRjFskD9) | 2:50 | 2022-10-07 | 2022-10-26 |
 | [Can't Get Rid Of Me \(feat\. Fergie Baby\)](https://open.spotify.com/track/2EoSee89OYP7n6mwxCHSlq) | [HDBeenDope](https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O), [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa) | [Can't Get Rid Of Me \(feat\. Fergie Baby\)](https://open.spotify.com/album/5HsEj4CtAE03sm0H76uPhe) | 2:30 | 2023-05-26 | 2023-09-23 |
+| [CAN'T STOP](https://open.spotify.com/track/3ffD4K3A0EALJmRyKy9YiR) | [William Crooks](https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw) | [CAN'T STOP](https://open.spotify.com/album/0Y986PjEdJmb5zcICQe0cp) | 2:17 | 2023-12-15 |  |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2021-10-29 | 2022-02-23 |
 | [CANT!](https://open.spotify.com/track/2RzMdCj25wvpNu2rD5PzEF) | [6o](https://open.spotify.com/artist/42D1U0ommjMX0HxRz4qcdv) | [CANT!](https://open.spotify.com/album/4rS6z4Vwr1qakINo0y6gmc) | 1:54 | 2023-01-13 | 2023-02-15 |
 | [Cap Freestyle](https://open.spotify.com/track/7vJDoWPSNTXu5v8H5siOin) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Cap Freestyle](https://open.spotify.com/album/6fMr0JDjgzEubioAdQlVhe) | 2:32 | 2022-07-15 | 2022-11-12 |
@@ -316,6 +317,7 @@
 | [GED](https://open.spotify.com/track/63T33mvThv0sZQEjTcglYx) | [Rocstaryoshi](https://open.spotify.com/artist/11wXsMzrtYLvAsaF1EfHBx) | [GED](https://open.spotify.com/album/79OuTWEfANwyDiKEYmNPgW) | 1:52 | 2022-04-14 | 2022-07-29 |
 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 | 2023-07-21 | 2023-12-12 |
 | [Genesis](https://open.spotify.com/track/3mcV7PBgaeX9a6TWqgiNzt) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Genesis](https://open.spotify.com/album/3IAtz770qd9AW1zXDIWUNx) | 2:33 | 2022-05-27 | 2022-07-19 |
+| [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 | 2023-12-15 |  |
 | [Get TF Out My Face](https://open.spotify.com/track/0m0mtfrpVxsrXqgdCsURNd) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Get TF Out My Face](https://open.spotify.com/album/3EAlwCLd3mbD7cOZo1GIJv) | 2:13 | 2021-12-10 | 2021-12-27 |
 | [GFU!](https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [GFU!](https://open.spotify.com/album/2CG9sQtUBAhvncyYrUAIGA) | 1:22 | 2023-09-22 | 2023-10-21 |
 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 | 2023-03-29 | 2023-08-05 |
@@ -486,6 +488,7 @@
 | [life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 3:23 | 2023-04-28 | 2023-08-26 |
 | [Lifestyle](https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:17 | 2023-01-11 | 2023-02-16 |
 | [Lift Yourself](https://open.spotify.com/track/3uYDO9dPLTVrgfwg7EYXSf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Lift Yourself](https://open.spotify.com/album/2hTxwsnzU7h15XcAUWSME8) | 2:27 | 2022-08-29 | 2022-10-22 |
+| [light \(with 9lives & midwxst\)](https://open.spotify.com/track/5QlWINPD2625OdZ3wS26KR) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [light \(with 9lives & midwxst\)](https://open.spotify.com/album/7HJ83Qe1wRgbqHJsSo3sK3) | 2:17 | 2023-12-15 |  |
 | [Lightyear pt2 \(feat\. Blueface\)](https://open.spotify.com/track/3Vu0ImBVqPtxKxv0XxoU7G) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Lightyear pt2 \(feat\. Blueface\)](https://open.spotify.com/album/3MRbTwIzRgLZYLrhTqfFej) | 2:07 | 2022-11-18 | 2022-12-03 |
 | [Like I thought](https://open.spotify.com/track/7I5r6GgSOT6EuWfIEMdVmp) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Like I thought](https://open.spotify.com/album/0GAUK3frr51WqLjhlb7O8H) | 2:45 | 2023-08-11 | 2023-09-23 |
 | [Like That](https://open.spotify.com/track/11GBUIsJrsSFr8OJVOekLq) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Like That](https://open.spotify.com/album/0TkTzn4WhXp5jv8kohZEQx) | 2:08 | 2022-09-09 | 2022-10-29 |
@@ -546,6 +549,7 @@
 | [Montana Flow](https://open.spotify.com/track/08J3GDrAnq1uFCSVnjs9x9) | [Sosa](https://open.spotify.com/artist/00oWcaID7J6ns2KY5jsMG2) | [Montana Flow](https://open.spotify.com/album/2DlGXQCBbfQXu6TGbvzfvo) | 2:22 | 2022-07-18 | 2022-07-20 |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-07 | 2022-04-02 |
 | [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 | 2023-01-06 | 2023-06-10 |
+| [Mr\. McAdams](https://open.spotify.com/track/7uPVu05kl4tGCJ3KRUucBT) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Mr\. McAdams](https://open.spotify.com/album/3zIqYHjhiIX0ezJUIegDfl) | 2:36 | 2023-12-15 |  |
 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 | 2022-04-20 | 2022-09-17 |
 | [MR\. TAKE YA B\*TCH \(FEAT\. CHRISEANROCK\)](https://open.spotify.com/track/38R5sydMbsBzSPGPMfmtpb) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [chriseanrock](https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa) | [MR\. TAKE YA B\*TCH \(FEAT\. CHRISEANROCK\)](https://open.spotify.com/album/0VILzuF7XRV2GQAO4tzx3M) | 1:48 | 2023-10-27 |  |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-08-28 | 2023-01-14 |

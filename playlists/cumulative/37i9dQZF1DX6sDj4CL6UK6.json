@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 238899,
       "name": "Because Because Because",
       "url": "https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv"
@@ -695,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Ceilings",
+        "url": "https://open.spotify.com/album/3s9AOhgVdXfteJ8z9HU9bp"
+      },
+      "artists": [
+        {
+          "name": "Bashaar",
+          "url": "https://open.spotify.com/artist/2f2lXwMWMwJn2mUy988Agu"
+        },
+        {
+          "name": "Emme",
+          "url": "https://open.spotify.com/artist/4XENqirLgZx71YVNWYuEUG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264398,
+      "name": "Ceilings",
+      "url": "https://open.spotify.com/track/43AB5ow80MeDUdBL3W3sRT"
+    },
+    {
+      "album": {
         "name": "Chills",
         "url": "https://open.spotify.com/album/1oTz9EXkj804GhKZNhmzhk"
       },
@@ -854,7 +876,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 195421,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1"
@@ -1096,7 +1118,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 160193,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer"
@@ -1874,6 +1896,24 @@
       "duration_ms": 180013,
       "name": "Hopelessly",
       "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/0RR1QdtiNk7g6hBonGWZaA"
+      },
+      "artists": [
+        {
+          "name": "Peekay",
+          "url": "https://open.spotify.com/artist/2QRt3WqRMTnQXu6mgGnqKl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229422,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/668RvyqOKeNMjetr6jz32p"
     },
     {
       "album": {
@@ -3369,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "overtime",
+        "url": "https://open.spotify.com/album/0VIx5lKDjAyGNcKL7weifN"
+      },
+      "artists": [
+        {
+          "name": "Swara",
+          "url": "https://open.spotify.com/artist/7j7FC2Jc8WKNv20nEFV1Rq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "overtime",
+      "url": "https://open.spotify.com/track/4MJYvBnXIXwmZN1yu7nOzR"
+    },
+    {
+      "album": {
         "name": "Paper Boats",
         "url": "https://open.spotify.com/album/2zFL0B15XOryvnMv5QyVyI"
       },
@@ -3630,7 +3688,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 251709,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3cqeFHqx2y05J7skmbc743"
@@ -4033,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/0rVwiCYwqmMYw4QpQqMQZx"
+      },
+      "artists": [
+        {
+          "name": "Soham",
+          "url": "https://open.spotify.com/artist/2VWlTHS1YfU7p9zMPPGw78"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212499,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/5h6Y6JBcZRKXKsumrSTdeJ"
+    },
+    {
+      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -4352,7 +4428,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 154894,
       "name": "sushi song",
       "url": "https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X"
@@ -4654,7 +4730,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
@@ -4930,6 +5006,24 @@
     {
       "album": {
         "name": "When We Feel Young",
+        "url": "https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266393,
+      "name": "When We Feel Young",
+      "url": "https://open.spotify.com/track/36E24mIdUgRMkf303ZqjOm"
+    },
+    {
+      "album": {
+        "name": "When We Feel Young",
         "url": "https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq"
       },
       "artists": [
@@ -4940,7 +5034,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 266393,
       "name": "When We Feel Young",
       "url": "https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4"

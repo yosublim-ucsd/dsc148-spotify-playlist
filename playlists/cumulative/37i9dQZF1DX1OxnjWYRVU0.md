@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-457 songs - 20 hr 19 min
+458 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,8 @@
 | [Numb](https://open.spotify.com/track/2OfQvGrr83FGpdLA1nAR01) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Aaron Richards](https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Cour](https://open.spotify.com/artist/2wXlDjhPhTLuw6Fs6vc2xS) | [Numb](https://open.spotify.com/album/16Ckk31ZbrjJQs4z5sxrSo) | 2:10 | 2022-01-13 |  |
 | [Numb](https://open.spotify.com/track/16oOcqhWq0jLesfL1ICC74) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Numb](https://open.spotify.com/album/61RourHT0SNrh4KGPRnIrZ) | 3:11 | 2022-02-17 |  |
 | [Obsesión \(feat\. Sofía Martín\)](https://open.spotify.com/track/7jjNOrATOtJgNegpIsO81j) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [KIGALI](https://open.spotify.com/artist/0jRMCjkA8ComVHbrHcr3XV), [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [Obsesión \(feat\. Sofía Martín\)](https://open.spotify.com/album/3ivrAR1hRHYtZZzTEMxJw3) | 2:12 | 2022-01-13 |  |
-| [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 | 2022-01-20 |  |
+| [One by One \- Radio Edit](https://open.spotify.com/track/6VwLxr8s5AWQahRW1DtXNX) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One by One](https://open.spotify.com/album/6XgUanSbXwk4TSduWNcSe4) | 2:18 | 2023-10-27 |  |
+| [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 | 2022-01-20 | 2023-12-16 |
 | [Opa Opa](https://open.spotify.com/track/3OjZOBPJNvSEdkoTtKvqK3) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G), [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [Opa Opa](https://open.spotify.com/album/1cFsfCOwVoAEyJEbvyZ6YX) | 2:19 | 2022-02-03 |  |
 | [Otherside](https://open.spotify.com/track/5Innyzx90xdnZgbeES7RI8) | [DJ Fluke](https://open.spotify.com/artist/6CnCjQXjKiV9Ro5GGA8ztB) | [Otherside](https://open.spotify.com/album/2MeTHOcbHm0c2j09tWZj3G) | 2:40 | 2022-01-13 |  |
 | [Out Of My Mind](https://open.spotify.com/track/2FSvmq9jktuOnl6H45zEaD) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Out Of My Mind](https://open.spotify.com/album/6V0uuxw9BnRBlZRjUw30Fa) | 2:36 | 2022-04-07 |  |

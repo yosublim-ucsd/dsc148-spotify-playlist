@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch in the new year, handpicked by our curators\. Cover: DEBBY FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,731 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,735 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Tinted](https://open.spotify.com/track/2UAOiqkLurWgF8rZwUXbsu) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Tinted](https://open.spotify.com/album/1DxF8rtW3YLMsKniifJ0mG) | 2:38 |
 | 50 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 |
 
-Snapshot ID: `MCxiMjY0ODYwOWE0ZjY0YmI3ODc0NThmYjM0OGI2NDY4MDI1MWMyMTRm`
+Snapshot ID: `MCxhZjIxMjE5NTk0NDdjNmVhN2EwYzA0ZjE4NmQyZjYwMzQwMjY1OTAx`

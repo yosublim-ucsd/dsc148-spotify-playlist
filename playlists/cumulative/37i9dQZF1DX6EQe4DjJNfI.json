@@ -994,7 +994,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 129427,
       "name": "Distante",
       "url": "https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
@@ -2721,6 +2721,32 @@
     },
     {
       "album": {
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/1J4ITzL4iz9SLRwKGlEpaJ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Caettano",
+          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
+        },
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        },
+        {
+          "name": "DJ Cash",
+          "url": "https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171792,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
+    },
+    {
+      "album": {
         "name": "PURPLE",
         "url": "https://open.spotify.com/album/3Jg0zaMttPMi43zvFoN58V"
       },
@@ -2848,6 +2874,28 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+    },
+    {
+      "album": {
+        "name": "Redial",
+        "url": "https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244705,
+      "name": "Redial",
+      "url": "https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC"
     },
     {
       "album": {

@@ -2527,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Gritaras Te Quiero (Goza La Cumbia Mamita!)",
+        "url": "https://open.spotify.com/album/2xW3K4MUql6PZlTyBPuzoF"
+      },
+      "artists": [
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108587,
+      "name": "Gritaras Te Quiero - Goza La Cumbia Mamita!",
+      "url": "https://open.spotify.com/track/4PBwqWsRglYItLGTtF8EXl"
+    },
+    {
+      "album": {
         "name": "Hasta el Amanecer",
         "url": "https://open.spotify.com/album/6PmzZJxtyxQrlPIwzyPeyv"
       },
@@ -4618,7 +4636,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 207957,
       "name": "Que Ser\u00e1 de Ti",
       "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"

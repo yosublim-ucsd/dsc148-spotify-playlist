@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7A7EJr3xD9zwD2pk4RgnNf"
+      },
+      "artists": [
+        {
+          "name": "Rimnes",
+          "url": "https://open.spotify.com/artist/6goEtrCPrw8Xzy9brOmEow"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211982,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1P9BHeZL8lbQG8k49KMShY"
+    },
+    {
+      "album": {
         "name": "Forever (feat. Crooked Bangs)",
         "url": "https://open.spotify.com/album/12GplONMUz7ZXOumsh2FWc"
       },

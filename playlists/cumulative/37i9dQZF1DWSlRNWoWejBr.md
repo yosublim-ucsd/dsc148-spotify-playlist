@@ -4,7 +4,7 @@
 
 > OU VC DANÇA OU O GRAVE T BALANÇA
 
-123 songs - 5 hr 12 min
+124 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Montagem Coral](https://open.spotify.com/track/6qPD86pGirtqqW6g6eZE73) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [Montagem Coral](https://open.spotify.com/album/2VKY7nldcrex9oGUdr0ahM) | 1:44 | 2023-10-24 | 2023-10-31 |
 | [Montagem Coral](https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [MC Cyclope](https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N) | [Montagem Coral](https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu) | 2:25 | 2023-10-06 | 2023-11-27 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/7cE9DsAvDWlFXfnIAZ1RDG) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [MONTAGEM CORAL](https://open.spotify.com/album/0TTWmaMq5n2f9XzGRBvCIR) | 2:25 | 2023-11-29 | 2023-12-04 |
+| [Montagem Coral](https://open.spotify.com/track/2bWf8d1FhnB1ypJZ2bDUvt) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [Sinom](https://open.spotify.com/artist/5M4Z9UYuF8o4fSrhnL6S5C), [UNCRYPTED INC.](https://open.spotify.com/artist/1Lp30VcQVQEDdb3Til1hRQ) | [Montagem Coral](https://open.spotify.com/album/3ON26D5AT9jJWeNwSc3CVR) | 2:25 | 2023-12-13 |  |
 | [Montagem Coral](https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral \(Slowed + Reverb\)](https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ) | 2:23 | 2023-10-24 | 2023-10-30 |
 | [Montagem Coral](https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral](https://open.spotify.com/album/6RfEECBJXORJnhJNdVB4mN) | 2:23 | 2023-10-13 | 2023-10-17 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/16pCNpN8qTkUViMALO0U3Z) | [sadakatsiz](https://open.spotify.com/artist/0zZR7LKqUKMJSVnoogF6Mi) | [MONTAGEM CORAL](https://open.spotify.com/album/6JQs1jzCDA6MHAqaBTxxgy) | 2:25 | 2023-11-29 | 2023-12-06 |
@@ -124,7 +125,7 @@
 | [Vem Quebrando](https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Vem Quebrando](https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF) | 2:28 | 2023-10-06 |  |
 | [Vois](https://open.spotify.com/track/1qoy8HArv6VFchZB5KWXCm) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois](https://open.spotify.com/album/0zB2ihg6636WiNDK7ShIcZ) | 2:25 | 2023-11-21 | 2023-12-01 |
 | [Vois](https://open.spotify.com/track/3skDAUY9XQGnGquOZnbdJD) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois](https://open.spotify.com/album/3FM0HgM0hUgCXbu7TiZkpx) | 2:25 | 2023-11-08 | 2023-11-16 |
-| [Vois](https://open.spotify.com/track/3GMqqxQa1VMp3gOGcesm6j) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Vois](https://open.spotify.com/album/1hex3aXzhYCGgtWuJdQfl3) | 2:25 | 2023-11-29 |  |
+| [Vois](https://open.spotify.com/track/3GMqqxQa1VMp3gOGcesm6j) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Vois](https://open.spotify.com/album/1hex3aXzhYCGgtWuJdQfl3) | 2:25 | 2023-11-29 | 2023-12-16 |
 | [Vois sur ton chemin](https://open.spotify.com/track/3EBW62oChNTesOLm7hnuEk) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois sur ton chemin](https://open.spotify.com/album/53FR5HN59YWVkNFlUqelaV) | 2:25 | 2023-11-08 | 2023-11-10 |
 | [Vou fuder teu batalhao](https://open.spotify.com/track/5lxHmv4yRVw9ky3I758O1p) | [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Vuk Vuk](https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx), [Mc Magico](https://open.spotify.com/artist/4eEKYRwHRk7v5gdOszWuDf), [MC RF](https://open.spotify.com/artist/7nYIVfrKwfTLzIIlLpTyaq) | [Vou fuder teu batalhao](https://open.spotify.com/album/54LaYZfsIuPuPymhr9my6U) | 2:49 | 2023-10-06 |  |
 | [Vou Morar no Cabaré](https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Dj Wesley Gonzaga](https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi) | [Vou Morar no Cabaré](https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6) | 1:45 | 2023-10-06 |  |

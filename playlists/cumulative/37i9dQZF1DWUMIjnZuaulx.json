@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:7tlQrRh6jNY1c95poJvBe9\">Deitrick Haddon</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:4u2tnfiRrpWOEdC14Vg6d8\">Bobbi Storm</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -4565,6 +4565,28 @@
     },
     {
       "album": {
+        "name": "Maybe God Is Tryin\u2019 To Tell You Somethin\u2019 (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/2y4DeoshTo2cQBKgCg6nez"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        },
+        {
+          "name": "Taraji P. Henson",
+          "url": "https://open.spotify.com/artist/7DHnqpyebuZan18T1diaio"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263026,
+      "name": "Maybe God Is Tryin\u2019 To Tell You Somethin\u2019 - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/1W7IlkIex8FzydmxsYxJGi"
+    },
+    {
+      "album": {
         "name": "Mercy (Live)",
         "url": "https://open.spotify.com/album/4nkCtTJ93bjfnlVwLVXMHu"
       },
@@ -7576,7 +7598,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 284800,
       "name": "Way Home",
       "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"

@@ -1,12 +1,12 @@
 {
-  "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: YouNotUs, SERA",
-  "num_followers": 292812,
+  "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: SERA, YouNotUs",
+  "num_followers": 292899,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWNkOGE1ZGJhMGYzMzAzMThmY2NjMTIxOWU3ZmZmY2RlYzUxNDZh",
+  "snapshot_id": "MCwyODBjZWI5NTRkYTlhMzRjODUyYjQyNjA3MDEzZTZiMDYyNjYyZTQ0",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -46,6 +46,10 @@
         {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
       "duration_ms": 123624,
@@ -1204,7 +1208,7 @@
       "added_at": "2023-12-14 23:00:00",
       "album": {
         "name": "In My Head",
-        "url": "https://open.spotify.com/album/7FnJZ2UDGEYWdbo0JrPFKx"
+        "url": "https://open.spotify.com/album/0voMWxbr0bYMxBReoyPkZC"
       },
       "artists": [
         {
@@ -1218,7 +1222,7 @@
       ],
       "duration_ms": 144104,
       "name": "In My Head",
-      "url": "https://open.spotify.com/track/4Gh5m12mee8uyHfFeVLJnZ"
+      "url": "https://open.spotify.com/track/6vFGXhwRFDG7301VGpUfy2"
     },
     {
       "added_at": "2023-12-14 23:00:00",

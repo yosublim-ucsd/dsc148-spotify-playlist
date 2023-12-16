@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-118 songs - 9 hr 7 min
+119 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [雲雀](https://open.spotify.com/track/1vF9MWW9VZL8QZH4F01Asw) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [RUST / 雲雀 / 光芒](https://open.spotify.com/album/3gtN7OQcfBLeLoTGf772p2) | 4:38 | 2022-02-28 |  |
 | [雲雀](https://open.spotify.com/track/50M0nvkvTrMVuBiOIBCHxu) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [RUST / 雲雀 / 光芒](https://open.spotify.com/album/3j2IW881aBKaTfawSbM74r) | 4:38 | 2022-02-28 | 2022-07-29 |
 | [静かな夜に](https://open.spotify.com/track/05NI2obfLIFIyVHlQuYCgC) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [静かな夜に](https://open.spotify.com/album/48zvdtJf0JWhY33ZKaJLXw) | 4:53 | 2022-02-28 | 2023-06-16 |
+| [風よ、吹け](https://open.spotify.com/track/4nIENmxdHhT04pDAsx8lq3) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [The Works for Soundtrack Ⅱ](https://open.spotify.com/album/5w4tE6Vd1NobfLWec75f8I) | 3:37 | 2023-12-15 |  |
 | [黄昏の海](https://open.spotify.com/track/5846HvFQzt0fhaQ6Uth92l) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [edge / 黄昏の海](https://open.spotify.com/album/77A91KVRDJFD6bBpGuomS6) | 5:16 | 2022-02-28 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

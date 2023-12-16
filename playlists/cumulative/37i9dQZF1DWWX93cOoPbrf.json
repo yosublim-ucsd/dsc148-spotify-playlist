@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2023. Grupo Clasificado en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2023. El Rabbanito en portada.",
   "name": "Corridos 2023",
   "tracks": [
     {
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 181633,
       "name": "Aqu\u00ed Sigue El 19",
       "url": "https://open.spotify.com/track/5bV7l3ESQtlHoDc4ui1BfP"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 143661,
       "name": "Como Pancho Villa",
       "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
@@ -4655,6 +4655,24 @@
     },
     {
       "album": {
+        "name": "El Chavo Felix",
+        "url": "https://open.spotify.com/album/6RQfFsFKkWX0X5Vrz9i6XA"
+      },
+      "artists": [
+        {
+          "name": "Kirri Enigma",
+          "url": "https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167890,
+      "name": "El Chavo Felix",
+      "url": "https://open.spotify.com/track/32n9g4H0H85AzOeiMAbSjE"
+    },
+    {
+      "album": {
         "name": "El Chivo",
         "url": "https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i"
       },
@@ -5008,6 +5026,24 @@
       "duration_ms": 197617,
       "name": "El Corrido de Ponchon",
       "url": "https://open.spotify.com/track/5sDtSKnv9NKN6jezClTHyJ"
+    },
+    {
+      "album": {
+        "name": "El Corrido Del MC",
+        "url": "https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "El Corrido Del MC",
+      "url": "https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ"
     },
     {
       "album": {
@@ -5448,6 +5484,24 @@
       "duration_ms": 158772,
       "name": "El Dos Sierras ( En Vivo)",
       "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
+    },
+    {
+      "album": {
+        "name": "El Emblema",
+        "url": "https://open.spotify.com/album/5gEsiD51OeDdiQcVYVcbqG"
+      },
+      "artists": [
+        {
+          "name": "Jocsan Duran",
+          "url": "https://open.spotify.com/artist/5CiOcJEt3lIJneEcQt7wkv"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "El Emblema",
+      "url": "https://open.spotify.com/track/2Y6X84p4FFyx9VNRF4OfYE"
     },
     {
       "album": {
@@ -6474,6 +6528,24 @@
       "duration_ms": 204478,
       "name": "El M2",
       "url": "https://open.spotify.com/track/1SIkeoIl976zl8nrBeAXu0"
+    },
+    {
+      "album": {
+        "name": "El Mago",
+        "url": "https://open.spotify.com/album/0Hl9UEgBPCSEDROygQZF6M"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229381,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/7ljJdUGtNh7abU4idp6mYT"
     },
     {
       "album": {
@@ -7874,7 +7946,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 164245,
       "name": "El Toro Encartado - Spotify Singles",
       "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
@@ -8621,6 +8693,28 @@
     },
     {
       "album": {
+        "name": "Estilo Especial (En Vivo)",
+        "url": "https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247065,
+      "name": "Estilo Especial - En Vivo",
+      "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
+    },
+    {
+      "album": {
         "name": "Estilo Guzm\u00e1n",
         "url": "https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI"
       },
@@ -8636,7 +8730,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 171519,
       "name": "Estilo Guzm\u00e1n",
       "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
@@ -9120,7 +9214,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 152950,
       "name": "Gallo y Mi Cuerno",
       "url": "https://open.spotify.com/track/5spGDsdSSflFVnhSzIRAnS"
@@ -10806,7 +10900,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 146114,
       "name": "La Fory Fay (En Vivo)",
       "url": "https://open.spotify.com/track/1EDpfZnNhJLDX5ZZXmP6ki"
@@ -12041,6 +12135,24 @@
     },
     {
       "album": {
+        "name": "Lifted LA",
+        "url": "https://open.spotify.com/album/5hfe2vr5j5z9MvFLWcFJxl"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Lifted LA",
+      "url": "https://open.spotify.com/track/4erzhMAvooXFTNnTIXrDOf"
+    },
+    {
+      "album": {
         "name": "Linda Vida",
         "url": "https://open.spotify.com/album/4c5B0QNRhDhumjlVlQt1OR"
       },
@@ -12510,7 +12622,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 188000,
       "name": "LOU LOU",
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
@@ -13763,6 +13875,24 @@
     },
     {
       "album": {
+        "name": "CJNG Soy Mencho",
+        "url": "https://open.spotify.com/album/6tkgchD4iwoz4EBtfnpOs6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Corporacion",
+          "url": "https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114367,
+      "name": "No Es Tan Facil",
+      "url": "https://open.spotify.com/track/1pJ5gvXJ3itc2AqLm6iBo9"
+    },
+    {
+      "album": {
         "name": "No Estamos Donde Mismo",
         "url": "https://open.spotify.com/album/6oVBfewvJS6TEuOY2PHZkb"
       },
@@ -14761,6 +14891,28 @@
     },
     {
       "album": {
+        "name": "Corridos Alternativos",
+        "url": "https://open.spotify.com/album/6XATE16MzC571kcQ66D6te"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Gabriel Ssoe",
+          "url": "https://open.spotify.com/artist/6jj51ACAVuQf2879t7p7O8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172164,
+      "name": "Por la Ciudad",
+      "url": "https://open.spotify.com/track/4Qs1ZU59JCbzEhW0UCb8Xg"
+    },
+    {
+      "album": {
         "name": "Porfirio Diaz",
         "url": "https://open.spotify.com/album/4uUdUGknQ3W5WeSlFmEnCv"
       },
@@ -15020,7 +15172,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 175837,
       "name": "Que las Cuartitos No Falten",
       "url": "https://open.spotify.com/track/5ZFk83GnBDgpzKpXGPllCg"
@@ -15174,6 +15326,32 @@
       "duration_ms": 182718,
       "name": "Radico En Guadalajara",
       "url": "https://open.spotify.com/track/25mluHAkXrvgrlSfPj8Ltx"
+    },
+    {
+      "album": {
+        "name": "Rafaga El Scar",
+        "url": "https://open.spotify.com/album/4bd6saaywG7pG6r4dAw8iX"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Elias Valenzuela",
+          "url": "https://open.spotify.com/artist/0Oo8g934qrJAJb9eig3dbN"
+        },
+        {
+          "name": "Irving Iniguez",
+          "url": "https://open.spotify.com/artist/7FkIiQKmzQEWFgpmZCvcg7"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195416,
+      "name": "Rafaga El Scar",
+      "url": "https://open.spotify.com/track/0nZ6pMlE2V32ox2GuWS80H"
     },
     {
       "album": {
@@ -15766,7 +15944,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 256519,
       "name": "Seraf\u00edn - En Vivo",
       "url": "https://open.spotify.com/track/6aFS8Lvqlbtgt0EchjOsd2"
@@ -16401,6 +16579,28 @@
     },
     {
       "album": {
+        "name": "Culiac\u00e1n Deluxe 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234273,
+      "name": "Soy El Cabez\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/7yWlXAjKdfdAPRLrk6mZ9X"
+    },
+    {
+      "album": {
         "name": "Soy El Conejo Toys",
         "url": "https://open.spotify.com/album/12BAVLU9EpUNC8Ds2E4kaC"
       },
@@ -16700,7 +16900,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 198493,
       "name": "Tambi\u00e9n Me Llamo Ismael - En Vivo",
       "url": "https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY"
@@ -17338,7 +17538,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 234426,
       "name": "Urus, Rolex Y Respeto",
       "url": "https://open.spotify.com/track/6TPwOoskk5Qvd3H54AbdAX"
@@ -17914,6 +18114,24 @@
       "duration_ms": 184533,
       "name": "Zona Roja R1",
       "url": "https://open.spotify.com/track/06xoj7olTITKHMB9iVgQsF"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Vivo Que En Vivo (Vol. 3)",
+        "url": "https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208405,
+      "name": "Zutano (En Vivo)",
+      "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
     },
     {
       "album": {

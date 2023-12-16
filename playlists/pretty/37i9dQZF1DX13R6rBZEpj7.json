@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Y U QT",
-  "num_followers": 200694,
+  "num_followers": 200737,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGFjMGY5YjRiZDlkYjBjNDk4M2ZkNmRlMzhiMjRiYzczN2ViNzUy",
+  "snapshot_id": "MCw5MTQ2ODY0NmQ4ZTU1OTdiMWM5NDFjYWM0MzkzMjkyNzIwZjM1M2Yz",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Gimme More",
-        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
+        "name": "It's Your Time",
+        "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
       },
       "artists": [
         {
-          "name": "Distinkt",
-          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        },
+        {
+          "name": "Jamie Boy Bassline",
+          "url": "https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj"
         }
       ],
-      "duration_ms": 234418,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
+      "duration_ms": 186659,
+      "name": "It's Your Time",
+      "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -639,22 +643,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "It's Your Time",
-        "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
+        "name": "Gimme More",
+        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
       },
       "artists": [
         {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
-        },
-        {
-          "name": "Jamie Boy Bassline",
-          "url": "https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj"
+          "name": "Distinkt",
+          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
         }
       ],
-      "duration_ms": 186659,
-      "name": "It's Your Time",
-      "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
+      "duration_ms": 234418,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Can't Escape",
-        "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En"
       },
       "artists": [
         {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+          "name": "Digital Koala",
+          "url": "https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU"
+        },
+        {
+          "name": "SK",
+          "url": "https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc"
         }
       ],
-      "duration_ms": 218899,
-      "name": "Can't Escape",
-      "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
+      "duration_ms": 157500,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -719,22 +723,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En"
+        "name": "Can't Escape",
+        "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
       },
       "artists": [
         {
-          "name": "Digital Koala",
-          "url": "https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU"
-        },
-        {
-          "name": "SK",
-          "url": "https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc"
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7"
+      "duration_ms": 218899,
+      "name": "Can't Escape",
+      "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
       },
@@ -847,22 +831,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "One Ting",
         "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
       },
@@ -875,6 +843,22 @@
       "duration_ms": 232500,
       "name": "One Ting",
       "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -915,18 +899,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "No Clip",
-        "url": "https://open.spotify.com/album/12spfrxeApDAVNV3ul5DmF"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
       },
       "artists": [
         {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
         }
       ],
-      "duration_ms": 254769,
-      "name": "No Clip",
-      "url": "https://open.spotify.com/track/19djX580zpwpDHDAbGnaul"
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -947,6 +931,22 @@
       "duration_ms": 129625,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "No Clip",
+        "url": "https://open.spotify.com/album/12spfrxeApDAVNV3ul5DmF"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "No Clip",
+      "url": "https://open.spotify.com/track/19djX580zpwpDHDAbGnaul"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        }
-      ],
-      "duration_ms": 221024,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 169385,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
+      },
+      "artists": [
+        {
+          "name": "Slick Don",
+          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "nice and close",
         "url": "https://open.spotify.com/album/0mfvIVWcbPPlusJhjIvaq1"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 196500,
       "name": "nice and close",
       "url": "https://open.spotify.com/track/1gXbEybfs68aNJsd9gX3Uc"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
-      },
-      "artists": [
-        {
-          "name": "Slick Don",
-          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Hard Hitters",
         "url": "https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 232602,
       "name": "Hard Hitters",
       "url": "https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
     },
     {
       "added_at": "2023-12-01 00:01:00",

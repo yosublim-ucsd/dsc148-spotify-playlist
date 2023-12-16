@@ -2,7 +2,7 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Platform
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Alikiba
 
 120 songs - 6 hr 51 min
 

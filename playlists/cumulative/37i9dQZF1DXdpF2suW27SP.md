@@ -4,7 +4,7 @@
 
 > Plutonio entra na zona.
 
-426 songs - 22 hr 53 min
+427 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [0 Mimos](https://open.spotify.com/track/4j6UrTNdY8hkiIwoHxBiRN) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb) | [0 Mimos](https://open.spotify.com/album/5DWL3eJUKFsnDw3uBdCUOy) | 3:32 | 2022-07-16 | 2022-08-02 |
 | [2 da Matina](https://open.spotify.com/track/2Nxl2DRXsj7jkRBQ66GUJv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [2 da Matina](https://open.spotify.com/album/69wSG4zSCMGNb6V7cnxPYS) | 3:31 | 2022-07-16 | 2022-07-29 |
 | [2 da Matina](https://open.spotify.com/track/6mHEUDWaySfb6YvLC7JgPN) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:31 | 2022-07-21 | 2022-12-02 |
+| [2023](https://open.spotify.com/track/2J1TF8fTaImU4sZhDpIsnp) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [2023](https://open.spotify.com/album/4E12XITnfM7Cer4HGi9RaZ) | 2:41 | 2023-12-15 |  |
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2022-07-16 | 2022-12-16 |
 | [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 | 2022-07-16 | 2022-10-28 |
 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 | 2023-04-13 | 2023-11-11 |

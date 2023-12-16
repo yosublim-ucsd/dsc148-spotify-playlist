@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Elephant Gym \(Taiwan\)
 
-1,110 songs - 2 day 18 hr 55 min
+1,111 songs - 2 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-03-23 | 2023-05-19 |
 | [Field of Flowers](https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Calla](https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z) | 4:09 | 2023-11-09 | 2023-12-01 |
 | [Fire Wind Wheel](https://open.spotify.com/track/0RcO8NZgpXa2Kh21eSgHpf) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Tao Fire 道火](https://open.spotify.com/album/4seJp56F0oEF4QHcREZGtl) | 3:54 | 2023-06-29 | 2023-07-07 |
+| [FIRST CLASS](https://open.spotify.com/track/5T0sP07hLA8stO5P9RPyAV) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FLANDERS](https://open.spotify.com/album/7kxIzybDHMVhyvFLTVFqki) | 3:05 | 2023-12-14 |  |
 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 | 2023-07-06 | 2023-08-04 |
 | [Fish in a Can \- feat\. Oscar Lolang](https://open.spotify.com/track/2tWeWrvsVB7sK9KopCcpwE) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh), [Oscar Lolang](https://open.spotify.com/artist/1WxiHeimXMJ6kcNlyczScQ) | [Fish in a Can \(feat\. Oscar Lolang\)](https://open.spotify.com/album/3F1aLofaKvFzU3u91tmKwF) | 4:00 | 2023-01-19 | 2023-02-03 |
 | [Fleeting Away](https://open.spotify.com/track/1bf8KsxFbFFefF3MaOkBLK) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Fleeting Away](https://open.spotify.com/album/0Lyi4lVThvhajw3iYTAcei) | 4:20 | 2023-08-03 | 2023-09-22 |
@@ -605,7 +606,7 @@
 | [More & More](https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:28 | 2023-10-05 | 2023-10-13 |
 | [more than friends](https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [more than friends](https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb) | 2:40 | 2023-02-16 | 2023-03-25 |
 | [MOSHIMO](https://open.spotify.com/track/6h8f6bUxH2RaxuUElQ0164) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [GOTA](https://open.spotify.com/artist/1t3344DpBqbezUv3QIR1DH) | [MOSHIMO](https://open.spotify.com/album/5N2frg9gZ0hfTMPVMpztN2) | 4:46 | 2023-03-16 | 2023-04-14 |
-| [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 | 2023-10-19 |  |
+| [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 | 2023-10-19 | 2023-12-16 |
 | [Mr\. Daydream](https://open.spotify.com/track/5HYUcCS99ZzM3z3E5OKlY8) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [Mr\. Daydream](https://open.spotify.com/album/0FpWw1iUM4JHq4eovT85z1) | 3:17 | 2023-02-09 | 2023-03-25 |
 | [Mr\. Streetboy](https://open.spotify.com/track/63TccNreszvD0ySqpH6N6C) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Mr\. Streetboy](https://open.spotify.com/album/3KhbDtI5OTPm6eVXRIS1gT) | 3:06 | 2023-11-23 | 2023-12-15 |
 | [Music All We Have](https://open.spotify.com/track/5BtEJ0u8sxno9kymiloA0S) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM) | [Music All We Have](https://open.spotify.com/album/7HdVwXyh6GSIe8n6Ilnbo7) | 4:02 | 2022-08-11 | 2022-09-30 |

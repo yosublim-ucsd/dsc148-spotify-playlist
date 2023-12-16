@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Dani Flow en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Yeri Mua y Uzielito Mix en portada ",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 166829,
       "name": "bb q paso contigo.mpeg",
       "url": "https://open.spotify.com/track/32yiSOgDYDc54n2bWG8uyT"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 161739,
       "name": "Belize",
       "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
@@ -732,6 +732,32 @@
       "duration_ms": 174971,
       "name": "Bellatonika",
       "url": "https://open.spotify.com/track/5LZmNN1i28G1paszTfCGZh"
+    },
+    {
+      "album": {
+        "name": "Bendito Cumbiaton",
+        "url": "https://open.spotify.com/album/34mei3KTz4f7FLX7sk6WXx"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "El Cusco",
+          "url": "https://open.spotify.com/artist/0BJOE4YEhUHEkHsxSxcuSE"
+        },
+        {
+          "name": "Los Benditos Mx",
+          "url": "https://open.spotify.com/artist/5utNXaJ4GpcGFGxZHKVgWh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137168,
+      "name": "Bendito Cumbiaton",
+      "url": "https://open.spotify.com/track/29o6YfInDxPYJVgMaXg2Xp"
     },
     {
       "album": {
@@ -2668,7 +2694,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 148806,
       "name": "Esto Se Baila Asi",
       "url": "https://open.spotify.com/track/0GxEwZ3j4y4OnqXzxG29ww"
@@ -3892,7 +3918,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 164256,
       "name": "La Cone",
       "url": "https://open.spotify.com/track/5yI2SOHNkmatcG1wVZVy7P"
@@ -4255,6 +4281,36 @@
     },
     {
       "album": {
+        "name": "Linea Del Perreo",
+        "url": "https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181137,
+      "name": "Linea Del Perreo",
+      "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
+    },
+    {
+      "album": {
         "name": "Lo Que Pas\u00f3 Ayer",
         "url": "https://open.spotify.com/album/3gOy55ITvra2iZ1eTsx6yR"
       },
@@ -4488,6 +4544,28 @@
       "duration_ms": 177446,
       "name": "LUZ APAG\u00c1",
       "url": "https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr"
+    },
+    {
+      "album": {
+        "name": "L\u00e4 M\u00f6OtOr\u00e4",
+        "url": "https://open.spotify.com/album/4Eq2RGRcqhmHz0xqA3MX7E"
+      },
+      "artists": [
+        {
+          "name": "Pepo Mix",
+          "url": "https://open.spotify.com/artist/1HjYewpu3sZfRg7cfZWD4i"
+        },
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148801,
+      "name": "L\u00e4 M\u00f6OtOr\u00e4",
+      "url": "https://open.spotify.com/track/0xhK4YxMenruw3LTlf2N11"
     },
     {
       "album": {
@@ -6491,6 +6569,32 @@
     },
     {
       "album": {
+        "name": "Pikete",
+        "url": "https://open.spotify.com/album/2p14eVcWJ1FGgEhgn6XaYo"
+      },
+      "artists": [
+        {
+          "name": "Malianteo Mx",
+          "url": "https://open.spotify.com/artist/1N8srm49MOUfNdYsxQ1E06"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        },
+        {
+          "name": "Easy Mo",
+          "url": "https://open.spotify.com/artist/76Oj47sMTbpy61tK8k81Ty"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Pikete",
+      "url": "https://open.spotify.com/track/5rwk2EbBZZCpa3iJZuoyDW"
+    },
+    {
+      "album": {
         "name": "PILA",
         "url": "https://open.spotify.com/album/2auq8TqxGR6T7JmoaknIwz"
       },
@@ -6750,6 +6854,32 @@
       "duration_ms": 170450,
       "name": "Prisionero",
       "url": "https://open.spotify.com/track/2engG3iABkqRUGSHMDr55i"
+    },
+    {
+      "album": {
+        "name": "Prra Palga",
+        "url": "https://open.spotify.com/album/75ScE7EDxLkE8Y7dp4seYu"
+      },
+      "artists": [
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Prra Palga",
+      "url": "https://open.spotify.com/track/1t8pXAgOit9GzpSo9AZeYs"
     },
     {
       "album": {
@@ -7416,7 +7546,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 167500,
       "name": "SEOUL",
       "url": "https://open.spotify.com/track/5AZM14wS11MVZauB1mnb0k"
@@ -7456,7 +7586,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 177289,
       "name": "Sex a Otro Nivel",
       "url": "https://open.spotify.com/track/5OfTSNKWRhM9WvNL2443Of"
@@ -8238,7 +8368,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 128496,
       "name": "Tepache",
       "url": "https://open.spotify.com/track/5JS8ovsCVwXHmgUgFgXP8W"

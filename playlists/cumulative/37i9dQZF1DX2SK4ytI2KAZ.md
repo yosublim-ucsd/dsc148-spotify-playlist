@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-526 songs - 1 day 5 hr 5 min
+527 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Crooked Eyes](https://open.spotify.com/track/6LUqGcQXQlsE6tEwswHIFG) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Crooked Eyes](https://open.spotify.com/album/6Jaz2rNwmGPA5xuZx9HPPr) | 4:15 | 2022-03-11 | 2022-04-13 |
 | [Cry Out for Me](https://open.spotify.com/track/6ktLXrudYZ8PjQvu2Ncoth) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:14 | 2022-03-11 | 2022-04-17 |
 | [Curious](https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Curious](https://open.spotify.com/album/6ostRuT5nyWNNuuaAE2FMX) | 2:49 | 2022-06-27 | 2023-03-23 |
-| [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 | 2022-02-04 |  |
+| [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 | 2022-02-04 | 2023-12-16 |
 | [Daphne Blue](https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [tryhard](https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1) | 3:02 | 2021-03-10 | 2023-12-08 |
 | [Day Dreaming](https://open.spotify.com/track/5NbyidjQ7pvTWdEVOUFcT3) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 3:47 | 2021-03-10 | 2023-03-25 |
 | [Daydream](https://open.spotify.com/track/26ZCR1Zd74fvBJvH1o1rbx) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Under My Influence](https://open.spotify.com/album/0KPgrwFMQKpRaBcmeLg1Rw) | 2:30 | 2022-06-27 | 2022-07-30 |
@@ -118,6 +118,7 @@
 | [Disaster Party](https://open.spotify.com/track/0tZQkiMamZC9PVKeIDtvTP) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [Disaster Party](https://open.spotify.com/album/3PUNh3goCvfGWs0ipKSUkS) | 3:01 | 2021-03-10 | 2022-07-30 |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-06-25 | 2022-05-04 |
 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 | 2023-08-07 | 2023-11-16 |
+| [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 | 2023-12-15 |  |
 | [Do It Like You Do](https://open.spotify.com/track/0GZtNyHp1cImFX8E6qK9nQ) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [D.I.L.Y.D.](https://open.spotify.com/album/0iRbnjEonkAjlawEngtE3M) | 3:19 | 2022-10-07 | 2023-03-29 |
 | [Do It Like You Do](https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [D.I.L.Y.D.](https://open.spotify.com/album/5UvMqJ7iarMJtztwBUG6UL) | 3:19 | 2022-06-27 | 2022-12-25 |
 | [Do It Like You Do](https://open.spotify.com/track/7FOgj5HLQd9LXGKXot1RhA) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Do It Like You Do](https://open.spotify.com/album/0VFrisQgRs71gyFCbtAhCu) | 3:19 | 2021-03-10 | 2022-07-28 |

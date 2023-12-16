@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Marlon Hoffstadt
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,182 likes - 150 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,448 likes - 150 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 36 | [idol](https://open.spotify.com/track/4cOq1Qx9d5Kxtjd3Tww47b) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Manic Pixie Dream Girl](https://open.spotify.com/album/2FIrS3aP6Fd1NeEDLf8QNi) | 2:17 |
 | 37 | [FUN](https://open.spotify.com/track/5mlVnK8RkGob2oiFPXf0Ky) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [FUN](https://open.spotify.com/album/2ZIsPbcWIz2dhi5YCTvTkv) | 1:49 |
 | 38 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
-| 39 | [stay\. x](https://open.spotify.com/track/7kXNol0cc3fAyNiYQBM5wY) | [Cell m8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [stay\. x](https://open.spotify.com/album/3uJrG3xIQLgmF1D7JjvJIn) | 4:46 |
+| 39 | [stay\. x](https://open.spotify.com/track/7kXNol0cc3fAyNiYQBM5wY) | [cell m8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [stay\. x](https://open.spotify.com/album/3uJrG3xIQLgmF1D7JjvJIn) | 4:46 |
 | 40 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
-| 41 | [gimme gimme](https://open.spotify.com/track/0LWrBENo9TbgKc8hmIn1Ec) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [summer in the rain](https://open.spotify.com/album/5ZDHGnmqfZRdgsjDmw6xZz) | 2:38 |
+| 41 | [gimme gimme](https://open.spotify.com/track/1gfID56ITv50NOl2OJjWYr) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [apple juice](https://open.spotify.com/album/6LfyurnoMknxDGX50Yfo4e) | 2:38 |
 | 42 | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/track/19yCgFt2hIHCqLyfsAQPTA) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/album/6tDdVYFLF6PqcnkcLwKrQ0) | 3:26 |
 | 43 | [Into Dream](https://open.spotify.com/track/39GEt8MHitZ93mBsIK9wME) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Into Dream](https://open.spotify.com/album/0cbRVDsqfp8FJttckcz1z7) | 4:35 |
 | 44 | [WFT](https://open.spotify.com/track/3KcvhdB2XV8U0s6PbIy1bc) | [Subtrax](https://open.spotify.com/artist/1li6c6TniSl5U8ABWQCNAD) | [WFT](https://open.spotify.com/album/4sXH8U0BPsKRPBBcEhAxGA) | 3:31 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 46 | [Victory Lap \- Edit](https://open.spotify.com/track/6VLmoYYs4WV7I4waJcs7Vr) | [BUFFEE](https://open.spotify.com/artist/375sZCoa1ojgt8tICkADmd) | [Victory Lap \(Edit\)](https://open.spotify.com/album/1dn55BQH9nrFPilYVtDPKg) | 3:32 |
 | 47 | [head](https://open.spotify.com/track/4rGZy1pDm0UGOYnZCI9nbb) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [head](https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p) | 2:17 |
 | 48 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 |
-| 49 | [holdu](https://open.spotify.com/track/3yS493zkDMt3nGjoDrT9dG) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [genr.es \(let go/what breaks\-1\)](https://open.spotify.com/album/5xTiGK5L7tstao6DuxOIpn) | 2:38 |
+| 49 | [holdu](https://open.spotify.com/track/4rDjhIe5WXuVPvszcY7z2V) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [genr.es \(let go/what breaks\-1\)](https://open.spotify.com/album/49LEXWD60YW18g75f5YUEA) | 2:38 |
 | 50 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
 | 51 | [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 |
 | 52 | [agony](https://open.spotify.com/track/6KzU3opKYx4dTqnhkSUG2U) | [Ilykimchi](https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb), [Niles](https://open.spotify.com/artist/5ZJamUavXzHaddUzHWzRHc) | [agony](https://open.spotify.com/album/1Om3YkaTqCgjVsFrvyYW2V) | 2:59 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/album/2MAkKniWFXaXXXzEFDRQ8p) | 2:13 |
 | 150 | [i dont mean no harm](https://open.spotify.com/track/6lcxaASRl0lMaIU95yH8CH) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [kojo](https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV) | [i dont mean no harm](https://open.spotify.com/album/764hIM8zWXHOAXxJSozK17) | 2:08 |
 
-Snapshot ID: `MCxhZjhkMjAxMzk3N2NiNmEzYTlhNzhlNzc0ZGFjZGExM2EyNWE0ODg0`
+Snapshot ID: `MCw5YTVlODVmNjFhMjZlOTYxZDBmMDM1MDAzZGEwMzhlMWE3MTBiNTY5`

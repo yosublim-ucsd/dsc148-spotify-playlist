@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,780 songs - 3 day 7 hr 43 min
+1,781 songs - 3 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [A New Day](https://open.spotify.com/track/2ZBrOKj7dDANWEA4DcXQ2N) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [A New Day](https://open.spotify.com/album/5lF6GKix1t49qCXs9TASLh) | 2:59 | 2021-03-14 | 2021-12-21 |
 | [A New Path](https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [A New Path](https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw) | 1:53 | 2022-09-13 | 2023-04-16 |
 | [A New World's Dream](https://open.spotify.com/track/64Nktb1GhXgrEGtBD4oFRI) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Motion Picture](https://open.spotify.com/album/0root1UoHuqQYlGdUGglOT) | 2:49 | 2021-03-10 | 2021-12-19 |
-| [A Place To Hide](https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [A Place To Hide](https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F) | 2:27 | 2023-04-15 |  |
+| [A Place To Hide](https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [A Place To Hide](https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F) | 2:27 | 2023-04-15 | 2023-12-16 |
 | [A Prominent Response](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [A Prominent Response](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 2:53 | 2021-03-14 | 2022-04-18 |
 | [A Promise](https://open.spotify.com/track/552pZqHBTVj3hXRwiblvwB) | [Matti Paalanen](https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1), [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [A Promise](https://open.spotify.com/album/6qBvYqCeYu0SUcdVgnVqq3) | 2:17 | 2021-03-16 | 2021-12-21 |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2021-04-08 | 2022-07-28 |
@@ -241,6 +241,7 @@
 | [Broertje](https://open.spotify.com/track/6mJJCKV3zEwCH46Fx8yDhG) | [Mavis Marchena](https://open.spotify.com/artist/6MSPdpw1XqfQfFarlvDwhd) | [Broertje](https://open.spotify.com/album/3JgL40IFCEy1TcsRovYBYp) | 1:37 | 2021-03-07 | 2022-04-15 |
 | [Broken Pieces](https://open.spotify.com/track/1VVnqpZTWzWn4pClakf1WN) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [In This Moment](https://open.spotify.com/album/2befcUn0DLzERrsU0OgU68) | 2:45 | 2021-10-11 | 2022-03-28 |
 | [Brown Eyes](https://open.spotify.com/track/3k90hsLJzPzHcvmhwy50eN) | [Tanisha Hickman](https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus) | [Brown Eyes](https://open.spotify.com/album/1Hk2QH1pnKMgAJZhYlQL4l) | 2:41 | 2021-03-15 | 2022-04-17 |
+| [Brume Matinale](https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Brume Matinale](https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA) | 2:46 | 2023-12-12 |  |
 | [Butterfly](https://open.spotify.com/track/0GXGGsSFNkmvKsAZQj0KPd) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Ichiru](https://open.spotify.com/album/4rVHa8DsyPyT12IMpdSQOL) | 2:07 | 2022-03-29 | 2022-04-03 |
 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 | 2021-04-07 | 2022-07-01 |
 | [Café Atmosphère](https://open.spotify.com/track/2gHT8EoE25tFyQsRapByIF) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Rêveries](https://open.spotify.com/album/1JwQ0z2Rj9WX5FSzS9Z90M) | 2:28 | 2021-03-14 | 2022-04-15 |

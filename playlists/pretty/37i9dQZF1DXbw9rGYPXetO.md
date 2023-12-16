@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > A selection of <a href="https://en.wikipedia.org/wiki/Hindustani\_classical\_music">North Indian Classical</a> instrumental music to help you focus and bring you joy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,987 likes - 37 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,993 likes - 37 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 36 | [Ahir Bhairav](https://open.spotify.com/track/3JLewKQMn2Xo9MPTFOTyFC) | [Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma](https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/3hqdUUtLEQmxorRMI5hE0l) | 6:14 |
 | 37 | [Rag Miya Ki Todi](https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv) | [Imrat Khan](https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg), [Shafaatullah Khan](https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp) | [Rag Miya Ki Todi & Rag Bilaskhani Todi](https://open.spotify.com/album/0mWUzMcScanLQDYIEKGMIu) | 38:14 |
 
-Snapshot ID: `MCxmZTZiNmJkZTVkZDFmZmU4MjgzYTA2YWJkMGZmYzk4NmU4ZmY3YWZi`
+Snapshot ID: `MCwyZWUxMmFhNjAwODY5YmRkOWQwZmY4NGUxNmQ1ZTMxZTljNTk3Y2Yy`

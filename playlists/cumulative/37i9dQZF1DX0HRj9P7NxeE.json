@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 247762,
       "name": "F.N.F (Let's Go) - Remix",
       "url": "https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q"
@@ -1602,6 +1602,24 @@
       "duration_ms": 137263,
       "name": "Fruit Loop",
       "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
+    },
+    {
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
       "album": {
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 133200,
       "name": "I Can't Stop (Big Boss Vette & Omah Lay)",
       "url": "https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6"
@@ -5112,6 +5130,24 @@
       "duration_ms": 153600,
       "name": "Walk",
       "url": "https://open.spotify.com/track/67tIAL7B8NzZOjpQiRHHCn"
+    },
+    {
+      "album": {
+        "name": "Walk It Like I Talk It",
+        "url": "https://open.spotify.com/album/2HrB202HvOk0PTsds7fAf5"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128394,
+      "name": "Walk It Like I Talk It",
+      "url": "https://open.spotify.com/track/20VKdzExG8ShH8Wr1p8STH"
     },
     {
       "album": {

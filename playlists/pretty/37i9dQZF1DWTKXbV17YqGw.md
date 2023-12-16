@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > Accra's CULTPOP WORLDWIDE welcomes the 2023 Detty December season
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,308 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,320 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 49 | [Outside](https://open.spotify.com/track/7pZh6kypnYfpbOylNcsdFB) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 2:26 |
 | 50 | [Welcome Home](https://open.spotify.com/track/6z8l5owiiRdfybVXEOCjBw) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Welcome Home](https://open.spotify.com/album/3v35TFoVt7VKIeorNPrXfO) | 4:16 |
 
-Snapshot ID: `MCwxZjBmODY4NThhMDNhNTk2Njk0MzU2MTc2NDI2YjlmN2YxYjgwZmMw`
+Snapshot ID: `MCwzOTFlZmZjZWFkNGIwYmFiZmEzZDJjOTE4NmRlM2Q5ZmU5MTUwYjlm`

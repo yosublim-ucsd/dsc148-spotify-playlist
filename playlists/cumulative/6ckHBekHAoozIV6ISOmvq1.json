@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 182133,
       "name": "Bacche, Bene Venies, CB 200",
       "url": "https://open.spotify.com/track/7xT3fvmlxLEk8pOrW5mO9z"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 241306,
       "name": "Barcelona Mass: I. Introitus",
       "url": "https://open.spotify.com/track/2OJz90iQcbS3tgR3RDoFAJ"
@@ -6953,6 +6953,36 @@
     },
     {
       "album": {
+        "name": "Barcelona Mass",
+        "url": "https://open.spotify.com/album/6VcS6f8zI8CndUFE9h86Pb"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Emmanuel Bonnardot",
+          "url": "https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc"
+        },
+        {
+          "name": "Obsidienne",
+          "url": "https://open.spotify.com/artist/2c7vxMAGhD0KAPpW8kufil"
+        },
+        {
+          "name": "Gisela Bellsola",
+          "url": "https://open.spotify.com/artist/2a4PS7Z2uAjPKIfj7HzjkB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 965173,
+      "name": "El Cant de la Sibilla",
+      "url": "https://open.spotify.com/track/0fshMdI7GanqBBYM29tWqU"
+    },
+    {
+      "album": {
         "name": "Dante & Troubadours",
         "url": "https://open.spotify.com/album/1sd7qeCDtPPy28UyFchlAU"
       },
@@ -8280,7 +8310,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 633613,
       "name": "Gli amori d'Apollo e di Dafne, Act I: Act I Scene 2: Gradita pobreta (Circilla, Alfesibeo)",
       "url": "https://open.spotify.com/track/4SBjZp7nZjMFNqMxiiqeaL"
@@ -10448,7 +10478,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 215560,
       "name": "Kalenda maya",
       "url": "https://open.spotify.com/track/6v4HcAWVqQoVKQrXhvZ5MI"
@@ -10772,7 +10802,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 208160,
       "name": "L'autrier estoie en un vergier: L\u2019autrier estoie en un vergier",
       "url": "https://open.spotify.com/track/2D98yIZq6r2xRwwC8udRd1"
@@ -13050,7 +13080,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 436826,
       "name": "Missa cantilena: Ave sancta mundi salus panis - Agnus Dei (From Modena, Biblioteca estense MS M.5.24)",
       "url": "https://open.spotify.com/track/01TLrcWUV0i9z0UtK8JJcd"
@@ -16769,6 +16799,32 @@
     },
     {
       "album": {
+        "name": "Troubadours",
+        "url": "https://open.spotify.com/album/78SZrtwYwqiZbc95jeRCYW"
+      },
+      "artists": [
+        {
+          "name": "Peirol",
+          "url": "https://open.spotify.com/artist/4djpvIxDrbzkGFR191KEdK"
+        },
+        {
+          "name": "Clemencic Consort",
+          "url": "https://open.spotify.com/artist/7IU1mejEjVK8cebFCnGmlX"
+        },
+        {
+          "name": "Rene Clemencic",
+          "url": "https://open.spotify.com/artist/5sfK9WFJ7Jxq44RRs8blv5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "Quant Amors trob\u00e8t partit",
+      "url": "https://open.spotify.com/track/2a9JFPXmuvuOuIXwzWqRpJ"
+    },
+    {
+      "album": {
         "name": "Beaut\u00e9 parfaite",
         "url": "https://open.spotify.com/album/7McV5G9GihgfyJoKiBAJ0Y"
       },
@@ -20016,7 +20072,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 191760,
       "name": "Wacht auff ir werden Christen",
       "url": "https://open.spotify.com/track/79sQJ42D8DcycH8uW3RxZP"

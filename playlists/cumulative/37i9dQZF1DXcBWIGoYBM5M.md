@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> Tate McRae is on top of the Hottest 50!
+> Mitski is on top of the Hottest 50!
 
 1,007 songs - 2 day 6 hr 3 min
 

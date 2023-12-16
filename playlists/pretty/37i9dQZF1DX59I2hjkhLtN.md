@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,090 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,092 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Miopia](https://open.spotify.com/track/094uD2FUQ5CAJyqqIs5gdx) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Miopia](https://open.spotify.com/album/3GGDmoL0Rhqk4KdoD9nYfu) | 2:38 |
 | 100 | [Outlawz](https://open.spotify.com/track/3eqL10wOqMkrQUlEb1bX8K) | [Black Lyrics](https://open.spotify.com/artist/73wlV7dL65MhDD3ykH5FGX), [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT) | [Outlawz](https://open.spotify.com/album/3NwY5WK2PFzJ3JiDYx5FRU) | 3:45 |
 
-Snapshot ID: `MCwzYTg4ZGQ1YzFlZDgxZDk2MmFiYjBiNjFkMDk2NDM5MTJhOTc2ZTRk`
+Snapshot ID: `MCxmNzlhNzk2NDZhYmMyMjIwY2M1NGQxY2RiOGUxYmM2MDAwOTgxNjky`

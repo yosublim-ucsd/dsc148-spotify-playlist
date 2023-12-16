@@ -2,9 +2,9 @@
 
 ### [calorcito afrobeats](https://open.spotify.com/playlist/37i9dQZF1DWUMLjiL1O98s)
 
-> La nueva ola del Afrobeats con un toque latino\. Feid y Rema en portada
+> La nueva ola del Afrobeats con un toque latino\. Piso 21 en portada
 
-146 songs - 7 hr 29 min
+148 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2023-07-21 | 2023-08-05 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2023-07-21 | 2023-08-05 |
 | [Flower Pads](https://open.spotify.com/track/2arzk4Lrn05DmGTPvm9JSx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:27 | 2023-07-21 | 2023-08-05 |
+| [Give Me](https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Give Me](https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z) | 2:45 | 2023-12-15 |  |
 | [Horas](https://open.spotify.com/track/5CCCk6rRJS0wTPHFY6vWR9) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [AFROCOLOMBIA](https://open.spotify.com/album/2rRxRnkCMNcnctsli9i5aU) | 3:51 | 2023-06-30 | 2023-10-28 |
 | [Huellas](https://open.spotify.com/track/7H895ehRhFjhsikLfhGIui) | [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk), [Jeyson](https://open.spotify.com/artist/1jtg85qtccJcbVMD13rTuE) | [Huellas](https://open.spotify.com/album/3HfJAWUR1sN5WVxWcvxzy2) | 3:52 | 2023-06-30 | 2023-10-28 |
 | [Humo Y Alcohol](https://open.spotify.com/track/7vAH5eAX9fU4dwAfiLjQnA) | [Andy G](https://open.spotify.com/artist/7rzrrEp4bNPTsktfkWphSQ), [FatBoy Rgs](https://open.spotify.com/artist/4UfG7ZwIIDGQEG89gLvjbp) | [Humo Y Alcohol](https://open.spotify.com/album/034N3HszToAJAFfchNlBs6) | 3:16 | 2023-06-30 |  |
@@ -92,7 +93,7 @@
 | [Mágico](https://open.spotify.com/track/48ZHLNNlTsQN3a8QYfhGV6) | [Yeieme](https://open.spotify.com/artist/4kgqEEUm1KUt6IYJmwq4OZ), [Amalfitan](https://open.spotify.com/artist/2BnLHLbvzwOsSVFLnfpxKh) | [Mágico](https://open.spotify.com/album/6qNM5xsXnMyHFWDN085fkW) | 3:06 | 2023-06-30 |  |
 | [N'y pense plus](https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:32 | 2023-07-21 | 2023-08-05 |
 | [Nack](https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2) | [Nack](https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d) | 2:49 | 2023-07-21 | 2023-08-05 |
-| [Nairobi](https://open.spotify.com/track/6oq0tTpAsb9jA1LvaROCGl) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Nairobi](https://open.spotify.com/album/3UsbuomsvSRDTY4GckktmJ) | 3:12 | 2023-06-30 |  |
+| [Nairobi](https://open.spotify.com/track/6oq0tTpAsb9jA1LvaROCGl) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Nairobi](https://open.spotify.com/album/3UsbuomsvSRDTY4GckktmJ) | 3:12 | 2023-06-30 | 2023-12-16 |
 | [No Estuviste En Lo Malo](https://open.spotify.com/track/3hQARI8XG01UawaCalyfjK) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:07 | 2023-07-21 | 2023-08-05 |
 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2023-07-21 | 2023-08-05 |
 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 | 2023-06-30 |  |
@@ -144,8 +145,9 @@
 | [Te Felicito](https://open.spotify.com/track/0yUPcZQiYSv7P3HWoVAJJ5) | [Official el de la O](https://open.spotify.com/artist/7eFx97cnNCWdfSLPDFpLZZ) | [Te Felicito](https://open.spotify.com/album/3tC67Wf6L8AnXhvg9NHiQ9) | 2:54 | 2023-06-30 |  |
 | [Temperatura](https://open.spotify.com/track/2UfpfV2WxigRmD18l9ZljV) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Temperatura](https://open.spotify.com/album/7abI9YMcXarbBeG7mSTsNt) | 2:17 | 2023-06-30 | 2023-11-18 |
 | [TIEMPO](https://open.spotify.com/track/1edqC2vmpdQJeur3Qyn0qQ) | [Mokka](https://open.spotify.com/artist/6ePKbQ3Fb0K8yCLBWXXrr5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [TIEMPO](https://open.spotify.com/album/66iuhyIt6A6lp0YyQdrrWC) | 2:56 | 2023-06-30 |  |
-| [Toke](https://open.spotify.com/track/6PS1RodeppDBBDo4Y7Y5b9) | [Roazter](https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa), [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq) | [Toke](https://open.spotify.com/album/01DkGyi00AkLWBe2DNSoky) | 3:22 | 2023-09-01 |  |
+| [Toke](https://open.spotify.com/track/6PS1RodeppDBBDo4Y7Y5b9) | [Roazter](https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa), [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq) | [Toke](https://open.spotify.com/album/01DkGyi00AkLWBe2DNSoky) | 3:22 | 2023-09-01 | 2023-12-16 |
 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 | 2023-07-21 | 2023-08-05 |
+| [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 | 2023-12-15 |  |
 | [Tu](https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Tu](https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH) | 3:21 | 2023-06-30 |  |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-06-30 |  |
 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 | 2023-06-30 |  |

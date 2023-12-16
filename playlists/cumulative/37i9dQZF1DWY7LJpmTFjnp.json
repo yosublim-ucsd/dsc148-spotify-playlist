@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 264030,
       "name": "En la Ciudad de la Furia",
       "url": "https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg"
@@ -1690,10 +1690,28 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 232576,
       "name": "La Novia de Frankenstein",
       "url": "https://open.spotify.com/track/7LPUxzFisaRZyAJypJJ4yD"
+    },
+    {
+      "album": {
+        "name": "La Presa del D\u00eda",
+        "url": "https://open.spotify.com/album/40fHRsyXSFovg3j68Ce2ir"
+      },
+      "artists": [
+        {
+          "name": "Jonaz",
+          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262933,
+      "name": "La Presa del D\u00eda",
+      "url": "https://open.spotify.com/track/4ec1C5N9CJnFacoTeQILpl"
     },
     {
       "album": {
@@ -3178,6 +3196,28 @@
       "duration_ms": 196923,
       "name": "S\u00f3lo Tu\u0301",
       "url": "https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj"
+    },
+    {
+      "album": {
+        "name": "Te entiendo",
+        "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240814,
+      "name": "Te entiendo",
+      "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
     },
     {
       "album": {

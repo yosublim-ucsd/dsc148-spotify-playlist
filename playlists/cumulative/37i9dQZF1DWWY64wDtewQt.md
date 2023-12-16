@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-643 songs - 1 day 0 hr 30 min
+644 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Montagem Coral](https://open.spotify.com/track/6qPD86pGirtqqW6g6eZE73) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [Montagem Coral](https://open.spotify.com/album/2VKY7nldcrex9oGUdr0ahM) | 1:44 | 2023-09-22 | 2023-10-31 |
 | [Montagem Coral](https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [MC Cyclope](https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N) | [Montagem Coral](https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu) | 2:25 | 2023-09-22 | 2023-11-27 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/7cE9DsAvDWlFXfnIAZ1RDG) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [MONTAGEM CORAL](https://open.spotify.com/album/0TTWmaMq5n2f9XzGRBvCIR) | 2:25 | 2023-09-22 | 2023-12-03 |
+| [Montagem Coral](https://open.spotify.com/track/2bWf8d1FhnB1ypJZ2bDUvt) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [Sinom](https://open.spotify.com/artist/5M4Z9UYuF8o4fSrhnL6S5C), [UNCRYPTED INC.](https://open.spotify.com/artist/1Lp30VcQVQEDdb3Til1hRQ) | [Montagem Coral](https://open.spotify.com/album/3ON26D5AT9jJWeNwSc3CVR) | 2:25 | 2023-09-22 |  |
 | [Montagem Coral](https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral \(Slowed + Reverb\)](https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ) | 2:23 | 2023-09-22 | 2023-10-30 |
 | [Montagem Coral](https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral](https://open.spotify.com/album/6RfEECBJXORJnhJNdVB4mN) | 2:23 | 2023-09-22 | 2023-10-17 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/16pCNpN8qTkUViMALO0U3Z) | [sadakatsiz](https://open.spotify.com/artist/0zZR7LKqUKMJSVnoogF6Mi) | [MONTAGEM CORAL](https://open.spotify.com/album/6JQs1jzCDA6MHAqaBTxxgy) | 2:25 | 2023-09-22 | 2023-12-06 |
@@ -615,7 +616,7 @@
 | [vitality!](https://open.spotify.com/track/66n3AI9LxzXkVymlKRzaUT) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [vitality!](https://open.spotify.com/album/4jew7cIwWty3hKw43tHdol) | 2:08 | 2022-08-19 | 2022-10-01 |
 | [Vois](https://open.spotify.com/track/1qoy8HArv6VFchZB5KWXCm) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois](https://open.spotify.com/album/0zB2ihg6636WiNDK7ShIcZ) | 2:25 | 2023-09-22 | 2023-12-01 |
 | [Vois](https://open.spotify.com/track/3skDAUY9XQGnGquOZnbdJD) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois](https://open.spotify.com/album/3FM0HgM0hUgCXbu7TiZkpx) | 2:25 | 2023-09-22 | 2023-11-16 |
-| [Vois](https://open.spotify.com/track/3GMqqxQa1VMp3gOGcesm6j) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Vois](https://open.spotify.com/album/1hex3aXzhYCGgtWuJdQfl3) | 2:25 | 2023-09-22 |  |
+| [Vois](https://open.spotify.com/track/3GMqqxQa1VMp3gOGcesm6j) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Vois](https://open.spotify.com/album/1hex3aXzhYCGgtWuJdQfl3) | 2:25 | 2023-09-22 | 2023-12-16 |
 | [Vois sur ton chemin](https://open.spotify.com/track/3EBW62oChNTesOLm7hnuEk) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Vois sur ton chemin](https://open.spotify.com/album/53FR5HN59YWVkNFlUqelaV) | 2:25 | 2023-09-22 | 2023-11-10 |
 | [VOLTAGE](https://open.spotify.com/track/57imsUFDfNUFWj7h6KvIA9) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [VOLTAGE](https://open.spotify.com/album/0zv5KKqqIta6DctPU07yRr) | 2:07 | 2023-04-14 | 2023-04-27 |
 | [VUK VUK](https://open.spotify.com/track/50a8i9ASSSsh8OLUsMu6uL) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy) | [VUK VUK](https://open.spotify.com/album/4oxCXdKXFj1fTSbqQ4sOaX) | 2:16 | 2023-04-14 | 2023-09-09 |

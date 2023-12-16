@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Smooth joints. Cover: FACESOUL",
+  "description": "Smooth joints. Cover: Arlo Parks",
   "name": "BUTTER",
   "tracks": [
     {
@@ -1564,6 +1564,24 @@
       "duration_ms": 251000,
       "name": "Baby - Edit",
       "url": "https://open.spotify.com/track/17OcTTNARgnJG30N2seDC9"
+    },
+    {
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4NZcudZGLMwhRMgdqGdRBm"
     },
     {
       "album": {
@@ -10222,7 +10240,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 207763,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/1CEVdjVIYLBShPyCIojtp5"
@@ -11012,7 +11030,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 229341,
       "name": "Like This",
       "url": "https://open.spotify.com/track/0GFTRiJNBQFJ8rjdsIBQYf"
@@ -20780,6 +20798,28 @@
       "duration_ms": 354533,
       "name": "Weird Fishes",
       "url": "https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8"
+    },
+    {
+      "album": {
+        "name": "Welcome to Nostalgia",
+        "url": "https://open.spotify.com/album/5FfiLItrCZyXr8n9i7AuUm"
+      },
+      "artists": [
+        {
+          "name": "Ruben Young",
+          "url": "https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF"
+        },
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221702,
+      "name": "Welcome to Nostalgia",
+      "url": "https://open.spotify.com/track/42ES1zVyBVYY0oLeLTJK5Q"
     },
     {
       "album": {

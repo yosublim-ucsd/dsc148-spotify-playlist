@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "as novas de pop rock br / Foto: Hotelo",
+  "description": "as novas de pop rock br / Foto: TINN",
   "name": "rockers",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 139156,
       "name": "144",
       "url": "https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 162760,
       "name": "Becky\u2019s So Hot",
       "url": "https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 141104,
       "name": "bom ator",
       "url": "https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 173995,
       "name": "cuida de mim",
       "url": "https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd"
@@ -1465,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "MENTIRA FAVORITA",
+        "url": "https://open.spotify.com/album/5S0rzOgakJueLdblfzAjwf"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173461,
+      "name": "MENTIRA FAVORITA",
+      "url": "https://open.spotify.com/track/2tnAEKbdnPds84REPr5S73"
+    },
+    {
+      "album": {
         "name": "Mete o P\u00e9",
         "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
       },
@@ -1578,6 +1596,24 @@
       "duration_ms": 149053,
       "name": "Not Another Rockstar",
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
+    },
+    {
+      "album": {
+        "name": "NUNCA VOU TE PERDOAR",
+        "url": "https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "NUNCA VOU TE PERDOAR",
+      "url": "https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t"
     },
     {
       "album": {
@@ -1896,7 +1932,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 170294,
       "name": "Renata",
       "url": "https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682"
@@ -2308,7 +2344,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 126514,
       "name": "Todo Mundo (Menos Eu)",
       "url": "https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT"
@@ -2542,7 +2578,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 161951,
       "name": "VSF (Telefone)",
       "url": "https://open.spotify.com/track/7JCv3LOgpS0qwh8V1mYU7A"

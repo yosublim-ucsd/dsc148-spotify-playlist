@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113240,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n"
+    },
+    {
+      "album": {
         "name": "Sinergy",
         "url": "https://open.spotify.com/album/2d9oblrwk9xME5lfuVeoyw"
       },
@@ -1255,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "atlantis part 2",
+        "url": "https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734"
+      },
+      "artists": [
+        {
+          "name": "No Love In The House Of Gold",
+          "url": "https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "rain and cassette tape hiss, just a few of my favourite things",
+      "url": "https://open.spotify.com/track/0K6SBiuDPvmSs1xiqL0ojI"
+    },
+    {
+      "album": {
         "name": "Closer than ever",
         "url": "https://open.spotify.com/album/0pbsNfhs6ha5ff0mUD03Mg"
       },
@@ -1738,6 +1774,24 @@
       "duration_ms": 337711,
       "name": "Untitled (On Seeing)",
       "url": "https://open.spotify.com/track/3CdfW8pdB1YR4JiSUnpUSQ"
+    },
+    {
+      "album": {
+        "name": "melanchole (remaster)",
+        "url": "https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "voice vi - remaster",
+      "url": "https://open.spotify.com/track/3cBf8wQi7K91W9vK8FrxtG"
     },
     {
       "album": {

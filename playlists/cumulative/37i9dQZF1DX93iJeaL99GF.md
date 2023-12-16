@@ -4,7 +4,7 @@
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-40 songs - 3 hr 27 min
+41 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Let's Work It Out](https://open.spotify.com/track/4BtEy5bRmoYWBgswJe5eeU) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jahaziel](https://open.spotify.com/artist/4mBjh7LoTi9rnCYG9swMjP) | [Storyteller](https://open.spotify.com/album/4H0jJJPERIedtxoC1mAvlB) | 4:05 | 2023-05-11 |  |
 | [Lokada Kalaji](https://open.spotify.com/track/2HHnW1zEozzxU9spZVGO5I) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Jag Changa](https://open.spotify.com/album/6zeb7EfUZzNJ6YJTmeIL0V) | 4:53 | 2023-05-11 |  |
 | [Maaeri](https://open.spotify.com/track/6Fvdk2eTzxEa9JsUUa1kP2) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 5:32 | 2023-05-11 |  |
-| [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 | 2023-05-11 |  |
+| [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/4z3inK6h6bTRQJW2gozjjj) | 5:49 | 2023-11-29 |  |
+| [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 | 2023-05-11 | 2023-12-16 |
 | [Meri Neend](https://open.spotify.com/track/56zSBd38fcPGjawa6TTTri) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 5:00 | 2023-05-11 |  |
 | [MoFunk](https://open.spotify.com/track/3UwvtlbJbexgUmBtxVLJCp) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [The Silent Sea](https://open.spotify.com/album/3EnuabTWwljjKXRfjyePy3) | 6:06 | 2023-05-11 |  |
 | [Mysore Se Ayi](https://open.spotify.com/track/3oXygAEuFopjsohfGjQfv7) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Antaragni \- The Fire Within](https://open.spotify.com/album/7b27ftF01DYfRpwu7mOUBV) | 4:41 | 2023-05-11 |  |

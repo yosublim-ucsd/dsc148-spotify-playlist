@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Efecto EMC",
+        "url": "https://open.spotify.com/album/2ePQmfIRBYKi31EPsYRIg0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210457,
+      "name": "Abre mis ojos",
+      "url": "https://open.spotify.com/track/1vffYobX9nOwphjEI7n1xB"
+    },
+    {
+      "album": {
         "name": "Abre Mis Ojos (En Vivo)",
         "url": "https://open.spotify.com/album/0DLMXUHFqFEP6joXlWZkvu"
       },
@@ -1846,6 +1864,24 @@
       "duration_ms": 237428,
       "name": "Antes Del Ocaso",
       "url": "https://open.spotify.com/track/499e51VdIpfgSz1AUK9d7I"
+    },
+    {
+      "album": {
+        "name": "Evangelio Hecho Canci\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/56oEwAY5H5kvFCJVxorkAl"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sanfilippo",
+          "url": "https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "An\u00edmate",
+      "url": "https://open.spotify.com/track/4dMYl4dShGEUzgPlAhfcjQ"
     },
     {
       "album": {
@@ -3444,7 +3480,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 281700,
       "name": "Cantamos Aleluya",
       "url": "https://open.spotify.com/track/2FRDBXw3r52nJT9a4kjS6E"
@@ -4986,7 +5022,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 315230,
       "name": "Creemos Que lo Har\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/76EyNAWIvfKT0098KnbSAI"
@@ -8602,6 +8638,24 @@
       "duration_ms": 232196,
       "name": "Es Con Tus Fuerzas",
       "url": "https://open.spotify.com/track/6DNl0jMpEvYsWAaKZZWkV2"
+    },
+    {
+      "album": {
+        "name": "Es Su Amor (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1rN2iAQwCtbZOgUkrcauWL"
+      },
+      "artists": [
+        {
+          "name": "Despinal",
+          "url": "https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "Es Su Amor - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5i4VS39aUJIB9Mn4B282GV"
     },
     {
       "album": {
@@ -16642,7 +16696,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 189075,
       "name": "M\u00e1s De Ti - En Vivo",
       "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
@@ -16660,7 +16714,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 270386,
       "name": "M\u00e1s De Ti, Menos De Mi",
       "url": "https://open.spotify.com/track/1OfCYOTl3KcIsXEePtpLh7"
@@ -23471,6 +23525,24 @@
     },
     {
       "album": {
+        "name": "Suena el Arpa (Version Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/19480yMLJzpnIxpPVLdpgC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407394,
+      "name": "Suena El Arpa - Version Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1Icheq4nGLkTPtnI2N7w9z"
+    },
+    {
+      "album": {
         "name": "Suerte Divina \u2618\ufe0f (En Vivo desde Bogot\u00e1, Colombia)",
         "url": "https://open.spotify.com/album/5E99xK6yYWB8ovl0hoHkYO"
       },
@@ -23858,7 +23930,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 275251,
       "name": "Tan Solo Cree",
       "url": "https://open.spotify.com/track/019riTfHIfZVlgLhYsLtnl"
@@ -24008,6 +24080,24 @@
       "duration_ms": 232000,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4AsMWEUctX6jWcADHOoxR8"
+    },
+    {
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4NU3vIinPJUWAlZPwhYpDA"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147033,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4bxSK7xVyjz9rT57PrpMwo"
     },
     {
       "album": {
@@ -25408,6 +25498,28 @@
       "duration_ms": 188475,
       "name": "Tu Me Sostienes",
       "url": "https://open.spotify.com/track/5JIWZ1lExOxYovlh40nY0x"
+    },
+    {
+      "album": {
+        "name": "Tu mesa sana",
+        "url": "https://open.spotify.com/album/4lK6trUXohGx7AFtGD2Z1A"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Benjam\u00edn Brunet",
+          "url": "https://open.spotify.com/artist/27QZtu4LXCAaMUkdBazjFB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348500,
+      "name": "Tu mesa sana",
+      "url": "https://open.spotify.com/track/7oqXbv1uziNGralSHq5jA6"
     },
     {
       "album": {

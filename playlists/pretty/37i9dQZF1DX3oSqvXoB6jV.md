@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Good Bad Mother\. \(JTBC 드라마 나쁜엄마의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,438 likes - 31 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,458 likes - 31 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 | 7 | [Tell Me](https://open.spotify.com/track/61BP0xUAwiYULnLWKeziso) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/63gnEuPiYkgzX3l36tRw1e) | 3:46 |
 | 8 | [Home And Dry](https://open.spotify.com/track/43DT5iknCE6QOoY048ylui) | [Andy Love](https://open.spotify.com/artist/1or82agbJU2mMGz3QAFUXL) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/5o499KkVYTXYJPJfIwW0Ae) | 3:43 |
 | 9 | [Break into My Heart \(From "The Good Bad Mother" Original Television Soundtrack, Bonus Track\)](https://open.spotify.com/track/5uvJnz956f6R4X9zTaa9Uw) | [박태원](https://open.spotify.com/artist/6sHWnCG3W5vUyBbEuUerkk) | [Break into My Heart \(From "The Good Bad Mother" Original Television Soundtrack, Bonus Track\)](https://open.spotify.com/album/3iAXz9cfOTTNGfHpQ5vOBP) | 2:58 |
-| 10 | [엄마로 산다는 것은](https://open.spotify.com/track/64nEK5eNrJgLIXsjcH8k9V) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [K팝 스타 시즌4 \`엄마로 산다는 것은\`](https://open.spotify.com/album/2PWqUtdLKYUEHSo1qBcEqb) | 2:54 |
+| 10 | [엄마로 산다는 것은](https://open.spotify.com/track/3w0hU4ljjvZN7sb1Ch1Gzk) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [K팝 스타 시즌4 엄마로 산다는 것은](https://open.spotify.com/album/4mHoxWJ57E6WinNmIAhE47) | 2:54 |
 | 11 | [황혼의 문턱](https://open.spotify.com/track/7p09HfcAITKOpoF0PjPJJ8) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax 4](https://open.spotify.com/album/36AQk4c5ynxBY8XDikd01n) | 4:25 |
 | 12 | [Mother to daughter](https://open.spotify.com/track/3MJ4sGCdgggo4PYBd9aad5) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Yang Jieun](https://open.spotify.com/artist/6GNi8HpRpHUCEtRNd0XDT0) | [Love call center PART46](https://open.spotify.com/album/4YbqjZeYVa6XfaqvPxNu1X) | 4:59 |
 | 13 | [A song to my daughter \(Vocal Sung Si Kyung\)](https://open.spotify.com/track/0l2h78X4npYJFrIAgqKw0w) | [Toy](https://open.spotify.com/artist/2HyoXCqcYBSzVibRweDeX8), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Thank You](https://open.spotify.com/album/77PGmdoeRH2FhCB9VJtkHN) | 5:29 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 | 30 | [Talk About Love \- Instrumental](https://open.spotify.com/track/4v8z7ug9egio7OMFhbxAog) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30) | 3:38 |
 | 31 | [Tell Me \- Instrumental](https://open.spotify.com/track/2IhjQ4UqQOvrX3nfBYT0ni) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/63gnEuPiYkgzX3l36tRw1e) | 3:46 |
 
-Snapshot ID: `MCw3MDNiN2JiYzU2OGM0MDkzMTAxODMzMTAwM2EzNmIwNzI0NzM0ZDhh`
+Snapshot ID: `MCw2MTgxYTE5Njc1ZTg4MWUxYjkyNzYwN2M4ODc3MzJjNmUxNWZkMzMy`

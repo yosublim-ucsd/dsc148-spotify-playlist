@@ -238,10 +238,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 165320,
       "name": "6ix Pack",
       "url": "https://open.spotify.com/track/2nb8HRnCAyGZOYa5hrYGHU"
+    },
+    {
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/4ShmCLaYtD0iusN23PnN7g"
+      },
+      "artists": [
+        {
+          "name": "CreativeDrugStore",
+          "url": "https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166013,
+      "name": "6ix Pack",
+      "url": "https://open.spotify.com/track/6RmSzjCKSevNrwIb7WXcKX"
     },
     {
       "album": {

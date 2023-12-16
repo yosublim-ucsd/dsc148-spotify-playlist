@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-233 songs - 13 hr 7 min
+234 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 | 2023-12-08 |  |
 | [Bananza \(Belly Dancer\) \- Slowed](https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Bananza \(Belly Dancer\) \[Remixes\]](https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj) | 2:33 | 2022-01-28 | 2023-12-09 |
 | [beauty bomb \(slowed + reverbed\)](https://open.spotify.com/track/53NzMfJ0LsqG4myQp28ETk) | [blyden](https://open.spotify.com/artist/12WLoG3DW0U7FXw62FZeZ9) | [beauty bomb \(slowed + reverbed\)](https://open.spotify.com/album/2x3qHX6OXT0HC7WFX6MjpA) | 1:00 | 2022-01-05 | 2022-02-22 |
+| [Bent \- slowed + reverb](https://open.spotify.com/track/6ZqFoM0KMHDGiXwojXDqot) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Bent \(Pack\)](https://open.spotify.com/album/5RTw6vQXTIXkB9fP6Aheu7) | 3:03 | 2023-12-14 |  |
 | [Best Day of My Life \- Slowed + Reverb](https://open.spotify.com/track/5XTEmMEGgjtm48sNftvPuM) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Beautiful Disaster \(Slowed + Reverb\)](https://open.spotify.com/album/4JphWMpLDBZwmUmjjpRT2s) | 3:54 | 2023-09-21 | 2023-12-09 |
 | [Bet On Me \- slowed + reverb](https://open.spotify.com/track/3Yyv4aOUIDSXyyZClHVKW2) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Bet On Me \(feat\. D Smoke\) \[slowed + reverb\]](https://open.spotify.com/album/6uFW64BysBz39sY8JVQqqh) | 3:23 | 2022-05-06 | 2023-09-26 |
 | [Big Gangsta \- Slowed and Reverb TikTok Version](https://open.spotify.com/track/3LlB7M5aI065KDSY5XdNtk) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Big Gangsta \(Slowed and Reverb TikTok Version\)](https://open.spotify.com/album/7JFHdLPDsbNDP0eEH10erh) | 4:30 | 2021-10-01 | 2022-04-19 |
@@ -240,6 +241,6 @@
 | [Your voice\. \(Slowed and reverbed.\)](https://open.spotify.com/track/7l2QKC0ViJNxAJyeTpTurs) | [Bad Kisser](https://open.spotify.com/artist/3BCYz72nTa8Y2WY9yuDA2M) | [Everything started to change\. \(Slowed and reverbed.\)](https://open.spotify.com/album/5lcgIwA9pXkXKfjNDYUJNj) | 2:11 | 2022-01-05 | 2022-06-14 |
 | [Yucky Blucky Fruitcake \- Slowed and Chopped](https://open.spotify.com/track/2dX6YJyyIYdGmyDdY06DUA) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Jst Ray](https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR) | [Yucky Blucky Fruitcake \(Slowed and Chopped\)](https://open.spotify.com/album/2oHpme9OyMN1pDbabA7Vmk) | 3:58 | 2023-09-21 | 2023-12-09 |
 | [YUM YUM \- Slowed](https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:34 | 2023-12-08 |  |
-| [Отключаю телефон \(Slowed\)](https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Отключаю телефон \(Slowed\)](https://open.spotify.com/album/6TKmUmRJInYDQbbGQ2Rf2H) | 3:07 | 2023-07-13 |  |
+| [Отключаю телефон \(Slowed\)](https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Отключаю телефон \(Slowed\)](https://open.spotify.com/album/6TKmUmRJInYDQbbGQ2Rf2H) | 3:07 | 2023-07-13 | 2023-12-16 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

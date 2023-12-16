@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:3iT6d90Vy630068736OgW8\">Foxall</a>'s favorite tracks. Updated regularly. Curated by Foxall. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 8266,
+  "num_followers": 8279,
   "original_name": "Foxall's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmNjYTBiMzVjMTg3OGZiNmMwNGE2MDg5YjE2ZDkxNDFmZWYxNDlh",
+  "snapshot_id": "MCw4MzY4YTQ4OWJjMTA2Y2FmOWVlZGU1YzNhNTExMzI3MTBiNWRhMjY5",
   "tracks": [
     {
       "added_at": "2022-10-14 13:37:03",
@@ -663,25 +663,17 @@
     {
       "added_at": "2022-10-14 13:37:03",
       "album": {
-        "name": "Punto Cero",
+        "name": "",
         "url": "https://open.spotify.com/album/3myUaKhlvdBmSQlKxYugTQ"
       },
       "artists": [
         {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        },
-        {
-          "name": "Tu\u011f\u00e7e Kurti\u015f",
-          "url": "https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf"
-        },
-        {
-          "name": "Santi",
-          "url": "https://open.spotify.com/artist/3y89DR1J1RB96pJUByabwi"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 522666,
-      "name": "Punto Cero",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/7i650ozZjXNUNT1AFqxAI4"
     },
     {

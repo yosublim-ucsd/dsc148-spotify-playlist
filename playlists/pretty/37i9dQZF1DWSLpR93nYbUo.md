@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,924 likes - 81 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,934 likes - 81 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 29 | [Tugudu](https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Tugudu](https://open.spotify.com/album/4X8ykiffFeI1RPpC0gVAxr) | 3:31 |
 | 30 | [Like That](https://open.spotify.com/track/25R67sd3GYqD6iGrbFOkmY) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Like That](https://open.spotify.com/album/5nBA9CbygJco08TqreFh4d) | 3:48 |
 | 31 | [Lay Down](https://open.spotify.com/track/2xjPXHyvzpg1cFzBPpjd2J) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Lay Down](https://open.spotify.com/album/4wfYn8TbTw3ROMnXWJEseB) | 2:59 |
-| 32 | [Haunting Me](https://open.spotify.com/track/7iXNeFZwe4CwUaiHT9qK99) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/2FAmKfV5eesqqXSH3pXH2i) | 4:51 |
+| 32 | [Haunting Me](https://open.spotify.com/track/3OGDGKB1NlZiiU6oJU4l0S) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/6CSYEhL34pO5NLPLRRl8pw) | 4:51 |
 | 33 | [Algo\-Rhythm](https://open.spotify.com/track/0d0sOLCfbxF9dLy5gihuir) | [From House To Disco](https://open.spotify.com/artist/4Om5TKdmuYUR1Slg1jKBnc) | [Algo\-Rhythm](https://open.spotify.com/album/0WtnaH4yQfcENErwoa3zcu) | 6:22 |
 | 34 | [I Need You](https://open.spotify.com/track/37Bz57c2aHf0G1SZSNlyYt) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Adrian Mønteiro](https://open.spotify.com/artist/6ziI5fDvwg8r0QPT0nAT7r) | [I Need You](https://open.spotify.com/album/3WYVqWa7S671phWjQXi3hT) | 3:26 |
 | 35 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 80 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 |
 | 81 | [Walls](https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Walls](https://open.spotify.com/album/2yMOT0xmZBEoh9PSL8wqP3) | 2:31 |
 
-Snapshot ID: `MCwxMWViOWUyN2NjOTIyNmRkNTVlMDhiMDQ0ZTYzODIzZTQwYzlkYTU2`
+Snapshot ID: `MCxiMGM2ZWYyNjgxNmIwMWRkNWNmMzgxMjdkZTg1M2Y2NWRkNDBlZmRh`

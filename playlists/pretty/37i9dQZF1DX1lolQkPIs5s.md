@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,365 likes - 158 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,533 likes - 158 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [映画『ウィッシュ』 アーシャ役（日本版声優）生田絵梨花 コメント](https://open.spotify.com/track/2yp1HUTF9fcv3ReIWr2KmP) | [映画『ウィッシュ』](https://open.spotify.com/artist/3k7F0Acqg8IeqpZvlQlrHX) | [映画『ウィッシュ』 アーシャ役（日本版声優）生田絵梨花 コメント](https://open.spotify.com/album/5xNHDQYEiG51CQ23P0nXr7) | 0:49 |
-| 2 | [Welcome To Rosas \- From "Wish"/Soundtrack Version](https://open.spotify.com/track/5ySSse1zgkV8c2aVa8gy36) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR), [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM) | [Welcome To Rosas \(From "Wish"/Soundtrack Version\)](https://open.spotify.com/album/2OwYly4n2Y4saLkIWCbycG) | 2:27 |
+| 2 | [Welcome To Rosas](https://open.spotify.com/track/5c3bvB7zb0Oasv0djPgkWm) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR), [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM) | [Wish \(Japanese Original Soundtrack\)](https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR) | 2:27 |
 | 3 | [At All Costs](https://open.spotify.com/track/3yt7qLa3QDQouNYVJ0qwaz) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0), [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [Wish \(Japanese Original Soundtrack\)](https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR) | 3:18 |
 | 4 | [This Wish \- From "Wish"](https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv) | 3:25 |
 | 5 | [I'm A Star \- From "Wish"](https://open.spotify.com/track/7HphtEcMxf0ViBb8wtU8Re) | [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [I'm A Star \(From "Wish"\)](https://open.spotify.com/album/5d9Zsbx6BAiZcVgy2TWVG8) | 2:54 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 157 | [The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch](https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Edwynn](https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5), [James Macdonald](https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g), [Jerry Colonna](https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 4:31 |
 | 158 | [Whistle While You Work](https://open.spotify.com/track/1ai54RVIzu7IKebNbPEwMv) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 3:23 |
 
-Snapshot ID: `MCwzY2NjZTNjMDMxOTMzMjkxNDBjYzczN2JjZTA0OGI2NGNjNDQ3NTI1`
+Snapshot ID: `MCwxOGQ0NzdmNWI4NTgwNzgzM2ZkZThiY2M4MTRmZGRmNjZlNGM3ZGYy`

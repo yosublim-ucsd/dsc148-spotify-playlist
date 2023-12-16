@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-329 songs - 18 hr 55 min
+331 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [I Don't Wanna Sleep](https://open.spotify.com/track/40BzIhFZ1IY4RdjqAtjnGI) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ) | [I Don't Wanna Sleep](https://open.spotify.com/album/5ZMXexnnnNTS7AiTUI54FP) | 3:28 | 2023-06-23 |  |
 | [I Wanna Be Evil](https://open.spotify.com/track/1RI9qORG9QtCSgsMFpGNPE) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Trick Or Treat](https://open.spotify.com/album/7yzrXpa29EJsD8PV9uIMCg) | 3:33 | 2022-10-12 | 2023-11-07 |
 | [In the Mood](https://open.spotify.com/track/6NBwYT8zIO8MP1n82BKkij) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [In the Mood](https://open.spotify.com/album/2ptZi2qJDNiJS8oalULVdT) | 2:31 | 2023-03-24 |  |
+| [In the Pub](https://open.spotify.com/track/4b4z3GQPXfoeL2Yj0TVngR) | [MVTRIIIX](https://open.spotify.com/artist/6GLNZ4AhvB6M0JkT9Zjw16) | [Yearning](https://open.spotify.com/album/0el4P0rtIJ46J1Vfceel3r) | 2:16 | 2023-12-15 |  |
 | [Invisible Man \- Wolfgang Lohr Remix](https://open.spotify.com/track/4XMhYWy4WojL9YUMfnZBOm) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Remixed Vol.2](https://open.spotify.com/album/546Yu1nefHSycXD93meodm) | 5:15 | 2022-10-12 | 2023-11-07 |
 | [It Ain't Right](https://open.spotify.com/track/18xxpzXiD3wKmJUibqqPxl) | [Jenova Collective](https://open.spotify.com/artist/7jfErUM4CHGxIaqCEgkxJm) | [Champagne Machine](https://open.spotify.com/album/3l7H3wnszuiIq2ZyXBUTvM) | 4:02 | 2020-10-30 | 2022-06-17 |
 | [It Ain't Right](https://open.spotify.com/track/0Et6FzUqC5JJbxwmACdTlt) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Stuff Smith](https://open.spotify.com/artist/0BGNyKGO4LaL69kurXlaSI) | [It Ain't Right](https://open.spotify.com/album/5sfwKqlG3O3YYLccq5NoPB) | 3:38 | 2020-10-30 | 2022-07-28 |
@@ -131,6 +132,7 @@
 | [J'veux du soleil \(feat\. Au P'tit Bonheur\) \[Gramophonedzie Remix\]](https://open.spotify.com/track/75HOjGeq8N5q7lFoB4oUoE) | [Bart & Baker](https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN), [Au P'Tit Bonheur](https://open.spotify.com/artist/6aA4f67AL9W1VxtO78M06b), [Julie Gayet](https://open.spotify.com/artist/2XrdbEWWwN5PiI1VCHwFql), [Gramophonedzie](https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc) | [Greatest Hits Remixed](https://open.spotify.com/album/4eGWe7746nlrNFJioqvnYL) | 6:08 | 2020-10-30 | 2022-07-14 |
 | [Jive Me Crazy](https://open.spotify.com/track/7EvfxMXGMlElnEG4ABnLis) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Jive Me Crazy](https://open.spotify.com/album/26wd5PEZZujm55Un2irkR3) | 2:41 | 2021-08-20 | 2022-07-28 |
 | [Joe's Break](https://open.spotify.com/track/2peYxS4wKuwbOxcw8frdHb) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [Fin De Siecle](https://open.spotify.com/album/03I3VyuR6iUv6slsu8USlF) | 4:08 | 2020-10-30 | 2022-07-28 |
+| [Jukebox \- Klischée Remix](https://open.spotify.com/track/04YDvAAexHrUDKXYGXdOWA) | [Tarmac Rodéo](https://open.spotify.com/artist/3PIvA0wLyZcwc780QVTeud), [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Jukebox \(Klischée Remix\)](https://open.spotify.com/album/4rCi9v4xoOHCbtgwovWtS5) | 3:19 | 2023-12-15 |  |
 | [Keep Cool and Carry On \- Glenn Gatsby Remix](https://open.spotify.com/track/1rtZIsfbOp7nxrd2ifFYyO) | [The Stargazers](https://open.spotify.com/artist/0X8gimy9OVbGOQBZxazD4z), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Keep Cool and Carry On \(Glenn Gatsby Remix\)](https://open.spotify.com/album/5hErFOZFuxAzVoS7dkUxVJ) | 2:36 | 2022-07-29 | 2023-03-25 |
 | [Keep On Smilin \- MNTRA Remix](https://open.spotify.com/track/3F6kQwIiqzYphC1Kv77Ie8) | [MNTRA](https://open.spotify.com/artist/5F3sVzbqKv9DqQjt6gAXlM), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Keep On Smilin \(MNTRA Remix\)](https://open.spotify.com/album/5s9JzjKa3r30HRYvhQCwFF) | 4:26 | 2022-06-24 |  |
 | [King of the Conga \- Glenn Gatsby Remix](https://open.spotify.com/track/10eFj73vJ4gZRrUSdjqOkJ) | [Swing'it](https://open.spotify.com/artist/2acptETX6n0IHKXyybYgWS), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [King of the Conga \(Glenn Gatsby Remix\)](https://open.spotify.com/album/1zTU5qrGjt7pxDhZk7FCy8) | 2:27 | 2022-05-06 |  |

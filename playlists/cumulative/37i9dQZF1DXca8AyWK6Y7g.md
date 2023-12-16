@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> this holiday season lest us not forget the carpenters
+> baby look at the sky \*\*\*<br/>cover: Juliet Ivy
 
-1,883 songs - 3 day 23 hr 17 min
+1,885 songs - 3 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [AFU](https://open.spotify.com/track/47vYzNOJlCGynCNvfsOG7R) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/5JfMAZvLNeAx7DY2t5yvtS) | 3:07 | 2019-12-20 | 2020-03-19 |
 | [Again & Again](https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Again & Again](https://open.spotify.com/album/5ctwJQS6cTwdb7y5QPWoQU) | 2:49 | 2021-10-29 | 2022-03-26 |
 | [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-20 | 2023-01-28 |
+| [airbag](https://open.spotify.com/track/12DjZ06QeaiKJ0s9NP0QBi) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [airbag](https://open.spotify.com/album/1IgUbwewzkGvHRXttH8Acg) | 2:21 | 2023-12-15 |  |
 | [Airplanes \(feat\. Letdown.\)](https://open.spotify.com/track/2SkyMtc6If7sC7dd5HEjOy) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Airplanes \(feat\. Letdown.\)](https://open.spotify.com/album/0JVzrxVtxte65oUlGtCtst) | 3:14 | 2022-02-25 | 2022-03-26 |
 | [Airport](https://open.spotify.com/track/3tHScpIYBH11aMCbizU2E4) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Airport](https://open.spotify.com/album/10TsupQlJqTcOSAh4xdNIw) | 2:35 | 2020-05-04 | 2021-11-10 |
 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 | 2021-10-14 | 2021-10-16 |
@@ -381,7 +382,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-24 | 2023-09-26 |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-02-17 | 2023-04-23 |
 | [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 | 2022-09-02 | 2023-12-14 |
-| [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-14 |  |
+| [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-14 | 2023-12-16 |
 | [d e a d](https://open.spotify.com/track/4syKTHaJJTF1fxvsNJXHHV) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [d e a d](https://open.spotify.com/album/6BoTX3xIgr81kb80R3nkPL) | 2:37 | 2022-10-28 | 2023-01-28 |
 | [Dadada](https://open.spotify.com/track/4SRkixF643LgySLh8owTkJ) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Dadada](https://open.spotify.com/album/0UUBtEMsxJwMQkoYKiFdjK) | 2:11 | 2021-11-05 | 2022-03-12 |
 | [Daddy \(feat\. Quinn XCII\)](https://open.spotify.com/track/4pJzUvwU5ufYr8rLdQ6aYK) | [Tiny Meat Gang](https://open.spotify.com/artist/072QZuLtCqlAesYnOGY7lN), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Daddy \(feat\. Quinn XCII\)](https://open.spotify.com/album/4fRHBAVYfRzVkd9fBqoJLk) | 2:45 | 2021-05-03 | 2022-03-26 |
@@ -1346,6 +1347,7 @@
 | [Real Life](https://open.spotify.com/track/2suU0QYyxcMoy08rSsTX46) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Real Life](https://open.spotify.com/album/79ZPm7Z09OsRu4ENHyHM4d) | 2:43 | 2021-10-29 | 2022-01-08 |
 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 | 2021-07-16 | 2022-05-20 |
 | [Reality Television](https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [001](https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt) | 2:45 | 2022-12-09 | 2022-12-24 |
+| [Really good cry](https://open.spotify.com/track/3wTgyWjqIU4tg25T7qqm9l) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Really good cry](https://open.spotify.com/album/0RrCpHGFKTEyQdi7sdJuzj) | 1:54 | 2023-12-15 |  |
 | [Rebel Child](https://open.spotify.com/track/3dMS7W7wZiQ8VgPkMYNFOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Rebel Child](https://open.spotify.com/album/5o0BY4jhvdJgOFnqvJKZ0l) | 3:22 | 2023-09-22 |  |
 | [Recovering People Pleaser](https://open.spotify.com/track/0id6M2eREx4sxecXvAf9VP) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Recovering People Pleaser](https://open.spotify.com/album/4i5pTzsjVzLTtAU00WrgrL) | 3:22 | 2023-01-20 | 2023-02-21 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-13 |  |
@@ -1414,7 +1416,7 @@
 | [Say Hi](https://open.spotify.com/track/1K0wPlFWsUM5ZwxLSJuYMq) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Say Hi](https://open.spotify.com/album/588iXfN1llXfRC0ztPrVOY) | 3:27 | 2019-05-26\* | 2019-06-15 |
 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 | 2023-01-13 | 2023-02-04 |
 | [Scatterbrain](https://open.spotify.com/track/6iP5RyT5UYri2lBXF5HXPv) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Scatterbrain](https://open.spotify.com/album/64c2dTgv8xt5r7gESPYyql) | 3:48 | 2021-08-13 | 2022-01-29 |
-| [scenic route](https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE) | 3:00 | 2023-12-01 |  |
+| [scenic route](https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE) | 3:00 | 2023-12-01 | 2023-12-16 |
 | [Scooter](https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Scooter](https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV) | 2:08 | 2021-11-05 | 2022-06-03 |
 | [scorton's creek \- re\-imagined by filous](https://open.spotify.com/track/5uSwYU4V1hFDZYEHF87RmK) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [scorton's creek \(re\-imagined by filous\)](https://open.spotify.com/album/72Hk7UBB0gMymYlRre61aC) | 2:59 | 2020-06-13 | 2021-11-10 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2021-02-22 | 2021-08-20 |

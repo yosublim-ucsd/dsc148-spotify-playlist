@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: نادر الشراري
 
-205 songs - 13 hr 26 min
+207 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [غزتني الدنيا](https://open.spotify.com/track/5S4qWVH9bVdNth573W2D9S) | [فالح الطوق](https://open.spotify.com/artist/5Qt6zyL5RYskgj1bH9fK6g) | [غزتني الدنيا](https://open.spotify.com/album/4mNk70H2KZWhM1vfp5sPj1) | 3:43 | 2023-11-30 |  |
 | [غصب علينا](https://open.spotify.com/track/0QOBcIXo19VdwyRLe8GJho) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [غصب علينا](https://open.spotify.com/album/3tI1yOLivNzRao0NMbOFfv) | 3:47 | 2022-03-30 | 2022-11-02 |
 | [غصب علينا](https://open.spotify.com/track/6yNbgI21IGouhgPQ5UkrA3) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [غصب علينا](https://open.spotify.com/album/6yw58FnheKdVDaPYsvyTJd) | 3:47 | 2022-08-31 | 2023-05-04 |
+| [فاقد احساسي](https://open.spotify.com/track/6BUAhBYpsMaoqe8O0lV2HQ) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [فاقد احساسي](https://open.spotify.com/album/0VYqS7d65Mp5DRXY1N1o1a) | 3:42 | 2023-12-15 |  |
 | [فاقدك](https://open.spotify.com/track/0xA6b2OppmTqMjojgf6Ipb) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فاقدك](https://open.spotify.com/album/6MIsUhrJIZpJ0JqEIJEMtz) | 4:47 | 2023-02-22 | 2023-04-21 |
 | [فتنة عيونك](https://open.spotify.com/track/35sb7Ir5pEN7F97lxQiwIy) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فتنة عيونك](https://open.spotify.com/album/240qQA5TlhhGus2MUMTgWW) | 4:09 | 2023-05-04 | 2023-09-19 |
 | [فرحتنا خيالية](https://open.spotify.com/track/4oPm1gYvMhP7fQNLlY2tEu) | [ابو امير](https://open.spotify.com/artist/2pVOkIFcX2OfYIfOqxXjdg) | [فرحتنا خيالية](https://open.spotify.com/album/1fYhJHOd2rQK3GbSeIaMOc) | 7:47 | 2023-02-22 | 2023-02-25 |
@@ -160,6 +161,7 @@
 | [لاتسولف](https://open.spotify.com/track/2uV7vMIRLxYleQpkHLBxIf) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [لاتسولف](https://open.spotify.com/album/1Y2q50EkNiy8ptFVujS2pd) | 3:44 | 2023-02-22 | 2023-05-23 |
 | [لاتعذر بالظروف](https://open.spotify.com/track/2bUNPMLHaWamFhyVis7pLv) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [لاتعذر بالظروف](https://open.spotify.com/album/2rQqCTHcEvna562Frhio6y) | 4:55 | 2022-03-30 | 2022-11-02 |
 | [لاتعذر بالظروف](https://open.spotify.com/track/6Zl2iYbn19E3fUBTOINUWO) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [لاتعذر بالظروف](https://open.spotify.com/album/4hUyuPy4VPjYpVcrwjjmri) | 4:55 | 2022-08-31 | 2023-03-15 |
+| [لاح براق السحب](https://open.spotify.com/track/1YY0QvZo8dRIofx3eI6dqn) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [لاح براق السحب](https://open.spotify.com/album/7nUYUXWGQDNzktns7YN36q) | 3:01 | 2023-12-15 |  |
 | [لاضاع عقدك](https://open.spotify.com/track/4jLpbwmQdEPXGaACsEa6Cj) | [منير البقمي](https://open.spotify.com/artist/3KUhlBbuudKCjPEctBUw3p) | [لاضاع عقدك](https://open.spotify.com/album/0jzM3ASbp7mlQGv0FMUeKw) | 5:00 | 2023-09-01 |  |
 | [لحظة عناق](https://open.spotify.com/track/6ws5ZVdYjkKBpuXMaNTyde) | [هاشم الحسني](https://open.spotify.com/artist/0ax7E4oQKhhydv3mFBEVNY) | [لحظة عناق](https://open.spotify.com/album/2uzoMvywSLajtqXee1gEMA) | 3:34 | 2023-09-01 |  |
 | [لو ناوي تهجرني](https://open.spotify.com/track/3HvMVyE8AZ8EuPwS1GWikp) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [لو ناوي تهجرني](https://open.spotify.com/album/2j1oWFqzP1F8AQw5IGTVPH) | 3:07 | 2022-03-30 | 2022-11-03 |

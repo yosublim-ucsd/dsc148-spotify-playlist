@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 55953,
+  "num_followers": 55970,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2RiMDgyMzc0MGYxNjU3ZmM5NzIzNThiN2IxYjA4ZGY1NTA0MmQ2",
+  "snapshot_id": "MCxjYTA1YzQ0ZWRhNDc3NTIxYWEwMTBkNjYwMDA2MzZlZjA3NTIyMjIy",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Bad One",
-        "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        }
-      ],
-      "duration_ms": 134142,
-      "name": "Bad One",
-      "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Bella latina",
         "url": "https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 181900,
       "name": "Bella latina",
       "url": "https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        }
+      ],
+      "duration_ms": 134142,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
     },
     {
       "added_at": "2022-10-23 18:38:51",

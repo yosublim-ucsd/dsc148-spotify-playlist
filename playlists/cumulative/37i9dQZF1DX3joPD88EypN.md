@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-144 songs - 13 hr 2 min
+145 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,11 +28,12 @@
 | [Begging](https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Begging](https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p) | 4:54 | 2022-06-01 |  |
 | [Beginning](https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N) | [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Piano](https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k) | 4:38 | 2022-06-01 |  |
 | [Bibelbeltet](https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J) | [Moskus](https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa) | [Salmesykkel](https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4) | 2:49 | 2022-06-01 |  |
-| [Blodspredikan](https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP) | [Håvard Stubø Quartet](https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd) | [Kautokeino Undercover](https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB) | 6:28 | 2022-06-01 |  |
+| [Blodspredikan](https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP) | [Håvard Stubø Quartet](https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd) | [Kautokeino Undercover](https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB) | 6:28 | 2022-06-01 | 2023-12-16 |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
 | [C Moll Maj](https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb) | [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh) | [Parish](https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA) | 5:52 | 2022-06-01 | 2023-10-12 |
 | [Caring](https://open.spotify.com/track/3NCrt4D9TmN9QhVAJvEO9u) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Caring](https://open.spotify.com/album/1ZchiiOZho0JAngKiT60Cd) | 6:09 | 2022-06-01 | 2023-09-16 |
 | [Children's Day \- Small Group Version](https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44) | [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi) | [Children's Day](https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot) | 6:55 | 2022-06-01 |  |
+| [Cinematic](https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Cinematic](https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2) | 8:07 | 2023-12-07 |  |
 | [Como](https://open.spotify.com/track/28UMbNE9pbq0kJpsd9mIZM) | [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Ayumi Tanaka](https://open.spotify.com/artist/7Lkj4GebsCvqOlSFQKfGRZ), [Marthe Lea](https://open.spotify.com/artist/24OahpiaTPyjN3zwfUH7Pt) | [Bayou](https://open.spotify.com/album/2tsGHiONyukWb8rYSG6TGb) | 3:03 | 2022-06-01 |  |
 | [Curious Child](https://open.spotify.com/track/3K3XDLibupBe9YYlr5ozQq) | [Eple Trio](https://open.spotify.com/artist/2eRUvxSydFAatz9ImiDaBn), [Andreas Ulvo](https://open.spotify.com/artist/16RiMHKbHZAG0gI9CSEMb1), [Sigurd Hole](https://open.spotify.com/artist/0w2vJTk6aTIKKojrq0MVNg), [Jonas Sjøvaag](https://open.spotify.com/artist/544mcLr8VsXi1swrijY3fT) | [5](https://open.spotify.com/album/0wIgTIeosOROYyGdbcB9SN) | 7:13 | 2022-06-01 | 2022-07-29 |
 | [Curious Child](https://open.spotify.com/track/4TNet8FvsrWRnn0D52Jj3w) | [Eple Trio](https://open.spotify.com/artist/2eRUvxSydFAatz9ImiDaBn), [Jonas Sjøvaag](https://open.spotify.com/artist/544mcLr8VsXi1swrijY3fT), [Andreas Ulvo](https://open.spotify.com/artist/16RiMHKbHZAG0gI9CSEMb1), [Sigurd Hole](https://open.spotify.com/artist/0w2vJTk6aTIKKojrq0MVNg) | [5](https://open.spotify.com/album/1vujP09V7OxxzspJ0ofMiE) | 7:13 | 2022-08-12 | 2023-09-01 |

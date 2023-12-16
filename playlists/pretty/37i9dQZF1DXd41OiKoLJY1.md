@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The Top 100 Tracks from Fresh Finds Philippines this 2023! Cover: The 12/21 Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,509 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,550 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Gabi](https://open.spotify.com/track/07uOcwr6m7IsYhqpW7pt8J) | [Patrick Lacambacal](https://open.spotify.com/artist/3wPfc9LxqTDNmgSgEo8lE2) | [Gabi](https://open.spotify.com/album/3vgaURkRJSo3aSt2PZoEmi) | 3:46 |
 | 100 | [PAALAM](https://open.spotify.com/track/1EAyjNIZQrTPMRwA3BqXWv) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [PAALAM](https://open.spotify.com/album/6RCw6WQusUr5nqcBvrdxK0) | 4:28 |
 
-Snapshot ID: `MCwxY2M5ZDcyOTZkOWYzMGM5ZmM3ZGIzMWRlZTAwZjBjNDJiMDQ3NWQ2`
+Snapshot ID: `MCxjYTFiOTcxNmVmZjQwODgzMDNlNWRhZWNlY2IxM2RjZjUzZjk1YmZh`

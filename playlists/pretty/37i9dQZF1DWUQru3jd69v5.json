@@ -1,12 +1,12 @@
 {
   "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Digital Astro, Niky Savage",
-  "num_followers": 225592,
+  "num_followers": 225597,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWE1Y2QwNTY4ZGFkYTkyYzgwOTMyMTZlNWUzNTFlNDQxYjBhN2Iy",
+  "snapshot_id": "MCw2OWRjNTdlMzZiZTFiNTVjODgwNWRlNjBjMGZlMzI3YTE3MmEwOGI4",
   "tracks": [
     {
       "added_at": "2023-12-14 23:01:00",
@@ -415,7 +415,7 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "MAR7ABA (feat. Nabi)",
+        "name": "MAR7ABA (feat. Nabi, LaMagieDuTiel)",
         "url": "https://open.spotify.com/album/0EzPLBiSfAiOYD1q68c6ch"
       },
       "artists": [
@@ -426,10 +426,14 @@
         {
           "name": "Nabi",
           "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        },
+        {
+          "name": "LaMagieDuTiel",
+          "url": "https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3"
         }
       ],
       "duration_ms": 180046,
-      "name": "MAR7ABA (feat. Nabi)",
+      "name": "MAR7ABA (feat. Nabi, LaMagieDuTiel)",
       "url": "https://open.spotify.com/track/3WFlIMxM6GteBtgtt5nNFg"
     },
     {

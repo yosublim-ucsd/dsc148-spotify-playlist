@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Kcab Gnihsur",
+        "url": "https://open.spotify.com/album/4vRbGdmuLUTzOEnGPFWTre"
+      },
+      "artists": [
+        {
+          "name": "gade \u8282\u594f",
+          "url": "https://open.spotify.com/artist/6BWcu2p4Zn7BgJyx1lexW3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Kcab Gnihsur",
+      "url": "https://open.spotify.com/track/7GP2geX3A16B2IUFejZtSS"
+    },
+    {
+      "album": {
         "name": "Atlanta Millionaires Club",
         "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 251034,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB"

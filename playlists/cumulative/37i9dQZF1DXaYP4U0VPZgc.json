@@ -2135,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "The Works for Soundtrack \u2161",
+        "url": "https://open.spotify.com/album/5w4tE6Vd1NobfLWec75f8I"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "\u98a8\u3088\u3001\u5439\u3051",
+      "url": "https://open.spotify.com/track/4nIENmxdHhT04pDAsx8lq3"
+    },
+    {
+      "album": {
         "name": "edge / \u9ec4\u660f\u306e\u6d77",
         "url": "https://open.spotify.com/album/77A91KVRDJFD6bBpGuomS6"
       },

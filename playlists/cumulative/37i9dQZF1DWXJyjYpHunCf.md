@@ -2,7 +2,7 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: Darren Kiely
+> The best of folk\-infused pop and singer\-songwriter\. Cover: asiris
 
 332 songs - 19 hr 5 min
 

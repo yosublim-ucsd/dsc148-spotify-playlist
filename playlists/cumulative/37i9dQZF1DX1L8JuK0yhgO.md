@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-2,454 songs - 5 day 16 hr 0 min
+2,455 songs - 5 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [16hrs!](https://open.spotify.com/track/0P6EeF4yYuOUiqZOWqfSmm) | [Bain](https://open.spotify.com/artist/7iTvQXjSsstZgnMFfLloYy) | [16hrs!](https://open.spotify.com/album/0yvB5TSJWXkbgU1ijXjQJP) | 1:26 | 2023-10-09 | 2023-10-17 |
 | [17](https://open.spotify.com/track/59qNxYdnRTevoxrCf3KOgi) | [\(\(\(さらうんど\)\)\)](https://open.spotify.com/artist/4gwGPJl5RlU2B5LUdAuQeY), [munmu](https://open.spotify.com/artist/63t5XFoFikRfWO1o9Y6StY) | [浮遊](https://open.spotify.com/album/518ILdQYLwAnZxdb34m0OI) | 3:16 | 2023-11-27 | 2023-12-05 |
 | [179 Deli \(with AJ Tracey\)](https://open.spotify.com/track/44Go9rmuqrzTS2dYJMT6ee) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [179 Deli \(with AJ Tracey\)](https://open.spotify.com/album/0dEpwUIoXY3qhmkJ0OatS1) | 3:02 | 2023-12-04 | 2023-12-11 |
-| [180](https://open.spotify.com/track/0UWUBGIvqn4sD479lvLhDx) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [180](https://open.spotify.com/album/6L0WrUO7vJaQowiMSNqu8C) | 3:05 | 2023-12-10 |  |
+| [180](https://open.spotify.com/track/0UWUBGIvqn4sD479lvLhDx) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [180](https://open.spotify.com/album/6L0WrUO7vJaQowiMSNqu8C) | 3:05 | 2023-12-10 | 2023-12-16 |
+| [180](https://open.spotify.com/track/5IvBP2ndyYFfzYduC2ncSb) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [Wisteria](https://open.spotify.com/album/4ShmCLaYtD0iusN23PnN7g) | 3:05 | 2023-12-10 |  |
 | [1997](https://open.spotify.com/track/7hWyooMttOSlwKeEx1wzxh) | [CULT](https://open.spotify.com/artist/6GRazeKcaap3mWGhxiuerN), [BIG FAF](https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I), [Weird the art](https://open.spotify.com/artist/2LzqZwMdbkKxrY7v2vznyP) | [1997](https://open.spotify.com/album/2Oee0cne91CnSDtOP1TzQu) | 3:01 | 2023-03-20 | 2023-03-27 |
 | [1997](https://open.spotify.com/track/1HvkpFUSpO10BAgWYOb2ZN) | [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO) | [1997](https://open.spotify.com/album/5bJxaqYY3Nve9ekPeMht83) | 2:19 | 2023-10-02 | 2023-10-10 |
 | [1999](https://open.spotify.com/track/0NVY5WqI36pLkamIuWiYqs) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [1999](https://open.spotify.com/album/7crDBjdUNKzK8LvxcjNoAp) | 3:44 | 2023-08-06 | 2023-08-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Delgrès
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,956 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,950 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Get Over](https://open.spotify.com/track/5pvksr9GzU4VVRCjckY2zq) | [Sloww](https://open.spotify.com/artist/1wEhZJ2uOgx8CLud1H4XBk) | [Get Over](https://open.spotify.com/album/2t5JTvKhXebh2X6WSwim44) | 3:13 |
 | 50 | [The Everything](https://open.spotify.com/track/5BM00f2FpjolxdSsAbExBQ) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5z50zVDiNGT9Vgo09SHaWH) | 3:41 |
 
-Snapshot ID: `MCwyNTE4OWMzNjk4NzA1NjQzNWI4NWJjNGQ4NGVjNjdkOTU4ZDYwNmJl`
+Snapshot ID: `MCwyMzZkMmVkYmViNjhkZWQyYmI5MGI2YWUxNzZmYWFhOWE5NWRkMjVm`

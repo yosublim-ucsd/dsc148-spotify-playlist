@@ -4,10 +4,11 @@
 
 > All the stuff that will blow your speakers!
 
-187 songs - 9 hr 37 min
+188 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [90s Bitch](https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [90s Bitch](https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt) | 3:16 | 2023-12-14 |  |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-08-31 |  |
 | [Adagio For Strings \- Klubfiller Remix](https://open.spotify.com/track/0s63tzi2LdLCzkAFAbfxcf) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO), [Klubfiller](https://open.spotify.com/artist/21CTwCPVk35jNlil50YBJZ) | [Adagio For Strings \(Klubfiller Remix\)](https://open.spotify.com/album/2sIdhe4HhA4PGsnsVHujK6) | 3:06 | 2023-10-26 | 2023-11-17 |
 | [Addicted \- BLK RSE Remix](https://open.spotify.com/track/1J6WkPegBLn9wIX3FrtXHY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [MICK \(Deluxe Edition\)](https://open.spotify.com/album/6Xit1xmHogbGUaJJJfjpzc) | 2:58 | 2023-10-19 | 2023-11-17 |
@@ -109,7 +110,7 @@
 | [No Time](https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Time](https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI) | 2:36 | 2023-08-31 |  |
 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 | 2023-08-31 |  |
 | [Numb \- Aftershock Remix](https://open.spotify.com/track/3npJiA8jl1eBs0nwxKlnVs) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Numb \(Aftershock Remix\)](https://open.spotify.com/album/6w9952uhK6D5H5nGXt0YNp) | 3:46 | 2023-08-31 | 2023-10-05 |
-| [Oblivion](https://open.spotify.com/track/2d5KjsVCU7ryRfvEtVdTIh) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Oblivion](https://open.spotify.com/album/1W4Ubpu9smoA6FK1AjM5Ui) | 2:35 | 2023-08-31 |  |
+| [Oblivion](https://open.spotify.com/track/2d5KjsVCU7ryRfvEtVdTIh) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Oblivion](https://open.spotify.com/album/1W4Ubpu9smoA6FK1AjM5Ui) | 2:35 | 2023-08-31 | 2023-12-16 |
 | [Octane](https://open.spotify.com/track/09PlRltLfwzLHKvjQDsPXd) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Octane](https://open.spotify.com/album/5ooIXqcioatJSFdmd2YUt4) | 2:05 | 2023-09-21 | 2023-09-29 |
 | [One Day Left](https://open.spotify.com/track/6j7c7qxP1BXBzbF6B9uxSz) | [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [One Day Left](https://open.spotify.com/album/6Gcq9YBTwpOsZxKXtZosrG) | 3:26 | 2023-11-16 |  |
 | [One Night in Bangkok 2K23 \- Da Tweekaz 2K23 Remix](https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Vinylshakerz](https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q) | [One Night In Bangkok 2K23 \(The Ultimate Remixes\)](https://open.spotify.com/album/31gy6l39adSklojfefXZCB) | 3:27 | 2023-08-31 | 2023-12-15 |

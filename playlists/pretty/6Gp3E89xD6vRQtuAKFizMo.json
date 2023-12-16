@@ -6,8 +6,48 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQzMiw3ZjMyNTFjNGIzNDZlNDlkNjMyNWRhZGJmNjJjZTcyNjZiZGNkZjVm",
+  "snapshot_id": "NjQzNSwxYzMxYjY1ZDY5YTNhYTdlMzQxYTQ4YmM2OTM5YWY4NzdkODM4YjQy",
   "tracks": [
+    {
+      "added_at": "2023-12-15 15:53:12",
+      "album": {
+        "name": "Ocean Avenue",
+        "url": "https://open.spotify.com/album/2ZCysCyAAnuFMC8xsaKQ0o"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/7MmpWpWAHFYGBnm2NkOR7E"
+    },
+    {
+      "added_at": "2023-12-15 15:53:52",
+      "album": {
+        "name": "Bassline (4B Remix)",
+        "url": "https://open.spotify.com/album/0fz5yLDyUogI8CK98sSlid"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Bassline - 4B Remix",
+      "url": "https://open.spotify.com/track/7GGhEm8OtSxjjA0kTacEzo"
+    },
     {
       "added_at": "2023-12-08 14:40:23",
       "album": {

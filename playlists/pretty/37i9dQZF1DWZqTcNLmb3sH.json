@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
-  "num_followers": 56190,
+  "num_followers": 56213,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTRiMTc4NjBiZDM2ZDFhODljZmNjZDZmYzM5MDY4YjQ2Njg4Yzdi",
+  "snapshot_id": "MCwxOTM3ZmNmMjljMzg5OWJkMDU1NTQzNmU2YWVlNWQ4OGNkMmI3YWM5",
   "tracks": [
     {
       "added_at": "2023-12-12 05:37:45",
@@ -33,6 +33,46 @@
       "url": "https://open.spotify.com/track/0Uw7FTZyC35WQtqt0kDweW"
     },
     {
+      "added_at": "2023-12-15 12:12:22",
+      "album": {
+        "name": "Soul Of Karthik",
+        "url": "https://open.spotify.com/album/3HQAyt0NwhKO43TKdARqBL"
+      },
+      "artists": [
+        {
+          "name": "Manish Kumar",
+          "url": "https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW"
+        },
+        {
+          "name": "MS Rudra Kiran",
+          "url": "https://open.spotify.com/artist/6EdoCaVHPllD69dGOpi7ph"
+        }
+      ],
+      "duration_ms": 237948,
+      "name": "Soul Of Karthik",
+      "url": "https://open.spotify.com/track/7h3IPTrBGKdWUBQmzYjkeS"
+    },
+    {
+      "added_at": "2023-12-07 12:31:19",
+      "album": {
+        "name": "I Love You Kane I Love You Too Kano (from \"Bheema\")",
+        "url": "https://open.spotify.com/album/3tz372boVFGpMUA3maTTSB"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
+        },
+        {
+          "name": "Vaish",
+          "url": "https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "I Love You Kane I Love You Too Kano (from \"Bheema\")",
+      "url": "https://open.spotify.com/track/6hPq0V8yd4qHP64V6aFfEw"
+    },
+    {
       "added_at": "2023-12-13 13:03:56",
       "album": {
         "name": "Aakaasha Gadiya (From \"Salaar Cease Fire - Kannada\")",
@@ -55,26 +95,6 @@
       "duration_ms": 198000,
       "name": "Aakaasha Gadiya (From \"Salaar Cease Fire - Kannada\")",
       "url": "https://open.spotify.com/track/3xiIegrnJHAfte9IzO8hfc"
-    },
-    {
-      "added_at": "2023-12-07 12:31:19",
-      "album": {
-        "name": "I Love You Kane I Love You Too Kano (from \"Bheema\")",
-        "url": "https://open.spotify.com/album/3tz372boVFGpMUA3maTTSB"
-      },
-      "artists": [
-        {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
-        },
-        {
-          "name": "Vaish",
-          "url": "https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "I Love You Kane I Love You Too Kano (from \"Bheema\")",
-      "url": "https://open.spotify.com/track/6hPq0V8yd4qHP64V6aFfEw"
     },
     {
       "added_at": "2023-12-08 09:07:00",
@@ -115,6 +135,34 @@
       "duration_ms": 133894,
       "name": "Gaju Koodide (From \"Sapta Sagaradaache Ello - Side B\")",
       "url": "https://open.spotify.com/track/4IETWOXTRt5tT7J0eZxUj0"
+    },
+    {
+      "added_at": "2023-12-15 12:10:36",
+      "album": {
+        "name": "Hoovina Santheyalli (From \"Malaikottai Vaaliban\") (Kannada)",
+        "url": "https://open.spotify.com/album/3hBGgQhId6jXNeOkRYBuoM"
+      },
+      "artists": [
+        {
+          "name": "Prashant Pillai",
+          "url": "https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK"
+        },
+        {
+          "name": "P.S Rafeeque",
+          "url": "https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15"
+        },
+        {
+          "name": "Gowtham Bharadwaj",
+          "url": "https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L"
+        },
+        {
+          "name": "Nikita Bharat",
+          "url": "https://open.spotify.com/artist/5maOURFGVXx8wP7Zbbxtw6"
+        }
+      ],
+      "duration_ms": 190736,
+      "name": "Hoovina Santheyalli (From \"Malaikottai Vaaliban\") (Kannada)",
+      "url": "https://open.spotify.com/track/025CdU96QORXQTOzpBUVZu"
     },
     {
       "added_at": "2023-12-11 05:59:46",
@@ -1639,22 +1687,6 @@
     {
       "added_at": "2023-10-12 13:40:46",
       "album": {
-        "name": "Love at First Sight [From \"Love Reddy (Kannada)\"]",
-        "url": "https://open.spotify.com/album/6UcrPyA8FnB6ndBkYxzpWY"
-      },
-      "artists": [
-        {
-          "name": "Prince Henry",
-          "url": "https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY"
-        }
-      ],
-      "duration_ms": 69538,
-      "name": "Love at First Sight (From \"Love Reddy (Kannada)\")",
-      "url": "https://open.spotify.com/track/5zQyHWspgGA6nkCkeQXHed"
-    },
-    {
-      "added_at": "2023-10-12 13:40:46",
-      "album": {
         "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\")",
         "url": "https://open.spotify.com/album/1FCgiWpa7ic3elcMPdWKDz"
       },
@@ -1675,22 +1707,6 @@
       "duration_ms": 276000,
       "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\")",
       "url": "https://open.spotify.com/track/3XDiDgVmgQVQUxvQbE9pbO"
-    },
-    {
-      "added_at": "2023-10-04 11:00:27",
-      "album": {
-        "name": "Bad Manners (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/000a1ThXw3yBMgqoK20rQb"
-      },
-      "artists": [
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        }
-      ],
-      "duration_ms": 186915,
-      "name": "I'M IN Love",
-      "url": "https://open.spotify.com/track/344Y5pjalizVER38YjdUes"
     }
   ],
   "unique_name": "Latest Kannada",

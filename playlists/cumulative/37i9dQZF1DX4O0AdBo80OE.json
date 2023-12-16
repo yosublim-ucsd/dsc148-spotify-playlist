@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Blnko y Lng/Sht (Ex Austin TV) en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Santa Fe Klan en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 203600,
       "name": "Del 93",
       "url": "https://open.spotify.com/track/36Uul56N5hSr0f188JHqav"
@@ -780,6 +780,24 @@
       "duration_ms": 147104,
       "name": "El Puente",
       "url": "https://open.spotify.com/track/0AEE29MR3wWP5KHo3wIJiu"
+    },
+    {
+      "album": {
+        "name": "El \u00c1ngel Que Te Cuida",
+        "url": "https://open.spotify.com/album/6ECJOBHCepwHMuziMDq202"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "El \u00c1ngel Que Te Cuida",
+      "url": "https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms"
     },
     {
       "album": {
@@ -1053,6 +1071,32 @@
     },
     {
       "album": {
+        "name": "Hey Bro!",
+        "url": "https://open.spotify.com/album/5mIw04zyk3azJTXtjEQDOR"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        },
+        {
+          "name": "Lasser",
+          "url": "https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj"
+        },
+        {
+          "name": "GXNZX",
+          "url": "https://open.spotify.com/artist/4wUmJjIAbCAlaWoE63EI5c"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "Hey Bro!",
+      "url": "https://open.spotify.com/track/64cT22q9OVDfE66S8qHmXQ"
+    },
+    {
+      "album": {
         "name": "99,9",
         "url": "https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0"
       },
@@ -1284,7 +1328,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 176170,
       "name": "Ll\u00e1mame",
       "url": "https://open.spotify.com/track/5t3a5wvPkqgE4T6jlxfyIM"
@@ -2110,7 +2154,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 247312,
       "name": "Q Bonito Es Lo Bonito",
       "url": "https://open.spotify.com/track/6uDeWA5PC4HFjPqRZumPRi"
@@ -2176,6 +2220,28 @@
       "duration_ms": 224105,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf"
+    },
+    {
+      "album": {
+        "name": "Quiero Volar",
+        "url": "https://open.spotify.com/album/3WVvtrgeUU3WUC6sbA0MlQ"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Quiero Volar",
+      "url": "https://open.spotify.com/track/2bM6FYZ98SZovujg3p3XtP"
     },
     {
       "album": {

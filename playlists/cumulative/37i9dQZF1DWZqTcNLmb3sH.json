@@ -8701,6 +8701,36 @@
     },
     {
       "album": {
+        "name": "Hoovina Santheyalli (From \"Malaikottai Vaaliban\") (Kannada)",
+        "url": "https://open.spotify.com/album/3hBGgQhId6jXNeOkRYBuoM"
+      },
+      "artists": [
+        {
+          "name": "Prashant Pillai",
+          "url": "https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK"
+        },
+        {
+          "name": "P.S Rafeeque",
+          "url": "https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15"
+        },
+        {
+          "name": "Gowtham Bharadwaj",
+          "url": "https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L"
+        },
+        {
+          "name": "Nikita Bharat",
+          "url": "https://open.spotify.com/artist/5maOURFGVXx8wP7Zbbxtw6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190736,
+      "name": "Hoovina Santheyalli (From \"Malaikottai Vaaliban\") (Kannada)",
+      "url": "https://open.spotify.com/track/025CdU96QORXQTOzpBUVZu"
+    },
+    {
+      "album": {
         "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
         "url": "https://open.spotify.com/album/5lWfcjjT9bJy3XsyKwR1yy"
       },
@@ -9118,7 +9148,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 186915,
       "name": "I'M IN Love",
       "url": "https://open.spotify.com/track/344Y5pjalizVER38YjdUes"
@@ -12082,7 +12112,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 69538,
       "name": "Love at First Sight (From \"Love Reddy (Kannada)\")",
       "url": "https://open.spotify.com/track/5zQyHWspgGA6nkCkeQXHed"
@@ -20708,6 +20738,28 @@
       "duration_ms": 151810,
       "name": "Soul Of Benki (From \"Benki\")",
       "url": "https://open.spotify.com/track/489lOqWndeF8aedE73AvWl"
+    },
+    {
+      "album": {
+        "name": "Soul Of Karthik",
+        "url": "https://open.spotify.com/album/3HQAyt0NwhKO43TKdARqBL"
+      },
+      "artists": [
+        {
+          "name": "Manish Kumar",
+          "url": "https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW"
+        },
+        {
+          "name": "MS Rudra Kiran",
+          "url": "https://open.spotify.com/artist/6EdoCaVHPllD69dGOpi7ph"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237948,
+      "name": "Soul Of Karthik",
+      "url": "https://open.spotify.com/track/7h3IPTrBGKdWUBQmzYjkeS"
     },
     {
       "album": {

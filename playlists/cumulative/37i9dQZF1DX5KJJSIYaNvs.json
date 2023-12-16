@@ -3508,7 +3508,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 213049,
       "name": "Nasha (From \"Sukhee\")",
       "url": "https://open.spotify.com/track/4toBFhkIjRvPcAJIk98d58"
@@ -5098,6 +5098,36 @@
       "duration_ms": 271280,
       "name": "Tere Rang",
       "url": "https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI"
+    },
+    {
+      "album": {
+        "name": "Tere Warga (Reprise) [From \"Anari Is Backk\"]",
+        "url": "https://open.spotify.com/album/3l4DLd2VhcsZ49Liw1cKQi"
+      },
+      "artists": [
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Harshdeep Kaur",
+          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
+        },
+        {
+          "name": "Ishwar Kumar",
+          "url": "https://open.spotify.com/artist/4uA8KyL0HdU28GkDyAtALd"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262756,
+      "name": "Tere Warga (Reprise) [From \"Anari Is Backk\"]",
+      "url": "https://open.spotify.com/track/6lfEXA1m5iXRwPUy0Z689r"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 81663,
+  "num_followers": 81725,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDM4NDExNjFlYjExNzNmMjJiOTMzNGY0OGQ2MzI1MjY3MmM0YWVh",
+  "snapshot_id": "MCwyZDY5MzdlYWYyNjQ4ZjlhZjc3NGEyYzM3ZDBkNmU5ZjU2Yzk1YmM3",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "San",
-        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 414106,
-      "name": "Spirales",
-      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 377200,
       "name": "See My Wings Shining: Brow / 3rd Eye Chakra",
       "url": "https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "San",
+        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 414106,
+      "name": "Spirales",
+      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spectrum Suite (Bonus Version) [Remastered]",
-        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
       },
       "artists": [
         {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
         }
       ],
-      "duration_ms": 206146,
-      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
-      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+        "name": "Spectrum Suite (Bonus Version) [Remastered]",
+        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
       },
       "artists": [
         {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
         }
       ],
-      "duration_ms": 399066,
-      "name": "Looking Glass",
-      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
+      "duration_ms": 206146,
+      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
+      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
       },
       "artists": [
         {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
         }
       ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
+      "duration_ms": 399066,
+      "name": "Looking Glass",
+      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Mooncircles",
-        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 90253,
-      "name": "Inner Mood I",
-      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Valley In The Clouds",
         "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 215666,
       "name": "Valley In The Clouds",
       "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Mooncircles",
+        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 90253,
+      "name": "Inner Mood I",
+      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Stepping Stars",
+      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
         "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
       },
@@ -991,6 +1007,22 @@
       "duration_ms": 399560,
       "name": "Li Sun",
       "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 347626,
+      "name": "The Fifth Wave - Water Lullaby",
+      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1011,22 +1043,6 @@
       "duration_ms": 754103,
       "name": "Prism",
       "url": "https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 347626,
-      "name": "The Fifth Wave - Water Lullaby",
-      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1059,22 +1075,6 @@
       "duration_ms": 264893,
       "name": "The Light Cone",
       "url": "https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Stepping Stars",
-      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Images of Flutes in Nature",
-        "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vandroogenbroeck",
-          "url": "https://open.spotify.com/artist/6RAwMfx5Bxyfg50pzLAnrS"
-        },
-        {
-          "name": "Carole Muriel",
-          "url": "https://open.spotify.com/artist/36Rm9QDv8917PvW0eosGLt"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Forest Spirit",
-      "url": "https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "The Best of the Golden Voyage",
         "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 308360,
       "name": "Flowers of Our Childhood",
       "url": "https://open.spotify.com/track/71pXxbHZstxr3b6zTtgFPy"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Images of Flutes in Nature",
+        "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vandroogenbroeck",
+          "url": "https://open.spotify.com/artist/6RAwMfx5Bxyfg50pzLAnrS"
+        },
+        {
+          "name": "Carole Muriel",
+          "url": "https://open.spotify.com/artist/36Rm9QDv8917PvW0eosGLt"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Forest Spirit",
+      "url": "https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8"
     },
     {
       "added_at": "2023-08-18 14:02:54",

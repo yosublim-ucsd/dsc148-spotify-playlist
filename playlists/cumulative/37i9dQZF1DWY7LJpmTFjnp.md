@@ -4,7 +4,7 @@
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
 
-184 songs - 11 hr 48 min
+186 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Elemento \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento \(Noches De Salón\)](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 | 2023-07-07 |  |
 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 | 2022-01-14 |  |
 | [Embicia2](https://open.spotify.com/track/4oaJqoY1zTYObJzsRkv5bQ) | [RA LA CULEBRA](https://open.spotify.com/artist/1mTHqIdrMZ8UlwFI3CD2EY), [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Embicia2](https://open.spotify.com/album/71s2nblaTatY28pUkpJaZq) | 3:07 | 2023-03-17 | 2023-04-01 |
-| [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 | 2023-05-12 |  |
+| [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 | 2023-05-12 | 2023-12-16 |
 | [En la Ciudad de la Furia](https://open.spotify.com/track/4kgiEHf9wf6V5yZmZDtTkA) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [En la Ciudad de la Furia](https://open.spotify.com/album/6RBR4kw6wdOTcSAVLXiXsS) | 4:24 | 2022-01-14 | 2022-04-21 |
 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 | 2022-08-19 | 2023-09-02 |
 | [Escándalo](https://open.spotify.com/track/59extFqV0k1ty8fTinV3jw) | [Julio Andrade](https://open.spotify.com/artist/1WW69I4nXYzMTxkA63WCOe), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Escándalo](https://open.spotify.com/album/55ZntQVFwdwLKBDvFLmweQ) | 2:58 | 2023-09-08 | 2023-09-30 |
@@ -95,7 +95,8 @@
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-01-14 | 2022-04-19 |
 | [La Izquierda de la Noche](https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 3:40 | 2022-05-27 |  |
 | [La Locomotora \- MTV Unplugged](https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 4:01 | 2023-05-12 |  |
-| [La Novia de Frankenstein](https://open.spotify.com/track/7LPUxzFisaRZyAJypJJ4yD) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Jerry Other](https://open.spotify.com/artist/1hFDDS5CXbvVnWKUxdfAsa) | [La Novia de Frankenstein](https://open.spotify.com/album/6q12ZQaNioZC7pgsWIkpti) | 3:52 | 2023-10-23 |  |
+| [La Novia de Frankenstein](https://open.spotify.com/track/7LPUxzFisaRZyAJypJJ4yD) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Jerry Other](https://open.spotify.com/artist/1hFDDS5CXbvVnWKUxdfAsa) | [La Novia de Frankenstein](https://open.spotify.com/album/6q12ZQaNioZC7pgsWIkpti) | 3:52 | 2023-10-23 | 2023-12-16 |
+| [La Presa del Día](https://open.spotify.com/track/4ec1C5N9CJnFacoTeQILpl) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [La Presa del Día](https://open.spotify.com/album/40fHRsyXSFovg3j68Ce2ir) | 4:22 | 2023-12-15 |  |
 | [La Que Me Gusta](https://open.spotify.com/track/1TdaQqgKRbiFdO15q1kv6e) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Repeat After Me](https://open.spotify.com/album/0ak3Koxz3InlEVLwCnMC6E) | 3:59 | 2022-01-14 |  |
 | [La sangre en el cuerpo \- En Vivo](https://open.spotify.com/track/6AnVTLDZWEiY7zu3JnpNQe) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La sangre en el cuerpo \(En Vivo\)](https://open.spotify.com/album/1VwqVC3ohbh3Xtxtwu3z5J) | 4:50 | 2023-04-14 | 2023-04-22 |
 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 | 2022-01-14 |  |
@@ -170,6 +171,7 @@
 | [Surf Club](https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Surf Club](https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL) | 1:41 | 2023-07-28 | 2023-09-08 |
 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 | 2022-02-10 | 2022-04-21 |
 | [Sólo Tú](https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Sólo Tú](https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS) | 3:16 | 2022-04-09 | 2023-06-03 |
+| [Te entiendo](https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Te entiendo](https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII) | 4:00 | 2023-12-15 |  |
 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 | 2022-01-14 |  |
 | [Te Odio y Te Quiero](https://open.spotify.com/track/2jezH0QQ6Eatu4xuP76Eir) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Pinche Amor](https://open.spotify.com/album/5eimAhBgq83zYg7C0vckXc) | 2:36 | 2023-03-23 | 2023-07-22 |
 | [Tengo un mes con el mismo pantalón](https://open.spotify.com/track/6qzyLZX4s24iCB5AI8Xenv) | [Ricky Luis](https://open.spotify.com/artist/5AuBm72UJZcnMDCG1Ar3Vb) | [Absolutamente Lo Mejor](https://open.spotify.com/album/0qPgD8NiIxP96puwmuGwSq) | 3:16 | 2023-04-28 | 2023-09-09 |

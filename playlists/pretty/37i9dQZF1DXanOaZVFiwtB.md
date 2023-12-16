@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,815 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,870 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 25 | [around the world](https://open.spotify.com/track/0smQd1tF4A9r5CbfG17rJf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [around the world](https://open.spotify.com/album/206j597w8irspKeIREfftU) | 5:10 |
 | 26 | [Just Communication](https://open.spotify.com/track/7dmy8FQgfLvOrPEa28Zjeq) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [MOBILE SUIT GUNDAM WING Original Motion Picture Soundtrack \- Operation 1](https://open.spotify.com/album/7Ee7kYAuCBVAyLJXPGD6W4) | 4:20 |
 | 27 | [勇気100% \- \(合唱ヴァージョン\)/すずかけ児童合唱団](https://open.spotify.com/track/0UBWkGVqwsWESsVfdnXbut) | [すずかけ児童合唱団](https://open.spotify.com/artist/3HozfEg3Tn0RVf1aBJLdnU) | [「忍たまファミリー・ベストセレクション」](https://open.spotify.com/album/4VUJ2ges1ogO66dtbvTSpP) | 4:14 |
-| 28 | [アンパンマンのマーチ](https://open.spotify.com/track/1PKfIbqY6tFFPcvmbHP1RS) | [ドリーミング](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:50 |
+| 28 | [アンパンマンのマーチ](https://open.spotify.com/track/1PKfIbqY6tFFPcvmbHP1RS) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:50 |
 | 29 | [うれしい予感](https://open.spotify.com/track/1q7nKN4Wk4es12GY8aPz5W) | [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [GOLDEN☆BEST 渡辺満里奈](https://open.spotify.com/album/0CqxsTkpI9Xbhit7unaZRl) | 4:11 |
 | 30 | [Koji Koji Ginza](https://open.spotify.com/track/5z2rcCuJHYYXVXcCDmzFkJ) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [Koji Koji Ginza](https://open.spotify.com/album/2erDr9VtpkJjEOgTZoXYRm) | 5:02 |
 | 31 | [Get along <ALBUM VERSION>](https://open.spotify.com/track/5rPF3lhPX8Vvkf7gTgheyF) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p), [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [スレイヤーズMEGUMIXXX](https://open.spotify.com/album/55RelAMhqC3ubteVrbIY8I) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 |
 
-Snapshot ID: `MCxhMTViNzZlYWRjN2IwZmM3Mzk5ZDI1NTdlYzJmOWY2NjhkYWMxZmI2`
+Snapshot ID: `MCwxZTlkOTlhMzE1YWYxNzZhY2JiOTBkMDM3YmU2NmI4Y2RhMDUzZjk0`

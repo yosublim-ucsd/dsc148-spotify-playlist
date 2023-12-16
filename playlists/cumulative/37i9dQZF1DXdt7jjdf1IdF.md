@@ -4,7 +4,7 @@
 
 > Dengar lagu\-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia
 
-30 songs - 2 hr 2 min
+31 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Pergilah](https://open.spotify.com/track/2zalhpGuVqJFCegmdehALm) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 3:10 | 2023-02-23 |  |
 | [Ragu](https://open.spotify.com/track/6pSRXKAwftu2a7KOjRlbz3) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Ragu](https://open.spotify.com/album/3FWd0eQDsSRsU2TK0ZYL8s) | 4:12 | 2023-02-23 |  |
 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 | 2023-02-23 |  |
+| [Tak Berharap Lagi](https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Tak Berharap Lagi](https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs) | 3:57 | 2023-12-15 |  |
 | [Teka Teki](https://open.spotify.com/track/5FEcywzPnpul59cCsBmZ6p) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heart To Heart](https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB) | 3:30 | 2023-02-23 |  |
 | [Terjebak Nostalgia](https://open.spotify.com/track/5i29InIyuEG5121x1onevN) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 3:26 | 2023-02-23 |  |
 | [Usai Di Sini](https://open.spotify.com/track/6i5sIqE4lglanzlXXl8gCj) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:43 | 2023-02-23 |  |

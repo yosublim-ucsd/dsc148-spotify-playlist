@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Guanajuato",
+        "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339692,
+      "name": "Cumbia Guanajuato",
+      "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
+    },
+    {
+      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/0rzIr66tetyEnqVL7Ypkrc"
       },
@@ -786,6 +804,28 @@
       "duration_ms": 222631,
       "name": "HDP",
       "url": "https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp"
+    },
+    {
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/0tOj5weTJiOodUMVF1VjGM"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Carlos Luengo",
+          "url": "https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/2eCPG1bdKAqSYj1LL6upfN"
     },
     {
       "album": {
@@ -1564,6 +1604,28 @@
       "duration_ms": 219950,
       "name": "Puro Bandido",
       "url": "https://open.spotify.com/track/2ceLqIolrjctE7fGKU4ffA"
+    },
+    {
+      "album": {
+        "name": "Rap y Calle No. 15",
+        "url": "https://open.spotify.com/album/2vCrdTZlz1ilVKY1UrqCUg"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Tankeone",
+          "url": "https://open.spotify.com/artist/6CJ0EnASyencrooPZNBpaB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Rap y Calle No. 15",
+      "url": "https://open.spotify.com/track/1XCxkTqxdQu83IDH491H24"
     },
     {
       "album": {

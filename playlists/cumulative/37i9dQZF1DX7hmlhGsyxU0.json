@@ -2132,10 +2132,28 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 173311,
       "name": "Perceptions",
       "url": "https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T"
+    },
+    {
+      "album": {
+        "name": "Spirituality #2",
+        "url": "https://open.spotify.com/album/6A5tIdJUuOGiuRnXpbvTtk"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173311,
+      "name": "Perceptions",
+      "url": "https://open.spotify.com/track/5JOtNkA1yyV0dreSnmbLGT"
     },
     {
       "album": {

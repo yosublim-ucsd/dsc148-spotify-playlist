@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-40 songs - 2 hr 38 min
+42 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Lunar Tides](https://open.spotify.com/track/3B9pDB6SV0TO99dg20CD62) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Lunar Tides](https://open.spotify.com/album/3Muy52e2cUQxOp1DaK0l5J) | 4:23 | 2023-12-08 |  |
 | [Memories](https://open.spotify.com/track/2s5VFHjQkBIipPndpB1sJD) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:02 | 2023-12-08 |  |
 | [Mother \- Slowed + Reverb](https://open.spotify.com/track/4mFiTGlJLEWxBqhIp3hgtl) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Mother \(Slowed + Reverb\)](https://open.spotify.com/album/1An9k3L20xsC26H2GAJZBK) | 2:17 | 2023-12-08 |  |
+| [Mr Man \- Dusky Revisit](https://open.spotify.com/track/20kMYR1urcBTumqu7A9mub) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Mr Man \(Dusky Revisit\)](https://open.spotify.com/album/7azyENMb9wOHFWoRShPs0x) | 5:14 | 2023-12-15 |  |
 | [My Mother Was A Synthesizer](https://open.spotify.com/track/7LI2eU6g40u5C4SnhSnZ1H) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer](https://open.spotify.com/album/6fN16ql9IGuF2mpChQbIYO) | 3:23 | 2023-12-08 |  |
 | [No Place Like](https://open.spotify.com/track/1nQFnc0wvHTtOeVnkfgLGo) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer EP](https://open.spotify.com/album/21dxrmqpCfgpnMA4V2GocZ) | 4:01 | 2023-12-08 |  |
 | [Once...](https://open.spotify.com/track/6bYv31mEInRhLb7yPDkE2L) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:00 | 2023-12-08 |  |
@@ -41,12 +42,13 @@
 | [Reflected](https://open.spotify.com/track/23ot990qxQ3vDliNsFbDE7) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [Polar M](https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g) | [Music For Home Vol\. 1: Our Season](https://open.spotify.com/album/3k2iR3YPoOw1xIFHoLSpvX) | 4:53 | 2023-12-08 |  |
 | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/track/2gHvMuXWRWs1E3hGhba4Vl) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/album/2fb2A2HtNR5dUvFpai1Pmv) | 4:38 | 2023-12-08 |  |
 | [Silhouette](https://open.spotify.com/track/4yXRghXZcf9GMsxoErXEHb) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:35 | 2023-12-08 |  |
-| [Snow Day](https://open.spotify.com/track/4om6fOW3uXnGWfTSmLDfwq) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Snow Day](https://open.spotify.com/album/4CGsHJyqHvYt1TdEtj359g) | 3:28 | 2023-12-08 |  |
+| [Snow Day](https://open.spotify.com/track/4om6fOW3uXnGWfTSmLDfwq) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Snow Day](https://open.spotify.com/album/4CGsHJyqHvYt1TdEtj359g) | 3:28 | 2023-12-08 | 2023-12-16 |
 | [Solace](https://open.spotify.com/track/27DozBowhDYuHNExnzbipt) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Solace](https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj) | 3:13 | 2023-12-08 |  |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2023-12-08 |  |
+| [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 | 2023-12-15 |  |
 | [To Where Dreams Are](https://open.spotify.com/track/3u5CANxJ6iPjZIVZz9Wcmu) | [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:06 | 2023-12-08 |  |
 | [Wide Awake](https://open.spotify.com/track/5HWHvmv2Se7JK5E5lzfUCB) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:03 | 2023-12-08 |  |
 | [You \- Odeon Remix](https://open.spotify.com/track/1zGHbWjSuSuG86mlW9eWSl) | [minds&machines](https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ), [Odeon](https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye) | [Reflections 06](https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx) | 2:55 | 2023-12-08 |  |
-| [Your Depth Of Imagination](https://open.spotify.com/track/3RFMabGRVnc46cWqceyT9W) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer EP](https://open.spotify.com/album/21dxrmqpCfgpnMA4V2GocZ) | 2:38 | 2023-12-08 |  |
+| [Your Depth Of Imagination](https://open.spotify.com/track/3RFMabGRVnc46cWqceyT9W) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer EP](https://open.spotify.com/album/21dxrmqpCfgpnMA4V2GocZ) | 2:38 | 2023-12-08 | 2023-12-16 |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

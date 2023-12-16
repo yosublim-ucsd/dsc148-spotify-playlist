@@ -4,7 +4,7 @@
 
 > essa é só pra quem vive no 2.0x
 
-66 songs - 2 hr 27 min
+67 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Nunca Duvide de um Mano \(Speed Up\)](https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [Nunca Duvide de um Mano](https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9) | 1:24 | 2023-09-26 |  |
 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 | 2023-09-26 |  |
 | [O QUE ADIANTA BÊ SER TÃO GOSTOSA SE ELA É DA FARRA](https://open.spotify.com/track/0ztwjRobHt6HUncGW9N2ni) | [PL JUNIOR](https://open.spotify.com/artist/6eaC0vXLPMW095XtIGwD67) | [O QUE ADIANTA BÊ SER TÃO GOSTOSA SE ELA É DA FARRA](https://open.spotify.com/album/5GUVCqmrD82qhBss7iDv2B) | 2:01 | 2023-09-26 |  |
-| [Palhaçada Speed](https://open.spotify.com/track/0p3W8vsHX4OjaCHypFM3Hl) | [Avelar Music](https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1), [Belim](https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb) | [Palhaçada Speed](https://open.spotify.com/album/1fKdX1WUjbyGyeijMhZqBw) | 2:29 | 2023-09-26 |  |
+| [Palhaçada Speed](https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE) | [Avelar Music](https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1), [Belim](https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb) | [Palhaçada Speed](https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A) | 2:29 | 2023-11-13 |  |
+| [Palhaçada Speed](https://open.spotify.com/track/0p3W8vsHX4OjaCHypFM3Hl) | [Avelar Music](https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1), [Belim](https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb) | [Palhaçada Speed](https://open.spotify.com/album/1fKdX1WUjbyGyeijMhZqBw) | 2:29 | 2023-09-26 | 2023-12-16 |
 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 | 2023-09-26 |  |
 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 | 2023-09-26 |  |
 | [Plug! \(Speed Plug\)](https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb) | [Muzzi](https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8) | [Plug! \(Speed Plug\)](https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd) | 1:42 | 2023-09-26 |  |

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-537 songs - 1 day 7 hr 53 min
+538 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,13 +410,14 @@
 | [Poca Cosa](https://open.spotify.com/track/7uQeAEzbhsTvOSxsgFuAaO) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Nos Vamos a Morir de Hacer Estrategias de Amor](https://open.spotify.com/album/3SWp2qtW6x37FWzfpeZzVO) | 2:10 | 2022-07-01 | 2022-10-19 |
 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 | 2022-07-01 |  |
 | [Polvo](https://open.spotify.com/track/4p9iPAQ5q3twlJJ0x8HInz) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Sobre habitar la depresión intermedia](https://open.spotify.com/album/3jF9U4Zd7HdiRyvYrpJvaC) | 3:42 | 2023-09-08 | 2023-10-06 |
-| [Polvo de Estrellas](https://open.spotify.com/track/2xTHSHwrRzDEkzeYuZpGPu) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/4WmNsvvJMQC0Dnhnpu5Zzv) | 2:15 | 2023-10-26 |  |
+| [Polvo de Estrellas](https://open.spotify.com/track/2xTHSHwrRzDEkzeYuZpGPu) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/4WmNsvvJMQC0Dnhnpu5Zzv) | 2:15 | 2023-10-26 | 2023-12-16 |
 | [Polvo de Estrellas](https://open.spotify.com/track/4LDHQIpRkjQkmmmgMd1lsy) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Polvo de Estrellas](https://open.spotify.com/album/29wM86WH6LmH3F7AtQN3Eh) | 2:15 | 2022-06-03 | 2022-07-29 |
 | [Posiblemente](https://open.spotify.com/track/0unDoM0K23Us89jR1BITXT) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Piruetas y Viñetas](https://open.spotify.com/album/5M5RJ8XtpMKDhyqDKVaSIB) | 3:17 | 2022-06-03 | 2022-07-25 |
 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 | 2023-10-26 |  |
 | [Promotora](https://open.spotify.com/track/6aaljMIyDKTMjWoaSwOUSP) | [Tus Amigos Nuevos](https://open.spotify.com/artist/4dqL8obu05HTocAZNPJvfc) | [Persisten](https://open.spotify.com/album/2ZEDMESL0Nieza6iWHb4xY) | 3:56 | 2022-06-03 | 2022-07-28 |
 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 | 2022-10-28 | 2023-10-27 |
 | [Príncipe de Lata](https://open.spotify.com/track/1mgVOhrPSEAen54YCcUiCJ) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Príncipe de Lata](https://open.spotify.com/album/2aiJ3KqefrP7O9OpxMpMOT) | 3:25 | 2023-08-25 | 2023-10-06 |
+| [Psicodelia arbolera](https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Psicodelia arbolera](https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k) | 4:08 | 2023-12-15 |  |
 | [Puedo](https://open.spotify.com/track/2LXpeBAJRi6uXPnqks3Eps) | [Platónicos](https://open.spotify.com/artist/34p7ODrlQfGS5QgDqgmeqY) | [Puedo](https://open.spotify.com/album/50QJTw1EqEwLCaKRVvJeuc) | 2:51 | 2022-06-03 | 2022-07-17 |
 | [Puedo Con Esto \- Fuera de Foco](https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Puedo Con Esto \(Fuera de Foco\)](https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id) | 3:54 | 2022-06-03 |  |
 | [Pussy Pancake](https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Pussy Pancake](https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0) | 2:36 | 2023-08-18 | 2023-09-09 |

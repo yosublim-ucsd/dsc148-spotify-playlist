@@ -4,14 +4,14 @@
 
 > Django and beyond.
 
-103 songs - 6 hr 21 min
+104 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1910](https://open.spotify.com/track/2nf1tuhOmb7npTSDUryiAd) | [Les doigts de l'homme](https://open.spotify.com/artist/7DOLup8LOVWI6g9PoeUOO5) | [1910 \(Jazz manouche\)](https://open.spotify.com/album/15i4how91OvGTmat782jcF) | 4:11 | 2021-02-04 |  |
 | [A Fadin' Blue](https://open.spotify.com/track/6AvCrfnM8SZOuRrOZGsuER) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x), [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [A Fadin' Blue](https://open.spotify.com/album/21CGyD3PVhXNfMlq6QVLXc) | 3:09 | 2022-07-01 |  |
 | [Avalon](https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Avalon](https://open.spotify.com/album/1iAs2iKTFAL98vSxew3LrT) | 2:06 | 2022-06-17 |  |
-| [Ballade pour Django](https://open.spotify.com/track/5b07gtahr6UMl53QUBpiqu) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Ballade pour Django](https://open.spotify.com/album/1R61EzoTcxhCTfSiZrkE5Z) | 7:35 | 2023-11-03 |  |
+| [Ballade pour Django](https://open.spotify.com/track/5b07gtahr6UMl53QUBpiqu) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Ballade pour Django](https://open.spotify.com/album/1R61EzoTcxhCTfSiZrkE5Z) | 7:35 | 2023-11-03 | 2023-12-16 |
 | [Bekledim de gelmedin](https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An) | 2:42 | 2022-04-29 |  |
 | [Bell Island](https://open.spotify.com/track/2iXRqsbI6Dbrj8o9hwn0g8) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Raindrops](https://open.spotify.com/album/2rVYD2MHeWZ7qwQ7hIVyrW) | 2:50 | 2021-02-04 |  |
 | [Belleville](https://open.spotify.com/track/4Wo0AVGDazTF6wUv77yLZl) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Robin Nolan Trio](https://open.spotify.com/artist/6CdoTSuiw0mRW8uAsrf6kW) | [Swing de Paris \- Vol\. 2](https://open.spotify.com/album/5Sx2O2IOx8CImGs9xIyAkA) | 4:07 | 2021-05-25 |  |
@@ -27,6 +27,7 @@
 | [Blue Bossa](https://open.spotify.com/track/34x5AhvVgbLhebznYRBrSO) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [Trio](https://open.spotify.com/album/7BMdSO57gHOuHihr4o95Bg) | 3:38 | 2021-02-04 |  |
 | [Blue Pearl](https://open.spotify.com/track/4Lq7xk3BOHfbQYOl5azSWo) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Blue Pearl](https://open.spotify.com/album/4d4vr1kMKkN5m36QFZI4Py) | 2:19 | 2022-03-18 |  |
 | [Blues for Stochelo](https://open.spotify.com/track/2ekfzRwLFWDis4G34Kkfx9) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG) | [Guitar Heroes](https://open.spotify.com/album/6MnYzIKgvXkNkjgqRsQuld) | 3:53 | 2021-02-04 |  |
+| [Can´t Buy Me Love \- Cover](https://open.spotify.com/track/0R7FUONHrec67CHQFimQx7) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Can´t Buy Me Love \(Cover\)](https://open.spotify.com/album/1mskFTnHBiTxtgyMLMZp00) | 4:34 | 2023-12-15 |  |
 | [China Boy](https://open.spotify.com/track/1ajn0alF3RUq8qz4H9Rfz0) | [Lollo Meier](https://open.spotify.com/artist/0QiD9SILEjqqmaFPXxq2An) | [Hondarribia](https://open.spotify.com/album/2EcPOKSGVakskSB8jkFc0A) | 2:44 | 2021-02-04 |  |
 | [Coquette](https://open.spotify.com/track/55CneNdMfXocuqDVvO2DT3) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8), [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn), [Ben Powell](https://open.spotify.com/artist/25HkovLb1b05hLLIIoohM6) | [Caution HOT](https://open.spotify.com/album/2PQMXbEudx9Kl0M01pwZg8) | 2:35 | 2021-02-04 | 2022-07-29 |
 | [Coquette](https://open.spotify.com/track/1mfaDtRk81CE7EQ9VZ18RA) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8), [Ben Powell](https://open.spotify.com/artist/25HkovLb1b05hLLIIoohM6), [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Caution Hot](https://open.spotify.com/album/1plB2YqojpYtNMOWREhOEr) | 2:35 | 2021-02-04 |  |

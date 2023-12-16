@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Apa Fer Milaange",
+        "url": "https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5"
+      },
+      "artists": [
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242142,
+      "name": "Apa Fer Milaange",
+      "url": "https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ"
+    },
+    {
+      "album": {
         "name": "Apna Viah",
         "url": "https://open.spotify.com/album/4SCjM3XgWj3vy2Bk8huEnm"
       },
@@ -15268,7 +15286,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 243946,
       "name": "Udd Gaya - From \"Lekh\"",
       "url": "https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw"

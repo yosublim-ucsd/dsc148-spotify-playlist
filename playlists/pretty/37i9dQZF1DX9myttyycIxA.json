@@ -1,13 +1,113 @@
 {
-  "description": "Underground indie rock gems. Cover: ratbag",
-  "num_followers": 292844,
+  "description": "Underground indie rock gems. Cover: Wednesday",
+  "num_followers": 292871,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmIwYmQwMjM0NTU0N2NmOGM2ZDNhMDU1MmEwOTFlYWY5Y2ZjMTVl",
+  "snapshot_id": "MCw2ZmQxMjJmMmYwYThhZjc3NTNlODg0MzU3NDFhYjZkZmJlN2M1Mzdk",
   "tracks": [
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 247520,
+      "name": "Quarry",
+      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
+    },
+    {
+      "added_at": "2023-12-08 17:28:54",
+      "album": {
+        "name": "Dead Lands",
+        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
+      },
+      "artists": [
+        {
+          "name": "Punchlove",
+          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
+        }
+      ],
+      "duration_ms": 274714,
+      "name": "Dead Lands",
+      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "August 19",
+        "url": "https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "duration_ms": 155177,
+      "name": "August 19",
+      "url": "https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "I'd Hate Me Too",
+        "url": "https://open.spotify.com/album/4kmMFdbi4MX1wckBiEkc07"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 248428,
+      "name": "I'd Hate Me Too",
+      "url": "https://open.spotify.com/track/1Rxx5MHJv03Qzt7sZUKGoO"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "i saw a flying saucer",
+        "url": "https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI"
+        },
+        {
+          "name": "ctrl + me",
+          "url": "https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X"
+        }
+      ],
+      "duration_ms": 169062,
+      "name": "i saw a flying saucer",
+      "url": "https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY"
+    },
+    {
+      "added_at": "2023-12-08 17:28:54",
+      "album": {
+        "name": "why aren't you laughing?",
+        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 253745,
+      "name": "rot in love",
+      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
+    },
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
@@ -27,34 +127,18 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Dead Lands",
-        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv"
       },
       "artists": [
         {
-          "name": "Punchlove",
-          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
         }
       ],
-      "duration_ms": 274714,
-      "name": "Dead Lands",
-      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "why aren't you laughing?",
-        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 253745,
-      "name": "rot in love",
-      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
+      "duration_ms": 214600,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -91,6 +175,26 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
+        "name": "Drive Baby",
+        "url": "https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 158460,
+      "name": "Drive Baby",
+      "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
+    },
+    {
+      "added_at": "2023-12-08 17:28:54",
+      "album": {
         "name": "Laced",
         "url": "https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr"
       },
@@ -119,22 +223,6 @@
       "duration_ms": 114500,
       "name": "let me breathe",
       "url": "https://open.spotify.com/track/3POQJgxSFmXwPWdOgLvDyt"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Spinning",
-        "url": "https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -199,26 +287,6 @@
       "duration_ms": 179606,
       "name": "Send It To Oslo",
       "url": "https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Drive Baby",
-        "url": "https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        },
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
-        }
-      ],
-      "duration_ms": 158460,
-      "name": "Drive Baby",
-      "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -1219,8 +1287,8 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "iwantthis2last!",
-        "url": "https://open.spotify.com/album/4CEglkGds2zn6r6OgJtu6S"
+        "name": "light is gone 2",
+        "url": "https://open.spotify.com/album/1QBJjgXDWuaTdfQhGzz7PA"
       },
       "artists": [
         {
@@ -1230,7 +1298,7 @@
       ],
       "duration_ms": 194656,
       "name": "iwantthis2last!",
-      "url": "https://open.spotify.com/track/1e9MeUoNqaTNzdXOUdFlNu"
+      "url": "https://open.spotify.com/track/5zD6Zpb1JSMeYP9qRXyEVV"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -1415,22 +1483,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Rat Saw God",
-        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Kato",
         "url": "https://open.spotify.com/album/5u26Oeh7KvSFVkv3BaBusy"
       },
@@ -1575,70 +1627,6 @@
       "duration_ms": 142651,
       "name": "Great Big Warm House",
       "url": "https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Cramps",
-        "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Cramps",
-      "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/1vNIYW0sdDd29V8AZcUtNH"
-      },
-      "artists": [
-        {
-          "name": "Strange Ranger",
-          "url": "https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/08Gw7Yl7peYu7zbXrMKohF"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Pool Kids // POOL",
-        "url": "https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX"
-      },
-      "artists": [
-        {
-          "name": "Pool Kids",
-          "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "No Stranger",
-      "url": "https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "My Year (This Is Going To Be)",
-        "url": "https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W"
-      },
-      "artists": [
-        {
-          "name": "12 RODS",
-          "url": "https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2"
-        }
-      ],
-      "duration_ms": 183163,
-      "name": "My Year (This Is Going To Be)",
-      "url": "https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL"
     }
   ],
   "unique_name": "undercurrents",

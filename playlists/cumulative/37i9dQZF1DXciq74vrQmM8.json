@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Siiickbrain",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. nascar aloe",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -1240,6 +1240,24 @@
       "duration_ms": 123452,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3PqKbBKxV2mSgfWNwNAAjW"
+    },
+    {
+      "album": {
+        "name": "BLITZ",
+        "url": "https://open.spotify.com/album/5nmvr2jW0aMmiwNefK2v6t"
+      },
+      "artists": [
+        {
+          "name": "nascar aloe",
+          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82285,
+      "name": "BLITZ",
+      "url": "https://open.spotify.com/track/0gIsd766Flqf38dalTiqN5"
     },
     {
       "album": {
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 202466,
       "name": "Do It So Good",
       "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
@@ -5864,7 +5882,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 186053,
       "name": "I HEAR THEM LAUGHING",
       "url": "https://open.spotify.com/track/7rH5ewwDtOyQQngISkJrLo"
@@ -6548,7 +6566,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 234134,
       "name": "Invisible Hand",
       "url": "https://open.spotify.com/track/4r5bMIasNl5uYBnzf9TYXU"
@@ -7544,7 +7562,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 227041,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/2VMU52Ncejl1gqYXBw8YUl"
@@ -7656,7 +7674,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 113400,
       "name": "LUKEY TY TY",
       "url": "https://open.spotify.com/track/3dJ2rRiGeXRmK3df5EoQfq"
@@ -7762,6 +7780,28 @@
       "duration_ms": 198620,
       "name": "Major Waste",
       "url": "https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32"
+    },
+    {
+      "album": {
+        "name": "Make a Wish",
+        "url": "https://open.spotify.com/album/0r1f4ObbhkgibClRCo2tDW"
+      },
+      "artists": [
+        {
+          "name": "User2222",
+          "url": "https://open.spotify.com/artist/4qhjS4KuMCen5RzxVe0kaA"
+        },
+        {
+          "name": "Juniper Fields",
+          "url": "https://open.spotify.com/artist/4NA2g2kw5dvuC4R1QXpHWy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133387,
+      "name": "Make a Wish",
+      "url": "https://open.spotify.com/track/6DvJYM8BaFEUfFEHpGVZYd"
     },
     {
       "album": {
@@ -8266,7 +8306,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 161941,
       "name": "mOmS bAsEmeNt",
       "url": "https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O"
@@ -8400,7 +8440,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 146762,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/2HYay9cjoX0v5mgOaQFufh"
@@ -10433,6 +10473,24 @@
     },
     {
       "album": {
+        "name": "See Her",
+        "url": "https://open.spotify.com/album/1hiy4N0BAUyBRj4kXjQA2v"
+      },
+      "artists": [
+        {
+          "name": "Cryalot",
+          "url": "https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167853,
+      "name": "See Her",
+      "url": "https://open.spotify.com/track/4CwuxF1HAbPPgox7J9c8QC"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W"
       },
@@ -11159,6 +11217,28 @@
     },
     {
       "album": {
+        "name": "STONE COLD KILLER",
+        "url": "https://open.spotify.com/album/0SZbo8QQ1QQf7U7qURJFxI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        },
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162631,
+      "name": "STONE COLD KILLER",
+      "url": "https://open.spotify.com/track/69D7Gn6MRv6SbDX6lVJfCb"
+    },
+    {
+      "album": {
         "name": "straight out the oven !",
         "url": "https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk"
       },
@@ -11770,7 +11850,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 162649,
       "name": "there she goes",
       "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
@@ -12117,6 +12197,28 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/5RMQfalO8QgRNArs0nIFuk"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "AlienBlaze",
+          "url": "https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130259,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/75nfXT58HlELm2SGI3L0Ea"
+    },
+    {
+      "album": {
         "name": "Trust No One",
         "url": "https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE"
       },
@@ -12190,7 +12292,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 137926,
       "name": "under (feat. phem)",
       "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
@@ -12306,7 +12408,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 228972,
       "name": "USE IT OR LOSE IT",
       "url": "https://open.spotify.com/track/7aGCN41khC4fC0P59l9u9a"

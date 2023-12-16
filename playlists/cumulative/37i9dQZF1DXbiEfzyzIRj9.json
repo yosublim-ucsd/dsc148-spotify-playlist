@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 248546,
       "name": "Big Sax",
       "url": "https://open.spotify.com/track/0SLMdIFvihZBi9ltG5iy5x"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 112679,
       "name": "Crab Noodling",
       "url": "https://open.spotify.com/track/3dGoWp0RewrQpwAJDHuV4C"
@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Final Rule",
+        "url": "https://open.spotify.com/album/7MrIIb4CB9ogySK3GKZRuE"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267146,
+      "name": "Final Rule",
+      "url": "https://open.spotify.com/track/7mQtkS5leqTFbgMa4qUAtJ"
+    },
+    {
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -3937,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1JaLA871fBR3fmwxquKuS8"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290118,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5kYrJ6RMys0aA4Yok6vOVK"
+    },
+    {
+      "album": {
         "name": "Golden Leaves",
         "url": "https://open.spotify.com/album/2d0pcvKiUVCjUe9f4zSp2x"
       },
@@ -3988,7 +4024,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 207291,
       "name": "Goodbye - DJ Seinfeld Remix",
       "url": "https://open.spotify.com/track/1G6yMiZEf1A3HzpjekA6RZ"
@@ -4142,7 +4178,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 236634,
       "name": "Grown On Me",
       "url": "https://open.spotify.com/track/77EwsTh7jz9khxVQK7gFBW"
@@ -4498,6 +4534,24 @@
       "duration_ms": 257430,
       "name": "Howl",
       "url": "https://open.spotify.com/track/3B81HqB2k8hrsSvX04zu5J"
+    },
+    {
+      "album": {
+        "name": "Era / Hyperreturn / Not Your Skin",
+        "url": "https://open.spotify.com/album/2EuyZsGQGnhntkfLXi7kJm"
+      },
+      "artists": [
+        {
+          "name": "boys be kko",
+          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362520,
+      "name": "Hyperreturn",
+      "url": "https://open.spotify.com/track/6k1raxShjUdCSxRqLRmUld"
     },
     {
       "album": {
@@ -5450,7 +5504,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 322853,
       "name": "Leeds 2 Kyoto",
       "url": "https://open.spotify.com/track/3PbFK50fWPTbUegu7yANpX"
@@ -6802,10 +6856,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 274576,
       "name": "Night Club",
       "url": "https://open.spotify.com/track/4WIvuN1lG5LEG2aAHB1iWn"
+    },
+    {
+      "album": {
+        "name": "Quiet City",
+        "url": "https://open.spotify.com/album/5GSOJwubWRouQBzVwRhF3z"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274576,
+      "name": "Night Club",
+      "url": "https://open.spotify.com/track/5KxrNiK67GlxSj9EILbosW"
     },
     {
       "album": {
@@ -6936,6 +7008,24 @@
       "duration_ms": 224760,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
+    },
+    {
+      "album": {
+        "name": "Poundshop Paratrooper",
+        "url": "https://open.spotify.com/album/49BsiATM3YpzyBrHy7BX3n"
+      },
+      "artists": [
+        {
+          "name": "Nobuharu Morimoto",
+          "url": "https://open.spotify.com/artist/65alvKZhr7c6vuOZGb9CSa"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367999,
+      "name": "Noumu",
+      "url": "https://open.spotify.com/track/1kXD1MHRSj6gGs3rSPgVeZ"
     },
     {
       "album": {
@@ -7180,7 +7270,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 361951,
       "name": "Our Deepest Fear",
       "url": "https://open.spotify.com/track/67jj7ERyL4H8Jc4jAIFfiK"
@@ -7316,6 +7406,24 @@
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
+    },
+    {
+      "album": {
+        "name": "Pedals",
+        "url": "https://open.spotify.com/album/2WmUBgakUyuqtsXZCe3v0q"
+      },
+      "artists": [
+        {
+          "name": "Risa Taniguchi",
+          "url": "https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341225,
+      "name": "Pedals",
+      "url": "https://open.spotify.com/track/0eevsCYhBFNmMix50HS28L"
     },
     {
       "album": {
@@ -8397,6 +8505,28 @@
     },
     {
       "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/3IfPsh1m38fHyCsB6uMYF1"
+      },
+      "artists": [
+        {
+          "name": "Breakbeat Populer",
+          "url": "https://open.spotify.com/artist/5VSDC7WY0kSmmYBQn7qvvk"
+        },
+        {
+          "name": "Jeff Mills",
+          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357904,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/0lbLhmnhpIEV6iHvAn6D9P"
+    },
+    {
+      "album": {
         "name": "Shot Sonic",
         "url": "https://open.spotify.com/album/58hHxZF25yakiuz93mjZsP"
       },
@@ -9186,7 +9316,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 300122,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy"
@@ -9818,6 +9948,24 @@
       "duration_ms": 325762,
       "name": "Tough Times",
       "url": "https://open.spotify.com/track/3LV7adRyleTWik6EL7Expw"
+    },
+    {
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2XXdrTRRcnmWrIgsyNtIV4"
+      },
+      "artists": [
+        {
+          "name": "QPLO",
+          "url": "https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334080,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/2Oa8yH2CacmF1jYEEbfqpB"
     },
     {
       "album": {
@@ -10471,6 +10619,24 @@
     },
     {
       "album": {
+        "name": "When Love Comes Around",
+        "url": "https://open.spotify.com/album/4VJr97k8WorqpMTSdsxkjt"
+      },
+      "artists": [
+        {
+          "name": "Keita Sano",
+          "url": "https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417532,
+      "name": "When Love Comes Around",
+      "url": "https://open.spotify.com/track/79ma9pF6Cn3CXST9WMVSsA"
+    },
+    {
+      "album": {
         "name": "Guy",
         "url": "https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS"
       },
@@ -10784,7 +10950,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 300486,
       "name": "Your Life",
       "url": "https://open.spotify.com/track/27xMuY9jqsqmqt0rqIuZOP"

@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Arlo Parks
 
-310 songs - 16 hr 48 min
+311 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [Needs](https://open.spotify.com/track/0Ic42kynfrSAJjTlOr0dWR) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Needs](https://open.spotify.com/album/1xYasQnBT0AZVgQhlEGQTW) | 2:26 | 2023-08-17 |  |
 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 | 2023-05-18 | 2023-11-10 |
 | [nightbus](https://open.spotify.com/track/2Q0CGoAr7Cjuxq31GtqbR3) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [nightbus](https://open.spotify.com/album/22GFglKpVpgTyN5xEVS5Dq) | 3:08 | 2023-06-29 | 2023-07-14 |
-| [No Fear](https://open.spotify.com/track/3V0rNeBbdBfWzsP6nk98iT) | [Starceed](https://open.spotify.com/artist/5LUczylybNr9ylPScEvlSz) | [No Fear](https://open.spotify.com/album/4WBNdhnG9x36CVnyDJ83VM) | 2:47 | 2023-12-14 |  |
+| [No Fear](https://open.spotify.com/track/3V0rNeBbdBfWzsP6nk98iT) | [Starceed](https://open.spotify.com/artist/5LUczylybNr9ylPScEvlSz) | [No Fear](https://open.spotify.com/album/4WBNdhnG9x36CVnyDJ83VM) | 2:47 | 2023-12-14 | 2023-12-16 |
+| [No Fear](https://open.spotify.com/track/596tehHMkW1OJSM2qRYBrX) | [Starceed](https://open.spotify.com/artist/2zz1LTzFkZyEn9FlldGuwm) | [No Fear](https://open.spotify.com/album/2ZRsLwBTj6AFR5T0DFAZtI) | 2:47 | 2023-12-14 |  |
 | [NO INTENTION](https://open.spotify.com/track/771Tpqi1DLOrqwfiNV3Er9) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [NO INTENTION](https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri) | 4:07 | 2023-05-04 | 2023-05-26 |
 | [No One Else \(feat\. Fridayy\)](https://open.spotify.com/track/6PpJ215wBUqB31xLLWKq66) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [11:11](https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL) | 3:43 | 2023-11-09 |  |
 | [None Of My Business](https://open.spotify.com/track/3bx5C4deeuHmGyR066Hccc) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:31 | 2023-09-07 | 2023-12-08 |

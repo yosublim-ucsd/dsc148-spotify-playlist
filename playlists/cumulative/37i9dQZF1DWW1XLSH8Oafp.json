@@ -5350,10 +5350,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 158080,
       "name": "gimme gimme",
       "url": "https://open.spotify.com/track/0LWrBENo9TbgKc8hmIn1Ec"
+    },
+    {
+      "album": {
+        "name": "apple juice",
+        "url": "https://open.spotify.com/album/6LfyurnoMknxDGX50Yfo4e"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158080,
+      "name": "gimme gimme",
+      "url": "https://open.spotify.com/track/1gfID56ITv50NOl2OJjWYr"
     },
     {
       "album": {
@@ -6190,10 +6208,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 158048,
       "name": "holdu",
       "url": "https://open.spotify.com/track/3yS493zkDMt3nGjoDrT9dG"
+    },
+    {
+      "album": {
+        "name": "genr.es (let go/what breaks-1)",
+        "url": "https://open.spotify.com/album/49LEXWD60YW18g75f5YUEA"
+      },
+      "artists": [
+        {
+          "name": "es.cher",
+          "url": "https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "holdu",
+      "url": "https://open.spotify.com/track/4rDjhIe5WXuVPvszcY7z2V"
     },
     {
       "album": {
@@ -12442,7 +12478,7 @@
       },
       "artists": [
         {
-          "name": "Cell m8",
+          "name": "cell m8",
           "url": "https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c"
         }
       ],

@@ -1027,25 +1027,13 @@
     },
     {
       "album": {
-        "name": "I Breathe",
+        "name": "Dearden: i breathe",
         "url": "https://open.spotify.com/album/5278v3tdoLntTaJBDR4zJO"
       },
       "artists": [
         {
           "name": "Nathan James Dearden",
           "url": "https://open.spotify.com/artist/3keK0O9vWz7wWqwU8A1RXg"
-        },
-        {
-          "name": "Ken Jones",
-          "url": "https://open.spotify.com/artist/5G8P02P4tNfcFE9fUEownY"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Arwyn Evans",
-          "url": "https://open.spotify.com/artist/648S90VqBVf3x3zt187JdZ"
         },
         {
           "name": "National Youth Training Choir of Great Britain",
@@ -1060,7 +1048,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 340097,
-      "name": "I Breathe",
+      "name": "i breathe",
       "url": "https://open.spotify.com/track/4QMuAiuUaX1TwfmOLyFPHN"
     },
     {

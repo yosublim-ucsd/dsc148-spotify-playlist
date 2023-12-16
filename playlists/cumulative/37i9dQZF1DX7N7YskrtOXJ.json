@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Super Ladron",
+        "url": "https://open.spotify.com/album/1m8Z8zHCHZiXo5FcXBHIDQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196417,
+      "name": "Super Ladron",
+      "url": "https://open.spotify.com/track/3c7S0Rw8eExdMh7Xypb6ff"
+    },
+    {
+      "album": {
         "name": "Cumbia E' Plaza",
         "url": "https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj"
       },

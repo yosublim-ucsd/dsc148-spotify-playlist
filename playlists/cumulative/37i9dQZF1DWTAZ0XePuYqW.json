@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: Tokischa, Sexyy Redd",
+  "description": "That's that big energy. Cover: Nicki Minaj",
   "name": "Bounce",
   "tracks": [
     {
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 135378,
       "name": "Buckle Up - Remix",
       "url": "https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU"
@@ -996,10 +996,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 163190,
       "name": "Drift",
       "url": "https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m"
+    },
+    {
+      "album": {
+        "name": "Drift (Remix)",
+        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201583,
+      "name": "Drift (Remix)",
+      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
     },
     {
       "album": {
@@ -1241,6 +1263,32 @@
     },
     {
       "album": {
+        "name": "FREAK MODE",
+        "url": "https://open.spotify.com/album/2uzIFN4iNarE40feOvII1l"
+      },
+      "artists": [
+        {
+          "name": "HONEY B",
+          "url": "https://open.spotify.com/artist/2ydEO7mJmIYAeSr4V7y36W"
+        },
+        {
+          "name": "Gayance",
+          "url": "https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic"
+        },
+        {
+          "name": "Dapapa",
+          "url": "https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162391,
+      "name": "FREAK MODE",
+      "url": "https://open.spotify.com/track/7Jzr0VVizV8MgbcAaVMNk3"
+    },
+    {
+      "album": {
         "name": "Gatando la Funda",
         "url": "https://open.spotify.com/album/2hsgCqphv4KLN3P2BlkUs4"
       },
@@ -1322,6 +1370,24 @@
       "duration_ms": 126642,
       "name": "Ghetto & Ratchet",
       "url": "https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64"
+    },
+    {
+      "album": {
+        "name": "Girls Just Wanna",
+        "url": "https://open.spotify.com/album/5nxQak3UtJ8UARd6u3v0SX"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130478,
+      "name": "Girls Just Wanna",
+      "url": "https://open.spotify.com/track/3jlxGtWO91pqDHD3Nb00ku"
     },
     {
       "album": {
@@ -3000,7 +3066,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 189693,
       "name": "Selecta (feat. Stefflon Don)",
       "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"

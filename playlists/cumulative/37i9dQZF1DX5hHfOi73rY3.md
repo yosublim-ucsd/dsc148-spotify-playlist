@@ -4,7 +4,7 @@
 
 > Classic party anthems from the club to your ears!
 
-130 songs - 10 hr 5 min
+131 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2020-11-06 |  |
 | [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 | 2020-11-06 |  |
 | [Finder \- Original](https://open.spotify.com/track/2urGLvUk2UxfGZ7oFxQmuN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/1ubRC7bEVKoI7sD5mqXrFs) | 5:49 | 2020-11-06 | 2022-07-29 |
+| [Get Out My Head](https://open.spotify.com/track/07xO3NvI2Aq37mY59p0g9a) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [House Party 2023](https://open.spotify.com/album/29n2PIJYZqNSVb1Y0kD6h2) | 3:44 | 2023-12-05 |  |
 | [Get Out My Head](https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Get Out My Head](https://open.spotify.com/album/6DwTQ5IU3Tp9YGIyzZwjNw) | 3:44 | 2020-11-06 | 2022-12-02 |
-| [Get Out My Head](https://open.spotify.com/track/3EGbEEe2M6CNFpF8vf8dgW) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [New Year's Eve Party 2022](https://open.spotify.com/album/4SKjR5h4bkN68UlkdSnF6j) | 3:44 | 2020-11-06 |  |
+| [Get Out My Head](https://open.spotify.com/track/3EGbEEe2M6CNFpF8vf8dgW) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [New Year's Eve Party 2022](https://open.spotify.com/album/4SKjR5h4bkN68UlkdSnF6j) | 3:44 | 2020-11-06 | 2023-12-16 |
 | [Gotta Let You Go](https://open.spotify.com/track/2Ter3spX4wzexYMtvAMZum) | [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [25 Best Dance Hits Ever](https://open.spotify.com/album/7iP17fYlk7NCmGFCG7rDEy) | 3:53 | 2020-11-06 | 2022-07-27 |
 | [Grey](https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 93](https://open.spotify.com/album/3ynaPdzABzDYa71e6RSagL) | 4:53 | 2020-11-06 |  |
 | [Hackney Parrot](https://open.spotify.com/track/170ukLhJmsiTNqLHbNtcsG) | [Tessela](https://open.spotify.com/artist/1ZgWT8v2NTxXJapNzqJMnd) | [Hackney Parrot / Helter Skelter](https://open.spotify.com/album/6Dc87OjfKGyKAI6DVTLuzN) | 5:44 | 2020-11-06 | 2022-07-25 |

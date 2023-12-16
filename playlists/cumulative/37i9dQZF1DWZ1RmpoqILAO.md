@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Alex G
 
-201 songs - 13 hr 6 min
+202 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Hard Feelings](https://open.spotify.com/track/68MbMKn42dsBU9bgzHaRXw) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Hard Feelings](https://open.spotify.com/album/6JG9cpogbueo7J6AWLhl6T) | 4:24 | 2023-09-22 |  |
 | [Hard Headed](https://open.spotify.com/track/2mQDrIJA2oN5AKaMZxw1Fe) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [For Jimmy](https://open.spotify.com/album/1odIO8SXRLhIFPphlEGJjY) | 2:47 | 2023-07-21 | 2023-12-09 |
 | [Harlem River](https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR) | 9:15 | 2023-02-23 |  |
-| [Heartbreak Rules](https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu) | 2:06 | 2023-04-28 |  |
+| [Heartbreak Rules](https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu) | 2:06 | 2023-04-28 | 2023-12-16 |
+| [Heartbreak Rules](https://open.spotify.com/track/7Jwq7xvTuh2LrxwyKoTaZa) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/0y3TjjJpd1DtO5fgY8OQX2) | 2:06 | 2023-12-08 |  |
 | [Heaven](https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 3:44 | 2023-09-15 | 2023-09-23 |
 | [Heaven](https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:44 | 2023-09-22 |  |
 | [Heights](https://open.spotify.com/track/43jnzVXFd2wqAvUolUCPHD) | [Thank You Thank You](https://open.spotify.com/artist/4GFoAmLzPM4V8F8HJSVaYA) | [Heights](https://open.spotify.com/album/1zfJzvQyJpDBfhJQ2u6Wt6) | 5:36 | 2023-06-16 |  |

@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-336 songs - 15 hr 19 min
+338 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Doni Moun Ma](https://open.spotify.com/track/3UeCGsTAIf7lZQevVSJsAk) | [Takana Zion](https://open.spotify.com/artist/53zVWdQS2Crw7SYi28Vamh) | [Doni Moun Ma](https://open.spotify.com/album/6KdHRNDcxS2fJSOjnwJ97r) | 2:40 | 2022-12-08 | 2022-12-30 |
 | [Douce comme l'aloco](https://open.spotify.com/track/12eCla0Dc4Ki5jejarfxVg) | [Yelsha](https://open.spotify.com/artist/5i7fohl7VTuGVVn5o9BXQo), [GO GO GO](https://open.spotify.com/artist/4LahtNGtJiYUVUTw6yjR8f) | [Douce comme l'aloco](https://open.spotify.com/album/2HwyYfkQ3BEaWRmPnVoGZA) | 2:24 | 2022-12-15 | 2023-02-24 |
 | [Down](https://open.spotify.com/track/0gGnXH7QOZZEZWfdyCOSri) | [FLAVAONE](https://open.spotify.com/artist/2GFWpFyxWhrhyv7tDM1Hg8), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr) | [Down](https://open.spotify.com/album/0lEXDwuGHhm6AWWdxc3Uxn) | 2:37 | 2022-01-27 | 2022-05-21 |
+| [Drift \(Remix\)](https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Drift \(Remix\)](https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i) | 3:21 | 2023-12-14 |  |
 | [drink & smoke](https://open.spotify.com/track/2ELkJexSujeKTkEAJzcKow) | [Daly](https://open.spotify.com/artist/3f9kMCz94xuAamS24WbmGL), [Reyel Ay](https://open.spotify.com/artist/7ArndI9V96Y7AXKQ4O54FH) | [drink & smoke](https://open.spotify.com/album/2u3sxrg3hYMlcUgWBgGO4w) | 3:10 | 2022-12-22 | 2023-02-10 |
 | [Démonstration](https://open.spotify.com/track/1hRCUh4TNlhRWArnbHFkCM) | [Gifta](https://open.spotify.com/artist/6wuOpQpXXEcI7kE8J9HIMb) | [Démonstration](https://open.spotify.com/album/50ynlIGQ3v3b54GIJPqfet) | 2:55 | 2021-12-22 | 2022-04-15 |
 | [Ek c tou](https://open.spotify.com/track/6Ufsa246KudOlxKXRM2PgG) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Ek c tou](https://open.spotify.com/album/5lT2p0esBtqL6rtKnsg6uC) | 2:14 | 2022-11-24 | 2023-09-15 |
@@ -124,6 +125,7 @@
 | [God a Bless Me](https://open.spotify.com/track/6bi6SUcKHh9NzvSELB75hT) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [God a Bless Me](https://open.spotify.com/album/4pfrKQTJSpdJJqCcaUAefs) | 2:28 | 2023-03-16 | 2023-08-04 |
 | [GOOD TASTE](https://open.spotify.com/track/4ptipoZmsujkYcISXqfeqK) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated \(Deluxe\)](https://open.spotify.com/album/4kzAbEHPhMHmRtT7RMAlg3) | 2:45 | 2023-09-14 |  |
 | [Gou \(feat\. Maurane Voyer\)](https://open.spotify.com/track/3NLhKzG3abdgcYYkcI3eK6) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351) | [Gou \(feat\. Maurane Voyer\)](https://open.spotify.com/album/5y4H7p0msZzx5Q3Gh7tFny) | 3:57 | 2022-03-31 | 2022-10-07 |
+| [Goumen](https://open.spotify.com/track/4GhDKt1JuJFMqsnUcdvMM5) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Goumen](https://open.spotify.com/album/66vT5LnodEZdJkmF9cXpod) | 3:10 | 2023-12-14 |  |
 | [Gout ton trin](https://open.spotify.com/track/286zTlj51DTgkpYT8jyARL) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ), [DJ CHAD](https://open.spotify.com/artist/1jx3ZyoNVuDP9bBTGvCFLL) | [Gout ton trin](https://open.spotify.com/album/1k243OPh2U3mAKavN2GWq1) | 2:46 | 2022-08-25 | 2022-12-16 |
 | [Govern](https://open.spotify.com/track/1Kmw6jCOBXFzJtZpELdNdd) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Govern](https://open.spotify.com/album/33RN9MnEwqH0CwKyZgk1LD) | 3:01 | 2022-06-30 | 2022-08-26 |
 | [GVNG \- Gang](https://open.spotify.com/track/1kc8YZsa1BQ2OgrAKMsPfS) | [Shannon](https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH) | [GVNG \(Gang\)](https://open.spotify.com/album/247PW2quTXFy2GFGUjL9Cq) | 2:26 | 2022-11-03 | 2023-01-27 |

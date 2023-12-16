@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: Junggigo(\uc815\uae30\uace0))",
-  "num_followers": 982069,
+  "num_followers": 982157,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2RmNzQ5YThhZmU1OTZjMzQ5MTgwYmM3M2VmNzg0YzQ4NzE0ZTI5",
+  "snapshot_id": "MCxjZDAxOWZmMTcxMzA0N2RlMWM5ZjEzNDBlZTNmM2Q2MTI5ZWVjMjgz",
   "tracks": [
     {
       "added_at": "2023-12-13 03:34:49",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-12-13 03:34:49",
       "album": {
+        "name": "Birthday - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
+    },
+    {
+      "added_at": "2023-12-13 03:34:49",
+      "album": {
         "name": "Street Woman Fighter2 (SWF2) Class Mission",
         "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 165986,
       "name": "Click Like (Prod. Crush) (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce"
-    },
-    {
-      "added_at": "2023-12-13 03:34:49",
-      "album": {
-        "name": "Birthday - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
     },
     {
       "added_at": "2023-12-13 03:34:49",

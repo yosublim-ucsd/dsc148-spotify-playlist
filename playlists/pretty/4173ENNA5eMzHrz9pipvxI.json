@@ -1,13 +1,57 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Will Taylor (UK)",
-  "num_followers": 121521,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Ummet Ozcan",
+  "num_followers": 121519,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NzIwNyw5NTM1ZWNjYjNlMzk2OWUyMDIxYTA4Yzk2ZmJhODQxMjIyZWVlYjgy",
+  "snapshot_id": "NzI1MyxlMzcxZTVhZWFmOGFkMThkMWI4ZWMyN2UzMjc2YThhMGFjYWU1YTYz",
   "tracks": [
+    {
+      "added_at": "2023-12-15 10:19:33",
+      "album": {
+        "name": "Derni\u00e8re Danse (Aaxis HYPER Mix)",
+        "url": "https://open.spotify.com/album/5K2oYKx6QE6V0hsD1lfIv6"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Axel Cooper",
+          "url": "https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI"
+        },
+        {
+          "name": "SHANGUY",
+          "url": "https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs"
+        },
+        {
+          "name": "Aaxis",
+          "url": "https://open.spotify.com/artist/1EzP6CWfUIHDQ1rpQRxdBi"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Derni\u00e8re Danse (Aaxis HYPER Mix)",
+      "url": "https://open.spotify.com/track/7ajJeUkUltHkIQ0lI0bG7J"
+    },
+    {
+      "added_at": "2023-12-15 10:19:35",
+      "album": {
+        "name": "My Beat Goes",
+        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "My Beat Goes",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
+    },
     {
       "added_at": "2023-12-08 08:05:12",
       "album": {
@@ -23,6 +67,26 @@
       "duration_ms": 187529,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4DQ5w8QsWZLECiNMV3k61j"
+    },
+    {
+      "added_at": "2023-12-08 08:05:12",
+      "album": {
+        "name": "Rave Train",
+        "url": "https://open.spotify.com/album/5he5OdNDgHj1NY1ZUzqEXM"
+      },
+      "artists": [
+        {
+          "name": "Joel Fletcher",
+          "url": "https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR"
+        },
+        {
+          "name": "MorganJ",
+          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Rave Train",
+      "url": "https://open.spotify.com/track/5q5yF4cekhSFdsGFvKpIqA"
     },
     {
       "added_at": "2023-12-08 08:05:12",
@@ -43,6 +107,218 @@
       "duration_ms": 159354,
       "name": "Need To Feel Loved (Ginchy Mix)",
       "url": "https://open.spotify.com/track/3qzs5jAC7uFbZvutvVwcwE"
+    },
+    {
+      "added_at": "2023-12-15 10:19:38",
+      "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/72Y07B7yPHSFnH6XpEF3O8"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "THNDERZ",
+          "url": "https://open.spotify.com/artist/4rCSOIelSj4xsI1Zo5WM23"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/3L0bFYsgS0LSfLmJrsecqT"
+    },
+    {
+      "added_at": "2023-12-15 10:19:40",
+      "album": {
+        "name": "Crazy Like A Fool (Hyper Techno Mix)",
+        "url": "https://open.spotify.com/album/3iFSRQg2OndKYrdusMR3ab"
+      },
+      "artists": [
+        {
+          "name": "Vessbroz",
+          "url": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt"
+        },
+        {
+          "name": "Ian Storm",
+          "url": "https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "Crazy Like A Fool (Hyper Techno Mix)",
+      "url": "https://open.spotify.com/track/4b9bWqeNN6kTZsrvPu19Xm"
+    },
+    {
+      "added_at": "2023-12-15 10:19:43",
+      "album": {
+        "name": "Senta Phonk",
+        "url": "https://open.spotify.com/album/2QG6WHALx5MinMoXVFQ1cH"
+      },
+      "artists": [
+        {
+          "name": "CREEPYMANE",
+          "url": "https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz"
+        }
+      ],
+      "duration_ms": 111111,
+      "name": "Senta Phonk",
+      "url": "https://open.spotify.com/track/4Cp8lWn34Mjro7Z3YuxDSL"
+    },
+    {
+      "added_at": "2023-12-15 10:19:46",
+      "album": {
+        "name": "Jiggy",
+        "url": "https://open.spotify.com/album/4k2tCy484FjePHpiE9mWhm"
+      },
+      "artists": [
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 189878,
+      "name": "Jiggy",
+      "url": "https://open.spotify.com/track/2jmPySIVtU4AG8oNrrng2M"
+    },
+    {
+      "added_at": "2023-12-15 10:19:48",
+      "album": {
+        "name": "Infinity (Khira Li Remix)",
+        "url": "https://open.spotify.com/album/1aECSnrFFtEd839ZxNNEW7"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Khira Li",
+          "url": "https://open.spotify.com/artist/3bek8rwCEzQExpuy8RXRYS"
+        }
+      ],
+      "duration_ms": 137571,
+      "name": "Infinity (Khira Li Remix)",
+      "url": "https://open.spotify.com/track/2EjyjGey5iDm1OTlCBuuSD"
+    },
+    {
+      "added_at": "2023-12-15 10:19:51",
+      "album": {
+        "name": "Move It (with Luciana) [Sam Noton, Alex Mueller, Retrika Remix]",
+        "url": "https://open.spotify.com/album/6ScSg0ieBwxuNj0iddpXJt"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        },
+        {
+          "name": "Alex Mueller",
+          "url": "https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS"
+        },
+        {
+          "name": "Retrika",
+          "url": "https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z"
+        },
+        {
+          "name": "Sam Noton",
+          "url": "https://open.spotify.com/artist/1Ma2cokH15saLZiU2eKrdj"
+        }
+      ],
+      "duration_ms": 134545,
+      "name": "Move It (with Luciana) [Sam Noton, Alex Mueller, Retrika Remix]",
+      "url": "https://open.spotify.com/track/2d4a2pdV2O2aWv20g4LZgd"
+    },
+    {
+      "added_at": "2023-12-15 10:19:54",
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/54Gwf86TuAoruOQp3dSVTR"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4HJhLHwIqtSxNDJ8FpZ0PB"
+    },
+    {
+      "added_at": "2023-12-15 10:19:57",
+      "album": {
+        "name": "Nice & Chill (feat. Snoop Dogg)",
+        "url": "https://open.spotify.com/album/2qbbWIlButDWaIAStr8Aj0"
+      },
+      "artists": [
+        {
+          "name": "HINA",
+          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 155476,
+      "name": "Nice & Chill (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0YpGZ3doNPRq9mMj4kgUZB"
+    },
+    {
+      "added_at": "2023-12-15 10:20:04",
+      "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/3eEEoFXwnBkldpDXQZi1MF"
+      },
+      "artists": [
+        {
+          "name": "Sirona",
+          "url": "https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G"
+        },
+        {
+          "name": "Heyder",
+          "url": "https://open.spotify.com/artist/13zcQXoEQbyGdi7W78d4nc"
+        },
+        {
+          "name": "Leo Menfel",
+          "url": "https://open.spotify.com/artist/0bJsV6l9h6SL1shnegbB9E"
+        }
+      ],
+      "duration_ms": 138613,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/0l67h4r2D4mXd7bUe9AG3W"
+    },
+    {
+      "added_at": "2023-12-15 10:20:00",
+      "album": {
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/58aUMBqCEhtFi2YUf8BsMg"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Wasback",
+          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/7eNnsJH1wW6vf7rkqss0dM"
     },
     {
       "added_at": "2023-12-08 08:05:12",
@@ -131,6 +407,22 @@
     {
       "added_at": "2023-12-08 08:05:12",
       "album": {
+        "name": "Ouaa",
+        "url": "https://open.spotify.com/album/6e5ycTxgYYF5DC9S3o2uGN"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        }
+      ],
+      "duration_ms": 176856,
+      "name": "Ouaa",
+      "url": "https://open.spotify.com/track/45SqfpvLh3waQiHES1ybhh"
+    },
+    {
+      "added_at": "2023-12-08 08:05:12",
+      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/0IKWmzxUti342Ux02h3VlF"
       },
@@ -147,42 +439,6 @@
       "duration_ms": 175100,
       "name": "Like This",
       "url": "https://open.spotify.com/track/6xzmZbfB8WsrWyxJxfMOXo"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Rave Train",
-        "url": "https://open.spotify.com/album/5he5OdNDgHj1NY1ZUzqEXM"
-      },
-      "artists": [
-        {
-          "name": "Joel Fletcher",
-          "url": "https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR"
-        },
-        {
-          "name": "MorganJ",
-          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Rave Train",
-      "url": "https://open.spotify.com/track/5q5yF4cekhSFdsGFvKpIqA"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Ouaa",
-        "url": "https://open.spotify.com/album/6e5ycTxgYYF5DC9S3o2uGN"
-      },
-      "artists": [
-        {
-          "name": "Mairee",
-          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
-        }
-      ],
-      "duration_ms": 176856,
-      "name": "Ouaa",
-      "url": "https://open.spotify.com/track/45SqfpvLh3waQiHES1ybhh"
     },
     {
       "added_at": "2023-12-08 08:05:12",
@@ -255,62 +511,6 @@
     {
       "added_at": "2023-12-01 08:04:07",
       "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/3WJzfCE2HikKdC70KQlURl"
-      },
-      "artists": [
-        {
-          "name": "DOCTUM",
-          "url": "https://open.spotify.com/artist/3MZCjzlSneUMjzcmwhX0ah"
-        }
-      ],
-      "duration_ms": 225639,
-      "name": "D\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/1tH2AvVypiNLmCXWqeh3TM"
-    },
-    {
-      "added_at": "2023-12-08 08:08:05",
-      "album": {
-        "name": "Leel Lost EP",
-        "url": "https://open.spotify.com/album/4RgsfYvXpApdABTEwMy304"
-      },
-      "artists": [
-        {
-          "name": "Relanium",
-          "url": "https://open.spotify.com/artist/2qROcYqTtnhq2HlVi9PGcD"
-        },
-        {
-          "name": "Deen West",
-          "url": "https://open.spotify.com/artist/08nGhIJfIvltdbdmMOdVEq"
-        },
-        {
-          "name": "Tribeat",
-          "url": "https://open.spotify.com/artist/20y6cMkewEHgpYyXmI0KBl"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "Leel Lost (Reloaded) [Relanium & Deen West vs. Tribeat Remix]",
-      "url": "https://open.spotify.com/track/1MFSKTBUxeiMKuk1tUf546"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Learning To Dance (Lanigan\u2019s Ball)",
-        "url": "https://open.spotify.com/album/7iMnWMLVJNky9Mrdzr0aiC"
-      },
-      "artists": [
-        {
-          "name": "Chasing Abbey",
-          "url": "https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Learning To Dance (Lanigan's Ball)",
-      "url": "https://open.spotify.com/track/1nZ0RbTN483b6clpsSeTgf"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
         "name": "Tears On The Dancefloor (feat. Hannah Boleyn) [Night Mode]",
         "url": "https://open.spotify.com/album/3ZTNZLchGn3DaAFUsFiv6q"
       },
@@ -327,234 +527,6 @@
       "duration_ms": 173554,
       "name": "Tears On The Dancefloor (feat. Hannah Boleyn) [Night Mode]",
       "url": "https://open.spotify.com/track/3Ysfj7yYSGHB9c2RTs4RWG"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Krazy (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2BWath6tDeVUaOSdlGmuuD"
-      },
-      "artists": [
-        {
-          "name": "VASSY",
-          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
-        }
-      ],
-      "duration_ms": 147130,
-      "name": "Krazy - Acoustic Version",
-      "url": "https://open.spotify.com/track/2kepkQHFgjzrwrh8Iula0A"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "ROCK TO THE BEAT",
-        "url": "https://open.spotify.com/album/7ghu82mOkxf2YqzIOxvSz2"
-      },
-      "artists": [
-        {
-          "name": "DONT BLINK",
-          "url": "https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "ROCK TO THE BEAT",
-      "url": "https://open.spotify.com/track/6bZqz7UeUCiHiyRMgz7aKx"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "We Rolling Loud",
-        "url": "https://open.spotify.com/album/5Fk6zRA3HBENLEmK2bQ7lO"
-      },
-      "artists": [
-        {
-          "name": "Vigel",
-          "url": "https://open.spotify.com/artist/72S5xAuE30pC3FHJHaz5CQ"
-        },
-        {
-          "name": "TBR",
-          "url": "https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv"
-        }
-      ],
-      "duration_ms": 142941,
-      "name": "We Rolling Loud",
-      "url": "https://open.spotify.com/track/3aRIoF4Klv9ZNzHelbxYVK"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Scared To Love",
-        "url": "https://open.spotify.com/album/6Bz0WmqzDvAUWbS2xW2pa0"
-      },
-      "artists": [
-        {
-          "name": "Krimsonn",
-          "url": "https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "Scared To Love",
-      "url": "https://open.spotify.com/track/2cFAjoXdVXnLcgkWYSNbME"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Astral",
-        "url": "https://open.spotify.com/album/0DtwC1JnhLauWScfreOPcK"
-      },
-      "artists": [
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        }
-      ],
-      "duration_ms": 241406,
-      "name": "Astral",
-      "url": "https://open.spotify.com/track/6GL1mt1RSseUaOVOrlfI2h"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Droppin' It (La La La)",
-        "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "BURNERS!",
-          "url": "https://open.spotify.com/artist/6G31XehhFwtvxM36etz7zw"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Droppin' It (La La La)",
-      "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Jumpstarter",
-        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 173592,
-      "name": "Jumpstarter",
-      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Hypnotized (feat. Tania Foster)",
-        "url": "https://open.spotify.com/album/0UX6Jk1Fvi3XHecErHxlxn"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Tania Foster",
-          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
-        }
-      ],
-      "duration_ms": 153616,
-      "name": "Hypnotized (feat. Tania Foster)",
-      "url": "https://open.spotify.com/track/5juF5oTs504n3JKXDqoA03"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Last Christmas (with Francesco Yates)",
-        "url": "https://open.spotify.com/album/1MvY7IM2KrEVbYDFgyAvm8"
-      },
-      "artists": [
-        {
-          "name": "Domeno",
-          "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
-        },
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 167072,
-      "name": "Last Christmas (with Francesco Yates)",
-      "url": "https://open.spotify.com/track/5rKIc3sIadrg4VN52lSh5h"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Go For Excellence (Official 2024 UEC Track Elite European Championships Song)",
-        "url": "https://open.spotify.com/album/1JUhV8Oc5fLUQy7LMLsbrl"
-      },
-      "artists": [
-        {
-          "name": "Larce",
-          "url": "https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX"
-        }
-      ],
-      "duration_ms": 162023,
-      "name": "Go For Excellence (Official 2024 UEC Track Elite European Championships Song)",
-      "url": "https://open.spotify.com/track/5KCduRuAvh8iymzzH4jFPz"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Cotton Candy Clouds (Sped Up Version)",
-        "url": "https://open.spotify.com/album/2UNj6HA3VYLNVjhA4AMq9P"
-      },
-      "artists": [
-        {
-          "name": "Valntn",
-          "url": "https://open.spotify.com/artist/1sdnOXw9epamqw5ERPK8T5"
-        },
-        {
-          "name": "Sweater Beats",
-          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
-        },
-        {
-          "name": "Trevor Dering",
-          "url": "https://open.spotify.com/artist/2CBKZUJVsx1kf3xqanzKSR"
-        }
-      ],
-      "duration_ms": 116402,
-      "name": "Cotton Candy Clouds - Sped Up Version",
-      "url": "https://open.spotify.com/track/1Ur4teRkXw2I2M3EomviIt"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Cotton Candy Clouds (Slowed Down Version)",
-        "url": "https://open.spotify.com/album/7tL6SXnPNu8wgcrwhSKJD9"
-      },
-      "artists": [
-        {
-          "name": "Valntn",
-          "url": "https://open.spotify.com/artist/1sdnOXw9epamqw5ERPK8T5"
-        },
-        {
-          "name": "Sweater Beats",
-          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
-        },
-        {
-          "name": "Trevor Dering",
-          "url": "https://open.spotify.com/artist/2CBKZUJVsx1kf3xqanzKSR"
-        }
-      ],
-      "duration_ms": 195765,
-      "name": "Cotton Candy Clouds - Slowed Down Version",
-      "url": "https://open.spotify.com/track/7MRoChkgP5URYVcMDS79lC"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

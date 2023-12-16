@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,684 likes - 54 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,697 likes - 54 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 | 21 | [Aston](https://open.spotify.com/track/0F3O5aPpF30lw1NkC8Vm3j) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM) | [Aston](https://open.spotify.com/album/39JtI95D6Q7tsVpqHTYmxR) | 2:32 |
 | 22 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 |
 | 23 | [Digital World](https://open.spotify.com/track/3H9SvLEsW0vOItmOREgZrm) | [Locked Groove](https://open.spotify.com/artist/0Dc7CbTE5mcvrprttS6GDs) | [Nautiluss](https://open.spotify.com/album/73q9HeJy1LaVJ6qU6O5vN8) | 6:43 |
-| 24 | [Element](https://open.spotify.com/track/4P3aMyIZgpQF3xlUbU73FE) | [Parasense](https://open.spotify.com/artist/5RvzadMMtdwFV3bMUiilJH) | [Apple](https://open.spotify.com/album/4RHqVGRoPy8zcio6GyVShs) | 6:41 |
+| 24 | [Element](https://open.spotify.com/track/2JPFPPFnoUfOqWND8NsRiC) | [Parasense](https://open.spotify.com/artist/5RvzadMMtdwFV3bMUiilJH) | [Apple](https://open.spotify.com/album/1SyYuO5oD38i8rEB8tOrh6) | 6:41 |
 | 25 | [Always](https://open.spotify.com/track/66fgwLSpAkyfI2GAQne9pZ) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu), [Latrice Pink](https://open.spotify.com/artist/1YDeb6JCJ3uyt6l9TZGvtt) | [Always](https://open.spotify.com/album/178sak90jvmbB53cdhuTVw) | 4:15 |
 | 26 | [Bassous](https://open.spotify.com/track/2wbaaQN1Q17hwWBpHsJzel) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [All Caps](https://open.spotify.com/album/1sXHoAxzB4MG62AaSDPToo) | 3:25 |
 | 27 | [05h33 \(Adagio, Piano Sonata No\. 14, "Moonlight"\) \- Beethoven Remixed](https://open.spotify.com/track/3jDTHms2Cnyptxhdya2gUq) | [Anna Moreau](https://open.spotify.com/artist/0EmuKBNjozY65uHHQcah6V), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [05h33 \(Adagio, Piano Sonata No\. 14, "Moonlight"\) \- Beethoven Remixed](https://open.spotify.com/album/6VWhSZHVZDkeSVNj7LlXBx) | 6:19 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 | 53 | [Children of the Last Generation](https://open.spotify.com/track/5GM4dhQXkxtHFCV5aM1zC7) | [X\-Dream](https://open.spotify.com/artist/2Wmyxn5qWyLPWKeEMmJKHc) | [The Best 1991\-2001](https://open.spotify.com/album/2y5avewOLhUVGT1xm3o6Og) | 7:45 |
 | 54 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
 
-Snapshot ID: `MCw1NGY3MjYzYjk3YTJhYTQwZWJhZTA1YzI4NmM1NTBiMDczZTMyMWQ4`
+Snapshot ID: `MCwzZDU3OTA1YTFhMjAyZWIwZTZmNDk0OWE4ODU2N2M3NjlhNTg3NDdm`

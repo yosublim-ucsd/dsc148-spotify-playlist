@@ -4,7 +4,7 @@
 
 > An eclectic mix of past & current indie favourites\. Cover: Alvvays
 
-694 songs - 1 day 18 hr 16 min
+695 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 | 2022-05-03 | 2022-08-24 |
 | [Ani Kuni](https://open.spotify.com/track/1PiASZMKp39IsWwiiIYgPO) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 4:37 | 2022-08-23 | 2023-02-11 |
 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/3nKNCpvNgue4dRPqPbywU8) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/3mRsBbFRdp7q0p8gPBMewd) | 4:35 | 2020-10-29\* | 2022-04-15 |
-| [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 | 2023-06-30 | 2023-12-09 |
+| [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 | 2023-06-30 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 | 2023-03-03 |  |
 | [Are We Together Now](https://open.spotify.com/track/2nKnZyt7iJ2fEOXYP0Qirm) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Are We Together Now](https://open.spotify.com/album/00zW9IwTTzyhZjqC4666oS) | 3:36 | 2021-02-22 | 2022-04-14 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2020-10-29\* |  |
@@ -219,7 +219,7 @@
 | [First Responders](https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 4:49 | 2020-12-07 | 2022-04-16 |
 | [Flash Flood](https://open.spotify.com/track/4cW6GUJBAkriRl34X2JNGq) | [Very Very](https://open.spotify.com/artist/0javh7fJTS6ShdIos7i9Lu) | [Flash Flood](https://open.spotify.com/album/29PmL9WsauZc9UBjOWL28f) | 2:41 | 2021-03-22 | 2022-07-15 |
 | [Flesh and Blood](https://open.spotify.com/track/2KTJVSyWl3HzUnKFDHJm2S) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Flesh and Blood](https://open.spotify.com/album/21A1mTXZv6KgP7ar2RX4NQ) | 4:57 | 2021-01-15 | 2022-07-27 |
-| [Flight Risk](https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 0:59 | 2023-02-10 |  |
+| [Flight Risk](https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 0:59 | 2023-02-10 | 2023-12-16 |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2021-11-10 |  |
 | [Forest Fire](https://open.spotify.com/track/0JTByFsit77qAkotS0CsmB) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Forest Fire](https://open.spotify.com/album/5SWPWLaRd5apoCsmZCuFbZ) | 4:18 | 2020-10-29\* | 2022-06-19 |
 | [Forgotten Souls](https://open.spotify.com/track/2HXlntIqqIgu4ibdVYk4I3) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Forgotten Souls](https://open.spotify.com/album/6FsbKlxfpfinK7PUxKTQPD) | 2:55 | 2021-08-19 | 2022-07-15 |
@@ -530,7 +530,8 @@
 | [Ship To Shore](https://open.spotify.com/track/11rx0vLYmsFFesM99QbLS8) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Ship To Shore](https://open.spotify.com/album/4oL86CarNwerOru4H6cuZ1) | 3:28 | 2021-02-09 | 2022-04-15 |
 | [shoes](https://open.spotify.com/track/1KtZRWY1IxFwKh51uyml8k) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Tatsuya Muraoka](https://open.spotify.com/artist/3GwceQgjHyvmLjwIuLpKYE) | [shoes](https://open.spotify.com/album/6WR0dOTetatku6oqgO5Di5) | 4:32 | 2020-10-29\* | 2022-07-29 |
 | [Show Me Everything](https://open.spotify.com/track/3KQMcnKOXIV9Sn8df8e2I2) | [Said The Whale](https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe) | [Show Me Everything](https://open.spotify.com/album/39xdyQgBP6FjaoZE3zHJRD) | 3:25 | 2021-08-08 | 2022-07-28 |
-| [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2023-02-10 |  |
+| [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2023-02-10 | 2023-12-16 |
+| [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 | 2023-12-08 |  |
 | [Side Tracked](https://open.spotify.com/track/6TN3PYWkbxrvReyihv8f8X) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Uncle, Duke & The Chief](https://open.spotify.com/album/1INB4czC4YGmgaKe32bi8t) | 3:48 | 2021-01-15 | 2022-04-12 |
 | [Silhouette](https://open.spotify.com/track/6UHn3RCz0gFk8elCDzhLDZ) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [ELEMENTS Vol\. 1](https://open.spotify.com/album/1c39zRl2zcy9c4rZoLLEGm) | 3:17 | 2021-04-19 | 2022-03-31 |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2022-08-23 | 2022-10-07 |

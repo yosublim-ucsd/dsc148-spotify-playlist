@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-168 songs - 9 hr 5 min
+169 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Perceptions](https://open.spotify.com/track/2p6aUfi3f2dP3CWzeyMj5W) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5Mg4X8prOVvFQTphWIxjSw) | 2:52 | 2022-11-07 | 2022-12-12 |
 | [Perceptions](https://open.spotify.com/track/3l2bfJwIejAb1RsLop8yQm) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6ytGMqdfc9lXcGPIxRB0y6) | 2:52 | 2022-11-07 | 2023-02-15 |
 | [Perceptions](https://open.spotify.com/track/6PwLqNEDYKaVhNk7Aeonnu) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5ITO0u3GqWfE5wIx2nXbJ5) | 2:52 | 2022-11-07 | 2023-01-19 |
-| [Perceptions](https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5BcPRt3YRZyq9vKkjMXuvF) | 2:53 | 2022-11-07 |  |
+| [Perceptions](https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5BcPRt3YRZyq9vKkjMXuvF) | 2:53 | 2022-11-07 | 2023-12-16 |
+| [Perceptions](https://open.spotify.com/track/5JOtNkA1yyV0dreSnmbLGT) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality \#2](https://open.spotify.com/album/6A5tIdJUuOGiuRnXpbvTtk) | 2:53 | 2023-06-27 |  |
 | [Petrichor](https://open.spotify.com/track/3aocn9BnUsX1UsGAJ4tjcN) | [Evalian Massey](https://open.spotify.com/artist/79NDuAMpq7SsjrMzPvAqFZ) | [Petrichor](https://open.spotify.com/album/2AI9nQVGaE0TD3SyVGESLX) | 1:19 | 2022-04-01 | 2022-09-03 |
 | [Piano Trio No\. 2 in E Minor, Op\. 92: III\. Andante con moto](https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Trio Zadig](https://open.spotify.com/artist/7oWMf0cOlv11D8rSquhOd0) | [Orpheus\. Hommage à Saint\-Saëns](https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ) | 4:08 | 2022-04-01 |  |
 | [Pinô](https://open.spotify.com/track/2Ai5UUXyxaulVbompgrzlo) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:45 | 2022-04-22 | 2022-09-03 |

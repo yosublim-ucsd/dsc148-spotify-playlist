@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-70 songs - 6 hr 20 min
+71 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Digital World](https://open.spotify.com/track/3H9SvLEsW0vOItmOREgZrm) | [Locked Groove](https://open.spotify.com/artist/0Dc7CbTE5mcvrprttS6GDs) | [Nautiluss](https://open.spotify.com/album/73q9HeJy1LaVJ6qU6O5vN8) | 6:43 | 2023-02-16 |  |
 | [Don't Give Up \- 2012 Remaster](https://open.spotify.com/track/1wKkRvZnuVde5OYhKwTMeY) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 6:33 | 2023-02-16 | 2023-03-25 |
 | [Dúnn Dubbing](https://open.spotify.com/track/66RGNQOZWXbNFAFESBJRAO) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82), [DJ Sotofett](https://open.spotify.com/artist/6XKpS1uSV0qmFmeyZO6mzp) | [Sputters](https://open.spotify.com/album/1uDLHtKvJS3tf2FVJ0pVV4) | 4:25 | 2023-02-16 |  |
-| [Element](https://open.spotify.com/track/4P3aMyIZgpQF3xlUbU73FE) | [Parasense](https://open.spotify.com/artist/5RvzadMMtdwFV3bMUiilJH) | [Apple](https://open.spotify.com/album/4RHqVGRoPy8zcio6GyVShs) | 6:41 | 2023-02-16 |  |
+| [Element](https://open.spotify.com/track/2JPFPPFnoUfOqWND8NsRiC) | [Parasense](https://open.spotify.com/artist/5RvzadMMtdwFV3bMUiilJH) | [Apple](https://open.spotify.com/album/1SyYuO5oD38i8rEB8tOrh6) | 6:41 | 2023-08-11 |  |
+| [Element](https://open.spotify.com/track/4P3aMyIZgpQF3xlUbU73FE) | [Parasense](https://open.spotify.com/artist/5RvzadMMtdwFV3bMUiilJH) | [Apple](https://open.spotify.com/album/4RHqVGRoPy8zcio6GyVShs) | 6:41 | 2023-02-16 | 2023-12-16 |
 | [EVO.06](https://open.spotify.com/track/30pkUUydiYqgp5b3HvwSZf) | [CRAVO](https://open.spotify.com/artist/0h3LDqJWxHfdM76kVnfGcY) | [EVO](https://open.spotify.com/album/3oA5t5wYnXHZloqSfgcE4T) | 6:11 | 2023-02-16 |  |
 | [Floating Away in a Hole Darker Than Yours \- Melvin White Remix](https://open.spotify.com/track/6mnR0EJXmQPG5stEW9liQ6) | [I\-F](https://open.spotify.com/artist/4JEj4gtpwF2dnnBZuNwpwT), [Melvin White](https://open.spotify.com/artist/7Mz0Yi1a95Cjri0LpkV2Jq) | [The Man from Pack](https://open.spotify.com/album/2PJntPpT9rVc1q492EnRqm) | 4:40 | 2023-02-16 |  |
 | [Fock Music](https://open.spotify.com/track/0LKqm7QTZ9IViOZzDX8fSG) | [Pantomiman](https://open.spotify.com/artist/4YY17UFbIA2EXhF78H6UDP), [Fungus Funk](https://open.spotify.com/artist/0xqTHxXphPeLQgShl2REz7) | [No Jokes](https://open.spotify.com/album/1QmTzcOVQqbxc9QZkflZLI) | 7:42 | 2023-03-24 |  |

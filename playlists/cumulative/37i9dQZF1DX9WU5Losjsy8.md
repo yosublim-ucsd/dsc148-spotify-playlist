@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-99 songs - 5 hr 0 min
+100 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Hurra die Gams](https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV) | [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Hurra die Gams](https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y) | 3:24 | 2023-07-14 |  |
 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 | 2023-07-14 |  |
 | [Ich liebe das Leben \- Stereoact \#Remix](https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ich liebe das Leben \(Stereoact \#Remix\)](https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4) | 3:23 | 2023-07-14 |  |
-| [Ich schieß mich weg](https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Ich schieß mich weg](https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg) | 2:07 | 2023-08-28 |  |
+| [Ich schieß mich weg](https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Ich schieß mich weg](https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg) | 2:07 | 2023-08-28 | 2023-12-16 |
+| [Ich schwanke noch](https://open.spotify.com/track/3OKZWo5UysbgFcBh0H12Su) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Ich schwanke noch](https://open.spotify.com/album/742VvDCF4zXCzI8GmFsjuM) | 3:29 | 2023-12-11 |  |
 | [Ich schwanke noch](https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Ich schwanke noch](https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN) | 3:29 | 2023-07-14 | 2023-12-09 |
 | [Igel](https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Igel](https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv) | 2:14 | 2023-09-18 | 2023-12-08 |
 | [Inselfieber](https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS) | [Peter Wackel](https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb) | [Inselfieber](https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL) | 2:33 | 2023-07-14 |  |

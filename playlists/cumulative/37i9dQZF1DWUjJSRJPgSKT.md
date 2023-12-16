@@ -2,7 +2,7 @@
 
 ### [Upbeat Jazz](https://open.spotify.com/playlist/37i9dQZF1DWUjJSRJPgSKT)
 
-> Uptempo jazz classics.
+> Uptempo jazz classics\. Cover: McCoy Tyner
 
 114 songs - 12 hr 29 min
 

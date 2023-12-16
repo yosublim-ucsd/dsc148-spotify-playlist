@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 172548,
       "name": "Anestesiado - Ao Vivo",
       "url": "https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8"
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 208658,
       "name": "Automotivo do Pou",
       "url": "https://open.spotify.com/track/0Tcmw0oNHha8kOIjmpiquE"
@@ -3846,6 +3846,24 @@
       "duration_ms": 163426,
       "name": "Bagulho \u00c9 Loco Mano - Ao Vivo",
       "url": "https://open.spotify.com/track/5D6xHKz2ma8odghPs5zMgG"
+    },
+    {
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "Bahm Bahm",
+      "url": "https://open.spotify.com/track/2pwC49pIHyJKmbhlGa3lqL"
     },
     {
       "album": {
@@ -28008,7 +28026,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 198817,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
@@ -37078,7 +37096,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 288000,
       "name": "TRAP DE MALOKA",
       "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
@@ -38478,6 +38496,24 @@
       "duration_ms": 147645,
       "name": "VAI POR MIM",
       "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico, Vol. 5",
+        "url": "https://open.spotify.com/album/16Zqfc7s1kWjcUZTzJGg7I"
+      },
+      "artists": [
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271192,
+      "name": "Vai Ser T\u00e3o Lindo",
+      "url": "https://open.spotify.com/track/5bAcu6gmtS5YCoCzNS4vny"
     },
     {
       "album": {

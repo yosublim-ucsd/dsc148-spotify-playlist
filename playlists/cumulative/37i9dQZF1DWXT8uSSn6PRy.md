@@ -2,7 +2,7 @@
 
 ### [Hot Hits Canada](https://open.spotify.com/playlist/37i9dQZF1DWXT8uSSn6PRy)
 
-> The hottest tracks in the North\. Cover: Jack Harlow
+> The hottest tracks in the North\. Cover: Nicki Minaj
 
 579 songs - 1 day 6 hr 31 min
 

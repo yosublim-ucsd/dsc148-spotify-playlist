@@ -1,12 +1,12 @@
 {
   "description": "Open that sh*t up! ",
-  "num_followers": 42610,
+  "num_followers": 43087,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGRjZTdlMTYzMTY1YjQwMTU2YzVlZjlkY2UzYWYyNjA2MTM1OTQ5",
+  "snapshot_id": "MCxhODZiZmZhZTcwZDliNTg3ZWVmNzZhMTk0YjY1YjY5MDE0YzZhMjgz",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
     },
     {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "DIRTY SPOT / 4 to 6",
+        "url": "https://open.spotify.com/album/3PEosVTHOA42DbW4OGLlER"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "duration_ms": 148687,
+      "name": "DIRTY SPOT",
+      "url": "https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX"
+    },
+    {
       "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Mafia Musik",
@@ -335,30 +351,6 @@
       "duration_ms": 134265,
       "name": "Kome On",
       "url": "https://open.spotify.com/track/4wC7ol2740ZTBMUX8QCA3J"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "1of1",
-        "url": "https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi"
-      },
-      "artists": [
-        {
-          "name": "Hardrock",
-          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
-        },
-        {
-          "name": "BNYX\u00ae",
-          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
-        },
-        {
-          "name": "F1LTHY",
-          "url": "https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC"
-        }
-      ],
-      "duration_ms": 155690,
-      "name": "WA\\VE",
-      "url": "https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -423,22 +415,6 @@
       "duration_ms": 100500,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/4pXChuim76A52lXVvFSozF"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "1of1",
-        "url": "https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi"
-      },
-      "artists": [
-        {
-          "name": "Hardrock",
-          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "bleh",
-      "url": "https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -523,6 +499,22 @@
       "duration_ms": 105954,
       "name": "Uzi Work",
       "url": "https://open.spotify.com/track/4wBaBLQcSSzjdcEC93YxPG"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "1of1",
+        "url": "https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "bleh",
+      "url": "https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU"
     },
     {
       "added_at": "2023-12-01 03:00:00",

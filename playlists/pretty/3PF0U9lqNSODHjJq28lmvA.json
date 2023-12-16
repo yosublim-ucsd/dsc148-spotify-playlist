@@ -1,228 +1,396 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2275,
+  "num_followers": 2276,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "ODg5LDE4ODg2MjAwNjFkZGU3YTgwZWY2ZmI0NTMwYjk0ZTQ0YTBiYzkyNTQ=",
+  "snapshot_id": "ODkxLGViYWIzZTg2NTI2YmVmNGZiZjZjMzUyNGE1YWI3MTM5NDMwZTMyNmI=",
   "tracks": [
     {
-      "added_at": "2023-12-08 15:49:50",
+      "added_at": "2023-12-15 12:50:30",
       "album": {
-        "name": "Luften \u00e4r fri",
-        "url": "https://open.spotify.com/album/48Y4sF9VrkBpuEZBAn9O5f"
+        "name": "Losing My Religion (Mikosonic Remix)",
+        "url": "https://open.spotify.com/album/2WqNxDv6awfT6Il4hiTvDq"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rn Rosenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/11xRVFTsfUOVt4vSVX865Q"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Luften \u00e4r fri",
-      "url": "https://open.spotify.com/track/11HtxAcxaOV9ay28VMBHBN"
-    },
-    {
-      "added_at": "2023-12-08 15:49:50",
-      "album": {
-        "name": "Jag \u00c4r H\u00e4r",
-        "url": "https://open.spotify.com/album/6q27Jf82hsNEIO0lCnHKDb"
-      },
-      "artists": [
-        {
-          "name": "Py B\u00e4ckman",
-          "url": "https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Jag \u00c4r H\u00e4r",
-      "url": "https://open.spotify.com/track/6DuYea84bf9OmPcHHBwrBU"
-    },
-    {
-      "added_at": "2023-12-08 15:49:50",
-      "album": {
-        "name": "Idiot",
-        "url": "https://open.spotify.com/album/6ztNIwQ79LSr81HtJi0RYm"
-      },
-      "artists": [
-        {
-          "name": "Queff",
-          "url": "https://open.spotify.com/artist/2M9VVcGHSZwK5un7M5ffeR"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         },
         {
-          "name": "Jack Moy",
-          "url": "https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU"
+          "name": "Mikosonic",
+          "url": "https://open.spotify.com/artist/1wy0gDq3U3T5dA9Pzay47k"
         }
       ],
-      "duration_ms": 204521,
-      "name": "Idiot",
-      "url": "https://open.spotify.com/track/78xWljohYoIn9nm5ZAWyW3"
+      "duration_ms": 192951,
+      "name": "Losing My Religion - Mikosonic Remix",
+      "url": "https://open.spotify.com/track/3MjnG4Xw81GU5JX50srgvz"
     },
     {
-      "added_at": "2023-12-08 15:49:50",
+      "added_at": "2023-12-15 12:50:30",
       "album": {
-        "name": "December Snow",
-        "url": "https://open.spotify.com/album/4SS4mrjrsesbVpR6Kecxab"
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/4rJWp5pc7PGlmj6cL3t6Wj"
       },
       "artists": [
         {
-          "name": "Ojay",
-          "url": "https://open.spotify.com/artist/4Ohu0UoFPZKuy5gIEedZtq"
+          "name": "Headplate",
+          "url": "https://open.spotify.com/artist/1stV6oo9asbFSMafjLzL9m"
         }
       ],
-      "duration_ms": 269336,
-      "name": "December Snow",
-      "url": "https://open.spotify.com/track/6fQoUdCXHqRIu1GyLaPGcF"
+      "duration_ms": 272000,
+      "name": "No Rest To Heal",
+      "url": "https://open.spotify.com/track/76Px009n6VhCUWsG0nV3dE"
     },
     {
-      "added_at": "2023-12-08 15:49:50",
+      "added_at": "2023-12-15 12:50:30",
       "album": {
-        "name": "Det ble lys",
-        "url": "https://open.spotify.com/album/1rywUP6pf2gS8Cz5uD3Wob"
+        "name": "Nothing has changed but everything is different",
+        "url": "https://open.spotify.com/album/2w61bwoyeu2VyE7Jnrs3Iw"
       },
       "artists": [
         {
-          "name": "Oddrun M. Hyttedalen",
-          "url": "https://open.spotify.com/artist/27rl6nPlX53qzf93bWGbgh"
+          "name": "PreHistoric animals",
+          "url": "https://open.spotify.com/artist/35C49Ko2ZqxepW3lgnYc78"
         }
       ],
-      "duration_ms": 269500,
-      "name": "Det ble lys",
-      "url": "https://open.spotify.com/track/0Iy1SFRWCx7XFBJSHrYZf4"
+      "duration_ms": 513573,
+      "name": "Nothing has changed but everything is different",
+      "url": "https://open.spotify.com/track/4u3Pz5TNTnS1iees3KJ91w"
     },
     {
-      "added_at": "2023-12-08 15:49:50",
+      "added_at": "2023-12-15 12:50:30",
       "album": {
-        "name": "Hipster City",
-        "url": "https://open.spotify.com/album/6WpeUEFMcE0cVXxhiLfBTv"
+        "name": "Dovhjorten",
+        "url": "https://open.spotify.com/album/6N7zA5CG3xpqQ0BrzCgGNm"
       },
       "artists": [
         {
-          "name": "Animal Science",
-          "url": "https://open.spotify.com/artist/0OivwVV1Bl8DtfUXn3M1eu"
-        }
-      ],
-      "duration_ms": 182695,
-      "name": "Hipster City",
-      "url": "https://open.spotify.com/track/7xxvAQ7S5FgSGsBzACcAKe"
-    },
-    {
-      "added_at": "2023-12-08 15:49:50",
-      "album": {
-        "name": "Kulkijana y\u00f6ss\u00e4",
-        "url": "https://open.spotify.com/album/6sKUVkTQ3LKAoTLlTMpcxj"
-      },
-      "artists": [
-        {
-          "name": "Kallio Calibro",
-          "url": "https://open.spotify.com/artist/0KQ3YlZ3az76fjP5d5faBU"
-        }
-      ],
-      "duration_ms": 317117,
-      "name": "Kulkijana Y\u00f6ss\u00e4",
-      "url": "https://open.spotify.com/track/0mBRyEbfjnk7jcEx73mgPd"
-    },
-    {
-      "added_at": "2023-12-08 15:49:50",
-      "album": {
-        "name": "5 New Songs of Half Shadow",
-        "url": "https://open.spotify.com/album/109bfh07HFMYHlZCb3O6vU"
-      },
-      "artists": [
-        {
-          "name": "Half Shadow",
-          "url": "https://open.spotify.com/artist/6RkFZTrZa901MJ2VfgJMLL"
-        }
-      ],
-      "duration_ms": 193050,
-      "name": "Dream, Pt. II",
-      "url": "https://open.spotify.com/track/05dIXziFSyDtBTKIuD4Mdx"
-    },
-    {
-      "added_at": "2023-12-08 15:49:50",
-      "album": {
-        "name": "Ohh",
-        "url": "https://open.spotify.com/album/1IzcHnhWJr0e56Yn8RFtl2"
-      },
-      "artists": [
-        {
-          "name": "Sinta",
-          "url": "https://open.spotify.com/artist/7HBSboSstLx7j6vgyZOeQF"
-        }
-      ],
-      "duration_ms": 236677,
-      "name": "Ohh",
-      "url": "https://open.spotify.com/track/7uwaHcV1muBsHQbsslWnDi"
-    },
-    {
-      "added_at": "2023-12-08 15:49:50",
-      "album": {
-        "name": "Allt f\u00f6r k\u00e4rlek / I dimmans ljus",
-        "url": "https://open.spotify.com/album/6KdjRA7tKGWuu3h0y78EbZ"
-      },
-      "artists": [
-        {
-          "name": "Jazzparken",
-          "url": "https://open.spotify.com/artist/4YPsmjPRxmabi1Iqm6RIkk"
-        }
-      ],
-      "duration_ms": 202354,
-      "name": "Allt f\u00f6r k\u00e4rlek",
-      "url": "https://open.spotify.com/track/1lb4Iy6793sdlU7BDGcVbJ"
-    },
-    {
-      "added_at": "2023-12-08 15:49:50",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3LzTiNTTJRoIg9Mo63x9dR"
-      },
-      "artists": [
-        {
-          "name": "ADEM",
-          "url": "https://open.spotify.com/artist/3gjlBLrv91ayzeTUbQwLVl"
-        }
-      ],
-      "duration_ms": 184101,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/0C2ZxYirQUMk25zd2wdDc1"
-    },
-    {
-      "added_at": "2023-12-08 15:49:50",
-      "album": {
-        "name": "Den 300-\u00e5riga Freden",
-        "url": "https://open.spotify.com/album/1tdGhGgWOmLmD9GYZLoxgn"
-      },
-      "artists": [
-        {
-          "name": "Tbaxtstan",
-          "url": "https://open.spotify.com/artist/0HhFOkZCQMSTdUJ17hy4pm"
+          "name": "Dark Sven",
+          "url": "https://open.spotify.com/artist/5rXtti22zmqOaYMCsTgbgv"
         },
         {
-          "name": "Alexander Danielsson",
-          "url": "https://open.spotify.com/artist/7f1jMD3yICHWTkb0yAiIgK"
+          "name": "Stella Lone",
+          "url": "https://open.spotify.com/artist/3XbjS22ciwQGPbLmjA2bgE"
         }
       ],
-      "duration_ms": 182071,
-      "name": "Bryggor till gr\u00e4nder",
-      "url": "https://open.spotify.com/track/7mSXleUYesENUpTDbkSjoU"
+      "duration_ms": 178000,
+      "name": "Dovhjorten",
+      "url": "https://open.spotify.com/track/2HKjh6AzhVC94GCkl3YiSY"
     },
     {
-      "added_at": "2023-12-08 15:49:50",
+      "added_at": "2023-12-15 12:50:30",
       "album": {
-        "name": "What Do You Mean To Me",
-        "url": "https://open.spotify.com/album/4nKLqJNvXtX8I5Mn10L2V1"
+        "name": "T\u00c4HTENI / VALONS\u00c4TEET",
+        "url": "https://open.spotify.com/album/37xPYC6AbpCEXeuxnsz2Kh"
       },
       "artists": [
         {
-          "name": "Jacey Hamill",
-          "url": "https://open.spotify.com/artist/66IByFsoCXiclHNVwl7lY6"
+          "name": "SOPANEN",
+          "url": "https://open.spotify.com/artist/2mdMIXCIKrXxm3k1HPOczh"
         }
       ],
-      "duration_ms": 185759,
-      "name": "The Black Flag Blues",
-      "url": "https://open.spotify.com/track/7KnEpRnX0BDoSsgq73boB0"
+      "duration_ms": 183913,
+      "name": "T\u00c4HTENI",
+      "url": "https://open.spotify.com/track/3ZqmKcbo1WxauGCnV79Syk"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "Nubuwwah",
+        "url": "https://open.spotify.com/album/7l8xNw0iePmYOcfMgJU57f"
+      },
+      "artists": [
+        {
+          "name": "Organ!k",
+          "url": "https://open.spotify.com/artist/6hJOfM4ATBZ4GQCLTOIjgc"
+        },
+        {
+          "name": "Pijall",
+          "url": "https://open.spotify.com/artist/0CfkmCl2XN2IWxYcMzPMlq"
+        },
+        {
+          "name": "Ikonico",
+          "url": "https://open.spotify.com/artist/7EXFbyH0rcjYutOA9K6ojO"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Nubuwwah",
+      "url": "https://open.spotify.com/track/3BIQ6QWoh7SjivmSun0q8d"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "Someone Save Me",
+        "url": "https://open.spotify.com/album/3mFspOpgSezXbz2MnVpHJi"
+      },
+      "artists": [
+        {
+          "name": "The Worst Kind",
+          "url": "https://open.spotify.com/artist/50GMtMkOvpFvm7VWI2JIFQ"
+        }
+      ],
+      "duration_ms": 226421,
+      "name": "Someone Save Me",
+      "url": "https://open.spotify.com/track/781GYlSpPTJBujDFB9OvXg"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "Cousti Carols",
+        "url": "https://open.spotify.com/album/2nNvU2FmktgpTIQAF4EPXn"
+      },
+      "artists": [
+        {
+          "name": "Trio Accoustica",
+          "url": "https://open.spotify.com/artist/25jDdFLcW81MEYLujsCS9F"
+        }
+      ],
+      "duration_ms": 336568,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/3nhm01DTenmVLQW9zFdy4C"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "Drau\u00dfen",
+        "url": "https://open.spotify.com/album/00nMC8dN3Cjthg70EGt4OE"
+      },
+      "artists": [
+        {
+          "name": "Luka Blau",
+          "url": "https://open.spotify.com/artist/4i8TtzoLe7gzu0E06yA5wG"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Drau\u00dfen",
+      "url": "https://open.spotify.com/track/54XlOGWzVokp17uK1H6DJr"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "FLINGOR AV TID",
+        "url": "https://open.spotify.com/album/4zJHTrM3jzsQQIdddTJthz"
+      },
+      "artists": [
+        {
+          "name": "TRENNE",
+          "url": "https://open.spotify.com/artist/5xfadGtEV0FLqIkRZlKoKX"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "FLINGOR AV TID",
+      "url": "https://open.spotify.com/track/69mNKfuAvWF1DrQHMtq7Oi"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "Small Business",
+        "url": "https://open.spotify.com/album/6MTY4iBTSPkjAIxwt8biKU"
+      },
+      "artists": [
+        {
+          "name": "FUZZ TOADS",
+          "url": "https://open.spotify.com/artist/0tEk6Ynlbn8PozbfysfRXC"
+        }
+      ],
+      "duration_ms": 299798,
+      "name": "Offal Tray",
+      "url": "https://open.spotify.com/track/7gBm1r6rqo5iYOjrsqzh4p"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "Catch 22",
+        "url": "https://open.spotify.com/album/0CuPZ2ip4zHUrBjYIrsWXe"
+      },
+      "artists": [
+        {
+          "name": "B Cyde",
+          "url": "https://open.spotify.com/artist/6ttWjyMZiO8QDAE67fVkEO"
+        }
+      ],
+      "duration_ms": 189919,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/34qncnr8hix1rUxalArbkm"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "La Musica",
+        "url": "https://open.spotify.com/album/6Zq6AGtTmQTycpGz9AnocV"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/03Kaw6CvUFFCSzkorzvT9g"
+        },
+        {
+          "name": "Alex Fly",
+          "url": "https://open.spotify.com/artist/1GPdMn8AloBrXpTyLggTBU"
+        },
+        {
+          "name": "Ziro",
+          "url": "https://open.spotify.com/artist/1qeMd5hWPHqCIWRSidfcBm"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/5KrGLyjIvSfTPQqnn9oiad"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "Solovey",
+        "url": "https://open.spotify.com/album/1d5l4KdSNC8XWSWgajQatb"
+      },
+      "artists": [
+        {
+          "name": "Comrade Nightingale",
+          "url": "https://open.spotify.com/artist/5uIubsdhyMAfGowGzZg5Nc"
+        }
+      ],
+      "duration_ms": 318149,
+      "name": "Solovey",
+      "url": "https://open.spotify.com/track/363wrTUaGF6wqxV8kQfSBD"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "For All",
+        "url": "https://open.spotify.com/album/5CHSIRYoTw7ktVfDOW3nnT"
+      },
+      "artists": [
+        {
+          "name": "Torbj\u00f6rn Langborn",
+          "url": "https://open.spotify.com/artist/4PwC1M4GYKQflVWEcEN8Hc"
+        }
+      ],
+      "duration_ms": 206086,
+      "name": "For All",
+      "url": "https://open.spotify.com/track/0j1ZphZ65wUv7dHhhtxKDB"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "L\u00e5tar efter Pehr Pehrsson p\u00e5 v\u00e5rt s\u00e4tt",
+        "url": "https://open.spotify.com/album/75PP4g6pJXQBMvia45joLA"
+      },
+      "artists": [
+        {
+          "name": "Anna Mogren & Peter Bohlin",
+          "url": "https://open.spotify.com/artist/3r8qDg66l6lAz919Wf3TtL"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "No 12. Polonais",
+      "url": "https://open.spotify.com/track/3KO3FXYege9Ou4VTAlzkhG"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "The Siege of Jadotville (The Ballad of Col Pat Quinlan)",
+        "url": "https://open.spotify.com/album/2jEys47BwM4KRz0Unoi9yS"
+      },
+      "artists": [
+        {
+          "name": "Simon J Power",
+          "url": "https://open.spotify.com/artist/0NK7lFvlrLs7Tcq5zaCKJQ"
+        },
+        {
+          "name": "Conor O'Leary",
+          "url": "https://open.spotify.com/artist/5m3Ss5M1r8zQFZDJjAAA7R"
+        }
+      ],
+      "duration_ms": 234965,
+      "name": "The Siege of Jadotville (The Ballad of Col Pat Quinlan)",
+      "url": "https://open.spotify.com/track/5aXWw0i3nXQxSU2Zmq29NK"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/7Mm0uiWkNGzBjLN63CcEoR"
+      },
+      "artists": [
+        {
+          "name": "Christopher Bard",
+          "url": "https://open.spotify.com/artist/1YvABAlvImUEQESGrw8D7z"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/61oc4Bq8muehwWmhQJxm4w"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "Mira's Christmas",
+        "url": "https://open.spotify.com/album/1ruWL25AdfBWrhNJr8J2a1"
+      },
+      "artists": [
+        {
+          "name": "Rik Verstrepen",
+          "url": "https://open.spotify.com/artist/7c2GYhI9XrojgRz60Cboer"
+        },
+        {
+          "name": "Mira Verstrepen",
+          "url": "https://open.spotify.com/artist/62MDN1rFDosOLU79k7MaGz"
+        }
+      ],
+      "duration_ms": 195894,
+      "name": "Mira's Christmas",
+      "url": "https://open.spotify.com/track/3YJiv4rEfVYjZ7St6XUTdK"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "God, Love & First Heartbreak",
+        "url": "https://open.spotify.com/album/3TA8J4beOz99CzVBRmaNfu"
+      },
+      "artists": [
+        {
+          "name": "Spencer Christian",
+          "url": "https://open.spotify.com/artist/3yVJHfjPwzQxkZZ5LwbVVz"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "God, Love & First Heartbreak",
+      "url": "https://open.spotify.com/track/2fqcsA3VQQ4h04o84Do3cr"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "dark & grey",
+        "url": "https://open.spotify.com/album/5ubXdPccWL4sfOrfPtRlIz"
+      },
+      "artists": [
+        {
+          "name": "shaffer",
+          "url": "https://open.spotify.com/artist/6rjy4MQKoF1edK8hsoVm4z"
+        }
+      ],
+      "duration_ms": 273380,
+      "name": "dark & grey",
+      "url": "https://open.spotify.com/track/7eWFwQ0oY2mAWZYqkVOWkk"
+    },
+    {
+      "added_at": "2023-12-15 12:50:30",
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/1QBRnz7pFoqlnaiD6x7UlY"
+      },
+      "artists": [
+        {
+          "name": "Picasovic",
+          "url": "https://open.spotify.com/artist/7sHJmTEJefLCHWwNdNntN6"
+        }
+      ],
+      "duration_ms": 188130,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/50Kg7kSWMPQw9O0eN3jugH"
     }
   ],
   "unique_name": "Independent Music Friday",

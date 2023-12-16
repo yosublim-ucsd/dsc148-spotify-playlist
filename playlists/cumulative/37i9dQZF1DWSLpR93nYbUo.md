@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-149 songs - 8 hr 30 min
+150 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Girl](https://open.spotify.com/track/0zRVIO4GWFugJk5taaym0f) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Girl](https://open.spotify.com/album/0P3BWt3FWwy4PCiVo4xO4z) | 3:03 | 2023-10-06 |  |
 | [HALO](https://open.spotify.com/track/7qVhddvtZxC02rmzqwO5Fb) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0) | [HALO](https://open.spotify.com/album/01G8MH9AZimcasPjp2ZPxQ) | 3:09 | 2023-09-15 |  |
 | [Haunting Me](https://open.spotify.com/track/1rYSTJRgyGCa5Yl1SXC5sR) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/4xRmlHLvoZ2OEISy3SJ7TC) | 4:51 | 2023-10-20 | 2023-10-23 |
-| [Haunting Me](https://open.spotify.com/track/7iXNeFZwe4CwUaiHT9qK99) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/2FAmKfV5eesqqXSH3pXH2i) | 4:51 | 2023-10-20 |  |
+| [Haunting Me](https://open.spotify.com/track/3OGDGKB1NlZiiU6oJU4l0S) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/6CSYEhL34pO5NLPLRRl8pw) | 4:51 | 2023-12-08 |  |
+| [Haunting Me](https://open.spotify.com/track/7iXNeFZwe4CwUaiHT9qK99) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/2FAmKfV5eesqqXSH3pXH2i) | 4:51 | 2023-10-20 | 2023-12-16 |
 | [HIGH](https://open.spotify.com/track/03AMYFWydfyeyv6v94N8rs) | [Hoost](https://open.spotify.com/artist/6YCbTELaAeqFQfjzVMcNG9) | [HIGH](https://open.spotify.com/album/1ioCS6aAaw6zmMl2pGwYqT) | 3:05 | 2023-07-21 | 2023-10-07 |
 | [High](https://open.spotify.com/track/6n4GYiUFj4A67Cc7U4j4Uq) | [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18) | [High](https://open.spotify.com/album/0mJbAkaZOAW9eFGIVUoPcX) | 3:05 | 2023-07-21 | 2023-10-28 |
 | [High & Low](https://open.spotify.com/track/1qGWZn2Xhvk2Svp6Od6p5S) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [High & Low](https://open.spotify.com/album/4dcBZK2j3GrHCxUH4SrlyL) | 2:36 | 2023-07-21 | 2023-09-16 |

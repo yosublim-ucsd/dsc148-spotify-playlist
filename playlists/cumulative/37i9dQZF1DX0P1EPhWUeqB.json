@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "Desde el coraz\u00f3n del rancho, las mejores interpretaciones en vivo. Virl\u00e1n Garc\u00eda en portada.",
+  "description": "Desde el coraz\u00f3n del rancho, las mejores interpretaciones en vivo. Carin Le\u00f3n en portada.",
   "name": "Sierre\u00f1o en Vivo",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 190000,
       "name": "Calidad - En Vivo",
       "url": "https://open.spotify.com/track/3higLyEq4Zt7TalZ410zuF"
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281363,
+      "name": "Entregame Tu Amor - En Vivo",
+      "url": "https://open.spotify.com/track/6W5i0BEvbfAKFQRc9Vqrsf"
+    },
+    {
+      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -388,7 +406,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 168554,
       "name": "Hay Que Tomar - En Vivo",
       "url": "https://open.spotify.com/track/0WAwjYnnq8HD9TdNX2Zo5l"
@@ -410,7 +428,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 212250,
       "name": "Herencia Mexicana (En Vivo)",
       "url": "https://open.spotify.com/track/1mN0VG09xkwIDUE4d7YtpG"
@@ -562,6 +580,24 @@
       "duration_ms": 235813,
       "name": "Mi Eterno Amor Secreto - Live",
       "url": "https://open.spotify.com/track/5Ipirnomv7UvSnOuH6Df6v"
+    },
+    {
+      "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182684,
+      "name": "Mi Florecita - En Vivo",
+      "url": "https://open.spotify.com/track/6UtOvvu0vSdmxLfyR2Rfkx"
     },
     {
       "album": {
@@ -1088,6 +1124,24 @@
       "duration_ms": 243607,
       "name": "Y Ahora Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/2HT39Ri8skpoDiuTPAD7LM"
+    },
+    {
+      "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141450,
+      "name": "Ya No Rosas - En Vivo",
+      "url": "https://open.spotify.com/track/4gJ0qI6wuMwkamYWs9uYpK"
     },
     {
       "album": {

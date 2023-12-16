@@ -5209,6 +5209,28 @@
     },
     {
       "album": {
+        "name": "Naty del Blow",
+        "url": "https://open.spotify.com/album/3z7jv3GrHI0pnOoX9nWPzs"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146866,
+      "name": "Naty Del Blow",
+      "url": "https://open.spotify.com/track/6zoSZlyKKBjWC7Y6yPyGVj"
+    },
+    {
+      "album": {
         "name": "Nena Yo No Te Olvido",
         "url": "https://open.spotify.com/album/0Q29ngPbsGr1ydqH4aMSAc"
       },
@@ -9296,7 +9318,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 120638,
       "name": "Ya No Llora",
       "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"

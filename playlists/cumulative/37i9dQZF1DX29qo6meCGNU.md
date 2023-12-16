@@ -4,7 +4,7 @@
 
 > Perreo con ❤️‍🔥❤️‍🔥❤️‍🔥
 
-419 songs - 22 hr 41 min
+420 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Mientes](https://open.spotify.com/track/54CYs2hWvDKfJ1yRp90m0t) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mientes](https://open.spotify.com/album/7LdwY6IIe5RWy8x0hiD8xm) | 3:03 | 2022-03-25 | 2022-04-21 |
 | [Mintiendo](https://open.spotify.com/track/1T1YzsWr4iH6xJKTe0zZEs) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:35 | 2022-12-17 | 2022-12-24 |
 | [Modo Avión](https://open.spotify.com/track/1VtX8lG6ZPzGKHmA7QoLb2) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Modo Avión](https://open.spotify.com/album/20EDuEFS95mc3J2tNZzrF1) | 3:48 | 2022-03-25 | 2022-04-21 |
-| [Monstruo](https://open.spotify.com/track/7eDVXAFMt2EERfXy9i63T1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:55 | 2022-12-17 |  |
+| [Monstruo](https://open.spotify.com/track/7eDVXAFMt2EERfXy9i63T1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:55 | 2022-12-17 | 2023-12-16 |
 | [Monumento \- Remix](https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Monumento \(Remix\)](https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D) | 3:28 | 2022-05-12 | 2023-11-02 |
 | [Morir Juntos](https://open.spotify.com/track/4fIQZb61FlXSRbnGgIBSj8) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Morir Juntos](https://open.spotify.com/album/4bDudL5EN5SzqTJpWs4PTL) | 3:11 | 2022-01-14 | 2022-07-05 |
 | [Morra](https://open.spotify.com/track/31CTDMQUOtkYsNZYuVXQx1) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:52 | 2023-04-07 | 2023-04-15 |
@@ -387,6 +387,7 @@
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2022-01-14 |  |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-04-01 | 2022-04-21 |
 | [Tour \- Remix](https://open.spotify.com/track/6JeMXzPkqDe2gYnO0SlZSd) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Tour \(Remix\)](https://open.spotify.com/album/77bXqY9AKIo21D2AzjEgAe) | 3:54 | 2022-04-15 | 2022-07-23 |
+| [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 | 2023-12-15 |  |
 | [TRANQUI](https://open.spotify.com/track/4U4oLQbcoVOGspDsl2bhsL) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [TRANQUI](https://open.spotify.com/album/6Z4FU5oHSdpK3YXedod4iO) | 3:27 | 2022-02-11 | 2022-03-05 |
 | [TU AMIGO](https://open.spotify.com/track/25EpqnbVRzegM4RxXlHhDW) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:53 | 2022-04-01 | 2022-09-30 |
 | [tu msj </3](https://open.spotify.com/track/0TaF4Nl8YKT0H0D2bb2M8B) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [tu msj </3](https://open.spotify.com/album/5X5querYnrK4tkBaKLsyYO) | 2:35 | 2022-03-25 | 2022-04-21 |

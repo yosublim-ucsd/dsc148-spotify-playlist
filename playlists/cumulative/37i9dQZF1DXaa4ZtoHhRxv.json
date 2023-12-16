@@ -1411,6 +1411,28 @@
     },
     {
       "album": {
+        "name": "Good Times Go By Too Fast (VAVO Remix)",
+        "url": "https://open.spotify.com/album/4GseD2hGQBDjfjh4naxdc3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Good Times Go By Too Fast (VAVO Remix)",
+      "url": "https://open.spotify.com/track/7e5i1t1bzZxUQckJrDbFi5"
+    },
+    {
+      "album": {
         "name": "Got No Choice (Dave Aud\u00e9 Remix)",
         "url": "https://open.spotify.com/album/6SJ4JsTxhjgY9So7KmHPEv"
       },
@@ -3514,6 +3536,28 @@
     {
       "album": {
         "name": "HiROQUEST 2: Double Helix",
+        "url": "https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196849,
+      "name": "Us ft. ERNEST",
+      "url": "https://open.spotify.com/track/0Tcr2YRAz84AVjopX9Sm7Q"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST 2: Double Helix",
         "url": "https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO"
       },
       "artists": [
@@ -3528,7 +3572,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 196849,
       "name": "Us ft. ERNEST",
       "url": "https://open.spotify.com/track/1pNvwvyu0toAciKIigdbO5"

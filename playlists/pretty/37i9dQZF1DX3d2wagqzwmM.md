@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell & Afrojack
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,161 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,444 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 61 | [Friends \- Bassjackers Remix](https://open.spotify.com/track/4s69BXFmdssMXfSllZ2zlf) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Friends \(Bassjackers Remix\)](https://open.spotify.com/album/4u6UBvjfarDMSzTeNZyBnm) | 2:42 |
 | 62 | [Let Me Be Your Fantasy](https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Let Me Be Your Fantasy](https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV) | 2:56 |
 | 63 | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/album/6Vm4caxFmf5yGaFbSpOg2e) | 3:19 |
-| 64 | [Spirits](https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Spirits](https://open.spotify.com/album/587i2QIX8EqgyCBBYMlov5) | 3:53 |
+| 64 | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/track/25s0xJhSEJhpiyRPVnsvtU) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 3:01 |
 | 65 | [Blow Your Mind](https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Blow Your Mind](https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2) | 4:45 |
-| 66 | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/track/25s0xJhSEJhpiyRPVnsvtU) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 3:01 |
+| 66 | [Spirits](https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Spirits](https://open.spotify.com/album/587i2QIX8EqgyCBBYMlov5) | 3:53 |
 | 67 | [Give Me](https://open.spotify.com/track/5kbFc1QbGvCRJmQTldYod4) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Give Me](https://open.spotify.com/album/1yMWuEo9Za8Jodpd8C7GdZ) | 2:36 |
 | 68 | [Sandstorm](https://open.spotify.com/track/2IkFYu5yQsH0eIt8vIk5To) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K) | [Sandstorm](https://open.spotify.com/album/0Jwi5rqy7CKTxVj0NQMNUY) | 3:25 |
 | 69 | [We Go Out](https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [We Go Out](https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg) | 2:50 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 77 | [Can You Feel It](https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Can You Feel It](https://open.spotify.com/album/3r7fZsRIWMBDbiYP3R8FDI) | 1:37 |
 | 78 | [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 |
 | 79 | [BANG!](https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [BANG!](https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa) | 2:48 |
-| 80 | [Unforgettable](https://open.spotify.com/track/1RzpRGOArORD0iwIVLwJQo) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Unforgettable](https://open.spotify.com/album/2RvelusFjACbKKX6Xh9qEN) | 3:37 |
+| 80 | [Disco Dancer](https://open.spotify.com/track/7bAELPbQxGZG69KcsyyWbm) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Disco Dancer](https://open.spotify.com/album/4pXwKxIA4uqzIdGBV9kc6t) | 3:00 |
 
-Snapshot ID: `MCxiYWQxOGU4OGJlYTI1MmU0Y2UzN2VjMDI4MDRmOThmOTZmZWE2Yjhj`
+Snapshot ID: `MCxkYzFlM2I0N2ViNzU4MzQ1YTQ5ZDJmNGZkZjRjYzI2YTg4MGU5ZWQ0`

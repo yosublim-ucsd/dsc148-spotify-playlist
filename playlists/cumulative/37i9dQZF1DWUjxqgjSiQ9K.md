@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Nacho x Gilberto Daza x Alex Zurdo Foto: <a href="spotify:artist:6pdXxGaaEGf7huw3C6fz6a">Gilberto Daza,</a> <a href="spotify:artist:2ayNSoKPCRAfjp6hQ76hRu">Nacho,</a> <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a>
 
-517 songs - 1 day 15 hr 50 min
+518 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Quién Iremos](https://open.spotify.com/track/4CcH3kekkWh9KI2QfZqG3J) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [A Quién Iremos](https://open.spotify.com/album/06Pgluz92FVBeCOZg6mX74) | 4:58 | 2023-05-26 |  |
 | [Abba](https://open.spotify.com/track/5weYrPdlyU60nNnaxebYL2) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Abba](https://open.spotify.com/album/4eZ6JwW8bnsZRnNVUV3IJ4) | 3:33 | 2022-04-15 | 2023-02-18 |
 | [Abba Padre](https://open.spotify.com/track/31tJ4vhFrFdmQ1ZOHKaYH5) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb) | [Menos Es Mas](https://open.spotify.com/album/3Jiq4jhArwNnjY66T4xDqa) | 4:13 | 2023-06-23 |  |
+| [Abre mis ojos](https://open.spotify.com/track/1vffYobX9nOwphjEI7n1xB) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Efecto EMC](https://open.spotify.com/album/2ePQmfIRBYKi31EPsYRIg0) | 3:30 | 2023-12-15 |  |
 | [Abrázame](https://open.spotify.com/track/2yd7cpLcDsLiYK8JAdPaVV) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Abrázame](https://open.spotify.com/album/2jVKqPQcj6I8Hm3g3jNCwr) | 4:07 | 2023-08-18 |  |
 | [Acepta](https://open.spotify.com/track/5XJIavEw1BuKXzuOVNr944) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Acepta](https://open.spotify.com/album/0VHRc2YBKViwWXQffw7Qpb) | 7:53 | 2022-09-09 | 2022-10-29 |
 | [Acepta \- Live](https://open.spotify.com/track/41AA0qum08M6IFG1GcoHNz) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Fuego & Poder \(Live\)](https://open.spotify.com/album/745LEHgUFX9cFvF68KVgBx) | 7:53 | 2022-10-28 | 2023-09-16 |
@@ -424,7 +425,7 @@
 | [So Good \(Cuán Bueno\) \(feat\. Lilly Goodman\)](https://open.spotify.com/track/5AsamzwJavvredvmI3dqk1) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [So Good \(Cuán Bueno\) \(feat\. Lilly Goodman\)](https://open.spotify.com/album/1v9gXaZpngKHdplKNOuc9j) | 3:11 | 2023-01-13 |  |
 | [Sobre La Roca](https://open.spotify.com/track/1kuZG1J2bBB3pUwQvX89Jh) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Sobre La Roca](https://open.spotify.com/album/3UAnOywrY8mMbWZUeyyrOR) | 3:34 | 2022-04-22 | 2022-08-06 |
 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 | 2022-08-05 | 2023-08-19 |
-| [Soledad](https://open.spotify.com/track/0zdBroYWFgu5ms2IlDB1ip) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Soledad](https://open.spotify.com/album/1Btb63Xk8DqBgX2rlRlls0) | 3:29 | 2023-03-24 |  |
+| [Soledad](https://open.spotify.com/track/0zdBroYWFgu5ms2IlDB1ip) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Soledad](https://open.spotify.com/album/1Btb63Xk8DqBgX2rlRlls0) | 3:29 | 2023-03-24 | 2023-12-16 |
 | [Solo Con Tu Voz](https://open.spotify.com/track/0HBvhub2pRc3eCx56OnAXN) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Solo Con Tu Voz](https://open.spotify.com/album/6x3vmCedw4Ry9UuVNwjYYw) | 4:32 | 2023-05-26 |  |
 | [Solo Cristo](https://open.spotify.com/track/5mWLbn5NBU5uhVJrYGdWRT) | [Titus Naveja](https://open.spotify.com/artist/3UkozH5W5OVm6KrpEbvDQQ), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Solo Cristo](https://open.spotify.com/album/46R5v469YpWp9PXAnGOxpk) | 5:15 | 2023-04-14 |  |
 | [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 | 2023-04-07 |  |

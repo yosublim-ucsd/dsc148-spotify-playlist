@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,166 likes - 72 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,872 likes - 72 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:26 |
 | 2 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/6sYE0q44GF0pQA5M1nyqCG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/5cYuIkRzTLIwaPEXv3LYcr) | 2:28 |
 | 3 | [Jingle Bell Rock](https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt) | 2:15 |
-| 4 | [Santa Tell Me \- Naughty Version](https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt) | 3:23 |
+| 4 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
 | 5 | [Last Christmas](https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX) | 3:32 |
 | 6 | [You're A Mean One Mr\. Grinch \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/2KNt0BWMJwB8uEqus75mRB) | [Jim Carrey](https://open.spotify.com/artist/30MCPVWV1iZrs2gxciRRk4) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 2:31 |
 | 7 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 59 | [Santa Tell Me](https://open.spotify.com/track/5kQ6UcHEUizCPFQM3E3dZ0) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:04 |
 | 60 | [We Need A Little Christmas](https://open.spotify.com/track/1KTopLtzIdyLEa9fxSlpjp) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Complete Season Two](https://open.spotify.com/album/6WlzaRoDShdgVgaqJRjyNH) | 2:44 |
 | 61 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/1zaWQe9uY98hFWyQVe5Duz) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids Christmas](https://open.spotify.com/album/62F8g6Yj3GHsl6cK8dNnVP) | 3:58 |
-| 62 | [December](https://open.spotify.com/track/6nx2z3uGS0LhvRor8LpoIb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt) | 1:56 |
+| 62 | [December](https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 1:56 |
 | 63 | [Little Drummer Boy](https://open.spotify.com/track/7BvCDrlYwJ5D9RUqvvs3BT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTXmas \(Deluxe Edition\)](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) | 4:15 |
 | 64 | [Holidays \(feat\. Earth, Wind & Fire\)](https://open.spotify.com/track/0Yeh2VJCsxSgbftSGTiUbN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |
 | 65 | [Deck The Halls](https://open.spotify.com/track/3gDdxePgl7W8EbLLgaqrxe) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [The Greatest Bits: B\-Sides & Rarities](https://open.spotify.com/album/1zgFMroSTd9f0lr2qRxgqH) | 1:33 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 71 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 | 72 | [Christmas Is Here](https://open.spotify.com/track/4yAEAiud4ZJ9fgBsx5yGzT) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [Elf Pets: A Fox Cub's Christmas Tale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59acbHHOQxoMVo31NZbIju) | 2:03 |
 
-Snapshot ID: `MCwzNTQ2YmNjN2VkNTBkYTgyODNmMzJiZmY1ZGFmNTg0ZDU4MDM5NGYz`
+Snapshot ID: `MCxhNzQzNTFjZmI0NzM5ZjcwMzhlYTJhYTc5YWI2MTdhMTk5ZTAzZTg5`

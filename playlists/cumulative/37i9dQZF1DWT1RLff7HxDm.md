@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-148 songs - 14 hr 58 min
+150 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Touch My Blues Away \- Live](https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Touch My Blues Away](https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR) | 9:04 | 2020-10-30 |  |
 | [True Lies](https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [LIVE! In Chicago](https://open.spotify.com/album/5hacXiG8xBevQ7ZWH3KCg2) | 5:54 | 2020-10-30 | 2022-07-29 |
 | [True Lies \- Live](https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Live in Chicago](https://open.spotify.com/album/3ljFmredCgsn5o8WsjJBBa) | 5:54 | 2020-10-30 |  |
+| [Underneath The River \- Live 2023](https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Underneath The River \(Live 2023\)](https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq) | 6:34 | 2023-12-15 |  |
 | [Up Your Sleeve \- Live](https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Live at the '62 Center](https://open.spotify.com/album/4j4Uu6TIBjVFcGvm57olqw) | 5:24 | 2020-10-30 |  |
 | [Wait On Time \- Live](https://open.spotify.com/track/6idWc3OukhbJmzdILw0KRb) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [King King Live](https://open.spotify.com/album/05nIedmPU5AOXRPP6uztMv) | 6:23 | 2020-10-30 | 2022-07-29 |
 | [Wait on Time \- Live](https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [Live](https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B) | 6:26 | 2020-10-30 |  |
@@ -150,6 +151,7 @@
 | [Watchagonnado \- Live](https://open.spotify.com/track/3dbmtHrcXvJu6i1TcLzP81) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD) | [Road Chronicles: Live!](https://open.spotify.com/album/2A4kEXoGNdaZiAlWb4njWq) | 5:29 | 2020-10-30 |  |
 | [Weatherman](https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY) | [Tasha Taylor](https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq) | [Ina Forsman, Layla Zoe, Tasha Taylor](https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3) | 3:38 | 2020-10-30 |  |
 | [West L.A\. Fadeaway \- Live](https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj) | [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC) | [West L.A\. Fadeaway \(Live\)](https://open.spotify.com/album/5PHRvGUOV1Y9IUApM4MKHy) | 12:51 | 2022-01-14 |  |
+| [What Kind Of Fool \- Live from Haute Spot](https://open.spotify.com/track/6wXEjuK8cueaGdyiLat7M0) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [What Kind Of Fool \(Live from Haute Spot\)](https://open.spotify.com/album/4y4WAI9zFPkgDphk9kgvn7) | 4:31 | 2023-12-15 |  |
 | [Who Are You](https://open.spotify.com/track/3ELWEa23WwNkAHrosWjy8d) | [Michael Kaeshammer](https://open.spotify.com/artist/1CqTkHB5MbbY4SQjy7Qr07), [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Live In Concert](https://open.spotify.com/album/6TOF0HspY35bCInZMhcPjw) | 4:12 | 2020-10-30 |  |
 | [Who Are You](https://open.spotify.com/track/7AAT2kq93xihoOP0RsrQQm) | [Michael Kaeshammer](https://open.spotify.com/artist/1CqTkHB5MbbY4SQjy7Qr07), [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Live In Concert](https://open.spotify.com/album/2O6PBRZYz7a9wEUbE7SZkS) | 4:12 | 2020-10-30 | 2022-07-25 |
 | [Why Does It Take So Long To Say Goodbye \- Live](https://open.spotify.com/track/21Ck3GOPmXqiUQaOo4pmVs) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Why Does It Take So Long To Say Goodbye \(Live\)](https://open.spotify.com/album/3CDI2rvne7PElFMRn7rLL9) | 9:34 | 2021-05-14 | 2022-07-29 |

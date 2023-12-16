@@ -930,6 +930,28 @@
     {
       "album": {
         "name": "Palha\u00e7ada Speed",
+        "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
+      },
+      "artists": [
+        {
+          "name": "Avelar Music",
+          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
+        },
+        {
+          "name": "Belim",
+          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149170,
+      "name": "Palha\u00e7ada Speed",
+      "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
+    },
+    {
+      "album": {
+        "name": "Palha\u00e7ada Speed",
         "url": "https://open.spotify.com/album/1fKdX1WUjbyGyeijMhZqBw"
       },
       "artists": [
@@ -944,7 +966,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 149170,
       "name": "Palha\u00e7ada Speed",
       "url": "https://open.spotify.com/track/0p3W8vsHX4OjaCHypFM3Hl"

@@ -54533,6 +54533,24 @@
     },
     {
       "album": {
+        "name": "Atomic Rush",
+        "url": "https://open.spotify.com/album/1jGmPkX2VyNR0PHncniGKA"
+      },
+      "artists": [
+        {
+          "name": "The Element MT",
+          "url": "https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408531,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/0HGh1ezSWnJdjyMaiZiXsM"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/3QQIZByi1dGLNvy15XTiVN"
       },
@@ -54544,7 +54562,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 408531,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4Z1O4FZd2xORYWA4tpjEsu"

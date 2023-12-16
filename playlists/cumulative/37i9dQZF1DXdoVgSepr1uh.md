@@ -4,7 +4,7 @@
 
 > Perreo hecho en Argentina\. Foto: Lauty Gram.
 
-219 songs - 10 hr 32 min
+221 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Ojo por Ojo \(Remix\)](https://open.spotify.com/track/6BpG204BcPkC2yvixiyOba) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Ojo por Ojo \(Remix\)](https://open.spotify.com/album/5qf2JIgQQodt2CsuLG7HNG) | 3:37 | 2023-10-27 |  |
 | [Ojo por Ojo \- Remix](https://open.spotify.com/track/6A0agxt2FyRkpjT74sbeal) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Ojo por Ojo \(Remix\)](https://open.spotify.com/album/1z2gR2sfBksuVEUrpHq1TV) | 3:37 | 2022-11-07 | 2023-11-11 |
 | [Olvidate](https://open.spotify.com/track/6YHiWnXQyF0yM4oxGk54X4) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Olvidate](https://open.spotify.com/album/2OVbouaTwqVHertrc15Kgn) | 2:39 | 2022-07-28 | 2023-05-13 |
+| [OPEN](https://open.spotify.com/track/2366i5wOlpnh6isxIB7Ug5) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL) | [OPEN](https://open.spotify.com/album/1GPE1w00Ore14qeK68Uuuj) | 2:23 | 2023-12-15 |  |
 | [Otra Vez Te Soñé](https://open.spotify.com/track/6X44vrKIdgwBP4I9hFT6US) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Otra Vez Te Soñé](https://open.spotify.com/album/4ZlHlbUReIOc1Cw6oudAgE) | 2:45 | 2022-05-27 | 2022-06-18 |
 | [Otro](https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Otro](https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp) | 3:28 | 2022-05-24 | 2023-03-03 |
 | [Otro Millón](https://open.spotify.com/track/2j0CA3TrxQ78vAVMTBdcNV) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Otro Millón](https://open.spotify.com/album/0CNz1mTF0VWhhUdPF2ZEHf) | 2:36 | 2023-01-09 | 2023-05-13 |
@@ -199,6 +200,7 @@
 | [TAZA TAZA](https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [TAZA TAZA](https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS) | 2:38 | 2022-06-03 | 2023-04-01 |
 | [Te Fuiste](https://open.spotify.com/track/0gzxvbpJN3s5sisn8ltdXh) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Fuiste](https://open.spotify.com/album/0vlPIHR6RESTULn9N3L1hl) | 2:54 | 2022-05-24 | 2022-08-06 |
 | [Te Sigo \(feat\. Randy\)](https://open.spotify.com/track/40Aub8V5gwK9SofYNrMdaN) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Randy](https://open.spotify.com/artist/1Qote9MpqMZluWzYGifZUg) | [Te Sigo \(feat\. Randy\)](https://open.spotify.com/album/0YJEcuyXp99hO7TFGwkATX) | 3:13 | 2022-05-24 |  |
+| [Ticket](https://open.spotify.com/track/3e5ozHUqx0GE5sfbX71Ybp) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Ticket](https://open.spotify.com/album/66jwnO9mtooyEDXv6kOxXb) | 2:09 | 2023-12-15 |  |
 | [Tik Tak](https://open.spotify.com/track/3wKRV3wHzA0XbJfAk7Hm7p) | [DJ MÄMI](https://open.spotify.com/artist/1K6cDuo2mI7CvYIxrRNeOP) | [Tik Tak](https://open.spotify.com/album/3HyrbSuhYsHDH2Ds0OZmDQ) | 2:59 | 2022-06-17 | 2022-07-23 |
 | [Tira Pa Tra](https://open.spotify.com/track/7e3eBgoH6HuhYrNMQavcgf) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Tira Pa Tra](https://open.spotify.com/album/6GP8fr8B8GjMPbfwbbk0UN) | 2:55 | 2023-05-12 | 2023-09-09 |
 | [TKM](https://open.spotify.com/track/0YIFoVx5D3JPL1qBofQoAf) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [TKM](https://open.spotify.com/album/35ggzQLK24rwtxveDPi3mL) | 2:51 | 2023-09-01 |  |

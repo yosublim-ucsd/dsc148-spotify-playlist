@@ -1,13 +1,125 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 301864,
+  "num_followers": 301856,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "MjAxNCxlNDE4OTBjZjRkZmIwYWY1OWJkNTczOTM0MGYzOTNhODg5YjMwNjdj",
+  "snapshot_id": "MjAxNSwyZGNlY2Y0YmJhNTYyNDI0YTY1Njc2ODA2MWVkNTlmZWU0MDI1YjI0",
   "tracks": [
+    {
+      "added_at": "2023-12-15 14:43:57",
+      "album": {
+        "name": "Pull Me Through The Fire (Dice Of Nights Remix)",
+        "url": "https://open.spotify.com/album/45jpAQjTh1rVasQoNHAdJg"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+        },
+        {
+          "name": "Dice Of Nights",
+          "url": "https://open.spotify.com/artist/2m97ZmyaSyUjn5Gln8l6VJ"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Pull Me Through The Fire - Dice Of Nights Remix",
+      "url": "https://open.spotify.com/track/3rQmiL5NZYBqtcfnuKRwqL"
+    },
+    {
+      "added_at": "2023-12-15 14:43:57",
+      "album": {
+        "name": "Love Up High",
+        "url": "https://open.spotify.com/album/3LEE5fUFSInw4x777ecBvC"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        }
+      ],
+      "duration_ms": 184821,
+      "name": "Love Up High",
+      "url": "https://open.spotify.com/track/2XrbbnU0xnKybBGUWqJG1p"
+    },
+    {
+      "added_at": "2023-12-15 14:43:57",
+      "album": {
+        "name": "Love Up High",
+        "url": "https://open.spotify.com/album/3LEE5fUFSInw4x777ecBvC"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/6I6ul5wcS4V5BVnaZbsbk6"
+    },
+    {
+      "added_at": "2023-12-15 14:43:57",
+      "album": {
+        "name": "Love Up High",
+        "url": "https://open.spotify.com/album/3LEE5fUFSInw4x777ecBvC"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        }
+      ],
+      "duration_ms": 142916,
+      "name": "Tell Em",
+      "url": "https://open.spotify.com/track/4W3jdyiIJ5WItwNIOzWJlq"
+    },
+    {
+      "added_at": "2023-12-15 14:43:57",
+      "album": {
+        "name": "RUN IT UP",
+        "url": "https://open.spotify.com/album/5mKCqLxnVdw5FBVtvLagEz"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Edson Faiolli",
+          "url": "https://open.spotify.com/artist/5zQqfkTJNj7rodrMI0UjU5"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "RUN IT UP",
+      "url": "https://open.spotify.com/track/5nW0TJJ2gAlJQ5A7J4E62O"
+    },
+    {
+      "added_at": "2023-12-15 14:43:57",
+      "album": {
+        "name": "Talkin' To",
+        "url": "https://open.spotify.com/album/513I1SHULQt9uxhMKTAn3M"
+      },
+      "artists": [
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 154523,
+      "name": "Talkin' To",
+      "url": "https://open.spotify.com/track/4OXn37e3DQ9Lw1dUrCtoUk"
+    },
     {
       "added_at": "2023-12-03 21:06:26",
       "album": {

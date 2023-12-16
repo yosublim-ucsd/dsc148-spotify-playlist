@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65790,
+  "num_followers": 65791,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjViZWRjZDExNzI1YmQ4OGMzMTg2Y2NjYTRmNzNiZmUyYTU2MmZl",
+  "snapshot_id": "MCw5ZmRlMDk1YTJjYTAxNTY3NGMxMjRkN2IzNzVhOGE5MzBjYzAzMmUx",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Love Shine a Light (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6GhLMnty4i8qdRV2zxbB1q"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 187947,
+      "name": "Love Shine a Light",
+      "url": "https://open.spotify.com/track/2z8pAqNDkjVOzlJg3M3cuO"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 97896,
       "name": "Jaja Ding Dong",
       "url": "https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Love Shine a Light (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6GhLMnty4i8qdRV2zxbB1q"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 187947,
-      "name": "Love Shine a Light",
-      "url": "https://open.spotify.com/track/2z8pAqNDkjVOzlJg3M3cuO"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "La Det Swinge",
-        "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "La Det Swinge",
-      "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
         "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 182333,
       "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
       "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "La Det Swinge",
+        "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "La Det Swinge",
+      "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "OKTA",
-        "url": "https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT"
-      },
-      "artists": [
-        {
-          "name": "KEiiNO",
-          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
-        }
-      ],
-      "duration_ms": 185157,
-      "name": "Spirit in the Sky",
-      "url": "https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "If Love Was a Crime (Eurovision 2016 - Bulgaria)",
         "url": "https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Secret Combination",
-        "url": "https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a"
+        "name": "OKTA",
+        "url": "https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT"
       },
       "artists": [
         {
-          "name": "Kalomira",
-          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
+          "name": "KEiiNO",
+          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Secret Combination - Eurovision 2008 Mix",
-      "url": "https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG"
+      "duration_ms": 185157,
+      "name": "Spirit in the Sky",
+      "url": "https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -823,6 +807,22 @@
       "duration_ms": 182134,
       "name": "Dance You Off",
       "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Secret Combination",
+        "url": "https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a"
+      },
+      "artists": [
+        {
+          "name": "Kalomira",
+          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Secret Combination - Eurovision 2008 Mix",
+      "url": "https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -991,22 +991,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "This Gig Almost Got Me Killed",
-        "url": "https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K"
+        "name": "Sahara Euro Edition",
+        "url": "https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk"
       },
       "artists": [
         {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/5bqiKYMVjdZjRxDojk5WXs"
-        },
-        {
-          "name": "Paula Seling",
-          "url": "https://open.spotify.com/artist/0GeZRE8dyvgduV3KTvLFC3"
+          "name": "Sarbel",
+          "url": "https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI"
         }
       ],
-      "duration_ms": 182950,
-      "name": "Playing with Fire",
-      "url": "https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK"
+      "duration_ms": 180386,
+      "name": "Yassou Maria",
+      "url": "https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Sahara Euro Edition",
-        "url": "https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk"
+        "name": "This Gig Almost Got Me Killed",
+        "url": "https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K"
       },
       "artists": [
         {
-          "name": "Sarbel",
-          "url": "https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/5bqiKYMVjdZjRxDojk5WXs"
+        },
+        {
+          "name": "Paula Seling",
+          "url": "https://open.spotify.com/artist/0GeZRE8dyvgduV3KTvLFC3"
         }
       ],
-      "duration_ms": 180386,
-      "name": "Yassou Maria",
-      "url": "https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk"
+      "duration_ms": 182950,
+      "name": "Playing with Fire",
+      "url": "https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Occidentali's Karma (Eurovision Version)",
+        "url": "https://open.spotify.com/album/50fjsJpz6QKCGUUo9GlD6E"
+      },
+      "artists": [
+        {
+          "name": "Francesco Gabbani",
+          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
+        }
+      ],
+      "duration_ms": 183163,
+      "name": "Occidentali's Karma (Eurovision Version)",
+      "url": "https://open.spotify.com/track/7nBGd4jSPgvdJn97sdrFK5"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "This Is Our Night",
         "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Occidentali's Karma (Eurovision Version)",
-        "url": "https://open.spotify.com/album/50fjsJpz6QKCGUUo9GlD6E"
+        "name": "Walk On Water",
+        "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
       },
       "artists": [
         {
-          "name": "Francesco Gabbani",
-          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
+          "name": "Ira Losco",
+          "url": "https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV"
         }
       ],
-      "duration_ms": 183163,
-      "name": "Occidentali's Karma (Eurovision Version)",
-      "url": "https://open.spotify.com/track/7nBGd4jSPgvdJn97sdrFK5"
+      "duration_ms": 185720,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1199,22 +1215,6 @@
       "duration_ms": 180538,
       "name": "Requiem - Eurovision Version",
       "url": "https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Walk On Water",
-        "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
-      },
-      "artists": [
-        {
-          "name": "Ira Losco",
-          "url": "https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV"
-        }
-      ],
-      "duration_ms": 185720,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
     },
     {
       "added_at": "2023-05-05 17:20:54",

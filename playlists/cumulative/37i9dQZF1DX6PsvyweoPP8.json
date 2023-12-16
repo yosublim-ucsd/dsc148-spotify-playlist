@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 134769,
       "name": "Com saudade do pretin",
       "url": "https://open.spotify.com/track/7MvhbbIcTdgBSgK0cftty4"
@@ -2407,6 +2407,28 @@
     },
     {
       "album": {
+        "name": "Massagem Relaxante",
+        "url": "https://open.spotify.com/album/6a9XQl9EWSZuBDxewTUyMt"
+      },
+      "artists": [
+        {
+          "name": "Mc Negrosim",
+          "url": "https://open.spotify.com/artist/5KXmea68C0lISNG2n4TeUK"
+        },
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "Massagem Relaxante",
+      "url": "https://open.spotify.com/track/4Zbjc4QrTFDvztxTASjrMK"
+    },
+    {
+      "album": {
         "name": "Me Expulse",
         "url": "https://open.spotify.com/album/1qjhWU48iE7W4mrVq1Z2pt"
       },
@@ -3423,6 +3445,36 @@
     },
     {
       "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166588,
+      "name": "Proibid\u00e3o Freestyle",
+      "url": "https://open.spotify.com/track/5aXLowFBawbk0OqOfrvvmr"
+    },
+    {
+      "album": {
         "name": "Relaxa",
         "url": "https://open.spotify.com/album/7mwWu9YLbSBDzR88dMib8S"
       },
@@ -3578,7 +3630,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 121724,
       "name": "Sem Neurose",
       "url": "https://open.spotify.com/track/6HSwsv4Zpkc3t3eOXQKmSY"
@@ -3850,7 +3902,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 177977,
       "name": "SXO",
       "url": "https://open.spotify.com/track/4ifS9DM2X27qQE3MDqy7Y2"

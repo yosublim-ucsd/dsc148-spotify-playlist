@@ -23,6 +23,48 @@
     },
     {
       "album": {
+        "name": "ACT",
+        "url": "https://open.spotify.com/album/1UsIeAUbvGMxvJP6zbvvRs"
+      },
+      "artists": [
+        {
+          "name": "YARBCREW",
+          "url": "https://open.spotify.com/artist/7kBuS37mdr9wwFfEGyp9kW"
+        },
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        },
+        {
+          "name": "POOM.YARB",
+          "url": "https://open.spotify.com/artist/6p7NuTr7HAygAAaIm1n1RJ"
+        },
+        {
+          "name": "YARBBOI",
+          "url": "https://open.spotify.com/artist/65V6cq1MXgPXCkSJHTKGUX"
+        },
+        {
+          "name": "SAMUCHYARB",
+          "url": "https://open.spotify.com/artist/5JXPmO7V0nqhKZ4egfNXFo"
+        },
+        {
+          "name": "BOMYARB",
+          "url": "https://open.spotify.com/artist/1e5dik8jUlFu1fRUISQ1TM"
+        },
+        {
+          "name": "PUNYARB",
+          "url": "https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254596,
+      "name": "ACT",
+      "url": "https://open.spotify.com/track/0wOdrGgxB3LzluAorVda5l"
+    },
+    {
+      "album": {
         "name": "MOOD FOREVER 2021",
         "url": "https://open.spotify.com/album/2Yz30P83i42ddZZqhLh5Sm"
       },
@@ -266,7 +308,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 256915,
       "name": "Change our life",
       "url": "https://open.spotify.com/track/543nieBIyNTLGi7SSSAYkj"
@@ -310,6 +352,28 @@
       "duration_ms": 181730,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/3uNzzKDEP4HcZrZYQ7VIf1"
+    },
+    {
+      "album": {
+        "name": "Cupid's Kiss",
+        "url": "https://open.spotify.com/album/78ND7DVrSKjc7DYou3K7nF"
+      },
+      "artists": [
+        {
+          "name": "GUZT",
+          "url": "https://open.spotify.com/artist/7ksq8nXlbSQKxU2qp9bYR2"
+        },
+        {
+          "name": "naphat",
+          "url": "https://open.spotify.com/artist/1ByBKKdq5BwGdsjJKCYFt9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168870,
+      "name": "Cupid's Kiss",
+      "url": "https://open.spotify.com/track/76R7t3olW14fAdiJrskfjp"
     },
     {
       "album": {
@@ -430,7 +494,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 165461,
       "name": "Don't worry",
       "url": "https://open.spotify.com/track/3x003mI7HCXwlSPk1xCjRi"
@@ -846,7 +910,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 84687,
       "name": "INTRO [BABY FOREVER]",
       "url": "https://open.spotify.com/track/7ajmjB7vQlhQi8bmGGD2C1"
@@ -948,7 +1012,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 236800,
       "name": "Let it burn",
       "url": "https://open.spotify.com/track/2S0fAivNLVupHXDGQzlkv2"
@@ -1269,6 +1333,28 @@
     },
     {
       "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/1eh7jRTdamrQ869WvhzOQk"
+      },
+      "artists": [
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        },
+        {
+          "name": "4BANG",
+          "url": "https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152415,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/7AIapZx4j6AvZ0R9xXqH5E"
+    },
+    {
+      "album": {
         "name": "Not One Night",
         "url": "https://open.spotify.com/album/2fOjDCqdwJ7IkwbQLplmx8"
       },
@@ -1398,6 +1484,28 @@
       "duration_ms": 260644,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2mC9e7nL0EnhWeJn2NBbYE"
+    },
+    {
+      "album": {
+        "name": "RANGSIT LOVER",
+        "url": "https://open.spotify.com/album/2Vh2Z5CEi7XBGvcFBe6dQa"
+      },
+      "artists": [
+        {
+          "name": "PATH DIZ",
+          "url": "https://open.spotify.com/artist/58OgXPZNJMtMWxTEsecDvn"
+        },
+        {
+          "name": "SVCKNID",
+          "url": "https://open.spotify.com/artist/2j3BqeKbbZhGFt86nY6FAx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169675,
+      "name": "RANGSIT LOVER",
+      "url": "https://open.spotify.com/track/30SvB3k0wpEatdDS040wsu"
     },
     {
       "album": {
@@ -1642,7 +1750,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 245034,
       "name": "Star Rider",
       "url": "https://open.spotify.com/track/4CtV7yp5OK67KI5NX4Pufl"
@@ -1668,6 +1776,24 @@
       "duration_ms": 200374,
       "name": "Stay Around Me",
       "url": "https://open.spotify.com/track/4T7OcRER8SG3d9fwASDSCo"
+    },
+    {
+      "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/5o95NDgXaocoSOnomAIlz9"
+      },
+      "artists": [
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197073,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/1ykDWYX3NMJApbf80iUGEc"
     },
     {
       "album": {
@@ -1704,7 +1830,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 146795,
       "name": "Super Sonic",
       "url": "https://open.spotify.com/track/0Qk7ci883lIctKtFKtyIb3"
@@ -2230,7 +2356,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 192263,
       "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e47\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/5mXNlKl0ldw86ZJxawrYWP"
@@ -2318,7 +2444,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 192000,
       "name": "\u0e04\u0e38\u0e13\u0e08\u0e30\u0e2d\u0e22\u0e39\u0e48\u0e22\u0e31\u0e07\u0e44\u0e07",
       "url": "https://open.spotify.com/track/4o2D2t9WEn4M81TYvtlVEk"
@@ -2700,6 +2826,24 @@
       "duration_ms": 177643,
       "name": "\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/222pbDT6HN6lHAhTuXQnrF"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/7l6RQj6T2S5Gno1H5cnZI4"
+      },
+      "artists": [
+        {
+          "name": "G4FIW",
+          "url": "https://open.spotify.com/artist/7rh7n1sVkNR89hSXyaxln8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206777,
+      "name": "\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/4XBRWghJnT6zY2sfQiwo6R"
     },
     {
       "album": {
@@ -3117,6 +3261,28 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/7ucT9KqKY9jIfLRqDSNkfi"
+      },
+      "artists": [
+        {
+          "name": "\u0e19\u0e32\u0e22\u0e19\u0e30",
+          "url": "https://open.spotify.com/artist/66RZat5hQzAFivj8CQF00M"
+        },
+        {
+          "name": "POM CHILLY",
+          "url": "https://open.spotify.com/artist/18oDcPEGnWBKnqQTWepURS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233292,
+      "name": "\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/25SUsHRgVuYWcOAFCfMkqE"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e34\u0e29\u0e20\u0e31\u0e22",
         "url": "https://open.spotify.com/album/0vQxrz3zSuD4JndtlJ4D5i"
       },
@@ -3326,10 +3492,44 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 182575,
       "name": "\u0e23\u0e16\u0e02\u0e2d\u0e07\u0e40\u0e25\u0e48\u0e19",
       "url": "https://open.spotify.com/track/3mulIA51nn5CXZDlhUcFly"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e08\u0e30\u0e08\u0e32\u0e01\u0e25\u0e32 (feat.G4FIW , APPOL)",
+        "url": "https://open.spotify.com/album/4mGHJ10EF6XVYk91B1poac"
+      },
+      "artists": [
+        {
+          "name": "PATCHARA",
+          "url": "https://open.spotify.com/artist/1qSlUrfbSherMbEkEpnSkG"
+        },
+        {
+          "name": "TANGWNAX",
+          "url": "https://open.spotify.com/artist/7E90QlRXCdDhHuO5dntGhH"
+        },
+        {
+          "name": "APPOL",
+          "url": "https://open.spotify.com/artist/7FTax7DcxTEMJzHGP0sNEB"
+        },
+        {
+          "name": "G4FIW",
+          "url": "https://open.spotify.com/artist/7rh7n1sVkNR89hSXyaxln8"
+        },
+        {
+          "name": "\u0e20\u0e39\u0e27\u0e40\u0e14\u0e0a \u0e1b\u0e23\u0e35\u0e0a\u0e32\u0e27\u0e07\u0e04\u0e4c",
+          "url": "https://open.spotify.com/artist/5KyzLmRLGNDkClmO2fcMiA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334783,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e08\u0e30\u0e08\u0e32\u0e01\u0e25\u0e32 (feat.G4FIW , APPOL)",
+      "url": "https://open.spotify.com/track/0S6iAParXun67OsLdpWugU"
     },
     {
       "album": {
@@ -3680,6 +3880,36 @@
       "duration_ms": 259469,
       "name": "\u0e2a\u0e38\u0e14\u0e43\u0e08",
       "url": "https://open.spotify.com/track/23YIgLVPlRRzLj1yttUvWU"
+    },
+    {
+      "album": {
+        "name": "THE WORLD",
+        "url": "https://open.spotify.com/album/6wxzx3kbwgt10qrCGrH5Gt"
+      },
+      "artists": [
+        {
+          "name": "DIEOUT",
+          "url": "https://open.spotify.com/artist/70qUZc0Sb9KwYgjAUdJfsf"
+        },
+        {
+          "name": "Hp blingz",
+          "url": "https://open.spotify.com/artist/1SFQ5a90LZ3KtGPy3Dkwkb"
+        },
+        {
+          "name": "THAOWANZ",
+          "url": "https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e27\u0e31\u0e19\u0e02\u0e2d\u0e07\u0e0a\u0e35\u0e27\u0e34\u0e15",
+      "url": "https://open.spotify.com/track/0v4XjyFGrAke94WnkQDwBE"
     },
     {
       "album": {
@@ -4443,6 +4673,28 @@
     },
     {
       "album": {
+        "name": "\u0e43\u0e1a\u0e02\u0e31\u0e1a\u0e02\u0e35\u0e48\u0e43\u0e1a\u0e43\u0e2b\u0e21\u0e48",
+        "url": "https://open.spotify.com/album/5vsbMXzkmMuGAzIiGXub8i"
+      },
+      "artists": [
+        {
+          "name": "PAIRY",
+          "url": "https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep"
+        },
+        {
+          "name": "GUNNER",
+          "url": "https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188235,
+      "name": "\u0e43\u0e1a\u0e02\u0e31\u0e1a\u0e02\u0e35\u0e48\u0e43\u0e1a\u0e43\u0e2b\u0e21\u0e48",
+      "url": "https://open.spotify.com/track/71Qn6P2qjNMaJUP8PS66QU"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e01\u0e25\u0e2b\u0e48\u0e32\u0e07 (Miss you)",
         "url": "https://open.spotify.com/album/49nsq1ie21MeZp7aANDjTK"
       },
@@ -4682,7 +4934,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 164516,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e43\u0e04\u0e23\u0e41\u0e17\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/6qNdSdcTASXbYZijNUHMlD"
@@ -4704,6 +4956,24 @@
       "duration_ms": 233317,
       "name": "\u0e44\u0e21\u0e48\u0e22\u0e34\u0e19\u0e14\u0e35",
       "url": "https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e01\u0e47\u0e15\u0e32\u0e21\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/0UoDw9Y9RZ7VqKnrtlojRz"
+      },
+      "artists": [
+        {
+          "name": "Pondering",
+          "url": "https://open.spotify.com/artist/5vzCTzMec4uL6JCNkOFcZ2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e01\u0e47\u0e15\u0e32\u0e21\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/3dBqpSG0pWzgoYRj80jsLw"
     },
     {
       "album": {
@@ -4752,7 +5022,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 163255,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e04\u0e34\u0e14 (Rizz)",
       "url": "https://open.spotify.com/track/3PsfQ7ev3x2cIdrkqRAhhr"

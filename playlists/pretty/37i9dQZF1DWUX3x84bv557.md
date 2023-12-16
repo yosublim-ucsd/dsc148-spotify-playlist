@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Isabèl Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,689 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,698 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Laatste Keer](https://open.spotify.com/track/3OBDE2Zx4u2YZYd0PUUOGp) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Laatste Keer](https://open.spotify.com/album/7rUuXDGfkkWAxDXFKTxigi) | 2:18 |
 | 2 | [Trots Op Haar](https://open.spotify.com/track/5Ak0hJNb5chvknl5OY7xnB) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Trots Op Haar](https://open.spotify.com/album/3H6QGkLIgvx71MlLgPQizY) | 2:49 |
 | 3 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 |
-| 4 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
-| 5 | [Hartenbreker](https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Hartenbreker](https://open.spotify.com/album/0PqE4iqArw2Ax0mbKqfjFU) | 2:37 |
-| 6 | [Maken of Breken](https://open.spotify.com/track/3o8mKz6JvIxl08QXq6vyxQ) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Maken of Breken](https://open.spotify.com/album/3DSkY5g59gmmWnezLp6880) | 3:21 |
-| 7 | [Rock ‘n Roll in Nederland](https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:03 |
+| 4 | [Hartenbreker](https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Hartenbreker](https://open.spotify.com/album/0PqE4iqArw2Ax0mbKqfjFU) | 2:37 |
+| 5 | [Rock ‘n Roll in Nederland](https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:03 |
+| 6 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
+| 7 | [Maken of Breken](https://open.spotify.com/track/3o8mKz6JvIxl08QXq6vyxQ) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Maken of Breken](https://open.spotify.com/album/3DSkY5g59gmmWnezLp6880) | 3:21 |
 | 8 | [Champions League](https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec) | 2:22 |
 | 9 | [Limousine](https://open.spotify.com/track/7An8syerbMM9c3a4rOwCOx) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Loafers van Puppyleer Deluxe EP](https://open.spotify.com/album/34VnmQ8FMDKT23bn2JLV7O) | 2:05 |
 | 10 | [Birkin](https://open.spotify.com/track/3290xz17jucVOEtGhgEHyi) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Birkin](https://open.spotify.com/album/6JBwSQvRHF3HEmifjSWG3W) | 2:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Treintje Later](https://open.spotify.com/track/1TJ7XbsAzUpJ3evpxbrAhx) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Treintje Later](https://open.spotify.com/album/1OSE4trfYFvnV2HPsJl4D4) | 3:08 |
 | 80 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 
-Snapshot ID: `MCxkNTMxOGViZDdkYjhmOTFhOTgzOTcwMWUxMThjYzIzNzU1OTkxYjAx`
+Snapshot ID: `MCxiZmNmZDg4YjA1Y2ZiNDJlNGM5NWZjZDk5YWE5OGRjODUzMmZiMmM0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Pharrell Williams, blink-182, Harry Styles &amp; more! Cover: Pharrell Williams, Swae Lee, Rauw Alejandro.",
+  "description": "Your go-to playlist for this week's hottest music featuring Beyonc\u00e9, blink-182, Harry Styles &amp; more! Cover: Beyonc\u00e9",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 175161,
       "name": "42",
       "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
@@ -964,6 +964,28 @@
       "duration_ms": 110781,
       "name": "Big Mad (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5"
+    },
+    {
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/5OlXjyMcCgbyvxUME1PhmG"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216048,
+      "name": "Big Smacks",
+      "url": "https://open.spotify.com/track/2STewyZ1VcIskc8tFIv2Ch"
     },
     {
       "album": {
@@ -2170,7 +2192,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 181223,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1qpMpd6otkEvU1X8o4rN54"
@@ -2641,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Piglet Live",
+        "url": "https://open.spotify.com/album/1dtQozh7ehsancAbrsiq5k"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "Digital Silence - Live from New York",
+      "url": "https://open.spotify.com/track/6ctyUkdFBmcYdT34bY92IX"
+    },
+    {
+      "album": {
         "name": "DIRT (feat. JPEGMAFIA)",
         "url": "https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF"
       },
@@ -2786,6 +2826,24 @@
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
+    },
+    {
+      "album": {
+        "name": "don't break my...",
+        "url": "https://open.spotify.com/album/4H3mkT4AxfYkDpdVR1mafr"
+      },
+      "artists": [
+        {
+          "name": "Kenzie Cait",
+          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130642,
+      "name": "don't break my...",
+      "url": "https://open.spotify.com/track/4IobQL4j9hi0KdYoRFA4n9"
     },
     {
       "album": {
@@ -3639,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Con Tololoche Vol. 3",
+        "url": "https://open.spotify.com/album/6EW70R9qB26IFFg4vXjcx9"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168976,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/39MVkJ39r1JoBUPVQnlTfa"
+    },
+    {
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -3756,6 +3832,40 @@
       "duration_ms": 146823,
       "name": "Gang Gang (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/1nLUcjQbw4rOc6DMNGzQDu"
+    },
+    {
+      "album": {
+        "name": "Get Deady",
+        "url": "https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203142,
+      "name": "Get Deady",
+      "url": "https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4"
     },
     {
       "album": {
@@ -4195,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "Heart Attack (Arch)",
+        "url": "https://open.spotify.com/album/3C8K1MJuvlu6GZt7fDe3ZB"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171827,
+      "name": "Heart Attack (Arch)",
+      "url": "https://open.spotify.com/track/2K3x6iSi1bNX50en2Dqh5p"
+    },
+    {
+      "album": {
         "name": "Heart's Done Breakin'",
         "url": "https://open.spotify.com/album/1w14uCltfdbe7IR6326d0A"
       },
@@ -4242,7 +4370,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 221217,
       "name": "Heartbeat Highway",
       "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
@@ -6161,6 +6289,32 @@
     },
     {
       "album": {
+        "name": "Mind On You (feat. charlieonnafriday & Kidd G)",
+        "url": "https://open.spotify.com/album/2TXzJqDmxEGtrQJUHxrHoU"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        },
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        },
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201923,
+      "name": "Mind On You (feat. charlieonnafriday & Kidd G)",
+      "url": "https://open.spotify.com/track/1eoapzLQuYBDRDaHQuxXc4"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L"
       },
@@ -6308,7 +6462,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 186066,
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
@@ -6749,6 +6903,32 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/71NR9WGF9Ke6ziA6OKYiLc"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        },
+        {
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "FaZe Kaysan",
+          "url": "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150846,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/0UlAxLlUGzB6MMd5tpXvQh"
+    },
+    {
+      "album": {
         "name": "No Names",
         "url": "https://open.spotify.com/album/7CID8lEFRgWbN3gfUpl8rD"
       },
@@ -6898,7 +7078,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 177493,
       "name": "Nos Equivocamos (feat. Luis Alfonso Partida El Yaki)",
       "url": "https://open.spotify.com/track/5T8myQh7dDbCS0aGNZ1TWC"
@@ -7214,7 +7394,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 208114,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
@@ -8292,10 +8472,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 154800,
       "name": "SLEEP PARALYSIS DEMON",
       "url": "https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228376,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
     },
     {
       "album": {
@@ -8746,6 +8944,24 @@
       "duration_ms": 136586,
       "name": "Summertime Friends",
       "url": "https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9"
+    },
+    {
+      "album": {
+        "name": "Live From Drew's Rental House",
+        "url": "https://open.spotify.com/album/0EVqTCpXvcgQmvzwY14BJV"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217098,
+      "name": "Summertime Friends - Winter Version",
+      "url": "https://open.spotify.com/track/4jUs1XueEiMLw0mcOQUsfv"
     },
     {
       "album": {
@@ -10424,7 +10640,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 150413,
       "name": "White Glove",
       "url": "https://open.spotify.com/track/6NIlYycjhvtKGKtiABymF3"

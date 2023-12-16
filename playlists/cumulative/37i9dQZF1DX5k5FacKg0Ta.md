@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-179 songs - 15 hr 38 min
+180 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Löyly](https://open.spotify.com/track/5PajsYtW5p4Ouut9qxesuZ) | [Teea Aarnio](https://open.spotify.com/artist/4OOpIlBLL7ldq83P15jkQM) | [Löyly](https://open.spotify.com/album/4rlRsxnaAZusRH6DtiLrQc) | 5:22 | 2023-03-29 | 2023-09-15 |
 | [Maa](https://open.spotify.com/track/3d9EeEFR1nMnzjZZpLKiwH) | [Njet Njet 9](https://open.spotify.com/artist/7rNnHAMppjTUfTcoIQTJEQ) | [Maa](https://open.spotify.com/album/7DkhE0ZX2WlFfJjUK4WDrA) | 5:00 | 2023-10-26 |  |
 | [Made In Finland](https://open.spotify.com/track/3tshGD2GGqWYPPnB5L9DL7) | [Markus Venehsalo](https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2), [Mavon Safia](https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit) | [Made in Finland](https://open.spotify.com/album/49Fi3MgqfxOr16AnpIa9M7) | 4:26 | 2023-03-31 |  |
+| [Matka](https://open.spotify.com/track/1oQGPJopKpQ8amfXDfE37W) | [Leo Hynninen](https://open.spotify.com/artist/2sGqLEHBjdeKv6hi3tAsqj) | [Matka](https://open.spotify.com/album/3SQeJqqtmhPYfd3OCB6mUY) | 2:30 | 2023-12-15 |  |
 | [Mercy](https://open.spotify.com/track/5g7R1HYpEUNtD1G0yYadAI) | [Northern gospel project](https://open.spotify.com/artist/0B4CulblTpweOC0a5uHoF9) | [Mercy](https://open.spotify.com/album/7wBPnoHvTAXNkPTuAmgCbU) | 5:00 | 2022-09-02 | 2023-09-15 |
 | [Moon Over Mysore](https://open.spotify.com/track/2ViBKbHDsJuvU2eTireOAY) | [Kokko Quartet](https://open.spotify.com/artist/3KHGL7g4Udxn7D3Tja53Ve) | [Moon over Mysore](https://open.spotify.com/album/3ErQYvguy4PL1uTzdjXxPT) | 4:39 | 2022-09-02 | 2023-11-24 |
 | [Mosaic](https://open.spotify.com/track/6toNcJv5LE65OGYbE4pwUz) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [Mosaic](https://open.spotify.com/album/4qPs6JHFEaltnYSsvMO5qI) | 2:01 | 2023-10-13 |  |

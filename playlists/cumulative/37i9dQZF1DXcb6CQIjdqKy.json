@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"spotify:artist:1bdnGJxkbIIys5Jhk1T74v\">Brandon Lake</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"spotify:artist:4GKPfwrzMoTyu7bYd4aqU1\">JCPP Worship</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -5595,6 +5595,28 @@
     },
     {
       "album": {
+        "name": "Diary Entry",
+        "url": "https://open.spotify.com/album/0BXbBx3KrFJHWxBEGJqUBf"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        },
+        {
+          "name": "Moflo",
+          "url": "https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180871,
+      "name": "in the cool of the day",
+      "url": "https://open.spotify.com/track/4D34sCvcCCugcknWUsOXJk"
+    },
+    {
+      "album": {
         "name": "Milk & Honey",
         "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
       },
@@ -5975,6 +5997,24 @@
     },
     {
       "album": {
+        "name": "It Is You",
+        "url": "https://open.spotify.com/album/5BDmmhmgjmcZ04OnizPgJC"
+      },
+      "artists": [
+        {
+          "name": "JPCC Worship",
+          "url": "https://open.spotify.com/artist/4GKPfwrzMoTyu7bYd4aqU1"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487719,
+      "name": "Jesus it is You - Acoustic",
+      "url": "https://open.spotify.com/track/5LI3PVwtw69svZEiUXDg5T"
+    },
+    {
+      "album": {
         "name": "A Hundred Highways",
         "url": "https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi"
       },
@@ -6064,7 +6104,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 312069,
       "name": "JOY (Unspeakable) (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4"
@@ -12782,7 +12822,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 128910,
       "name": "Wild & Free",
       "url": "https://open.spotify.com/track/0afBbn5tybe8kP4VTRl8k0"

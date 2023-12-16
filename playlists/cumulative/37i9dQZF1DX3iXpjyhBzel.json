@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 260000,
       "name": "A Nuvem",
       "url": "https://open.spotify.com/track/1PBMPxk5xDzRf6H3GRQS4C"
@@ -586,6 +586,32 @@
       "duration_ms": 658333,
       "name": "Casinha Favorita",
       "url": "https://open.spotify.com/track/2Bok8eOLrlwBUASYyfuOJw"
+    },
+    {
+      "album": {
+        "name": "Clamo Jesus",
+        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Marsena",
+          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
+        },
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437426,
+      "name": "Clamo Jesus",
+      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
     },
     {
       "album": {
@@ -2771,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "Ton Canta, Vol. 3",
+        "url": "https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205282,
+      "name": "O Melhor De Deus",
+      "url": "https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t"
+    },
+    {
+      "album": {
         "name": "O Melhor Pra Ti (Ao Vivo)",
         "url": "https://open.spotify.com/album/1wd6c2RtTOCEfbZMooYl2w"
       },
@@ -4420,7 +4464,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 472000,
       "name": "Yahweh Se Manifestar\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/7C6jN12e3k2weyxSDtmpj3"

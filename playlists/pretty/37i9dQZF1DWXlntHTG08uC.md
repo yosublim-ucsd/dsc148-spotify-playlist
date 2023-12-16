@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,996 likes - 155 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,100 likes - 155 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 136 | [528 Hz Angelic Morning](https://open.spotify.com/track/3rPXQBQQ8LazrVuOI0X7d6) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 3](https://open.spotify.com/album/3dbNlAIfcmieBOZrhoI2Ll) | 2:52 |
 | 137 | [528 Hz DNA Repair](https://open.spotify.com/track/2oUbRBvpvb7iyvyMcBrsjG) | [Solfeggio Frequencies for Meditation](https://open.spotify.com/artist/5WkGVH2I9VFYiicvzevCuh) | [528 Hz Clarity, Peace and DNA Repair](https://open.spotify.com/album/5ohhnuyB8pdNRUsyl52ZS1) | 2:46 |
 | 138 | [Imagination Booster \(528 Hz Solfeggio Frequency\)](https://open.spotify.com/track/4ODuujsx5VRf6W7UfJv4uP) | [Marun Valenti](https://open.spotify.com/artist/0UFMKIKMcCZApRPCnS23pt) | [Imagination Booster \(528 Hz Solfeggio Frequency\)](https://open.spotify.com/album/1bekhuWpcVqb39OVKJQiW6) | 2:42 |
-| 139 | [528 Hz Manipura Chakra](https://open.spotify.com/track/6KkWAocfZ9bRqxwapOhPBb) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Solfeggio Frequency](https://open.spotify.com/album/5zW84fjGlZMEdgFzzwl2bo) | 3:21 |
+| 139 | [528 Hz Manipura Chakra](https://open.spotify.com/track/0xlxfh1Rl5wXfEq7z6uqRF) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Transformation & Miracles DNA Repair \(The Solar Plexus Chakra\)](https://open.spotify.com/album/7rxXRL2nVwner9Viwp31Ap) | 3:21 |
 | 140 | [528 Hz – Transformation and Miracles](https://open.spotify.com/track/3MXGM825MDWkbb5fFaIqVv) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [528 Hz – Transformation and Miracles](https://open.spotify.com/album/4v5ABlOSpf8UwLeOQXlPqn) | 3:04 |
 | 141 | [Expressive Binaural Beat](https://open.spotify.com/track/2HUvs4LPYAb22yYDAdOIpp) | [Plexus](https://open.spotify.com/artist/5dbFQbGTkfAvqr9ECyJRsU) | [Floating Sounds](https://open.spotify.com/album/47odIFYF7fKx0gJ54onduE) | 2:30 |
 | 142 | [Resonate \- 528 Hz](https://open.spotify.com/track/3X0Q2dR9VV2NYYvHhSoKw4) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Resonate \- 528 Hz](https://open.spotify.com/album/2qjWX0Cty1h9H1iFtsHHPk) | 3:04 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 154 | [528 Hz \- Ethereal Sleep](https://open.spotify.com/track/3vtYExoYCVfURG0v770Lwc) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep \- Solfeggio](https://open.spotify.com/album/2lvIKEO0zvEuaV0tA9hcCj) | 2:02 |
 | 155 | [528 Hz Clarity Vibrations](https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Clarity Vibrations](https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC) | 2:12 |
 
-Snapshot ID: `MCw0OWUxNzczMjYwZTgxZGJjMjM2NzE0Y2ZkZTU5M2MyMzg1MDhmNzQz`
+Snapshot ID: `MCwyNGZhNzk0MzVjNTU0MmYxOWZlODlhYmU2ZTA3YjA1MDY5MjExYzYx`

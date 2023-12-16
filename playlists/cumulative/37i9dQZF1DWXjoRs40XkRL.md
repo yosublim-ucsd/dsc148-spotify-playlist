@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-216 songs - 19 hr 37 min
+217 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Chann](https://open.spotify.com/track/6ElMeJeP2bqPV9osEESQK8) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Chann](https://open.spotify.com/album/7nCzZ3W3YVhDXKBMkk59vM) | 2:46 | 2023-09-08 |  |
 | [Chayanat](https://open.spotify.com/track/0X0rm2Yz4eoRPtDmYORevR) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Bhuvanesh Komkali](https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB) | [Chayanat](https://open.spotify.com/album/2EyvDomj1NOcjAuhtPr5Nb) | 5:24 | 2022-05-17 |  |
 | [Delhi Drill](https://open.spotify.com/track/5MUMXjnsf4UydEK8rFx8Xq) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/4KXcZoIVMzsxVVn18679Zw) | 1:57 | 2023-11-09 |  |
-| [Dil Jaye Na](https://open.spotify.com/track/35FKiPd3sGN2MjSghBg5WV) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Prosun Dey](https://open.spotify.com/artist/6A5glfpIwkZ5KJLgPiBFnG) | [Dil Jaye Na](https://open.spotify.com/album/3Sd8r89Q6nOVSGJHr3V3OF) | 1:01 | 2023-11-15 |  |
+| [Dil Jaye Na](https://open.spotify.com/track/35FKiPd3sGN2MjSghBg5WV) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Prosun Dey](https://open.spotify.com/artist/6A5glfpIwkZ5KJLgPiBFnG) | [Dil Jaye Na](https://open.spotify.com/album/3Sd8r89Q6nOVSGJHr3V3OF) | 1:01 | 2023-11-15 | 2023-12-16 |
 | [Dil Leke Mujhe Badnam \- Thumri/lounge](https://open.spotify.com/track/7ncyIsZzLUA9SRzZv8raNk) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ), [Ankur Mukherjee](https://open.spotify.com/artist/69T59hAeicTPSD99TWNO5g) | [Dil Leke Mujhe Badnam \(Thumri/lounge\)](https://open.spotify.com/album/3EffjYOMsxahbRFHYlZsod) | 5:20 | 2022-05-17 |  |
 | [Easy](https://open.spotify.com/track/1Zlp3AkCc1CCtp3yUwqdRr) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Breathing Under Water](https://open.spotify.com/album/7FaPH6ZYyCQS6S5Frf6ib7) | 3:30 | 2022-05-17 | 2023-02-02 |
 | [Eyes \- Edit](https://open.spotify.com/track/1szU2VvMCf5y3CegDghUFE) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Anahata](https://open.spotify.com/album/5uonu2VHlV0tR3DnvfSoR4) | 2:56 | 2022-05-17 | 2023-05-24 |
@@ -79,6 +79,7 @@
 | [Ja Ja Re Apne](https://open.spotify.com/track/3COq2ajX5JKwferXjUWWLz) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Ja Ja Re Apne](https://open.spotify.com/album/4ho7R4LOcEWXen96udRpTr) | 4:54 | 2023-03-10 | 2023-12-02 |
 | [Jaa Kaga](https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jaa Kaga](https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1) | 5:10 | 2023-10-20 |  |
 | [Jaanu Na \- Jodi Tare](https://open.spotify.com/track/1VRrV5xVD5iuI38NQSdwg1) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Tagore Songs \- Hindi Adaptations](https://open.spotify.com/album/4QuenfmhzueuIbon28NOiR) | 4:45 | 2022-05-17 | 2023-05-24 |
+| [Jabse Tum Sana Lag Li \- Bhoopali](https://open.spotify.com/track/6zFQPuWAkXBEN2h3ytYJLx) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Jabse Tum Sana Lag Li \(Bhoopali\)](https://open.spotify.com/album/6Bm1pY8Lg5vDmRzxOjC22l) | 3:03 | 2023-12-15 |  |
 | [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 |  |
 | [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 | 2022-12-07 | 2023-04-22 |
 | [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/2FlrURkLtjLKlfkVmgQRob) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6h564cMA06UJRCmanWFdqp) | 5:27 | 2023-03-30 | 2023-04-01 |

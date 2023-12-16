@@ -3718,10 +3718,28 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 167048,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/3V0rNeBbdBfWzsP6nk98iT"
+    },
+    {
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/2ZRsLwBTj6AFR5T0DFAZtI"
+      },
+      "artists": [
+        {
+          "name": "Starceed",
+          "url": "https://open.spotify.com/artist/2zz1LTzFkZyEn9FlldGuwm"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167048,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/596tehHMkW1OJSM2qRYBrX"
     },
     {
       "album": {

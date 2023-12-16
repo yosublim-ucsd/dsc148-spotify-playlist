@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 110930,
+  "num_followers": 111418,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjY2YzU3NThkMzM1MWEyYWI2ZGY4M2UyOGNlNWVmOGQzYzMxYWFl",
+  "snapshot_id": "MCw2NGQ0YjFkMDUxYjc4YTAzMTdmM2Y4MTQ5MjJhMDlmOTRkODA4YTlh",
   "tracks": [
     {
       "added_at": "2023-12-13 09:32:21",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-12-13 09:32:21",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 135760,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP"
-    },
-    {
-      "added_at": "2023-12-13 09:32:21",
-      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 159833,
       "name": "Christmas Night In Harlem - Single Version",
       "url": "https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF"
+    },
+    {
+      "added_at": "2023-12-13 09:32:21",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 135760,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP"
     },
     {
       "added_at": "2023-12-13 09:32:21",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-12-13 09:32:21",
       "album": {
-        "name": "When We Kissed Under The Mistletoe",
-        "url": "https://open.spotify.com/album/43omzeS1WIBkcVZuPkh3zs"
-      },
-      "artists": [
-        {
-          "name": "Gus Anderson",
-          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
-        }
-      ],
-      "duration_ms": 144248,
-      "name": "When We Kissed Under The Mistletoe",
-      "url": "https://open.spotify.com/track/5vt00tH4PyhiAuV4kGIUAK"
-    },
-    {
-      "added_at": "2023-12-13 09:32:21",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -603,22 +587,34 @@
     {
       "added_at": "2023-12-13 09:32:21",
       "album": {
-        "name": "Their Complete Recordings Together",
-        "url": "https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7"
+        "name": "When We Kissed Under The Mistletoe",
+        "url": "https://open.spotify.com/album/43omzeS1WIBkcVZuPkh3zs"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
         }
       ],
-      "duration_ms": 193240,
-      "name": "Poppa Santa Claus",
-      "url": "https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X"
+      "duration_ms": 144248,
+      "name": "When We Kissed Under The Mistletoe",
+      "url": "https://open.spotify.com/track/5vt00tH4PyhiAuV4kGIUAK"
+    },
+    {
+      "added_at": "2023-12-13 09:32:21",
+      "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
     },
     {
       "added_at": "2023-12-13 09:32:21",
@@ -671,6 +667,26 @@
     {
       "added_at": "2023-12-13 09:32:21",
       "album": {
+        "name": "Their Complete Recordings Together",
+        "url": "https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Poppa Santa Claus",
+      "url": "https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X"
+    },
+    {
+      "added_at": "2023-12-13 09:32:21",
+      "album": {
         "name": "The Song Society Playlist",
         "url": "https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 253388,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN"
-    },
-    {
-      "added_at": "2023-12-13 09:32:21",
-      "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
     },
     {
       "added_at": "2023-12-13 09:32:21",

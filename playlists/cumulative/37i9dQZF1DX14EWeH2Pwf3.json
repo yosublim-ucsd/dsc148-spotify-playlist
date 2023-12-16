@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 161454,
       "name": "Dentro la mia testa",
       "url": "https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX"
@@ -3464,6 +3464,28 @@
       "duration_ms": 140010,
       "name": "Giungla",
       "url": "https://open.spotify.com/track/1W5uxws5Pwf5ujQZFgZyPS"
+    },
+    {
+      "album": {
+        "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
+        "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189287,
+      "name": "Goal (feat. MadMan)",
+      "url": "https://open.spotify.com/track/7DvRemU2ACnEjOiLVKC4X7"
     },
     {
       "album": {

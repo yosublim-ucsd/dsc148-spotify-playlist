@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 235640,
       "name": "Bittersweet - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
@@ -4304,7 +4304,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 198324,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
@@ -4844,7 +4844,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 242561,
       "name": "DOWN BY LAW - Live from Atlanta, GA",
       "url": "https://open.spotify.com/track/6rgawPzwREAF01BSJFXXxD"
@@ -5524,6 +5524,28 @@
     {
       "album": {
         "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/3YOMkR4iUo3bmEIApbWmsa"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/0mAf9TNr3a2jIHsq2PIagH"
+    },
+    {
+      "album": {
+        "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
       "artists": [
@@ -5538,7 +5560,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 180869,
       "name": "Everybody (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
@@ -9235,6 +9257,24 @@
     },
     {
       "album": {
+        "name": "Hackney Diamonds (Live Edition)",
+        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334204,
+      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
+      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
+    },
+    {
+      "album": {
         "name": "Battle Pass Mixtape",
         "url": "https://open.spotify.com/album/7uAISPJ5P2xO7x1L1RrfrJ"
       },
@@ -9338,6 +9378,28 @@
       "duration_ms": 260200,
       "name": "Kaamos - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/7tHc7q634GxvivLKJfMcmY"
+    },
+    {
+      "album": {
+        "name": "Bompton King",
+        "url": "https://open.spotify.com/album/5JcuCQYe7nKmotYeUVcYDd"
+      },
+      "artists": [
+        {
+          "name": "YG Hootie",
+          "url": "https://open.spotify.com/artist/0AtWMBis5Rh02sFv4LgXtP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195623,
+      "name": "Kali Love (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/0D3Myb8AY4siH5migv1lDg"
     },
     {
       "album": {
@@ -9704,6 +9766,28 @@
       "duration_ms": 452000,
       "name": "Konzertst\u00fcck in F Minor, Op. 79: Adagio - Tempo di marcia - Pi\u00f9 mosso - Presto giocoso",
       "url": "https://open.spotify.com/track/0uMwn3iVIQ9DwwQU6wmLbS"
+    },
+    {
+      "album": {
+        "name": "Labios Mordidos (with KAROL G)",
+        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "album": {
@@ -11267,6 +11351,36 @@
     },
     {
       "album": {
+        "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
+        "url": "https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
+      "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -11408,6 +11522,32 @@
       "duration_ms": 238000,
       "name": "Mishima (Bob's Burgers Arrangement)",
       "url": "https://open.spotify.com/track/3itGRXrIxRitrsEmBHYLre"
+    },
+    {
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/5RsIqt4WbS8MgwAxMQOW9i"
+      },
+      "artists": [
+        {
+          "name": "Ert Jiur",
+          "url": "https://open.spotify.com/artist/7EGzAX14EdknqEC6bkb2YS"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226687,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/2GWQu6egA5NUqlPTBC4eIz"
     },
     {
       "album": {
@@ -11820,6 +11960,24 @@
       "duration_ms": 273626,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
+    },
+    {
+      "album": {
+        "name": "Mr. McAdams",
+        "url": "https://open.spotify.com/album/3zIqYHjhiIX0ezJUIegDfl"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156101,
+      "name": "Mr. McAdams",
+      "url": "https://open.spotify.com/track/7uPVu05kl4tGCJ3KRUucBT"
     },
     {
       "album": {
@@ -13451,6 +13609,28 @@
     },
     {
       "album": {
+        "name": "Power of the Saber Blade",
+        "url": "https://open.spotify.com/album/6NDF3L8GU0Am1cM9kQFN2E"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        },
+        {
+          "name": "Beat Saber",
+          "url": "https://open.spotify.com/artist/0omOtYsniDOsmu11EWcnyp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241066,
+      "name": "Power of the Saber Blade",
+      "url": "https://open.spotify.com/track/1rzLqwGDGEIaeLUCfTcYdi"
+    },
+    {
+      "album": {
         "name": "Power of the Triforce",
         "url": "https://open.spotify.com/album/5L4sI4cx6Ydq0ukz49XQji"
       },
@@ -14291,6 +14471,28 @@
     },
     {
       "album": {
+        "name": "RUN (Damian \"Jr. Gong\" Marley Version)",
+        "url": "https://open.spotify.com/album/06kl5Xeo05QdbODQFWX4ZD"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268936,
+      "name": "RUN - Damian \"Jr. Gong\" Marley Version",
+      "url": "https://open.spotify.com/track/6OmaDOVCWQfy69DSayk9dZ"
+    },
+    {
+      "album": {
         "name": "Ruska (Live In Helsinki St. John's Church)",
         "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
       },
@@ -14459,6 +14661,24 @@
     },
     {
       "album": {
+        "name": "Sans valeurs",
+        "url": "https://open.spotify.com/album/6nHSLuslrzpFh1jjQw3Rxt"
+      },
+      "artists": [
+        {
+          "name": "IAM",
+          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232613,
+      "name": "Sans valeurs",
+      "url": "https://open.spotify.com/track/0Gmd5KVTh5ZDkFswbvgajB"
+    },
+    {
+      "album": {
         "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
         "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
       },
@@ -14598,6 +14818,40 @@
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "album": {
+        "name": "Secret Message",
+        "url": "https://open.spotify.com/album/7lMDxyDM3nSQINiiIH1Zos"
+      },
+      "artists": [
+        {
+          "name": "Thugzlines",
+          "url": "https://open.spotify.com/artist/42yVuEb8hEJw6SU1UiWDRC"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+        },
+        {
+          "name": "Killah Priest",
+          "url": "https://open.spotify.com/artist/0JYmatsiEQMn2v5KchV8u2"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344008,
+      "name": "Secret Message",
+      "url": "https://open.spotify.com/track/6R1leF5ESLHVNvdke5lQbG"
     },
     {
       "album": {
@@ -15178,7 +15432,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 117398,
       "name": "So Just Rid Yourself Of Him",
       "url": "https://open.spotify.com/track/7wSrE8gDihaPSQ7Fqqaney"
@@ -16142,7 +16396,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 459741,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga) - Live at Racket, NYC",
       "url": "https://open.spotify.com/track/5vo05MN3AjGdbiTtnw5jbg"
@@ -18542,7 +18796,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 237534,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
@@ -19128,6 +19382,32 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "What We're Up Against",
+        "url": "https://open.spotify.com/album/3LxpLZIrctTM8oLFrSD3VG"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Elize Ryd",
+          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
+        },
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "What We're Up Against feat. Elize Ryd of Amaranthe",
+      "url": "https://open.spotify.com/track/7BfZXCDOxgbzeQnXJfzjDr"
     },
     {
       "album": {

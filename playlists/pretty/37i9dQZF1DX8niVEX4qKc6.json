@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Cata Raybaud y Benjamin Walker",
-  "num_followers": 179322,
+  "num_followers": 179328,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDg1NGE3OTcyMWYyZWVlZTFmOTA1MTYxNTRkOWVmNjZhNTc2YTNh",
+  "snapshot_id": "MCxlZDJjMjNjZTQyYzNjZTBhMWEyZGIxOTAyYjMyMTgwYWY3NWQ2MTFk",
   "tracks": [
     {
       "added_at": "2023-12-15 01:11:36",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-12-15 01:11:36",
       "album": {
-        "name": "Caminos Br\u00edos",
-        "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
-      },
-      "artists": [
-        {
-          "name": "Piti Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
-        }
-      ],
-      "duration_ms": 337538,
-      "name": "DOCTORA II",
-      "url": "https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79"
-    },
-    {
-      "added_at": "2023-12-15 01:11:36",
-      "album": {
         "name": "Alas Canciones",
         "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 302280,
       "name": "Sigo Caminando",
       "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
+    },
+    {
+      "added_at": "2023-12-15 01:11:36",
+      "album": {
+        "name": "Caminos Br\u00edos",
+        "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
+      },
+      "artists": [
+        {
+          "name": "Piti Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+        }
+      ],
+      "duration_ms": 337538,
+      "name": "DOCTORA II",
+      "url": "https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79"
     },
     {
       "added_at": "2023-12-15 01:11:36",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-12-15 01:11:36",
       "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 208289,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
-    },
-    {
-      "added_at": "2023-12-15 01:11:36",
-      "album": {
         "name": "Desapego",
         "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
+    },
+    {
+      "added_at": "2023-12-15 01:11:36",
+      "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 208289,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
     },
     {
       "added_at": "2023-12-15 01:11:36",

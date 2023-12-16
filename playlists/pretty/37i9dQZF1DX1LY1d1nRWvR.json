@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33003,
+  "num_followers": 33013,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzJkNGJlYjRmNjk3ZDdhOWExMTA2MTc1Y2FjNjdmZTkxNzBiNmM3",
+  "snapshot_id": "MCwyNjlhYmEzNDBkODc2MWY4NTU2M2YzNDU1MzYzZTRmZjk0NjFlY2Yy",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -219,26 +219,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Isphithiphithi",
         "url": "https://open.spotify.com/album/4sO9GxYupSVEJ3rRsaVpnd"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 381586,
       "name": "Akulaleki",
       "url": "https://open.spotify.com/track/73wcFiFeCQurmHDQIcirbm"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -435,6 +435,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Rye Lane Vol. 1",
+        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
+      },
+      "artists": [
+        {
+          "name": "Al Dobson Jr.",
+          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
+        },
+        {
+          "name": "Reginald Omas Mamode",
+          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
+        }
+      ],
+      "duration_ms": 132864,
+      "name": "Nankoo on Keys",
+      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Trips #2: Vietnam",
         "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Rye Lane Vol. 1",
-        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
-      },
-      "artists": [
-        {
-          "name": "Al Dobson Jr.",
-          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
-        },
-        {
-          "name": "Reginald Omas Mamode",
-          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
-        }
-      ],
-      "duration_ms": 132864,
-      "name": "Nankoo on Keys",
-      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        }
-      ],
-      "duration_ms": 513226,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Cleo",
         "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "duration_ms": 513226,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Highlife World Series: Cuba",
         "url": "https://open.spotify.com/album/4Q85JHfw0WgT1MFlEqoSZ0"
       },
@@ -695,26 +695,6 @@
       "duration_ms": 356313,
       "name": "Mother Theresa",
       "url": "https://open.spotify.com/track/6kfZ34Gl892WmuGxiLeD3a"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Sankofa Season",
-        "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ashong",
-          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
-        },
-        {
-          "name": "Kaidi Tatham",
-          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
-        }
-      ],
-      "duration_ms": 342591,
-      "name": "Eye Mo K",
-      "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -739,6 +719,26 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Sankofa Season",
+        "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ashong",
+          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
+        },
+        {
+          "name": "Kaidi Tatham",
+          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+        }
+      ],
+      "duration_ms": 342591,
+      "name": "Eye Mo K",
+      "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -799,6 +799,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 346361,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Straight Line (Remixed)",
         "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 376489,
       "name": "Straight Line - Neil Cowley Remix",
       "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 346361,
-      "name": "Aletheia",
-      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",

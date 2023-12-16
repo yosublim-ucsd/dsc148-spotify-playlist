@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from Africa this year\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=XU\-hT4i7TO\-GoA1GLDBjRA"> YKB </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,922 likes - 59 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,951 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 13 | [ZOJIKI IZINTO](https://open.spotify.com/track/2up5Dd9llCPQT87KNaJ975) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7) | [ZOJIKI IZINTO](https://open.spotify.com/album/5s9e6m4cbXxrrtTry3EAyo) | 4:18 |
 | 14 | [Vibration](https://open.spotify.com/track/69N20fDZagMeAx5dWi4zRE) | [Basiil](https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV) | [Vibration](https://open.spotify.com/album/6JYkMYw3zNBTuNHsBnlVA8) | 2:50 |
 | 15 | [Relate](https://open.spotify.com/track/4J7kguCkjsAzsR5Iv8RPmV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Relate](https://open.spotify.com/album/4VvDBafoRkSmxDGrhrqdTw) | 2:48 |
-| 16 | [My Life](https://open.spotify.com/track/0hFw0OeMn5wVSUFp4DJBFU) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [My Life](https://open.spotify.com/album/3RB22aNgGwRmZkyrt66Zj1) | 2:26 |
+| 16 | [My Life](https://open.spotify.com/track/1f3q8XJyuf2nLBCJ0AqKWu) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [My Life](https://open.spotify.com/album/05zyTCB7U6SIpsPXEvtLnw) | 2:26 |
 | 17 | [BARKER HAINES](https://open.spotify.com/track/3VsKpmCGU3yLqn4SSnzSzt) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [MAGLERA DOE BOY](https://open.spotify.com/artist/50gnXpyd5RQPPbyilQLVKB), [MOCHEN](https://open.spotify.com/artist/2W342X5Hkpzt1JdUQhdZPo) | [PEOPLE FORGET TO BE PEOPLE](https://open.spotify.com/album/7Ahv4tX3pcBtuPP6kH6A6V) | 4:06 |
 | 18 | [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 |
 | 19 | [Purpose](https://open.spotify.com/track/6GdvXuBys1krm4cNnxHhQR) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:49 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 58 | [Soja Man](https://open.spotify.com/track/7GIO22V1L4wUq23NUQyhQE) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/3beW8OdVYWIke4rpJiPTcH) | 3:21 |
 | 59 | [Feel So Right](https://open.spotify.com/track/2pKM0v34uiyv7fEKWfARxR) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/4s0PMOiNGkO4wukgX8SgQc) | 3:16 |
 
-Snapshot ID: `MCwyY2Y3NmZlM2FmOTBjOTViMDc1ZThlMTE0ZWFmYmFmNzkyYjllOGI1`
+Snapshot ID: `MCxkYWM3Yjc4YmZlYzY3ZGQ5NjE1ZWJhMThlYWRhY2U2YmEzZmUzY2M4`

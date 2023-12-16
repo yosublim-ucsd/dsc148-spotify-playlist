@@ -1,13 +1,65 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 984320,
+  "num_followers": 984329,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjAzODMwMDllN2Q3ZjFkYzVlZTg0M2UxNzZjN2FmZDM5NzIwMWQ0",
+  "snapshot_id": "MCxlMTUyYzgxNDZjZGQzNTNlZjZjMjk1ZGRiZjg1M2FmMjg0MWFkZWU2",
   "tracks": [
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Don't Need to Sleep",
+        "url": "https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 188875,
+      "name": "Don't Need to Sleep",
+      "url": "https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Leave It Better Than You Found It",
+        "url": "https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 285795,
+      "name": "Leave It Better Than You Found It",
+      "url": "https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 228376,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
+    },
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
@@ -135,22 +187,6 @@
       "duration_ms": 194772,
       "name": "Loved",
       "url": "https://open.spotify.com/track/5TrIYP0VcwpwSs2Qk9G8Rn"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1593,26 +1629,6 @@
       "url": "https://open.spotify.com/track/7HPAtYzMyBkf5eBcHK6T4x"
     },
     {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Chasing Your Dream (Acoustic)",
-        "url": "https://open.spotify.com/album/1FrG7V5tZ7J7hVWwiLEI5R"
-      },
-      "artists": [
-        {
-          "name": "Chase Bell",
-          "url": "https://open.spotify.com/artist/57Y3Yk8FH0HglxHzvuCQn5"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 132307,
-      "name": "Chasing Your Dream - Acoustic",
-      "url": "https://open.spotify.com/track/2r6NcQOLzErMjFVCNxZeuy"
-    },
-    {
       "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "we all could use some help",
@@ -1687,26 +1703,6 @@
       "duration_ms": 216992,
       "name": "Miss Me the Same (with Anson Seabra)",
       "url": "https://open.spotify.com/track/5pSueoHUFxwBiLebqpcGUU"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Keep Your Courage",
-        "url": "https://open.spotify.com/album/1PWQ1uSe3rnRYeaq3BQAoe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Merchant",
-          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
-        },
-        {
-          "name": "Abena Koomson-Davis",
-          "url": "https://open.spotify.com/artist/4HuxZuIuuUSLciQsQ6rLMm"
-        }
-      ],
-      "duration_ms": 296960,
-      "name": "Big Girls (feat. Abena Koomson-Davis)",
-      "url": "https://open.spotify.com/track/1utHZRP4isMeCVwwhExEnQ"
     },
     {
       "added_at": "2023-09-15 04:01:00",

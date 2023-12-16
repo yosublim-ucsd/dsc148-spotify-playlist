@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/772WkZcBta5D8Ny4efwOiB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229712,
+      "name": "Noite de Paz (Silent Night)",
+      "url": "https://open.spotify.com/track/3I9Y9ZbUAd26uX44pqrgt0"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Mais Escravos",
         "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
       },

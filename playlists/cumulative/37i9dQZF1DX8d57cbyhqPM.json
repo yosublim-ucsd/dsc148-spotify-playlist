@@ -2245,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Garde ta position",
+        "url": "https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133584,
+      "name": "Garde ta position",
+      "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
+    },
+    {
+      "album": {
         "name": "Gbadolite",
         "url": "https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 163735,
       "name": "Honey bee",
       "url": "https://open.spotify.com/track/5MnOolAxJbVqRvFYruVIfS"
@@ -2602,6 +2620,28 @@
       "duration_ms": 315948,
       "name": "Jalousie",
       "url": "https://open.spotify.com/track/1W7asBGIbGNgFelsxHqz9D"
+    },
+    {
+      "album": {
+        "name": "Japonais",
+        "url": "https://open.spotify.com/album/5F1Br2g4h6tiMyz3p8FzVV"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        },
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165078,
+      "name": "Japonais",
+      "url": "https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh"
     },
     {
       "album": {
@@ -3097,6 +3137,28 @@
     },
     {
       "album": {
+        "name": "Like (feat. Werrason)",
+        "url": "https://open.spotify.com/album/0LtVTj7yP7NZft3V0hFmjo"
+      },
+      "artists": [
+        {
+          "name": "Vicky Malela",
+          "url": "https://open.spotify.com/artist/6rQipoRjuSIPfpDpYngBh2"
+        },
+        {
+          "name": "Werrason",
+          "url": "https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147130,
+      "name": "Like (feat. Werrason)",
+      "url": "https://open.spotify.com/track/4kQSzndpN5dBXF0gg9A9tH"
+    },
+    {
+      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/5VOK2852Mgf5GBTkUe1mFR"
       },
@@ -3490,7 +3552,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 153260,
       "name": "Malembe",
       "url": "https://open.spotify.com/track/3vbx5h7ewP0FC342PIp1vV"
@@ -4010,7 +4072,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 300094,
       "name": "Mwinda",
       "url": "https://open.spotify.com/track/3qSfVR5ujV1SaomRSARWim"
@@ -4072,6 +4134,32 @@
       "duration_ms": 196800,
       "name": "Na Lola",
       "url": "https://open.spotify.com/track/3RLq8Pf4D4Yd8wdNXMUQkF"
+    },
+    {
+      "album": {
+        "name": "Na nko",
+        "url": "https://open.spotify.com/album/1KCsbYW5kIb3lDaMhByDqS"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Na nko",
+      "url": "https://open.spotify.com/track/2JabqDTQuQ1vqNi6tYVbKE"
     },
     {
       "album": {
@@ -5446,7 +5534,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 194285,
       "name": "Soldat",
       "url": "https://open.spotify.com/track/0mMlg9IjOqcDYFIkWiJUnC"

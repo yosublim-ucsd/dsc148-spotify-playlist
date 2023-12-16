@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "2023",
+        "url": "https://open.spotify.com/album/4E12XITnfM7Cer4HGi9RaZ"
+      },
+      "artists": [
+        {
+          "name": "Achero",
+          "url": "https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/2J1TF8fTaImU4sZhDpIsnp"
+    },
+    {
+      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },

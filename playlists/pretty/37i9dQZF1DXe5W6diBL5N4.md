@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: Hwang Chi Yeul\(황치열\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,718 likes - 236 songs - 13 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,773 likes - 236 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 39 | [Ex\-Mas](https://open.spotify.com/track/4OPHXmAsFf5BcMhUSITwm1) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Ex\-Mas](https://open.spotify.com/album/1SdCbiVhmFkKbkNXpaVWe5) | 3:36 |
 | 40 | [try not to cry](https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
 | 41 | [그곳으로](https://open.spotify.com/track/5SzpnJQuDjy3dxFt4zM4Xq) | [Lee Hyuk](https://open.spotify.com/artist/1DYXSbR16g5HFkR8R45CMb) | [그곳으로](https://open.spotify.com/album/4vLuybs7X4Ek2Vg1hyl9lI) | 4:02 |
-| 42 | [Alien](https://open.spotify.com/track/3qhMml4suJczZlLGXjMl9b) | [Greg](https://open.spotify.com/artist/3uBNVjDel3HFDLBmNt4ork) | [Alien](https://open.spotify.com/album/196XKP4mEFi5hC9vyBHVGf) | 3:07 |
+| 42 | [Alien](https://open.spotify.com/track/3qhMml4suJczZlLGXjMl9b) | [Greg](https://open.spotify.com/artist/4AfLLqQYBATESQ31lPDTxe) | [Alien](https://open.spotify.com/album/196XKP4mEFi5hC9vyBHVGf) | 3:07 |
 | 43 | [ALARM](https://open.spotify.com/track/3QewaWem7ughKSawOqIMs9) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [SPACE STATION](https://open.spotify.com/album/5HtxTb1Y4w2DlZ0NUisnJJ) | 3:03 |
 | 44 | [Mistiness of you \(with KURO\)](https://open.spotify.com/track/1jIiAZhKRwLHbgQAaGPn3T) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Mistiness of you](https://open.spotify.com/album/5bFfsHIKkWvMHZER7LK2vG) | 3:50 |
 | 45 | [Letter](https://open.spotify.com/track/6O1hSroExTZpiFu9RKqJyp) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Letter](https://open.spotify.com/album/4RGxP1LvyK7ngeoiPv7V7m) | 5:07 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 69 | [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 |
 | 70 | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g) | 4:15 |
 | 71 | [Beautiful Day](https://open.spotify.com/track/3ibqggc2Vnb0PHRggh2Wbf) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/1ukP3q6p2lZMfi2Tv4eLXq) | 4:09 |
-| 72 | [my december](https://open.spotify.com/track/1G1hldQ2uStvYWUm8fTgcp) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [my december](https://open.spotify.com/album/7qChdRMur4NEVA6KFGI3WZ) | 3:57 |
+| 72 | [my december](https://open.spotify.com/track/1G1hldQ2uStvYWUm8fTgcp) | [yangpa](https://open.spotify.com/artist/5Qr33OZrOzmTJwxpUVZI7m) | [my december](https://open.spotify.com/album/7qChdRMur4NEVA6KFGI3WZ) | 3:57 |
 | 73 | [Maestra](https://open.spotify.com/track/42BXOexgmI7FOurhzOsqD0) | [조성우](https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD) | [Maestra \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv) | 2:58 |
 | 74 | [NUM](https://open.spotify.com/track/2URlFdD28uxNqdZdMQUCaC) | [WOO](https://open.spotify.com/artist/1GkDYHRagORzc5beSZjflP) | [NUM](https://open.spotify.com/album/75fnxdo39WCswyHEj70I2q) | 3:00 |
 | 75 | [Get Some Rest](https://open.spotify.com/track/7sFwQlJzLGtFTqRLiUhIRf) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Trip: playlist \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/1t8sSIbYtla3EA86W4Dkzs) | 2:42 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 235 | [Open Your Eyes](https://open.spotify.com/track/0z3nhpdXbtvvBxy1RCKjca) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.4](https://open.spotify.com/album/4yLlp2CKXFmk4HuFrXtfaA) | 4:08 |
 | 236 | [erase](https://open.spotify.com/track/1FDCMbIgAr4XP2zJnJt8PP) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [erase](https://open.spotify.com/album/6npLIMSJiDRysK5yqXM31W) | 2:43 |
 
-Snapshot ID: `MCxiOTY5YzdhZGJhNWVhYjQwZTQzNjRkMDRkZDMyYmIwMzZkNjE4ODkz`
+Snapshot ID: `MCw4ZDNlMjU3YWE2NmFkNjJiYzJiY2JkZTU2NmQxMGQ5MmIxYjk2YTYx`

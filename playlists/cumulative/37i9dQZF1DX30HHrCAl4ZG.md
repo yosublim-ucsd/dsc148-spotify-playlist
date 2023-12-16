@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring new music by Real Estate
+> Explore all things indie rock right now\. Featuring music from boygenius
 
-1,286 songs - 2 day 22 hr 20 min
+1,290 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 | 2022-07-29 | 2022-10-22 |
 | [biteback](https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [biteback](https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP) | 2:02 | 2022-12-02 | 2022-12-08 |
 | [Black Balloons](https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Black Balloons](https://open.spotify.com/album/6i1eBfd25KyOdtOaZpeJxW) | 1:53 | 2023-10-20 |  |
-| [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-10-13 |  |
+| [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-10-13 | 2023-12-16 |
 | [Black Ice](https://open.spotify.com/track/6cduuTXxZ5UFlqnOVCZ5vZ) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Black Ice](https://open.spotify.com/album/6QcKLMSP1CvWqO5vfJTX0E) | 3:38 | 2023-04-28 | 2023-05-27 |
 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 | 2021-06-07 | 2022-02-12 |
 | [Blessing](https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Blessing](https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d) | 3:05 | 2022-09-23 | 2022-11-19 |
@@ -159,7 +159,7 @@
 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 | 2023-04-28 | 2023-06-24 |
 | [Bluebird](https://open.spotify.com/track/4Gy9i08hxSqDR5v2RPqXmu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 3:47 | 2021-06-07 | 2022-04-21 |
 | [Blurred Out](https://open.spotify.com/track/4oyBLJ6PTSZ7BZ0ITCi2kG) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C), [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Blurred Out](https://open.spotify.com/album/2VK7NkrDsiOyENkDJtmRUv) | 3:02 | 2023-08-11 | 2023-09-23 |
-| [blurry](https://open.spotify.com/track/2UkC6lFTKIAIiAErr6fDo0) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [the way night falls](https://open.spotify.com/album/5y5JOeRipEP9JfKhQFDp8J) | 3:49 | 2023-10-13 |  |
+| [blurry](https://open.spotify.com/track/2UkC6lFTKIAIiAErr6fDo0) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [the way night falls](https://open.spotify.com/album/5y5JOeRipEP9JfKhQFDp8J) | 3:49 | 2023-10-13 | 2023-12-16 |
 | [Blurt](https://open.spotify.com/track/0hvSJQdd2eGR3VBMfKbZSs) | [Mega Mango](https://open.spotify.com/artist/4O2iP6l7paJ9tThXxFVZXJ) | [Blurt](https://open.spotify.com/album/47gfLPyw1oBCUn8joa93bA) | 2:14 | 2022-07-15 | 2022-08-17 |
 | [Bob](https://open.spotify.com/track/3OMMX5sC4SaHFtZXH1MDmJ) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Bob](https://open.spotify.com/album/5kwpmZCEI3vLYQ1lxg4sXs) | 3:21 | 2021-06-18 | 2022-04-21 |
 | [Body](https://open.spotify.com/track/2D3Kia865pJnopFMJtSwRV) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:20 | 2023-09-08 | 2023-10-04 |
@@ -317,6 +317,7 @@
 | [dead](https://open.spotify.com/track/4ZjGvzvTg4Tf94TtDFntu4) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [bubblegum emo](https://open.spotify.com/album/0X7pFD1PRx3qfsUBIuzOy9) | 3:20 | 2022-06-10 | 2022-07-09 |
 | [dead end](https://open.spotify.com/track/2KyS4sFuKvNYerKxHPyawL) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [dead end](https://open.spotify.com/album/5KxUsfacO5zoYRfxYFQYGl) | 2:20 | 2021-06-07 | 2022-06-10 |
 | [Dead Hotel](https://open.spotify.com/track/1qz7fAa2IVL0vtaswCE445) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Dead Hotel](https://open.spotify.com/album/68QrJJ7prNn28cSlaAk2ZR) | 3:12 | 2022-10-28 | 2022-11-19 |
+| [Dead Lands](https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Dead Lands](https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8) | 4:34 | 2023-12-15 |  |
 | [Dear Boy](https://open.spotify.com/track/0LivNVRgzrqT5Fnicg2e3Q) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Dear Boy](https://open.spotify.com/album/44Bmf0xSlLy5REkiXLVQ6N) | 3:03 | 2022-05-06 | 2022-06-29 |
 | [Death Chasm](https://open.spotify.com/track/0VlkpyQC4rqwjD9c9bUbQY) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heatherhead](https://open.spotify.com/album/3VqbgBz84EK3ALDagZmryk) | 3:10 | 2023-06-02 | 2023-07-15 |
 | [death wish](https://open.spotify.com/track/15NWft2MWR5SZJXUDJnRYO) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [death wish](https://open.spotify.com/album/7aB0D39Il6UYoQmUNHoQr6) | 2:44 | 2022-08-05 | 2022-09-03 |
@@ -702,6 +703,7 @@
 | [Liz \(New York\)](https://open.spotify.com/track/1QrUVQTmRV2gOmg8tby37B) | [Geskle](https://open.spotify.com/artist/6vs7hYqS7v8KjGlZOv2DLN) | [Liz \(New York\)](https://open.spotify.com/album/1fv5jGrYUx7N8MWMLUGkNG) | 3:14 | 2022-07-15 | 2022-08-27 |
 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 | 2022-11-11 | 2022-11-19 |
 | [Loner](https://open.spotify.com/track/7fLb22ZSPkgPOCsOksCwtg) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Loner](https://open.spotify.com/album/5znBaBjG7vMjRdSdKcNV6Q) | 2:23 | 2022-05-20 | 2022-07-09 |
+| [long forgotten](https://open.spotify.com/track/7qsNTUgyF2fgM8Em9Ru7Fc) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [long forgotten](https://open.spotify.com/album/1LERoV2A0MTB4VnN8gVO2V) | 2:55 | 2023-12-15 |  |
 | [Long Lost](https://open.spotify.com/track/3UogKIjMzKOTRN1VyuBZFP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5gEBQoKHOrgTXRLYMUKCly) | 4:44 | 2021-06-07 | 2022-06-06 |
 | [Lookin' Out](https://open.spotify.com/track/21xQGFDvSeCi2deid5YtaJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Lookin' Out](https://open.spotify.com/album/6sAuAVVo9Wi7K9eecv4txq) | 3:47 | 2023-06-30 | 2023-10-28 |
 | [Looking For Something](https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:09 | 2022-07-01 | 2023-03-04 |
@@ -814,7 +816,7 @@
 | [Nice](https://open.spotify.com/track/0dMIDyuC4EjrXxMTGArX4A) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Nice](https://open.spotify.com/album/3mKtcDJnJJatWsHKKaA9WR) | 3:15 | 2022-04-15 | 2022-04-20 |
 | [Nicotine](https://open.spotify.com/track/73CLiwzz9AopgAv3jnngyA) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Nicotine](https://open.spotify.com/album/7mUy0fH5Ad2Fg5KnCKRp9N) | 2:50 | 2022-06-10 | 2022-08-27 |
 | [Nightlight](https://open.spotify.com/track/1ydoX3Oa8caQOrbQatbATa) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Nightlight](https://open.spotify.com/album/2noUvSaD3LsoZAiWdPy9vK) | 3:24 | 2022-11-11 | 2022-11-15 |
-| [Nightmare Blunt Rotation](https://open.spotify.com/track/2vVUa9T6kzQvXD4ZYDbGoX) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Coming Of Age](https://open.spotify.com/album/1E6AKQkrmlL34EgZUaXpJ2) | 3:11 | 2023-11-10 |  |
+| [Nightmare Blunt Rotation](https://open.spotify.com/track/2vVUa9T6kzQvXD4ZYDbGoX) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Coming Of Age](https://open.spotify.com/album/1E6AKQkrmlL34EgZUaXpJ2) | 3:11 | 2023-11-10 | 2023-12-16 |
 | [No](https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:36 | 2023-08-11 | 2023-09-09 |
 | [No Alarm](https://open.spotify.com/track/1NfpDQQerZvnm1NF1p4V4p) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [No Alarm](https://open.spotify.com/album/3RaDZbG5MjzIy51v5Fd9F1) | 3:03 | 2023-09-01 | 2023-10-14 |
 | [No Money No Honey](https://open.spotify.com/track/3oMEFW9FvfAyWZdt5T1AhR) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Don't Fuck With Vol\. 01](https://open.spotify.com/album/6UfRphyaQTsZAYnV5zklXR) | 4:00 | 2023-01-06 | 2023-04-01 |
@@ -866,6 +868,7 @@
 | [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 | 2021-10-29 | 2022-01-28 |
 | [Oxygen](https://open.spotify.com/track/3OSgKpb2c1VbFqDOqiz8tZ) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/0dVhYNE7j67jmzu7yX7zam) | 3:06 | 2021-11-19 | 2022-06-11 |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2022-03-22 | 2023-04-29 |
+| [Paige Machine](https://open.spotify.com/track/7FhoPDsQKQYivefOCN3OCO) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Paige Machine](https://open.spotify.com/album/1taSivISnY9TU6rfNuRS3y) | 2:40 | 2023-12-15 |  |
 | [Palms \(with Channel Tres\)](https://open.spotify.com/track/0Lskej1hiep1PKXoz7KhyO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Palms \(with Channel Tres\)](https://open.spotify.com/album/4dh0Z5pwqLY6cRvFtGC6ox) | 4:00 | 2021-06-07 | 2022-01-13 |
 | [Parade](https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7) | 2:03 | 2022-05-06 | 2022-07-02 |
 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 | 2022-07-15 | 2022-11-19 |
@@ -920,7 +923,7 @@
 | [Rats](https://open.spotify.com/track/3OaWrE5UWpMFzNAC8SDzrp) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Panic Attack](https://open.spotify.com/album/4882yg0ncijjrB0hwgouLe) | 2:25 | 2023-01-27 | 2023-04-09 |
 | [Rats](https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:25 | 2022-11-18 | 2023-01-11 |
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2022-10-14 | 2022-12-08 |
-| [Read the Room](https://open.spotify.com/track/22w30WW0AzmGGwf8lpNB12) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Read the Room](https://open.spotify.com/album/6DU4HRGZCt9iZg58sxtYSw) | 2:33 | 2023-11-10 |  |
+| [Read the Room](https://open.spotify.com/track/22w30WW0AzmGGwf8lpNB12) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Read the Room](https://open.spotify.com/album/6DU4HRGZCt9iZg58sxtYSw) | 2:33 | 2023-11-10 | 2023-12-16 |
 | [Ready For You](https://open.spotify.com/track/3cDHpCGXwtmwlYG03O73UD) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Ready For You](https://open.spotify.com/album/1h4w0lyV12u3CuxsvQvEKR) | 3:00 | 2023-08-18 | 2023-09-30 |
 | [Real I’m Told](https://open.spotify.com/track/1ZT84SGqCu0So44tSJhG2l) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [One Night / Real I’m Told](https://open.spotify.com/album/7377ZR37x8x2qLVk5iHGcE) | 2:04 | 2023-12-01 |  |
 | [Real Pain](https://open.spotify.com/track/0vqpshPaEpF3BKnUuvrVEf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Real Pain](https://open.spotify.com/album/18FnwNR5eZ5RF1jRFnM7IB) | 4:50 | 2021-08-13 | 2022-02-07 |
@@ -948,6 +951,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 | 2023-03-04 |
 | [Romeo & Juliet](https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3) | 2:46 | 2021-06-07 | 2022-06-11 |
 | [Roommates](https://open.spotify.com/track/1PJe0Vt9p0QaV4ZNHUwml0) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/3r7xGndKL5CJDeTxUm25ZS) | 3:34 | 2023-07-21 | 2023-09-09 |
+| [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 | 2023-12-15 |  |
 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 | 2022-06-10 | 2022-10-01 |
 | [Rude Awakening](https://open.spotify.com/track/7lwHFDcmB0z3yRzxfG2pJV) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:23 | 2023-06-30 | 2023-09-09 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-25 | 2022-11-12 |

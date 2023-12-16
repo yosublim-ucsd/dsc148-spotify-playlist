@@ -3646,7 +3646,7 @@
     {
       "album": {
         "name": "Dear My U",
-        "url": "https://open.spotify.com/album/6WmnLIcrMrGWN8y5bT2pe7"
+        "url": "https://open.spotify.com/album/5SQHSHAafunp7aDguAmFdk"
       },
       "artists": [
         {
@@ -3657,6 +3657,24 @@
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211693,
+      "name": "Dear My U",
+      "url": "https://open.spotify.com/track/18qiqu7TNOyVRuMzA9Robi"
+    },
+    {
+      "album": {
+        "name": "Dear My U",
+        "url": "https://open.spotify.com/album/6WmnLIcrMrGWN8y5bT2pe7"
+      },
+      "artists": [
+        {
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
       "duration_ms": 211693,
       "name": "Dear My U",
       "url": "https://open.spotify.com/track/3GFI9dc6mDo4ROdxmaSVyc"

@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-109 songs - 4 hr 20 min
+110 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Baile da Serra](https://open.spotify.com/track/68gG13CYNMzdGG8pRhZnU5) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:45 | 2023-09-15 |  |
 | [Banho de Loja](https://open.spotify.com/track/3VJuiFZGErx4DqZxu0gMxW) | [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [Banho de Loja](https://open.spotify.com/album/2AVDKtys5Gjq5n6JBxpUqp) | 2:26 | 2023-09-15 |  |
 | [BIG BOY](https://open.spotify.com/track/1NfaNcMT8ATGD4EYbe2KhF) | [Epílogo](https://open.spotify.com/artist/0xp4hAT0F4oiBiZSAFo3By), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Verve](https://open.spotify.com/artist/53rqQcLIWERwlPaodqOENj) | [BIG BOY](https://open.spotify.com/album/6EMDntRH1kxsdU2Gre8KGl) | 2:08 | 2023-10-06 | 2023-10-14 |
+| [Billie Jean](https://open.spotify.com/track/3UAf6wQDnoQqJZ7hrPIXR2) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 1:53 | 2023-12-15 |  |
 | [Boa Sorte Mesmo](https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:26 | 2023-10-20 |  |
 | [Bota Pa F\*](https://open.spotify.com/track/5Cx0Z2aXYynET3WhLqnJab) | [MC Surya](https://open.spotify.com/artist/4amIOCsRJuqanigJpnyhZg) | [Leva a Sério](https://open.spotify.com/album/3fPE8q57zaq7s4cJZD3UZc) | 2:25 | 2023-09-29 | 2023-10-14 |
 | [Boxe na Costela \(Jersey Edit\)](https://open.spotify.com/track/68CNowB5WevitjNuTxC2h6) | [DJ Léo Alves](https://open.spotify.com/artist/755mykV2yGH63szFiyUoK2), [MC ZL](https://open.spotify.com/artist/2C2JBVBtzGgppOsOlUwDPZ) | [Boxe na Costela](https://open.spotify.com/album/2EYBanOmIdzzDWl6VyewOo) | 1:43 | 2023-11-10 | 2023-11-18 |

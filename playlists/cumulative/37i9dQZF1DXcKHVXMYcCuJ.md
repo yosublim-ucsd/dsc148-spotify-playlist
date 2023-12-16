@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-376 songs - 23 hr 32 min
+377 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Baby Shea](https://open.spotify.com/track/25X6dvLEb2EiZY3U5jciy5) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/2A7lRd0UYJ9k6sOWhXElSS) | 1:37 | 2023-03-14 |  |
 | [Backroads](https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:06 | 2022-11-02 |  |
 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 | 2023-12-06 |  |
-| [Be Your Man](https://open.spotify.com/track/0VcZrEWCLqMbicQhx7FayF) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Holy Doom \(Deluxe\)](https://open.spotify.com/album/1YLVdRzCDpTvzpvbwEgxEt) | 3:35 | 2023-11-16 |  |
+| [Be Your Man](https://open.spotify.com/track/0VcZrEWCLqMbicQhx7FayF) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Holy Doom \(Deluxe\)](https://open.spotify.com/album/1YLVdRzCDpTvzpvbwEgxEt) | 3:35 | 2023-11-16 | 2023-12-16 |
 | [Be Your Man](https://open.spotify.com/track/5ja7epgM2zgrQ0CnL5Fc52) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Holy Doom](https://open.spotify.com/album/1mdsGFvnN2Ok832ehemqgX) | 3:35 | 2022-01-28 | 2022-07-29 |
 | [Be Your Man](https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Be Your Man](https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1) | 3:37 | 2022-06-23 | 2023-09-15 |
 | [Been Training Dogs](https://open.spotify.com/track/0WZrOyH0XiP94LigN6U3mS) | [The Cooper Temple Clause](https://open.spotify.com/artist/0DEgoO9OsoL2jW9Orh3TNT) | [See This Through And Leave](https://open.spotify.com/album/3PFi7kQUpcXhib2ifH0dlk) | 3:13 | 2021-12-15 | 2022-07-29 |
@@ -373,6 +373,7 @@
 | [Wring It Out](https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [Pedals](https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO) | 3:29 | 2022-11-02 |  |
 | [Yeah, I Know](https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB) | [Otherkin](https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX) | [The New Vice EP](https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U) | 3:33 | 2021-12-15 |  |
 | [Yellow Belly](https://open.spotify.com/track/31KO5cS9gZPUJfU8ZbIukr) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Major / Minor](https://open.spotify.com/album/0xQYyIZThYYrCWcVqRNybH) | 3:57 | 2022-11-02 | 2023-11-11 |
+| [Yellow Belly](https://open.spotify.com/track/3cdmaxEVDs0XJ9LX8tQz29) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Major/Minor \(Deluxe Version\)](https://open.spotify.com/album/6aVHBh6GI51UpxeTFMCs07) | 3:57 | 2023-12-06 |  |
 | [You Are](https://open.spotify.com/track/7Hd4BJFPRYnF8FRyVhrXJr) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Riot Act](https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG) | 4:28 | 2021-12-15 |  |
 | [You Drove Me to It](https://open.spotify.com/track/1r8u1qibdEynHVCdQj7u09) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Massive Alternative Hits](https://open.spotify.com/album/50bLeXmKYDXbHIK5GPAn6K) | 3:01 | 2022-11-02 | 2022-12-12 |
 | [You Drove Me to It](https://open.spotify.com/track/2iKYd15sqmxKQBvsOEhT63) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [The Neon Handshake](https://open.spotify.com/album/13emeERNt6pPdmBwodNztx) | 3:01 | 2021-12-15 | 2022-07-29 |

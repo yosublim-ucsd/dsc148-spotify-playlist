@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 144000,
       "name": "A Hero\u00edna e A Vil\u00e3",
       "url": "https://open.spotify.com/track/0jAPxMC6lewaMrSuQwzbb1"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 140800,
       "name": "Escandalosa",
       "url": "https://open.spotify.com/track/2Dw34c2hzajVaoq4UYgr60"
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 247659,
       "name": "No Te Gusta",
       "url": "https://open.spotify.com/track/2cxFkzZjvADzi8aWCfb0oo"
@@ -2918,6 +2918,32 @@
       "duration_ms": 171428,
       "name": "N\u00e3o Podem Parar",
       "url": "https://open.spotify.com/track/2R8PMteNXbTDY7GTOD8Eze"
+    },
+    {
+      "album": {
+        "name": "O Meu Brilho",
+        "url": "https://open.spotify.com/album/5JaPDZ1i5fKNLPBxnMUNwA"
+      },
+      "artists": [
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "Yung Drum",
+          "url": "https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167675,
+      "name": "O Meu Brilho",
+      "url": "https://open.spotify.com/track/6Q83cKZSTnQuiA9ZAyw9cy"
     },
     {
       "album": {
@@ -3480,6 +3506,24 @@
       "duration_ms": 142192,
       "name": "Realeza",
       "url": "https://open.spotify.com/track/5OU9MTz2dl9HKJmoxA5dJV"
+    },
+    {
+      "album": {
+        "name": "It Girl",
+        "url": "https://open.spotify.com/album/1Ynhp5YkHTsVYmtHdvUwe5"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139933,
+      "name": "Ref Delas",
+      "url": "https://open.spotify.com/track/2saEZ80HauiGjLE8wt9syS"
     },
     {
       "album": {
@@ -4456,6 +4500,24 @@
       "duration_ms": 182484,
       "name": "Vinhedo",
       "url": "https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia"
+    },
+    {
+      "album": {
+        "name": "Som Da Minha Casa",
+        "url": "https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "Vou Atr\u00e1s",
+      "url": "https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 171537,
+  "num_followers": 171606,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWNiMmZlOTExYjNiMzhhYjYzZDhiYjk3NjIwNjA0Y2EwYWQ3YjRh",
+  "snapshot_id": "MCw0YTliZTVmYWE4ZjE2MzEzNGE4YTRmNWY1ZmFiNGVhOGM4OWUwYzg1",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -559,22 +559,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "L'owe L'owe",
-        "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
+        "name": "Piece Of Art",
+        "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
       },
       "artists": [
         {
-          "name": "DJ Qness",
-          "url": "https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0"
-        },
-        {
-          "name": "Dele Sosimi",
-          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
         }
       ],
-      "duration_ms": 449149,
-      "name": "L'ow\u00e8 L'ow\u00e8",
-      "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
+      "duration_ms": 196751,
+      "name": "Piece Of Art",
+      "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -595,18 +591,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Piece Of Art",
-        "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
+        "name": "L'owe L'owe",
+        "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
       },
       "artists": [
         {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+          "name": "DJ Qness",
+          "url": "https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0"
+        },
+        {
+          "name": "Dele Sosimi",
+          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
         }
       ],
-      "duration_ms": 196751,
-      "name": "Piece Of Art",
-      "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
+      "duration_ms": 449149,
+      "name": "L'ow\u00e8 L'ow\u00e8",
+      "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Need You by My Side",
-        "url": "https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s"
-      },
-      "artists": [
-        {
-          "name": "Boy North",
-          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
-        }
-      ],
-      "duration_ms": 200874,
-      "name": "Need You By My Side",
-      "url": "https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "All We Have Is Now / Stay The Same",
         "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 252125,
       "name": "All We Have Is Now",
       "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Need You by My Side",
+        "url": "https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s"
+      },
+      "artists": [
+        {
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+        }
+      ],
+      "duration_ms": 200874,
+      "name": "Need You By My Side",
+      "url": "https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Floral Decor",
-        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Floral Decor",
-      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Faya / The Crack",
         "url": "https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 310000,
       "name": "Faya",
       "url": "https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Floral Decor",
+        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Floral Decor",
+      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
     },
     {
       "added_at": "2022-11-25 16:56:36",

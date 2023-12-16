@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Tipo Hollywood e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Ws da leste, Dj Chadin do C, MC Cothi\u00ea",
+  "description": "Tipo Hollywood e os funks mais \ud83d\udd11 do Brasil. Foto: Anitta, PEDRO SAMPAIO, DENNIS",
   "name": "Funk Hits",
   "tracks": [
     {
@@ -2629,6 +2629,32 @@
     },
     {
       "album": {
+        "name": "Joga Pra Lua",
+        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125108,
+      "name": "Joga Pra Lua",
+      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
+    },
+    {
+      "album": {
         "name": "Jovens Milion\u00e1rios (Let's Go 2)",
         "url": "https://open.spotify.com/album/7woCTKfJUZU1qwgWMZjmlB"
       },
@@ -3724,7 +3750,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 395294,
       "name": "Ol\u00e1 Mercedes",
       "url": "https://open.spotify.com/track/0a3hjvUXenNxbCknm0zpOh"
@@ -4046,6 +4072,24 @@
       "duration_ms": 164312,
       "name": "Pocot\u00f3",
       "url": "https://open.spotify.com/track/1i2a45FtiXmX0unBj3CXB4"
+    },
+    {
+      "album": {
+        "name": "POCPOC",
+        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "POCPOC",
+      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
       "album": {
@@ -4420,7 +4464,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 125769,
       "name": "Quer Sair Da Minha Vida, Pode Sair",
       "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"

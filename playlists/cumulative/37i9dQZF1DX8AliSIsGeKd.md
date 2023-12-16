@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Lauer
 
-2,898 songs - 10 day 16 hr 54 min
+2,899 songs - 10 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2732,7 +2732,8 @@
 | [Voicebox](https://open.spotify.com/track/5GO6gvPD2DC3iZuxUUTsr7) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Voicebox EP](https://open.spotify.com/album/5BfzNOh8U6VH2hXpasVw9t) | 6:00 | 2022-04-14 | 2022-04-29 |
 | [Voices](https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Voices](https://open.spotify.com/album/52gQRKXJIoJbQoA49NzSiL) | 3:03 | 2022-12-09 | 2023-01-06 |
 | [Voices](https://open.spotify.com/track/4ylxHRKtmHGolnpZijiGO1) | [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h) | [Voices](https://open.spotify.com/album/19hSVlManQa1ysPUK4YoFP) | 4:52 | 2023-07-06 | 2023-07-21 |
-| [Voices](https://open.spotify.com/track/4Z1O4FZd2xORYWA4tpjEsu) | [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [Voices](https://open.spotify.com/album/3QQIZByi1dGLNvy15XTiVN) | 6:48 | 2023-12-08 |  |
+| [Voices](https://open.spotify.com/track/0HGh1ezSWnJdjyMaiZiXsM) | [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [Atomic Rush](https://open.spotify.com/album/1jGmPkX2VyNR0PHncniGKA) | 6:48 | 2023-12-14 |  |
+| [Voices](https://open.spotify.com/track/4Z1O4FZd2xORYWA4tpjEsu) | [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [Voices](https://open.spotify.com/album/3QQIZByi1dGLNvy15XTiVN) | 6:48 | 2023-12-08 | 2023-12-16 |
 | [Voices \- Malandra Jr\. Remix](https://open.spotify.com/track/2z52FxRUYc13V25jBtI9PL) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF), [Malandra Jr.](https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ) | [Unfold Voices Remixes](https://open.spotify.com/album/5nLteuz9han8SVe4foGVCS) | 7:05 | 2022-12-15 | 2023-01-13 |
 | [Voices Above](https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Malone](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh) | [Voices Above](https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW) | 3:10 | 2022-04-14 | 2022-05-06 |
 | [Voices of Salvation](https://open.spotify.com/track/4GY2MQG6X5ueZWB9IVqWXB) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Signals](https://open.spotify.com/album/3YWkAZqJYfmZAAtqdLUXJ5) | 6:40 | 2022-04-14 | 2022-04-22 |

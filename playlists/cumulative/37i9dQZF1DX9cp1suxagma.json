@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Loyal Lobos",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Morat",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 188974,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 169666,
       "name": "Cinco Letras",
       "url": "https://open.spotify.com/track/2TVSNN2hGNYsOay9QWCnym"
@@ -668,6 +668,24 @@
       "duration_ms": 205938,
       "name": "Despu\u00e9s de la Tormenta",
       "url": "https://open.spotify.com/track/4ivDHA6dgIlrit7blIR1hm"
+    },
+    {
+      "album": {
+        "name": "Diciembre Fr\u00edo",
+        "url": "https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Diciembre Fr\u00edo",
+      "url": "https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p"
     },
     {
       "album": {
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 196733,
       "name": "Me Duele",
       "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 230579,
       "name": "Me He Vuelto a Enamorar",
       "url": "https://open.spotify.com/track/4rY7fEQJrQ48He3TilUvd7"
@@ -1640,6 +1658,24 @@
       "duration_ms": 188750,
       "name": "Mi Declaraci\u00f3n",
       "url": "https://open.spotify.com/track/69GWsRWJH6XXntS7veaE4g"
+    },
+    {
+      "album": {
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/7jdnTfdrHDHAD20lF1BYaZ"
+      },
+      "artists": [
+        {
+          "name": "Estereobeat",
+          "url": "https://open.spotify.com/artist/4i70orTITjlYP1lDoHPsZr"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/12h7391GtB8rPilYJIMTGn"
     },
     {
       "album": {
@@ -1904,7 +1940,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 209682,
       "name": "Nuestro Secreto",
       "url": "https://open.spotify.com/track/2sBTBHbqkwz0qSDhKsQ4OQ"
@@ -2658,6 +2694,24 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "album": {
+        "name": "Antes De Que Amanezca",
+        "url": "https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR"
     },
     {
       "album": {

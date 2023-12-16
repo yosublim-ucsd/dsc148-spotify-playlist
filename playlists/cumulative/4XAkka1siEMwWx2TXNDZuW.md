@@ -4,7 +4,7 @@
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-104 songs - 5 hr 27 min
+107 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Birthday Piano Theme \(Out of Tune\)](https://open.spotify.com/track/7MIAzEvS5Q7Gd8UKlNNla6) | [Victor Butzelaar](https://open.spotify.com/artist/3cTpN2wXm41MGA4pPxBTRL) | [Cube Escape: Birthday](https://open.spotify.com/album/5edCjsWL4jn8gg2IH7GnDw) | 1:36 | 2023-10-01 |  |
 | [Birthweek](https://open.spotify.com/track/5kxpnWg9ddzgk1gZhY2hEC) | [Locust Toybox](https://open.spotify.com/artist/3nUeb5dKLlisR9dvt7qbaZ) | [Stringland](https://open.spotify.com/album/1nZ3YOvzjonwo69zehuq5B) | 2:08 | 2023-04-03 |  |
 | [Blank Fairy](https://open.spotify.com/track/2CmGDsT4GgbJgcXTRUEpeE) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:12 | 2023-05-25 |  |
+| [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 | 2023-12-15 |  |
 | [Catalysts for Her Awakening](https://open.spotify.com/track/7AteX4WzChxpgW8VCWhLen) | [Avith Ortega](https://open.spotify.com/artist/68wR5LpuIPZVBPciG4ILlD) | [Sinergy](https://open.spotify.com/album/2d9oblrwk9xME5lfuVeoyw) | 2:12 | 2022-03-15 |  |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2022-04-29 |  |
 | [Cuckoo Clock](https://open.spotify.com/track/3U9CTNsTK9tILwGcJkUxJG) | [Cosmic Dennis Greenidge](https://open.spotify.com/artist/6eiHpA39MSZGDRbYk2navb) | [The Slot EP](https://open.spotify.com/album/0CL9lVXssZiyCvKb50B2vv) | 2:12 | 2022-05-24 |  |
@@ -77,6 +78,7 @@
 | [overpopulation at the end of everything is less of a worry, haha \('a letter to you' from mother 3\)](https://open.spotify.com/track/0NPajRRbTvnXppqfEU8qaW) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 1:23 | 2021-06-29 |  |
 | [Peroxide](https://open.spotify.com/track/1lDQal5To3RPGCzYFBpaFR) | [Imagine Drowning](https://open.spotify.com/artist/00Z6TAeTxPFq45NrCtj7M9), [Dysonence](https://open.spotify.com/artist/088U5OU0IfuoHAwjxrKq8x) | [Stain Licker](https://open.spotify.com/album/4U5588OifAJPFrUK8pkrSF) | 5:14 | 2021-07-14 |  |
 | [plume](https://open.spotify.com/track/5jKSRqNPc0jogae3WbNMHT) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA) | 1:50 | 2021-07-04 |  |
+| [rain and cassette tape hiss, just a few of my favourite things](https://open.spotify.com/track/0K6SBiuDPvmSs1xiqL0ojI) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 5:12 | 2023-12-15 |  |
 | [Regenerated](https://open.spotify.com/track/6UFh6YlAUXt7u9zPGK7oNd) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Closer than ever](https://open.spotify.com/album/0pbsNfhs6ha5ff0mUD03Mg) | 0:49 | 2020-09-26 |  |
 | [Reprise](https://open.spotify.com/track/0TuVrPdL0wKHBdS7JqiZem) | [Potato\-g](https://open.spotify.com/artist/3mkdxLrIQzwkGs8BHEqak1) | [Songs for Bedtime and Swimming](https://open.spotify.com/album/4iHQeriOUVh75qjaj2s61c) | 3:50 | 2021-04-24 |  |
 | [return trip](https://open.spotify.com/track/6R7LCiocE6XsF4bmD6cnkz) | [aeroxone](https://open.spotify.com/artist/1RfT7VjWufW7BOVCG3MLOa) | [unknown destination](https://open.spotify.com/album/4TntYRd05wSHWg1q2MnCgB) | 1:22 | 2022-09-03 |  |
@@ -104,6 +106,7 @@
 | [Under the mask](https://open.spotify.com/track/7GDMqibOltKunFoaZjCWch) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Closer than ever](https://open.spotify.com/album/0pbsNfhs6ha5ff0mUD03Mg) | 1:23 | 2020-09-26 |  |
 | [Unravel](https://open.spotify.com/track/19tQOlyrV1m3665uPVyfCe) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Adorn](https://open.spotify.com/album/0olVkojSwGHBomfzv5zgTi) | 1:16 | 2023-03-15 |  |
 | [Untitled \(On Seeing\)](https://open.spotify.com/track/3CdfW8pdB1YR4JiSUnpUSQ) | [Yuko Imada](https://open.spotify.com/artist/77GWqdDhP13TbV2zTa3E9j) | [Untitled \(Moon\)](https://open.spotify.com/album/2Q7bQoD12WW4WE3tqykCS4) | 5:37 | 2022-03-19 |  |
+| [voice vi \- remaster](https://open.spotify.com/track/3cBf8wQi7K91W9vK8FrxtG) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT) | 1:30 | 2023-12-15 |  |
 | [void\_\_19\#\#\#\-A](https://open.spotify.com/track/1suY5lVFFjVvkeMkrzyHf9) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [void\_\_19\#\#\#](https://open.spotify.com/album/7qS36GXzqhI8GXg6TN8SFZ) | 1:22 | 2021-06-29 |  |
 | [Waltzing](https://open.spotify.com/track/02nicqq35voFB9h2SUXpSK) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Carousel](https://open.spotify.com/album/5LfyG0hpTmZQ9sVrF4Upm6) | 2:21 | 2020-09-26 |  |
 | [Watching](https://open.spotify.com/track/4X3hDcFUAwgUdlXKhDJBsV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Decay](https://open.spotify.com/album/5NxlUs4dMl4995ItF6Ct6V) | 1:03 | 2020-09-26 |  |

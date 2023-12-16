@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-143 songs - 10 hr 17 min
+144 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [At The Horizon](https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2) | [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [At The Horizon](https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw) | 4:54 | 2022-09-15 |  |
 | [Athena \- NTEIBINT Remix](https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn), [NTEIBINT](https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 4:21 | 2022-09-15 |  |
 | [Away](https://open.spotify.com/track/22QWx1WyniAV8veVxcLkom) | [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Away](https://open.spotify.com/album/53ffmHurxQTIN3ZRZ3lVZx) | 2:10 | 2023-11-30 |  |
-| [Back 2 It](https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Natural Movement](https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn) | 5:17 | 2023-02-02 |  |
+| [Back 2 It](https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Natural Movement](https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn) | 5:17 | 2023-02-02 | 2023-12-16 |
+| [Back 2 It](https://open.spotify.com/track/40Gj3bu6XqTM6dm6qrVMgy) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Natural Movement](https://open.spotify.com/album/0941GANXhb8APHznuCcs2A) | 5:17 | 2023-11-30 |  |
 | [Ballo Da Solo](https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Proto/Emotions](https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY) | 5:19 | 2022-09-15 |  |
 | [Big Sur](https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Big Sur](https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ) | 3:12 | 2022-09-15 | 2023-08-25 |
 | [Blckdrss \(Wann Remix\)](https://open.spotify.com/track/6GaMRFAqCQ9aRBbpuJEEKU) | [Ruben Anthony](https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF), [WANN](https://open.spotify.com/artist/2x98SUBoz7bmcSOuT9HfxU) | [Blckdrss \(Wann Remix\)](https://open.spotify.com/album/00paMSsFcxDvWGYJeABk0g) | 3:33 | 2022-11-19 | 2022-12-16 |

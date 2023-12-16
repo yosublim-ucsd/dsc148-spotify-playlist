@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Robot95 y Lucho SSJ en portada.
 
-215 songs - 10 hr 3 min
+216 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Mismos Planes](https://open.spotify.com/track/4zAvBCFELHr9GC2hjGErs1) | [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y), [Morfin BG](https://open.spotify.com/artist/1pTjTbVIKeovr6b96NHxCD) | [Mismos Planes](https://open.spotify.com/album/6fAc3grMv2iOWVdw8r2wyl) | 3:04 | 2023-10-20 | 2023-11-11 |
 | [MONOPSYCHO](https://open.spotify.com/track/1RvNIXRus8PEkc8nhBji1D) | [Kill the Clowns](https://open.spotify.com/artist/7KczDuPvlKEo8nQCpa8my8), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [CIRCUS](https://open.spotify.com/album/1RKKNHSeD6HuG15HevvGbe) | 2:46 | 2023-09-23 | 2023-11-11 |
 | [Motivos](https://open.spotify.com/track/3MtXfPjTXCuH3DN5J1Mf2W) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Motivos](https://open.spotify.com/album/6wgKeewwbZPcH8lCBqN4HS) | 3:40 | 2023-06-09 | 2023-07-01 |
-| [Murakami](https://open.spotify.com/track/1jmdK9JZnYkbfGj3Iddb63) | [Babyohikari](https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW), [Kid Pingo](https://open.spotify.com/artist/1UolXIm81Cap8uxy2f8aJ1), [Alexvn](https://open.spotify.com/artist/49eC39QwBTS0cxf9AJASe4), [Siko](https://open.spotify.com/artist/638Qcb1Tj0Trk3kbzjhI9C) | [Murakami](https://open.spotify.com/album/6uuOMTfSt4xASuOkNOLzUB) | 2:54 | 2023-06-09 |  |
+| [Murakami](https://open.spotify.com/track/1jmdK9JZnYkbfGj3Iddb63) | [Babyohikari](https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW), [Kid Pingo](https://open.spotify.com/artist/1UolXIm81Cap8uxy2f8aJ1), [Alexvn](https://open.spotify.com/artist/49eC39QwBTS0cxf9AJASe4), [Siko](https://open.spotify.com/artist/638Qcb1Tj0Trk3kbzjhI9C) | [Murakami](https://open.spotify.com/album/6uuOMTfSt4xASuOkNOLzUB) | 2:54 | 2023-06-09 | 2023-12-16 |
 | [Muñeca de lego](https://open.spotify.com/track/5Q7yF13xbkKXh2f5rrgYdK) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [BAD BITCHES](https://open.spotify.com/album/2RtCDcpElT5bmoyhRK0Dyt) | 2:35 | 2023-11-10 |  |
 | [Mvp \- Freestyle](https://open.spotify.com/track/6McibwzZ3hpQWVF173HXjg) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Mvp \(Freestyle\)](https://open.spotify.com/album/7JCqsuztxuOHkumHs0aTsm) | 1:51 | 2023-06-09 | 2023-11-23 |
 | [My Name](https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [My Name](https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji) | 3:02 | 2023-06-09 | 2023-07-01 |
@@ -172,6 +172,7 @@
 | [Piratas](https://open.spotify.com/track/0cTJvLn2B8H0X3DOZEHLVN) | [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Piratas](https://open.spotify.com/album/3EGEuE9st0o3MgTh84ItHV) | 2:37 | 2023-06-09 | 2023-07-01 |
 | [Piérdete](https://open.spotify.com/track/4sQqwY71o5FWKBsWIxdlGU) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Piérdete](https://open.spotify.com/album/0hYzEh3exIQpRUtoxLTbo4) | 4:03 | 2023-06-09 | 2023-06-24 |
 | [Plan de Escape](https://open.spotify.com/track/75nTrHDKQEmMRYqLz7OGYE) | [Lil Ziphe](https://open.spotify.com/artist/5gKNOrBwEkdK7jhGqnSYWW) | [Plan de Escape](https://open.spotify.com/album/0Qz7K3PtswROB6sWUv4aLJ) | 2:32 | 2023-12-01 |  |
+| [Ponte las Pilas](https://open.spotify.com/track/2lVWhB8q3LpMOADDyES1RG) | [Someone Sm1](https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Primer Viaje](https://open.spotify.com/album/4cy17at4w26TRAVDY9J7ok) | 2:34 | 2023-12-15 |  |
 | [Problemas](https://open.spotify.com/track/2ZyhTy2QNKXBCmq2XbJWaD) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Problemas](https://open.spotify.com/album/6RshZ6diEoUBldSTEeWlEd) | 3:38 | 2023-06-09 | 2023-07-01 |
 | [PULLIN' UP](https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [LAS MORRAS TAMBIÉN HACEN TR444P](https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt) | 2:00 | 2023-09-08 |  |
 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 | 2023-06-09 | 2023-12-09 |

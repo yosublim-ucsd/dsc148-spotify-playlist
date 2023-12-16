@@ -6120,7 +6120,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 177196,
       "name": "Gaffe aux autres",
       "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
@@ -6210,7 +6210,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 144866,
       "name": "GAR\u00c7ON",
       "url": "https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A"
@@ -7702,7 +7702,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 195645,
       "name": "i don't lose sleep anymore",
       "url": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
@@ -11920,7 +11920,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 170366,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
@@ -13404,7 +13404,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 141238,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
@@ -13560,7 +13560,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 217077,
       "name": "Pas d'ici",
       "url": "https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b"
@@ -16252,7 +16252,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 187118,
       "name": "somebody's daughter",
       "url": "https://open.spotify.com/track/2J6rRsmKn1TpGOfQagoRVr"
@@ -19098,7 +19098,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 136706,
       "name": "what if i took it off for you?",
       "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
@@ -19896,7 +19896,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-16",
       "duration_ms": 261600,
       "name": "\u0111\u00e3 t\u1eebng",
       "url": "https://open.spotify.com/track/4HFtL01dqao5pZ3ka6Ys3f"
@@ -21844,6 +21844,24 @@
       "duration_ms": 161088,
       "name": "\u7121\u6e90\u4e4b\u611b",
       "url": "https://open.spotify.com/track/4geP6KQzst4ETo3SPMaCiV"
+    },
+    {
+      "album": {
+        "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
+        "url": "https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238792,
+      "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
+      "url": "https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO"
     },
     {
       "album": {

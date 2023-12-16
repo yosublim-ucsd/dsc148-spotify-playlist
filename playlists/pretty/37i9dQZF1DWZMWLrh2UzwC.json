@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: James Arthur",
-  "num_followers": 62360,
+  "num_followers": 62368,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWQwYzRlMDFlODVjMmI2NDgzNzlhNmQxNTI0N2VmM2FmYzg1ZmRk",
+  "snapshot_id": "MCxjNDk0ZjkxODA1MjdkMmY2ZDU4ODlmMDZmYWQ0MjIxYTU5NjA3MWVm",
   "tracks": [
     {
       "added_at": "2023-12-14 16:00:00",
@@ -42,6 +42,10 @@
         {
           "name": "JVKE",
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
       "duration_ms": 123624,
@@ -223,6 +227,26 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2023-12-14 16:00:00",
+      "album": {
+        "name": "The Grinch Freestyle (feat. Latto)",
+        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146673,
+      "name": "The Grinch Freestyle (feat. Latto)",
+      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
     },
     {
       "added_at": "2023-12-14 16:00:00",
@@ -629,7 +653,7 @@
         }
       ],
       "duration_ms": 176055,
-      "name": "You and Me Makes Us",
+      "name": "You & Me Makes Us",
       "url": "https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ftreulr4K7.md) - [plain]
 
 > Eladio Carrion takes over Fuego! Featuring Beny Jr, Neutro Shorty, Tego Calderón & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,541 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,553 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ftreulr4K7.md) - [plain]
 | 3 | [Capitulo II](https://open.spotify.com/track/0qmueoqMeg5Yo5jTtJ4Kb7) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Capitulo II](https://open.spotify.com/album/14yjJr9CThpGI9VUF50Fyh) | 2:28 |
 | 4 | [Snowman](https://open.spotify.com/track/33oKfMZK2fj8IPTYCHFfUh) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Snowman](https://open.spotify.com/album/6s3WK9PecgeNJo2RT6Efn6) | 2:35 |
 | 5 | [Cambumbo](https://open.spotify.com/track/0cog8n6942onRBaNJ6vTqH) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:59 |
-| 6 | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8) | 6:45 |
+| 6 | [Baby Father 2.0 \(with Myke Towers, Arcángel, Ñengo Flow & Yeruza\)](https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [Baby Father 2.0 \(with Myke Towers, Arcángel, Ñengo Flow & Yeruza\)](https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8) | 6:45 |
 | 7 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
 | 8 | [Intro \- Freestyle](https://open.spotify.com/track/2iYEvhbfp2sY2oU2DT0FGF) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Yo Soy la Fama](https://open.spotify.com/album/1Kh36gr6wF5KfF2oGTKTSX) | 2:28 |
 | 9 | [Normal](https://open.spotify.com/track/0zlXXtgXHwwZh20gIY3n7M) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Normal](https://open.spotify.com/album/1l5DEJretnpSS9B4fd2KiS) | 6:14 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ftreulr4K7.md) - [plain]
 | 24 | [QEPDC](https://open.spotify.com/track/0UJX0BfJE5kapTdI1E7qc5) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [QEPDC](https://open.spotify.com/album/4TcbSKJUzuOm68FDEKziMq) | 3:52 |
 | 25 | [Brillando Sin Luz](https://open.spotify.com/track/5rz37f8yrSWGR1arwxq9Kb) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Brillando Sin Luz](https://open.spotify.com/album/3uFtc07N3dShu4jpnNFMoW) | 3:00 |
 
-Snapshot ID: `MCwxMGZiMmRmN2MxMDdhZWJkZjM3Mzc5M2RiNjczMWM5ZmE5N2M2NWM1`
+Snapshot ID: `MCw5ZjM4ZjIyOWEyOTcwZWY5ZTQ5YzY3NWM0YWNjMTE0MDlhZGI0OGVm`

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-799 songs - 1 day 19 hr 27 min
+800 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Amanat](https://open.spotify.com/track/0TeUlCl92AjyCXdfdU5C4M) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ) | [Amanat](https://open.spotify.com/album/1B8j6mD6LY9wH13HJdWyEF) | 3:15 | 2022-02-04 | 2022-04-06 |
 | [Amber Nu Paudi](https://open.spotify.com/track/1Cgf1bIWS0oJtzHidStWtQ) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 4:23 | 2022-01-10 | 2022-01-15 |
 | [Ambran De Taare](https://open.spotify.com/track/6qRdYQIMhVBG9FtVC1lItU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Ambran De Taare](https://open.spotify.com/album/21eSHgrZHYjhYMVRNi4R4d) | 3:32 | 2023-05-12 |  |
+| [Apa Fer Milaange](https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Apa Fer Milaange](https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5) | 4:02 | 2023-12-15 |  |
 | [Apna Viah](https://open.spotify.com/track/0znBJ5J84AD5ykoOkauSdR) | [Advik](https://open.spotify.com/artist/4RnHjFdLJEfBqL9B4nQcLg), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Apna Viah](https://open.spotify.com/album/4SCjM3XgWj3vy2Bk8huEnm) | 3:24 | 2022-02-22 | 2022-03-11 |
 | [Athroo](https://open.spotify.com/track/1N2Zv3CeSFygwFWdpAMV1m) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Athroo](https://open.spotify.com/album/4se8I5DaOxmaiBPVfwbyXR) | 2:49 | 2022-12-20 | 2023-02-04 |
 | [Attitude](https://open.spotify.com/track/1c69J5zh7bFdzuCskQ1nDM) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/album/3pcfgQjmTD9v9z2uq4Zoj4) | 2:49 | 2022-09-30 | 2022-10-02 |
@@ -750,7 +751,7 @@
 | [Tu Te Main](https://open.spotify.com/track/6Pyf5cGrN16BkOPyIdEhEd) | [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN) | [Tu Te Main](https://open.spotify.com/album/0VB9eBkk1qqChet8XkimVs) | 3:30 | 2022-07-29 | 2022-08-18 |
 | [Uche Uche Paunche](https://open.spotify.com/track/2GRerbOFlewgeat5rubxWk) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Uche Uche Paunche](https://open.spotify.com/album/4ZRHTGDeYYTgdVc2lAIN1d) | 3:22 | 2022-01-13 | 2022-02-01 |
 | [Uchiyaan Dewaraan](https://open.spotify.com/track/1CYn0jiSz0gubTpYJbuTMS) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Uchiyaan Dewaraan](https://open.spotify.com/album/6MyTdWlbXDZcpGDXDBGW0G) | 3:47 | 2021-12-02 | 2022-04-06 |
-| [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 | 2022-03-15 |  |
+| [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 | 2022-03-15 | 2023-12-16 |
 | [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 | 2023-07-31 |  |
 | [Uff](https://open.spotify.com/track/2jzshbCwfE6aM9uhWQ2NjB) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Uff](https://open.spotify.com/album/3SgWMdnqxO5uPCvPDav4Wm) | 3:19 | 2022-01-14 | 2022-04-06 |
 | [Underdog](https://open.spotify.com/track/2g5eavuonSiNtugU8uvGZq) | [Simar Dorraha](https://open.spotify.com/artist/4jHC6uvANw9rlBKFyWpzat) | [Underdog](https://open.spotify.com/album/5YibraKvYlJzZTWAgLbXkl) | 3:00 | 2022-03-31 | 2022-04-06 |

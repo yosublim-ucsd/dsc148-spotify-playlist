@@ -4,7 +4,7 @@
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-76 songs - 5 hr 18 min
+77 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Little Ghetto Boy](https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Come Back Charleston Blue](https://open.spotify.com/album/2LBcd80fBY2o4pCJUWhLRb) | 3:52 | 2022-12-16 |  |
 | [Lost and Lookin'](https://open.spotify.com/track/34EltYEPxM1kwzfvi7PUU9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:11 | 2022-12-16 |  |
 | [Miracles](https://open.spotify.com/track/4hGEJ3VhpJJxxEqQnz9JPS) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 4:17 | 2022-12-16 |  |
+| [Motion Picture Soundtrack](https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Motion Picture Soundtrack](https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh) | 4:59 | 2023-12-15 |  |
 | [My Cherie Amour](https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG) | 2:53 | 2022-12-16 |  |
 | [My Girl](https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 2:55 | 2022-12-16 |  |
 | [My Thing](https://open.spotify.com/track/39CH3TDuaO3kqoS8VJKi6Y) | [Wilfred Luckie](https://open.spotify.com/artist/1DOptLNwDd7yKYCUlnS1tJ) | [My Thing](https://open.spotify.com/album/7pkdTeedt1blfd6PTFGcR6) | 4:34 | 2022-12-16 |  |
@@ -60,7 +61,7 @@
 | [Playing Your Game, Baby](https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:13 | 2022-12-16 |  |
 | [Pretty Bird](https://open.spotify.com/track/4SoNUIg58ISjWdvsk7WY9m) | [Lemuria](https://open.spotify.com/artist/6wzxL5b6rHgsbAaKwhwTDi), [Terea](https://open.spotify.com/artist/6NtHkAB0wnU6v3RNs9n55r) | [Hunk Of Heaven/Pretty Bird](https://open.spotify.com/album/6a2AXXlm4TuB2rFqhmS66Q) | 4:04 | 2022-12-16 |  |
 | [Prison Song](https://open.spotify.com/track/7kpYvT7rc1PstHASHqokXo) | [Carlton Williams](https://open.spotify.com/artist/4SbMfclyPgt4znjDUNcesw) | [The "Selma" Album: A Musical Tribute To Dr\. Martin Luther King, Jr.](https://open.spotify.com/album/7LcGly8W9ukYGe2VPe5EA9) | 2:46 | 2022-12-16 |  |
-| [Quicksand](https://open.spotify.com/track/0hL8sBBOvup2rbzNwou5FX) | [Starcrost](https://open.spotify.com/artist/41dXD0yUxhnUk5ZuXqujKa) | [Beauty: A Journey Through Jeremy Underground's Collection](https://open.spotify.com/album/1PYpPBCZIMgFChfO7NKb3N) | 5:04 | 2022-12-16 |  |
+| [Quicksand](https://open.spotify.com/track/0hL8sBBOvup2rbzNwou5FX) | [Starcrost](https://open.spotify.com/artist/41dXD0yUxhnUk5ZuXqujKa) | [Beauty: A Journey Through Jeremy Underground's Collection](https://open.spotify.com/album/1PYpPBCZIMgFChfO7NKb3N) | 5:04 | 2022-12-16 | 2023-12-16 |
 | [Reach Out I'll Be There](https://open.spotify.com/track/0Uoy6VBK6vAVVkClwq4a8w) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Surrender \(Expanded Edition\)](https://open.spotify.com/album/7s2kMpRTPRshmAu6ppLDdx) | 5:34 | 2022-12-16 |  |
 | [Remember Who You Are](https://open.spotify.com/track/21zc5vR3zofPz2WZIVLYgJ) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 3:17 | 2022-12-16 |  |
 | [Smooth Aisles](https://open.spotify.com/track/6YjxV616rUS6G8uKTinOgi) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Mowing](https://open.spotify.com/album/33FUqvELTIwJDs4OHtFevu) | 2:43 | 2022-12-16 |  |

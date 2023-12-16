@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,909 likes - 110 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,916 likes - 110 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 81 | [念念不忘 \- 电影《念念相忘》主题曲](https://open.spotify.com/track/0HJi9bUARUsxztKT7iHjzo) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [念念不忘 \(电影《念念相忘》主题曲\)](https://open.spotify.com/album/1TSwpFghoNHeSOjfAagTEV) | 4:06 |
 | 82 | [也許路很長](https://open.spotify.com/track/2h8nkZW9vo6ikAPnY6z4xi) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [也許路很長](https://open.spotify.com/album/78aNvZpHJiGL8Z8DkohZLh) | 3:55 |
 | 83 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 |
-| 84 | [我愛我](https://open.spotify.com/track/01EimQYtqVold1ENssqpJG) | [张静汶](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB), [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我愛我](https://open.spotify.com/album/10KpBrH2fURIk1sTanzQPu) | 3:58 |
+| 84 | [我愛我](https://open.spotify.com/track/01EimQYtqVold1ENssqpJG) | [張靜汶](https://open.spotify.com/artist/45alVUQVEV3nXmNwDavD6l), [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我愛我](https://open.spotify.com/album/10KpBrH2fURIk1sTanzQPu) | 3:58 |
 | 85 | [逾時以後](https://open.spotify.com/track/0grMNsmSDEgMg9SMuZ74qH) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [逾時以後](https://open.spotify.com/album/4RVLtYHcdOz5xqzdyY6uff) | 3:34 |
 | 86 | [別說你會懂](https://open.spotify.com/track/3VarFqtF3FIOUlhImJ9L3O) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [別說你會懂](https://open.spotify.com/album/6Id8ebzreIMZ9J4zl7vs3u) | 3:30 |
 | 87 | [影子](https://open.spotify.com/track/426vm4P2qahH0iyHCRC8Gh) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [影子](https://open.spotify.com/album/6gX178KqMMdrIr9Lh1XYlV) | 3:56 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [白夜](https://open.spotify.com/track/77ypIknTAFZbRDVWCggH0l) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [白夜](https://open.spotify.com/album/3p5oW50p6I2bYsfuOhTFVF) | 4:26 |
 | 110 | [假设](https://open.spotify.com/track/5eIvG3WhIn1Xt2i11fOExb) | [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4), [孙盛希](https://open.spotify.com/artist/48KbdQ2h1Qq2G0mr3hVsls) | [绚烂 枯萎 以后](https://open.spotify.com/album/29GUxcViDudgrKO0IJpL72) | 3:34 |
 
-Snapshot ID: `MCxjMjNiYzI2YTRjZjIxNGRhNTEyYmU2MmFlMTFiNTVjYTNhY2I5MjZk`
+Snapshot ID: `MCxjMWE1MTU0ODk4ZTg0YzQyMjFmOTlkZjFiMmQ4OWFjNGRkMDY5OWU2`

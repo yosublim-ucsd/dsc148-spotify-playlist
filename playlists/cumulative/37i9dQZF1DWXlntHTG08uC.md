@@ -4,7 +4,7 @@
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-183 songs - 8 hr 39 min
+184 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,9 @@
 | [528 Hz Love All Around](https://open.spotify.com/track/5dsTMYUbZfRcvZHBgk1K1Z) | [Pads of Nature](https://open.spotify.com/artist/0ekIzmtBVmt86kKA5tVt7Z) | [528 Hz Solfeggio Therapy](https://open.spotify.com/album/59kaWkpkl5P5P6UcWfVvz7) | 3:02 | 2023-02-21 | 2023-12-01 |
 | [528 Hz Love Frequencies](https://open.spotify.com/track/0742UrikgDUpok9haWFlmN) | [Aegean Noise](https://open.spotify.com/artist/0lGHTzI7DtmSGJq85VGjuH) | [528 Hz Love Frequencies](https://open.spotify.com/album/11Wzo1m7VHgxCV12lqFP9I) | 2:43 | 2023-02-08 | 2023-09-20 |
 | [528 Hz Love Frequency](https://open.spotify.com/track/7AXu89IbRfF7vfZXo7WYwA) | [Jaranda Mills](https://open.spotify.com/artist/6zH98FDJyjnXV38CgAApE0) | [528 Hz Love Frequency](https://open.spotify.com/album/1vvzZONNY6cbAy3HnsmT2k) | 3:09 | 2023-02-08 |  |
+| [528 Hz Manipura Chakra](https://open.spotify.com/track/0xlxfh1Rl5wXfEq7z6uqRF) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Transformation & Miracles DNA Repair \(The Solar Plexus Chakra\)](https://open.spotify.com/album/7rxXRL2nVwner9Viwp31Ap) | 3:21 | 2023-11-30 |  |
 | [528 Hz Manipura Chakra](https://open.spotify.com/track/2j0c51SLIcRPJkh5WuFpCR) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Transformation & Miracles DNA Repair \(The Solar Plexus Chakra\)](https://open.spotify.com/album/4SCQHNlpxUOyKu9xgoCr8g) | 3:21 | 2023-02-08 | 2023-04-14 |
-| [528 Hz Manipura Chakra](https://open.spotify.com/track/6KkWAocfZ9bRqxwapOhPBb) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Solfeggio Frequency](https://open.spotify.com/album/5zW84fjGlZMEdgFzzwl2bo) | 3:21 | 2023-04-06 |  |
+| [528 Hz Manipura Chakra](https://open.spotify.com/track/6KkWAocfZ9bRqxwapOhPBb) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Solfeggio Frequency](https://open.spotify.com/album/5zW84fjGlZMEdgFzzwl2bo) | 3:21 | 2023-04-06 | 2023-12-16 |
 | [528 Hz Mind and Body](https://open.spotify.com/track/0ojfY3l1RaSNj052NMFviV) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 1](https://open.spotify.com/album/35JMHwBhv21ehQgncjx2S4) | 3:02 | 2023-02-08 |  |
 | [528 Hz Mindfulness](https://open.spotify.com/track/67zLFjnzqQ7UppDq1HXczR) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [528 Hz Positive Transformation](https://open.spotify.com/album/19xQ3Y3XrQz88UeM1lfe1d) | 1:36 | 2023-02-08 |  |
 | [528 Hz Morning Miracle](https://open.spotify.com/track/3DZulX7snXKBp91TG8tTje) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Morning Miracle](https://open.spotify.com/album/4A2KCK3kY9pOVWdmVmFWoW) | 3:02 | 2023-02-08 | 2023-12-01 |

@@ -15315,24 +15315,6 @@
     },
     {
       "album": {
-        "name": "Devil Child",
-        "url": "https://open.spotify.com/album/3MaMLdcHxdxgYihEEQqbbI"
-      },
-      "artists": [
-        {
-          "name": "Faneto",
-          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
-        }
-      ],
-      "date_added": "2023-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157098,
-      "name": "Devil Child",
-      "url": "https://open.spotify.com/track/4aZ640mINc1Ld8Kbnc6ufa"
-    },
-    {
-      "album": {
         "name": "devil may cry",
         "url": "https://open.spotify.com/album/6VQ4kaGM0fRedoxtBWyMq1"
       },
@@ -15800,6 +15782,24 @@
       "duration_ms": 148965,
       "name": "Diretto al Top",
       "url": "https://open.spotify.com/track/7fnqPrisSobHY5vsTrnqpB"
+    },
+    {
+      "album": {
+        "name": "Dirty Child",
+        "url": "https://open.spotify.com/album/3MaMLdcHxdxgYihEEQqbbI"
+      },
+      "artists": [
+        {
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157098,
+      "name": "Dirty Child",
+      "url": "https://open.spotify.com/track/4aZ640mINc1Ld8Kbnc6ufa"
     },
     {
       "album": {
@@ -17929,7 +17929,7 @@
         },
         {
           "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+          "url": "https://open.spotify.com/artist/5h1ppfMPwMGC0gT9vPUrI2"
         }
       ],
       "date_added": "2023-12-14",

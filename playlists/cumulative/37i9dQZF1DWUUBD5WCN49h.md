@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-682 songs - 1 day 9 hr 20 min
+683 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Forever](https://open.spotify.com/track/17NVTfQBL35FZMAN5nd1pD) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 3:04 | 2022-07-21 | 2023-02-04 |
 | [Formula](https://open.spotify.com/track/0ALMUzYqM0gQOKpj1G29CR) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Formula](https://open.spotify.com/album/3BpxVtjRCsv1sTaZBInyHB) | 2:53 | 2022-09-09 | 2022-12-09 |
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-25 | 2023-11-03 |
-| [Free](https://open.spotify.com/track/12GIrfQdKSQAZ7wYgwmhUb) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [ALT SOUL, Vol\. 1](https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN) | 3:10 | 2023-12-08 |  |
+| [Free](https://open.spotify.com/track/12GIrfQdKSQAZ7wYgwmhUb) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [ALT SOUL, Vol\. 1](https://open.spotify.com/album/3xZmmPqI56XhwpiRAfqsDN) | 2:40 | 2023-12-08 |  |
 | [Free](https://open.spotify.com/track/3Ts5RylTIKoNViYysjGbOy) | [Queen Ayorkor](https://open.spotify.com/artist/4Y9FihnUo5vo4tVYTbYqaw) | [Phase & Faces](https://open.spotify.com/album/1Ki1jMf5LII3klooMcQblw) | 3:49 | 2023-07-28 | 2023-09-15 |
 | [Friday](https://open.spotify.com/track/2PSzHKPwhLFVU6UJkcOfAF) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 3:31 | 2022-11-04 | 2023-02-17 |
 | [Fujipiano](https://open.spotify.com/track/6NF4cMRW9alAr2K7TXB7yY) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS), [Slimpee Beatz](https://open.spotify.com/artist/5d5gcjlWRQyhVXNqGw2JOF) | [Fujipiano](https://open.spotify.com/album/61WYeMLodYapBUO6DuOISL) | 3:43 | 2023-11-24 |  |
@@ -649,7 +649,8 @@
 | [Waiting](https://open.spotify.com/track/43eFS6n9ORA3FP54WXq5qC) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Waiting](https://open.spotify.com/album/3zt9ZMmlCUx1BOFpU6jb47) | 4:14 | 2023-10-27 | 2023-11-03 |
 | [Walking Away](https://open.spotify.com/track/4CEqsSBbZ0IQVGGvBMn4BN) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY), [Josh Yau](https://open.spotify.com/artist/4KDt1OdgiC9fZQb1ql0uIT) | [Walking Away](https://open.spotify.com/album/6IPHBP1F6s1lYqEkWWBZlW) | 2:45 | 2023-03-17 | 2023-03-31 |
 | [Walking Away](https://open.spotify.com/track/13KyvwN7nd8c9aqfgsh9co) | [UC Dray](https://open.spotify.com/artist/3bPlJjaqKSgvpka6JbumuP), [Lupo](https://open.spotify.com/artist/22HWq5tUvVLTUORQLxlXMf), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Bad Boy Still](https://open.spotify.com/album/0LQusxf0LY9ntzYm8xMEH3) | 3:12 | 2023-02-10 | 2023-02-24 |
-| [Warfront](https://open.spotify.com/track/5v6yUcApqhGDCv7G7QNbQY) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Warfront](https://open.spotify.com/album/4WNNKdQQ9AqLJacXu1kFQk) | 3:12 | 2023-11-24 |  |
+| [Warfront](https://open.spotify.com/track/1Cs3EK3wOXl1NAhHgDO1GL) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Warfront](https://open.spotify.com/album/3ma7Fote7RBthotc40gklt) | 3:12 | 2023-12-15 |  |
+| [Warfront](https://open.spotify.com/track/5v6yUcApqhGDCv7G7QNbQY) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Warfront](https://open.spotify.com/album/4WNNKdQQ9AqLJacXu1kFQk) | 3:12 | 2023-11-24 | 2023-12-16 |
 | [Way That I Love](https://open.spotify.com/track/3SFXq9A4UG6bT0BEycEiWf) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Way That I Love](https://open.spotify.com/album/275vnEZCvlxPeRJ7IKjsX9) | 4:12 | 2023-04-20 | 2023-07-01 |
 | [WEAK](https://open.spotify.com/track/2woVKwAIDNzJDV1NloQu56) | [Brainee](https://open.spotify.com/artist/189RseQBNs5wltQ3iQfQ9E) | [WEAK](https://open.spotify.com/album/5cfdSZBCmoRM03EhLGst9D) | 2:11 | 2023-09-14 | 2023-10-27 |
 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 | 2022-06-30 | 2023-03-11 |

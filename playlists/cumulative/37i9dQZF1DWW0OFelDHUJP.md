@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-71 songs - 4 hr 36 min
+73 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Mahi Tu Reh Ja](https://open.spotify.com/track/09Bp939Xx2RWtxxgdEHFdy) | [Manav](https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM) | [Mahi Tu Reh Ja](https://open.spotify.com/album/6E46FZoxS6nSxg0KqxAvMc) | 3:43 | 2023-05-09 |  |
 | [Main Aur Tum](https://open.spotify.com/track/5DdwOYaO8qF9wEphjjmFM0) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Main Aur Tum \- Single](https://open.spotify.com/album/1OWIwIqD7d8dq9oRSYczJD) | 3:45 | 2023-05-09 |  |
 | [Milon Chala](https://open.spotify.com/track/0ZnlE3PfamXPMCsT5wr3sK) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Milon Chala](https://open.spotify.com/album/3kkhdt3cKKiZySDihwFbPG) | 3:10 | 2023-05-09 |  |
-| [Muddat](https://open.spotify.com/track/7rgQx9d0qj0tgRGuhq4Fca) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Muddat \- Single](https://open.spotify.com/album/7D7ZXah36bBSJ6Z0goU5uE) | 4:14 | 2023-05-09 |  |
+| [Muddat](https://open.spotify.com/track/6gDvlfH71sjBtvRjolLX2Q) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Muddat \- Single](https://open.spotify.com/album/2TH5sgjU2nP6XGYHHZA8mI) | 4:14 | 2023-11-15 |  |
+| [Muddat](https://open.spotify.com/track/7rgQx9d0qj0tgRGuhq4Fca) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Muddat \- Single](https://open.spotify.com/album/7D7ZXah36bBSJ6Z0goU5uE) | 4:14 | 2023-05-09 | 2023-12-16 |
 | [Nadiya ke Paar](https://open.spotify.com/track/6zLgriAnEQF3amTmNkQSIK) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:39 | 2023-05-09 |  |
 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 | 2023-05-09 |  |
 | [Paani](https://open.spotify.com/track/3MQCWVCuzdoP9M6aeXtRT6) | [Rohan Kamath](https://open.spotify.com/artist/2Ni9NexOwtEehPqRXNSdlM) | [Paani](https://open.spotify.com/album/1bp4sHm3BL0qRy9dP8nCwG) | 3:13 | 2023-05-09 |  |
@@ -73,7 +74,8 @@
 | [Sage](https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Sage](https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn) | 3:50 | 2023-09-18 | 2023-10-15 |
 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 | 2023-05-09 |  |
 | [Sajna Ve](https://open.spotify.com/track/1lWjvbQWru7XPekvQGiKv5) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Sajna Ve](https://open.spotify.com/album/3T4nGBjzLyXUv0iXbcKBqY) | 3:17 | 2023-05-09 |  |
-| [Sawan](https://open.spotify.com/track/2EYExMxUzn2FapSlnxDjTn) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Naalayak EP](https://open.spotify.com/album/2488cmTJwsCQv4nvLUb1fK) | 4:22 | 2023-05-09 |  |
+| [Sawan](https://open.spotify.com/track/2BGq73e6KVjOfMHMTyNSvG) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Naalayak EP](https://open.spotify.com/album/2fdGnjx0NXGOhTTfRtLLEG) | 4:22 | 2023-11-15 |  |
+| [Sawan](https://open.spotify.com/track/2EYExMxUzn2FapSlnxDjTn) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Naalayak EP](https://open.spotify.com/album/2488cmTJwsCQv4nvLUb1fK) | 4:22 | 2023-05-09 | 2023-12-16 |
 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 | 2023-05-09 |  |
 | [Teri Justajoo \- Saaware](https://open.spotify.com/track/4F7PpDimSVRa7Bo4Ye3ZVW) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l) | [Teri Justajoo](https://open.spotify.com/album/1DIpSl10vWYS85snGZ0gab) | 4:37 | 2023-05-09 |  |
 | [Tu Bata](https://open.spotify.com/track/4T3vh1KcGAOKewcCj8A1uj) | [Roney Guha](https://open.spotify.com/artist/3IK0Y8r68JB2VykGqVVuvM) | [Tu Bata](https://open.spotify.com/album/7aiZE6N1LmgeJLn7iQ2VrB) | 3:29 | 2023-05-09 |  |

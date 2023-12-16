@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-225 songs - 16 hr 20 min
+226 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Wind](https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 11](https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK) | 3:37 | 2021-04-21 |  |
 | [Wind Beneath Your Wings](https://open.spotify.com/track/1opMP3YI5driRBHAuTzrXR) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Descendants Of The Sun Pt.9 \(Original Television Soundtrack\)](https://open.spotify.com/album/1ijtrIo5LrIB0TxJVFXNUL) | 3:55 | 2021-04-21 |  |
 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 | 2021-04-21 |  |
+| [Wound Deeper Than Love \(duet with Lim Jae Beum\)](https://open.spotify.com/track/687VC5tfsrdmpjKUVgRF1A) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/3xwclNQx4vY9Axr6x3Giib) | 4:24 | 2021-04-21 |  |
 | [You don’t know love](https://open.spotify.com/track/5zWWdqa4BF8tjygCS8E3rO) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Will in FALL](https://open.spotify.com/album/0zTnt5jVnRUOaBEu1hqSYs) | 3:53 | 2021-04-21 |  |
 | [가시](https://open.spotify.com/track/7csMuPqdOPaFKby0AoRYL5) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n) | 4:01 | 2021-04-21 |  |
 | [가질 수 없는 너 \(화생방실 클레오파트라\) \(Bonus Track\)](https://open.spotify.com/track/36WthxpEXVwtEhJQ64iryj) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 14th \(Live Version\)](https://open.spotify.com/album/7ASCzTIuaYbAsZjIGh09wh) | 3:56 | 2021-04-21 |  |
@@ -159,8 +160,8 @@
 | [동경](https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5) | 5:15 | 2021-04-21 |  |
 | [마지막 내 숨소리](https://open.spotify.com/track/0JPCtu2uAgEhZIp0bOsYqo) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 4:22 | 2021-04-21 |  |
 | [마지막 약속](https://open.spotify.com/track/7uaTKyXRjGCFpNDRsdVYC9) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [4Love](https://open.spotify.com/album/6TcJ8I4bTBO8924wOksjUI) | 4:14 | 2021-04-21 |  |
-| [만약에 말야](https://open.spotify.com/track/21umNQmuRyMzdcOccAwNhK) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 TOP2 Part.1](https://open.spotify.com/album/46XRpcWgX68Ubbp4RHRuJd) | 3:03 | 2021-04-21 |  |
-| [만약에 말야](https://open.spotify.com/track/2XKuRwspIG5xIKZYVCNbty) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 TOP2 Pt\. 1](https://open.spotify.com/album/54qz9V33c5PDRbgyYaUBxP) | 3:03 | 2021-04-21 | 2023-08-09 |
+| [만약에 말야](https://open.spotify.com/track/21umNQmuRyMzdcOccAwNhK) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 TOP2 Part.1](https://open.spotify.com/album/46XRpcWgX68Ubbp4RHRuJd) | 3:03 | 2021-04-21 | 2023-12-16 |
+| [만약에 말야](https://open.spotify.com/track/2XKuRwspIG5xIKZYVCNbty) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 TOP2 Pt\. 1](https://open.spotify.com/album/54qz9V33c5PDRbgyYaUBxP) | 3:03 | 2021-04-21 |  |
 | [말리꽃](https://open.spotify.com/track/1rgB7eeT0QUoQMDXpQYCFn) | [J.Lee](https://open.spotify.com/artist/324dYLqc0sal9kI5GJdyfr) | [나는 가수다 2 Best Collection](https://open.spotify.com/album/793OvsBoSJuDM5gEydkO3U) | 4:14 | 2021-04-21 | 2023-08-09 |
 | [말리꽃 \(원곡가수 이승철\)](https://open.spotify.com/track/5jMGT5nnH8tlPeyqwmoGRu) | [J.Lee](https://open.spotify.com/artist/324dYLqc0sal9kI5GJdyfr) | [<나는 가수다 2> 10월 B조 경연](https://open.spotify.com/album/1IpePmeKbvaZeBmvcqBSBr) | 4:14 | 2021-04-21 |  |
 | [먼곳에서](https://open.spotify.com/track/5tlNyiLIEeU52dSt5j9m2F) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5) | 3:45 | 2021-04-21 |  |
@@ -180,11 +181,11 @@
 | [사랑과 우정사이](https://open.spotify.com/track/6UWXnJ4MpEeVkBLXmF90aj) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:57 | 2021-04-21 |  |
 | [사랑보다 깊은 상처](https://open.spotify.com/track/6gAnaNgYUXcFXIfFrV88p7) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/4za0GMxinuMP0B1B504Qyv) | 4:21 | 2021-04-21 | 2023-06-04 |
 | [사랑보다 깊은 상처](https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 4:30 | 2021-04-21 |  |
-| [사랑보다 깊은상처 \(DUET WITH 임재범\)](https://open.spotify.com/track/6NPtRKUzSeGccAxOSUMuMI) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD), [임재범](https://open.spotify.com/artist/0xTmPgGPMEHIYuRiu5J7CD) | [Piece / 1집](https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT) | 4:21 | 2021-04-21 |  |
+| [사랑보다 깊은상처 \(DUET WITH 임재범\)](https://open.spotify.com/track/6NPtRKUzSeGccAxOSUMuMI) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD), [임재범](https://open.spotify.com/artist/0xTmPgGPMEHIYuRiu5J7CD) | [Piece / 1집](https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT) | 4:21 | 2021-04-21 | 2023-12-16 |
 | [사랑아](https://open.spotify.com/track/5TAzrlwHcjsqTtPSBcpL39) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [나는 가수다 2 2012 가왕전 개막제](https://open.spotify.com/album/2Wz7LaK00NEFJBIu6GZTBM) | 4:50 | 2021-04-21 | 2023-08-09 |
 | [사랑아](https://open.spotify.com/track/3twm8IRWWuNTDyVFQKOoRV) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [<나는 가수다 2> 2012 가왕전 개막제 / 1집](https://open.spotify.com/album/1mVW12Cl53OadRXmWtmWWN) | 4:50 | 2021-04-21 |  |
-| [사랑에 빠지고 싶다](https://open.spotify.com/track/5QxIGFY3RWXRp1KoqgcoWj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 '사랑에 빠지고 싶다'](https://open.spotify.com/album/3OX8ZkRAD8JffqLs7p8zo1) | 2:25 | 2021-04-21 |  |
-| [사랑에 빠지고 싶다](https://open.spotify.com/track/2e460Sd7WZ6BQTNuzK3FwE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 사랑에 빠지고 싶다](https://open.spotify.com/album/1m6rKT2P71vlSPQ3zCZgUk) | 2:25 | 2021-04-21 | 2023-06-04 |
+| [사랑에 빠지고 싶다](https://open.spotify.com/track/5QxIGFY3RWXRp1KoqgcoWj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 '사랑에 빠지고 싶다'](https://open.spotify.com/album/3OX8ZkRAD8JffqLs7p8zo1) | 2:25 | 2021-04-21 | 2023-12-16 |
+| [사랑에 빠지고 싶다](https://open.spotify.com/track/2e460Sd7WZ6BQTNuzK3FwE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 사랑에 빠지고 싶다](https://open.spotify.com/album/1m6rKT2P71vlSPQ3zCZgUk) | 2:25 | 2021-04-21 |  |
 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 | 2021-04-21 |  |
 | [사랑할수록](https://open.spotify.com/track/30GH7aoSEBD9YmgSy83K85) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 4:10 | 2021-04-21 |  |
 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 | 2021-04-21 |  |
