@@ -498,7 +498,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 335500,
       "name": "Lanmou fasil",
       "url": "https://open.spotify.com/track/2XlCHzfLY1K1Wh1CjvFE1a"
@@ -816,6 +816,24 @@
       "duration_ms": 267693,
       "name": "Tu me manques",
       "url": "https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP"
+    },
+    {
+      "album": {
+        "name": "Invictus",
+        "url": "https://open.spotify.com/album/23RrDDmUkBaoLHnsBtYygy"
+      },
+      "artists": [
+        {
+          "name": "Kreyol La",
+          "url": "https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214987,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/2YItJHTMp12xn8Ln7pvMCq"
     },
     {
       "album": {

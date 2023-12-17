@@ -5473,6 +5473,24 @@
     },
     {
       "album": {
+        "name": "Monomyth LP",
+        "url": "https://open.spotify.com/album/5qGz0eFyGi5sTklBY0Syhc"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "Monomyth",
+      "url": "https://open.spotify.com/track/3eohbDWubHzKPcrXs4bHOE"
+    },
+    {
+      "album": {
         "name": "Muharib EP",
         "url": "https://open.spotify.com/album/4H9OcSuLNucBfAaWFmbGFh"
       },
@@ -6442,7 +6460,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 210826,
       "name": "Probes",
       "url": "https://open.spotify.com/track/2Vqo5y7SvufrlLKcsNkYH8"

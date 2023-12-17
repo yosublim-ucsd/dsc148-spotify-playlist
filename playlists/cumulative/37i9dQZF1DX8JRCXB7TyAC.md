@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-72 songs - 3 hr 37 min
+73 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 | 2023-10-20 |  |
 | [Death Row](https://open.spotify.com/track/0Rx6TVOQ137NAN4UZF6GmT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/7IflR8avCHPbAfp5wOpoD3) | 3:41 | 2023-11-22 |  |
 | [Declare](https://open.spotify.com/track/3wiHYkijyJp1yqq4qIAQ6I) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf), [Komal Choudhary](https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT), [Biru Kataria,Fiza Choudhary](https://open.spotify.com/artist/5LS1kuFh0mMZLe7t7n75wH) | [Declare](https://open.spotify.com/album/3qIl0JOhAkbLNjoAq9qWew) | 3:17 | 2023-07-24 |  |
-| [Demand](https://open.spotify.com/track/6QoYcLyjQNTOsgh9dRHFDM) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me), [Crush Wale Yaar](https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL) | [Demand](https://open.spotify.com/album/5HdrVdrrcFxmYPpLDgPoxU) | 2:34 | 2023-07-24 |  |
+| [Demand](https://open.spotify.com/track/68kLwAKQKln6n1lhSYDs0g) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me), [Crush Wale Yaar](https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL) | [Demand](https://open.spotify.com/album/6Agz68SDZIf9eaDuiwSRIp) | 2:34 | 2023-11-22 |  |
+| [Demand](https://open.spotify.com/track/6QoYcLyjQNTOsgh9dRHFDM) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me), [Crush Wale Yaar](https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL) | [Demand](https://open.spotify.com/album/5HdrVdrrcFxmYPpLDgPoxU) | 2:34 | 2023-07-24 | 2023-12-17 |
 | [Desi](https://open.spotify.com/track/4PdZM5PoGGLIFWfPquRnEd) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/30Bev10vDi5uByGqVky2MX) | [Desi](https://open.spotify.com/album/5I0yk3Qb3CaTM12ijQ0Z1U) | 3:33 | 2023-07-24 |  |
 | [Desi Katta](https://open.spotify.com/track/48iAFIz2vYMJH8eqAyctJW) | [Mohit Sharma](https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1), [Ved Dhanania](https://open.spotify.com/artist/6qZ5dlvCpcLQeiizBkyIGA), [Sweta Chauhan](https://open.spotify.com/artist/7c4ZmsnxBHkspjgZeWpeFP), [R K Crew](https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT) | [Desi Katta](https://open.spotify.com/album/093STonA4bpAjQyzWt4WgR) | 2:52 | 2023-07-24 | 2023-11-10 |
 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 | 2023-07-24 |  |

@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 414819,
       "name": "Antes y Despu\u00e9s",
       "url": "https://open.spotify.com/track/0YbXuCsQwrsh5x0hgnED6z"
@@ -346,6 +346,28 @@
       "duration_ms": 210773,
       "name": "Como Antes (feat. Wisin)",
       "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
+    },
+    {
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "CORLEONE",
+      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
     },
     {
       "album": {
@@ -876,7 +898,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 205546,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/0rRMe1LBFoq5TjmT1Jye2D"
@@ -1318,7 +1340,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 206066,
       "name": "Plakito (feat. El General Gadiel & Farruko) - Remix",
       "url": "https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ"

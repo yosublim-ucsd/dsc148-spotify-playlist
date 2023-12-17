@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-978 songs - 2 day 11 hr 32 min
+979 songs - 2 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [7 Rings \- Acoustic Version](https://open.spotify.com/track/47PTdbgKqE5JZFCZ9Lh4al) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [7 Rings \(Acoustic Version\)](https://open.spotify.com/album/11S56kFlwa4KbADJTpSBJv) | 3:11 | 2022-04-08 | 2022-04-12 |
 | [A Donde](https://open.spotify.com/track/5MKUw71QcmPTPSfAaYc5Ll) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ) | [A Donde](https://open.spotify.com/album/64ABDGYVFdrrT8kIzNSDmH) | 3:24 | 2022-03-28 | 2022-04-12 |
 | [A la hora de las lentas](https://open.spotify.com/track/6A70dz4k38aramzGjpQ3KK) | [Dino Gastón Ciarlo](https://open.spotify.com/artist/482iqSnaP20OapnXbeXnTx) | [Dino y sus Ciarlobacterias](https://open.spotify.com/album/1VslO3d4STeU28cWpD1QZS) | 3:21 | 2022-03-24 | 2022-04-17 |
-| [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2022-01-07 |  |
+| [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2022-01-07 | 2023-12-17 |
 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 | 2021-12-24 |  |
 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2022-03-28 |  |
 | [A Primera Vista \(En Vivo\)](https://open.spotify.com/track/5ILO4muNGt6OcH0sEQjyTG) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Mil Noches y un Instante \(En Vivo en el Teatro Gran Rex\)](https://open.spotify.com/album/0FEw1ELbSr36VjZRlOhpbx) | 3:28 | 2021-12-24 | 2022-07-29 |
@@ -638,6 +638,7 @@
 | [No Tengo Hambre, Tengo Ansiedad](https://open.spotify.com/track/0kqWb82ACdjcObDqDqD0zg) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [No Tengo Hambre, Tengo Ansiedad](https://open.spotify.com/album/3z2EoMTegXomOSq61UVRA2) | 2:14 | 2022-03-28 | 2022-11-18 |
 | [No Tengo Más](https://open.spotify.com/track/2O3p0JdKF0SLGKnQyNfzlO) | [Jochi Maldonado](https://open.spotify.com/artist/6LCNCKEtLmu8kjDEs22Z5j) | [No Tengo Más](https://open.spotify.com/album/6Xq1eHlkJdlNaTyRTm31as) | 3:48 | 2022-04-01 | 2022-04-07 |
 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 | 2022-07-25 |  |
+| [Nunca Lo Olvides](https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Nunca Lo Olvides](https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui) | 4:59 | 2023-12-15 |  |
 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 | 2021-12-24 |  |
 | [Nunca Te Jugaste \- En Casa](https://open.spotify.com/track/77zmaYQnc0bmaI9W4MzF6q) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Nunca Te Jugaste \(En Casa\)](https://open.spotify.com/album/1VbFYepuhZ2lq8qxtu0Axa) | 2:40 | 2022-04-08 | 2022-04-18 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-12-17 |  |

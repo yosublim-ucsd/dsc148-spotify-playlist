@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SERA, YouNotUs
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,723 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,742 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 39 | [9\-MilliMeter Muziek](https://open.spotify.com/track/2mlC9qxKDV4rjvMwwshzkd) | [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [V.O.C\. \(Volledig Onder Controle\)](https://open.spotify.com/album/4kfyjpm97W7ONQBsIWzJMd) | 3:50 |
 | 40 | [Passionate](https://open.spotify.com/track/5TrEgRKwwmmfNx4KN8usfU) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Passionate](https://open.spotify.com/album/0HRDrAf6GrC3yzIrsDTTaF) | 2:43 |
 | 41 | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1) | 2:26 |
-| 42 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:14 |
+| 42 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 |
 | 43 | [You Can Have It](https://open.spotify.com/track/1fx1ptytiaRIdnGLt6feeQ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Victor Flash](https://open.spotify.com/artist/1IEF03NP5cb0XuOBpfxZXg) | [You Can Have It](https://open.spotify.com/album/1oYqMHHBkuar0ScgiJiPmQ) | 3:52 |
 | 44 | [eleanor & bellami](https://open.spotify.com/track/7zMZp93GifmqPgA4S55gJr) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Lil Peej](https://open.spotify.com/artist/24QHD2iiTxBKNMBE5WNcim) | [eleanor & bellami](https://open.spotify.com/album/2Nb58gLA9HmztlX6Hz2grU) | 3:15 |
 | 45 | [Little Man](https://open.spotify.com/track/3ZNAh5LMu9zdCV0dAUTsTh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Little Man](https://open.spotify.com/album/0FL0XDLHQ3LIyWaxdA7IzO) | 2:54 |
 | 46 | [Like Us](https://open.spotify.com/track/5Dv9KUjKG4GTI73ax1mSw6) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Like Us](https://open.spotify.com/album/0EdKtp2PsQczMcdb5DdohC) | 3:28 |
 | 47 | [Trying](https://open.spotify.com/track/0qIjJaTqu5fWGzL9L11d7r) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Trying](https://open.spotify.com/album/1oXSi0NPg5EOWxNMaUFZib) | 2:17 |
-| 48 | [Oh No, Pt\. 2](https://open.spotify.com/track/1cHmANSBDzxAWAKruCpc6m) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No, Pt\. 2](https://open.spotify.com/album/7seqV24vhfyk9pJRLqD7Wq) | 4:08 |
+| 48 | [Oh No \(Pt\. 2\)](https://open.spotify.com/track/1cHmANSBDzxAWAKruCpc6m) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No \(Pt\. 2\)](https://open.spotify.com/album/7seqV24vhfyk9pJRLqD7Wq) | 4:08 |
 | 49 | [Rise](https://open.spotify.com/track/6ecoJjIv2VpVaXyCF2CUwq) | [Jelle Visser](https://open.spotify.com/artist/1K3hwJyntNIK5UJmEgO40l), [Skiff](https://open.spotify.com/artist/360u7h1ZKFmPblevRYYH28) | [Rise](https://open.spotify.com/album/7DmiO9KL6orjMunsZ6IcmI) | 2:10 |
 | 50 | [Je M'en Fous](https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Je M'en Fous](https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd) | 2:57 |
 | 51 | [Young, Wild & Free](https://open.spotify.com/track/7Hs4pE0qAVak7p8BVboO33) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC) | [Young, Wild & Free](https://open.spotify.com/album/3Si9ovQvvUzhRJwVSoFCpS) | 2:22 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 58 | [Lighthouse](https://open.spotify.com/track/5oUBc4RIFqNW6j4dsdE8rd) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Lighthouse](https://open.spotify.com/album/5a5C8771p6Fo2KlwKqJuoJ) | 3:53 |
 | 59 | [Emily G](https://open.spotify.com/track/2I1GaaBS6JWn2ZfsCUkoxp) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Emily G](https://open.spotify.com/album/5Lz8IXtAaMhNfPO0b6eKia) | 5:47 |
 | 60 | [You & Me Makes Us](https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [You & Me Makes Us](https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg) | 2:56 |
-| 61 | [Antidote](https://open.spotify.com/track/2xU2W9p3gi9ZyX0L7rBF0F) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/5LlPRkM2T4UK4INb33AhhV) | 1:49 |
+| 61 | [Antidote](https://open.spotify.com/track/75qNRiB12VNzkg52Q13ojm) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/3tpdQGlDN7S3lGfDqrVaYk) | 1:49 |
 | 62 | [Het Is Altijd Zoals Het Hoort Te Zijn](https://open.spotify.com/track/6C0yRg8IDbRKTtwHNRXIN5) | [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [De Troubadours Vol\. 3](https://open.spotify.com/album/1ZNr717G6vANkGRgh2gAC8) | 3:37 |
 | 63 | [I Am Nothing \(Without You\)](https://open.spotify.com/track/2LiunkCrHRITKICHmCTiWy) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Distraction](https://open.spotify.com/album/4PS0Us41beukSX2KOqpHBc) | 3:08 |
 
-Snapshot ID: `MCw5ZjJjNzliOTlkZTk0YzkxOTViNmU4ZTc4ZjhmOTFjZDZkZDE2YWYy`
+Snapshot ID: `MCxhNDc3MGE3ZWYwMWQzOTA3YzkxMTE3OWNhZGU5NTBiZjI1MzkxNmRl`

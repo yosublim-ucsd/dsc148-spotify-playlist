@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Brand of Sacrifice
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,193 likes - 287 songs - 18 hr 24 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,200 likes - 287 songs - 18 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 3 | [Vessel of Suffering](https://open.spotify.com/track/3WggKw5QGXX9tcvkQyHq5p) | [Hulder](https://open.spotify.com/artist/65vrcJ67suxLePeEhUtLLo) | [Vessel Of Suffering](https://open.spotify.com/album/0tszKj1sh2azWncyNgc9Vh) | 3:56 |
 | 4 | [Jesus Wept](https://open.spotify.com/track/7GVFOmpSPzqqKWgOQvFwd1) | [Apex Predator](https://open.spotify.com/artist/53qLVEhC45AQjy3ThTRmlW) | [Jesus Wept](https://open.spotify.com/album/7yo0JKIvSz1GBozApXNs4J) | 2:16 |
 | 5 | [Paradise Failed \(feat\. Shadows Fall\)](https://open.spotify.com/track/2IoFXiUOo0OQGLRknL7XJc) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf), [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [Paradise Failed \(feat\. Shadows Fall\)](https://open.spotify.com/album/6SJUrr8XhPU3mCwfKpAXEV) | 3:40 |
-| 6 | [I Was a Teenage Nihilist](https://open.spotify.com/track/6VjuopTLuHqN8OPxKcab0o) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \(vol\. 9\)](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 1:32 |
+| 6 | [I Was a Teenage Nihilist](https://open.spotify.com/track/6VjuopTLuHqN8OPxKcab0o) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \[vol\. 9\]](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 1:32 |
 | 7 | [STRAITJACKET AFTERBIRTH](https://open.spotify.com/track/1XpGYpAK3SvsMIJv0zKfsM) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR), [SCARAB](https://open.spotify.com/artist/3DmQmled0fZTVhU9MEBSrX) | [AUTOMATIC DEATH PROTOCOL](https://open.spotify.com/album/3TV7pYsruvNpnvcWU5UiOc) | 3:29 |
 | 8 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 |
 | 9 | [Red Feasts Condensed into One](https://open.spotify.com/track/3XHKnuoLH9NbfeWzxxnuc0) | [Spectral Voice](https://open.spotify.com/artist/5I4bpzP0gZSVwceopnaoVb) | [Red Feasts Condensed Into One](https://open.spotify.com/album/5JrzE46rZ1ERhRdrQm2Ia2) | 12:51 |

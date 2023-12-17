@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 99354,
+  "num_followers": 99447,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTZhNzg0YWNmMzZhN2I2MDA1NDVmZWEwNThlZWM2OGEzNDRhYjNj",
+  "snapshot_id": "MCwxM2JhZDljZjA5MjgwMzhiNmNmYTU2YzkxMGUxMTA1MDM1ZGI3NDJj",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -758,6 +758,10 @@
         {
           "name": "Jamie xx",
           "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "MC Moose",
+          "url": "https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O"
         }
       ],
       "duration_ms": 291018,

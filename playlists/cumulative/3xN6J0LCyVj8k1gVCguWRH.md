@@ -4,7 +4,7 @@
 
 > Best songs of 2023 plus some of Obama&\#x27;s favorite summer songs\. Includes 22, &amp; 21 editions + bonus tracks.
 
-2,733 songs - 6 day 12 hr 5 min
+2,735 songs - 6 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [Don't Cry](https://open.spotify.com/track/7epHYaw8EVjnUwtn1qfMTN) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Don't Cry](https://open.spotify.com/album/7bGKmIXE9JPgak1iv4Xpvl) | 3:12 | 2022-01-21 | 2022-02-06 |
 | [Don't Drop That Monkey](https://open.spotify.com/track/5wAxmK678OPA493HCyVf4X) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Don't Drop That Monkey](https://open.spotify.com/album/2sdBGysYgNwjUU2qKU9LUt) | 3:32 | 2023-04-06 | 2023-04-28 |
 | [Don't Force It](https://open.spotify.com/track/3TgfsegE04ZAAohjNigwpx) | [Just Eric](https://open.spotify.com/artist/6dqTFdqy7M4rfOG3LUnci7) | [Don't Force It](https://open.spotify.com/album/1B9QXlK0ou8TSBnJqT2pqa) | 1:45 | 2021-08-18 | 2021-09-03 |
+| [Don't Go Solo on Me](https://open.spotify.com/track/5bfcGEl3QrVjW5Ntz4nOPO) | [David G Cross](https://open.spotify.com/artist/7HLWe6STJoi2O3AkbzUwjK) | [Don't Go Solo on Me](https://open.spotify.com/album/0Z3kusbysTRdWh6NWMGhvv) | 2:50 | 2023-12-16 |  |
 | [Don't Hate The Party](https://open.spotify.com/track/2xpnrZ4rekdmYVHc2z4iv4) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Don't Hate The Party](https://open.spotify.com/album/4mOpec4pumMLBjcdFoVbuw) | 3:48 | 2022-05-18 | 2022-06-05 |
 | [Don't Know Why](https://open.spotify.com/track/603Xjm60SSuB9mIGPyPSwh) | [Band of Coyotes](https://open.spotify.com/artist/2q1a1UBuTh6weuuYsS4ibO) | [Don't Know Why](https://open.spotify.com/album/7MMgfnybFH5tFtk3coCGlH) | 4:42 | 2020-01-06 | 2020-02-08 |
 | [Don't Let Go](https://open.spotify.com/track/1Uia9GCd5KW2z9PfxWTEcD) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Don't Let Go](https://open.spotify.com/album/3KAoxgNxgNaQ0kEmCw39nd) | 2:34 | 2023-01-09 | 2023-02-12 |
@@ -2716,6 +2717,7 @@
 | [You Don't Wanna Leave it Alone](https://open.spotify.com/track/5CeBqKJKkZtllzY5FaMPdd) | [J.E\. Sunde](https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW) | [You Don't Wanna Leave it Alone](https://open.spotify.com/album/0QIIAR2Ko4vEfb0kNjaQIg) | 3:02 | 2023-03-31 | 2023-04-23 |
 | [You Got Me \- Jonny Jukebox Remix](https://open.spotify.com/track/2eGBaMm9nJa7OSyXRi1uKu) | [Kady Rain](https://open.spotify.com/artist/3YF3JuP8XYLsZHsUFYC1Gg), [Jonny Jukebox](https://open.spotify.com/artist/2cG2HgkfyeAXZLlVaMCEF8) | [You Got Me \(Jonny Jukebox Remix\)](https://open.spotify.com/album/757Md6FetgnzIHLCTIiwHa) | 3:25 | 2021-05-28 | 2021-06-13 |
 | [You Know It's Right](https://open.spotify.com/track/3nIYAdueLM2QCaftvDfDYw) | [Steve Yanek](https://open.spotify.com/artist/0zoMMFw2wdVKjJxVDoui5e) | [You Know It's Right](https://open.spotify.com/album/6WpW2lCm2RMUuFT2DRHFOl) | 3:48 | 2022-04-15 | 2022-04-30 |
+| [You Know..](https://open.spotify.com/track/6ojEjcSt9DwxWYgRJVvSpo) | [2iO88](https://open.spotify.com/artist/30DnY0zTMtGdfet0JHrdjJ) | [You Know..](https://open.spotify.com/album/30iWKyZ5UarSoXjnySDyd0) | 2:29 | 2023-12-16 |  |
 | [You Like to Play with Fire](https://open.spotify.com/track/464m8uPkWScmviDsDwHQcg) | [Tea Janee](https://open.spotify.com/artist/2y8YKDHxaZvnrVXFDClXnt) | [You Like to Play with Fire](https://open.spotify.com/album/5AnrmlVlBpOeDUm5hgyffn) | 2:53 | 2022-12-09 | 2022-12-31 |
 | [you lost your light](https://open.spotify.com/track/77fY8qDdDUfHJXnSjel6wJ) | [TROJANA](https://open.spotify.com/artist/4Zho8e8mTmKUMXx4sO84hA), [Maximum](https://open.spotify.com/artist/5lD8jEwt5P9UHNAgHC8r5y) | [Resilience](https://open.spotify.com/album/6e1GE6snQDZc4SJwsZTH1P) | 1:51 | 2021-06-04 | 2021-06-20 |
 | [You Make Life Easy](https://open.spotify.com/track/1EykOKjCvMXiI57Xx524UU) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q) | [You Make Life Easy](https://open.spotify.com/album/4DWXzkjedLCh7qgoDASEKU) | 3:14 | 2021-07-02 | 2021-07-18 |

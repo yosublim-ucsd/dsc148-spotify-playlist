@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 752,341 likes - 100 songs - 5 hr 20 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 752,358 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 44 | [Haunted House](https://open.spotify.com/track/0lRWCC1H4Ik57AoCDywzPl) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/0kPDBpsKB8gnIePmj1pas7) | 3:01 |
 | 45 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
 | 46 | [I Like It With You](https://open.spotify.com/track/6rXoFj9Kc3B77t0h3asR5d) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [14/02](https://open.spotify.com/album/49L9LPfiRFp334a9If9igo) | 3:55 |
-| 47 | [Whole](https://open.spotify.com/track/06rm9eTLNGv1a8AgKszcAh) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [Whole](https://open.spotify.com/album/3AB9SGBNNZqSYrcUdzU4oX) | 2:13 |
+| 47 | [whole](https://open.spotify.com/track/06rm9eTLNGv1a8AgKszcAh) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [whole](https://open.spotify.com/album/3AB9SGBNNZqSYrcUdzU4oX) | 2:13 |
 | 48 | [Army](https://open.spotify.com/track/3j6s1vr84KzKlpF0QfHzDy) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Army](https://open.spotify.com/album/6DVaBrn0D40NiJCcL4faVZ) | 3:23 |
 | 49 | [Dreams](https://open.spotify.com/track/4j5zq53Fyu84lmY6UYO8yW) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Dreams](https://open.spotify.com/album/5qQgoVCtIoessL2xXUO6DX) | 3:35 |
 | 50 | [Symbolism](https://open.spotify.com/track/2RQWB4Asy1rjZL4IUcJ7kn) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism](https://open.spotify.com/album/5SYrSHZq6di4OzUqa3ZUbb) | 4:53 |

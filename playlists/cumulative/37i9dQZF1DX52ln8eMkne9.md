@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-316 songs - 23 hr 37 min
+317 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Fools Rush In](https://open.spotify.com/track/4dXLZtFAKOkbzLuMbkuyS4) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:07 | 2021-12-17 | 2022-07-28 |
 | [Fools Rush In](https://open.spotify.com/track/2XAOhnM8i1RaUTcbr4GDOn) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Starring Jo Stafford](https://open.spotify.com/album/4F7IiqL4ElX0lpUG8yQuZ9) | 3:08 | 2022-08-11 | 2023-11-18 |
 | [For All We Know](https://open.spotify.com/track/37HQHRDtFQ3H80fEgxiW9I) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [For All We Know](https://open.spotify.com/album/3V0kkAM0XktsMtD88qXHZO) | 5:05 | 2023-12-06 |  |
+| [For All We Know](https://open.spotify.com/track/0kx3X2Q2sf02QWmZ1O2Kh2) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [For All We Know](https://open.spotify.com/album/6QwB907QohtgBTpWgVrxbv) | 4:09 | 2023-12-13 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/00z0RSeWLAJ4GhOVPjkW6W) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 3:52 | 2023-05-30 | 2023-09-14 |
 | [For Heaven's Sake](https://open.spotify.com/track/3NaF1j4g2YbKcd2YkMZCzA) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa) | 3:52 | 2022-04-28 | 2023-01-24 |
 | [For The Want Of A Kiss \- Live](https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Unforgettable](https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V) | 3:01 | 2021-12-17 |  |
@@ -285,7 +286,7 @@
 | [Till There Was You](https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 2:06 | 2022-01-13 | 2022-11-30 |
 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 | 2021-12-17 | 2022-03-18 |
 | [Tis Autumn](https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK) | [Belle\-Skinner](https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA) | [Tis Autumn](https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS) | 2:10 | 2023-10-27 |  |
-| [Too Late](https://open.spotify.com/track/7cHyHmDiDTHkc88BdKHd9Y) | [Kristin Berardi](https://open.spotify.com/artist/1EqUnXUwgLiIB4yeITSHLs), [Miro Sprague](https://open.spotify.com/artist/4jyJaO0v3uJ6xPwj6wLpv1), [Marty Jaffe](https://open.spotify.com/artist/77PTPIIjkVSfDVlhaTozgY), [Jerome Jennings](https://open.spotify.com/artist/5VylmyXlKSkixZchRWjx7j) | [Too Late](https://open.spotify.com/album/4PQmBwEbCbg2eq4RJU1lf5) | 6:06 | 2023-05-30 |  |
+| [Too Late](https://open.spotify.com/track/7cHyHmDiDTHkc88BdKHd9Y) | [Kristin Berardi](https://open.spotify.com/artist/1EqUnXUwgLiIB4yeITSHLs), [Miro Sprague](https://open.spotify.com/artist/4jyJaO0v3uJ6xPwj6wLpv1), [Marty Jaffe](https://open.spotify.com/artist/77PTPIIjkVSfDVlhaTozgY), [Jerome Jennings](https://open.spotify.com/artist/5VylmyXlKSkixZchRWjx7j) | [Too Late](https://open.spotify.com/album/4PQmBwEbCbg2eq4RJU1lf5) | 6:06 | 2023-05-30 | 2023-12-17 |
 | [Triste](https://open.spotify.com/track/1N9e1myOWV26evyObwnkoM) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:09 | 2021-12-17 |  |
 | [Try Your Wings](https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [Try Your Wings](https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT) | 2:54 | 2023-04-20 |  |
 | [Try Your Wings](https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA) | 2:54 | 2023-02-23 | 2023-04-19 |

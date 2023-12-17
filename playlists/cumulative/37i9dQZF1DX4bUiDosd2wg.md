@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-226 songs - 16 hr 24 min
+228 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 | 2021-04-21 |  |
 | [By My Side](https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [Descendants Of The Sun Pt.8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5j0E7LsU7fWPc2UAfG7pdl) | 3:46 | 2021-04-21 |  |
 | [Come back to me](https://open.spotify.com/track/6giVIUnYtPt65tRmTKMbzh) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [VIBE IN PRAHA](https://open.spotify.com/album/4OCkcwSER9boDvzxEdlh6c) | 4:59 | 2021-04-21 |  |
-| [Cosmos](https://open.spotify.com/track/7EAakQcoaMfAUTBLhAhMco) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Clean With Passion For Now, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/3dFE4VvUMNloDqoq5eInUk) | 4:13 | 2021-04-21 |  |
+| [Cosmos](https://open.spotify.com/track/7EAakQcoaMfAUTBLhAhMco) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Clean With Passion For Now, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/3dFE4VvUMNloDqoq5eInUk) | 4:13 | 2021-04-21 | 2023-12-17 |
+| [Cosmos](https://open.spotify.com/track/35zlb9CNR4eAaApeBf9DIi) | [Huhgak](https://open.spotify.com/artist/16UoIs2XQBPrSg0LAH0N9y) | [Clean With Passion For Now, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/3WuQoJSNfbgY1O0fa0oEt6) | 4:13 | 2021-04-21 |  |
 | [Crazy](https://open.spotify.com/track/6gjmCJkyh45kw4vN7gv99o) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Your Diary](https://open.spotify.com/album/7Dhtxv7ePGy2nBTULdNt9s) | 3:34 | 2021-04-21 |  |
 | [Day By Day](https://open.spotify.com/track/7Dy7Z4E2LTh7v7mIMOMGQi) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 3:38 | 2021-04-21 |  |
 | [Desire and resent](https://open.spotify.com/track/7KZmUfFueGiWXRqUz6a3F5) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [When a man loves a woman](https://open.spotify.com/album/5jJ45p8F7WXGbfx4iyV7W1) | 4:07 | 2021-04-21 |  |
@@ -98,7 +99,8 @@
 | [Only One Person](https://open.spotify.com/track/5ocuqdZv7Wk5asVm7yAixv) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:16 | 2021-04-21 |  |
 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 | 2021-04-21 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/2lMPtp9AVY3LkKreXg38gm) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/4za0GMxinuMP0B1B504Qyv) | 3:54 | 2021-04-21 | 2023-06-04 |
-| [P.S.I LOVE YOU](https://open.spotify.com/track/1T1QoOL9HT3DA68kIh17xL) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece / 1집](https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT) | 3:54 | 2021-04-21 |  |
+| [P.S\. I Love You](https://open.spotify.com/track/3pdjuJyzeaF4Wa7ey20Kp0) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/3xwclNQx4vY9Axr6x3Giib) | 3:56 | 2021-04-21 |  |
+| [P.S.I LOVE YOU](https://open.spotify.com/track/1T1QoOL9HT3DA68kIh17xL) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece / 1집](https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT) | 3:54 | 2021-04-21 | 2023-12-17 |
 | [People Who Make Me Sad](https://open.spotify.com/track/6loLQb2ytcaxiFAWE6s19R) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [Kim Kyungho 1997](https://open.spotify.com/album/40sjgUIzAZJIO8UpgMoLRQ) | 4:20 | 2021-04-21 |  |
 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 | 2021-04-21 |  |
 | [Rain dropping](https://open.spotify.com/track/19f2WoGrzzevLOkE8FbFOD) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [Personal Taste \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1e7KeqdiGOcWEnFAUBJzVi) | 3:52 | 2021-04-21 |  |

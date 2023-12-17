@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-138 songs - 7 hr 41 min
+140 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Howlin'](https://open.spotify.com/track/0VauXNyCPoRumexBquycYR) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Bury Me](https://open.spotify.com/album/5bH0uvRjdLCrxG73wayab9) | 2:56 | 2022-08-31 |  |
 | [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 | 2021-02-12 | 2023-12-09 |
 | [I See Myself](https://open.spotify.com/track/4TPEq6x5AKefHfLyyyfEu5) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [I See Myself](https://open.spotify.com/album/5ojArqyhIj2WI9z4TBuCgL) | 3:00 | 2023-06-23 |  |
-| [I Wish I Was An Angel](https://open.spotify.com/track/0pVOOew4ywu5YFAbPh7Jfy) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [I Wish I Was An Angel](https://open.spotify.com/album/5j0UDDZFEfwb3hxAOSdYX6) | 2:22 | 2023-09-22 |  |
+| [I Wish I Was An Angel](https://open.spotify.com/track/0pVOOew4ywu5YFAbPh7Jfy) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [I Wish I Was An Angel](https://open.spotify.com/album/5j0UDDZFEfwb3hxAOSdYX6) | 2:22 | 2023-09-22 | 2023-12-17 |
+| [I Wish I Was An Angel](https://open.spotify.com/track/2Efifc8Ly5EZTt8Dvk7M3A) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 2:22 | 2023-09-22 |  |
 | [I'm so Happy I Cry \(feat\. Tank\)](https://open.spotify.com/track/2ZagwBX7kXRGC767ZVBt0H) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [I'm so Happy I Cry \(feat\. Tank\)](https://open.spotify.com/album/3QxSxnvXPvwjXM5jAYw4hC) | 3:24 | 2021-02-12 |  |
 | [In the Middle](https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In the Middle](https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX) | 3:34 | 2021-02-12 | 2023-08-31 |
 | [In the Middle](https://open.spotify.com/track/3IX0msf7S9YSOISmcHzttc) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In the Middle](https://open.spotify.com/album/6bcxjiyh1HDJOB83TmpRir) | 3:37 | 2022-08-31 |  |
@@ -140,7 +141,8 @@
 | [Too Bad](https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Desert Dreams](https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj) | 3:10 | 2021-02-12 | 2023-04-29 |
 | [Too Bad](https://open.spotify.com/track/57pB9r5nTsngcIWivigDxQ) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Too Bad](https://open.spotify.com/album/7JKSnFB0Xl6bkcMfHbQK8n) | 3:10 | 2021-02-12 | 2022-07-29 |
 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 | 2022-08-31 |  |
-| [Walls](https://open.spotify.com/track/2Dnr5QCVLG0jPrC7XweC7E) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [True Love Is Dead](https://open.spotify.com/album/3iL3BH10DzqzBhmvxjkKhi) | 3:00 | 2023-04-07 |  |
+| [Walls](https://open.spotify.com/track/2Dnr5QCVLG0jPrC7XweC7E) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [True Love Is Dead](https://open.spotify.com/album/3iL3BH10DzqzBhmvxjkKhi) | 3:00 | 2023-04-07 | 2023-12-17 |
+| [Walls](https://open.spotify.com/track/3LMiz4T6wBbuGRRGHBo2yv) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 3:00 | 2023-04-07 |  |
 | [Walls](https://open.spotify.com/track/3QFAO7ZN8wxBl5eEEwgZ6a) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Walls](https://open.spotify.com/album/0JQSivRdAZw6cCwtdl3f4I) | 3:00 | 2023-04-07 | 2023-09-15 |
 | [Watch Yo Mouf](https://open.spotify.com/track/6VM4509PIwTpt2sKR5XMlR) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Wings and Blue Cheese](https://open.spotify.com/album/6SVJvFoVij5TG39JhWkoBA) | 2:42 | 2021-02-12 | 2022-07-29 |
 | [Watch Yo Mouf](https://open.spotify.com/track/6sJYiMRXLKF2JflTtzKs9U) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Wings and Blue Cheese](https://open.spotify.com/album/5dKt7PvytEEmmXv7mqbuw2) | 2:42 | 2021-02-12 |  |

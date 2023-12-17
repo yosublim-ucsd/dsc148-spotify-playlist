@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: Humane The Moon
 
-269 songs - 14 hr 34 min
+270 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [A Sudden Loss of Vision](https://open.spotify.com/track/02vlqHSIMCznQmjoC84p41) | [Building Giants](https://open.spotify.com/artist/4geUnENr5Fi084oCQrhukM) | [Life Is Long and Everything Is Terrible](https://open.spotify.com/album/1L9Op4qXyO9bTJ5WL8KTp7) | 4:52 | 2023-03-24 | 2023-07-07 |
 | [A Track In Orbit](https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [A Track In Orbit](https://open.spotify.com/album/6z9DSUTU2QjEX91HR0R0Te) | 2:31 | 2023-11-18 |  |
 | [Accidental Doom](https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Accidental Doom](https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr) | 4:13 | 2023-10-13 |  |
-| [Adore Adore Adore](https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Adore Adore Adore](https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi) | 2:37 | 2023-06-08 |  |
+| [Adore Adore Adore](https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 2:37 | 2023-11-18 |  |
+| [Adore Adore Adore](https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Adore Adore Adore](https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi) | 2:37 | 2023-06-08 | 2023-12-17 |
 | [Alter Ego](https://open.spotify.com/track/1miBcqjGpcoTBcdjnFjJrG) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Alter Ego](https://open.spotify.com/album/0vC6K5RFvqdE2CSpYZQXIz) | 2:20 | 2023-01-13 | 2023-03-25 |
 | [AMERICA'S NEXT TOP MODEL](https://open.spotify.com/track/2bZeCw3SEcY0uMq2bdhFGc) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [AMERICA'S NEXT TOP MODEL](https://open.spotify.com/album/5ikznb8ESMJCEskirCSFGl) | 2:55 | 2023-03-03 | 2023-06-09 |
 | [Amor](https://open.spotify.com/track/6ykD5g5JQ4n5iQKstly8M2) | [Passionflower](https://open.spotify.com/artist/2JDENMXTGFUFtq5sE3Pohr) | [Amor](https://open.spotify.com/album/5xAMwGNFraXPC04VF3PtRX) | 4:02 | 2023-02-10 | 2023-04-22 |

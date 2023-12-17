@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Yoly Saa.
 
-486 songs - 1 day 5 hr 28 min
+487 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Camposanto](https://open.spotify.com/track/2yn6VHPMXU4RPnENTQSHLH) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Camposanto](https://open.spotify.com/album/6Bd3L7gZ9ZxKYSWtIjJHjP) | 3:27 | 2022-11-11 | 2023-01-06 |
 | [Camí amunt](https://open.spotify.com/track/1e1EE2uHgjoLHTxkjBiGVZ) | [Júlia Colom](https://open.spotify.com/artist/2FGexWthFJnvymvErkOPaI) | [Camí amunt](https://open.spotify.com/album/0Br95cXHBcJDA5ckTZ1wsX) | 4:17 | 2021-12-24 | 2022-01-12 |
 | [Canción Con Vos](https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c) | [Alejandro Balbis](https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti) | [Sin Remitente](https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho) | 3:11 | 2021-12-24 | 2023-06-17 |
+| [Canción de boda](https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd) | [Christina Rosenvinge](https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Los versos sáficos](https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi) | 3:34 | 2023-12-15 |  |
 | [Canción para morir](https://open.spotify.com/track/7dPsBfSXOJ2cacwuhj1T4H) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Mansalva](https://open.spotify.com/artist/27LrllSSvBViU6I1Kg7qS5) | [Canciones de tapa blanca y negra](https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS) | 2:02 | 2023-06-16 | 2023-07-01 |
 | [Candor](https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui) | [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Laura Chinelli](https://open.spotify.com/artist/5vtYPQtCS5vJwVJmXKKx71) | [Candor](https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX) | 4:52 | 2023-06-23 |  |
 | [Canta, miña compañeira](https://open.spotify.com/track/7sEO7d6ToY5C2ObEkeJAVA) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Canta, miña compañeira](https://open.spotify.com/album/3oqLUn4jbB7olSampyHXfb) | 3:35 | 2022-10-15 | 2022-11-26 |
@@ -444,7 +445,7 @@
 | [Todo o nada](https://open.spotify.com/track/7JcGt3lxb68CDpLzjoP3gl) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Todo o nada](https://open.spotify.com/album/7LzhNFqwqixFNNjr00VJVx) | 3:02 | 2023-09-29 | 2023-12-09 |
 | [Todo y Nada](https://open.spotify.com/track/3JC9mTwpw2FMbvSjFaFYx8) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Todo y Nada](https://open.spotify.com/album/5lHEIjkxkFOc23ZVWn2YrT) | 2:20 | 2022-12-23 | 2022-12-29 |
 | [Tonada de Luna Llena](https://open.spotify.com/track/69C2N9AXxR0NR05IQuBd8C) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Un Viajecito](https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr) | 4:42 | 2023-02-17 | 2023-03-11 |
-| [Tranquilo, Mi Corazón](https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Prenderé Una Velita](https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI) | 3:15 | 2023-12-15 |  |
+| [Tranquilo, Mi Corazón](https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Prenderé Una Velita](https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI) | 3:15 | 2023-12-15 | 2023-12-17 |
 | [Trataré](https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:50 | 2022-04-25 |  |
 | [Trenca'm](https://open.spotify.com/track/4Xs3rkhvdnGD16th3tYS1N) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Joia](https://open.spotify.com/album/51Jxy7KcajXwq86YBjG2NX) | 2:33 | 2021-12-24 | 2022-01-11 |
 | [TRIGAL](https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 3:02 | 2023-05-29 | 2023-10-01 |

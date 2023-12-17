@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,368 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,377 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 28 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 |
 | 29 | [You Up?](https://open.spotify.com/track/21CbczKNP8Yywnjf5NntrX) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3), [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [You Up?](https://open.spotify.com/album/1rsupM2ZVDh0hT8kXlbVvY) | 2:51 |
 | 30 | [ANTHRACITE](https://open.spotify.com/track/54DFjGO1KjqoVdSX8RCAsR) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh), [Wovensound](https://open.spotify.com/artist/5EdTcCnecu4gcvXdZHqsfq), [Khalif Rawi](https://open.spotify.com/artist/5v4YVpkGC55ywh3z8jRSXm), [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS), [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [ANTHRACITE](https://open.spotify.com/album/7AweqXDh94rtUmPnklygfG) | 3:27 |
-| 31 | [BREAD](https://open.spotify.com/track/59it86nwBAA8Z6IgaJRjxY) | [nkei](https://open.spotify.com/artist/6DS6uiPxL0Sardq5cfls4O) | [BREAD](https://open.spotify.com/album/1gJP7py7iWVnJr8f2BgGfJ) | 2:17 |
+| 31 | [Bread](https://open.spotify.com/track/59it86nwBAA8Z6IgaJRjxY) | [nkei](https://open.spotify.com/artist/6DS6uiPxL0Sardq5cfls4O) | [Bread](https://open.spotify.com/album/1gJP7py7iWVnJr8f2BgGfJ) | 2:17 |
 | 32 | [Everything I'll Ever Need](https://open.spotify.com/track/1LNuTFBRjXPh9HqS6Nevv5) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [Everything I'll Ever Need \- 雷亞遊戲《DEEMO II》片尾曲](https://open.spotify.com/album/47T4Pwammcbuh7RJrIOujK) | 3:16 |
 | 33 | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2) | 2:45 |
 | 34 | [Really good cry](https://open.spotify.com/track/3wTgyWjqIU4tg25T7qqm9l) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Really good cry](https://open.spotify.com/album/0RrCpHGFKTEyQdi7sdJuzj) | 1:54 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 64 | [can't live without you](https://open.spotify.com/track/2MAz49rgBhaEEDr9gaGMLN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [can't live without you](https://open.spotify.com/album/32gnVGc44UuwB6VzKdCdp4) | 3:47 |
 | 65 | [CLOSER](https://open.spotify.com/track/0jnNq7oQlbIt4Junfy1aHT) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [CLOSER](https://open.spotify.com/album/0z0LGO3fqevrJKVodLmLuG) | 2:22 |
 
-Snapshot ID: `MCxjNDk0ZjkxODA1MjdkMmY2ZDU4ODlmMDZmYWQ0MjIxYTU5NjA3MWVm`
+Snapshot ID: `MCw3ZWQwYzRlMDFlODVjMmI2NDgzNzlhNmQxNTI0N2VmM2FmYzg1ZmRk`

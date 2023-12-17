@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,674 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,697 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 13 | [That's A Lyric Ya Know](https://open.spotify.com/track/7jzzNfVBZHJGlcBdU7yp4t) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/3lwaweybTBFV0zWi9irzlc) | 4:24 |
 | 14 | [Ruckus](https://open.spotify.com/track/6g2UF3rnM1OnxnTVycQFgU) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [Ruckus](https://open.spotify.com/album/1cssfu7lB2KABLvhpNLXFg) | 4:32 |
 | 15 | [Dance Again](https://open.spotify.com/track/7CmCmJbOnytbrybfbclZ71) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Dance Again](https://open.spotify.com/album/3DmJD3FSP8XIvi40lWdB6K) | 3:25 |
-| 16 | [Tempest](https://open.spotify.com/track/4KmY87fV2G2UoQg0FeM2Qe) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5) | [Tempest / You Want It All](https://open.spotify.com/album/5TFQcoOawAAPjTOZaMWn5X) | 5:24 |
+| 16 | [Tempest](https://open.spotify.com/track/6R2XBRs8RvW32ghQvZjm4V) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5) | [Tempest / You Want It All](https://open.spotify.com/album/4xjWqduKl8oLdwlJVqf7R1) | 5:24 |
 | 17 | [Yagga Yagga](https://open.spotify.com/track/0MlPQbWano66UAk68eMSnF) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5cQjxfc0PLl9FZ6g8blq8A) | 4:17 |
 | 18 | [Scolopendra](https://open.spotify.com/track/6jksSD9J5YYasBSN4OxG5D) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Scolopendra](https://open.spotify.com/album/6DAamdGnhHifJ4W851MzoP) | 3:30 |
 | 19 | [Bury a Sound](https://open.spotify.com/track/6LreXH3k2XCc9eHRHhKTXC) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 49 | [All Night](https://open.spotify.com/track/0MQyfSkAFO27Ki90MKnkcs) | [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All Night](https://open.spotify.com/album/5WGeVk6PF7WZ9kWeN4xfCL) | 3:37 |
 | 50 | [Here Comes](https://open.spotify.com/track/2FlFInnKJTaP5YBMf6dax6) | [Melinki](https://open.spotify.com/artist/71BxfcyzIwRxmdx2BRYDVD) | [Here Comes](https://open.spotify.com/album/1ppwK870Dyp5CTKK94f11w) | 4:55 |
 
-Snapshot ID: `MCwxNjNlNmQxNTRlZTQ0MmNkOWJmMWIzNjE0ZTJkOGQwNDM0ZDkyMTQ2`
+Snapshot ID: `MCw5OGUwZTllNTViNDA1OWUxMjQzOTVkOWY1Yjc5NGY4MDRiMGEzMDRi`

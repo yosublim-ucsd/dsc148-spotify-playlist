@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,804 likes - 85 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,849 likes - 85 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [More Bounce to the Ounce](https://open.spotify.com/track/3Ho35OJixLg20qshXRgfBs) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 5:12 |
 | 2 | [Give Life Back to Music](https://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:35 |
-| 3 | [Goodbye Earth](https://open.spotify.com/track/6xjKMuVMz0om4n5CA8S7Kl) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR), [astreaux.](https://open.spotify.com/artist/2mpuoJyvskmbVZfvOrlHmL) | [Groovin' Through the Galaxy](https://open.spotify.com/album/1QFxPz9HrcIwZPf7Mrg8ON) | 3:44 |
+| 3 | [Goodbye Earth](https://open.spotify.com/track/6xjKMuVMz0om4n5CA8S7Kl) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR), [Astroblk](https://open.spotify.com/artist/4Tn7gmQeVm50AYKe9jTYBu) | [Groovin' Through the Galaxy](https://open.spotify.com/album/1QFxPz9HrcIwZPf7Mrg8ON) | 3:44 |
 | 4 | [Funkadelic Sound](https://open.spotify.com/track/4Nh2oQHhRcVy16qYbRQ2Fw) | [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My Time](https://open.spotify.com/album/0m5koUYDRGH9y53Kv9v9kV) | 3:22 |
 | 5 | [Customized](https://open.spotify.com/track/1GlAErHGsY4EVlmx9v12Iq) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Customized](https://open.spotify.com/album/6cTbL1vRVLNLF4RoNxr4rA) | 3:17 |
 | 6 | [Tell Everybody](https://open.spotify.com/track/07Y2w7XP9eNhzwZuXUI72R) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Feets Don't Fail Me Now](https://open.spotify.com/album/3EzImBJBzD8gBwT6YNBbht) | 7:12 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 84 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 |
 | 85 | [Pomslap](https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ) | 4:04 |
 
-Snapshot ID: `MCw2NjYyMWYzZDU0ZWUyNzJiZTM3YTdmOTI3ZWYxNzBhYjI2NTViNmIz`
+Snapshot ID: `MCw0YTYzZDVlNWNjMmM2ZWY0ODQ2ZjU5MjI3N2U5N2E3NTIxNDUzZmJk`

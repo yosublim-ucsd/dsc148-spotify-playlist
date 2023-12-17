@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SERA, YouNotUs
 
-4,255 songs - 9 day 7 hr 30 min
+4,256 songs - 9 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-20 | 2023-10-27 |
 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 | 2023-06-29 | 2023-07-07 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-27 | 2023-08-04 |
-| [Antidote](https://open.spotify.com/track/2xU2W9p3gi9ZyX0L7rBF0F) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/5LlPRkM2T4UK4INb33AhhV) | 1:49 | 2023-12-14 |  |
+| [Antidote](https://open.spotify.com/track/2xU2W9p3gi9ZyX0L7rBF0F) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/5LlPRkM2T4UK4INb33AhhV) | 1:49 | 2023-12-14 | 2023-12-17 |
+| [Antidote](https://open.spotify.com/track/75qNRiB12VNzkg52Q13ojm) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/3tpdQGlDN7S3lGfDqrVaYk) | 1:49 | 2023-12-15 |  |
 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 | 2023-06-29 | 2023-07-07 |
 | [Anything](https://open.spotify.com/track/04jQY5VHHilNqaWCabuSzz) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Anything](https://open.spotify.com/album/54sLwWesyZgbm1a14PYq9X) | 3:07 | 2023-08-17 | 2023-08-25 |
 | [Anywhere](https://open.spotify.com/track/5BiB9w5K8EKxLZdSd2MYIa) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Anywhere](https://open.spotify.com/album/719065Ibz4lqwB9wr8cYNG) | 3:50 | 2023-06-01 | 2023-06-09 |
@@ -758,7 +759,7 @@
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-20 | 2023-07-28 |
 | [Cool, Calm & Collected](https://open.spotify.com/track/0MFfMCeftg8A29jwy6OkTm) | [GANGS OF KIN](https://open.spotify.com/artist/6xXWKUTZLWGPRMgkurznME) | [Cool, Calm, & Collected](https://open.spotify.com/album/3qdWEGsdbbALAaW1ShBFKG) | 2:19 | 2023-06-29 | 2023-07-07 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-29 | 2023-07-07 |
-| [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:14 | 2023-12-14 |  |
+| [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 | 2023-12-14 |  |
 | [Corner Boy](https://open.spotify.com/track/6qpmjlIm1LaR0xiP8HzZyP) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Corner Boy](https://open.spotify.com/album/7vOI3P6fVaFu02dk1mbUZE) | 2:49 | 2023-03-17 | 2023-03-25 |
 | [Could it be Love?](https://open.spotify.com/track/2W8MemGNK0K5oeroC3pnIi) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Could it be Love?](https://open.spotify.com/album/5ksPMGBBwGwgWYTQjalDaJ) | 2:34 | 2023-09-28 | 2023-10-06 |
 | [Couldn’t Make It Up](https://open.spotify.com/track/7s59X5LAdm9G2HUV7k62DS) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Couldn't Make It Up](https://open.spotify.com/album/7x4nXw3hbF9h5GORc16WSV) | 3:55 | 2023-04-20 | 2023-04-28 |
@@ -2671,8 +2672,8 @@
 | [oh my darling](https://open.spotify.com/track/5fL0JKdjYILhyMPd3TaU8t) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [after](https://open.spotify.com/album/54UUb12qEaSSlMf3dpMtBi) | 4:07 | 2023-04-13 | 2023-04-21 |
 | [Oh My God](https://open.spotify.com/track/2Av6v0nMDnk5PTJicInRKF) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Growing Into Me](https://open.spotify.com/album/4pM1qCHUxStDmBS23imvPV) | 2:48 | 2023-07-13 | 2023-07-21 |
 | [Oh No](https://open.spotify.com/track/7IG3gcKPwyYfaZFIQ5gjJ6) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Oh No](https://open.spotify.com/album/6VQlWd6kGVNNeqeykv6Vhm) | 3:27 | 2023-04-13 | 2023-04-21 |
+| [Oh No \(Pt\. 2\)](https://open.spotify.com/track/1cHmANSBDzxAWAKruCpc6m) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No \(Pt\. 2\)](https://open.spotify.com/album/7seqV24vhfyk9pJRLqD7Wq) | 4:08 | 2023-12-15 |  |
 | [Oh No \(Pt\. 2\)](https://open.spotify.com/track/7ppapk8LyD7fRS1KkOHyWw) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No \(Pt\. 2\)](https://open.spotify.com/album/5Hnuvo0FsD2vgVPp8FHHEN) | 4:08 | 2023-12-14 | 2023-12-16 |
-| [Oh No, Pt\. 2](https://open.spotify.com/track/1cHmANSBDzxAWAKruCpc6m) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No, Pt\. 2](https://open.spotify.com/album/7seqV24vhfyk9pJRLqD7Wq) | 4:08 | 2023-12-15 |  |
 | [Oh Sorry](https://open.spotify.com/track/5ihR0VTq5aBnb7v8qMBckn) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Maar Verder Gaat Het Goed](https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO) | 3:08 | 2023-04-20 | 2023-04-28 |
 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 | 2023-06-08 | 2023-06-16 |
 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2023-06-23 | 2023-06-30 |

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250880,
+      "name": "Disnei",
+      "url": "https://open.spotify.com/track/3HWakFXPrhNf8zSJzI77eN"
+    },
+    {
+      "album": {
         "name": "De Angeles Y Dem\u00e1s Demonios",
         "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 184333,
       "name": "El Sue\u00f1o Acabo",
       "url": "https://open.spotify.com/track/2zuFUTqPwwaTewxtOuiuQ3"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 299761,
       "name": "Solo (En Vivo)",
       "url": "https://open.spotify.com/track/01kq9SxOF4oh8rMHxtXr48"

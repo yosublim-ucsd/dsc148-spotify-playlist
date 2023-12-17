@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: BUMP OF CHICKEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,641 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,728 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [アカネイロフィフティーン](https://open.spotify.com/track/0TWyCnlOry1DUHrpsLegJJ) | [Scenarioart](https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV) | [アカネイロフィフティーン](https://open.spotify.com/album/3wdaM1kluUAK1j1EGIoQ4V) | 3:33 |
 | 100 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 |
 
-Snapshot ID: `MCxiY2VjMTU5YzU3MzdlOWUyYjE4MGMyMWEyM2VmZWU4NGM3YWIwZjEy`
+Snapshot ID: `MCxkNjNhZTVmN2MyMzcwZTQ5YzAwYzA3MjNiYWM4NTE4NDVjNDUzMzQ5`

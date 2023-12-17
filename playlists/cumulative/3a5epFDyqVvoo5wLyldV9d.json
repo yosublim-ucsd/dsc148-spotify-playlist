@@ -1905,6 +1905,28 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1ezmRzKDbp5Mkbo4YDlUJ5"
+      },
+      "artists": [
+        {
+          "name": "Frank Harris",
+          "url": "https://open.spotify.com/artist/4OFxfuBQMZXt0C0zdaKL3n"
+        },
+        {
+          "name": "Maria Marquez",
+          "url": "https://open.spotify.com/artist/3zOkRbObx7ELfEpCzc8geE"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228484,
+      "name": "Campesina",
+      "url": "https://open.spotify.com/track/2Fv8NLIkcVmYpegH90BcO4"
+    },
+    {
+      "album": {
         "name": "Trio Delfines",
         "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
       },

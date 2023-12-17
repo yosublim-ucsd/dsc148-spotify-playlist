@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: David Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,603 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,638 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 48 | [Every Little Drop \(Edit\)](https://open.spotify.com/track/796JQcRYU4x0oO17xmh9xs) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Richard x](https://open.spotify.com/artist/1U3sbewNFRq4oyhUWZinMi) | [Every Little Drop \(Edit\)](https://open.spotify.com/album/7bE9IkWBXiHK6Tv35lPZ6B) | 3:35 |
 | 49 | [Set You Free](https://open.spotify.com/track/1hRTVpNilLWj2un5mlKUjh) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Set You Free](https://open.spotify.com/album/55NADInZR3P0WdgcEBWoDE) | 3:24 |
 | 50 | [Flashdance](https://open.spotify.com/track/5uX2V4SorgKwBJ8BYP5hn2) | [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0), [Wiener Planquadrat](https://open.spotify.com/artist/2Amzhh6sZVPRCo43KZDvvl) | [Flashdance](https://open.spotify.com/album/1Gtay71rNiqg0EK6THT69A) | 4:52 |
-| 51 | [The Same](https://open.spotify.com/track/1CVsGcOxtoEAqKyIT1ZbZk) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [The Same](https://open.spotify.com/album/1OapbmDsoY1AgT8xqhWFlU) | 4:13 |
+| 51 | [The Same](https://open.spotify.com/track/7uM8OU0rcqIeICZDNYoUpm) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [The Same](https://open.spotify.com/album/31bXet6ZbPFknvepd4JF6D) | 4:13 |
 | 52 | [Energy](https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 3:14 |
 | 53 | [This Life \(feat\. Tom Smith\)](https://open.spotify.com/track/4I7874tDqZCophpQwyMsEj) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [This Life \(feat\. Tom Smith\)](https://open.spotify.com/album/3lorSURnDgAL373NgbkvRz) | 4:08 |
 | 54 | [Everything](https://open.spotify.com/track/3q31VYWuho2mEqIkNaH0Kw) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Everything](https://open.spotify.com/album/6wvOvnTGgvM1V0HWn76daC) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [BORDERLINE](https://open.spotify.com/track/4ghwnq3kfUM5r8PKrSZscF) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [BORDERLINE](https://open.spotify.com/album/4BmrsCGYrgr60Hwrj3JsqF) | 5:46 |
 | 75 | [One Last Call](https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Lola Melita](https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI) | [One Last Call](https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei) | 2:38 |
 
-Snapshot ID: `MCw5YTcyYTM2NzVhMzcxM2FiMzU2ZmQ1MTY2YmQ3NzVkOWI1MzE5NWY4`
+Snapshot ID: `MCwyODM2ODY0N2U4MmYyOTI3MTY4M2Q3NzhlOWQ0NzJmYjk2YzM1MzJj`

@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-102 songs - 5 hr 32 min
+103 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Fire \(With BRAND NEW CHILD, K L W C\)](https://open.spotify.com/track/5dv9gqcgEs1Yj36AJQ5NID) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:12 | 2022-05-22 |  |
 | [Flip It](https://open.spotify.com/track/0W3ekPhkpDFjAym6E5RdPM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/20iyYKtw1KjMRsMZWMPpVY) | 2:56 | 2023-10-06 |  |
 | [For You](https://open.spotify.com/track/6bfmUjaeIiTjpOqHtFIiVf) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA](https://open.spotify.com/album/3DOoKGlWO9lNsKQAxa0DJ1) | 3:44 | 2022-05-22 |  |
-| [Getaway](https://open.spotify.com/track/172SQ12T5WAyUPa4153LsX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/7x1R29OcIJcyBbn1adBioq) | 3:48 | 2022-07-04 |  |
+| [Getaway](https://open.spotify.com/track/172SQ12T5WAyUPa4153LsX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/7x1R29OcIJcyBbn1adBioq) | 3:48 | 2022-07-04 | 2023-12-17 |
+| [Getaway](https://open.spotify.com/track/41nBWFdECOtxYnygCpL6AH) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/7nwFxexvXGarWydafSsUrC) | 3:48 | 2023-10-06 |  |
 | [Getaway](https://open.spotify.com/track/5pWd8NRoi9yY1K2Fz9nIVh) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife Pt.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1165v6khbvLivXLeu5JaMT) | 3:48 | 2022-05-22 | 2022-07-29 |
 | [Giant](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [A Page](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) | 3:29 | 2022-05-22 |  |
 | [GIANTS](https://open.spotify.com/track/5C0ivQMxes2lWuOANhvVAm) | [True Damage](https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [GIANTS](https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO) | 3:11 | 2022-05-22 |  |

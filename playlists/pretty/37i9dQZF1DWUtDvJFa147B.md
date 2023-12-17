@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,711 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,727 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 46 | [Please \- 경기천 버스킹 Version](https://open.spotify.com/track/0p1kKErUMnuIM0XYsfqHvu) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Begin Again Korea, Episode\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Y3lW9YKV6TQj5X2qct85r) | 4:02 |
 | 47 | [Back In Time \- 파킹랏 버스킹 Version](https://open.spotify.com/track/21VmteICN34B9Z14zxEcEY) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Begin Again Korea, Episode\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Y3lW9YKV6TQj5X2qct85r) | 3:46 |
 | 48 | [Begin Again Korea, Episode\. 9 \(Original Television Soundtrack\)\-Deep in the Night \- 식물원 버스킹 Version](https://open.spotify.com/track/3kfC55jlkZY7F0tCJ7fOpI) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [Begin Again Korea, Episode\. 9 \(Original Television Soundtrack\)\-Deep in the Night](https://open.spotify.com/album/6Qxedv8slkl3WRtuhokuBM) | 3:45 |
-| 49 | [End of a day \(From The Original TV Show "Begin Again Korea"\) \(Live\)](https://open.spotify.com/track/0Nicbvl7GW0TWXn9V47oty) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea, Episode\. 10 \(From The Original TV Show "Begin Again Korea"\) \(Live\)](https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf) | 4:52 |
-| 50 | [You in my arms \(From The Original TV Show "Begin Again Korea"\) \(Live\)](https://open.spotify.com/track/3R1pb4dWmpMLqxfrwMep2u) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea, Episode\. 10 \(From The Original TV Show "Begin Again Korea"\) \(Live\)](https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf) | 5:13 |
+| 49 | [End of a day \(From The Original TV Show "Begin Again Korea"\) \- Live](https://open.spotify.com/track/4s9G0ApVwrNfuGgDZYfKqp) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea Episode.10 \(Original Television Soundtrack\) \[Live\]](https://open.spotify.com/album/2Wy3SFlvm29GzOcbNczLWV) | 4:52 |
+| 50 | [You in my arms \(From The Original TV Show "Begin Again Korea"\) \- Live](https://open.spotify.com/track/3dA3EVZKyoeH5RG5esZLhR) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea Episode.10 \(Original Television Soundtrack\) \[Live\]](https://open.spotify.com/album/2Wy3SFlvm29GzOcbNczLWV) | 5:13 |
 | 51 | [Begin Again Korea, Episode\. 10\-1 \(Original Television Soundtrack\)\-Faded \- 마리나 버스킹 Version](https://open.spotify.com/track/1PJq0yhV2R33uMi5OtvHnS) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Begin Again Korea, Episode\. 10\-1 \(Original Television Soundtrack\)\-Faded](https://open.spotify.com/album/4mP771XKzyrGGmBds8RWGh) | 3:42 |
 | 52 | [It's You \(서울 버스킹 Ver.\)](https://open.spotify.com/track/66Tgxo9sHMxNrXKheuSC30) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [박정현](https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0), [하림](https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo), [임헌일](https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO) | [JTBC Begin Again3 Episode 1](https://open.spotify.com/album/6WnFborGb8Cz4W6DDRCXnR) | 3:31 |
 | 53 | [Consolation \- 서울 버스킹 Version](https://open.spotify.com/track/7waekgppDRXOH5JFKQl0nZ) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [JTBC Begin Again3 \- Episode1](https://open.spotify.com/album/3BOUzyfTbmEHP8L32BRMdc) | 3:28 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 112 | [I bless you – Chamonix Busking ver](https://open.spotify.com/track/5ujO0nDWSnIEYZrH5YLghc) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [RO HONG CHUL](https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP) | [Begin Again\-Episode12](https://open.spotify.com/album/6H41cjcgNBY9xBvoF2Ffpb) | 3:57 |
 | 113 | [In Front Of The Autumn Post Office – Chamonix Busking ver](https://open.spotify.com/track/33hWdbayWz9hmNKnqhr7EN) | [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Begin Again\-Episode12](https://open.spotify.com/album/5eWfAwyHVx7TpQ12HTFzwh) | 4:44 |
 
-Snapshot ID: `MCxiMjczNjE5ZDc4ZTc1ODZhNjk5OGRiOWU0ZTk0MzdmMzYwMmNiZTNm`
+Snapshot ID: `MCxiMmUxZjlmMTA0ZTEzZjdhNmE3NDA1ZDA3OWRmNmQ1ZGZjN2JlNTI0`

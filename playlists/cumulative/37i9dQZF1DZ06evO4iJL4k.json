@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Amor Livre - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU"
+    },
+    {
+      "album": {
         "name": "Numa Margem Distante",
         "url": "https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ"
       },
@@ -408,7 +426,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 256069,
       "name": "Estilo Livre",
       "url": "https://open.spotify.com/track/0tWUelr0BaZW5m3cpClPRL"
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 238863,
       "name": "S\u00f3 Precisamos de N\u00f3s",
       "url": "https://open.spotify.com/track/4oiVWCeHJvTQ8GCCAWORQg"

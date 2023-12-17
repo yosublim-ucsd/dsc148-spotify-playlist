@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Silly Boy Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,501 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,499 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Marathon](https://open.spotify.com/track/65Jfx0QMcK8YBSeILwgXZx) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Marathon](https://open.spotify.com/album/5uiYpDm2jyWh7rrb3mFuMm) | 3:02 |
 | 50 | [NO ONE ELSE](https://open.spotify.com/track/6mhmebxd0Dv3GbQp34Abch) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [NO ONE ELSE](https://open.spotify.com/album/0yoOQg6R0Ds8TaCtXFZXNz) | 2:48 |
 
-Snapshot ID: `MCw1MWY1MTdiMmY4MTJhMmU5ZTA2NDIxOTZhMzc5MmNiYmQ3MGU2MDFh`
+Snapshot ID: `MCw0NGE3ZmYyMTNiNWQxMTAwN2JlNzZhZGExMWZiZjkxNmE4ZmM1MTY0`

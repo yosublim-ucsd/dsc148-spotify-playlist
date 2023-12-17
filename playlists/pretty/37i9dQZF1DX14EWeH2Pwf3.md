@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Rhove, ANNA\.  <a href="spotify:playlist:37i9dQZF1DWYQKKZPHGppf">Scopri il Best Of del 2023 qui!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,759 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,109 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [GURU DEL BUSINESS](https://open.spotify.com/track/0IqoqvFdmvnHaOtKUJZ2Rw) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [GURU DEL BUSINESS](https://open.spotify.com/album/1BsmAW3BDFNwytA8TJ30t2) | 2:13 |
 | 50 | [Emotions \(feat\. Tony Boy\)](https://open.spotify.com/track/61hq3p5SiEuYUxNgKF93zq) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Emotions \(feat\. Tony Boy\)](https://open.spotify.com/album/5W4SVDrLe6pUIznOOxVTAb) | 2:46 |
 
-Snapshot ID: `MCxhZWM5YjA5ZmFlNjUyZjAzZmM5ODI0M2M3ODM0Mzc3MzNmNGFjM2Fh`
+Snapshot ID: `MCw2NDk1MDc5NDYwZWQzMzVjYjU1ZmZhYTRhMDk3Mzg3YjcxYTc2NmQz`

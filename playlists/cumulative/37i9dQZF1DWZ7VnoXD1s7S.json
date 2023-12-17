@@ -100,6 +100,24 @@
     {
       "album": {
         "name": "Agony (Instrumental)",
+        "url": "https://open.spotify.com/album/7CoUIJf8UmStUci7q0Mftu"
+      },
+      "artists": [
+        {
+          "name": "Scammacist",
+          "url": "https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301494,
+      "name": "Agony - Instrumental",
+      "url": "https://open.spotify.com/track/79dGhCtRRTj3XqqXnvSkG7"
+    },
+    {
+      "album": {
+        "name": "Agony (Instrumental)",
         "url": "https://open.spotify.com/album/7uL9TY3BOHFFDaMeAJIYfm"
       },
       "artists": [
@@ -164,7 +182,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 301740,
       "name": "Agony - Instrumental",
       "url": "https://open.spotify.com/track/1nO49nVkqlqOHU8mrjAVWu"

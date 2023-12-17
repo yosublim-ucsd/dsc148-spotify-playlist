@@ -10639,6 +10639,28 @@
     },
     {
       "album": {
+        "name": "El Pich\u00f3n",
+        "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "El Pich\u00f3n",
+      "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
+    },
+    {
+      "album": {
         "name": "El Poder de la Cumbia",
         "url": "https://open.spotify.com/album/4yb41anUMrMdcgYaLJpGSu"
       },
@@ -27269,7 +27291,7 @@
         },
         {
           "name": "Alessia",
-          "url": "https://open.spotify.com/artist/6Z5dP0NczmdsozSq4Lx5CC"
+          "url": "https://open.spotify.com/artist/4BQZSNgFvzAfTcavH5ytCs"
         }
       ],
       "date_added": "2023-12-15",
@@ -28060,28 +28082,6 @@
       "duration_ms": 160418,
       "name": "Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/3FXT8971ZO7qZfQuDDW5ff"
-    },
-    {
-      "album": {
-        "name": "RICHY",
-        "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "date_added": "2023-12-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191400,
-      "name": "RICHY",
-      "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
     },
     {
       "album": {

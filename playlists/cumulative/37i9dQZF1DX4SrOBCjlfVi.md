@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Nicki Minaj, French Montana, and more\. Cover: Luh Tyler & Latto
 
-4,187 songs - 8 day 3 hr 17 min
+4,188 songs - 8 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2023,6 +2023,7 @@
 | [Kush Breath](https://open.spotify.com/track/5ZqID8cprxW0DLix4P3OiR) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Definition of Big Dude](https://open.spotify.com/album/07cebs6wHlKpneWtSKa0d8) | 3:27 | 2023-02-03 | 2023-02-11 |
 | [L.O.L \(Count On You 2\)](https://open.spotify.com/track/68nLUA5otB6EMeAuaDbNxf) | [Neek Bucks](https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc), [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [L.O.L \(Count On You 2\)](https://open.spotify.com/album/1H0qyvLimOEuivrs0mFjIT) | 3:20 | 2023-04-07 | 2023-04-22 |
 | [La La](https://open.spotify.com/track/0Rr9sn5uXwBMTgccdDXsbZ) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [La La](https://open.spotify.com/album/0zuIOZtBXLHXWx2rotMBTt) | 2:24 | 2023-04-14 | 2023-04-22 |
+| [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 | 2023-12-16 |  |
 | [Lackin](https://open.spotify.com/track/4xChpii9VTLnxj7AM9DO0t) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Lifestyle](https://open.spotify.com/album/70USnNa3bAg0XAoaukW1x1) | 1:37 | 2023-12-01 | 2023-12-09 |
 | [Lackin](https://open.spotify.com/track/6lasIWLndqFchulQMIH5Cm) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI), [Simon Said.](https://open.spotify.com/artist/1ZoJcQjLukYdKLfOcoEVn9) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:50 | 2023-11-03 | 2023-11-11 |
 | [Lady Cop](https://open.spotify.com/track/7IbucrVf4NXY4tADmFdZpm) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Truth or Rare](https://open.spotify.com/album/2GMsbSuX1rQ5DsFuJyCqat) | 2:47 | 2023-09-22 | 2023-09-30 |

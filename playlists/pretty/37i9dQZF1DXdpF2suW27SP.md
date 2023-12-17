@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,262 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,280 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 73 | [Visão de Águia](https://open.spotify.com/track/3gg7mDLfD2eTXEXWq1HwRg) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [James Gold](https://open.spotify.com/artist/0YSEe7GqAE2xdoFSzNRT2y) | [Sonhos & Insónias](https://open.spotify.com/album/6MdSiXKQQZU2CUsAx8h8qI) | 3:00 |
 | 74 | [Scarface](https://open.spotify.com/track/6MqlhwynlRWbmWybRfFbLl) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Scarface](https://open.spotify.com/album/6CA8b74HHcdqY6qMZUyU4C) | 3:07 |
 
-Snapshot ID: `MCw4NmRlOGNmYjllYTY1NWNiYWQzNzUzYWU5NjM4MTllZDQwZmZmMzk2`
+Snapshot ID: `MCw5MjFiMjY4MGZkMTk0NzBjNmUyZjE1MmZjM2VkODFlOTRjZGNkZTUz`

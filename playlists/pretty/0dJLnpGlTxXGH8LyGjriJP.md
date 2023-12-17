@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 715 songs - 1 day 12 hr 16 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 718 songs - 1 day 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -723,5 +723,8 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 713 | [Crazy](https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:12 |
 | 714 | [City of God \(feat\. Chris Brown\)](https://open.spotify.com/track/0PmM2q7VEi2Sw6IO9CLn79) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 2:15 |
 | 715 | [Loop Hole \(feat\. 21 Savage\)](https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 2:31 |
+| 716 | [350](https://open.spotify.com/track/2AQfJsSZ65584nBxJF2KEe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [350](https://open.spotify.com/album/0Y5Gu6RKVlM3puaGGY3XIi) | 3:13 |
+| 717 | [Rich MF \(feat\. Lil Durk\)](https://open.spotify.com/track/1geOe7YkJHbsoRdNU0IvGS) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 4:07 |
+| 718 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/2U3ubKXSN5RjQHVSd8bivI) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Welcome To Vulture Island](https://open.spotify.com/album/7niGAuoUEahASwBNpmseHx) | 3:29 |
 
-Snapshot ID: `ODc4LDQwMWE0MzBiZmI2MDU5ODRlMmM3MjMwNTA5NTM0YzBjNTM5NDY0N2Q=`
+Snapshot ID: `ODgxLGM4ZGU4ODA2MmQ2YWE5MTA3ZTE2NDczZGY4Mjk4N2E1ZTIyY2I2ZWM=`

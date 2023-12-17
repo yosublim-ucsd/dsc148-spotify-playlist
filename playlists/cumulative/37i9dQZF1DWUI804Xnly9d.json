@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 179318,
       "name": "Bawariya",
       "url": "https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB"
@@ -4264,6 +4264,28 @@
       "duration_ms": 171988,
       "name": "Tujhsa Koi",
       "url": "https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc"
+    },
+    {
+      "album": {
+        "name": "Tum Aaye Ho Toh",
+        "url": "https://open.spotify.com/album/0qUCgrLRa9JCNVtxq3frR4"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Rocky Khanna",
+          "url": "https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258310,
+      "name": "Tum Aaye Ho Toh",
+      "url": "https://open.spotify.com/track/7d2k1S52ohPqOkw2tcreS4"
     },
     {
       "album": {

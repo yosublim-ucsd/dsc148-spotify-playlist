@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Brand of Sacrifice
 
-5,325 songs - 15 day 0 hr 50 min
+5,326 songs - 15 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3615,7 +3615,8 @@
 | [Razryvaya plot' ot bezyskhodnosti bytiya](https://open.spotify.com/track/6XqqNWAmvKOYpOVmAHd7NR) | [Arkona](https://open.spotify.com/artist/6AJ9HQ2Ptp1WWEfBFvR5fF) | [Razryvaya plot' ot bezyskhodnosti bytiya](https://open.spotify.com/album/262QX7ruwE1WNt3IEN6fqp) | 7:13 | 2023-06-16 | 2023-06-24 |
 | [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 | 2022-09-09 | 2022-09-17 |
 | [Re\-Crucified](https://open.spotify.com/track/2CBoAdAWDHxZWoWYIzEnWL) | [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb), [George "Corpsegrinder" Fisher](https://open.spotify.com/artist/0GD75s6RNE4DIqLDjmHtU6) | [Re\-Crucified](https://open.spotify.com/album/77XfLxerAe9wxR6xBrzpxB) | 3:44 | 2022-08-12 | 2022-08-20 |
-| [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/track/1iDeMrHU52cHitqhAc4P3O) | [A Scent Like Wolves](https://open.spotify.com/artist/45MtkhYiPMUHwT4Wv7qBji), [ZOMBIESHARK!](https://open.spotify.com/artist/18K9AAgJqUVkquLVd6PJc7) | [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/album/5Rqe2MIbtdolsNLy2UfXIb) | 3:42 | 2023-12-15 |  |
+| [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/track/1iDeMrHU52cHitqhAc4P3O) | [A Scent Like Wolves](https://open.spotify.com/artist/45MtkhYiPMUHwT4Wv7qBji), [ZOMBIESHARK!](https://open.spotify.com/artist/18K9AAgJqUVkquLVd6PJc7) | [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/album/5Rqe2MIbtdolsNLy2UfXIb) | 3:42 | 2023-12-15 | 2023-12-17 |
+| [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/track/2ktwwNJ017cKQixhlObcFF) | [A Scent Like Wolves](https://open.spotify.com/artist/45MtkhYiPMUHwT4Wv7qBji), [ZOMBIESHARK!](https://open.spotify.com/artist/18K9AAgJqUVkquLVd6PJc7) | [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/album/6PdQykQ6QrjZH8wgLYGe5u) | 3:42 | 2023-12-15 |  |
 | [Reaching](https://open.spotify.com/track/4T7Vu4pG8Iz4CRTyLRZMk6) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Reaching](https://open.spotify.com/album/2fYE7q0uF7oiJHTspqThqR) | 3:25 | 2023-03-17 | 2023-03-25 |
 | [Ready 4 Reaction \- MMXXIII Version](https://open.spotify.com/track/48RbYSvmzAqggIeMKEGyLD) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [Fireworks \(MMXXIII Version\)](https://open.spotify.com/album/69IFbJe1Th0GB56CgeajAg) | 3:55 | 2023-09-22 | 2023-09-30 |
 | [Ready For Combat](https://open.spotify.com/track/34RHmNnis0bWZmn9HOKe3q) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Ready For Combat](https://open.spotify.com/album/4sVipMfVh5gHq0YODoMj6E) | 3:08 | 2022-04-15 | 2022-04-22 |

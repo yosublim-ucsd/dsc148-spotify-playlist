@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Suspended 4th",
-  "num_followers": 42417,
+  "num_followers": 42441,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWM2NDEzZjgyNmQ4MDZiMGE2MDkzMGEzMDQ4ZjIzNzc4MmY0N2Uw",
+  "snapshot_id": "MCxmZTliNzA4YTBlOTEyN2NhODg3ODhhNTIwZmEyM2M4NDc4MDQ4N2Ew",
   "tracks": [
     {
       "added_at": "2023-12-14 15:25:08",
@@ -1247,38 +1247,6 @@
     {
       "added_at": "2023-12-14 15:25:08",
       "album": {
-        "name": "I'M A RAT",
-        "url": "https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE"
-      },
-      "artists": [
-        {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
-        }
-      ],
-      "duration_ms": 124719,
-      "name": "I'M A RAT",
-      "url": "https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa"
-    },
-    {
-      "added_at": "2023-12-14 15:25:08",
-      "album": {
-        "name": "PARADISE (Kill The Silence)",
-        "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 223118,
-      "name": "PARADISE (Kill The Silence)",
-      "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
-    },
-    {
-      "added_at": "2023-12-14 15:25:08",
-      "album": {
         "name": "BBB",
         "url": "https://open.spotify.com/album/3Mkz92SxIR2f4ZsQMUVxcD"
       },
@@ -1299,18 +1267,18 @@
     {
       "added_at": "2023-12-14 15:25:08",
       "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+        "name": "PARADISE (Kill The Silence)",
+        "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 246518,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+      "duration_ms": 223118,
+      "name": "PARADISE (Kill The Silence)",
+      "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
     },
     {
       "added_at": "2023-12-14 15:25:08",
@@ -1327,6 +1295,38 @@
       "duration_ms": 139892,
       "name": "YAEN",
       "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
+    },
+    {
+      "added_at": "2023-12-14 15:25:08",
+      "album": {
+        "name": "89.7 Growl FM",
+        "url": "https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Let It Go As If You Wander",
+      "url": "https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC"
+    },
+    {
+      "added_at": "2023-12-14 15:25:08",
+      "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
     },
     {
       "added_at": "2023-12-14 15:25:08",
@@ -1375,22 +1375,6 @@
       "duration_ms": 172092,
       "name": "My One Wish",
       "url": "https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i"
-    },
-    {
-      "added_at": "2023-12-14 15:25:08",
-      "album": {
-        "name": "89.7 Growl FM",
-        "url": "https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Let It Go As If You Wander",
-      "url": "https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC"
     },
     {
       "added_at": "2023-12-14 15:25:08",
@@ -1491,6 +1475,38 @@
     {
       "added_at": "2023-12-14 15:25:08",
       "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Drain Water",
+      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "added_at": "2023-12-14 15:25:08",
+      "album": {
+        "name": "MAKING THE ROAD",
+        "url": "https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "duration_ms": 120200,
+      "name": "STAY GOLD",
+      "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
+    },
+    {
+      "added_at": "2023-12-14 15:25:08",
+      "album": {
         "name": "Falling Down",
         "url": "https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ"
       },
@@ -1523,34 +1539,18 @@
     {
       "added_at": "2023-12-14 15:25:08",
       "album": {
-        "name": "MAKING THE ROAD",
-        "url": "https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD"
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
       },
       "artists": [
         {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
         }
       ],
-      "duration_ms": 120200,
-      "name": "STAY GOLD",
-      "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
-    },
-    {
-      "added_at": "2023-12-14 15:25:08",
-      "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 131680,
-      "name": "Drain Water",
-      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+      "duration_ms": 203545,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1"
     },
     {
       "added_at": "2023-12-14 15:25:08",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2023-12-14 15:25:08",
       "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+        "name": "living dead!!",
+        "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
       },
       "artists": [
         {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
         }
       ],
-      "duration_ms": 203545,
-      "name": "Sad Song",
-      "url": "https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1"
+      "duration_ms": 147157,
+      "name": "living dead!!",
+      "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
     },
     {
       "added_at": "2023-12-14 15:25:08",
@@ -1619,22 +1623,6 @@
     {
       "added_at": "2023-12-14 15:25:08",
       "album": {
-        "name": "BEST of the Tank-top",
-        "url": "https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf"
-      },
-      "artists": [
-        {
-          "name": "Yabai T-Shirts Yasan",
-          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "\u304b\u308fE",
-      "url": "https://open.spotify.com/track/4EjGcScTz7Uy1ISJfeeeEd"
-    },
-    {
-      "added_at": "2023-12-14 15:25:08",
-      "album": {
         "name": "hellsong. (let it in)",
         "url": "https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb"
       },
@@ -1647,6 +1635,22 @@
       "duration_ms": 185712,
       "name": "hellsong. (let it in)",
       "url": "https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ"
+    },
+    {
+      "added_at": "2023-12-14 15:25:08",
+      "album": {
+        "name": "APEX",
+        "url": "https://open.spotify.com/album/14H4061l4bvaxzT8EcMVP2"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 227225,
+      "name": "APEX",
+      "url": "https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE"
     }
   ],
   "unique_name": "Loud Rock Japan",

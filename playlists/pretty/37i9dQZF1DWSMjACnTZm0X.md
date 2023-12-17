@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl?si=tbPbAVC\_TzeXRCjNzQypDw">Azanti</a>, "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=JoIroqdaQWORwjx3PAb7Fw">Psycho YP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,624 likes - 67 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,653 likes - 67 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 10 | [You're Hired \(feat\. Ayra Starr\) \- Legendury Beatz Remix](https://open.spotify.com/track/5i16HfVleOCQPwDnvUlnyl) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Legendury Beatz](https://open.spotify.com/artist/69S8nrijE7Lyfac3X8iv8M) | [You're Hired \(feat\. Ayra Starr\) \[Legendury Beatz Remix\]](https://open.spotify.com/album/0B3ZuzcrBsPWRkGkm5zZ2C) | 3:17 |
 | 11 | [Groove](https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh) | [Groove](https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU) | 5:51 |
 | 12 | [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 |
-| 13 | [Party](https://open.spotify.com/track/3w6sbb4d9p4XC9EF0BoB4c) | [DTX](https://open.spotify.com/artist/4lttdlnXFTMlbRZ6IggLXd), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Party](https://open.spotify.com/album/2PBljrtBDlby5LvWFC3lXl) | 4:02 |
+| 13 | [Party](https://open.spotify.com/track/3w6sbb4d9p4XC9EF0BoB4c) | [DTX](https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Party](https://open.spotify.com/album/2PBljrtBDlby5LvWFC3lXl) | 4:02 |
 | 14 | [No Collab](https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Générations](https://open.spotify.com/artist/4oaKWkUkOcOROIPCyBuAod) | [Générations Street](https://open.spotify.com/album/7qqqHNJa7ILpXnMWjoeXvd) | 2:09 |
 | 15 | [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 |
 | 16 | [VACAY](https://open.spotify.com/track/6IYWAQtBQ2sDGd0eXmnah4) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon) | [VACAY](https://open.spotify.com/album/67BkeBWZnt6sPINQg9J4Nl) | 3:17 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 66 | [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 |
 | 67 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 |
 
-Snapshot ID: `MCw3YTBlZTY4ZGJhMjViMzAyNzA3YTIwZDM5OWQ5MjdjNTRkMTU4YWQ1`
+Snapshot ID: `MCw0MGEyOGRhMmNiY2MyY2Q1YzE4OWNmOTM1Y2JlODI2ZWY3YmYxYWJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Maua Sama
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,997 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,097 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Don't Let Go](https://open.spotify.com/track/46MW6k54DIiMMkXYJ7vOeW) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Don't Let Go](https://open.spotify.com/album/2LXIF7NQRV6S0XBlaVV6u4) | 2:15 |
 | 70 | [Kiss Me](https://open.spotify.com/track/0LeiaF8Dudetg0XUznifzA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Kiss Me](https://open.spotify.com/album/2iOaaDNIrrCzMvjQcGs0LE) | 3:33 |
 
-Snapshot ID: `MCxjZjAxOWYzYjM3NTc0YzQ3ZGE2NDdmZTg5Mzc5NTJkOGZlZDg0NjI0`
+Snapshot ID: `MCw3ZTRiY2E0MDg5NGM3YWY5YjRjZDVhMDBhNjM4ZDZmNjExNGQ2NTBh`

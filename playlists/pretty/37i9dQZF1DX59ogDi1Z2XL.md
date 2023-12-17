@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,710 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,758 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 7 | [Strictly](https://open.spotify.com/track/5ynWLIQkVwBsoBJrvYLUYH) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Strictly](https://open.spotify.com/album/0IQQFjjQ8dF8hEdOr3osJf) | 2:51 |
 | 8 | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 |
 | 9 | [BLOODSHED](https://open.spotify.com/track/5hkd65KkFsy0NsJyOCtepD) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [KING & SUFFERIN](https://open.spotify.com/album/3kGEc0G7de4z2OwVP5xhPq) | 3:27 |
-| 10 | [CHF](https://open.spotify.com/track/6q2RqjaTbyl4foSZmbTl9t) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [CHF](https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU) | 2:56 |
+| 10 | [CHF](https://open.spotify.com/track/6q2RqjaTbyl4foSZmbTl9t) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [CHF](https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU) | 3:06 |
 | 11 | [BACK2ORBIT](https://open.spotify.com/track/67UwEESR9kfCdMuTNLeXaK) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [451](https://open.spotify.com/artist/0x2owJPJ7tQZaSSKJq6GXA) | [CAUSE AND EFFECT](https://open.spotify.com/album/0Wx9bpnH2kqj4TJ7mdW6dY) | 2:35 |
 | 12 | [Run It Up](https://open.spotify.com/track/10Bkf6WEyRjivi7IW3h73p) | [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Lion Heart](https://open.spotify.com/album/3LalfhurKTzRXvWHX9X2T1) | 4:01 |
 | 13 | [Tonka Truck](https://open.spotify.com/track/2MFQGJmG9JH3A93AxSQGKW) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Tonka Truck](https://open.spotify.com/album/7jktwHuYoePFWWTeSrCaID) | 3:12 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 98 | [Sydanie's Interlude](https://open.spotify.com/track/2qKCqLhfrmT9E6JxIVp8Mx) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Sydanie](https://open.spotify.com/artist/20ufdufFoqPElQAOMGDyJG) | [INFINITY CLUB](https://open.spotify.com/album/3iZjJHvvL04Adbtt6hMiJR) | 2:30 |
 | 99 | [Drop Ship](https://open.spotify.com/track/0ms6No7pjrbC3yIg3UO0HH) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn) | [Drop Ship](https://open.spotify.com/album/0oxEw9sx77i15pxH89Njl1) | 1:51 |
 
-Snapshot ID: `MCw4MzdjYjMyN2RlYWRhOWRkNTkzNjkyOGQyOGQ0Y2Q2OWRkODdmYzVl`
+Snapshot ID: `MCxhYmEwOWM5ZjBkM2E4YTliMzhkZDkzZjkxMDI3ZWU5MzMzM2IyMGI2`

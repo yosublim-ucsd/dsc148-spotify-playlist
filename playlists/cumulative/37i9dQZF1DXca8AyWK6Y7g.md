@@ -4,7 +4,7 @@
 
 > baby look at the sky \*\*\*<br/>cover: Juliet Ivy
 
-1,885 songs - 3 day 23 hr 21 min
+1,886 songs - 3 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Burn](https://open.spotify.com/track/0fK8FLKlFMNkTzIng9EQmI) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Burn](https://open.spotify.com/album/5KcuOcXkmO0zv1n7rkAQIs) | 3:13 | 2019-05-26\* | 2019-06-15 |
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 | 2022-07-31 |
 | [Burning Up](https://open.spotify.com/track/1PMEK2UidGM6vR7ZvEqXQR) | [Harlo](https://open.spotify.com/artist/2BTTRieaquJC8M6b3WdsT5), [Holden Le Dinh](https://open.spotify.com/artist/5ip0l0E25zziwqZdOO1guY), [MP Crown](https://open.spotify.com/artist/1cUYtVsz3BxrGyDnN7ifnb) | [Burning Up](https://open.spotify.com/album/6WTMNU1vgcCD2fJMex0B2k) | 3:40 | 2019-05-26\* | 2020-04-16 |
+| [Burton St.](https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Burton St.](https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ) | 3:16 | 2023-12-01 |  |
 | [BURY YOU](https://open.spotify.com/track/7Elu7fHAoNkPNSMDNeu822) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BURY YOU](https://open.spotify.com/album/1ypkskN7WX0XIsXbPsmK3K) | 2:13 | 2023-09-15 | 2023-10-24 |
 | [buttercup 2](https://open.spotify.com/track/0SIbpobQY9FQKCgvRQrKNO) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [buttercup 2](https://open.spotify.com/album/06KVsUFJEZSTPljvOsNNJY) | 2:16 | 2021-05-03 | 2021-10-12 |
 | [Butterflies](https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:49 | 2022-03-04 | 2022-06-07 |
@@ -1510,7 +1511,7 @@
 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 | 2022-05-12 |
 | [somebody loves you](https://open.spotify.com/track/4YKcx7YxznAdBefrYdCZ9P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5MhZZyVkkusXY627OBZKAL) | 3:26 | 2020-04-22 | 2021-10-19 |
 | [Someday I'll Be Happy](https://open.spotify.com/track/36abeitRdTDdUxYahI6tMU) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Someday I'll Be Happy](https://open.spotify.com/album/06afLAH01L7XTw2VzK2uDS) | 2:45 | 2021-05-08 | 2022-01-08 |
-| [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/track/3yaLVo3UBWXEy9FcHl8kOb) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/album/7yq3G4VS4hSqfSgV4bfWHb) | 2:40 | 2022-10-28 |  |
+| [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/track/3yaLVo3UBWXEy9FcHl8kOb) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/album/7yq3G4VS4hSqfSgV4bfWHb) | 2:40 | 2022-10-28 | 2023-12-17 |
 | [Someone New](https://open.spotify.com/track/6YlDVG1IV2DsIkxHNgsLPu) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Someone New](https://open.spotify.com/album/2UtK7ZnCLMEuFf7KuKqGWY) | 3:37 | 2020-10-17 | 2021-04-13 |
 | [Someone On The Internet](https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone On The Internet](https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX) | 3:02 | 2023-02-03 | 2023-02-18 |
 | [Someone to Blame](https://open.spotify.com/track/7xCrXGPDHKYHIyPOaDAv8Q) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [a letter to me](https://open.spotify.com/album/2jLOhU9bWQgsKQ6fVa9xVE) | 3:20 | 2022-06-10 | 2022-06-25 |

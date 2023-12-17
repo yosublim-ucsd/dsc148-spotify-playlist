@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 138666,
       "name": "Busy Branches",
       "url": "https://open.spotify.com/track/2GKQNEAMc6bQjqBHdNtlzz"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 146750,
       "name": "Caves",
       "url": "https://open.spotify.com/track/5v4Mbrr1OSdpILZnLoIib1"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 93789,
       "name": "Different World",
       "url": "https://open.spotify.com/track/6rXqfqWXKdlWFUHXJmnqdz"
@@ -3064,6 +3064,24 @@
       "duration_ms": 146823,
       "name": "Extra Dip",
       "url": "https://open.spotify.com/track/5Cq4kRHvTc718cDAL2pYnC"
+    },
+    {
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/2nYufpokQ8JM2sOLucVs8K"
+      },
+      "artists": [
+        {
+          "name": "Trippy Park",
+          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/4h3r8c7TlNLZGFMytXoqa6"
     },
     {
       "album": {
@@ -4322,6 +4340,24 @@
       "duration_ms": 156838,
       "name": "Heaux",
       "url": "https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI"
+    },
+    {
+      "album": {
+        "name": "Heavensent",
+        "url": "https://open.spotify.com/album/0nzrNWqyAHUgLFiB4gE15Y"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184316,
+      "name": "Heavensent",
+      "url": "https://open.spotify.com/track/0SdZzPskMPdVibBUHNrrim"
     },
     {
       "album": {
@@ -5601,6 +5637,24 @@
     },
     {
       "album": {
+        "name": "Limitless 8",
+        "url": "https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH"
+      },
+      "artists": [
+        {
+          "name": "Supereffective",
+          "url": "https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "Limitless 8",
+      "url": "https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N"
+    },
+    {
+      "album": {
         "name": "Livin' Easy",
         "url": "https://open.spotify.com/album/6wFa61RPANe0dB2IgjDU5x"
       },
@@ -6716,6 +6770,24 @@
       "duration_ms": 260560,
       "name": "My Story",
       "url": "https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS"
+    },
+    {
+      "album": {
+        "name": "Mysteries",
+        "url": "https://open.spotify.com/album/4Z8yCySOw5LJROmLZ4zSdO"
+      },
+      "artists": [
+        {
+          "name": "Argenius",
+          "url": "https://open.spotify.com/artist/0m3JOyxkcyPVM3bu1YZW2s"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120375,
+      "name": "Mysteries",
+      "url": "https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG"
     },
     {
       "album": {
@@ -9400,7 +9472,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 160947,
       "name": "Smells Like Silverblue",
       "url": "https://open.spotify.com/track/6OmRE9XnZrMMfS9TuuQCPU"
@@ -11062,7 +11134,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 113142,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/6pQF5FATuPz4GSihK6hx2p"
@@ -11906,6 +11978,24 @@
       "duration_ms": 70909,
       "name": "Where are we now??",
       "url": "https://open.spotify.com/track/0X3VvSa9UXAAc5GkwsPEkS"
+    },
+    {
+      "album": {
+        "name": "Where's the princess?",
+        "url": "https://open.spotify.com/album/5OHHEebuQi60bEqNCQikMy"
+      },
+      "artists": [
+        {
+          "name": "ddrreeaamm",
+          "url": "https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126750,
+      "name": "Where's the princess?",
+      "url": "https://open.spotify.com/track/0yj53Azagf7yAdU7RMUa74"
     },
     {
       "album": {

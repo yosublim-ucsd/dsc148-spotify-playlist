@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Kanine
 
-160 songs - 10 hr 51 min
+161 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Certified Gs](https://open.spotify.com/track/0OFPij448pt21kHBHsT4au) | [DJ Phantasy](https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb) | [Certified Gs](https://open.spotify.com/album/2vIsedCdWyGjqwhiUMrarb) | 3:00 | 2022-05-06 | 2022-07-29 |
 | [Chant](https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Chant](https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu) | 3:44 | 2023-10-20 |  |
 | [Clubcard](https://open.spotify.com/track/69iCFPZbfFBrJ86RCi9Fk7) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Mercy & Misery / Clubcard](https://open.spotify.com/album/21GSw1OpXdBDiuYxFGET0J) | 4:02 | 2022-05-06 | 2022-07-26 |
-| [Cobra](https://open.spotify.com/track/6mViBmPiZS8g5CrzAyA005) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Cobra / Riddim](https://open.spotify.com/album/47MY78pAUHzmtZuVWdX2JO) | 3:50 | 2023-10-20 |  |
+| [Cobra](https://open.spotify.com/track/4CHfeRbAh89wGnm7R47HMs) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Cobra / Riddim](https://open.spotify.com/album/1LrKr549uqGd77TPGJKKFr) | 3:50 | 2023-11-17 |  |
+| [Cobra](https://open.spotify.com/track/6mViBmPiZS8g5CrzAyA005) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Cobra / Riddim](https://open.spotify.com/album/47MY78pAUHzmtZuVWdX2JO) | 3:50 | 2023-10-20 | 2023-12-17 |
 | [Come Alive](https://open.spotify.com/track/2QjcwXdj7h7ftIU4U93For) | [Deadbeat](https://open.spotify.com/artist/7DoljqvX8N0tjx7hC5ni7e), [Joey Illah](https://open.spotify.com/artist/6LqDmI7IuhPRe83EAdHAMV), [MR.O6OO](https://open.spotify.com/artist/6prEQtEIerqPBVuweTn39q) | [Come Alive](https://open.spotify.com/album/2FB5Jq7SWetNUBmr9w47lM) | 4:16 | 2022-05-06 | 2023-02-17 |
 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 | 2022-08-12 |  |
 | [Comedown](https://open.spotify.com/track/7HqdGd8YUpnAM2X4A2FBaZ) | [Harley D](https://open.spotify.com/artist/477hz7cR6hdGtsNQ5aj168) | [Comedown / What Makes You](https://open.spotify.com/album/2i2Ci4zaH3LrrnYH9d8TnU) | 4:27 | 2022-05-06 | 2022-07-27 |

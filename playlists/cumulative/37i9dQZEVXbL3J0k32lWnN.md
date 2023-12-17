@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,323 songs - 2 day 21 hr 6 min
+1,324 songs - 2 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,7 @@
 | [Jul i Valhal](https://open.spotify.com/track/2sYa8IysQXY2F1NiLTqj2Y) | [Martin Brygmann](https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17), [Sarah West](https://open.spotify.com/artist/2d6fU7pGHJDtMXbcX2fpvr) | [Jul I Valhal](https://open.spotify.com/album/3XnjrnOFZ3qVtPTuYEIvQE) | 3:32 | 2022-11-28 | 2023-12-13 |
 | [Jul i Valhal](https://open.spotify.com/track/6UzlQMOmklKf3zXSI9glfW) | [Martin Brygmann](https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17), [Sarah West](https://open.spotify.com/artist/2d6fU7pGHJDtMXbcX2fpvr) | [Absolute Christmas \- Den Bedste Julemusik](https://open.spotify.com/album/3V3PHBvZ9Ni7GeCCMyfcwv) | 3:32 | 2021-11-30 | 2021-12-04 |
 | [Jul På Vesterbro](https://open.spotify.com/track/20oNCyFVv55xDpXGIw0QEs) | [Anders Matthesen](https://open.spotify.com/artist/7ywx4levGzk6v90WXQToXe) | [Jul På Vesterbro](https://open.spotify.com/album/2164xFQmRLyfnHxqKoFPj5) | 4:26 | 2021-11-23 |  |
-| [Julefeber](https://open.spotify.com/track/07q8J1HMwIfSO6TrPaZHWd) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Julefeber](https://open.spotify.com/album/6MDY6h8rVoFbOwaFNvaLeq) | 3:26 | 2023-11-20 |  |
+| [Julefeber](https://open.spotify.com/track/07q8J1HMwIfSO6TrPaZHWd) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Julefeber](https://open.spotify.com/album/6MDY6h8rVoFbOwaFNvaLeq) | 3:26 | 2023-11-20 | 2023-12-17 |
 | [Julefeber](https://open.spotify.com/track/0Q7nzEj102gwTkql3azU8p) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Julefeber](https://open.spotify.com/album/5E2eGqW0ehrhvxFAqEtu0o) | 3:26 | 2021-11-30 | 2022-12-29 |
 | [Julehjertets Hemmelighed](https://open.spotify.com/track/1t11cr48B1olNdfs2TlxHE) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Julehjertets Hemmelighed](https://open.spotify.com/album/5Kq4xMn9jnLuMozqTKiQGN) | 3:09 | 2022-11-28 |  |
 | [Jumeirah](https://open.spotify.com/track/38xttLsyfUwd284fbNjymm) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Jumeirah](https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm) | 2:42 | 2023-05-13 | 2023-11-09 |
@@ -832,7 +832,7 @@
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 | 2021-03-27 | 2022-01-03 |
 | [Moon](https://open.spotify.com/track/2Rd4eJ4KwXQQn2sMSToyUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:36 | 2021-08-31 | 2021-09-13 |
 | [MOON BLUE v1](https://open.spotify.com/track/0B1Iv7rUw74gm4BA3iCmyw) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [LARS SEIER FREESTYLE / MOON BLUE v1](https://open.spotify.com/album/4RFNv13jUm6NdezzoL6xO6) | 2:24 | 2022-11-12 | 2022-11-17 |
-| [MOONLIGHT](https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:17 | 2023-03-18 | 2023-11-27 |
+| [MOONLIGHT](https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:17 | 2023-03-18 |  |
 | [MOONLIGHT](https://open.spotify.com/track/6q0sZFMvdZiInjkGZglRlu) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [MOONLIGHT](https://open.spotify.com/album/4DwuScWYDMAfJOS91JauE8) | 3:17 | 2023-03-04 | 2023-03-19 |
 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 | 2021-07-18 | 2021-07-19 |
 | [Most People \(with Lukas Graham\)](https://open.spotify.com/track/3qGzO7CnDHKRT7KrR2JPFJ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Most People \(with Lukas Graham\)](https://open.spotify.com/album/2rU6ujofsaPM3D2HyDdcKt) | 2:21 | 2021-11-21 | 2021-11-27 |
@@ -1171,7 +1171,8 @@
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-03-06 |
 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-26 | 2023-05-28 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2022-01-04 |
-| [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-11-23 |  |
+| [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:10 | 2023-12-16 |  |
+| [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-11-23 | 2023-12-17 |
 | [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2023-01-05 | 2023-01-22 |
 | [The Danish Way To Rock](https://open.spotify.com/track/72nbXmEx1uSUGu6WDInzGd) | [Nephew](https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG), [Landsholdet](https://open.spotify.com/artist/3pUk1ndVKDCVrXXUhVONOf) | [Igen & Igen &](https://open.spotify.com/album/2MVFV6prrXUxI3jon8wnfJ) | 3:51 | 2021-06-14 | 2021-07-10 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-15 |

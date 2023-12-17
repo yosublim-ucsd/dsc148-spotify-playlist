@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,100 songs - 2 day 10 hr 5 min
+1,102 songs - 2 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Bot Lobby](https://open.spotify.com/track/3x6D6Va2TevX1lv6HIjhh1) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Bot Lobby](https://open.spotify.com/album/3g7lpyviHEw5x17KwHw1WN) | 2:56 | 2022-11-04 | 2023-04-12 |
 | [Box for My Organs](https://open.spotify.com/track/3x3pgmn0vj4bpRl0QmMlJS) | [Barely Civil](https://open.spotify.com/artist/74dHRGIRdRKjzmxl4yF0Ig) | [Box for My Organs](https://open.spotify.com/album/2vASoXhqCVl6AlMghPPbtZ) | 3:40 | 2022-04-01 | 2022-04-19 |
 | [Brace Yourself](https://open.spotify.com/track/4yoWprv7DUH6JViAyPbab0) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Brace Yourself](https://open.spotify.com/album/4ZN4SqtD9wDhO0jSbF4zin) | 3:27 | 2022-02-04 | 2022-07-14 |
+| [BRAIN DEAD](https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BRAIN DEAD](https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t) | 2:01 | 2023-12-15 |  |
 | [Brain Dead](https://open.spotify.com/track/5RNpU9KdygX7sFRUwpY1Jt) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Brain Dead](https://open.spotify.com/album/41yWIvdu2ZjZQ6C8igUYlY) | 3:17 | 2022-03-25 | 2022-04-17 |
 | [Brakeless](https://open.spotify.com/track/5RDCND3o9XN2yyoRy6pZUX) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Brakeless](https://open.spotify.com/album/6I70YiT1SKa5CEb8CE4s4n) | 3:43 | 2021-12-10 | 2022-06-25 |
 | [Brand New Kids](https://open.spotify.com/track/4Qy2T86NOAXbeTvuQ8rN0y) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [GLUE](https://open.spotify.com/album/4MfYIHHkyCXxfhyKIlvw7j) | 3:42 | 2021-12-10 | 2022-05-20 |
@@ -191,6 +192,7 @@
 | [Close 2 Me](https://open.spotify.com/track/0xbM8w47t3m4SZBk6JGM95) | [Dead Lakes](https://open.spotify.com/artist/0e14x1G9pTcCmLLzkFDhE0) | [Close 2 Me](https://open.spotify.com/album/0quwDWVi9UuDvGfC0N7w17) | 3:37 | 2022-03-25 | 2022-04-18 |
 | [Coke Nose](https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a) | 2:44 | 2022-07-08 | 2023-04-11 |
 | [Coke Nose](https://open.spotify.com/track/6Y9ZB2eeYmbEYm7XifqTcg) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Coke Nose](https://open.spotify.com/album/5oWj59uOrqYDxfChyrlRM6) | 2:44 | 2021-12-10 | 2022-07-27 |
+| [COLD BEER](https://open.spotify.com/track/5OmxeyU1mffYWsf9kjEaic) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/2mEPTLjLcbOvhj5NDWqeQc) | 1:41 | 2023-12-15 |  |
 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 | 2022-12-02 | 2023-12-09 |
 | [Coma](https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Coma](https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx) | 3:28 | 2023-04-23 | 2023-12-09 |
 | [Comatose](https://open.spotify.com/track/1FIv5SzIBWmCF5Xmt8N6BD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Comatose](https://open.spotify.com/album/1BRmCZVJYcpgycNHMmTTAS) | 2:35 | 2022-03-25 | 2022-04-17 |
@@ -311,7 +313,7 @@
 | [Everything Else Can Wait](https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Everything Else Can Wait](https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN) | 3:38 | 2023-04-10 |  |
 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 | 2023-09-22 | 2023-12-09 |
 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 | 2021-12-10 | 2022-06-25 |
-| [EXCALIBUR](https://open.spotify.com/track/6gg9wuYw3WvZ6bdfUxWZui) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \(vol\. 9\)](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 2:43 | 2023-12-15 |  |
+| [EXCALIBUR](https://open.spotify.com/track/6gg9wuYw3WvZ6bdfUxWZui) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \[vol\. 9\]](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 2:43 | 2023-12-15 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-28 | 2023-12-09 |
 | [F.A.K.E.](https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [F.A.K.E.](https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH) | 2:17 | 2023-12-08 | 2023-12-16 |
 | [Face Down \- Symphonic Edition](https://open.spotify.com/track/3rzwBdOX741P5N394o5faL) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Face Down \(Symphonic Edition\)](https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx) | 3:27 | 2022-10-21 | 2023-11-11 |
@@ -704,7 +706,7 @@
 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 | 2023-06-01 | 2023-08-28 |
 | [OUTRUN MYSELF \(with Travis Barker\)](https://open.spotify.com/track/109mkG2S2huV1S5xFRbJgF) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [OUTRUN MYSELF \(with Travis Barker\)](https://open.spotify.com/album/7id2U1wDRV9goCqhnPrLGv) | 2:24 | 2021-12-10 | 2022-05-18 |
 | [Over My Dead Body](https://open.spotify.com/track/79onN4j5gwxAGJAD5L32aJ) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Over My Dead Body](https://open.spotify.com/album/5g9HxTenzBrKFjhFpWQ3ac) | 2:17 | 2023-04-23 | 2023-07-15 |
-| [Paint My Lips](https://open.spotify.com/track/3p0h0odkJaUS230iSRJQgS) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [told ya.](https://open.spotify.com/album/3ANkgNrOZQLbZjvVr2mf9P) | 2:15 | 2023-12-08 |  |
+| [Paint My Lips](https://open.spotify.com/track/3p0h0odkJaUS230iSRJQgS) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [told ya.](https://open.spotify.com/album/3ANkgNrOZQLbZjvVr2mf9P) | 2:15 | 2023-12-08 | 2023-12-17 |
 | [Panic Again](https://open.spotify.com/track/6lWCXQlDpfzuSkiAZgWSUF) | [MNYS](https://open.spotify.com/artist/4ymdwRD5Aq27CugmxZFJv0) | […before the internet](https://open.spotify.com/album/7hG2j07czbCDCIjh1IcYen) | 2:25 | 2022-06-17 | 2022-06-25 |
 | [Paper](https://open.spotify.com/track/0BR4eVpihSK7xCLuAXjI4Q) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Paper](https://open.spotify.com/album/07VfTAOGM8BUm47LGYGmJM) | 3:01 | 2021-12-10 | 2022-07-29 |
 | [Paper](https://open.spotify.com/track/0Vumvuj4HYy3quIRSkrYDy) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 3:01 | 2022-07-08 | 2023-04-11 |
@@ -903,7 +905,7 @@
 | [Sun Poisoning](https://open.spotify.com/track/4GbfJjEqf2UcMYVT19Hlva) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Home Made Satan](https://open.spotify.com/album/2w3ncZJGWsVbaUq2NvVVt3) | 2:53 | 2022-02-04 | 2022-05-03 |
 | [Sundown, Somehow](https://open.spotify.com/track/5teyrxwR2SnmUOf8nCiono) | [Neverkept](https://open.spotify.com/artist/6AO1JbLXSeXU18tt8dAlMp) | [Sundown, Somehow](https://open.spotify.com/album/3PSqgpmwMVUnimrLjFnBcn) | 3:41 | 2021-12-10 | 2022-07-29 |
 | [Sunsign](https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Sunsign](https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf) | 3:47 | 2023-04-10 | 2023-04-12 |
-| [Superglue](https://open.spotify.com/track/5NImC08Hj8grPzDTqMT53n) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Superglue](https://open.spotify.com/album/5fbVszRubV0AXX4k1tKP4b) | 3:24 | 2023-12-08 |  |
+| [Superglue](https://open.spotify.com/track/5NImC08Hj8grPzDTqMT53n) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Superglue](https://open.spotify.com/album/5fbVszRubV0AXX4k1tKP4b) | 3:24 | 2023-12-08 | 2023-12-17 |
 | [Superstition](https://open.spotify.com/track/1ranTRXpdqrriwYFK7pNt9) | [Spinning](https://open.spotify.com/artist/6IspENBNKAvxb47b8dMPJc) | [Superstition](https://open.spotify.com/album/4GkqgBZIq7QzO5mSoGE2hP) | 3:56 | 2021-12-10 | 2022-07-27 |
 | [Surrender](https://open.spotify.com/track/4EkI2iujq3AiwgmyGuP2xn) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Surrender](https://open.spotify.com/album/65XwIvA8vCbzSsdmgoAqlP) | 3:02 | 2022-04-01 | 2022-05-12 |
 | [Swear Jar](https://open.spotify.com/track/3sS8rnl4PiCn1VnM556GLg) | [Rival Town](https://open.spotify.com/artist/49KEHU4tamf9YVgxUvVKUM) | [Swear Jar](https://open.spotify.com/album/2djkhUdsL4SKIwjYfBzdnV) | 3:21 | 2021-12-10 | 2022-07-25 |

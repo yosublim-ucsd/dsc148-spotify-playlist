@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: PLK
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,991 likes - 82 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,989 likes - 82 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 28 | [Too Busy To Be Bae](https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Too Busy To Be Bae](https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy) | 2:57 |
 | 29 | [Maske](https://open.spotify.com/track/02nRgQWnesSidoHwUFdEyH) | [JK](https://open.spotify.com/artist/3aSHfoyZSOMBfu6RndUvJN) | [Maske](https://open.spotify.com/album/1mTGJz1GXauw728URjW5Mr) | 3:43 |
 | 30 | [Ich Frag Mich](https://open.spotify.com/track/1fSZxMRaiJNjadiLvi5ms3) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Ich Frag Mich](https://open.spotify.com/album/5JVWAvNO3tD2NUOdzGd0bO) | 2:09 |
-| 31 | [Glacier Rivers](https://open.spotify.com/track/4UgP94v8vpThweYqg1Sps4) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U), [Malou Lovis Kreyelkamp](https://open.spotify.com/artist/5tWgY1wA3lTl5gw20vHME7) | [Glacier Rivers](https://open.spotify.com/album/2CMTvFeiFxBboEmuqMwW41) | 3:13 |
+| 31 | [Glacier Rivers](https://open.spotify.com/track/4UgP94v8vpThweYqg1Sps4) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [Glacier Rivers](https://open.spotify.com/album/2CMTvFeiFxBboEmuqMwW41) | 3:13 |
 | 32 | [She Don't Play](https://open.spotify.com/track/07DzN4K6A7nP9ObnBRQAcO) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [She Don't Play](https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y) | 2:20 |
 | 33 | [Herz für zwei](https://open.spotify.com/track/5RwvGu4EcOit674qbna3zn) | [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [Herz für zwei](https://open.spotify.com/album/35kBiSSVF84jF6jr6Fc8VA) | 2:39 |
 | 34 | [Blue Eyes](https://open.spotify.com/track/22MiYPFLkclEnbisirGnd7) | [Jakko Bratko](https://open.spotify.com/artist/25kDBzZlemv3nyEDmPbucB) | [Blue Eyes](https://open.spotify.com/album/6JAUYIAz8cpFF9gtt3LWx1) | 2:03 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 40 | [Coming Home](https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Coming Home](https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s) | 2:44 |
 | 41 | [<3 beat](https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [comic relief](https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou) | 3:17 |
 | 42 | [Liebe ist sowas wie ein Schwert](https://open.spotify.com/track/5B0gC3MVu8i4Dc4MSsGAbj) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Liebe ist sowas wie ein Schwert](https://open.spotify.com/album/3h0jolofuDo4TCa2OIyzPM) | 1:57 |
-| 43 | [CHF](https://open.spotify.com/track/6q2RqjaTbyl4foSZmbTl9t) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [CHF](https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU) | 2:56 |
+| 43 | [CHF](https://open.spotify.com/track/6q2RqjaTbyl4foSZmbTl9t) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [CHF](https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU) | 3:06 |
 | 44 | [Home Alone \(with J\. Cole\)](https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:29 |
 | 45 | [No One Does It Better Than You](https://open.spotify.com/track/5K286QPZ7Fere57NndcDLF) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [No One Does It Better Than You](https://open.spotify.com/album/0y5UCiZNkDfA2PHOb7PQBR) | 3:05 |
 | 46 | [Nur zu Besuch](https://open.spotify.com/track/26ZSV8aWQKIElIqEoSIjSa) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/0mXT4XqIUZKTzIBp234eHN) | 3:19 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 81 | [Wasser und Ethan](https://open.spotify.com/track/1jORwFnLJCThXzd2ehHFz7) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Wasser und Ethan](https://open.spotify.com/album/009doIxs84MQHUYVEf2qo9) | 4:02 |
 | 82 | [Love Situation \(911\)](https://open.spotify.com/track/1s4FnYPkihRFSzyfCNlRXb) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [And So It Begins](https://open.spotify.com/album/6nxKx36eNYHiy2IHos6bQD) | 2:42 |
 
-Snapshot ID: `MCxmNzg1NTdmZjI4YjU4ODQ2OTdjMTU1NGU5ZjFmMTU2NWMxNTVkYzE3`
+Snapshot ID: `MCw1NDdhNjQ2NWI3YzE1Y2FhNGUyODkzNGNjNTlhMmFlNTI4OGI4ZmM0`

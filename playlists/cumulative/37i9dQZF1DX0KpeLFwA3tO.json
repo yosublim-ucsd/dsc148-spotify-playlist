@@ -1462,10 +1462,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 109704,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/2xU2W9p3gi9ZyX0L7rBF0F"
+    },
+    {
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/3tpdQGlDN7S3lGfDqrVaYk"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109704,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/75qNRiB12VNzkg52Q13ojm"
     },
     {
       "album": {
@@ -20696,10 +20714,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 250306,
       "name": "Shadow of a Doubt",
       "url": "https://open.spotify.com/track/0QdGZhhmvu1LkNo6bSEmoj"
+    },
+    {
+      "album": {
+        "name": "Shadow of a Doubt",
+        "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250306,
+      "name": "Shadow of a Doubt",
+      "url": "https://open.spotify.com/track/7gZkRQE9DKe0cylMs9szc5"
     },
     {
       "album": {

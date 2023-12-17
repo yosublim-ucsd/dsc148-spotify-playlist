@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Reneé Rapp & Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,497 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,528 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 15 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 |
 | 16 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 |
 | 17 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
-| 18 | [I Like](https://open.spotify.com/track/1QE4gxq2czTc8ClhPvTrgT) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [Tia Carys](https://open.spotify.com/artist/6G5nZjv6YmdialJA071tD3), [Lady Ice](https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44) | [I Like](https://open.spotify.com/album/0zSwAYM6WdPW2sj3JyQpya) | 2:37 |
+| 18 | [I Like](https://open.spotify.com/track/1QE4gxq2czTc8ClhPvTrgT) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [Lady Ice](https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44), [Tia Carys](https://open.spotify.com/artist/6G5nZjv6YmdialJA071tD3) | [I Like](https://open.spotify.com/album/0zSwAYM6WdPW2sj3JyQpya) | 2:37 |
 | 19 | [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 |
 | 20 | [No Justice 4 Grenfell, No Peace](https://open.spotify.com/track/4xfeP9VdQivxdtcaUF1FLQ) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [No Justice 4 Grenfell, No Peace](https://open.spotify.com/album/4Hw8t6mRiXBVssPD4AqtMO) | 2:13 |
 | 21 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Hell In High Heels \(feat\. Jazmine Johnson\)](https://open.spotify.com/track/2N1SBksYNigOK3XtGNhp8i) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [Hell In High Heels \(feat\. Jazmine Johnson\)](https://open.spotify.com/album/3gB2o3pjiNUxKLqUYDqgsX) | 2:47 |
 | 80 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 |
 
-Snapshot ID: `MCxlZmIzMDE2Y2I4ZDcwZjA0ZjI2OTY2OGQyOTQ4MTEwN2NhOWM2OWYx`
+Snapshot ID: `MCwyYzQwNmU3NmNjZWIwZDRhYjBiZmE0NzVlOTg5NWZhN2M4OTJmOWFj`

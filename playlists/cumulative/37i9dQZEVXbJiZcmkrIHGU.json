@@ -9224,7 +9224,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -9774,7 +9774,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 174026,
       "name": "Die Sonne",
       "url": "https://open.spotify.com/track/3T33so3escAbwbrgcIqyRa"
@@ -13694,7 +13694,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 184503,
       "name": "Ferrari Motor",
       "url": "https://open.spotify.com/track/0shlJqb0JPf28tUCJN0Es6"
@@ -20301,6 +20301,24 @@
     },
     {
       "album": {
+        "name": "Kein M\u00e4rchen",
+        "url": "https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "Ja sagen",
+      "url": "https://open.spotify.com/track/4XgxsTII2KYZZMFt4JlnYU"
+    },
+    {
+      "album": {
         "name": "Ja sagen",
         "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
       },
@@ -20312,7 +20330,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 165000,
       "name": "Ja sagen",
       "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
@@ -22057,6 +22075,44 @@
     },
     {
       "album": {
+        "name": "Koka Shem",
+        "url": "https://open.spotify.com/album/5yD7vbluNE2kizY0gU8hS3"
+      },
+      "artists": [
+        {
+          "name": "MADE",
+          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
+        },
+        {
+          "name": "Bayor",
+          "url": "https://open.spotify.com/artist/4fLyO8nvEon8gLjwvoRYne"
+        },
+        {
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
+        },
+        {
+          "name": "Skandal",
+          "url": "https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        },
+        {
+          "name": "BAR\u00c9",
+          "url": "https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Koka Shem",
+      "url": "https://open.spotify.com/track/2sj5vf9ss7eUxSIVUp50EW"
+    },
+    {
+      "album": {
         "name": "Komet",
         "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
       },
@@ -22992,6 +23048,32 @@
       "duration_ms": 159374,
       "name": "Lea",
       "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
+    },
+    {
+      "album": {
+        "name": "LEBEN ILLEGAL",
+        "url": "https://open.spotify.com/album/6obA3gHMzu91qDIK5Uh6EN"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        },
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184232,
+      "name": "LEBEN ILLEGAL",
+      "url": "https://open.spotify.com/track/4CwhlCuirnGJGYw72mfuIS"
     },
     {
       "album": {
@@ -25373,6 +25455,36 @@
     },
     {
       "album": {
+        "name": "MANNSCHAFT",
+        "url": "https://open.spotify.com/album/1DVxhGAbTahuNzReK623fG"
+      },
+      "artists": [
+        {
+          "name": "Safraoui",
+          "url": "https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Soufian",
+          "url": "https://open.spotify.com/artist/3Vnl7pKDxagUgRJ3NMtEcE"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "MANNSCHAFT",
+      "url": "https://open.spotify.com/track/0ma3FK9C9kaqS9zMXtZKr5"
+    },
+    {
+      "album": {
         "name": "Manolo",
         "url": "https://open.spotify.com/album/3uFH28s8LJHf1peoZ4zxw0"
       },
@@ -27078,7 +27190,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -27426,6 +27538,28 @@
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "album": {
+        "name": "MONEY & FAME",
+        "url": "https://open.spotify.com/album/3YIhJut5tiUbvtuBU7FmgS"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148984,
+      "name": "MONEY & FAME",
+      "url": "https://open.spotify.com/track/5ReQQXU6JXKWOi0O9GwI9x"
     },
     {
       "album": {
@@ -29657,6 +29791,28 @@
     },
     {
       "album": {
+        "name": "Lonlee",
+        "url": "https://open.spotify.com/album/5arNpuwGmkczhRMerGHaWb"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170607,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/6AUuQdsDyBzF65zw4cjG5M"
+    },
+    {
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -30916,7 +31072,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -31768,6 +31924,24 @@
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "album": {
+        "name": "Peoplepleasing",
+        "url": "https://open.spotify.com/album/5r3kZxq31teN5pKFeWaVe2"
+      },
+      "artists": [
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162760,
+      "name": "Peoplepleasing",
+      "url": "https://open.spotify.com/track/0nTjRvSZ2WvvfvppEQMfNb"
     },
     {
       "album": {
@@ -36860,7 +37034,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 196298,
       "name": "SO RAUS (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/47QjPV3o8PqDnruovlyc1F"
@@ -38758,7 +38932,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
@@ -44586,6 +44760,24 @@
       "duration_ms": 144133,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1YBItUnKj01KBXhpFtvINp"
+    },
+    {
+      "album": {
+        "name": "Winterherz",
+        "url": "https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Winterherz",
+      "url": "https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ"
     },
     {
       "album": {

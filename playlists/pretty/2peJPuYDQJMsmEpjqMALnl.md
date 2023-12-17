@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 344,214 likes - 69 songs - 4 hr 45 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 344,221 likes - 69 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 53 | [Missing You](https://open.spotify.com/track/2Hw5F4S5TFmrpBoWXc2Awx) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [The Complete John Waite, Volume One: Falling Backwards](https://open.spotify.com/album/7GiN5fqIgGCmdLDsPxzFqO) | 4:30 |
 | 54 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 |
 | 55 | [I Can't Drive 55](https://open.spotify.com/track/1MqGKtY9L5qjPi8s7gX645) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Voa](https://open.spotify.com/album/4Tegu60DeUzwWpA6vuhGxs) | 4:14 |
-| 56 | [Every Rose Has Its Thorn \- Remastered 2003](https://open.spotify.com/track/2IJzqbcbQZjcca53yGkX7t) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Poison Love Songs](https://open.spotify.com/album/2Zh4BoER5zWtKT3fwWf1uv) | 4:20 |
+| 56 | [Every Rose Has Its Thorn \- 2003 Remaster](https://open.spotify.com/track/2IJzqbcbQZjcca53yGkX7t) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Poison Love Songs](https://open.spotify.com/album/2Zh4BoER5zWtKT3fwWf1uv) | 4:20 |
 | 57 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 58 | [The Heat Is On \- From "Beverly Hills Cop" Soundtrack](https://open.spotify.com/track/0Ohb2OGQiYWNVPSMprmBtM) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Solo Collection](https://open.spotify.com/album/1YHw7JrXxh3pt6NBVEOuof) | 3:45 |
 | 59 | [Say Say Say \- Remastered 2015](https://open.spotify.com/track/5BxoKS16fDiOpcwTztQF30) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace \(Archive Collection\)](https://open.spotify.com/album/5xl1zp2OXmjtOmskY71p8A) | 3:55 |

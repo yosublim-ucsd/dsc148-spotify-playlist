@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 4na
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,953 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,957 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [MOMANTAI](https://open.spotify.com/track/3QQ8t6T8DtQwSg4gdmOlHD) | [AATA](https://open.spotify.com/artist/73mPAqGn9r2CPr5kh28dX5) | [MOMANTAI](https://open.spotify.com/album/3qkoQMqHk18Utln6bMeQSG) | 2:39 |
 | 80 | [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 |
 
-Snapshot ID: `MCxmMGExNDcyZTUyOTA1YjFlMWU2OWI2NmExYjBlZTk3YjgzZGM2MThh`
+Snapshot ID: `MCxmYmRkOTg3MDllYmRiMjZlMmU5OGY1NDJhNzJkYWM4YjM0MDBkYTky`

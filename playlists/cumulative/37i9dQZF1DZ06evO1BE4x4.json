@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Hungry Ghost (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Home Haircut",
+      "url": "https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ"
+    },
+    {
+      "album": {
         "name": "WACO",
         "url": "https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne"
       },

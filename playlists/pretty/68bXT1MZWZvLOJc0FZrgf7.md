@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits \| 2023 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Francis Mercier, Mount Rouge, Coco
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 112,590 likes - 128 songs - 6 hr 34 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 112,592 likes - 128 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,39 @@
 {
   "description": "The Midwest is always on time. Cover: 42 Dugg",
-  "num_followers": 118308,
+  "num_followers": 118381,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjM0ZTZkNmNlYjc2YTQ4NGU2MmIzYzdlNzY3MGZjNDRhYzI2MzE4",
+  "snapshot_id": "MCw1NTVhMDY5OTQ5ZDk0MGY0MmRmMzA3MjRlNGU0MDUxYzAwN2EzY2My",
   "tracks": [
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
+      "album": {
+        "name": "Lace It (with Eminem & benny blanco)",
+        "url": "https://open.spotify.com/album/2GWbJqFPEi1FGC9DnBRbk1"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Lace It (with Eminem & benny blanco)",
+      "url": "https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi"
+    },
+    {
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "SpinDatBac",
         "url": "https://open.spotify.com/album/1FSxhiCNZgovaqCQnlnHbX"
@@ -25,7 +49,7 @@
       "url": "https://open.spotify.com/track/1WzuY075zswuk0pgMNrqCT"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Tee's Coney Island",
         "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
@@ -45,7 +69,7 @@
       "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Rose Gold (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/5NmHH14He9o9TLwwaZii9p"
@@ -65,7 +89,7 @@
       "url": "https://open.spotify.com/track/1f4n208NzgSki8uG62mde7"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Nightmares In the Trenches",
         "url": "https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU"
@@ -85,7 +109,7 @@
       "url": "https://open.spotify.com/track/327maCobrzQZ20H1LwQ6Bk"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "6.2 Music (with Rob49)",
         "url": "https://open.spotify.com/album/1UydpDxXkMRoB24N3iNQ5m"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/6ToibuSa6fjrrzh1aLZwqf"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Hood Bible 2",
         "url": "https://open.spotify.com/album/3B21T4ldEEBgPCyXfESc0z"
@@ -125,7 +149,7 @@
       "url": "https://open.spotify.com/track/4Y9OPzyWSNwnSze4k5EuVH"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Catch A B",
         "url": "https://open.spotify.com/album/02GqHGLaoX1mKGypdJP2VW"
@@ -141,7 +165,7 @@
       "url": "https://open.spotify.com/track/1N1OEPRVwRpimvSL6H3Mwx"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Bae",
         "url": "https://open.spotify.com/album/3sI2NjVOrYjtv6zu90gtVN"
@@ -157,7 +181,7 @@
       "url": "https://open.spotify.com/track/58BFQlOjR0A3K48J6QAz6O"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "YSL Woody (feat. Babyface Ray)",
         "url": "https://open.spotify.com/album/64SqckNdoLqrrx2bSIcB0U"
@@ -177,7 +201,7 @@
       "url": "https://open.spotify.com/track/5N7bSjfIHe7ZaqYcAuHvTc"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "ATL Freestyle 1 & 2 (feat. Luh Tyler & Rob49)",
         "url": "https://open.spotify.com/album/5FlTRdVu9JfE4mrNfGeZrE"
@@ -201,7 +225,7 @@
       "url": "https://open.spotify.com/track/5n8vTxt9yXXtAtW951NAhx"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Nightmares In the Trenches",
         "url": "https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU"
@@ -225,7 +249,7 @@
       "url": "https://open.spotify.com/track/7kNmljSMkECHUdaEZLJJLp"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "She Don't Play",
         "url": "https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y"
@@ -241,7 +265,7 @@
       "url": "https://open.spotify.com/track/07DzN4K6A7nP9ObnBRQAcO"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Think I\u2019m Stuntin",
         "url": "https://open.spotify.com/album/7owtYkb8Y5d2gXeg6xKGWu"
@@ -257,7 +281,7 @@
       "url": "https://open.spotify.com/track/0mplOd2JIUv1WgnG40YcGz"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Go Again",
         "url": "https://open.spotify.com/album/7AkY91byYrxUdKHrK4PBdP"
@@ -273,7 +297,7 @@
       "url": "https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Robbery 6",
         "url": "https://open.spotify.com/album/7nHTFeY1uy9B24cKkTSZ1X"
@@ -289,7 +313,7 @@
       "url": "https://open.spotify.com/track/5O7HgH9F5jMLZWA3sMNsLj"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Saint Michael",
         "url": "https://open.spotify.com/album/3hfXFibd09Z5FjzkVir5lw"
@@ -305,7 +329,7 @@
       "url": "https://open.spotify.com/track/6XpOsw4d970xooR27nqHiJ"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Ganger",
         "url": "https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2"
@@ -321,7 +345,7 @@
       "url": "https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Sorry 4 The Leaks Vol. 1",
         "url": "https://open.spotify.com/album/7xOEuVCjgF3HfglgX8jMyv"
@@ -337,7 +361,7 @@
       "url": "https://open.spotify.com/track/4hC2vef0rkgMlEs5GSaAwO"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Young Rich Bastard",
         "url": "https://open.spotify.com/album/7ryhSaUE38MqAfRm1ccH1q"
@@ -353,7 +377,7 @@
       "url": "https://open.spotify.com/track/3qF966HmItQXCthZTnn2Oy"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "F*ck U Thought",
         "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
@@ -369,7 +393,7 @@
       "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Point Me 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
@@ -389,7 +413,7 @@
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "MegaTron 2",
         "url": "https://open.spotify.com/album/7zezk3hbEWlOooKBLuLJKp"
@@ -421,7 +445,7 @@
       "url": "https://open.spotify.com/track/2aA3Xz6XKAo96jp03h4Zak"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Head Melodies",
         "url": "https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P"
@@ -441,7 +465,7 @@
       "url": "https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "SkuBop",
         "url": "https://open.spotify.com/album/2thtVFNwTy6WO1rseKOyWu"
@@ -457,7 +481,7 @@
       "url": "https://open.spotify.com/track/62kJ1EPq1tLUNWtuWJ0Wqw"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Boom Pt. 2 (feat. Latto)",
         "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
@@ -477,7 +501,7 @@
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Come Outside (feat. YTB Fatt)",
         "url": "https://open.spotify.com/album/0xTtXNNN82brPd2cRn23ZX"
@@ -497,7 +521,7 @@
       "url": "https://open.spotify.com/track/1fxlHuMfJPa0de1WJHOwBf"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0LR35Mz9TSsI87kuvSCSH4"
@@ -517,7 +541,7 @@
       "url": "https://open.spotify.com/track/27NZPKJRrUgtVAoqg06WkY"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Tee's Coney Island",
         "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
@@ -537,7 +561,7 @@
       "url": "https://open.spotify.com/track/7MqHN8wKfencDiLYrEs1em"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Spend That Bag",
         "url": "https://open.spotify.com/album/47ofz7Q2l3tVbeRaIj6lft"
@@ -557,7 +581,7 @@
       "url": "https://open.spotify.com/track/7BRllEPvzxFw0vTAfkfUwt"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Galler-E",
         "url": "https://open.spotify.com/album/7asa3U3pJ9IHG5PsO602gP"
@@ -573,7 +597,7 @@
       "url": "https://open.spotify.com/track/75baMigu6wpU2Lx3CoxYvt"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "GHETTO",
         "url": "https://open.spotify.com/album/0CsE05G84CsmW5Uqgh1WC3"
@@ -589,7 +613,7 @@
       "url": "https://open.spotify.com/track/0avQvapA4ZO9XojUpsaDL5"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "WIT WHATEVER",
         "url": "https://open.spotify.com/album/1tlBb0lyjAHkzQpIKOyZod"
@@ -605,7 +629,7 @@
       "url": "https://open.spotify.com/track/0tBAUB2taQ5YjXl4fPBNxe"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "This & That",
         "url": "https://open.spotify.com/album/3HujArLwQRC7zpnBPPZ7jv"
@@ -621,7 +645,7 @@
       "url": "https://open.spotify.com/track/2AXGCcKn8YSxc4a2ohhom4"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Delulu",
         "url": "https://open.spotify.com/album/4MRFGgo8ZRBvdb55aBkiLQ"
@@ -641,7 +665,7 @@
       "url": "https://open.spotify.com/track/6OaDh6LbMSh7Wvz1Me7xwn"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Controversy",
         "url": "https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9"
@@ -661,7 +685,7 @@
       "url": "https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Gumbo Mix (with YTB Fatt)",
         "url": "https://open.spotify.com/album/1SvmgqJLo2eoGAb2BeHeHR"
@@ -681,7 +705,7 @@
       "url": "https://open.spotify.com/track/6Ir8jlNR8bBTg9tKIaSDhW"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Gangsta Art 2",
         "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
@@ -701,7 +725,7 @@
       "url": "https://open.spotify.com/track/391Fi42HNOsMuQPnpfVNfm"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Switch Up (feat. Icewear Vezzo)",
         "url": "https://open.spotify.com/album/5UfAr4BSwjf0FaWY6lBwd6"
@@ -721,7 +745,7 @@
       "url": "https://open.spotify.com/track/588W5zTf2g1msPDG8ZPgav"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "LIL YEAH",
         "url": "https://open.spotify.com/album/2CBmsfG1xXvkU3Fr14vPp3"
@@ -737,7 +761,7 @@
       "url": "https://open.spotify.com/track/0kFJUQfYRMhyBBbaXYaNxc"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
         "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
@@ -765,7 +789,7 @@
       "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "No Amiris",
         "url": "https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi"
@@ -785,7 +809,7 @@
       "url": "https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Ganger",
         "url": "https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2"
@@ -801,7 +825,7 @@
       "url": "https://open.spotify.com/track/1wabjSijwiHbAKhCiDlLEu"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "With My Boo",
         "url": "https://open.spotify.com/album/6nfnwJ2rMqwYhnqoM5aexC"
@@ -817,7 +841,7 @@
       "url": "https://open.spotify.com/track/5jv854w0ZHUCesbjFHIxSs"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Guitar In My Room",
         "url": "https://open.spotify.com/album/2BgCZFN0tmSrb2deTawr5h"
@@ -841,7 +865,7 @@
       "url": "https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "$1M",
         "url": "https://open.spotify.com/album/1BpLjNHS6EqNkrIaJ3otYr"
@@ -857,7 +881,7 @@
       "url": "https://open.spotify.com/track/6EZevl0aJzkUmW0MUQKC1p"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Hellcats SRTs 2 (with Lil Durk)",
         "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
@@ -877,7 +901,7 @@
       "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "BING BONG (Remix) [feat. Sexyy Red]",
         "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
@@ -897,7 +921,7 @@
       "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "The Streets",
         "url": "https://open.spotify.com/album/3Iqca530onnDoofMp0goL6"
@@ -913,7 +937,7 @@
       "url": "https://open.spotify.com/track/4b9gu3ChsEGAnle4WIqxqo"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Pyrex Kids",
         "url": "https://open.spotify.com/album/5IMPUqSOUvIOheYQbjOlTX"
@@ -929,7 +953,7 @@
       "url": "https://open.spotify.com/track/4CWWxTamXXIUJByb9YbOa1"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-16 18:16:17",
       "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"

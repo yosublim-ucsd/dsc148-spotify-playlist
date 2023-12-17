@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Dillon Francis
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,290 likes - 77 songs - 3 hr 59 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,297 likes - 77 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

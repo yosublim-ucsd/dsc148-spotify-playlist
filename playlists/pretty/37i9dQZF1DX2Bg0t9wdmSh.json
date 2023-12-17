@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 8428,
+  "num_followers": 8461,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjY2ZTI0Zjg4YjFhNTA1ZWY4NWI3YmFmMTM5YjZlZDQzNzQzODhk",
+  "snapshot_id": "MCw3ZmVmZDA1NjcwNGVlNzc3ZTM4NzFkYzU4NGZiM2Y0ZWM5ODcwZWJm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Collection One",
+        "url": "https://open.spotify.com/album/1VYRUsEjoHAnE1NNa0Tj3z"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/47MhyGA0XUtF9lZJtny3Pd"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "BIG PURR (Prrdd)",
         "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Collection One",
-        "url": "https://open.spotify.com/album/1VYRUsEjoHAnE1NNa0Tj3z"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/47MhyGA0XUtF9lZJtny3Pd"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "No More Parties",
         "url": "https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 183182,
       "name": "Ain't It Funny ft. Meek Mill",
       "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "RNB (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "RNB (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -907,6 +887,26 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
+        "url": "https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG"
+      },
+      "artists": [
+        {
+          "name": "Lil Duval",
+          "url": "https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ"
+        },
+        {
+          "name": "Charlamagne Tha God",
+          "url": "https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
+      "url": "https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Stay Down (with 6LACK & Young Thug)",
         "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
       },
@@ -931,22 +931,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
-        "url": "https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG"
+        "name": "RNB (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
       },
       "artists": [
         {
-          "name": "Lil Duval",
-          "url": "https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ"
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
         },
         {
-          "name": "Charlamagne Tha God",
-          "url": "https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 171500,
-      "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
-      "url": "https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp"
+      "duration_ms": 211213,
+      "name": "RNB (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
     }
   ],
   "unique_name": "Justin Laboy's Taste",

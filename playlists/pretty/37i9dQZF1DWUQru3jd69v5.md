@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Digital Astro, Niky Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,597 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,618 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 29 | [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 |
 | 30 | [TACHANKA](https://open.spotify.com/track/62UkfLanwJ3jBfQa7QZScR) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [TACHANKA](https://open.spotify.com/album/0Eb4CSKVneypXslPypCrJY) | 1:55 |
 | 31 | [Offline](https://open.spotify.com/track/5AldKuBeBygcSqPcFdZPMp) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [OFFLINE](https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE) | 2:49 |
-| 32 | [Ovetto Frozen \(feat\. Papa V\)](https://open.spotify.com/track/5fIFDZIWCb4xljatkdsIlY) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Identità](https://open.spotify.com/album/061b4fp721yhJXddgLdmHE) | 2:59 |
+| 32 | [Ovetto Frozen \(feat\. Papa V\)](https://open.spotify.com/track/0MrBaAUPc2uekIJTry4zjm) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 2:59 |
 | 33 | [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/track/3KVW8uK3CatQ599k3ahRGn) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/album/4R1P9WFBnwmIuI0Cb88tjW) | 2:40 |
 | 34 | [Pezzo di Terra](https://open.spotify.com/track/2OiatnaZgOAbVxFeywYYyU) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [Pezzo di Terra](https://open.spotify.com/album/2sFB2Mdu0igpVXJpj3ETnu) | 2:34 |
 | 35 | [SCUSAMI](https://open.spotify.com/track/5A67l2REi7nTtv3qWTI2dK) | [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [SCUSAMI](https://open.spotify.com/album/2ZlHgGqQRef018SqvzKGiq) | 3:23 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 37 | [Mama no Mama](https://open.spotify.com/track/4lE81DgzF0MqubEjBlYnjP) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Mama no Mama](https://open.spotify.com/album/4HSakr3CridIAzSZHmZtOy) | 2:22 |
 | 38 | [Pesos \(feat\. 8blevrai\)](https://open.spotify.com/track/1RY1d6oUioU8PG7GMIEcVB) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [4ever Young](https://open.spotify.com/album/7JGo8geTlXXnc182JQZwU5) | 2:36 |
 | 39 | [1%](https://open.spotify.com/track/3AQQle6VHmqjcsbcJokOTZ) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [ANONIMA](https://open.spotify.com/artist/3a9lizIsuK4uutbI1fJT5m) | [LOGIN EP](https://open.spotify.com/album/6tzdCBUIxofEk9RvdUcAWv) | 2:06 |
-| 40 | [No Pit Stop \(feat\. Kid Yugi\)](https://open.spotify.com/track/4Swi2RoH0WE6ydW6x7qNQR) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Identità](https://open.spotify.com/album/061b4fp721yhJXddgLdmHE) | 2:35 |
+| 40 | [No Pit Stop \(feat\. Kid Yugi\)](https://open.spotify.com/track/7j5nQHnFsiIn4sGpNMISht) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 2:35 |
 | 41 | [KRIMINELL](https://open.spotify.com/track/4fywmdizxcc2h9LzQVsN6C) | [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR) | [KRIMINELL](https://open.spotify.com/album/6sDlXC9wg0sBLOv4kHuCMV) | 3:28 |
 | 42 | [La Fortuna](https://open.spotify.com/track/72clshXBMKutidadzudGmc) | [LocoArmy](https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE) | [La Fortuna](https://open.spotify.com/album/3C6YvBjWp867BdAC52O19m) | 2:22 |
 | 43 | [AMMÒ](https://open.spotify.com/track/00GgIQHKgPpplvmVKGQtpN) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [AMMÒ](https://open.spotify.com/album/6X5CMh0Bs3EJRTfvDqkvFI) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Dakar](https://open.spotify.com/track/0e1L1DTR2koDnvZJ4n3ljJ) | [Abe Kayn](https://open.spotify.com/artist/1U7o0SH2ec5y6KnMJgyjGn), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Flaco Pnz](https://open.spotify.com/artist/6CaMJhccw2F1BhhtS1QCgj), [Paco](https://open.spotify.com/artist/5DN3xDZBYJwXznoicLtbSy), [Svg Pnz](https://open.spotify.com/artist/5C18A3u0i59737iDQas7eO), [WadeLeVrai](https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW) | [Dakar](https://open.spotify.com/album/1FbAGKKdivCNVeoNmtJWCM) | 3:18 |
 | 50 | [Come a Dakar](https://open.spotify.com/track/6a9yidr8DpQwO8qNY29x5B) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [Come a Dakar](https://open.spotify.com/album/20jMLLeQuGTntObzVBXyzW) | 2:05 |
 
-Snapshot ID: `MCw2OWRjNTdlMzZiZTFiNTVjODgwNWRlNjBjMGZlMzI3YTE3MmEwOGI4`
+Snapshot ID: `MCxjOWE1Y2QwNTY4ZGFkYTkyYzgwOTMyMTZlNWUzNTFlNDQxYjBhN2Iy`

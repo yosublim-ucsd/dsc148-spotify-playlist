@@ -12577,6 +12577,24 @@
     },
     {
       "album": {
+        "name": "Don't Go Solo on Me",
+        "url": "https://open.spotify.com/album/0Z3kusbysTRdWh6NWMGhvv"
+      },
+      "artists": [
+        {
+          "name": "David G Cross",
+          "url": "https://open.spotify.com/artist/7HLWe6STJoi2O3AkbzUwjK"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170711,
+      "name": "Don't Go Solo on Me",
+      "url": "https://open.spotify.com/track/5bfcGEl3QrVjW5Ntz4nOPO"
+    },
+    {
+      "album": {
         "name": "Don't Hate The Party",
         "url": "https://open.spotify.com/album/4mOpec4pumMLBjcdFoVbuw"
       },
@@ -51754,6 +51772,24 @@
       "duration_ms": 228205,
       "name": "You Know It's Right",
       "url": "https://open.spotify.com/track/3nIYAdueLM2QCaftvDfDYw"
+    },
+    {
+      "album": {
+        "name": "You Know..",
+        "url": "https://open.spotify.com/album/30iWKyZ5UarSoXjnySDyd0"
+      },
+      "artists": [
+        {
+          "name": "2iO88",
+          "url": "https://open.spotify.com/artist/30DnY0zTMtGdfet0JHrdjJ"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149166,
+      "name": "You Know..",
+      "url": "https://open.spotify.com/track/6ojEjcSt9DwxWYgRJVvSpo"
     },
     {
       "album": {

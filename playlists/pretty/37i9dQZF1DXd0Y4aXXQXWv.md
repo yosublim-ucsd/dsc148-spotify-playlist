@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,245 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,315 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 99 | [Respire](https://open.spotify.com/track/2xcuDxTLlp0ro2GYlS1i9G) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Tu Vas Pas Mourir De Rire](https://open.spotify.com/album/6A72tti9z0ejH8Y6DeVhCr) | 3:48 |
 | 100 | [Comment est ta peine ?](https://open.spotify.com/track/19ZitU4vAGoAVYS7V0D2J1) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Grand Prix \(Edition Deluxe\)](https://open.spotify.com/album/08uATplQsVKhbj2WUatHti) | 5:04 |
 
-Snapshot ID: `MCwyYzAxYTcwMWRiYWMzNTczMTIyMWU0ZGI0MzM1ZWZiMzQyN2FhNTA0`
+Snapshot ID: `MCw0YzM1ZWZmM2IwN2MzYzZiNTViOWI4YTlhY2QzZmJhYTBhM2ZkN2Iy`

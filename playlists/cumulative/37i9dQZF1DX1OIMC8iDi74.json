@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 150370,
       "name": "Active",
       "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
@@ -1536,6 +1536,24 @@
       "duration_ms": 192000,
       "name": "Dum Dee Dum",
       "url": "https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT"
+    },
+    {
+      "album": {
+        "name": "Dum Dee Dum",
+        "url": "https://open.spotify.com/album/19RQJ8kzLa4Mk3M4BF47Yd"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Dum Dee Dum",
+      "url": "https://open.spotify.com/track/6uwgCWzAKwA4Asu2sCVYTT"
     },
     {
       "album": {

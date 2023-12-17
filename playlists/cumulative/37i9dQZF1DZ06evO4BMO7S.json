@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193523,
+      "name": "Eccria (Day)",
+      "url": "https://open.spotify.com/track/66BCvBm0vvJTTy4ZoKbpT6"
+    },
+    {
+      "album": {
         "name": "Essentially",
         "url": "https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 250906,
       "name": "Exploration (Ruins)",
       "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,655 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,751 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 |
 | 2 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 3 | [Pa la Proxima](https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Pa la Proxima](https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N) | 3:49 |
-| 4 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:14 |
+| 4 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 |
 | 5 | [Los Besos Que Te Di](https://open.spotify.com/track/0tJ0ZGuHUKJIseLFlPlkXC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:29 |
-| 6 | [RICHY](https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [RICHY](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 3:11 |
+| 6 | [El Pichón](https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 3:11 |
 | 7 | [Romperte \(feat\. Brray, Juanka & Nio Garcia\) \- Remix](https://open.spotify.com/track/2zAjYhUMZ833CvbDeE6aSf) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Romperte \(Remix\) \[feat\. Brray, Juanka & Nio Garcia\]](https://open.spotify.com/album/5hwhLz3uw1fLSyVljnm9AD) | 6:33 |
 | 8 | [Inestable](https://open.spotify.com/track/6iLG2K2RA0wrD4HrdYG7WZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Inestable](https://open.spotify.com/album/7aKtEaIfO6g28YtGkKRqX1) | 3:38 |
 | 9 | [Fuerza \- En Vivo](https://open.spotify.com/track/3tu2oUievxRm4ekR8IeCaO) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuerza \(En Vivo\)](https://open.spotify.com/album/6G1g7WLocSom0KCw8A74Ro) | 3:14 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 37 | [2000'S](https://open.spotify.com/track/1qh7PlGjrSzFfefeyyaIg7) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [2000'S](https://open.spotify.com/album/37AK534zmSIE3hJytdIMfN) | 2:52 |
 | 38 | [Blood Milk Moon](https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Blood Milk Moon](https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3) | 2:57 |
 | 39 | [Paula](https://open.spotify.com/track/1gaOyUDQGiR2ZQoq9fApdf) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [La Ostia](https://open.spotify.com/album/0hoJdfak5kJp7zEajo01zJ) | 3:46 |
-| 40 | [Enamorada](https://open.spotify.com/track/3FpvV4LlX9OFGsAj6H5DXk) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Enamorada](https://open.spotify.com/album/1sMHKHy7h1RMcbZZkrZRSr) | 3:07 |
+| 40 | [Enamorada](https://open.spotify.com/track/3FpvV4LlX9OFGsAj6H5DXk) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Enamorada](https://open.spotify.com/album/1sMHKHy7h1RMcbZZkrZRSr) | 3:10 |
 | 41 | [Ambidiestro](https://open.spotify.com/track/4E5EkjmoLavGKEYo1kmx4u) | [Mathew](https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC) | [Ambidiestro](https://open.spotify.com/album/1WwrrEgMkc0Qz4Z0aUeiIV) | 2:46 |
 | 42 | [DESCEND](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [DESCEND](https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY) | 3:40 |
 | 43 | [Parla Quillera](https://open.spotify.com/track/2r6EZnFHM4zOEg0tqfKsxE) | [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Parla Quillera](https://open.spotify.com/album/1ysPtXcup5ZfL5la5Hxyl3) | 3:06 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Te tengo en salsa](https://open.spotify.com/track/6Peqg7l5ElzHLMILgyfKaH) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Te tengo en salsa](https://open.spotify.com/album/6rJCdSCEhtMpsyvndSi6zh) | 3:23 |
 | 51 | [seu carinho](https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [seu carinho](https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh) | 2:39 |
 
-Snapshot ID: `MCxhZTVlZDMwOTU5ZWVhOThmYThmYWI3ODk0ZDdmZjUyZTFkN2U5N2Ri`
+Snapshot ID: `MCw0MDUwYjYwNDcxZTZhY2I5ZDU4NGMzNDAyNjIyMzc2MWNkYTNmMDc2`

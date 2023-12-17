@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-190 songs - 13 hr 13 min
+191 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,11 +139,12 @@
 | [O Holy Night](https://open.spotify.com/track/0nkezeQsDA5Owpul6PxRSJ) | [Cimorelli](https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2) | [O Holy Night](https://open.spotify.com/album/25qGXXBtKj4DeBFg0BUmz8) | 3:43 | 2022-11-26 |  |
 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 | 2020-12-21 | 2022-11-27 |
 | [O Holy Night](https://open.spotify.com/track/1DYYqGanBlPn4tSDw2U75M) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Emmanuel](https://open.spotify.com/album/629iVvSGIg9PluvAzyRTMR) | 5:22 | 2022-11-26 |  |
+| [O Holy Night](https://open.spotify.com/track/7iLiTH9alCGuJbhC17PsMU) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Kim Croswhite](https://open.spotify.com/artist/1p6SdR6u37worWnuzEmzkd) | [O Holy Night](https://open.spotify.com/album/7KB58hhWLlMbByOpGhrwpP) | 5:25 | 2023-12-15 |  |
 | [O Holy Night](https://open.spotify.com/track/1heoTv5JychgABJHqbMEqB) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [O Holy Night](https://open.spotify.com/album/7tftkpue2KmWcLOpq3eUeA) | 5:34 | 2022-11-26 |  |
 | [O Holy Night](https://open.spotify.com/track/6tYMJrhpToYlJdVK0IAOkE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Christmas Past](https://open.spotify.com/album/3btctA0Xw5hPVAsZizRPLo) | 6:28 | 2022-11-26 |  |
 | [O Holy Night \- Live](https://open.spotify.com/track/4mBR7vdP33yfR2w4y3pKHR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 4:19 | 2022-11-26 | 2023-11-27 |
 | [O Holy Night \- Live](https://open.spotify.com/track/5UfIxD8DonTU1Be7eFNltI) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA), [Myshel Wilkins](https://open.spotify.com/artist/4Q2GtdQpv47IIpxFGiu3uC) | [We Sing to You Jesus: Carols for Worship \(Live\)](https://open.spotify.com/album/15D91O1cc3V8oGoOeTSfc8) | 6:26 | 2022-11-26 |  |
-| [O Holy Night \- Live](https://open.spotify.com/track/4UjW7OrZxrm4W6vO4eLq2X) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [O Holy Night \(Live\)](https://open.spotify.com/album/30agWxXIeDAYLDGHF4nIz7) | 6:15 | 2022-11-26 |  |
+| [O Holy Night \- Live](https://open.spotify.com/track/4UjW7OrZxrm4W6vO4eLq2X) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [O Holy Night \(Live\)](https://open.spotify.com/album/30agWxXIeDAYLDGHF4nIz7) | 6:15 | 2022-11-26 | 2023-12-17 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/4shQSnSGk0PnbzAOsp16BJ) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [O Little Town Of Bethlehem](https://open.spotify.com/album/0cSQ0JTIPidDhcsIUgowRJ) | 5:25 | 2022-11-26 |  |
 | [O Little Town Of Bethlehem \- Remastered 1999](https://open.spotify.com/track/5CYDpxZQQtvR9epP9gjxXy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Classic Christmas](https://open.spotify.com/album/2JPJRewGu9HBOwfDFH1A7d) | 2:19 | 2020-12-21 | 2022-11-27 |
 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2020-12-21 | 2022-09-18 |

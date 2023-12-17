@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > music to show your grandparents this holiday season
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,230 likes - 140 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,376 likes - 140 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 17 | [amends](https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [amends](https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX) | 2:38 |
 | 18 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
 | 19 | [Kota on the plane \- MGNA Crrrta Remix](https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Kota on the plane \(MGNA Crrrta Remix\)](https://open.spotify.com/album/3GM9knfczDc5qvrFAwL70Y) | 2:53 |
-| 20 | [Marathon](https://open.spotify.com/track/0zDRnQ4QrSrZ5miTxAQvvP) | [omniboi](https://open.spotify.com/artist/3I4kM4D2rNnlG8JwEH5bHx) | [Panorama](https://open.spotify.com/album/2r9KUGokNx9AtexlIK3E5n) | 2:54 |
+| 20 | [Marathon](https://open.spotify.com/track/0zDRnQ4QrSrZ5miTxAQvvP) | [omniboi](https://open.spotify.com/artist/3I4kM4D2rNnlG8JwEH5bHx), [Celadon City](https://open.spotify.com/artist/4Y6byJbyJi1zcBKMc1vwuE) | [Panorama](https://open.spotify.com/album/2r9KUGokNx9AtexlIK3E5n) | 2:54 |
 | 21 | [Myspace](https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Myspace](https://open.spotify.com/album/4e7FjD0RXSRgRsPYdcc0Sl) | 3:24 |
 | 22 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 |
 | 23 | [babytooth](https://open.spotify.com/track/5efEKdV6428nEodNHEM7oT) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [dy.wsh](https://open.spotify.com/artist/2I8vJYpHksVmKlGheUOux7) | [babytooth](https://open.spotify.com/album/0MwPVSKBHX6CEM47FgRZrY) | 3:19 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 139 | [darkage](https://open.spotify.com/track/2jAGD9wgFRad8RCrUi9dY5) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [darkage/innocence](https://open.spotify.com/album/0zwPSDxKufsPnzATFYneGW) | 3:17 |
 | 140 | [Coat I Would Buy](https://open.spotify.com/track/1dNpt3Aj5T7hpP54GJZaZS) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Coat I Would Buy](https://open.spotify.com/album/5RCYzsjDPZYnQEPtba9roy) | 1:24 |
 
-Snapshot ID: `MCxjMzY0YzVkZWMwMWYxN2FmMGI4ZTY1ZTA2MTc1ZDA2MWYzNWVhYzc0`
+Snapshot ID: `MCw0YzBlMTlkNTlkYjFlNWMyZTM1Y2VmMmNmNzBlNDQwYTM0N2ZhODA1`

@@ -1500,6 +1500,24 @@
     {
       "album": {
         "name": "Manavyalakinchara (Mist of Capricorn) - Single",
+        "url": "https://open.spotify.com/album/4z3inK6h6bTRQJW2gozjjj"
+      },
+      "artists": [
+        {
+          "name": "Agam",
+          "url": "https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349786,
+      "name": "Manavyalakinchara (Mist of Capricorn)",
+      "url": "https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q"
+    },
+    {
+      "album": {
+        "name": "Manavyalakinchara (Mist of Capricorn) - Single",
         "url": "https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR"
       },
       "artists": [
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 349786,
       "name": "Manavyalakinchara (Mist of Capricorn)",
       "url": "https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94"

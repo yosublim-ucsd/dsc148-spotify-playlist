@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the The Escape of the Seven\. \(7인의 탈출의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-31 songs - 1 hr 34 min
+32 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Designed Revenge](https://open.spotify.com/track/5pvKruLtg3tV1VbrjjWkA1) | [Jung Se Rin](https://open.spotify.com/artist/1ueh3BEkIrO9i87v8Ymr5e) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 4:07 | 2023-10-21 |  |
 | [Disappear](https://open.spotify.com/track/3npyCr1ht50WqZF537vr8t) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [The Escape of the Seven OST Part.2](https://open.spotify.com/album/1CgrARHgGDA67xWn9JJ3uG) | 3:42 | 2023-10-22 |  |
 | [Disappear \(Inst.\)](https://open.spotify.com/track/1g0WFid0GCww3TFA39flaV) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [The Escape of the Seven OST Part.2](https://open.spotify.com/album/1CgrARHgGDA67xWn9JJ3uG) | 3:42 | 2023-10-22 |  |
-| [Endless Story](https://open.spotify.com/track/5qGw224wECCHxTEfa1k42v) | [Gaemi](https://open.spotify.com/artist/40yhtwh7I0fHUlcL80rAdp), [Lee Gun Young](https://open.spotify.com/artist/1hliskWXXblmLcokaMUjhY) | [The World of the Married Special \(Original Television Soundtrack\)](https://open.spotify.com/album/7E2Lp36dLyyJn2zaSkE8GW) | 2:53 | 2023-10-21 |  |
+| [Endless Story](https://open.spotify.com/track/6c7wmyGUDFKRxKXWXQ7KZP) | [Gaemi](https://open.spotify.com/artist/40yhtwh7I0fHUlcL80rAdp), [Lee Geon Yeong](https://open.spotify.com/artist/2LGAgA8SdlmQFVk7UUBCRV) | [The World of the Married Special \(Original Television Soundtrack\)](https://open.spotify.com/album/1X2fjpuAW4riF14z9A1fNi) | 2:53 | 2023-10-22 |  |
+| [Endless Story](https://open.spotify.com/track/5qGw224wECCHxTEfa1k42v) | [Gaemi](https://open.spotify.com/artist/40yhtwh7I0fHUlcL80rAdp), [Lee Gun Young](https://open.spotify.com/artist/1hliskWXXblmLcokaMUjhY) | [The World of the Married Special \(Original Television Soundtrack\)](https://open.spotify.com/album/7E2Lp36dLyyJn2zaSkE8GW) | 2:53 | 2023-10-21 | 2023-12-17 |
 | [EXIT](https://open.spotify.com/track/0aXjaZxWiorYro27xglNJH) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [The Escape of the Seven OST Part.1](https://open.spotify.com/album/3Uv6LiZNT7I2hLKVQBK6SS) | 3:25 | 2023-10-22 |  |
 | [EXIT \(inst.\)](https://open.spotify.com/track/0UfVAMsF6C5d50QDInN7kY) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [The Escape of the Seven OST Part.1](https://open.spotify.com/album/3Uv6LiZNT7I2hLKVQBK6SS) | 3:23 | 2023-10-22 |  |
 | [Fire!](https://open.spotify.com/track/3KxwePed3M2ItHEyxI59Gt) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:15 | 2023-10-21 |  |

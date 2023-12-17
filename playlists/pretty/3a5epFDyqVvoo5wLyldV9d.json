@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "ODIxLGNmZWY2NjIzMGEyODNkMWE1Y2M1ZjFmN2ViYjY5ZjNhZDA4OGEzZTg=",
+  "snapshot_id": "ODIyLDQxNmI3YmMwZjJhY2Q4NmU0MTJiYmFjOGUxZThjZGI1MWYyODJjNjM=",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -12107,6 +12107,26 @@
       "duration_ms": 228187,
       "name": "C'est la ouate - Radio Edit Original Version 1987",
       "url": "https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l"
+    },
+    {
+      "added_at": "2023-12-15 23:43:23",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1ezmRzKDbp5Mkbo4YDlUJ5"
+      },
+      "artists": [
+        {
+          "name": "Frank Harris",
+          "url": "https://open.spotify.com/artist/4OFxfuBQMZXt0C0zdaKL3n"
+        },
+        {
+          "name": "Maria Marquez",
+          "url": "https://open.spotify.com/artist/3zOkRbObx7ELfEpCzc8geE"
+        }
+      ],
+      "duration_ms": 228484,
+      "name": "Campesina",
+      "url": "https://open.spotify.com/track/2Fv8NLIkcVmYpegH90BcO4"
     }
   ],
   "unique_name": "Worldly",

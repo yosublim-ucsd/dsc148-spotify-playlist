@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: David Bay
 
-571 songs - 1 day 15 hr 14 min
+572 songs - 1 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,8 @@
 | [The Morning](https://open.spotify.com/track/4H8LXYMF0OABJpjL4wD4mb) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [The Morning](https://open.spotify.com/album/2mkAIECa1rpTjtX5ZqgTPS) | 4:09 | 2023-10-05 | 2023-12-08 |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-12-15 | 2023-02-03 |
 | [The Outsider](https://open.spotify.com/track/4QP9kNcxLKUT1DVnJ1d1n4) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Sometime Not Now](https://open.spotify.com/album/42Yn32ZzOeUGrryMEMFnYL) | 3:54 | 2022-12-15 | 2023-03-03 |
-| [The Same](https://open.spotify.com/track/1CVsGcOxtoEAqKyIT1ZbZk) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [The Same](https://open.spotify.com/album/1OapbmDsoY1AgT8xqhWFlU) | 4:13 | 2023-11-16 |  |
+| [The Same](https://open.spotify.com/track/1CVsGcOxtoEAqKyIT1ZbZk) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [The Same](https://open.spotify.com/album/1OapbmDsoY1AgT8xqhWFlU) | 4:13 | 2023-11-16 | 2023-12-17 |
+| [The Same](https://open.spotify.com/track/7uM8OU0rcqIeICZDNYoUpm) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [The Same](https://open.spotify.com/album/31bXet6ZbPFknvepd4JF6D) | 4:13 | 2023-12-14 |  |
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2023-07-27 | 2023-10-27 |
 | [The Touch](https://open.spotify.com/track/7EO5QmpN4VfJ17zIBvsB64) | [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta), [Arude](https://open.spotify.com/artist/3jvLVdebZznGhPcOcOFKd9) | [The Touch](https://open.spotify.com/album/55VFscrTtQWEu1hnVQvqum) | 7:01 | 2023-01-05 | 2023-06-23 |
 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-05-25 | 2023-07-28 |

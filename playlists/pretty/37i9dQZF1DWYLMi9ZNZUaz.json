@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 84565,
+  "num_followers": 84645,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTZhNzA3MDYwMjAxNWUzZTA2YjhjMWFjNThjYTllODVjN2NiOGVk",
+  "snapshot_id": "MCxiYzVjZTFhYTdkN2U3M2Y5MzI0N2U3ZGRkZmM0MWZmMTczMjEzOTI5",
   "tracks": [
     {
       "added_at": "2023-12-11 00:09:20",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-12-11 00:09:20",
       "album": {
+        "name": "B\u1ea3o T\u00e0ng",
+        "url": "https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "B\u1ea3o T\u00e0ng",
+      "url": "https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D"
+    },
+    {
+      "added_at": "2023-12-11 00:09:20",
+      "album": {
         "name": "Em iu",
         "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 179986,
       "name": "Em iu",
       "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
-    },
-    {
-      "added_at": "2023-12-11 00:09:20",
-      "album": {
-        "name": "B\u1ea3o T\u00e0ng",
-        "url": "https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31"
-      },
-      "artists": [
-        {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "B\u1ea3o T\u00e0ng",
-      "url": "https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D"
     },
     {
       "added_at": "2023-12-11 00:09:20",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-12-11 00:09:20",
       "album": {
+        "name": "Okeokeoke",
+        "url": "https://open.spotify.com/album/6jz6E152RTO3RfyjmdpAri"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "duration_ms": 139276,
+      "name": "Okeokeoke",
+      "url": "https://open.spotify.com/track/3nw5vYaH4qVx8joq3qhtNx"
+    },
+    {
+      "added_at": "2023-12-11 00:09:20",
+      "album": {
         "name": "Rapitalove",
         "url": "https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E"
       },
@@ -787,26 +803,6 @@
       "duration_ms": 243750,
       "name": "XTC (X\u00edch Th\u00eam Ch\u00fat) (Remix)",
       "url": "https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB"
-    },
-    {
-      "added_at": "2023-12-11 00:09:20",
-      "album": {
-        "name": "\u0110\u00e1nh \u0110\u1ed5i",
-        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
-      },
-      "artists": [
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "L\u0103ng LD",
-          "url": "https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
-      "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
     },
     {
       "added_at": "2023-12-11 00:09:20",
@@ -839,22 +835,6 @@
       "duration_ms": 193049,
       "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/769IjpjHNrN36SPvj2ZBKu"
-    },
-    {
-      "added_at": "2023-12-11 00:09:20",
-      "album": {
-        "name": "Okeokeoke",
-        "url": "https://open.spotify.com/album/6jz6E152RTO3RfyjmdpAri"
-      },
-      "artists": [
-        {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
-        }
-      ],
-      "duration_ms": 139276,
-      "name": "Okeokeoke",
-      "url": "https://open.spotify.com/track/3nw5vYaH4qVx8joq3qhtNx"
     },
     {
       "added_at": "2023-12-11 00:09:20",
@@ -915,6 +895,26 @@
     {
       "added_at": "2023-12-11 00:09:20",
       "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "L\u0103ng LD",
+          "url": "https://open.spotify.com/artist/0EOMdQwzUG6CKh9oWvcANr"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
+      "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"
+    },
+    {
+      "added_at": "2023-12-11 00:09:20",
+      "album": {
         "name": "420ent.",
         "url": "https://open.spotify.com/album/7IP9ElXmlMp3U8fbFUpkKV"
       },
@@ -939,30 +939,6 @@
     {
       "added_at": "2023-12-11 00:09:20",
       "album": {
-        "name": "Rapitalove",
-        "url": "https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E"
-      },
-      "artists": [
-        {
-          "name": "Rapital",
-          "url": "https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df"
-        },
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "RPT PhongKhin",
-          "url": "https://open.spotify.com/artist/2TmAAcsAhUVnRNtf3Jm0uc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Tay To",
-      "url": "https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF"
-    },
-    {
-      "added_at": "2023-12-11 00:09:20",
-      "album": {
         "name": "Em Th\u00edch",
         "url": "https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0"
       },
@@ -979,6 +955,22 @@
       "duration_ms": 176150,
       "name": "Em Th\u00edch",
       "url": "https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv"
+    },
+    {
+      "added_at": "2023-12-11 00:09:20",
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "th\u1ebf gi\u1edbi th\u1ea7n ti\u00ean",
+      "url": "https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL"
     },
     {
       "added_at": "2023-12-11 00:09:20",

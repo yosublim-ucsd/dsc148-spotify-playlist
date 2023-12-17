@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Myke Towers",
-  "num_followers": 1837714,
+  "num_followers": 1837776,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjFkZThmYmZjZTg5YzRlOTkyYmJlMjQxZGEzOWI2NTE3ODA1ODdm",
+  "snapshot_id": "MCxlYzExZTllNGI2M2M1M2VmYTA2NjBmNDdjMWU4OTk3YjE3NGM1MDEy",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Por Culpa de Alguien",
+        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
+      },
+      "artists": [
+        {
+          "name": "Josimar y Su Yamb\u00fa",
+          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
+        }
+      ],
+      "duration_ms": 327563,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Esta Vida (Salsa Version)",
         "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 223439,
       "name": "Esta Vida (Salsa Version)",
       "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Por Culpa de Alguien",
-        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
-      },
-      "artists": [
-        {
-          "name": "Josimar y Su Yamb\u00fa",
-          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
-        }
-      ],
-      "duration_ms": 327563,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1543,38 +1543,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mis Ojos Lloran por T\u00ed",
-        "url": "https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R"
+        "name": "Feliz Navidad, Vol. 3",
+        "url": "https://open.spotify.com/album/6tCRBwC4X5HL0kUEaNt7Ii"
       },
       "artists": [
         {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
         }
       ],
-      "duration_ms": 258786,
-      "name": "Mis Ojos Lloran por T\u00ed",
-      "url": "https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Salsa Legends",
-        "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        },
-        {
-          "name": "Ray Sepulveda",
-          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
-        }
-      ],
-      "duration_ms": 358493,
-      "name": "No Vale La Pena",
-      "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+      "duration_ms": 192093,
+      "name": "La Cura - Salsa Version",
+      "url": "https://open.spotify.com/track/2BlWHJwRFd8I4rNyA3TrA1"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1603,22 +1583,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "No Me Lo Creo",
-        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
+        "name": "Salsa Legends",
+        "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
       "artists": [
         {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
         },
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Ray Sepulveda",
+          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
         }
       ],
-      "duration_ms": 268175,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
+      "duration_ms": 358493,
+      "name": "No Vale La Pena",
+      "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1639,6 +1619,42 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "No Me Lo Creo",
+        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 268175,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mis Ojos Lloran por T\u00ed",
+        "url": "https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R"
+      },
+      "artists": [
+        {
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+        }
+      ],
+      "duration_ms": 258786,
+      "name": "Mis Ojos Lloran por T\u00ed",
+      "url": "https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Soltero",
         "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 260431,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Feliz Navidad, Vol. 3",
-        "url": "https://open.spotify.com/album/6tCRBwC4X5HL0kUEaNt7Ii"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "La Cura - Salsa Version",
-      "url": "https://open.spotify.com/track/2BlWHJwRFd8I4rNyA3TrA1"
     },
     {
       "added_at": "2023-12-08 05:00:00",

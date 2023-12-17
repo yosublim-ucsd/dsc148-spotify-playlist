@@ -4,7 +4,7 @@
 
 > We outside\. Cover: Valiant
 
-274 songs - 14 hr 34 min
+275 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Nuh Boring Gyal](https://open.spotify.com/track/09EmEP62OJa0anCob6k0pl) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Project Sweat](https://open.spotify.com/album/7b7jhNRjKkoApz1KdmyIiJ) | 2:14 | 2023-05-14 | 2023-08-04 |
 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 | 2021-07-19 | 2023-11-18 |
 | [Nuttin Nuh Go So](https://open.spotify.com/track/2eKcAEvYtwcuK4zFcYdtX3) | [Notch](https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ) | [Buy out Riddim](https://open.spotify.com/album/0YnW0VxELVkjA1GlQSeTWb) | 4:02 | 2022-03-21 | 2023-12-14 |
+| [Nuttin Nuh Go So](https://open.spotify.com/track/5bfrLQFw6AB3Be3fzvY5ER) | [Notch](https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ) | [Buy out Riddim](https://open.spotify.com/album/3fUkJjlmkgOwtBZ7a7nPIy) | 4:02 | 2023-11-17 |  |
 | [Nuttin Nuh Go So](https://open.spotify.com/track/4zlGcQkFV0dc3Fcm2SHlli) | [Notch](https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ) | [Riddim Driven: Buy Out](https://open.spotify.com/album/4jlkCM7J09EtPvjF4LfMs0) | 4:03 | 2021-07-19 | 2022-07-29 |
 | [Ocean Wave](https://open.spotify.com/track/6NSRwKmFyhNGPy54LWpFUv) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl) | 2:43 | 2022-09-09 | 2022-11-13 |
 | [Ocean Wave](https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Soul Survivor Riddim](https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o) | 2:43 | 2021-07-19 | 2022-11-12 |
@@ -208,7 +209,7 @@
 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 | 2021-07-19 | 2023-08-04 |
 | [Rushing](https://open.spotify.com/track/5Ttn93s4gqOG3SwXJuppfa) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Rushing](https://open.spotify.com/album/3MgOPLcWZFCtmCSQPtmMaa) | 2:34 | 2022-08-18 | 2022-09-10 |
 | [Secrets](https://open.spotify.com/track/4GfDV5KQFbnPP5RXOm9KQf) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [What's Done in the Dark](https://open.spotify.com/album/3A2Bvs4R8aL09IdCbzYhcr) | 2:52 | 2022-08-18 | 2022-09-10 |
-| [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 | 2023-11-17 |  |
+| [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 | 2023-11-17 | 2023-12-17 |
 | [Sexy19](https://open.spotify.com/track/6vJ6ivAXyks6kykUIvizFq) | [Dejour](https://open.spotify.com/artist/2qPE1cHelmMHiIqKHhQdK4) | [Sexy19](https://open.spotify.com/album/5ekdvIk7749sp6GEjsTPlT) | 3:36 | 2022-08-18 | 2022-09-10 |
 | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/album/3L0dENcGOMZcR67uhWwPNq) | 2:36 | 2023-11-17 |  |
 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 | 2023-11-17 |  |

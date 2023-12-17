@@ -1,12 +1,12 @@
 {
   "description": "Best songs of 2023 plus some of Obama&#x27;s favorite summer songs. Includes 22, &amp; 21 editions + bonus tracks.",
-  "num_followers": 107305,
+  "num_followers": 107295,
   "original_name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 23",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NjcxOCwxOTc4Njc5ODcyZDg5NmE5N2EyZjFjYjkyMDdlZjIyN2JmY2NiYjA0",
+  "snapshot_id": "NjcyMCwxMTEzY2ViMjljNGZlZmI2YzlmMzk2ZGMwZmRkZGYxZjQ3YjhhNWI2",
   "tracks": [
     {
       "added_at": "2023-11-08 12:56:23",
@@ -323,6 +323,38 @@
       "duration_ms": 220260,
       "name": "Merry Christmas, Lucy",
       "url": "https://open.spotify.com/track/6CgJTzr849rHkQvNZDEPtL"
+    },
+    {
+      "added_at": "2023-12-16 18:37:26",
+      "album": {
+        "name": "Don't Go Solo on Me",
+        "url": "https://open.spotify.com/album/0Z3kusbysTRdWh6NWMGhvv"
+      },
+      "artists": [
+        {
+          "name": "David G Cross",
+          "url": "https://open.spotify.com/artist/7HLWe6STJoi2O3AkbzUwjK"
+        }
+      ],
+      "duration_ms": 170711,
+      "name": "Don't Go Solo on Me",
+      "url": "https://open.spotify.com/track/5bfcGEl3QrVjW5Ntz4nOPO"
+    },
+    {
+      "added_at": "2023-12-16 08:51:16",
+      "album": {
+        "name": "You Know..",
+        "url": "https://open.spotify.com/album/30iWKyZ5UarSoXjnySDyd0"
+      },
+      "artists": [
+        {
+          "name": "2iO88",
+          "url": "https://open.spotify.com/artist/30DnY0zTMtGdfet0JHrdjJ"
+        }
+      ],
+      "duration_ms": 149166,
+      "name": "You Know..",
+      "url": "https://open.spotify.com/track/6ojEjcSt9DwxWYgRJVvSpo"
     },
     {
       "added_at": "2023-12-16 00:32:02",

@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Benny Page
 
-534 songs - 1 day 9 hr 29 min
+535 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Close Your Eyes](https://open.spotify.com/track/3WpZaVBGjVgR7lxekzkXTY) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj) | [Close Your Eyes](https://open.spotify.com/album/07kLcqgd4EzFgsXkgFo2lR) | 4:44 | 2022-04-08 | 2022-10-07 |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-05 |  |
 | [Closer to Home](https://open.spotify.com/track/0YYvcT0CAZID1BQxifx5es) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Kojo](https://open.spotify.com/artist/4RBh0HmLwnZLdhHS946YWU) | [Closer to Home](https://open.spotify.com/album/1TGbsCAy0280rRVzx4UNO3) | 4:06 | 2022-05-13 | 2022-07-12 |
-| [Cobra](https://open.spotify.com/track/6mViBmPiZS8g5CrzAyA005) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Cobra / Riddim](https://open.spotify.com/album/47MY78pAUHzmtZuVWdX2JO) | 3:50 | 2023-09-08 |  |
+| [Cobra](https://open.spotify.com/track/4CHfeRbAh89wGnm7R47HMs) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Cobra / Riddim](https://open.spotify.com/album/1LrKr549uqGd77TPGJKKFr) | 3:50 | 2023-12-15 |  |
+| [Cobra](https://open.spotify.com/track/6mViBmPiZS8g5CrzAyA005) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Cobra / Riddim](https://open.spotify.com/album/47MY78pAUHzmtZuVWdX2JO) | 3:50 | 2023-09-08 | 2023-12-17 |
 | [Code Red \- 94 Extended Remix](https://open.spotify.com/track/7yL3wCDOfjfvs7gYvh0DSO) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [Conquering Lion](https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM), [Reggie Stepper](https://open.spotify.com/artist/5jXyw1hN0YcQ7jHeQq1uEk) | [Code Red](https://open.spotify.com/album/3LkJ19UdnFV6PLvcNYPFRY) | 4:33 | 2022-08-24 | 2022-09-02 |
 | [Collecting Thoughts](https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Collecting Thoughts](https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M) | 3:25 | 2022-11-25 | 2023-09-08 |
 | [Colourfast](https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Colourfast](https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq) | 3:44 | 2023-09-08 |  |

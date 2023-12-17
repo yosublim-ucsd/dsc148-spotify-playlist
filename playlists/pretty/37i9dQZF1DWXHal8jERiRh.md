@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHal8jERiRh.md) - [plain]
 
 > Listen to the soundtracks of the The Escape of the Seven\. \(7인의 탈출의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,257 likes - 31 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,267 likes - 31 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHal8jERiRh.md) - [plain]
 | 22 | [Lonely Sailing](https://open.spotify.com/track/60HW5OezE9PdVounCVzOrY) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [The World of the Married, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2NQlkVEtbwLnNr8XfaSAvD) | 4:41 |
 | 23 | [Sad](https://open.spotify.com/track/5GCgK80s9iTYIguVt8AAso) | [Sonnet Son](https://open.spotify.com/artist/1Dq0pavG6AfUkfbYmRRBjC) | [The World of the Married, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1gP5RgwQ47g8d1KrAsKnSS) | 3:36 |
 | 24 | [Vortex Of Revenge](https://open.spotify.com/track/0ciNC39cTmJkZ9vtapdYoL) | [Jeong Hye Bin](https://open.spotify.com/artist/21SWU9RDrrnMYHEmMnoC23) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 2:48 |
-| 25 | [Endless Story](https://open.spotify.com/track/5qGw224wECCHxTEfa1k42v) | [Gaemi](https://open.spotify.com/artist/40yhtwh7I0fHUlcL80rAdp), [Lee Gun Young](https://open.spotify.com/artist/1hliskWXXblmLcokaMUjhY) | [The World of the Married Special \(Original Television Soundtrack\)](https://open.spotify.com/album/7E2Lp36dLyyJn2zaSkE8GW) | 2:53 |
+| 25 | [Endless Story](https://open.spotify.com/track/6c7wmyGUDFKRxKXWXQ7KZP) | [Gaemi](https://open.spotify.com/artist/40yhtwh7I0fHUlcL80rAdp), [Lee Geon Yeong](https://open.spotify.com/artist/2LGAgA8SdlmQFVk7UUBCRV) | [The World of the Married Special \(Original Television Soundtrack\)](https://open.spotify.com/album/1X2fjpuAW4riF14z9A1fNi) | 2:53 |
 | 26 | [Losing Her Heart to a Fake](https://open.spotify.com/track/6TqMHhBiuFUl5XJDLNYzJE) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:19 |
 | 27 | [Designed Revenge](https://open.spotify.com/track/5pvKruLtg3tV1VbrjjWkA1) | [Jung Se Rin](https://open.spotify.com/artist/1ueh3BEkIrO9i87v8Ymr5e) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 4:07 |
 | 28 | [The Duchess Juliette](https://open.spotify.com/track/5zcvtY9ubOHVjWZ20lXyuA) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:43 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHal8jERiRh.md) - [plain]
 | 30 | [The Tree from Mount Fuji](https://open.spotify.com/track/4VulISo0xgXeWnOQsS1IgN) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 2:28 |
 | 31 | [Fire!](https://open.spotify.com/track/3KxwePed3M2ItHEyxI59Gt) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:15 |
 
-Snapshot ID: `MCw2ZDBkOGIzZDgyOWYyMzdlYTQxN2RkNzU5NzA5ZWI1YTc5NTgxNjEw`
+Snapshot ID: `MCxlNDFmYmY4OGU3NTlkODk1ZjBlYWZlODJlNjFjYzkwZTAyMzIxYmY1`

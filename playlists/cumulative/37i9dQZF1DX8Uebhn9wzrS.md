@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,735 songs - 2 day 17 hr 57 min
+1,737 songs - 2 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Alice](https://open.spotify.com/track/5SDnfeZ8ZB4AQkpIPQznEr) | [Shalaq](https://open.spotify.com/artist/66fej5BLBVa8w437XcLXNL) | [Alice](https://open.spotify.com/album/0rcnjM9X1VJ0F5Cldz6vtp) | 2:44 | 2022-10-14 | 2023-03-09 |
 | [All About Us](https://open.spotify.com/track/4SF652d0j8pH0UQPoGhhB6) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Digital Dice](https://open.spotify.com/album/0xktBYxr9jLA1bDQdUM5tb) | 1:46 | 2022-05-27 | 2023-04-21 |
 | [all again](https://open.spotify.com/track/59N3AFjJ6JrlILv9abN5SQ) | [mujikaa](https://open.spotify.com/artist/7ylJb6yLYp3fGiFa7eUXUu) | [lo\-fi bloom](https://open.spotify.com/album/2sZbTPl0U0XmSlmw9bxkiW) | 1:43 | 2022-04-15 | 2022-09-02 |
-| [All Around The CN Tower](https://open.spotify.com/track/7rXFzFgtZyuyKampDNL7U4) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [All Around The CN Tower](https://open.spotify.com/album/4HqXN08Pzcqe25IWsccwYH) | 2:22 | 2023-01-20 |  |
+| [All Around The CN Tower](https://open.spotify.com/track/7rXFzFgtZyuyKampDNL7U4) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [All Around The CN Tower](https://open.spotify.com/album/4HqXN08Pzcqe25IWsccwYH) | 2:22 | 2023-01-20 | 2023-12-17 |
 | [All For You](https://open.spotify.com/track/3MfEbk1mY9pbKQwYZ8X768) | [Boxi Docks](https://open.spotify.com/artist/3QYJVt9IC6TvA0n6xsRvNK) | [All For You](https://open.spotify.com/album/5Ekgbu3w34wmJiSrDNmUSy) | 1:45 | 2022-10-28 |  |
 | [all the stars in the sky](https://open.spotify.com/track/2QJ3SfZuMA5nOi6LrDFJbs) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [all the stars in the sky](https://open.spotify.com/album/4iFeZo1H2srsSgeV5DLOrb) | 2:27 | 2023-03-08 |  |
 | [all the things I can't control](https://open.spotify.com/track/7qQot1bz4npRHXSrPGbfVa) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [all the things I can't control](https://open.spotify.com/album/424klxgKsiS3TbbZjTylsD) | 2:14 | 2022-04-15 | 2022-07-22 |
@@ -432,7 +432,7 @@
 | [Drips](https://open.spotify.com/track/3yxluQG4ZWdmjXJ5sjxXVg) | [Gizmo](https://open.spotify.com/artist/5yGSDOiFgai6RwHW3DAtW0) | [Drips](https://open.spotify.com/album/224QiGS6A3qBdXSDiLQked) | 1:40 | 2023-01-06 |  |
 | [Drives](https://open.spotify.com/track/07uRU9EczqsAqDdTcNCqwv) | [Z\-bone](https://open.spotify.com/artist/2bCoBCb2t0qwwPb5MGgjag) | [Drives](https://open.spotify.com/album/5Yq3BR4a0Ip2NkJ4lXEVHa) | 3:12 | 2023-08-17 |  |
 | [Drop In](https://open.spotify.com/track/7vwibWrHgOtEznQEFoF183) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Purple Dreams](https://open.spotify.com/album/7kxIwi77w8d6hz0XRbmCgb) | 2:01 | 2022-04-15 | 2022-10-14 |
-| [Droplets](https://open.spotify.com/track/15yitQITrGAxCToHNw4zKF) | [Lake Sanford](https://open.spotify.com/artist/21h842cjCnSvqRTA87Wlgp), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Ethereal Passage](https://open.spotify.com/album/3WB8vftnlNv5Gj9RvjtUSm) | 2:46 | 2023-09-15 |  |
+| [Droplets](https://open.spotify.com/track/15yitQITrGAxCToHNw4zKF) | [Lake Sanford](https://open.spotify.com/artist/21h842cjCnSvqRTA87Wlgp), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Ethereal Passage](https://open.spotify.com/album/3WB8vftnlNv5Gj9RvjtUSm) | 2:46 | 2023-09-15 | 2023-12-17 |
 | [Drumagade](https://open.spotify.com/track/3aDuZUTcYKDrZE41J8UsGT) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Spela](https://open.spotify.com/album/5sogVxLDLarBdQwuyIKYNG) | 2:08 | 2022-04-15 | 2022-07-22 |
 | [drunk](https://open.spotify.com/track/4OZDIhz1oJkrEbn8rOyP8G) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [drunk](https://open.spotify.com/album/4sTP9df5gdkqGCcO3dlsIZ) | 2:15 | 2022-10-28 | 2023-03-09 |
 | [Dryer](https://open.spotify.com/track/3qHPIeckBEFVGEaYdKXbTJ) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Dryer](https://open.spotify.com/album/3dkqT9bcNiPXM0gzcAjfgV) | 2:33 | 2023-01-06 | 2023-02-07 |
@@ -1141,6 +1141,7 @@
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
 | [Paris, 6am](https://open.spotify.com/track/5E7uJCas10EoTpYrUpSHGw) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Paris, 6am](https://open.spotify.com/album/42LhDRO7i0ewJ1mmhQSkYa) | 1:50 | 2022-04-15 | 2022-05-27 |
 | [Park Life](https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A) | [Mooseplant](https://open.spotify.com/artist/41f1LonnqCGklJb2ewxewh) | [Park Life](https://open.spotify.com/album/5bCGymt5IOhp1ankpc5K5l) | 2:18 | 2022-10-28 |  |
+| [park stroll](https://open.spotify.com/track/6lDAtiAKi02GGDLGxZb1OO) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [park stroll](https://open.spotify.com/album/3kJAru3uOEp1A0IAdBcgHi) | 2:08 | 2023-12-15 |  |
 | [parking lot](https://open.spotify.com/track/5oOq7LVY5RDNkZeajlOhgo) | [Beltiner](https://open.spotify.com/artist/4DzyAL1nvxYKEEavnXxVVm) | [parking lot](https://open.spotify.com/album/0fnroq8pifWBkuAX1bWsKj) | 2:19 | 2022-04-15 | 2022-09-17 |
 | [Particles](https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Particles](https://open.spotify.com/album/0wVaLUlQyunU42SVFMlnj5) | 2:09 | 2023-07-13 | 2023-12-08 |
 | [Pasadena](https://open.spotify.com/track/1oIrVe05XbFLR6y4sngNvU) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Pasadena](https://open.spotify.com/album/7La4e1LchRTR0ZssnD3j47) | 2:12 | 2023-12-08 |  |
@@ -1743,5 +1744,6 @@
 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 | 2023-11-17 |  |
 | [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-08-31 |  |
 | [zodiac](https://open.spotify.com/track/52IDolnJNCfL4rA6UwDCi3) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [zodiac](https://open.spotify.com/album/6cyHjL3dwTcUhaYmdkrCxa) | 2:21 | 2023-03-08 |  |
+| [älv](https://open.spotify.com/track/5HiTU06li1OKrzNue6Vt4K) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [älv](https://open.spotify.com/album/7D645woOaYW5g3iffXWfbK) | 2:38 | 2023-12-15 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

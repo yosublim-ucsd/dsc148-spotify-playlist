@@ -4,7 +4,7 @@
 
 > The top 100 tracks from Fresh Finds Rock in 2023\. Cover: Teen Jesus and the Jean Teasers
 
-1,245 songs - 2 day 20 hr 4 min
+1,246 songs - 2 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1170,7 +1170,8 @@
 | [untitled](https://open.spotify.com/track/0MZBimVC8wLPHkrID6wzp4) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [untitled](https://open.spotify.com/album/4QNGzsk6uUIdihK9KD3AJq) | 4:01 | 2023-05-17 |  |
 | [UP](https://open.spotify.com/track/2FU7zzUx7GJz1qSzuTfGww) | [ANNABEL LEE](https://open.spotify.com/artist/05uHL3asnUSGm2jQJIggJl) | [UP](https://open.spotify.com/album/2QDWrprB34Dv25wFuFHFNr) | 4:08 | 2023-03-08 | 2023-03-15 |
 | [UP](https://open.spotify.com/track/6bQalCqswPowgbGaV8L35D) | [ANNABEL LEE](https://open.spotify.com/artist/05uHL3asnUSGm2jQJIggJl) | [MOTHER'S HAMMER](https://open.spotify.com/album/6qbBldeFwMj9ReYVkHWEMb) | 4:08 | 2023-03-08 | 2023-04-13 |
-| [Up and Comer](https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Up and Comer](https://open.spotify.com/album/4auUOEEMRz5Uox3n79ip6M) | 3:46 | 2023-09-13 |  |
+| [Up and Comer](https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Up and Comer](https://open.spotify.com/album/4auUOEEMRz5Uox3n79ip6M) | 3:46 | 2023-09-13 | 2023-12-17 |
+| [Up and Comer](https://open.spotify.com/track/2yiJ9gzRISi4P04GRBDtos) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 3:46 | 2023-11-29 |  |
 | [Useful Machine](https://open.spotify.com/track/4kpGFw3vuISTYN1Cqwfj3E) | [Caracara](https://open.spotify.com/artist/5RXLh2Xx0zUslNR6tIxSqH) | [New Preoccupations](https://open.spotify.com/album/5tdcDns4udwHqsiPhtcvA4) | 4:45 | 2022-04-06 | 2022-06-16 |
 | [Vacant](https://open.spotify.com/track/2Rm5HFAH6wT1UoQCAGLwKU) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Limousine](https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh) | 2:41 | 2023-11-15 |  |
 | [Van Gogh](https://open.spotify.com/track/5x6XxpO2MTeyiuCieCDunk) | [Ray Rockman](https://open.spotify.com/artist/0OKOm3I4JxCKm7MGpf2ToR) | [Van Gogh](https://open.spotify.com/album/01SMSYwa35O2Fyvt9gNDCF) | 2:12 | 2022-08-03 | 2022-08-25 |

@@ -12870,7 +12870,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 172512,
       "name": "Kaikki Ok",
       "url": "https://open.spotify.com/track/4Sru7OlIuO3Y31pq5nZCL5"
@@ -19308,7 +19308,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 190805,
       "name": "Mit\u00e4 se maksaa (feat. TUULI)",
       "url": "https://open.spotify.com/track/1Wi6LwcoXKgMCelfw5O4Po"
@@ -24729,6 +24729,28 @@
     },
     {
       "album": {
+        "name": "Rich Man (feat. Turisti)",
+        "url": "https://open.spotify.com/album/6Cu34u07DXd8IRQzPmClFG"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159236,
+      "name": "Rich Man (feat. Turisti)",
+      "url": "https://open.spotify.com/track/17ClyalxrJFArxC0GoMG0l"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -27718,7 +27740,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -27794,6 +27816,24 @@
       "duration_ms": 231000,
       "name": "Style (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
+    },
+    {
+      "album": {
+        "name": "Sua Ei Oo",
+        "url": "https://open.spotify.com/album/3Y3yFYFr8bROdWyN1T8Dqr"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172275,
+      "name": "Sua Ei Oo",
+      "url": "https://open.spotify.com/track/6sqPOCugqjcu11jIpnAkaL"
     },
     {
       "album": {
@@ -29826,6 +29866,24 @@
       "duration_ms": 162624,
       "name": "Toista mua",
       "url": "https://open.spotify.com/track/5IrehI7ObhFWGhWxGb65U1"
+    },
+    {
+      "album": {
+        "name": "Toistoi",
+        "url": "https://open.spotify.com/album/7ubUJKPvPMLs4SBaWVa124"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139469,
+      "name": "Toistoi",
+      "url": "https://open.spotify.com/track/0yHRLkeNe9j9vqek47Of6f"
     },
     {
       "album": {

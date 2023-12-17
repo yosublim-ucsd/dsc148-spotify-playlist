@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,284 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,323 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 3 | [Come on Now \(Take From Me\)](https://open.spotify.com/track/2IXKXOsEJNTuKvs0eq5h3H) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 3:32 |
 | 4 | [American Cars](https://open.spotify.com/track/5iAIpBBCsNhxXFismnBeQV) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Thunder Above You](https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa) | 3:45 |
 | 5 | [Oh My My](https://open.spotify.com/track/3f8WNNyHJMxYBCTAoRTPle) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Oh My My](https://open.spotify.com/album/3cntJ1GcTKQC7F8OqMuFY8) | 3:39 |
-| 6 | [I Wish I Was An Angel](https://open.spotify.com/track/0pVOOew4ywu5YFAbPh7Jfy) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [I Wish I Was An Angel](https://open.spotify.com/album/5j0UDDZFEfwb3hxAOSdYX6) | 2:22 |
+| 6 | [I Wish I Was An Angel](https://open.spotify.com/track/2Efifc8Ly5EZTt8Dvk7M3A) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 2:22 |
 | 7 | [Loud And Clear](https://open.spotify.com/track/2c4ZAjhZluqa2toXdydyxl) | [The Family Rain](https://open.spotify.com/artist/60HxU5pfO88nduyocuUuYE) | [Machete Western](https://open.spotify.com/album/0OMxSOoXck7ZxWjTpRXuLI) | 3:09 |
 | 8 | [Don't You Touch The Radio](https://open.spotify.com/track/5DBDBwRbdSx2d0GLg3pwzD) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Don't You Touch The Radio](https://open.spotify.com/album/1LYwctumRpZsbrH1uDl02R) | 3:39 |
 | 9 | [Baby I Call Hell \- Deap Vally's Version](https://open.spotify.com/track/5TJlACqFa0qpuz37s4juHA) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Baby I Call Hell \(Deap Vally's Version\)](https://open.spotify.com/album/2RyOnjlZ5xBcyr6ldyQDmI) | 3:02 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 13 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 |
 | 14 | [I See Myself](https://open.spotify.com/track/4TPEq6x5AKefHfLyyyfEu5) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [I See Myself](https://open.spotify.com/album/5ojArqyhIj2WI9z4TBuCgL) | 3:00 |
 | 15 | [Mexico \(I Want You Back\)](https://open.spotify.com/track/6iu6EHTx9w9Hj1orNRcVN9) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 3:10 |
-| 16 | [Walls](https://open.spotify.com/track/2Dnr5QCVLG0jPrC7XweC7E) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [True Love Is Dead](https://open.spotify.com/album/3iL3BH10DzqzBhmvxjkKhi) | 3:00 |
+| 16 | [Walls](https://open.spotify.com/track/3LMiz4T6wBbuGRRGHBo2yv) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 3:00 |
 | 17 | [Beautiful Women](https://open.spotify.com/track/2udaizsOJPOvmZf7q8qL7u) | [Alexander Wren](https://open.spotify.com/artist/6f6oMcKG2GzGjfejpsD7e7) | [To Whom It May Concern,](https://open.spotify.com/album/15FWLsNkClkSb0DLGO7H27) | 2:53 |
 | 18 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/5hjvnv9HHS8VRDdmGjWKRK) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 2:50 |
 | 19 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `MCwzNTNjMTE1ZjIxYmMxYTQ3ZWRiZDNmYTAzNmE0YmFiNzFjZDdjZGEz`
+Snapshot ID: `MCxlZDZlODI2NzAyOGUzYWM1ZDkxMTE1ZDE0OGE3M2I2ZjBkMTYwMjZk`

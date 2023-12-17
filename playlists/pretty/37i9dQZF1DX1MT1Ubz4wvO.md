@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Chabelos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,027 likes - 49 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,032 likes - 49 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Por Lo Que Cuentan](https://open.spotify.com/track/4pwz2chMQWJBw4892UWIz4) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN) | [Por Lo Que Cuentan](https://open.spotify.com/album/1vrky1YdT9NcDYAY9HUhtp) | 2:35 |
 | 49 | [Ponte en Mi Piel](https://open.spotify.com/track/2bjQJqg8ne0CxxvZEi3wmx) | [Tako](https://open.spotify.com/artist/52vQJdhF0QQskH91IhWBmb) | [Ponte en Mi Piel](https://open.spotify.com/album/0GeAYj6Gp44KcIkurpjwfI) | 3:45 |
 
-Snapshot ID: `MCw1MTk1Zjk2M2Q4YTZkODViZjM4NTcxY2Y1ZjIzMDllMTY1M2FkMWM4`
+Snapshot ID: `MCxlYWQ3MTFkMzQ0NjYzMDA0NDIzZjcyYzdkY2QwMjgyZWI2ODlkZDdh`

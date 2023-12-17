@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 180237,
+  "num_followers": 180345,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2U5ZTRmN2EzNGMzMmU4Zjk5N2E4Y2FkZDdkZmU4OTQyMTFiYzg3",
+  "snapshot_id": "MCxiOGRmYWJiM2RkMDc5N2VmOTU0NjI0YzdlMzdjMDU4ZjE3NzQ1Y2Nh",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Oro Salsero (Vol 2)",
-        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 386306,
-      "name": "La Rueda",
-      "url": "https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/2poCxJ77jFLqPPhOsDxMHN"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 260017,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/4jdH5sZmPtDzSCF53nGCYu"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Oro Salsero (Vol 2)",
+        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 386306,
+      "name": "La Rueda",
+      "url": "https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa"
     },
     {
       "added_at": "2022-02-18 16:03:15",

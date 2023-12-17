@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-790 songs - 2 day 16 hr 19 min
+791 songs - 2 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,8 @@
 | [Então Profetiza](https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Então Profetiza](https://open.spotify.com/album/5R9xXreLrZnG7fYGbeHPHs) | 4:19 | 2023-09-25 | 2023-10-21 |
 | [Então Profetiza \(Versão Acústica\)](https://open.spotify.com/track/6HUVpv7GyUMzvFEvpkE21d) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Então Profetiza \(Versão Acústica\)](https://open.spotify.com/album/5jwPfJ2IynSiUzQnWJZoxB) | 3:15 | 2023-11-24 |  |
 | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/track/6iexRD89rlGE5aJWdSQBMX) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/0k6j8inOXGOit3flK9wEGC) | 3:05 | 2023-11-24 |  |
-| [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 | 2023-11-24 |  |
+| [Era Eu](https://open.spotify.com/track/06w4jnIoML6PFpouQXRfZN) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol\. 2\)](https://open.spotify.com/album/4JcaJ35kjjVoOb3vmlLb3S) | 5:37 | 2023-11-24 |  |
+| [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 | 2023-11-24 | 2023-12-17 |
 | [Escolhido](https://open.spotify.com/track/1HL6dDrHS1goaEj3mUJird) | [Juliana Santiago](https://open.spotify.com/artist/4rG1dRZldDf6AtgAuDxX2a) | [Escolhido](https://open.spotify.com/album/4yZZfd8marVzhwAkQRovDK) | 4:05 | 2023-09-01 | 2023-09-09 |
 | [Escolho Deus \- Ao Vivo](https://open.spotify.com/track/10gqMOMIYT7xnNOiDkx7eU) | [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd) | [Escolho Deus \(Ao Vivo\)](https://open.spotify.com/album/0Cqm1XxPvTHt3k9CGpLzZs) | 9:52 | 2023-08-18 | 2023-09-02 |
 | [Esconderijo do Altíssimo \- Ao Vivo](https://open.spotify.com/track/6a37dSu0IKdptrIoGevFAm) | [Amanda Ferrari](https://open.spotify.com/artist/75wI9bTpjKQgKTBfYNzs4W), [Marcelo Dias e Fabiana](https://open.spotify.com/artist/3IdQCstsn4ORocq6UDfaRu) | [Esconderijo do Altíssimo \(Ao Vivo\)](https://open.spotify.com/album/6cc9yswuXbDnv9oBaglKl0) | 5:38 | 2023-07-07 | 2023-07-15 |

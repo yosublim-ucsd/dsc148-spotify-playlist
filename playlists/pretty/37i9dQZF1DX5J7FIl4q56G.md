@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Brand of Sacrifice
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,902 likes - 44 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,950 likes - 44 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 32 | [One Man Army](https://open.spotify.com/track/6nkyZOVPhcS8CWvzBn3hoM) | [Vanir](https://open.spotify.com/artist/6DCYYeX3Iqic6GnQTXM3n4) | [One Man Army](https://open.spotify.com/album/38JqmtUALGZGgxLf0wlYGa) | 4:06 |
 | 33 | [SATURDAY NIGHT \(I AM ALIVE\)](https://open.spotify.com/track/1evmrrWpjfqgPtolaJ5E88) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [SATURDAY NIGHT \(I AM ALIVE\)](https://open.spotify.com/album/7xzlXdplewqwJsXDBYTbcD) | 3:26 |
 | 34 | [Unholy Light](https://open.spotify.com/track/0ktPw1jho7sOw0ZTOcEoHW) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Unholy Light](https://open.spotify.com/album/2m2JQzaBG9xhNaT9QN3vWX) | 6:03 |
-| 35 | [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/track/1iDeMrHU52cHitqhAc4P3O) | [A Scent Like Wolves](https://open.spotify.com/artist/45MtkhYiPMUHwT4Wv7qBji), [ZOMBIESHARK!](https://open.spotify.com/artist/18K9AAgJqUVkquLVd6PJc7) | [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/album/5Rqe2MIbtdolsNLy2UfXIb) | 3:42 |
+| 35 | [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/track/2ktwwNJ017cKQixhlObcFF) | [A Scent Like Wolves](https://open.spotify.com/artist/45MtkhYiPMUHwT4Wv7qBji), [ZOMBIESHARK!](https://open.spotify.com/artist/18K9AAgJqUVkquLVd6PJc7) | [Reach Into Hell \(feat\. ZOMBIESHARK!\)](https://open.spotify.com/album/6PdQykQ6QrjZH8wgLYGe5u) | 3:42 |
 | 36 | [We Owe No One](https://open.spotify.com/track/58OsXiMFHXULHencL2Cs2H) | [Hiraes](https://open.spotify.com/artist/1Djkm24RzECe7M6KuxKZzt) | [We Owe No One](https://open.spotify.com/album/7fNCnE7IqvF4TqPvPj2l9u) | 4:11 |
 | 37 | [Execution](https://open.spotify.com/track/7wNqXSaUwUVcnp4WQDEWZ0) | [For I Am King](https://open.spotify.com/artist/2etNWORcmPZZBKxcyt6dF4) | [Execution](https://open.spotify.com/album/3R2REYMeQFQbhYmQMm2USj) | 3:46 |
 | 38 | [Страх](https://open.spotify.com/track/0vMoNDsjDXM6qaT75Hs1aP) | [Telema](https://open.spotify.com/artist/612GIZcOy1jQVjg8DXGBfJ), [NOSIK](https://open.spotify.com/artist/31SVTS3LgDZLLEe8cGbVV7) | [Страх](https://open.spotify.com/album/5rfBuC6yGsxESRNn7mzLSn) | 3:19 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 43 | [Chainsaw Death](https://open.spotify.com/track/7HAudd8dJkzxSzgDZb8gCX) | [Horrifier](https://open.spotify.com/artist/6FIzAn8mX3wrOPk3oRnd6F) | [Horrid Resurrection](https://open.spotify.com/album/2ZoXycjsRGCtyPj6wFbGOJ) | 3:00 |
 | 44 | [The Iron Cross Burns](https://open.spotify.com/track/3dzSmF7YjEbeszhSROQS76) | [WITCHSNAKE](https://open.spotify.com/artist/5XlNY3iGKGx3DJchWk8QsN) | [Deathcult of the Snake](https://open.spotify.com/album/2NP1SBZRo5PmhuBYrdTEfL) | 5:11 |
 
-Snapshot ID: `MCw4ZWI2ZGU4Njg3N2VhNjc5Y2VhYjE1ZGFhYjY1NzZmY2MzZWYxYzE1`
+Snapshot ID: `MCw0NjAzYmYwYjcyYWJkM2YyMjJlMTJlMDI1YzE1YTcwMDM2YmMyMjU5`

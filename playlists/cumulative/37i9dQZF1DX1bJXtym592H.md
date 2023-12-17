@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-222 songs - 9 hr 0 min
+223 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Coffee Jazz vibes](https://open.spotify.com/track/0MUGs0JpdZiIbtwsACGQci) | [Zleept](https://open.spotify.com/artist/503ArEUA5XIRmhJCk7fRdN) | [But It is L O F I](https://open.spotify.com/album/04CJWN7lrnFkMBWh2ATsF3) | 1:50 | 2022-04-22 |  |
 | [Collage Jazz](https://open.spotify.com/track/0ui7QVgNmYDNUcOSiXYtqH) | [Akkva](https://open.spotify.com/artist/1sqDQoGriTTDMBABo2XbVb) | [dicy](https://open.spotify.com/album/1IgNbjh2eivcU7LRQJkqTY) | 2:18 | 2022-04-22 | 2023-11-17 |
 | [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 | 2023-11-17 |  |
+| [Crispy Sage](https://open.spotify.com/track/08zvdKdFjourd8elx88P5U) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Crispy Sage](https://open.spotify.com/album/0QqBBwU6LApICEEeVIgaVo) | 2:16 | 2023-12-15 |  |
 | [Cruisin](https://open.spotify.com/track/10bEN2SCU2gelIp3UkaVOd) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/0ElJODIKCD7IMk1qx6g5YD) | 2:51 | 2022-09-16 | 2022-12-14 |
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2022-04-22 | 2022-11-20 |
 | [Cruisin](https://open.spotify.com/track/71HwYl1J3sYcMAIvoHczQ9) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/2y72j8cLcPUTBIdbX8lgiE) | 2:51 | 2022-12-09 |  |
@@ -118,7 +119,7 @@
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2022-04-22 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-22 |  |
 | [Miscellaneous](https://open.spotify.com/track/5hA8bjM7r4SyiNzngr2Edv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O) | [Miscellaneous](https://open.spotify.com/album/08zV9UWheKMDLzLAqi1oIJ) | 3:22 | 2022-04-22 |  |
-| [Mollusk](https://open.spotify.com/track/3ayZLIPnbKmirM9XKPpw5z) | [Mello Cotton](https://open.spotify.com/artist/1inhmE1btx8aeNDB9QiDPx) | [Mollusk](https://open.spotify.com/album/39xIOYAisIUGBygeBWoE2Y) | 2:22 | 2023-09-29 |  |
+| [Mollusk](https://open.spotify.com/track/3ayZLIPnbKmirM9XKPpw5z) | [Mello Cotton](https://open.spotify.com/artist/1inhmE1btx8aeNDB9QiDPx) | [Mollusk](https://open.spotify.com/album/39xIOYAisIUGBygeBWoE2Y) | 2:22 | 2023-09-29 | 2023-12-17 |
 | [morning coffe](https://open.spotify.com/track/1H86TtgCH7wlztTQjIJCXo) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [morning coffe](https://open.spotify.com/album/1RajhsnKrQOlMAZkJkItg2) | 2:09 | 2023-09-29 |  |
 | [Morning Vibes](https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/7qVtOLDgRzWmoI1bMW9SXl) | 2:35 | 2022-09-16 |  |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-04-22 | 2022-11-20 |

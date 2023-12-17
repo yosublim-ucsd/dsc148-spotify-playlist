@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,781 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,851 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 2 | [999](https://open.spotify.com/track/3X6kv6zO5IP2rSTYuUOFJi) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [999](https://open.spotify.com/album/0JcxakFKSDNIlNcqjEbPVj) | 3:21 |
 | 3 | [BLITZ](https://open.spotify.com/track/0gIsd766Flqf38dalTiqN5) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [BLITZ](https://open.spotify.com/album/5nmvr2jW0aMmiwNefK2v6t) | 1:22 |
 | 4 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
-| 5 | [Antidote](https://open.spotify.com/track/2xU2W9p3gi9ZyX0L7rBF0F) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/5LlPRkM2T4UK4INb33AhhV) | 1:49 |
+| 5 | [Antidote](https://open.spotify.com/track/75qNRiB12VNzkg52Q13ojm) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/3tpdQGlDN7S3lGfDqrVaYk) | 1:49 |
 | 6 | [King For A Day \(feat\. Kasey Karlsen of Deadlands\)](https://open.spotify.com/track/5W3aG3QA2ZVII4MtstSHHf) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH), [Kasey Karlsen](https://open.spotify.com/artist/2y2juR6NAvHg1nD6qFgRDh), [Deadlands](https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc) | [King For A Day \(feat\. Kasey Karlsen of Deadlands\)](https://open.spotify.com/album/4hWs3SJFD2LbFjiQ61zQ9P) | 4:23 |
 | 7 | [BRAIN DEAD](https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BRAIN DEAD](https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t) | 2:01 |
 | 8 | [Arrows](https://open.spotify.com/track/35r4qfODdAxAUuDl7VRE8C) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE), [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [nulla.](https://open.spotify.com/album/2w0oUtRdOjhPPS30TcJi4X) | 3:35 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 48 | [Basement](https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Basement](https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz) | 3:24 |
 | 49 | [UNFRIENDING IS TRENDING](https://open.spotify.com/track/5uOJP46LOwp2YEAqCzqoKH) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [UNFRIENDING IS TRENDING](https://open.spotify.com/album/4W48fjeVb6UkayPVOG3KcR) | 2:47 |
 | 50 | [Mere Slaughter](https://open.spotify.com/track/24nEK3eH0VQ6Crlzs3FOY9) | [Mutes](https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf) | [Mere Slaughter](https://open.spotify.com/album/3anxp3HAUWpXwwKcUBOCBX) | 3:04 |
-| 51 | [Shadow of a Doubt](https://open.spotify.com/track/0QdGZhhmvu1LkNo6bSEmoj) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/52JXB20kFytV7IrYkb5dcn) | 4:10 |
+| 51 | [Shadow of a Doubt](https://open.spotify.com/track/7gZkRQE9DKe0cylMs9szc5) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 4:10 |
 | 52 | [Oaklands Finest Glass Beaches](https://open.spotify.com/track/7npNvZnmP6lmVH0TcVJuRC) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [Oaklands Finest Glass Beaches](https://open.spotify.com/album/6R88hYGnHoU0jzGwAtJZtq) | 3:39 |
 | 53 | [Tornillo](https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Tornillo](https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b) | 1:33 |
 | 54 | [april's](https://open.spotify.com/track/2GPtEQJmB9Ipn9gQVhKI4k) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [something4now](https://open.spotify.com/album/5gJWaMnvdKsuDYUWPEDpgj) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [SCARED TO DIE](https://open.spotify.com/track/5egHfv3MM6LMHHTrkowFru) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [ENDLESS](https://open.spotify.com/album/5S2eS7V3fIj3zVrdTjEHH6) | 3:15 |
 | 100 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
 
-Snapshot ID: `MCw5MDI1M2MzM2VmMGZjNGVkNzA4MmQ1NGI1NmU3YTFmOWYxMGZlNjNl`
+Snapshot ID: `MCw2YTZmZDdkY2MxMThkNDkwMzBiYTdlYjYzNjY2YzJkY2U0YzY1YWY5`

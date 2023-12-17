@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,871 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,895 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 44 | [First Rule of the Bug](https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Spirit World Tour](https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2) | 3:27 |
 | 45 | [Stick](https://open.spotify.com/track/6MVDqPlrnS0vfH8BI0DY4p) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Tomorrow's Fire](https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z) | 3:02 |
 | 46 | [Root Canal](https://open.spotify.com/track/41QKSwPaV7ADagGinXHeTv) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Root Canal](https://open.spotify.com/album/7vhWbzeW452VtyAhpFsVyM) | 3:16 |
-| 47 | [Void](https://open.spotify.com/track/71CABiTtVWO3eSXTXJRRYz) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Void](https://open.spotify.com/album/0oqG9MPBLpR0fsfMcLqgp3) | 4:15 |
+| 47 | [void](https://open.spotify.com/track/71CABiTtVWO3eSXTXJRRYz) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [void](https://open.spotify.com/album/0oqG9MPBLpR0fsfMcLqgp3) | 4:15 |
 | 48 | [Your Beautiful Self](https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Your Beautiful Self](https://open.spotify.com/album/2lCbzs1hrhbnh1Ra7HafE3) | 4:12 |
 | 49 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
 | 50 | [Medicine](https://open.spotify.com/track/4sINCbrGzO8ycv5qkzxe7d) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Medicine](https://open.spotify.com/album/34V75CfwJ7raA6wjQDpKPb) | 4:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Hot Things](https://open.spotify.com/track/2KjkXKhalXNzDgO8QOqIzu) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Hot Things](https://open.spotify.com/album/0KN38aCbmazAlM73rAnpyq) | 4:18 |
 | 100 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 |
 
-Snapshot ID: `MCw2ZmQxMjJmMmYwYThhZjc3NTNlODg0MzU3NDFhYjZkZmJlN2M1Mzdk`
+Snapshot ID: `MCxmMjczMjc4MzhmOTVjOTkzNTRhZWE3NTIyOWUyYmZlYTI5ZmZiNmIx`

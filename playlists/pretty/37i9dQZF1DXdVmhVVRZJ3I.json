@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 281312,
+  "num_followers": 281369,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWMwYWRlYWU3MTQwNmQzYWQxYjA2YzE4ZmZkMGVkYjAzNTY2Mzc2",
+  "snapshot_id": "MCxkZjczZGE5MWU5OGUyMGJhZTZmMDliYjM1OGZmODIzZWU1NDBkMzc3",
   "tracks": [
     {
       "added_at": "2023-12-15 20:41:19",
@@ -863,46 +863,6 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
-        "name": "Turning Me Up (Hadal Ahbek)",
-        "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Turning Me Up (Hadal Ahbek)",
-      "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
-        "name": "Alive (It Feels Like)",
-        "url": "https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Alive (It Feels Like)",
-      "url": "https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
         "name": "Drinkee (Vintage Culture & John Summit Remix)",
         "url": "https://open.spotify.com/album/2o70wuTVYR2Azaz6jFuaHf"
       },
@@ -923,6 +883,46 @@
       "duration_ms": 205161,
       "name": "Drinkee - Vintage Culture & John Summit Remix",
       "url": "https://open.spotify.com/track/5XXdHWkkprtfG8DxBARihy"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
+        "name": "Alive (It Feels Like)",
+        "url": "https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Alive (It Feels Like)",
+      "url": "https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
+        "name": "Turning Me Up (Hadal Ahbek)",
+        "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Turning Me Up (Hadal Ahbek)",
+      "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
     },
     {
       "added_at": "2023-12-15 20:41:19",

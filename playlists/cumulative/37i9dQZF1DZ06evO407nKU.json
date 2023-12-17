@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Perdona (Estudio)",
+        "url": "https://open.spotify.com/album/1VqXJXP3g6etYfTeBHWWW0"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150685,
+      "name": "Nunca Existi\u00f3",
+      "url": "https://open.spotify.com/track/41Xea12Hh4dXhJZzk1iGU6"
+    },
+    {
+      "album": {
         "name": "O Me Voy O Te Vas (En Vivo)",
         "url": "https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF"
       },

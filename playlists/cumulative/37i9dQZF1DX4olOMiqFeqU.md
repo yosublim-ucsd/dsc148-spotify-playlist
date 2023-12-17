@@ -2,7 +2,7 @@
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists! Cover: Yeng Constantino
+> 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
 129 songs - 9 hr 24 min
 

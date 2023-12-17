@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7194\)
+## Playlists <a name="playlists"></a> \(7195\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2892,6 +2892,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Joda](/playlists/pretty/37i9dQZF1DWYNSDUeK85ev.md)
 - [Joe Cocker](/playlists/pretty/2rdMSQHM9YryNLPnEbQ7g6.md)
 - [John Dahlbäck's DJ Mix](/playlists/pretty/37i9dQZF1DWYdYNGDcCsRS.md)
+- [John Summit's track IDs](/playlists/pretty/37i9dQZF1DX1CFzEu29SDK.md)
 - [Johnossi](/playlists/pretty/5MkJ5KSzz4wmCpIFvM6pFT.md)
 - [Joie Chavis' Stronger You Playlist](/playlists/pretty/37i9dQZF1DWTKunwBLkjR6.md)
 - [Joni Mitchell: Covered](/playlists/pretty/37i9dQZF1DWUTAq251RdAA.md)

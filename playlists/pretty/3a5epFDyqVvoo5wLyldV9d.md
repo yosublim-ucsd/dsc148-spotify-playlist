@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 729 songs - 2 day 8 hr 33 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 730 songs - 2 day 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -737,5 +737,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 727 | [Me Pediste un Beso \- Una Lágrima](https://open.spotify.com/track/61HQfL4bYXMCpUVpYDIKO4) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Éxitos Grandes](https://open.spotify.com/album/6VWms3SP1XwlpTSrxd55mQ) | 1:55 |
 | 728 | [Otorrino Laringologo](https://open.spotify.com/track/3GuYfGFUpxe5WUCsHCYqWz) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Dansez Avec Los Machucambos](https://open.spotify.com/album/1GeuuGhCQvLDV3o0azIjdV) | 2:41 |
 | 729 | [C'est la ouate \- Radio Edit Original Version 1987](https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 3:48 |
+| 730 | [Campesina](https://open.spotify.com/track/2Fv8NLIkcVmYpegH90BcO4) | [Frank Harris](https://open.spotify.com/artist/4OFxfuBQMZXt0C0zdaKL3n), [Maria Marquez](https://open.spotify.com/artist/3zOkRbObx7ELfEpCzc8geE) | [Echoes](https://open.spotify.com/album/1ezmRzKDbp5Mkbo4YDlUJ5) | 3:48 |
 
-Snapshot ID: `ODIxLGNmZWY2NjIzMGEyODNkMWE1Y2M1ZjFmN2ViYjY5ZjNhZDA4OGEzZTg=`
+Snapshot ID: `ODIyLDQxNmI3YmMwZjJhY2Q4NmU0MTJiYmFjOGUxZThjZGI1MWYyODJjNjM=`

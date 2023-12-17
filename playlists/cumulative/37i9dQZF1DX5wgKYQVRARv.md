@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-664 songs - 2 day 9 hr 19 min
+665 songs - 2 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Ghost Horses](https://open.spotify.com/track/7MDcO067h1hlRrUmkaP2Yq) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Ghost Horses](https://open.spotify.com/album/4z1sS5gWwT0QoNfZIMhk5J) | 5:53 | 2021-12-17 | 2022-09-03 |
 | [Ghost Pains](https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr) | [Life Barrier](https://open.spotify.com/artist/27vqyARCCaYTZQXlaMNJLY) | [Ghost Pains](https://open.spotify.com/album/1K675PF4REEeBp5eGstXWA) | 4:19 | 2023-01-20 | 2023-12-15 |
 | [Glass](https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Glass](https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc) | 3:46 | 2023-12-06 |  |
+| [Gluttony](https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Gluttony](https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii) | 3:36 | 2023-12-06 |  |
 | [Go With Your Ghost](https://open.spotify.com/track/4qa0jsQWm6pUWeffnaYxYT) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Go With Your Ghost](https://open.spotify.com/album/7huklU2xBCjc6Ms0nJjHc3) | 4:03 | 2021-12-17 | 2022-05-09 |
 | [God is in the Slumber](https://open.spotify.com/track/5CiLiwu8FzetlzVa15taDs) | [Hippotraktor](https://open.spotify.com/artist/2gK9GyHbKYyvigK6wOb7pv) | [God is in the Slumber](https://open.spotify.com/album/5rDrzED7ZQRb706aNnElUh) | 4:35 | 2021-12-17 | 2022-07-26 |
 | [Gods Way is my Way](https://open.spotify.com/track/5vDwPAcIikEc4g21ndDtVw) | [Deathbeds AU](https://open.spotify.com/artist/2CA3NHP7ecfgsgczb2TApg), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [Sinner](https://open.spotify.com/album/2KasnGDYJUuOPdcejZ1KNt) | 4:06 | 2022-07-13 |  |
@@ -289,7 +290,7 @@
 | [Isolation](https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO) | [AVKRVST](https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW) | [The Approbation](https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs) | 5:40 | 2023-12-06 |  |
 | [It Hurts](https://open.spotify.com/track/0pmNiFoT6MwFbL1F2EjQ5a) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH) | [It Hurts](https://open.spotify.com/album/7Bskjsvg1IJ5xI11YHEt5w) | 4:55 | 2022-02-11 | 2023-01-21 |
 | [It's Killing Me](https://open.spotify.com/track/2tEi6TsccIknIkb2sHidse) | [Shields](https://open.spotify.com/artist/7axtOAPWPWUITkUpTHL34I) | [It's Killing Me](https://open.spotify.com/album/6uVcfD5vrQlTs26f1Rrous) | 3:54 | 2023-01-20 |  |
-| [Jackal](https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1) | [Rogue](https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6) | [Phantom](https://open.spotify.com/album/5ysXmRSsCy63K3R92aqu1P) | 3:30 | 2023-01-20 |  |
+| [Jackal](https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1) | [Rogue](https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6) | [Phantom](https://open.spotify.com/album/5ysXmRSsCy63K3R92aqu1P) | 3:30 | 2023-01-20 | 2023-12-17 |
 | [Judgement \(& Punishment\)](https://open.spotify.com/track/2Jba2VUVpZD7yr5AQl3z6K) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Judgement \(& Punishment\)](https://open.spotify.com/album/1rdD03sOLqU6iqPOEsGAFN) | 4:19 | 2022-07-13 | 2022-07-29 |
 | [Judgement \(& Punishment\)](https://open.spotify.com/track/6CrjUrtl4s2fGErcFmNhHq) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Macro](https://open.spotify.com/album/4cTjPXaFkUyaHr29G1PiT9) | 4:19 | 2022-07-13 |  |
 | [Juno](https://open.spotify.com/track/0AtM8eGmS8imRoJ9Y4La4E) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Sonder](https://open.spotify.com/album/2DNaVYXNrbGqhCTpkCAANH) | 5:12 | 2022-07-13 | 2022-07-29 |

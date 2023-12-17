@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: 42 Dugg
 
-639 songs - 1 day 5 hr 41 min
+640 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Knocked Up](https://open.spotify.com/track/1CnTYUBeYKnwiWl2ljX6uI) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [Knocked Up](https://open.spotify.com/album/4z6R7wci0eXJZn7vQMxDBV) | 2:45 | 2023-04-07 | 2023-04-29 |
 | [Know the Difference \(feat\. Lil Baby\)](https://open.spotify.com/track/6inHSFgzJCNhgtSlu5Wtc2) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Know the Difference \(feat\. Lil Baby\)](https://open.spotify.com/album/4Y0J4NwCJRiu8jSz98aQKz) | 2:51 | 2021-09-03 | 2022-02-12 |
 | [Kome On](https://open.spotify.com/track/11NLXN1vcW8CZbrW3hZC8c) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Kome On](https://open.spotify.com/album/1aulOdGQu7QycqVQKOu2Jr) | 2:14 | 2023-02-17 | 2023-05-27 |
+| [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/2GWbJqFPEi1FGC9DnBRbk1) | 3:37 | 2023-12-16 |  |
 | [LaLa](https://open.spotify.com/track/6w2KROybiRv1URugNPVTf8) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [LaLa](https://open.spotify.com/album/44lUYd2veeTdtZzTdYDESX) | 3:09 | 2022-12-02 | 2023-02-04 |
 | [Lamar](https://open.spotify.com/track/1CEDHuG68UDpjTB8nKB5YB) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Lamar](https://open.spotify.com/album/4YwqUXComMtnzrvoeorWW2) | 2:31 | 2023-06-16 | 2023-08-05 |
 | [Last Days](https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Last Days](https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy) | 2:34 | 2023-07-28 | 2023-08-19 |

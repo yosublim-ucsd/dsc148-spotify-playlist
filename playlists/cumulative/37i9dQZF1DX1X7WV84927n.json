@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 207916,
       "name": "Ambulance",
       "url": "https://open.spotify.com/track/2fC4a3b5UR2CiEEHxozOdd"
@@ -8688,6 +8688,24 @@
       "duration_ms": 211906,
       "name": "Yoko Ono",
       "url": "https://open.spotify.com/track/3WVIyZblxhQXk6M6PaO3Hy"
+    },
+    {
+      "album": {
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316979,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
     },
     {
       "album": {

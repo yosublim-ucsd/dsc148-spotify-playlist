@@ -1890,6 +1890,28 @@
     {
       "album": {
         "name": "Cobra / Riddim",
+        "url": "https://open.spotify.com/album/1LrKr549uqGd77TPGJKKFr"
+      },
+      "artists": [
+        {
+          "name": "Calyx",
+          "url": "https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230232,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/4CHfeRbAh89wGnm7R47HMs"
+    },
+    {
+      "album": {
+        "name": "Cobra / Riddim",
         "url": "https://open.spotify.com/album/47MY78pAUHzmtZuVWdX2JO"
       },
       "artists": [
@@ -1904,7 +1926,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 230232,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/6mViBmPiZS8g5CrzAyA005"

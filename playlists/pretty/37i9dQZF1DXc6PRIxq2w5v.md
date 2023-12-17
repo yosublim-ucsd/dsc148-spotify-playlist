@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN, Kawe, Thiagão, Lookas, Noventa
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,827 likes - 84 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,926 likes - 84 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 50 | [A Glória da Segunda Casa](https://open.spotify.com/track/0pkDpDx2338D3SiCfFs6RZ) | [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [Lxlrod](https://open.spotify.com/artist/5H0D7GVFCNJqEW5BdVb82A) | [A Glória da Segunda Casa](https://open.spotify.com/album/2OOHzHaoKmp8KRWOv8sOui) | 2:26 |
 | 51 | [Amor Ágape](https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Ágape](https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc) | 5:26 |
 | 52 | [Labirinto](https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Labirinto](https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW) | 3:37 |
-| 53 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
+| 53 | [Domingão](https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Domingão](https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v) | 2:23 |
 | 54 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 |
-| 55 | [Domingão](https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Domingão](https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v) | 2:23 |
-| 56 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
-| 57 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
-| 58 | [Paulo & Silas](https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg) | [Tutuzzin](https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ) | [Paulo & Silas](https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd) | 2:53 |
+| 55 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
+| 56 | [Paulo & Silas](https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg) | [Tutuzzin](https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ) | [Paulo & Silas](https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd) | 2:53 |
+| 57 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
+| 58 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
 | 59 | [Es o Meu Refúgio](https://open.spotify.com/track/5KATaqcejGz2LIlQskSZEZ) | [Lil Boas](https://open.spotify.com/artist/070njtH4mYTth11cYf2DFL) | [Es o Meu Refúgio](https://open.spotify.com/album/27AyPTY8JJxFSRfo2nO0G2) | 2:34 |
 | 60 | [Arca de Noé](https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF) | [Lz Lipe](https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb), [You Music](https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171) | [Arca de Noé](https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX) | 2:56 |
 | 61 | [Além](https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Notas de um Coração Amado](https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6) | 2:13 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 83 | [Já Agradeço](https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Já Agradeço](https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ) | 3:20 |
 | 84 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
 
-Snapshot ID: `MCwwNWE2Mjk4NmU5YzMwZTgwNDYzMTk2MWI3Mzk1NjYxYzJhNzYxYWZh`
+Snapshot ID: `MCw1N2Y0NmFhZTQ4MTFmOTBhNjI4YTNhODMzODhjOWYyMjQyMWQzODM0`

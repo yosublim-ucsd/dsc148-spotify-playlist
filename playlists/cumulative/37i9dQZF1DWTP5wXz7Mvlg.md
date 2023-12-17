@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-111 songs - 8 hr 28 min
+112 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Talk Loud \- Instrumental Mix](https://open.spotify.com/track/3cdnq0bS0BoFNL4vAFwGZS) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [Talk Loud](https://open.spotify.com/album/6P7dUBsBA8sPUyjTjIdTzX) | 5:00 | 2022-07-11 | 2023-07-22 |
 | [Techy](https://open.spotify.com/track/77IwSWO5w5oxfoY3RbzNPi) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW), [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM) | [Techy / Spice](https://open.spotify.com/album/0x0DRZKdbuL206ws8YKaKE) | 4:20 | 2022-07-11 | 2023-07-22 |
 | [Tell You What I Did](https://open.spotify.com/track/4cdTUcdzvpbVz9BJazc1ou) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [Tell You What I Did](https://open.spotify.com/album/7dkwus9p5TrJ10AO9hKrO0) | 3:29 | 2023-07-21 |  |
-| [Tempest](https://open.spotify.com/track/4KmY87fV2G2UoQg0FeM2Qe) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5) | [Tempest / You Want It All](https://open.spotify.com/album/5TFQcoOawAAPjTOZaMWn5X) | 5:24 | 2023-07-21 |  |
+| [Tempest](https://open.spotify.com/track/4KmY87fV2G2UoQg0FeM2Qe) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5) | [Tempest / You Want It All](https://open.spotify.com/album/5TFQcoOawAAPjTOZaMWn5X) | 5:24 | 2023-07-21 | 2023-12-17 |
+| [Tempest](https://open.spotify.com/track/6R2XBRs8RvW32ghQvZjm4V) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5) | [Tempest / You Want It All](https://open.spotify.com/album/4xjWqduKl8oLdwlJVqf7R1) | 5:24 | 2023-07-21 |  |
 | [That's A Lyric Ya Know](https://open.spotify.com/track/01QrCJzho8JfQlaGahCjTa) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/1nSV8lSUZng3kE2QXbD47s) | 4:24 | 2023-07-21 | 2023-09-16 |
 | [That's A Lyric Ya Know](https://open.spotify.com/track/7jzzNfVBZHJGlcBdU7yp4t) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/3lwaweybTBFV0zWi9irzlc) | 4:24 | 2023-07-21 |  |
 | [The Guillotine](https://open.spotify.com/track/4OwCRJEc8wKDODmmzvKIQZ) | [Marcus Intalex](https://open.spotify.com/artist/1LUyPCV4OiooCwffEq5ftD) | [Sell Your Soul](https://open.spotify.com/album/01jCedkuDzg5UGUXceOIrY) | 5:09 | 2023-07-21 |  |

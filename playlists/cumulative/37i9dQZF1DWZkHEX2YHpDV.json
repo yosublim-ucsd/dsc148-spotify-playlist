@@ -2525,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "BRAIN DEAD",
+        "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121071,
+      "name": "BRAIN DEAD",
+      "url": "https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H"
+    },
+    {
+      "album": {
         "name": "Brain Dead",
         "url": "https://open.spotify.com/album/41yWIvdu2ZjZQ6C8igUYlY"
       },
@@ -3488,6 +3506,24 @@
       "duration_ms": 164117,
       "name": "Coke Nose",
       "url": "https://open.spotify.com/track/6Y9ZB2eeYmbEYm7XifqTcg"
+    },
+    {
+      "album": {
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/2mEPTLjLcbOvhj5NDWqeQc"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5OmxeyU1mffYWsf9kjEaic"
     },
     {
       "album": {
@@ -5787,7 +5823,7 @@
     },
     {
       "album": {
-        "name": "existential hymns for the average sigma (vol. 9)",
+        "name": "existential hymns for the average sigma [vol. 9]",
         "url": "https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU"
       },
       "artists": [
@@ -13232,7 +13268,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 135879,
       "name": "Paint My Lips",
       "url": "https://open.spotify.com/track/3p0h0odkJaUS230iSRJQgS"
@@ -16990,7 +17026,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 204360,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/5NImC08Hj8grPzDTqMT53n"

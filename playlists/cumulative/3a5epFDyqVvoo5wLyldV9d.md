@@ -4,7 +4,7 @@
 
 > 
 
-724 songs - 2 day 8 hr 11 min
+725 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Calla Boca](https://open.spotify.com/track/2hSPBmW2nioeRSPjH0dzZ2) | [La Redada](https://open.spotify.com/artist/2GsOqV500sy1t59cwQA4Ed) | [Club Coco](https://open.spotify.com/album/6oBPgqrxkG0SrBJIq6xLHK) | 3:43 | 2021-06-03 |  |
 | [Camel Walk](https://open.spotify.com/track/3L9QumV4R2xIQO72SzlCYH) | [Movement in the City](https://open.spotify.com/artist/1uxukWQhdHLhZdpPaQEGYs), [Pops Mohamed](https://open.spotify.com/artist/1BpS3pvLEEb19kOktkdhM9) | [Black Teardrops](https://open.spotify.com/album/0v7jLUDHsEYtxH06knqiq5) | 13:59 | 2021-10-27 |  |
 | [Caminito](https://open.spotify.com/track/2i9jUBJS6RWr1UhyR9mxft) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:37 | 2022-01-08 |  |
+| [Campesina](https://open.spotify.com/track/2Fv8NLIkcVmYpegH90BcO4) | [Frank Harris](https://open.spotify.com/artist/4OFxfuBQMZXt0C0zdaKL3n), [Maria Marquez](https://open.spotify.com/artist/3zOkRbObx7ELfEpCzc8geE) | [Echoes](https://open.spotify.com/album/1ezmRzKDbp5Mkbo4YDlUJ5) | 3:48 | 2023-12-15 |  |
 | [Candilejas](https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb) | 2:45 | 2022-12-29 |  |
 | [Candomblé](https://open.spotify.com/track/4rxa95fLF4TMtXpzk2Z5uI) | [Mario Castro Neves](https://open.spotify.com/artist/5J7uFtrn6gJvYR4H1za7Mg) | [Mario Castro Neves & Samba S.A.](https://open.spotify.com/album/4ZCypgOdJt00AcgnQHlDHr) | 2:06 | 2023-05-29 |  |
 | [Canto Aberto](https://open.spotify.com/track/08ZbRSADAzy6SoFKrQMlri) | [évé](https://open.spotify.com/artist/2e4ExUKwheMOBh4Lunc37e), [Manduka](https://open.spotify.com/artist/1veociVuawGsSHf5NuVilT) | [Canto Aberto](https://open.spotify.com/album/7ITbmVNAdGb2zpSRBzMe17) | 6:58 | 2021-10-27 |  |

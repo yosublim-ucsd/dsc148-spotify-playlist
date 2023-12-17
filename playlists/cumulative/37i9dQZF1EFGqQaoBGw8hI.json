@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 126466,
       "name": "Better Have A Gift",
       "url": "https://open.spotify.com/track/7j8ryi6b9DXpkCYtFRvbNp"
@@ -3129,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144333,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0v76A4FVc6OYkhwJXA3xVc"
+    },
+    {
+      "album": {
         "name": "Rare Masters",
         "url": "https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ"
       },
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 143760,
       "name": "Friends - From \u201cFriends\u201d Soundtrack",
       "url": "https://open.spotify.com/track/2Lp8OBz55UR4zF92AT7Qsi"
@@ -3968,10 +3986,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 243733,
       "name": "Ho! Ho! Ho! (Who'd Be A Turkey At Christmas)",
       "url": "https://open.spotify.com/track/7rs6BMGuc9eBGKMOPfuSn3"
+    },
+    {
+      "album": {
+        "name": "Step Into Christmas",
+        "url": "https://open.spotify.com/album/6qXYjhnacPdM4QT0aYrFuJ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "Ho! Ho! Ho! (Who'd Be A Turkey At Christmas)",
+      "url": "https://open.spotify.com/track/1VXgLmMVNVIxI1iTB4oIli"
     },
     {
       "album": {
@@ -7616,7 +7652,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 304133,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"

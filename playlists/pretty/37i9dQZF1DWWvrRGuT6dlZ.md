@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The top 50 tracks from Fresh Finds SG & MY in 2023\. Cover: Josh Makazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,322 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,325 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 49 | [us being us](https://open.spotify.com/track/4FHE9B5Rbv4bKjeX2swwoE) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [us being us](https://open.spotify.com/album/0mxKiEZT7DrY3mKUzgeYbi) | 3:34 |
 | 50 | [dance](https://open.spotify.com/track/5LydD1if5g27ED6dbzWl7w) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [dance](https://open.spotify.com/album/4xApFzYPLxIqildPk6RtDu) | 3:08 |
 
-Snapshot ID: `MCw5YzEzZGIwNWQwMWE5YjU1ZjgyMTg4MmExM2UxY2IzNDI4YzUzZDVh`
+Snapshot ID: `MCw3NzFiZDI0MGMwNzk0ZTY1MmJmMjhkNzU5ZGI2YjM0OGU0Yjg1OGYz`

@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet!
 
-150 songs - 8 hr 44 min
+151 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Written In The Stars](https://open.spotify.com/track/6SLMyJPRTh2zCX9SJJHTZQ) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Written In The Stars](https://open.spotify.com/album/08z3DsL7P6RpBR3FgNMSvN) | 3:51 | 2022-03-22 |  |
 | [Yeowooya](https://open.spotify.com/track/3d98r5yXtWoVmoYYIaWX5h) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The liar and his lover \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/56cdGHgP49fbtIbMLFKT6A) | 3:55 | 2022-03-22 |  |
 | [You Better Know](https://open.spotify.com/track/59fJbRecO16BIw9L1neEug) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 4:10 | 2022-03-22 |  |
-| [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 | 2022-03-22 |  |
+| [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 | 2022-03-22 | 2023-12-17 |
+| [Your Name](https://open.spotify.com/track/7MyhcoU6jpoeDSTXw9yXAp) | [조이](https://open.spotify.com/artist/1C9THAsTBK6yqZi8sKP10v) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7Hte4qBJwmSCELZyYiJeP3) | 3:45 | 2023-11-13 |  |
 | [Zimzalabim](https://open.spotify.com/track/2cvi3IRTibXzmAm4f8P2HP) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:10 | 2022-03-22 |  |
 | [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 | 2022-03-22 |  |
 | [ZOOM](https://open.spotify.com/track/18OjYSOz2ryc2vLmAeG2de) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:04 | 2022-11-28 |  |

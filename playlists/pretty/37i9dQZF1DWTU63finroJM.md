@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future\. New artists on the horizon\. Cover: Zior Park.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,796 likes - 116 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,818 likes - 116 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 115 | [Jalan Tengah](https://open.spotify.com/track/4QgumLhe9bOEiyKwazYNer) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Jalan Tengah](https://open.spotify.com/album/6WqoW3CKWU3lPyBDhcDzgn) | 4:50 |
 | 116 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 |
 
-Snapshot ID: `MCwwNmZlZDBkODllYTViYTE1MzZmOTFmODYzNTVjMjNjMWZlZjFmNzNh`
+Snapshot ID: `MCw4NGQxNjg0M2Q2YzNmYWIzZGJiYjliOWNlNDExNTViZWY2YTQ0MTE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Yuridia
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,979 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,138 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 30 | [Lifted LA](https://open.spotify.com/track/4erzhMAvooXFTNnTIXrDOf) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Lifted LA](https://open.spotify.com/album/5hfe2vr5j5z9MvFLWcFJxl) | 2:44 |
 | 31 | [15 Millones](https://open.spotify.com/track/6Hf6G34o2LMkqnH0dZoXxP) | [Tamarindo Norteño](https://open.spotify.com/artist/08iGmnBkoG9wJxPUtoGX8n), [La Bertiniza De Culiacan](https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J) | [15 Millones](https://open.spotify.com/album/7KZtFDbJCo8AEualOOpFPr) | 3:21 |
 | 32 | [Humo Trankilizante](https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR), [Hijos De Leyva](https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe) | [Humo Trankilizante](https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs) | 2:32 |
-| 33 | [Por Eso Te Amo](https://open.spotify.com/track/3jXiSU6jiKGNuqkyFeLr7T) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Ahorita Aquí Estamos](https://open.spotify.com/album/4YKYfzs4y6d19f6WobDnrs) | 3:25 |
+| 33 | [Por Eso Yo Te Amo](https://open.spotify.com/track/3jXiSU6jiKGNuqkyFeLr7T) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Ahorita Aquí Estamos](https://open.spotify.com/album/4YKYfzs4y6d19f6WobDnrs) | 3:25 |
 | 34 | [No Es Tan Facil](https://open.spotify.com/track/1pJ5gvXJ3itc2AqLm6iBo9) | [Grupo Corporacion](https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o) | [CJNG Soy Mencho](https://open.spotify.com/album/6tkgchD4iwoz4EBtfnpOs6) | 1:54 |
 | 35 | [Como Poder Olvidarte](https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Cómo Poder Olvidarte](https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9) | 3:14 |
 | 36 | [Mi Abuelo Vino a Visitarme](https://open.spotify.com/track/37lamRWmPnjNgkHxne4QqE) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Mi Abuelo Vino a Visitarme](https://open.spotify.com/album/2ctFEp47JqxhPamkk9a41N) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
 | 50 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL) | 2:29 |
 
-Snapshot ID: `MCwyYTdkY2NiMTQ2N2Y0NGJjODNjNTI2NTFkZDNmYzBhOWRlZGY1YzUz`
+Snapshot ID: `MCw4NTM5NmQzN2M0YjFjOGRmMzczZDI1MDRiN2U5NTQ1ZTgwYzRjN2Iy`

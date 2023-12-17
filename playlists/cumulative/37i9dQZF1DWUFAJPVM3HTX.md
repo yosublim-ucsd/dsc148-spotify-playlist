@@ -4,7 +4,7 @@
 
 > The top 150 tracks from Fresh Finds R&B in 2023\. Cover: <a href="https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD?si=tXThmOY1RGeAdeUHnJBI8w"> JayO </a>\. Updates every Wednesday.
 
-1,931 songs - 4 day 3 hr 30 min
+1,932 songs - 4 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1726,7 +1726,8 @@
 | [Time To Lose](https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Outlines](https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU) | 2:50 | 2023-05-12 | 2023-08-04 |
 | [Timeless](https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Timeless](https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47) | 3:14 | 2023-07-14 | 2023-09-09 |
 | [Timeless](https://open.spotify.com/track/3a5aiBo7q33rfqpRqLuMhs) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Timeless](https://open.spotify.com/album/78p7OUay4SIL5CeBfRXdTl) | 3:00 | 2023-03-31 | 2023-04-22 |
-| [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-05 |  |
+| [Times It By Two](https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk) | 3:25 | 2023-11-29 |  |
+| [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-05 | 2023-12-17 |
 | [Tired](https://open.spotify.com/track/3zT1gP0U341IR09Fi6hYcY) | [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Tired](https://open.spotify.com/album/4bENg81E4VvdXBLAdZk4O8) | 2:37 | 2023-04-29 | 2023-08-04 |
 | [Tit 4 Tat \(All I Know\)](https://open.spotify.com/track/4UCCEqkteMu7YqgwjUMDBc) | [Akira Ræ](https://open.spotify.com/artist/5NFVnZpuhjaFnBHKtLnDds) | [Tit 4 Tat \(All I Know\)](https://open.spotify.com/album/6jsBDflQDxz3cMrkcLeEp7) | 2:15 | 2023-07-21 | 2023-09-09 |
 | [To the Moon](https://open.spotify.com/track/1fQRAh1Fv9fIJvZYEG3v8d) | [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [To the Moon](https://open.spotify.com/album/1lAAmNINOS3BNg8qhuvWTH) | 3:44 | 2023-11-15 | 2023-11-30 |

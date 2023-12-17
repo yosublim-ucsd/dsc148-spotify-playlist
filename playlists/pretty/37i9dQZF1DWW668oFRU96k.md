@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x YUQI x JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,577 likes - 83 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,656 likes - 83 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 82 | [Better Recognize](https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Better Recognize](https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag) | 3:31 |
 | 83 | [54 Hours](https://open.spotify.com/track/7GMv05oN3VnJLsQptfT6ZQ) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Lewis Ray](https://open.spotify.com/artist/1Dkb2YpzUItkuERW7BFjND) | [54 Hours](https://open.spotify.com/album/2IX1aRioQMKVmuLDAaDUrW) | 3:00 |
 
-Snapshot ID: `MCw5YTU0NDI0M2FiNzFlZmQ2MzkzMDI3ZjY1ZTVmM2ExYTVjNDY0MGMy`
+Snapshot ID: `MCxjNDViMjc3YmQ4NDg2ZDY2NmFiN2RjODA3OTEwMzQxYWU4MzUyZTU3`

@@ -1532,10 +1532,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 298435,
       "name": "Only Ever Kind",
       "url": "https://open.spotify.com/track/03hCREcMFPPTcEUE8slTUX"
+    },
+    {
+      "album": {
+        "name": "Deep News",
+        "url": "https://open.spotify.com/album/3eWZOeJh1ksdf8HPdKi5aG"
+      },
+      "artists": [
+        {
+          "name": "Halogenix",
+          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298435,
+      "name": "Only Ever Kind",
+      "url": "https://open.spotify.com/track/17DkbezyxnABF5YBMUR4xW"
     },
     {
       "album": {

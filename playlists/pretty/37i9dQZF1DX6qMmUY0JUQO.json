@@ -1,12 +1,12 @@
 {
   "description": "From House & Techno to the spheres of Pop. This playlist features legendary tracks that have been produced on a TR-909 drum machine. Cover: Jeff Mills",
-  "num_followers": 129998,
+  "num_followers": 130097,
   "original_name": "909 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTA1MjVlYjQwODdhZmYyOGZlZTUxYzk2NzU3MzgxN2UwM2ZkYTAy",
+  "snapshot_id": "MCw1ZjdjMTdlMTYyMzA0NWY4N2Y0ZTEyZGUwN2VjODM0NWU2Nzk4Mzlk",
   "tracks": [
     {
       "added_at": "2022-09-08 17:19:57",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-08 17:19:57",
       "album": {
-        "name": "PopArt: The Hits",
-        "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 304080,
-      "name": "Go West - 2003 Remaster",
-      "url": "https://open.spotify.com/track/33gDIKlrUnY1dTWYsm5BFL"
-    },
-    {
-      "added_at": "2022-09-08 17:19:57",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 464266,
       "name": "Show Me Love - Extended Mix",
       "url": "https://open.spotify.com/track/7nmvwosdapB8Bro5uIM7n2"
+    },
+    {
+      "added_at": "2022-09-08 17:19:57",
+      "album": {
+        "name": "PopArt: The Hits",
+        "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 304080,
+      "name": "Go West - 2003 Remaster",
+      "url": "https://open.spotify.com/track/33gDIKlrUnY1dTWYsm5BFL"
     },
     {
       "added_at": "2022-09-08 17:19:57",

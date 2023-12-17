@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+    },
+    {
+      "album": {
         "name": "God's Plan",
         "url": "https://open.spotify.com/album/4jeGvh0qWfsqc2uKOVZWSz"
       },
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 356856,
       "name": "God's Plan",
       "url": "https://open.spotify.com/track/05mhPiyBlhHAHBLXU3sJYj"
@@ -2668,10 +2686,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 348848,
       "name": "Lucky You",
       "url": "https://open.spotify.com/track/19fnC8RBVn7OLeNQoKeTxK"
+    },
+    {
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244679,
+      "name": "Lucky You (feat. Joyner Lucas)",
+      "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
     },
     {
       "album": {
@@ -3060,7 +3100,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
@@ -3078,7 +3118,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 206758,
       "name": "N95",
       "url": "https://open.spotify.com/track/1oCIaEXW2XWgjFZzCA95q3"
@@ -3184,7 +3224,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 547711,
       "name": "No Guidance",
       "url": "https://open.spotify.com/track/6EMdWKiCwbUSDa3Su6uJpe"
@@ -3206,7 +3246,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
@@ -3332,7 +3372,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 248133,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
@@ -3350,7 +3390,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 259259,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/3nVYxcDFidYUWU7avEEUDc"
@@ -4248,7 +4288,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 169266,
       "name": "Run Me Dry",
       "url": "https://open.spotify.com/track/5GG3knKdxKWrNboRijxeKF"
@@ -4266,7 +4306,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 204309,
       "name": "Run Me Dry",
       "url": "https://open.spotify.com/track/2nOIBkn1U4Aq9cXh8j54eV"
@@ -4625,6 +4665,24 @@
     },
     {
       "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205205,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/3LBM25IgxI9y549SiYxtSi"
+    },
+    {
+      "album": {
         "name": "Stuck On You (Official Music Video)",
         "url": "https://open.spotify.com/album/2zK1QNH0E0yOvF8trHUVrw"
       },
@@ -4636,7 +4694,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 232703,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1327DCkONksf0c7eQVeRUG"

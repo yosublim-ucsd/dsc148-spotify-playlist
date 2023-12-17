@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -4428,7 +4428,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 170995,
       "name": "Closer to You (feat. Major Lazer)",
       "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
@@ -18221,6 +18221,24 @@
     },
     {
       "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/6iNskYuiXgETf24Hl4FbT8"
+      },
+      "artists": [
+        {
+          "name": "KingLee",
+          "url": "https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174403,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/33fUk4sBTnhJQnts8IGGBd"
+    },
+    {
+      "album": {
         "name": "Rumors (feat. Cardi B)",
         "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
       },
@@ -19330,7 +19348,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 167246,
       "name": "Shot Glass of Tears",
       "url": "https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p"

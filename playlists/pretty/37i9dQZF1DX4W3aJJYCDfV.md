@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Stefflon Don \(pictured\), Reneé Rap & Megan Thee Stallion, Celeste and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,193 likes - 104 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,265 likes - 104 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 5 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 |
 | 6 | [There Will Come A Day \- From The Original Motion Picture “The Color Purple”](https://open.spotify.com/track/7d85Lf81OaQ43VfOCQWxi7) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [There Will Come A Day \(From The Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/4dIqji1wN91X70LlogDNva) | 3:43 |
 | 7 | [Therapy](https://open.spotify.com/track/70lkOeQI0L3bSgj183ZPm5) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Therapy](https://open.spotify.com/album/7rROu8cbJwD6gr3DwcPx07) | 2:08 |
-| 8 | [I Like](https://open.spotify.com/track/1QE4gxq2czTc8ClhPvTrgT) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [Tia Carys](https://open.spotify.com/artist/6G5nZjv6YmdialJA071tD3), [Lady Ice](https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44) | [I Like](https://open.spotify.com/album/0zSwAYM6WdPW2sj3JyQpya) | 2:37 |
+| 8 | [I Like](https://open.spotify.com/track/1QE4gxq2czTc8ClhPvTrgT) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [Lady Ice](https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44), [Tia Carys](https://open.spotify.com/artist/6G5nZjv6YmdialJA071tD3) | [I Like](https://open.spotify.com/album/0zSwAYM6WdPW2sj3JyQpya) | 2:37 |
 | 9 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 |
 | 10 | [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 |
 | 11 | [Doubted Me](https://open.spotify.com/track/6UtbpIkvZkL3eODRJ8QuHQ) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Meekzness](https://open.spotify.com/album/2puF8hJFMPoEaYMaSHTZ8F) | 2:46 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 74 | [Taking Off](https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Full Circle: Sonic Book Two](https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx) | 3:49 |
 | 75 | [LABEL REJECT](https://open.spotify.com/track/6HH25ATXvQ73yNZdtgHlRP) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [LABEL REJECT](https://open.spotify.com/album/3JhCTDh48Lysat6kGeSEfe) | 3:42 |
 | 76 | [Remind Me](https://open.spotify.com/track/4HPUbi24ZEBCwO9kSQ0Jk3) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Hilda](https://open.spotify.com/artist/0gNDtB2LFXVzalP35MXaql) | [Remind Me](https://open.spotify.com/album/6gwNZoJSrLZlbg8e5FPFWX) | 2:34 |
-| 77 | [Antidote](https://open.spotify.com/track/2xU2W9p3gi9ZyX0L7rBF0F) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/5LlPRkM2T4UK4INb33AhhV) | 1:49 |
+| 77 | [Antidote](https://open.spotify.com/track/75qNRiB12VNzkg52Q13ojm) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/3tpdQGlDN7S3lGfDqrVaYk) | 1:49 |
 | 78 | [Falling Behind](https://open.spotify.com/track/3mJSu7WdreL5WucqTpjwW7) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Falling Behind](https://open.spotify.com/album/6w9ZhMq9O9UwoOT8A6fkp1) | 4:43 |
 | 79 | [Daddy](https://open.spotify.com/track/4bahlJIInsjIUKXrod6RqO) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Daddy](https://open.spotify.com/album/7lL7z2Kbqj7gCjRlAKENmb) | 2:12 |
 | 80 | [Rooftopin Again](https://open.spotify.com/track/3SagPegAVUZSNfT3khDcZZ) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz) | [Rooftopin Again](https://open.spotify.com/album/3YRQzZCG4RTeZTWByhIJrV) | 3:33 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 103 | [Honey It Hurts](https://open.spotify.com/track/7ongjHst2eIHbVXA2xHAO9) | [Aniwa](https://open.spotify.com/artist/7wdePkwUlvbzv8zdt0RmJX) | [Bridging Gaps: Portraits of Rising Female Artists \[UK Edition\]](https://open.spotify.com/album/0uomdtfmhEv93vax0tPKeO) | 3:14 |
 | 104 | [This Christmas](https://open.spotify.com/track/21HybBY92stwLkDGNMvB6N) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Nashe](https://open.spotify.com/artist/7J2qQLdf6V7JJM4GcVyZmz) | [This Christmas](https://open.spotify.com/album/1PehjA0qDUsDeLJY7yIZ8v) | 2:55 |
 
-Snapshot ID: `MCw5NmQ0ZWZlZWY4NjY1MjUxMjE1Y2QwN2YwOWI2MjJjMGM0ZjE4NTJk`
+Snapshot ID: `MCwxYzQ2ZWNkYjA4NjFkN2E1ODI1MjAzMjZiM2I5Y2NjNmMwZmMzNGI5`

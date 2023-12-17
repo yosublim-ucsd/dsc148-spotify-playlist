@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Van Zee.",
-  "num_followers": 42027,
+  "num_followers": 42042,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2I2ZDc0MDI2YjNmNDViM2QzN2UyYTMxMDlhOWFjMWEwNDZhYTM0",
+  "snapshot_id": "MCwyY2FlMWMzZDA3OGRmMjRmNWRlZGY1MGU3NDhiNmM5ZWUwMzA2ZWE1",
   "tracks": [
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Dan\u00e7a",
+        "url": "https://open.spotify.com/album/0P7u3Ze1wNDzKFFNo7to1C"
+      },
+      "artists": [
+        {
+          "name": "nastyfactor",
+          "url": "https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1"
+        }
+      ],
+      "duration_ms": 179179,
+      "name": "Dan\u00e7a",
+      "url": "https://open.spotify.com/track/5dFuWvNXDMwWJg3Fs64pJM"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "COMIGO (extended version)",
         "url": "https://open.spotify.com/album/6UKRXjm8zeSIKopgdAc5TR"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 167563,
       "name": "COMIGO (extended version)",
       "url": "https://open.spotify.com/track/5MOTrUpMemyBYPgtKHeVqA"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Dan\u00e7a",
-        "url": "https://open.spotify.com/album/0P7u3Ze1wNDzKFFNo7to1C"
-      },
-      "artists": [
-        {
-          "name": "nastyfactor",
-          "url": "https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1"
-        }
-      ],
-      "duration_ms": 179179,
-      "name": "Dan\u00e7a",
-      "url": "https://open.spotify.com/track/5dFuWvNXDMwWJg3Fs64pJM"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1407,6 +1407,26 @@
       "duration_ms": 191250,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Bem Flam",
+        "url": "https://open.spotify.com/album/3beKsW0TQ0AtbRGLlAuxdk"
+      },
+      "artists": [
+        {
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        }
+      ],
+      "duration_ms": 244675,
+      "name": "Bem Flam",
+      "url": "https://open.spotify.com/track/11n5HTMsLZwrlXbq5R8PRX"
     },
     {
       "added_at": "2023-12-15 00:00:00",

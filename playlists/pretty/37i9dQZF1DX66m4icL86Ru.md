@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Tokischa & Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,724 likes - 78 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,848 likes - 78 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 77 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
 | 78 | [Money Come \(Remix\)](https://open.spotify.com/track/2tqwKHgPswTefQEFX1D53j) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Money Come \(Remix\) \[feat\. Ivorian Doll & Big Boss Vette\]](https://open.spotify.com/album/4OXrnvtWDjyAw4dY1KilOv) | 3:33 |
 
-Snapshot ID: `MCxiMDkwZmQ5Nzc3YzM1MjE4Y2IxZDA5OTRjZDg0M2YyNThmMDE3NTJi`
+Snapshot ID: `MCw0MGUyOWE2YmM0OGMxZDYxYmNhNDdhYzMwYTBmMzkyZWVhYzJjMGIx`

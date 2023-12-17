@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 595029,
+  "num_followers": 595080,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjA0NDdiZTI1MDQ3NjJmMTNjYjNkODQyNjU0ZWJmZjIwNDU3MDAz",
+  "snapshot_id": "MCwzZjg2OWMxNzc1ZmQ0M2RkMDUwMDllZmY4NzlhNzRiZjdhMmYyMzY2",
   "tracks": [
     {
       "added_at": "2023-12-08 07:32:26",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Oks Lang",
-        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        }
-      ],
-      "duration_ms": 336369,
-      "name": "Oks Lang",
-      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
+        "name": "Oks Lang",
+        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
       },
       "artists": [
         {
-          "name": "Khel Pangilinan",
-          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
+      "duration_ms": 336369,
+      "name": "Oks Lang",
+      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -647,6 +631,22 @@
       "duration_ms": 252214,
       "name": "o ninanais",
       "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
+      },
+      "artists": [
+        {
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Balang Araw",
-        "url": "https://open.spotify.com/album/1WTaHQ1ulKruduEtwyRLDD"
-      },
-      "artists": [
-        {
-          "name": "I Belong to the Zoo",
-          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
-        }
-      ],
-      "duration_ms": 288207,
-      "name": "Balang Araw - Single Version",
-      "url": "https://open.spotify.com/track/2f0Z6I0fDfgDI3htl2RoTd"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Versions & Beyond",
         "url": "https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 223013,
       "name": "Especially For You",
       "url": "https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Balang Araw",
+        "url": "https://open.spotify.com/album/1WTaHQ1ulKruduEtwyRLDD"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "duration_ms": 288207,
+      "name": "Balang Araw - Single Version",
+      "url": "https://open.spotify.com/track/2f0Z6I0fDfgDI3htl2RoTd"
     },
     {
       "added_at": "2023-12-08 07:32:26",

@@ -218,10 +218,28 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 253707,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/7EAakQcoaMfAUTBLhAhMco"
+    },
+    {
+      "album": {
+        "name": "Clean With Passion For Now, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3WuQoJSNfbgY1O0fa0oEt6"
+      },
+      "artists": [
+        {
+          "name": "Huhgak",
+          "url": "https://open.spotify.com/artist/16UoIs2XQBPrSg0LAH0N9y"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253707,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/35zlb9CNR4eAaApeBf9DIi"
     },
     {
       "album": {
@@ -1641,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Piece",
+        "url": "https://open.spotify.com/album/3xwclNQx4vY9Axr6x3Giib"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236706,
+      "name": "P.S. I Love You",
+      "url": "https://open.spotify.com/track/3pdjuJyzeaF4Wa7ey20Kp0"
+    },
+    {
+      "album": {
         "name": "Piece / 1\uc9d1",
         "url": "https://open.spotify.com/album/0XMpFHpJUmTJ2boT5MseZT"
       },
@@ -1652,7 +1688,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 234004,
       "name": "P.S.I LOVE YOU",
       "url": "https://open.spotify.com/track/1T1QoOL9HT3DA68kIh17xL"

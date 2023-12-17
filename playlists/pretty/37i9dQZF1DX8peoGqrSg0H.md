@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NuNew
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,415 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,491 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 4 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 |
 | 5 | [Stand By](https://open.spotify.com/track/5gKIQRJmfu3x9F4a9nIKrg) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [Stand By \- Single](https://open.spotify.com/album/1a0KehRZqLKSK69TKsJcxK) | 3:56 |
 | 6 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp) | 3:32 |
-| 7 | [ร้ายกาจ Life Guard](https://open.spotify.com/track/4kVNbGOSIcNpkS94R0NYFh) | [EVENING SUNDAY](https://open.spotify.com/artist/0e6n1eAbx8lGdusrlfiOwM) | [ร้ายกาจ Life Guard](https://open.spotify.com/album/2ZqLx6n3R6m03g1CeMRYlz) | 3:47 |
+| 7 | [ร้ายกาจ Lifeguard](https://open.spotify.com/track/4kVNbGOSIcNpkS94R0NYFh) | [EVENING SUNDAY](https://open.spotify.com/artist/0e6n1eAbx8lGdusrlfiOwM) | [ร้ายกาจ Lifeguard](https://open.spotify.com/album/2ZqLx6n3R6m03g1CeMRYlz) | 3:47 |
 | 8 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
 | 9 | [ไม่ใช่แค่โฆษณา \(Heart Sell\)](https://open.spotify.com/track/4vO7gm9M9h1jUs2c8GsWqR) | [PRIMETIME](https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi) | [ไม่ใช่แค่โฆษณา \(Heart Sell\)](https://open.spotify.com/album/67x9lIhKQZfqs9ZNJ1jjIQ) | 2:58 |
 | 10 | [ชอบไปหมด \(Way Too Cute\)](https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:39 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 |
 | 65 | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/album/5yLgzmQrTpCqmH40sJu8B0) | 3:29 |
 
-Snapshot ID: `MCxkMjM2ZjE1MjJiMWRkMDA3MDdiMWJkZGM4N2U4OWYyYmZhMTU0MWEx`
+Snapshot ID: `MCwyYjlkNTc0NGNkMjExMDkyNDVmZTNhY2NjNjA0MDUxNjZhNTUyM2Vj`

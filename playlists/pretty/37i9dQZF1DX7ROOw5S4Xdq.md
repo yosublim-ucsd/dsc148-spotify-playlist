@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,187 likes - 95 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,256 likes - 95 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 9 | [Então Profetiza \(Versão Acústica\)](https://open.spotify.com/track/6HUVpv7GyUMzvFEvpkE21d) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Então Profetiza \(Versão Acústica\)](https://open.spotify.com/album/5jwPfJ2IynSiUzQnWJZoxB) | 3:15 |
 | 10 | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/track/1BNQRaKNzpON8391fA1f6w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/album/3MT5kzpvVPsjl1OzmdK1Ur) | 8:30 |
 | 11 | [A Nuvem](https://open.spotify.com/track/1PBMPxk5xDzRf6H3GRQS4C) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [A Nuvem](https://open.spotify.com/album/5QgKrMFMiB8GIXi3D8GN6d) | 4:20 |
-| 12 | [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 |
+| 12 | [Era Eu](https://open.spotify.com/track/06w4jnIoML6PFpouQXRfZN) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol\. 2\)](https://open.spotify.com/album/4JcaJ35kjjVoOb3vmlLb3S) | 5:37 |
 | 13 | [Flutuar](https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Flutuar](https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX) | 3:34 |
 | 14 | [Filhos de Crente \#1 \- Jesus Invadiu o Acústico \(feat\. Lookas & Noventa\)](https://open.spotify.com/track/6nb4anyJTi60sdQ0cZWbup) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [Noventa](https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK) | [Filhos de Crente \#1 \- Jesus Invadiu o Acústico \(feat\. Lookas & Noventa\)](https://open.spotify.com/album/3s5vcKGvTawT9YXMojqO9d) | 7:16 |
 | 15 | [Tudo é Graça](https://open.spotify.com/track/7do3LoVcxq27h6PWBDg8WO) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Louvor À Luz da Lua](https://open.spotify.com/album/1cwTrsZx2FaGKiDvGk8Op0) | 5:40 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 94 | [Naquela Cruz](https://open.spotify.com/track/0RcDWdgqUlN1es8XePSr0T) | [Cintia Alves](https://open.spotify.com/artist/44QKgWEOgO8Au3u2fzrTAo) | [Naquela Cruz](https://open.spotify.com/album/0OqgbG8RKtch1zUglONrlk) | 3:16 |
 | 95 | [Deus Sem Rival](https://open.spotify.com/track/6omyfzYqN1rRkWad7gTlZU) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Deus Sem Rival](https://open.spotify.com/album/1c0ufX8C017iO7T31UWE1N) | 6:14 |
 
-Snapshot ID: `MCw1MDNjMjg1ZDFmYTRmN2M1YzAwYTBhMDgxZmI1ZDU5ZTJiYzA5OTlm`
+Snapshot ID: `MCwzMjMxMThjMTk1NDYzYTBhMDRiYzQ1MDFmNDMyMzAxNDVhZGRkODRm`

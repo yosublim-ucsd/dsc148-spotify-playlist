@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Modo maratón Guadalupe\-Reyes activado! Ponte ready para las fiestas con lo mejor de la semana Kim Loaiza en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,471 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,943 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 16 | [El Ángel Que Te Cuida](https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [El Ángel Que Te Cuida](https://open.spotify.com/album/6ECJOBHCepwHMuziMDq202) | 2:45 |
 | 17 | [Por la Ciudad](https://open.spotify.com/track/4Qs1ZU59JCbzEhW0UCb8Xg) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Gabriel Ssoe](https://open.spotify.com/artist/6jj51ACAVuQf2879t7p7O8) | [Corridos Alternativos](https://open.spotify.com/album/6XATE16MzC571kcQ66D6te) | 2:52 |
 | 18 | [Anónimo](https://open.spotify.com/track/0F7B3ElpO7wSaoCMu6WjeZ) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Anónimo](https://open.spotify.com/album/1bI8txw6NUWEGzX6ETb0M5) | 2:01 |
-| 19 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:14 |
+| 19 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 |
 | 20 | [Romperte \(feat\. Brray, Juanka & Nio Garcia\) \- Remix](https://open.spotify.com/track/2zAjYhUMZ833CvbDeE6aSf) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Romperte \(Remix\) \[feat\. Brray, Juanka & Nio Garcia\]](https://open.spotify.com/album/5hwhLz3uw1fLSyVljnm9AD) | 6:33 |
 | 21 | [Esos Labios](https://open.spotify.com/track/5Zd7YWWxMqJVtkzuVFsD4o) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Esos Labios](https://open.spotify.com/album/4IVq1uTqpM96dS7EPoRqcb) | 3:07 |
 | 22 | [Toxic Love](https://open.spotify.com/track/77f1OWVKTQGrJDC3ldke4c) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Toxic Love](https://open.spotify.com/album/7ul9TcklTfp4MwiZrYeyzX) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [DIOSA </3](https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN) | [Nuvia](https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ), [Rodezel](https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x) | [DIOSA </3](https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw) | 2:44 |
 | 50 | [Max Win](https://open.spotify.com/track/1m5Hh6j7SCZF0G9ZvokJVQ) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ) | [Max Win](https://open.spotify.com/album/3dR7jQWcLTdwVwfLznUBP6) | 1:37 |
 
-Snapshot ID: `MCw4ZjBmYjdmODQyNWZkZTg0MjU5OTFmMjgxZGQ5Y2M4NmExZWQ1MzUz`
+Snapshot ID: `MCwzMTBlYTM4ZmRiMTMyZGY5NGQzZTkzMGI4ZGNlMmQzZjRmZWM5ZmJj`

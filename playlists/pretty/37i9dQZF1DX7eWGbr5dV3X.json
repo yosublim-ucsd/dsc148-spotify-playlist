@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8701,
+  "num_followers": 8703,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTljZDViMzcxODgzMGMyZTdhOTU3NjlhYTJlM2M2NjA5ZmE2Y2Ix",
+  "snapshot_id": "MCxlZTcwZDQ3MjJlZWExZDE4NzQxYWI2NzZmODFiYTIxMjE4YzdjYzJh",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Fix Me",
-        "url": "https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk"
-      },
-      "artists": [
-        {
-          "name": "Jake Zyrus",
-          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
-        }
-      ],
-      "duration_ms": 205291,
-      "name": "Fix Me",
-      "url": "https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
         "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 273080,
       "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
       "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk"
+      },
+      "artists": [
+        {
+          "name": "Jake Zyrus",
+          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
+        }
+      ],
+      "duration_ms": 205291,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ"
     },
     {
       "added_at": "2023-06-30 23:59:00",

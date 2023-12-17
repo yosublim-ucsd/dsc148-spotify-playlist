@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadhif Basamalah
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,984 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,017 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 22 | [Langit Yang Sama](https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama](https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ) | 4:05 |
 | 23 | [Hanya Kamu](https://open.spotify.com/track/4vFBtdQpUOCmNDsBw695lA) | [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Hanya Kamu](https://open.spotify.com/album/1qNZJhr764qUgH3S665Z6R) | 3:17 |
 | 24 | [Anak Helang](https://open.spotify.com/track/4bGng9M5rKzoVdPed0b9Rb) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH), [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Anak Helang](https://open.spotify.com/album/1omCdeVzKlTxQuxLCsNhxo) | 2:21 |
-| 25 | [RINDU](https://open.spotify.com/track/17pSQmiUD9z5JvU6hDa5QQ) | [Tya Edros](https://open.spotify.com/artist/1YK8lltqE3LL9bjSMjOoMa) | [RINDU](https://open.spotify.com/album/03knQq0JFVMOAnAL4xr4nN) | 3:53 |
+| 25 | [Rindu](https://open.spotify.com/track/17pSQmiUD9z5JvU6hDa5QQ) | [Tya Edros](https://open.spotify.com/artist/1YK8lltqE3LL9bjSMjOoMa) | [Rindu](https://open.spotify.com/album/03knQq0JFVMOAnAL4xr4nN) | 3:53 |
 | 26 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 |
 | 27 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
 | 28 | [Cukuplah](https://open.spotify.com/track/67Waz67okfBOlMVpg1UitI) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [A.R](https://open.spotify.com/album/5Jearm6TNWQC1QF2pu7ojR) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Insan Ku Sayang Kini Menghilang](https://open.spotify.com/track/2GfYkX9TttUK1DkbZPOf48) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Insan Ku Sayang Kini Menghilang](https://open.spotify.com/album/6O92aSoDDqXXh9EkRG2FXh) | 5:42 |
 | 50 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 |
 
-Snapshot ID: `MCxiYmQ0ZWZjNjlkOWFkMGNjMGE5YWM0Y2NhNTBiODU4YWU5MjRmYjU3`
+Snapshot ID: `MCwyMGM1OTQ0MGI2M2EyMDhhOGNkYjZiMzYyYTVlZDc5MTZjYzkwMjI2`

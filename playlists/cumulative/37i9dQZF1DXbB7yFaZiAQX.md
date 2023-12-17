@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-440 songs - 1 day 7 hr 6 min
+441 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [I Will Follow](https://open.spotify.com/track/4E0LjJ2894jsfvLMQb6Ti7) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/3GCEpIo4vFVQx1hO6UHSsY) | 3:38 | 2018-12-12 | 2022-07-29 |
 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 | 2018-12-12 |  |
 | [I Won't Let You Down](https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0) | [Ph.D.](https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO) | [I Won't Let You Down](https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95) | 4:02 | 2021-03-29 |  |
-| [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 | 2018-12-12 |  |
+| [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 | 2018-12-12 | 2023-12-17 |
 | [I've Seen That Face Before \(Libertango\)](https://open.spotify.com/track/5pkykO4PBUKMwjcOzrlfJd) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [The Collection](https://open.spotify.com/album/5nCjfqLalpFlsZ45jVbxgA) | 4:29 | 2019-08-01 | 2022-07-16 |
 | [In A Big Country](https://open.spotify.com/track/4cY1KFcIcTkjXxxF4KVDpY) | [Big Country](https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ) | [The Crossing](https://open.spotify.com/album/1E4YQWCiaIuRG7ih78thrE) | 4:43 | 2019-11-03 |  |
 | [Infected](https://open.spotify.com/track/7mqRfGV4RarfX8Pgl5BIqT) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Infected](https://open.spotify.com/album/13uzNaVoUa39KlxEtE8Fo6) | 4:48 | 2019-08-02 | 2022-07-29 |
@@ -249,6 +249,7 @@
 | [My Spine Is The Bassline](https://open.spotify.com/track/3VxFd7SnACXpFR2LBROrsR) | [Shriekback](https://open.spotify.com/artist/5zdhsKuFI263xttcgdoW3c) | [Disco Not Disco Digital Edition](https://open.spotify.com/album/3mw4x6EP6OEl2ypn7iHmGa) | 4:01 | 2018-12-12 | 2022-07-29 |
 | [N.I.T.A.](https://open.spotify.com/track/5K97YR5NWP2H88mQ4p8JlH) | [Young Marble Giants](https://open.spotify.com/artist/0tQ2Q4y9iUkKszxXyB14ZH) | [Colossal Youth](https://open.spotify.com/album/5wxOkqHT4xGadN56TAzF09) | 3:31 | 2018-12-12 | 2022-04-19 |
 | [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 | 2018-12-12 | 2023-10-18 |
+| [Nellie the Elephant](https://open.spotify.com/track/38XNqOJLqiJXcummwwJx4u) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2OwyqJHrZxmSoH05gG2X7Z) | 3:27 | 2023-05-03 |  |
 | [Nellie The Elephant](https://open.spotify.com/track/4YFtztmFu4Kq2CBPKL2qC3) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad \- The Anthology](https://open.spotify.com/album/2uYraKzm3H1btz5VajleOj) | 3:27 | 2018-12-12 | 2022-05-31 |
 | [Never Let Me Down Again](https://open.spotify.com/track/0ooy3NjwsJreceWYCxlfQt) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses](https://open.spotify.com/album/5Yyx661Ksxl2pmRUuGLzw3) | 4:48 | 2020-01-07 | 2022-07-29 |
 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2020-01-07 |  |

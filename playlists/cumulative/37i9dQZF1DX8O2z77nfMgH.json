@@ -25545,7 +25545,7 @@
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194400,
+      "duration_ms": 192000,
       "name": "CORLEONE",
       "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
     },
@@ -38210,6 +38210,28 @@
       "duration_ms": 208000,
       "name": "El Pesero",
       "url": "https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk"
+    },
+    {
+      "album": {
+        "name": "El Pich\u00f3n",
+        "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "El Pich\u00f3n",
+      "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
     },
     {
       "album": {
@@ -103438,28 +103460,6 @@
       "duration_ms": 203298,
       "name": "Rich and Humble 2",
       "url": "https://open.spotify.com/track/0kqX200IcIjV6kgFu26zrz"
-    },
-    {
-      "album": {
-        "name": "RICHY",
-        "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "date_added": "2023-12-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191400,
-      "name": "RICHY",
-      "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The Top 100 Tracks from Fresh Finds Philippines this 2023! Cover: The 12/21 Artwork: Isu Kim
 
-1,907 songs - 4 day 17 hr 18 min
+1,908 songs - 4 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Ayaw Mo Sa Matino](https://open.spotify.com/track/0zphT0nQdPJ6gHcw0T01lV) | [BLuNaYr](https://open.spotify.com/artist/4kWMODPErY3MCRSrTT3Q9n) | [Ayaw Mo Sa Matino](https://open.spotify.com/album/6dtubkggtCCUKYlggXoLB8) | 2:53 | 2023-08-17 | 2023-09-08 |
 | [Ayaw Nang Umuwi](https://open.spotify.com/track/32ctkfQfbhGTJDmUaCPP0U) | [Brxdvcl](https://open.spotify.com/artist/6cAz2eSvy5z4SFDCwxZKgv), [Naczyyy](https://open.spotify.com/artist/00VsYYzuRfymYXwYMH9g4Y) | [Ayaw Nang Umuwi](https://open.spotify.com/album/5LrI7Z0WYlRUy1dfWaFmFH) | 2:37 | 2023-03-02 | 2023-03-18 |
 | [Ayaw'g Undang](https://open.spotify.com/track/5XDLXaBJvTVqpUrCmU6si1) | [Xaje](https://open.spotify.com/artist/1FMDR9a058wt2TtbQH9NNN) | [Ayaw'g Undang](https://open.spotify.com/album/2fSOPFXih7EDT5fUTtPT4A) | 1:55 | 2023-02-23 | 2023-03-03 |
-| [Ayoko Na](https://open.spotify.com/track/3VEfrWoKPXmFZBhr22jd9V) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Ayoko Na](https://open.spotify.com/album/1ys9OnR7NP9E17fLk5cdrT) | 2:53 | 2023-01-19 |  |
+| [Ayoko Na](https://open.spotify.com/track/2J8rCkPKqxbzwXV3ZLorgd) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Ayoko Na](https://open.spotify.com/album/7ray2qTLEfcj9nFEv5RhsO) | 2:53 | 2023-11-29 |  |
+| [Ayoko Na](https://open.spotify.com/track/3VEfrWoKPXmFZBhr22jd9V) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Ayoko Na](https://open.spotify.com/album/1ys9OnR7NP9E17fLk5cdrT) | 2:53 | 2023-01-19 | 2023-12-17 |
 | [Ayoko Na](https://open.spotify.com/track/2BwIseOuuRAR3x5NJ2xGYv) | [LONER](https://open.spotify.com/artist/7wuV7nxsIsWC0UBbDDBR6R) | [Ayoko Na](https://open.spotify.com/album/4eRyUFUqjUE9GZD9VxnyEt) | 3:09 | 2023-10-12 | 2023-11-11 |
 | [Ayoko Na Umuwi](https://open.spotify.com/track/19voXXQ1fORAEwtN3SZnUX) | [Mazeboiii](https://open.spotify.com/artist/3DFM7ya81iULbYzrxvXzo2), [Mckvicous](https://open.spotify.com/artist/3LmpBDdrBom6TKWedUMayB) | [Ayoko Na Umuwi](https://open.spotify.com/album/3JlPDOEYEHMYqP66cOg3WO) | 2:37 | 2023-03-09 | 2023-03-31 |
 | [Ayoko nang umibig v1](https://open.spotify.com/track/5Mah0oWSnKDdTN6m8uPOmT) | [Jeko Royo](https://open.spotify.com/artist/5HX42nUgvxmShHsxivaApm), [RB Slatt](https://open.spotify.com/artist/1mp3obA5hrR8GjHx95Wlrk) | [Ayoko nang umibig \(Red Edition\)](https://open.spotify.com/album/4TgsJy5RjHj3TAk6URt9z1) | 4:13 | 2023-10-12 | 2023-11-11 |

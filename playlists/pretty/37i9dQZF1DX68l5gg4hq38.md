@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 
 > <a href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">Laurent Garnier</a>'s favorite tracks\. Updated regularly\. Curated by Laurent Garnier\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,220 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,259 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 | 22 | [Tonight](https://open.spotify.com/track/0GPeEgqKqYomAy1g9fTaQC) | [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Tonight](https://open.spotify.com/album/7AtuyQFRSwLXcx7sI5Se10) | 5:21 |
 | 23 | [Gatekeeper's Ball](https://open.spotify.com/track/6N6xETPtDZrwucKAmSnrgx) | [Gunjack](https://open.spotify.com/artist/2MvSxzsKTTExXrAzTvMuvB) | [Dubwars Sessions Vol\. 1](https://open.spotify.com/album/0E07rLLScpyNKDOs07HW76) | 5:19 |
 | 24 | [Stink](https://open.spotify.com/track/1BDjLOfhpxAO8SWSHjZnaV) | [Heist](https://open.spotify.com/artist/1xk9s7mLDJ5qNhZ3Q2XeGx), [DJ Pleasure](https://open.spotify.com/artist/5DJy9sn7NgNmQuclpv12m6) | [Flea Hop/Stink](https://open.spotify.com/album/2kEYiNmTUaE65ZxHn05vZY) | 4:16 |
-| 25 | [Sing To It](https://open.spotify.com/track/1ek7PlSjPK7N1cpWcCA5q3) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV) | [Sing To It](https://open.spotify.com/album/0vYWRMjedgZAKxMI2OwbF2) | 2:06 |
+| 25 | [Sing To It](https://open.spotify.com/track/4aLCYPCYZFIieIO3MRpggd) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV) | [I'll Wait, I Guess](https://open.spotify.com/album/5maV8uhGAs5FAsvmAelIWx) | 2:06 |
 | 26 | [Princess Diana](https://open.spotify.com/track/4nKwe18MLVlLgiVzVmSRDI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:34 |
 | 27 | [PKKNO](https://open.spotify.com/track/6sCswwn2fMFBTLZn1RD8od) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [PKKNO](https://open.spotify.com/album/5xV2eCwkCdihN4CaXoeppg) | 2:47 |
 | 28 | [Planet](https://open.spotify.com/track/2DP1wtDaddvBlxEAF9ejYc) | [Kenny Glasgow](https://open.spotify.com/artist/6AYA1vVqIkYngOSSWu8Zbb) | [Mind Under Control](https://open.spotify.com/album/1nIcWXS6X0Ff7vDlrCKtaS) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 | 49 | [Lost in the Deep](https://open.spotify.com/track/5uKb1xRoaVBFyjscyAhnMN) | [Vince Watson](https://open.spotify.com/artist/2Y3cH3SUZL9XKfKD3novXt) | [Another Moment in Time](https://open.spotify.com/album/2nsFp8cCdMbgW4tFw6jI3m) | 7:03 |
 | 50 | [Timbaleiro \- Original Mix](https://open.spotify.com/track/6SXfCWWAeqj0UcdD3jvS1k) | [Walter G](https://open.spotify.com/artist/1LMZL3VJSIm3OjKTtpuyUw) | [Timbaleiro](https://open.spotify.com/album/6grPcCiJpAxsgFo0oXBDt2) | 6:02 |
 
-Snapshot ID: `MCxjZjJjYzJhOTQzZjY1MzI4ZWZiOWU4Yzc5Zjc1MjU1YjlmNmQ4MjM5`
+Snapshot ID: `MCxhZTkxZDIyOTczYzk4Mzg4ZWM3ZjA3Nzk2MzkwNGE2YjdlYzk5MGVl`

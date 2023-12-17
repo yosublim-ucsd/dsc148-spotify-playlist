@@ -4,7 +4,7 @@
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-157 songs - 21 hr 32 min
+158 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ascencion](https://open.spotify.com/track/4byb8gZffMTaIZD4xl0PfQ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 13:35 | 2022-06-15 | 2022-10-08 |
 | [Barabas](https://open.spotify.com/track/1lc7hX8e7HtG3yMSTqukkc) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:53 | 2022-06-03 |  |
 | [Bird of Paradise: Part 1](https://open.spotify.com/track/7ozjAzViP4PTJxKuvIVpjE) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 5:01 | 2023-01-05 | 2023-01-13 |
+| [Bird of Paradise: Part 2](https://open.spotify.com/track/0cdhRIV9fPas3MVK0Ln2HB) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 6:34 | 2023-12-16 |  |
 | [Black Woman](https://open.spotify.com/track/41BeACjgrGUeIPR0jLLqD9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 4:15 | 2022-10-12 |  |
 | [Blue Anthem](https://open.spotify.com/track/6LLSaICqGSFPi6TYaYT6au) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Krishna Bhatt](https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 8:39 | 2022-11-15 | 2023-05-31 |
 | [Blyzole](https://open.spotify.com/track/6BrdVvQypYv7sw3YheghN2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Blyzole](https://open.spotify.com/album/4y3UyR0KbhPv0lVtJQEKkl) | 1:01 | 2022-10-28 | 2023-03-30 |
@@ -42,7 +43,7 @@
 | [Dark Queen](https://open.spotify.com/track/5GGEurc6TiBvLliZJhiNvG) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7) | 13:47 | 2023-03-26 | 2023-03-28 |
 | [Delay](https://open.spotify.com/track/6OftP5FpB3hY91MHEixb7o) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 12:39 | 2022-05-29 | 2022-10-12 |
 | [Derveshum Carnivalis](https://open.spotify.com/track/7GimwMUtRDNZ90VEI5yDnq) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 3:09 | 2022-07-09 | 2023-09-22 |
-| [Descending Moonshine Dervishes](https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8) | 51:48 | 2022-05-29 |  |
+| [Descending Moonshine Dervishes](https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8) | 51:48 | 2022-05-29 | 2023-12-17 |
 | [Desert of Ice \- Instrumental](https://open.spotify.com/track/2N1cxjxCFGJ7BQu6S5k7Cq) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: Shri Camel](https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6) | 15:12 | 2022-05-29 |  |
 | [Djembé](https://open.spotify.com/track/75vCy3l4JCFXS2RX2wbGM3) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [In C / Djembé](https://open.spotify.com/album/0IiGykTV2eaJ8DVVDQHlhw) | 14:40 | 2022-07-29 | 2022-08-09 |
 | [Doorways](https://open.spotify.com/track/1UgTN2HtXsDlNXbkzMsb36) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [\*Michael McClure](https://open.spotify.com/artist/0pEXXYU5Ygc0Mk4unN8FfZ) | [I Like Your Eyes Liberty](https://open.spotify.com/album/2lGodELWQLcCvbAfC5STpx) | 6:44 | 2023-05-26 | 2023-05-30 |

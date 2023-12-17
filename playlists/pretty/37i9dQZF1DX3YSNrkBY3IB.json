@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 72313,
+  "num_followers": 72367,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDkyZTQ5MTkyM2Y5Zjg1OGU3N2FlZmU2NTgzZjNkNGFlOWY2OTMz",
+  "snapshot_id": "MCxmNTU0ZDk1OGZhZWI5MWIxZGVkMDU3NGI1NzNmMWYwMzUyMDA0MWFm",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
+      "added_at": "2022-01-10 20:50:24",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 261265,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
+    },
+    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "So...How's Your Girl?",
@@ -183,22 +199,6 @@
       "duration_ms": 337200,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
-    },
-    {
-      "added_at": "2022-01-10 20:50:24",
-      "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 261265,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
     },
     {
       "added_at": "2021-03-19 15:07:31",

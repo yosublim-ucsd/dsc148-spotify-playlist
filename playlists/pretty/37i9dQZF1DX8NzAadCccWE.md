@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,151 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,163 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 99 | [She Wore Velour](https://open.spotify.com/track/26bWOl3yNd6CkpgAiuZnZb) | [Velour](https://open.spotify.com/artist/3i0qn1J7C2VDP4EqRLmA2Q) | [The Velvet Collection](https://open.spotify.com/album/1p2e2evMM5MfSO2WAkm0MR) | 4:47 |
 | 100 | [Valentine](https://open.spotify.com/track/5oeyrLM976q1W9XLcFEajc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Valentine](https://open.spotify.com/album/4nE6oMV2vmqYyoj6GJwdAv) | 2:08 |
 
-Snapshot ID: `MCwxNjc5Yjc5NTVlMjQ4MmE4YmMxNTBlNDVkYzY0NjJmOGFiZWFiM2Q3`
+Snapshot ID: `MCw5YTFkNmZlMGNiMDIwMzQ5ZTM5MmE3YjQ5ZGU4MjZmYmIwZTI0OGYw`

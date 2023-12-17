@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNzY4MjAsMDAwMDAwMDAyY2EwYWFjNGJjMWE4ZDYzMTY3ZjEwOGEyZDRmOGQ1ZA==",
+  "snapshot_id": "MjgzNzY4MjAsMDAwMDAwMDAzZWYwOGUzMDljOTNhZTUzMjFkNWYwNDZiODg1MDczNw==",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -32,13 +32,17 @@
       },
       "artists": [
         {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        },
+        {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 183800,
-      "name": "Survivor (Full Version)",
-      "url": "https://open.spotify.com/track/4NVJ6YedmGvLHKBkRMCCVs"
+      "duration_ms": 105666,
+      "name": "Survivor (Film Version)",
+      "url": "https://open.spotify.com/track/05y7nFKiuOxvgnIXFZQYwD"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -168,9 +172,41 @@
           "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         }
       ],
-      "duration_ms": 293590,
-      "name": "Shut Up!",
-      "url": "https://open.spotify.com/track/6gs0NGgd2C9jkhzaCtUj9p"
+      "duration_ms": 302393,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/1ujzje23n9CutTP8VhJpgp"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/1Z7QoKOpqAWfiHnurlsiti"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/79ypLbXeRsgNgd3uZTOcY4"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "A Chapter Called Children of Bodom (Final Show in Helsinki Ice Hall 2019)",
+        "url": "https://open.spotify.com/album/5nfjI93DAK3YWEJZTjzOv1"
+      },
+      "artists": [
+        {
+          "name": "Children Of Bodom",
+          "url": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "In Your Face - Final Show in Helsinki Ice Hall 2019",
+      "url": "https://open.spotify.com/track/1cJWaRlxacxdB91D0Zeu8K"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -223,22 +259,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "50th Anniversary Live - First Night",
-        "url": "https://open.spotify.com/album/0MnKe6xNpkKkjAhzGDkra8"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 240901,
-      "name": "Dancin' In The Ruins - Live",
-      "url": "https://open.spotify.com/track/24a7LwTRotFfFtmPhnEgqv"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "The Beautiful Dark of Life",
         "url": "https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp"
       },
@@ -251,6 +271,22 @@
       "duration_ms": 188608,
       "name": "The Beautiful Dark of Life",
       "url": "https://open.spotify.com/track/6A3UXnzzTP6KwGl9uArrLU"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "50th Anniversary Live - First Night",
+        "url": "https://open.spotify.com/album/0MnKe6xNpkKkjAhzGDkra8"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 240901,
+      "name": "Dancin' In The Ruins - Live",
+      "url": "https://open.spotify.com/track/24a7LwTRotFfFtmPhnEgqv"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -271,6 +307,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "EL CABALLO Y EL NI\u00d1O",
+        "url": "https://open.spotify.com/album/61bqqpsTgzma7WFMFdisRi"
+      },
+      "artists": [
+        {
+          "name": "Mago Rey",
+          "url": "https://open.spotify.com/artist/34W0qoIabeEniJH7rLVXHv"
+        }
+      ],
+      "duration_ms": 243448,
+      "name": "EL CABALLO Y EL NI\u00d1O",
+      "url": "https://open.spotify.com/track/5g8C9WqETMlujruYdxCoen"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Afterglow of Ragnarok",
         "url": "https://open.spotify.com/album/2E57avEBH8Ft3A8W7c7Rlk"
       },
@@ -283,6 +335,22 @@
       "duration_ms": 345391,
       "name": "Afterglow of Ragnarok",
       "url": "https://open.spotify.com/track/0sk0mL3I4X7h6iPt9eJrwQ"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Meditaci\u00f3n para Sanar Tu Relacion Con la Riqueza",
+        "url": "https://open.spotify.com/album/4jUBOtuEtenLCj4ROsqT8h"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "duration_ms": 938736,
+      "name": "Meditaci\u00f3n para Sanar Tu Relacion Con la Riqueza",
+      "url": "https://open.spotify.com/track/1bw7GWGyRfw2axzM0OZRqy"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -303,22 +371,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "i/o",
-        "url": "https://open.spotify.com/album/1mhuLKVEwZH4aTJXCLuhec"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 406972,
-      "name": "Live and Let Live - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/1vQUh3oButfNbma7dwwnjr"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "The Live Series: Songs on Keys",
         "url": "https://open.spotify.com/album/6pqzdpIh3iUrsuYLehcDq3"
       },
@@ -331,6 +383,22 @@
       "duration_ms": 213499,
       "name": "Tenth Avenue Freeze-Out - Live at The Shrine, Los Angeles, CA - 11/16/1990- Set 2",
       "url": "https://open.spotify.com/track/4iMxpkGdGo2sRqYDgOUVHr"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "i/o",
+        "url": "https://open.spotify.com/album/1mhuLKVEwZH4aTJXCLuhec"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 406972,
+      "name": "Live and Let Live - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/1vQUh3oButfNbma7dwwnjr"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -351,26 +419,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "DJ Play A Christmas Song (DJ Mixes)",
-        "url": "https://open.spotify.com/album/5JgDmPiAAG3IG7I09XaQXv"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 210335,
-      "name": "DJ Play A Christmas Song - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/7xDccCsiVDEgOFjuPii2PK"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Selections From The Nutcracker, Op.71",
         "url": "https://open.spotify.com/album/17DRCzLYS77ELd5mxhWLLm"
       },
@@ -387,6 +435,26 @@
       "duration_ms": 213490,
       "name": "The Nutcracker Suite, Op.71: The Nutcracker, Op.71, Act I Scene 2: The Forest of Fir Trees In Winter",
       "url": "https://open.spotify.com/track/12Rud0ZbUhQP6uuoL5xPjk"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "DJ Play A Christmas Song (DJ Mixes)",
+        "url": "https://open.spotify.com/album/5JgDmPiAAG3IG7I09XaQXv"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 210335,
+      "name": "DJ Play A Christmas Song - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/7xDccCsiVDEgOFjuPii2PK"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -471,94 +539,6 @@
       "duration_ms": 152023,
       "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
       "url": "https://open.spotify.com/track/1sN8YtuNoj8t7gMDX9EBfb"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "xmas sped up + slowed",
-        "url": "https://open.spotify.com/album/0QplsJsS4g4VFDCJODfyaL"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "What Christmas Means to Me (feat. Stevie Wonder) - Slowed & Reverb",
-      "url": "https://open.spotify.com/track/14TIy5ASSW9O354VELxV5I"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Fallen (Deluxe Edition / Remastered 2023)",
-        "url": "https://open.spotify.com/album/1l60K3wSsZjJDfeAvnkZw5"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 221680,
-      "name": "Bring Me To Life - Live On Triple M\u2019s Garage Session / 2020 / Remastered 2023",
-      "url": "https://open.spotify.com/track/558sFNXvHZWWOzbsDaeak2"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Trial By Fire",
-        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 262683,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/0olhDuJdwF3WbIu16hCE3S"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "The Complete Budokan 1978 (Live)",
-        "url": "https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 243653,
-      "name": "Going, Going, Gone - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
-      "url": "https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

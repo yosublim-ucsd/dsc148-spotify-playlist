@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href="https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=3DbSAPgLQPy21BX\-L13sOg">Mellow & Sleazy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,783 likes - 47 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,890 likes - 47 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 46 | [EBBS & FLOWS: Hard Candy](https://open.spotify.com/track/7HHVwqGx84YKhIX1r2lKRT) | [LANDMARQUE](https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL) | [EBBS & FLOWS: Hard Candy](https://open.spotify.com/album/5HbmDuxrO0ZsCLjGfLNdh6) | 2:56 |
 | 47 | [WATERBENDER](https://open.spotify.com/track/2O8YSAxzPaISNGcYgB6ciI) | [Nino Fresko](https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK) | [WATERBENDER](https://open.spotify.com/album/3OMa9MvABt9pXpVdrSDhys) | 2:56 |
 
-Snapshot ID: `MCxjYzc2NmU5OTZkYTJkNGEwODAyMWU4NjA2NzIxYzk2YTczNjkxMzNh`
+Snapshot ID: `MCwwZmUzODJhYjIyNTZmNDM3MzlmMDhiZDFhOGY1MjgwNDExODY1NWU4`

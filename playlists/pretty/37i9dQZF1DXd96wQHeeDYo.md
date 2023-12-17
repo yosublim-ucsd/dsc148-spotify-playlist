@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat de Brasil para el mundo\. Baile bonitoooo Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,282 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,480 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 36 | [Back for More \(with Anitta\)](https://open.spotify.com/track/1p0kTGMwMtSTcV7fAnkkQc) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(More Edition\)](https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E) | 2:11 |
 | 37 | [Se Fue](https://open.spotify.com/track/0mKhtoSpTyJGnmdKWcVwJf) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3) | [Baúl 2](https://open.spotify.com/album/1euVCsaWFIYeWwbXfZUSHh) | 3:05 |
 | 38 | [Vai Sentando](https://open.spotify.com/track/4UlkRoC6xPCDXehTyW21BF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Vai Sentando \(FAST X Soundtrack\)](https://open.spotify.com/album/08rwl7AoPbs22LGky7hgdu) | 2:14 |
-| 39 | [Fijado](https://open.spotify.com/track/6fYv7oTfvJ01aEjJnoyjso) | [Euken](https://open.spotify.com/artist/4vJpB66s9Z3XW0vqZSpjfm), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Fijado](https://open.spotify.com/album/1PdINrzzMIRjMyUb332ro6) | 2:30 |
+| 39 | [Fijado](https://open.spotify.com/track/6fYv7oTfvJ01aEjJnoyjso) | [Euken](https://open.spotify.com/artist/4vJpB66s9Z3XW0vqZSpjfm), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny) | [Fijado](https://open.spotify.com/album/1PdINrzzMIRjMyUb332ro6) | 2:30 |
 | 40 | [Yo No Sé Si Tu](https://open.spotify.com/track/2Q0b7lrcnjAuxmzJtWEnIB) | [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv), [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Ciganda](https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg) | [Yo No Sé Si Tu](https://open.spotify.com/album/1ZVLR31qUNjxqD4gZ36ijb) | 3:02 |
 | 41 | [Qlo](https://open.spotify.com/track/1X5PIQVtkegtLVpDP1tQFL) | [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW), [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt) | [Qlo](https://open.spotify.com/album/5C2hwJYQm12YtwGjr6DwnX) | 1:15 |
 | 42 | [LA CALMA](https://open.spotify.com/track/7qhycO2o68HOGl1vMCWIes) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [LA CALMA](https://open.spotify.com/album/3PWRPXFAbishAfsjagC9TB) | 2:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 59 | [Nunca Estoy](https://open.spotify.com/track/5XPOltQwrzK8BNkdFA7msN) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Bien:\(](https://open.spotify.com/album/3Sat3hmUbXJdivRd9PIhrX) | 2:42 |
 | 60 | [MÁS](https://open.spotify.com/track/5iLWDsr5fABDTIQZT3Ts5g) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [G LOVE 2](https://open.spotify.com/album/7euUENdmFe3U1pw8p6q38g) | 3:38 |
 
-Snapshot ID: `MCxiOGQ2NDJmOTA5NzA0ZmQ2MTJlM2FiZjVhYmFlMjlkNjY3MjdmOGVl`
+Snapshot ID: `MCwxNGVkY2I1Mjc5MjNlODFiOTQyYTUzZWQyZjU2MjZiZmY1MTZmNDYw`

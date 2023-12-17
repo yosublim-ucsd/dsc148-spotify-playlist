@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-519 songs - 1 day 13 hr 48 min
+520 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [MK Ultra](https://open.spotify.com/track/7326GqGYEL8T0nG6uSt5TZ) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [MK Ultra](https://open.spotify.com/album/65sXJcNAQkp3yUAV46SIMq) | 5:29 | 2022-11-11 |  |
 | [Modification](https://open.spotify.com/track/6qZ59pXRuuNyvggLjP2Rxq) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE) | [Modification / Doom Clone / Junglis](https://open.spotify.com/album/4Fu5ysQWuqqVMXighrGU8w) | 4:19 | 2022-02-17 | 2023-06-02 |
 | [Molten](https://open.spotify.com/track/0eXEzBeN09Z1WfBwqleazQ) | [Digital Mystikz](https://open.spotify.com/artist/4ESIM5V4xT2Ce0ZWPhxIEY) | [Tectonic Plates, Vol\. 1](https://open.spotify.com/album/6tcyPttT2SDDGlLYnrd4dT) | 4:59 | 2022-02-17 | 2022-04-08 |
+| [Monomyth](https://open.spotify.com/track/3eohbDWubHzKPcrXs4bHOE) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Monomyth LP](https://open.spotify.com/album/5qGz0eFyGi5sTklBY0Syhc) | 2:24 | 2023-12-15 |  |
 | [Muharib Skank](https://open.spotify.com/track/7fd3zY45oviJizF9BPHOZ3) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Muharib EP](https://open.spotify.com/album/4H9OcSuLNucBfAaWFmbGFh) | 3:29 | 2022-04-08 | 2022-12-08 |
 | [Murda](https://open.spotify.com/track/7pgr1TYP5XzATB8YNJK870) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Murda](https://open.spotify.com/album/5L1deXA6geu7wvCeDVwTmC) | 3:13 | 2022-09-02 |  |
 | [Muscaria](https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Muscaria / Everglade March \(VIP\)](https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u) | 2:49 | 2023-07-31 |  |
@@ -339,7 +340,7 @@
 | [Power Shift](https://open.spotify.com/track/0OfKxTJYCewcdDiDU1p8lJ) | [LSN](https://open.spotify.com/artist/3dwMTZKWkKexD1CeBzLJAt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Power Shift](https://open.spotify.com/album/3nZWSpItsAvxUjbVe8kmHm) | 4:36 | 2022-12-09 | 2023-01-06 |
 | [Pressure](https://open.spotify.com/track/5slTNpY7BoMXWhPDOXkw8c) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Pressure](https://open.spotify.com/album/7ruLDcs83wpOXP4kvoiDks) | 3:11 | 2023-01-13 |  |
 | [Pressurising](https://open.spotify.com/track/1TClTNk97qP1hbAsbIo798) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z) | [Dungeon EP](https://open.spotify.com/album/0C2KzS2pddnR8iXQvM4yQu) | 4:13 | 2023-03-10 | 2023-05-23 |
-| [Probes](https://open.spotify.com/track/2Vqo5y7SvufrlLKcsNkYH8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [Tron3x](https://open.spotify.com/artist/4VkxUCarTjtPbHOBujBwlx) | [Failed Connections](https://open.spotify.com/album/5NgBfkQHTSUMuRxjg8ZGwC) | 3:30 | 2022-07-01 |  |
+| [Probes](https://open.spotify.com/track/2Vqo5y7SvufrlLKcsNkYH8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [Tron3x](https://open.spotify.com/artist/4VkxUCarTjtPbHOBujBwlx) | [Failed Connections](https://open.spotify.com/album/5NgBfkQHTSUMuRxjg8ZGwC) | 3:30 | 2022-07-01 | 2023-12-17 |
 | [Profit](https://open.spotify.com/track/1tPKSiahAXhNGFNHIFlTDQ) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Profit](https://open.spotify.com/album/3ArOGOIHxL1NwwmI4ecAUh) | 2:35 | 2023-06-30 |  |
 | [Profit](https://open.spotify.com/track/5qN1hpuWczrJHZmxHnZDFM) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Profit](https://open.spotify.com/album/2aFVyFx3Phgvkt6KhnGRuV) | 2:35 | 2023-04-21 | 2023-06-28 |
 | [Profound](https://open.spotify.com/track/3m92wis6TZWW6XeGyneEur) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Kaleidoscope, Vol\. 2](https://open.spotify.com/album/7jLrpzLUbTLDMWG2r4xhSY) | 5:04 | 2022-02-17 | 2022-07-30 |

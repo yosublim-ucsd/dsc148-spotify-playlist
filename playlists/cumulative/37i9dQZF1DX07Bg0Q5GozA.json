@@ -9844,10 +9844,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 253134,
       "name": "The Same",
       "url": "https://open.spotify.com/track/1CVsGcOxtoEAqKyIT1ZbZk"
+    },
+    {
+      "album": {
+        "name": "The Same",
+        "url": "https://open.spotify.com/album/31bXet6ZbPFknvepd4JF6D"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253134,
+      "name": "The Same",
+      "url": "https://open.spotify.com/track/7uM8OU0rcqIeICZDNYoUpm"
     },
     {
       "album": {

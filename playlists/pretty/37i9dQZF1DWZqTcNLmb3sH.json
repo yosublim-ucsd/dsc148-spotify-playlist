@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
-  "num_followers": 56213,
+  "num_followers": 56230,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTM3ZmNmMjljMzg5OWJkMDU1NTQzNmU2YWVlNWQ4OGNkMmI3YWM5",
+  "snapshot_id": "MCwzMWRmNTgyMDViN2E4N2VhNjQzYjVmYjhhMmFlZDQwYjNkYTU4MTdj",
   "tracks": [
     {
       "added_at": "2023-12-12 05:37:45",
@@ -139,10 +139,18 @@
     {
       "added_at": "2023-12-15 12:10:36",
       "album": {
-        "name": "Hoovina Santheyalli (From \"Malaikottai Vaaliban\") (Kannada)",
-        "url": "https://open.spotify.com/album/3hBGgQhId6jXNeOkRYBuoM"
+        "name": "Hoovina Santheyalli (From \"Malaikottai Vaaliban\")",
+        "url": "https://open.spotify.com/album/2r4yibdQekZdd2eNXHIy0J"
       },
       "artists": [
+        {
+          "name": "Gowtham Bharadwaj",
+          "url": "https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L"
+        },
+        {
+          "name": "Nikita Bharat",
+          "url": "https://open.spotify.com/artist/5maOURFGVXx8wP7Zbbxtw6"
+        },
         {
           "name": "Prashant Pillai",
           "url": "https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK"
@@ -152,17 +160,13 @@
           "url": "https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15"
         },
         {
-          "name": "Gowtham Bharadwaj",
-          "url": "https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L"
-        },
-        {
-          "name": "Nikita Bharat",
-          "url": "https://open.spotify.com/artist/5maOURFGVXx8wP7Zbbxtw6"
+          "name": "R. Pramod Jois",
+          "url": "https://open.spotify.com/artist/0oIMByBDNKnrzRhTuFTvhP"
         }
       ],
       "duration_ms": 190736,
-      "name": "Hoovina Santheyalli (From \"Malaikottai Vaaliban\") (Kannada)",
-      "url": "https://open.spotify.com/track/025CdU96QORXQTOzpBUVZu"
+      "name": "Hoovina Santheyalli (From \"Malaikottai Vaaliban\")",
+      "url": "https://open.spotify.com/track/5MzzgpOsz2FsZRspMZk0vE"
     },
     {
       "added_at": "2023-12-11 05:59:46",

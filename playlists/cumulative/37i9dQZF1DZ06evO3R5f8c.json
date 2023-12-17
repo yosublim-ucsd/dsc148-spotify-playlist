@@ -500,10 +500,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 442962,
       "name": "Extra Time On You",
       "url": "https://open.spotify.com/track/2pesaSV3G2scS7BWywijgA"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Portia Monique",
+          "url": "https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442962,
+      "name": "Extra Time On You (feat. Portia Monique)",
+      "url": "https://open.spotify.com/track/61ZwhDqqQCMoK29InoEdKD"
     },
     {
       "album": {
@@ -1792,10 +1814,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 272411,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/5TsLsLTg3kTuv2RMRL3vaB"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here (feat. Msaki)",
+        "url": "https://open.spotify.com/album/17ER4tyUvz7mziBC55UBF3"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272411,
+      "name": "Wish You Were Here (feat. Msaki)",
+      "url": "https://open.spotify.com/track/6tfXgZjluaSYht2GwnEw21"
     },
     {
       "album": {
@@ -1884,10 +1928,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 250175,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/3E9mI43Xj65JMRcKZMIxtV"
+    },
+    {
+      "album": {
+        "name": "Your Eyes (feat. Shekhinah)",
+        "url": "https://open.spotify.com/album/0HnnOQnucn7fZMlZuQKhNf"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250175,
+      "name": "Your Eyes (feat. Shekhinah)",
+      "url": "https://open.spotify.com/track/2vaVwhktMuNE2jcM2j1RxJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c"

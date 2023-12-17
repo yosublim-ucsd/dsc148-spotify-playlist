@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,244 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,249 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [嫌いになり方](https://open.spotify.com/track/5XGJ2r46Hm3D17xMi5vHuP) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [MORE](https://open.spotify.com/album/2oBdCNkkogm7Nge0CzUChi) | 3:58 |
 | 30 | [人魚](https://open.spotify.com/track/251KmJJesO3kcJ4AJ1jdBp) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:11 |
 
-Snapshot ID: `MCw3M2JmMTExM2Y0ZDEyY2ZkZjM2ODZlMWI3ZTllYTMzZmQ0N2Y5ODAz`
+Snapshot ID: `MCxiM2RjMzFhODU2YTEzMWQzNzQ4ZTdlMGUyZGZkOTkwNWZiYmZmY2Uz`

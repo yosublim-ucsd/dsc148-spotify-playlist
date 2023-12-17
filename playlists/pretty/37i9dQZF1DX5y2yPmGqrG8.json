@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 328825,
+  "num_followers": 328865,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTM0YzA2YmExOTcxMmU4YTQwNjlmNjA1YjZjNTVkNmVmNmE3OWIx",
+  "snapshot_id": "MCw1Mjc1NDhmMDgyNDFlNDNjMmRlOThlZWIwMTM0OTU3NmEyMzI3MzFk",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -831,22 +831,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Spain",
-        "url": "https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL"
+        "name": "Life Of",
+        "url": "https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC"
       },
       "artists": [
         {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
-        },
-        {
-          "name": "Steve Sobs",
-          "url": "https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0"
+          "name": "Steve Tibbetts",
+          "url": "https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y"
         }
       ],
-      "duration_ms": 286066,
-      "name": "Spain",
-      "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
+      "duration_ms": 99400,
+      "name": "Bloodwork",
+      "url": "https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64"
     }
   ],
   "unique_name": "Deep Listening",

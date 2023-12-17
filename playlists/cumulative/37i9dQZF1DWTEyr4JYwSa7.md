@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-328 songs - 17 hr 45 min
+329 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Jolis sapins](https://open.spotify.com/track/6qH7KJZXbfjmTlz0d18R7n) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Joyeux Noël](https://open.spotify.com/track/1xRBTzIffG760rUzbGeAf3) | [Charlēne](https://open.spotify.com/artist/2DywdSfGqK5EtQVLllyOmB) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 2:39 | 2021-12-17 | 2022-07-23 |
 | [Joyeux Noël](https://open.spotify.com/track/6mrIW41E8OGpFpgvDDsROH) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [Joyeux Noël \- Single](https://open.spotify.com/album/6vKDOTTka0ybxQXJ1wZEmM) | 3:38 | 2021-12-17 | 2022-07-29 |
-| [Joyeux noël et bonne année](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux noël et bonne année](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 | 2021-12-17 |  |
+| [Joyeux noël et bonne année](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux noël et bonne année](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 | 2021-12-17 | 2023-12-17 |
 | [Joyeux Noël à toi mon coeur](https://open.spotify.com/track/7hXETOkibmEro2iXlmaIhg) | [Mc12](https://open.spotify.com/artist/0OOebPIB8ejer3GJlLskoN) | [Joyeux Noël à toi mon coeur](https://open.spotify.com/album/6lLzLbxJLwqMzVCnSrfGEC) | 3:00 | 2021-12-17 | 2022-07-29 |
 | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/track/2gInVV124wC37PWHHh4DgQ) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/album/1m0KMWTElAIQPcQVXErqn3) | 3:24 | 2023-12-01 |  |
 | [L'enfant au tambour](https://open.spotify.com/track/1xN0wrHJula3KfpgAs7eVc) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/6EZsh8EPb6Hckb4Gi5D0Cc) | 2:54 | 2022-11-04 | 2022-11-30 |
@@ -231,6 +231,7 @@
 | [Noël est arrivé](https://open.spotify.com/track/2U9N0ZugRSPNvyCCgWymVC) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Noël est arrivé](https://open.spotify.com/album/1XPaE5gMgKnOMZs25bKK5D) | 3:11 | 2021-12-17 |  |
 | [Noël est arrivé](https://open.spotify.com/track/5YUJQ7oqZXOnh4GnzgqCkZ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Noël est arrivé \- Single](https://open.spotify.com/album/7etmMuXqoH2RYdWoqzoOIZ) | 3:11 | 2021-12-17 | 2022-07-29 |
 | [Noël Lougawou](https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:28 | 2021-12-17 | 2023-12-09 |
+| [Noël mille feux](https://open.spotify.com/track/3mrKQpSSvyg9uvr3LRWs9k) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Noël mille feux](https://open.spotify.com/album/1CDPIsDorKUmv1vavzAFAT) | 2:42 | 2023-12-16 |  |
 | [Noël monochrome](https://open.spotify.com/track/2mG9XCqZbWFdNSYheJrnaJ) | [Debbie Tebbs](https://open.spotify.com/artist/082UvHiRwlJHp3vNrCMqen), [Sam Faye](https://open.spotify.com/artist/0tkpiNBKH5HmzcivvjsPH0), [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Noël monochrome](https://open.spotify.com/album/6KFvJzGQSj6X38IICGUts2) | 3:33 | 2021-12-17 | 2022-07-23 |
 | [Noël ne veut rien dire sans toi](https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Noël ne veut rien dire sans toi](https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx) | 3:23 | 2022-12-02 | 2023-11-11 |
 | [Noël New York](https://open.spotify.com/track/1MAFXESfROAHuxUWdpDIFT) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Noël New York](https://open.spotify.com/album/1mqTOcDist9hJ5llLFD2wa) | 3:02 | 2021-12-17 | 2022-07-24 |

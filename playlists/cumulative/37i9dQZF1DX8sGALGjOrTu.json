@@ -96,6 +96,24 @@
     {
       "album": {
         "name": "Emarosa",
+        "url": "https://open.spotify.com/album/0Pe4Z5Sz0d8NJuIFjF7C7R"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228986,
+      "name": "A Toast to the future kids!",
+      "url": "https://open.spotify.com/track/16avQsEDeyH5poyoJ2hyv3"
+    },
+    {
+      "album": {
+        "name": "Emarosa",
         "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
       },
       "artists": [
@@ -808,7 +826,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 226800,
       "name": "Changing",
       "url": "https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX"

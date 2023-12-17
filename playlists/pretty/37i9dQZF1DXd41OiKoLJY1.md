@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The Top 100 Tracks from Fresh Finds Philippines this 2023! Cover: The 12/21 Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,550 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,569 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 20 | [Lakaw](https://open.spotify.com/track/07MVF0tNoL6Cclh6MbUDDu) | [Jade Makawili](https://open.spotify.com/artist/1ddKtJoBQplzrpVxs9JYxn) | [Lakaw](https://open.spotify.com/album/6vtWezYaEz18T1OkSP0zxf) | 3:34 |
 | 21 | [Ligaw Na Bala](https://open.spotify.com/track/73MNvUAlsr2qZ5HqT4aSQO) | [Mico Angeles](https://open.spotify.com/artist/5YJV7cBxSMIt3HpqXzxYD5) | [Ligaw Na Bala](https://open.spotify.com/album/7F6xZmrDPAwxUQzAtTCkzB) | 2:55 |
 | 22 | [white roses](https://open.spotify.com/track/64MUdb1WXRr3fDvAKs2vyh) | [ian encinares](https://open.spotify.com/artist/52gRYvYtve0m7PPoINjB7R) | [white roses](https://open.spotify.com/album/0cXT54hzXXTzEEObh93EQk) | 2:41 |
-| 23 | [Ayoko Na](https://open.spotify.com/track/3VEfrWoKPXmFZBhr22jd9V) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Ayoko Na](https://open.spotify.com/album/1ys9OnR7NP9E17fLk5cdrT) | 2:53 |
+| 23 | [Ayoko Na](https://open.spotify.com/track/2J8rCkPKqxbzwXV3ZLorgd) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Ayoko Na](https://open.spotify.com/album/7ray2qTLEfcj9nFEv5RhsO) | 2:53 |
 | 24 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 |
 | 25 | [Kahit Saan](https://open.spotify.com/track/3KkuQpBAZ9BOyl2QZA8VIv) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Kahit Saan](https://open.spotify.com/album/7xLFM64NbAKnQ1gm1oikoK) | 3:10 |
 | 26 | [Can't Be](https://open.spotify.com/track/0A4iTIptfGqE0VOV3gbaKf) | [Kid Bando](https://open.spotify.com/artist/5t7FsNtIv25aEzJ1WIKHEY) | [Can't Be](https://open.spotify.com/album/32qcDwuHP6NZasmWZ1ygx3) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Gabi](https://open.spotify.com/track/07uOcwr6m7IsYhqpW7pt8J) | [Patrick Lacambacal](https://open.spotify.com/artist/3wPfc9LxqTDNmgSgEo8lE2) | [Gabi](https://open.spotify.com/album/3vgaURkRJSo3aSt2PZoEmi) | 3:46 |
 | 100 | [PAALAM](https://open.spotify.com/track/1EAyjNIZQrTPMRwA3BqXWv) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [PAALAM](https://open.spotify.com/album/6RCw6WQusUr5nqcBvrdxK0) | 4:28 |
 
-Snapshot ID: `MCxjYTFiOTcxNmVmZjQwODgzMDNlNWRhZWNlY2IxM2RjZjUzZjk1YmZh`
+Snapshot ID: `MCwxY2M5ZDcyOTZkOWYzMGM5ZmM3ZGIzMWRlZTAwZjBjNDJiMDQ3NWQ2`

@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 179930,
+  "num_followers": 180034,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzE3ZWQ2ZTdlNTg0YWQ3NzNmMWRkNzUzMzUwZTQ2NmJjZGJhZGE5",
+  "snapshot_id": "MCw1YjcwYWQ3MjJmMjVmOTBjNzQ5NGNlNTdmYWQ2ZDMyN2UwOGM0ZDE5",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Steady Damage",
+        "url": "https://open.spotify.com/album/7iVKnT2a9xXwKXAiXfmjL6"
+      },
+      "artists": [
+        {
+          "name": "Fit For Rivals",
+          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/5AuzysaHMCMHvv6Ppyx9lI"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Sistahs",
         "url": "https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Steady Damage",
-        "url": "https://open.spotify.com/album/7iVKnT2a9xXwKXAiXfmjL6"
-      },
-      "artists": [
-        {
-          "name": "Fit For Rivals",
-          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/5AuzysaHMCMHvv6Ppyx9lI"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "In Birth",
-        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 176794,
-      "name": "In Birth",
-      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Quitter",
         "url": "https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 182477,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "In Birth",
+        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 176794,
+      "name": "In Birth",
+      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Make Yr Life",
-        "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
-      },
-      "artists": [
-        {
-          "name": "The Butchies",
-          "url": "https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "She's so Lovely",
-      "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Model Citizen",
         "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 183610,
       "name": "Brighter Days (Are Before Us)",
       "url": "https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Make Yr Life",
+        "url": "https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ"
+      },
+      "artists": [
+        {
+          "name": "The Butchies",
+          "url": "https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "She's so Lovely",
+      "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "In Search of Lost Time",
-        "url": "https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf"
-      },
-      "artists": [
-        {
-          "name": "Partner",
-          "url": "https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Play the Field",
-      "url": "https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Everything Dies",
         "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 191009,
       "name": "Sick Sad World",
       "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "In Search of Lost Time",
+        "url": "https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf"
+      },
+      "artists": [
+        {
+          "name": "Partner",
+          "url": "https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Play the Field",
+      "url": "https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Every Now and Then",
-        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
-      },
-      "artists": [
-        {
-          "name": "Wolf Girl",
-          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Dream Partner",
-      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Egg on Face. Foot in Mouth. Wriggling Wriggling Wriggling.",
         "url": "https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Bad Girls Go to Hell",
-        "url": "https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp"
+        "name": "Every Now and Then",
+        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
       },
       "artists": [
         {
-          "name": "The Degenerettes",
-          "url": "https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z"
+          "name": "Wolf Girl",
+          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
         }
       ],
-      "duration_ms": 128880,
-      "name": "Queer For You",
-      "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
+      "duration_ms": 154618,
+      "name": "Dream Partner",
+      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1287,6 +1271,22 @@
       "duration_ms": 143853,
       "name": "Sissy Fists",
       "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Bad Girls Go to Hell",
+        "url": "https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp"
+      },
+      "artists": [
+        {
+          "name": "The Degenerettes",
+          "url": "https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z"
+        }
+      ],
+      "duration_ms": 128880,
+      "name": "Queer For You",
+      "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
     }
   ],
   "unique_name": "Queercore",

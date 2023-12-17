@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "Still Not Getting Any Sleep",
+        "url": "https://open.spotify.com/album/4I4mQUzDqkUS5fXorBtPF0"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302393,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/1ujzje23n9CutTP8VhJpgp"
+    },
+    {
+      "album": {
         "name": "Atomic Punk",
         "url": "https://open.spotify.com/album/3MkqtonMItMQnix7BxI3U1"
       },
@@ -2706,7 +2728,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 221680,
       "name": "Bring Me To Life - Live On Triple M\u2019s Garage Session / 2020 / Remastered 2023",
       "url": "https://open.spotify.com/track/558sFNXvHZWWOzbsDaeak2"
@@ -4091,6 +4113,24 @@
     },
     {
       "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/1Z7QoKOpqAWfiHnurlsiti"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/79ypLbXeRsgNgd3uZTOcY4"
+    },
+    {
+      "album": {
         "name": "DANCE WITH ME",
         "url": "https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh"
       },
@@ -5224,7 +5264,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 243448,
       "name": "EL CABALLO Y EL NI\u00d1O",
       "url": "https://open.spotify.com/track/5g8C9WqETMlujruYdxCoen"
@@ -5888,7 +5928,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 262683,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/0olhDuJdwF3WbIu16hCE3S"
@@ -6850,7 +6890,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 243653,
       "name": "Going, Going, Gone - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
       "url": "https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi"
@@ -8992,6 +9032,24 @@
       "duration_ms": 194575,
       "name": "In This Moment",
       "url": "https://open.spotify.com/track/5UKLNmBQ7gAbNqyfFs0kOP"
+    },
+    {
+      "album": {
+        "name": "A Chapter Called Children of Bodom (Final Show in Helsinki Ice Hall 2019)",
+        "url": "https://open.spotify.com/album/5nfjI93DAK3YWEJZTjzOv1"
+      },
+      "artists": [
+        {
+          "name": "Children Of Bodom",
+          "url": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247466,
+      "name": "In Your Face - Final Show in Helsinki Ice Hall 2019",
+      "url": "https://open.spotify.com/track/1cJWaRlxacxdB91D0Zeu8K"
     },
     {
       "album": {
@@ -11726,6 +11784,24 @@
       "duration_ms": 205714,
       "name": "Me Oh My - GBX & Sparkos Cfk Remix",
       "url": "https://open.spotify.com/track/40oXcdziPIBAWQSekbZojf"
+    },
+    {
+      "album": {
+        "name": "Meditaci\u00f3n para Sanar Tu Relacion Con la Riqueza",
+        "url": "https://open.spotify.com/album/4jUBOtuEtenLCj4ROsqT8h"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 938736,
+      "name": "Meditaci\u00f3n para Sanar Tu Relacion Con la Riqueza",
+      "url": "https://open.spotify.com/track/1bw7GWGyRfw2axzM0OZRqy"
     },
     {
       "album": {
@@ -16596,7 +16672,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 293590,
       "name": "Shut Up!",
       "url": "https://open.spotify.com/track/6gs0NGgd2C9jkhzaCtUj9p"
@@ -17664,6 +17740,10 @@
       },
       "artists": [
         {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        },
+        {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
@@ -17671,6 +17751,24 @@
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 105666,
+      "name": "Survivor (Film Version)",
+      "url": "https://open.spotify.com/track/05y7nFKiuOxvgnIXFZQYwD"
+    },
+    {
+      "album": {
+        "name": "Migration (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/743FRH3bqa4Lac8U9fJa78"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
       "duration_ms": 183800,
       "name": "Survivor (Full Version)",
       "url": "https://open.spotify.com/track/4NVJ6YedmGvLHKBkRMCCVs"
@@ -20020,7 +20118,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 261014,
       "name": "Trial By Fire",
       "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
@@ -21344,7 +21442,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 177662,
       "name": "What Christmas Means to Me (feat. Stevie Wonder) - Slowed & Reverb",
       "url": "https://open.spotify.com/track/14TIy5ASSW9O354VELxV5I"

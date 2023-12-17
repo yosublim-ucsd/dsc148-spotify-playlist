@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,340 likes - 56 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,303 likes - 56 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 9 | [Rosey Chan x The Listening Planet](https://open.spotify.com/track/3B6XD4wi46t80Cop4H6lEk) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Rosey Chan x The Listening Planet](https://open.spotify.com/album/5F4wY7c0LzSy0KKxBCOwOG) | 4:03 |
 | 10 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/6MAC5m83LjGzldqDBvKJ5q) | [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Cliff Masterson](https://open.spotify.com/artist/0cUh2BRVeZhzTX9dfQBx3e) | [Carols Without Words](https://open.spotify.com/album/2vsG13X4JWVDyx7kXua8HJ) | 4:11 |
 | 11 | [In the Bleak Midwinter \(Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/track/6dAWKg1egU4uBjLGj2EUL3) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [In the Bleak Midwinter \(Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/album/6ud4LYbVUC9gd8EvKGOrWT) | 2:06 |
-| 12 | [Gloria In Exelcis Deo](https://open.spotify.com/track/2E61pXyRJv1tApFvqEb7jM) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Merry Christmas](https://open.spotify.com/album/26AHxf0rHw2qAhUN3EGSF9) | 2:23 |
+| 12 | [Gloria In Exelcis Deo](https://open.spotify.com/track/0aKUktm0u2VMJSKboCnUQA) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Merry Christmas](https://open.spotify.com/album/1LehggnhCoj9tHcXh99YjX) | 2:23 |
 | 13 | [Still, Still, Still](https://open.spotify.com/track/28hC0zMOkbVZBNPw0NJTdN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 1:52 |
 | 14 | [Feliz Navidad \(Arr\. for Piano by Rasmus H Thomsen\)](https://open.spotify.com/track/2Qxl1GRAv2UZYqJhm2nzVl) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [When Christmas Morn Is Dawning](https://open.spotify.com/album/713jtXTO3X5BgGLCKraUnQ) | 2:43 |
 | 15 | [Bethlehem Down](https://open.spotify.com/track/2HJfbaED8RpSad8pUE9Toe) | [Peter Warlock](https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Warlock: Bethlehem Down](https://open.spotify.com/album/0j71fTpamXeMd4yRMbbeXx) | 2:54 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 55 | [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 |
 | 56 | [White Christmas](https://open.spotify.com/track/6zrXZLbL6gPCVLeodyN0bd) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance: Elegant Holiday Instrumentals Featuring Piano And Violin](https://open.spotify.com/album/59iScT5hI7Gi59PE79QnHC) | 4:09 |
 
-Snapshot ID: `MCwyZTc1Y2JiMjY3YzFiNmM4ZDI5NmNiYzFiZjIwODA3NDAzZGQzYjcy`
+Snapshot ID: `MCxkM2ExMWIwY2E1OGE2MDdhZjY2OWQ3NjcyOTBmMzUyYmYwZDA2YjE2`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Luck Ra, Bersuit Vergarabat, La T y La M
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,182 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,243 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TOCO Y ME VOY](https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [TOCO Y ME VOY](https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj) | 3:46 |
-| 2 | [RICHY](https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [RICHY](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 3:11 |
+| 2 | [El Pichón](https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 3:11 |
 | 3 | [Anti Amor](https://open.spotify.com/track/3XnGmGMsZKUUslNt2Nr0V4) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Anti Amor](https://open.spotify.com/album/4Ak5qyIHTsPMDAgNeWIA5C) | 3:00 |
 | 4 | [Solo Necesito \- Remix](https://open.spotify.com/track/6W8NN9RJUnqmXaEXM5dgBb) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Solo Necesito \(Remix\)](https://open.spotify.com/album/5N8bY7Srp0mSwd4PpB3HVm) | 2:43 |
 | 5 | [Bronceado \- Remix](https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Bronceado \(Remix\)](https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2) | 2:36 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 11 | [En Peligro de Extinción](https://open.spotify.com/track/2gH9IUIvYNKea0ONXnB3Ex) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [En Peligro de Extinción](https://open.spotify.com/album/25gXpumHXGJW3HGKsNmtuk) | 4:04 |
 | 12 | [CUANDO SALE EL SOL](https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [CUANDO SALE EL SOL](https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI) | 2:56 |
 | 13 | [El Año Viejo](https://open.spotify.com/track/3z3jVgTeacE13BnnQHWEav) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Cumbiancicos](https://open.spotify.com/album/23XCpm7fLu2mHXaQb8KEJX) | 2:41 |
-| 14 | [Quien](https://open.spotify.com/track/1jOX5QVywkVvnXNH38rzY6) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Alessia](https://open.spotify.com/artist/6Z5dP0NczmdsozSq4Lx5CC) | [Quien](https://open.spotify.com/album/35t5ZxNmVOTu0PLKFR6a0p) | 2:50 |
+| 14 | [Quien](https://open.spotify.com/track/1jOX5QVywkVvnXNH38rzY6) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Alessia](https://open.spotify.com/artist/4BQZSNgFvzAfTcavH5ytCs) | [Quien](https://open.spotify.com/album/35t5ZxNmVOTu0PLKFR6a0p) | 2:50 |
 | 15 | [Naty Del Blow](https://open.spotify.com/track/6zoSZlyKKBjWC7Y6yPyGVj) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Naty del Blow](https://open.spotify.com/album/3z7jv3GrHI0pnOoX9nWPzs) | 2:26 |
 | 16 | [Abre tu corazón \- Remix](https://open.spotify.com/track/5f4zQo0xsz9RSam1VP0GIV) | [El Simbolo](https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3), [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [Abre tu corazón \(Remix\)](https://open.spotify.com/album/5jMm7NfxwreQ0XBedK8vgX) | 3:34 |
 | 17 | [Chiquita Bonita](https://open.spotify.com/track/0OTiIIJIbncY7rXe5OhxtC) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Chiquita Bonita](https://open.spotify.com/album/1KO5QNPKnaK0ggRd3wTwPS) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Los Sabanales 3.0](https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Los Sabanales 3.0](https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt) | 3:08 |
 | 50 | [Que Vuelvas](https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Que Vuelvas](https://open.spotify.com/album/3jgBD0phLA3LBdsaPS3wrs) | 2:42 |
 
-Snapshot ID: `MCxmZTg5MGVkMGIyYTkwMGRkMWQ0MDM4ZGM0YmNkMzMyMzNkNzFjMDc3`
+Snapshot ID: `MCxjNjM1MzExZmRlMTlkMDhlMDI3ODY3ODVjYzMzOWEwNmExMmU4NDQz`

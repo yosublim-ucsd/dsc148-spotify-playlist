@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-17",
       "duration_ms": 191171,
       "name": "Forever And Ever",
       "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
@@ -2568,6 +2568,24 @@
       "duration_ms": 234340,
       "name": "Media Tinta",
       "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
+    },
+    {
+      "album": {
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/76AGXqcL7vYqzkxn7lwfkx"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/28dvkrXcMae3QMOp4UgfrC"
     },
     {
       "album": {

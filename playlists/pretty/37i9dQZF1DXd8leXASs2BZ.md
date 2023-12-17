@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Ryuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Houjou \- bonus track](https://open.spotify.com/track/4OzCR5H9FEq4HP4pN66Y4D) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [GREEN ROMANCE](https://open.spotify.com/artist/4ifwODTNRfOpYpxiBjsaTx), [浅井杜人](https://open.spotify.com/artist/3QsQcihids9cKIS5YSCErz) | [You are not rockstar, I'm not rockstar](https://open.spotify.com/album/1yl8uapCeNjf3m1WacTF6N) | 2:34 |
 | 100 | [fake friend](https://open.spotify.com/track/5WlGyNlZpKGCBwsGB4fR3w) | [Duke Cage](https://open.spotify.com/artist/5rTKlrUj2nVEpSwUSvAFsO), [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB) | [fake friend](https://open.spotify.com/album/11TpRh73r7c73g24VuGaka) | 2:46 |
 
-Snapshot ID: `MCwwNDJlYWRlMzg0NmU1YWYzMTZmODcxZDBjYjFmYWIxODY2Njk1Mjdl`
+Snapshot ID: `MCw1OTE3NThhNDU3Yjg2YTI5MTUxYTY2ZDIxZDQxNDk5YzNiNjMxYTQ5`

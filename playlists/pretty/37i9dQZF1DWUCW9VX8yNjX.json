@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 77155,
+  "num_followers": 77160,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmFkMjYyMGZmNTU0MjliNGYwMjJhZjVhNTFiZDhjOTcxZTA3YTJm",
+  "snapshot_id": "MCw3YmIzMTRmYzJkNzhkNzlhNjhmMDAwZjQwOTc5ZjcxMDMyOTNiNjMx",
   "tracks": [
     {
       "added_at": "2023-10-13 15:16:21",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+        "name": "Abrir\u00e9 La Puerta",
+        "url": "https://open.spotify.com/album/22FrAgFSCs4c7JCCYczB4n"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+      "duration_ms": 216659,
+      "name": "Abrir\u00e9 La Puerta",
+      "url": "https://open.spotify.com/track/0DjnlLskmEjm5mbgo24WwD"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -319,22 +323,18 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Abrir\u00e9 La Puerta",
-        "url": "https://open.spotify.com/album/22FrAgFSCs4c7JCCYczB4n"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 216659,
-      "name": "Abrir\u00e9 La Puerta",
-      "url": "https://open.spotify.com/track/0DjnlLskmEjm5mbgo24WwD"
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Fue Tan Poco Tu Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Sigue la Dinast\u00eda",
         "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 206506,
       "name": "Esta Vida (Qu\u00e9 Bonita Es Esta Vida)",
       "url": "https://open.spotify.com/track/7nR0urmFhXgbKeqYHkTQLd"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Un Mexicano en la M\u00e9xico",
-        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "La Ley del Monte",
-      "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 180386,
       "name": "Las Botas de Charro",
       "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Un Mexicano en la M\u00e9xico",
+        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "La Ley del Monte",
+      "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Entre El Amor Y Yo",
-        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Bohemio de Afici\u00f3n",
-      "url": "https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Si No Te Quisiera",
         "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 189960,
       "name": "La Misma",
       "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Entre El Amor Y Yo",
+        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Bohemio de Afici\u00f3n",
+      "url": "https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Confidencias",
-        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "C\u00f3ncavo Y Convexo",
-      "url": "https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Un Azteca en el Azteca (En Vivo)",
         "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 186586,
       "name": "M\u00e1talas - En Vivo [Un Azteca en el Azteca]",
       "url": "https://open.spotify.com/track/45Nu3gKPEA1rvvUu7VVgyt"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "C\u00f3ncavo Y Convexo",
+      "url": "https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Le Canta a los Grandes Compositores de M\u00e9xico",
-        "url": "https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 197322,
-      "name": "T\u00fa Solo T\u00fa",
-      "url": "https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 236426,
       "name": "Ac\u00e1 Entre Nos - En Vivo [Un Azteca en el Azteca]",
       "url": "https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Le Canta a los Grandes Compositores de M\u00e9xico",
+        "url": "https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 197322,
+      "name": "T\u00fa Solo T\u00fa",
+      "url": "https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu"
     },
     {
       "added_at": "2023-10-13 15:16:21",
