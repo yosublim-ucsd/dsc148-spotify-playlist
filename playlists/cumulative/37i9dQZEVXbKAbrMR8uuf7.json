@@ -8348,7 +8348,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Gbadun",
       "url": "https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F"
@@ -10028,7 +10028,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 148419,
       "name": "Kimby",
       "url": "https://open.spotify.com/track/77JWlVYa9aoBa6NRnzuT3T"
@@ -11790,6 +11790,24 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "album": {
+        "name": "Lindo De Verdad",
+        "url": "https://open.spotify.com/album/3G5dp0db9qxsV05YfkrkGX"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140387,
+      "name": "Lindo De Verdad",
+      "url": "https://open.spotify.com/track/175j7VZSSSQIMA0TDncqXU"
     },
     {
       "album": {
@@ -14104,7 +14122,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 229276,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/02Rs1gB9idwpTtgcyciiuY"
@@ -14588,7 +14606,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 142862,
       "name": "Mueve Eso",
       "url": "https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ"
@@ -15774,7 +15792,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 128571,
       "name": "Onana",
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
@@ -15908,7 +15926,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 177235,
       "name": "PA San Juan (Un Culito Nuevo)",
       "url": "https://open.spotify.com/track/1lGDJyqsHKjAZdnEFtYZyx"
@@ -18004,7 +18022,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 145000,
       "name": "Pura Vibras",
       "url": "https://open.spotify.com/track/1EMJ15se0fxHgShBh6tpKI"
@@ -18472,7 +18490,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 241855,
       "name": "Qu\u00e9 Chimba!",
       "url": "https://open.spotify.com/track/0jhU9qQxWCMTNriBRauELk"
@@ -24128,7 +24146,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 150260,
       "name": "We Outside - Remix",
       "url": "https://open.spotify.com/track/2CKyKn927hsQpEnVO4XGrf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,758 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,797 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 64 | [Rapgod](https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Rapgod](https://open.spotify.com/album/4AnkiReAouD2pfq7GtkeE7) | 4:05 |
 | 65 | [Elaan](https://open.spotify.com/track/3dzkMcvRVdDfnfcSXZyD9j) | [Monty Sehrawat](https://open.spotify.com/artist/6WpldzFXzmtrk0RydeZrL4), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Elaan](https://open.spotify.com/album/2qrRnBtC5ojTsEvmepGiVe) | 3:13 |
 | 66 | [Kede Kede Yaar](https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B) | [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Kede Kede Yaar](https://open.spotify.com/album/2wrCS3CHyPOACbcDEc3ULP) | 2:47 |
-| 67 | [Rao Sahab](https://open.spotify.com/track/5b8fPlCEdsYNHpVXJFKGvo) | [Krrish Rao](https://open.spotify.com/artist/2VqJFtElDmZUSbTAgQhVVv), [Kriti Verma](https://open.spotify.com/artist/50k6SiiWTWIdifNRgXI64E), [Fateh Sandhu](https://open.spotify.com/artist/1CsrIsktvaa6Bv1yAACs4h) | [Rao Sahab](https://open.spotify.com/album/7bXQtOtyKCLppfhBdNJXIQ) | 3:12 |
-| 68 | [Rao Sahab Drill](https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4) | [Vkey](https://open.spotify.com/artist/0xTf08e7MLw7TnnCNKXoBv), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Rao Sahab Drill](https://open.spotify.com/album/7rF3h3c0Eyj6xXMCZgQyvf) | 3:31 |
+| 67 | [Rao Sahab Drill](https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4) | [Vkey](https://open.spotify.com/artist/0xTf08e7MLw7TnnCNKXoBv), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Rao Sahab Drill](https://open.spotify.com/album/7rF3h3c0Eyj6xXMCZgQyvf) | 3:31 |
+| 68 | [Rao Sahab](https://open.spotify.com/track/5b8fPlCEdsYNHpVXJFKGvo) | [Krrish Rao](https://open.spotify.com/artist/2VqJFtElDmZUSbTAgQhVVv), [Kriti Verma](https://open.spotify.com/artist/50k6SiiWTWIdifNRgXI64E), [Fateh Sandhu](https://open.spotify.com/artist/1CsrIsktvaa6Bv1yAACs4h) | [Rao Sahab](https://open.spotify.com/album/7bXQtOtyKCLppfhBdNJXIQ) | 3:12 |
 | 69 | [AAHO](https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [AAHO](https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx) | 4:12 |
-| 70 | [Cigarette](https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Cigarette](https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F) | 2:40 |
-| 71 | [No Love](https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [No Love](https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF) | 3:59 |
+| 70 | [Goli \(feat\. Khushi Verma\)](https://open.spotify.com/track/4HATNfC9i1QhyKu12K79DK) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn), [Khushi Verma](https://open.spotify.com/artist/6VK3DHQtrpLI82AdK9fcwY) | [Goli \(feat\. Khushi Verma\)](https://open.spotify.com/album/6uOg651hrzwS9y5I1uEz5d) | 2:34 |
+| 71 | [Cigarette](https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Cigarette](https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F) | 2:40 |
 | 72 | [No Fake](https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [No Fake](https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE) | 3:14 |
-| 73 | [Haryana Flow](https://open.spotify.com/track/6OaC2D3CyPcbhUN4Tunvek) | [Lanedaar](https://open.spotify.com/artist/3XGpQpOzPUuqQ9oDP6jPix) | [Haryana Flow](https://open.spotify.com/album/1H1nnmMFGedsa7ltWj0bDD) | 3:17 |
-| 74 | [BANDEKHANI](https://open.spotify.com/track/0Yly2vTZ58vOK2pbRbTAhx) | [Ricky Singh](https://open.spotify.com/artist/7dC0vBjsZRfnAbl5MDjWjm), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [BANDEKHANI](https://open.spotify.com/album/7jfDVnMgbgUXhiqa9PvU64) | 3:09 |
-| 75 | [Not Afraid](https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Not Afraid](https://open.spotify.com/album/3suDToPPHBihogvFsRuTcR) | 3:02 |
+| 73 | [No Love](https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [No Love](https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF) | 3:59 |
+| 74 | [Haryana Flow](https://open.spotify.com/track/6OaC2D3CyPcbhUN4Tunvek) | [Lanedaar](https://open.spotify.com/artist/3XGpQpOzPUuqQ9oDP6jPix) | [Haryana Flow](https://open.spotify.com/album/1H1nnmMFGedsa7ltWj0bDD) | 3:17 |
+| 75 | [BANDEKHANI](https://open.spotify.com/track/0Yly2vTZ58vOK2pbRbTAhx) | [Ricky Singh](https://open.spotify.com/artist/7dC0vBjsZRfnAbl5MDjWjm), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [BANDEKHANI](https://open.spotify.com/album/7jfDVnMgbgUXhiqa9PvU64) | 3:09 |
 
-Snapshot ID: `MCxjZDk3ZmE5YjVjZTg3NjQ1Y2ZiMzU2ZGNhMmQzNTZmMmUyZGUyOGUy`
+Snapshot ID: `MCxmOTkyNzFlNGQ0OWEzMTJmNDM0YTM3Mzk2MWJmOTg5ODZlZWNmNDE0`

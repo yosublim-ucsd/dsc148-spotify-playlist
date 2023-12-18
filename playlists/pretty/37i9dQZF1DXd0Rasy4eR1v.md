@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Top 50 discoveries from Fresh Finds Pakistan in 2023\.  Cover \- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,093 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,116 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 49 | [Raatain](https://open.spotify.com/track/7iNIdvTw4C2KJZow1neWzA) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x) | [Raatain](https://open.spotify.com/album/1tzBjW5EPm7bowTHtx8wgc) | 2:06 |
 | 50 | [Rani](https://open.spotify.com/track/1RRCXiSC4BFV6cHY5vYKSU) | [Umer Farooq](https://open.spotify.com/artist/3hVxqR4x3D6PaJWHICzhpt) | [Rani](https://open.spotify.com/album/6CPMv5xILvYGeK9UIMTeKl) | 3:54 |
 
-Snapshot ID: `MCwyZjlmY2QxNDA5MzZhNzU2YTg0ODkxMTRhYzQ0Njk4ZmQ0ZGQyODMz`
+Snapshot ID: `MCxlOGFjZWU5OTNlMjkxNzUwYzZjODQ2NDdhZjJkMzEwMWFkZWVmYjIy`

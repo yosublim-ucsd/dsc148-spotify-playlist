@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-567 songs - 2 day 0 hr 22 min
+568 songs - 2 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 |  |
 | [Serpents](https://open.spotify.com/track/0wox07C2h9VVLmYoGwaFgZ) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Decade of Silence](https://open.spotify.com/album/0zImQSij3CAhYMlkGiCW78) | 5:50 | 2022-05-06 | 2022-07-21 |
 | [Serve the Untrue](https://open.spotify.com/track/3VSjFsP90huj6wvNKaE3Uo) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Kalmah](https://open.spotify.com/album/2wxVRKpv3yVZXV7hv5muqr) | 4:53 | 2023-05-26 |  |
+| [Shadowgraph](https://open.spotify.com/track/3OxeREeA7T4fTrnywqMrfr) | [Cognizance](https://open.spotify.com/artist/6A9eYVM8X5L29jm3T9exhF) | [Shadowgraph](https://open.spotify.com/album/2ICLfB3JL8S8cGeNkFEoXy) | 4:46 | 2023-12-15 |  |
 | [Sharpened Narcotics](https://open.spotify.com/track/2YtghqdRA401FXUwCYutF3) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Encased in Chrome](https://open.spotify.com/album/2dbMIDmPfffd0tO9hyjkNF) | 2:01 | 2022-03-18 | 2022-04-23 |
 | [She is a Fire](https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [She is a Fire](https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg) | 5:22 | 2023-03-03 | 2023-10-10 |
 | [Shovel Beats Sceptre](https://open.spotify.com/track/2PucG2cHrOTmhARzm8EOaP) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Shovel Beats Sceptre](https://open.spotify.com/album/2GD1FDHMTBd7lKkhYG7ewZ) | 5:01 | 2023-08-04 |  |
@@ -520,7 +521,7 @@
 | [TWICE BORN](https://open.spotify.com/track/4MCq8x9jHxbwhwPq0OwRMS) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [TWICE BORN](https://open.spotify.com/album/2mEqvw1766qVpwZBGafMLt) | 3:37 | 2023-12-15 |  |
 | [Twilight of the Machines](https://open.spotify.com/track/77k1IEFrNcRNng2bskQOMN) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar), [Austere](https://open.spotify.com/artist/07fs2bGSWU8zKACi9dIF9k) | [Twilight of the Machines](https://open.spotify.com/album/4Mm90xb15scrI73m78fDjt) | 8:34 | 2023-09-01 | 2023-11-18 |
 | [Twin Mouthed Spring](https://open.spotify.com/track/7Csk00f4AnlIIcXD6OujaJ) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Twin Mouthed Spring](https://open.spotify.com/album/4y0CNWyaEiwbp3GczV2ETx) | 4:54 | 2023-08-18 |  |
-| [Twisting the Knife](https://open.spotify.com/track/3o3mqun2yiVltirYcYSbIQ) | [Vanir](https://open.spotify.com/artist/6DCYYeX3Iqic6GnQTXM3n4) | [Twisting the Knife](https://open.spotify.com/album/3g86EwlDNTaDTdoN4jecm4) | 5:10 | 2023-11-17 |  |
+| [Twisting the Knife](https://open.spotify.com/track/3o3mqun2yiVltirYcYSbIQ) | [Vanir](https://open.spotify.com/artist/6DCYYeX3Iqic6GnQTXM3n4) | [Twisting the Knife](https://open.spotify.com/album/3g86EwlDNTaDTdoN4jecm4) | 5:10 | 2023-11-17 | 2023-12-18 |
 | [Udug\-Hul Incantation](https://open.spotify.com/track/4gws3X9xLT4D2cT1h2nv4p) | [Devangelic](https://open.spotify.com/artist/0c91Xi4FCxmA42VdvSxJ52) | [Udug\-Hul Incantation](https://open.spotify.com/album/3DZeDu7FxYqexmNrRh3yEy) | 4:32 | 2023-03-17 | 2023-04-01 |
 | [Under A Funeral Moon](https://open.spotify.com/track/4kGQ1zZbbVeZVftLCgufsb) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Under a Funeral Moon](https://open.spotify.com/album/6mFiCalfpMfPPfmXnqlQNV) | 4:57 | 2022-07-13 | 2022-07-28 |
 | [Under a Funeral Moon \- Studio](https://open.spotify.com/track/1a0QUQlASChJk64UV2j9Go) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Under A Funeral Moon](https://open.spotify.com/album/2TXZleYLiza8MszRBsDMsj) | 5:06 | 2022-07-13 | 2023-02-16 |

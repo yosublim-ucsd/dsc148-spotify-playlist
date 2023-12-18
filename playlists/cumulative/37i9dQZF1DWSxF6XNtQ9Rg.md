@@ -2,7 +2,7 @@
 
 ### [Hit Rap Italiane](https://open.spotify.com/playlist/37i9dQZF1DWSxF6XNtQ9Rg)
 
-> Solo hit rap da ascoltare in loop\. Cover: Sfera Ebbasta
+> Solo hit rap da ascoltare in loop\. Cover: Salmo
 
 204 songs - 11 hr 2 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 96765,
+  "num_followers": 96804,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWMwZTZhNjk0YjkyYzM4ZDNkNzIyOGM0NTk4NjlhNzQzZWExMDA0",
+  "snapshot_id": "MCxjYTM3YTkwNDhkNDRmYmE4MjgzZGNkZWI5ZTA4YzBlNDVlZGQ2YzE0",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 267772,
+      "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "O Jeito Que Voc\u00ea Me Olha",
         "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 198067,
       "name": "O Jeito Que Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
-        "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 267772,
-      "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
     },
     {
       "added_at": "2023-07-14 16:56:11",

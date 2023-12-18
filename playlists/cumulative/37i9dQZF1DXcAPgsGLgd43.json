@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Balan\u00e7a",
+        "url": "https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "Balan\u00e7a",
+      "url": "https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F"
+    },
+    {
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
       },
@@ -956,7 +978,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 221538,
       "name": "Envolvid\u00e3o",
       "url": "https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK"

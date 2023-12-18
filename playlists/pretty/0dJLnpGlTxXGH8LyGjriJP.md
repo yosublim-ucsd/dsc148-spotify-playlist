@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 718 songs - 1 day 12 hr 27 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 719 songs - 1 day 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -726,5 +726,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 716 | [350](https://open.spotify.com/track/2AQfJsSZ65584nBxJF2KEe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [350](https://open.spotify.com/album/0Y5Gu6RKVlM3puaGGY3XIi) | 3:13 |
 | 717 | [Rich MF \(feat\. Lil Durk\)](https://open.spotify.com/track/1geOe7YkJHbsoRdNU0IvGS) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 4:07 |
 | 718 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/2U3ubKXSN5RjQHVSd8bivI) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Welcome To Vulture Island](https://open.spotify.com/album/7niGAuoUEahASwBNpmseHx) | 3:29 |
+| 719 | [GO](https://open.spotify.com/track/7dnlipXNH2vLvhvTkhWPGq) | [HorseTheOne](https://open.spotify.com/artist/2f3UhhzxocxMpddhF3dclq), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [264 Quez](https://open.spotify.com/artist/30y2oENJyPSHmwXktCAMyH) | [GO](https://open.spotify.com/album/168z0q817tjY23vzPjRkZA) | 3:14 |
 
-Snapshot ID: `ODgxLGM4ZGU4ODA2MmQ2YWE5MTA3ZTE2NDczZGY4Mjk4N2E1ZTIyY2I2ZWM=`
+Snapshot ID: `ODgyLDQyNjE5ZWJiOWRiOGVkZjM3YWY3MzA1YWJiZGY5NDhhODQyNTZkZjM=`

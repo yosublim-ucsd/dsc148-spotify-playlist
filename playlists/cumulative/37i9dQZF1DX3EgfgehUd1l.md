@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-266 songs - 11 hr 41 min
+267 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [No One but You](https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:09 | 2020-07-08 | 2023-12-15 |
 | [No Other Love](https://open.spotify.com/track/57gWaXJvGcxNKKpHLSCxKv) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:07 | 2020-07-08 | 2022-07-25 |
 | [Oh Happy Day](https://open.spotify.com/track/2E82nlauHbios3I3QjTb7v) | [The Johnston Brothers](https://open.spotify.com/artist/0iIaj6ADAukv5iNNkvnQt9) | [Backline Volume 63](https://open.spotify.com/album/6aHbkUj1zttZbx6cPki27R) | 2:11 | 2020-07-08 | 2022-06-29 |
-| [On My Word Of Honor](https://open.spotify.com/track/55qDgsYwCX2IMK1Y2H1819) | [The Platters](https://open.spotify.com/artist/2lP463yIRHre8VLbw0giyi) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:45 | 2023-10-17 |  |
+| [On My Word Of Honor](https://open.spotify.com/track/55qDgsYwCX2IMK1Y2H1819) | [The Platters](https://open.spotify.com/artist/2lP463yIRHre8VLbw0giyi) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:45 | 2023-10-17 | 2023-12-18 |
 | [Only You \(and You Alone\)](https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1) | [The Hilltoppers](https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw) | [Trying](https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij) | 2:45 | 2020-07-08 | 2022-07-29 |
 | [Outside of Heaven](https://open.spotify.com/track/5me6syYRQFgzMXGV3sK9Nr) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Just a little Love](https://open.spotify.com/album/4uI7l9lBNI3rzpW9V0OAif) | 2:38 | 2020-07-08 | 2022-07-22 |
 | [Outside of Heaven](https://open.spotify.com/track/5TPvEyuAu8QVDpp3Zf4g3k) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 2:38 | 2020-07-08 |  |
@@ -187,6 +187,7 @@
 | [Sh\-Boom](https://open.spotify.com/track/7I774iZM4QkJK6gFPEEmS0) | [Floyd F\. McRay](https://open.spotify.com/artist/2eQow3uMhh2KrbnqSsyyyp), [Carl Feaster](https://open.spotify.com/artist/1LIPBL4oHGvxy322gYO5jt), [Claude Walter Feaster](https://open.spotify.com/artist/6fJKPRQnR25FMnxU2KRykI), [James Keyes](https://open.spotify.com/artist/2IAFLQVGrnAxD6icGJuPvz), [William Edwards](https://open.spotify.com/artist/4ZIkdZVB7BVdzALCxTM4EW), [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [Hearts in Atlantis \- Motion Picture Soundtrack](https://open.spotify.com/album/4RQ5uJfZPSeerliWiK5CU6) | 2:45 | 2020-07-08 | 2022-11-13 |
 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 | 2020-07-08 | 2023-09-15 |
 | [Sh\-Boom \(Life Could Be a Dream\)](https://open.spotify.com/track/293St1iPD5azdzsbDYjIWs) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Canadian Crew](https://open.spotify.com/album/4fSOSe21Ri2GCzGfapA6iX) | 2:46 | 2020-07-08 |  |
+| [Shop Around](https://open.spotify.com/track/47IRIQxGDe2Sc6F4pe2FMf) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Hi We're The Miracles](https://open.spotify.com/album/2fvokJVgfNIjWbGzudJQfT) | 2:50 | 2023-10-17 |  |
 | [Side By Side](https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv) | 2:52 | 2020-07-08 |  |
 | [Side By Side](https://open.spotify.com/track/7hVvAoadyCej8i3v3hm3Do) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/3KzeH6j8lksLOBLCqqSiQT) | 2:52 | 2020-07-08 | 2022-07-29 |
 | [Sixteen Tons](https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Vintage Collections](https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD) | 2:38 | 2020-07-08 |  |

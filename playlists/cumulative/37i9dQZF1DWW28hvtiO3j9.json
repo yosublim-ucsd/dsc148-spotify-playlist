@@ -814,6 +814,24 @@
     {
       "album": {
         "name": "Navigator",
+        "url": "https://open.spotify.com/album/7G9VfKv9e1OmEQF0BByRK3"
+      },
+      "artists": [
+        {
+          "name": "1986 OMEGA TRIBE",
+          "url": "https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255960,
+      "name": "Older Girl",
+      "url": "https://open.spotify.com/track/3lmsq8LdfOOA6UlE3hFDPC"
+    },
+    {
+      "album": {
+        "name": "Navigator",
         "url": "https://open.spotify.com/album/4dDdb8mXZgAcw6QAO6oKc9"
       },
       "artists": [
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 291573,
       "name": "\u30b9\u30ce\u30c3\u30d6\u306a\u591c\u3078",
       "url": "https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2"

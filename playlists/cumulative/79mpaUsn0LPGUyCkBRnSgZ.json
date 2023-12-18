@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161042,
+      "name": "Cooking Up Something Good",
+      "url": "https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli"
+    },
+    {
+      "album": {
         "name": "Malibu Ken",
         "url": "https://open.spotify.com/album/7xa97ZeKKo4MiBJ96awavT"
       },

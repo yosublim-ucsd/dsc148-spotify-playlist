@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "I LOVE WINTER",
+        "url": "https://open.spotify.com/album/3ExsqNiurr9UsQcuK1xG7k"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "Beautiful Winter",
+      "url": "https://open.spotify.com/track/5iN9cgIpMlm6nfi6zRG8HR"
+    },
+    {
+      "album": {
         "name": "The Winter's Tale",
         "url": "https://open.spotify.com/album/2YFp86lm2xLii6VuJZAyIG"
       },
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 260276,
       "name": "Together Forever!",
       "url": "https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau"

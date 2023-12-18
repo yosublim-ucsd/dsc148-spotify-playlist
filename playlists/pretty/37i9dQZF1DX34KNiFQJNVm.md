@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem L7NNON e Veigh, Anitta, Ivete Sangalo e Ludmilla, Filipe Ret e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,929,290 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,929,676 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Dançando na Beira](https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Dançando na Beira](https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8) | 2:43 |
 | 99 | [Dezembro](https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Dezembro](https://open.spotify.com/album/6YTd5CGlZO7L1pnUSgvSvl) | 3:48 |
 
-Snapshot ID: `MCxhMTUzOTA1MmU0MmQ1Njk3ZWMxODA2Mjc4ZWJhMWVjMWFmYzExNzZh`
+Snapshot ID: `MCxjYTMxODk4Y2Q3OWY1ZjU3ODI5MjA5NjUxZTg1NDhhNzk1MjU1M2Fh`

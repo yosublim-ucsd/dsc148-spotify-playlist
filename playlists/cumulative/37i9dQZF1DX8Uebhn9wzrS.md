@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,737 songs - 2 day 18 hr 2 min
+1,739 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,6 +893,7 @@
 | [Lovespell](https://open.spotify.com/track/3gV5lV1Y5P93ZqHQAz72TZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [Lovespell](https://open.spotify.com/album/0rjaM4lvJKHzsf5D3owH7D) | 2:30 | 2022-07-29 | 2022-10-08 |
 | [Lowride River](https://open.spotify.com/track/2SqIwESq04iFODwdyzVYoy) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Lowride River](https://open.spotify.com/album/2joB6WYW30agKgPmd8NYSl) | 3:24 | 2022-04-15 | 2022-11-12 |
 | [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2023-03-01 |  |
+| [lullaby sayonara](https://open.spotify.com/track/5gmGU21qJOnyhfLaVFLsc8) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [lullaby sayonara](https://open.spotify.com/album/7aEVz9aLIagUCYVZnR4L4C) | 2:11 | 2023-12-15 |  |
 | [Lumbre](https://open.spotify.com/track/4uvIkNbOfh9w8VijIRn6EA) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Lumbre](https://open.spotify.com/album/5Ld9PgzYDbl4f42sN57ThN) | 2:00 | 2022-05-27 | 2023-04-04 |
 | [Lunch Break Mantra](https://open.spotify.com/track/2FUBWrnfPAuZ8DQWQBqx9S) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Lunch Break Mantra](https://open.spotify.com/album/1v4Ao73yYn6S5spJOXlUmz) | 2:21 | 2022-04-15 | 2022-12-09 |
 | [Lunchbox](https://open.spotify.com/track/4HLiRjP724PGR9wWRD5EBB) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:37 | 2022-04-15 | 2022-11-12 |
@@ -1671,6 +1672,7 @@
 | [Warm Place](https://open.spotify.com/track/2a9xeM0Vv18YeNuTYQQTwA) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Warm Place](https://open.spotify.com/album/4KdkXKJmqzyV40c8WapvHY) | 2:01 | 2023-03-20 |  |
 | [Warwick](https://open.spotify.com/track/3HG3Go7Yy72QSFHJ88hQuG) | [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb) | [Warwick](https://open.spotify.com/album/1yAZbjVVKbnrQeFaL5dcTo) | 1:39 | 2022-07-22 | 2022-12-03 |
 | [Water under the Bridge](https://open.spotify.com/track/2hkWgVbqRizZklKGPInc5x) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Rare Breed](https://open.spotify.com/album/7qVNP2v7tcpoOnEEnObYej) | 3:27 | 2022-04-15 | 2022-11-12 |
+| [watercolour](https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [watercolour](https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd) | 2:00 | 2023-12-15 |  |
 | [waves](https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [waves](https://open.spotify.com/album/1N5uO19ere7Y3cbG41LHCk) | 3:02 | 2022-12-09 |  |
 | [Waves coming](https://open.spotify.com/track/2J6oZ9gQYE9kl3RJoRuhfn) | [Pete LaCroix](https://open.spotify.com/artist/02oVnpIPcBnM3aLWynbqpo) | [Waves coming](https://open.spotify.com/album/5r2aAYQwavuOhjlfvqqAFs) | 2:51 | 2022-04-15 | 2022-10-08 |
 | [Wavez](https://open.spotify.com/track/02geXr3q6b3JlRC8lXG9Ze) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) | [Wavez](https://open.spotify.com/album/5i4VhNSsE6IaQrDbBGm0aR) | 2:41 | 2022-07-29 | 2022-08-12 |
@@ -1718,7 +1720,7 @@
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
 | [With your eyes!](https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [With your eyes!](https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI) | 2:29 | 2023-11-17 |  |
 | [Woke](https://open.spotify.com/track/5EGp4crErFOKGNAr7bGtU6) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Woke](https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar) | 1:42 | 2022-10-01 |  |
-| [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2022-09-23 |  |
+| [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2022-09-23 | 2023-12-18 |
 | [Wonderful Times](https://open.spotify.com/track/2G00hkPjXrG0EUktsv7Pbc) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Wonderful Times](https://open.spotify.com/album/6QxZonwGmPwndaqt0khNDB) | 1:27 | 2022-04-15 | 2022-05-27 |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-04-15 | 2022-05-27 |
 | [wonderland](https://open.spotify.com/track/2fP5vQ1GnN9FhbWpPRgQeT) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Broken Clocks And Still Time](https://open.spotify.com/album/3DznMUC2aXorcY7A4i9bAq) | 1:50 | 2023-06-06 |  |
@@ -1727,7 +1729,7 @@
 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 | 2022-04-15 | 2022-07-01 |
 | [World Is My Pillow](https://open.spotify.com/track/0V2A3Wj3b7wLbEf0kLZAhn) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [World Is My Pillow](https://open.spotify.com/album/4DtC7Dy60nNTJP6vOoCG5q) | 1:44 | 2022-04-15 | 2022-10-14 |
 | [World Wonders](https://open.spotify.com/track/7ECNeHwthaexm4DlKXoB6L) | [Anex Xi Ko](https://open.spotify.com/artist/49aViG8nPbDT9il51JrGD4) | [World Wonders](https://open.spotify.com/album/3WBitz6lZdhmXpW7Nu7FzO) | 1:58 | 2022-10-28 |  |
-| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 |  |
+| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 | 2023-12-18 |
 | [wwwonderful](https://open.spotify.com/track/75EDTSiCdoU7D1fudbsVRj) | [chilliament](https://open.spotify.com/artist/6XpSrMMpim7PcR2s9dMnu7) | [llofi](https://open.spotify.com/album/1jPxjaOPiE04TzQbJiU1ow) | 2:18 | 2022-04-15 | 2023-02-14 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-07-15 |
 | [yellow](https://open.spotify.com/track/0lVHOXO4RZVfAog2QnCQ3T) | [ThinkChill](https://open.spotify.com/artist/0UFcspQ3mJJHtvaU43z460), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [yellow](https://open.spotify.com/album/7DVT4nL7IW52rubRdiEfut) | 2:06 | 2022-08-05 | 2022-12-03 |

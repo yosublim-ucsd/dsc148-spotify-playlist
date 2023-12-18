@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Delta Species, Middle\-D
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,605 likes - 71 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,620 likes - 71 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 70 | [Naa](https://open.spotify.com/track/6iasq5gQGE5uDeYf5WLkLQ) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Mercuriall](https://open.spotify.com/artist/6QxKFKo234JntCyUWzrAcD) | [Naa](https://open.spotify.com/album/0v6DRqSGZ5ShaOZhDfgdJs) | 4:26 |
 | 71 | [DMT](https://open.spotify.com/track/6NHRWtAQTtCELvv3h0pGYq) | [Becker](https://open.spotify.com/artist/3WTaU5om1axaFsKlKchl2U), [Labirinto](https://open.spotify.com/artist/4ISuKZJYpsbU6JPD3vq0p1) | [DMT](https://open.spotify.com/album/2mIZCsIe92lDHxDC7BCxo5) | 7:30 |
 
-Snapshot ID: `MCwyN2E5NDZkYWY0OTMwZGYxODcxMjU5MWUwMGU0MzViYzRlNjAxNDdm`
+Snapshot ID: `MCw3NWYwNGM4OTA1YTE5Yjk2YzQ3ODYxNzE0YWYzODM0YTVmNGU1Yjg2`

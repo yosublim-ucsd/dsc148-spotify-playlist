@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,899 songs - 4 day 1 hr 55 min
+1,900 songs - 4 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Anarrana](https://open.spotify.com/track/3QJSeb51jHsaLxIwSVcs8N) | [MC Japa](https://open.spotify.com/artist/2RzyuZzD2apLpKBELlsOjV) | [Anarrana](https://open.spotify.com/album/2aocmg4mm3KfV0mvbGyveH) | 2:33 | 2022-02-12 | 2022-03-23 |
 | [Ando Meio Desligado](https://open.spotify.com/track/1MhkTY7vEuWR0VfDefE6Lf) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["A Divina Comédia Ou Ando Meio Desligado"](https://open.spotify.com/album/7Brj8kqhEO9Zg4daamMieT) | 4:45 | 2023-05-16 | 2023-05-18 |
 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 | 2022-08-14 | 2022-09-09 |
-| [Anestesiado \- Ao Vivo](https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Anestesiado \(Ao Vivo\)](https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0) | 2:52 | 2023-12-07 |  |
+| [Anestesiado \- Ao Vivo](https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Anestesiado \(Ao Vivo\)](https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0) | 2:52 | 2023-12-07 | 2023-12-18 |
 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF) | 2:55 | 2023-06-13 | 2023-06-15 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-15 | 2022-11-26 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-11-08 | 2023-01-16 |
@@ -476,6 +476,7 @@
 | [Desatola Bandida](https://open.spotify.com/track/0ZccBMldmHjkuH8TAnKW3Z) | [Rensga Hits](https://open.spotify.com/artist/4inEHzgGROy4cnpcgPFq04), [Alice Wegmann](https://open.spotify.com/artist/3NZDxiyW5Vm33YhcTV8xgO) | [Rensga Hits!](https://open.spotify.com/album/0aDyT5Pcu6qakoVP6lCHEx) | 2:42 | 2022-08-30 | 2022-09-15 |
 | [DESCE LICOR](https://open.spotify.com/track/0BO9LDxYu9L0I8eNHNkg5x) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Rapper Gregory](https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS) | [Yin Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 2:33 | 2023-07-04 | 2023-07-26 |
 | [Desce Talarica](https://open.spotify.com/track/5rm0I5FjhroFxGXgLvQS5R) | [Dj Miguel Muniz](https://open.spotify.com/artist/6r5IE5GCAU7MKTmCuxihbn) | [Desce Talarica](https://open.spotify.com/album/5QvJ9V1Zt3SAFBsSF8Homx) | 1:49 | 2023-01-31 | 2023-02-28 |
+| [Descendência](https://open.spotify.com/track/6rSNgGImNmGPcosJiPLgzs) | [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Descendência](https://open.spotify.com/album/2qmv0EP42gidNgDCHRNIa6) | 5:37 | 2023-12-17 |  |
 | [Descontrolada](https://open.spotify.com/track/35ILpvFvH8u8dVfjG2txtw) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Descontrolada](https://open.spotify.com/album/2j7lcwySLJb1KyihQby99X) | 2:42 | 2022-10-18 | 2022-10-20 |
 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 | 2022-08-16 | 2022-09-04 |
 | [Desculpa te Ligar](https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Todas pra você que me fez sofrer](https://open.spotify.com/album/3LSLhIdXsWmGosIm15nsMn) | 1:56 | 2023-04-25 | 2023-05-03 |

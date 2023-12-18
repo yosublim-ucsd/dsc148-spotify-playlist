@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1135197,
+  "num_followers": 1135381,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2MyMGY5MTQwMGNiM2E3MTI0NzYwZTFkNGJhYzczNGNhYmE3ZTU5",
+  "snapshot_id": "MCw1NjA3MGIxZWM2OWM1YzRlNDRhNjI3NzlhMDM4OWM5N2M2MmYzZTdi",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Psychedelic Drugstore - Remastered",
-        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
-      },
-      "artists": [
-        {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
-        }
-      ],
-      "duration_ms": 341786,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Gris Gris",
         "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 180600,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "duration_ms": 341786,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 466266,
-      "name": "I Walk on Guilded Splinters",
-      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "The Best of the Lemon Pipers",
         "url": "https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 153426,
       "name": "5D (Fifth Dimension)",
       "url": "https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 466266,
+      "name": "I Walk on Guilded Splinters",
+      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
     },
     {
       "added_at": "2023-01-18 16:20:47",

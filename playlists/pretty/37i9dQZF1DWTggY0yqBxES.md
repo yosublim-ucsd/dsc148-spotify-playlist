@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,951 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,027 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 29 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 |
 | 30 | [skintight](https://open.spotify.com/track/1iMIJqPSIXikOOzmZFXQ3t) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Pilotkid](https://open.spotify.com/artist/286FnZHn1jC2EwmR0HtCkG) | [jetsvm](https://open.spotify.com/album/6ywL1IfJGesqLYEZDjFFw9) | 3:24 |
 | 31 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
-| 32 | [DISRUPTIVE](https://open.spotify.com/track/1Ym2xT23p7t1tjTLB38f3Q) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [The Old Way](https://open.spotify.com/album/0XgoqCkXhNdmryyPX28haw) | 4:44 |
+| 32 | [DISRUPTIVE](https://open.spotify.com/track/1Ym2xT23p7t1tjTLB38f3Q) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [THE OLD WAY MIXTAPE](https://open.spotify.com/album/0XgoqCkXhNdmryyPX28haw) | 4:44 |
 | 33 | [advantages](https://open.spotify.com/track/67GD5DfgXGSGfnUaOOjd6u) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:08 |
 | 34 | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/track/57WwGbbzcKCG4tF4LdJjU5) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [SKED \[feat\. Kenny Mason\]](https://open.spotify.com/album/5aQJMDgrFgssrR5xS4p5MX) | 2:38 |
 | 35 | [FMG](https://open.spotify.com/track/3Tlkud5UiGv7FCc3RcYbhG) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [R.I.P.](https://open.spotify.com/track/3CoHgbwTCOhigOIJP60uja) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [R.I.P.](https://open.spotify.com/album/1RUt29Os0Cu7xwz9HeZBE2) | 2:41 |
 | 100 | [Go](https://open.spotify.com/track/0ygId62cVyJWm8ZKaHX8CV) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [HXLLYWOOD](https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ), [MONI DA G](https://open.spotify.com/artist/4twqXMj5X9jIGTAwrZLwYI) | [Go](https://open.spotify.com/album/4mRq2sJNSNwCIxMyVaiLeH) | 4:09 |
 
-Snapshot ID: `MCwwM2U3YjA4ZjM3MjEwNzgxMWVlZTFkMzBmNzFhMjUyNTBjYTIwMjA5`
+Snapshot ID: `MCxhMTE4MTMzNDU5NzMwODJkZjNlMjQ3ZDk5NzhiM2ZmNWZlYjM0Y2Y4`

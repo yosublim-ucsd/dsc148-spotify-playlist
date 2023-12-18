@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,042 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,054 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 39 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
 | 40 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 41 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
-| 42 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
+| 42 | [Contigo](https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Contigo](https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC) | 2:42 |
 | 43 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
 | 44 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
 | 45 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
-| 46 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
-| 47 | [Contigo](https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Contigo](https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC) | 2:42 |
+| 46 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
+| 47 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
 | 48 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
 | 49 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
 | 50 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
 | 60 | [Girassol](https://open.spotify.com/track/3VkpWeLBtt3J3HYv5CyDfT) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Girassol](https://open.spotify.com/album/6WRrLkXJ8OKNGaiSgZxm1w) | 3:14 |
 | 61 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
-| 62 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [Vittau](https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 |
-| 63 | [Tequila \- Studio Version](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
+| 62 | [Tequila \- Studio Version](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
+| 63 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [Vittau](https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 |
 | 64 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 65 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 |
-| 66 | [Dança](https://open.spotify.com/track/5dFuWvNXDMwWJg3Fs64pJM) | [nastyfactor](https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1) | [Dança](https://open.spotify.com/album/0P7u3Ze1wNDzKFFNo7to1C) | 2:59 |
+| 65 | [Dança](https://open.spotify.com/track/5dFuWvNXDMwWJg3Fs64pJM) | [nastyfactor](https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1) | [Dança](https://open.spotify.com/album/0P7u3Ze1wNDzKFFNo7to1C) | 2:59 |
+| 66 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 |
 | 67 | [COMIGO \(extended version\)](https://open.spotify.com/track/5MOTrUpMemyBYPgtKHeVqA) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Carmen Chaquice](https://open.spotify.com/artist/7FNGfhLBvPhRisszCPtHAT) | [COMIGO \(extended version\)](https://open.spotify.com/album/6UKRXjm8zeSIKopgdAc5TR) | 2:47 |
 | 68 | [Quem Diria](https://open.spotify.com/track/2OGx0fG4WeIplwMarmls42) | [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Quem Diria](https://open.spotify.com/album/58WJgmGwOlbtMtP3wKcbRc) | 2:51 |
 | 69 | [Mais Um](https://open.spotify.com/track/0xTGck7kcQuE5FKaV76Ge3) | [Maison Vërt](https://open.spotify.com/artist/3Cy9Lx1rIFy8alkXjVLq9S), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx), [Frank Lucas](https://open.spotify.com/artist/6tpjAPaF1K2nDrixml8l0R) | [Mais Um](https://open.spotify.com/album/18Lz9SXvBWL9KpFxg1PRUx) | 2:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 79 | [Bem Flam](https://open.spotify.com/track/11n5HTMsLZwrlXbq5R8PRX) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Bem Flam](https://open.spotify.com/album/3beKsW0TQ0AtbRGLlAuxdk) | 4:04 |
 | 80 | [M3lodia](https://open.spotify.com/track/7caI289frHAR8RLR0Ez0Xq) | [Belarmino Nascimento](https://open.spotify.com/artist/2eti7KfFdqkEquaNTlIZ4d) | [M3lodia](https://open.spotify.com/album/1pypARVuRnmDlBQBavMWdz) | 3:55 |
 
-Snapshot ID: `MCwyY2FlMWMzZDA3OGRmMjRmNWRlZGY1MGU3NDhiNmM5ZWUwMzA2ZWE1`
+Snapshot ID: `MCxlN2I2ZDc0MDI2YjNmNDViM2QzN2UyYTMxMDlhOWFjMWEwNDZhYTM0`

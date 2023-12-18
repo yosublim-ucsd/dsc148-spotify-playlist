@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 590604,
+  "num_followers": 590866,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2QwZjVhNDE0MDNmOWFhNDA3MmY0Y2Q3OTFjNWIwNjZlNWE5OTY0",
+  "snapshot_id": "MCxiZmRiYzljY2E3ODQ1YzZmMTgwMGE5NGZmYzRiMGVkOThmMzVmMmM5",
   "tracks": [
     {
       "added_at": "2021-02-24 08:50:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "Hot Shot",
         "url": "https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 227600,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Pon de Replay",
-      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Boombastic",
-        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Boombastic",
-      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Gyal You a Party Animal (Remix)",
         "url": "https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly"
       },
@@ -227,6 +211,38 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Sweat (A La La La La Long)",
+        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Boombastic",
+        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Boombastic",
+      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "Whine & Kotch",
         "url": "https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 217200,
       "name": "Whine & Kotch",
       "url": "https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Sweat (A La La La La Long)",
-        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "No Games",
-        "url": "https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42"
-      },
-      "artists": [
-        {
-          "name": "Serani",
-          "url": "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "No Games",
-      "url": "https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Love Yuh Everything",
         "url": "https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 165026,
       "name": "Love Yuh Everything",
       "url": "https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "No Games",
+        "url": "https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42"
+      },
+      "artists": [
+        {
+          "name": "Serani",
+          "url": "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "No Games",
+      "url": "https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Pon Di Cocky",
-        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
+        "name": "Buy out Riddim",
+        "url": "https://open.spotify.com/album/3fUkJjlmkgOwtBZ7a7nPIy"
       },
       "artists": [
         {
-          "name": "Aidonia",
-          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+          "name": "Notch",
+          "url": "https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ"
         }
       ],
-      "duration_ms": 190119,
-      "name": "Pon Di Cocky",
-      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
+      "duration_ms": 242560,
+      "name": "Nuttin Nuh Go So",
+      "url": "https://open.spotify.com/track/5bfrLQFw6AB3Be3fzvY5ER"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -639,6 +639,22 @@
       "duration_ms": 255360,
       "name": "Dude",
       "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Pon Di Cocky",
+        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
+      },
+      "artists": [
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "duration_ms": 190119,
+      "name": "Pon Di Cocky",
+      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -687,22 +703,6 @@
       "duration_ms": 221194,
       "name": "Ova Dweet",
       "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Buy out Riddim",
-        "url": "https://open.spotify.com/album/3fUkJjlmkgOwtBZ7a7nPIy"
-      },
-      "artists": [
-        {
-          "name": "Notch",
-          "url": "https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Nuttin Nuh Go So",
-      "url": "https://open.spotify.com/track/5bfrLQFw6AB3Be3fzvY5ER"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Ghetto Story (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Ghetto Story",
-      "url": "https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "First Semester: Dancehall",
         "url": "https://open.spotify.com/album/6dMkzA6Tv5vyMCjbW3ccdx"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 158955,
       "name": "Click Mi Finger",
       "url": "https://open.spotify.com/track/2gUCdANxjdifegHVvt9BVC"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Ghetto Story (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Ghetto Story",
+      "url": "https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih"
     },
     {
       "added_at": "2021-02-24 08:50:00",

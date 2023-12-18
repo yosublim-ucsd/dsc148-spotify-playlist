@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Benny Page
 
-535 songs - 1 day 9 hr 33 min
+536 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,8 @@
 | [Return Of Forever \- Camo & Krooked & Mefjus Remix](https://open.spotify.com/track/5EmRq15Ay5NKkxAlLmj9Q9) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [Return Of Forever \(Camo & Krooked & Mefjus Remix\)](https://open.spotify.com/album/4nrs91nwawShFqGSu2Y5fK) | 4:30 | 2022-06-10 | 2023-07-28 |
 | [Return To You](https://open.spotify.com/track/38gqmMpi72rUsoE1NI4MRY) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Synth System](https://open.spotify.com/artist/6QsoTtZ0wvLWa31H7jg068), [Anna Simone](https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes) | [Return To You](https://open.spotify.com/album/6xj53G72xDqejDEeqYXCyx) | 2:42 | 2022-11-25 | 2023-09-08 |
 | [Revolution Not Televised](https://open.spotify.com/track/0J1odRZupjNiGiQZyCYCl3) | [Sweetpea](https://open.spotify.com/artist/62wR4mvjXztHU3tQ3Lhxgh), [Iris](https://open.spotify.com/artist/5PDWYfx3o05zDhOvruFS6N) | [Sampler 1: Sofa King Sick, Chapter 3](https://open.spotify.com/album/1myJoorvSNwRXaadYUs9kd) | 5:18 | 2022-04-08 | 2022-04-21 |
-| [Riot Gear Romance](https://open.spotify.com/track/3LIQzjfcbhRGZmP9DfiF6T) | [QZB](https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9) | [Riot Gear Romance](https://open.spotify.com/album/2EFKBPxVQcp4EwmlOzws21) | 4:08 | 2023-09-08 |  |
+| [Riot Gear Romance](https://open.spotify.com/track/1hWd6fQfgM9kmDHR2XoVog) | [QZB](https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9) | [Future Forever](https://open.spotify.com/album/6fSBP82AFffzBrmSIQGTIg) | 4:08 | 2023-12-15 |  |
+| [Riot Gear Romance](https://open.spotify.com/track/3LIQzjfcbhRGZmP9DfiF6T) | [QZB](https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9) | [Riot Gear Romance](https://open.spotify.com/album/2EFKBPxVQcp4EwmlOzws21) | 4:08 | 2023-09-08 | 2023-12-18 |
 | [Rise](https://open.spotify.com/track/3FKtwI55ioKC1aS2KSuBMt) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Rise](https://open.spotify.com/album/2sUd0weO767yKriUdfvZiS) | 3:16 | 2022-04-08 | 2022-07-29 |
 | [Rock It \(Wilkinson Remix\)](https://open.spotify.com/track/7aYilD8vBLICtiJ7Pt6XLY) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Rock It \(Wilkinson Remix\)](https://open.spotify.com/album/3fJUuqlf7uesC5yvmTkoZY) | 4:32 | 2022-04-08 | 2022-08-13 |
 | [Round To Ya Speaker](https://open.spotify.com/track/2KriMN9ZBNzSVYG7geNFs7) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Round To Ya Speaker](https://open.spotify.com/album/2Kxv5sZ3hrzF9xmXMlim3U) | 3:06 | 2023-09-08 | 2023-12-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 
 > Les tubes pop pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,856 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,864 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 27 | [Les enfants du monde](https://open.spotify.com/track/3Kbrdxgjg0Gj9WT34g6OFN) | [Green Team](https://open.spotify.com/artist/23nbQGS6wDP84uCupbOlCX), [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Les enfants du monde](https://open.spotify.com/album/6Jwm5fgoMYPgKxRx2YFJrM) | 3:50 |
 | 28 | [RITMO](https://open.spotify.com/track/2gVLpzfM3ZiSXZY8fFgW2a) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [RITMO](https://open.spotify.com/album/77T4L4KT2y6XL0Mx9vJ0Cz) | 3:23 |
 | 29 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 |
-| 30 | [Roi](https://open.spotify.com/track/5PBSQUx6KNuKN4nLT21EKy) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Kingdom](https://open.spotify.com/album/0ckD7WAQ7hYev0CXcsD3jD) | 2:58 |
+| 30 | [Roi](https://open.spotify.com/track/0rsVzwUU7OGXmUw29KpV33) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Héritage](https://open.spotify.com/album/5POHVNXNPHewtup35U72vh) | 2:58 |
 | 31 | [ily \(i love you baby\)](https://open.spotify.com/track/1AijjSH5B1JZN8k1E7U2QV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:56 |
 | 32 | [Tout le bonheur du monde \(feat\. Inaya\)](https://open.spotify.com/track/54LltxIjaYmwtp7OtRppKb) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Inaya](https://open.spotify.com/artist/3ssxd1G91AbaoMrg9vA3TY) | [Tout le bonheur du monde](https://open.spotify.com/album/0Fv7WQcI5bgNXNgu4IooPC) | 3:21 |
 | 33 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 78 | [Feels](https://open.spotify.com/track/70ZiK7oV2LHGgRwO9zOAKR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 36](https://open.spotify.com/album/7CdyApdN5Hamda6NepONvs) | 2:28 |
 | 79 | [Au soleil \(feat\. Jenifer\)](https://open.spotify.com/track/0fy5VZW9otd9OnwAQp5OwC) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Forever United](https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ) | 3:11 |
 | 80 | [In My Blood](https://open.spotify.com/track/2nPRJ1sJLgUKSZrTo5Xd6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:17 |
-| 81 | [Tom](https://open.spotify.com/track/4sVHVVJgctfpUn1r37HbLp) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Contre soirée](https://open.spotify.com/album/5onZNDwuICw9GT4tUlFvt9) | 3:31 |
+| 81 | [Tom](https://open.spotify.com/track/09PHpUvy0Rjl9dZiEEEYTr) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Héritage](https://open.spotify.com/album/5POHVNXNPHewtup35U72vh) | 3:31 |
 | 82 | [Let Me Love You](https://open.spotify.com/track/0OpIRcElndLLm7jiTAA8eE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:57 |
 | 83 | [Roule](https://open.spotify.com/track/3qbX096fmueH0VCrhh47mY) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie](https://open.spotify.com/album/4oyz1B8KiCj3WVk1ruTlbw) | 3:08 |
 | 84 | [No Tears Left to Cry](https://open.spotify.com/track/4BE6y0W66IGi0pNaek1tJ9) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 3:25 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 86 | [24K Magic](https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:56 |
 | 87 | [Chacun sa route \(feat\. Vitaa\)](https://open.spotify.com/track/3NWfbUKqJRaJXUukxoSDhd) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Forever United](https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ) | 2:44 |
 
-Snapshot ID: `MCw5NmMzZjNiYWQ0NzJlZDVlZjM1YzFiZTMzZWJmNjkxYmJkNDliZDFk`
+Snapshot ID: `MCxhNmU2Y2ZiOGI0YTVkNjkxNjM3YzFhZmU5ZmZiMWUxYzA1NTdiMjk2`

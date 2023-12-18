@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: The fin.",
-  "num_followers": 55282,
+  "num_followers": 55296,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjJjZmI2NzY5MjNiOTlkZjMxM2NkYzZkOTIyOWRiNmE0YWI2MDdh",
+  "snapshot_id": "MCxhMGQyMzY5MmViYTc1NzIxZmE5NWQ1ZGU4MDE1ZjE1ZjUzYzI3NjZj",
   "tracks": [
     {
       "added_at": "2023-12-14 15:35:50",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
+        "name": "\u4e71\u75f4\u6c17",
+        "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "duration_ms": 221428,
+      "name": "\u4e71\u75f4\u6c17",
+      "url": "https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx"
+    },
+    {
+      "added_at": "2023-12-14 15:35:50",
+      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 209633,
       "name": "Superman",
       "url": "https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF"
-    },
-    {
-      "added_at": "2023-12-14 15:35:50",
-      "album": {
-        "name": "Dusk to Dawn",
-        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
-      },
-      "artists": [
-        {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
-        }
-      ],
-      "duration_ms": 226843,
-      "name": "Around the Corner",
-      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
     },
     {
       "added_at": "2023-12-14 15:35:50",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
-        "name": "\u4e71\u75f4\u6c17",
-        "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
       },
       "artists": [
         {
-          "name": "BREIMEN",
-          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
         }
       ],
-      "duration_ms": 221428,
-      "name": "\u4e71\u75f4\u6c17",
-      "url": "https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx"
+      "duration_ms": 226843,
+      "name": "Around the Corner",
+      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
     },
     {
       "added_at": "2023-12-14 15:35:50",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
-        "name": "\uff18",
-        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
-      },
-      "artists": [
-        {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        }
-      ],
-      "duration_ms": 216674,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
-    },
-    {
-      "added_at": "2023-12-14 15:35:50",
-      "album": {
         "name": "apart",
         "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 176166,
       "name": "apart",
       "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
+    },
+    {
+      "added_at": "2023-12-14 15:35:50",
+      "album": {
+        "name": "\uff18",
+        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "duration_ms": 216674,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
     },
     {
       "added_at": "2023-12-14 15:35:50",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
-        "name": "\u30aa\u30fc\u30d7\u30f3\u30a8\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/08GxJarYWyPK3qic88we7u"
-      },
-      "artists": [
-        {
-          "name": "\u5bb6\u4e3b",
-          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
-        }
-      ],
-      "duration_ms": 306346,
-      "name": "\u30aa\u30fc\u30d7\u30f3\u30a8\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR"
-    },
-    {
-      "added_at": "2023-12-14 15:35:50",
-      "album": {
         "name": "\u967d\u6c17\u306a\u4f11\u65e5",
         "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
       },
@@ -1451,22 +1435,18 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL"
+        "name": "\u30aa\u30fc\u30d7\u30f3\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/08GxJarYWyPK3qic88we7u"
       },
       "artists": [
         {
-          "name": "Kenta Dedachi",
-          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
-        },
-        {
-          "name": "Ryu Matsuyama",
-          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
+          "name": "\u5bb6\u4e3b",
+          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
         }
       ],
-      "duration_ms": 216530,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE"
+      "duration_ms": 306346,
+      "name": "\u30aa\u30fc\u30d7\u30f3\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR"
     },
     {
       "added_at": "2023-12-14 15:35:50",
@@ -1491,8 +1471,8 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
-        "name": "Trank",
-        "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
+        "name": "Racy",
+        "url": "https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo"
       },
       "artists": [
         {
@@ -1500,9 +1480,29 @@
           "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
         }
       ],
-      "duration_ms": 177259,
-      "name": "Trank",
-      "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"
+      "duration_ms": 269306,
+      "name": "Racy",
+      "url": "https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb"
+    },
+    {
+      "added_at": "2023-12-14 15:35:50",
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL"
+      },
+      "artists": [
+        {
+          "name": "Kenta Dedachi",
+          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
+        },
+        {
+          "name": "Ryu Matsuyama",
+          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
+        }
+      ],
+      "duration_ms": 216530,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE"
     },
     {
       "added_at": "2023-12-14 15:35:50",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
-        "name": "APART",
-        "url": "https://open.spotify.com/album/4bCqpGMScqjIAYFiTkG7qC"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "APART",
-      "url": "https://open.spotify.com/track/7zzaYtfY8m5LGWMhrV5jJW"
-    },
-    {
-      "added_at": "2023-12-14 15:35:50",
-      "album": {
         "name": "Blue light",
         "url": "https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
-        "name": "\u3042\u306a\u305f\u306e\u865c",
-        "url": "https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr"
+        "name": "APART",
+        "url": "https://open.spotify.com/album/4bCqpGMScqjIAYFiTkG7qC"
       },
       "artists": [
         {
-          "name": "\u677e\u6728\u7f8e\u5b9a",
-          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
         }
       ],
-      "duration_ms": 188575,
-      "name": "\u3042\u306a\u305f\u306e\u865c",
-      "url": "https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG"
+      "duration_ms": 196666,
+      "name": "APART",
+      "url": "https://open.spotify.com/track/7zzaYtfY8m5LGWMhrV5jJW"
     },
     {
       "added_at": "2023-12-14 15:35:50",
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
-        "name": "Racy",
-        "url": "https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo"
+        "name": "\u3042\u306a\u305f\u306e\u865c",
+        "url": "https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr"
       },
       "artists": [
         {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
         }
       ],
-      "duration_ms": 269306,
-      "name": "Racy",
-      "url": "https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb"
+      "duration_ms": 188575,
+      "name": "\u3042\u306a\u305f\u306e\u865c",
+      "url": "https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG"
     },
     {
       "added_at": "2023-12-14 15:35:50",
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
+        "name": "Trank",
+        "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "duration_ms": 177259,
+      "name": "Trank",
+      "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"
+    },
+    {
+      "added_at": "2023-12-14 15:35:50",
+      "album": {
         "name": "\u3042\u306a\u305f\u306e\u8d70\u99ac\u706f\u306b\u51fa\u308c\u305f\u3089",
         "url": "https://open.spotify.com/album/10uoBh2SE89VMu6MHvvBCA"
       },
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-12-14 15:35:50",
       "album": {
-        "name": "\u666f\u8272\u4e00\u7a7a",
-        "url": "https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb"
+        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
       },
       "artists": [
         {
-          "name": "KUKIKODAN",
-          "url": "https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS"
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 376300,
-      "name": "\u6642\u306e\u89e3\u6c7a",
-      "url": "https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l"
+      "duration_ms": 234288,
+      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
     }
   ],
   "unique_name": "Edge!",

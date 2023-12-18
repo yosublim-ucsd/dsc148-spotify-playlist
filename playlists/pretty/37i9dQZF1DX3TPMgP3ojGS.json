@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 393850,
+  "num_followers": 394048,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODc2ZDkwMTY3YzVhNjQ2YmQwODM1MWE5NDY1ZTFkYjBkZWQ4OTkz",
+  "snapshot_id": "MCw0MzA1YzVkMGMxYTA2OWYyMTUwNzZkZTc5OTY5YzRjNTg4Y2FhMGNj",
   "tracks": [
     {
       "added_at": "2023-12-12 06:10:36",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Fields Of Love",
-        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Krause",
-          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
-        }
-      ],
-      "duration_ms": 137743,
-      "name": "Fields Of Love",
-      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Hearts of Desire",
         "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 139312,
       "name": "Hearts of Desire",
       "url": "https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Fields Of Love",
+        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Krause",
+          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
+        }
+      ],
+      "duration_ms": 137743,
+      "name": "Fields Of Love",
+      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Nordanvind",
-        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
-      },
-      "artists": [
-        {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Nordanvind",
-      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Aspres",
         "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 199119,
       "name": "Aspres",
       "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Nordanvind",
+        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Nordanvind",
+      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Wreszcie",
-        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
-      },
-      "artists": [
-        {
-          "name": "Zuzana Kudov\u00e1",
-          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
-        }
-      ],
-      "duration_ms": 175825,
-      "name": "Wreszcie",
-      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Luce",
         "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 130403,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Wreszcie",
+        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
+      },
+      "artists": [
+        {
+          "name": "Zuzana Kudov\u00e1",
+          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
+        }
+      ],
+      "duration_ms": 175825,
+      "name": "Wreszcie",
+      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Just Stay",
-        "url": "https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO"
-      },
-      "artists": [
-        {
-          "name": "Tristaan Wilkes",
-          "url": "https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck"
-        }
-      ],
-      "duration_ms": 123216,
-      "name": "Just Stay",
-      "url": "https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "When It\u00b4s Love",
         "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 199428,
       "name": "Air from Air",
       "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Just Stay",
+        "url": "https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO"
+      },
+      "artists": [
+        {
+          "name": "Tristaan Wilkes",
+          "url": "https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck"
+        }
+      ],
+      "duration_ms": 123216,
+      "name": "Just Stay",
+      "url": "https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
-      },
-      "artists": [
-        {
-          "name": "Oscar Mallen",
-          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Balloon",
-        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Balloon",
-      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
         "name": "Stille Sj\u00f8",
         "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 151829,
       "name": "Stille Sj\u00f8",
       "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
+        "name": "Balloon",
+        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 197750,
+      "name": "Balloon",
+      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 143750,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
         "name": "Candles",
         "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
-        "name": "Azalea",
-        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
       "artists": [
         {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
         }
       ],
-      "duration_ms": 143750,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -1307,22 +1323,6 @@
       "duration_ms": 141451,
       "name": "Quiet Eyes",
       "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2023-12-12 06:10:36",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-12-12 06:10:36",
       "album": {
+        "name": "Brume Matinale",
+        "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
+      },
+      "artists": [
+        {
+          "name": "Valter Soll",
+          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
+        }
+      ],
+      "duration_ms": 166910,
+      "name": "Brume Matinale",
+      "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
+    },
+    {
+      "added_at": "2023-12-12 06:10:36",
+      "album": {
         "name": "Nouvelles Tentatives",
         "url": "https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 151764,
       "name": "Solace",
       "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
-    },
-    {
-      "added_at": "2023-12-12 06:10:36",
-      "album": {
-        "name": "Brume Matinale",
-        "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
-      },
-      "artists": [
-        {
-          "name": "Valter Soll",
-          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
-        }
-      ],
-      "duration_ms": 166910,
-      "name": "Brume Matinale",
-      "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
     },
     {
       "added_at": "2023-12-12 06:10:36",

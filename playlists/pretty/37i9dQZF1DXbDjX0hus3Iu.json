@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 492222,
+  "num_followers": 492284,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzZmZjY2Y2VlNTAxMjQwNGExMzdlMGEzZTIxZGY5ZDM5Zjg3NDJm",
+  "snapshot_id": "MCw5MTc1ZWE1ODcyMGI5ODA5MTZkODk1OGZhMWM3YTI4OTRkNGE1OWQ4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Pattern Disruptive",
-        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
+        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
       },
       "artists": [
         {
-          "name": "The Dickey Betts Band",
-          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
         }
       ],
-      "duration_ms": 341933,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
+      "duration_ms": 293800,
+      "name": "Georgia Rhythm",
+      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
-        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
+        "name": "Pattern Disruptive",
+        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
       "artists": [
         {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+          "name": "The Dickey Betts Band",
+          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
         }
       ],
-      "duration_ms": 293800,
-      "name": "Georgia Rhythm",
-      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
+      "duration_ms": 341933,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1483,6 +1483,38 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Ghost Train from Georgia",
+        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 355226,
+      "name": "Miss Understanding",
+      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Train, Train",
+        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Gimme, Gimme, Gimme",
+      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1519,38 +1551,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Train, Train",
-        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Gimme, Gimme, Gimme",
-      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Ghost Train from Georgia",
-        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 355226,
-      "name": "Miss Understanding",
-      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
         "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
       },
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Live At The Moody Theater",
         "url": "https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 426200,
       "name": "Fire In The Kitchen",
       "url": "https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Southern Rock Gold",
-        "url": "https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN"
-      },
-      "artists": [
-        {
-          "name": "Still Water",
-          "url": "https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9"
-        }
-      ],
-      "duration_ms": 256880,
-      "name": "Mind Bender",
-      "url": "https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC"
     }
   ],
   "unique_name": "Southern Rock",

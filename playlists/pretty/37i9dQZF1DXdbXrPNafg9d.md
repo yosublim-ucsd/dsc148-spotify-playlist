@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: The Marías & Eyedress
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,259 likes - 175 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281,438 likes - 175 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 23 | [Neptunne](https://open.spotify.com/track/3o68NfY8DRpevdlXuWI33g) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [Neptunne](https://open.spotify.com/album/3xOLLJBueYAHqroPeORhHT) | 5:23 |
 | 24 | [Get out my house](https://open.spotify.com/track/0xfj4umWuuP0aSq2T4M8JF) | [Kieran Ivy](https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK) | [Get out my house](https://open.spotify.com/album/4l8lysRbVyMUZQsrnkr5aL) | 2:55 |
 | 25 | [Trust](https://open.spotify.com/track/0vpMXSeJYP2baCJ0zlCK2V) | [Devansh](https://open.spotify.com/artist/0pNguBFun07cLmzUKMuuVI) | [Trust](https://open.spotify.com/album/7I0pHzF8IldUa2gr5qLMID) | 3:18 |
-| 26 | [Willows](https://open.spotify.com/track/2ZqvFDUx7aR2Keo6HfN7vj) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Willows](https://open.spotify.com/album/13Des86d76zjRG7oDNdvNA) | 4:30 |
+| 26 | [willows](https://open.spotify.com/track/2ZqvFDUx7aR2Keo6HfN7vj) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [willows](https://open.spotify.com/album/13Des86d76zjRG7oDNdvNA) | 4:30 |
 | 27 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 |
 | 28 | [As You Are](https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [As You Are](https://open.spotify.com/album/187ddebM7tIpmkdDOicu81) | 3:05 |
 | 29 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 |
 | 175 | [Hitchhiking](https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:03 |
 
-Snapshot ID: `MCw2ZWVhYmY0NzVmZjQwYzMxNjE2YWQ2YmE1Njk0MjkzZGI1MWU1OWY2`
+Snapshot ID: `MCwwMTVhZDE1N2Q1ZjdiMGNlNGNmNjA1ZWJlNWMwY2Q2MzAyNTc0NjQw`

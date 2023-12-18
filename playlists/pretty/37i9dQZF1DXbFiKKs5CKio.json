@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 53273,
+  "num_followers": 53309,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODVlZjVlNzRmYzAzMjU0Yzg3NDVjZWI0OGEyNTJjMDk2NjBjNWZm",
+  "snapshot_id": "MCxmZDk0ZGY2YzU2NjgyOWIxM2ZhMzIzYjZiMDc1ZDQyZDdiYmMwNDFm",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -23,26 +23,6 @@
       "duration_ms": 180959,
       "name": "N\u00eaga",
       "url": "https://open.spotify.com/track/37AIEnveDvWcRdjyqeYam1"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "S\u00f3 Vem",
-        "url": "https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn"
-      },
-      "artists": [
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 188168,
-      "name": "Debochada",
-      "url": "https://open.spotify.com/track/4tBMQ34V6afrpBGddtx42P"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -71,6 +51,26 @@
       "duration_ms": 233534,
       "name": "Quebrados",
       "url": "https://open.spotify.com/track/7gcL9v9OW5iNigeVBL7BB9"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn"
+      },
+      "artists": [
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 188168,
+      "name": "Debochada",
+      "url": "https://open.spotify.com/track/4tBMQ34V6afrpBGddtx42P"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Unic\u00f3rnio",
-        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 259170,
-      "name": "TUDO CULPA DO RNB",
-      "url": "https://open.spotify.com/track/5vCZJokCi68SStDWFyGG3v"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Como eu vim parar aqui?",
         "url": "https://open.spotify.com/album/3ZMXh0gQOYgGYGpGQMSNAK"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 306500,
       "name": "Meu Querubim",
       "url": "https://open.spotify.com/track/2yBr0BtvA0fDD7ciQApe4b"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Unic\u00f3rnio",
+        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 259170,
+      "name": "TUDO CULPA DO RNB",
+      "url": "https://open.spotify.com/track/5vCZJokCi68SStDWFyGG3v"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "P\u00e2nico",
-        "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 183005,
-      "name": "P\u00e2nico",
-      "url": "https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Correria",
         "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 146769,
       "name": "Noite em Febre",
       "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "P\u00e2nico",
+        "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 183005,
+      "name": "P\u00e2nico",
+      "url": "https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
-        "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
-      },
-      "artists": [
-        {
-          "name": "Jun Alcan",
-          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tempo Pra Pensar",
-      "url": "https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Tra\u00e7os",
         "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+        "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
+        "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
       },
       "artists": [
         {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+          "name": "Jun Alcan",
+          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
         }
       ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+      "duration_ms": 180000,
+      "name": "Tempo Pra Pensar",
+      "url": "https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -703,6 +687,22 @@
       "duration_ms": 194137,
       "name": "\u00cdndigo (Te Venero)",
       "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Candeia",
+        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Candeia",
+      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Canela e hortel\u00e3",
         "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 212571,
       "name": "Canela e hortel\u00e3",
       "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Candeia",
-        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Candeia",
-      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "DEJAVU PRIMAVERA",
-        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "DESLIGA O TELEFONE",
-      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Onda (Remix)",
         "url": "https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 346939,
       "name": "Onda - Remix",
       "url": "https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "DEJAVU PRIMAVERA",
+        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "DESLIGA O TELEFONE",
+      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
     },
     {
       "added_at": "2023-12-15 03:01:00",

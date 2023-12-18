@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: ReTo
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,561 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,599 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Spaceship](https://open.spotify.com/track/65mX5QJ1158toYcgZy6L1P) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Spaceship](https://open.spotify.com/album/41Ay57QacWWC33mFq4mUWi) | 2:14 |
 | 50 | [BIBA](https://open.spotify.com/track/0t77FnN3xAxcYjW9v3dZeD) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [Macrodosing](https://open.spotify.com/album/01nWaHBDli91cOvKShpivr) | 1:58 |
 
-Snapshot ID: `MCw0ODdjNzcwMzQ1ZGFhMDdkYjgzODYxNzAwNTczM2U0Y2E5NzMzNzg4`
+Snapshot ID: `MCwwZTExMDQ0NTExMzRjODU3YTIxNTczNTQ4NWUxZDQ2YjFjNWNmY2Iw`

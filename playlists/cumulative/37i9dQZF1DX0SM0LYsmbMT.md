@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,917 songs - 6 day 5 hr 52 min
+3,918 songs - 6 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2447,7 +2447,7 @@
 | [One Too Many](https://open.spotify.com/track/3GWwIi7gE3hunEcI9Ibq2s) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [One Too Many](https://open.spotify.com/album/6WZFZBCIN83SrkMHnz5Kbb) | 2:50 | 2022-09-22 | 2022-10-22 |
 | [One4Milana](https://open.spotify.com/track/4PtgQogxuproyBHL5CIl8L) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [One4Milana](https://open.spotify.com/album/7dhQNCuBrpTiwnOtZ4dbcc) | 2:15 | 2023-10-26 |  |
 | [One4Winter](https://open.spotify.com/track/3XLOnz8xAlxTqVPSjy6mKr) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [One4Winter](https://open.spotify.com/album/4PgSskTm3qbJGWRaMqWvWe) | 2:06 | 2020-02-11 | 2020-05-16 |
-| [Only](https://open.spotify.com/track/5qy2fUx0Qy6Cz3gEYWPX0I) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Passenger](https://open.spotify.com/album/5cbkT2l0tHfx3Ru3afBLlk) | 2:35 | 2023-12-14 |  |
+| [Only](https://open.spotify.com/track/5qy2fUx0Qy6Cz3gEYWPX0I) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Passenger](https://open.spotify.com/album/5cbkT2l0tHfx3Ru3afBLlk) | 2:35 | 2023-12-14 | 2023-12-18 |
 | [Only U](https://open.spotify.com/track/7yreXQEtpHaQvNbohYldMu) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Only U](https://open.spotify.com/album/1u7qylY1EDGOVtULtvT4Ju) | 1:09 | 2021-09-10 | 2021-10-20 |
 | [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-07-25 | 2021-08-13 |
 | [Oolong](https://open.spotify.com/track/7oHq8ccTR9MuxNJmNzVGJD) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [Oolong](https://open.spotify.com/album/6IVheMZxiEHAc5xCNK8Qki) | 2:36 | 2022-02-17 | 2022-03-25 |
@@ -3734,6 +3734,7 @@
 | [Warm Breeze](https://open.spotify.com/track/5728OBye3peeIkv9qlps0H) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warm Breeze](https://open.spotify.com/album/0Bm5guq2GPsGYGhfGo5PJu) | 2:24 | 2021-01-15 | 2021-02-20 |
 | [Warm Flicker](https://open.spotify.com/track/2zBAY11oKzMfIM4TY94LI6) | [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu) | [Into the Blue](https://open.spotify.com/album/1A8StAU0h4MT3gYDIIJklL) | 3:04 | 2022-11-17 | 2023-07-07 |
 | [Warm Flicker](https://open.spotify.com/track/6dnRbWuRHTv3sMKbp2ipW9) | [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu) | [Warm Flicker](https://open.spotify.com/album/3yL8ozJUxbUNW2Td0XKIWR) | 3:10 | 2021-07-31 | 2022-11-20 |
+| [Warm Hugs](https://open.spotify.com/track/7ee3f11jE9RB0t05CHplvk) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [auream](https://open.spotify.com/artist/3B71XQsezGxEKo2CXGegvK), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Warm Hugs](https://open.spotify.com/album/1DFgZNCcuEsVd5y1MuufNP) | 2:43 | 2023-12-14 |  |
 | [warm quilt](https://open.spotify.com/track/3cHSIFhQreEfxLYY0weEq9) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [warm quilt](https://open.spotify.com/album/6rdLEZBC5gPKsNDHJNRgsA) | 1:51 | 2022-12-01 | 2022-12-24 |
 | [Warmer Together](https://open.spotify.com/track/1PFBZIQJ5ETnT0f1zTSPQs) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/5H601bXKqXGE6LpnIZwkne) | 2:37 | 2020-06-19 | 2020-12-11 |
 | [Wasabi Terraces](https://open.spotify.com/track/0eOOTL9t2P448umBMf8vcS) | [Testiculo y Uno](https://open.spotify.com/artist/0pkecf4XKAVfFHUtgdoSE9), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Wasabi Terraces](https://open.spotify.com/album/5ryOyyt5nd8JUDtJreLgNv) | 3:08 | 2019-12-20 | 2020-04-10 |

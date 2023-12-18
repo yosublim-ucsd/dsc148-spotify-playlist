@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Apink)",
-  "num_followers": 117936,
+  "num_followers": 118659,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDUwMDAyMjcyYzNmMDlmMTdmYTg2MTQ1MWQ3MDAwN2M4NmY3ODA5",
+  "snapshot_id": "MCwzZjM5MThiOTBlNGVhMzQ5NTc0NmYxM2NkMGEwYjk3YWIzODQzZTA4",
   "tracks": [
     {
       "added_at": "2023-12-14 03:23:16",
@@ -315,18 +315,22 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
-        "name": "JOY - SM STATION",
-        "url": "https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa"
+        "name": "When it snows(Feat.Heize)",
+        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 178534,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X"
+      "duration_ms": 232026,
+      "name": "When it snows(Feat.Heize)",
+      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -379,22 +383,18 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
-        "name": "When it snows(Feat.Heize)",
-        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
+        "name": "JOY - SM STATION",
+        "url": "https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa"
       },
       "artists": [
         {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 232026,
-      "name": "When it snows(Feat.Heize)",
-      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+      "duration_ms": 178534,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
-        "name": "MUST HAVE",
-        "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
-      },
-      "artists": [
-        {
-          "name": "ATBO",
-          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
-    },
-    {
-      "added_at": "2023-12-14 03:23:16",
-      "album": {
         "name": "The Winter's Tale",
         "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 259030,
       "name": "The Winter's Tale",
       "url": "https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr"
+    },
+    {
+      "added_at": "2023-12-14 03:23:16",
+      "album": {
+        "name": "MUST HAVE",
+        "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
+      },
+      "artists": [
+        {
+          "name": "ATBO",
+          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
-        "name": "[Hwa Sa Show Vol.2] Grey Christmas",
-        "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Grey Christmas",
-      "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
-    },
-    {
-      "added_at": "2023-12-14 03:23:16",
-      "album": {
         "name": "Lonely Christmas",
         "url": "https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 217866,
       "name": "Lonely Christmas",
       "url": "https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS"
+    },
+    {
+      "added_at": "2023-12-14 03:23:16",
+      "album": {
+        "name": "[Hwa Sa Show Vol.2] Grey Christmas",
+        "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Grey Christmas",
+      "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
-        "name": "The Winter's Tale",
-        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
+        "name": "FIRST SNOW",
+        "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
       },
       "artists": [
         {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+          "name": "XODIAC",
+          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
         }
       ],
-      "duration_ms": 225488,
-      "name": "Because It's Christmas",
-      "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
+      "duration_ms": 195466,
+      "name": "FIRST SNOW",
+      "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
-        "name": "THE BOYZ Special Single [Candles]",
-        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+        "name": "The Winter's Tale",
+        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
       },
       "artists": [
         {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
         }
       ],
-      "duration_ms": 231093,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+      "duration_ms": 225488,
+      "name": "Because It's Christmas",
+      "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
+        "name": "THE BOYZ Special Single [Candles]",
+        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+    },
+    {
+      "added_at": "2023-12-14 03:23:16",
+      "album": {
         "name": "Solo Christmas",
         "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 216146,
       "name": "Solo Christmas",
       "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
-    },
-    {
-      "added_at": "2023-12-14 03:23:16",
-      "album": {
-        "name": "FIRST SNOW",
-        "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
-      },
-      "artists": [
-        {
-          "name": "XODIAC",
-          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "FIRST SNOW",
-      "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "A miracle 3days ago",
-      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
-    },
-    {
-      "added_at": "2023-12-14 03:23:16",
-      "album": {
         "name": "C9 Single Album '2022 C9 Christmas'",
         "url": "https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 227825,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
+    },
+    {
+      "added_at": "2023-12-14 03:23:16",
+      "album": {
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "A miracle 3days ago",
+      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
-        "name": "Maybe Christmas (Orchestra Version)",
-        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Maybe Christmas - Orchestra Version",
-      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
-    },
-    {
-      "added_at": "2023-12-14 03:23:16",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
+        "name": "Maybe Christmas (Orchestra Version)",
+        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Maybe Christmas - Orchestra Version",
+      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
+    },
+    {
+      "added_at": "2023-12-14 03:23:16",
+      "album": {
         "name": "One More Christmas",
         "url": "https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 212893,
       "name": "One More Christmas - English Version",
       "url": "https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC"
-    },
-    {
-      "added_at": "2023-12-14 03:23:16",
-      "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
-      },
-      "artists": [
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 118705,
-      "name": "Santa, Give Me What I Need",
-      "url": "https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -1387,6 +1371,22 @@
       "duration_ms": 222160,
       "name": "Love Wishes",
       "url": "https://open.spotify.com/track/7rHnD8s71BcgDebwESWAKG"
+    },
+    {
+      "added_at": "2023-12-14 03:23:16",
+      "album": {
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 118705,
+      "name": "Santa, Give Me What I Need",
+      "url": "https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
+        "name": "The Christmas Number 12",
+        "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 159835,
+      "name": "The Christmas Number 12",
+      "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
+    },
+    {
+      "added_at": "2023-12-14 03:23:16",
+      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 146962,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
-    },
-    {
-      "added_at": "2023-12-14 03:23:16",
-      "album": {
-        "name": "The Christmas Number 12",
-        "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 159835,
-      "name": "The Christmas Number 12",
-      "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
     },
     {
       "added_at": "2023-12-14 03:23:16",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-12-14 03:23:16",
       "album": {
+        "name": "I LOVE WINTER",
+        "url": "https://open.spotify.com/album/3ExsqNiurr9UsQcuK1xG7k"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Beautiful Winter",
+      "url": "https://open.spotify.com/track/5iN9cgIpMlm6nfi6zRG8HR"
+    },
+    {
+      "added_at": "2023-12-14 03:23:16",
+      "album": {
         "name": "MIDNIGHT CHRISTMAS",
         "url": "https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 289384,
       "name": "MY GROWN UP CHRISTMAS LIST",
       "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
-    },
-    {
-      "added_at": "2023-12-14 03:23:16",
-      "album": {
-        "name": "Together Forever!",
-        "url": "https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u"
-      },
-      "artists": [
-        {
-          "name": "Limit",
-          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
-        }
-      ],
-      "duration_ms": 260276,
-      "name": "Together Forever!",
-      "url": "https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau"
     }
   ],
   "unique_name": "Christmas K-Pop",

@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Love Love Love](https://open.spotify.com/track/5S1drMAStkabK0PZsOkfiE) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [Love Love Love](https://open.spotify.com/album/5GuOoK1aW5vLiMQA33OLPN) | 2:49 |
 | 70 | [偶像包袱 \(Idol Baggage\)](https://open.spotify.com/track/4XnV6Oe22R9ofb3tnXH5HP) | [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [绿帽 Green Hat](https://open.spotify.com/album/4ly0DCSbwqgvQtaYum7RAD) | 3:45 |
 
-Snapshot ID: `MCxlN2YwODFlNmJlOGNiNTdkMTk0MTY0YTcyODc5OGI2ODNiOGUwNmMw`
+Snapshot ID: `MCwxNDY2ZTYxNjBiYjE4NWU0N2IwMzdhYzBjY2Y1ZmI1ZGZkNTA3MTBh`

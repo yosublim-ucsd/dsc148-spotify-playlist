@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 22137,
+  "num_followers": 22218,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzhkM2NjNGExNDlmYWM0MDJiOWQ5ODM0NTdjMWZiMjQ4ZWViMTVm",
+  "snapshot_id": "MCwxOGFmNjhlN2UzZWU0Y2JiNWUwMTgyMGQ4Njc0YTBlMTNiMzM4MzRj",
   "tracks": [
     {
       "added_at": "2023-11-18 11:41:33",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Changing Colors",
-        "url": "https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf"
-      },
-      "artists": [
-        {
-          "name": "Hiwet Tesmi",
-          "url": "https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T"
-        }
-      ],
-      "duration_ms": 180353,
-      "name": "Changing Colors",
-      "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
-    },
-    {
-      "added_at": "2023-11-18 11:41:33",
-      "album": {
         "name": "Calmest lake",
         "url": "https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 192000,
       "name": "Calmest lake",
       "url": "https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8"
+    },
+    {
+      "added_at": "2023-11-18 11:41:33",
+      "album": {
+        "name": "Changing Colors",
+        "url": "https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf"
+      },
+      "artists": [
+        {
+          "name": "Hiwet Tesmi",
+          "url": "https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "Changing Colors",
+      "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "nature",
-        "url": "https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe"
-      },
-      "artists": [
-        {
-          "name": "cloudcrush",
-          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "drifting (with morning birds)",
-      "url": "https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8"
-    },
-    {
-      "added_at": "2023-11-18 11:41:33",
-      "album": {
         "name": "Lily's Arrival",
         "url": "https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 178460,
       "name": "Lily's Arrival",
       "url": "https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe"
+    },
+    {
+      "added_at": "2023-11-18 11:41:33",
+      "album": {
+        "name": "nature",
+        "url": "https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "drifting (with morning birds)",
+      "url": "https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "The Blue Dragon",
-        "url": "https://open.spotify.com/album/69idyZhdF1As3JRdfZhXBz"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 219643,
-      "name": "The Blue Dragon",
-      "url": "https://open.spotify.com/track/6oNdphvzPO37XFCLtZMKVC"
-    },
-    {
-      "added_at": "2023-11-18 11:41:33",
-      "album": {
         "name": "Beautiful Walk",
         "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 165501,
       "name": "New Lakes",
       "url": "https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs"
+    },
+    {
+      "added_at": "2023-11-18 11:41:33",
+      "album": {
+        "name": "The Blue Dragon",
+        "url": "https://open.spotify.com/album/69idyZhdF1As3JRdfZhXBz"
+      },
+      "artists": [
+        {
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
+        }
+      ],
+      "duration_ms": 219643,
+      "name": "The Blue Dragon",
+      "url": "https://open.spotify.com/track/6oNdphvzPO37XFCLtZMKVC"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Aventura",
-        "url": "https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs"
-      },
-      "artists": [
-        {
-          "name": "Dormironauts",
-          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
-        }
-      ],
-      "duration_ms": 158490,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
-    },
-    {
-      "added_at": "2023-11-18 11:41:33",
-      "album": {
         "name": "In the forest",
         "url": "https://open.spotify.com/album/4SLjIZweBGdpwNO1xMixNZ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 134125,
       "name": "In the forest",
       "url": "https://open.spotify.com/track/2HejAzyRkuWgcyyzp3KHOQ"
+    },
+    {
+      "added_at": "2023-11-18 11:41:33",
+      "album": {
+        "name": "Aventura",
+        "url": "https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs"
+      },
+      "artists": [
+        {
+          "name": "Dormironauts",
+          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Juncture",
-        "url": "https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8"
+        "name": "Seranade Of The Silver Falls",
+        "url": "https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte"
       },
       "artists": [
         {
-          "name": "Las Tinieblas",
-          "url": "https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU"
+          "name": "No Pude Detenerme",
+          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
         }
       ],
-      "duration_ms": 142660,
-      "name": "Juncture",
-      "url": "https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq"
+      "duration_ms": 137250,
+      "name": "Seranade Of The Silver Falls",
+      "url": "https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Seranade Of The Silver Falls",
-        "url": "https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte"
+        "name": "Juncture",
+        "url": "https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8"
       },
       "artists": [
         {
-          "name": "No Pude Detenerme",
-          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
+          "name": "Las Tinieblas",
+          "url": "https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU"
         }
       ],
-      "duration_ms": 137250,
-      "name": "Seranade Of The Silver Falls",
-      "url": "https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2"
+      "duration_ms": 142660,
+      "name": "Juncture",
+      "url": "https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq"
     },
     {
       "added_at": "2023-11-18 11:41:33",

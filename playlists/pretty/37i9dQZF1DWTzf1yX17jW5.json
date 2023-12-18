@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 3472,
+  "num_followers": 3556,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTgwNjlhOTgyOTU4MmJiZjk4YTgxNDM2YTBmZWRjYmJlMzhjMDJk",
+  "snapshot_id": "MCw3ZDBkMTU5MzE0OGJkNWJiM2Q5YzQ3NzkwOTM3Nzc5M2E5YWQ1YmY1",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 108923,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Dennis Daughter",
         "url": "https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe"
       },
@@ -563,42 +583,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 108923,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh"
-      },
-      "artists": [
-        {
-          "name": "keltiey",
-          "url": "https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "High & Hungrig 3",
         "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 137828,
       "name": "Nix zu tun",
       "url": "https://open.spotify.com/track/2LnUiS8PcdL1BXk410VwTy"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh"
+      },
+      "artists": [
+        {
+          "name": "keltiey",
+          "url": "https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "4 PREZ",
-        "url": "https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll"
-      },
-      "artists": [
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 149484,
-      "name": "4 PREZ",
-      "url": "https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "Pretty Ones",
         "url": "https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 221570,
       "name": "Pretty Ones",
       "url": "https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "4 PREZ",
+        "url": "https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 149484,
+      "name": "4 PREZ",
+      "url": "https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr"
     },
     {
       "added_at": "2023-12-01 14:44:59",

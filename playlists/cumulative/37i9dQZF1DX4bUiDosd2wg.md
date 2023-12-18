@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-228 songs - 16 hr 32 min
+229 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Every moment of you \- Piano Ver.](https://open.spotify.com/track/23nYSeav0fx7NcOefWdmWL) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star \(Original Television Soundtrack\)](https://open.spotify.com/album/5rx7yA3wqQpDZz0xDeiflG) | 4:02 | 2021-04-21 | 2023-11-01 |
 | [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 | 2021-04-21 | 2023-04-24 |
 | [Fall in Fall](https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [ABOUT ME](https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ) | 3:51 | 2021-04-21 |  |
-| [Farewell In Tears](https://open.spotify.com/track/0nbO8Vw4XVkVQF0rSw9lBf) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt\. 5 \(Original Television SoundTrack\)](https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB) | 4:16 | 2021-04-21 |  |
+| [Farewell In Tears](https://open.spotify.com/track/0nbO8Vw4XVkVQF0rSw9lBf) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt\. 5 \(Original Television SoundTrack\)](https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB) | 4:16 | 2021-04-21 | 2023-12-18 |
+| [Farewell In Tears](https://open.spotify.com/track/4h2hj48P7eQuhPLfb5lE6q) | [Huhgak](https://open.spotify.com/artist/16UoIs2XQBPrSg0LAH0N9y) | [The World of the Married, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5jHEbINRYO3EXIH3G1pSPl) | 4:16 | 2021-04-21 |  |
 | [For You](https://open.spotify.com/track/5naRxCy1t1RiNNmkthetWk) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/6VYZQTlCySwTLmP2w1Ua7O) | 4:05 | 2021-04-21 |  |
 | [Forbidden Love](https://open.spotify.com/track/1b50WKDTc8NAyN6ZEPiKCo) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [Kim Kyungho 1997](https://open.spotify.com/album/40sjgUIzAZJIO8UpgMoLRQ) | 4:31 | 2021-04-21 |  |
 | [Forever Love](https://open.spotify.com/track/6zmBcl2x4qeOedI7BDS59d) | [Min Gyeong Hun](https://open.spotify.com/artist/195mRSkvoA9EAiDG7aID66) | [Kill It Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KX43Fh3zSWtQzQK20AUFm) | 3:46 | 2021-04-21 |  |

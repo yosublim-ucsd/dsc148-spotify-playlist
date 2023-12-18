@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,494 likes - 87 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,519 likes - 87 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 86 | [Another Star \- Club Mix](https://open.spotify.com/track/4XtNd2Dv8McHVw1jLdxNUk) | [WAHM \(FR\)](https://open.spotify.com/artist/33pXBL0Br2jGGqRjK5aAgF) | [Another Star](https://open.spotify.com/album/6EnYkRbArRCTmZuVoIcl1o) | 6:11 |
 | 87 | [Move That Body](https://open.spotify.com/track/0ZdviACWAwHPFUp4pwX2Jx) | [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm), [Cevin Fisher](https://open.spotify.com/artist/2KKgW6x86NOhIJnMlxFD1u) | [Move That Body](https://open.spotify.com/album/0tAymm0KUMeQeacpEP3e2a) | 7:07 |
 
-Snapshot ID: `MCxhYjA2YzBkZGZlMTcwMjJkZjM2MzBlZjBkMGM5MWI4ZTlmYWI2ODZh`
+Snapshot ID: `MCxiZTczMjExYTBkZjY0ZTE4NTI4NmMyNDYwYzc0MDUyYjUyYjczM2Nk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 293 songs - 18 hr 52 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 294 songs - 18 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -301,5 +301,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 291 | [Halfway Home](https://open.spotify.com/track/7J7PHMvf2i8ENxS4IS9jgl) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Dear Science](https://open.spotify.com/album/5c310xauiTULqfhkqvZdBa) | 5:31 |
 | 292 | [Awake on foreign shores](https://open.spotify.com/track/04jsvZ48NlfZPVGXks5kiV) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [New History Warfare Vol\. 2: Judges](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI) | 1:30 |
 | 293 | [The Bad In Each Other](https://open.spotify.com/track/61etm6bMP3BnD3SiwreMZu) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 4:44 |
+| 294 | [Cooking Up Something Good](https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:41 |
 
-Snapshot ID: `MTEyMyxlY2FmYjM0NGZhNjE0ZTcyOGE1MjRhMDU0NWUxMzc3MTdmY2Q4Yjll`
+Snapshot ID: `MTEyNCxjZTY0YTZkMjI1ZjhlZThhYjIyZmY0NWMyZmYxNDMwNjE2MWM3NzEx`

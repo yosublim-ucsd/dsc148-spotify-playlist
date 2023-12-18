@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-267 songs - 15 hr 54 min
+268 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bolide](https://open.spotify.com/track/73fBGaYf7ajC4HcLMgcN8G) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Bolide](https://open.spotify.com/album/0TtWiMMWnN2FcYfw0NGQsi) | 3:56 | 2020-11-04\* | 2021-10-20 |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd) | 2:57 | 2021-01-13 | 2022-07-29 |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:57 | 2022-04-29 |  |
-| [Bonfire](https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Bonfire](https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA) | 3:23 | 2020-11-04\* |  |
+| [Bonfire](https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Bonfire](https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA) | 3:23 | 2020-11-04\* | 2023-12-18 |
 | [Caffeine](https://open.spotify.com/track/15SeSt7NAugpbYquPhF5dD) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/4AHH4Ekn7AoYTJNxocY2Qg) | 3:05 | 2022-04-29 | 2022-12-03 |
 | [Caffeine](https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ) | 3:05 | 2022-04-29 |  |
 | [Caffeine](https://open.spotify.com/track/61b8dII0C3ybIRdQY6dl3d) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/4c0h2zDKWkMnYjjwWitaCM) | 3:05 | 2020-11-04\* | 2021-10-20 |
@@ -233,6 +233,7 @@
 | [Swing Tree](https://open.spotify.com/track/0kPWjVyvas9lc4oXakOiBj) | [Discovery](https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5) | [LP](https://open.spotify.com/album/3qcXtSsTV6L0Zwf3BpcjDZ) | 2:38 | 2020-11-04\* | 2021-10-20 |
 | [Swing Tree](https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI) | [Discovery](https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5) | [LP \(Deluxe Edition\)](https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv) | 2:38 | 2022-04-29 |  |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2020-11-04\* | 2023-12-17 |
+| [Tailwhip](https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a) | 3:45 | 2023-01-11 |  |
 | [Take Some Time \- RJD2 Remix](https://open.spotify.com/track/6anLV8o9DMKy5QscYoF7hE) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI), [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Take Some Time \(RJD2 Remix\)](https://open.spotify.com/album/4X3ifUxSjSLCJPT0bfgJNm) | 3:49 | 2020-11-20 | 2022-07-29 |
 | [Teenager](https://open.spotify.com/track/4BIK2CokkIHRbWYdkjpJgP) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [Teenager](https://open.spotify.com/album/61hx21oK4Fm8zyQst3lBPe) | 2:47 | 2021-10-19 | 2022-07-28 |
 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 | 2020-12-11 |  |

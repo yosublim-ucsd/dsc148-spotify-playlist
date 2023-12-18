@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: SLANDER.
 
-472 songs - 1 day 4 hr 14 min
+473 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 | 2023-04-28 | 2023-11-18 |
 | [Out of Love](https://open.spotify.com/track/6w2qrr2ir08VtisKOh8n4P) | [Arcane](https://open.spotify.com/artist/4dj24SyTs5oxqWmTuQE8hn) | [Out of Love](https://open.spotify.com/album/1ucsmQ2EYTjnFdf5B9dzU2) | 3:46 | 2022-07-08 | 2023-09-16 |
 | [Overflow](https://open.spotify.com/track/7fmijESG18W7PcwEUdVKmh) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [LV\-L8](https://open.spotify.com/artist/3UpBv2zDd5kMfECzOquXy4) | [Overflow](https://open.spotify.com/album/20U8HQGNGCy5vBVq0xfxRp) | 2:37 | 2022-07-08 | 2022-12-04 |
+| [Pain](https://open.spotify.com/track/6fuqMcgCHL1IJpUWMdo8eX) | [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky), [Free Fall](https://open.spotify.com/artist/5Y0oHsIgmZzj38UIN48CCS), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Pain](https://open.spotify.com/album/6uQ74sZvl0pPpO1VVDHh1K) | 4:16 | 2023-12-15 |  |
 | [Paper Moon](https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [ARE WE DREAMING](https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa) | [HOLLOW WORLD](https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719) | 3:45 | 2023-08-25 |  |
 | [Parachute](https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Parachute](https://open.spotify.com/album/5g9FEdY7SHc21AD2duTgac) | 3:52 | 2022-07-08 | 2023-04-09 |
 | [Paradise](https://open.spotify.com/track/20F3bL1ZP2n0umEGsIcyGE) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy), [Wonderland](https://open.spotify.com/artist/4TXpS1ODZBsaRdS4eeunfC) | [Paradise](https://open.spotify.com/album/3TaDmHFuoElKXGw8JC6LL7) | 3:09 | 2023-03-31 | 2023-10-07 |
@@ -454,7 +455,7 @@
 | [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-07-08 | 2023-05-20 |
 | [Wasted Time](https://open.spotify.com/track/4h9AqdgRkK8m7TxjqWWhmX) | [Feather](https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi), [Badnights](https://open.spotify.com/artist/5CiCfM47n3cXeWvxtn5TVd) | [Wasted Time](https://open.spotify.com/album/6vRishxcEmdMeKR7LQ46Rd) | 3:29 | 2022-07-08 | 2022-09-19 |
 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 | 2022-07-08 | 2023-09-16 |
-| [We Fall Down](https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Shaley Scott](https://open.spotify.com/artist/1dkMJbf84C7saOwz1C7b4v) | [We Fall Down](https://open.spotify.com/album/5NwRnvEi6zKKMs41uX1CMu) | 4:23 | 2022-07-08 |  |
+| [We Fall Down](https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Shaley Scott](https://open.spotify.com/artist/1dkMJbf84C7saOwz1C7b4v) | [We Fall Down](https://open.spotify.com/album/5NwRnvEi6zKKMs41uX1CMu) | 4:23 | 2022-07-08 | 2023-12-18 |
 | [What If](https://open.spotify.com/track/2Ov2Ifb7w9QxQj7lRIZtj8) | [Kerala](https://open.spotify.com/artist/69WQTuZb5HA8XwqLyRL28N), [Marie Lang](https://open.spotify.com/artist/4h08PzGTaAqN1uAhj4IHFW) | [What If](https://open.spotify.com/album/1KJLNKwhf3IW9Im9i0Ut2Q) | 3:24 | 2022-07-08 | 2022-08-06 |
 | [WHAT THE HELL \- OBLVYN Remix](https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN), [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [WHAT THE HELL \(OBLVYN Remix\)](https://open.spotify.com/album/30WclCTrWqACvzWo9C8tBT) | 2:59 | 2022-08-26 | 2022-11-29 |
 | [When I Fall](https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [When I Fall](https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq) | 3:25 | 2022-12-16 |  |

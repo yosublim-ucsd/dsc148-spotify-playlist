@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Levity
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,096 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,098 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 82 | [Muscaria](https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Muscaria / Everglade March \(VIP\)](https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u) | 2:49 |
 | 83 | [Going Insane](https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Eyes Wide Open](https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX) | 3:51 |
 | 84 | [Interference](https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Interference](https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd) | 3:48 |
-| 85 | [Moonlight](https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Moonlight](https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6) | 3:37 |
-| 86 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 |
+| 85 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 |
+| 86 | [Moonlight](https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Moonlight](https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6) | 3:37 |
 | 87 | [SHYPOP](https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:28 |
 | 88 | [Revenge of the Orchestra](https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Magugu](https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL) | [Revenge of the Orchestra](https://open.spotify.com/album/3OiJDp6Z6O3raJxqmBNuBo) | 3:50 |
 | 89 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 92 | [Bounce](https://open.spotify.com/track/43girkLVD5WYKCBMOphHhd) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Portals](https://open.spotify.com/album/4os1LiFckLA5tv0RuD4Mjj) | 3:02 |
 | 93 | [Move Back](https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Move Back](https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI) | 3:28 |
 | 94 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 |
-| 95 | [Straight Into The Ground](https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [The Nature of Hope](https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm) | 3:30 |
-| 96 | [Sky High](https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [Casket Case](https://open.spotify.com/album/0LAEzwovvTyF4o8s08G8uS) | 2:28 |
-| 97 | [Keep You \(Close\)](https://open.spotify.com/track/7h3L3Dsr2bNd2NIwoXcsNu) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [PLAY: GRID](https://open.spotify.com/album/0AhHp5xTgnoJvZgzhFQJuw) | 2:46 |
-| 98 | [EAT SLEEP RAGE](https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [EAT SLEEP RAGE](https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF) | 3:36 |
+| 95 | [Sky High](https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [Casket Case](https://open.spotify.com/album/0LAEzwovvTyF4o8s08G8uS) | 2:28 |
+| 96 | [Straight Into The Ground](https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [The Nature of Hope](https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm) | 3:30 |
+| 97 | [EAT SLEEP RAGE](https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [EAT SLEEP RAGE](https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF) | 3:36 |
+| 98 | [Keep You \(Close\)](https://open.spotify.com/track/7h3L3Dsr2bNd2NIwoXcsNu) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [PLAY: GRID](https://open.spotify.com/album/0AhHp5xTgnoJvZgzhFQJuw) | 2:46 |
 | 99 | [SAVE U NOW](https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [WRATH OF THE WICKED](https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb) | 3:39 |
 | 100 | [Wake Up](https://open.spotify.com/track/1WWrLjKKuNeuKGRwSj36ti) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Wake Up](https://open.spotify.com/album/5wxtWcvlXuUazATgaYlboo) | 3:28 |
 
-Snapshot ID: `MCwxYjllY2QyNjY1Yjc4Y2E0NGMzOTE2ZTliZmIwNTJjMTY0ZmZiNzhi`
+Snapshot ID: `MCxkN2VmNzNkYjZlMWMwZjg1ZmVhZGY3OTM2OTAyZDMzN2MwMTJhYzhl`

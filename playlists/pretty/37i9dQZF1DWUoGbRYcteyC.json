@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2001844,
+  "num_followers": 2001872,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGQ3Njc1OWY5MWZlNGQzZTY5MWFjMWE3NjQxMjJkNjQzNWZmNjcy",
+  "snapshot_id": "MCwzOTkyYTZjZGU3ZGI2NWMzMjMyNDhiOTY1NzY3MmExNjgzMGZhM2Ri",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "rimas del verbo amar",
+        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "rimas del verbo amar",
+      "url": "https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Ella Es",
         "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "LOS MUCHACHOS",
-        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 209411,
-      "name": "ENVICIAO",
-      "url": "https://open.spotify.com/track/5RBqpCaJSjyWJH0qmAXlyN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
       },
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "rimas del verbo amar",
-        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
+        "name": "LOS MUCHACHOS",
+        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
       },
       "artists": [
         {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 250186,
-      "name": "rimas del verbo amar",
-      "url": "https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX"
+      "duration_ms": 209411,
+      "name": "ENVICIAO",
+      "url": "https://open.spotify.com/track/5RBqpCaJSjyWJH0qmAXlyN"
     },
     {
       "added_at": "2023-12-15 05:00:00",

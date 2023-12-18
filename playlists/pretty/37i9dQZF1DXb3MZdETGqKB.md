@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Shanice Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,104 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,121 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 14 | [SOUL SURVIVOR](https://open.spotify.com/track/73MKab27Y3FEniBWoBIyiT) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [COME AS YOU ARE](https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2) | 3:35 |
 | 15 | [You Got To Move](https://open.spotify.com/track/0mjJhRdgk2gOrITySip9Jo) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [You Got To Move](https://open.spotify.com/album/4RcmKxoJCpgatbPbIOtshM) | 3:30 |
 | 16 | [Throw This Rope](https://open.spotify.com/track/1MbszgW431CEH2bik2ct6J) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Throw This Rope](https://open.spotify.com/album/5JELtrZUiqwmwQd98bJ2vG) | 2:30 |
-| 17 | [Jackpot](https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Jackpot](https://open.spotify.com/album/18wuw7w0x6fqjTJIEK71A2) | 2:07 |
+| 17 | [Jackpot](https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Jackpot](https://open.spotify.com/album/18wuw7w0x6fqjTJIEK71A2) | 2:07 |
 | 18 | [Outrun](https://open.spotify.com/track/42Xl2G8iLEOaoBU6A3ezI3) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Scores & Melodies Vol\. 1](https://open.spotify.com/album/6gwvqyqV3SLMlfNLU5bymG) | 3:15 |
 | 19 | [Only Woman](https://open.spotify.com/track/1iOAaTWVHSTnRTTyNOAIVg) | [Ed Staal](https://open.spotify.com/artist/34t2yk9P5vrHBWLXlZlGrC) | [Only Woman](https://open.spotify.com/album/5WDdEO0SxvJnhhq68N0wUw) | 2:58 |
 | 20 | [Lips Are Movin'](https://open.spotify.com/track/2kXOwYrDCyyhbDY7B2Sggp) | [Sgt\. Splendor](https://open.spotify.com/artist/1hEnIRqyPrQ0ACvUZZM2Aw), [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1), [Eric McFadden](https://open.spotify.com/artist/5eW72pXN4o65oLTUmVRBKA) | [Death Of The Hoochie Koo](https://open.spotify.com/album/2ajOIlt7QTx5E9OMYa7WPE) | 2:42 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 81 | [Stay away from me](https://open.spotify.com/track/4FOGtKxxRYSPXDc9zqtmuI) | [Xerts](https://open.spotify.com/artist/0o6Qu4jP243MCBTMyODXOQ) | [Stay away from me](https://open.spotify.com/album/6F1sfezZ5OV9EXIvYaDj74) | 2:42 |
 | 82 | [Workin' Man](https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/14cTydPBoD3SnypzbSpkRA) | 3:52 |
 | 83 | [Hits Like Lightning](https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Hits Like Lightning](https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45) | 2:42 |
-| 84 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 |
+| 84 | [Sunshine Blue](https://open.spotify.com/track/6m1g7OX6k0CFK9y9LTFwQc) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/41AYEHSwnXU7Gmrw4DVrKC) | 2:40 |
 | 85 | [Forest Of My Soul](https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Forest Of My Soul](https://open.spotify.com/album/0tUiu2DeNVINqcAZNxXFz5) | 3:40 |
 | 86 | [If I Die](https://open.spotify.com/track/2qvaNzPEW25IuKwrM4hNOU) | [Maggie Koerner](https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe) | [The Bartholomew Songs](https://open.spotify.com/album/24cBWx1hlT9GUBZBOJjcal) | 3:52 |
 | 87 | [Storms from My Eyes](https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene) | [Long River](https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN) | 4:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Biggest Little Secret](https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw) | [Amber Woodhouse](https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ), [Wilderwater](https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4) | [Biggest Little Secret](https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN) | 3:59 |
 | 100 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 |
 
-Snapshot ID: `MCxlNTA0YmM2ZDJiZGYzMjFlZTY5MjQ0ZGY2Yzc5NTA5ZWNmYjE3ZjUx`
+Snapshot ID: `MCxiNTVlYjcwNjBiZjUyMTRmYjg3MzI5Zjc1MGEzYmQyMDcyMTc0M2I3`

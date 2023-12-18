@@ -6,7 +6,7 @@
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "MTEyNyxiZjZjMTEyMDRlNTdhMTM3ZDU4NTdkMTVkNzk2Y2UzYTExOWM0ZTlk",
+  "snapshot_id": "MTEzMSxkNjZmMjYwYjM3OWFjZjk0OGU0MTJjMDM1NjRkMGNiZTkyMDhiOTM1",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -20335,6 +20335,74 @@
       "duration_ms": 177609,
       "name": "FUCKIN KICKDRUM",
       "url": "https://open.spotify.com/track/3VoAwRSMcd7tU7iJ6LQrDO"
+    },
+    {
+      "added_at": "2023-12-17 15:03:19",
+      "album": {
+        "name": "Louder Generation",
+        "url": "https://open.spotify.com/album/2I9roE7oFoKfvMIGktWFGw"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Louder Generation",
+      "url": "https://open.spotify.com/track/22mTYEazHE0rCp8nSyRlDp"
+    },
+    {
+      "added_at": "2023-12-17 15:12:59",
+      "album": {
+        "name": "VIRUS (IN MY MIND)",
+        "url": "https://open.spotify.com/album/0y2GsOUwc2O8147YxzVrtl"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "VIRUS (IN MY MIND)",
+      "url": "https://open.spotify.com/track/70F9KVJPBkyBRtqj6646NV"
+    },
+    {
+      "added_at": "2023-12-17 15:32:11",
+      "album": {
+        "name": "MY THERAPY",
+        "url": "https://open.spotify.com/album/0GdzjWiQwwUptNFANQGI6i"
+      },
+      "artists": [
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "MY THERAPY",
+      "url": "https://open.spotify.com/track/34dJnMLYjSz5DHbNGPsXtA"
+    },
+    {
+      "added_at": "2023-12-17 15:34:24",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/0iCFyqcvr2DMB14ZdOX2M6"
+      },
+      "artists": [
+        {
+          "name": "Technikore",
+          "url": "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ"
     }
   ],
   "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",

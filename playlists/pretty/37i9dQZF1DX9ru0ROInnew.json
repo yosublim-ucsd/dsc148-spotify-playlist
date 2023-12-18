@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 111591,
+  "num_followers": 111627,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzk3MWNkZWVmMTQyOTIxOGM5Mjk3Y2YzMmE1N2ZjNTEyZWFiODEx",
+  "snapshot_id": "MCwzMDQ5MDUxNWYxNmUwYTU4M2JiNjU1NThjNDM4NjBhYmI3YjRjMjUx",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1963,6 +1963,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
+      },
+      "artists": [
+        {
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Los Chulitos",
         "url": "https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN"
       },
@@ -2023,26 +2043,6 @@
       "duration_ms": 182710,
       "name": "Robinson Cano",
       "url": "https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
-      },
-      "artists": [
-        {
-          "name": "Tali Goya",
-          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
     },
     {
       "added_at": "2023-05-25 17:50:01",

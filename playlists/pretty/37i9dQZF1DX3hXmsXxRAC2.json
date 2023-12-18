@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 322266,
+  "num_followers": 322308,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGY0YjMwMGY4OTI5YmZhYzVmNWJjZWMwMDNjNjg3OWQwMGM0MTA2",
+  "snapshot_id": "MCw5NjdhZGM2MWUyNzA3YjI0Mzk2NTI2ZTMxZjY4OWJjNzcxZDRiYTUy",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Eres tan distinta a todas",
-        "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
-      },
-      "artists": [
-        {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 303001,
-      "name": "As\u00ed fue",
-      "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "En el Palacio de Bellas Artes",
         "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 159493,
       "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Eres tan distinta a todas",
+        "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 303001,
+      "name": "As\u00ed fue",
+      "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Costumbres",
-        "url": "https://open.spotify.com/album/6dcz4kPIBbsIv6i84V5kux"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "La M\u00e1s Querida",
-      "url": "https://open.spotify.com/track/2vvoH0Nn8e11RPPyx7KkTb"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Sensibilidad",
         "url": "https://open.spotify.com/album/4mdlun9NX07tuIjGKPZQhL"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 205985,
       "name": "Yo no nac\u00ed para amar",
       "url": "https://open.spotify.com/track/3CUh3kQB11EP4ST9gZnAaU"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Costumbres",
+        "url": "https://open.spotify.com/album/6dcz4kPIBbsIv6i84V5kux"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "La M\u00e1s Querida",
+      "url": "https://open.spotify.com/track/2vvoH0Nn8e11RPPyx7KkTb"
     },
     {
       "added_at": "2023-05-05 18:26:22",

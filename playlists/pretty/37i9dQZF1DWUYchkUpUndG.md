@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8>Vusi Nova</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,607 likes - 101 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,635 likes - 101 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 100 | [For Me](https://open.spotify.com/track/5bYQqAZ2nTYDlQtmFDSPDr) | [Maio](https://open.spotify.com/artist/0uufu8f9gj5MoDOEtHrAc4) | [For Me](https://open.spotify.com/album/1bey56IWCszwZDzcWSGtkC) | 3:09 |
 | 101 | [Let God \- Radio Edit](https://open.spotify.com/track/64tTwbjzXPDUtkavjIFZoN) | [Oh!jayBaloogy](https://open.spotify.com/artist/5XyMBNsUsyrBRFyY7Ej5kH), [Oskar Tat](https://open.spotify.com/artist/2ErHltv59oP1Hy9It6xfM0) | [Let God \(Radio Edit\)](https://open.spotify.com/album/5i1KawAmQe7PTp3RIqcVPM) | 4:16 |
 
-Snapshot ID: `MCw4NTY1MWM3Y2Y2NTAxYzgwNGIwNjJhNTgwMDlhN2Y4NWQxZGJmYjIy`
+Snapshot ID: `MCxiYzIxYmM0OTMzNjNmNGM0NjBiNmU0YWQxMjVlZDkzOGIzZmZkODli`

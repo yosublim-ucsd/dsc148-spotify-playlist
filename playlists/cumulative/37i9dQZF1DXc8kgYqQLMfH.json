@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/6gmKFsmN2zrbUfluAczGuZ"
+      },
+      "artists": [
+        {
+          "name": "Tales of Urbania",
+          "url": "https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131069,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/5yiI18IfeUy42vBMTft4ub"
+    },
+    {
+      "album": {
         "name": "Lasting Memories",
         "url": "https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS"
       },
@@ -1856,6 +1874,24 @@
       "duration_ms": 195189,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/0XmnlDKrzvIXoOsp8YwWbY"
+    },
+    {
+      "album": {
+        "name": "blossom",
+        "url": "https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U"
+      },
+      "artists": [
+        {
+          "name": "ai sayuri",
+          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "blossom",
+      "url": "https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE"
     },
     {
       "album": {
@@ -9972,7 +10008,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 135468,
       "name": "Leon",
       "url": "https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN"
@@ -15080,7 +15116,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 112844,
       "name": "returning",
       "url": "https://open.spotify.com/track/5U3118Im2OtgDOZiuLerBP"

@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG6ypkYaOJL.md) - [plain]
 | 17 | [Atlantis Riddim](https://open.spotify.com/track/0hdOZXtse8WYVsA1Ok3ZWl) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Soul Waste](https://open.spotify.com/album/4ungK52Ght7QUuKwRc0rlF) | 2:10 |
 | 18 | [6 Feet](https://open.spotify.com/track/78EDmwVdZzp6vTl3hVWzpW) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Lxrdszn](https://open.spotify.com/album/77esJILHiTRAXl6yGgR4kW) | 2:01 |
 
-Snapshot ID: `MCw5YTY5ZWNkNzMxZWVmZGFiOWQ1Y2I0MTk5NGY4NDU3MmRhZWZhNDJk`
+Snapshot ID: `MCw4MjU3NzBmYjAyY2E2ZDBjMmFlNTZlMWRjZTNlNjIxZGQ5Zjk5N2Ix`

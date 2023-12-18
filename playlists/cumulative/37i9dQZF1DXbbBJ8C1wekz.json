@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 99605,
       "name": "Eu Tenho Drip",
       "url": "https://open.spotify.com/track/4vSQiyuTOUHvKM043BGqa4"
@@ -7222,6 +7222,28 @@
       "duration_ms": 151429,
       "name": "Tropa Da Fendi",
       "url": "https://open.spotify.com/track/6qbv4ZF2PcU4chi2M9PO7a"
+    },
+    {
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184922,
+      "name": "Tudo Nosso - Ao Vivo",
+      "url": "https://open.spotify.com/track/4oQ7VwIG2UTLXuLYVqW30x"
     },
     {
       "album": {

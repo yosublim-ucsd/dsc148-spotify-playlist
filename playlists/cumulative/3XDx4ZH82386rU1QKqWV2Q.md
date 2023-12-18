@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-430 songs - 18 hr 38 min
+431 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Memories](https://open.spotify.com/track/0DLONDYlAigtIoOUvTfq9y) | [1of1](https://open.spotify.com/artist/16xUu0jxpkJahfbALyUyEV) | [Memories](https://open.spotify.com/album/7tTQxDT1EXX8jcQaF4EEDa) | 1:33 | 2023-06-12 | 2023-09-26 |
 | [MEMORIES](https://open.spotify.com/track/3h5eSN36dQsLriXsFfXvAV) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [MEMORIES](https://open.spotify.com/album/7p3XuuR7dlqm8Y2OdUaHwo) | 1:55 | 2023-12-08 | 2023-12-17 |
 | [Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7) | [Memory Reboot](https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx) | 3:29 | 2023-08-29 |  |
+| [Metadata x feeling low](https://open.spotify.com/track/4dijQdKhWZBl0o8fGe5mYN) | [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Metadata x feeling low](https://open.spotify.com/album/7Jlw43aUcktx7mWG9sfC1r) | 2:10 | 2023-12-17 |  |
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2023-06-12 | 2023-12-14 |
 | [METAMORPHOSIS \(Remix\)](https://open.spotify.com/track/0yR5ZwxKa0idLWhUYFnUip) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [METAMORPHOSIS \(Remix\)](https://open.spotify.com/album/6l8C4X8TTGpsnBZ7bMztuf) | 2:22 | 2023-12-08 |  |
 | [Middle Of The Night](https://open.spotify.com/track/1LDpXVpjADBwhXddYnNxlH) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Middle Of The Night](https://open.spotify.com/album/7nFAk0Bm8iAqQH6fhdOCe0) | 4:07 | 2023-09-06 | 2023-12-14 |

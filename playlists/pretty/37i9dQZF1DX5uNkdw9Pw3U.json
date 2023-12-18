@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 110606,
+  "num_followers": 111068,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGVmZDc3YzQ1YTJlMTYxYzA4OThiOTI2MDUzM2YxMmYxZDJiMjcy",
+  "snapshot_id": "MCxhZGZiY2JlYmE2MzY4MzllMDY3M2Q3Mzg2ODlmZmQyNTUyZGY1MzNl",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "killer",
-        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
+        "name": "Measure of a Man (feat. Central Cee)",
+        "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
       },
       "artists": [
         {
           "name": "FKA twigs",
           "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 176876,
-      "name": "killer",
-      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
+      "duration_ms": 195466,
+      "name": "Measure of a Man (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -967,22 +971,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Measure of a Man (feat. Central Cee)",
-        "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
+        "name": "killer",
+        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
       },
       "artists": [
         {
           "name": "FKA twigs",
           "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Measure of a Man (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
+      "duration_ms": 176876,
+      "name": "killer",
+      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Seasons (with Khalid)",
-        "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 250001,
-      "name": "Seasons (with Khalid)",
-      "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/6GkRXv0hCHePEkqkhxCpk2"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 216906,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/3OuELTPhn9RX3XpEocsIwm"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Seasons (with Khalid)",
+        "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 250001,
+      "name": "Seasons (with Khalid)",
+      "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
     },
     {
       "added_at": "2023-10-19 22:00:00",

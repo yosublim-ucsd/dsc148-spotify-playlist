@@ -1,12 +1,12 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 57613,
+  "num_followers": 57647,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWMxN2U2OTYxYzdiYTYwOWJmNDJkZDkzOGRiNmJjOTJkMjkxOWM1",
+  "snapshot_id": "MCw1NjVlOWY2YjBkNGMxM2VkZjZiNWFiZGI2ZTJiOGY1NDYwMzA4NDAw",
   "tracks": [
     {
       "added_at": "2023-11-23 13:00:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-11-23 13:00:00",
       "album": {
-        "name": "Ms. Poli Sci",
-        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Ms. Poli Sci",
-      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
-    },
-    {
-      "added_at": "2023-11-23 13:00:00",
-      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "added_at": "2023-11-23 13:00:00",
+      "album": {
+        "name": "Ms. Poli Sci",
+        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Ms. Poli Sci",
+      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
     },
     {
       "added_at": "2023-11-23 13:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-23 13:00:00",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW"
-      },
-      "artists": [
-        {
-          "name": "FRIDAY*",
-          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Radiohead",
-      "url": "https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H"
-    },
-    {
-      "added_at": "2023-11-23 13:00:00",
-      "album": {
         "name": "Asthma (Billy Lemos Remix)",
         "url": "https://open.spotify.com/album/6B6rU9XSET1u4U3pzeEXnn"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 123979,
       "name": "Asthma - Billy Lemos Remix",
       "url": "https://open.spotify.com/track/7CpGmUMgrTTldy5yuhd1Bh"
+    },
+    {
+      "added_at": "2023-11-23 13:00:00",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY*",
+          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Radiohead",
+      "url": "https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H"
     },
     {
       "added_at": "2023-11-23 13:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-23 13:00:00",
       "album": {
-        "name": "AudioLust & HigherLove",
-        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 216018,
-      "name": "Oh Laura",
-      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
-    },
-    {
-      "added_at": "2023-11-23 13:00:00",
-      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 203806,
       "name": "Shining",
       "url": "https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C"
+    },
+    {
+      "added_at": "2023-11-23 13:00:00",
+      "album": {
+        "name": "AudioLust & HigherLove",
+        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 216018,
+      "name": "Oh Laura",
+      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
     },
     {
       "added_at": "2023-11-23 13:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-11-23 13:00:00",
       "album": {
-        "name": "Perfect World Remixes Vol. 2",
-        "url": "https://open.spotify.com/album/2biW5T49COGRtwvLL1RC59"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        },
-        {
-          "name": "Juno Mamba",
-          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
-        }
-      ],
-      "duration_ms": 249291,
-      "name": "Holding Me Like Water - Juno Mamba Remix",
-      "url": "https://open.spotify.com/track/3GgMbVefHuwM1J8kwvrAHL"
-    },
-    {
-      "added_at": "2023-11-23 13:00:00",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 154630,
       "name": "Too Much Fun",
       "url": "https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l"
+    },
+    {
+      "added_at": "2023-11-23 13:00:00",
+      "album": {
+        "name": "Perfect World Remixes Vol. 2",
+        "url": "https://open.spotify.com/album/2biW5T49COGRtwvLL1RC59"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        },
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        }
+      ],
+      "duration_ms": 249291,
+      "name": "Holding Me Like Water - Juno Mamba Remix",
+      "url": "https://open.spotify.com/track/3GgMbVefHuwM1J8kwvrAHL"
     },
     {
       "added_at": "2023-11-23 13:00:00",

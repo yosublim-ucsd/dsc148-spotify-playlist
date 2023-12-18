@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Stefflon Don \(pictured\), Reneé Rap & Megan Thee Stallion, Celeste and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,265 likes - 104 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,264 likes - 104 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 103 | [Honey It Hurts](https://open.spotify.com/track/7ongjHst2eIHbVXA2xHAO9) | [Aniwa](https://open.spotify.com/artist/7wdePkwUlvbzv8zdt0RmJX) | [Bridging Gaps: Portraits of Rising Female Artists \[UK Edition\]](https://open.spotify.com/album/0uomdtfmhEv93vax0tPKeO) | 3:14 |
 | 104 | [This Christmas](https://open.spotify.com/track/21HybBY92stwLkDGNMvB6N) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Nashe](https://open.spotify.com/artist/7J2qQLdf6V7JJM4GcVyZmz) | [This Christmas](https://open.spotify.com/album/1PehjA0qDUsDeLJY7yIZ8v) | 2:55 |
 
-Snapshot ID: `MCwxYzQ2ZWNkYjA4NjFkN2E1ODI1MjAzMjZiM2I5Y2NjNmMwZmMzNGI5`
+Snapshot ID: `MCw5NmQ0ZWZlZWY4NjY1MjUxMjE1Y2QwN2YwOWI2MjJjMGM0ZjE4NTJk`

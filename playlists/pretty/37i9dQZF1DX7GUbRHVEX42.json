@@ -1,12 +1,12 @@
 {
   "description": "The best of current & contemporary Reggae. Welcome To Jamrock Reggae Cruise. Cover: Kabaka Pyramid",
-  "num_followers": 125932,
+  "num_followers": 125981,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGYwZWRhY2E2ODdmMjc5MzZjYTkyYjkzODFjZjVhZmQwMzUwOWFm",
+  "snapshot_id": "MCwzMTAyNjZmOTYwNzYzMWE2NjIzMWJlOWU5YzZiZjZmZWE0ZmU1YmM4",
   "tracks": [
     {
       "added_at": "2023-11-24 14:56:26",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-11-24 14:56:26",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/3ecvu0AVEQIUFEIrC2Cjgb"
+      },
+      "artists": [
+        {
+          "name": "Mystic Marley",
+          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP"
+    },
+    {
+      "added_at": "2023-11-24 14:56:26",
+      "album": {
         "name": "Refund",
         "url": "https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 204809,
       "name": "Refund",
       "url": "https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq"
-    },
-    {
-      "added_at": "2023-11-24 14:56:26",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/3ecvu0AVEQIUFEIrC2Cjgb"
-      },
-      "artists": [
-        {
-          "name": "Mystic Marley",
-          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP"
     },
     {
       "added_at": "2023-11-24 14:56:26",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-11-24 14:56:26",
       "album": {
-        "name": "Final Warning",
-        "url": "https://open.spotify.com/album/7lLoUQrpBTGAfW4Wu7cqmk"
-      },
-      "artists": [
-        {
-          "name": "Max Romeo",
-          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
-        },
-        {
-          "name": "Skank N Prod",
-          "url": "https://open.spotify.com/artist/4rK98VLS3BkgpGFeWO6OI0"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Final Warning",
-      "url": "https://open.spotify.com/track/1jBmIONvgPrALQhRL6AgHe"
-    },
-    {
-      "added_at": "2023-11-24 14:56:26",
-      "album": {
         "name": "Sky Way",
         "url": "https://open.spotify.com/album/4H8nwaQmH3l0W21jrn83F6"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 223000,
       "name": "Sky Way",
       "url": "https://open.spotify.com/track/3jOydeGVAsjdYoYVeqVS5U"
+    },
+    {
+      "added_at": "2023-11-24 14:56:26",
+      "album": {
+        "name": "Final Warning",
+        "url": "https://open.spotify.com/album/7lLoUQrpBTGAfW4Wu7cqmk"
+      },
+      "artists": [
+        {
+          "name": "Max Romeo",
+          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
+        },
+        {
+          "name": "Skank N Prod",
+          "url": "https://open.spotify.com/artist/4rK98VLS3BkgpGFeWO6OI0"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Final Warning",
+      "url": "https://open.spotify.com/track/1jBmIONvgPrALQhRL6AgHe"
     },
     {
       "added_at": "2023-11-24 14:56:26",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2023-11-24 14:56:26",
       "album": {
-        "name": "One Day Soon (feat. Josey Wales)",
-        "url": "https://open.spotify.com/album/1MUV7xH6xhqAFuVzOuuBNG"
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE"
       },
       "artists": [
         {
-          "name": "F.Y.A.H.",
-          "url": "https://open.spotify.com/artist/4mRKEfgXtRtIWeidQ1JSWV"
-        },
-        {
-          "name": "Josey Wales",
-          "url": "https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC"
+          "name": "Iotosh",
+          "url": "https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log"
         }
       ],
-      "duration_ms": 258172,
-      "name": "One Day Soon (feat. Josey Wales)",
-      "url": "https://open.spotify.com/track/2QMRbLnOeCfuGXRZcdJ9if"
+      "duration_ms": 202701,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm"
     }
   ],
   "unique_name": "Irie",

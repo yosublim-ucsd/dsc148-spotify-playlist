@@ -5232,7 +5232,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 268659,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o"
@@ -5740,6 +5740,24 @@
       "duration_ms": 174387,
       "name": "summer bruises",
       "url": "https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs"
+    },
+    {
+      "album": {
+        "name": "summer bruises",
+        "url": "https://open.spotify.com/album/21OArPDhU4QZ3ztihGbsi5"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174387,
+      "name": "summer bruises",
+      "url": "https://open.spotify.com/track/5XvOSbgWIPOO47Eg6qvY6e"
     },
     {
       "album": {

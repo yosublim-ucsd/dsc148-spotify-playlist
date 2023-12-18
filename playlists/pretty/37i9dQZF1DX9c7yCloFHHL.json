@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 176395,
+  "num_followers": 176483,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGE0OWUxZjE2YzI5M2VkZDFjYTc4ZjZhNGU2YTFkYjlhNzU3N2I2",
+  "snapshot_id": "MCxmNmEwZGZhYTY3MzZhY2E5NzI5YmIyY2NkNTkzMTJiZTllNDgzZWRh",
   "tracks": [
     {
       "added_at": "2023-12-01 18:00:25",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Leave Your Memories Behind",
+        "url": "https://open.spotify.com/album/3jzpsBUHS0r7yn7PgKMvlS"
+      },
+      "artists": [
+        {
+          "name": "Nectry",
+          "url": "https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "duration_ms": 143483,
+      "name": "Shards",
+      "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Circle 37",
         "url": "https://open.spotify.com/album/5XKDsIv1XdMf1VLM2DtYU2"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 199881,
       "name": "Circle 37",
       "url": "https://open.spotify.com/track/2iTObOUJM22lmxonH1jOiO"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Leave Your Memories Behind",
-        "url": "https://open.spotify.com/album/3jzpsBUHS0r7yn7PgKMvlS"
-      },
-      "artists": [
-        {
-          "name": "Nectry",
-          "url": "https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG"
-        },
-        {
-          "name": "Antent",
-          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
-        }
-      ],
-      "duration_ms": 143483,
-      "name": "Shards",
-      "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Escape (Hania Rani Remix)",
-        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        },
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 267330,
-      "name": "Escape - Hania Rani Remix",
-      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "regrets",
         "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 136145,
       "name": "regrets - Slowed",
       "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Escape (Hania Rani Remix)",
+        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        },
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 267330,
+      "name": "Escape - Hania Rani Remix",
+      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 190482,
       "name": "20220302 - sarabande",
       "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Dustlight / \u5149\u306e\u5875 / Afterglow",
         "url": "https://open.spotify.com/album/577opext6ZuqRDwowBmMdc"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 156073,
       "name": "12121",
       "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Migration Sun",
-        "url": "https://open.spotify.com/album/1a9wieG6wDFp5zcTdxK8SQ"
-      },
-      "artists": [
-        {
-          "name": "Sonant",
-          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
-        }
-      ],
-      "duration_ms": 278541,
-      "name": "Migration Sun",
-      "url": "https://open.spotify.com/track/5sw81wiy3iwmUulSlB6WxJ"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "I Remember You Being Happy",
         "url": "https://open.spotify.com/album/4w3v6gYbN4mdKd2mo5CtYS"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 208988,
       "name": "I Remember You Being Happy",
       "url": "https://open.spotify.com/track/2Z2fWWESeWka0erDgpl6hZ"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Migration Sun",
+        "url": "https://open.spotify.com/album/1a9wieG6wDFp5zcTdxK8SQ"
+      },
+      "artists": [
+        {
+          "name": "Sonant",
+          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
+        }
+      ],
+      "duration_ms": 278541,
+      "name": "Migration Sun",
+      "url": "https://open.spotify.com/track/5sw81wiy3iwmUulSlB6WxJ"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Isola",
+        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
+      },
+      "artists": [
+        {
+          "name": "Rumpistol",
+          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
+        }
+      ],
+      "duration_ms": 315960,
+      "name": "Vindheks",
+      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Isola",
-        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
-      },
-      "artists": [
-        {
-          "name": "Rumpistol",
-          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
-        }
-      ],
-      "duration_ms": 315960,
-      "name": "Vindheks",
-      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "After the Flood",
         "url": "https://open.spotify.com/album/6AbZWAv1wudSm3Ee8QkJ0w"
       },
@@ -1475,18 +1475,46 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "fragments",
-        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
+        "name": "Waterfalling",
+        "url": "https://open.spotify.com/album/5iCHeMOB9iFwpfkj50ZRRa"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Sonant",
+          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
+        },
+        {
+          "name": "Sunlight Jr.",
+          "url": "https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC"
+        },
+        {
+          "name": "Michi Oskah",
+          "url": "https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j"
         }
       ],
-      "duration_ms": 127766,
-      "name": "whateverness",
-      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
+      "duration_ms": 112204,
+      "name": "Waterfalling",
+      "url": "https://open.spotify.com/track/7Mh2MCqhXQprlpdnu630Si"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Spirit Loop",
+        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Spirit Loop",
+      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1523,62 +1551,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Spirit Loop",
-        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
+        "name": "fragments",
+        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
       },
       "artists": [
         {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 245500,
-      "name": "Spirit Loop",
-      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Waterfalling",
-        "url": "https://open.spotify.com/album/5iCHeMOB9iFwpfkj50ZRRa"
-      },
-      "artists": [
-        {
-          "name": "The Field Tapes",
-          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
-        },
-        {
-          "name": "Sonant",
-          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
-        },
-        {
-          "name": "Sunlight Jr.",
-          "url": "https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC"
-        },
-        {
-          "name": "Michi Oskah",
-          "url": "https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j"
-        }
-      ],
-      "duration_ms": 112204,
-      "name": "Waterfalling",
-      "url": "https://open.spotify.com/track/7Mh2MCqhXQprlpdnu630Si"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 140453,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
+      "duration_ms": 127766,
+      "name": "whateverness",
+      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Pause (Reimagined by Hinako Omori)",
         "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
       },
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "The Long Night in Winter Light",
-        "url": "https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3"
-      },
-      "artists": [
-        {
-          "name": "Tomo-Nakaguchi",
-          "url": "https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ"
-        }
-      ],
-      "duration_ms": 235063,
-      "name": "Twilight Glow Of The Sky",
-      "url": "https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Westwind",
         "url": "https://open.spotify.com/album/54QBiA3s2a0taeJvZo0h8j"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "The Long Night in Winter Light",
+        "url": "https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3"
+      },
+      "artists": [
+        {
+          "name": "Tomo-Nakaguchi",
+          "url": "https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ"
+        }
+      ],
+      "duration_ms": 235063,
+      "name": "Twilight Glow Of The Sky",
+      "url": "https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Music For Growing Flowers",
         "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
       },
@@ -1715,6 +1715,22 @@
       "duration_ms": 295306,
       "name": "Music For Growing Flowers - Pt. 7",
       "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "VIM",
+        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "duration_ms": 207756,
+      "name": "VIM",
+      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1735,6 +1751,22 @@
       "duration_ms": 130280,
       "name": "Dear - Haruhisa Tanaka Remix",
       "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1767,38 +1799,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "VIM",
-        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 207756,
-      "name": "VIM",
-      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "A Turning Earth",
         "url": "https://open.spotify.com/album/0le0m5ADH12SfkysmxSNDx"
       },
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "The Things We've Said and Done",
-        "url": "https://open.spotify.com/album/4S6UybRbvPeUZTtaKfAAuB"
+        "name": "Mycelium",
+        "url": "https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9"
       },
       "artists": [
         {
-          "name": "Infralyd",
-          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
+          "name": "Preslav Literary School",
+          "url": "https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY"
         }
       ],
-      "duration_ms": 264485,
-      "name": "Long Day?",
-      "url": "https://open.spotify.com/track/1MfqvxG31pJfnyL6xaWHu9"
+      "duration_ms": 74181,
+      "name": "Golden Waxcap",
+      "url": "https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt"
     }
   ],
   "unique_name": "Ambient X",

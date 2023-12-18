@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-85 songs - 6 hr 42 min
+86 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [As You Are \(feat\. Phyllis Hyman\)](https://open.spotify.com/track/4szHa9dRhiy3tJ1Jf5jz2V) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Love Will Find a Way \(Expanded Edition\)](https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW) | 5:08 | 2022-05-25 |  |
 | [Baby \(I'm Gonna Love You\) \- 7" Version](https://open.spotify.com/track/5TnLtfz0X6Z1Sou7UiJrWJ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 3:51 | 2022-06-13 |  |
 | [Back To Paradise](https://open.spotify.com/track/3ZVcOxMoq1cIRj7pXTBcGO) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:50 | 2022-06-06 | 2022-06-08 |
-| [Be Careful \(How You Treat My Love\)](https://open.spotify.com/track/5rPFEVyqIztyj80EolIn4S) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 4:17 | 2022-05-25 |  |
+| [Be Careful \(How You Treat My Love\)](https://open.spotify.com/track/5HZBeOoFFy9yO5mzq6fgeK) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 4:16 | 2023-12-17 |  |
+| [Be Careful \(How You Treat My Love\)](https://open.spotify.com/track/5rPFEVyqIztyj80EolIn4S) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 4:17 | 2022-05-25 | 2023-12-18 |
 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 | 2022-05-27 |  |
 | [Beautiful Man of Mine](https://open.spotify.com/track/35NPXOAZeNlu6WMRfJAA8m) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 6:58 | 2022-05-25 | 2022-11-26 |
 | [Betcha by Golly Wow \(feat\. Phyllis Hyman\) \- Remastered](https://open.spotify.com/track/2r9qFtnF0Iq41I5HlsPfdW) | [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Are My Starship](https://open.spotify.com/album/0whQoF11EIgNxK3FntxLCU) | 6:22 | 2022-05-25 |  |

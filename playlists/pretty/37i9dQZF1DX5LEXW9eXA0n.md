@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Park Ji Yoon\(박지윤\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,821 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,863 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Be forgotten](https://open.spotify.com/track/3mXe1JuZVTmmJ7mZQrwvvc) | [Navi](https://open.spotify.com/artist/1snFqLpoCORfbKnafugg3v) | [Be forgotten](https://open.spotify.com/album/6DpqBvM1vhIT0Ttqrqbl0k) | 3:40 |
 | 100 | [Feeling of love](https://open.spotify.com/track/45S9VsBpy4zZ5BHcwklih2) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [My Universe](https://open.spotify.com/album/1t7A3JHDRTdFb1VM9DDAxV) | 3:53 |
 
-Snapshot ID: `MCwxZTI3MjVlYWY3OTk2ZDFjYjNlZWE2Yzk2NzhlYWNmZTJlMmE2NDY3`
+Snapshot ID: `MCxhZmE2ZmFhOTgxMzc4NGNhNmY0MmRjYjFmMTQ4ZTkzYTYwMzRkY2Vi`

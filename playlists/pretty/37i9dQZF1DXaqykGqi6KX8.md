@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,462 likes - 30 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,566 likes - 30 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 25 | [The Cost Of Everything And The Value Of Nothing](https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:08 |
 | 26 | [Time to Raise the Curtains](https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 4:00 |
 | 27 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 |
-| 28 | [The Tragedy Within](https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC) | [BILOCATE](https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe) | [Summoning the Bygones](https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx) | 8:44 |
-| 29 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
+| 28 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
+| 29 | [The Tragedy Within](https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC) | [BILOCATE](https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe) | [Summoning the Bygones](https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx) | 8:44 |
 | 30 | [Unfollow](https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY) | [Massive Scar Era](https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D) | [Color Blind](https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy) | 3:42 |
 
-Snapshot ID: `MCw3MWJiYjcwODcyYTQxNmQ2MTcyMzdmMzFmZGExZjE5MzE4NDgzYWMx`
+Snapshot ID: `MCwxNDYzMTQ2OTlhZTBkYzNlNGViZmVhOWU5ZDY4OTAzZjA4NzNkZTUx`

@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20881,
+  "num_followers": 20880,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NzEsYTNkYjFlNGZiZWM2NGNkMDVlOGNiZmJjMGE3NTNhM2NmNzliOWZmZA==",
+  "snapshot_id": "MTA1NzIsMTgyYTJjYWIxOWVkYjM1NTEwNzU2MWNmNTUyZWVkOTA5OTY0NDJhMQ==",
   "tracks": [
     {
       "added_at": "2023-11-24 18:25:16",
@@ -2723,6 +2723,26 @@
       "duration_ms": 184563,
       "name": "Happy Days In Happy Weather",
       "url": "https://open.spotify.com/track/28lCdfM7o2ZrT6EkZNDd3A"
+    },
+    {
+      "added_at": "2023-12-17 17:56:57",
+      "album": {
+        "name": "Level Up (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/3RIW263kHZvpyYk3ZrCALC"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Gartner",
+          "url": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 180629,
+      "name": "Level Up (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/3VFtHmvmClUSOp9kWrx4RA"
     }
   ],
   "unique_name": "Moving Castle Monthly",

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: CreativeDrugStore
 
-330 songs - 17 hr 9 min
+331 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Pierce Snake](https://open.spotify.com/track/7yUaFzFJWNryC6IcvkXyPp) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Pierce Snake](https://open.spotify.com/album/60joKvUnAOwWC0dBaua7vp) | 3:10 | 2023-11-14 | 2023-12-06 |
 | [Player](https://open.spotify.com/track/6idXMKMHmuIGyHOvJtJ9jb) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [Massive](https://open.spotify.com/album/4B8VBwGrDf68aQIw7QU0ua) | 4:01 | 2023-09-21 |  |
 | [Popcorn and Coke](https://open.spotify.com/track/7tAOf5J6GJo1KFcszKgQ1c) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [Shaped Canvas 3](https://open.spotify.com/album/6Pl3PiHUB4elhbqXPl4Brb) | 2:37 | 2023-10-24 | 2023-11-09 |
+| [PRADA](https://open.spotify.com/track/64gcGnra2d9fIgtfeIcRiv) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Blood & Bones \(BLOOD\)](https://open.spotify.com/album/2CyunDLz6Yge8ocHHZi4nN) | 3:04 | 2023-12-18 |  |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-21 |  |
 | [Psychedelic](https://open.spotify.com/track/4WcpmNZaCVS3OWNoRehz7b) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [莉子](https://open.spotify.com/album/2P2gIq8l9Rk4EYPErK9KRb) | 3:21 | 2023-10-10 |  |
 | [Puxxy](https://open.spotify.com/track/3Gz1yrLVr3hSHAxH9qoWHK) | [AUDIO RADICAL](https://open.spotify.com/artist/7nBpQt0rbbHHTfQY9bd9d7), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL), [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [CROSS OVA](https://open.spotify.com/album/6TYODp2J2aSbnHnEnvTcuN) | 2:10 | 2023-11-23 |  |

@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 239765,
       "name": "Fun",
       "url": "https://open.spotify.com/track/4ERC5viMhrZHV9ErLcKzBL"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 202306,
       "name": "Fun (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6Zo3wgDE076K2AuiGZF3CS"
@@ -1472,10 +1472,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 176283,
       "name": "No Judgement",
       "url": "https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G"
+    },
+    {
+      "album": {
+        "name": "No Judgement",
+        "url": "https://open.spotify.com/album/48XX4ck7OJDXA8lTF7sbyB"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187979,
+      "name": "No Judgement",
+      "url": "https://open.spotify.com/track/5fQkJEFHAUKzDG7QrDJKQP"
     },
     {
       "album": {
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 219690,
       "name": "Work from Home",
       "url": "https://open.spotify.com/track/2NWyr0AZP2YFx2A6FKHsvg"
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"

@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2003. Photo : Eminem",
-  "num_followers": 15570,
+  "num_followers": 15572,
   "original_name": "Top Hits France 2003",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODJmMmRhYTg5N2QzNzA2NzljZjYwMzViODNhYTE4Y2IyN2FmNjQ5",
+  "snapshot_id": "MCxlZmI3MmIzNTk2MWJlZWE3NDhjOGI2OWRhZTgzYmQ4NzJlMDM1Mzdm",
   "tracks": [
     {
       "added_at": "2022-02-01 21:20:54",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Best Of Blue",
-        "url": "https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL"
-      },
-      "artists": [
-        {
-          "name": "Blue",
-          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Sorry Seems To Be The Hardest Word",
-      "url": "https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "Music & You",
         "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 212413,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "Best Of Blue",
+        "url": "https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9"
     },
     {
       "added_at": "2022-02-01 21:20:54",

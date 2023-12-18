@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 69266,
+  "num_followers": 69303,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTU1N2M0NDNmYTljM2YzM2FjYTg4NGE1Yzc3ZDY2ODYzN2Y5NzI5",
+  "snapshot_id": "MCw5NmZiNjM0YTVmZGVkZDVmMTNhZWY5ODM1MDk5NzkxOTk2ODI2N2Jh",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Cuando",
+        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 170189,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Senti2",
         "url": "https://open.spotify.com/album/5x6EmQK9vVzzueIcI6j5j6"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 247389,
       "name": "Senti2",
       "url": "https://open.spotify.com/track/6PCkpWCWbRKdBIlMjLPVKS"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Cuando",
-        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 170189,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
     },
     {
       "added_at": "2022-08-05 05:00:00",

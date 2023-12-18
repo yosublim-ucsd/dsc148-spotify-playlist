@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: ONEFOUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,412 likes - 68 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,430 likes - 68 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 67 | [Mojito](https://open.spotify.com/track/7l9l37vCr0rSq6jAaQaR4O) | [Benjamin](https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE) | [Mojito](https://open.spotify.com/album/6HhkbVk3PvMnEhVzfMqAsO) | 4:34 |
 | 68 | [Still Want U](https://open.spotify.com/track/6v5UIyYs09xGRHNtYuB3zJ) | [Ivana Ilic](https://open.spotify.com/artist/0HzMAe7Vj2QMQ3IhDmvImO) | [Still Want U](https://open.spotify.com/album/78c4cl3XA1J0YWbiI45M8b) | 3:54 |
 
-Snapshot ID: `MCxmZDZiNmY3MzcxZGE3ODdhMDg2NDRhODVmNDVjNjY4YTdiNjljMjFl`
+Snapshot ID: `MCxlNmJkMzM2OTgzZDA2OTI0MWRlMWNlYjllMTUzNWMzOTE2N2NmZjk5`

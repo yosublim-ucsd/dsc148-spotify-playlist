@@ -4,7 +4,7 @@
 
 > 
 
-226 songs - 13 hr 2 min
+227 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2023-11-10 |  |
 | [Not Allowed](https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 2:47 | 2022-03-07 |  |
 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 | 2021-01-18 |  |
+| [NOT THAT I'M ANYWHERE](https://open.spotify.com/track/2Auy5a07vbfXEGUaitLymP) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [BLACK PLEASURE 2012](https://open.spotify.com/album/3Pq5dzwf1ESZCMMIBzUe3W) | 2:53 | 2023-12-17 |  |
 | [O](https://open.spotify.com/track/044yVDQ9PFAkzcsUgbIFom) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Apoptosis](https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8) | 2:16 | 2022-05-15 |  |
 | [Olsun İstemezdim](https://open.spotify.com/track/4zhGxMXrSa1p5mfGPZMiCl) | [Lin Pesto](https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo), [Mei Wu](https://open.spotify.com/artist/6OxZ4gujZ3zGJwCIR60Td9) | [SON](https://open.spotify.com/album/6mtl5HTLK6lK9V5Jzu4g1b) | 3:55 | 2021-12-12 |  |
 | [On the Level](https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:47 | 2021-11-20 |  |

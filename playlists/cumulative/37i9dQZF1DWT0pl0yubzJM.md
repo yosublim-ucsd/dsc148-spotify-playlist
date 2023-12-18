@@ -4,7 +4,7 @@
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-53 songs - 3 hr 15 min
+54 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Desaparecedor](https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 2:49 | 2020-03-13 |  |
 | [Eclipse](https://open.spotify.com/track/1lVcT97quQcEDjLY8KbcUm) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló y Yo Sigo Volando](https://open.spotify.com/album/6oCgx5mp3ZK7AbMKmMLBUz) | 2:23 | 2020-03-13 | 2022-07-28 |
 | [Eclipse](https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 2:23 | 2020-03-13 |  |
-| [Emoción Diamante](https://open.spotify.com/track/0rUb5mvK44ldO7PvhYRLHR) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Miss Universo](https://open.spotify.com/album/3iuxk4D9W1vq5oH2apy3hy) | 3:48 | 2020-03-13 | 2023-12-14 |
+| [Emoción Diamante](https://open.spotify.com/track/0rUb5mvK44ldO7PvhYRLHR) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Miss Universo](https://open.spotify.com/album/3iuxk4D9W1vq5oH2apy3hy) | 3:48 | 2020-03-13 |  |
 | [Emoción Diamante](https://open.spotify.com/track/4jVnGWG8LDOEbD7iOcWb2V) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Miss Universo](https://open.spotify.com/album/1jwoX5cSB5SVcSt0onPYw4) | 3:48 | 2020-03-13 | 2023-02-04 |
 | [Escafandra](https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 2:53 | 2020-03-13 |  |
 | [Fabrico Cuero](https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 2:58 | 2020-03-13 |  |
@@ -33,7 +33,7 @@
 | [Marmota](https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 4:42 | 2020-03-13 |  |
 | [Mate](https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 3:11 | 2020-03-13 | 2022-12-04 |
 | [Mate](https://open.spotify.com/track/38qMdBT2CM35RT35f5FOUE) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 3:11 | 2020-03-13 | 2022-07-29 |
-| [Mate](https://open.spotify.com/track/4P8jmtTh7Uff7vcUCXsNaY) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:14 | 2020-03-13 |  |
+| [Mate](https://open.spotify.com/track/4P8jmtTh7Uff7vcUCXsNaY) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:14 | 2020-03-13 | 2023-12-18 |
 | [Microman](https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 3:54 | 2020-03-13 |  |
 | [Montañas de Agua](https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trance Zomba](https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS) | 3:29 | 2020-03-13 |  |
 | [Post Crucifixion](https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 3:48 | 2020-03-13 |  |
@@ -55,7 +55,8 @@
 | [Travesia](https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 5:18 | 2020-03-13 |  |
 | [Trece](https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 2:20 | 2020-03-13 | 2022-12-03 |
 | [Trece](https://open.spotify.com/track/485OU7VBMjCAAFL2JYAsoH) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 2:21 | 2020-03-13 | 2022-07-29 |
-| [Trece](https://open.spotify.com/track/26CbBuWyZ6mX4V2xuk3ZHa) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 2:25 | 2020-03-13 |  |
+| [TRECE](https://open.spotify.com/track/6KlyjmAKmTzXdxhzA6DAh3) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 2:21 | 2020-03-13 |  |
+| [Trece](https://open.spotify.com/track/26CbBuWyZ6mX4V2xuk3ZHa) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 2:25 | 2020-03-13 | 2023-12-18 |
 | [Vida Modelo](https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Vida Modelo](https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ) | 2:45 | 2020-03-13 |  |
 | [Viva Satana](https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Dopadromo](https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl) | 3:51 | 2020-03-13 |  |
 | [Weekend](https://open.spotify.com/track/79Naq0ymabqPjjX3jMa1k7) | [DDT](https://open.spotify.com/artist/20s5z4UebbOjqn71EYXdiT) | [Demonios De Tasmania](https://open.spotify.com/album/13Q4tQt4MwkKOUUDFRxOL2) | 3:20 | 2020-03-13 | 2023-05-30 |

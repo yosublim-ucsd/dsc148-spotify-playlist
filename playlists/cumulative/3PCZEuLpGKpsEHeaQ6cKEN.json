@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "3 Haseln\u00fcsse",
+        "url": "https://open.spotify.com/album/3A8cavLgl2sr02yNDfKAVY"
+      },
+      "artists": [
+        {
+          "name": "Jaques Raup\u00e9",
+          "url": "https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148797,
+      "name": "3 Haseln\u00fcsse",
+      "url": "https://open.spotify.com/track/6z0zac5O6Xn57EdKyvBuCE"
+    },
+    {
+      "album": {
         "name": "A&S",
         "url": "https://open.spotify.com/album/7HmhPt7zhLiokEArwbMSJL"
       },

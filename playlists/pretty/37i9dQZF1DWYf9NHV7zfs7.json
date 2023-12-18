@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 23529,
+  "num_followers": 23569,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMThiYmIxYjRmYzI2NjM2YjVmN2M5MGNiMDc2Y2RiZTRhNGFhNzE4",
+  "snapshot_id": "MCxjYzVkNWUxYmUxOWIyNDZmMjViY2FjYWEyOTdlNDg4YTJhZjgxMTIx",
   "tracks": [
     {
       "added_at": "2023-12-15 00:56:25",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-12-15 00:56:25",
       "album": {
+        "name": "LALI DELUXE",
+        "url": "https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 154548,
+      "name": "Baum Baum",
+      "url": "https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks"
+    },
+    {
+      "added_at": "2023-12-15 00:56:25",
+      "album": {
         "name": "PITADA",
         "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2023-12-15 00:56:25",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 189355,
-      "name": "Mecha",
-      "url": "https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl"
-    },
-    {
-      "added_at": "2023-12-15 00:56:25",
-      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
       },
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-12-15 00:56:25",
       "album": {
-        "name": "Desde el Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2"
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel"
       },
       "artists": [
         {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
+      "duration_ms": 189355,
+      "name": "Mecha",
+      "url": "https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl"
     },
     {
       "added_at": "2023-12-15 00:56:25",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-12-15 00:56:25",
       "album": {
+        "name": "Desde el Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
+    },
+    {
+      "added_at": "2023-12-15 00:56:25",
+      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 254224,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B"
-    },
-    {
-      "added_at": "2023-12-15 00:56:25",
-      "album": {
-        "name": "LALI DELUXE",
-        "url": "https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 154548,
-      "name": "Baum Baum",
-      "url": "https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks"
     },
     {
       "added_at": "2023-12-15 00:56:25",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-12-15 00:56:25",
       "album": {
+        "name": "100PRE",
+        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 205511,
+      "name": "100PRE",
+      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
+    },
+    {
+      "added_at": "2023-12-15 00:56:25",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 226466,
       "name": "Esperanza (feat. Agarrate Catalina)",
       "url": "https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ"
-    },
-    {
-      "added_at": "2023-12-15 00:56:25",
-      "album": {
-        "name": "100PRE",
-        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "100PRE",
-      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
     },
     {
       "added_at": "2023-12-15 00:56:25",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-15 00:56:25",
       "album": {
-        "name": "Aqua di Emma",
-        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 214575,
-      "name": "Abrazarnos",
-      "url": "https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc"
-    },
-    {
-      "added_at": "2023-12-15 00:56:25",
-      "album": {
         "name": "Por Segunda Vez",
         "url": "https://open.spotify.com/album/6k6CYagE7PFxVEaeqhUBZx"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 182400,
       "name": "Por Segunda Vez",
       "url": "https://open.spotify.com/track/0V5W6b9lMaW1QijnTUxl76"
+    },
+    {
+      "added_at": "2023-12-15 00:56:25",
+      "album": {
+        "name": "Aqua di Emma",
+        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 214575,
+      "name": "Abrazarnos",
+      "url": "https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc"
     },
     {
       "added_at": "2023-12-15 00:56:25",

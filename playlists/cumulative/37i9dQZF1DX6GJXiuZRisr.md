@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-437 songs - 1 day 7 hr 25 min
+438 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-07-29 |
 | [Breathe Me In](https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Breathe Me In](https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc) | 2:58 | 2021-12-10 |  |
 | [Bridges In The Sky \(feat\. Maurits Colijn\)](https://open.spotify.com/track/7qmj6GXCoataBL3kBYBrII) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Maurits Colijn](https://open.spotify.com/artist/3flMOgDUT0vdbSZwkl4by3) | [Bridges In The Sky](https://open.spotify.com/album/1aPCc1XkP3hSE21HfdAVWD) | 5:45 | 2021-05-07 | 2023-05-27 |
+| [Brighter \- Dave Summer Remix](https://open.spotify.com/track/6TDdOZxGNvva3l36Me8XLc) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Dave Summer](https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5) | [Brighter \(Dave Summer Remix\)](https://open.spotify.com/album/7AfDLIKksawCSHZXVoi3nl) | 3:30 | 2023-12-15 |  |
 | [Bumblebee](https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 02](https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73) | 7:50 | 2022-09-02 | 2023-06-03 |
 | [bygones](https://open.spotify.com/track/61VpTyZBzCFtkPpii7pYWl) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [bygones](https://open.spotify.com/album/5v0F0Z4KcAM9yqkPc8fsNh) | 3:15 | 2021-08-20 | 2022-07-28 |
 | [Calling Out Your Name \- Radio Edit](https://open.spotify.com/track/4Zd0Bqfka9K3m3Mv1eibaP) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Mikhaela Faye](https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7) | [Calling Out Your Name](https://open.spotify.com/album/0HQWHfjbMZHuQGFCY2amgX) | 3:30 | 2021-05-07 | 2022-07-22 |
@@ -316,7 +317,7 @@
 | [Say Hello](https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Meliha](https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5) | [Say Hello EP](https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ) | 3:27 | 2021-05-07 |  |
 | [Say It's Over](https://open.spotify.com/track/1Mezu0QLswKxKY21bgIzQn) | [REFFEL](https://open.spotify.com/artist/7eBZQrvBsAeuqAasuZM3hS) | [Say It's Over](https://open.spotify.com/album/6ieHyR7Zj4dNBoMpGcRRLI) | 3:59 | 2021-05-07 | 2022-04-21 |
 | [Sendeturm](https://open.spotify.com/track/0VoqjK1Nf9MjeRM60b8GiO) | [PBR Streetgang](https://open.spotify.com/artist/5PDEurVJJvitl9PGDjhPgY) | [Zoot Module](https://open.spotify.com/album/1znAzYbadOJI7CAc1HPZz6) | 3:22 | 2021-05-07 | 2022-07-13 |
-| [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-05-07 |  |
+| [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-05-07 | 2023-12-18 |
 | [Show Me A Sign \(with MKLA\)](https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Show Me A Sign](https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL) | 3:43 | 2022-02-18 | 2023-06-01 |
 | [Signals](https://open.spotify.com/track/7F8LoNeDRgItTcpTpYTmY3) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Signals](https://open.spotify.com/album/1jfZBmZUZeJsZZNluJL6zY) | 6:17 | 2022-06-17 | 2022-08-17 |
 | [Silence](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Silence](https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF) | 4:05 | 2021-05-07 | 2023-10-15 |

@@ -5727,6 +5727,28 @@
     },
     {
       "album": {
+        "name": "Level Up (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/3RIW263kHZvpyYk3ZrCALC"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Gartner",
+          "url": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180629,
+      "name": "Level Up (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/3VFtHmvmClUSOp9kWrx4RA"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ckHBekHAoozIV6ISOmvq1.md) - [plain]
 
 > See also <a href="spotify:playlist:2z6FM4scrQ5lpsKId0jeki">Intro</a>, <a href="spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe">Pulse</a>, <a href="spotify:playlist:2xfCdpmPmRtGgNyuk1zawd">Edge</a>, <a href="spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs">♀Filter</a> or <a href="spotify:playlist:18NVIhicUeOGx6Ag3x491U">2023</a>; or the Sounds of <a href="spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte">Early Music Ensemble</a>, <a href="spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT">Troubadour</a>, <a href="spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA">Renaissance</a>, <a href="spotify:playlist:0K86fmE0c0SFgz9GpwhwLm">Early Music</a>, <a href="spotify:playlist:0nqJegaRD3nkCjyIwg7mry">Trouvère</a>, <a href="spotify:playlist:6zc2HFPnDWeqqsBHhYEQER">Trecento</a>, <a href="spotify:playlist:0AVJ1UKXMQf244cvu4np0k">Minnesang</a>, <a href="spotify:playlist:511MabrP35Zp3tqYh2G4iJ">Medieval Ensemble</a>, <a href="spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M">Ars subtilior</a> or <a href="spotify:playlist:1KZMCWImik3vA17zVLJ3c3">Orthodox Chant</a>; or much more at <a href="http://everynoise.com">everynoise.com</a>.
 
-[The Sounds of Spotify](https://open.spotify.com/user/thesoundsofspotify) - 544 likes - 182 songs - 16 hr 3 min
+[The Sounds of Spotify](https://open.spotify.com/user/thesoundsofspotify) - 545 likes - 182 songs - 16 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/6ckHBekHAoozIV6ISOmvq1.md) - [plain]
 | 181 | [Gloria in excelsis](https://open.spotify.com/track/2PvGnjMLeIz2EX8xX62Hbf) | [Leonel Power](https://open.spotify.com/artist/2WzcklMrHcW7s4NC0BW1XZ), [Gothic Voices](https://open.spotify.com/artist/0lGwsO9MkfDSC2MH488GtW) | [Echoes of an Old Hall](https://open.spotify.com/album/0jZlK9XM9wbBI6bFIl0Tfd) | 3:28 |
 | 182 | [Introït: Viri gallilei / Alleluia](https://open.spotify.com/track/4tm4DqNsui9lMn4s28nuoE) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Dominique Vellard](https://open.spotify.com/artist/7163RRfcsqPuQRplJ6PMQK), [Emmanuel Bonnardot](https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc), [Willem De Waal](https://open.spotify.com/artist/0vzLiuQO30WCS6Wcur5rKw) | [Canto gregoriano, les tons de la musique](https://open.spotify.com/album/22DCPYWHodeTyUnDh6FBzQ) | 3:11 |
 
-Snapshot ID: `NTg1OCxhNDBkZmE1ZmE5ZWY1NDE3N2E0YWIxNTc0OTQ4MDMyNDllMzI0YzYz`
+Snapshot ID: `NTg1OSwwOGM3YTg3MDc2YTZkOTQ3OTQ3MmEzODM2NTBjNmE4NDZiMzZhZTdk`

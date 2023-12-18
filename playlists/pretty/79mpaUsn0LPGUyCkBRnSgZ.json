@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTEyMyxlY2FmYjM0NGZhNjE0ZTcyOGE1MjRhMDU0NWUxMzc3MTdmY2Q4Yjll",
+  "snapshot_id": "MTEyNCxjZTY0YTZkMjI1ZjhlZThhYjIyZmY0NWMyZmYxNDMwNjE2MWM3NzEx",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -4887,6 +4887,22 @@
       "duration_ms": 284506,
       "name": "The Bad In Each Other",
       "url": "https://open.spotify.com/track/61etm6bMP3BnD3SiwreMZu"
+    },
+    {
+      "added_at": "2023-12-17 10:16:59",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 161042,
+      "name": "Cooking Up Something Good",
+      "url": "https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli"
     }
   ],
   "unique_name": "Zacklog",

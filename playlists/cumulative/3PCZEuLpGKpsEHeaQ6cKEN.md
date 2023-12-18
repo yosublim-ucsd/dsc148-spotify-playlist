@@ -4,11 +4,12 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and more! \| Updated weekly on Friday Cover: Matt Guy
 
-858 songs - 1 day 21 hr 53 min
+859 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1998 \- Victor Ruiz Remix](https://open.spotify.com/track/3LwquNfvB0eYXYB5HOtpnk) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Armada Music \- 20 Years \(Remixed\)](https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb) | 4:12 | 2023-12-07 |  |
+| [3 Haselnüsse](https://open.spotify.com/track/6z0zac5O6Xn57EdKyvBuCE) | [Jaques Raupé](https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [3 Haselnüsse](https://open.spotify.com/album/3A8cavLgl2sr02yNDfKAVY) | 2:28 | 2023-12-17 |  |
 | [A&S](https://open.spotify.com/track/4joJLer0vBve2ME4A0YU2i) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [A&S](https://open.spotify.com/album/7HmhPt7zhLiokEArwbMSJL) | 3:20 | 2023-12-07 |  |
 | [About The Weekend](https://open.spotify.com/track/3lEoFMhMMRYuRUkU24HiOM) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Sakhile Moleshe](https://open.spotify.com/artist/6pldHWtyWbWZUi5lBqrZpB) | [If Summer Was A Sound](https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh) | 3:00 | 2023-12-07 |  |
 | [Access \- Joris Voorn Remix](https://open.spotify.com/track/4vJJUd72zS9Ak5AmK4BBFk) | [DJ Misjah](https://open.spotify.com/artist/3GKyfn5Iyo8i5TxoV9jPms), [DJ Tim](https://open.spotify.com/artist/04VoCQzRyRw8P2jo52hqja), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Access \(Joris Voorn Remix\)](https://open.spotify.com/album/36usuR6K7daeDyCeQg7f5R) | 3:10 | 2023-05-25 | 2023-08-01 |

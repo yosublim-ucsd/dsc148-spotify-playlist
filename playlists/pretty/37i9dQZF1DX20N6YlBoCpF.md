@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ?si=mARG7ATsSdirReENIHBdfQ">Bok Van Blerk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,788 likes - 64 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,839 likes - 64 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 14 | [Buffel Van Buffelsfontein](https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Buffel Van Buffelsfontein](https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z) | 2:56 |
 | 15 | [Voel](https://open.spotify.com/track/3nfvfPPlIamTKAARfxf7Bz) | [Elsje du Toit](https://open.spotify.com/artist/6miepPtiQawx256JNyCecF) | [Voel](https://open.spotify.com/album/03TSFVXzXPXbv2mosZ22Jd) | 2:58 |
 | 16 | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 |
-| 17 | [Myne Vir Die Aand](https://open.spotify.com/track/6fu8zewjH9qnlW8vS4A8Ri) | [CHARLIZE BERG](https://open.spotify.com/artist/0sm5h6GieSMumfzCc2ZONn), [Richii](https://open.spotify.com/artist/32GJS0vYthW0YhjqQprENx) | [Myne Vir Die Aand](https://open.spotify.com/album/7cI0kZ0yiYiqT4UibgRg7q) | 3:22 |
+| 17 | [Myne Vir Die Aand](https://open.spotify.com/track/6fu8zewjH9qnlW8vS4A8Ri) | [CHARLIZE BERG](https://open.spotify.com/artist/0sm5h6GieSMumfzCc2ZONn), [Richii](https://open.spotify.com/artist/1JpIxCLvIzIYAxmuSL2BwO) | [Myne Vir Die Aand](https://open.spotify.com/album/7cI0kZ0yiYiqT4UibgRg7q) | 3:22 |
 | 18 | [Ligte Laag](https://open.spotify.com/track/63qxqOgqK8dwpMWYhAq0SD) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Ligte Laag](https://open.spotify.com/album/1PX6EzKqw5iTyqDQ7VuyTE) | 3:40 |
 | 19 | [Sien Die Lig](https://open.spotify.com/track/5Y0VS3TjajzDbx87t6weXf) | [EDÓ](https://open.spotify.com/artist/1gNUkkuCAbLeOT1yF7nzFr) | [Sien Die Lig](https://open.spotify.com/album/3WOdfQhZiRLUqLqguMzZfr) | 3:17 |
 | 20 | [Haar Naam Was Somer](https://open.spotify.com/track/6EoilsUTHrNfdslcBOBekC) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Haar Naam Was Somer](https://open.spotify.com/album/1keEU7iuzECezDFw8Z1CVE) | 3:14 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 63 | [Daai Girl](https://open.spotify.com/track/6ivrpvgB86kwsySdLpjhV2) | [BiBi](https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX) | [Daai Girl](https://open.spotify.com/album/6kl5EDBv4XxeJBJfS9olsx) | 3:13 |
 | 64 | [KANNIE WARRIE](https://open.spotify.com/track/5yjXBgnXdZDzqJIuhxgDBF) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [KANNIE WARRIE](https://open.spotify.com/album/2chOPP9olG7mcTVGALmcrG) | 3:30 |
 
-Snapshot ID: `MCwxMzVkZmU4Y2Q0M2FkMGVkZGY4YzdiMDljYmFjYWNhMWNlYmYxMDhk`
+Snapshot ID: `MCwwNzBmMTY2NDE5NWUxY2ZhMDA0NmI4ZDcwMWU0NDljYjZhYTgzZjFi`

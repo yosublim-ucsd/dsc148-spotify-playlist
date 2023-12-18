@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Matt Force & Young Queenz
 
-804 songs - 1 day 21 hr 28 min
+805 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,8 +168,9 @@
 | [GODSROOM 殿](https://open.spotify.com/track/6cq3QFJfZMi2IReXNsJjro) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [GODSROOM 殿](https://open.spotify.com/album/6lSTMCNUXWFX1Rq5XSJGda) | 3:14 | 2023-06-22 | 2023-11-03 |
 | [GOLDEN BOYS!](https://open.spotify.com/track/0LBjHIfdzv76vvZF4z2sAT) | [Jayj](https://open.spotify.com/artist/3kH3cdvEQ8E33l3eOQC2N9) | [GOLDEN BOYS!](https://open.spotify.com/album/4jEySCSHXFnaBLnfi41LWf) | 2:47 | 2023-05-11 | 2023-09-01 |
 | [Goodbye](https://open.spotify.com/track/0aNKJq3HKyHtC0XTadVJm6) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [日曜日](https://open.spotify.com/album/5wuSotju31MyCj12UnI8iD) | 3:57 | 2022-09-01 | 2023-01-06 |
-| [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/245BRQjHLljL2Z2xGtycMr) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [A](https://open.spotify.com/album/2IkSsvBy5uMOfxhOSQQcul) | 4:00 | 2023-11-09 |  |
+| [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/245BRQjHLljL2Z2xGtycMr) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [A](https://open.spotify.com/album/2IkSsvBy5uMOfxhOSQQcul) | 4:00 | 2023-11-09 | 2023-12-18 |
 | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/4UxRLxVCveG0DrPm8tgqk1) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/album/1sVlWhnJ3YcvPu2Huv026Y) | 4:00 | 2023-10-26 | 2023-11-11 |
+| [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/76d618q1oK2pqqrwFvjKR5) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [Just Be A Rock](https://open.spotify.com/album/0waIK4rOKJ8S03wVbNL5GP) | 4:00 | 2023-12-15 |  |
 | [Guaranteed](https://open.spotify.com/track/7Fu0tzqKMEZPgogTkfY9aF) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Guaranteed](https://open.spotify.com/album/4bjBunt43qGNuRyhGysUaV) | 2:55 | 2023-02-23 | 2023-03-18 |
 | [gömböc](https://open.spotify.com/track/3BzCye7qSkPzUvjITcgR6Y) | [hirsk](https://open.spotify.com/artist/1WxYe59SGsEY1e6fLII0hB), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [gömböc](https://open.spotify.com/album/3ynKmPgPzFzTT8krlAXBen) | 2:29 | 2023-03-02 | 2023-07-14 |
 | [Hang你老母 MeowMeow](https://open.spotify.com/track/42GaSRx19HNDyRBntX48Ux) | [Chrisok](https://open.spotify.com/artist/1DixYkPHal3npqnOSLyZaA) | [Hang你老母 MeowMeow](https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J) | 1:52 | 2022-06-30 | 2022-09-09 |

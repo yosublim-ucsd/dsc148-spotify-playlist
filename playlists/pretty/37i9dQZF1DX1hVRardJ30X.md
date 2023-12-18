@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,751 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,779 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Te tengo en salsa](https://open.spotify.com/track/6Peqg7l5ElzHLMILgyfKaH) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Te tengo en salsa](https://open.spotify.com/album/6rJCdSCEhtMpsyvndSi6zh) | 3:23 |
 | 51 | [seu carinho](https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [seu carinho](https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh) | 2:39 |
 
-Snapshot ID: `MCw0MDUwYjYwNDcxZTZhY2I5ZDU4NGMzNDAyNjIyMzc2MWNkYTNmMDc2`
+Snapshot ID: `MCxhZTVlZDMwOTU5ZWVhOThmYThmYWI3ODk0ZDdmZjUyZTFkN2U5N2Ri`

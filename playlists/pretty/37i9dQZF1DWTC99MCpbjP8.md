@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and soothe anxiety with soft, relaxing piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,807 likes - 259 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,918 likes - 259 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 258 | [Overcome](https://open.spotify.com/track/6a29Wq1AQWAGVdJGwYDXJs) | [Thad Caoimhe](https://open.spotify.com/artist/5yf4zjHyDTrEX2STRfIV3C) | [Overcome](https://open.spotify.com/album/3r50b0k1FpdZfmoPg8FVQY) | 2:24 |
 | 259 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
 
-Snapshot ID: `MCw1NDMwYzZjMmExMmRiYWEyM2E2NDg4ZmNjNTJkNDE3ODQ5MGI1ZmVi`
+Snapshot ID: `MCw2OTk2ZTg5OGJjNWYzOTI1NWM2OGMyOWRmZTA0NDkwMDAzNGFjZGJm`

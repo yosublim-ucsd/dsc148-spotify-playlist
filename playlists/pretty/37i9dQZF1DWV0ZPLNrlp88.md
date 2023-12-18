@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,887 likes - 30 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,884 likes - 30 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 29 | [雪の音](https://open.spotify.com/track/2Wahb8YS7s2zPFRVK3l5gT) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [雪の音](https://open.spotify.com/album/670M5F2SQLZYmTgWLUzSZY) | 3:48 |
 | 30 | [Galleon](https://open.spotify.com/track/6t2vcxUNF8TzlvaWCmCwTG) | [negaeri.](https://open.spotify.com/artist/7rjZ2nG4BFNkfBOaVPUm0U) | [Galleon](https://open.spotify.com/album/2gbJoaXyMLUleCPrtU6nYM) | 3:26 |
 
-Snapshot ID: `MCwxYzlkMWJjNzIzMDAzNzkzNDVhMjQ5ZGU0ODVkYTYxNjlkYjFlZjk5`
+Snapshot ID: `MCwzYjIzNzM4YjFhYjlhNTcxZjU0YTc1M2MwY2VhNTlhMTc4ZjQxMjgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Midland, Troy Cartwright, Taylor Edwards and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,702 likes - 57 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,847 likes - 57 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 8 | [One More Lie \(feat\. Max McNown\)](https://open.spotify.com/track/2REwEj9qzq1D7pcvPfLFxV) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [One More Lie \(feat\. Max McNown\)](https://open.spotify.com/album/3jqstfq34dmL5rH5vuVvQt) | 3:14 |
 | 9 | [18 Days](https://open.spotify.com/track/1dOw29wxOBU1hSw6Qsnim3) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [18 Days](https://open.spotify.com/album/6o85TOE1Ybw3nbJ3drxKSg) | 3:44 |
 | 10 | [Mind On You \(feat\. charlieonnafriday & Kidd G\)](https://open.spotify.com/track/1eoapzLQuYBDRDaHQuxXc4) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Mind On You \(feat\. charlieonnafriday & Kidd G\)](https://open.spotify.com/album/2TXzJqDmxEGtrQJUHxrHoU) | 3:21 |
-| 11 | [Let It Burn \- Stripped](https://open.spotify.com/track/1DSi6zMeTnPAQuoq8MyaAR) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn \(Stripped\)](https://open.spotify.com/album/6CZIMigeYUv1z2oLtIzPSB) | 3:07 |
+| 11 | [Let It Burn \- Stripped](https://open.spotify.com/track/1DSi6zMeTnPAQuoq8MyaAR) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/6CZIMigeYUv1z2oLtIzPSB) | 3:07 |
 | 12 | [After We Broke Up \- feat\. Frawley](https://open.spotify.com/track/6Mb4ChyGxYAfVtXz9ia0DN) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [After We Broke Up \(feat\. Frawley\)](https://open.spotify.com/album/21s4j5umh7ZV1wbldlMO3n) | 2:49 |
 | 13 | [Need A Reminder](https://open.spotify.com/track/5U0cDocf5OPF0ErE2uW0nR) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Need A Reminder](https://open.spotify.com/album/3QgtapnxexBguWWdeCpnxj) | 3:10 |
 | 14 | [My Inheritance \(feat\. Corey Kent\)](https://open.spotify.com/track/7HhAzrseYW1JI1Mqj5CWYq) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [My Inheritance](https://open.spotify.com/album/4d0tG6cGFGiNhRDWsjZR2P) | 3:34 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 56 | [Fireplace](https://open.spotify.com/track/2och4AMengfll17sMZD148) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Fireplace](https://open.spotify.com/album/7qxLqohVNOrnQ99Ave0jYs) | 3:28 |
 | 57 | [Like It's Your Last](https://open.spotify.com/track/7acQ4alyNqegxDdclnncX4) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Like It's Your Last](https://open.spotify.com/album/3BMgZpyxYTGrYkV6VnqnaS) | 3:15 |
 
-Snapshot ID: `MCxiZGJiMWM3M2Y2MDQwMmY2ZDUwYmIxYTk4MzQ0ZjIxYzE1OTJmMDg1`
+Snapshot ID: `MCw0ZTQ4ZDZjNWYyY2NmNjQwOThlNThlMjJlMjFiNjlkYmIzNzFlNWYy`

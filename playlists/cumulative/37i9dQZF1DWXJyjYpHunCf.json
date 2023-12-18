@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "december",
+        "url": "https://open.spotify.com/album/6x3R8vqlTxaT4bMkSaw8mh"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "december",
+      "url": "https://open.spotify.com/track/4i8pYDNVzAs8lyblY7rM3i"
+    },
+    {
+      "album": {
         "name": "Devastating",
         "url": "https://open.spotify.com/album/0Um7o0i84H6WIdYJPbMSAQ"
       },
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 234031,
       "name": "Pollution",
       "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"

@@ -4967,6 +4967,32 @@
     },
     {
       "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/168z0q817tjY23vzPjRkZA"
+      },
+      "artists": [
+        {
+          "name": "HorseTheOne",
+          "url": "https://open.spotify.com/artist/2f3UhhzxocxMpddhF3dclq"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "264 Quez",
+          "url": "https://open.spotify.com/artist/30y2oENJyPSHmwXktCAMyH"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194456,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/7dnlipXNH2vLvhvTkhWPGq"
+    },
+    {
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },

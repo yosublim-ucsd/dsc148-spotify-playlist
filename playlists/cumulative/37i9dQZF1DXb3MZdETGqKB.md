@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Shanice Green
 
-253 songs - 14 hr 45 min
+254 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [If You're Gonna Leave Me](https://open.spotify.com/track/1o5m2tSsrzqLyJf6qfmSrO) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [If You're Gonna Leave Me](https://open.spotify.com/album/3yfkg9em3SCAygQPfoORh1) | 5:32 | 2021-05-21 | 2022-05-07 |
 | [In The Water](https://open.spotify.com/track/0RiY8zC9nRkLJmjyWL90Or) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN) | [In The Water](https://open.spotify.com/album/5KYbUkIW8rj1anUazzefDx) | 3:38 | 2021-09-03 | 2023-05-06 |
 | [It Is What It Is](https://open.spotify.com/track/4QEcznPthbvV8UTIw0FaJh) | [Bill Daniels](https://open.spotify.com/artist/1AaxjORCdqUfWScr7UACJT) | [It Is What It Is](https://open.spotify.com/album/2Ktr9SyLhkvAKtvBEMqcoF) | 3:01 | 2022-03-11 |  |
-| [Jackpot](https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Jackpot](https://open.spotify.com/album/18wuw7w0x6fqjTJIEK71A2) | 2:07 | 2023-07-07 |  |
+| [Jackpot](https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Jackpot](https://open.spotify.com/album/18wuw7w0x6fqjTJIEK71A2) | 2:07 | 2023-07-07 |  |
 | [Jumpin’ For Joy](https://open.spotify.com/track/6cruucEwiXCf6exdPLYN9n) | [Jimmy Hall](https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi) | [Jumpin’ For Joy](https://open.spotify.com/album/1ZpY8QOPygcO1SfiApXNqR) | 3:47 | 2022-07-29 |  |
 | [Keep My Cool](https://open.spotify.com/track/4vEaaqaOh7Aw7cHw7U9enA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 3:07 | 2021-10-29 | 2023-02-14 |
 | [Keep Off of You](https://open.spotify.com/track/3oNXDpo7ziScRfWi8d9O37) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Keep Off of You](https://open.spotify.com/album/3f44rAp9r0CsGQrHsrYmxb) | 3:04 | 2023-03-10 |  |
@@ -202,7 +202,8 @@
 | [Sugar Man](https://open.spotify.com/track/0fxPI5BMCQYo0nPV7ysef4) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Sugar Man](https://open.spotify.com/album/2EzBNH4CaSRJRL8fUjovip) | 3:29 | 2023-12-01 |  |
 | [Sundress Season](https://open.spotify.com/track/2UCJ0tbxu54jEgU48YmAff) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Sundress Season](https://open.spotify.com/album/1mNHEGbZUdWu89QMma3bym) | 2:38 | 2023-05-05 |  |
 | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/track/55xFE3JPlWpKoqRGg9j4L0) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/album/20qgm11dR7wDnfauXFeuMx) | 2:13 | 2022-09-02 |  |
-| [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 | 2022-04-08 |  |
+| [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 | 2022-04-08 | 2023-12-18 |
+| [Sunshine Blue](https://open.spotify.com/track/6m1g7OX6k0CFK9y9LTFwQc) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/41AYEHSwnXU7Gmrw4DVrKC) | 2:40 | 2022-04-08 |  |
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 | 2022-06-19 |
 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 | 2022-05-06 |  |
 | [Sweet Hitchhiker](https://open.spotify.com/track/1kZpY4ykTAUrrQfoKdDJll) | [Tommy Womack](https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje) | [30 Years Shot To Hell: A Tommy Womack Anthology](https://open.spotify.com/album/6YvLsP228sBx60XmzK0DH9) | 3:25 | 2022-08-05 |  |

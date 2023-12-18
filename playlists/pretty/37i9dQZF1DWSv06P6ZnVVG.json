@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 28306,
+  "num_followers": 28363,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjM1MTI4MzMwYTI2MWFhMTFiYmI2YjM5NDQ0NzhhZmY0ODVhNmY0",
+  "snapshot_id": "MCw4M2JkYTZhYjU1OTdhMjJmNThjYmRiOTMxNWUyMWQzYmJhYzk2NGY1",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "La Fiera 2018",
-        "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona de Michoacan",
-          "url": "https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "El Pistolero - Son, Huapangobanda",
-      "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Las Mamirriquis",
         "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
       },
@@ -675,18 +659,34 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Estabas T\u00fa",
-        "url": "https://open.spotify.com/album/7Hs7cWNemcy8goTydz5pW0"
+        "name": "La Fiera 2018",
+        "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
       },
       "artists": [
         {
-          "name": "Banda La Pi\u00f1era",
-          "url": "https://open.spotify.com/artist/4sT9x4j4hhwjHwfiOvL9je"
+          "name": "Banda Corona de Michoacan",
+          "url": "https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy"
         }
       ],
-      "duration_ms": 153066,
-      "name": "El Cable",
-      "url": "https://open.spotify.com/track/5DTyBCIE6H6exUdve72eZh"
+      "duration_ms": 218893,
+      "name": "El Pistolero - Son, Huapangobanda",
+      "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Se Les Pel\u00f3 Baltazar",
+        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Romero",
+          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Peque\u00f1a de Ojos Brujos",
+      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Se Les Pel\u00f3 Baltazar",
-        "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
+        "name": "Estabas T\u00fa",
+        "url": "https://open.spotify.com/album/7Hs7cWNemcy8goTydz5pW0"
       },
       "artists": [
         {
-          "name": "Hermanos Romero",
-          "url": "https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ"
+          "name": "Banda La Pi\u00f1era",
+          "url": "https://open.spotify.com/artist/4sT9x4j4hhwjHwfiOvL9je"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Peque\u00f1a de Ojos Brujos",
-      "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
+      "duration_ms": 153066,
+      "name": "El Cable",
+      "url": "https://open.spotify.com/track/5DTyBCIE6H6exUdve72eZh"
     },
     {
       "added_at": "2022-08-02 22:31:47",

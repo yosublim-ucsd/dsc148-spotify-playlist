@@ -1,12 +1,12 @@
 {
   "description": "All new, all blues. Cover: Shanice Green",
-  "num_followers": 146104,
+  "num_followers": 146121,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTA0YmM2ZDJiZGYzMjFlZTY5MjQ0ZGY2Yzc5NTA5ZWNmYjE3ZjUx",
+  "snapshot_id": "MCxiNTVlYjcwNjBiZjUyMTRmYjg3MzI5Zjc1MGEzYmQyMDcyMTc0M2I3",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -294,6 +294,10 @@
         {
           "name": "Davis Chris",
           "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
+        },
+        {
+          "name": "Mr Foster",
+          "url": "https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm"
         }
       ],
       "duration_ms": 127687,
@@ -1504,7 +1508,7 @@
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Sunshine Blue",
-        "url": "https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC"
+        "url": "https://open.spotify.com/album/41AYEHSwnXU7Gmrw4DVrKC"
       },
       "artists": [
         {
@@ -1518,7 +1522,7 @@
       ],
       "duration_ms": 160183,
       "name": "Sunshine Blue",
-      "url": "https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw"
+      "url": "https://open.spotify.com/track/6m1g7OX6k0CFK9y9LTFwQc"
     },
     {
       "added_at": "2022-03-25 04:01:00",

@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-287 songs - 16 hr 46 min
+288 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,8 +78,9 @@
 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 | 2021-12-24 |  |
 | [Christmas Wish](https://open.spotify.com/track/7e13koqPdcVWDu1bUYL9V8) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/1ikep3Z5OsNFPi1g1wjHSY) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Come Thou Fount](https://open.spotify.com/track/35yT30p4tPxhckJ8Lbpd6r) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Christmas Songs](https://open.spotify.com/album/5sTk7csBMRu9jPsxnJkev3) | 3:47 | 2021-12-24 |  |
+| [Cowboy for Christmas](https://open.spotify.com/track/0DTmRNSW0Id3I677O6N7Nz) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Cowboy for Christmas](https://open.spotify.com/album/6eYrpF3mlj0kIh3x7iSz9f) | 3:34 | 2023-12-15 |  |
 | [Cowboy for Christmas](https://open.spotify.com/track/2DvJJtARzEyehQmP5uniqa) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Cowboy for Christmas](https://open.spotify.com/album/1KJdfKsBTjic5uaDwLZHOi) | 3:34 | 2021-12-24 | 2023-07-26 |
-| [Cowboy for Christmas](https://open.spotify.com/track/6WGRxJrfvudjqdyspAwwPj) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Cowboy for Christmas \(Mariachi Edition\)](https://open.spotify.com/album/5toWganPTaXDprbBLdvpLY) | 3:34 | 2022-11-15 |  |
+| [Cowboy for Christmas](https://open.spotify.com/track/6WGRxJrfvudjqdyspAwwPj) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Cowboy for Christmas \(Mariachi Edition\)](https://open.spotify.com/album/5toWganPTaXDprbBLdvpLY) | 3:34 | 2022-11-15 | 2023-12-18 |
 | [Dear Mrs\. Claus](https://open.spotify.com/track/1x2ucodSFXBkzZHmkXudqh) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Dear Mrs\. Claus](https://open.spotify.com/album/4u9OfOsGI5iR2EbPe3yjho) | 3:49 | 2021-12-24 | 2022-07-29 |
 | [Dear Mrs\. Claus](https://open.spotify.com/track/6FNwW9pRDdT81mCTtSuGIl) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Dear Mrs\. Claus](https://open.spotify.com/album/0MkhIufxDhyHnpj29ZLwSw) | 3:49 | 2021-12-24 |  |
 | [Deck The Halls](https://open.spotify.com/track/3jwK2Gh4NUm7JtAvyRvxxY) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [Christmas Folk](https://open.spotify.com/album/0KPe2umZm8POle3JPtwRN7) | 1:27 | 2021-12-24 | 2022-11-14 |

@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 95392,
+  "num_followers": 95417,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTFmNzJiNzg1YzRlMDBiMTM4YjA0ZTM5MGU5MTg5NjYzZGMyYjQ2",
+  "snapshot_id": "MCw4YmI2ZjkzNjU3ZDYxNzExMDZjMDBkZmU3NmY5NDI3YThmOWZiMDY5",
   "tracks": [
     {
       "added_at": "2023-10-20 06:09:14",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 227353,
       "name": "CALL ME BACK",
       "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
-        "name": "Take You Down",
-        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
+        "name": "ANTIRIVER",
+        "url": "https://open.spotify.com/album/6XDZyVUQriuOqCERhaqGlj"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 267048,
+      "name": "ANTIRIVER",
+      "url": "https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 212840,
       "name": "Poker (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
-        "name": "ANTIRIVER",
-        "url": "https://open.spotify.com/album/6XDZyVUQriuOqCERhaqGlj"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 267048,
-      "name": "ANTIRIVER",
-      "url": "https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb"
     },
     {
       "added_at": "2023-10-20 06:09:14",

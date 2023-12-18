@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Silvestre y La Naranja en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,336 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,345 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 48 | [Last Maria On Earth](https://open.spotify.com/track/5TczQlpIm3pTgbBFeCbtrR) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Last Maria On Earth](https://open.spotify.com/album/2xWuL3q83WPPeL8QsCdahV) | 2:18 |
 | 49 | [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 3:56 |
 
-Snapshot ID: `MCwzNGU2ZTk5Y2VkMTRkOWY1MWZmZjU3M2I0OTI4ZWZjZGVhMjgxYWQ0`
+Snapshot ID: `MCwzYmZiMDIwOWFlZTUyZGRjNWFhMGU1MmZiZjk2NTk2ODM1YjdiY2Jl`

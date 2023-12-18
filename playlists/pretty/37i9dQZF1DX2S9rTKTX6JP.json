@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 666259,
+  "num_followers": 666338,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODYxYjdhZjNlYzE2ZjM1MGQzNmQ1Zjk5MDQ1MjNmZjcwYTk5NmM2",
+  "snapshot_id": "MCw1ZjBjYjk4NjA0N2U3YmNkYjFmMDU3OWUzODJlMDRkNDU2Yjk5MzMz",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 247388,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/0KxKNPHZpOLvJaT8ATekoT"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 247388,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/0KxKNPHZpOLvJaT8ATekoT"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Running Up That Hill",
-        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
-      },
-      "artists": [
-        {
-          "name": "MEG MYERS",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        }
-      ],
-      "duration_ms": 263716,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Bad Guy",
         "url": "https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 157831,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
+      },
+      "artists": [
+        {
+          "name": "MEG MYERS",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "duration_ms": 263716,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Don't Worry About Me",
+        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0aJexlAjIMTzRARD3KifWc"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 395785,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/43YC4iYmSsYueViJR4dBGA"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Don't Worry About Me",
-        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
-      },
-      "artists": [
-        {
-          "name": "Joey Ramone",
-          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 321040,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "You're Living All Over Me",
         "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 173560,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 321040,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DJ Got Us Fallin in Love",
-        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
-      },
-      "artists": [
-        {
-          "name": "Her Bright Skies",
-          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
-        }
-      ],
-      "duration_ms": 215922,
-      "name": "DJ Got Us Fallin in Love",
-      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Eleanor Rigby",
         "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 177413,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "DJ Got Us Fallin in Love",
+        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
+      },
+      "artists": [
+        {
+          "name": "Her Bright Skies",
+          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
+        }
+      ],
+      "duration_ms": 215922,
+      "name": "DJ Got Us Fallin in Love",
+      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 205341,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Mississippi Queen/Slow Hand",
         "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 152973,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 205341,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2411,26 +2411,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Enter Sandman",
-        "url": "https://open.spotify.com/album/7sIrH5m7rD2dxhZVWehQjH"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/2XGnAEodeIvFvoH60V251s"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "White Room (feat. Jacoby Shaddix)",
         "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 245757,
       "name": "White Room (feat. Jacoby Shaddix)",
       "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/7sIrH5m7rD2dxhZVWehQjH"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/2XGnAEodeIvFvoH60V251s"
     },
     {
       "added_at": "2023-11-17 05:00:00",

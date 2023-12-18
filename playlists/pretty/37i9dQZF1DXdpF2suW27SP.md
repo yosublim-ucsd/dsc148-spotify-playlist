@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,280 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,319 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 7 | [Visão Noturna](https://open.spotify.com/track/3UCqd9sT0C9qDayjFHBQjd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:41 |
 | 8 | [FIM do NADA](https://open.spotify.com/track/4QTYp7oIjHLyRNVjyIPTFQ) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [FIM do NADA](https://open.spotify.com/album/6IIAlFbQI78vlC9ynutpTM) | 4:06 |
 | 9 | [Incondicional](https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Incondicional](https://open.spotify.com/album/2P0qrKBUGVHvzvZLcParmC) | 3:25 |
-| 10 | [Pensamento \(feat\. Vulgo FK & Galdino\)](https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Pensamento \(feat\. Vulgo FK & Galdino\)](https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO) | 2:19 |
+| 10 | [Pensamento](https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Pensamento](https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO) | 2:19 |
 | 11 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
 | 12 | [Pétalas](https://open.spotify.com/track/2HWv8qbMqtymyVqC7zpj4e) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Pétalas](https://open.spotify.com/album/7vVKtqgEOb7H288WcIZvoZ) | 2:56 |
 | 13 | [Quando Me Chamam](https://open.spotify.com/track/4zQPxnVY0paKH5FSQgUPEv) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP) | [Quando Me Chamam](https://open.spotify.com/album/5aQgWokEdJ4aeHpgqijW8Z) | 3:07 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 73 | [Visão de Águia](https://open.spotify.com/track/3gg7mDLfD2eTXEXWq1HwRg) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [James Gold](https://open.spotify.com/artist/0YSEe7GqAE2xdoFSzNRT2y) | [Sonhos & Insónias](https://open.spotify.com/album/6MdSiXKQQZU2CUsAx8h8qI) | 3:00 |
 | 74 | [Scarface](https://open.spotify.com/track/6MqlhwynlRWbmWybRfFbLl) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Scarface](https://open.spotify.com/album/6CA8b74HHcdqY6qMZUyU4C) | 3:07 |
 
-Snapshot ID: `MCw5MjFiMjY4MGZkMTk0NzBjNmUyZjE1MmZjM2VkODFlOTRjZGNkZTUz`
+Snapshot ID: `MCw4NmRlOGNmYjllYTY1NWNiYWQzNzUzYWU5NjM4MTllZDQwZmZmMzk2`

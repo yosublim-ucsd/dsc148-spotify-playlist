@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 37924,
+  "num_followers": 38039,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzBlYTRkYjE2MDhmNGYyYWQ5M2VkNTZhMzhjMDM4MWViM2MwMDlm",
+  "snapshot_id": "MCwzYzYyN2VhYzdmMDNjNDBmYjg2MmRiNmNmZmU1NTZlNGI3YTkyMzE2",
   "tracks": [
     {
       "added_at": "2023-12-08 03:55:14",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
+        "name": "Taru",
+        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        },
+        {
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
+        }
+      ],
+      "duration_ms": 399661,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
+    },
+    {
+      "added_at": "2023-12-08 03:55:14",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -703,26 +723,6 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
-        "name": "Taru",
-        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
-      },
-      "artists": [
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        },
-        {
-          "name": "Simeon",
-          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
-        }
-      ],
-      "duration_ms": 399661,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
-    },
-    {
-      "added_at": "2023-12-08 03:55:14",
-      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
-        "name": "Seeking",
-        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
-      },
-      "artists": [
-        {
-          "name": "Buder Prince",
-          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
-        },
-        {
-          "name": "Ruthes Ma",
-          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
-        }
-      ],
-      "duration_ms": 397355,
-      "name": "Seeking",
-      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
-    },
-    {
-      "added_at": "2023-12-08 03:55:14",
-      "album": {
         "name": "Joker EP",
         "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
       },
@@ -807,18 +787,22 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
-        "name": "Ivar the Boneless",
-        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
+        "name": "Seeking",
+        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
       "artists": [
         {
-          "name": "Gigg Cosco",
-          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
+          "name": "Buder Prince",
+          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
+        },
+        {
+          "name": "Ruthes Ma",
+          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
         }
       ],
-      "duration_ms": 404480,
-      "name": "Ivar the Boneless",
-      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
+      "duration_ms": 397355,
+      "name": "Seeking",
+      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
     },
     {
       "added_at": "2023-12-08 03:55:14",
@@ -843,6 +827,22 @@
       "duration_ms": 413910,
       "name": "Nelisiwe",
       "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
+    },
+    {
+      "added_at": "2023-12-08 03:55:14",
+      "album": {
+        "name": "Ivar the Boneless",
+        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
+      },
+      "artists": [
+        {
+          "name": "Gigg Cosco",
+          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
+        }
+      ],
+      "duration_ms": 404480,
+      "name": "Ivar the Boneless",
+      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
     },
     {
       "added_at": "2023-12-08 03:55:14",

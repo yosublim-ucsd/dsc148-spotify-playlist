@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 198273,
       "name": "Beautiful Friendship",
       "url": "https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV"
@@ -4034,6 +4034,24 @@
       "duration_ms": 281440,
       "name": "Don't Think Twice, It's Alright",
       "url": "https://open.spotify.com/track/2k9INO4dSLTfEDRz7aorQC"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t believe it",
+        "url": "https://open.spotify.com/album/7zDFXo0yXWXzQ8qDypDrdY"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188246,
+      "name": "Don\u2019t believe it",
+      "url": "https://open.spotify.com/track/2CwWhS5c1sDfJYIMKhoxPj"
     },
     {
       "album": {

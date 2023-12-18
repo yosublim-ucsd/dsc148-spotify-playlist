@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Love Letter",
+        "url": "https://open.spotify.com/album/6JzplfUI6Epq8iYJX2LK0g"
+      },
+      "artists": [
+        {
+          "name": "Natalie Meir",
+          "url": "https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170965,
+      "name": "A Love Letter",
+      "url": "https://open.spotify.com/track/5WYHkfV8ZIt9bMPLmSGnBr"
+    },
+    {
+      "album": {
         "name": "A Minute To Myself",
         "url": "https://open.spotify.com/album/2WzMQD7VpeIWG14dBHSTru"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 272000,
       "name": "Alone Time Flies",
       "url": "https://open.spotify.com/track/5zHS7Es44XkrYt76lKxGed"
@@ -1355,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Deep in a dream",
+        "url": "https://open.spotify.com/album/29LFHZB9VadmZSk5FmMWN6"
+      },
+      "artists": [
+        {
+          "name": "Henriette Martin",
+          "url": "https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244791,
+      "name": "Deep in a dream",
+      "url": "https://open.spotify.com/track/3HY9U21IszGUFH5z69pC93"
+    },
+    {
+      "album": {
         "name": "Detour Ahead",
         "url": "https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih"
       },
@@ -1384,7 +1420,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 207998,
       "name": "detour ahead",
       "url": "https://open.spotify.com/track/5EbkSAI9fgAtPsi2uHSKOF"
@@ -2698,7 +2734,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 207969,
       "name": "I loves you Porgy",
       "url": "https://open.spotify.com/track/1BXfufGuarf9zIDlq8Lbud"
@@ -2986,7 +3022,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 303968,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4HL5vpC9UWTYIOQHC0HIAw"
@@ -3299,6 +3335,24 @@
     },
     {
       "album": {
+        "name": "It'll Never Work",
+        "url": "https://open.spotify.com/album/6WoDxo9ME7DIcTAFrtk51W"
+      },
+      "artists": [
+        {
+          "name": "Jan Singh",
+          "url": "https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198121,
+      "name": "It'll Never Work",
+      "url": "https://open.spotify.com/track/7doLEZHmZmm9HSdLooK0qU"
+    },
+    {
+      "album": {
         "name": "Journeying",
         "url": "https://open.spotify.com/album/2wn9Ltw3roFXfB1c0XFkQe"
       },
@@ -3497,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "Lazy Afternoon",
+        "url": "https://open.spotify.com/album/4g3jWHBTgPCUE3zid7T3Mr"
+      },
+      "artists": [
+        {
+          "name": "Uno Blanket",
+          "url": "https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132425,
+      "name": "Lazy Afternoon",
+      "url": "https://open.spotify.com/track/1uaoVLtYpEbCJaQqQ78mbL"
+    },
+    {
+      "album": {
         "name": "Leave The Bottle",
         "url": "https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl"
       },
@@ -3566,6 +3638,24 @@
       "duration_ms": 172102,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K"
+    },
+    {
+      "album": {
+        "name": "Like Never Before",
+        "url": "https://open.spotify.com/album/0zsSxEUcSIkspa42rF7jxB"
+      },
+      "artists": [
+        {
+          "name": "A Little Time",
+          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174204,
+      "name": "Like Never Before",
+      "url": "https://open.spotify.com/track/5Z7B6tRwYQj1h7dpk0LLw1"
     },
     {
       "album": {
@@ -6194,7 +6284,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 322628,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/3xKchgf19FmMrNNxC0SpT1"

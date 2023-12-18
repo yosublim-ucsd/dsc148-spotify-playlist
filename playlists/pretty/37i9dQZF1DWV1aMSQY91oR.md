@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: ARDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,192 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,199 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 35 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 |
 | 36 | [NIGHT WE MET \(feat\. Veronica Elizabeth\)](https://open.spotify.com/track/4zEacEOMttSocwk0HkP7yK) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY), [Veronica Elizabeth](https://open.spotify.com/artist/4F41MoSaTAAARtg7WrLSJf) | [NIGHT WE MET \(feat\. Veronica Elizabeth\)](https://open.spotify.com/album/0TB0Y7sgxun4jaAZjjnrqY) | 2:56 |
 | 37 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
-| 38 | [DISRUPTIVE](https://open.spotify.com/track/1Ym2xT23p7t1tjTLB38f3Q) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [The Old Way](https://open.spotify.com/album/0XgoqCkXhNdmryyPX28haw) | 4:44 |
+| 38 | [DISRUPTIVE](https://open.spotify.com/track/1Ym2xT23p7t1tjTLB38f3Q) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [THE OLD WAY MIXTAPE](https://open.spotify.com/album/0XgoqCkXhNdmryyPX28haw) | 4:44 |
 | 39 | [Life Music](https://open.spotify.com/track/5vUAkIte24KEoS1tFBQ4EY) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Stricklin](https://open.spotify.com/artist/0JCPpCYxezQzwzncFeuw9p), [Speech](https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt) | [Life Music](https://open.spotify.com/album/6zMZREy3EJe363uokNUlw6) | 3:04 |
 | 40 | [Therapy](https://open.spotify.com/track/70lkOeQI0L3bSgj183ZPm5) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Therapy](https://open.spotify.com/album/7rROu8cbJwD6gr3DwcPx07) | 2:08 |
 | 41 | [Strictly](https://open.spotify.com/track/5ynWLIQkVwBsoBJrvYLUYH) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Strictly](https://open.spotify.com/album/0IQQFjjQ8dF8hEdOr3osJf) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Big Dawg](https://open.spotify.com/track/7KSw1EdJfvaBIvq2byLUQu) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W) | [Big Dawg](https://open.spotify.com/album/5nz8dhYiEWwhBS9lE0leoO) | 2:29 |
 | 50 | [Faneto \(Gnar Mix\)](https://open.spotify.com/track/4PgckVL2U4SsdqAUsQLaeR) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Faneto \(Gnar Mix\)](https://open.spotify.com/album/54yGOuFjrVbU5XxAge4rCB) | 2:21 |
 
-Snapshot ID: `MCw1YTBiYjc3NDc2YjkwYjQwZjUwZjM1N2E5NGU2NjZmYzQ2NmZkMWFm`
+Snapshot ID: `MCxkODcwMzQ1NjIzODYxNDRmMjhmYTRlY2IyZmIwNGQ5NTZjYjgzZDhm`

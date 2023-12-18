@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 293988,
+  "num_followers": 294154,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjA4MDkwNmZkY2QxN2Q5ODU5N2U5NTBmMTA0YjU5MzhjY2ZkNzM5",
+  "snapshot_id": "MCw3Zjg5ZGY2M2MxYmYwNTNkNWI3YjMxMTc2MWJhNDdkNWM2MmEyYTgy",
   "tracks": [
     {
       "added_at": "2023-12-04 17:13:40",
@@ -71,22 +71,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Galaxy",
-        "url": "https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcsl\u00fcm Ar\u0131",
-          "url": "https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Indoor Voyager EP",
         "url": "https://open.spotify.com/album/29wjqxriGDiYH1kFs4njxY"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 545813,
       "name": "Tarlabasi - Be Svendsen Remix",
       "url": "https://open.spotify.com/track/4cIDajUp2dMjKiDmDvFDg8"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcsl\u00fcm Ar\u0131",
+          "url": "https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -695,6 +695,30 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
+        "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
+      },
+      "artists": [
+        {
+          "name": "Melih Aydogan",
+          "url": "https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM"
+        },
+        {
+          "name": "Georgia Alexandra",
+          "url": "https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY"
+        }
+      ],
+      "duration_ms": 166416,
+      "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
+      "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Ya Ghayeb",
         "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
-        "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
-      },
-      "artists": [
-        {
-          "name": "Melih Aydogan",
-          "url": "https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM"
-        },
-        {
-          "name": "Georgia Alexandra",
-          "url": "https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz"
-        },
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY"
-        }
-      ],
-      "duration_ms": 166416,
-      "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
-      "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Heatiche (Vip Mix)",
-        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
-      },
-      "artists": [
-        {
-          "name": "Mpirgkel",
-          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Heatiche - Vip Mix",
-      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Ederlezi (feat. Dikanda)",
         "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 244878,
       "name": "Ederlezi (feat. Dikanda)",
       "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+      },
+      "artists": [
+        {
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Nu Vreau",
+        "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 193149,
+      "name": "Nu Vreau",
+      "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Deep Anatolia",
         "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Nu Vreau",
-        "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 193149,
-      "name": "Nu Vreau",
-      "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 219202,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Buddha Bar XVII",
         "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
       },
@@ -1339,22 +1359,18 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
       },
       "artists": [
         {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
         }
       ],
-      "duration_ms": 219202,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1375,22 +1391,6 @@
       "duration_ms": 196909,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/0saYIsX2qEFViag84KF26X"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Moulat Lkhala",
         "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 192000,
       "name": "Moulat Lkhala",
       "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "MIRAN",
         "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 129145,
       "name": "MIRAN",
       "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+      },
+      "artists": [
+        {
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+        }
+      ],
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "My Useless Life",
         "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
       },
@@ -1667,42 +1683,6 @@
       "duration_ms": 141779,
       "name": "My Useless Life",
       "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "CEWRESAMIN",
-        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Cewresamin",
-      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
-      },
-      "artists": [
-        {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
-        }
-      ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1735,6 +1715,26 @@
       "duration_ms": 184421,
       "name": "Free",
       "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "CEWRESAMIN",
+        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Cewresamin",
+      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1775,30 +1775,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "El Hawa",
-        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        },
-        {
-          "name": "Hayam Mansour",
-          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
-        }
-      ],
-      "duration_ms": 347855,
-      "name": "El Hawa",
-      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Nomadic",
         "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
       },
@@ -1827,6 +1803,30 @@
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "El Hawa",
+        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        },
+        {
+          "name": "Hayam Mansour",
+          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
+        }
+      ],
+      "duration_ms": 347855,
+      "name": "El Hawa",
+      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
     },
     {
       "added_at": "2023-12-04 17:13:40",

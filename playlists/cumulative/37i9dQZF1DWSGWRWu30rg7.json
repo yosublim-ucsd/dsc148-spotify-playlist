@@ -48177,6 +48177,24 @@
     },
     {
       "album": {
+        "name": "Urbanisme",
+        "url": "https://open.spotify.com/album/7dilk1N60lItMZSfqUQDME"
+      },
+      "artists": [
+        {
+          "name": "EAR SUN",
+          "url": "https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192994,
+      "name": "Terserah",
+      "url": "https://open.spotify.com/track/7kvNngJtG3bvUXEAZgob1F"
+    },
+    {
+      "album": {
         "name": "Tertawan Hati",
         "url": "https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl"
       },

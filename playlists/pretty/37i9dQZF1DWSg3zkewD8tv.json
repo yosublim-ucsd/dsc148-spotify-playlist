@@ -1,12 +1,12 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 303426,
+  "num_followers": 303490,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDg5NzkwMTkxZGU0MGMzMTMyMTQ5MGY2OTM3YzMwNjEyYjY0NTM5",
+  "snapshot_id": "MCwzYTFjZGIzNDQ4NGJhOWE4MzgwODg2YWM3MmY5MTNlOGYxYzQ4MGQ1",
   "tracks": [
     {
       "added_at": "2022-07-12 10:53:53",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
-    },
-    {
-      "added_at": "2022-07-12 10:53:53",
-      "album": {
         "name": "Tonight Alright",
         "url": "https://open.spotify.com/album/5WqHoLszhaCZHgtTebMx8X"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 205973,
       "name": "Black Betty - Edit",
       "url": "https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Joker And The Thief",
-      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
-    },
-    {
-      "added_at": "2022-07-12 10:53:53",
-      "album": {
         "name": "Honey Bones",
         "url": "https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 237961,
       "name": "Marinade",
       "url": "https://open.spotify.com/track/2OFUamird9l49tMtwf8w3l"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "Joker And The Thief",
+      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
+        "name": "Cargo",
+        "url": "https://open.spotify.com/album/4GDchmJ8oESRJ58cDXvnE0"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/3iA4foXIFpekwHyma7pRs1"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -595,34 +611,18 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Cargo",
-        "url": "https://open.spotify.com/album/4GDchmJ8oESRJ58cDXvnE0"
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
       },
       "artists": [
         {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 229466,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/3iA4foXIFpekwHyma7pRs1"
-    },
-    {
-      "added_at": "2022-07-12 10:53:53",
-      "album": {
-        "name": "Quiet Ferocity",
-        "url": "https://open.spotify.com/album/0RSKnjggldZx2NrKSOD913"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Used to Be in Love",
-      "url": "https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od"
+      "duration_ms": 286785,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -643,42 +643,18 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
+        "name": "Quiet Ferocity",
+        "url": "https://open.spotify.com/album/0RSKnjggldZx2NrKSOD913"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
         }
       ],
-      "duration_ms": 286785,
-      "name": "Knees",
-      "url": "https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD"
-    },
-    {
-      "added_at": "2022-07-12 10:53:53",
-      "album": {
-        "name": "Drinking From The Sun, Walking Under Stars Restrung",
-        "url": "https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        },
-        {
-          "name": "Montaigne",
-          "url": "https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b"
-        },
-        {
-          "name": "Tom Thum",
-          "url": "https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "1955",
-      "url": "https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6"
+      "duration_ms": 222786,
+      "name": "Used to Be in Love",
+      "url": "https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -695,6 +671,26 @@
       "duration_ms": 227640,
       "name": "I Touch Myself",
       "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 221894,
+      "name": "Drop The Game",
+      "url": "https://open.spotify.com/track/3wFFW1B6WAmAFGOwdEOOZR"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -731,26 +727,6 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Lockjaw",
-        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221894,
-      "name": "Drop The Game",
-      "url": "https://open.spotify.com/track/3wFFW1B6WAmAFGOwdEOOZR"
-    },
-    {
-      "added_at": "2022-07-12 10:53:53",
-      "album": {
         "name": "14 Steps To A Better You",
         "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 223233,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/5iAxcPoyxt0HWU5sZToqe5"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
+        "name": "Drinking From The Sun, Walking Under Stars Restrung",
+        "url": "https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        },
+        {
+          "name": "Montaigne",
+          "url": "https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b"
+        },
+        {
+          "name": "Tom Thum",
+          "url": "https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "1955",
+      "url": "https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+        "name": "Tea & Sympathy",
+        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
       },
       "artists": [
         {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Fall At Your Feet",
-      "url": "https://open.spotify.com/track/1Yc2k9b9PNZSB6P5S53SPC"
+      "duration_ms": 151133,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9"
     }
   ],
   "unique_name": "Aussie BBQ",

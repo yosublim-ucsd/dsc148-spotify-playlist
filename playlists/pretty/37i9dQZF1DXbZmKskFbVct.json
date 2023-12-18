@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 33122,
+  "num_followers": 33139,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzgzZmIxYjJmMDViOTIxODNmOWJiYjI3MTA5MTE0NDQyMjBjYzI4",
+  "snapshot_id": "MCwwNTRhMmYwN2I5NzE4YTQxMGYxNDkxMzVjMmViNjBkMWJiMDkwNTFi",
   "tracks": [
     {
       "added_at": "2023-09-08 12:24:34",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Intense Relaxation",
-        "url": "https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8"
-      },
-      "artists": [
-        {
-          "name": "ASMR Glow",
-          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
-        }
-      ],
-      "duration_ms": 447873,
-      "name": "Intense Relaxation Pt.2",
-      "url": "https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Let's Fall Asleep Together",
         "url": "https://open.spotify.com/album/3IXSl8QI6bTxwUyk1wGBL2"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 218000,
       "name": "It's Just You and Me",
       "url": "https://open.spotify.com/track/1wUoJueIuf0OL3jagKRt8D"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Intense Relaxation",
+        "url": "https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8"
+      },
+      "artists": [
+        {
+          "name": "ASMR Glow",
+          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+        }
+      ],
+      "duration_ms": 447873,
+      "name": "Intense Relaxation Pt.2",
+      "url": "https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Sleep-Inducing Haircut",
-        "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
-      },
-      "artists": [
-        {
-          "name": "HeatheredEffect ASMR",
-          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
-        }
-      ],
-      "duration_ms": 253899,
-      "name": "Sleep-Inducing Haircut Pt.3",
-      "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Sending Tingle Sleep Vibes",
         "url": "https://open.spotify.com/album/0hpRT3bt8D7RYRY3MUrBsw"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 363375,
       "name": "Sending Tingle Sleep Vibes Pt.1",
       "url": "https://open.spotify.com/track/4gnmeGl4hzsjsMulvZto9O"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Sleep-Inducing Haircut",
+        "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
+      },
+      "artists": [
+        {
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+        }
+      ],
+      "duration_ms": 253899,
+      "name": "Sleep-Inducing Haircut Pt.3",
+      "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Close Ear to Ear Whispered Countdown to Sleep",
-        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
+        "name": "Measuring and Examining Your Face",
+        "url": "https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4"
       },
       "artists": [
         {
-          "name": "HeatheredEffect ASMR",
-          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+          "name": "Catplant ASMR",
+          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
         }
       ],
-      "duration_ms": 279222,
-      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.4",
-      "url": "https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR"
+      "duration_ms": 376603,
+      "name": "Measuring and Examining Your Face Pt.1",
+      "url": "https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Measuring and Examining Your Face",
-        "url": "https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4"
+        "name": "Close Ear to Ear Whispered Countdown to Sleep",
+        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
       },
       "artists": [
         {
-          "name": "Catplant ASMR",
-          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
         }
       ],
-      "duration_ms": 376603,
-      "name": "Measuring and Examining Your Face Pt.1",
-      "url": "https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf"
+      "duration_ms": 279222,
+      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.4",
+      "url": "https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "7 Terrific Triggers",
-        "url": "https://open.spotify.com/album/5hkatDJDbc75G83lu0nEX6"
-      },
-      "artists": [
-        {
-          "name": "TheOneLilium ASMR",
-          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "7 Terrific Triggers, Pt. 1",
-      "url": "https://open.spotify.com/track/1kmBYv7Hw8zH2CaxTvzzii"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "ASMR Whispers (Binaural)",
         "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 170035,
       "name": "Unintelligble Sleep Whisper Breathing Scratching",
       "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "7 Terrific Triggers",
+        "url": "https://open.spotify.com/album/5hkatDJDbc75G83lu0nEX6"
+      },
+      "artists": [
+        {
+          "name": "TheOneLilium ASMR",
+          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "7 Terrific Triggers, Pt. 1",
+      "url": "https://open.spotify.com/track/1kmBYv7Hw8zH2CaxTvzzii"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
-        "url": "https://open.spotify.com/album/22STdU6oFRzb7wDQAJqKZ3"
+        "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
+        "url": "https://open.spotify.com/album/4HFd8jrnnZ7OUYXWGWggUU"
       },
       "artists": [
         {
-          "name": "WhisperAudios ASMR",
-          "url": "https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G"
+          "name": "Dolce Romy ASMR",
+          "url": "https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n"
         }
       ],
-      "duration_ms": 359356,
-      "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
-      "url": "https://open.spotify.com/track/2WYFQOEtY5Y61kGj9g5KfW"
+      "duration_ms": 302000,
+      "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
+      "url": "https://open.spotify.com/track/7jd2Sqru43mcGjzxlkKWn0"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
-        "url": "https://open.spotify.com/album/4HFd8jrnnZ7OUYXWGWggUU"
+        "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
+        "url": "https://open.spotify.com/album/22STdU6oFRzb7wDQAJqKZ3"
       },
       "artists": [
         {
-          "name": "Dolce Romy ASMR",
-          "url": "https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n"
+          "name": "WhisperAudios ASMR",
+          "url": "https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G"
         }
       ],
-      "duration_ms": 302000,
-      "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
-      "url": "https://open.spotify.com/track/7jd2Sqru43mcGjzxlkKWn0"
+      "duration_ms": 359356,
+      "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
+      "url": "https://open.spotify.com/track/2WYFQOEtY5Y61kGj9g5KfW"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Triggers I'm Wearing",
-        "url": "https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ"
-      },
-      "artists": [
-        {
-          "name": "ASMR Glow",
-          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
-        }
-      ],
-      "duration_ms": 277763,
-      "name": "Triggers I'm Wearing Pt.1",
-      "url": "https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "ASMR Whispers",
         "url": "https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 306320,
       "name": "Gibberish",
       "url": "https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Triggers I'm Wearing",
+        "url": "https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ"
+      },
+      "artists": [
+        {
+          "name": "ASMR Glow",
+          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+        }
+      ],
+      "duration_ms": 277763,
+      "name": "Triggers I'm Wearing Pt.1",
+      "url": "https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z"
     },
     {
       "added_at": "2023-09-08 12:24:34",

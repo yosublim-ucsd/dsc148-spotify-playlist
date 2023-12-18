@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,005 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,001 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 21 | [Los Besos Que Te Di](https://open.spotify.com/track/0tJ0ZGuHUKJIseLFlPlkXC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:29 |
 | 22 | [Max Win](https://open.spotify.com/track/1m5Hh6j7SCZF0G9ZvokJVQ) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ) | [Max Win](https://open.spotify.com/album/3dR7jQWcLTdwVwfLznUBP6) | 1:37 |
 | 23 | [El Ángel Que Te Cuida](https://open.spotify.com/track/2Biy7WyvcK7PWHtv6H23Ms) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [El Ángel Que Te Cuida](https://open.spotify.com/album/6ECJOBHCepwHMuziMDq202) | 2:45 |
-| 24 | [Game Over](https://open.spotify.com/track/5NbsKVtCFu62h3e08FyWje) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [More](https://open.spotify.com/artist/7wJRLm5mjtr5x1EmCzTJx6), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [Good Vice crew](https://open.spotify.com/artist/2S6I4rL5hXSZXoL1mVksgz) | [Drama Vol\. 3](https://open.spotify.com/album/55Sb0QJuaByvQKUTzDWIdG) | 2:24 |
+| 24 | [Game Over](https://open.spotify.com/track/5NbsKVtCFu62h3e08FyWje) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [Good Vice crew](https://open.spotify.com/artist/2S6I4rL5hXSZXoL1mVksgz) | [Drama Vol\. 3](https://open.spotify.com/album/55Sb0QJuaByvQKUTzDWIdG) | 2:24 |
 | 25 | [El Brindis](https://open.spotify.com/track/4Nhr0kpdHUvit3VMZuyJFi) | [EXTi](https://open.spotify.com/artist/4qXoStzSrllHWv0TPl96l1) | [El Brindis](https://open.spotify.com/album/75O142mTv2p39KAtASlDDo) | 2:55 |
 | 26 | [Polvo Sano \- Remix](https://open.spotify.com/track/2Czhk9PBWdo15wrRc7O7iW) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Arez](https://open.spotify.com/artist/7lkOYikCqUXJmw9mvuzojx) | [Polvo Sano \(Remix\)](https://open.spotify.com/album/6rzmnY64zFToExBKAvPkKn) | 4:21 |
 | 27 | [Suero Casero](https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Suero Casero](https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE) | 3:05 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [Macetando](https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Reivete\-se 3.0](https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G) | 2:47 |
 | 61 | [Senti Saudade De Você \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/3eMQlWuVSgGZmAWni7dqOR) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo\)](https://open.spotify.com/album/7BnVrKWFfVy42V2Ozg7Ri6) | 3:08 |
 
-Snapshot ID: `MCw2MDMwMGIzMTg4OWQwMDFmOWUyNzk4ZTViOGM3Mzg1MjQxMmRiZjg1`
+Snapshot ID: `MCwxMzliN2E5NzVkNjlmYWNkZWFkODNlMDA5MDdmZWQxNDVkZTc0MWUw`

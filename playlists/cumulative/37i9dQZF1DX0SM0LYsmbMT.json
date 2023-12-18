@@ -49194,7 +49194,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 155294,
       "name": "Only",
       "url": "https://open.spotify.com/track/5qy2fUx0Qy6Cz3gEYWPX0I"
@@ -75050,6 +75050,32 @@
       "duration_ms": 190909,
       "name": "Warm Flicker",
       "url": "https://open.spotify.com/track/6dnRbWuRHTv3sMKbp2ipW9"
+    },
+    {
+      "album": {
+        "name": "Warm Hugs",
+        "url": "https://open.spotify.com/album/1DFgZNCcuEsVd5y1MuufNP"
+      },
+      "artists": [
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "auream",
+          "url": "https://open.spotify.com/artist/3B71XQsezGxEKo2CXGegvK"
+        },
+        {
+          "name": "Novvel",
+          "url": "https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "Warm Hugs",
+      "url": "https://open.spotify.com/track/7ee3f11jE9RB0t05CHplvk"
     },
     {
       "album": {

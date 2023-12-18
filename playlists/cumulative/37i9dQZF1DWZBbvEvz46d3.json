@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 186666,
       "name": "Boj\u0119 Si\u0119 Kocha\u0107",
       "url": "https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH"
@@ -1460,6 +1460,24 @@
       "duration_ms": 243066,
       "name": "Tr\u00f3jk\u0105ty i Kwadraty",
       "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
+    },
+    {
+      "album": {
+        "name": "Tylko Mnie Kochaj",
+        "url": "https://open.spotify.com/album/2oHewePut3hKygGxcCNaLR"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "Tylko mnie kochaj",
+      "url": "https://open.spotify.com/track/1LrSloV35nuQQ2FoUA1gIk"
     },
     {
       "album": {

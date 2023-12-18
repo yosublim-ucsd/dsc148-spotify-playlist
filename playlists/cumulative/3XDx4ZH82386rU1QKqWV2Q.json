@@ -4607,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "Metadata x feeling low",
+        "url": "https://open.spotify.com/album/7Jlw43aUcktx7mWG9sfC1r"
+      },
+      "artists": [
+        {
+          "name": "Juicy Cola",
+          "url": "https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Metadata x feeling low",
+      "url": "https://open.spotify.com/track/4dijQdKhWZBl0o8fGe5mYN"
+    },
+    {
+      "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
       },

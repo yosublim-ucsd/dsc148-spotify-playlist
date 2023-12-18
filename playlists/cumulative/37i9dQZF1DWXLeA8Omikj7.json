@@ -6958,7 +6958,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 173217,
       "name": "I Remember Maine",
       "url": "https://open.spotify.com/track/1YrV8fAkywtQ1fs4GwGewK"
@@ -15404,6 +15404,32 @@
       "duration_ms": 172441,
       "name": "Try again",
       "url": "https://open.spotify.com/track/01AwwfC3sYLbtmECslpj2O"
+    },
+    {
+      "album": {
+        "name": "Doubles",
+        "url": "https://open.spotify.com/album/0RuPjejOVsVj5xZT9PpY35"
+      },
+      "artists": [
+        {
+          "name": "Duffy x Uhlmann",
+          "url": "https://open.spotify.com/artist/1VGHWqxE1POxh1X8DXvlMr"
+        },
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        },
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138200,
+      "name": "Tumbler",
+      "url": "https://open.spotify.com/track/0sIETaTpa1K66BS4AEtmFr"
     },
     {
       "album": {

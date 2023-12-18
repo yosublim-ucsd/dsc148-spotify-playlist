@@ -2,7 +2,7 @@
 
 ### [Chaos Anthems](https://open.spotify.com/playlist/37i9dQZF1DX8sGALGjOrTu)
 
-> Back to the golden age of the scene\. Cover: Thrice
+> Back to the golden age of the scene\. Cover: Underoath
 
 223 songs - 14 hr 10 min
 

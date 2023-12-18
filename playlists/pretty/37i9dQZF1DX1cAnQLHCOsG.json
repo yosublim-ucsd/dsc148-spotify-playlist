@@ -1,12 +1,12 @@
 {
   "description": "Pa' las posadas y las fiestas, canciones navide\u00f1as con saz\u00f3n mexa. Banda MS en portada. ",
-  "num_followers": 20828,
+  "num_followers": 20898,
   "original_name": "Navidad M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjMxYzE4YjAyNDU3YTViMWJlOWJjYjgyY2Y0ZDJmOTAwZDE3OWYw",
+  "snapshot_id": "MCwyN2I3M2M4MTYwYmNmZDNkNWY2OThiNjI1NTFjNzNiNzI1MzY5M2Ji",
   "tracks": [
     {
       "added_at": "2023-12-08 07:55:54",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Alrededor del \u00c1rbol de Navidad",
-        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 124533,
-      "name": "Alrededor del A\u0301rbol de Navidad",
-      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Navidad Desde El Meritito Norte",
         "url": "https://open.spotify.com/album/1qNZCd4PLDIEEMxWzFF7ia"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 203720,
       "name": "Ven a Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Alrededor del \u00c1rbol de Navidad",
+        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 124533,
+      "name": "Alrededor del A\u0301rbol de Navidad",
+      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
+        "name": "Otra Cartita M\u00e1s",
+        "url": "https://open.spotify.com/album/6LCtkeEP705FyPmllLI2c4"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 192313,
+      "name": "Otra Cartita M\u00e1s",
+      "url": "https://open.spotify.com/track/1HP8HmI94NFtB4tmTWu713"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
         "name": "Santa Claus Lleg\u00f3 A La Ciudad",
         "url": "https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Otra Cartita M\u00e1s",
-        "url": "https://open.spotify.com/album/6LCtkeEP705FyPmllLI2c4"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        }
-      ],
-      "duration_ms": 192313,
-      "name": "Otra Cartita M\u00e1s",
-      "url": "https://open.spotify.com/track/1HP8HmI94NFtB4tmTWu713"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Voy A Pedirle A Santa Claus",
         "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 157042,
       "name": "Voy A Pedirle A Santa Claus",
       "url": "https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk"
-    },
-    {
-      "added_at": "2023-12-08 07:55:54",
-      "album": {
-        "name": "Noche De Paz",
-        "url": "https://open.spotify.com/album/0SjRqr9XBd5GdkK5einqj4"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "Noche De Paz",
-      "url": "https://open.spotify.com/track/4VrxcNo6K6MbBvpmYIbxjr"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -603,6 +587,22 @@
       "duration_ms": 128729,
       "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
+    },
+    {
+      "added_at": "2023-12-08 07:55:54",
+      "album": {
+        "name": "Noche De Paz",
+        "url": "https://open.spotify.com/album/0SjRqr9XBd5GdkK5einqj4"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "Noche De Paz",
+      "url": "https://open.spotify.com/track/4VrxcNo6K6MbBvpmYIbxjr"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -687,38 +687,6 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Un Diciembre Diferente",
-        "url": "https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        }
-      ],
-      "duration_ms": 202970,
-      "name": "Un Diciembre Diferente",
-      "url": "https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU"
-    },
-    {
-      "added_at": "2023-12-08 07:55:54",
-      "album": {
-        "name": "Santa Claus lleg\u00f3 a la Ciudad",
-        "url": "https://open.spotify.com/album/1PujNrSVIfwOcl0mIBpDFZ"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 143186,
-      "name": "Santa Claus llego\u0301 a la ciudad",
-      "url": "https://open.spotify.com/track/7jDYqKfQQezQS6O5qsqATM"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Ya Viene Nochebuena",
         "url": "https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3"
       },
@@ -779,6 +747,38 @@
       "duration_ms": 125066,
       "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
       "url": "https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Un Diciembre Diferente",
+        "url": "https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 202970,
+      "name": "Un Diciembre Diferente",
+      "url": "https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU"
+    },
+    {
+      "added_at": "2023-12-08 07:55:54",
+      "album": {
+        "name": "Santa Claus lleg\u00f3 a la Ciudad",
+        "url": "https://open.spotify.com/album/1PujNrSVIfwOcl0mIBpDFZ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 143186,
+      "name": "Santa Claus llego\u0301 a la ciudad",
+      "url": "https://open.spotify.com/track/7jDYqKfQQezQS6O5qsqATM"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Otra Navidad Sin Ti",
         "url": "https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 190914,
       "name": "Otra Navidad Sin Ti",
       "url": "https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Sonidos de la Navidad",
-        "url": "https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 135120,
-      "name": "Santa Claus Lleg\u00f3 a la Ciudad",
-      "url": "https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Navidad Fiesta Universal",
         "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 181026,
       "name": "En Esta Navidad",
       "url": "https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Sonidos de la Navidad",
+        "url": "https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 135120,
+      "name": "Santa Claus Lleg\u00f3 a la Ciudad",
+      "url": "https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Solo en Navidad",
-        "url": "https://open.spotify.com/album/2iL2vi5LhRDoGhELR0Wnzi"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Solo en Navidad",
-      "url": "https://open.spotify.com/track/3uLNsNrH9pdQhdDjDRSZ9z"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Mi Burrito Sabanero",
         "url": "https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
+        "name": "Solo en Navidad",
+        "url": "https://open.spotify.com/album/2iL2vi5LhRDoGhELR0Wnzi"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Solo en Navidad",
+      "url": "https://open.spotify.com/track/3uLNsNrH9pdQhdDjDRSZ9z"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
         "name": "Sonidos de la Navidad",
         "url": "https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Navidad Para Ti",
-        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-      "url": "https://open.spotify.com/track/7x545dFXOgtfLpXUyjKUoA"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Jingle Bells (Vamos All The Way)",
         "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 155626,
       "name": "Jingle Bells (Vamos All The Way)",
       "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Navidad Para Ti",
+        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+      "url": "https://open.spotify.com/track/7x545dFXOgtfLpXUyjKUoA"
     },
     {
       "added_at": "2023-11-21 19:44:51",

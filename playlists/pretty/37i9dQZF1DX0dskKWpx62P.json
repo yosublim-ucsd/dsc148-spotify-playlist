@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 39229,
+  "num_followers": 39264,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTk2NTI1YzNjNmI2MGY1NmRkYzVjZjI0OGI5ZmIxZjk0ZjFiZDU3",
+  "snapshot_id": "MCw3NTgyODAxYjcxMWM4OGVkODlkYjlmYTY5YTVlMDAwMTE3OGJlM2Rl",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La Chinita del Amor",
-        "url": "https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5"
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
       },
       "artists": [
         {
-          "name": "Yarita Lizeth Yanarico",
-          "url": "https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y"
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
         }
       ],
-      "duration_ms": 353044,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv"
+      "duration_ms": 277603,
+      "name": "Amor Ajeno",
+      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+        "name": "La Chinita del Amor",
+        "url": "https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5"
       },
       "artists": [
         {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+          "name": "Yarita Lizeth Yanarico",
+          "url": "https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y"
         }
       ],
-      "duration_ms": 277603,
-      "name": "Amor Ajeno",
-      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+      "duration_ms": 353044,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -319,38 +319,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Amanda Portales la Novia del Per\u00fa",
-        "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
-      },
-      "artists": [
-        {
-          "name": "Amanda Portales",
-          "url": "https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Vaso de Cristal",
-      "url": "https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Amor, amor",
-        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Otra vez me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Un Sentimiento de Amor",
         "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
       },
@@ -367,6 +335,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Amanda Portales la Novia del Per\u00fa",
+        "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
+      },
+      "artists": [
+        {
+          "name": "Amanda Portales",
+          "url": "https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Vaso de Cristal",
+      "url": "https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Los Errantes",
         "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 192973,
       "name": "Chuquibambinita",
       "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Amor, amor",
+        "url": "https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Otra vez me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+      },
+      "artists": [
+        {
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Challwaschallay",
+      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Papito Por Qu\u00e9 Me Dejaste..!",
         "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 160640,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
-      },
-      "artists": [
-        {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
-        }
-      ],
-      "duration_ms": 254506,
-      "name": "Challwaschallay",
-      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Caminando Y Cantando",
-        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
-      },
-      "artists": [
-        {
-          "name": "Sentimiento Andino",
-          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Valicha",
-      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huayno, Vol. 1",
         "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 159520,
       "name": "Chall Huaschallay",
       "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Caminando Y Cantando",
+        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
+      },
+      "artists": [
+        {
+          "name": "Sentimiento Andino",
+          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Valicha",
+      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
     },
     {
       "added_at": "2022-02-04 14:45:56",

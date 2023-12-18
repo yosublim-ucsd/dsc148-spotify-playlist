@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 93618,
+  "num_followers": 93612,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTc1NTkyYTg2OWM4ZDAwMzZhYWEwNjljNjkyZTYxOTI2NmE4MDFl",
+  "snapshot_id": "MCwxN2MzYjY5NzRiZDJkYWU3NGMxY2UwOTBhNGYyMmFjZjNjNjE5NDNm",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "The Click (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3fhEairiL0g4qfXVUTFtF1"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Burn The House Down",
+      "url": "https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 232573,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "The Click (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3fhEairiL0g4qfXVUTFtF1"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Burn The House Down",
-      "url": "https://open.spotify.com/track/2QKLrgXNQtK2c8QbLRO3XC"
     },
     {
       "added_at": "2022-05-11 15:37:27",

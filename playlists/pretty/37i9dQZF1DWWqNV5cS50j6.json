@@ -1,12 +1,12 @@
 {
   "description": "Not NOT pop. Cover: beabadoobee, Mac Wetha, Amin\u00e9",
-  "num_followers": 697344,
+  "num_followers": 697380,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjJhMWU5OGEzODg3MzRlMDc0MDBmM2NkOThiMDc5YTYzMTk0MWQ3",
+  "snapshot_id": "MCw2ZDQxOGI0MzVmYzEwYmZkNmViN2RlOWMyMDY2NTYzYzdkMjMwZThk",
   "tracks": [
     {
       "added_at": "2023-12-15 14:54:50",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/0bRtjZg3D4IrSJPLj3Jyhu"
     },
     {
-      "added_at": "2023-10-20 14:28:02",
-      "album": {
-        "name": "What Should I Do?",
-        "url": "https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "What Should I Do?",
-      "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
-    },
-    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "locket",
@@ -723,6 +707,22 @@
       "duration_ms": 104850,
       "name": "locket",
       "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
+    },
+    {
+      "added_at": "2023-10-20 14:28:02",
+      "album": {
+        "name": "What Should I Do?",
+        "url": "https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "What Should I Do?",
+      "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
     },
     {
+      "added_at": "2023-10-13 16:01:40",
+      "album": {
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Suburbia",
+      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
+    },
+    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "SUPERNOVA",
@@ -777,22 +793,6 @@
       "url": "https://open.spotify.com/track/55iO3rILBsWI8bMntmW1Mh"
     },
     {
-      "added_at": "2023-10-13 16:01:40",
-      "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Suburbia",
-      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
-    },
-    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "Driver",
@@ -807,22 +807,6 @@
       "duration_ms": 165989,
       "name": "Driver",
       "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "Again?",
-        "url": "https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 172360,
-      "name": "Again?",
-      "url": "https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH"
     },
     {
       "added_at": "2023-12-08 15:51:26",
@@ -843,6 +827,22 @@
       "duration_ms": 128666,
       "name": "Failed at Math(s) - Billy Lemos Remix",
       "url": "https://open.spotify.com/track/7e38DGW5pLhY3rzmChje9m"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Again?",
+        "url": "https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 172360,
+      "name": "Again?",
+      "url": "https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH"
     },
     {
       "added_at": "2023-11-07 18:58:00",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe"
     },
     {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 196075,
-      "name": "Leave With Me",
-      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Alberca / ILY <3",
@@ -1191,6 +1175,22 @@
       "duration_ms": 124437,
       "name": "Alberca",
       "url": "https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 196075,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1321,26 +1321,6 @@
       "url": "https://open.spotify.com/track/1iO9BS2GiqrVjSeYcNTzs2"
     },
     {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        },
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 152058,
-      "name": "Care (feat. Bakar)",
-      "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
-    },
-    {
       "added_at": "2023-11-07 18:58:00",
       "album": {
         "name": "WHY WAIT? (feat. Cisco Swank)",
@@ -1359,6 +1339,26 @@
       "duration_ms": 164467,
       "name": "WHY WAIT? (feat. Cisco Swank)",
       "url": "https://open.spotify.com/track/5IqtrnJJsCKEg1fansrY65"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 152058,
+      "name": "Care (feat. Bakar)",
+      "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "Used To This",
-        "url": "https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi"
-      },
-      "artists": [
-        {
-          "name": "Finn Askew",
-          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "Used To This",
-      "url": "https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
         "name": "nu genesis",
         "url": "https://open.spotify.com/album/0nRwPTtogG3muGAFSw6J2r"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 131471,
       "name": "just sayin (\u3065\uffe3 \u00b3\uffe3)\u3065",
       "url": "https://open.spotify.com/track/4DbvcF5jOZTMOKeczBPPSg"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Used To This",
+        "url": "https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "Used To This",
+      "url": "https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1593,6 +1593,22 @@
       "url": "https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj"
     },
     {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Soft Landing",
+        "url": "https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 262261,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP"
+    },
+    {
       "added_at": "2023-11-07 18:58:00",
       "album": {
         "name": "Front Porch",
@@ -1609,20 +1625,20 @@
       "url": "https://open.spotify.com/track/1y7H87T1kXMWSIAmmzhe4i"
     },
     {
-      "added_at": "2023-09-22 16:42:23",
+      "added_at": "2023-11-07 18:58:00",
       "album": {
-        "name": "Soft Landing",
-        "url": "https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem"
+        "name": "mud on my superstars",
+        "url": "https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP"
       },
       "artists": [
         {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
         }
       ],
-      "duration_ms": 262261,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP"
+      "duration_ms": 201680,
+      "name": "american spirit",
+      "url": "https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1655,22 +1671,6 @@
       "duration_ms": 129735,
       "name": "dngr",
       "url": "https://open.spotify.com/track/2f1RWCZRCiNB2EfPQQSBQG"
-    },
-    {
-      "added_at": "2023-11-07 18:58:00",
-      "album": {
-        "name": "mud on my superstars",
-        "url": "https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "american spirit",
-      "url": "https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg"
     },
     {
       "added_at": "2023-11-07 18:58:00",

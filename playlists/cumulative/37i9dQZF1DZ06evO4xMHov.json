@@ -107,6 +107,32 @@
     },
     {
       "album": {
+        "name": "Cordeiro e Le\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/674qX1cl9y824gBlQdUplj"
+      },
+      "artists": [
+        {
+          "name": "Isaque Valad\u00e3o Bessa",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334360,
+      "name": "Cordeiro e Le\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EGj6g4QFno2quxPOLtMcp"
+    },
+    {
+      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -568,7 +594,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 334738,
       "name": "Me Levantou",
       "url": "https://open.spotify.com/track/3DFCYOjz2ahzyPxkdzZX2w"

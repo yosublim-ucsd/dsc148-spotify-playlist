@@ -1,12 +1,12 @@
 {
   "description": "The top 150 tracks from Fresh Finds R&B in 2023. Cover: <a href=\"https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD?si=tXThmOY1RGeAdeUHnJBI8w\"> JayO </a>. Updates every Wednesday.",
-  "num_followers": 221691,
+  "num_followers": 221840,
   "original_name": "Fresh Finds R&B Best of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjY3MDgwOTk0YzczMzkzODUzODM3Mjc1ZDdkZDE1YTZkNmMwODc4",
+  "snapshot_id": "MCw5YTBiNjI4ZDBjOTRmNjU2OWY1MWRkMTJhNGYwYzgwMDU1YWY4Yzk2",
   "tracks": [
     {
       "added_at": "2023-11-29 12:18:55",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
+        "name": "All Roads",
+        "url": "https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "All Roads",
+      "url": "https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
-        "name": "All Roads",
-        "url": "https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "All Roads",
-      "url": "https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Do You Wanna",
-        "url": "https://open.spotify.com/album/25rLA2BTBErQArmHw75Ra5"
-      },
-      "artists": [
-        {
-          "name": "Binta",
-          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
-        }
-      ],
-      "duration_ms": 166355,
-      "name": "Do You Wanna",
-      "url": "https://open.spotify.com/track/6Gt65Ye6Ra5XrDIz9zJ4Bt"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Glowin 4 Me",
         "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 186130,
       "name": "Strawberry Skies",
       "url": "https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Do You Wanna",
+        "url": "https://open.spotify.com/album/25rLA2BTBErQArmHw75Ra5"
+      },
+      "artists": [
+        {
+          "name": "Binta",
+          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
+        }
+      ],
+      "duration_ms": 166355,
+      "name": "Do You Wanna",
+      "url": "https://open.spotify.com/track/6Gt65Ye6Ra5XrDIz9zJ4Bt"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Smear Campaign",
-        "url": "https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW"
-      },
-      "artists": [
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 208962,
-      "name": "Smear Campaign",
-      "url": "https://open.spotify.com/track/02f4QgR69r033tjAy6hyit"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "While You Were Sleeping",
         "url": "https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Daydreams & Desires",
-        "url": "https://open.spotify.com/album/6zjmxXW71EZwW6G4iZZcJX"
+        "name": "Smear Campaign",
+        "url": "https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW"
       },
       "artists": [
         {
-          "name": "Latir",
-          "url": "https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr"
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
         }
       ],
-      "duration_ms": 247941,
-      "name": "Slow Dance (always & forever)",
-      "url": "https://open.spotify.com/track/3LdOErcbm1zTqRoy0YgBkT"
+      "duration_ms": 208962,
+      "name": "Smear Campaign",
+      "url": "https://open.spotify.com/track/02f4QgR69r033tjAy6hyit"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1127,6 +1111,22 @@
       "duration_ms": 162666,
       "name": "Just Like Her Father",
       "url": "https://open.spotify.com/track/4CdlBxaStYMMIQTsA8jFDk"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Daydreams & Desires",
+        "url": "https://open.spotify.com/album/6zjmxXW71EZwW6G4iZZcJX"
+      },
+      "artists": [
+        {
+          "name": "Latir",
+          "url": "https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "Slow Dance (always & forever)",
+      "url": "https://open.spotify.com/track/3LdOErcbm1zTqRoy0YgBkT"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 257726,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/7qghdTl0t1CSalzT6s9w85"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
         "name": "AQUARIUS",
         "url": "https://open.spotify.com/album/0bzEqzgIeug1z49RboQE8i"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P"
+        "name": "Meet Me Upstrz",
+        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
       },
       "artists": [
         {
-          "name": "Gareth Donkin",
-          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+          "name": "Upstrz",
+          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
         }
       ],
-      "duration_ms": 257726,
-      "name": "Tell Me Something",
-      "url": "https://open.spotify.com/track/7qghdTl0t1CSalzT6s9w85"
+      "duration_ms": 156107,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1287,6 +1303,22 @@
       "duration_ms": 181812,
       "name": "Super",
       "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Look What You've Done",
+        "url": "https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 312727,
+      "name": "Look What You've Done",
+      "url": "https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1343,38 +1375,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Look What You've Done",
-        "url": "https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 312727,
-      "name": "Look What You've Done",
-      "url": "https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
-        "name": "Should Have Cared",
-        "url": "https://open.spotify.com/album/0ETiF2YCpnUMf0A9R8XPao"
-      },
-      "artists": [
-        {
-          "name": "nezsa",
-          "url": "https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Should Have Cared",
-      "url": "https://open.spotify.com/track/0AfGuZU5zRTJVQ48xNseAR"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Lotus Glow",
         "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
       },
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Meet Me Upstrz",
-        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
+        "name": "Should Have Cared",
+        "url": "https://open.spotify.com/album/0ETiF2YCpnUMf0A9R8XPao"
       },
       "artists": [
         {
-          "name": "Upstrz",
-          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+          "name": "nezsa",
+          "url": "https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM"
         }
       ],
-      "duration_ms": 156107,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
+      "duration_ms": 212000,
+      "name": "Should Have Cared",
+      "url": "https://open.spotify.com/track/0AfGuZU5zRTJVQ48xNseAR"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Affirm Me",
-        "url": "https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2"
-      },
-      "artists": [
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Affirm Me",
-      "url": "https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/1ZY0ZWzRCax2vSbLQHZ6Dx"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 224394,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/2haYbo0fqAAZDRkUXVxAUu"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Affirm Me",
+        "url": "https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Affirm Me",
+      "url": "https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Miss Me",
-        "url": "https://open.spotify.com/album/4gaVYOrr1tb5riDi3SciPY"
-      },
-      "artists": [
-        {
-          "name": "Summer Banton",
-          "url": "https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI"
-        }
-      ],
-      "duration_ms": 165713,
-      "name": "Miss Me",
-      "url": "https://open.spotify.com/track/3Su4jLcEDn8NftYg7xhp8p"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Fetish",
         "url": "https://open.spotify.com/album/6NJ7xeYsfNmfNTYvL1gm5N"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 182608,
       "name": "Fetish",
       "url": "https://open.spotify.com/track/5pfAGCLi2iva1TkooCFlPv"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Miss Me",
+        "url": "https://open.spotify.com/album/4gaVYOrr1tb5riDi3SciPY"
+      },
+      "artists": [
+        {
+          "name": "Summer Banton",
+          "url": "https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI"
+        }
+      ],
+      "duration_ms": 165713,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/3Su4jLcEDn8NftYg7xhp8p"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1"
-      },
-      "artists": [
-        {
-          "name": "Amaal Nuux",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Forever & A Day",
         "url": "https://open.spotify.com/album/5kc8fel1fPNOGmoDgRtRhz"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 175522,
       "name": "Forever & A Day",
       "url": "https://open.spotify.com/track/1nwfMW5zWjfjTqYCHJ8xKg"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1"
+      },
+      "artists": [
+        {
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "I WANT U",
-        "url": "https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI"
-      },
-      "artists": [
-        {
-          "name": "Talia Goddess",
-          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
-        }
-      ],
-      "duration_ms": 115652,
-      "name": "I WANT U",
-      "url": "https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "From Uganda With Love",
         "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 147415,
       "name": "SAYIN MY NAME",
       "url": "https://open.spotify.com/track/33VbOW0lg4HTcavV8cJPxr"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "I WANT U",
+        "url": "https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI"
+      },
+      "artists": [
+        {
+          "name": "Talia Goddess",
+          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+        }
+      ],
+      "duration_ms": 115652,
+      "name": "I WANT U",
+      "url": "https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4e3Fl3nn9ApHxMvkHueCWr"
+      },
+      "artists": [
+        {
+          "name": "Shade Jenifer",
+          "url": "https://open.spotify.com/artist/0H4RQd6VmuhhYVIDYUhjDy"
+        }
+      ],
+      "duration_ms": 180577,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/41lilOBIc82q3CvsCiq8D7"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
         "name": "Astronomical (feat. Jords)",
         "url": "https://open.spotify.com/album/52NxmMYnkNAYVFMZRkmbNM"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 209882,
       "name": "Astronomical",
       "url": "https://open.spotify.com/track/66TOWpCGqNqSF1aILu1sNy"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4e3Fl3nn9ApHxMvkHueCWr"
-      },
-      "artists": [
-        {
-          "name": "Shade Jenifer",
-          "url": "https://open.spotify.com/artist/0H4RQd6VmuhhYVIDYUhjDy"
-        }
-      ],
-      "duration_ms": 180577,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/41lilOBIc82q3CvsCiq8D7"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
+        "name": "& what else?",
+        "url": "https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 223023,
+      "name": "10months",
+      "url": "https://open.spotify.com/track/5ASXnZiupJI6wW73JACpwq"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
         "name": "Through the Cycle",
         "url": "https://open.spotify.com/album/2DffcF8Rm4H7VpRpLnndPX"
       },
@@ -2259,22 +2275,6 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "& what else?",
-        "url": "https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 223023,
-      "name": "10months",
-      "url": "https://open.spotify.com/track/5ASXnZiupJI6wW73JACpwq"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
         "name": "Purpose",
         "url": "https://open.spotify.com/album/5udJGpOCnkEbns3BsLY8wu"
       },
@@ -2291,22 +2291,18 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "Noxious",
-        "url": "https://open.spotify.com/album/6MN5gbMx28ev83Oz5SFQXT"
+        "name": "COME AS YOU ARE",
+        "url": "https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2"
       },
       "artists": [
         {
-          "name": "Annisya",
-          "url": "https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA"
-        },
-        {
-          "name": "Ezra Kunze",
-          "url": "https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm"
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
         }
       ],
-      "duration_ms": 235609,
-      "name": "Noxious",
-      "url": "https://open.spotify.com/track/3oEDcTDOFQIwbuzUiTHeEp"
+      "duration_ms": 208941,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/5Tkq57CLLs5yS5a3tAn3PM"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -2331,18 +2327,38 @@
     {
       "added_at": "2023-11-29 12:18:55",
       "album": {
-        "name": "COME AS YOU ARE",
-        "url": "https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2"
+        "name": "Noxious",
+        "url": "https://open.spotify.com/album/6MN5gbMx28ev83Oz5SFQXT"
       },
       "artists": [
         {
-          "name": "C.S. Armstrong",
-          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+          "name": "Annisya",
+          "url": "https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA"
+        },
+        {
+          "name": "Ezra Kunze",
+          "url": "https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm"
         }
       ],
-      "duration_ms": 208941,
-      "name": "ANGEL",
-      "url": "https://open.spotify.com/track/5Tkq57CLLs5yS5a3tAn3PM"
+      "duration_ms": 235609,
+      "name": "Noxious",
+      "url": "https://open.spotify.com/track/3oEDcTDOFQIwbuzUiTHeEp"
+    },
+    {
+      "added_at": "2023-11-29 12:18:55",
+      "album": {
+        "name": "Times It By Two",
+        "url": "https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        }
+      ],
+      "duration_ms": 205743,
+      "name": "Times It By Two",
+      "url": "https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm"
     },
     {
       "added_at": "2023-11-29 12:18:55",
@@ -2547,22 +2563,6 @@
       "duration_ms": 212714,
       "name": "Don't Mean Much",
       "url": "https://open.spotify.com/track/4jopkQYJ4hCMXuDmX7dYvm"
-    },
-    {
-      "added_at": "2023-11-29 12:18:55",
-      "album": {
-        "name": "Times It By Two",
-        "url": "https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk"
-      },
-      "artists": [
-        {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        }
-      ],
-      "duration_ms": 205743,
-      "name": "Times It By Two",
-      "url": "https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm"
     }
   ],
   "unique_name": "Fresh Finds R&B Best of 2023",

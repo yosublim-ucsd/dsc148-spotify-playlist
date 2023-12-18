@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Fred again..
 
-609 songs - 1 day 9 hr 39 min
+610 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 | 2023-07-07 |  |
 | [black and white](https://open.spotify.com/track/7fagIEAIqSPm2h9Bc3WgmL) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [black and white / MY FAULT](https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N) | 4:01 | 2021-08-06 | 2022-07-30 |
 | [Black Weirdo](https://open.spotify.com/track/1EYUDPtXSsrXfKPnMjkgHr) | [Kilamanzego](https://open.spotify.com/artist/14tWfD2wOEhMgqZ3A4PfKT) | [Black Weirdo](https://open.spotify.com/album/6aIvrUPpanm7pI0Xb48ZCR) | 2:17 | 2021-08-06 | 2022-07-22 |
+| [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 | 2023-12-14 |  |
 | [Bliss](https://open.spotify.com/track/5QBB6vLewAk62JW9NiWOOR) | [Slow Hours](https://open.spotify.com/artist/3C1R0cMeIfSFxpAFxCh5yQ) | [Bliss](https://open.spotify.com/album/044FEBDoSpn23zEBgb41E0) | 4:00 | 2021-08-06 | 2023-04-09 |
 | [Bloom](https://open.spotify.com/track/53nRvoOp71cFHGqtx3osGQ) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g) | [Bloom](https://open.spotify.com/album/1qWaMkuLpE4G3ZtdLqyNFz) | 3:07 | 2023-09-15 | 2023-10-06 |
 | [BLOOM](https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 3:17 | 2023-03-10 | 2023-09-16 |
@@ -436,7 +437,7 @@
 | [Roadside Flowers](https://open.spotify.com/track/3jVIeiULOktjgnCdEOViXz) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Roadside Flowers](https://open.spotify.com/album/2gMQoQb6dl8Nj0t628kw2I) | 3:49 | 2021-08-06 | 2022-07-29 |
 | [Rolls Royce](https://open.spotify.com/track/7xONxR36tlMANx4jy2Take) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Rolls Royce](https://open.spotify.com/album/11Q9pGuq7wakcblcdY25gk) | 3:02 | 2021-08-06 | 2023-02-11 |
 | [Romantic Homicide \- Spotify Singles](https://open.spotify.com/track/1P7xMiKHrAl4e5Vbi6NbPf) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Spotify Singles](https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf) | 3:17 | 2023-09-08 |  |
-| [Rosetta](https://open.spotify.com/track/0UyMWzjPTnEaEEIkDtKKBW) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [i know what i'm doing\*](https://open.spotify.com/album/5mJMMs0ZPVEHgbj2S0EreT) | 3:20 | 2021-08-06 |  |
+| [Rosetta](https://open.spotify.com/track/0UyMWzjPTnEaEEIkDtKKBW) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [i know what i'm doing\*](https://open.spotify.com/album/5mJMMs0ZPVEHgbj2S0EreT) | 3:20 | 2021-08-06 | 2023-12-18 |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-02-10 |  |
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-08-06 | 2023-02-11 |
 | [Run Away!](https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Run Away!](https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY) | 3:58 | 2023-06-16 | 2023-08-05 |

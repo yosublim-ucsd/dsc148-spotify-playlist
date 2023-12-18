@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Sum 41, Reneé Rapp & Megan Thee Stallion, ARDN & SiR, FRVRFRIDAY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,420 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,444 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 79 | [Vle Ale](https://open.spotify.com/track/3wYCodl4SwF5ac9AWp6ing) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [SAPONIFICATION](https://open.spotify.com/album/4PKkoEouV2cLjqdsM4pKZ4) | 3:43 |
 | 80 | [Desi Chaal](https://open.spotify.com/track/1GqCgT8N3wKD3Ewoe6gjKJ) | [MayGha](https://open.spotify.com/artist/3QgtFgJHccKeIvacKWNvVQ) | [Desi Chaal](https://open.spotify.com/album/0jgrLIkUV3Slbe8zKEeio5) | 2:51 |
 
-Snapshot ID: `MCwyOTlkNzE4NDM3NmZlZDYyYzY0NGEwMzk1OTdmNjgxMWY1YWI4ODU5`
+Snapshot ID: `MCxlNTQ1M2MwNDZkNDQ2ZjgwMDE3ZWVkNzJkZGUxNjNiNjQ4YWJjNjg5`

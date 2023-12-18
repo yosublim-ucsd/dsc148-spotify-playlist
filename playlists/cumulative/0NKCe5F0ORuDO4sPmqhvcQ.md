@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-561 songs - 1 day 7 hr 37 min
+562 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Let Go](https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Let Go](https://open.spotify.com/album/2itVxfPOWQrHr2X27J4ZhG) | 2:06 | 2022-11-03 |  |
 | [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-12-06 | 2023-01-30 |
 | [Let's Go Dancing](https://open.spotify.com/track/6Ng1n2tzVpVOe3O5c2HaIf) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Let's Go Dancing](https://open.spotify.com/album/0dC3hdukoHUsgbVVCCLLYR) | 2:54 | 2022-06-24 | 2022-09-19 |
+| [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/track/3VFtHmvmClUSOp9kWrx4RA) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/album/3RIW263kHZvpyYk3ZrCALC) | 3:00 | 2023-12-17 |  |
 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 | 2022-01-21 | 2022-02-16 |
 | [Lights Out](https://open.spotify.com/track/6rwhrp7xkm8xTSZOBwIyyv) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF) | [Lights Out](https://open.spotify.com/album/0duIqbe3fyPBpDFDMr2zMv) | 2:06 | 2022-06-24 | 2023-07-20 |
 | [Like A Boulder](https://open.spotify.com/track/5nXj09XZiJCvuw973BVD3q) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Road To Grapeness](https://open.spotify.com/album/4uSVMn4SUFy1Jns7A9cJbS) | 2:24 | 2021-11-19 | 2022-01-08 |

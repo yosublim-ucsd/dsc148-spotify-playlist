@@ -372,6 +372,32 @@
     {
       "album": {
         "name": "Breathe",
+        "url": "https://open.spotify.com/album/2oONqv7gpHaweACmIxM75A"
+      },
+      "artists": [
+        {
+          "name": "Jako Diaz",
+          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
+        },
+        {
+          "name": "Banaati",
+          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/76lTObcVr6Z6e6Tqezk2N1"
+    },
+    {
+      "album": {
+        "name": "Breathe",
         "url": "https://open.spotify.com/album/4ci5K21jFgJHxH4SEIljpx"
       },
       "artists": [
@@ -2928,7 +2954,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 134615,
       "name": "Pineapple Fields",
       "url": "https://open.spotify.com/track/0Azm5zjNW7scVyUnVzFne4"
@@ -3024,7 +3050,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 120480,
       "name": "Rest Of Our Lives",
       "url": "https://open.spotify.com/track/5WnWsehcWT9dKx6SGenpW3"
@@ -3116,6 +3142,28 @@
       "duration_ms": 154731,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
+    },
+    {
+      "album": {
+        "name": "Rollercoaster Ride",
+        "url": "https://open.spotify.com/album/1ZoZQQRYvi0b4GvvARvCL0"
+      },
+      "artists": [
+        {
+          "name": "Horbatso",
+          "url": "https://open.spotify.com/artist/3NiLiVrm3T8AQysXn54ALH"
+        },
+        {
+          "name": "LeXx\u00ecv",
+          "url": "https://open.spotify.com/artist/20JtkFH7pG8FJxd0hL63LS"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128216,
+      "name": "Rollercoaster Ride",
+      "url": "https://open.spotify.com/track/6ZXqY2HuoLBmtWSWJD3zzq"
     },
     {
       "album": {
@@ -3924,10 +3972,32 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 136800,
       "name": "Vision",
       "url": "https://open.spotify.com/track/1IW0NLlWr9y9UmwovDkusx"
+    },
+    {
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/14mj4pvvf0dfROmnUFy0zk"
+      },
+      "artists": [
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        },
+        {
+          "name": "Summer Vibes",
+          "url": "https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178474,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/1zIIS0hBZbCNtxzf4DMVEX"
     },
     {
       "album": {

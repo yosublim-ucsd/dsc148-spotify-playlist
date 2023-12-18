@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadhif Basamalah
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,017 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,046 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Insan Ku Sayang Kini Menghilang](https://open.spotify.com/track/2GfYkX9TttUK1DkbZPOf48) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Insan Ku Sayang Kini Menghilang](https://open.spotify.com/album/6O92aSoDDqXXh9EkRG2FXh) | 5:42 |
 | 50 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 |
 
-Snapshot ID: `MCwyMGM1OTQ0MGI2M2EyMDhhOGNkYjZiMzYyYTVlZDc5MTZjYzkwMjI2`
+Snapshot ID: `MCxiYmQ0ZWZjNjlkOWFkMGNjMGE5YWM0Y2NhNTBiODU4YWU5MjRmYjU3`

@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Apashe
 
-622 songs - 1 day 10 hr 18 min
+623 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Elvis](https://open.spotify.com/track/5vFGLkcPG8JdYAuAVVczGR) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Elvis](https://open.spotify.com/album/5wiSQgZwS0BqLWK8Ly43Yy) | 3:37 | 2022-06-10 | 2022-09-17 |
 | [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 | 2023-06-23 |  |
 | [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-02-24 | 2023-03-11 |
-| [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-03-24 |  |
+| [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-03-24 | 2023-12-18 |
 | [Emptiness](https://open.spotify.com/track/4TPzn1tHoa186Nu2wb68r0) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Emptiness](https://open.spotify.com/album/1v7slg9ssEvd7PFdNjRgmD) | 2:29 | 2022-01-14 | 2022-04-16 |
 | [End It](https://open.spotify.com/track/6xUwKT1nmDl56q98hoE5mV) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [End It](https://open.spotify.com/album/0OtzN5CIeoUyeS4O160PNg) | 3:16 | 2022-06-24 | 2022-09-24 |
 | [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 | 2022-01-14 | 2022-03-12 |
@@ -207,6 +207,7 @@
 | [Friday](https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Friday](https://open.spotify.com/album/4ZW6WBOX3bmgCZUwXAtTLB) | 2:26 | 2022-01-14 | 2022-04-23 |
 | [Friends](https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Friends](https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w) | 2:27 | 2023-03-31 | 2023-08-19 |
 | [Frikitona](https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl) | 2:54 | 2023-08-18 | 2023-12-17 |
+| [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 | 2023-12-08 |  |
 | [Front 2 Back](https://open.spotify.com/track/4XpLpyBFPYzwfIHDGqsKiM) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Kenneth G](https://open.spotify.com/artist/3qqvCq7mFIy9UfaXoj5w1w) | [Front 2 Back](https://open.spotify.com/album/6G7EF7pkQ3slh9i2020cY7) | 3:34 | 2022-11-18 | 2023-02-25 |
 | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El) | [FOMO](https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR) | 3:31 | 2023-01-06 | 2023-04-29 |
 | [Fuck Right Off](https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Fuck Right Off](https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv) | 2:39 | 2023-02-24 | 2023-12-02 |

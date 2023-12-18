@@ -4,7 +4,7 @@
 
 > Les tubes pop pour toute la famille
 
-87 songs - 4 hr 34 min
+89 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [On écrit sur les murs](https://open.spotify.com/track/5LaNypZh0fQMMy70pClm8d) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs) | [Un monde meilleur](https://open.spotify.com/album/1DQrG1a1nPvBLkVw9PfldJ) | 2:54 | 2023-04-21 |  |
 | [Qui dit mieux ?](https://open.spotify.com/track/0GvZFuvOSzCRn6X0463HIn) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie \(Edition Collector\)](https://open.spotify.com/album/0Pvh8RvoASsQlhd3YI0ivh) | 2:54 | 2023-04-21 |  |
 | [RITMO](https://open.spotify.com/track/2gVLpzfM3ZiSXZY8fFgW2a) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [RITMO](https://open.spotify.com/album/77T4L4KT2y6XL0Mx9vJ0Cz) | 3:23 | 2023-04-21 |  |
-| [Roi](https://open.spotify.com/track/5PBSQUx6KNuKN4nLT21EKy) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Kingdom](https://open.spotify.com/album/0ckD7WAQ7hYev0CXcsD3jD) | 2:58 | 2023-04-21 |  |
+| [Roi](https://open.spotify.com/track/0rsVzwUU7OGXmUw29KpV33) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Héritage](https://open.spotify.com/album/5POHVNXNPHewtup35U72vh) | 2:58 | 2023-04-21 |  |
+| [Roi](https://open.spotify.com/track/5PBSQUx6KNuKN4nLT21EKy) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Kingdom](https://open.spotify.com/album/0ckD7WAQ7hYev0CXcsD3jD) | 2:58 | 2023-04-21 | 2023-12-18 |
 | [Roule](https://open.spotify.com/track/3qbX096fmueH0VCrhh47mY) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie](https://open.spotify.com/album/4oyz1B8KiCj3WVk1ruTlbw) | 3:08 | 2023-04-21 |  |
 | [Savage Love](https://open.spotify.com/track/18Q6eRrnN2AGuE3XiprbNg) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 18](https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO) | 2:51 | 2023-04-21 |  |
 | [Say So](https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Say So](https://open.spotify.com/album/2SMukJD6ePiMxdKTe6ZoPf) | 3:07 | 2023-04-21 |  |
@@ -84,7 +85,8 @@
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2023-04-21 |  |
 | [Timber](https://open.spotify.com/track/5OKuFJwEG73Ni7TXbCMZKW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 26](https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj) | 3:10 | 2023-04-21 |  |
 | [Toi + moi](https://open.spotify.com/track/17C63t1Xd3jBW6On3Uo6tw) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs) | [Un monde meilleur](https://open.spotify.com/album/1DQrG1a1nPvBLkVw9PfldJ) | 3:06 | 2023-04-21 |  |
-| [Tom](https://open.spotify.com/track/4sVHVVJgctfpUn1r37HbLp) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Contre soirée](https://open.spotify.com/album/5onZNDwuICw9GT4tUlFvt9) | 3:31 | 2023-04-21 |  |
+| [Tom](https://open.spotify.com/track/09PHpUvy0Rjl9dZiEEEYTr) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Héritage](https://open.spotify.com/album/5POHVNXNPHewtup35U72vh) | 3:31 | 2023-04-21 |  |
+| [Tom](https://open.spotify.com/track/4sVHVVJgctfpUn1r37HbLp) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Contre soirée](https://open.spotify.com/album/5onZNDwuICw9GT4tUlFvt9) | 3:31 | 2023-04-21 | 2023-12-18 |
 | [Tout le bonheur du monde \(feat\. Inaya\)](https://open.spotify.com/track/54LltxIjaYmwtp7OtRppKb) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Inaya](https://open.spotify.com/artist/3ssxd1G91AbaoMrg9vA3TY) | [Tout le bonheur du monde](https://open.spotify.com/album/0Fv7WQcI5bgNXNgu4IooPC) | 3:21 | 2023-04-21 |  |
 | [Tout le monde veut devenir un cat](https://open.spotify.com/track/5tapvvgZNHjLdf4vibw95f) | [Kids Love Disney](https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX), [Lévanah Solomon](https://open.spotify.com/artist/2EuNgNFjFo6iboDB1y9Qqc), [Ismaël El Marjou](https://open.spotify.com/artist/2hKMbLjhkxbw6bRCA5Iva4) | [Kids Love Disney](https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA) | 3:48 | 2023-04-21 |  |
 | [Trampoline](https://open.spotify.com/track/0zgYADHtKBRxMYqsjCu3hm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Trampoline](https://open.spotify.com/album/4nwy1TZpVSYvtPeKy6RKmP) | 3:05 | 2023-04-21 |  |

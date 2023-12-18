@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 352730,
+  "num_followers": 352945,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzY0Y2ViODI5ZWNmYTlkYzIyZWIwMmE2N2MwMjNmMGVlMTRiOTMw",
+  "snapshot_id": "MCw5MTQ3N2JjMzY4ZGI0ZTY3MzdiY2YxMzZlY2Q3ZTBjMzE3OTY1M2Y3",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "dropitlikeitshot!",
-        "url": "https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6"
-      },
-      "artists": [
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        },
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "Crazy Mano",
-          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
-        }
-      ],
-      "duration_ms": 105486,
-      "name": "dropitlikeitshot!",
-      "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "When We Come Alive",
         "url": "https://open.spotify.com/album/3SLVzlIVvgjPdRqkc58WA1"
       },
@@ -1163,6 +1139,30 @@
       "duration_ms": 180024,
       "name": "When We Come Alive",
       "url": "https://open.spotify.com/track/0g2XaTyNihXISfqnhuv7HH"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "dropitlikeitshot!",
+        "url": "https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "duration_ms": 105486,
+      "name": "dropitlikeitshot!",
+      "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Because The Night",
-        "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 201330,
-      "name": "Because The Night",
-      "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Ecstasy Of Soul",
         "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 238400,
       "name": "Ecstasy Of Soul",
       "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Because The Night",
+        "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 201330,
+      "name": "Because The Night",
+      "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Annihilate",
         "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
       },
@@ -1351,30 +1367,6 @@
       "duration_ms": 165000,
       "name": "Annihilate",
       "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Human Error",
-        "url": "https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5"
-      },
-      "artists": [
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        },
-        {
-          "name": "Danimal",
-          "url": "https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj"
-        },
-        {
-          "name": "Influencerz",
-          "url": "https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Human Error",
-      "url": "https://open.spotify.com/track/2GELXkWZuBBSfpztDWC1qP"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1399,18 +1391,26 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+        "name": "Human Error",
+        "url": "https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5"
       },
       "artists": [
         {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Danimal",
+          "url": "https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj"
+        },
+        {
+          "name": "Influencerz",
+          "url": "https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN"
         }
       ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+      "duration_ms": 142400,
+      "name": "Human Error",
+      "url": "https://open.spotify.com/track/2GELXkWZuBBSfpztDWC1qP"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Against The Wall",
-        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
-      },
-      "artists": [
-        {
-          "name": "1111",
-          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
-        },
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        }
-      ],
-      "duration_ms": 205061,
-      "name": "Against The Wall",
-      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "SUBMARINE",
         "url": "https://open.spotify.com/album/3t3RRbPtY3llgrDrI8ceLC"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 203750,
       "name": "SUBMARINE",
       "url": "https://open.spotify.com/track/2ajKYSNnU7l89EJV8job8k"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Against The Wall",
+        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        },
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "Against The Wall",
+      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "RIDE OR DIE",
         "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 189855,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "One Day Left",
         "url": "https://open.spotify.com/album/6Gcq9YBTwpOsZxKXtZosrG"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 132004,
       "name": "MBAPP\u00c9 (Restricted & Sunset Bros Remix) [feat. JAY1 & KAHUKX]",
       "url": "https://open.spotify.com/track/63VejDiw2j8qvNIHWcAVwN"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Better Off Alone (Hardstyle)",
-        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        },
-        {
-          "name": "LEOJ",
-          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Better Off Alone - Hardstyle",
-      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/1W4Ubpu9smoA6FK1AjM5Ui"
       },
@@ -2071,6 +2051,26 @@
       "duration_ms": 155076,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2d5KjsVCU7ryRfvEtVdTIh"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Better Off Alone (Hardstyle)",
+        "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
+      },
+      "artists": [
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        },
+        {
+          "name": "LEOJ",
+          "url": "https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Better Off Alone - Hardstyle",
+      "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
     }
   ],
   "unique_name": "Bass Explosion",

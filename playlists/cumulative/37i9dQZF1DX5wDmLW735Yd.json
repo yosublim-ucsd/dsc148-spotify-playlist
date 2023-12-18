@@ -8115,6 +8115,24 @@
     },
     {
       "album": {
+        "name": "Future Forever",
+        "url": "https://open.spotify.com/album/6fSBP82AFffzBrmSIQGTIg"
+      },
+      "artists": [
+        {
+          "name": "QZB",
+          "url": "https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248114,
+      "name": "Riot Gear Romance",
+      "url": "https://open.spotify.com/track/1hWd6fQfgM9kmDHR2XoVog"
+    },
+    {
+      "album": {
         "name": "Riot Gear Romance",
         "url": "https://open.spotify.com/album/2EFKBPxVQcp4EwmlOzws21"
       },
@@ -8126,7 +8144,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 248114,
       "name": "Riot Gear Romance",
       "url": "https://open.spotify.com/track/3LIQzjfcbhRGZmP9DfiF6T"

@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 573214,
+  "num_followers": 573265,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTIwOTEyNmE4MGNmMTk0OWFkMWIxZTgwOTBmOTNjYzM1NDRlYzMw",
+  "snapshot_id": "MCw4M2EyYjFlZjhmNzE2NjM1MThjYzFhMmI5OGZkMzkyMjQwMThiMWI4",
   "tracks": [
     {
       "added_at": "2023-12-06 09:41:58",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "Ruang Tunggu",
-        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 329865,
-      "name": "Di Atas Meja",
-      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
         "name": "Fly Me to the Moon",
         "url": "https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 155402,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "Ruang Tunggu",
+        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 329865,
+      "name": "Di Atas Meja",
+      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
     },
     {
       "added_at": "2023-12-06 09:41:58",

@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 325885,
+  "num_followers": 326060,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzFmNzlkZGMxMWE1NGZlY2NmMWNhNjUwZjkyMTQyMzM1ZTNjMDYw",
+  "snapshot_id": "MCxmYmIwMWExYjE4NWU0Nzg5YzUzZDdiODEyZjEwMjRhODVlOGFmZWUw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Big Fun",
-      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 392293,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Big Fun",
+      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Beyond The Mix",
-        "url": "https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD"
+        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
       },
       "artists": [
         {
-          "name": "Frankie Knuckles",
-          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
+          "name": "Aly-Us",
+          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
         }
       ],
-      "duration_ms": 417706,
-      "name": "The Whistle Song",
-      "url": "https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1"
+      "duration_ms": 382373,
+      "name": "Follow Me (Club Mix)",
+      "url": "https://open.spotify.com/track/3CIg59v1inc5vss6GIvDTn"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
+        "name": "Beyond The Mix",
+        "url": "https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD"
       },
       "artists": [
         {
-          "name": "Aly-Us",
-          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
+          "name": "Frankie Knuckles",
+          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
         }
       ],
-      "duration_ms": 382373,
-      "name": "Follow Me (Club Mix)",
-      "url": "https://open.spotify.com/track/3CIg59v1inc5vss6GIvDTn"
+      "duration_ms": 417706,
+      "name": "The Whistle Song",
+      "url": "https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1"
     },
     {
       "added_at": "2023-08-18 04:00:00",

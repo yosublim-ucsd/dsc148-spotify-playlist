@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,180 likes - 176 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,178 likes - 176 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 4 | [Basement Party](https://open.spotify.com/track/51aHgbHQoLHS2t10mJhWHg) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Basement Party](https://open.spotify.com/album/1NiUXeZA7qJoy3Yc0Q4NbU) | 4:04 |
 | 5 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 | 6 | [Find My Balance](https://open.spotify.com/track/504gjXtirBdrvFv7NATVmU) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Find My Balance](https://open.spotify.com/album/51USTT6ydedr5TKwT41XqN) | 2:58 |
-| 7 | [Picky \(Emperose Remix\)](https://open.spotify.com/track/7urTtB7cgpOpBdkCx4uqrO) | [A boy named ROSA.](https://open.spotify.com/artist/0yTFQZGr5jAeddtiWxXeSF), [Emperose](https://open.spotify.com/artist/01yuOzLV9I2GdEQQ4O0Vza) | [Picky: The Remixes](https://open.spotify.com/album/7bzD4imisxHfWLU9fuauBt) | 3:20 |
+| 7 | [Picky \(Emperose Remix\)](https://open.spotify.com/track/7urTtB7cgpOpBdkCx4uqrO) | [A boy named ROSA.](https://open.spotify.com/artist/0yTFQZGr5jAeddtiWxXeSF), [Emperose](https://open.spotify.com/artist/0BRMPrv2B9YgQuYQ3H4fja) | [Picky: The Remixes](https://open.spotify.com/album/7bzD4imisxHfWLU9fuauBt) | 3:20 |
 | 8 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
 | 9 | [Love is Alive \- Original](https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Daniël von Piekartz](https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn) | [Love Is Alive \(Original\)](https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh) | 5:31 |
 | 10 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 175 | [POOLSIDE](https://open.spotify.com/track/0xlWwwUYRWSbCRfo2ouHPJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SPRING: POOLSIDE x LAGOON](https://open.spotify.com/album/5bJYoNzkHpbXYWl694WGmI) | 2:41 |
 | 176 | [All Made Up](https://open.spotify.com/track/3L5dOP6Ihkg8dxkMzxJUuc) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4jCnOBRxxucPjnNMr1NYGK) | 4:10 |
 
-Snapshot ID: `MCw4MzYzNDIxNTBiZWFiNGE1NDg5NTI1Zjg1MmJhMjJiYzhkM2M1Mjhh`
+Snapshot ID: `MCw4ZmQyMzhmMGY5YjQ3OWY3MjhlODMyN2I5MzNiMWIxOTgzOTg4M2Ix`

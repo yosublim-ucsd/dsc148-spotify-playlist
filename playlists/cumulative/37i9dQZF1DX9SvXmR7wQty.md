@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lost
 
-2,236 songs - 4 day 23 hr 26 min
+2,237 songs - 4 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Beaucoup de plaisir \- Version du film \- Live dans le plaisir](https://open.spotify.com/track/6L8LOAFRHFVJphGsxxgFyq) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Live dans le plaisir](https://open.spotify.com/album/4fk4M6j43vsmr33acwTg1o) | 3:12 | 2021-12-31 | 2022-01-22 |
 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 | 2022-06-18 |
 | [Beaux rêves \(feat\. Prinzly\)](https://open.spotify.com/track/1c6lF0X3r1gOf59EaK3l8h) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu), [Prinzly](https://open.spotify.com/artist/6CecCbMlZKpr8sovW5ucq1) | [Beaux rêves \(feat\. Prinzly\)](https://open.spotify.com/album/1YZsPGjKitvVdMJYndODiK) | 3:05 | 2023-10-20 | 2023-10-22 |
+| [Bectance](https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc) | [Mayo](https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Yoski 2](https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd) | 2:56 | 2023-12-15 |  |
 | [Belladonna](https://open.spotify.com/track/2R54g6Hs3JIjAvm8xwgQQ7) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Belladonna](https://open.spotify.com/album/3a5ZeJ1LQK4JVa14NAo17Z) | 2:34 | 2022-06-17 | 2022-06-19 |
 | [Belladonna](https://open.spotify.com/track/2VyaXdZuSphXPpgAcUMfY9) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Belladonna](https://open.spotify.com/album/3J9ANviNFKUfWgvAPSDHIp) | 2:34 | 2022-06-18 | 2022-07-02 |
 | [Belle \(Okok\)](https://open.spotify.com/track/6QzDu1PBj7po6J7uaJZLIk) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Belle \(Okok\)](https://open.spotify.com/album/4QKs5sT7TukheWma0cSvNL) | 1:58 | 2023-02-24 | 2023-03-11 |
@@ -2083,7 +2084,7 @@
 | [Un jour ou l'autre](https://open.spotify.com/track/6w8xHbn3VHOQBzJ85majul) | [Pete](https://open.spotify.com/artist/40gbkGuMLWOxH0oGvH3MXk), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Un jour ou l'autre](https://open.spotify.com/album/2F6noOdaLKnBxtl78geaLW) | 3:02 | 2022-05-13 | 2022-05-28 |
 | [Un kid](https://open.spotify.com/track/2E1FCN9N6vNFejyksglQnZ) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Un kid](https://open.spotify.com/album/31rtUB4ct0i4tXJV0w6gPp) | 2:53 | 2022-11-18 | 2022-12-03 |
 | [un million](https://open.spotify.com/track/3l2sADKbSEpg1F72iiZV6j) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [un million](https://open.spotify.com/album/2ltFJFhFDJmBvCtDdVyWnF) | 3:23 | 2023-01-13 | 2023-01-28 |
-| [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 | 2023-10-20 |  |
+| [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 | 2023-10-20 | 2023-12-18 |
 | [Un murmure dans le décor](https://open.spotify.com/track/2ojnBSChKn8i7EsjVfNiJb) | [Sébastien Lacombe](https://open.spotify.com/artist/2MZsADwBuFuSv6eRNIQm1t) | [Un murmure dans le décor](https://open.spotify.com/album/0Mw4CysbKjPrN1DqDXPKFo) | 3:22 | 2022-03-25 | 2022-04-09 |
 | [Un Palmier Dans La Neige](https://open.spotify.com/track/5dviT0SFLaLbLcy9SpRt90) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Wuachuma](https://open.spotify.com/artist/6aD1s6Aopus9Yguowm39qJ) | [Un Palmier Dans La Neige](https://open.spotify.com/album/01ChPqyfVKKqEATEjPvA7d) | 7:00 | 2022-08-19 | 2022-09-03 |
 | [Un Peu d'Amour](https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Un Peu d'Amour](https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce) | 5:31 | 2022-05-13 | 2022-05-20 |

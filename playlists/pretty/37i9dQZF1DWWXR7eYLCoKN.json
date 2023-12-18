@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 135809,
+  "num_followers": 135939,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjhlZWY1OWU2YzkxZmVhOGZiZTZhYTQ5YTg1ODZkZDgxYTI5NzRi",
+  "snapshot_id": "MCxkMjU1YzU0MDgxNzg2NTEzNTc1MDM5MDg1MjcxMzg4M2JjY2FmOTAx",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -39,22 +39,6 @@
       "duration_ms": 144760,
       "name": "Disritmia",
       "url": "https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "A Voz e o Viol\u00e3o",
-        "url": "https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Flor de Lis",
-      "url": "https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -159,6 +143,22 @@
       "duration_ms": 228132,
       "name": "Sonho Meu",
       "url": "https://open.spotify.com/track/5Ikos3uiBfPYAf7EZfz8t3"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "A Voz e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Flor de Lis",
+      "url": "https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Mil E Uma Noites De Bagd\u00e1",
-        "url": "https://open.spotify.com/album/1dkIsxo7tY3mG1dS3N5p8S"
-      },
-      "artists": [
-        {
-          "name": "Jorge Mautner",
-          "url": "https://open.spotify.com/artist/6IyBL2HQ7NB6V6xqgl3jBg"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Samba Jambo",
-      "url": "https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Escumalha",
         "url": "https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 311053,
       "name": "Tempo Velho",
       "url": "https://open.spotify.com/track/0Roj7QJeVqNO5ArpKGw5fR"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Mil E Uma Noites De Bagd\u00e1",
+        "url": "https://open.spotify.com/album/1dkIsxo7tY3mG1dS3N5p8S"
+      },
+      "artists": [
+        {
+          "name": "Jorge Mautner",
+          "url": "https://open.spotify.com/artist/6IyBL2HQ7NB6V6xqgl3jBg"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Samba Jambo",
+      "url": "https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
+      },
+      "artists": [
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "duration_ms": 140706,
+      "name": "Saudosa Maloca",
+      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Elis Regina",
         "url": "https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 162400,
       "name": "Tiro Ao \u00c1lvaro",
       "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
-      },
-      "artists": [
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Saudosa Maloca",
-      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Gilbertos Samba",
-        "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Eu Vim da Bahia",
-      "url": "https://open.spotify.com/track/2rBViBV2IvjhQqPH6xExki"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Linha do Equador",
         "url": "https://open.spotify.com/album/0pDT0Yds1aUBhnTfkxcqP4"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 156031,
       "name": "Samba a Dois",
       "url": "https://open.spotify.com/track/3BgkR272hquoaluTNwfcKB"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Gilbertos Samba",
+        "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Eu Vim da Bahia",
+      "url": "https://open.spotify.com/track/2rBViBV2IvjhQqPH6xExki"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
+        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cozza",
+          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Tristeza P\u00e9 No Ch\u00e3o",
+      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Sarav\u00e1, Paz e Bem",
         "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 223799,
       "name": "Aprendi a Ser Feliz",
       "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 196808,
-      "name": "Samba de Amanda e T\u00e9",
-      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
-        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cozza",
-          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Tristeza P\u00e9 No Ch\u00e3o",
-      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
         "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 120000,
       "name": "Nervos de A\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 196808,
+      "name": "Samba de Amanda e T\u00e9",
+      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
     },
     {
       "added_at": "2023-11-10 03:01:00",

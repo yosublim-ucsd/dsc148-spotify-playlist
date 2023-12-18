@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-373 songs - 23 hr 40 min
+374 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [SHIVER](https://open.spotify.com/track/7H885hNxbt9soYD43tT0OX) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [SHIVER](https://open.spotify.com/album/6HZ2cujvIP07kqhRDn3am1) | 2:58 | 2021-02-26 | 2022-04-21 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2019-11-19\* | 2020-12-11 |
 | [Showers](https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Showers](https://open.spotify.com/album/2BOX9sptUqhm34flUnHuM0) | 3:40 | 2021-02-06 | 2022-07-29 |
-| [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 | 2023-09-29 |  |
+| [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 | 2023-09-29 | 2023-12-18 |
 | [Skin](https://open.spotify.com/track/07iFZgCmzSuGFlKG3ftJX3) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Skin](https://open.spotify.com/album/4Uq7ZKZPs6EXwRzc69dnVX) | 3:45 | 2020-12-11 | 2022-07-29 |
 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 | 2022-07-06 |  |
 | [Skin Game](https://open.spotify.com/track/4qgNoDm7QIpbtt3qB96RzY) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 4:25 | 2020-12-22 | 2022-05-07 |
@@ -321,6 +321,7 @@
 | [Sugar](https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:56 | 2023-07-21 |  |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-10 |  |
 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2021-07-30 | 2023-10-07 |
+| [summer bruises](https://open.spotify.com/track/5XvOSbgWIPOO47Eg6qvY6e) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/21OArPDhU4QZ3ztihGbsi5) | 2:54 | 2023-07-21 |  |
 | [Summer of 99](https://open.spotify.com/track/3u9UGiselHBzeiLaxEw1sG) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Summer of 99](https://open.spotify.com/album/4FRR0DmKDiQZZ7j4e1XxrS) | 5:02 | 2020-09-19 | 2020-12-22 |
 | [Sundried](https://open.spotify.com/track/5tJghWo8o7FYLtRDFpRg3R) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Sundried](https://open.spotify.com/album/2wsd0aPGO1PEJJZ583Cs41) | 3:20 | 2019-11-19\* | 2020-08-09 |
 | [Survival Of The Strongest](https://open.spotify.com/track/78xMNvfmAiTAtZsJLqSZ6v) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5) | [The Audition](https://open.spotify.com/album/6a7WtgHQTCUKXkoWKEzZBK) | 4:10 | 2021-08-11 | 2022-07-29 |

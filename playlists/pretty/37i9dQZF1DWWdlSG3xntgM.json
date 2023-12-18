@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 36326,
+  "num_followers": 36335,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTc5NmYzNmNiY2Q2YjJhNjUwZDQ1ZjEwOGEwMGM2ZjUwMjgzZTNk",
+  "snapshot_id": "MCxmZTJkODZiYTc0MTE3NzFjNzM2ZWZlNThjZTM4NmIxYmU5NmE4NjEw",
   "tracks": [
     {
       "added_at": "2023-12-14 05:44:24",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-12-14 05:44:24",
       "album": {
+        "name": "Chuy\u1ec7n Hoa Sim",
+        "url": "https://open.spotify.com/album/36j8GiZT7sD9MiZQs5gGhC"
+      },
+      "artists": [
+        {
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
+        }
+      ],
+      "duration_ms": 339133,
+      "name": "Chuy\u1ec7n Hoa Sim",
+      "url": "https://open.spotify.com/track/65eMfaSRU0P0RuYIK84XXV"
+    },
+    {
+      "added_at": "2023-12-14 05:44:24",
+      "album": {
         "name": "Giao Linh - Tu\u1ea5n V\u0169 - \u0110\u00f4i m\u1eaft ng\u01b0\u1eddi x\u01b0a",
         "url": "https://open.spotify.com/album/66OokQWhqEW3dQTZemuyqN"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 269133,
       "name": "\u0110\u01b0\u1eddng t\u00ecnh \u0111\u00f4i ng\u1ea3",
       "url": "https://open.spotify.com/track/2jCpS5IdAXdDnUeUfhXhOu"
-    },
-    {
-      "added_at": "2023-12-14 05:44:24",
-      "album": {
-        "name": "Chuy\u1ec7n Hoa Sim",
-        "url": "https://open.spotify.com/album/36j8GiZT7sD9MiZQs5gGhC"
-      },
-      "artists": [
-        {
-          "name": "Nh\u01b0 Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
-        }
-      ],
-      "duration_ms": 339133,
-      "name": "Chuy\u1ec7n Hoa Sim",
-      "url": "https://open.spotify.com/track/65eMfaSRU0P0RuYIK84XXV"
     },
     {
       "added_at": "2023-12-14 05:44:24",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-12-14 05:44:24",
       "album": {
-        "name": "Tuy\u1ec3n T\u1eadp C\u00e1c Ca Kh\u00fac Tr\u1eef T\u00ecnh D\u01b0\u01a1ng H\u1ed3ng Loan",
-        "url": "https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL"
-      },
-      "artists": [
-        {
-          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
-          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
-        }
-      ],
-      "duration_ms": 262623,
-      "name": "V\u00f9ng L\u00e1 Me Bay",
-      "url": "https://open.spotify.com/track/5xG5J77DVCO4Kln8UCllJD"
-    },
-    {
-      "added_at": "2023-12-14 05:44:24",
-      "album": {
         "name": "Ti\u1ebfng Ca U Ho\u00e0i",
         "url": "https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-12-14 05:44:24",
       "album": {
-        "name": "M\u1ed9t Mai Gi\u00e3 T\u1eeb V\u0169 Kh\u00ed",
-        "url": "https://open.spotify.com/album/5Mwa2pqo8DKUNvOBhaRdie"
+        "name": "Tuy\u1ec3n T\u1eadp C\u00e1c Ca Kh\u00fac Tr\u1eef T\u00ecnh D\u01b0\u01a1ng H\u1ed3ng Loan",
+        "url": "https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL"
       },
       "artists": [
         {
-          "name": "Duy Khanh",
-          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
+          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
         }
       ],
-      "duration_ms": 303893,
-      "name": "Qua C\u01a1n M\u00ea",
-      "url": "https://open.spotify.com/track/0bjODEyw6tUCWIP7uDZ7Gt"
+      "duration_ms": 262623,
+      "name": "V\u00f9ng L\u00e1 Me Bay",
+      "url": "https://open.spotify.com/track/5xG5J77DVCO4Kln8UCllJD"
     },
     {
       "added_at": "2023-12-14 05:44:24",
@@ -491,6 +475,22 @@
       "duration_ms": 304600,
       "name": "Th\u00e0nh Ph\u1ed1 Bu\u1ed3n",
       "url": "https://open.spotify.com/track/3mAckDAkkd1U21obGu0zA9"
+    },
+    {
+      "added_at": "2023-12-14 05:44:24",
+      "album": {
+        "name": "M\u1ed9t Mai Gi\u00e3 T\u1eeb V\u0169 Kh\u00ed",
+        "url": "https://open.spotify.com/album/5Mwa2pqo8DKUNvOBhaRdie"
+      },
+      "artists": [
+        {
+          "name": "Duy Khanh",
+          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Qua C\u01a1n M\u00ea",
+      "url": "https://open.spotify.com/track/0bjODEyw6tUCWIP7uDZ7Gt"
     },
     {
       "added_at": "2023-12-14 05:44:24",
@@ -567,18 +567,22 @@
     {
       "added_at": "2023-12-14 05:44:24",
       "album": {
-        "name": "Ti\u1ebfng Ca U Ho\u00e0i",
-        "url": "https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi"
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a 2",
+        "url": "https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX"
       },
       "artists": [
         {
-          "name": "Thanh Th\u00fay",
-          "url": "https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS"
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        },
+        {
+          "name": "Quang L\u00ea",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         }
       ],
-      "duration_ms": 207826,
-      "name": "Ph\u1ed1 Bu\u1ed3n",
-      "url": "https://open.spotify.com/track/4u8YoKzPsETMPeF9NmWmRk"
+      "duration_ms": 282721,
+      "name": "S\u1ea7u T\u00edm Thi\u1ec7p H\u1ed3ng",
+      "url": "https://open.spotify.com/track/6p2VRU6XOQ9caoStaN446h"
     },
     {
       "added_at": "2023-12-14 05:44:24",
@@ -603,22 +607,18 @@
     {
       "added_at": "2023-12-14 05:44:24",
       "album": {
-        "name": "Kh\u00fac T\u00ecnh X\u01b0a 2",
-        "url": "https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX"
+        "name": "Ti\u1ebfng Ca U Ho\u00e0i",
+        "url": "https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi"
       },
       "artists": [
         {
-          "name": "L\u1ec7 Quy\u00ean",
-          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
-        },
-        {
-          "name": "Quang L\u00ea",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+          "name": "Thanh Th\u00fay",
+          "url": "https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS"
         }
       ],
-      "duration_ms": 282721,
-      "name": "S\u1ea7u T\u00edm Thi\u1ec7p H\u1ed3ng",
-      "url": "https://open.spotify.com/track/6p2VRU6XOQ9caoStaN446h"
+      "duration_ms": 207826,
+      "name": "Ph\u1ed1 Bu\u1ed3n",
+      "url": "https://open.spotify.com/track/4u8YoKzPsETMPeF9NmWmRk"
     },
     {
       "added_at": "2023-12-14 05:44:24",
@@ -655,18 +655,22 @@
     {
       "added_at": "2023-12-14 05:44:24",
       "album": {
-        "name": "C\u00f4 B\u00e9 Ng\u00e0y X\u01b0a",
-        "url": "https://open.spotify.com/album/43xJtGh0nNxV7ICzdRtAHS"
+        "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
+        "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
       },
       "artists": [
         {
-          "name": "Ho\u00e0i L\u00e2m",
-          "url": "https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW"
+          "name": "H\u00e0 Thanh Xu\u00e2n",
+          "url": "https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH"
+        },
+        {
+          "name": "Dan Nguyen",
+          "url": "https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn"
         }
       ],
-      "duration_ms": 255767,
-      "name": "N\u1ed1i L\u1ea1i T\u00ecnh X\u01b0a",
-      "url": "https://open.spotify.com/track/1ujKrLvdQiLhgq2rUb3koa"
+      "duration_ms": 321760,
+      "name": "M\u1ed9t ng\u01b0\u1eddi \u0111i",
+      "url": "https://open.spotify.com/track/5l2aK6ogZ7qHDrxZDOqm0V"
     },
     {
       "added_at": "2023-12-14 05:44:24",
@@ -691,22 +695,6 @@
     {
       "added_at": "2023-12-14 05:44:24",
       "album": {
-        "name": "Ti\u1ebfng Ca U Ho\u00e0i",
-        "url": "https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi"
-      },
-      "artists": [
-        {
-          "name": "Thanh Th\u00fay",
-          "url": "https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS"
-        }
-      ],
-      "duration_ms": 230960,
-      "name": "S\u00e0i G\u00f2n Ni\u1ec1m Nh\u1edb Kh\u00f4ng T\u00ean",
-      "url": "https://open.spotify.com/track/2dpdXnhU0eFshwdNc9gxYv"
-    },
-    {
-      "added_at": "2023-12-14 05:44:24",
-      "album": {
         "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
         "url": "https://open.spotify.com/album/5RiWfZNluUklLApntD9oRG"
       },
@@ -719,6 +707,22 @@
       "duration_ms": 173684,
       "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
       "url": "https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY"
+    },
+    {
+      "added_at": "2023-12-14 05:44:24",
+      "album": {
+        "name": "C\u00f4 B\u00e9 Ng\u00e0y X\u01b0a",
+        "url": "https://open.spotify.com/album/43xJtGh0nNxV7ICzdRtAHS"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0i L\u00e2m",
+          "url": "https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW"
+        }
+      ],
+      "duration_ms": 255767,
+      "name": "N\u1ed1i L\u1ea1i T\u00ecnh X\u01b0a",
+      "url": "https://open.spotify.com/track/1ujKrLvdQiLhgq2rUb3koa"
     },
     {
       "added_at": "2023-12-14 05:44:24",
@@ -787,22 +791,18 @@
     {
       "added_at": "2023-12-14 05:44:24",
       "album": {
-        "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
-        "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
+        "name": "Ti\u1ebfng Ca U Ho\u00e0i",
+        "url": "https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi"
       },
       "artists": [
         {
-          "name": "H\u00e0 Thanh Xu\u00e2n",
-          "url": "https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH"
-        },
-        {
-          "name": "Dan Nguyen",
-          "url": "https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn"
+          "name": "Thanh Th\u00fay",
+          "url": "https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS"
         }
       ],
-      "duration_ms": 321760,
-      "name": "M\u1ed9t ng\u01b0\u1eddi \u0111i",
-      "url": "https://open.spotify.com/track/5l2aK6ogZ7qHDrxZDOqm0V"
+      "duration_ms": 230960,
+      "name": "S\u00e0i G\u00f2n Ni\u1ec1m Nh\u1edb Kh\u00f4ng T\u00ean",
+      "url": "https://open.spotify.com/track/2dpdXnhU0eFshwdNc9gxYv"
     },
     {
       "added_at": "2023-12-14 05:44:24",

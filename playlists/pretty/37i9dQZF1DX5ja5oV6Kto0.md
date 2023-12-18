@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Brazy
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,839 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,889 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 89 | [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 |
 | 90 | [Chargie](https://open.spotify.com/track/6uc4JPPkkoRy0qMGA4XdXC) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Jebo](https://open.spotify.com/artist/1SCVuuIhiDnuH7Yfv9TNyt), [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR) | [Chargie](https://open.spotify.com/album/6LoG2tEqK5yiEY68Riu6BZ) | 3:01 |
 
-Snapshot ID: `MCwwYmU0MjU4ZGRjYjExNGNkNmY4OGFkYWZjODlkZWEwZDVlZmViNTVh`
+Snapshot ID: `MCxiZDU1YzdlZDkxNmY1ZjE3ZDgwMGEwNGE2OTE3MTAyMTNlMmExZGYy`

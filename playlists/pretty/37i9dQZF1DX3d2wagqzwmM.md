@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell & Afrojack
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,703 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,897 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 45 | [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 |
 | 46 | [Heaven \(feat\. Sofia Quinn\) \- Club Mix](https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\) \[Club Mix\]](https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b) | 2:55 |
 | 47 | [He's A Pirate](https://open.spotify.com/track/45kPbDRRY5kWe8p6OO2YvM) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [He's A Pirate](https://open.spotify.com/album/7wWM2IHx54paNs60XQe1zo) | 3:03 |
-| 48 | [No Pictures](https://open.spotify.com/track/18nfqYE5Jl9YsJnj2hEEiB) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Pictures](https://open.spotify.com/album/573qIEbqPVxrCYCjnr7U3l) | 2:30 |
-| 49 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 |
+| 48 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 |
+| 49 | [No Pictures](https://open.spotify.com/track/18nfqYE5Jl9YsJnj2hEEiB) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Pictures](https://open.spotify.com/album/573qIEbqPVxrCYCjnr7U3l) | 2:30 |
 | 50 | [Thrill](https://open.spotify.com/track/0n8PMT5vyu8lffykqYvOIo) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Linka](https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc), [Gregor Potter](https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd) | [Thrill](https://open.spotify.com/album/5TqgtXhlVZi0KwEdWr1AST) | 3:37 |
 | 51 | [Energy \(feat\. Bay\-C\)](https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr), [Bay\-C](https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8) | [Energy \(feat\. Bay\-C\)](https://open.spotify.com/album/0PS5JxokId6B3FsRjycHfs) | 2:32 |
 | 52 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [BANG!](https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [BANG!](https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa) | 2:48 |
 | 80 | [Disco Dancer](https://open.spotify.com/track/7bAELPbQxGZG69KcsyyWbm) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Disco Dancer](https://open.spotify.com/album/4pXwKxIA4uqzIdGBV9kc6t) | 3:00 |
 
-Snapshot ID: `MCxiYWQxOGU4OGJlYTI1MmU0Y2UzN2VjMDI4MDRmOThmOTZmZWE2Yjhj`
+Snapshot ID: `MCxkYzFlM2I0N2ViNzU4MzQ1YTQ5ZDJmNGZkZjRjYzI2YTg4MGU5ZWQ0`

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,098 songs - 1 day 17 hr 30 min
+1,100 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Alone](https://open.spotify.com/track/5Z1rGPIPDB4OFao6bwGuO1) | [Bifrost Legend](https://open.spotify.com/artist/3QoMVCOraZSVTISNBTcKZQ) | [Alone](https://open.spotify.com/album/0oBJGdvK5Wk7y2EJgKcxaj) | 2:02 | 2022-11-11 | 2023-05-20 |
 | [Alone In Town](https://open.spotify.com/track/3YSMxn9PMuLn25EXyBplpd) | [Gereoux](https://open.spotify.com/artist/1Euv0945nayOdRB6RTLDZz) | [Alone In Town](https://open.spotify.com/album/1cXiG685Ny0feXVwplO4XI) | 2:33 | 2022-03-04 |  |
 | [Alone Time](https://open.spotify.com/track/1nvb9KIxvd4K6OoYt5S4ok) | [Juice Brenner](https://open.spotify.com/artist/45ZQzAgdVpPO6mfM6NPsbD) | [Alone Time](https://open.spotify.com/album/42cb3Gk5J50Wf9xoZCxMI0) | 2:32 | 2023-04-27 |  |
+| [Altitude](https://open.spotify.com/track/5yiI18IfeUy42vBMTft4ub) | [Tales of Urbania](https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX) | [Altitude](https://open.spotify.com/album/6gmKFsmN2zrbUfluAczGuZ) | 2:11 | 2023-12-15 |  |
 | [Always, All Ways](https://open.spotify.com/track/5o01wc9R8BeRvHd3KYRkCL) | [Jcomadeit](https://open.spotify.com/artist/5acyyyz8DVuN98IloXF3eC), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Lasting Memories](https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS) | 2:00 | 2022-08-19 | 2023-09-26 |
 | [ambar](https://open.spotify.com/track/0VOuTIdSvi1JdrbUA79hLs) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ambar](https://open.spotify.com/album/6nQPUOURWtXUUBqZpdKw9q) | 2:21 | 2022-07-15 | 2023-05-20 |
 | [An Evening In March](https://open.spotify.com/track/0N1ICKD9OJEoMOeTGBDnNy) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Hendy](https://open.spotify.com/artist/6McvQxkxDcQzLzRdDDhbMd), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [An Evening in March](https://open.spotify.com/album/3wrDjzDWqnEon5qyXHDeR1) | 2:07 | 2022-10-07 | 2023-10-06 |
@@ -105,6 +106,7 @@
 | [BLANKETS & TEA](https://open.spotify.com/track/61dILGHsXFOJf4hM9RIZ2M) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [BLANKETS & TEA](https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u) | 2:30 | 2022-11-11 |  |
 | [blind spot](https://open.spotify.com/track/2I18znGi0ssGoWmIugOcjK) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [blind spot](https://open.spotify.com/album/4aN4CpFSuRQQN22f4zk02q) | 2:38 | 2023-07-13 |  |
 | [Bliss](https://open.spotify.com/track/0XmnlDKrzvIXoOsp8YwWbY) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Bliss](https://open.spotify.com/album/2nC5R4NmZBOwXZivGLLIDD) | 3:15 | 2023-02-07 | 2023-10-23 |
+| [blossom](https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [blossom](https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U) | 2:17 | 2023-12-15 |  |
 | [Blossom's Day](https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL) | [Perspolis](https://open.spotify.com/artist/6M0KZSevYJX27uqBGw3Ae9) | [Blossom's Day](https://open.spotify.com/album/4cYgeynqELpDFRPxaiWhwh) | 1:41 | 2022-10-07 |  |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Blue Fraction](https://open.spotify.com/track/3V5oF645lO6vFmOjwfXalX) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Fraction](https://open.spotify.com/album/3kzLYlY7ByzGe90WcKCjXy) | 3:02 | 2022-10-28 | 2023-10-06 |
@@ -530,7 +532,7 @@
 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 | 2021-11-10 | 2022-06-03 |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2021-11-10 | 2023-03-02 |
 | [Lemon Market](https://open.spotify.com/track/2CFwwaPy6N1VHxEY48ADfc) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Lemon Market](https://open.spotify.com/album/0P5mOLIUgPkOoD2TClx4vW) | 2:42 | 2023-04-11 |  |
-| [Leon](https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN) | [Veiva](https://open.spotify.com/artist/1p7qeEg0md2NDp79AQTx1k) | [Leon](https://open.spotify.com/album/6wTN0qhaCAFQdd3UMnvj5s) | 2:15 | 2023-10-20 |  |
+| [Leon](https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN) | [Veiva](https://open.spotify.com/artist/1p7qeEg0md2NDp79AQTx1k) | [Leon](https://open.spotify.com/album/6wTN0qhaCAFQdd3UMnvj5s) | 2:15 | 2023-10-20 | 2023-12-18 |
 | [Let Your Feet Dangle](https://open.spotify.com/track/4RaXy0LmaGyiqMrKQsU3k7) | [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Let Your Feet Dangle](https://open.spotify.com/album/4d3ncw3CrRX2JD5nxdyAp3) | 2:22 | 2023-01-06 |  |
 | [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2021-11-10 | 2022-07-29 |
 | [Lickity Strings](https://open.spotify.com/track/5DgGR97f1mJVghYHiRIrpT) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [lickity strings](https://open.spotify.com/album/1RDTcxXVvp9HCXRUwL5LF9) | 2:08 | 2022-07-08 | 2023-04-28 |
@@ -798,7 +800,7 @@
 | [Reminder](https://open.spotify.com/track/7k0xDMZGKTvS8Hl9kEz5CI) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Reminder](https://open.spotify.com/album/63DPvx3MPJMMESZp4UfInX) | 2:15 | 2022-11-11 | 2022-12-10 |
 | [Resistance](https://open.spotify.com/track/0EPGaVpdeFYEEWm77ynjwL) | [Le Giles](https://open.spotify.com/artist/10L8AituT5YOgxLrXwnWkn) | [Capacitance & Resistance](https://open.spotify.com/album/69wvNNzJFYHAUrJGwokZ3L) | 2:01 | 2021-11-10 | 2023-03-02 |
 | [Resurrected](https://open.spotify.com/track/3kSNdHcFAtT2PRIDhhEfPf) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Resurrected](https://open.spotify.com/album/3Mu69V1Epb8T2he3BcYhnc) | 2:06 | 2023-09-22 |  |
-| [returning](https://open.spotify.com/track/5U3118Im2OtgDOZiuLerBP) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [returning](https://open.spotify.com/album/1jWv7zMhHEKdVnfU7en8KK) | 1:52 | 2022-10-01 |  |
+| [returning](https://open.spotify.com/track/5U3118Im2OtgDOZiuLerBP) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [returning](https://open.spotify.com/album/1jWv7zMhHEKdVnfU7en8KK) | 1:52 | 2022-10-01 | 2023-12-18 |
 | [riding hollywood](https://open.spotify.com/track/0II1srBETOw8mpzDEdj90p) | [logan finneas](https://open.spotify.com/artist/0lHDsHD5CqzIcgnW7icG6p) | [riding hollywood](https://open.spotify.com/album/6vazPSoWuK2wo9N1kS2QOn) | 2:03 | 2021-11-10 | 2022-10-29 |
 | [right now, huh?](https://open.spotify.com/track/3O1LaaHCHuombngwVBOOlE) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [right now, huh?](https://open.spotify.com/album/17b7BjWkdfP68m9WPOluWi) | 2:13 | 2021-11-10 | 2023-03-02 |
 | [ripple](https://open.spotify.com/track/5P74LLSSglF3gIt2tcFSVn) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [ripple](https://open.spotify.com/album/2aDD0xJyadV6hisCeSiAhP) | 2:16 | 2023-03-24 |  |

@@ -2,7 +2,7 @@
 
 ### [mEMOries](https://open.spotify.com/playlist/37i9dQZF1DWYAyGN1XM1YS)
 
-> Do you remember when you fell in love with emo and post\-hardcore? Cover: The Get Up Kids
+> Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
 105 songs - 6 hr 48 min
 

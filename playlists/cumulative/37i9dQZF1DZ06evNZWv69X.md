@@ -4,14 +4,15 @@
 
 > This is Mar de Copas\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 37 min
+55 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Dios](https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 2:43 | 2023-08-23 |  |
-| [A tu lado](https://open.spotify.com/track/4V9KOFxoj2K8kqYWfAsjPi) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 2:00 | 2023-08-23 |  |
+| [A tu lado](https://open.spotify.com/track/4V9KOFxoj2K8kqYWfAsjPi) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 2:00 | 2023-08-23 | 2023-12-18 |
 | [Adiós Amor](https://open.spotify.com/track/7KIY1H6TG5ygADaaPE9YRA) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 3:36 | 2023-08-23 |  |
 | [Al Pasar de las Horas](https://open.spotify.com/track/0SENuKLsa754MHOogcYawc) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 3:47 | 2023-08-23 |  |
+| [Aquí en el Borde del Mar](https://open.spotify.com/track/4Xd26x7Lwx85TCuCRQ9fMP) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 5:47 | 2023-12-17 |  |
 | [Atardecer](https://open.spotify.com/track/0v1ICcAGUizjFs9CcNGeGX) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:02 | 2023-08-23 |  |
 | [Balada de un Encuentro Fugaz](https://open.spotify.com/track/7sdwEEi3ZHZVzy2FldXqzx) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 3:45 | 2023-08-23 |  |
 | [Blu Ice](https://open.spotify.com/track/5ksrKcALCfKEftO6hYwVuU) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 2:45 | 2023-08-23 |  |

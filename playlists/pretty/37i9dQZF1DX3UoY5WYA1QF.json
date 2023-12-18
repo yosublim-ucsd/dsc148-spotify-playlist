@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 86286,
+  "num_followers": 86379,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWJkMTQ3YzVkZmFhZDE3ZTUyYjk4MGEzMjZkYWI4OWFlMjY4OTMz",
+  "snapshot_id": "MCw5ZGYyOTE3MjE0ZDQ0MWY1ODU1MjZhNTFiOWY5ZTAxYTY0OGJlNWQ0",
   "tracks": [
     {
       "added_at": "2023-04-10 22:49:54",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Recu\u00e9rdame Bonito",
         "url": "https://open.spotify.com/album/7ILpDmbUgAzuyGupH5kDIr"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 153664,
       "name": "La Mulita Prieta",
       "url": "https://open.spotify.com/track/2RrOW3caUGN8CL30jrrS5F"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Homenaje al Poeta Gracias Joan Sebastian",
-        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 160903,
-      "name": "Maldita Suerte",
-      "url": "https://open.spotify.com/track/0HLOXA1miR7Wb1ZqBSFsVa"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Nuestras Favoritas De Joan Sebastian",
         "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 224107,
       "name": "Buena Amiga",
       "url": "https://open.spotify.com/track/2QvxxH2qKdMdXGBr0blz1s"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Homenaje al Poeta Gracias Joan Sebastian",
+        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 160903,
+      "name": "Maldita Suerte",
+      "url": "https://open.spotify.com/track/0HLOXA1miR7Wb1ZqBSFsVa"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
-        "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 176237,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Homenaje a Joan Sebastian",
         "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 138083,
       "name": "Un Carino Como Tu",
       "url": "https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
+        "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 176237,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Nuestras Favoritas De Joan Sebastian",
-        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 161216,
-      "name": "En Un Jaripeo",
-      "url": "https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Homenaje al Poeta Gracias Joan Sebastian",
         "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 144938,
       "name": "Quiereme",
       "url": "https://open.spotify.com/track/33viYM3K3VAhasx8OPRtUZ"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Nuestras Favoritas De Joan Sebastian",
+        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 161216,
+      "name": "En Un Jaripeo",
+      "url": "https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Joyas Musicales: Lo Ranchero de Cuisillos de Arturo Mac\u00edas, Vol. 1",
-        "url": "https://open.spotify.com/album/1IymVjJhDpdibw7S4dPho9"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 135964,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/0Gwv52FGhlkE9P2tLCaCmy"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Dos Mundos Tradici\u00f3n",
         "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
@@ -1003,22 +987,6 @@
       "duration_ms": 186040,
       "name": "Nada De Ti",
       "url": "https://open.spotify.com/track/1iIIyMbWDfMLyufjX3N80U"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Homenaje al Poeta Gracias Joan Sebastian",
-        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 203202,
-      "name": "La Venganza de Tina",
-      "url": "https://open.spotify.com/track/6Gc77aqLOJX7ivsPGlMj8y"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1039,6 +1007,22 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
+        "name": "Joyas Musicales: Lo Ranchero de Cuisillos de Arturo Mac\u00edas, Vol. 1",
+        "url": "https://open.spotify.com/album/1IymVjJhDpdibw7S4dPho9"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 135964,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/0Gwv52FGhlkE9P2tLCaCmy"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
         "name": "Nuestras Favoritas De Joan Sebastian",
         "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 194293,
       "name": "Mayra",
       "url": "https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Homenaje al Poeta Gracias Joan Sebastian",
+        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 203202,
+      "name": "La Venganza de Tina",
+      "url": "https://open.spotify.com/track/6Gc77aqLOJX7ivsPGlMj8y"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1087,34 +1087,34 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Dos Mundos Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
         }
       ],
-      "duration_ms": 205880,
-      "name": "La Historia Que No",
-      "url": "https://open.spotify.com/track/237HTVPRaOx5Q8Yo7Zyay4"
+      "duration_ms": 205191,
+      "name": "El Peor De Tus Antojos",
+      "url": "https://open.spotify.com/track/1ZOvUILZcLWdNXYar5MvVy"
     },
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Homenaje al Poeta Gracias Joan Sebastian",
-        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+        "name": "Joyas Musicales: Lo Ranchero De Cuisillos De Arturo Mac\u00edas, Vol. 2",
+        "url": "https://open.spotify.com/album/3eQMPyj1pDRSlLoF1TA7K5"
       },
       "artists": [
         {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 181682,
-      "name": "El Ilegal",
-      "url": "https://open.spotify.com/track/43jcEGEx5ICgVx3PLWus1Y"
+      "duration_ms": 158476,
+      "name": "Ahora Si Va En Serio",
+      "url": "https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Joyas Musicales: Lo Ranchero De Cuisillos De Arturo Mac\u00edas, Vol. 2",
-        "url": "https://open.spotify.com/album/3eQMPyj1pDRSlLoF1TA7K5"
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 158476,
-      "name": "Ahora Si Va En Serio",
-      "url": "https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Homenaje a Joan Sebastian",
-        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos Del Norte",
-          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "El Peor De Tus Antojos",
-      "url": "https://open.spotify.com/track/1ZOvUILZcLWdNXYar5MvVy"
+      "duration_ms": 205880,
+      "name": "La Historia Que No",
+      "url": "https://open.spotify.com/track/237HTVPRaOx5Q8Yo7Zyay4"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1199,6 +1183,38 @@
       "duration_ms": 162818,
       "name": "Nube Gris",
       "url": "https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Homenaje al Poeta Gracias Joan Sebastian",
+        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 181682,
+      "name": "El Ilegal",
+      "url": "https://open.spotify.com/track/43jcEGEx5ICgVx3PLWus1Y"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+        }
+      ],
+      "duration_ms": 155794,
+      "name": "Soy Como Quiero Ser",
+      "url": "https://open.spotify.com/track/5wbVhLqakT1wAbZvM0C1Ds"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1231,22 +1247,6 @@
       "duration_ms": 185295,
       "name": "Que Ya No Estas",
       "url": "https://open.spotify.com/track/7H4VG0Gh5P9dj6zS4A03iR"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Homenaje a Joan Sebastian",
-        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos Del Norte",
-          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
-        }
-      ],
-      "duration_ms": 155794,
-      "name": "Soy Como Quiero Ser",
-      "url": "https://open.spotify.com/track/5wbVhLqakT1wAbZvM0C1Ds"
     },
     {
       "added_at": "2023-04-10 22:49:54",

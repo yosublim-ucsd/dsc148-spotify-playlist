@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: Bruses
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,057 likes - 124 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,201 likes - 124 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 123 | [Big Air](https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Big Air](https://open.spotify.com/album/0cB3kmKZuRiz1UvvNb7r7B) | 3:26 |
 | 124 | [Lip](https://open.spotify.com/track/49KU7hgM1KD3py8fNAAkPG) | [Mama Zu](https://open.spotify.com/artist/6OG25jh0gJ5FaFhw39eX2y) | [Lip](https://open.spotify.com/album/5PvUkKp9ifL4RpUcKjtHoQ) | 3:04 |
 
-Snapshot ID: `MCw3NDY1ZjU4MTE1ODJjMDMyZDIxNWNiYWY3NGJmNmQ0YmZjNDA0Yzhm`
+Snapshot ID: `MCwwZDMwMzUzMjI0MGM0ZTE4YTJlMjA5MjNmNDVkMWNjMTg4MTEyYmI2`

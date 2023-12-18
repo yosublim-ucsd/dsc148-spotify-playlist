@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "BLACK PLEASURE 2012",
+        "url": "https://open.spotify.com/album/3Pq5dzwf1ESZCMMIBzUe3W"
+      },
+      "artists": [
+        {
+          "name": "Cities Aviv",
+          "url": "https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173072,
+      "name": "NOT THAT I'M ANYWHERE",
+      "url": "https://open.spotify.com/track/2Auy5a07vbfXEGUaitLymP"
+    },
+    {
+      "album": {
         "name": "Apoptosis",
         "url": "https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8"
       },

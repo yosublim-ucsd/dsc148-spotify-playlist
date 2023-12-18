@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 98911,
+  "num_followers": 98950,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTY2OWU3NjJkNjEzY2ViYWNmYmQ0Y2I3NzM2MTZmNmY5OTVmOTc5",
+  "snapshot_id": "MCw3NzUzNjUyODczMDhkNzE0NTU4OWE2ZGQxZjY5OWRjYTQxMjU2ZTFk",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/4MTtvGnI74RyOmG5UrVZhf"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Sibongile",
@@ -103,6 +87,22 @@
       "duration_ms": 351053,
       "name": "Ndihamba Nawe",
       "url": "https://open.spotify.com/track/4fYvhqvAjOifw4ih3IU2z7"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/4MTtvGnI74RyOmG5UrVZhf"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -243,22 +243,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Ebo Taylor",
-        "url": "https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 365680,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Ebo Taylor",
+        "url": "https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 365680,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63"
-      },
-      "artists": [
-        {
-          "name": "Osibisa",
-          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
-        }
-      ],
-      "duration_ms": 296093,
-      "name": "Ojah Awake",
-      "url": "https://open.spotify.com/track/0rnDmgcZvn9WPsOPqHbt16"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Weekend Special (USA Remixes)",
@@ -587,6 +571,22 @@
       "duration_ms": 288109,
       "name": "Weekend Special (with Brenda Fassie) - USA Remix",
       "url": "https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 296093,
+      "name": "Ojah Awake",
+      "url": "https://open.spotify.com/track/0rnDmgcZvn9WPsOPqHbt16"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m"
-      },
-      "artists": [
-        {
-          "name": "Evi-Edna Ogholi",
-          "url": "https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL"
-        }
-      ],
-      "duration_ms": 339386,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 483986,
       "name": "Alo Mi Alo (Parts 1 & 2)",
       "url": "https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m"
+      },
+      "artists": [
+        {
+          "name": "Evi-Edna Ogholi",
+          "url": "https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL"
+        }
+      ],
+      "duration_ms": 339386,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
     },
     {
       "added_at": "2019-06-28 16:54:51",

@@ -42,6 +42,28 @@
     {
       "album": {
         "name": "Aire",
+        "url": "https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174303,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ"
+    },
+    {
+      "album": {
+        "name": "Aire",
         "url": "https://open.spotify.com/album/3hrl3lXAs1oAfDegWOE4to"
       },
       "artists": [
@@ -56,7 +78,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 174303,
       "name": "Aire",
       "url": "https://open.spotify.com/track/77gQSJlncgT3HWmBfy9CQ9"

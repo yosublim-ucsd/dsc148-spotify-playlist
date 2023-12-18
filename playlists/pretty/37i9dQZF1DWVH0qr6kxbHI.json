@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 70899,
+  "num_followers": 70946,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDdjOTc1MTVhMjA0ZThkNmYxMjc5N2Q0NGViNzJmODNmZDBiN2Ew",
+  "snapshot_id": "MCwwNzdjYmM2MGFiNzM1NjMwNTNhNTdlNDIwNjYyY2JiY2VjYTgwYjg0",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 261813,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -487,38 +487,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "En directo",
-        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
-      },
-      "artists": [
-        {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "Beso a beso... dulcemente",
-      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Amar Duele",
-        "url": "https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2"
-      },
-      "artists": [
-        {
-          "name": "Falete",
-          "url": "https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Cecilia",
         "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 204347,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "En directo",
+        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
+      },
+      "artists": [
+        {
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "Beso a beso... dulcemente",
+      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Amar Duele",
+        "url": "https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2"
+      },
+      "artists": [
+        {
+          "name": "Falete",
+          "url": "https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -623,8 +623,8 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Mis Recuerdos",
-        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+        "name": "Grandes exitos",
+        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
         }
       ],
-      "duration_ms": 230186,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
+      "duration_ms": 240200,
+      "name": "Sarandonga",
+      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -651,6 +651,22 @@
       "duration_ms": 186040,
       "name": "Se me olvid\u00f3 otra vez",
       "url": "https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Pasion Y Deseo (Sus Grandes Exitos De La Copla Y De La Balada Romantica)",
         "url": "https://open.spotify.com/album/0RZu47C1vhpUs4QbWJunyg"
       },
@@ -719,8 +719,8 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Grandes exitos",
-        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
+        "name": "Mis Recuerdos",
+        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
         }
       ],
-      "duration_ms": 240200,
-      "name": "Sarandonga",
-      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
+      "duration_ms": 230186,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "Viva Carlos Cano (Remasterizado)",
+        "url": "https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+        },
+        {
+          "name": "Estrella Morente",
+          "url": "https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "Sin T\u00ed No Puedo Vivir",
+      "url": "https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Cristalitos Machacaos",
         "url": "https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 195080,
       "name": "Sevillanas de los Bloques",
       "url": "https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Viva Carlos Cano (Remasterizado)",
-        "url": "https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cano",
-          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
-        },
-        {
-          "name": "Estrella Morente",
-          "url": "https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Sin T\u00ed No Puedo Vivir",
-      "url": "https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Raices de la Canci\u00f3n Espa\u00f1ola, Vol. 4",
-        "url": "https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr"
-      },
-      "artists": [
-        {
-          "name": "Lolita Sevilla",
-          "url": "https://open.spotify.com/artist/3YTaABDoji99gSK5qDdPja"
-        }
-      ],
-      "duration_ms": 164395,
-      "name": "Coplillas de las Divisas (Americanos)",
-      "url": "https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Mujeres de M\u00fasica",
         "url": "https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 243386,
       "name": "El Talism\u00e1n",
       "url": "https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Raices de la Canci\u00f3n Espa\u00f1ola, Vol. 4",
+        "url": "https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr"
+      },
+      "artists": [
+        {
+          "name": "Lolita Sevilla",
+          "url": "https://open.spotify.com/artist/3YTaABDoji99gSK5qDdPja"
+        }
+      ],
+      "duration_ms": 164395,
+      "name": "Coplillas de las Divisas (Americanos)",
+      "url": "https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -987,18 +987,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Pecado de Amor (Original Motion Picture)",
-        "url": "https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq"
+        "name": "A Bola De Nieve",
+        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
       },
       "artists": [
         {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
         }
       ],
-      "duration_ms": 211746,
-      "name": "Los Nardos",
-      "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
+      "duration_ms": 262811,
+      "name": "Alma M\u00eda",
+      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "A Bola De Nieve",
-        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
       },
       "artists": [
         {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
         }
       ],
-      "duration_ms": 262811,
-      "name": "Alma M\u00eda",
-      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
-      },
-      "artists": [
-        {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Quizas, Quizas, Quizas",
-      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Baladilla De Los Tres R\u00edos",
         "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 192627,
       "name": "Baladilla De Los Tres R\u00edos",
       "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Pecado de Amor (Original Motion Picture)",
+        "url": "https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Los Nardos",
+      "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
     },
     {
       "added_at": "2023-08-28 17:02:49",

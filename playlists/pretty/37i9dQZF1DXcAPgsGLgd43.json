@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3703,
+  "num_followers": 3704,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmMwYTY2OTMwMjQ4NDU4Mjg3NDlhMmZmZGM5YTg0NWFjZWYwY2U5",
+  "snapshot_id": "MCxhMzI4NjU1M2NiYWI5ZGNhNjBjZTg3MTc1YzY4Zjc3ZWMxY2IwNzEw",
   "tracks": [
     {
       "added_at": "2023-12-15 14:37:13",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
+        "name": "Balan\u00e7a",
+        "url": "https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Balan\u00e7a",
+      "url": "https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F"
+    },
+    {
+      "added_at": "2023-12-15 14:37:13",
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE"
       },
@@ -1399,22 +1419,6 @@
       "duration_ms": 195826,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
-    },
-    {
-      "added_at": "2023-12-15 14:37:13",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj"
-      },
-      "artists": [
-        {
-          "name": "BeMore",
-          "url": "https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Envolvid\u00e3o",
-      "url": "https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK"
     }
   ],
   "unique_name": "Alma",

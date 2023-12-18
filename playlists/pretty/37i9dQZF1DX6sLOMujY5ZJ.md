@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=fe7dc91ae92c41b3">Teezo Touchdown's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,345 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,363 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Choppaz \(screwed\) \(feat\. D\-Gotti, Noke D & D\-Wreck\)](https://open.spotify.com/track/4bXGuPmeMHM8idqVYaxLt4) | [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr) | [City of Syrup \(Wreckchopped & Screwed\)](https://open.spotify.com/album/5csOeN7aVmbOf3RBSNSTtA) | 6:55 |
+| 1 | [Choppaz \(Wreckchopped & Screwed\)](https://open.spotify.com/track/4bXGuPmeMHM8idqVYaxLt4) | [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr), [D\-Gotti](https://open.spotify.com/artist/4BxD7dcIktd3Hfd3zP083u), [Noke D](https://open.spotify.com/artist/3CPWzF2Hpy0iGjbAvSukVu), [D\-Reck](https://open.spotify.com/artist/4lBPJuz1U6PcohIKxqZF72) | [City of Syrup \(Wreckchopped & Screwed\)](https://open.spotify.com/album/5csOeN7aVmbOf3RBSNSTtA) | 6:55 |
 | 2 | [Pop Life](https://open.spotify.com/track/6Zs3F2lrr3L3kugrniFG5R) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:45 |
 | 3 | [Burbons And Lacs](https://open.spotify.com/track/1Xunvmk47Mju6oZlgzm2Ty) | [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Silkk The Shocker](https://open.spotify.com/artist/0iEVT8dLNSSmipPOrDGu2z), [Lil' Gotti](https://open.spotify.com/artist/6YJFwHfTwWZCZ4za62AW2g) | [Ghetto D](https://open.spotify.com/album/699xAzNxlXxgmkycTEqktC) | 4:09 |
 | 4 | [Shoplifters of the World Unite \- 2011 Remaster](https://open.spotify.com/track/6a6zCBKwuZPO9S0rVJLVDI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:58 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 | 29 | [I Knew I'll Make It](https://open.spotify.com/track/70kGwtQF9g3JI8HcYRAey5) | [Bankroll Fresh](https://open.spotify.com/artist/7FBDXY8U17aasVTH3rgxbS) | [Life of a Hot Boy](https://open.spotify.com/album/4qrG8JSxpDIrJbCYIdaDPm) | 2:15 |
 | 30 | [Jasmine Tea!](https://open.spotify.com/track/2WlOzS0iQ0RndtuXUGJJlY) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [BEAR1BOSS](https://open.spotify.com/album/3mxZb5vAZYgtT82nmVTVDu) | 2:30 |
 
-Snapshot ID: `MCxkOGZmYjY4N2RkNjE5N2EwYTllZTU5YTljZTVhY2E4OGZiNzY2ZmMy`
+Snapshot ID: `MCwwNmI2NjRiMWYwYmI3YmU3YzRkMTNjMzVkMGQ5YzNiMTNkMDk5OTYy`

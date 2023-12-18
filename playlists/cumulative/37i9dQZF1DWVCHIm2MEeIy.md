@@ -4,7 +4,7 @@
 
 > The dancefloor is the place to be 🪩
 
-331 songs - 1 day 6 hr 25 min
+332 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-06-17 | 2022-10-13 |
 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 | 2022-06-24 |  |
 | [Nefarius \- Original Short Edit](https://open.spotify.com/track/6LZ4x2csXmU81hcVCXuKk1) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Nefarius EP \(Short Edits\)](https://open.spotify.com/album/171UVAsDr4v5Qa4Y4a0M2L) | 4:18 | 2022-04-15 | 2022-04-21 |
-| [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 | 2022-11-14 |  |
+| [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 | 2022-11-14 | 2023-12-18 |
 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 | 2022-06-17 | 2022-11-20 |
 | [Night Shadows](https://open.spotify.com/track/1FTOQKWSOzAIX52lkTqXXm) | [Oma Nata](https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo) | [Night Shadows](https://open.spotify.com/album/4utOYP6QynCmhWYB6qTNr6) | 6:30 | 2022-05-20 | 2022-05-27 |
 | [Night Tales](https://open.spotify.com/track/4UDlJoKvIT97NqgzQ9FGpd) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Sorry For Not Trending](https://open.spotify.com/album/2K7tzCKO5Z3ZP0AZ09seao) | 4:00 | 2023-11-27 |  |
@@ -209,6 +209,7 @@
 | [Nosara](https://open.spotify.com/track/0cAarkhbKeI6z0YnpwjyLP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Nosara](https://open.spotify.com/album/3S32phAJPXvFM1jbq9fKF5) | 7:28 | 2022-04-15 | 2022-07-28 |
 | [Nova Two](https://open.spotify.com/track/2Pc744GTIafPnZrNGNdPUJ) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Nova Two](https://open.spotify.com/album/7zeYcIdbaDuYYjiAmYCNjz) | 5:26 | 2022-04-15 | 2023-11-05 |
 | [Numb \- Joris Voorn Remix, Edit](https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Numb \(Joris Voorn Remix\)](https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF) | 3:57 | 2022-04-15 | 2022-06-24 |
+| [NYWTF \(feat\. Mikhail Beltran\) \- Edit](https://open.spotify.com/track/3FoOzVf0Snj4ym2xjZCikn) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [Nywtf \(feat\. Mikhail Beltran\)](https://open.spotify.com/album/1xiDEFjzO0Il22pdIk3oo7) | 3:04 | 2023-11-27 |  |
 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 | 2022-10-28 | 2023-11-05 |
 | [One Trick Pony](https://open.spotify.com/track/5mPdbkpDQTlqt56HPptRhe) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Bella Mar 08](https://open.spotify.com/album/5yiTh9hbFRyF4jp7bAiZQn) | 6:23 | 2022-04-15 | 2022-07-29 |
 | [Only For Tonight](https://open.spotify.com/track/1vwCNbCIahe4HsmfZim45D) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Only For Tonight](https://open.spotify.com/album/5YpxkZZNn65hT9WpJt6Ym6) | 3:33 | 2022-10-14 | 2023-07-06 |

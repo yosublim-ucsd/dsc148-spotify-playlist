@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-267 songs - 17 hr 6 min
+268 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Don't Worry Baby](https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Don't Worry Baby](https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw) | 3:00 | 2021-12-13 |  |
 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2022-06-03 |  |
 | [Don't You Want Me](https://open.spotify.com/track/7cQ2x6bqiOKWzKxB7Rp8tc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1WfjeDnn6P7umwi5gLZSGx) | 3:19 | 2021-12-13 | 2022-07-29 |
+| [Don’t It Feel Good](https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Other People's Songs](https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD) | 4:48 | 2023-12-15 |  |
 | [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz) | 3:28 | 2023-11-17 |  |
 | [Down To You \- Live](https://open.spotify.com/track/0Gn207mWAoAztT808PNoYK) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Joni 75: A Joni Mitchell Birthday Celebration \(Live\)](https://open.spotify.com/album/1YTSVDA02Rm7YKZkxQrQYY) | 5:50 | 2021-12-13 | 2022-07-28 |
 | [Driver 8](https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Driver 8](https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu) | 3:35 | 2021-12-13 | 2022-07-29 |
@@ -202,7 +203,7 @@
 | [Shotgun Willie](https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Shotgun Willie](https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk) | 2:35 | 2023-02-17 | 2023-04-28 |
 | [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 | 2021-12-13 |  |
 | [Skinny Love \(Country Version\)](https://open.spotify.com/track/7gUDLbl3co7AL5oo4xPYu9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Skinny Love \(Country Version\)](https://open.spotify.com/album/6RSaaIs4oHwZuA5wh9muvC) | 2:38 | 2023-01-27 | 2023-04-14 |
-| [Sledgehammer](https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [So Low](https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y) | 4:24 | 2021-12-13 |  |
+| [Sledgehammer](https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [So Low](https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y) | 4:24 | 2021-12-13 | 2023-12-18 |
 | [Slow Burn](https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Kacey Musgraves](https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl) | 3:37 | 2021-12-13 | 2022-07-29 |
 | [Someone Like You](https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB) | [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Someone Like You](https://open.spotify.com/album/7hkImNgsAoOS5CtitpnFOb) | 4:51 | 2021-12-13 | 2022-07-28 |
 | [Something](https://open.spotify.com/track/1GVjmjhCqS0J050HkO18PA) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Something](https://open.spotify.com/album/4orDzkPsSJkrAilIccQasl) | 2:22 | 2021-12-13 | 2023-05-21 |

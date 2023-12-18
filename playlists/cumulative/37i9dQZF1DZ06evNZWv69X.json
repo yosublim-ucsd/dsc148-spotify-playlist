@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 120053,
       "name": "A tu lado",
       "url": "https://open.spotify.com/track/4V9KOFxoj2K8kqYWfAsjPi"
@@ -74,6 +74,24 @@
       "duration_ms": 227653,
       "name": "Al Pasar de las Horas",
       "url": "https://open.spotify.com/track/0SENuKLsa754MHOogcYawc"
+    },
+    {
+      "album": {
+        "name": "Entre los \u00c1rboles",
+        "url": "https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347333,
+      "name": "Aqu\u00ed en el Borde del Mar",
+      "url": "https://open.spotify.com/track/4Xd26x7Lwx85TCuCRQ9fMP"
     },
     {
       "album": {

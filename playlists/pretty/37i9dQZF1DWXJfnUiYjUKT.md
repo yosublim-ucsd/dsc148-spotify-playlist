@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,281 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,310 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [No One Does It Better Than You](https://open.spotify.com/track/5K286QPZ7Fere57NndcDLF) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [No One Does It Better Than You](https://open.spotify.com/album/0y5UCiZNkDfA2PHOb7PQBR) | 3:05 |
 | 100 | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/track/7EdBkc2HvH9gIlBDtiYmY1) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/album/2BP6zvUEaHNqxyTCSUGXPZ) | 2:49 |
 
-Snapshot ID: `MCwyNWYzMjFhYWI5NDJhOWQyNTZhZjI5YWQxMTdlNjVmZmM5ODA2YjQ1`
+Snapshot ID: `MCwyMTQ4YmMwNjM2OWFhYjhiNTVmOGY3NjcxYTA5ZjA1YTE3M2Y1MjQ5`

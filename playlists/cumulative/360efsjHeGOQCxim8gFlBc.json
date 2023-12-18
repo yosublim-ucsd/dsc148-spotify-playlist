@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Cold Feet",
+        "url": "https://open.spotify.com/album/2LgHzwcKDB5fc3cCSfeNOs"
+      },
+      "artists": [
+        {
+          "name": "Immerson",
+          "url": "https://open.spotify.com/artist/2meYskUwJ0LnnuaG5xybWr"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167642,
+      "name": "A Frozen Lullaby",
+      "url": "https://open.spotify.com/track/3QwpjkfCWzd8bFDTppQB3K"
+    },
+    {
+      "album": {
         "name": "Milk & Cookies",
         "url": "https://open.spotify.com/album/58TNXgclbG7fVsLdmTAoDE"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 85250,
       "name": "A Way Out",
       "url": "https://open.spotify.com/track/3bvPOP4bnjqam9K8zaBkVL"
@@ -100,6 +118,24 @@
       "duration_ms": 75636,
       "name": "A Winter Night Lazzo (Piano Version)",
       "url": "https://open.spotify.com/track/0nKVrNJLvidujrPa7CJAA0"
+    },
+    {
+      "album": {
+        "name": "afar",
+        "url": "https://open.spotify.com/album/7gmtrQUa2nv1FhKHu9coVr"
+      },
+      "artists": [
+        {
+          "name": "laurel green",
+          "url": "https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120125,
+      "name": "afar",
+      "url": "https://open.spotify.com/track/59XkY8RCM8NCARpFi9ij5s"
     },
     {
       "album": {
@@ -166,7 +202,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 76500,
       "name": "All That Glitters (Piano)",
       "url": "https://open.spotify.com/track/0daHjqHGWWq3KhnzaCeP7P"
@@ -239,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Awakened",
+        "url": "https://open.spotify.com/album/1cMa5zSzpob64TL7yTczwa"
+      },
+      "artists": [
+        {
+          "name": "Ralph Thomas Puett IV",
+          "url": "https://open.spotify.com/artist/4qla4YmkcVA8U6654RyWhF"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84500,
+      "name": "Awakened",
+      "url": "https://open.spotify.com/track/7KMKLweg2TP1kSLJffXZ6m"
+    },
+    {
+      "album": {
         "name": "Genshin Impact - Inazuma Snow Princess",
         "url": "https://open.spotify.com/album/5GQKLOLCiHPEdzOcTEHuHO"
       },
@@ -254,7 +308,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 103384,
       "name": "Ayaka's Story (Piano)",
       "url": "https://open.spotify.com/track/3haxXB5t7GYggMv8huvZKh"
@@ -519,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Camille's Waltz",
+        "url": "https://open.spotify.com/album/4kO0yC7QgrLczqzsFMP1KP"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176714,
+      "name": "Camille's Waltz",
+      "url": "https://open.spotify.com/track/4Eftb5OHGISJnTQLfhRCzF"
+    },
+    {
+      "album": {
         "name": "Careless Romance",
         "url": "https://open.spotify.com/album/5FwJQTvTo2WkqK5td8oP8k"
       },
@@ -700,7 +772,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 177549,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/57b8FvUqnDN7SS2NfnLtKT"
@@ -790,7 +862,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 67453,
       "name": "Considering The Extended Warranty",
       "url": "https://open.spotify.com/track/2oC5NDGacmS3Iae2UisXX5"
@@ -867,6 +939,24 @@
     },
     {
       "album": {
+        "name": "cozy afternoon",
+        "url": "https://open.spotify.com/album/6Bl4hOdFPKt2CSUCu5Z67W"
+      },
+      "artists": [
+        {
+          "name": "Sonyakisa",
+          "url": "https://open.spotify.com/artist/728hgfnSJp9RITrCa8Se51"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105454,
+      "name": "cozy afternoon",
+      "url": "https://open.spotify.com/track/12zTtdUl4JctacOgVOEHzJ"
+    },
+    {
+      "album": {
         "name": "Crisp Air",
         "url": "https://open.spotify.com/album/5rgMBodbVFZ2BZJqqZjg33"
       },
@@ -924,6 +1014,24 @@
       "duration_ms": 103780,
       "name": "Cry Out",
       "url": "https://open.spotify.com/track/54AIK3sejhhH1mcjRXB3NA"
+    },
+    {
+      "album": {
+        "name": "daily routine",
+        "url": "https://open.spotify.com/album/5aTdl9PQmiS2rZ1nFv7oTp"
+      },
+      "artists": [
+        {
+          "name": "Melodique",
+          "url": "https://open.spotify.com/artist/0upqSGuW20Xp5lBpKbc34n"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "daily routine",
+      "url": "https://open.spotify.com/track/2KzcpvschTClsRfNDdulQ5"
     },
     {
       "album": {
@@ -1060,7 +1168,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 196363,
       "name": "Dramatic Piano Story",
       "url": "https://open.spotify.com/track/1ciOZCndDvFKAcc0TOtob0"
@@ -1354,7 +1462,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 100382,
       "name": "For Elizabeth",
       "url": "https://open.spotify.com/track/2RDmpLQY1UCkv4lZs5nnc8"
@@ -1420,7 +1528,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 98449,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4Y8DQCuqgG9xFFU5eLhd3U"
@@ -1559,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "Gently",
+        "url": "https://open.spotify.com/album/4phsGQKYqBO1H1SDY0G0a4"
+      },
+      "artists": [
+        {
+          "name": "Naekun Naekan",
+          "url": "https://open.spotify.com/artist/1aV4QGGSXCmQJxTcV3g0DX"
+        },
+        {
+          "name": "Saki.",
+          "url": "https://open.spotify.com/artist/7qWv4b0xOHAuGnCdrq80rC"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165194,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/40n8qM80nzHbh8GzkHHZQM"
+    },
+    {
+      "album": {
         "name": "Golden Hourglass (piano version)",
         "url": "https://open.spotify.com/album/4m0B4VP5oTd1Wks9UWGsVk"
       },
@@ -1680,6 +1810,28 @@
       "duration_ms": 174555,
       "name": "hand in hand",
       "url": "https://open.spotify.com/track/4wS1swxaWAgGOjgzhSSzto"
+    },
+    {
+      "album": {
+        "name": "Heavenly Peace",
+        "url": "https://open.spotify.com/album/6lWmnWfVbwHVO60lSz45b8"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88934,
+      "name": "Heavenly Peace",
+      "url": "https://open.spotify.com/track/6Pyl2jjDC1sUqQoqabdZFv"
     },
     {
       "album": {
@@ -2126,7 +2278,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 125091,
       "name": "lazy town",
       "url": "https://open.spotify.com/track/0PpaKrZfroenLC1QXSff3N"
@@ -2186,7 +2338,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 101836,
       "name": "Limitless",
       "url": "https://open.spotify.com/track/5AxV1Idfa08FK2j6LztK9B"
@@ -2328,7 +2480,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 180000,
       "name": "Lydia",
       "url": "https://open.spotify.com/track/2QhxYdJlftCyYW3fk43KCQ"
@@ -2514,6 +2666,24 @@
       "duration_ms": 166138,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5OpsnM0UAKLx7MYxuaYd63"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0UW7Mtr1r7jNBaxb37DWyp"
+      },
+      "artists": [
+        {
+          "name": "Joe Sinha Semple",
+          "url": "https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109838,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0GEbxK3DRICzhVpSorrdWa"
     },
     {
       "album": {
@@ -2716,6 +2886,28 @@
       "duration_ms": 174000,
       "name": "Nkiru",
       "url": "https://open.spotify.com/track/55zxJfvUgLfLKUwFPksaSr"
+    },
+    {
+      "album": {
+        "name": "Nocturnal no. 1",
+        "url": "https://open.spotify.com/album/3XzIaLC1Dk0CVHMKsqbzcx"
+      },
+      "artists": [
+        {
+          "name": "Bettina Hummler",
+          "url": "https://open.spotify.com/artist/1W87kQ3emPG0HkiBBuOthS"
+        },
+        {
+          "name": "Sueno",
+          "url": "https://open.spotify.com/artist/5LqQjFKdMHRJkhIe8tC7ym"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129175,
+      "name": "Nocturnal no. 1",
+      "url": "https://open.spotify.com/track/30LknuH5MOLqS5w5arD37Q"
     },
     {
       "album": {
@@ -2937,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/5FA99bHIbC3rcxqI8QPkrP"
+      },
+      "artists": [
+        {
+          "name": "Colour Tones",
+          "url": "https://open.spotify.com/artist/5jkLnVqre8POPBFGsapMsK"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Palette Blu",
+      "url": "https://open.spotify.com/track/0o5BzHnMNgU6ysIoYBjoQU"
+    },
+    {
+      "album": {
         "name": "Paris Night",
         "url": "https://open.spotify.com/album/4m5i6Iof0SWCFwt4uT0YfC"
       },
@@ -2996,7 +3206,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 117984,
       "name": "peaceful sunset",
       "url": "https://open.spotify.com/track/0BUpsRYC2ssKx4kj0LvzCM"
@@ -3553,6 +3763,28 @@
     },
     {
       "album": {
+        "name": "Somata",
+        "url": "https://open.spotify.com/album/6H0mbJthlu9MzP9XyrUhnF"
+      },
+      "artists": [
+        {
+          "name": "Local Color",
+          "url": "https://open.spotify.com/artist/1wmzyttuIX3fh5j7JFRDbO"
+        },
+        {
+          "name": "Bayboat",
+          "url": "https://open.spotify.com/artist/31Zl5KANpXmuRElfltiPXV"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225998,
+      "name": "Somata",
+      "url": "https://open.spotify.com/track/5VyKjdbg0okTRL26PxdUtA"
+    },
+    {
+      "album": {
         "name": "Soothe, Vol. 5: Lullaby Dreams - Music for a Peaceful Escape",
         "url": "https://open.spotify.com/album/6O5uhu8C7c1QYQ7cKFxbea"
       },
@@ -3564,7 +3796,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 244782,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/3Ta5OTDDDLmWcVXeQAobZ5"
@@ -3634,6 +3866,24 @@
       "duration_ms": 99239,
       "name": "Songs of You",
       "url": "https://open.spotify.com/track/7cP0TS1fVS0X8VGsYj4DKa"
+    },
+    {
+      "album": {
+        "name": "Sorrow Serenade",
+        "url": "https://open.spotify.com/album/6Tu6Qk35PNRC9KVezzwBmd"
+      },
+      "artists": [
+        {
+          "name": "Moein Zand",
+          "url": "https://open.spotify.com/artist/7l7vY4LOPGfYb0btc0RyO1"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122308,
+      "name": "Sorrow Serenade",
+      "url": "https://open.spotify.com/track/7A4Ua2CgdoxjoWmfMXRhRh"
     },
     {
       "album": {
@@ -3760,7 +4010,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 95257,
       "name": "Sumeru Vimara Village (Piano Version)",
       "url": "https://open.spotify.com/track/6GOuoO55LeXr9Pe4X4sV9S"
@@ -4216,7 +4466,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 104516,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1qyPMSn0CcYirtrCSJHPtv"
@@ -4264,7 +4514,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 104132,
       "name": "Velvet Cloud",
       "url": "https://open.spotify.com/track/0zx7RA4vQD2Ur4tHiA1YTL"

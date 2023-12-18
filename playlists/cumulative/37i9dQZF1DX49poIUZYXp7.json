@@ -5392,10 +5392,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 218506,
       "name": "The Girl I Was",
       "url": "https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy"
+    },
+    {
+      "album": {
+        "name": "The Girl I Was",
+        "url": "https://open.spotify.com/album/2T16hAVVFc1j9YzSjaBdcs"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "The Girl I Was",
+      "url": "https://open.spotify.com/track/7gtrZllO63cTGVeFsy8da0"
     },
     {
       "album": {

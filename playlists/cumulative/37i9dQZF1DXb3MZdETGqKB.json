@@ -1864,6 +1864,10 @@
         {
           "name": "Davis Chris",
           "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
+        },
+        {
+          "name": "Mr Foster",
+          "url": "https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm"
         }
       ],
       "date_added": "2023-07-07",
@@ -3844,10 +3848,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 160183,
       "name": "Sunshine Blue",
       "url": "https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw"
+    },
+    {
+      "album": {
+        "name": "Sunshine Blue",
+        "url": "https://open.spotify.com/album/41AYEHSwnXU7Gmrw4DVrKC"
+      },
+      "artists": [
+        {
+          "name": "Freedust",
+          "url": "https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5"
+        },
+        {
+          "name": "Bardo",
+          "url": "https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Sunshine Blue",
+      "url": "https://open.spotify.com/track/6m1g7OX6k0CFK9y9LTFwQc"
     },
     {
       "album": {

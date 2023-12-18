@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: Hwang Chi Yeul\(황치열\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,885 likes - 264 songs - 15 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,941 likes - 264 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 263 | [Open Your Eyes](https://open.spotify.com/track/0z3nhpdXbtvvBxy1RCKjca) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.4](https://open.spotify.com/album/4yLlp2CKXFmk4HuFrXtfaA) | 4:08 |
 | 264 | [erase](https://open.spotify.com/track/1FDCMbIgAr4XP2zJnJt8PP) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [erase](https://open.spotify.com/album/6npLIMSJiDRysK5yqXM31W) | 2:43 |
 
-Snapshot ID: `MCwxMjY3Yzk1MDkwM2IzZTVkY2EyZGViZDNmYTNjZGU0MzU5Y2FhNmQ2`
+Snapshot ID: `MCwzNmM4OWMzNTMyODUyODFmZGZlOGRmMWNjOWVjMjAxODkzNzlkZGNm`

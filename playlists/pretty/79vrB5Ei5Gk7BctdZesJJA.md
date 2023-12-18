@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This week's curator is Lumpy from Daze Records
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,725 likes - 24 songs - 1 hr 17 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,722 likes - 24 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

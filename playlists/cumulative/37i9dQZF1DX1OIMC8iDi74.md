@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: Jon Casey & Pauline Herr
 
-318 songs - 17 hr 23 min
+319 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [No Limit](https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Limit](https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0) | 3:00 | 2021-12-03 | 2022-02-02 |
 | [No More \- chromonicci Remix](https://open.spotify.com/track/7llGHIv1mHxhXt0q72ReCL) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Trinity \(The Remixes\)](https://open.spotify.com/album/3pmgVDuRtbAIpoRYI4ZcQJ) | 2:40 | 2021-11-19 | 2022-02-01 |
 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 | 2021-11-19 | 2022-02-02 |
-| [NO TOMORROW](https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr) | 2:54 | 2022-07-14 |  |
+| [NO TOMORROW](https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr) | 2:54 | 2022-07-14 | 2023-12-18 |
 | [NO TOMORROW](https://open.spotify.com/track/0dLHJRrBKfLM3OwLHvrmEd) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/4v7TAHvOlgbPlwojDlcyi3) | 2:54 | 2021-11-19 | 2022-07-29 |
 | [Not Into It](https://open.spotify.com/track/2eyzSwocgk3NVUVoTsu6VM) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Growing Pains](https://open.spotify.com/album/7iRxKeXqBkm0cXlmAe1qMO) | 2:44 | 2023-12-01 |  |
 | [Nothing Less](https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [futura](https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND) | 3:26 | 2021-11-19 | 2023-03-07 |
@@ -258,6 +258,7 @@
 | [Shut Shit Down](https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut Shit Down](https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ) | 2:42 | 2023-10-27 |  |
 | [SIDE2SIDE](https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [SIDE2SIDE](https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH) | 3:53 | 2023-06-09 | 2023-07-28 |
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 | 2023-12-11 |
+| [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/6F3eFeqRMgjnPrFJGiosdd) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Silo \(feat\. fknsyd\)](https://open.spotify.com/album/2e6ev74vWl4wuJXuxpDjf8) | 4:07 | 2023-10-27 |  |
 | [Sinner](https://open.spotify.com/track/6r4evry8ZJxJRkjKBiHncf) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Sinner](https://open.spotify.com/album/2kpCIlKMYr7Z0AZbhBCoTb) | 3:38 | 2021-11-19 | 2022-02-02 |
 | [Slow Burn](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:04 | 2022-02-01 | 2023-12-09 |
 | [Sober](https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sober](https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt) | 3:44 | 2022-02-01 |  |

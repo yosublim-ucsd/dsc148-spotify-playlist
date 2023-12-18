@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 46977,
+  "num_followers": 47000,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDE5OWY2NWMwNjM1MTViOTk2ZTA0YjJhMTExODRhMzA3ZTE4Yjdi",
+  "snapshot_id": "MCxkY2JmODhkZDJjM2E5ZjAxZTE2MGJjY2I4YWNmMGY4MTIwNjAyNzY2",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -27,8 +27,8 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "RUSH! (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 216997,
-      "name": "VALENTINE",
-      "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
+      "duration_ms": 164682,
+      "name": "BABY SAID",
+      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -147,8 +147,8 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 164682,
-      "name": "BABY SAID",
-      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
+      "duration_ms": 216997,
+      "name": "VALENTINE",
+      "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -899,18 +899,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Tonto, Mole, Trouxa (e meio devagar)",
-        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
       },
       "artists": [
         {
           "name": "Hotelo",
           "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 131986,
-      "name": "Tonto, Mole, Trouxa (e meio devagar)",
-      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
+      "duration_ms": 205913,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
+        "name": "Tonto, Mole, Trouxa (e meio devagar)",
+        "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
       },
       "artists": [
         {
           "name": "Hotelo",
           "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 205913,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
+      "duration_ms": 131986,
+      "name": "Tonto, Mole, Trouxa (e meio devagar)",
+      "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
     },
     {
       "added_at": "2023-12-15 03:00:00",

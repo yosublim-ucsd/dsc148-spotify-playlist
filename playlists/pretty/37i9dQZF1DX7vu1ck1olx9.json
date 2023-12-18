@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 67930,
+  "num_followers": 68044,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDFiYWRmYzQ4M2JkZDEzZDBjNTBjMTk2NjU0ODIyZGE3ODliYTlk",
+  "snapshot_id": "MCxmMWFjY2FkMmYwZjU4ZjNiNGFjZTA2NGE2NTNjNTRjMDA1NDQ2ZmY2",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "butter",
+        "url": "https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "duration_ms": 138904,
+      "name": "butter",
+      "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "adjustment",
         "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 125500,
       "name": "shelter",
       "url": "https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "butter",
-        "url": "https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS"
-      },
-      "artists": [
-        {
-          "name": "lilibu",
-          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
-        }
-      ],
-      "duration_ms": 138904,
-      "name": "butter",
-      "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "roadtrip",
-        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
-      },
-      "artists": [
-        {
-          "name": "Trixie Muff",
-          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "roadtrip",
-      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Grounding",
         "url": "https://open.spotify.com/album/2KqN3WUFFfQmRhRtVacP4N"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 128046,
       "name": "moon inhale",
       "url": "https://open.spotify.com/track/3AwO7k4camAuHP5jaowl0D"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "roadtrip",
+        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
+      },
+      "artists": [
+        {
+          "name": "Trixie Muff",
+          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "roadtrip",
+      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "lushus",
-        "url": "https://open.spotify.com/album/04oFHAAaGt8r2e0CadyobL"
-      },
-      "artists": [
-        {
-          "name": "Valhallz",
-          "url": "https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "lushus",
-      "url": "https://open.spotify.com/track/72a4PQMEocPH3IZV3QyyzZ"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "cabin in the woods",
         "url": "https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 153000,
       "name": "dreamers",
       "url": "https://open.spotify.com/track/4bPJW9pNtuvMujHnbxEN1g"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "lushus",
+        "url": "https://open.spotify.com/album/04oFHAAaGt8r2e0CadyobL"
+      },
+      "artists": [
+        {
+          "name": "Valhallz",
+          "url": "https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "lushus",
+      "url": "https://open.spotify.com/track/72a4PQMEocPH3IZV3QyyzZ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "questa terra",
+        "url": "https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx"
+      },
+      "artists": [
+        {
+          "name": "takemefaraway",
+          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "duration_ms": 147230,
+      "name": "questa terra",
+      "url": "https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Forever Dream",
         "url": "https://open.spotify.com/album/3QCs3UZfTnPiDSvINQ90U7"
       },
@@ -1219,22 +1239,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "cloudy dreams & husky sun",
-        "url": "https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u"
-      },
-      "artists": [
-        {
-          "name": "yoshi the brilliant",
-          "url": "https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "cloudy dreams",
-      "url": "https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "exhale",
         "url": "https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6"
       },
@@ -1247,6 +1251,22 @@
       "duration_ms": 139900,
       "name": "exhale",
       "url": "https://open.spotify.com/track/5fuN7iE4fymbpYdegHyM6Y"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "cloudy dreams & husky sun",
+        "url": "https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u"
+      },
+      "artists": [
+        {
+          "name": "yoshi the brilliant",
+          "url": "https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "cloudy dreams",
+      "url": "https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1283,22 +1303,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "questa terra",
-        "url": "https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx"
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0"
       },
       "artists": [
         {
-          "name": "takemefaraway",
-          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
-        },
-        {
-          "name": "Nick's chill factory",
-          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
         }
       ],
-      "duration_ms": 147230,
-      "name": "questa terra",
-      "url": "https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL"
+      "duration_ms": 146206,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 131625,
       "name": "green velvet",
       "url": "https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 146206,
-      "name": "Encounter",
-      "url": "https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Rekindle the Past",
-        "url": "https://open.spotify.com/album/07sS8e5gtXTt70It4bKe7M"
-      },
-      "artists": [
-        {
-          "name": "biosphere",
-          "url": "https://open.spotify.com/artist/6sa0lNcq7YdXNnQKZHFb0D"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "bouquet of balloons",
-      "url": "https://open.spotify.com/track/3m3IcXx0tjp9tgkisn60YE"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Inceptions",
         "url": "https://open.spotify.com/album/52OgGdDDUt2tkFe6z4hT2P"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 120000,
       "name": "Inceptions",
       "url": "https://open.spotify.com/track/0sqk7TgOIVVp6zFCccxRNU"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Rekindle the Past",
+        "url": "https://open.spotify.com/album/07sS8e5gtXTt70It4bKe7M"
+      },
+      "artists": [
+        {
+          "name": "biosphere",
+          "url": "https://open.spotify.com/artist/6sa0lNcq7YdXNnQKZHFb0D"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "bouquet of balloons",
+      "url": "https://open.spotify.com/track/3m3IcXx0tjp9tgkisn60YE"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "peaceful",
+        "url": "https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2"
+      },
+      "artists": [
+        {
+          "name": "Tooslo",
+          "url": "https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK"
+        }
+      ],
+      "duration_ms": 127918,
+      "name": "peaceful",
+      "url": "https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Tangerine Hues",
         "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W"
-      },
-      "artists": [
-        {
-          "name": "Yestalgia",
-          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
-        }
-      ],
-      "duration_ms": 143376,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "cool nights",
         "url": "https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 156583,
       "name": "cool nights",
       "url": "https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W"
+      },
+      "artists": [
+        {
+          "name": "Yestalgia",
+          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
+        }
+      ],
+      "duration_ms": 143376,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1995,22 +2011,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "peaceful",
-        "url": "https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2"
-      },
-      "artists": [
-        {
-          "name": "Tooslo",
-          "url": "https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK"
-        }
-      ],
-      "duration_ms": 127918,
-      "name": "peaceful",
-      "url": "https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "weak",
         "url": "https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA"
       },
@@ -2107,6 +2107,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/5fyichdZZd9eay631EGKHj"
+      },
+      "artists": [
+        {
+          "name": "GentleBeatz",
+          "url": "https://open.spotify.com/artist/6SgXRhAHCIFsnfnkET5QTH"
+        },
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "duration_ms": 141701,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/5qal4ZbTdvyDSf2V8BLALE"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Pixels",
         "url": "https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb"
       },
@@ -2127,22 +2147,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/5fyichdZZd9eay631EGKHj"
+        "name": "Pillow",
+        "url": "https://open.spotify.com/album/5hFTcd1iDgzTiXUli1lkCf"
       },
       "artists": [
         {
-          "name": "GentleBeatz",
-          "url": "https://open.spotify.com/artist/6SgXRhAHCIFsnfnkET5QTH"
-        },
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+          "name": "Hickah",
+          "url": "https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V"
         }
       ],
-      "duration_ms": 141701,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/5qal4ZbTdvyDSf2V8BLALE"
+      "duration_ms": 123319,
+      "name": "Pillow",
+      "url": "https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -2219,22 +2235,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Pillow",
-        "url": "https://open.spotify.com/album/5hFTcd1iDgzTiXUli1lkCf"
-      },
-      "artists": [
-        {
-          "name": "Hickah",
-          "url": "https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V"
-        }
-      ],
-      "duration_ms": 123319,
-      "name": "Pillow",
-      "url": "https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Evenfall",
         "url": "https://open.spotify.com/album/013FKvYGz1rBKu27p1EffR"
       },
@@ -2307,18 +2307,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Siberia",
-        "url": "https://open.spotify.com/album/6AsQWm786mT8dAS1UO4Jnl"
+        "name": "night.owls",
+        "url": "https://open.spotify.com/album/38C1rKJer6SKMCqW6opJZR"
       },
       "artists": [
         {
-          "name": "Neotic",
-          "url": "https://open.spotify.com/artist/55SjXjCJHjUeSpgY0Wepfd"
+          "name": "flat.moon.society",
+          "url": "https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb"
         }
       ],
-      "duration_ms": 106727,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/5m0yoVmVM1RbqhDHOmtYFc"
+      "duration_ms": 163764,
+      "name": "night.owls",
+      "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Siberia",
+        "url": "https://open.spotify.com/album/6AsQWm786mT8dAS1UO4Jnl"
+      },
+      "artists": [
+        {
+          "name": "Neotic",
+          "url": "https://open.spotify.com/artist/55SjXjCJHjUeSpgY0Wepfd"
+        }
+      ],
+      "duration_ms": 106727,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/5m0yoVmVM1RbqhDHOmtYFc"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/0skX6Q07XnamApCH3oWuAh"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 159000,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3QAyC3lilsgZ2ZyzMHibYN"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "night.owls",
-        "url": "https://open.spotify.com/album/38C1rKJer6SKMCqW6opJZR"
-      },
-      "artists": [
-        {
-          "name": "flat.moon.society",
-          "url": "https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "night.owls",
-      "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
     },
     {
       "added_at": "2023-12-15 00:01:00",

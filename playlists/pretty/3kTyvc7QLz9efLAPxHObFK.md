@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 15 likes - 1,084 songs - 2 day 13 hr 5 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 15 likes - 1,088 songs - 2 day 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1092,5 +1092,9 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1082 | [Detonate](https://open.spotify.com/track/2c7Jv9fSxjPS0kxMZkqHky) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6) | [Detonate](https://open.spotify.com/album/517fKTIPfH45YYWLIp4zGf) | 2:50 |
 | 1083 | [What It Feels Like](https://open.spotify.com/track/4v92frjOGG0wEWQUl2GORt) | [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [What It Feels Like](https://open.spotify.com/album/3xZ3JaSZNsPmfwKM7rfNxw) | 3:14 |
 | 1084 | [FUCKIN KICKDRUM](https://open.spotify.com/track/3VoAwRSMcd7tU7iJ6LQrDO) | [Skull Demon](https://open.spotify.com/artist/2S0ARB7meisIgCWq01As9p), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [FUCKIN KICKDRUM](https://open.spotify.com/album/5mEFXrZfCubqvlbMiM7sb0) | 2:57 |
+| 1085 | [Louder Generation](https://open.spotify.com/track/22mTYEazHE0rCp8nSyRlDp) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [Louder Generation](https://open.spotify.com/album/2I9roE7oFoKfvMIGktWFGw) | 3:26 |
+| 1086 | [VIRUS \(IN MY MIND\)](https://open.spotify.com/track/70F9KVJPBkyBRtqj6646NV) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [VIRUS \(IN MY MIND\)](https://open.spotify.com/album/0y2GsOUwc2O8147YxzVrtl) | 3:21 |
+| 1087 | [MY THERAPY](https://open.spotify.com/track/34dJnMLYjSz5DHbNGPsXtA) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [MY THERAPY](https://open.spotify.com/album/0GdzjWiQwwUptNFANQGI6i) | 2:48 |
+| 1088 | [So Cold](https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [So Cold](https://open.spotify.com/album/0iCFyqcvr2DMB14ZdOX2M6) | 3:20 |
 
-Snapshot ID: `MTEyNyxiZjZjMTEyMDRlNTdhMTM3ZDU4NTdkMTVkNzk2Y2UzYTExOWM0ZTlk`
+Snapshot ID: `MTEzMSxkNjZmMjYwYjM3OWFjZjk0OGU0MTJjMDM1NjRkMGNiZTkyMDhiOTM1`

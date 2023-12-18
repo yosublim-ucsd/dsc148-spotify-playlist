@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Cubita.  ",
-  "num_followers": 191477,
+  "num_followers": 191551,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTMxNTBjNmY3MGQ2ZjhkZjVhZTc2YWM2YjNkYWQ2NDJmYThmMzAz",
+  "snapshot_id": "MCw0NTRlMWQ3NzQ2Yjg1OTM4NDUxYzUxODQ3N2ZmMTM4NDMwZWM0NTBi",
   "tracks": [
     {
       "added_at": "2023-12-15 00:00:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Sabi",
-        "url": "https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 200983,
-      "name": "Sabi",
-      "url": "https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Safadeza",
         "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 189064,
       "name": "Safadeza",
       "url": "https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Sabi",
+        "url": "https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 200983,
+      "name": "Sabi",
+      "url": "https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/0Hkdn3XNPCGajcT6S73thC"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Mi\u00fada Linda",
+      "url": "https://open.spotify.com/track/0ekgdkhtSRrulobfo6kMMY"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Homem Que \u00c9 Homem",
         "url": "https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 216868,
       "name": "Homem Que \u00c9 Homem",
       "url": "https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Puro",
         "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 263906,
       "name": "Puro",
       "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Four",
-        "url": "https://open.spotify.com/album/0Hkdn3XNPCGajcT6S73thC"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Mi\u00fada Linda",
-      "url": "https://open.spotify.com/track/0ekgdkhtSRrulobfo6kMMY"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "The Gentleman",
         "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 232421,
       "name": "Super Mulher",
       "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Caixa Azul",
-        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "J\u00e1 Deu",
-        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 227685,
-      "name": "J\u00e1 Deu",
-      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Dpos D' Quarentena",
         "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
       },
@@ -1763,18 +1743,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Esperado",
-        "url": "https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr"
+        "name": "J\u00e1 Deu",
+        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
       "artists": [
         {
-          "name": "Messias Maricoa",
-          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 210424,
-      "name": "Corno",
-      "url": "https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND"
+      "duration_ms": 227685,
+      "name": "J\u00e1 Deu",
+      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1795,6 +1779,22 @@
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Esperado",
+        "url": "https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr"
+      },
+      "artists": [
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "duration_ms": 210424,
+      "name": "Corno",
+      "url": "https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Do Teu Jeito",
-        "url": "https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        }
-      ],
-      "duration_ms": 193045,
-      "name": "Do Teu Jeito",
-      "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Ser Feliz",
         "url": "https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR"
       },
@@ -1895,6 +1879,26 @@
       "duration_ms": 205785,
       "name": "Ser Feliz",
       "url": "https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Filho do Zua",
+          "url": "https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm"
+        }
+      ],
+      "duration_ms": 192702,
+      "name": "Sentimento",
+      "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
     }
   ],
   "unique_name": "Dancing Kizomba",

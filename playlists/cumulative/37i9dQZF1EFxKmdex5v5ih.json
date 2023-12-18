@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 176542,
       "name": "already there",
       "url": "https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 181280,
       "name": "already there",
       "url": "https://open.spotify.com/track/6vMJTYw3aJL8CvSJMZ2P5l"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 181706,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/1305H2NYoSJJpRodGdh5yZ"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 239253,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/0da8lxTVokOyOmpMKZpQuj"
@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 201536,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/792wj4fbYgH66u8khzAUSj"
@@ -2914,7 +2914,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 224213,
       "name": "I Don't Think About You",
       "url": "https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra"
@@ -3266,10 +3266,28 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 227749,
       "name": "In The Kitchen",
       "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
+    },
+    {
+      "album": {
+        "name": "In The Kitchen",
+        "url": "https://open.spotify.com/album/59NRSAaIARSG6fJPaLIg5e"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251843,
+      "name": "In The Kitchen",
+      "url": "https://open.spotify.com/track/2CgfOhS0asWMKo1R1yybNQ"
     },
     {
       "album": {
@@ -3284,7 +3302,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -3302,7 +3320,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 218384,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/6lIuGFc0Db8qazO9gEpnni"
@@ -3802,7 +3820,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 218382,
       "name": "Lie Like This",
       "url": "https://open.spotify.com/track/1rqIA9CG4Vj44JYVqBpxIj"
@@ -3820,7 +3838,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 223222,
       "name": "Lie Like This",
       "url": "https://open.spotify.com/track/3pfPmHldkQ6JM1Aj8LaxFg"
@@ -4396,7 +4414,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 195111,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3G3OsZQKVUyS2ELc3yTKGM"
@@ -5666,7 +5684,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 243186,
       "name": "Quite Miss Home",
       "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
@@ -5684,7 +5702,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 256362,
       "name": "Quite Miss Home",
       "url": "https://open.spotify.com/track/37BYxYcdeTCoiXm9YR12Bk"
@@ -6586,7 +6604,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 156684,
       "name": "Talk You Down",
       "url": "https://open.spotify.com/track/5y41zHFubnN6T5TpU8wHOx"
@@ -6604,7 +6622,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 162453,
       "name": "Talk You Down",
       "url": "https://open.spotify.com/track/3svRM2uWSrOqptOjICWsd3"
@@ -7432,7 +7450,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 189375,
       "name": "Wildcard (feat. Sidnie Tipton)",
       "url": "https://open.spotify.com/track/4d3UnYs8dRDDd93MVaoj74"
@@ -7454,7 +7472,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-18",
       "duration_ms": 191357,
       "name": "Wildcard (feat. Sidnie Tipton)",
       "url": "https://open.spotify.com/track/5ZidLKDoGmkwdI7w5jUxdS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Digital Astro, Niky Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,618 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,622 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Dakar](https://open.spotify.com/track/0e1L1DTR2koDnvZJ4n3ljJ) | [Abe Kayn](https://open.spotify.com/artist/1U7o0SH2ec5y6KnMJgyjGn), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Flaco Pnz](https://open.spotify.com/artist/6CaMJhccw2F1BhhtS1QCgj), [Paco](https://open.spotify.com/artist/5DN3xDZBYJwXznoicLtbSy), [Svg Pnz](https://open.spotify.com/artist/5C18A3u0i59737iDQas7eO), [WadeLeVrai](https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW) | [Dakar](https://open.spotify.com/album/1FbAGKKdivCNVeoNmtJWCM) | 3:18 |
 | 50 | [Come a Dakar](https://open.spotify.com/track/6a9yidr8DpQwO8qNY29x5B) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [Come a Dakar](https://open.spotify.com/album/20jMLLeQuGTntObzVBXyzW) | 2:05 |
 
-Snapshot ID: `MCxjOWE1Y2QwNTY4ZGFkYTkyYzgwOTMyMTZlNWUzNTFlNDQxYjBhN2Iy`
+Snapshot ID: `MCw2OWRjNTdlMzZiZTFiNTVjODgwNWRlNjBjMGZlMzI3YTE3MmEwOGI4`

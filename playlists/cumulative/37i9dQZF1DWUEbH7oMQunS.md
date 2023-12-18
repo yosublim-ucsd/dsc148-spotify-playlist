@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-145 songs - 10 hr 9 min
+146 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Brave New World \(Instrumental\)](https://open.spotify.com/track/2Ca3o4dhghbtJgrtgOzyw3) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/3oQQHU0q1xYRXOLZuaqFwb) | 1:59 | 2018-02-14 | 2022-07-29 |
 | [Brave New World \- Instrumental](https://open.spotify.com/track/2bg7epYk9RK63b710n9sUA) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 1:59 | 2018-02-14 | 2023-07-29 |
 | [Breathe My Name](https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/6OkoWwEPpRocbPoK7uNiJx) | 2:55 | 2023-07-28 | 2023-12-09 |
+| [Breathe My Name](https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR) | 2:55 | 2023-07-28 |  |
 | [Broke33](https://open.spotify.com/track/166QeYXOW2yS5Xy3q9V3GK) | [Medisin](https://open.spotify.com/artist/6lIxY5ICk6CAzFHERpAZnv) | [539 / 918](https://open.spotify.com/album/0s4EPOmFEtFvVxydSdnubg) | 2:42 | 2018-07-07 | 2023-07-29 |
 | [Call on Your Name \- Piano Version](https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name \(Piano Version\)](https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn) | 3:48 | 2023-07-28 |  |
 | [Celeste](https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv) | [Kye Kye](https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ) | [Fantasize](https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3) | 3:44 | 2018-02-14 |  |
@@ -49,7 +50,7 @@
 | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb) | [NIRVA](https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U), [Jimmy James](https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D) | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb) | 3:30 | 2023-07-28 |  |
 | [Glorious Ruins](https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Glorious Ruins](https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7) | 4:05 | 2023-07-28 |  |
 | [GO BACK](https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [GO BACK](https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1) | 2:37 | 2023-07-28 |  |
-| [God Keep Us](https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr) | [Gamie](https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G) | [SEVEN](https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n) | 3:07 | 2023-07-28 |  |
+| [God Keep Us](https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr) | [Gamie](https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G) | [SEVEN](https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n) | 3:07 | 2023-07-28 | 2023-12-18 |
 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 | 2023-07-28 |  |
 | [Good Things](https://open.spotify.com/track/1CSSjxVMn8S51x1kC2yJ4z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Luis Vicens](https://open.spotify.com/artist/3rCr2BPIbxiC5aikVFhPlk) | [Walk with You](https://open.spotify.com/album/0qFxivCbnRrBlXwhvQlrYV) | 6:14 | 2023-07-28 |  |
 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 | 2023-07-28 |  |

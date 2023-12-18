@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rara Sudirman
 
-2,888 songs - 7 day 9 hr 21 min
+2,889 songs - 7 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2580,6 +2580,7 @@
 | [Terpukau](https://open.spotify.com/track/07vsWrybbO9frK8XDTsqQH) | [Hidden Colors](https://open.spotify.com/artist/5mAYbkFonULWhG5hHbjDEg) | [Terpukau](https://open.spotify.com/album/3bXY18S658jFr0ukgejY1Z) | 3:25 | 2022-09-22 | 2022-10-14 |
 | [Tersadar](https://open.spotify.com/track/1rBjtoBPo00nvBwEBBdV51) | [Lil Wisky](https://open.spotify.com/artist/7v0bZ6zBO13T7pyaLh4i1U) | [Tersadar](https://open.spotify.com/album/7tW1RFaATTTs7eO2yO1kx4) | 3:04 | 2022-01-13 | 2022-01-28 |
 | [Tersenyum Lagi](https://open.spotify.com/track/1N9rpYz37AmBAK6XAdKtH4) | [Tenty Kamal](https://open.spotify.com/artist/2oizaPrBzAj2754qyq20ly) | [Tersenyum Lagi](https://open.spotify.com/album/1ZlGxNhilVNnGUGHwD09fo) | 3:37 | 2022-11-24 | 2022-12-01 |
+| [Terserah](https://open.spotify.com/track/7kvNngJtG3bvUXEAZgob1F) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Urbanisme](https://open.spotify.com/album/7dilk1N60lItMZSfqUQDME) | 3:12 | 2023-12-14 |  |
 | [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2022-06-30 | 2023-01-13 |
 | [Tertidur Lelap](https://open.spotify.com/track/4C5E7XRZloTDSqStDVFBmt) | [Haliya](https://open.spotify.com/artist/3mElqeVM0OocytLEYXJpYh) | [Tertidur Lelap](https://open.spotify.com/album/1U7FcV0hi5C60i5mzFjRYu) | 2:56 | 2022-01-06 | 2022-01-21 |
 | [Terukir Abadi](https://open.spotify.com/track/4wSoXylepqneGa7q3rdlzO) | [Fahrel Fachdar](https://open.spotify.com/artist/31TvZB1SvuOgZUXDklJf0V) | [Terukir Abadi](https://open.spotify.com/album/5dXYsYHY7miK1Ikh6XS9h2) | 2:31 | 2022-01-27 | 2022-02-11 |

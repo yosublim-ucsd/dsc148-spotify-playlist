@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,972 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,983 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 177 | [Beautiful Moment](https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Beauty Inside Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN) | 3:58 |
 | 178 | [HeeJae](https://open.spotify.com/track/10PzmnIzAwd4vRRDUamEwr) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [HeeJae \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wqchZ5AFWr6akPCH6h74O) | 4:41 |
 | 179 | [외워 두세요](https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Double Life ; The Other Side](https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98) | 4:26 |
-| 180 | [Farewell In Tears](https://open.spotify.com/track/0nbO8Vw4XVkVQF0rSw9lBf) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt\. 5 \(Original Television SoundTrack\)](https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB) | 4:16 |
+| 180 | [Farewell In Tears](https://open.spotify.com/track/4h2hj48P7eQuhPLfb5lE6q) | [Huhgak](https://open.spotify.com/artist/16UoIs2XQBPrSg0LAH0N9y) | [The World of the Married, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5jHEbINRYO3EXIH3G1pSPl) | 4:16 |
 | 181 | [Cosmos](https://open.spotify.com/track/35zlb9CNR4eAaApeBf9DIi) | [Huhgak](https://open.spotify.com/artist/16UoIs2XQBPrSg0LAH0N9y) | [Clean With Passion For Now, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/3WuQoJSNfbgY1O0fa0oEt6) | 4:13 |
 | 182 | [See you later](https://open.spotify.com/track/49YuuWJfFdTVQVAhIKJayp) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [See you later](https://open.spotify.com/album/3rCEmiDMGkp5ErKv218n6k) | 3:36 |
 | 183 | [Love you](https://open.spotify.com/track/2AaFVIvvx4IofzSMuaLkbe) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [The K2 \(Original Television Soundtrack\), Pt 4](https://open.spotify.com/album/62zPzFcvW08FhyggfphnlK) | 3:49 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCw0YzNkYWM4NzYxODU2NDE1MzUxNWRmMDhmN2I4ODExZmQwNzQzMTM0`
+Snapshot ID: `MCw2NjE2YTY4ODk3MmQyMjMzNWZlYjliNWRkZTZlZWQ1Mjg1MTZjNzdm`
