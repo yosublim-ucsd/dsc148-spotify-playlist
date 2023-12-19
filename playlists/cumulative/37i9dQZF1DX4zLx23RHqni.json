@@ -181,6 +181,24 @@
     },
     {
       "album": {
+        "name": "Anniku Raathiri",
+        "url": "https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP"
+      },
+      "artists": [
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193918,
+      "name": "Anniku Raathiri",
+      "url": "https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo"
+    },
+    {
+      "album": {
         "name": "Cute-u Jaanu (From \"MM Originals\") (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2gOm8c2vbbANJqYkyuZ93c"
       },

@@ -2,9 +2,9 @@
 
 ### [Dillihood](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Rap from the hoods of Dilli featuring KR$NA & Raftaar
+> Rap from the hoods of Dilli featuring Ikka
 
-113 songs - 5 hr 57 min
+114 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Dev Nagri](https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri](https://open.spotify.com/album/5wdDntwoQKW8E5WmLhH5qC) | 4:25 | 2023-08-08 |  |
 | [Dil De Lootere](https://open.spotify.com/track/0qjMIcin9USqA40r5Nkfd0) | [Prince The Artist Singh](https://open.spotify.com/artist/2kEU1NNJORHNJabD0tdO1E), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 4](https://open.spotify.com/album/2asL9qawShRF7ROBquzb6V) | 3:00 | 2023-11-08 |  |
 | [Dilli](https://open.spotify.com/track/7yVqIPygOGA57KoWbwpGcc) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Dilli](https://open.spotify.com/album/5Uw4CQIzBTgd2PeGnlFnvc) | 2:53 | 2023-05-04 | 2023-10-13 |
-| [Dilli Hood](https://open.spotify.com/track/65ahEdvNV5Iifc0P3WvlE7) | [Wonder Boy](https://open.spotify.com/artist/5wEks61BYKXplJOIIFHA6f) | [Dilli Hood](https://open.spotify.com/album/6Szj7ohKeYWizDzIiRvhUF) | 2:30 | 2023-12-06 |  |
+| [Dilli Hood](https://open.spotify.com/track/65ahEdvNV5Iifc0P3WvlE7) | [Wonder Boy](https://open.spotify.com/artist/5wEks61BYKXplJOIIFHA6f) | [Dilli Hood](https://open.spotify.com/album/6Szj7ohKeYWizDzIiRvhUF) | 2:30 | 2023-12-06 | 2023-12-19 |
 | [Dream Girl](https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 1](https://open.spotify.com/album/3Tlu6jzZC14qM7ywCYA1Hq) | 3:18 | 2023-11-08 |  |
 | [Drifta](https://open.spotify.com/track/7mdYZBW0QlFjClvN1a7hyL) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [DAKSH](https://open.spotify.com/artist/78bNETOrFeEr5MISnz1wMH) | [Drifta](https://open.spotify.com/album/0s7h4UyNaW4j3mwOQwbCgV) | 2:46 | 2023-11-17 | 2023-11-30 |
 | [Duniya Makkaar](https://open.spotify.com/track/78C9fInl0QUYAQBsEenYVC) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:38 | 2023-10-12 |  |
@@ -65,6 +65,7 @@
 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 | 2023-11-29 |  |
 | [KPKWK](https://open.spotify.com/track/4TSwePgh0HImQVd6ZARgri) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Kasam Paida Karne Wale Ki](https://open.spotify.com/album/5z0wEYUqQSFOb3hFfq6qDY) | 2:06 | 2023-09-01 |  |
 | [Kya Haal Hai Bro?](https://open.spotify.com/track/1rgth5QwNoJ1N8NmR6Xw5B) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Kya Haal Hai Bro?](https://open.spotify.com/album/4ANdzXnb8riLng8auviFnv) | 2:59 | 2023-03-10 | 2023-10-12 |
+| [Laadla](https://open.spotify.com/track/57LA3fJhESaZtMcxMzR4RT) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Laadla](https://open.spotify.com/album/4t1RG86twVCa2cipVdnPmW) | 2:57 | 2023-12-18 |  |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 |  |
 | [Lena Mera Naam](https://open.spotify.com/track/3O7ZGvPlFyrlZafkVcUDnW) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Lena Mera Naam](https://open.spotify.com/album/5QslV1zMHTGKnVrfckuysx) | 2:18 | 2023-03-10 |  |
 | [Level Up](https://open.spotify.com/track/5PJtYb15Li1uo6EWNFWif6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Level Up](https://open.spotify.com/album/2nCWTEDqE4wUyDPPoSL1p5) | 3:54 | 2023-03-10 | 2023-10-12 |

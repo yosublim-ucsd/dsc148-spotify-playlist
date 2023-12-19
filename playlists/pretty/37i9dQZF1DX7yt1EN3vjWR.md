@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 【全セットリスト公開！特別インタビューも】国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>。2023年5月27日\(土\)、5月28日\(日\)に幕張メッセで二日間開催！
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,198 likes - 268 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,197 likes - 268 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,7 +217,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 207 | [POP KILLERS](https://open.spotify.com/track/0JKLH3MfvHtHPGzWaPbaXO) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS](https://open.spotify.com/album/3dyCh1FE71PhGCYAQfIw6C) | 2:39 |
 | 208 | [SET](https://open.spotify.com/track/04DVa029QntbahXXZQXDDc) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [SET](https://open.spotify.com/album/2IXQwNgjtPYsr9gAapMsiF) | 2:30 |
 | 209 | [Never Get It](https://open.spotify.com/track/1KL87XeNAfA4ittn3yFL13) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Never Get It](https://open.spotify.com/album/4SdEQPJbOScadpRfI6xaXh) | 2:59 |
-| 210 | [Put In Work](https://open.spotify.com/track/1tiqzSIPixefgIWu9TnOZf) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Put In Work](https://open.spotify.com/album/7IZIU8i9vQCITsZeCyOsjh) | 2:31 |
+| 210 | [Put In Work](https://open.spotify.com/track/0DwcC94uYdBA3Iyck0mSm3) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Blood & Bones \(BLOOD\)](https://open.spotify.com/album/2CyunDLz6Yge8ocHHZi4nN) | 2:31 |
 | 211 | [Hooligan](https://open.spotify.com/track/6E2BbzUWoSmFXInBBzN0AT) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [THE NEVER SURRENDERS COMPILATION](https://open.spotify.com/album/4ZCqXTmjVkYrhWMEO0qHtw) | 2:37 |
 | 212 | [Blue \(feat\. Jin Dogg\)](https://open.spotify.com/track/6hbHNlBB2XLrMcnHZKYFKa) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [COSMOS](https://open.spotify.com/album/4O6cOGaxXEf9QPKcrxx6Fc) | 3:10 |
 | 213 | [Machikaze](https://open.spotify.com/track/2vmGQQGlnw7319pnE3ggfE) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [REAL\-T](https://open.spotify.com/artist/6qupcgiWamRwRaYyiysUEP) | [3rd High "Resuscitation" \(mixed by DJ BULLSET\)](https://open.spotify.com/album/67iANbB3iesGmIAlUe79qf) | 2:57 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 267 | [洗脳 \(feat\. DOGMA & 鎮座DOPENESS\)](https://open.spotify.com/track/5U3cw41HA9bABafevfgwOU) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [DOGMA](https://open.spotify.com/artist/05h7GRDnd4aXm0u6OB5VdV), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [孔雀](https://open.spotify.com/album/4A9MCW9aZ5ps7uGHhXGFPY) | 3:58 |
 | 268 | [GILA GILA](https://open.spotify.com/track/7AsWduh1mkB8uKOox5NH0X) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 4:13 |
 
-Snapshot ID: `MCxjNGY0NzY2OWM3MmNjNDhhYjMyM2M5NDY2NzIzNmI2NzBkZDJmNDNm`
+Snapshot ID: `MCw4YjdiZjVmYmEwYjUxYzFjMmNlMzMyNzc0NzkxMDkxODdlMDk0ODkz`

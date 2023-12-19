@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds tracks from Africa this year\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=XU\-hT4i7TO\-GoA1GLDBjRA"> YKB </a>\. Artwork: Isu Kim.
 
-622 songs - 1 day 7 hr 27 min
+623 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,8 @@
 | [Sometimes](https://open.spotify.com/track/0q4CRMVCf5o6V1d6c6pVK3) | [Mist'riii](https://open.spotify.com/artist/2ET4fikSmaataNBz8cJM4e) | [Sometimes](https://open.spotify.com/album/4K8SHozX9PLHi2Dst9kCpx) | 3:43 | 2022-09-30 | 2023-01-26 |
 | [Song Of G](https://open.spotify.com/track/6Ug28Tl6LJs2V9fmBmKfeT) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [DEDICATED](https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ) | 4:56 | 2023-03-29 | 2023-06-06 |
 | [SOS](https://open.spotify.com/track/7xmfiscV802aQ3HT4pFkck) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [SOS](https://open.spotify.com/album/7pnqWYpZoj7vEEvMJMR38A) | 4:07 | 2023-09-27 | 2023-10-26 |
-| [Sotra](https://open.spotify.com/track/4klj4BGqrBns8hN2FuE4Je) | [Soweto Tshepiso](https://open.spotify.com/artist/4qV6nvT5Qluy5eCoolLKFa), [Zhsian Versar](https://open.spotify.com/artist/5GwD0ydkPu7ksXHVneYNfW), [Naviflesh The President](https://open.spotify.com/artist/64O6cdevuP6I4REULph0IT) | [Bad DeeDs, gOOd iNTENTIONs.](https://open.spotify.com/album/5uKfucjZrfx0Nwx0CgmJNj) | 3:48 | 2023-03-29 |  |
+| [Sotra](https://open.spotify.com/track/0KJtIjjrlni7xeDUaDzvhW) | [Soweto Tshepiso](https://open.spotify.com/artist/4qV6nvT5Qluy5eCoolLKFa), [Naviflesh The President](https://open.spotify.com/artist/64O6cdevuP6I4REULph0IT), [Zhsian Versar](https://open.spotify.com/artist/5GwD0ydkPu7ksXHVneYNfW) | [Bad Deeds, Good Intentions.](https://open.spotify.com/album/4WaC1Yf53trbq7Cw6psp4n) | 3:48 | 2023-11-29 |  |
+| [Sotra](https://open.spotify.com/track/4klj4BGqrBns8hN2FuE4Je) | [Soweto Tshepiso](https://open.spotify.com/artist/4qV6nvT5Qluy5eCoolLKFa), [Zhsian Versar](https://open.spotify.com/artist/5GwD0ydkPu7ksXHVneYNfW), [Naviflesh The President](https://open.spotify.com/artist/64O6cdevuP6I4REULph0IT) | [Bad DeeDs, gOOd iNTENTIONs.](https://open.spotify.com/album/5uKfucjZrfx0Nwx0CgmJNj) | 3:48 | 2023-03-29 | 2023-12-19 |
 | [Speed](https://open.spotify.com/track/0fi9ik8VYopdEniltywFPB) | [Gosby](https://open.spotify.com/artist/0HQjnQJP084JEYuqGNJ7B0) | [Speed](https://open.spotify.com/album/2rzzeFv6UvtS4LZ0AA04dI) | 3:27 | 2022-10-28 | 2023-01-26 |
 | [Sphila](https://open.spotify.com/track/0eRjEAAgM2ERSlIo98hviS) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Sphila](https://open.spotify.com/album/4b96sbHZRnkTRdUvlbiQga) | 5:49 | 2022-10-28 | 2023-01-26 |
 | [Spinning](https://open.spotify.com/track/4FWIITAWPbL9W28tXAf96x) | [Lak3side](https://open.spotify.com/artist/0ytn6ECGnWyNRCPmriBjgQ) | [Spinning](https://open.spotify.com/album/1msHJQyjb41fUgKLTtvy1V) | 2:47 | 2023-09-27 | 2023-10-26 |

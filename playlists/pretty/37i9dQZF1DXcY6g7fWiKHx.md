@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,024 likes - 214 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,039 likes - 214 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 213 | [Mackin'](https://open.spotify.com/track/7LWz1ZzKJSo6mgFxBLljb9) | [Futers](https://open.spotify.com/artist/4JU7JW69o7YSHnurml4XGF) | [U Get Me](https://open.spotify.com/album/5oHZ519kQ1YHqBTaExjgEa) | 6:47 |
 | 214 | [Attempt \(Lonely Heart Dub\)](https://open.spotify.com/track/4xJqdf9Rw8qY1arT8TgRSH) | [DJ Sprinkles](https://open.spotify.com/artist/6gIziDS7BnUum54F30BcHN), [Hardrock Striker](https://open.spotify.com/artist/078bFs8No6twUaZs5a3aiv), [Signal St](https://open.spotify.com/artist/7taRwtyxVeU61CRvEuMrNZ) | [Skylax House Explosion](https://open.spotify.com/album/1Xquo86HvysJ2DdIxQnRUB) | 6:54 |
 
-Snapshot ID: `MCxjY2M4MGQyYmM3YjdlNWRmNTkyYzIyMmNjZDg5OWUzNDUyNTAyZTVi`
+Snapshot ID: `MCxkNjNkMjkwY2JmYTA1OWJhOTY5M2QxYjk4Y2E5Mzg3ZmQxNTEwZGFj`

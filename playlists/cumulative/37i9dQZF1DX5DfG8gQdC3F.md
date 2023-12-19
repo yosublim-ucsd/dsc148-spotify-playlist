@@ -4,7 +4,7 @@
 
 > New music from Sum 41, Reneé Rapp & Megan Thee Stallion, ARDN & SiR, FRVRFRIDAY and more.
 
-10,114 songs - 22 day 10 hr 12 min
+10,115 songs - 22 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6235,7 +6235,8 @@
 | [Not Like This](https://open.spotify.com/track/4RNamHqD0iRXPqr2NNVJUs) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Not Like This](https://open.spotify.com/album/4tNAMvShlw1tTeIEND9TOm) | 3:26 | 2023-07-14 | 2023-07-22 |
 | [Not Mad](https://open.spotify.com/track/2LSLOF95FlWBCvHauAEU7e) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Not Mad](https://open.spotify.com/album/5kCujf0HXNP9lLnSzznIiU) | 3:28 | 2022-11-25 | 2022-12-03 |
 | [Not Me](https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Not Me](https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF) | 3:42 | 2022-07-22 | 2022-07-30 |
-| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-15 |  |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-15 | 2023-12-19 |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-15 |  |
 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-23 | 2022-10-01 |
 | [Not My Town](https://open.spotify.com/track/1m2lj9AXGk0Ca623AmOiOI) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Not My Town](https://open.spotify.com/album/1VUqg5wvZmuoElUxpO5598) | 2:40 | 2023-06-30 | 2023-07-08 |
 | [Not On Top](https://open.spotify.com/track/6CuGhY4NrPHeV5WXFMATEq) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Not On Top](https://open.spotify.com/album/2at7iu4InGv0OzOIiqAXRE) | 2:50 | 2023-06-02 | 2023-06-10 |

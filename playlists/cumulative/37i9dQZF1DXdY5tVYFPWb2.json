@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "ADVENTURE",
+        "url": "https://open.spotify.com/album/7bUJ1pvnhxdbFA7DyY0DJf"
+      },
+      "artists": [
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279240,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/6lH9cmLGwtrvzE3HJNylkI"
+    },
+    {
+      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/6PBkVGJLhMAI7hbZ2jYb4o"
       },
@@ -1438,6 +1456,24 @@
       "duration_ms": 243652,
       "name": "CITY BOY",
       "url": "https://open.spotify.com/track/3v0JBtr2GRE7fONwUaIGrS"
+    },
+    {
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/0fd3ncp2t3femdF8tRXksD"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198586,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/5JxfIHoC7GO0aczQPFqMkA"
     },
     {
       "album": {
@@ -6742,7 +6778,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 222818,
       "name": "Runner's High",
       "url": "https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR"
@@ -10518,7 +10554,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 149863,
       "name": "\u3072\u304b\u308a\u3092\u305f\u3081\u308b",
       "url": "https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg"

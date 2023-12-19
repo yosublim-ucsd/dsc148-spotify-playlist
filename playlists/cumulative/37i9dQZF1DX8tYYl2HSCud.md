@@ -4,17 +4,18 @@
 
 > Gentle ambient for a calm baby between bath time and bedtime.
 
-177 songs - 8 hr 32 min
+180 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [396 Hz Open Mind](https://open.spotify.com/track/2IDuOFkmxNV2Udp8p8oEf7) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:38 | 2023-03-10 |  |
 | [A Silence Upon Us](https://open.spotify.com/track/6px05fYH2S8XJOwcokJPwI) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Anew](https://open.spotify.com/album/6gTK7SLCG5JAxFLKvghEiu) | 2:08 | 2023-03-31 |  |
 | [A Small Pause](https://open.spotify.com/track/4QHEndaAkPF8Xg12e5uqdd) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Refraction Of Light](https://open.spotify.com/album/3XOiomjJPHuV4yaoNFU8Ie) | 2:37 | 2023-03-10 |  |
+| [A World Away](https://open.spotify.com/track/2q2BfGBehYrqv7SHkqzldR) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [A World Away](https://open.spotify.com/album/0QYPZ8iuY45cLrq3oFGMJG) | 2:20 | 2023-12-18 |  |
 | [Aerial](https://open.spotify.com/track/5ziRszGYU31KUp4AfHh4Yc) | [Levineci](https://open.spotify.com/artist/6htu8VXfPQRzB7bIsyWsqe) | [Aerial](https://open.spotify.com/album/2dIn22xee7AGSCWqeXBTNb) | 2:50 | 2023-08-11 |  |
 | [Agbaye](https://open.spotify.com/track/1155sK5VOJc7DC23kdiJjU) | [Torpor Snooze](https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx) | [Agbaye](https://open.spotify.com/album/2jiYTUEzw4EOiLmr6Qow2k) | 3:08 | 2023-10-10 |  |
 | [Aligne](https://open.spotify.com/track/09Y2QXKWb5cTg8GeHNK3L2) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Aligne](https://open.spotify.com/album/6AyW1mzv9XkoucZtDSdlxw) | 3:06 | 2023-08-11 |  |
-| [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 | 2023-03-10 |  |
+| [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 | 2023-03-10 | 2023-12-19 |
 | [Altaria](https://open.spotify.com/track/6U0VDBci8VNH2vOl9ABfxe) | [Lisa de Permen](https://open.spotify.com/artist/1H0Dzd2Z3BdF0I53KpNx1R) | [Altaria](https://open.spotify.com/album/5u42VT6iwtReZsCN2ijWr6) | 3:28 | 2023-09-08 | 2023-10-05 |
 | [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 | 2023-08-11 |  |
 | [Always Sleepy](https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us) | [Warren Blues](https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU) | [The East Wind](https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW) | 3:22 | 2023-05-29 |  |
@@ -41,7 +42,7 @@
 | [Cycle](https://open.spotify.com/track/2Xsap4owF8MQp0zZGfNoOy) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Cycle](https://open.spotify.com/album/4lM2VsV5RDllffE1TIrPeE) | 2:33 | 2023-10-10 |  |
 | [Dancing Particles](https://open.spotify.com/track/1XdPZYPszsxsxtnz1D2KGa) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 2:56 | 2023-03-31 |  |
 | [Define](https://open.spotify.com/track/4bnFzOLBVnK5WFYVfAhy5z) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Arise](https://open.spotify.com/album/2H8MJCCGpvlwSwVY8YioxZ) | 2:53 | 2023-10-10 |  |
-| [Delight](https://open.spotify.com/track/4ile3dwVErqEJSYB45DcuZ) | [Miah Celeon](https://open.spotify.com/artist/5bfMRGcgRNNUvbZoY2U0Uq) | [Delight](https://open.spotify.com/album/46zx61wuKbU4oVxld32IZj) | 2:34 | 2023-03-10 |  |
+| [Delight](https://open.spotify.com/track/4ile3dwVErqEJSYB45DcuZ) | [Miah Celeon](https://open.spotify.com/artist/5bfMRGcgRNNUvbZoY2U0Uq) | [Delight](https://open.spotify.com/album/46zx61wuKbU4oVxld32IZj) | 2:34 | 2023-03-10 | 2023-12-19 |
 | [Density](https://open.spotify.com/track/6FqTyMzdm5ri8zWrPhAZ0E) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Density](https://open.spotify.com/album/7stOw7OpIVh4cZszjHaRsg) | 3:05 | 2023-11-24 |  |
 | [Desear](https://open.spotify.com/track/4a20vranOH3ic2txQ463jc) | [Julia Alvarez](https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G) | [In Dreams](https://open.spotify.com/album/3dbqdpVgDrnCWuqHD2KRXm) | 3:07 | 2023-08-11 |  |
 | [Dreaming In Red](https://open.spotify.com/track/6PSJuGFslPV78KN8OP6JJS) | [Sayono](https://open.spotify.com/artist/0LABSw5NxTGsqlRQxlGQHD) | [Dreaming In Red](https://open.spotify.com/album/4QXfujCE7LFkZInZb0BqVy) | 2:57 | 2023-03-10 |  |
@@ -88,8 +89,8 @@
 | [Inner Polarity](https://open.spotify.com/track/6Syxi9dqqxHSNFZnYN6KPg) | [Tara Samuels](https://open.spotify.com/artist/7rs7GX2g9XYKzdthGZlWnm) | [Jungle Spirit](https://open.spotify.com/album/5OcRa6Y4El7sbwFrulOzIK) | 3:22 | 2023-03-31 |  |
 | [Inside The Wave](https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [The Deep](https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR) | 2:26 | 2023-03-10 |  |
 | [Joie](https://open.spotify.com/track/1VmHLEPjlDmL3zCWQcygGC) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Joie](https://open.spotify.com/album/5VPBHff5jua2ebI7UIWquX) | 2:54 | 2023-03-10 |  |
-| [Joyous](https://open.spotify.com/track/6cCNmMLYxUncHjPqL9LaqT) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Joyous](https://open.spotify.com/album/07KWSN8fq7wb9l2oB7pIKW) | 2:49 | 2023-10-10 |  |
-| [Kaikoura](https://open.spotify.com/track/6VbbLSIgEMklrpKjdhwtpF) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Kaikoura](https://open.spotify.com/album/6GdrIIHxUkFJWYhOEYsKC5) | 3:15 | 2023-03-10 |  |
+| [Joyous](https://open.spotify.com/track/6cCNmMLYxUncHjPqL9LaqT) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Joyous](https://open.spotify.com/album/07KWSN8fq7wb9l2oB7pIKW) | 2:49 | 2023-10-10 | 2023-12-19 |
+| [Kaikoura](https://open.spotify.com/track/6VbbLSIgEMklrpKjdhwtpF) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Kaikoura](https://open.spotify.com/album/6GdrIIHxUkFJWYhOEYsKC5) | 3:15 | 2023-03-10 | 2023-12-19 |
 | [Kendra](https://open.spotify.com/track/1un92UxTqRjabYWbzz9Kfv) | [Alisieu](https://open.spotify.com/artist/2cUKHomZHG6dG3PhDltRSJ) | [Kendra](https://open.spotify.com/album/0g84ZGKBoOpr6Bu7VpuLgr) | 2:37 | 2023-09-08 |  |
 | [Lagoom](https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM) | [Harvey Lanza](https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh) | [Lagoom](https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC) | 2:51 | 2023-03-10 |  |
 | [Lay Down](https://open.spotify.com/track/4PIdLxret66FcX5mMyTyga) | [Danielle Walker](https://open.spotify.com/artist/5wAnMmOnMIA0EGNUIYkLRr) | [Lay Down](https://open.spotify.com/album/6Pc9x79guaH7ahJduO7iFW) | 2:29 | 2023-09-08 |  |
@@ -160,6 +161,8 @@
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2023-03-10 |  |
 | [Stepping Into A Dream](https://open.spotify.com/track/0bsBttoH3LrYa60QZB201X) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [Stepping Into A Dream](https://open.spotify.com/album/4ocaDhqsCxZJcAxA5zWfFO) | 2:28 | 2023-03-10 |  |
 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 | 2023-08-11 |  |
+| [Strimma Av Ljus](https://open.spotify.com/track/3WkfqM4Xdt6Hq2WjoZf8bf) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [Strimma Av Ljus](https://open.spotify.com/album/4ykBdrD3QHO0b2M07HkCi8) | 3:10 | 2023-12-18 |  |
+| [Stundtals](https://open.spotify.com/track/1PqHlGhw8e7fcLN3Q6bPVp) | [Maja Vang](https://open.spotify.com/artist/3bbpr6K017bEFjyDUCNMkQ) | [Stundtals](https://open.spotify.com/album/0s0XQEm1Sqa4PJc06Hv0pR) | 3:05 | 2023-12-18 |  |
 | [Sunrise](https://open.spotify.com/track/6MPa4Toa2Om1RQat7ebFuA) | [Jónias](https://open.spotify.com/artist/7m6P71I8tgua79uhyhTH6s) | [Sunrise](https://open.spotify.com/album/26SmTApfvPADDQxvytu7U1) | 2:24 | 2023-03-31 | 2023-04-19 |
 | [Tender](https://open.spotify.com/track/45OiJXLGZ6VpCfQ5aeHthU) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Tender](https://open.spotify.com/album/2LhK1JRZO6K3y2s1PtAibB) | 3:03 | 2023-11-24 |  |
 | [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 | 2023-03-10 |  |

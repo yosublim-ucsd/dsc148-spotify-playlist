@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Kian Soltani
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,827 likes - 42 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,888 likes - 42 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 41 | [Stille Nacht, heilige Nacht \- Arr\. by Dominik Wagner for Double Bass Quartet](https://open.spotify.com/track/55iTuQeW2qP30YgnFDwidA) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Dominik Wagner](https://open.spotify.com/artist/2ammHSL7orFukDZ9J78coP), [José Trigo](https://open.spotify.com/artist/5ExRPLewpZMj95DbLacDlc), [Herbert Mayr](https://open.spotify.com/artist/6rvgVi5lr01ym3OpaDU0Vx), [Christoph Wimmer](https://open.spotify.com/artist/7Bw6ymaanOUzPqv89V4hny) | [Stille Nacht, heilige Nacht \(Arr\. von Dominik Wagner für Kontrabassquartett\)](https://open.spotify.com/album/5liHnIGcEilUuLlIWXRD5o) | 2:27 |
 | 42 | [Le violon de la mort: V\. Cancan phantastique\. Allegro](https://open.spotify.com/track/3Fn5ObUgrBcmlIW5nct7N6) | [Grete von Zieritz](https://open.spotify.com/artist/4pSlDzr0hUHUb8u2NeX0JG), [Nina Karmon](https://open.spotify.com/artist/5hpzW8XnokOU7jJm7zkodK), [Oliver Triendl](https://open.spotify.com/artist/5xEDwZauEMbFa4iCGOT1Bf), [Robert Schumann Philharmonie](https://open.spotify.com/artist/5lB0dI9d276MtQSHY02zQg), [Jakob Brenner](https://open.spotify.com/artist/2sNKukH0wyGY0pL5iEv8P7) | [Cancan phantastique\. Allegro](https://open.spotify.com/album/1tnRmi4AYzL2CqX2G1rgAs) | 5:33 |
 
-Snapshot ID: `MCxiMzVjNzIyOTdmYmE3MGZhMmVmMDQ1Y2M5ZmM2NzdjODI1ZmEzYTZj`
+Snapshot ID: `MCw5N2UxMzVkNTVhZjAzMzdkNGNlNDc5Mjk0YjQ0ZDZlODI4MGRkOGRl`

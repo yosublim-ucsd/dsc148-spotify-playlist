@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Y U QT",
-  "num_followers": 200803,
+  "num_followers": 200846,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTQ2ODY0NmQ4ZTU1OTdiMWM5NDFjYWM0MzkzMjkyNzIwZjM1M2Yz",
+  "snapshot_id": "MCxjMTU4ZDQwYjRjMWE3OTAwYmM0ZDcwMTZmNDc2NzZhMWU2MDI1ZGU0",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -315,30 +315,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Pressure Drop",
-        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
-      },
-      "artists": [
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        },
-        {
-          "name": "Try Me",
-          "url": "https://open.spotify.com/artist/5F7UnHRhLHiqANbzjdssT3"
-        },
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        }
-      ],
-      "duration_ms": 187968,
-      "name": "Don't Be Shady",
-      "url": "https://open.spotify.com/track/1E3fZG15mv6M7ZHasmmB2i"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Get Mad",
         "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
       },
@@ -351,6 +327,22 @@
       "duration_ms": 217344,
       "name": "Get Mad",
       "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -415,6 +407,30 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Pressure Drop",
+        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "Try Me",
+          "url": "https://open.spotify.com/artist/5F7UnHRhLHiqANbzjdssT3"
+        },
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        }
+      ],
+      "duration_ms": 187968,
+      "name": "Don't Be Shady",
+      "url": "https://open.spotify.com/track/1E3fZG15mv6M7ZHasmmB2i"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Jurgen Kropper (feat. Local)",
         "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
       },
@@ -431,30 +447,6 @@
       "duration_ms": 176571,
       "name": "Jurgen Kropper (feat. Local)",
       "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "EGODEATH",
-        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
-      },
-      "artists": [
-        {
-          "name": "GHENGHIS OTT",
-          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
-        },
-        {
-          "name": "GRM Daily",
-          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
-        },
-        {
-          "name": "6HRS",
-          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "EGODEATH",
-      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -499,18 +491,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Gimme More",
-        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
+        "name": "EGODEATH",
+        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
       "artists": [
         {
-          "name": "Distinkt",
-          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
+          "name": "GHENGHIS OTT",
+          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
+        },
+        {
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
+        },
+        {
+          "name": "6HRS",
+          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
         }
       ],
-      "duration_ms": 234418,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
+      "duration_ms": 192000,
+      "name": "EGODEATH",
+      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
+        "name": "Gimme More",
+        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "Distinkt",
+          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
         }
       ],
-      "duration_ms": 227555,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
+      "duration_ms": 234418,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Live And Direct",
+        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 171642,
+      "name": "Live And Direct",
+      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Icon",
         "url": "https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En"
       },
@@ -699,42 +715,6 @@
       "duration_ms": 157500,
       "name": "Icon",
       "url": "https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Live And Direct",
-        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 171642,
-      "name": "Live And Direct",
-      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -767,6 +747,26 @@
       "duration_ms": 185357,
       "name": "<3<3<3",
       "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "One Ting",
-        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "One Ting",
-      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Faith In Chaos",
         "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 225000,
       "name": "Acid",
       "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "One Ting",
+        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "One Ting",
+      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -879,26 +879,6 @@
       "duration_ms": 129625,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Gully",
-        "url": "https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt"
-      },
-      "artists": [
-        {
-          "name": "Solex",
-          "url": "https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G"
-        },
-        {
-          "name": "Fugzi",
-          "url": "https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Gully",
-      "url": "https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -931,6 +911,26 @@
       "duration_ms": 190437,
       "name": "Affiliation",
       "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Gully",
+        "url": "https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt"
+      },
+      "artists": [
+        {
+          "name": "Solex",
+          "url": "https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G"
+        },
+        {
+          "name": "Fugzi",
+          "url": "https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Gully",
+      "url": "https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
+      },
+      "artists": [
+        {
+          "name": "Slick Don",
+          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW"
       },
@@ -1151,18 +1167,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa"
+        "name": "Never",
+        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
       },
       "artists": [
         {
-          "name": "Slick Don",
-          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
+      "duration_ms": 206500,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1191,26 +1211,6 @@
       "duration_ms": 196500,
       "name": "nice and close",
       "url": "https://open.spotify.com/track/1gXbEybfs68aNJsd9gX3Uc"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
     },
     {
       "added_at": "2023-12-01 00:01:00",

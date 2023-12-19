@@ -4,7 +4,7 @@
 
 > 【全セットリスト公開！特別インタビューも】国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>。2023年5月27日\(土\)、5月28日\(日\)に幕張メッセで二日間開催！
 
-267 songs - 14 hr 47 min
+268 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Pretenders \(feat\. C.O.S.A., Yo\-Sea\)](https://open.spotify.com/track/0TsgdkNufYZ3Hgysxidxvh) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:11 | 2023-06-07 |  |
 | [Prove](https://open.spotify.com/track/7389FeZyHCj0S85yFw7HE8) | [KANDYTOWN](https://open.spotify.com/artist/5Treq1MbA8Kw8EGwJc0nzy), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [LOCAL SERVICE](https://open.spotify.com/album/0z9lqxkYnmxaRZg91x5Hjw) | 3:27 | 2023-06-07 |  |
 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 | 2023-06-07 |  |
-| [Put In Work](https://open.spotify.com/track/1tiqzSIPixefgIWu9TnOZf) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Put In Work](https://open.spotify.com/album/7IZIU8i9vQCITsZeCyOsjh) | 2:31 | 2023-06-07 |  |
+| [Put In Work](https://open.spotify.com/track/0DwcC94uYdBA3Iyck0mSm3) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Blood & Bones \(BLOOD\)](https://open.spotify.com/album/2CyunDLz6Yge8ocHHZi4nN) | 2:31 | 2023-06-07 |  |
+| [Put In Work](https://open.spotify.com/track/1tiqzSIPixefgIWu9TnOZf) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Put In Work](https://open.spotify.com/album/7IZIU8i9vQCITsZeCyOsjh) | 2:31 | 2023-06-07 | 2023-12-19 |
 | [Queendom](https://open.spotify.com/track/3gX7aaWYtT3tLWUNblAbNe) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 3:27 | 2023-06-07 |  |
 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 | 2023-06-07 |  |
 | [Reach](https://open.spotify.com/track/5F5W0KSTnU7KtqSXo2ietC) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [FLESHNESS SZN](https://open.spotify.com/album/0zDHeNjmu86yjx2KvSji61) | 2:41 | 2023-06-07 |  |

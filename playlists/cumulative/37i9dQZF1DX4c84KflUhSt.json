@@ -676,10 +676,32 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 287293,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/58gR6TOLfgO7oW0IhOWCVS"
+    },
+    {
+      "album": {
+        "name": "The Tony Bennett / Bill Evans Album",
+        "url": "https://open.spotify.com/album/3aRkeXqWFdxFNumHJe0hDc"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289461,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/6pzUMbFYQPz2qbL6hxoeHY"
     },
     {
       "album": {

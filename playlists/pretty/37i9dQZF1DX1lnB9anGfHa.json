@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 211526,
+  "num_followers": 211599,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjFlM2QxOGExNmFiYTRkZDJhMWEwMjQwZTAzNzYxY2IwYzE2ODUw",
+  "snapshot_id": "MCwzZjNhNGUwZDU1OTlhZTgxOTRlYmE5ZjI1OGMwMWVhYzM4MTJhMTMw",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Powders",
-        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Pure Smile Snake Venom",
-      "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 221199,
       "name": "Trying",
       "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Pure Smile Snake Venom",
+      "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
       },
       "artists": [
         {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 243466,
-      "name": "Illa Sera",
-      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -379,38 +379,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
-      },
-      "artists": [
-        {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
-        }
-      ],
-      "duration_ms": 187632,
-      "name": "Even It Out",
-      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 308186,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+      },
+      "artists": [
+        {
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Illa Sera",
+      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Blood Be Fluid",
+        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+      },
+      "artists": [
+        {
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+        }
+      ],
+      "duration_ms": 227276,
+      "name": "Blood Be Fluid",
+      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Blood Be Fluid",
-        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
       },
       "artists": [
         {
-          "name": "Julia Romana",
-          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
         }
       ],
-      "duration_ms": 227276,
-      "name": "Blood Be Fluid",
-      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
+      "duration_ms": 187632,
+      "name": "Even It Out",
+      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The King",
+        "url": "https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ"
+      },
+      "artists": [
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        }
+      ],
+      "duration_ms": 224524,
+      "name": "The King",
+      "url": "https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Trececerotres",
         "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The King",
-        "url": "https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ"
-      },
-      "artists": [
-        {
-          "name": "Anjimile",
-          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
-        }
-      ],
-      "duration_ms": 224524,
-      "name": "The King",
-      "url": "https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Tongues",
         "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 215482,
       "name": "Teeth Agape",
       "url": "https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "LABYRINTHITIS",
+        "url": "https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU"
+      },
+      "artists": [
+        {
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Tintoretto, It's for You",
+      "url": "https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Little Floating Oracles",
         "url": "https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "LABYRINTHITIS",
-        "url": "https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU"
+        "name": "LP.8",
+        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
       },
       "artists": [
         {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
         }
       ],
-      "duration_ms": 185813,
-      "name": "Tintoretto, It's for You",
-      "url": "https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP"
+      "duration_ms": 234186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 585901,
       "name": "Pillar",
       "url": "https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "LP.8",
-        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Eulo Cramps",
-        "url": "https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO"
-      },
-      "artists": [
-        {
-          "name": "Call Super",
-          "url": "https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "Glossy Bingo Stain",
-      "url": "https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "The Long Count",
         "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Eulo Cramps",
+        "url": "https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO"
+      },
+      "artists": [
+        {
+          "name": "Call Super",
+          "url": "https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "Glossy Bingo Stain",
+      "url": "https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+      },
+      "artists": [
+        {
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+        }
+      ],
+      "duration_ms": 282863,
+      "name": "A Garden by the Sea",
+      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Lux Ahena",
         "url": "https://open.spotify.com/album/5pUekWfj7hPbdz0yyaA2Vq"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 190212,
       "name": "quiet face",
       "url": "https://open.spotify.com/track/0x2GowE3BwQCG7ZAYwiTxC"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Original Fighter",
-        "url": "https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Jesus",
-          "url": "https://open.spotify.com/artist/5lZF9dixBp7VJ1EHUBod9h"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Exit to Enter",
-      "url": "https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp"
     }
   ],
   "unique_name": "Terra Incognita",

@@ -10019,6 +10019,32 @@
     },
     {
       "album": {
+        "name": "Bad Deeds, Good Intentions.",
+        "url": "https://open.spotify.com/album/4WaC1Yf53trbq7Cw6psp4n"
+      },
+      "artists": [
+        {
+          "name": "Soweto Tshepiso",
+          "url": "https://open.spotify.com/artist/4qV6nvT5Qluy5eCoolLKFa"
+        },
+        {
+          "name": "Naviflesh The President",
+          "url": "https://open.spotify.com/artist/64O6cdevuP6I4REULph0IT"
+        },
+        {
+          "name": "Zhsian Versar",
+          "url": "https://open.spotify.com/artist/5GwD0ydkPu7ksXHVneYNfW"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228980,
+      "name": "Sotra",
+      "url": "https://open.spotify.com/track/0KJtIjjrlni7xeDUaDzvhW"
+    },
+    {
+      "album": {
         "name": "Bad DeeDs, gOOd iNTENTIONs.",
         "url": "https://open.spotify.com/album/5uKfucjZrfx0Nwx0CgmJNj"
       },
@@ -10038,7 +10064,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 228980,
       "name": "Sotra",
       "url": "https://open.spotify.com/track/4klj4BGqrBns8hN2FuE4Je"

@@ -4,7 +4,7 @@
 
 > The essential tracks, all in one playlist.
 
-58 songs - 3 hr 22 min
+59 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [My Favourite Things](https://open.spotify.com/track/3QelBnwgLpQErit1TNZ4kD) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Christmas Classics](https://open.spotify.com/album/397wI1XGpZ1DOuP0Zvq3Xi) | 3:16 | 2022-10-27 | 2022-11-13 |
 | [My Favourite Things](https://open.spotify.com/track/7qLTpTd1Txpo8Vd84yci7u) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 3:16 | 2022-04-27 |  |
 | [My Favourite Things](https://open.spotify.com/track/0MoZADdiiC9yzcWpBbNYAC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall \- The Tony Bennett Christmas Album](https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc) | 3:17 | 2021-10-15 | 2022-07-29 |
-| [My Foolish Heart](https://open.spotify.com/track/58gR6TOLfgO7oW0IhOWCVS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Complete Fantasy Recordings](https://open.spotify.com/album/0rK5RsYTNgeNGTcJeRR9Pi) | 4:47 | 2022-04-27 |  |
+| [My Foolish Heart](https://open.spotify.com/track/58gR6TOLfgO7oW0IhOWCVS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Complete Fantasy Recordings](https://open.spotify.com/album/0rK5RsYTNgeNGTcJeRR9Pi) | 4:47 | 2022-04-27 | 2023-12-19 |
+| [My Foolish Heart](https://open.spotify.com/track/6pzUMbFYQPz2qbL6hxoeHY) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Tony Bennett / Bill Evans Album](https://open.spotify.com/album/3aRkeXqWFdxFNumHJe0hDc) | 4:49 | 2023-12-14 |  |
 | [My Foolish Heart](https://open.spotify.com/track/1yJ7VLv9pPrhyfQjmhTQlk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Tony Bennett / Bill Evans Album \(Expanded Reissue\)](https://open.spotify.com/album/7oviEOBGFIC09QpiWRnyFF) | 4:51 | 2021-10-15 | 2022-07-29 |
 | [Nature Boy](https://open.spotify.com/track/3giSAdFOdYGxHJzoPnKF1a) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/6X3UtyOgJYgJk7wYoykghH) | 4:08 | 2021-10-15 | 2022-07-29 |
 | [Nature Boy](https://open.spotify.com/track/7sYJdgkkdcjN1Zr5Rgbpl8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 4:08 | 2022-04-27 |  |

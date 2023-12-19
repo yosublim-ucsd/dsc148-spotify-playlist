@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-272 songs - 19 hr 51 min
+273 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Currulao Version](https://open.spotify.com/track/0tCCY12EmCOF8KSbJjpKKo) | [Dub Across Borders](https://open.spotify.com/artist/7c7NsrA9itbqcg9hvVAxK4) | [Por ti me voy](https://open.spotify.com/album/4Kxe5SQsLmD64rPIivJVil) | 5:17 | 2021-11-26 | 2022-07-28 |
 | [Danza Coyote](https://open.spotify.com/track/6MORniLmLaM8FUKkcxqmPO) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Sagrario.](https://open.spotify.com/artist/4HdwnDFQUqmRkQF35FH1JC) | [Buddha\-Bar Summer of Chill](https://open.spotify.com/album/5eoT0Q5jYZVBbEH5A34ZIy) | 3:57 | 2022-04-15 | 2022-06-01 |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2021-11-26 |  |
-| [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 | 2021-11-26 |  |
+| [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 | 2021-11-26 | 2023-12-19 |
 | [Dolores \- Vilamarea Remix](https://open.spotify.com/track/41Lo8dPeKyzGt0bvCvKJVy) | [Los Gaiteros de Ovejas](https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd), [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Dolores \(Vilamarea Remix\)](https://open.spotify.com/album/5zgResvgYTNFGgPTkEeu5P) | 6:28 | 2021-11-26 | 2022-07-18 |
 | [Efecto Manglar](https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc) | [Black Mambo](https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Efecto Manglar](https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz) | 5:08 | 2021-11-26 | 2022-06-30 |
 | [El Alma del Mundo](https://open.spotify.com/track/511oG5pe1WMrmGHed4VaGP) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3), [EKA](https://open.spotify.com/artist/15P0IoBGJxlligBew7c7wc) | [El Alma del Mundo](https://open.spotify.com/album/0hZR9449Uaoe5hs3cxMQlW) | 3:28 | 2021-11-26 | 2022-07-29 |
@@ -251,6 +251,7 @@
 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 | 2021-11-26 | 2022-07-04 |
 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 | 2022-04-15 |  |
 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/7tdpEWykBDTGHraFcc7y5K) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/6TpFELu5FhzUxViIa56okb) | 4:20 | 2021-11-26 | 2022-07-27 |
+| [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 | 2023-11-24 |  |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-02-18 | 2023-12-09 |
 | [Tenquén](https://open.spotify.com/track/2LcxZwVQcHK9BYkqA04Nua) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Tenquén](https://open.spotify.com/album/5bZkgCoLEn5El9xvZaMOUi) | 6:04 | 2022-02-18 | 2022-04-18 |
 | [The Corsican](https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8) | [SUPERSAN](https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7) | [Enter the San](https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY) | 3:19 | 2022-04-15 | 2023-09-23 |

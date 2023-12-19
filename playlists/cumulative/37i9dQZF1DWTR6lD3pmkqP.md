@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-529 songs - 1 day 20 hr 50 min
+530 songs - 1 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Got Me Wrong](https://open.spotify.com/track/7pqzRa0TILCmppwvcYmC4W) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 5:24 | 2022-04-01 |  |
 | [Gotta Go Fast](https://open.spotify.com/track/7k8vWqQfzTumg74KhfvTGk) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Poppy Daniels](https://open.spotify.com/artist/5p4U401vBELQ6nbYLJHm3Z) | [Gotta Go Fast](https://open.spotify.com/album/1CKVmQA61LxYZ4Al139rXU) | 3:50 | 2022-01-13 |  |
 | [Gotu Lust](https://open.spotify.com/track/5plUsigCBARJIUOU0rXO0S) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [Self\-Titled.](https://open.spotify.com/album/5zjTdXe19FOs1xfb30GQ2v) | 3:51 | 2021-12-21 |  |
-| [Grasshopper](https://open.spotify.com/track/1yutSXKfA5VXkwH5Zq44y2) | [Joanna Duda Trio](https://open.spotify.com/artist/7f9e3OHtFqSbSOF4BzX83i) | [Fumitsuke](https://open.spotify.com/album/2TyZVrjALM78v1DfNezKKv) | 7:28 | 2022-02-10 |  |
+| [Grasshopper](https://open.spotify.com/track/1yutSXKfA5VXkwH5Zq44y2) | [Joanna Duda Trio](https://open.spotify.com/artist/7f9e3OHtFqSbSOF4BzX83i) | [Fumitsuke](https://open.spotify.com/album/2TyZVrjALM78v1DfNezKKv) | 7:28 | 2022-02-10 | 2023-12-19 |
 | [Grasshopper](https://open.spotify.com/track/4FT3jNR5d9qmVkw60K9UJc) | [Joanna Duda Trio](https://open.spotify.com/artist/7f9e3OHtFqSbSOF4BzX83i) | [Grasshopper](https://open.spotify.com/album/0pbl1UD7ra9ypd9TqzsR5O) | 7:28 | 2021-12-16 | 2022-07-27 |
 | [Grenadier](https://open.spotify.com/track/1sjsqhEE2V6fCEAKwAwQ7I) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Grenadier](https://open.spotify.com/album/0cpPto1VjYJt81NvjzVrUv) | 5:14 | 2021-12-16 | 2023-06-20 |
 | [HAWK MOUNTAIN feat\. Eric Harland](https://open.spotify.com/track/2gfzhHPD80RzyWMj8BL15T) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [HAWK MOUNTAIN feat\. Eric Harland](https://open.spotify.com/album/07hHjgzjT4aW5XENwbQ712) | 6:24 | 2021-12-16 | 2022-07-28 |
@@ -304,6 +304,7 @@
 | [New Kid](https://open.spotify.com/track/35GLgVRh0sZJjtWoPGd52X) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [New Kid](https://open.spotify.com/album/61YlUhaXF2AH2GDNOLBEg7) | 3:02 | 2021-12-16 | 2022-07-28 |
 | [New Kid \- Jon Charleston Rework](https://open.spotify.com/track/627hQRtHxWnu3z9CghsL3m) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2), [Jon Charleston](https://open.spotify.com/artist/6zlEatETWX5iVk6CLYw1ek) | [New Kid \(Jon Charleston Rework\)](https://open.spotify.com/album/4uOmKEjmSHCN5J9rfh4wJm) | 2:25 | 2021-12-16 |  |
 | [New York Stroll](https://open.spotify.com/track/52hrFgOpNZX5pO8JdMjzJK) | [Mino Cinelu](https://open.spotify.com/artist/3u5p7C1CVuJEjLJ1LGlHzj), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [New York Stroll](https://open.spotify.com/album/6eA9ICECAqpwhRuv9OyTCp) | 6:27 | 2021-12-16 | 2023-11-01 |
+| [New York Stroll](https://open.spotify.com/track/6lET87e1AzLlVgPiqK9Bqy) | [Mino Cinelu](https://open.spotify.com/artist/3u5p7C1CVuJEjLJ1LGlHzj), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [SulaMadiana](https://open.spotify.com/album/0fx3j3GZR5nmnhgrnhcRrV) | 6:27 | 2022-02-10 |  |
 | [Not for Now](https://open.spotify.com/track/0VoDYNXHen64ORyizt6Ct5) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Not for Now](https://open.spotify.com/album/3OJfzhNvtZA1yjYDhEE51R) | 5:24 | 2021-12-16 |  |
 | [Not So Modern Times](https://open.spotify.com/track/4AiRfllz5Lx7A6gy9H0ezT) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Not So Modern Times](https://open.spotify.com/album/1qkX8T3LTk8BBiSCNPvWLj) | 3:32 | 2021-12-16 | 2022-11-28 |
 | [Not So Modern Times](https://open.spotify.com/track/5e4mzh6o5LPqy19A6vGB4w) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:32 | 2022-02-10 |  |

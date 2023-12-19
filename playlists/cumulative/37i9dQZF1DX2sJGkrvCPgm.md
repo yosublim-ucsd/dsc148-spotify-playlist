@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-340 songs - 21 hr 26 min
+341 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Angels We Have Heard on High](https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Angels We Have Heard on High](https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO) | 2:34 | 2021-12-24 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/6r2uT3BQAYuNygl5BKv3v3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:41 | 2021-12-24 |  |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/40Uhr0Uf07oR7dst3und90) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/23RLVa9P5Fe8DbxNEUAXf0) | 3:01 | 2021-12-24 | 2022-07-29 |
-| [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/4oS4cWE5d50Uj1kOjhvf9W) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5UZMSWBi7ppVTQeHm4SlTR) | 3:01 | 2023-12-15 |  |
+| [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/4oS4cWE5d50Uj1kOjhvf9W) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5UZMSWBi7ppVTQeHm4SlTR) | 3:01 | 2023-12-15 | 2023-12-19 |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/5ml63298Svg1LYyZ3W3wjy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5t1YZCA2GLWvWfhhFc3Dx6) | 3:01 | 2021-12-24 | 2023-02-10 |
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 |  |
 | [Angels We Have Heard On High / Joy Has Dawned \- Medley](https://open.spotify.com/track/5NqDTH4P9n9o68qbiXOwiZ) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Angels We Have Heard On High / Joy Has Dawned \(Medley\)](https://open.spotify.com/album/3Ne4u2U8eW4qTRc7BSRMky) | 5:08 | 2021-12-24 | 2022-07-28 |
@@ -252,6 +252,7 @@
 | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 | 2021-12-24 | 2023-04-21 |
 | [O Holy Night \- Live](https://open.spotify.com/track/4mBR7vdP33yfR2w4y3pKHR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 4:19 | 2021-12-24 | 2022-07-29 |
 | [O Holy Night \- Radio Version](https://open.spotify.com/track/3rWqSo85Y554bpc1XRmjmN) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [O Holy Night \(Radio Version\)](https://open.spotify.com/album/4izT9J7YwgPndBfuA7j0dB) | 4:49 | 2021-12-24 |  |
+| [O Little Town \(The Glory Of Christmas\)](https://open.spotify.com/track/7EWkZp5qXyBcpK41gQzv4L) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 4:24 | 2023-12-15 |  |
 | [O Little Town \(The Glory Of Christmas\)](https://open.spotify.com/track/3WWs6x4AK4prP8qqkcAmtP) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [O Little Town \(The Glory Of Christmas\)](https://open.spotify.com/album/6MwhhGgZ4Hjr6NXfDZOlFx) | 4:24 | 2021-12-24 | 2022-07-14 |
 | [O Little Town Of Bethlehem \(Emmanuel\)](https://open.spotify.com/track/2NQNo4nnxkjEfEqOQ51dkS) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Merry Christmas To You \(Great Big Family Edition\)](https://open.spotify.com/album/1oQisAUbNQh9hNsNLzF9Pv) | 4:11 | 2021-12-24 | 2022-07-28 |
 | [O What A King](https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [O What A King](https://open.spotify.com/album/46eot52LKOTnBwDwIdOMfu) | 3:14 | 2022-11-26 |  |

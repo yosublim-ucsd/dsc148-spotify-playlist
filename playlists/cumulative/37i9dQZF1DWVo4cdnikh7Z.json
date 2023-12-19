@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 205360,
       "name": "Boologame (From \"Complex\")",
       "url": "https://open.spotify.com/track/5vzzTXcVVyyi5gqC4DzzQa"
@@ -20924,6 +20924,40 @@
       "duration_ms": 173225,
       "name": "Thenmozhi (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd"
+    },
+    {
+      "album": {
+        "name": "Ther Thiruvizha (From \"Lal Salaam\")",
+        "url": "https://open.spotify.com/album/6LNwOQhulT2KCVNq3pyBxi"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "A. R. Reihana",
+          "url": "https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Yogi Sekar",
+          "url": "https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466419,
+      "name": "Ther Thiruvizha (From \"Lal Salaam\")",
+      "url": "https://open.spotify.com/track/7yIRHn8EnQ0MuEOw1ephk7"
     },
     {
       "album": {

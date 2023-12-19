@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-151 songs - 8 hr 26 min
+152 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Calle ft\. Villanueva](https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Villanueva](https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:33 | 2021-10-08 | 2023-11-11 |
 | [Can't Have It](https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv) | [Can't Have It](https://open.spotify.com/album/65EAWbqxyp9658YllENyER) | 3:50 | 2021-10-08 | 2022-11-13 |
 | [Candela \- Original Mix](https://open.spotify.com/track/6bBOQ5FirB6p9FuIfRKHss) | [Simon Miceli](https://open.spotify.com/artist/7b7l6CspiIMoXFKY8MRGgv) | [Candela](https://open.spotify.com/album/73mhxwF0L5xnccgIWImNJZ) | 3:32 | 2023-11-17 |  |
+| [Canutito](https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Canutito](https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG) | 3:26 | 2023-12-15 |  |
 | [Carioca](https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Carioca](https://open.spotify.com/album/0agmk71GDKNKmghePG5gwJ) | 2:16 | 2023-11-10 | 2023-11-12 |
 | [Catuca](https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Catuca](https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP) | 6:38 | 2023-12-01 |  |
 | [Chakachaka](https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Chakachaka](https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv) | 2:40 | 2023-11-10 |  |
@@ -147,7 +148,7 @@
 | [Umoja](https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Umoja](https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK) | 3:08 | 2021-10-08 | 2023-11-11 |
 | [Vagabundos](https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Vagabundos](https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j) | 2:37 | 2021-10-08 | 2023-11-11 |
 | [Ven Pa Ca](https://open.spotify.com/track/4SvHCX1OJE2g2efnDhMmnf) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Ven Pa Ca](https://open.spotify.com/album/61C9UF3r7Y8GVB6De6rNEo) | 3:02 | 2022-02-11 | 2023-11-11 |
-| [Veneno](https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez) | [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Veneno](https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc) | 3:15 | 2023-11-10 |  |
+| [Veneno](https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez) | [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Veneno](https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc) | 3:15 | 2023-11-10 | 2023-12-19 |
 | [Venezuela](https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Rave Radio](https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN) | [Venezuela](https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9) | 2:36 | 2021-10-08 | 2023-11-11 |
 | [Vente](https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Vente](https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA) | 3:02 | 2023-11-17 |  |
 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 | 2023-11-10 |  |

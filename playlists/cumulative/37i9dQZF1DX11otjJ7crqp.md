@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: FLETCHER
 
-4,436 songs - 9 day 4 hr 32 min
+4,437 songs - 9 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2883,7 +2883,8 @@
 | [Not Because I Loved You](https://open.spotify.com/track/5TYsUOzefxh91dDPsGpSrW) | [Max Drazen](https://open.spotify.com/artist/2gxdQj1Dy77p45uTuve030) | [Not Because I Loved You](https://open.spotify.com/album/1S8p6Bs1aiFl3EUTDyP52b) | 2:59 | 2022-12-16 | 2023-01-14 |
 | [Not In That Way](https://open.spotify.com/track/1SJOdR70V1Gz5RvIJc4dAU) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Not In That Way](https://open.spotify.com/album/7fkVKM3hQVSmisXy4dGB2S) | 3:52 | 2023-05-19 | 2023-06-03 |
 | [Not Like I’m In Love With You](https://open.spotify.com/track/3A9x6yHdlP1H5BY5Pz3l7P) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Not Like I’m In Love With You](https://open.spotify.com/album/5Rf1ieZNxALb2P41tvVTfQ) | 3:05 | 2022-04-29 | 2022-05-20 |
-| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-15 |  |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-15 | 2023-12-19 |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-15 |  |
 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2022-07-15 | 2022-08-06 |
 | [Not My Problem](https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Not My Problem](https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2) | 2:09 | 2023-01-27 | 2023-02-11 |
 | [Not Myself](https://open.spotify.com/track/3zwjVlq2pYfzuASkLMreIC) | [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv) | [Not Myself](https://open.spotify.com/album/6nGDVNrJIIOB1Ti8fsPc7M) | 2:39 | 2022-09-23 | 2022-10-08 |

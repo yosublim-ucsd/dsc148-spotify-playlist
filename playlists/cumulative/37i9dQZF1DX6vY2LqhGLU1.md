@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-191 songs - 13 hr 19 min
+192 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [God With Us \- Live](https://open.spotify.com/track/5AMa51Rw3V4sJ2TRNSoS8k) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Live](https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG) | 4:06 | 2022-11-26 |  |
 | [God With Us \- Live](https://open.spotify.com/track/50v2NQts2bIqKF7jfWu7Vw) | [The Worship Project](https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3), [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg) | [Christmas \- Live at Tyndale University](https://open.spotify.com/album/2PsUI1qRMs5RZQJx2llhoX) | 4:08 | 2022-11-26 |  |
 | [Good Christian Men Rejoice \(Born to Reign\)](https://open.spotify.com/track/2qqzGZcw3gAWQATZkwMlDp) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Good Christian Men Rejoice \(Born to Reign\)](https://open.spotify.com/album/2WP3QY0LZcOTwzTxMj12jn) | 3:32 | 2023-12-02 |  |
+| [Good News, Great Joy](https://open.spotify.com/track/6P8BlFm8laPgMoQgvmoMnS) | [Perimeter Worship](https://open.spotify.com/artist/4KS9mJjQ4qcxPh3qWklp5X), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Good News, Great Joy](https://open.spotify.com/album/2gDxjKGJVyzirwudkdQJON) | 4:07 | 2023-12-15 |  |
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-11-26 |  |
 | [Hallelujah Our King](https://open.spotify.com/track/0Zy6MFHQQv5saKuM0vxAli) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 4:07 | 2022-11-26 |  |
 | [Hark](https://open.spotify.com/track/0GkNcAGrayxbAubOaQQB9t) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 5:03 | 2022-11-26 |  |
@@ -156,7 +157,7 @@
 | [Oh Come All Ye Faithful \- Single Version](https://open.spotify.com/track/5ZC6CQUiZBgrqoYDviM3aV) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Oh Come All Ye Faithful](https://open.spotify.com/album/18Gkhoj0Bddbm5uqzzgu78) | 3:04 | 2022-11-26 |  |
 | [Oh Come All Ye Faithful \- Stripped Version](https://open.spotify.com/track/6QaGJDoe1idrXDzbwTbZxu) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Christmas, Vol\. 1](https://open.spotify.com/album/1dMHqgEd5fWINaWdxWjO5T) | 2:54 | 2023-12-02 |  |
 | [Oh Holy Night](https://open.spotify.com/track/2Qz5hPpCS3txLnOPnDQdbA) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Oh Holy Night](https://open.spotify.com/album/7tbCilcZqkskC7Oef8ucBS) | 3:39 | 2022-11-26 |  |
-| [One Holy Night](https://open.spotify.com/track/05JQUrXeFXSsbayUCyXgPQ) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Christmas All Over The World](https://open.spotify.com/album/1HmFcz8yVSkMycRHD47EnC) | 3:34 | 2022-11-26 |  |
+| [One Holy Night](https://open.spotify.com/track/05JQUrXeFXSsbayUCyXgPQ) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Christmas All Over The World](https://open.spotify.com/album/1HmFcz8yVSkMycRHD47EnC) | 3:34 | 2022-11-26 | 2023-12-19 |
 | [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2022-11-26 |  |
 | [Our King Has Come \(Live\)](https://open.spotify.com/track/2fNd8uZp9GvyxJKHa6bOo0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [For The Honor](https://open.spotify.com/album/7AF8bOSZOINrMfLOhZVydc) | 3:40 | 2022-11-26 |  |
 | [Peace Upon The Earth](https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:10 | 2022-11-26 |  |

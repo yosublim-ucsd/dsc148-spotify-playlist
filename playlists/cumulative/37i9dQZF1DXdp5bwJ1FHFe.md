@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 |  |
+| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 | 2023-12-19 |
 | [11 p.m rain](https://open.spotify.com/track/0236YDA8KmwrVQV5f4tTzE) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:15 | 2022-04-07 | 2023-06-21 |
 | [11 p.m rain](https://open.spotify.com/track/7umWlKowqWEBaX7XlwHC7I) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:23 | 2022-04-07 |  |
 | [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2022-04-07 |  |
@@ -39,7 +39,7 @@
 | [Cozy Rainstorm](https://open.spotify.com/track/5uE44R0FKMlwXkCEv2fNsg) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Rain](https://open.spotify.com/album/09uiRFIx0IzJozPYwxePUr) | 3:29 | 2022-04-07 |  |
 | [Darkened Nights](https://open.spotify.com/track/57fdbNKvnuUL0E5NxBEtsp) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Rainfall](https://open.spotify.com/album/1hcIsPiPlRtfRmY1pxpRXT) | 3:36 | 2022-04-07 |  |
 | [Deep Rain](https://open.spotify.com/track/5a9zaa6C3fiW6agduaqkdm) | [Regen Man](https://open.spotify.com/artist/6ATLDcObmCv5mMiJoInxsA) | [Deep Rain](https://open.spotify.com/album/2L5upuNaeQjaBIrSBQyCwh) | 3:36 | 2022-04-07 |  |
-| [Deep Sleep](https://open.spotify.com/track/7dHr133ktmzImMTGvCgzXs) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Relajante](https://open.spotify.com/album/3W7iJMFNBgaprQDVLIIkHd) | 2:56 | 2022-04-07 | 2023-12-14 |
+| [Deep Sleep](https://open.spotify.com/track/7dHr133ktmzImMTGvCgzXs) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Relajante](https://open.spotify.com/album/3W7iJMFNBgaprQDVLIIkHd) | 2:56 | 2022-04-07 |  |
 | [Deep Sleep Rain](https://open.spotify.com/track/5pw1sVck5W8BQ31gCHrips) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 | 2022-04-07 |  |
 | [Det Regnar](https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Regnmannen](https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn) | 3:12 | 2022-04-07 |  |
 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 | 2022-04-07 |  |

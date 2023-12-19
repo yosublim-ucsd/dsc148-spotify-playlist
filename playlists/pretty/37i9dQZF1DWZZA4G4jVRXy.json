@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 127114,
+  "num_followers": 127122,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWI0Zjg0ZjZkMWM3MTUzMTY2ZDAyYjQ2ZTljYTgzYzgzYjg5NDA2",
+  "snapshot_id": "MCxhNzA0OTU3YzBlNWYxNjE3Njg3NjIxNDVlOGMxNGI1MGM5OGMzMGQ4",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Sacred Idol",
+        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Fruit Of Dreams",
+      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Voodoo!",
@@ -235,22 +251,6 @@
       "duration_ms": 128066,
       "name": "Taboo Tu",
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Sacred Idol",
-        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Fruit Of Dreams",
-      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Tiki for the Atomic Age",
-        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
-      },
-      "artists": [
-        {
-          "name": "Kava Kon",
-          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Palace of the Tiger Women",
-      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Dear Mama",
@@ -399,6 +383,22 @@
       "duration_ms": 307213,
       "name": "Nani Wale Ka Lau Oliva",
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Tiki for the Atomic Age",
+        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
+      },
+      "artists": [
+        {
+          "name": "Kava Kon",
+          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Palace of the Tiger Women",
+      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Home Recordings Vol. 1",
-        "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
-      },
-      "artists": [
-        {
-          "name": "George de Fretes and his Royal Hawaiian Minstrels",
-          "url": "https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Song Of Old Hawaii",
-      "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Hawaiian Sunset",
         "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 146733,
       "name": "Kawohikukupulani",
       "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Home Recordings Vol. 1",
+        "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
+      },
+      "artists": [
+        {
+          "name": "George de Fretes and his Royal Hawaiian Minstrels",
+          "url": "https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Song Of Old Hawaii",
+      "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Mareld 2021",
+        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 182096,
+      "name": "Mareld 2021",
+      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Makani Olu'olu",
         "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
       },
@@ -625,22 +641,6 @@
       "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Mareld 2021",
-        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 182096,
-      "name": "Mareld 2021",
-      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "MGANGA!",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Quiet Village",
-        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Hawaiian War Chant",
-      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
@@ -687,6 +671,22 @@
       "duration_ms": 259519,
       "name": "Lotus Land",
       "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Quiet Village",
+        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "Hawaiian War Chant",
+      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -723,18 +723,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
-        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
+        "name": "Kiss Me Love",
+        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
       "artists": [
         {
-          "name": "Al Romero And His Orchestra",
-          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
         }
       ],
-      "duration_ms": 162721,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
+      "duration_ms": 138666,
+      "name": "Blue Hawaii",
+      "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -755,18 +755,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Kiss Me Love",
-        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
+        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
+        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
       },
       "artists": [
         {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+          "name": "Al Romero And His Orchestra",
+          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
         }
       ],
-      "duration_ms": 138666,
-      "name": "Blue Hawaii",
-      "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
+      "duration_ms": 162721,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/1Z4aOyNZmQ95yBRzPWgFJ3"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Soundproof",
-        "url": "https://open.spotify.com/album/0TmGdwZXnFFgDpVFk0FGtY"
-      },
-      "artists": [
-        {
-          "name": "Ferrante & Teicher",
-          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
-        }
-      ],
-      "duration_ms": 167264,
-      "name": "Baia",
-      "url": "https://open.spotify.com/track/1INMAZPPXvgdWjKuHqDU8P"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
@@ -1107,6 +1091,22 @@
       "duration_ms": 201263,
       "name": "Xtabay - Remastered",
       "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Soundproof",
+        "url": "https://open.spotify.com/album/0TmGdwZXnFFgDpVFk0FGtY"
+      },
+      "artists": [
+        {
+          "name": "Ferrante & Teicher",
+          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
+        }
+      ],
+      "duration_ms": 167264,
+      "name": "Baia",
+      "url": "https://open.spotify.com/track/1INMAZPPXvgdWjKuHqDU8P"
     },
     {
       "added_at": "2021-01-20 03:50:53",

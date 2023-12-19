@@ -3034,6 +3034,28 @@
       "duration_ms": 292235,
       "name": "Yele",
       "url": "https://open.spotify.com/track/2k1pxoTf0NjqlFvyyKm9gT"
+    },
+    {
+      "album": {
+        "name": "Zeal",
+        "url": "https://open.spotify.com/album/4JAMUZR6wpRhAEFQcdNhrc"
+      },
+      "artists": [
+        {
+          "name": "m.cnan",
+          "url": "https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A"
+        },
+        {
+          "name": "Sudhi",
+          "url": "https://open.spotify.com/artist/1K5KXBAJtocTdhAE5X8ySQ"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Zeal",
+      "url": "https://open.spotify.com/track/512GctDAFet7XFXD37dXzX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M"

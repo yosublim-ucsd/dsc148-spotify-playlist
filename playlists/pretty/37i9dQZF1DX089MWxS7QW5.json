@@ -1,15 +1,31 @@
 {
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Colde(\ucf5c\ub4dc))",
-  "num_followers": 47015,
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: KIMYOONCHAE(\uae40\uc724\ucc44))",
+  "num_followers": 47050,
   "original_name": "K-R&B Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ5OTBlMGQzNGRiNjMzMDM3ZDZkYTM3ZTJmMjM4YTcxMDA3ZWE1",
+  "snapshot_id": "MCwyYjdhZjU1OTM2ZmNmN2ExMzA1MjJjNmNlNmI0YWUyZDUxMTViMmRj",
   "tracks": [
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
+      "album": {
+        "name": "Roadside",
+        "url": "https://open.spotify.com/album/6Fsc0fL3iRpU1QooxGe6vs"
+      },
+      "artists": [
+        {
+          "name": "KIMYOONCHAE",
+          "url": "https://open.spotify.com/artist/3BaiSJF1zIxdDWVfnQDUI4"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/4ebAeBmoxyfkWy1ymatr1A"
+    },
+    {
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "After Love",
         "url": "https://open.spotify.com/album/2OUaeEG9GKYOIIEZkLPdfP"
@@ -25,7 +41,59 @@
       "url": "https://open.spotify.com/track/7Ifacym53lOQSS38tgwgKf"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
+    },
+    {
+      "added_at": "2023-12-18 03:02:14",
+      "album": {
+        "name": "Over (feat. Minna Seo)",
+        "url": "https://open.spotify.com/album/0Hh6ZWhJU9WzsN8PMEscEh"
+      },
+      "artists": [
+        {
+          "name": "Woshi",
+          "url": "https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq"
+        },
+        {
+          "name": "Minna Seo",
+          "url": "https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Over (feat. Minna Seo)",
+      "url": "https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP"
+    },
+    {
+      "added_at": "2023-12-18 03:02:14",
+      "album": {
+        "name": "100th",
+        "url": "https://open.spotify.com/album/7thXuFWxXkNrYx6jL0RIPX"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "duration_ms": 253835,
+      "name": "100th",
+      "url": "https://open.spotify.com/track/3gjAdooisgtbRWjte2k80t"
+    },
+    {
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Don't Say",
         "url": "https://open.spotify.com/album/5fmxVDAV3uX0RmdRZljMox"
@@ -45,7 +113,7 @@
       "url": "https://open.spotify.com/track/7r5aWRSv5sUg9uhehASb04"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "her",
         "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
@@ -61,7 +129,7 @@
       "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "DIE 4 YOU",
         "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
@@ -77,7 +145,7 @@
       "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "WOOOF!",
         "url": "https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV"
@@ -93,7 +161,7 @@
       "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Thanks For Nothing",
         "url": "https://open.spotify.com/album/6bHtQUErD1RD9NWYWsyGBk"
@@ -109,7 +177,7 @@
       "url": "https://open.spotify.com/track/4U2KRmw8c5BA3P1uoheA2F"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "wonderego",
         "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
@@ -125,7 +193,7 @@
       "url": "https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
@@ -141,7 +209,7 @@
       "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Don't Say",
         "url": "https://open.spotify.com/album/5fmxVDAV3uX0RmdRZljMox"
@@ -161,7 +229,7 @@
       "url": "https://open.spotify.com/track/0N0ZfoWuX7INy4wuxgK3aa"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "and you",
         "url": "https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3"
@@ -181,7 +249,7 @@
       "url": "https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Start To Shine (feat. Gaeko)",
         "url": "https://open.spotify.com/album/1J5q0SEeWRwm81k5dQS4nb"
@@ -201,7 +269,7 @@
       "url": "https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "The Drive",
         "url": "https://open.spotify.com/album/40yZ2AKA4dGdLavr5x7H8S"
@@ -217,7 +285,7 @@
       "url": "https://open.spotify.com/track/5c4c8g4QFDaNv3NHogfokl"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "something",
         "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
@@ -233,7 +301,7 @@
       "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Plastic Candy",
         "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
@@ -249,7 +317,7 @@
       "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "New Edition 55",
         "url": "https://open.spotify.com/album/7LIr8Jhsguvb3xOkt8BOoq"
@@ -269,7 +337,7 @@
       "url": "https://open.spotify.com/track/4VLze3IkEPkUhHWqqgqBL5"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "This Moment Here With You",
         "url": "https://open.spotify.com/album/5utByaMBaKrdlbV7FrOtNX"
@@ -285,7 +353,7 @@
       "url": "https://open.spotify.com/track/6iSrr1z0D85A0hLKkjkCvH"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "From Now",
         "url": "https://open.spotify.com/album/6Bmg7Tl2MoeqVZZQw7AIda"
@@ -301,7 +369,7 @@
       "url": "https://open.spotify.com/track/6q2yYNfgrcNfW3OZh8WQ5Z"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/5qNWv2c6vEkt1wLQ5hBYAX"
@@ -317,7 +385,7 @@
       "url": "https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/58c2r9nwDcKaBIFILWchdA"
@@ -333,7 +401,7 @@
       "url": "https://open.spotify.com/track/1qUHvpyJHIf6c34nmGFZCD"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Like The First Time",
         "url": "https://open.spotify.com/album/2Foi3Y0FecSKN5bfHxzyji"
@@ -353,7 +421,7 @@
       "url": "https://open.spotify.com/track/54Ec5QcrFTJIhtmJoGWsP1"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Jimmy Choo",
         "url": "https://open.spotify.com/album/4ykEEw06qDPMb6Tdsu1w2Z"
@@ -369,7 +437,7 @@
       "url": "https://open.spotify.com/track/3gut085BLA8hSaWQU6UTaP"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Autumn Night",
         "url": "https://open.spotify.com/album/6OS1NCPPhr5GgQKBXipGCs"
@@ -393,7 +461,7 @@
       "url": "https://open.spotify.com/track/1XuzCsFFgxgv2v21pmFZia"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Like Heaven",
         "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
@@ -413,7 +481,7 @@
       "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "IN the mood",
         "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
@@ -429,7 +497,7 @@
       "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Hand\u3008Sanullim's 50th anniversary collaboration album\u3009",
         "url": "https://open.spotify.com/album/1wxEWZ9ARGDnEWyfGv42tn"
@@ -445,7 +513,7 @@
       "url": "https://open.spotify.com/track/5Apwi7i7yPRP6LXVinpjuN"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "INVU",
         "url": "https://open.spotify.com/album/0ToIkUqka6WWsMQw3TETdw"
@@ -461,7 +529,7 @@
       "url": "https://open.spotify.com/track/7d3plYwBTEDTGaMJFihbcW"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Beside You (feat. LIMZY)",
         "url": "https://open.spotify.com/album/3zUFUes1ztWrgPFWSkomfu"
@@ -481,7 +549,7 @@
       "url": "https://open.spotify.com/track/6FCgF4BO3QzteywSsuJ7Tk"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "LAGUNA",
         "url": "https://open.spotify.com/album/4RlL2z1IYi7sQdFVNAiKLy"
@@ -497,7 +565,7 @@
       "url": "https://open.spotify.com/track/22owQfiAnHK01fMQ6LoIxg"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/1TexFuMSAaTiaxUqKxZBo6"
@@ -517,7 +585,7 @@
       "url": "https://open.spotify.com/track/7eNqw8m9YmTgcKLeJU8WQr"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "This song is about you",
         "url": "https://open.spotify.com/album/2MoQ5Vu6dbwW3uodxU3w1M"
@@ -537,7 +605,7 @@
       "url": "https://open.spotify.com/track/33RENj1uecpLxh3p25aTj0"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Light (Feat. Junguk)",
         "url": "https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5"
@@ -557,7 +625,7 @@
       "url": "https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Winded",
         "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
@@ -573,7 +641,7 @@
       "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "lonely",
         "url": "https://open.spotify.com/album/3566WHXxAjUYG5VgWXlSkt"
@@ -589,7 +657,7 @@
       "url": "https://open.spotify.com/track/4vSVu22ZUSMxVPdWnemTWo"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Mean",
         "url": "https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs"
@@ -605,7 +673,7 @@
       "url": "https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Dear Insanity...",
         "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
@@ -621,7 +689,7 @@
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7Av1NlOPnL2EwQ8GqkbmFD"
@@ -637,7 +705,7 @@
       "url": "https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Sailing",
         "url": "https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya"
@@ -653,7 +721,7 @@
       "url": "https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Write & Draw",
         "url": "https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE"
@@ -669,7 +737,7 @@
       "url": "https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/3xlPKqOeXG7pSvk8tA6wco"
@@ -685,7 +753,7 @@
       "url": "https://open.spotify.com/track/2uymLlkO57qpLZUAry8I1R"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
@@ -709,7 +777,7 @@
       "url": "https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "CAKE (Feat. TRADE L)",
         "url": "https://open.spotify.com/album/0LREv8FEBfU58CJS8w2rSI"
@@ -729,7 +797,7 @@
       "url": "https://open.spotify.com/track/2BSjpT2O5Wf1k6fpurjwLN"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "To you",
         "url": "https://open.spotify.com/album/064cd3ECQA3xzCqjOeh8Us"
@@ -745,7 +813,7 @@
       "url": "https://open.spotify.com/track/4mYPnxp4nS9rzK4OY2mKQP"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "DAY N NIGHT",
         "url": "https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh"
@@ -761,7 +829,7 @@
       "url": "https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "NIGHT DRIVER",
         "url": "https://open.spotify.com/album/6ucIPiCHNNiz5w4okN3Bjp"
@@ -777,7 +845,7 @@
       "url": "https://open.spotify.com/track/5L2sypKfJmGGcZLUXq5Obs"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
@@ -793,7 +861,7 @@
       "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
-      "added_at": "2023-12-09 12:48:54",
+      "added_at": "2023-12-18 03:02:14",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/5QhjP24qx1NmIz4xpkIt1U"
@@ -811,118 +879,6 @@
       "duration_ms": 174346,
       "name": "Destiny (feat. YUJU)",
       "url": "https://open.spotify.com/track/53qSxySfNQad7q5NcNg2AQ"
-    },
-    {
-      "added_at": "2023-12-09 12:48:54",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
-    },
-    {
-      "added_at": "2023-12-09 12:48:54",
-      "album": {
-        "name": "Hongdae R&B",
-        "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 182299,
-      "name": "Hongdae R&B",
-      "url": "https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3"
-    },
-    {
-      "added_at": "2023-12-09 12:48:54",
-      "album": {
-        "name": "I wanna be your deepest heart",
-        "url": "https://open.spotify.com/album/7INMtslivPf4Op0LaJ8X6T"
-      },
-      "artists": [
-        {
-          "name": "merrymerryseoul",
-          "url": "https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy"
-        },
-        {
-          "name": "amin",
-          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
-        },
-        {
-          "name": "Saula",
-          "url": "https://open.spotify.com/artist/46GT1NQLJZsnVuxWKwuLET"
-        },
-        {
-          "name": "H!",
-          "url": "https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ"
-        }
-      ],
-      "duration_ms": 185643,
-      "name": "Sing for Love (feat. amin, Saula & H!)",
-      "url": "https://open.spotify.com/track/1L9RCVv1btqs0A75MKVmHP"
-    },
-    {
-      "added_at": "2023-12-09 12:48:54",
-      "album": {
-        "name": "NEWRNBERA",
-        "url": "https://open.spotify.com/album/1EWG73KSFYGrnZ3InrANPo"
-      },
-      "artists": [
-        {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
-        },
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
-        }
-      ],
-      "duration_ms": 196624,
-      "name": "Lokuko (feat. Kid Wine)",
-      "url": "https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O"
-    },
-    {
-      "added_at": "2023-12-09 12:48:54",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 149853,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
-    },
-    {
-      "added_at": "2023-12-09 12:48:54",
-      "album": {
-        "name": "Comely",
-        "url": "https://open.spotify.com/album/6yjwtup5l6X1YFEGfXtxNk"
-      },
-      "artists": [
-        {
-          "name": "Aylah",
-          "url": "https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Adulting",
-      "url": "https://open.spotify.com/track/6loqQEv0DKuPc4ztKG4gAR"
     }
   ],
   "unique_name": "K-R&B Now",

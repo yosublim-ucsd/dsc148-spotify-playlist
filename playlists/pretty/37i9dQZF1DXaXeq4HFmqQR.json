@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que brillaron en 2023. Foto: Vesta Lugg",
-  "num_followers": 13223,
+  "num_followers": 13228,
   "original_name": "EQUAL Chile: Lo Mejor de 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl",
+  "snapshot_id": "MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Antes que el sol nos queme",
+        "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "duration_ms": 255268,
+      "name": "Antes que el sol nos queme",
+      "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "Solteras",
         "url": "https://open.spotify.com/album/0WmLTD5Ywok6RaB6nhxDWl"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 166530,
       "name": "Solteras",
       "url": "https://open.spotify.com/track/5lAxjoqlISuiyyy0ijhyRM"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Antes que el sol nos queme",
-        "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        }
-      ],
-      "duration_ms": 255268,
-      "name": "Antes que el sol nos queme",
-      "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 247351,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "Qui\u00e9n me va a Cuidar",
         "url": "https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 202814,
       "name": "Qui\u00e9n me va a Cuidar",
       "url": "https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
-      },
-      "artists": [
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 247351,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Un Recuerdo",
-        "url": "https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M"
-      },
-      "artists": [
-        {
-          "name": "Rou C",
-          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
-        }
-      ],
-      "duration_ms": 196624,
-      "name": "Te Fuiste",
-      "url": "https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "NO ES TAN EASY",
         "url": "https://open.spotify.com/album/2CILbbOCAltIv15hsEPYyR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 201702,
       "name": "NO ES TAN EASY",
       "url": "https://open.spotify.com/track/4Hhko23YrzihKi3zEeXMFw"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Un Recuerdo",
+        "url": "https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M"
+      },
+      "artists": [
+        {
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
+        }
+      ],
+      "duration_ms": 196624,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u"
     },
     {
       "added_at": "2023-11-29 12:15:00",

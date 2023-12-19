@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 99986,
       "name": "Adrian's Zone",
       "url": "https://open.spotify.com/track/0tsUUplFxwJud6sis2zcH5"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 76453,
       "name": "April Wears Cheetah",
       "url": "https://open.spotify.com/track/09pfICGonkBl6TXhbglryk"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 99826,
       "name": "Dora the Explorer Theme Song",
       "url": "https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 160624,
       "name": "En Este Momento (feat. Gabriela Martinez)",
       "url": "https://open.spotify.com/track/4qTcmOgCo92nYfslCYTWxg"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 129973,
       "name": "Ginny's Home",
       "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 125159,
       "name": "Her Racing Heartbeat",
       "url": "https://open.spotify.com/track/0Wy0I9wbbX7CPIwU5pu8G2"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 113493,
       "name": "New Cave",
       "url": "https://open.spotify.com/track/0H1ih0eeTMjJd7sIZZ8N2b"
@@ -1150,6 +1150,24 @@
       "duration_ms": 65306,
       "name": "No Such Thing as Magic",
       "url": "https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ"
+    },
+    {
+      "album": {
+        "name": "Tag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79280,
+      "name": "Not It",
+      "url": "https://open.spotify.com/track/4qQYUXly5uyHi10uLkaRha"
     },
     {
       "album": {
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 89926,
       "name": "Skittles",
       "url": "https://open.spotify.com/track/1pOAAbPKHLaKNBnCOj7vi6"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 98613,
       "name": "Ted Saves The Day",
       "url": "https://open.spotify.com/track/6xjjeZHIXcywmHT3pO0Zak"
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 124306,
       "name": "Winter Passes Into Spring",
       "url": "https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ"

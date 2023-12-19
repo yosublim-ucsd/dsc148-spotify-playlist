@@ -1,15 +1,15 @@
 {
   "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=She0_Do8Sf2vq3E4tSqzbA\">Zakes Bantwini</a>",
-  "num_followers": 70439,
+  "num_followers": 70509,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjU5YWM0OTA1YzliZjQ4NDllNTBlOGVmNzNmYzBlZTM5YTdkNWU2",
+  "snapshot_id": "MCwxOWI5M2I4ZTliODc4MzdiMjRjOWI4ZDA2MDgwYjEwMjVlMWZjMWI2",
   "tracks": [
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Permanent Music 3",
         "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "The Star Is Reborn",
         "url": "https://open.spotify.com/album/23EoRgzCXwzvaRQ5WMEL2S"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1W5pFCjik3BlmyIsBglaBH"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/23U4H6XUT9NRfZvZv3dYqX"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/7prrm9RDeY3cRtpz9yVwbD"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Yes God (M\u00f6rda, Thakzin, Mhaw Keys Remix)",
         "url": "https://open.spotify.com/album/1lKbAHZVjunVFeZMEuwFLS"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/0WPY91ucbS7OnJpo1x4smF"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "The Best Is Yet To Come",
         "url": "https://open.spotify.com/album/13412W6hgE6c1qMsvbbho1"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/6CEUSjzo32KAYV1n8Sckkq"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Gorah",
         "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/0U9GES7moSZwF5F5fiNy3E"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/3OFzqxvN51f4S4p8ugC6Mz"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/4gwdz8QYe6TIG3QapxhBbV"
@@ -201,7 +201,35 @@
       "url": "https://open.spotify.com/track/3FMuC2yPEbstGcBNeyFBvb"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
+      "album": {
+        "name": "Respect The Drumboss (3 Step Edition)",
+        "url": "https://open.spotify.com/album/1gYcrQzMkSsXhmJpo7Z8eX"
+      },
+      "artists": [
+        {
+          "name": "Heavy-K",
+          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
+        },
+        {
+          "name": "Samthing Soweto",
+          "url": "https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        }
+      ],
+      "duration_ms": 393305,
+      "name": "Ulele",
+      "url": "https://open.spotify.com/track/2znV6ccKYPJOLh1GzKM3zE"
+    },
+    {
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Amandla",
         "url": "https://open.spotify.com/album/4KUQbiQ4UUjm5lcN0pX2Ah"
@@ -221,7 +249,7 @@
       "url": "https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
@@ -241,7 +269,7 @@
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Ayihlale Phansi",
         "url": "https://open.spotify.com/album/36ecCbIPB7CTIVWBVhN8Rn"
@@ -261,7 +289,7 @@
       "url": "https://open.spotify.com/track/29qYMwqS5NZ4hOUuEq2N0O"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj"
@@ -285,7 +313,7 @@
       "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/2HM9ZIBKtC3hTLjhTVrn1O"
@@ -305,7 +333,7 @@
       "url": "https://open.spotify.com/track/3pFYhtejMNAjTkzVIkUkuQ"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Chuki",
         "url": "https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8"
@@ -325,7 +353,7 @@
       "url": "https://open.spotify.com/track/1iOIcF7VllhkZ1AQP3rhJy"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Mina Nawe (Francis Mercier Rework)",
         "url": "https://open.spotify.com/album/4IBYotSB1NkcGuqOOEvGl0"
@@ -357,7 +385,7 @@
       "url": "https://open.spotify.com/track/6EuOHdrMhZb6KIGjxAp5Uu"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "More Life (Deluxe)",
         "url": "https://open.spotify.com/album/0zqcSYWjrgActtFPXJNdN6"
@@ -381,7 +409,7 @@
       "url": "https://open.spotify.com/track/530FzlkQy4SbifQE4lng9o"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Yafaso (feat. Villa)",
         "url": "https://open.spotify.com/album/3018AvgGDwngM2RRBueTgq"
@@ -405,7 +433,7 @@
       "url": "https://open.spotify.com/track/7dZD5roci3Ue5lRt0mSsKA"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/1lpI5RyEyZEQZeepYd7tQm"
@@ -425,7 +453,7 @@
       "url": "https://open.spotify.com/track/4GGIEBTzQ8xghcVrBiHPVm"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "African Vibe PT 2 - Ka Valungu (3 Step Remix)",
         "url": "https://open.spotify.com/album/5JvzmgfOX9gzhwcXUt2NrI"
@@ -445,7 +473,7 @@
       "url": "https://open.spotify.com/track/3jbBtITwX7GLqWcqz3odek"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Body Moving",
         "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
@@ -465,7 +493,7 @@
       "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Mama Thula",
         "url": "https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ"
@@ -493,7 +521,7 @@
       "url": "https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "If U Need It",
         "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
@@ -509,7 +537,7 @@
       "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
@@ -525,7 +553,7 @@
       "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "More Love (Rampa &ME Remix)",
         "url": "https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC"
@@ -553,7 +581,7 @@
       "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "ASANTE II",
         "url": "https://open.spotify.com/album/2h3Pakeix8EsegcwLVuRsb"
@@ -577,7 +605,7 @@
       "url": "https://open.spotify.com/track/1CNTMJIhTDNLFHvyw8ZQCR"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
@@ -597,7 +625,7 @@
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/3w9NkVTOW9G5pkw4l4AYQ3"
@@ -617,7 +645,7 @@
       "url": "https://open.spotify.com/track/0obPwk1OrhPBYXKLfOqRl6"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4Y4Y3cyycPTRDawz6U8irG"
@@ -641,7 +669,7 @@
       "url": "https://open.spotify.com/track/2LcurVaMknHvPepjdLnz6r"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "(It Goes Like) Nanana",
         "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
@@ -657,7 +685,7 @@
       "url": "https://open.spotify.com/track/1SwmINnHRKk4RiZGdarOv1"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "VO",
         "url": "https://open.spotify.com/album/3smMYYd5TPdPg0gw9i6Kx4"
@@ -681,7 +709,7 @@
       "url": "https://open.spotify.com/track/0PlYLQnZiogGTS0fRcErxl"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Osanisiya",
         "url": "https://open.spotify.com/album/3LXoa6T7tZwQ43xfp2h6gp"
@@ -709,7 +737,7 @@
       "url": "https://open.spotify.com/track/3HnmM3C6ohQxXSSisoUgDW"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "LAYKI EP",
         "url": "https://open.spotify.com/album/4CJn4LY3EgQKL3gwQDNfYI"
@@ -729,7 +757,7 @@
       "url": "https://open.spotify.com/track/1YSr5YbdrChZR7yzyjRTXn"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Umhle (Lebzin & Dr Feel AfroSoul Remix)",
         "url": "https://open.spotify.com/album/2KzQQVMOyvct2rpZIVDx4C"
@@ -757,7 +785,7 @@
       "url": "https://open.spotify.com/track/5N0Uukn963YBASMXuCL26q"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Saving Up",
         "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
@@ -773,7 +801,7 @@
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Big FU",
         "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
@@ -797,7 +825,7 @@
       "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Hey Sister",
         "url": "https://open.spotify.com/album/3zzGP2HY9cNbJ17Po8935W"
@@ -821,7 +849,7 @@
       "url": "https://open.spotify.com/track/6C0crUpYIl6EvCHomd0IAg"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Kwenzakalan",
         "url": "https://open.spotify.com/album/3bMm9uOsgWcgpkMWkqKqk1"
@@ -849,7 +877,7 @@
       "url": "https://open.spotify.com/track/6Nupcrtf9XFpQ2nwHCY0fI"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Mngani Wam (Radio Edit)",
         "url": "https://open.spotify.com/album/7du6iQUhQNXdTjTnleMKaT"
@@ -869,7 +897,7 @@
       "url": "https://open.spotify.com/track/3X5egyPvueKr9j63RkrD3n"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Don't Wake Up (feat. Sir Trill)",
         "url": "https://open.spotify.com/album/1dH3eSlqKD3VW5b4Drrdfi"
@@ -893,7 +921,7 @@
       "url": "https://open.spotify.com/track/4QgIdB09qSTOKERPzs9cGU"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
@@ -913,7 +941,7 @@
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "uMUZI",
         "url": "https://open.spotify.com/album/5xZs8qFEeWO56dl3AdF6nn"
@@ -929,7 +957,7 @@
       "url": "https://open.spotify.com/track/2rmy76n0ni1sN5qM4UaMze"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Samuel & Chressie EP",
         "url": "https://open.spotify.com/album/0FfoGUMj2GotGp3p6Z6X9Z"
@@ -949,7 +977,7 @@
       "url": "https://open.spotify.com/track/6CFIi8rQ7MQ2dOmSC9bh3n"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Jeteme",
         "url": "https://open.spotify.com/album/2bnvhdPD6Z8BLgLGX3G0y1"
@@ -973,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4fD4Kag49mp8dm6bM8nRmx"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Land Of The Dreamers",
         "url": "https://open.spotify.com/album/6Tbe6DbCD77yJc9kGqhLfb"
@@ -993,7 +1021,7 @@
       "url": "https://open.spotify.com/track/14Dj208HvKjMvkMSRVHHs1"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "SONDELA",
         "url": "https://open.spotify.com/album/5UtPAPkO4CdpXVNcDgnohc"
@@ -1013,23 +1041,7 @@
       "url": "https://open.spotify.com/track/5cNOGJMSGWz0RoGOUdyW9v"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Babe",
-        "url": "https://open.spotify.com/album/6sTPj9mYW0mW7sFPfXEDnC"
-      },
-      "artists": [
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        }
-      ],
-      "duration_ms": 321391,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/5ZJGyncNmrFfqGlst1hcdF"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Mandaro",
         "url": "https://open.spotify.com/album/6bzepfcED8an1Xumeu3S5X"
@@ -1049,7 +1061,7 @@
       "url": "https://open.spotify.com/track/7MCAsfepOYNLhjIL807DXk"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Permanent Music 3",
         "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
@@ -1073,7 +1085,7 @@
       "url": "https://open.spotify.com/track/1QI3YsyMxfD2j3xoJDHvTi"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Ibala Lami",
         "url": "https://open.spotify.com/album/2eiZCO6IpgC6aFYRLqxzyw"
@@ -1093,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5xupTcr3cRi4vjR8W6Frs5"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2023-12-18 17:14:16",
       "album": {
         "name": "Sons of The Soil",
         "url": "https://open.spotify.com/album/7f3e62NaZXt2QXmfGUX1OQ"

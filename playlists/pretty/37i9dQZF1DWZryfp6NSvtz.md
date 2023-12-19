@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Twin Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,630 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,780 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [Paper Heart \- Radio Edit](https://open.spotify.com/track/32IiFFXwFaOSCyCLWkMy6x) | [Rusted Teeth](https://open.spotify.com/artist/7KPNlixzksCWjXUeH5sgU2) | [Paper Heart \(Radio Edit\)](https://open.spotify.com/album/6QZ79mHdiPmHCq6mTCqMVb) | 2:42 |
 | 40 | [Stadium](https://open.spotify.com/track/1U5ssXXbZ6TfzBJQzqneZo) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [Monsters](https://open.spotify.com/album/7MakO8Dpiuc5ZOA18dWey7) | 5:08 |
 
-Snapshot ID: `MCxkNjNhYWM1NTI2OWY5NjljODIxNWEyOWU4Nzg3Y2RmMTA1YzRkMGYw`
+Snapshot ID: `MCwxNzY3NWM3OTM1NDQwMDRmNzY1NDgwYzQxZDFlMDUxNWZhMjdiZmU5`

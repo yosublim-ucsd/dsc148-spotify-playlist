@@ -6275,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "B\u00e9cane - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "B\u00e9cane - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
+    },
+    {
+      "album": {
         "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
         "url": "https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah"
       },
@@ -12288,6 +12306,24 @@
       "duration_ms": 198186,
       "name": "Era a M\u00e3o de Deus",
       "url": "https://open.spotify.com/track/4C6vz2IfBlrOZwhL1kKoKH"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico, Vol. 5",
+        "url": "https://open.spotify.com/album/16Zqfc7s1kWjcUZTzJGg7I"
+      },
+      "artists": [
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344555,
+      "name": "Era a M\u00e3o de Deus",
+      "url": "https://open.spotify.com/track/7eguCyNL7vO08iXL014Awd"
     },
     {
       "album": {
@@ -22222,7 +22258,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 161284,
       "name": "Mega Funk Lost",
       "url": "https://open.spotify.com/track/1dNaW9Zy3lSgwylHwR75Ro"
@@ -34776,7 +34812,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 174512,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"

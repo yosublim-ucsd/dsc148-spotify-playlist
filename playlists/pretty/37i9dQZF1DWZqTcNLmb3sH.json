@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kaatera\n",
-  "num_followers": 56251,
+  "num_followers": 56275,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTM3ZmNmMjljMzg5OWJkMDU1NTQzNmU2YWVlNWQ4OGNkMmI3YWM5",
+  "snapshot_id": "MCwxZTIxOTUyZTQ0MzI0NmYyY2VmMWY5NmU2Zjg1NmY4MDM2NWRkZDhl",
   "tracks": [
     {
       "added_at": "2023-12-12 05:37:45",
@@ -33,6 +33,26 @@
       "url": "https://open.spotify.com/track/0Uw7FTZyC35WQtqt0kDweW"
     },
     {
+      "added_at": "2023-12-07 12:32:14",
+      "album": {
+        "name": "Bhoomi Runa (from \"Yaava Mohana Murali Kareithu\")",
+        "url": "https://open.spotify.com/album/5l4sstEqegMJYkX8FtU6jc"
+      },
+      "artists": [
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Anil CJ",
+          "url": "https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Bhoomi Runa (from \"Yaava Mohana Murali Kareithu\")",
+      "url": "https://open.spotify.com/track/6NcPqD2dMeDQXvsO5OvwwF"
+    },
+    {
       "added_at": "2023-12-15 12:12:22",
       "album": {
         "name": "Soul Of Karthik",
@@ -53,6 +73,26 @@
       "url": "https://open.spotify.com/track/7h3IPTrBGKdWUBQmzYjkeS"
     },
     {
+      "added_at": "2023-12-05 06:44:55",
+      "album": {
+        "name": "Pasandaagavne ( from\"Kaatera\")",
+        "url": "https://open.spotify.com/album/40WrIkUrjtryaA1mpmagga"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 211155,
+      "name": "Pasandaagavne - (from \"Kaatera\")",
+      "url": "https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm"
+    },
+    {
       "added_at": "2023-12-07 12:31:19",
       "album": {
         "name": "I Love You Kane I Love You Too Kano (from \"Bheema\")",
@@ -71,6 +111,50 @@
       "duration_ms": 229426,
       "name": "I Love You Kane I Love You Too Kano (from \"Bheema\")",
       "url": "https://open.spotify.com/track/6hPq0V8yd4qHP64V6aFfEw"
+    },
+    {
+      "added_at": "2023-12-18 09:39:25",
+      "album": {
+        "name": "Sihiyaada Sundariye (from \"Utsava\")",
+        "url": "https://open.spotify.com/album/59L0GDImRQLDSlavLSw05K"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Emil",
+          "url": "https://open.spotify.com/artist/7AUAApSgcHHFD2r2QTspyK"
+        }
+      ],
+      "duration_ms": 239113,
+      "name": "Sihiyaada Sundariye (from \"Utsava\")",
+      "url": "https://open.spotify.com/track/2EGXdYmnQhda9VD8iPWJSa"
+    },
+    {
+      "added_at": "2023-12-18 09:42:21",
+      "album": {
+        "name": "Friendship Nanna Chaddi Baddi (From \"Kuchuku\")",
+        "url": "https://open.spotify.com/album/5j6kgN7AiEYHEEoOpZfgx8"
+      },
+      "artists": [
+        {
+          "name": "A T Ravish",
+          "url": "https://open.spotify.com/artist/7KbOjeMXqQhBrGrFq71Yvq"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Nagarjuna Sharma",
+          "url": "https://open.spotify.com/artist/5afoIXDDGpV9nDsc4OHVxL"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Friendship Nanna Chaddi Baddi (From \"Kuchuku\")",
+      "url": "https://open.spotify.com/track/5keqfRsTEjkJ8eS8RaTAsn"
     },
     {
       "added_at": "2023-12-13 13:03:56",
@@ -235,46 +319,6 @@
       "duration_ms": 245875,
       "name": "Life Alli Nimge - From \"Maayanagari\"",
       "url": "https://open.spotify.com/track/7zlD52pDXUzesR7RqazeMY"
-    },
-    {
-      "added_at": "2023-12-05 06:44:55",
-      "album": {
-        "name": "Pasandaagavne ( from\"Kaatera\")",
-        "url": "https://open.spotify.com/album/40WrIkUrjtryaA1mpmagga"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        },
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        }
-      ],
-      "duration_ms": 211155,
-      "name": "Pasandaagavne - (from \"Kaatera\")",
-      "url": "https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm"
-    },
-    {
-      "added_at": "2023-12-07 12:32:14",
-      "album": {
-        "name": "Bhoomi Runa (from \"Yaava Mohana Murali Kareithu\")",
-        "url": "https://open.spotify.com/album/5l4sstEqegMJYkX8FtU6jc"
-      },
-      "artists": [
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        },
-        {
-          "name": "Anil CJ",
-          "url": "https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bhoomi Runa (from \"Yaava Mohana Murali Kareithu\")",
-      "url": "https://open.spotify.com/track/6NcPqD2dMeDQXvsO5OvwwF"
     },
     {
       "added_at": "2023-11-28 05:05:06",
@@ -1687,30 +1731,6 @@
       "duration_ms": 151000,
       "name": "Bad Boys (from \"Bheema\")",
       "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
-    },
-    {
-      "added_at": "2023-10-12 13:40:46",
-      "album": {
-        "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\")",
-        "url": "https://open.spotify.com/album/1FCgiWpa7ic3elcMPdWKDz"
-      },
-      "artists": [
-        {
-          "name": "Ramya Bhat Abhyankar",
-          "url": "https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Raghu Niduvalli",
-          "url": "https://open.spotify.com/artist/3XgLt0qMKO1yeg2MaEqx06"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Oppisikolteeni (From \"Tiger Nageswara Rao\")",
-      "url": "https://open.spotify.com/track/3XDiDgVmgQVQUxvQbE9pbO"
     }
   ],
   "unique_name": "Latest Kannada",

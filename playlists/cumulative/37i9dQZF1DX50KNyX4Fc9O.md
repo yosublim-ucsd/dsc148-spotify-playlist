@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Karol G
 
-547 songs - 1 day 4 hr 25 min
+548 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Nirvana](https://open.spotify.com/track/0B2Ox309UPBFIpa87Wpa2N) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Nirvana](https://open.spotify.com/album/5vlnjPKl74RRBj6aD9aspg) | 2:46 | 2023-08-04 | 2023-09-29 |
 | [No Man's Land](https://open.spotify.com/track/68HjC78NoNtXkpfse3vwcK) | [ASHY](https://open.spotify.com/artist/6c47JwRK2Sd1zeisuIgKhO) | [Status](https://open.spotify.com/album/3lZpCFlqJ4uMU4qSa0yfPw) | 2:40 | 2023-06-15 | 2023-06-23 |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-09 |  |
-| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-14 |  |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-14 | 2023-12-19 |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-14 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/3DRUVDeCVBtvhhVpQ2cJQp) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Head Noise](https://open.spotify.com/album/149BiguXHjEMV5lwOUTiwe) | 3:40 | 2023-08-17 | 2023-09-29 |
 | [NOTHING WRONG](https://open.spotify.com/track/7xYpIPjCyI5eMtxGTOZnA5) | [Kayps](https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [NOTHING WRONG](https://open.spotify.com/album/4JnbqQ7i2dHRxuye81bsYQ) | 2:56 | 2023-12-14 |  |
 | [november](https://open.spotify.com/track/0GOD7WsMBZqp4AuAp0CH0E) | [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [november](https://open.spotify.com/album/5hr28sFuldGtJqqPrV4l5e) | 2:38 | 2023-09-21 | 2023-11-09 |

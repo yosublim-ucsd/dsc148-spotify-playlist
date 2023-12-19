@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,301 songs - 2 day 9 hr 18 min
+1,302 songs - 2 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Gas](https://open.spotify.com/track/77T996JlKleOyB1RAchTQr) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Gas](https://open.spotify.com/album/4rBij9sYNOfrBltR7rUYjN) | 2:53 | 2023-10-19 |  |
 | [GASA](https://open.spotify.com/track/799ixSjmA6VzLFYMulJism) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [GASA](https://open.spotify.com/album/00735GXhLT8zQUWsyjY6IH) | 2:41 | 2022-02-25 | 2022-03-26 |
 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 | 2023-02-23 | 2023-06-09 |
-| [GATANS FAVORIT](https://open.spotify.com/track/6XgI4t0OFxdqHiMjtoG33H) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J), [Valon](https://open.spotify.com/artist/6WTEAIr2PTM4nCRqtYRXNg) | [GATANS FAVORIT](https://open.spotify.com/album/1gbprDyMbNTYxfJxPi4ooo) | 3:04 | 2023-09-07 |  |
+| [GATANS FAVORIT](https://open.spotify.com/track/6XgI4t0OFxdqHiMjtoG33H) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J), [Valon](https://open.spotify.com/artist/6WTEAIr2PTM4nCRqtYRXNg) | [GATANS FAVORIT](https://open.spotify.com/album/1gbprDyMbNTYxfJxPi4ooo) | 3:04 | 2023-09-07 | 2023-12-19 |
 | [Gatubarn](https://open.spotify.com/track/5Pr2zJZEXPE7PIMxsAiJfG) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Gatubarn](https://open.spotify.com/album/0NQS4zxWeOOCHzBiNJ6VdZ) | 3:04 | 2022-05-26 | 2022-06-17 |
 | [Gatubarnen](https://open.spotify.com/track/6W7QLX5jOhFYbueY9cYpxw) | [Jojo](https://open.spotify.com/artist/6VUBQzpUwDxhMeNs6wk88S) | [Gatubarnen](https://open.spotify.com/album/1J432uc4KGdZdKBKUA2ykm) | 2:44 | 2022-08-15 | 2022-10-14 |
 | [GE ALLT](https://open.spotify.com/track/7sfS4X1Tl7KEeqJTivat91) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [GE ALLT](https://open.spotify.com/album/18T1HcCEcXkEEELae1D5E4) | 2:45 | 2023-06-29 | 2023-07-21 |
@@ -1022,6 +1022,7 @@
 | [SHUT UP](https://open.spotify.com/track/6DdRLZYLKZNq09wTcrYQe2) | [Kev1n](https://open.spotify.com/artist/1IyxRn0N23zPoQNCp2Keap) | [SHUT UP](https://open.spotify.com/album/0AZzLbS4SHvRvTdfcwz5Kf) | 2:27 | 2022-09-01 | 2022-10-07 |
 | [SICARIOS](https://open.spotify.com/track/7voezAUbxEsKUdbTw3DhEC) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [SICARIOS](https://open.spotify.com/album/52JqDYuiWhWK4Ue0APelMF) | 2:00 | 2023-06-01 | 2023-07-21 |
 | [SIDECHICK](https://open.spotify.com/track/1RMOvXw9ZLtXKeie85sWdt) | [$an $uci](https://open.spotify.com/artist/4kI87otDiowrxdz1kq56uY), [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [SIDECHICK](https://open.spotify.com/album/6jmFmaCzMRA9Dv8dV5mYFN) | 2:01 | 2023-02-02 | 2023-02-17 |
+| [SIKINA](https://open.spotify.com/track/0XqH2hRrxjciHaYsTalevl) | [DABAB](https://open.spotify.com/artist/18tTELWrAXq46UM5D3CFgp) | [SIKINA](https://open.spotify.com/album/1sutLpQkn6bVNrUcbjtuae) | 2:25 | 2023-12-18 |  |
 | [Siluetter](https://open.spotify.com/track/4WBlidviA9LiJc4kLHfjfY) | [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ) | [Siluetter](https://open.spotify.com/album/3X7bd4ko3jbuWu1IEqWf4E) | 2:35 | 2022-05-26 | 2022-06-17 |
 | [SIMEONE](https://open.spotify.com/track/33ffhHeLPecWksV6W1cLZj) | [AIVA](https://open.spotify.com/artist/07ogFFhRxjjGsPHfq4dSQb) | [SIMEONE](https://open.spotify.com/album/7djxz0ojilwz6aMYBAlEg8) | 2:20 | 2022-05-05 | 2022-05-27 |
 | [Sirenerna \(feat\. Yei Gonzalez\)](https://open.spotify.com/track/0NgCKry9yHqnEibPOwLDEp) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Yei Gonzalez](https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq) | [Sirenerna \(feat\. Yei Gonzalez\)](https://open.spotify.com/album/2920TxTF2Bj66TAzhf0UOn) | 2:18 | 2022-01-27 | 2022-02-11 |
@@ -1079,7 +1080,7 @@
 | [Stefflon & Burna](https://open.spotify.com/track/2YLANvLF3wNHYr3FwlZz1p) | [Leyla Dahab](https://open.spotify.com/artist/7kKJ9Ow2GI3qvINsToclQj) | [Stefflon & Burna](https://open.spotify.com/album/6iUE3OkGZZegEy7dW2cCgi) | 3:03 | 2022-01-06 | 2022-01-28 |
 | [Stefflon Don](https://open.spotify.com/track/7dNBmm3pee2FxAYiZNFk13) | [Yei Gonzalez](https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq), [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Stefflon Don](https://open.spotify.com/album/1YVBCLUAH7wGycVlXtuX7z) | 2:10 | 2023-03-09 | 2023-04-21 |
 | [Sticky Situation](https://open.spotify.com/track/7vVLexVH1BvkF0xoXveBFt) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Sticky Situation](https://open.spotify.com/album/6BqwUpGcFPcSo7tkQT6xTD) | 2:59 | 2023-02-09 | 2023-04-21 |
-| [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 | 2023-07-20 |  |
+| [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 | 2023-07-20 | 2023-12-19 |
 | [Stjärnorna](https://open.spotify.com/track/0QzjQiI3K2J90mn0tHslZ4) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Stjärnorna](https://open.spotify.com/album/582G1brdY5Jfx181W2E3z0) | 2:52 | 2023-03-23 | 2023-04-28 |
 | [Stockholm](https://open.spotify.com/track/3wpjZajcRJQlvjCRCgQ40q) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Turbulence](https://open.spotify.com/album/46sUyBzswdVzGjveaAnU18) | 2:22 | 2023-04-28 | 2023-06-02 |
 | [Stockholm By Night](https://open.spotify.com/track/795T6YRPyvgcKACmqqrvrD) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Stockholm By Night](https://open.spotify.com/album/0mJ6MX3Ac4S6XhDANlLu2P) | 2:45 | 2023-07-13 | 2023-07-28 |

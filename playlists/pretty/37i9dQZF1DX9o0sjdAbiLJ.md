@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o0sjdAbiLJ.md) - [plain]
 
 > Immerse yourself in the world of NIOH, an intense action RPG experience in Sengoku Era in Japan\. <br/>ダーク戦国アクションRPG, 「仁王」の世界へ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,795 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,802 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o0sjdAbiLJ.md) - [plain]
 | 49 | [Yamata\-No\-Orochi](https://open.spotify.com/track/2OwXYc2zV3rWqf9DLzxbjs) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [NIOH Original Sound Track](https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe) | 2:39 |
 | 50 | [Ending](https://open.spotify.com/track/5WlASwKJk7K6RNrJDCoa19) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [NIOH Original Sound Track](https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe) | 2:27 |
 
-Snapshot ID: `MCwzZDFjNWRlYzY0OWM2NzgyMzhhZmQzYjE0MDFhZWFmZGQwYzg4NTRm`
+Snapshot ID: `MCwwNGQ2NWIzNzQ5NTEzOWM1NDE3Y2EyNDg1MjAzODBjZWZmYWJlMWUy`

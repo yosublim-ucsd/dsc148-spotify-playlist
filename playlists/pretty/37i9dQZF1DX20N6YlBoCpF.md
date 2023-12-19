@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ?si=mARG7ATsSdirReENIHBdfQ">Bok Van Blerk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,839 likes - 64 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,911 likes - 64 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 63 | [Daai Girl](https://open.spotify.com/track/6ivrpvgB86kwsySdLpjhV2) | [BiBi](https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX) | [Daai Girl](https://open.spotify.com/album/6kl5EDBv4XxeJBJfS9olsx) | 3:13 |
 | 64 | [KANNIE WARRIE](https://open.spotify.com/track/5yjXBgnXdZDzqJIuhxgDBF) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [KANNIE WARRIE](https://open.spotify.com/album/2chOPP9olG7mcTVGALmcrG) | 3:30 |
 
-Snapshot ID: `MCwwNzBmMTY2NDE5NWUxY2ZhMDA0NmI4ZDcwMWU0NDljYjZhYTgzZjFi`
+Snapshot ID: `MCwxMzVkZmU4Y2Q0M2FkMGVkZGY4YzdiMDljYmFjYWNhMWNlYmYxMDhk`

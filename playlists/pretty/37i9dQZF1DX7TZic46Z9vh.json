@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 42109,
+  "num_followers": 42114,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODYzYmNkOTg1Y2NkNTIxNjBjZDJlOWYwMGY2NGY5YzJjOTdkMDYz",
+  "snapshot_id": "MCxiMDFjMWYxNDdjZWZkMTNmNDhmODMyMTJmYTA1MThiMGI2OGMxNmE2",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Adicto al Rock N Roll",
-        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Perro Negro y Callejero",
-      "url": "https://open.spotify.com/track/7lQVq7S3mqEJnF6mDfKka8"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
         "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
       },
@@ -263,6 +247,38 @@
       "duration_ms": 189160,
       "name": "La Noche Que Muri\u00f3 Chicago - The Night Chicago Died",
       "url": "https://open.spotify.com/track/0qdQxY9G4Xm5RfwbE0eSjP"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Perro Negro y Callejero",
+      "url": "https://open.spotify.com/track/7lQVq7S3mqEJnF6mDfKka8"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 319773,
+      "name": "Black Magic Woman / Gypsy Queen",
+      "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -315,6 +331,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
+      },
+      "artists": [
+        {
+          "name": "Peace and Love",
+          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
+        }
+      ],
+      "duration_ms": 417494,
+      "name": "Latin Feelin'",
+      "url": "https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw"
       },
@@ -327,22 +359,6 @@
       "duration_ms": 250946,
       "name": "Back",
       "url": "https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 319773,
-      "name": "Black Magic Woman / Gypsy Queen",
-      "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -383,34 +399,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Peace and Love",
-        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
+        "name": "Santana (III)",
+        "url": "https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI"
       },
       "artists": [
         {
-          "name": "Peace and Love",
-          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 417494,
-      "name": "Latin Feelin'",
-      "url": "https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
-        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 494471,
-      "name": "La Ciudad Perd\u00edda",
-      "url": "https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4"
+      "duration_ms": 331333,
+      "name": "No One to Depend On",
+      "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Santana (III)",
-        "url": "https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI"
+        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
+        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
         }
       ],
-      "duration_ms": 331333,
-      "name": "No One to Depend On",
-      "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
+      "duration_ms": 494471,
+      "name": "La Ciudad Perd\u00edda",
+      "url": "https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Peace and Love",
-        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
-      },
-      "artists": [
-        {
-          "name": "Peace and Love",
-          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
-        }
-      ],
-      "duration_ms": 139459,
-      "name": "Peace and Love",
-      "url": "https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 173356,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
+      },
+      "artists": [
+        {
+          "name": "Peace and Love",
+          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "Peace and Love",
+      "url": "https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -559,6 +559,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
+        "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
+        }
+      ],
+      "duration_ms": 115853,
+      "name": "In-a-Gadda-da-Vida",
+      "url": "https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Colecci\u00f3n Avandaro",
         "url": "https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 192893,
       "name": "Nada Nos Detendr\u00e1",
       "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
-        "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Del Sonido",
-          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
-        }
-      ],
-      "duration_ms": 115853,
-      "name": "In-a-Gadda-da-Vida",
-      "url": "https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -735,18 +735,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Super Onda Chicana",
-        "url": "https://open.spotify.com/album/0ejOwpUztLTHRHqmOE9QXR"
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
       },
       "artists": [
         {
-          "name": "Divisi\u00f3n Del Norte",
-          "url": "https://open.spotify.com/artist/1tWeuKQu8RxbmUNMCpnFjr"
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
         }
       ],
-      "duration_ms": 211130,
-      "name": "Dama Con Alma",
-      "url": "https://open.spotify.com/track/0nh2IJbCnttzpgVbQUjnQX"
+      "duration_ms": 180226,
+      "name": "Acapulco Dorado",
+      "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -767,18 +767,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Regreso al Origen",
-        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
+        "name": "Super Onda Chicana",
+        "url": "https://open.spotify.com/album/0ejOwpUztLTHRHqmOE9QXR"
       },
       "artists": [
         {
-          "name": "Grupo Ciruela",
-          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+          "name": "Divisi\u00f3n Del Norte",
+          "url": "https://open.spotify.com/artist/1tWeuKQu8RxbmUNMCpnFjr"
         }
       ],
-      "duration_ms": 180226,
-      "name": "Acapulco Dorado",
-      "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
+      "duration_ms": 211130,
+      "name": "Dama Con Alma",
+      "url": "https://open.spotify.com/track/0nh2IJbCnttzpgVbQUjnQX"
     },
     {
       "added_at": "2021-09-06 15:34:44",

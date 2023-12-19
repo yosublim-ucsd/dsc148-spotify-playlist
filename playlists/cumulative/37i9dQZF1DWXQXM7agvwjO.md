@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Elephant Gym \(Taiwan\)
 
-1,111 songs - 2 day 18 hr 58 min
+1,112 songs - 2 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Devil's Bargain](https://open.spotify.com/track/0a3IlLkvg1FaUAs4QR1Yse) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Devil's Bargain](https://open.spotify.com/album/5gRd0zhPpH4TUmfMTBKZNg) | 4:57 | 2023-06-08 | 2023-07-15 |
 | [Dewi Pelita](https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED) | [Fiko Nainggolan](https://open.spotify.com/artist/0fOEDOEkZobdwo8jksF98r), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Dewi Pelita](https://open.spotify.com/album/4ERCJb48c2k4aOtPz7U7tK) | 3:45 | 2023-02-09 | 2023-03-18 |
 | [Different Directions](https://open.spotify.com/track/59YYx42Tyvuq5REmjJTWyh) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Different Directions](https://open.spotify.com/album/36Wq4A6zAo4GEON57bZxtp) | 2:31 | 2023-10-12 | 2023-11-10 |
-| [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 | 2023-04-20 |  |
+| [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 | 2023-04-20 | 2023-12-19 |
 | [Different Shade of Blue](https://open.spotify.com/track/4TfTHd6vzdJwETRmfKK7pB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2qFwbnJz52vHxJUQCcJdAv) | 2:50 | 2022-03-24 | 2022-06-03 |
 | [Different Socks](https://open.spotify.com/track/7GbD3tRjKaqc2yvkPe23ex) | [Sourmilk](https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq) | [Different Socks](https://open.spotify.com/album/6RVTdal84K19D7ERNToJTh) | 3:39 | 2023-03-31 | 2023-04-21 |
 | [Dimensio](https://open.spotify.com/track/44aFC9Q6JUO8txxJeunsz3) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Dimensio](https://open.spotify.com/album/4xgJN8UO0lrJkUjfgoShBg) | 3:22 | 2022-10-28 | 2023-02-03 |
@@ -817,6 +817,7 @@
 | [Spunky!](https://open.spotify.com/track/2qyBRnUVfj227PJqLiynkg) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/50fMxlCKUEz8M4aRo0IHe7) | 2:10 | 2023-06-01 | 2023-06-23 |
 | [St\. Lover](https://open.spotify.com/track/6kNiAOXTGBTjL1ITsWWUio) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/6tgMOMo9ZXYCrBIVYgfyem) | 3:37 | 2022-09-08 | 2022-10-14 |
 | [Stationary Bike](https://open.spotify.com/track/6VRvc0MJnGEoxBJJE81iyM) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Stationary Bike](https://open.spotify.com/album/0iTtw3q2b3w5krUub6W9Ed) | 2:46 | 2023-05-12 | 2023-05-19 |
+| [stay away go!](https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [internet teenage lover](https://open.spotify.com/album/0NT5ZBUomUJezXJAZtKXOK) | 4:34 | 2023-12-18 |  |
 | [Stay Down](https://open.spotify.com/track/79R9bqUjcNpxbVHussLqne) | [Common People Like You](https://open.spotify.com/artist/485LFmKmOvxKT55DHC3Njm) | [Stay Down](https://open.spotify.com/album/4KjIXvJyUVVU9ZriV8Um46) | 3:48 | 2023-11-01 | 2023-11-24 |
 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 | 2022-04-21 | 2022-05-27 |
 | [Still TV](https://open.spotify.com/track/06Kowi9KHQG0Tr6xTrR9L6) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Still TV](https://open.spotify.com/album/77scd2071T2lh7WbambsIQ) | 2:59 | 2022-06-23 | 2022-07-29 |

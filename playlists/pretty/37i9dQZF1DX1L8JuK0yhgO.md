@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,312 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,321 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 26 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 |
 | 27 | [Christmas Song II](https://open.spotify.com/track/7cvAdWZFK5ODIklRPHrnmO) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Christmas Song II](https://open.spotify.com/album/5mwTFbyzv89qTDbAlHCp2W) | 3:02 |
 | 28 | [透明なガール \-Dye me\- \(feat\. ひかり\) \- Kan Sano Remix](https://open.spotify.com/track/1siasGbYxYkN9PXZvNGTWS) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [透明なガール \(Remixes\)](https://open.spotify.com/album/2zu4pvYDprErsrMOA0eP8U) | 3:57 |
-| 29 | [Let's Chill \- Remix](https://open.spotify.com/track/3ss9LjAfvDPgS1Yvb3fHWv) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [CHOCO CARLITO](https://open.spotify.com/artist/52K98XwvtgNchVpYO4WME8), [MONBEE](https://open.spotify.com/artist/5OQFkVpfMPEa3Oz29cHeij), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [Let's Chill \(Remix\)](https://open.spotify.com/album/5bYlrjrUgl3u3EltaCq5eA) | 3:10 |
+| 29 | [Let's Chill \- Remix](https://open.spotify.com/track/3ss9LjAfvDPgS1Yvb3fHWv) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [MONBEE](https://open.spotify.com/artist/5OQFkVpfMPEa3Oz29cHeij) | [Let's Chill \(Remix\)](https://open.spotify.com/album/5bYlrjrUgl3u3EltaCq5eA) | 3:10 |
 | 30 | [Zekkei](https://open.spotify.com/track/4jpc2YUlwB1P7yYd7R7AkR) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD) | [Zekkei](https://open.spotify.com/album/3QM4GSKwcviuJZ6G3OJpat) | 3:29 |
 | 31 | [sober](https://open.spotify.com/track/07uLc2TCIhWZeFqZgGY7Em) | [Hang](https://open.spotify.com/artist/4dMOkrczQ57UCm8ef4w2AG) | [sober](https://open.spotify.com/album/0xM1bbX2wjnOG0Cec5pUQt) | 4:15 |
 | 32 | [Brainstorm](https://open.spotify.com/track/1ZBmSuzM53RqvIkGcqRgbv) | [TORAUMA](https://open.spotify.com/artist/7GMarWA8YCRXDfR4ETdU3U), [NIHA\-C](https://open.spotify.com/artist/5hAmuRYVr9gWDOdO1aV8Nr) | [Brainstorm](https://open.spotify.com/album/6a8EcOsyEZ9FkmvP8SFOPQ) | 3:38 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 64 | [MORE & MORE \(LEE HAE SOL Sped Up Remix\)](https://open.spotify.com/track/3PeqOlET4ZX6CKGwrlAX7u) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [LEE HAE SOL](https://open.spotify.com/artist/5xZzq9Bk8IociNfF0TfHdf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:25 |
 | 65 | [分かってないよ \- Sped Up](https://open.spotify.com/track/13sBcr9Fqc1JD1bh3f9vq0) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [分かってないよ \(Sped Up\)](https://open.spotify.com/album/3brLVw6XC0saMaeL0ZHFYS) | 2:54 |
 
-Snapshot ID: `MCw5ODc0YjQ5YWZkMjQzZWI2M2M3ODA3MmRjNTA1YTRhZTFiNWYyMzQ5`
+Snapshot ID: `MCxjZTUwM2VmYmI3OTM1NTA2NGRhMzg0NGU2YzY0ZWRiZjc5NmU4NGI2`

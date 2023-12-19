@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-668 songs - 1 day 17 hr 2 min
+669 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Bright](https://open.spotify.com/track/1SyLXPm2RkbX1UjS1eTmlQ) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Bright](https://open.spotify.com/album/6NCCIT61z4lECW3MPrvf2z) | 3:36 | 2021-10-20 | 2022-04-30 |
 | [Buckets Of Rain](https://open.spotify.com/track/25SaaQh3t8GNLdsOZpTbZP) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin TX](https://open.spotify.com/album/1woYdJYYs9ZaCT8VyMVcdk) | 2:48 | 2022-06-10 | 2022-07-23 |
 | [Buckets of Rain \- Live](https://open.spotify.com/track/2PoGyTZEy0OVz7fX9P2bxS) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin, TX](https://open.spotify.com/album/2omhPQsUhtcv9lWE443mcC) | 2:48 | 2022-06-10 | 2023-09-02 |
-| [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-06-10 |  |
+| [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-06-10 | 2023-12-19 |
 | [California](https://open.spotify.com/track/4KUFJ7phSi40lh1ChmFgb9) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/1og5RxTX9bM7v7yw5qOFqC) | 2:47 | 2021-10-20 | 2022-07-28 |
 | [California Dreamin \- Acoustic Mix](https://open.spotify.com/track/4FmVtdjLVhzHpNuBhMF8Wj) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T) | [California Dreamin](https://open.spotify.com/album/561Ly3AThHF8GOSY0tm0Al) | 3:28 | 2021-10-20 | 2022-07-29 |
 | [California Dreamin'](https://open.spotify.com/track/2gMIw3s1WT1jEMplHwD4e2) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [California Airport Love](https://open.spotify.com/album/02OgL5XHVxJvXqZMpaqWkB) | 3:08 | 2022-06-10 |  |
@@ -200,6 +200,7 @@
 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 | 2021-10-20 |  |
 | [Fast Car \- Acoustic](https://open.spotify.com/track/618v3huzqDQQBfMogznSb3) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car \(Acoustic\)](https://open.spotify.com/album/6UcZPki3VoKEEQrI6nDON7) | 3:37 | 2021-10-20 | 2022-07-29 |
 | [Fast Car \- Acoustic](https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Greatest Covers Ever](https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts) | 3:37 | 2022-06-10 | 2023-10-06 |
+| [Feel Good Inc.](https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH) | 3:56 | 2023-10-23 |  |
 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 | 2022-06-10 |  |
 | [Fight Song](https://open.spotify.com/track/1e7HQG3E9nsK5JiwsHtVdu) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Fight Song](https://open.spotify.com/album/2XIpY89NBO1ar8jtCXypWE) | 4:00 | 2021-10-20 | 2022-06-17 |
 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 | 2022-06-10 |  |

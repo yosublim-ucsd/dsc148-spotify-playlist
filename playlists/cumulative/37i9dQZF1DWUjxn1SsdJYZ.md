@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: KILY SAFARI
 
-629 songs - 1 day 5 hr 13 min
+630 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Freak\($\)](https://open.spotify.com/track/1S9JXyNrWjICD3Q9P1TMZp) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Freak\($\)](https://open.spotify.com/album/57sYpVoEAiXSAkTFBmO9JD) | 2:23 | 2022-03-21 | 2022-05-13 |
 | [Free Promotion](https://open.spotify.com/track/1rbv0WiULofKWZRDNcPSCK) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [Free Promotion](https://open.spotify.com/album/6grvETmkBJ7Q2GtVqqCHJw) | 1:52 | 2023-02-16 | 2023-05-26 |
 | [Free Throws](https://open.spotify.com/track/7iZbAqwAB01aW2t3HJ8DCL) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [AFTERPARTY](https://open.spotify.com/album/2kQlpPlBMk65AQgCquhaDR) | 3:37 | 2022-03-21 | 2022-07-01 |
+| [Freedom Of Speech](https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Freedom Of Speech](https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8) | 2:49 | 2023-12-19 |  |
 | [FREESTYLE \(Notorious\)](https://open.spotify.com/track/1FAs9qJUhkaIegROPh79QM) | [DOU T](https://open.spotify.com/artist/4CbMyLAbcoQyZzLZozpK92) | [FREESTYLE \(Notorious\)](https://open.spotify.com/album/09tUlAFPfJziKIngl4XoSf) | 2:08 | 2022-06-09 | 2022-10-28 |
 | [FRENEMIES](https://open.spotify.com/track/2hwAugT0B9Xu7VGZnPh3Ur) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0) | [PUBLIC ENEMY](https://open.spotify.com/album/55SIX2DV1xWxf5Qn3lPmrN) | 3:01 | 2022-04-14 | 2022-09-30 |
 | [FRIDAY](https://open.spotify.com/track/1qBbrjiU5ZWIA5NJUAV8b7) | [Th4 W3st](https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB) | [FRIDAY](https://open.spotify.com/album/0zQvIfYMosxDoCVap48SkU) | 3:41 | 2022-03-21 | 2022-07-15 |

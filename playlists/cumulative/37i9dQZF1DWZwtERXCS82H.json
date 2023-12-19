@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Breathable",
+        "url": "https://open.spotify.com/album/6BifaJB9JEsELsZch0YEDk"
+      },
+      "artists": [
+        {
+          "name": "Miriam Juno",
+          "url": "https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161233,
+      "name": "Breathable",
+      "url": "https://open.spotify.com/track/1wBMFriD7fqIPeA4GVahG7"
+    },
+    {
+      "album": {
         "name": "Bubbles",
         "url": "https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K"
       },
@@ -4889,6 +4907,24 @@
     },
     {
       "album": {
+        "name": "Je vous en prie",
+        "url": "https://open.spotify.com/album/29pQv0Mg95Ru8WBuizctt9"
+      },
+      "artists": [
+        {
+          "name": "Brielle De Villiers",
+          "url": "https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163380,
+      "name": "Je vous en prie",
+      "url": "https://open.spotify.com/track/4RyaKjR8XWve8p4ZJ16xss"
+    },
+    {
+      "album": {
         "name": "Jean Paul errant",
         "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
       },
@@ -7824,6 +7860,24 @@
       "duration_ms": 125250,
       "name": "Proljetna \u0161etnja",
       "url": "https://open.spotify.com/track/4X7aJG4AHslt5JpobU9LMf"
+    },
+    {
+      "album": {
+        "name": "Promesse D'\u00e9ternit\u00e9",
+        "url": "https://open.spotify.com/album/5VTThcWw7ecJEfuuDTS2mA"
+      },
+      "artists": [
+        {
+          "name": "Into the Harmonies",
+          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140535,
+      "name": "Promesse D'\u00e9ternit\u00e9",
+      "url": "https://open.spotify.com/track/0Yu9HsjpJCiLYg2nUOBfy1"
     },
     {
       "album": {

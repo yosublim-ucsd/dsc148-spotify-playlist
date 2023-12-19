@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: G\-laspada
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,027 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,031 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [Roulette](https://open.spotify.com/track/73JpGj55qaZvDHN6j0mHJo) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Roulette](https://open.spotify.com/album/2SiNIJDHO34gqUSsML9d5h) | 2:45 |
 | 70 | [GangstaBaby \(feat\. Rondodasosa\)](https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:46 |
 
-Snapshot ID: `MCwzMjVmYTE4NTk2YWIzNjlkNDNjMGI5MTI4YzRlNTU2ZTEwYmFkZjAy`
+Snapshot ID: `MCxlY2U4ZjZjNTlmZGNmMDM1YTc1NmQ2ZjlhYjRhMDIxMDgxYmE1MTMw`

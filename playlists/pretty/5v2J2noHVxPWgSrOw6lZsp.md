@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 
 > Salt in the air..\. Sand in my hair..\. Rooftop sunsets..\. Celebrate a perfect summer day with hours of coastal acoustic, live versions, and chill hits\. \| Image: <a href="spotify:artist:24Bq9F6DJfzTaqgmoxT5vm">Corey Harper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,421 likes - 157 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,420 likes - 157 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 | 99 | [Drag Me Down / As Long As You Love Me](https://open.spotify.com/track/7B0hVrD5iwkiQhHSjUjSrz) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Drag Me Down / As Long As You Love Me](https://open.spotify.com/album/3YymyiPBNOv6MW7TbDv98b) | 3:26 |
 | 100 | [Tuolumne](https://open.spotify.com/track/33FEUJFG1lhlH4iPh3CHkF) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5) | 1:00 |
 | 101 | [Better off \(The Captain Planet Song\)](https://open.spotify.com/track/2NGM3UajMjZgSTibvahWWZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Four Feet in the Forest](https://open.spotify.com/album/6tb5Y6m0GxlqlcxljgR9KW) | 5:35 |
-| 102 | [Ready For You \- Acoustic](https://open.spotify.com/track/3Pq9d20H4XRUvoZNsytpZn) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/3ndzUh03qyl9TONYfSspqO) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 3:17 |
+| 102 | [Ready For You \- Acoustic](https://open.spotify.com/track/3Pq9d20H4XRUvoZNsytpZn) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 3:17 |
 | 103 | [Surround You](https://open.spotify.com/track/1D5ZvPtj09MckFOp2NcadQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Endless Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cn6DXanZWGYjUcslSIwWD) | 3:28 |
 | 104 | [You Wanted More \- Acoustic Version](https://open.spotify.com/track/33UdcDQAJEj88YeET1hL6M) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [A Casual Affair \- The Best Of Tonic](https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg) | 3:52 |
 | 105 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |

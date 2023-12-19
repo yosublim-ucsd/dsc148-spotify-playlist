@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto:  Bruna Olly, Julia Vitória
 
-228 songs - 20 hr 18 min
+229 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [O Melhor Lugar \- Ao Vivo](https://open.spotify.com/track/3mwsEBjHLsPhzmu2L2jxcI) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Melhor Lugar \(Ao Vivo\)](https://open.spotify.com/album/1ThjrIPMaLcmNUbQMTaQbf) | 5:15 | 2023-07-28 | 2023-11-25 |
 | [O Melhor Pra Ti](https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Melhor Pra Ti](https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd) | 4:03 | 2022-09-09 | 2022-12-05 |
 | [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 | 2022-09-09 | 2022-12-10 |
+| [O Nazareno](https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [O Nazareno](https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6) | 5:39 | 2023-12-18 |  |
 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 | 2022-09-30 | 2022-11-26 |
 | [O Que Eu Sempre Procurei](https://open.spotify.com/track/52L6TEZc3G0T0abeXLqIVa) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [O Que Eu Sempre Procurei](https://open.spotify.com/album/13hsKpvu4OHooyS8cxW1IZ) | 7:54 | 2022-09-30 | 2022-10-15 |
 | [O Reino Vem](https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [O Reino Vem](https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8) | 3:18 | 2023-04-15 | 2023-05-27 |
@@ -213,7 +214,7 @@
 | [Totalmente Santo](https://open.spotify.com/track/4q5ySZjEV1vtEOKux4uX1j) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Totalmente Santo](https://open.spotify.com/album/7cThFhPZX8qG4Sfi5OkLBr) | 4:39 | 2023-03-03 | 2023-05-06 |
 | [Tremeu](https://open.spotify.com/track/2j2K6cO24BaD1lq48bhhMA) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Tremeu](https://open.spotify.com/album/1PjFlonqoZsWn4PNyZqVjh) | 4:43 | 2023-05-05 | 2023-05-27 |
 | [Tu És Deus](https://open.spotify.com/track/00OmdEHRlkPyUr50noD3bA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Deluxe\)](https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN) | 5:13 | 2023-07-28 | 2023-09-09 |
-| [Tua Palavra \(Ao Vivo\)](https://open.spotify.com/track/7gejGDUDpKcXHlYztF40J4) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Tua Palavra \(Ao Vivo\)](https://open.spotify.com/album/41Syb7Ldbj3NbqulQYjps0) | 3:40 | 2023-11-03 |  |
+| [Tua Palavra \(Ao Vivo\)](https://open.spotify.com/track/7gejGDUDpKcXHlYztF40J4) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Tua Palavra \(Ao Vivo\)](https://open.spotify.com/album/41Syb7Ldbj3NbqulQYjps0) | 3:40 | 2023-11-03 | 2023-12-19 |
 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 | 2023-03-24 | 2023-07-22 |
 | [Tudo em Mim](https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Tudo em Mim](https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj) | 4:05 | 2023-11-24 |  |
 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 | 2022-09-09 |  |

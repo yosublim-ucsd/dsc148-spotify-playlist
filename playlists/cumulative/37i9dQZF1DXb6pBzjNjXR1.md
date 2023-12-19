@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-127 songs - 13 hr 22 min
+128 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Udumo](https://open.spotify.com/track/2AMFvzvh5gothJ4kkrsK9X) | [AfroNerd](https://open.spotify.com/artist/6SrgBbRgwhj5g0o2dzi0tD), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Udumo, Camagu \(Incl\. Giorgio Bassetti Remix\)](https://open.spotify.com/album/2sJgQR1xzzIU9NzrqybEka) | 6:50 | 2022-09-22 | 2023-01-20 |
 | [uGogo Wam](https://open.spotify.com/track/6Y6lWV8RTqgpyiDvzOFyzq) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Katlego](https://open.spotify.com/artist/7k9oCLrLEXe9bBNkLFboN9), [Cowboy](https://open.spotify.com/artist/6s9gsFHF1kNgNbL7rpMydJ) | [uGogo Wam](https://open.spotify.com/album/4igIA8wBcC738PjZaRXrxf) | 6:49 | 2023-03-16 | 2023-11-01 |
 | [Ukuthanda Wena](https://open.spotify.com/track/7ymsC9MDZ9eqcPgxGk7huP) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV), [Audio J](https://open.spotify.com/artist/06FxdIJd8WOrZLKZgj6zc3) | [The 12 Year Saga](https://open.spotify.com/album/3xloxYskgtTZmtIpBDNjH5) | 6:53 | 2022-09-22 |  |
+| [Ulele](https://open.spotify.com/track/2znV6ccKYPJOLh1GzKM3zE) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt) | [Respect The Drumboss \(3 Step Edition\)](https://open.spotify.com/album/1gYcrQzMkSsXhmJpo7Z8eX) | 6:33 | 2023-12-18 |  |
 | [Umoya Wami](https://open.spotify.com/track/1R7qdtlbSSYtJ7Aez5Pd2C) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Afro Is Africa](https://open.spotify.com/album/6u967bk1pgeM7GXj7VZzGj) | 6:13 | 2022-08-11 | 2022-10-04 |
 | [UMUSA \(The Grace\)](https://open.spotify.com/track/3V9lfo1kiRTQzjexn46xcU) | [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [WADD](https://open.spotify.com/artist/1D8g0sSx3lKf9qZeFhYBku), [Sazi Cele](https://open.spotify.com/artist/4DqvbS4S3fU4uB0RwBxVhL) | [UMUSA \(The Grace\)](https://open.spotify.com/album/2Hei0qkNaRnUAFVxjBGCXP) | 2:58 | 2023-04-20 |  |
 | [Uthando \(feat\. Zakes Bantwini\)](https://open.spotify.com/track/4CfzUCPSfhansjh0GnrU2c) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Must Be Africa](https://open.spotify.com/album/7kHpN0sNlSP8kpzH37N6Uy) | 5:54 | 2022-08-11 | 2022-12-03 |

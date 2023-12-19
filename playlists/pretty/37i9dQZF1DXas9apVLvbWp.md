@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT MOMENTUM</a>とSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,096 likes - 30 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,136 likes - 30 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/08kouBwoppDP70MmwiNUPr) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 5:13 |
 | 30 | [Manhattan \(Island Of Lights And Love\)](https://open.spotify.com/track/0aZj4OIGvUxzEz7KCWMATa) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 4:05 |
 
-Snapshot ID: `MCxmYTc5NTg5YWNkM2Q5ZjMyNzc1ZGQ2ODU3OTMwN2RhNTA4NzczNjI5`
+Snapshot ID: `MCw5YjdmYWMxOWY3YmFiMDJhOGU2MzMxNzQzM2U1NWEzZjVlOTIyNzU0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rap from the hoods of Dilli featuring KR$NA & Raftaar",
+  "description": "Rap from the hoods of Dilli featuring Ikka",
   "name": "Dillihood",
   "tracks": [
     {
@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 150861,
       "name": "Dilli Hood",
       "url": "https://open.spotify.com/track/65ahEdvNV5Iifc0P3WvlE7"
@@ -1256,6 +1256,28 @@
       "duration_ms": 179200,
       "name": "Kya Haal Hai Bro?",
       "url": "https://open.spotify.com/track/1rgth5QwNoJ1N8NmR6Xw5B"
+    },
+    {
+      "album": {
+        "name": "Laadla",
+        "url": "https://open.spotify.com/album/4t1RG86twVCa2cipVdnPmW"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177971,
+      "name": "Laadla",
+      "url": "https://open.spotify.com/track/57LA3fJhESaZtMcxMzR4RT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Jigarthanda DoubleX
 
-118 songs - 7 hr 3 min
+119 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Thaalam](https://open.spotify.com/track/7dIyC8fFRmYYevMQrUCYAP) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Fight Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lBvBSjtIVeGFkRqDdhTTV) | 2:48 | 2023-12-13 |  |
 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 | 2022-12-04 |  |
 | [Theekuchi](https://open.spotify.com/track/11ktAtbN1lp3aTvvbhDWi3) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:53 | 2023-11-09 |  |
+| [Ther Thiruvizha \(From "Lal Salaam"\)](https://open.spotify.com/track/7yIRHn8EnQ0MuEOw1ephk7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs) | [Ther Thiruvizha \(From "Lal Salaam"\)](https://open.spotify.com/album/6LNwOQhulT2KCVNq3pyBxi) | 7:46 | 2023-12-18 |  |
 | [Thunder Kaaran \(Promo Song\)](https://open.spotify.com/track/2OPnWdJYLhqt5lTw3MK8RI) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thunder Kaaran \(Promo Song\) \(From "Veeran"\)](https://open.spotify.com/album/0GE9fz40zQay8v7DQ7HBYT) | 2:36 | 2023-03-31 | 2023-04-05 |
 | [Thunder Kaaran \(Promo Song\) \(From "Veeran"\)](https://open.spotify.com/track/4XpcWXlyWijBdG2xOnh6nO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Thunder Kaaran \(Promo Song\) \(From "Veeran"\) \- Single](https://open.spotify.com/album/7ke4KYv7CuifVsAXWUOgZM) | 2:36 | 2023-03-31 | 2023-11-07 |
 | [Touching Touching \(From "Japan"\)](https://open.spotify.com/track/1j4MpVUmV2C6iMsUa01mwd) | [Karthi](https://open.spotify.com/artist/0B33QkzBOTcn3E0oTzqLfJ), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Touching Touching \(From "Japan"\)](https://open.spotify.com/album/0I9vHFefKgGlrBKMyMghu6) | 3:36 | 2023-11-09 |  |

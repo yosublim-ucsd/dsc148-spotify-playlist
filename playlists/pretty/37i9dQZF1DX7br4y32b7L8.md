@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,798 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,849 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Meer Niet Minder](https://open.spotify.com/track/6ZLenpFuI8pxKkqmi2feSj) | [Schoppenvier](https://open.spotify.com/artist/2G4yKSjBFu05HsEkxkYZwV) | [Meer Niet Minder](https://open.spotify.com/album/5iZ9vkNLhGfQvAYTgJVP6o) | 2:25 |
-| 2 | [Appel Mint Puur](https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Appel Mint Puur](https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ) | 3:27 |
-| 3 | [SKEU SKEU \(feat\. wilsko & 7ia\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 |
-| 4 | [Twee Motten](https://open.spotify.com/track/5ttRhxHIw2xddeqtlcwWzs) | [Dorus](https://open.spotify.com/artist/1pXwedNJp8Le9pKUCzr9pA) | [De singles: A & B Kanten 1956\-1969](https://open.spotify.com/album/3HrjrKXZQ8L9w42lQomn3C) | 3:06 |
-| 5 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 |
+| 1 | [Appel Mint Puur](https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Appel Mint Puur](https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ) | 3:27 |
+| 2 | [Meer Niet Minder](https://open.spotify.com/track/6ZLenpFuI8pxKkqmi2feSj) | [Schoppenvier](https://open.spotify.com/artist/2G4yKSjBFu05HsEkxkYZwV) | [Meer Niet Minder](https://open.spotify.com/album/5iZ9vkNLhGfQvAYTgJVP6o) | 2:25 |
+| 3 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 |
+| 4 | [SKEU SKEU \(feat\. wilsko & 7ia\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 |
+| 5 | [Twee Motten](https://open.spotify.com/track/5ttRhxHIw2xddeqtlcwWzs) | [Dorus](https://open.spotify.com/artist/1pXwedNJp8Le9pKUCzr9pA) | [De singles: A & B Kanten 1956\-1969](https://open.spotify.com/album/3HrjrKXZQ8L9w42lQomn3C) | 3:06 |
 | 6 | [SUPARO \- SPEED UP](https://open.spotify.com/track/7sf9InBTBA24jMwMHpiq2K) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [SUPARO \(SPEED UP\)](https://open.spotify.com/album/2rygY1Vjrl34eG7IJ9wJFa) | 1:58 |
 | 7 | [Things We Lost In The Fire](https://open.spotify.com/track/6qOxF7JKKNegcuocn14ukr) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 4:00 |
 | 8 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 69 | [MALA \(feat\. Anuel AA\)](https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 3:26 |
 | 70 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 
-Snapshot ID: `MCxmM2EwODY1MTY0ZWJiMTk1MzE2NTE2N2Y3YzRmMmZmOWI5M2MwZmQ3`
+Snapshot ID: `MCwzMjg1Mjk4MWMzNmQzMGRiZGNkZmJjMDI0ZTZmMzM4YTEzZjFmNTkx`

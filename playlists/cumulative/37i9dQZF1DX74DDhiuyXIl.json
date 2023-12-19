@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u662f\u4e0d\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/3DaLWOh8VP7vIxRPEK5YKx"
+      },
+      "artists": [
+        {
+          "name": "en",
+          "url": "https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "\u4e0d\u662f\u4e0d\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/6a1CN3T7lK6kMOWaJAlp6i"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u665a (\u96fb\u5f71\u6df1\u591c\u98df\u5802\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6tZboJANkkm5LGhlUnhkRQ"
       },
@@ -4076,7 +4094,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 236269,
       "name": "\u6251\u706b",
       "url": "https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR"
@@ -4274,7 +4292,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 230322,
       "name": "\u65e0\u6cd5\u80dc\u4efb",
       "url": "https://open.spotify.com/track/365nDyleJix9hWTNDCFRO8"
@@ -4634,7 +4652,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 247000,
       "name": "\u672b\u65e5\u79cd\u5b50\u7684\u7e41\u534e\u5b63\u8282",
       "url": "https://open.spotify.com/track/5als3DEs1Ea5iSpPn8k8wC"
@@ -5543,6 +5561,24 @@
     },
     {
       "album": {
+        "name": "\u8667\u6b20",
+        "url": "https://open.spotify.com/album/4OYd3AjtJWOQIqs2l14lvh"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248739,
+      "name": "\u8667\u6b20 (\u5287\u96c6\u300a\u5de6\u8033\u300b\u539f\u5275\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/0681PXiD0BNyh9Ce6HcCUi"
+    },
+    {
+      "album": {
         "name": "\u8702\u9ce5 (\u96fb\u8996\u5287\u300a\u6211\u5728\u5317\u4eac\u7b49\u4f60\u300b\u7247\u982d\u66f2)",
         "url": "https://open.spotify.com/album/5Mwt6x1fIXxndSnsoEIyH1"
       },
@@ -6124,6 +6160,24 @@
       "duration_ms": 260000,
       "name": "\u9047\u898b\u4f60\u4e4b\u5f8c",
       "url": "https://open.spotify.com/track/1jNHAMRtftqT5gV34pHlVO"
+    },
+    {
+      "album": {
+        "name": "\u9053\u7406\u90fd\u61c2 (\u570b) [\u96fb\u5f71\u300a\u6f5b\u884c\u300b\u7247\u5c3e\u66f2]",
+        "url": "https://open.spotify.com/album/2kNQjOO05Fd3TAJ1pYU2V1"
+      },
+      "artists": [
+        {
+          "name": "Andy Lau",
+          "url": "https://open.spotify.com/artist/2n3uDrupL8UtFSeZhY38MS"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243509,
+      "name": "\u9053\u7406\u90fd\u61c2 (\u570b) - \u96fb\u5f71\u300a\u6f5b\u884c\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/4gMT0UciLc7gyWVSpyqwEH"
     },
     {
       "album": {

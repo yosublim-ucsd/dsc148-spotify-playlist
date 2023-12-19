@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-687 songs - 1 day 5 hr 40 min
+690 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 | 2022-04-15 |  |
 | [Break Of Dawn](https://open.spotify.com/track/3T0Yddl7zHiz6MqyIxXSDM) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Break Of Dawn](https://open.spotify.com/album/6G0WOU6tNDgNJyKOOVhIA5) | 2:32 | 2023-02-27 |  |
 | [Breakfast With Chopin](https://open.spotify.com/track/3lHjOedwwnVrhoOayeFdTI) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Breakfast with Chopin](https://open.spotify.com/album/6c61W7333vPNTC077Ne0Sm) | 2:06 | 2023-02-20 |  |
+| [Breathable](https://open.spotify.com/track/1wBMFriD7fqIPeA4GVahG7) | [Miriam Juno](https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw) | [Breathable](https://open.spotify.com/album/6BifaJB9JEsELsZch0YEDk) | 2:41 | 2023-12-18 |  |
 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 | 2022-04-15 | 2022-06-08 |
 | [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2022-04-15 | 2022-04-23 |
 | [C'est fini](https://open.spotify.com/track/3nuA3ybZ8pJrqhHqzVRgiI) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [C'est fini](https://open.spotify.com/album/7jeUqhe5JbbyQzLw8t7Xtn) | 2:31 | 2023-03-14 |  |
@@ -278,6 +279,7 @@
 | [Ivy](https://open.spotify.com/track/4TJ7yhDcJvODuiWbnsZrxt) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Ivy](https://open.spotify.com/album/4Ucz3esn08Zl2rN6BcYrPK) | 2:55 | 2022-04-15 | 2023-04-13 |
 | [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 | 2022-04-15 |  |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-04-15 |  |
+| [Je vous en prie](https://open.spotify.com/track/4RyaKjR8XWve8p4ZJ16xss) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Je vous en prie](https://open.spotify.com/album/29pQv0Mg95Ru8WBuizctt9) | 2:43 | 2023-12-18 |  |
 | [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 | 2023-09-11 |  |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2022-04-15 |  |
 | [June](https://open.spotify.com/track/6QPV9cbVo1wFr3unL0y2qZ) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [June](https://open.spotify.com/album/73xsz6Gc6VotpfbmHDEi7j) | 2:36 | 2022-04-15 | 2022-05-27 |
@@ -441,6 +443,7 @@
 | [Presque l'amour](https://open.spotify.com/track/03VbBcRhqaoH04MMlxlGIC) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Presque l'amour](https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r) | 2:22 | 2022-04-15 | 2022-09-21 |
 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 | 2022-04-15 | 2023-07-11 |
 | [Proljetna šetnja](https://open.spotify.com/track/4X7aJG4AHslt5JpobU9LMf) | [Frano Stanić](https://open.spotify.com/artist/0zlGbeqBJRLfirr9UTEpV9) | [Proljetna šetnja](https://open.spotify.com/album/1HLQzO1WziLSrzhKWDFfNW) | 2:05 | 2022-05-13 | 2023-08-08 |
+| [Promesse D'éternité](https://open.spotify.com/track/0Yu9HsjpJCiLYg2nUOBfy1) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Promesse D'éternité](https://open.spotify.com/album/5VTThcWw7ecJEfuuDTS2mA) | 2:20 | 2023-12-18 |  |
 | [Prozatím](https://open.spotify.com/track/3dS8RW1e5gd5rbSmNjDAPe) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Prozatím](https://open.spotify.com/album/4oAdXNNPtmelprKFkP4d6G) | 2:03 | 2022-04-15 | 2022-04-28 |
 | [Purity](https://open.spotify.com/track/3nfhbwdfbK19V3vwRTAcoo) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Purity](https://open.spotify.com/album/1p7XvsfWUHq4ApCRN0zOaB) | 2:27 | 2022-04-15 |  |
 | [Purity](https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Purity](https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03) | 1:41 | 2022-12-22 | 2023-07-25 |

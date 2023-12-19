@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【セットリスト公開】5/20\(土\)・21\(日\)、神戸メリケンパークにて開催される都市型音楽フェス<a href="https://kobe\-mellow\-cruise.com/">「KOBE MELLOW CRUISE」</a>の出演アーティストをピックアップ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,313 likes - 228 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,317 likes - 228 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 19 | [Best For You](https://open.spotify.com/track/1aEADFt67MWsV4ot6HaE06) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Best For You](https://open.spotify.com/album/756iBWnrG7jZRVJGQJxGBk) | 3:28 |
 | 20 | [Choose One](https://open.spotify.com/track/2IjgY0Q5iTMREtjkTYeIGS) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Choose One](https://open.spotify.com/album/3VXiq4l356zguLUt684JT0) | 3:37 |
 | 21 | [Never Get It](https://open.spotify.com/track/1KL87XeNAfA4ittn3yFL13) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Never Get It](https://open.spotify.com/album/4SdEQPJbOScadpRfI6xaXh) | 2:59 |
-| 22 | [Put In Work](https://open.spotify.com/track/1tiqzSIPixefgIWu9TnOZf) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Put In Work](https://open.spotify.com/album/7IZIU8i9vQCITsZeCyOsjh) | 2:31 |
+| 22 | [Put In Work](https://open.spotify.com/track/0DwcC94uYdBA3Iyck0mSm3) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Blood & Bones \(BLOOD\)](https://open.spotify.com/album/2CyunDLz6Yge8ocHHZi4nN) | 2:31 |
 | 23 | [KARMA](https://open.spotify.com/track/2f7QSuDWa7KrRxlXxGX78i) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [KARMA](https://open.spotify.com/album/03AAEsbHrVK6Ii95hJY6Xa) | 3:00 |
 | 24 | [How High](https://open.spotify.com/track/55COKOG6dTSLoJUw1UzBUe) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [3rd High "Resuscitation" \(mixed by DJ BULLSET\)](https://open.spotify.com/album/67iANbB3iesGmIAlUe79qf) | 3:09 |
 | 25 | [Hooligan](https://open.spotify.com/track/6E2BbzUWoSmFXInBBzN0AT) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [THE NEVER SURRENDERS COMPILATION](https://open.spotify.com/album/4ZCqXTmjVkYrhWMEO0qHtw) | 2:37 |
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 227 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
 | 228 | [Night Rider](https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Boyhood](https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6) | 3:19 |
 
-Snapshot ID: `MCwxMmQxMjQ4NzY1ZjRiZTAzYWIwMTA2Y2UxOTkzZjIxNzE3N2IwMmE0`
+Snapshot ID: `MCwwZDBkNTA5OWMzMDhlOWFkMTJkMmExMzEzYTM5MTM1YWIxZTE5OTIy`

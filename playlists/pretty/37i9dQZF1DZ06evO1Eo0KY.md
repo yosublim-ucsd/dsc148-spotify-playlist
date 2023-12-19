@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 339 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 38 | [Big George Bombs](https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:00 |
 | 39 | [Shot Clock Legend](https://open.spotify.com/track/40X7YBIt6WB8N00fAgnbeL) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King,Vol\. 2](https://open.spotify.com/album/7Egv49aLCPCVJfjQvYL85x) | 2:17 |
 | 40 | [Opulence](https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:42 |
-| 41 | [Bandit](https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:48 |
+| 41 | [Play for Keeps](https://open.spotify.com/track/45XfVfiUaxHNjiu6Ukv0RD) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Shadow Moses](https://open.spotify.com/album/5MDyFjmTCZHXAqAmhSoXNK) | 2:04 |
 | 42 | [Look What You Done](https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:14 |
-| 43 | [Play for Keeps](https://open.spotify.com/track/45XfVfiUaxHNjiu6Ukv0RD) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Shadow Moses](https://open.spotify.com/album/5MDyFjmTCZHXAqAmhSoXNK) | 2:04 |
-| 44 | [212](https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Conway Remixes 1 & 2](https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l) | 2:50 |
+| 43 | [212](https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Conway Remixes 1 & 2](https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l) | 2:50 |
+| 44 | [Bandit](https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:48 |
 | 45 | [Circumstances](https://open.spotify.com/track/5AnyUq0QkIQPrmysUe5bYD) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Circumstances](https://open.spotify.com/album/14qunYehq5fAbj8oAtpWVn) | 4:35 |
 | 46 | [Crypto](https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 1:56 |
-| 47 | [The Irishman](https://open.spotify.com/track/7M70IhOS0zNCXWCjPjwiPR) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Craven N 2](https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI) | 2:02 |
-| 48 | [Mandatory](https://open.spotify.com/track/0kKcUVTLDIqrspywngKVr9) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Conway Remixes 1 & 2](https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l) | 2:02 |
+| 47 | [Mandatory](https://open.spotify.com/track/0kKcUVTLDIqrspywngKVr9) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Conway Remixes 1 & 2](https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l) | 2:02 |
+| 48 | [The Irishman](https://open.spotify.com/track/7M70IhOS0zNCXWCjPjwiPR) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Craven N 2](https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI) | 2:02 |
 | 49 | [Français nouveau](https://open.spotify.com/track/0Rb6C8LqqmqvGXNedycmJU) | [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Latin Quarter, Pt\. 2](https://open.spotify.com/album/40jVyMws7SyYAScwQQw5Ne) | 2:25 |
 | 50 | [Deliver Us from Evil \(Remix\)](https://open.spotify.com/track/60z5FCH9xnUqx7IFzkR8vF) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Deleted Scenes 2](https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ) | 2:59 |
 | 51 | [Razors](https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:17 |
 
-Snapshot ID: `MjgzODAyMjQsMDAwMDAwMDA2YmY0MjY4ODMwZTFmYmZjMmQ3ODAxZWI4MWY0MDFhZQ==`
+Snapshot ID: `MjgzODE2ODAsMDAwMDAwMDAzMmUyNDhkMTUxZWI0MWU1MDA4MmYzYWEzOWY2NmFkNg==`

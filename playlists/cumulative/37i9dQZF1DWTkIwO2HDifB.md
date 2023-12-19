@@ -2,9 +2,9 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Tipo Hollywood e os funks mais 🔑 do Brasil\. Foto: Anitta, PEDRO SAMPAIO, DENNIS
+> Joga Pra Lua e os funks mais 🔑 do Brasil\. Foto: Anitta, PEDRO SAMPAIO, DENNIS
 
-216 songs - 11 hr 39 min
+217 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,10 +199,11 @@
 | [Simplesmente Ela](https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w) | 2:41 | 2023-03-10 | 2023-08-26 |
 | [Sorrisin De Puto](https://open.spotify.com/track/2X5o4nRiocnoaaQ2wMwaeC) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Sorrisin De Puto](https://open.spotify.com/album/2JCWmfqubxXm3zuH4BQQXM) | 1:46 | 2023-01-23 |  |
 | [Sua amiga deu](https://open.spotify.com/track/142YjJNOuXjzeSDnB1ujw1) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY) | [Sua amiga deu](https://open.spotify.com/album/2PnAF3M9NIbF2LlozAKIGk) | 2:58 | 2021-12-31 | 2022-07-23 |
+| [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 | 2023-12-18 |  |
 | [Só Tapão Nervoso Vs Toma Catucada Violenta](https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl) | [DJ DN](https://open.spotify.com/artist/5mBzms8INTkASOeSDLvwoe), [MC Gui Andrade](https://open.spotify.com/artist/1UFLR3TTJAODTIog5FNv3e), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq) | [Só Tapão Nervoso Vs Toma Catucada Violenta](https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR) | 3:06 | 2021-12-31 | 2022-02-19 |
 | [Tequila](https://open.spotify.com/track/2qPIIfZV6d1FgvCCNoLiVL) | [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Tequila](https://open.spotify.com/album/6QForwzdHYH7DxK1DogGQ5) | 2:39 | 2022-07-08 | 2022-09-10 |
 | [Terror da Cidade](https://open.spotify.com/track/6YYCK0t9NAz1p7cXLe4xqL) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Terror da Cidade](https://open.spotify.com/album/3Y5GTDoyf5CiaDIwlYOYWF) | 3:06 | 2023-07-07 |  |
-| [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:49 | 2023-11-10 |  |
+| [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:49 | 2023-11-10 | 2023-12-19 |
 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 | 2022-12-16 |  |
 | [Trava na Pose, Chama no Zoom, Dá um Close \(feat\. Mc Rennan\)](https://open.spotify.com/track/0DsPj89zlY3Us7xb5cXK5h) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS) | [Trava na Pose, Chama no Zoom, Dá um Close \(feat\. Mc Rennan\)](https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ) | 3:34 | 2021-12-31 | 2022-06-07 |
 | [Tubarão Te Amo](https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA) | [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [Tchakabum](https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [mc jhenny](https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6), [Mc RF](https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ) | [Tubarão Te Amo](https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E) | 2:29 | 2022-10-07 | 2023-03-04 |

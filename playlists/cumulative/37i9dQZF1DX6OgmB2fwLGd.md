@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-904 songs - 1 day 13 hr 7 min
+905 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [9:25pm](https://open.spotify.com/track/6OCww5ebJEH0fvMHr8ZTfC) | [Mazelfyre](https://open.spotify.com/artist/0qJT0SswFi8QQbibca7Lni) | [9:25pm](https://open.spotify.com/album/6vyri6xhmE1ygAJC4gRTbq) | 1:49 | 2023-06-07 | 2023-10-21 |
 | [9am in Calabasas](https://open.spotify.com/track/6EdVTOk5e4RApmwHNBJew9) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [9am in Calabasas](https://open.spotify.com/album/22K5cEZXysmiRSU7WCC0Ed) | 1:54 | 2023-06-02 | 2023-10-21 |
 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-07 | 2023-03-25 |
+| [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2023-12-18 |  |
 | [ADHD](https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [ADHD](https://open.spotify.com/album/3gRHDUqZGMb4wnHBPvk5OL) | 2:30 | 2023-04-12 | 2023-08-05 |
 | [agenda](https://open.spotify.com/track/3nDjCWmn3FHTI9q8y2twLS) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [agenda](https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl) | 1:39 | 2022-02-03 | 2022-07-30 |
 | [AINT NOTHING](https://open.spotify.com/track/5754hZ1mD8MUxppIBI1Lze) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [AINT NOTHING](https://open.spotify.com/album/5Xcs66TveRQpEMUoJE0V9d) | 2:34 | 2023-10-20 | 2023-11-18 |
@@ -549,7 +550,7 @@
 | [Montana Flow](https://open.spotify.com/track/08J3GDrAnq1uFCSVnjs9x9) | [Sosa](https://open.spotify.com/artist/00oWcaID7J6ns2KY5jsMG2) | [Montana Flow](https://open.spotify.com/album/2DlGXQCBbfQXu6TGbvzfvo) | 2:22 | 2022-07-18 | 2022-07-20 |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-07 | 2022-04-02 |
 | [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 | 2023-01-06 | 2023-06-10 |
-| [Mr\. McAdams](https://open.spotify.com/track/7uPVu05kl4tGCJ3KRUucBT) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Mr\. McAdams](https://open.spotify.com/album/3zIqYHjhiIX0ezJUIegDfl) | 2:36 | 2023-12-15 |  |
+| [Mr\. McAdams](https://open.spotify.com/track/7uPVu05kl4tGCJ3KRUucBT) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Mr\. McAdams](https://open.spotify.com/album/3zIqYHjhiIX0ezJUIegDfl) | 2:36 | 2023-12-15 | 2023-12-19 |
 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 | 2022-04-20 | 2022-09-17 |
 | [MR\. TAKE YA B\*TCH \(FEAT\. CHRISEANROCK\)](https://open.spotify.com/track/38R5sydMbsBzSPGPMfmtpb) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [chriseanrock](https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa) | [MR\. TAKE YA B\*TCH \(FEAT\. CHRISEANROCK\)](https://open.spotify.com/album/0VILzuF7XRV2GQAO4tzx3M) | 1:48 | 2023-10-27 |  |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-08-28 | 2023-01-14 |

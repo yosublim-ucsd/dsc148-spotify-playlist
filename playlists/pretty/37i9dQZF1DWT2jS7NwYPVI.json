@@ -1,12 +1,12 @@
 {
   "description": "Your cheat sheet for everything on the rise rock & alt world. Cover: Bruses",
-  "num_followers": 437201,
+  "num_followers": 437325,
   "original_name": "New Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDMwMzUzMjI0MGM0ZTE4YTJlMjA5MjNmNDVkMWNjMTg4MTEyYmI2",
+  "snapshot_id": "MCxjZTQ0YTFlYTVjYTRmMmQyYzA4MmQzMjkzODgxNDU4NjE4OWIxMzIz",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1023,6 +1023,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "u come near",
+        "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "u come near",
+      "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
+    },
+    {
+      "added_at": "2023-12-18 19:05:58",
+      "album": {
+        "name": "Look What You Do to Me",
+        "url": "https://open.spotify.com/album/3Iq0sxKgFdS6Bw0KN0HbaN"
+      },
+      "artists": [
+        {
+          "name": "Isla June",
+          "url": "https://open.spotify.com/artist/18ioovgcBQpPVcUdRyGCe0"
+        }
+      ],
+      "duration_ms": 157322,
+      "name": "Look What You Do to Me",
+      "url": "https://open.spotify.com/track/0ayKEMhZY2mCghqvqoPWEE"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "i should call my friends",
         "url": "https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe"
       },
@@ -1287,22 +1319,6 @@
       "duration_ms": 224398,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "u come near",
-        "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "u come near",
-      "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
     },
     {
       "added_at": "2023-12-15 05:00:00",

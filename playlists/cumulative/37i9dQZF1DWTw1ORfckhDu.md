@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Averagekidluke ja Turisti.
 
-229 songs - 11 hr 8 min
+230 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Varaa](https://open.spotify.com/track/44zG6A0g1hMKzrTnwhIAWa) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Varaa](https://open.spotify.com/album/727Jno5QiQsCk894EBfJYj) | 2:29 | 2023-11-02 | 2023-12-15 |
 | [VARMISTIN](https://open.spotify.com/track/3G5uVs85U35O4wVt7doDUH) | [ALE](https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW) | [VARMISTIN](https://open.spotify.com/album/7nTJBQOmdoFNt2LuwrhvsY) | 2:18 | 2023-11-09 | 2023-11-17 |
 | [Vastustaa](https://open.spotify.com/track/2lvCRioElAZPAgqWCV9a1S) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Vastustaa](https://open.spotify.com/album/7xB2ewkdlo9p6q4dpQG4jq) | 2:03 | 2023-09-21 | 2023-09-29 |
+| [Venaa Venaa](https://open.spotify.com/track/5zh1yNPjB9tIRj3LhAnaIf) | [Coozii & Zeno](https://open.spotify.com/artist/0qk9pt8n5hIwcgTIFVtaFa) | [Venaa Venaa](https://open.spotify.com/album/1nIPxVqfCflSgIdgNakdRs) | 2:00 | 2023-12-18 |  |
 | [Vespa](https://open.spotify.com/track/06gIbeMfXwdzrZRazEYuGo) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Vespa / Vadelma](https://open.spotify.com/album/526mXkvsChupwRKsRAJEAz) | 3:14 | 2023-10-19 | 2023-11-17 |
 | [Vintagevaatteet](https://open.spotify.com/track/4ZZse7s6SepxuIpjZDEvFq) | [KAKKU](https://open.spotify.com/artist/2JPgBGUtlIYbnxr1PffsXD) | [Vintagenainen](https://open.spotify.com/album/7IKsQP5MbLwvaV8mjZaXl3) | 4:15 | 2023-10-19 | 2023-10-27 |
 | [Virhe](https://open.spotify.com/track/3gnRUK2e8s1vjguMqIhbLG) | [Jesse Jason](https://open.spotify.com/artist/6H65EkJkWx7ORq04clC4JQ), [PistePiste](https://open.spotify.com/artist/3Awhg0cBQF0c1arITbUUhu) | [Virhe](https://open.spotify.com/album/5LBgvBZ8J2RB1jQ9ijUBrm) | 2:52 | 2023-10-19 | 2023-10-27 |

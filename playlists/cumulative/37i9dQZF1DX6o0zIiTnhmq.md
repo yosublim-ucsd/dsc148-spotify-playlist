@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-101 songs - 1 day 4 hr 55 min
+102 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Green Tara Mantra](https://open.spotify.com/track/7yivO15nGU6ddIA93aQnUR) | [His Holiness The Dalai Lama](https://open.spotify.com/artist/7pXijXYl63Nj4YW1UlGEOB) | [Songs Of Tara](https://open.spotify.com/album/5hdeJwvfNrUPqm1BYRBVqv) | 7:24 | 2023-05-23 |  |
 | [Guru Smaranam](https://open.spotify.com/track/5c8AwcaZMp8bgxpezxxohX) | [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Harish Bhimani](https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Morning Mantras](https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp) | 3:40 | 2022-01-24 | 2022-07-29 |
 | [Guru Smaranam](https://open.spotify.com/track/6n4Oa9DqN2ZaAGQlJ94WiR) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 3:39 | 2022-01-24 | 2023-04-11 |
+| [Guruji Mantras](https://open.spotify.com/track/3QCYq6YkSlq8MlbZvJlbiB) | [Anushka Bajaj](https://open.spotify.com/artist/5LOZkMFBrY9mzJUABtMM1U) | [Guruji Mantras](https://open.spotify.com/album/3XcTUCAl9UYJiBkmwfXXLn) | 21:45 | 2023-12-18 |  |
 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 | 2023-05-23 |  |
 | [Hari Om Tat Sat](https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 14:19 | 2022-01-24 |  |
 | [Hari Om Tat Sat \- 108 Times](https://open.spotify.com/track/3eiRqZHxIzfKdorBTT9Hl0) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 14:16 | 2022-01-24 | 2022-08-06 |
@@ -50,7 +51,7 @@
 | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/track/3yfuJG45CTPeFM8ASZt1cJ) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/album/3PQ7zZ8vT49Bjcnv88Qyxz) | 54:06 | 2023-08-10 | 2023-11-02 |
 | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/track/7qB2NPq6jk9XYDO93Xb8oA) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Mahamrutyunjay Mantra 108 Times \- Single](https://open.spotify.com/album/7xWhxf1QPBlvUj8RBBy8fP) | 54:06 | 2022-01-24 | 2023-03-11 |
 | [Medicine Buddha Mantra](https://open.spotify.com/track/1oZomIXDVknb470AOo66cN) | [Buddha Music Sanctuary](https://open.spotify.com/artist/4FD6Q9i4uAwn5PEwirPyJ3) | [111 Tracks: Meditation Mantras \- Zen Garden & Asian Chakra Balancing, Reiki Healing Therapy Sounds, Buddha Lounge Music & Yoga Studio](https://open.spotify.com/album/4MKhYNmN88Obpo0FvJCYlU) | 3:10 | 2022-01-24 | 2023-09-16 |
-| [Mool Mantra](https://open.spotify.com/track/1EclpRACeW8C4kfNQMth8M) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra](https://open.spotify.com/album/2b43h4vZZCweigNYEXgMyH) | 7:45 | 2023-10-26 |  |
+| [Mool Mantra](https://open.spotify.com/track/1EclpRACeW8C4kfNQMth8M) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra](https://open.spotify.com/album/2b43h4vZZCweigNYEXgMyH) | 7:45 | 2023-10-26 | 2023-12-19 |
 | [Mool Mantra](https://open.spotify.com/track/260CN7x19rK2PUlwXhRsZN) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra](https://open.spotify.com/album/68mN6PReyeJfWydMrMSOBl) | 7:45 | 2023-08-10 | 2023-11-02 |
 | [Mool Mantra](https://open.spotify.com/track/4JfPgYeidGr9eLFbpg1DIB) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/5WOVe5LI63N4ci6eNRoHWa) | 7:45 | 2022-01-24 | 2023-03-11 |
 | [Mool Mantra](https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW) | 7:45 | 2022-01-24 | 2023-11-05 |

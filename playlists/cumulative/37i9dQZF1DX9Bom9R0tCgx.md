@@ -4,7 +4,7 @@
 
 > All the stuff that will blow your speakers!
 
-188 songs - 9 hr 41 min
+189 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-08-31 |  |
 | [Queen of Kings \- Da Tweekaz x Tungevaag Remix](https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Queen of Kings \(Da Tweekaz x Tungevaag Remix\)](https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF) | 2:25 | 2023-08-31 |  |
 | [Rave Superstar](https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Rave Superstar](https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi) | 2:39 | 2023-08-31 |  |
-| [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 | 2023-11-16 |  |
+| [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 | 2023-11-16 | 2023-12-19 |
+| [Ravers Fantasy](https://open.spotify.com/track/6IivroEQJ0OyB7g7akm5AQ) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Ravers Fantasy](https://open.spotify.com/album/05Lowz2HuhbXT3reAXODuo) | 3:17 | 2023-12-14 |  |
 | [Ray Of Solar \- Anfisa Letyago Remix](https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Ray Of Solar \(Anfisa Letyago Remix\)](https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2) | 3:27 | 2023-09-28 | 2023-10-23 |
 | [Ready To Fly \- Hardcore Mix](https://open.spotify.com/track/6qjgalreP33xyLiGuqKNdQ) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Hardcore Mix\)](https://open.spotify.com/album/2xkbIq44wwXLSK727SDCM9) | 2:56 | 2023-08-31 |  |
 | [Redemption](https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [RMB](https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG) | [Redemption](https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ) | 2:15 | 2023-08-31 | 2023-09-15 |

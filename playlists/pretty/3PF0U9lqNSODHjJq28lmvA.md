@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,277 likes - 22 songs - 1 hr 28 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,277 likes - 22 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Losing My Religion \- Mikosonic Remix](https://open.spotify.com/track/3MjnG4Xw81GU5JX50srgvz) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg), [Mikosonic](https://open.spotify.com/artist/1wy0gDq3U3T5dA9Pzay47k) | [Losing My Religion \(Mikosonic Remix\)](https://open.spotify.com/album/2WqNxDv6awfT6Il4hiTvDq) | 3:12 |
+| 1 | [](https://open.spotify.com/track/3MjnG4Xw81GU5JX50srgvz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2WqNxDv6awfT6Il4hiTvDq) | 0:00 |
 | 2 | [No Rest To Heal](https://open.spotify.com/track/76Px009n6VhCUWsG0nV3dE) | [Headplate](https://open.spotify.com/artist/1stV6oo9asbFSMafjLzL9m) | [Earth](https://open.spotify.com/album/4rJWp5pc7PGlmj6cL3t6Wj) | 4:32 |
 | 3 | [Nothing has changed but everything is different](https://open.spotify.com/track/4u3Pz5TNTnS1iees3KJ91w) | [PreHistoric animals](https://open.spotify.com/artist/35C49Ko2ZqxepW3lgnYc78) | [Nothing has changed but everything is different](https://open.spotify.com/album/2w61bwoyeu2VyE7Jnrs3Iw) | 8:33 |
 | 4 | [Dovhjorten](https://open.spotify.com/track/2HKjh6AzhVC94GCkl3YiSY) | [Dark Sven](https://open.spotify.com/artist/5rXtti22zmqOaYMCsTgbgv), [Stella Lone](https://open.spotify.com/artist/3XbjS22ciwQGPbLmjA2bgE) | [Dovhjorten](https://open.spotify.com/album/6N7zA5CG3xpqQ0BrzCgGNm) | 2:58 |

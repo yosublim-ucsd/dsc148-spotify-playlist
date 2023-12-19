@@ -12449,6 +12449,24 @@
     },
     {
       "album": {
+        "name": "The Old Chapel",
+        "url": "https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL"
+      },
+      "artists": [
+        {
+          "name": "Max Goethe",
+          "url": "https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129410,
+      "name": "The Old Chapel",
+      "url": "https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN"
+    },
+    {
+      "album": {
         "name": "The Old Windmill",
         "url": "https://open.spotify.com/album/441C9NGHHXjvEre4uFxUfn"
       },

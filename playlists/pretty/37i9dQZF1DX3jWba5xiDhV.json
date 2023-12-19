@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 178976,
+  "num_followers": 179150,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjY0YTI3NmFmNDJiMDA4ZTRlODRlNzNmZjliN2UxNGYxNDdkMGM4",
+  "snapshot_id": "MCwwNjc2MDExM2ZhNjlkY2E1OTUxNDRhYTM5NzUzNDAxZDk3NDYwMTIw",
   "tracks": [
     {
       "added_at": "2023-12-13 14:54:09",
@@ -403,22 +403,18 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
-        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
       "artists": [
         {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Jo Wedin",
-          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         }
       ],
-      "duration_ms": 205592,
-      "name": "Tutto va bene quando facciamo l'amore",
-      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+      "duration_ms": 462000,
+      "name": "Give Me Love - 1977",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -459,18 +455,22 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
+        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
       },
       "artists": [
         {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Jo Wedin",
+          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
         }
       ],
-      "duration_ms": 462000,
-      "name": "Give Me Love - 1977",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
+      "duration_ms": 205592,
+      "name": "Tutto va bene quando facciamo l'amore",
+      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
-      },
-      "artists": [
-        {
-          "name": "Plustwo",
-          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
-        }
-      ],
-      "duration_ms": 231691,
-      "name": "Melody (1983 Radio Version)",
-      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 193893,
       "name": "I Wanna Be Your Lover",
       "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
+      },
+      "artists": [
+        {
+          "name": "Plustwo",
+          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
+        }
+      ],
+      "duration_ms": 231691,
+      "name": "Melody (1983 Radio Version)",
+      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Disco Fizz",
-        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
-      },
-      "artists": [
-        {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "Discamore",
         "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 224000,
       "name": "Discamore",
       "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Disco Fizz",
+        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
+      },
+      "artists": [
+        {
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
     },
     {
       "added_at": "2023-12-13 14:54:09",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Qu\u00edmico Amor",
-        "url": "https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Pedro Senna",
-          "url": "https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu"
-        },
-        {
-          "name": "Ugo Ludovico",
-          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Qu\u00edmico Amor",
-      "url": "https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "\u00c7a va? Je t'aime! (feat. EMMANUELLE)",
         "url": "https://open.spotify.com/album/6IEdKxjlDHpJWwekOIyoSz"
       },
@@ -1119,22 +1095,6 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
-        "name": "Love Will Save the Day",
-        "url": "https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj"
-      },
-      "artists": [
-        {
-          "name": "Hard Ton",
-          "url": "https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK"
-        }
-      ],
-      "duration_ms": 172722,
-      "name": "Love Will Save the Day",
-      "url": "https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
         "name": "Volpe",
         "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
       },
@@ -1151,6 +1111,46 @@
       "duration_ms": 467869,
       "name": "Volpi Polari",
       "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Love Will Save the Day",
+        "url": "https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj"
+      },
+      "artists": [
+        {
+          "name": "Hard Ton",
+          "url": "https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK"
+        }
+      ],
+      "duration_ms": 172722,
+      "name": "Love Will Save the Day",
+      "url": "https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
+        "name": "Qu\u00edmico Amor",
+        "url": "https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Pedro Senna",
+          "url": "https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu"
+        },
+        {
+          "name": "Ugo Ludovico",
+          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Qu\u00edmico Amor",
+      "url": "https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb"
     },
     {
       "added_at": "2023-12-13 14:54:09",

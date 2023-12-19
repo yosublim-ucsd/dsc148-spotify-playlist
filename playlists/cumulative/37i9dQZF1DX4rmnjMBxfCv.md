@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-183 songs - 12 hr 10 min
+184 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Al\-Furat](https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE) | [Al\-Furat](https://open.spotify.com/album/34fg5aZvCqPS5tMcGCwfGl) | 3:54 | 2023-09-07 |  |
 | [Ala Moj Al Bahr](https://open.spotify.com/track/1LYtaI25LZhEWP20Xgp02A) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Kholoud omar](https://open.spotify.com/artist/5yOVcevWmL1ZQJl1ltDtIc) | [Ala Moj Al Bahr](https://open.spotify.com/album/2B3iR96IN7ZibpHB6NnUMo) | 4:35 | 2023-10-20 | 2023-11-17 |
 | [Ala Moj Al Bahr \- Live Album](https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:28 | 2022-05-19 | 2023-06-24 |
+| [Alchemist](https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Alchemist EP](https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv) | 8:35 | 2023-12-18 |  |
 | [Alf Leila We Leila Remix](https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Alf Leila We Leila Remix](https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ) | 3:14 | 2022-10-14 | 2023-02-02 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-28 | 2023-08-05 |
 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 | 2023-06-23 | 2023-08-17 |
@@ -41,7 +42,7 @@
 | [Bnt El Chalabyea](https://open.spotify.com/track/7tqxqX5Ee6AEtyfcLAnQeF) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Bnt El Chalabyea](https://open.spotify.com/album/4zypeoqTlxujSqK0m7GJFK) | 5:09 | 2023-03-11 | 2023-06-24 |
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2023-11-17 |  |
 | [Bom Bom Bom](https://open.spotify.com/track/0iZPgfxzGQL0TIqP2twBi3) | [DJ Kantik](https://open.spotify.com/artist/3ojxLRDFTdWKXQDBewrCr4) | [Bom Bom Bom](https://open.spotify.com/album/2aRHgRSxnBHPmnfoc2LgWa) | 3:00 | 2023-08-16 |  |
-| [By Your Side](https://open.spotify.com/track/33pkvSE2Bh9KHLz7X4fLeS) | [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1) | [By Your Side](https://open.spotify.com/album/2Rz7LhGdUMCvUcPxNaojjx) | 2:26 | 2023-08-16 |  |
+| [By Your Side](https://open.spotify.com/track/33pkvSE2Bh9KHLz7X4fLeS) | [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1) | [By Your Side](https://open.spotify.com/album/2Rz7LhGdUMCvUcPxNaojjx) | 2:26 | 2023-08-16 | 2023-12-19 |
 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 | 2023-08-16 | 2023-08-26 |
 | [Challenge](https://open.spotify.com/track/2sGnPdcKoE0y3LbVty41dj) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/07ajJhk49mdl63VL23JAqw) | 1:54 | 2022-07-18 | 2022-10-14 |
 | [Challenge](https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL) | 1:54 | 2022-10-11 | 2023-06-24 |

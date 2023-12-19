@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-801 songs - 2 day 0 hr 46 min
+802 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Colder](https://open.spotify.com/track/1bD4mJMfB4xNOyt6EaxFpg) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Colder](https://open.spotify.com/album/1GAb5vrYO6mt6zdwkvOytZ) | 3:43 | 2021-12-17 | 2022-02-26 |
 | [COLLIDE](https://open.spotify.com/track/1M7h0DxRLM9qctzi9KmdNX) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [COLLIDE](https://open.spotify.com/album/6XvgbHcI3twBpmW6JIVG03) | 3:29 | 2022-09-30 |  |
 | [Colour Me](https://open.spotify.com/track/2WiW6RcpDaCivdk7cofdBA) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Jan Burton](https://open.spotify.com/artist/5ESBqKoYWcMYwlngYyjcOB) | [Horizons \[Part 1\]](https://open.spotify.com/album/2ju1ICgpwj2sMq5VMoMY8i) | 3:57 | 2022-05-20 | 2023-06-10 |
+| [Come Alive](https://open.spotify.com/track/0OO4gJdvGDN5a6WLioUObV) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [KAMA](https://open.spotify.com/artist/3dmaTiNzEiJ1D6YWCAyNM5) | [Come Alive](https://open.spotify.com/album/0FQihea0lY10da6hAwhYvj) | 2:09 | 2023-12-15 |  |
 | [Coming Home Again](https://open.spotify.com/track/4dpyt1bkbRDxY750vbw1sx) | [Solar Vision](https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4) | [Coming Home Again](https://open.spotify.com/album/6CCnaL2CgbW89JVL7CvdKD) | 3:22 | 2023-06-23 |  |
 | [Coming Up \(Hold On\)](https://open.spotify.com/track/5JamVoaV0pgr8K90T93Phk) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Coming Up \(Hold On\)](https://open.spotify.com/album/5d82RvjKS1KqBpiuGb3ksx) | 4:16 | 2022-11-11 | 2022-12-16 |
 | [Completely](https://open.spotify.com/track/6narPoP1lFtQmKdHeHYXiD) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Completely](https://open.spotify.com/album/1oBKnCIdeXJqHN13zDNDoO) | 2:49 | 2022-03-25 | 2022-10-08 |
@@ -183,7 +184,7 @@
 | [DNA](https://open.spotify.com/track/0npeCeJYQ85l17WlXBF3wG) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Audrey Brazelle](https://open.spotify.com/artist/1qPUWgkDwkqx0IKBYSnq7n) | [Duality](https://open.spotify.com/album/3DEqRNQZS7gNDTzltgC3Cf) | 6:37 | 2022-10-28 | 2023-06-10 |
 | [Do You Feel So Right](https://open.spotify.com/track/2D5qj1qPzpj1sJjou8WZhk) | [Pinball](https://open.spotify.com/artist/7qfKjRGrO1By4TujWvUA8F), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp) | [Do You Feel So Right](https://open.spotify.com/album/0SNZo59K6w2X2iIgYyopWQ) | 2:35 | 2023-02-03 | 2023-05-20 |
 | [Do You Want Me](https://open.spotify.com/track/5GXT1Qz6oMmvJalrPntZ4b) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Do You Want Me](https://open.spotify.com/album/5HMJMsog5o4q4R4H1hxtKN) | 3:56 | 2023-12-08 |  |
-| [Don't Give Up](https://open.spotify.com/track/6EfCZu8Az3CCzNVRTXbcyf) | [Phillip Castle](https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd) | [Don't Give Up](https://open.spotify.com/album/5tcfap5dwahhFupIrPJRpT) | 3:41 | 2023-12-08 |  |
+| [Don't Give Up](https://open.spotify.com/track/6EfCZu8Az3CCzNVRTXbcyf) | [Phillip Castle](https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd) | [Don't Give Up](https://open.spotify.com/album/5tcfap5dwahhFupIrPJRpT) | 3:41 | 2023-12-08 | 2023-12-19 |
 | [Dopex](https://open.spotify.com/track/2aWKb2LbwbdMQtwr7ogAE6) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Dopex](https://open.spotify.com/album/5PMU6pNV77eQ5ohtUVcq8j) | 3:56 | 2022-06-24 |  |
 | [Down to Love](https://open.spotify.com/track/7nfiLZ7uRsvG8pVH8q3ori) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Down to Love](https://open.spotify.com/album/2bq9mWHuy7sZtZ0WZGCuXH) | 3:50 | 2022-11-11 | 2023-01-14 |
 | [dreamcore](https://open.spotify.com/track/5mCDSnNX4wXDxCwtHBRysH) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [dreamcore](https://open.spotify.com/album/59P9rAUO9S4VUuZRPgpCCx) | 2:55 | 2022-04-01 | 2023-04-09 |

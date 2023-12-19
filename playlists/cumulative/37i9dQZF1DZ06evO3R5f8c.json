@@ -1610,10 +1610,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 425733,
       "name": "Stuck In Your Love",
       "url": "https://open.spotify.com/track/0XKk5tVNAR4gGxwhc8SAcV"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Azola",
+          "url": "https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425733,
+      "name": "Stuck In Your Love (feat. Azola)",
+      "url": "https://open.spotify.com/track/6REbbKoksIc127eDJxz8GC"
     },
     {
       "album": {

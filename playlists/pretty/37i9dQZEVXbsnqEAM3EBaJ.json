@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNzY4MjAsMDAwMDAwMDAzNDc2MjEzZjQ3MGFkNDJiMDJiZjI5NTEwODM4YmUwMg==",
+  "snapshot_id": "MjgzNzY4MjAsMDAwMDAwMDBlZDFkMTI1YThiMmFjNTRlZjIyZGU5MGE2YWQ0ZjhmYQ==",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -32,17 +32,13 @@
       },
       "artists": [
         {
-          "name": "John Powell",
-          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
-        },
-        {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 105666,
-      "name": "Survivor (Film Version)",
-      "url": "https://open.spotify.com/track/05y7nFKiuOxvgnIXFZQYwD"
+      "duration_ms": 183800,
+      "name": "Survivor (Full Version)",
+      "url": "https://open.spotify.com/track/4NVJ6YedmGvLHKBkRMCCVs"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -63,21 +59,17 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Losing My Religion (Mikosonic Remix)",
+        "name": "",
         "url": "https://open.spotify.com/album/2WqNxDv6awfT6Il4hiTvDq"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        },
-        {
-          "name": "Mikosonic",
-          "url": "https://open.spotify.com/artist/1wy0gDq3U3T5dA9Pzay47k"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 192951,
-      "name": "Losing My Religion - Mikosonic Remix",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/3MjnG4Xw81GU5JX50srgvz"
     },
     {
@@ -123,22 +115,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Nacimos Solos (Banda Sonora Original de la serie \"Zorro\")",
-        "url": "https://open.spotify.com/album/2XwdwHP5q4aUn553Rcrp2H"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Nacimos Solos - Banda Sonora Original de la serie \"Zorro\"",
-      "url": "https://open.spotify.com/track/3775mRz3EYGa9gdmqlh1T4"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Hackney Diamonds (Live Edition)",
         "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
       },
@@ -155,6 +131,22 @@
       "duration_ms": 459741,
       "name": "Sweet Sounds Of Heaven - Live at Racket, NYC",
       "url": "https://open.spotify.com/track/6Uazt0Y1PzoXCFjN7jkotc"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Nacimos Solos (Banda Sonora Original de la serie \"Zorro\")",
+        "url": "https://open.spotify.com/album/2XwdwHP5q4aUn553Rcrp2H"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 172853,
+      "name": "Nacimos Solos - Banda Sonora Original de la serie \"Zorro\"",
+      "url": "https://open.spotify.com/track/3775mRz3EYGa9gdmqlh1T4"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -243,22 +235,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "A Monster Only You Can't See",
-        "url": "https://open.spotify.com/album/3gObgFliVNVCROweTRHIZE"
-      },
-      "artists": [
-        {
-          "name": "Sonata Arctica",
-          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
-        }
-      ],
-      "duration_ms": 356174,
-      "name": "A Monster Only You Can't See",
-      "url": "https://open.spotify.com/track/6hJLh8rxEM2BfJmkYd4MtR"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "The Beautiful Dark of Life",
         "url": "https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp"
       },
@@ -271,6 +247,22 @@
       "duration_ms": 188608,
       "name": "The Beautiful Dark of Life",
       "url": "https://open.spotify.com/track/6A3UXnzzTP6KwGl9uArrLU"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "A Monster Only You Can't See",
+        "url": "https://open.spotify.com/album/3gObgFliVNVCROweTRHIZE"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "duration_ms": 356174,
+      "name": "A Monster Only You Can't See",
+      "url": "https://open.spotify.com/track/6hJLh8rxEM2BfJmkYd4MtR"
     },
     {
       "added_at": "2023-12-15 03:00:00",

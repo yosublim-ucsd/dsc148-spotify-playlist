@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-150 songs - 10 hr 38 min
+151 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,5 +158,6 @@
 | [Yaanam](https://open.spotify.com/track/2k0m3S5y6J3RPBEwrYAHrU) | [Sangeeth Vijayan](https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut) | [Yaanam](https://open.spotify.com/album/2MN3tPfDAg2PsBBb78uLCs) | 3:20 | 2023-11-06 |  |
 | [Yathra](https://open.spotify.com/track/7nZxElNcOuVrsAjw7Um0IE) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/0AMVYu01sebX3Sba3AS9J9) | 3:05 | 2023-10-10 |  |
 | [Yele](https://open.spotify.com/track/2k1pxoTf0NjqlFvyyKm9gT) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T) | [Yele](https://open.spotify.com/album/6Imawk8CVUyCxZjU8fm9Ka) | 4:52 | 2023-12-10 |  |
+| [Zeal](https://open.spotify.com/track/512GctDAFet7XFXD37dXzX) | [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Sudhi](https://open.spotify.com/artist/1K5KXBAJtocTdhAE5X8ySQ) | [Zeal](https://open.spotify.com/album/4JAMUZR6wpRhAEFQcdNhrc) | 3:22 | 2023-12-18 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

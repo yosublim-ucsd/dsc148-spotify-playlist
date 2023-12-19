@@ -2369,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "Cigarettes out the Window",
+      "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
+    },
+    {
+      "album": {
         "name": "AA LANGUAGE 2",
         "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
       },
@@ -11870,7 +11888,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -12190,6 +12208,28 @@
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "album": {
+        "name": "SWEET THIEVES",
+        "url": "https://open.spotify.com/album/34NIi7mFSqk0Fj0ZVbfTf9"
+      },
+      "artists": [
+        {
+          "name": "Lorean",
+          "url": "https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB"
+        },
+        {
+          "name": "Mor3a",
+          "url": "https://open.spotify.com/artist/24cwZcUJ6D1FZBjjhoHJzV"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172879,
+      "name": "SWEET THIEVES",
+      "url": "https://open.spotify.com/track/5fMUxzTNvh2dt46h0R1byU"
     },
     {
       "album": {
@@ -16966,7 +17006,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 164210,
       "name": "\u0414\u043e\u043b\u043e\u043d\u0456",
       "url": "https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb"
@@ -20396,7 +20436,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 157846,
       "name": "\u041d\u0435\u0431\u043e \u0445\u0438\u043b\u0438\u0442\u044c\u0441\u044f",
       "url": "https://open.spotify.com/track/2YxL4H5c4NCPm19E28OPSt"
@@ -23530,6 +23570,32 @@
       "duration_ms": 175053,
       "name": "\u0422\u0430\u043d\u0446\u044b",
       "url": "https://open.spotify.com/track/5hY09NvKjD3gBQS3qhriXD"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0430\u0440\u043e",
+        "url": "https://open.spotify.com/album/07si0ibZYD3rpaLcoFToEj"
+      },
+      "artists": [
+        {
+          "name": "Egor Kreed",
+          "url": "https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb"
+        },
+        {
+          "name": "Tenderlybae",
+          "url": "https://open.spotify.com/artist/1Z4CxuvNuVKnKrGQfRcEFl"
+        },
+        {
+          "name": "\u0415\u0433\u043e\u0440\u0438\u043a",
+          "url": "https://open.spotify.com/artist/16nlHRcQVC5W9X8Mr0iTnY"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200952,
+      "name": "\u0422\u0430\u0440\u043e",
+      "url": "https://open.spotify.com/track/4M4zuhpRODqsfRJcdySb00"
     },
     {
       "album": {

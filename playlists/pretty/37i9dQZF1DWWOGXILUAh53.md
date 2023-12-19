@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: YUQI, ALAN WALKER & JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,657 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,715 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 18 | [Paradise](https://open.spotify.com/track/3D9gig3g2yGheqkpzjnKnN) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Paradise](https://open.spotify.com/album/5FjrKHMfuMTNnp2SqAUzUN) | 2:39 |
 | 19 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 |
 | 20 | [Run From You](https://open.spotify.com/track/2ouMNYPXQ6P9epCLmiqRSg) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Run From You](https://open.spotify.com/album/5EY4emNooAmEsHDquKD104) | 2:47 |
-| 21 | [A Very Bad Fun Idea \- Taken From The Film "BONUS TRACK"](https://open.spotify.com/track/2G5JdsSuoOEHXQVqO7uFui) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/3ndzUh03qyl9TONYfSspqO) | [A Very Bad Fun Idea \(Taken From The Film "BONUS TRACK"\)](https://open.spotify.com/album/6FYhRX8riiDRSv0HpE5jvU) | 3:35 |
+| 21 | [A Very Bad Fun Idea \- Taken From The Film "BONUS TRACK"](https://open.spotify.com/track/2G5JdsSuoOEHXQVqO7uFui) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [A Very Bad Fun Idea \(Taken From The Film "BONUS TRACK"\)](https://open.spotify.com/album/6FYhRX8riiDRSv0HpE5jvU) | 3:35 |
 | 22 | [Don't Call Me Up](https://open.spotify.com/track/2fCTMmtNWFPR49sXkzwB4g) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Don't Call Me Up](https://open.spotify.com/album/7x51vYN8rt6vrpIwwQWcU2) | 2:23 |
 | 23 | [Paris](https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Paris](https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC) | 3:00 |
 | 24 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 69 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 | 70 | [sick of myself](https://open.spotify.com/track/0uNcqssd2jsd9zhZhgLl0o) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [sick of myself](https://open.spotify.com/album/20OOBBJM61941fgjyk4e4b) | 2:21 |
 
-Snapshot ID: `MCxkZjQwNzcwZTk3YjBlMDEyY2ZiYmQ1YTMwMzgzYWJjODZjNTMxZDkz`
+Snapshot ID: `MCxlNmNiOTM0MjM2MmI5YjY5NWVhYjU5MmExY2I0NTg5NTI4NjY0NjE5`

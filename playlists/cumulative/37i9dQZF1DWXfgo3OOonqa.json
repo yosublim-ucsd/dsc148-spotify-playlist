@@ -8810,7 +8810,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 184000,
       "name": "GATANS FAVORIT",
       "url": "https://open.spotify.com/track/6XgI4t0OFxdqHiMjtoG33H"
@@ -20437,6 +20437,24 @@
     },
     {
       "album": {
+        "name": "SIKINA",
+        "url": "https://open.spotify.com/album/1sutLpQkn6bVNrUcbjtuae"
+      },
+      "artists": [
+        {
+          "name": "DABAB",
+          "url": "https://open.spotify.com/artist/18tTELWrAXq46UM5D3CFgp"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "SIKINA",
+      "url": "https://open.spotify.com/track/0XqH2hRrxjciHaYsTalevl"
+    },
+    {
+      "album": {
         "name": "Siluetter",
         "url": "https://open.spotify.com/album/3X7bd4ko3jbuWu1IEqWf4E"
       },
@@ -21646,7 +21664,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 141176,
       "name": "STILO",
       "url": "https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B"

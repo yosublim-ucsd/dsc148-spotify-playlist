@@ -1,29 +1,13 @@
 {
   "description": "The soundtrack to the internet. Cover: Lil Mabu",
-  "num_followers": 1392551,
+  "num_followers": 1392490,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTUzNDA4M2NiZjFmNzMyOWU2ZDU4MDI0OTFlN2VmNTVlNTY4NDAx",
+  "snapshot_id": "MCw3MTY1ZmVmYzk0NjkzMjI0YWM5ZTRiNTE1ODEwZTMxNGYwNzcyODUw",
   "tracks": [
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Mr. McAdams",
-        "url": "https://open.spotify.com/album/3zIqYHjhiIX0ezJUIegDfl"
-      },
-      "artists": [
-        {
-          "name": "Lil Dicky",
-          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
-        }
-      ],
-      "duration_ms": 156101,
-      "name": "Mr. McAdams",
-      "url": "https://open.spotify.com/track/7uPVu05kl4tGCJ3KRUucBT"
-    },
     {
       "added_at": "2023-12-06 21:50:48",
       "album": {
@@ -41,28 +25,20 @@
       "url": "https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-18 18:17:54",
       "album": {
-        "name": "light (with 9lives & midwxst)",
-        "url": "https://open.spotify.com/album/7HJ83Qe1wRgbqHJsSo3sK3"
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
         }
       ],
-      "duration_ms": 137125,
-      "name": "light (with 9lives & midwxst)",
-      "url": "https://open.spotify.com/track/5QlWINPD2625OdZ3wS26KR"
+      "duration_ms": 113684,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
     },
     {
       "added_at": "2023-12-08 22:46:00",
@@ -81,6 +57,22 @@
       "url": "https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI"
     },
     {
+      "added_at": "2023-12-12 21:16:28",
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
       "added_at": "2023-12-13 20:39:33",
       "album": {
         "name": "Change My Wayz",
@@ -95,6 +87,26 @@
       "duration_ms": 115013,
       "name": "Change My Wayz",
       "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
+    },
+    {
+      "added_at": "2023-12-11 17:22:28",
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 151850,
+      "name": "Gucci Flip Flops (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/3hv6ndi7uFT9L9wrhQCsqY"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -119,50 +131,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Get Deady",
-        "url": "https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC"
+        "name": "light (with 9lives & midwxst)",
+        "url": "https://open.spotify.com/album/7HJ83Qe1wRgbqHJsSo3sK3"
       },
       "artists": [
         {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         },
         {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         },
         {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
-        },
-        {
-          "name": "Jenn Carter",
-          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
-        },
-        {
-          "name": "TaTa",
-          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
         }
       ],
-      "duration_ms": 203142,
-      "name": "Get Deady",
-      "url": "https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4"
-    },
-    {
-      "added_at": "2023-12-12 21:16:28",
-      "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+      "duration_ms": 137125,
+      "name": "light (with 9lives & midwxst)",
+      "url": "https://open.spotify.com/track/5QlWINPD2625OdZ3wS26KR"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -201,24 +189,36 @@
       "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
     },
     {
-      "added_at": "2023-12-11 17:22:28",
+      "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12"
+        "name": "Get Deady",
+        "url": "https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC"
       },
       "artists": [
         {
-          "name": "Bhad Bhabie",
-          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
         }
       ],
-      "duration_ms": 151850,
-      "name": "Gucci Flip Flops (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/3hv6ndi7uFT9L9wrhQCsqY"
+      "duration_ms": 203142,
+      "name": "Get Deady",
+      "url": "https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4"
     },
     {
       "added_at": "2023-12-01 05:00:00",

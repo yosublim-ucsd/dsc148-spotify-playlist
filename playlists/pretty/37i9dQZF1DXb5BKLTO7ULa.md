@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SERA, YouNotUs
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,735 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,730 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 3 | [Appel Mint Puur](https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Appel Mint Puur](https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ) | 3:27 |
 | 4 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 5 | [Ana Lik](https://open.spotify.com/track/5RF5tKkAi4rmPOZRBPaSoM) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Ana Lik](https://open.spotify.com/album/2q0y1UupuNPvEzT6cZC8Nn) | 2:32 |
-| 6 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 |
+| 6 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
 | 7 | [Love Me Enough \(feat\. Monica & Keyshia Cole\)](https://open.spotify.com/track/64VYqDH3xyxIFZjrsgjLCZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Pink Friday 2 \(Gag City Deluxe\)](https://open.spotify.com/album/5eA2VJ0yeiU4kXz1zvuMro) | 3:50 |
 | 8 | [Baddie](https://open.spotify.com/track/0wYB7kzH13mItQcqPy5PWw) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [King Ocho](https://open.spotify.com/artist/6MfxNsmm1A8Sji4XLWCZ4G) | [Baddie](https://open.spotify.com/album/71vfyBfmCMnOy9Zdgw4M4g) | 1:54 |
 | 9 | [Amen](https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen](https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw) | 3:30 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 33 | [Back In '99](https://open.spotify.com/track/2go9hE9lNmxdPdUSd2X2uh) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Back In '99](https://open.spotify.com/album/4QKHJEN7HIzyMDP7QCfhzs) | 2:47 |
 | 34 | [Bedoeling?!](https://open.spotify.com/track/4F9e3QOSEd0KWhGu7AeOrt) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [wat is je Bedoeling After?!](https://open.spotify.com/album/1YY9dJbAJBycOOrHg8WITk) | 3:35 |
 | 35 | [Niet Doen \(feat\. Kempi\)](https://open.spotify.com/track/15GtBuDme0phDZO8E8W2ba) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Niet Doen](https://open.spotify.com/album/2mzWEU9GSWtRVZPKeo2DYC) | 3:00 |
-| 36 | [Via Via](https://open.spotify.com/track/71cXfWMNxBwSMYGSrPDfzx) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Via via](https://open.spotify.com/album/21QkfqGDiAq5hNv2shTL7w) | 2:11 |
+| 36 | [Via Via](https://open.spotify.com/track/71cXfWMNxBwSMYGSrPDfzx) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM) | [Via Via](https://open.spotify.com/album/21QkfqGDiAq5hNv2shTL7w) | 2:11 |
 | 37 | [Therapy](https://open.spotify.com/track/70lkOeQI0L3bSgj183ZPm5) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Therapy](https://open.spotify.com/album/7rROu8cbJwD6gr3DwcPx07) | 2:08 |
 | 38 | [There Will Come A Day \- From The Original Motion Picture “The Color Purple”](https://open.spotify.com/track/7d85Lf81OaQ43VfOCQWxi7) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [There Will Come A Day \(From The Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/4dIqji1wN91X70LlogDNva) | 3:43 |
 | 39 | [9\-MilliMeter Muziek](https://open.spotify.com/track/2mlC9qxKDV4rjvMwwshzkd) | [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [V.O.C\. \(Volledig Onder Controle\)](https://open.spotify.com/album/4kfyjpm97W7ONQBsIWzJMd) | 3:50 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 62 | [Het Is Altijd Zoals Het Hoort Te Zijn](https://open.spotify.com/track/6C0yRg8IDbRKTtwHNRXIN5) | [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [De Troubadours Vol\. 3](https://open.spotify.com/album/1ZNr717G6vANkGRgh2gAC8) | 3:37 |
 | 63 | [I Am Nothing \(Without You\)](https://open.spotify.com/track/2LiunkCrHRITKICHmCTiWy) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Distraction](https://open.spotify.com/album/4PS0Us41beukSX2KOqpHBc) | 3:08 |
 
-Snapshot ID: `MCw5ZjJjNzliOTlkZTk0YzkxOTViNmU4ZTc4ZjhmOTFjZDZkZDE2YWYy`
+Snapshot ID: `MCxhNDc3MGE3ZWYwMWQzOTA3YzkxMTE3OWNhZGU5NTBiZjI1MzkxNmRl`

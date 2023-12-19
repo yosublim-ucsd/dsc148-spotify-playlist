@@ -2,7 +2,7 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. FERNANDOCOSTA
+> Lo mejor del hip hop español\. Feat\. Prok
 
 237 songs - 13 hr 6 min
 

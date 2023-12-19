@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 180114,
+  "num_followers": 180207,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzE3ZWQ2ZTdlNTg0YWQ3NzNmMWRkNzUzMzUwZTQ2NmJjZGJhZGE5",
+  "snapshot_id": "MCw1YjcwYWQ3MjJmMjVmOTBjNzQ5NGNlNTdmYWQ2ZDMyN2UwOGM0ZDE5",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Bitchboy",
-        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 107162,
-      "name": "Bitchboy",
-      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 233453,
       "name": "Hate Me (Sometimes)",
       "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Bitchboy",
+        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 107162,
+      "name": "Bitchboy",
+      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "BURN THE WITCH",
-      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Get Awkward",
         "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
       },
@@ -363,22 +347,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Call the Doctor (Remastered)",
-        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 156986,
-      "name": "I Wanna Be Your Joey Ramone",
-      "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Steady Damage",
         "url": "https://open.spotify.com/album/7iVKnT2a9xXwKXAiXfmjL6"
       },
@@ -391,6 +359,38 @@
       "duration_ms": 187933,
       "name": "Damage",
       "url": "https://open.spotify.com/track/5AuzysaHMCMHvv6Ppyx9lI"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "BURN THE WITCH",
+      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Call the Doctor (Remastered)",
+        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 156986,
+      "name": "I Wanna Be Your Joey Ramone",
+      "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 196942,
-      "name": "the kids aren't alright",
-      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Stay Alive",
         "url": "https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 124533,
       "name": "SuperNatural Possession",
       "url": "https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 196942,
+      "name": "the kids aren't alright",
+      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "gasoline",
-        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
-      },
-      "artists": [
-        {
-          "name": "Baby Guts",
-          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
-        }
-      ],
-      "duration_ms": 114053,
-      "name": "Staplegun",
-      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "babyface",
         "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 74437,
       "name": "I Saw Jesus Hanging on a Basketball Hoop",
       "url": "https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "gasoline",
+        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
+      },
+      "artists": [
+        {
+          "name": "Baby Guts",
+          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
+        }
+      ],
+      "duration_ms": 114053,
+      "name": "Staplegun",
+      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Happier Still",
-      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Big Shouty",
         "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 86000,
       "name": "Big Shouty",
       "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Every Now and Then",
+        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
+      },
+      "artists": [
+        {
+          "name": "Wolf Girl",
+          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
+        }
+      ],
+      "duration_ms": 154618,
+      "name": "Dream Partner",
+      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Egg on Face. Foot in Mouth. Wriggling Wriggling Wriggling.",
         "url": "https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 128880,
       "name": "Queer For You",
       "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Every Now and Then",
-        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
-      },
-      "artists": [
-        {
-          "name": "Wolf Girl",
-          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Dream Partner",
-      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     },
     {
       "added_at": "2023-05-25 14:38:53",

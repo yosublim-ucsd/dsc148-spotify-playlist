@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-256 songs - 21 hr 20 min
+257 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Moneycomb](https://open.spotify.com/track/5F7uxeMTy6JwRiBZt6TiDs) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [South of Heaven](https://open.spotify.com/album/4L2Mnyxrpn2hxO87Gdu44M) | 2:21 | 2023-03-10 |  |
 | [My Darkest Hour](https://open.spotify.com/track/4xo58k1mlaohC1gcLW1F60) | [Jimmy Svensson](https://open.spotify.com/artist/5THKjrwaxUhrzy5Bzvorri) | [Dark Blood](https://open.spotify.com/album/1wks1CncRvFznFtAS1bjYU) | 3:16 | 2022-03-25 |  |
 | [My God](https://open.spotify.com/track/2P1YnmUrhf2b7RkljESSRH) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Hc8o20mvQgkj0yxkC7WrS) | 2:10 | 2022-03-25 |  |
+| [Mystical Spirit](https://open.spotify.com/track/6NLtDnYE15a4RUjtzI17Wt) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy) | [Mystical Spirit](https://open.spotify.com/album/49uh2JKUhUT03aw0z2ceFt) | 2:00 | 2023-12-01 |  |
 | [Mälardynen](https://open.spotify.com/track/386aGHpZXtzvSMGy3gFqkX) | [Linus Hillborg](https://open.spotify.com/artist/1jrzKVTQrPyFMTH6uEUhZS) | [Magelungsverket](https://open.spotify.com/album/5nup9Yq25vKalN4aMOA2Bs) | 4:39 | 2022-01-21 | 2022-07-29 |
 | [nibiru](https://open.spotify.com/track/4xnrbHfN3vwRhLBuLqO1OK) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [nibiru](https://open.spotify.com/album/1aZruFKCFVcIFqmqqdQbvc) | 3:39 | 2022-07-22 |  |
 | [Night Walk](https://open.spotify.com/track/0FmRg5WRovLobLLeUiMXwo) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 4:43 | 2022-07-22 |  |
@@ -202,7 +203,7 @@
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 |  |
 | [Sternkarten](https://open.spotify.com/track/2zw1H7VhobTzxZebNfepSU) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Bethanien](https://open.spotify.com/album/4JZlNx49SehfobUKwt2izd) | 3:56 | 2022-11-11 |  |
 | [Sternkarten](https://open.spotify.com/track/314hSjWQO1s1IRW7jwOJdt) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Bethanien](https://open.spotify.com/album/1OrrYsb4N2WMpINJrtrRBR) | 3:56 | 2022-01-21 | 2022-07-29 |
-| [Still Like the South Wind](https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz) | [AK](https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ) | [Slow for an Instant](https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j) | 4:20 | 2022-01-28 |  |
+| [Still Like the South Wind](https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz) | [AK](https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ) | [Slow for an Instant](https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j) | 4:20 | 2022-01-28 | 2023-12-19 |
 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 | 2022-01-21 |  |
 | [Stone Beacon](https://open.spotify.com/track/5whrXD70ulKcdCsl0ZMQtO) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Pale Ravine](https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz) | 3:29 | 2023-11-14 |  |
 | [Stora vreden i Storvreta](https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h) | [Gävle\-Stockholm Dub](https://open.spotify.com/artist/6aDddHTB6bkZ4ozFebxEdE), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Pro424](https://open.spotify.com/artist/2JM8Yxfky3rGXzVvchyFof) | [Ingenmansland](https://open.spotify.com/album/6LbHHHfmp3sV9olKmzITYk) | 5:04 | 2022-01-21 |  |

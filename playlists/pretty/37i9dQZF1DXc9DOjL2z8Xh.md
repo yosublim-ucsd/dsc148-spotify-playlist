@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9DOjL2z8Xh.md) - [plain]
 
 > Músicas instrumentais de ninar para um soninho bom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,224 likes - 106 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,226 likes - 106 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9DOjL2z8Xh.md) - [plain]
 | 105 | [I am longing for tomorrow](https://open.spotify.com/track/0qA9hUwwGzKPToFpAWqPQv) | [Lanna Carroll](https://open.spotify.com/artist/0VDUO8LL09SYxcqoMdiJyq) | [I am longing for tomorrow](https://open.spotify.com/album/15vMLMmgmrasbDb3trDF6V) | 1:41 |
 | 106 | [Bitte Mama](https://open.spotify.com/track/1PNefrcvvs6O5KJR6QNSSK) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:04 |
 
-Snapshot ID: `MCwxMDVkZWU2ZDlmMDBiNDA1ZGJiN2Y3NTliYThhNDE2NWU5MDg4ZjIx`
+Snapshot ID: `MCw5NzQwNDExZjg4ODdmODc5NDMwZjEyYzUwZTk3NGI4NjNiNDgxNTQ2`

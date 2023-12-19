@@ -1,12 +1,12 @@
 {
   "description": "Motion, fissa & good vibes! Cover: J Balvin",
-  "num_followers": 320412,
+  "num_followers": 320405,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTkzNjk0M2RmZjE0OTA0ZTg4MDhkNzUyMmRkNGRmMTU5YjE0MTM3",
+  "snapshot_id": "MCwyYTE0NzMxYzY4ZGVhODNkNWI1MDQ0NTIwYTRjYzc4NDRlNTllMzU1",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -67,6 +67,26 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Niet Doen",
+        "url": "https://open.spotify.com/album/2mzWEU9GSWtRVZPKeo2DYC"
+      },
+      "artists": [
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        },
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        }
+      ],
+      "duration_ms": 180657,
+      "name": "Niet Doen (feat. Kempi)",
+      "url": "https://open.spotify.com/track/15GtBuDme0phDZO8E8W2ba"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "AH TXE TXE",
         "url": "https://open.spotify.com/album/295XHZuwcQXO0iKMEdeiio"
       },
@@ -91,17 +111,13 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Via via",
+        "name": "Via Via",
         "url": "https://open.spotify.com/album/21QkfqGDiAq5hNv2shTL7w"
       },
       "artists": [
         {
           "name": "Zefanio",
           "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
         }
       ],
       "duration_ms": 131803,
@@ -131,26 +147,6 @@
       "duration_ms": 138398,
       "name": "Pushen Iets (feat. Bizzey & Ashafar)",
       "url": "https://open.spotify.com/track/2ax89z0KqWv4IslM6dszGt"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Niet Doen",
-        "url": "https://open.spotify.com/album/2mzWEU9GSWtRVZPKeo2DYC"
-      },
-      "artists": [
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        },
-        {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
-        }
-      ],
-      "duration_ms": 180657,
-      "name": "Niet Doen (feat. Kempi)",
-      "url": "https://open.spotify.com/track/15GtBuDme0phDZO8E8W2ba"
     },
     {
       "added_at": "2023-12-14 23:00:00",

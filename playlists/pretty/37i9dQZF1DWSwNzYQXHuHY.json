@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9739,
+  "num_followers": 9731,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTI5NDgyYjcyYzJjZmM0OWJlNTJkODkwZGU4ZWUxNmJjNTI3YzQ0",
+  "snapshot_id": "MCw2ZGRjMDAzYjgwNDNhMTA4OWY3NjFkMzQ3ZWE5YzZhMGRmYmM1ZjU3",
   "tracks": [
     {
       "added_at": "2023-12-09 12:43:14",
@@ -135,26 +135,6 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
-        "name": "The Hyena on the Keyboard, Pt. 4",
-        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 231654,
-      "name": "Don\u2019t",
-      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 178226,
       "name": "What are we (Feat. PARK JIWON of fromis_9)",
       "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
+        "name": "The Hyena on the Keyboard, Pt. 4",
+        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 231654,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
     },
     {
       "added_at": "2023-12-09 12:43:14",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
         "name": "and you",
         "url": "https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 204240,
       "name": "and you (Feat. ZICO)",
       "url": "https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
       "added_at": "2023-12-09 12:43:14",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
+        "name": "CEO-dol Mart (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 181625,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
         "name": "Can you stay (From Semantic Error)",
         "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 195253,
       "name": "2U",
       "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
-        "name": "CEO-dol Mart (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO"
-      },
-      "artists": [
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        }
-      ],
-      "duration_ms": 181625,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9"
     },
     {
       "added_at": "2023-12-09 12:43:14",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+      },
+      "artists": [
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "busy guy",
+      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
         "name": "My First June",
         "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 230640,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
-        "name": "DA DA!",
-        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
-      },
-      "artists": [
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "busy guy",
-      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
     },
     {
       "added_at": "2023-12-09 12:43:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,001 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,980 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [Macetando](https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Reivete\-se 3.0](https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G) | 2:47 |
 | 61 | [Senti Saudade De Você \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/3eMQlWuVSgGZmAWni7dqOR) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo\)](https://open.spotify.com/album/7BnVrKWFfVy42V2Ozg7Ri6) | 3:08 |
 
-Snapshot ID: `MCwxMzliN2E5NzVkNjlmYWNkZWFkODNlMDA5MDdmZWQxNDVkZTc0MWUw`
+Snapshot ID: `MCw2MDMwMGIzMTg4OWQwMDFmOWUyNzk4ZTViOGM3Mzg1MjQxMmRiZjg1`

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain](/playlists/plain/2umhFr6VmhHDDT1Tdlc8s4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2umhFr6VmhHDDT1Tdlc8s4)
 
-### [hope is good](https://open.spotify.com/playlist/2umhFr6VmhHDDT1Tdlc8s4)
+### [my love is mine all mine](https://open.spotify.com/playlist/2umhFr6VmhHDDT1Tdlc8s4)
 
 > 
 
-[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 45 songs - 2 hr 39 min
+[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 46 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 | 43 | [Flirting with Her](https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:50 |
 | 44 | [7 years](https://open.spotify.com/track/4jQDJPgw3qkc1T2f1safdy) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [BJ Burton](https://open.spotify.com/artist/79qKFHLgvS3SEabYpohRHz) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:15 |
 | 45 | [Silly Girl](https://open.spotify.com/track/6B9hQU3z8L6u8Yd3qHLuhe) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:25 |
+| 46 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `ODIsNmE1ZjRiYTQyYjBjODliZjM3ZmEzYzE0OTUyYTRlZGJjYWRiYmM0NQ==`
+Snapshot ID: `ODQsYWJmYzY4NTEwYmQwYTBmNWZjMDVhNGFiN2I1NmZmZGM0YWEwY2NiMQ==`

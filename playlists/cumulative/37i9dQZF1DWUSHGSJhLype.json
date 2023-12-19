@@ -1159,6 +1159,32 @@
     },
     {
       "album": {
+        "name": "Dia de Fluxo",
+        "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133610,
+      "name": "Dia de Fluxo",
+      "url": "https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl"
+    },
+    {
+      "album": {
         "name": "Diferent\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
       },
@@ -1582,10 +1608,32 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 117864,
       "name": "Eu Vou Tomar um Tacac\u00e1 - Poze x Joelma",
       "url": "https://open.spotify.com/track/6zVB2lbhbyf5u8Z7FlXma9"
+    },
+    {
+      "album": {
+        "name": "EU VOU TOMAR UM TACAC\u00c1 X JOELMO DO RODO",
+        "url": "https://open.spotify.com/album/0SivtPh5Iwv3EhQ2bP3wjf"
+      },
+      "artists": [
+        {
+          "name": "DJ MK De Niter\u00f3i",
+          "url": "https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs"
+        },
+        {
+          "name": "2L Motta",
+          "url": "https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73111,
+      "name": "EU VOU TOMAR UM TACAC\u00c1 X JOELMO DO RODO",
+      "url": "https://open.spotify.com/track/2N2mexzqyE2KGmgRflQuNk"
     },
     {
       "album": {
@@ -4002,7 +4050,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 109384,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa"

@@ -4,7 +4,7 @@
 
 > 【セットリスト公開】5/20\(土\)・21\(日\)、神戸メリケンパークにて開催される都市型音楽フェス<a href="https://kobe\-mellow\-cruise.com/">「KOBE MELLOW CRUISE」</a>の出演アーティストをピックアップ。
 
-228 songs - 12 hr 56 min
+229 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Presence I](https://open.spotify.com/track/67ac4Gv6M977YUNSPY71LI) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [3exes](https://open.spotify.com/artist/2VNaqz6PRTduwGnaaWgwE5) | [Presence](https://open.spotify.com/album/7phQpXC8t9cF5VbtKJx1aD) | 4:10 | 2023-05-25 |  |
 | [Pretenders \(feat\. C.O.S.A., Yo\-Sea\)](https://open.spotify.com/track/0TsgdkNufYZ3Hgysxidxvh) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:11 | 2023-05-25 |  |
 | [Prove](https://open.spotify.com/track/7389FeZyHCj0S85yFw7HE8) | [KANDYTOWN](https://open.spotify.com/artist/5Treq1MbA8Kw8EGwJc0nzy), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [LOCAL SERVICE](https://open.spotify.com/album/0z9lqxkYnmxaRZg91x5Hjw) | 3:27 | 2023-05-25 |  |
-| [Put In Work](https://open.spotify.com/track/1tiqzSIPixefgIWu9TnOZf) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Put In Work](https://open.spotify.com/album/7IZIU8i9vQCITsZeCyOsjh) | 2:31 | 2023-05-25 |  |
+| [Put In Work](https://open.spotify.com/track/0DwcC94uYdBA3Iyck0mSm3) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Blood & Bones \(BLOOD\)](https://open.spotify.com/album/2CyunDLz6Yge8ocHHZi4nN) | 2:31 | 2023-05-25 |  |
+| [Put In Work](https://open.spotify.com/track/1tiqzSIPixefgIWu9TnOZf) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Put In Work](https://open.spotify.com/album/7IZIU8i9vQCITsZeCyOsjh) | 2:31 | 2023-05-25 | 2023-12-19 |
 | [Queendom](https://open.spotify.com/track/3gX7aaWYtT3tLWUNblAbNe) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 3:27 | 2023-05-25 |  |
 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 | 2023-05-25 |  |
 | [REFLECTION \(feat\. 中村佳穂\)](https://open.spotify.com/track/5gdCH1bmjEvTG9gT2egptq) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [REFLECTION](https://open.spotify.com/album/3YLJWusLf7BKhZU5Wmff1I) | 4:57 | 2023-05-25 |  |

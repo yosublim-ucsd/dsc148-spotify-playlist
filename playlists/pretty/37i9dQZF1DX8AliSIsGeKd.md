@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Lauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,261 likes - 90 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,352 likes - 90 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Peace Rebel](https://open.spotify.com/track/39xq5dL8GwtmfDuOVULtMJ) | [T Raum](https://open.spotify.com/artist/7jHCloejllFXAIYkM6oWjB), [Kiko King](https://open.spotify.com/artist/41Zpr6YmxvrDei5y8xtxbp) | [Peace Rebel](https://open.spotify.com/album/2BnLUVIZ0qCw4Y6eTR5Y9L) | 7:10 |
 | 90 | [PETRICORE](https://open.spotify.com/track/7f9BnBBd58z9CRZHOhygWi) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [PETRICORE](https://open.spotify.com/album/4YyzLEHukTOoMFQJWqGHee) | 3:37 |
 
-Snapshot ID: `MCxmZmZhNDFhY2M4NGIxNGYxZDI3MjU0OGI3NDMxNjE4N2IxZDNjYWEx`
+Snapshot ID: `MCxmNzZhMDMxZjlkNjM2Y2Y0Y2RlYjFiNmFiNzhmZThhNzNiM2I2NWFj`

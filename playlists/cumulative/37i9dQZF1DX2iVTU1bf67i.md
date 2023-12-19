@@ -4,7 +4,7 @@
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-240 songs - 16 hr 15 min
+241 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,13 +179,14 @@
 | [Silver's Serenade \- Remastered 1997](https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Finest](https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE) | 9:21 | 2022-01-26 |  |
 | [Skylark](https://open.spotify.com/track/577faQuWq6ioVGsK4wel5s) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Collections](https://open.spotify.com/album/6CwQw2v0f0AEvRVYAm013g) | 2:01 | 2022-06-29 | 2023-10-13 |
 | [Skylark](https://open.spotify.com/track/0YjbwJ98hLHdAHLJIyT9Tw) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [The Real..\. Toots Thielemans](https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ) | 2:02 | 2022-01-26 | 2022-07-29 |
+| [Smoke Gets In Your Eyes](https://open.spotify.com/track/0S85zakgQAEnjrNPug9sqh) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Jazz 'Round Midnight: Clifford Brown](https://open.spotify.com/album/59Yi9ZX1Qw6i3tfunEDwnf) | 3:16 | 2023-12-15 |  |
 | [Solar \- Rudy Van Gelder Remaster](https://open.spotify.com/track/16KZuJfRKqMZQvmOibsVqX) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Walkin'](https://open.spotify.com/album/7nFwdPkEbfMUb1c5xuHGR6) | 4:42 | 2022-01-20 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/3Gcpi1CwKoQtc8B3H2ZOIX) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [Lee Konitz Meets Jimmy Giuffre](https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs) | 3:36 | 2022-01-20 |  |
 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 | 2022-08-12 |  |
 | [Something To Remember You By](https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:42 | 2022-01-20 |  |
 | [Soon](https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 2:47 | 2022-01-20 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1706f2W2p6OpGj3n6WVGJR) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Clap Hands, Here Comes Charlie! \(Expanded Edition\)](https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR) | 6:17 | 2022-08-12 |  |
-| [Stars Fell On Alabama](https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 3:11 | 2023-12-15 |  |
+| [Stars Fell On Alabama](https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 3:11 | 2023-12-15 | 2023-12-19 |
 | [Steppin' Out With My Baby](https://open.spotify.com/track/16XegBhsozta1GH3t5LGSm) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:20 | 2022-01-20 | 2022-08-18 |
 | [Stompin' At The Savoy](https://open.spotify.com/track/4Vlx6e5XTN3aQ9MjUF1p6q) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:12 | 2022-08-17 |  |
 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 | 2022-01-20 | 2022-08-11 |

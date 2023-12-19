@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: FLETCHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,034 likes - 103 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,064 likes - 103 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Passionate](https://open.spotify.com/track/5TrEgRKwwmmfNx4KN8usfU) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Passionate](https://open.spotify.com/album/0HRDrAf6GrC3yzIrsDTTaF) | 2:43 |
 | 2 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 | 3 | [You & Me Makes Us](https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [You & Me Makes Us](https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg) | 2:56 |
-| 4 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 |
+| 4 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
 | 5 | [Don't Need to Sleep](https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Don't Need to Sleep](https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u) | 3:08 |
 | 6 | [hold it down](https://open.spotify.com/track/2AmpnCFtpxHZVCNBanT3hL) | [we're ok!](https://open.spotify.com/artist/4HZ5fqzmMUI1khzRpOeZBP), [Emily Vaughn](https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2), [Joseph Tilley](https://open.spotify.com/artist/12knc5DPOIJKd0qEeYaDVm) | [hold it down](https://open.spotify.com/album/753H3OAYnndq1otPKdgj4P) | 2:03 |
 | 7 | [Note To Self](https://open.spotify.com/track/4uC7GIhUSVPZoJStTsQJYf) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Note To Self](https://open.spotify.com/album/5gq8nJ80bbp7GlhuW6n9qK) | 2:56 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 102 | [Liquor Over U](https://open.spotify.com/track/2zWBxcWYX32fXgmzaksA6j) | [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Tia Tia](https://open.spotify.com/album/2olewYGi4Q7EqYdgkL2qrb) | 2:54 |
 | 103 | [Cheerleaders and Jocks](https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cheerleaders and Jocks](https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8) | 3:47 |
 
-Snapshot ID: `MCw3ZmYxNTU3YjI1M2VhMzVlOThlZDU3NTQ3ZjhlNzdlNDdjMmZmZTdi`
+Snapshot ID: `MCwyYzYwMmVlOTQ2MGE5NDljMDhiMGFkMWY3OGJiZjk2MWYxZjU1Njlk`

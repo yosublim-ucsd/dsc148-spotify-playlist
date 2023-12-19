@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 73307,
-  "original_name": "EA SPORTS FC 24 Official Soundtrack",
+  "num_followers": 73523,
+  "original_name": "Soundtrack oficial de EA SPORTS FC 24",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDc2Y2YyNDFmYTI1ZTUwNDhmZDczN2U1ZTA5N2RiOTIyZjliYjZj",
+  "snapshot_id": "MCxiNjkyZTBmZjM1M2Q3ZmQ3NWUyYWVjMTAxMTk3ZjU4NGJhMDUwYmQ0",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Longevity Flow",
-        "url": "https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 183649,
-      "name": "Longevity Flow",
-      "url": "https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Space Heavy",
         "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 245933,
       "name": "Seaforth",
       "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Longevity Flow",
+        "url": "https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 183649,
+      "name": "Longevity Flow",
+      "url": "https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Panna Cotta",
         "url": "https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 177467,
       "name": "Complicated (feat. Young Franco)",
       "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Who Let Him In",
-        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+        "name": "Paragon Songs",
+        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
       },
       "artists": [
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Who Let Him In",
-      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
+      "duration_ms": 247613,
+      "name": "Gan Ainm",
+      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1095,6 +1095,22 @@
       "duration_ms": 208747,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Who Let Him In",
+        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Who Let Him In",
+      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 201047,
       "name": "We Can Be Anything",
       "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Paragon Songs",
-        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
-      },
-      "artists": [
-        {
-          "name": "whenyoung",
-          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Gan Ainm",
-      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Powder",
+        "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
+      },
+      "artists": [
+        {
+          "name": "Pontypool",
+          "url": "https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "Powder",
+      "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Haunt My Mind (Machinedrum Remix)",
         "url": "https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 205140,
       "name": "Haunt My Mind - Machinedrum Remix",
       "url": "https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Powder",
-        "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
-      },
-      "artists": [
-        {
-          "name": "Pontypool",
-          "url": "https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Powder",
-      "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -2073,6 +2073,6 @@
       "url": "https://open.spotify.com/track/7DzIYGJCzK1meLmAWK7DbZ"
     }
   ],
-  "unique_name": "EA SPORTS FC 24 Official Soundtrack",
+  "unique_name": "Soundtrack oficial de EA SPORTS FC 24",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs"
 }

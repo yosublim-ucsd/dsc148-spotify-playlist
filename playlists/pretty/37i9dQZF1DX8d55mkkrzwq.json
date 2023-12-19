@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGVlNmRhOTE0NmM1YzViMDU1OTZhY2I2N2Q2MGVmZTU2NjFiODEz",
+  "snapshot_id": "MCw0Mjk4OGMxYzVjNzQ2MzE1Yzk3Mjk3Zjc5M2ZmZjRiOTBkZDRkODdi",
   "tracks": [
     {
       "added_at": "2023-09-14 08:57:47",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 316813,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
         "name": "Honeysuckle & Lightning Bugs",
         "url": "https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 200593,
       "name": "The Git Up",
       "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 316813,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
+        "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
+        "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
         "name": "The Rocky Horror Picture Show - Original Soundtrack",
         "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
-        "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
-        "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "The Twist",
-      "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Electric Slide: with friends...",
-        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
-      },
-      "artists": [
-        {
-          "name": "Electric Slide Music Makers",
-          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Electric Slide",
-      "url": "https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
         "name": "Macarena Christmas (Remasterizado)",
         "url": "https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx"
       },
@@ -455,22 +439,18 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "The BeeeeeOOP Walk",
-        "url": "https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie"
+        "name": "Electric Slide: with friends...",
+        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
       },
       "artists": [
         {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "Electric Slide Music Makers",
+          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
         }
       ],
-      "duration_ms": 118893,
-      "name": "Dance Mode",
-      "url": "https://open.spotify.com/track/6jy21QZaTpS9UgXnWW0ADd"
+      "duration_ms": 237653,
+      "name": "Electric Slide",
+      "url": "https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -519,6 +499,26 @@
       "duration_ms": 150508,
       "name": "Animal Dance and Freeze",
       "url": "https://open.spotify.com/track/4HHMUL4cOZq21NJ6XjErfZ"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
+        "name": "The BeeeeeOOP Walk",
+        "url": "https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 118893,
+      "name": "Dance Mode",
+      "url": "https://open.spotify.com/track/6jy21QZaTpS9UgXnWW0ADd"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
+        "name": "Silly Songs Sing-Along",
+        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 121472,
+      "name": "Let's Shake About!",
+      "url": "https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
         "name": "Scrambled Eggs For All",
         "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
       },
@@ -623,38 +639,18 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Happy Feet!",
-        "url": "https://open.spotify.com/album/0pwxpuimvtMPrprGYEw3Dr"
+        "name": "Laurie Berkner's Movement Songs",
+        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
       },
       "artists": [
         {
-          "name": "Ashley Mills Monaghan",
-          "url": "https://open.spotify.com/artist/3gTG7Lc7QV8tmYk9sSaeZm"
-        },
-        {
-          "name": "Music with Michal",
-          "url": "https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc"
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
         }
       ],
-      "duration_ms": 184659,
-      "name": "Happy Feet!",
-      "url": "https://open.spotify.com/track/2pdM6c8v8ffUq6PBBnPmJa"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
-        "name": "Silly Songs Sing-Along",
-        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 121472,
-      "name": "Let's Shake About!",
-      "url": "https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6"
+      "duration_ms": 161068,
+      "name": "Let's Samba",
+      "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -675,18 +671,22 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Laurie Berkner's Movement Songs",
-        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
+        "name": "Happy Feet!",
+        "url": "https://open.spotify.com/album/0pwxpuimvtMPrprGYEw3Dr"
       },
       "artists": [
         {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+          "name": "Ashley Mills Monaghan",
+          "url": "https://open.spotify.com/artist/3gTG7Lc7QV8tmYk9sSaeZm"
+        },
+        {
+          "name": "Music with Michal",
+          "url": "https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc"
         }
       ],
-      "duration_ms": 161068,
-      "name": "Let's Samba",
-      "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
+      "duration_ms": 184659,
+      "name": "Happy Feet!",
+      "url": "https://open.spotify.com/track/2pdM6c8v8ffUq6PBBnPmJa"
     },
     {
       "added_at": "2023-09-14 08:57:47",

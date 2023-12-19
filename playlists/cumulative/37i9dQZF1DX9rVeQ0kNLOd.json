@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 211266,
       "name": "bathroom",
       "url": "https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0"
@@ -1934,6 +1934,24 @@
       "duration_ms": 177073,
       "name": "Picnic In The Park",
       "url": "https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746"
+    },
+    {
+      "album": {
+        "name": "Promenade",
+        "url": "https://open.spotify.com/album/6MWwsRzFB63os13VAZ43V9"
+      },
+      "artists": [
+        {
+          "name": "YOLK",
+          "url": "https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222058,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/2TRdlT1pZaARZBh6rBOVuC"
     },
     {
       "album": {

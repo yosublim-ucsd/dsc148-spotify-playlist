@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: Bruses
 
-2,041 songs - 4 day 11 hr 40 min
+2,042 songs - 4 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,6 +1062,7 @@
 | [Live, Laugh, Love](https://open.spotify.com/track/6smMEA2Cx1I6QuxNlyZuXt) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Live, Laugh, Love](https://open.spotify.com/album/4s1GKS3gkgUneSgjGI1dnw) | 3:16 | 2022-09-23 | 2022-10-22 |
 | [Long Way Home](https://open.spotify.com/track/1CzkCBVMW5ZzbwaFbtk4ER) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [Long Way Home](https://open.spotify.com/album/3mXRDtSoMDVNKnJLuKBfP4) | 2:51 | 2021-11-19 | 2022-01-22 |
 | [Look Ma, No Brains!](https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Look Ma, No Brains!](https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb) | 2:03 | 2023-11-03 | 2023-11-18 |
+| [Look What You Do to Me](https://open.spotify.com/track/0ayKEMhZY2mCghqvqoPWEE) | [Isla June](https://open.spotify.com/artist/18ioovgcBQpPVcUdRyGCe0) | [Look What You Do to Me](https://open.spotify.com/album/3Iq0sxKgFdS6Bw0KN0HbaN) | 2:37 | 2023-12-18 |  |
 | [lord](https://open.spotify.com/track/6qChjd3xCRVFylEhH6CJmD) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [Cry Havoc!](https://open.spotify.com/album/6XZpuctNAvmpzxnGfSY2os) | 2:08 | 2022-09-23 | 2022-10-22 |
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-02-17 | 2023-03-25 |
 | [Loser](https://open.spotify.com/track/4bIjq1MRCCNTcsqjgIlZIV) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Cami Petyn](https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39) | [Loser](https://open.spotify.com/album/2RS0pVQ2TYVDkM5HR6N5cY) | 2:35 | 2023-01-27 | 2023-02-25 |

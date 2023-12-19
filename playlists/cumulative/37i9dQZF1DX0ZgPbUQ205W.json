@@ -5878,7 +5878,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 211000,
       "name": "VIII. yearning",
       "url": "https://open.spotify.com/track/2JLAr5J7fP4IsRtx9cLkWN"
@@ -6162,6 +6162,24 @@
       "duration_ms": 258414,
       "name": "What's Life Without You",
       "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
+    },
+    {
+      "album": {
+        "name": "Sugartoes",
+        "url": "https://open.spotify.com/album/0sQpl7ex2p3nPWM8hGPQ2E"
+      },
+      "artists": [
+        {
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254931,
+      "name": "When Stars Were Blue",
+      "url": "https://open.spotify.com/track/756VaNUzSZUYUkgR0zpQ45"
     },
     {
       "album": {

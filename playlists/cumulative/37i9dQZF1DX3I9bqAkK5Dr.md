@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-175 songs - 10 hr 38 min
+176 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Kalle Kalle](https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Kalle Kalle](https://open.spotify.com/album/6ahMugLjsmHEMnE8MGFT6R) | 3:10 | 2023-06-09 |  |
 | [Kannullo Kala \- Manoharam](https://open.spotify.com/track/1GPnihVegNhrL1qbV2WMqh) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Kannullo Kala \(Manoharam\)](https://open.spotify.com/album/0vClCsoWXpytyztm9vWEcs) | 3:44 | 2023-03-22 |  |
 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 | 2023-05-31 |  |
+| [Kashmir](https://open.spotify.com/track/2oXo8C2elci0xz1eDRGeIM) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Kashmir](https://open.spotify.com/album/2PDtBFPJANXt9YROF2As1g) | 6:33 | 2023-12-18 |  |
 | [Khadhhar](https://open.spotify.com/track/6BlFOA7vsaG83IMAbEgkEY) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8) | [Khadhhar](https://open.spotify.com/album/74QC2sAPIRHcHwr6zg8b3z) | 2:43 | 2022-08-10 | 2023-08-06 |
 | [Kilikki \- Tribute to Team Baahubali](https://open.spotify.com/track/6HtynLgYJ1rqwJrWnq8uvu) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve), [Noel Sean](https://open.spotify.com/artist/3J6H27J9iKe2rCvX6YoKSQ) | [Kilikki \(Tribute to Team Baahubali\)](https://open.spotify.com/album/40dSsLJICupldtKyJMMLP5) | 3:20 | 2022-07-18 | 2023-05-23 |
 | [Komali Vasudev](https://open.spotify.com/track/50jK4YEhyOGoDHwYeqZWHC) | [Ishaq vali](https://open.spotify.com/artist/7oATc2KjTVSvRVZ8YKvOGT), [Teju R](https://open.spotify.com/artist/67CmWTS4uKxctqM84CubZV) | [Komali Vasudev](https://open.spotify.com/album/3YamZq9BPe4rwfek4oG7It) | 4:52 | 2023-07-15 | 2023-10-10 |
@@ -72,7 +73,7 @@
 | [London Bridge](https://open.spotify.com/track/1BI8mlQUJIEivinIuLKPkt) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3), [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX) | [London Bridge](https://open.spotify.com/album/5XOL1zvVGNrsQsIPmtZWUL) | 2:05 | 2023-05-18 | 2023-07-04 |
 | [Love Letter](https://open.spotify.com/track/2SxtMJPmfsYCVGbb6LNUhH) | [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Love Letter](https://open.spotify.com/album/4WFqBAoF8CsQjnz7heo2Wm) | 2:22 | 2023-11-16 | 2023-12-02 |
 | [Love Pill](https://open.spotify.com/track/5xOVz87ylswUTTX6vlCPYU) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Love Pill](https://open.spotify.com/album/0qMqSvjKxmDKAOARmiNyub) | 2:40 | 2023-10-06 |  |
-| [Maakkikirkiri](https://open.spotify.com/track/0p5SBWlo2FD8jQFDyqbIGt) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Noel Sean](https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN) | [Maakkikirkiri](https://open.spotify.com/album/7tGakiVZjFCUKw3uh8LUuS) | 5:17 | 2022-07-18 |  |
+| [Maakkikirkiri](https://open.spotify.com/track/0p5SBWlo2FD8jQFDyqbIGt) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Noel Sean](https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN) | [Maakkikirkiri](https://open.spotify.com/album/7tGakiVZjFCUKw3uh8LUuS) | 5:17 | 2022-07-18 | 2023-12-19 |
 | [Madana Mohana](https://open.spotify.com/track/3zgwUXkrvDhdw7Sm5iHTRv) | [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Madana Mohana](https://open.spotify.com/album/4iceg1DMLNXG4vIr8H9Tjq) | 2:56 | 2023-06-22 | 2023-07-11 |
 | [Madhura](https://open.spotify.com/track/5Y6S7V3wyaa8aZtiBpKOUe) | [Vinod Viola](https://open.spotify.com/artist/0ejdZrvlP0GKy8CO5as9WL), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Sai Bhavana Krovvida](https://open.spotify.com/artist/7qWAZBh15FCFhHdijvLkkD) | [Madhura](https://open.spotify.com/album/4ThLPRJ62yZJZM4QndHCGR) | 4:07 | 2023-02-14 | 2023-06-10 |
 | [Malupu](https://open.spotify.com/track/4JfjRekM3nNFpKdAuldWMY) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW) | [Malupu](https://open.spotify.com/album/0BUsiMENGsU9CXXfrSJuAI) | 4:56 | 2022-07-18 | 2023-05-23 |

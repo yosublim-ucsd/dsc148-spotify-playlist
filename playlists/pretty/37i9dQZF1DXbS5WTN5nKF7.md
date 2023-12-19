@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Ofenbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,402 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,479 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [A Thousand Miles](https://open.spotify.com/track/2KI7EiN7PScxiMnkoy2Ljy) | [TimeMachine1985](https://open.spotify.com/artist/2XgfAq6E80cypDmNZ5JXGv), [Beea](https://open.spotify.com/artist/4LLMdJ0ZadFH4PzIdVlrws) | [A Thousand Miles](https://open.spotify.com/album/3wG7wRynmcVriqvBDEkSk4) | 4:26 |
 | 50 | [Je suis fou](https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:46 |
 
-Snapshot ID: `MCwyYTJkOTk4NzYxZmM0NDkxNjE0MjE2NWNmNzkxZjdlODQ1MDYyYmU4`
+Snapshot ID: `MCxhZjVlMjE1OTQyNmM3ZmJkODM3NDhlOTRjNWYwNTk5MDBiOTFjMDQ2`

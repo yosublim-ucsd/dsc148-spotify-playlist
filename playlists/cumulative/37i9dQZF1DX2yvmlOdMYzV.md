@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-580 songs - 1 day 7 hr 51 min
+581 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Blessed](https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Blessed](https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia) | 3:57 | 2021-12-15 | 2023-04-29 |
 | [Blessed](https://open.spotify.com/track/7jrfqHvcRvJluOlCGJU54G) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Blessed](https://open.spotify.com/album/3e55MhiRUpp3FnfkLlr4aH) | 3:08 | 2022-04-07 | 2022-09-30 |
 | [Blind Man](https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Blind Man](https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X) | 4:02 | 2021-12-15 | 2022-04-03 |
-| [Blinded](https://open.spotify.com/track/08MsYh5bzpElk9imPBdbVn) | [Bliu Prince](https://open.spotify.com/artist/6Mbu1OLeIZ5JvbQ4ck0E1M) | [Blinded](https://open.spotify.com/album/3RYHoCuzoAEzj045TF73K9) | 1:52 | 2023-03-24 |  |
+| [Blinded](https://open.spotify.com/track/08MsYh5bzpElk9imPBdbVn) | [Bliu Prince](https://open.spotify.com/artist/6Mbu1OLeIZ5JvbQ4ck0E1M) | [Blinded](https://open.spotify.com/album/3RYHoCuzoAEzj045TF73K9) | 1:52 | 2023-03-24 | 2023-12-19 |
 | [Bodies \- Intro](https://open.spotify.com/track/2Itnx6zp6Ztkex5JnRcy3U) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:01 | 2021-12-15 | 2022-04-07 |
 | [Bound](https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 3:40 | 2022-11-09 | 2023-03-11 |
 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Bound \(with Blood Orange\)](https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX) | 3:40 | 2021-12-15 | 2022-12-01 |
@@ -168,6 +168,7 @@
 | [Flight 99](https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [Flight 99](https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac) | 2:47 | 2021-12-15 | 2022-11-20 |
 | [Flight 99](https://open.spotify.com/track/7iwn9FANtRltiafratcH07) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Flight 99](https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL) | 2:47 | 2022-11-09 | 2023-01-28 |
 | [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-21 |  |
+| [Flow State](https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Flow State](https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE) | 2:32 | 2023-10-20 |  |
 | [Flowers](https://open.spotify.com/track/6g8tNqCUHQsRJhYcGajvh2) | [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Flowers](https://open.spotify.com/album/0CtyUf3Hf0KS0cwOMRWKAf) | 3:25 | 2021-12-15 | 2022-04-21 |
 | [Fly](https://open.spotify.com/track/6yyvtlZtWfMFiFoCYmzzOB) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Fly](https://open.spotify.com/album/36KysvE4Owk5mOVGepYusC) | 3:36 | 2023-11-10 | 2023-11-20 |
 | [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 | 2023-10-06 | 2023-11-11 |

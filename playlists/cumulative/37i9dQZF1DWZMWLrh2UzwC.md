@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: James Arthur
 
-8,720 songs - 19 day 21 hr 51 min
+8,721 songs - 19 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5198,7 +5198,8 @@
 | [Not For Nothing \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Richer Than I Ever Been \(Deluxe\)](https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH) | 3:56 | 2022-01-27 | 2022-02-04 |
 | [not good enough](https://open.spotify.com/track/0TP8ucqf1Nc8ALOaCxzMUx) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Emotions](https://open.spotify.com/album/1BzliMgMIAzl5fotON2A0T) | 2:07 | 2023-12-07 | 2023-12-15 |
 | [Not Like This](https://open.spotify.com/track/4LM1Cgtt3WZmLqvhMpkeOT) | [Chloe Ho](https://open.spotify.com/artist/7byfBlKrHxvaPLNi4BGkq3) | [Not Like This](https://open.spotify.com/album/4WYDii1x91oFxcUJthdvPP) | 4:01 | 2022-02-17 | 2022-02-25 |
-| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-14 |  |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-14 | 2023-12-19 |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-14 |  |
 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-22 | 2022-09-30 |
 | [Not My Style](https://open.spotify.com/track/41VjnGusDkGJLmk8JMik0I) | [Tim De Cotta](https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D), [Mickeyleano](https://open.spotify.com/artist/6F5Rx2IqlhNXoIRLrVb9bH) | [Not My Style](https://open.spotify.com/album/6JaHUSVSDj7LAfLkiEYIMg) | 4:38 | 2022-10-06 | 2022-10-14 |
 | [NOT OK](https://open.spotify.com/track/690KKCzni7cDqy9EWe0rpc) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [NOT OK](https://open.spotify.com/album/0L4T0uAWSFgIPZ0Y3JVKoC) | 4:51 | 2023-10-05 | 2023-10-13 |

@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "No Hay Porqu\u00e9 Esperar",
+        "url": "https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190982,
+      "name": "El Pegao",
+      "url": "https://open.spotify.com/track/6BIJjj0GaPbmDXMTbLG6kt"
+    },
+    {
+      "album": {
         "name": "El Pich\u00f3n",
         "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
       },
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/5KKPgPdbnERMiiQgFw4dJl"
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 271626,
       "name": "Pa'l Bailador",
       "url": "https://open.spotify.com/track/6rsAqgBNLooUcpO060WSv4"
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 168453,
       "name": "Solo Un Cigarrillo",
       "url": "https://open.spotify.com/track/4LhVMfmZ5OQq1dUP778MCq"

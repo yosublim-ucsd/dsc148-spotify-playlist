@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a>
 
-875 songs - 1 day 19 hr 34 min
+876 songs - 1 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [My Favorite Part](https://open.spotify.com/track/1BEZllp0OjYhTiZvY9NTRY) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [My Favorite Part](https://open.spotify.com/album/09kaxWDpX4VlpfYSTLsKHc) | 2:27 | 2021-12-11 | 2022-05-29 |
 | [MY GOD](https://open.spotify.com/track/3krb5j9ZsU8DDNKu3FvfKR) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [MY GOD](https://open.spotify.com/album/3MeHz4YLJCt5aNhbAQxK86) | 3:01 | 2021-12-11 | 2022-04-29 |
 | [MY HAPPY](https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [MY HAPPY](https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A) | 2:56 | 2023-01-27 | 2023-08-26 |
+| [My Joy is My Weapon](https://open.spotify.com/track/5rNv3RUXH4CAznfIrWVB2D) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox) | [UNO](https://open.spotify.com/album/0uknmdyK8A3w9oxHgw2itB) | 3:02 | 2023-12-15 |  |
 | [My Rocket](https://open.spotify.com/track/3fO5jMxUWWCgMuVUKsN46f) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [My Rocket](https://open.spotify.com/album/7kDXljAKu7DP2VWOltgB5i) | 2:05 | 2023-03-25 |  |
 | [my year](https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [AOTY](https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm) | 4:00 | 2022-05-28 | 2023-01-28 |
 | [NAH](https://open.spotify.com/track/1ZD1B2PFcK5reDvjQ0Dffu) | [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH), [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g) | [NAH](https://open.spotify.com/album/7dR0lHi4CFJv1QCDwwv3Lx) | 2:02 | 2022-09-16 | 2022-10-30 |
@@ -554,7 +555,7 @@
 | [On E](https://open.spotify.com/track/5uqL2uoXy0nEWa89wyPn6N) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [On E](https://open.spotify.com/album/4gQCujCBEvRnIQXqBAsMhT) | 2:11 | 2022-09-11 | 2022-10-04 |
 | [On Gang](https://open.spotify.com/track/7n1WvbVPyDlqHy5ts67S4W) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [On Gang](https://open.spotify.com/album/4jNzrBSvSd1Prz4zwb9Cih) | 2:27 | 2022-03-12 | 2022-08-07 |
 | [On Me](https://open.spotify.com/track/3hc5nXLo90dpU99yQOx5Yd) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jenna Wright](https://open.spotify.com/artist/0MtYXfFXzoj83z70TMRRZP) | [Destiny: Vol\. 1](https://open.spotify.com/album/0njnGUwGmixvpHzL01vxxC) | 2:40 | 2021-12-11 | 2022-02-28 |
-| [On My Own](https://open.spotify.com/track/4sbRvjSf9MBMtdTkvHjneL) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0) | [On My Own](https://open.spotify.com/album/5cZ6RmL0JMRTWGiYNmCNuX) | 4:08 | 2023-03-25 |  |
+| [On My Own](https://open.spotify.com/track/4sbRvjSf9MBMtdTkvHjneL) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0) | [On My Own](https://open.spotify.com/album/5cZ6RmL0JMRTWGiYNmCNuX) | 4:08 | 2023-03-25 | 2023-12-19 |
 | [On My Way](https://open.spotify.com/track/0I5dG4YfLKUEa1OsMgkddm) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Seb Camry](https://open.spotify.com/artist/0fpMbgAbLI5z3gEuXuhlTP), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV) | [On My Way](https://open.spotify.com/album/6lNGKykp4NM2cKAwuOxZQ4) | 4:22 | 2022-03-05 | 2022-04-29 |
 | [On Purpose](https://open.spotify.com/track/1wwDJAyCAN3VpXDdYhPwxE) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [On Purpose](https://open.spotify.com/album/1wmHkRGjEc028nM3DbGOq7) | 2:02 | 2022-04-29 | 2022-08-07 |
 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 | 2022-05-28 | 2023-12-16 |

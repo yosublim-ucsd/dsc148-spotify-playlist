@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "15 dias pro fim do ano ein bicho SALVE-SE QUEM PUDER",
+  "description": "se esse ano eu te desagradei pe\u00e7o queCAGUEI E ANDEI",
   "name": "Hits da Internet",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 128503,
       "name": "01 N\u00e3o \u00c9 02",
       "url": "https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 170202,
       "name": "At\u00e9 o Amanhecer - Speed",
       "url": "https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa"
@@ -2725,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Escrito Nas Estrelas",
+        "url": "https://open.spotify.com/album/6aFKkO1gs9wBuianBcrc82"
+      },
+      "artists": [
+        {
+          "name": "Tet\u00ea Esp\u00edndola",
+          "url": "https://open.spotify.com/artist/6cOiaEg6UzuxJPrMV4ceQM"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246674,
+      "name": "Escrito Nas Estrelas",
+      "url": "https://open.spotify.com/track/4EKzX2xQRLuWzCGBcgp3Su"
+    },
+    {
+      "album": {
         "name": "ESSE \u00c9 LADR\u00c3O",
         "url": "https://open.spotify.com/album/5RVAa6VkF8XRN9N6DLTtTF"
       },
@@ -3006,7 +3024,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 117864,
       "name": "Eu Vou Tomar um Tacac\u00e1 - Poze x Joelma",
       "url": "https://open.spotify.com/track/6zVB2lbhbyf5u8Z7FlXma9"
@@ -4380,6 +4398,36 @@
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "album": {
+        "name": "Maria Mariah",
+        "url": "https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1"
+      },
+      "artists": [
+        {
+          "name": "JC NO BEAT",
+          "url": "https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U"
+        },
+        {
+          "name": "DJ F7",
+          "url": "https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd"
+        },
+        {
+          "name": "MC Meno Dani",
+          "url": "https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI"
+        },
+        {
+          "name": "Silva Mc",
+          "url": "https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Maria Mariah",
+      "url": "https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi"
     },
     {
       "album": {
@@ -6900,6 +6948,28 @@
       "duration_ms": 187153,
       "name": "Sou Musa do Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
+    },
+    {
+      "album": {
+        "name": "Alcateia",
+        "url": "https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Subindo e Descendo",
+      "url": "https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg"
     },
     {
       "album": {

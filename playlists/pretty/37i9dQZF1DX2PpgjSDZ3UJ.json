@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21842,
+  "num_followers": 21841,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2VkNzM0ZjhmYWUxNTE5YWI4MzUwOWM2ZmNlMjM2Y2VkN2NlZTZi",
+  "snapshot_id": "MCxlMzY2YWUwMjljNDFlYmZiN2JmYTlhZGQ0NDNjOTZhMWJhZWNmYWJl",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200869,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Puede Ser Mortal",
-        "url": "https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2"
-      },
-      "artists": [
-        {
-          "name": "Feroe",
-          "url": "https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Puede Ser Mortal",
-      "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "My America Is Not Your America",
         "url": "https://open.spotify.com/album/31vbSgrHUqxbqjGfnBUESf"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 306321,
       "name": "My America Is Not Your America",
       "url": "https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Puede Ser Mortal",
+        "url": "https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2"
+      },
+      "artists": [
+        {
+          "name": "Feroe",
+          "url": "https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a"
+        }
+      ],
+      "duration_ms": 254834,
+      "name": "Puede Ser Mortal",
+      "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
     },
     {
       "added_at": "2020-12-01 05:03:00",

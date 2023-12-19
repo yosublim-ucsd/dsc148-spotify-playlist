@@ -2371,6 +2371,36 @@
     },
     {
       "album": {
+        "name": "RTJ4 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6OF22epek0JiHpizYsA9jm"
+      },
+      "artists": [
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "the ground below (feat. Royal Blood) (Royal Jewels Mix)",
+      "url": "https://open.spotify.com/track/51MmpaulaAAEMra1gKbGmc"
+    },
+    {
+      "album": {
         "name": "the ground below (feat. Royal Blood) [Royal Jewels Mix]",
         "url": "https://open.spotify.com/album/5eV8MufOSCcvwS9oCPN4aX"
       },
@@ -2460,7 +2490,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 275973,
       "name": "This Means War!! (feat. Ozzy Osbourne)",
       "url": "https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR"

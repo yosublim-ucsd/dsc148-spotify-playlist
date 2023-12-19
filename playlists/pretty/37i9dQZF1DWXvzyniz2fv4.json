@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 155544,
+  "num_followers": 155569,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDA2YmQ2MzllYzUyY2I4M2E1MGQ0YjlmYWVmNTQyNGJlMzEyOWY1",
+  "snapshot_id": "MCwyMjhhNDY3NzM3OTI5MWQwZmM2MmIzNjg2MGNmMTZhMmU0ZWJiZmVl",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -423,6 +423,30 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Probleminha Di\u00e1rio (Papasessions #7)",
+        "url": "https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        }
+      ],
+      "duration_ms": 245625,
+      "name": "Probleminha Di\u00e1rio (Papasessions #7)",
+      "url": "https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "ORDEM & PROGRESSO",
         "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 231529,
       "name": "Falar de Amor",
       "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Probleminha Di\u00e1rio (Papasessions #7)",
-        "url": "https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        }
-      ],
-      "duration_ms": 245625,
-      "name": "Probleminha Di\u00e1rio (Papasessions #7)",
-      "url": "https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -627,6 +627,26 @@
       "duration_ms": 282666,
       "name": "Ac\u00fastico Altamira #8 - Leonina",
       "url": "https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -759,26 +779,6 @@
       "duration_ms": 123380,
       "name": "Alta Defini\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1539,30 +1539,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "V\u00e1rios Planos",
-        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Hila Campelo",
-          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "V\u00e1rios Planos",
-      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1671,6 +1647,30 @@
       "duration_ms": 172203,
       "name": "Descanso de Tela",
       "url": "https://open.spotify.com/track/6wM0ZuX5eOxmbDPciwt7zb"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "V\u00e1rios Planos",
+        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Hila Campelo",
+          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "V\u00e1rios Planos",
+      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
     },
     {
       "added_at": "2023-12-15 03:01:00",

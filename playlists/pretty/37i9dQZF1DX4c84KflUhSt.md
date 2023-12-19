@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4c84KflUhSt.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,366 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,442 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4c84KflUhSt.md) - [plain]
 | 28 | [The Very Thought Of You](https://open.spotify.com/track/6k3PVeDsILF9UIRokDwh7D) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [A Time For Love](https://open.spotify.com/album/2j4u8cxT6xn17clysMYxI0) | 4:36 |
 | 29 | [This Is All I Ask](https://open.spotify.com/track/5P9guvAyGzysMhzMyADHOQ) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [This Is All I Ask](https://open.spotify.com/album/79cG8xSryuzAlsMAIUVvap) | 3:14 |
 | 30 | [Let the Good Times Roll \(with B.B\. King\)](https://open.spotify.com/track/2Pw5vIumO9PGcvtbHXQ3rZ) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Playin' With My Friends: Bennett Sings The Blues](https://open.spotify.com/album/3x7M1eG03gHfeH4RjNaJ5a) | 3:14 |
-| 31 | [My Foolish Heart](https://open.spotify.com/track/58gR6TOLfgO7oW0IhOWCVS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Complete Fantasy Recordings](https://open.spotify.com/album/0rK5RsYTNgeNGTcJeRR9Pi) | 4:47 |
+| 31 | [My Foolish Heart](https://open.spotify.com/track/6pzUMbFYQPz2qbL6hxoeHY) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Tony Bennett / Bill Evans Album](https://open.spotify.com/album/3aRkeXqWFdxFNumHJe0hDc) | 4:49 |
 | 32 | [Cheek To Cheek](https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:50 |
 | 33 | [Look For the Silver Lining](https://open.spotify.com/track/7aNS9QCpBCDMZfdUPZFNvG) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:36 |
 | 34 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/2FXk3LhwfbziRcCg8Rp0fN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Who Can I Turn To](https://open.spotify.com/album/0o4Cd21kLXMNZKW2k1Y6uV) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4c84KflUhSt.md) - [plain]
 | 49 | [It Had To Be You](https://open.spotify.com/track/7dwEFJGLcO6sQJtw9AxUq4) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [When Lights Are Low](https://open.spotify.com/album/1WT9HorENIY0JeMlb3OqhX) | 3:15 |
 | 50 | [All The Things You Are](https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 4:37 |
 
-Snapshot ID: `MCw0MmE2ZmQzMzBkMDI0NTlhYjViOWQyYzczNGNkYmRjMWNkYWU4OTZi`
+Snapshot ID: `MCxmOWMzZDY1MzQ4MTQzOGE0ZWYwYjhjZWI0MTI0Yjc2MzgxOTgzZmM2`

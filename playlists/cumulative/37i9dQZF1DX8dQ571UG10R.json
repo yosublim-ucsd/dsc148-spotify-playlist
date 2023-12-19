@@ -454,6 +454,24 @@
     {
       "album": {
         "name": "Estilo Ninja",
+        "url": "https://open.spotify.com/album/1UR0J9WLgYQIqbp2JvrU39"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206165,
+      "name": "Estilo Ninja",
+      "url": "https://open.spotify.com/track/051X68OEo3DDJD5Qieu4VX"
+    },
+    {
+      "album": {
+        "name": "Estilo Ninja",
         "url": "https://open.spotify.com/album/1gHHeZFCqtSUUQmJiBYTWO"
       },
       "artists": [
@@ -482,7 +500,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 206165,
       "name": "Estilo Ninja",
       "url": "https://open.spotify.com/track/5gx959g5KMe4E1MPDYoBwN"

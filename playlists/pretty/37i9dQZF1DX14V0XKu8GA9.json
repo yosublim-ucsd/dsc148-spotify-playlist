@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: King Lil G & Young Drummer Boy",
-  "num_followers": 30547,
+  "num_followers": 30584,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmQ2ZjU3NTg5ZWQ5ZmM2YzI0ZTUwZjM5MjVjYjU0NzQzNTQ1ODk4",
+  "snapshot_id": "MCxiZWFkMDAxMTVhZDk5NzE3OGY0Zjc1NTViNWQzOWQ3NDQwNjFjYWFj",
   "tracks": [
     {
       "added_at": "2023-11-23 01:13:56",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3"
-      },
-      "artists": [
-        {
-          "name": "Lil Maru",
-          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
-        }
-      ],
-      "duration_ms": 109274,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -231,18 +215,18 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
+        "name": "Down",
+        "url": "https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3"
       },
       "artists": [
         {
-          "name": "Chito Rana$",
-          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
+          "name": "Lil Maru",
+          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
         }
       ],
-      "duration_ms": 187898,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
+      "duration_ms": 109274,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -319,18 +303,18 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Apologies",
-        "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
       },
       "artists": [
         {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+          "name": "Chito Rana$",
+          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
         }
       ],
-      "duration_ms": 190396,
-      "name": "Apologies",
-      "url": "https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87"
+      "duration_ms": 187898,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -347,6 +331,22 @@
       "duration_ms": 142205,
       "name": "Cowboy Killer",
       "url": "https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Apologies",
+        "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 190396,
+      "name": "Apologies",
+      "url": "https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -443,6 +443,26 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
+        "name": "Chingon (with Peso Peso)",
+        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        }
+      ],
+      "duration_ms": 125930,
+      "name": "Chingon (with Peso Peso)",
+      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
         "name": "Need That",
         "url": "https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 86674,
       "name": "Ran It Up",
       "url": "https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
-        "name": "Chingon (with Peso Peso)",
-        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
-        }
-      ],
-      "duration_ms": 125930,
-      "name": "Chingon (with Peso Peso)",
-      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -575,34 +575,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
-        "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Joe Peshi",
-          "url": "https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        }
-      ],
-      "duration_ms": 187461,
-      "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
-      "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "HorHey",
         "url": "https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW"
       },
@@ -631,6 +603,34 @@
       "duration_ms": 140841,
       "name": "Stop Cry'n",
       "url": "https://open.spotify.com/track/0yf28sQY66U44MITXsz6Fm"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
+        "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Joe Peshi",
+          "url": "https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "duration_ms": 187461,
+      "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
+      "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Props",
-        "url": "https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP"
-      },
-      "artists": [
-        {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        },
-        {
-          "name": "Mah",
-          "url": "https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "Props",
-      "url": "https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 153600,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Props",
+        "url": "https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP"
+      },
+      "artists": [
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        },
+        {
+          "name": "Mah",
+          "url": "https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "Props",
+      "url": "https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k"
     },
     {
       "added_at": "2023-11-23 01:13:56",

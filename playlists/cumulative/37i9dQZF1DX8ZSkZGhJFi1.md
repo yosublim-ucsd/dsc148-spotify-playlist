@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-666 songs - 1 day 3 hr 1 min
+667 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [It's Real](https://open.spotify.com/track/43cvBPKTYdJESkGr9jqmOR) | [Suede Wallet](https://open.spotify.com/artist/2oTCWOKOMia5kg2jep7nKY), [mariussax](https://open.spotify.com/artist/5w7HPDu1t1FSCEfjEm3tKE), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [It's Real](https://open.spotify.com/album/0M6zhqqm3JwLaSr5Amkt55) | 2:30 | 2023-09-08 |  |
 | [Jay](https://open.spotify.com/track/5GEJovN72R9nDWb4xUXk9o) | [Lukrembo](https://open.spotify.com/artist/2mvFGnu3tPO49WSrFZ4zVR) | [Jay](https://open.spotify.com/album/3Iu3hTlA1SEuWkPddLJxb1) | 2:39 | 2023-09-08 |  |
 | [Jazzy Love](https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq) | [Ly Morales](https://open.spotify.com/artist/5m3wWm7LVYul1KOV9sXuA6) | [Follow My Sky](https://open.spotify.com/album/1efGgUHD6q8lU1e4baGgfQ) | 1:57 | 2023-09-08 |  |
-| [Jazzy Vibes](https://open.spotify.com/track/1hsGmd0FaHgH5nQYZzWrX2) | [Hanagoori](https://open.spotify.com/artist/2vRSKTF2P233iIMuhkoO2l) | [Jazzy Vibes](https://open.spotify.com/album/1SVTiqLbbKzXGbY99HKnqB) | 1:58 | 2023-09-08 |  |
+| [Jazzy Vibes](https://open.spotify.com/track/1hsGmd0FaHgH5nQYZzWrX2) | [Hanagoori](https://open.spotify.com/artist/2vRSKTF2P233iIMuhkoO2l) | [Jazzy Vibes](https://open.spotify.com/album/1SVTiqLbbKzXGbY99HKnqB) | 1:58 | 2023-09-08 | 2023-12-19 |
 | [Journey In](https://open.spotify.com/track/4ir4jAGbMUcLpIfRGI77Ir) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 1:36 | 2022-02-17 | 2023-09-09 |
 | [Joy of the harp](https://open.spotify.com/track/0LG0YbowzKhQpJ8o3cKwus) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Joy of the harp](https://open.spotify.com/album/33OZiiXN5TCAl3pyGexD6P) | 2:10 | 2023-09-08 |  |
 | [Jump and Run](https://open.spotify.com/track/7MFQThHWQWeBLUrynWMxWh) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [KRETEK](https://open.spotify.com/artist/1Xvvf9ExdWJYvtXk2F5rVA) | [Jump and Run](https://open.spotify.com/album/120G1tTg76kYPRDFTVMBAu) | 2:50 | 2023-09-22 | 2023-12-10 |
@@ -434,6 +434,7 @@
 | [Plants for free](https://open.spotify.com/track/3wHLlr7Mt7FalYpX2EpogI) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Plants for free](https://open.spotify.com/album/1dJSgO3ATHe6yDQkXa4bWP) | 2:31 | 2023-09-08 |  |
 | [Playing Games](https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Playing Games](https://open.spotify.com/album/13RxZdwcC88Ol3E1pyUO1o) | 2:00 | 2023-09-08 |  |
 | [Pleasant Trip](https://open.spotify.com/track/4Noemyd2YfXLAXLUItJ7Fh) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Pleasant Trip](https://open.spotify.com/album/2slqsS4evjnu3OydgPOKja) | 2:19 | 2023-09-08 |  |
+| [please](https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [please](https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt) | 2:03 | 2023-12-15 |  |
 | [Plump](https://open.spotify.com/track/6xCoZQNLgnJTYuOxbYlqC5) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:09 | 2023-09-08 |  |
 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 | 2022-02-17 | 2023-09-09 |
 | [Principles](https://open.spotify.com/track/0dgAgBQijLtATLnQ9wxjrk) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Eggz Benny](https://open.spotify.com/album/3zuujkBis1epFkensMUnp7) | 2:05 | 2023-09-08 |  |

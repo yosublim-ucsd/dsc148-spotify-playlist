@@ -459,6 +459,32 @@
     },
     {
       "album": {
+        "name": "Banda (From \"Dunki\")",
+        "url": "https://open.spotify.com/album/5RTYb8FGwwgP8TSPegIFpC"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168861,
+      "name": "Banda (From \"Dunki\")",
+      "url": "https://open.spotify.com/track/2kPXVr1Sr8hoCv7g41WCuS"
+    },
+    {
+      "album": {
         "name": "Phir Bhi Dil Hai Hindustani (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV"
       },
@@ -2662,7 +2688,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 408920,
       "name": "Say \"Shava Shava\"",
       "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: MC SQUARE",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Badshah & Uchana Amit ",
   "name": "Hip-Hop Haryanvi",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 189354,
       "name": "BANDEKHANI",
       "url": "https://open.spotify.com/track/0Yly2vTZ58vOK2pbRbTAhx"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 197727,
       "name": "Haryana Flow",
       "url": "https://open.spotify.com/track/6OaC2D3CyPcbhUN4Tunvek"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 376153,
       "name": "HHH - Hip Hop Haryana",
       "url": "https://open.spotify.com/track/4IeV70SlCuHIghIebyAcxE"
@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Jigre",
+        "url": "https://open.spotify.com/album/1ZBZS8SEkciA40OwXKRJ7d"
+      },
+      "artists": [
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "Jigre",
+      "url": "https://open.spotify.com/track/2GJKwk6Npj65gaKyrqTbxL"
+    },
+    {
+      "album": {
         "name": "Kaand",
         "url": "https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs"
       },
@@ -1762,6 +1780,28 @@
       "duration_ms": 211000,
       "name": "KALESHI CHORI",
       "url": "https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e"
+    },
+    {
+      "album": {
+        "name": "Kaley Sheshe",
+        "url": "https://open.spotify.com/album/4gFSkO9sJOpWHwW8MPtyIp"
+      },
+      "artists": [
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        },
+        {
+          "name": "Aniket Jain",
+          "url": "https://open.spotify.com/artist/3CenMXEd3ei2rZZ3k9bWQH"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Kaley Sheshe",
+      "url": "https://open.spotify.com/track/0ZcMt3GYvVkBjdomag59NP"
     },
     {
       "album": {
@@ -2648,7 +2688,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 245647,
       "name": "Rapgod",
       "url": "https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc"

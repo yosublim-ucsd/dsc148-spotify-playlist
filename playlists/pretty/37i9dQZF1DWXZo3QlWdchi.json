@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 295099,
+  "num_followers": 295150,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzBjMDk3MDQyMTg2N2FkN2JlMThlMDE2N2ExNTNhODU2MzdjYWQ3",
+  "snapshot_id": "MCxlYTc3MTE2M2NmZjUxNzJmNjhhYzlkM2MzYWZkODEwYjc5ZmYyYWMy",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "Ironic - Live / Unplugged",
+      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -299,18 +315,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
         }
       ],
-      "duration_ms": 233946,
-      "name": "Ironic - Live / Unplugged",
-      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -327,22 +343,6 @@
       "duration_ms": 212293,
       "name": "Agora S\u00f3 Falta Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 438583,
-      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
-      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Dookie (30th Anniversary 4-Track Demos)",
-        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 187970,
-      "name": "Basket Case - 4-track demo",
-      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 283800,
       "name": "Every Time I Look At You - Live",
       "url": "https://open.spotify.com/track/3LhCtPskSnxOhbcXkS0wXn"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 187970,
+      "name": "Basket Case - 4-track demo",
+      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
+        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 65965,
+      "name": "Welcome To The Sky (Intro) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0FVwOZ7tlwwXSymeRyPfud"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 396968,
       "name": "Sweet Child O' Mine - Acoustic",
       "url": "https://open.spotify.com/track/1Qq7Tq8zZHuelGv9LQE2Yy"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
-        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 65965,
-      "name": "Welcome To The Sky (Intro) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Feel It Still - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 215898,
       "name": "Aposta - Ao Vivo",
       "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Feel It Still - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Tit\u00e3s Trio Ac\u00fastico",
+        "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/27653ZiyisDWx0K25dH2Sa"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Sex on the Beach (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 175000,
       "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
       "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Tit\u00e3s Trio Ac\u00fastico",
-        "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/27653ZiyisDWx0K25dH2Sa"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Tit\u00e3s Trio Ac\u00fastico",
+        "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2qv04G7U63Tzhe0k9Dt2ys"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
         "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
       },
@@ -987,26 +1003,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
-        "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
-      },
-      "artists": [
-        {
-          "name": "Dado Villa-Lobos",
-          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
-        },
-        {
-          "name": "Paulinho Moska",
-          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
-        }
-      ],
-      "duration_ms": 227541,
-      "name": "O Teatro dos Vampiros",
-      "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "With Or Without You (Songs Of Surrender)",
         "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
       },
@@ -1023,22 +1019,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Tit\u00e3s Trio Ac\u00fastico",
-        "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2qv04G7U63Tzhe0k9Dt2ys"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Bad Guy (Acoustic)",
         "url": "https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi"
       },
@@ -1051,6 +1031,42 @@
       "duration_ms": 161589,
       "name": "Bad Guy - Acoustic",
       "url": "https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
+        "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
+      },
+      "artists": [
+        {
+          "name": "Dado Villa-Lobos",
+          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
+        },
+        {
+          "name": "Paulinho Moska",
+          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
+        }
+      ],
+      "duration_ms": 227541,
+      "name": "O Teatro dos Vampiros",
+      "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 242109,
       "name": "Caleidosc\u00f3pio (Ao Vivo)",
       "url": "https://open.spotify.com/track/416HxK0h0JoSI6Qcgf0UMi"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
-        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 190651,
-      "name": "Guerra e Paz - Ac\u00fastico Live",
-      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Outros",
-        "url": "https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0"
-      },
-      "artists": [
-        {
-          "name": "Nenhum De N\u00f3s",
-          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Can\u00e7\u00e3o Da Meia Noite",
-      "url": "https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Shadow Of The Day (Acoustic)",
         "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 198715,
       "name": "Shadow Of The Day - Acoustic",
       "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Outros",
+        "url": "https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0"
+      },
+      "artists": [
+        {
+          "name": "Nenhum De N\u00f3s",
+          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Can\u00e7\u00e3o Da Meia Noite",
+      "url": "https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ"
     },
     {
       "added_at": "2023-10-20 03:01:00",

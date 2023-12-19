@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: Jon Casey & Pauline Herr
 
-319 songs - 17 hr 27 min
+320 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Eternity](https://open.spotify.com/track/1apKTl69lh4dXHcUOZer8l) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Eternity](https://open.spotify.com/album/3zUXUyx9kx2Pp7ANoLtzxV) | 3:01 | 2021-11-19 | 2022-07-29 |
 | [Exhale](https://open.spotify.com/track/06GeXUP9wtq9ERhjx56Blz) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Exhale](https://open.spotify.com/album/3BjVodO25m9rPJPh4siEyY) | 3:08 | 2021-11-19 | 2022-01-13 |
 | [Eyez on Me](https://open.spotify.com/track/2oU690wzSBZGKMbgw0EOe2) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6) | [V!BEZ, Vol\. 4](https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu) | 3:22 | 2021-11-19 | 2022-02-02 |
-| [Fatal Attraction \(feat\. Reese LAFLARE\)](https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 4:30 | 2021-11-19 |  |
+| [Fatal Attraction \(feat\. Reese LAFLARE\)](https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 4:30 | 2021-11-19 | 2023-12-19 |
 | [Feel It \(feat\. Tunji Ige\)](https://open.spotify.com/track/3Vad9kkHv0DZZ0ioJdRrYV) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Good Times Ahead](https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd) | 3:34 | 2022-02-01 |  |
 | [Feel It 2](https://open.spotify.com/track/6VbAz8YPZgIye7oHyyBEK5) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Feel It 2](https://open.spotify.com/album/2LKfw7bBcVhlLuFZrjyuah) | 4:06 | 2023-11-17 |  |
 | [Feel Sumthin](https://open.spotify.com/track/5A14hgy8soE0xFP9HGCJqr) | [Moonbase](https://open.spotify.com/artist/0DlvlPWYR10nLdwQgQn9cp) | [Feel Sumthin](https://open.spotify.com/album/7z7xxLaNyzmirkb21u2ieI) | 3:12 | 2021-12-14 | 2022-01-31 |
@@ -106,6 +106,7 @@
 | [FOOTWORK](https://open.spotify.com/track/1LDAyB24s26kvMt6hXFBks) | [Dropwizz](https://open.spotify.com/artist/3t4Po0hp4Vi8XqKipK3WJQ) | [FOOTWORK](https://open.spotify.com/album/0oi8NQS13uy43aHcy3xSFi) | 3:53 | 2021-11-19 | 2022-02-01 |
 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 | 2022-02-01 |  |
 | [Fresh Outta Japan](https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i) | 1:56 | 2021-11-19 | 2023-12-13 |
+| [Fresh Outta Japan](https://open.spotify.com/track/2IFUmKpBpgGxlPfBqprkmO) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5olSyT5RMcIycGiSB3KPEZ) | 1:56 | 2023-10-27 |  |
 | [Friday Night‬‬‬](https://open.spotify.com/track/78zc6DT7A2ccehmIqef9mT) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [Friday Night](https://open.spotify.com/album/3L7dWkpi2vNPu3qiskT6Yj) | 2:53 | 2022-02-01 | 2022-11-19 |
 | [Fright](https://open.spotify.com/track/61vWNSNihrBo2LvAfipWae) | [Dav the Ninja](https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg) | [In Peace](https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p) | 3:12 | 2021-11-19 | 2022-01-18 |
 | [Front To Back \- Bassnectar Remix](https://open.spotify.com/track/7e0fO3VlPSkbpha0A9olGS) | [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Front To Back \(Bassnectar Remix\)](https://open.spotify.com/album/0ZMQG8fMB38nOh3n7Kyaqv) | 3:08 | 2021-11-19 | 2022-02-03 |

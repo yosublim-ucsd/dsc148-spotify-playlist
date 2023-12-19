@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 243758,
       "name": "Battez-vous",
       "url": "https://open.spotify.com/track/7IlmHApoMCIv39Z5JRZyrk"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 304640,
       "name": "Comment est ta peine ?",
       "url": "https://open.spotify.com/track/19ZitU4vAGoAVYS7V0D2J1"
@@ -484,6 +484,24 @@
       "duration_ms": 239546,
       "name": "D\u00e9jeuner en paix",
       "url": "https://open.spotify.com/track/4QJfrtZEaJ51F1drECpOIe"
+    },
+    {
+      "album": {
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "D\u00e9pass\u00e9",
+      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
     },
     {
       "album": {
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 228346,
       "name": "Respire",
       "url": "https://open.spotify.com/track/2xcuDxTLlp0ro2GYlS1i9G"
@@ -1700,6 +1718,24 @@
       "duration_ms": 232000,
       "name": "Sensualit\u00e9",
       "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+    },
+    {
+      "album": {
+        "name": "Rose des vents",
+        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "Si j'avais su",
+      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
     },
     {
       "album": {
@@ -1866,6 +1902,24 @@
       "duration_ms": 206373,
       "name": "Un homme debout",
       "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
+    },
+    {
+      "album": {
+        "name": "Regarde-moi",
+        "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164567,
+      "name": "Un jour je marierai un ange",
+      "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-229 songs - 12 hr 54 min
+230 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 | 2023-05-17 |  |
 | [Dil Bhara](https://open.spotify.com/track/1FufKIAGNgVJXmvxGih7MI) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4) | [Dil Bhara](https://open.spotify.com/album/18enJ7jL95iojIBGAnZwub) | 2:56 | 2023-09-26 |  |
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-17 |  |
-| [Dil yeh mera](https://open.spotify.com/track/75FFYq4zjscYgpWSLrcj1X) | [Prasad Aalim](https://open.spotify.com/artist/472d15meTJCz0GzJel8SF6) | [Dil yeh mera](https://open.spotify.com/album/13oAQqhmMpDVPGTgDbZsV2) | 4:00 | 2023-06-15 |  |
+| [Dil yeh mera](https://open.spotify.com/track/75FFYq4zjscYgpWSLrcj1X) | [Prasad Aalim](https://open.spotify.com/artist/472d15meTJCz0GzJel8SF6) | [Dil yeh mera](https://open.spotify.com/album/13oAQqhmMpDVPGTgDbZsV2) | 4:00 | 2023-06-15 | 2023-12-19 |
 | [Dilasey \- Stripped](https://open.spotify.com/track/3tBq6098N2lJgn4M1teUFy) | [Raas](https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu), [Sonalika Verma](https://open.spotify.com/artist/6630QOzOF3QYY6BwB3ZFRu) | [Dilasey \(Stripped\)](https://open.spotify.com/album/2INEk8a7RiIvnvL0uZ9D4J) | 3:51 | 2023-06-20 | 2023-07-29 |
 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 | 2023-08-04 |  |
 | [Doobie Do](https://open.spotify.com/track/5VLWcMO2ouunSZP7zmDrz6) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Doobie Do](https://open.spotify.com/album/333sIAKoYJ09tNV3vcpJTz) | 2:42 | 2023-05-26 | 2023-06-15 |
@@ -79,6 +79,7 @@
 | [Ha Bas Tu](https://open.spotify.com/track/2xissAdak6viTlc3dUxKVS) | [Naman Goswami](https://open.spotify.com/artist/07HSVaNPl7nncH7T2yjKNi) | [Ha Bas Tu](https://open.spotify.com/album/7dAis6NusWiJzXuRWUviXS) | 4:22 | 2023-10-09 | 2023-11-30 |
 | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Swasti Nagar](https://open.spotify.com/artist/3IXozjWpOcyeWvfzndjwA4) | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/album/677qn7ZPFnweVzenu7lboo) | 2:37 | 2023-05-17 | 2023-06-03 |
 | [Haseen Zindagi](https://open.spotify.com/track/0SJRKLymM7ElckDuzZyMq9) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haseen Zindagi](https://open.spotify.com/album/6QMhD0MzyqQgaYPXEsnGBB) | 2:39 | 2023-11-15 |  |
+| [Haule Se](https://open.spotify.com/track/0cwluZ190b1ZPXG8jMBhwn) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haule Se](https://open.spotify.com/album/3z3m2MnZZxweHa53fr9pT8) | 2:52 | 2023-12-18 |  |
 | [Heer Ranjha \(Reprise\)](https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Heer Ranjha \(Reprise\)](https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7) | 3:55 | 2023-05-17 |  |
 | [Hold On](https://open.spotify.com/track/3fzr0WQGh0sJEYflCVjyXH) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Starfish](https://open.spotify.com/album/1U83oaOX9s4WfrrzF45shm) | 2:59 | 2023-11-24 |  |
 | [Hum \(Reprise\)](https://open.spotify.com/track/2v9Sln7HcVBqUNc0zXvtbE) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:28 | 2023-08-04 |  |

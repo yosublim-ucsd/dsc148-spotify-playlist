@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-273 songs - 13 hr 1 min
+274 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [295 x2](https://open.spotify.com/track/5H7WUlLsv5wkCrQXpUBExL) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [295 X2](https://open.spotify.com/album/5YUr0cxGAUt1RrOwzOenp8) | 4:27 | 2023-11-07 | 2023-11-16 |
 | [32 Bor](https://open.spotify.com/track/2dc0rGPWK6vA29OfIG64dP) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Mxrci Season, Vol\. 1](https://open.spotify.com/album/6aaKM8CzO2kABbJjPjNUdZ) | 3:06 | 2023-10-19 | 2023-11-08 |
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-03-29 |  |
+| [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 | 2023-12-18 |  |
 | [Adulthood](https://open.spotify.com/track/5D8O2iH92KcvTpHRb691DF) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Adulthood](https://open.spotify.com/album/1vYVjhzmdVzLN6pM8enlFO) | 1:09 | 2023-03-29 | 2023-04-21 |
 | [Ahhi Kuj Khatteya](https://open.spotify.com/track/6prYVb7vpt7o7zx7q2BaYM) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Ahhi Kuj Khatteya](https://open.spotify.com/album/1Stt5cMP16F8sn3bALd4ml) | 2:23 | 2023-04-20 | 2023-05-06 |
 | [Ain’t Too Long](https://open.spotify.com/track/6cy1JX4TAyjfP9BTzqcQ3O) | [Deep Dhaliwal](https://open.spotify.com/artist/49rpuSgVLanEVfk2vuAKEU) | [Ain’t Too Long](https://open.spotify.com/album/0533kPz9WpIAMHF5nW10eT) | 2:54 | 2023-04-20 | 2023-04-28 |
@@ -35,7 +36,7 @@
 | [Badmashi](https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:02 | 2023-06-27 |  |
 | [Balcony](https://open.spotify.com/track/6qDHgeUBJFKYAGPBj3eVD6) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:43 | 2023-03-29 | 2023-07-15 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-29 | 2023-11-08 |
-| [Bandook](https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Bandook](https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO) | 2:54 | 2023-11-24 |  |
+| [Bandook](https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Bandook](https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO) | 2:54 | 2023-11-24 | 2023-12-19 |
 | [BBBB](https://open.spotify.com/track/0BUMpBR4SqkIQNTLV6m0kN) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [BBBB](https://open.spotify.com/album/0sgCrpfFug0BxvOvmrpSv3) | 3:42 | 2023-03-29 |  |
 | [Behja Behja](https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Abbu](https://open.spotify.com/artist/2g8fHIiFYVaCtpilQR5YTv) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:27 | 2023-03-29 |  |
 | [Biodata](https://open.spotify.com/track/71fEHkKiQ5AlOXGkE01Gar) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Biodata](https://open.spotify.com/album/1ZDS6moVwxBS6myglIoPiY) | 2:19 | 2023-12-12 |  |

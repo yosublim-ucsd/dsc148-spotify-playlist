@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SERA, YouNotUs
 
-4,256 songs - 9 day 7 hr 32 min
+4,257 songs - 9 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2622,7 +2622,8 @@
 | [Not Cause I Wanted To](https://open.spotify.com/track/6rDHCMfDbnn3cWmPhea9ef) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Not Cause I Wanted To](https://open.spotify.com/album/6eZygmRQkhCOX8ShR5uXmU) | 3:33 | 2023-04-20 | 2023-04-28 |
 | [Not Coming Down \(feat\. Jae\-Mi\)](https://open.spotify.com/track/4m6AdzOGnAunl8VKNQjqfc) | [GUMMiBEAR](https://open.spotify.com/artist/5hMewFhywS8hP4kcpVYySW), [SAVI](https://open.spotify.com/artist/1H72fTOUAUl0WQ4kH5DPVW), [Jae\-Mi](https://open.spotify.com/artist/2WSnq9dHsoiPV5G90OuBxt) | [Not Coming Down \(feat\. Jae\-Mi\)](https://open.spotify.com/album/2wfLDPM5CpunSaAR9Ayppj) | 2:49 | 2023-07-06 | 2023-07-14 |
 | [Not Like This](https://open.spotify.com/track/4RNamHqD0iRXPqr2NNVJUs) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Not Like This](https://open.spotify.com/album/4tNAMvShlw1tTeIEND9TOm) | 3:26 | 2023-07-13 | 2023-07-21 |
-| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-14 |  |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-14 | 2023-12-19 |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-15 |  |
 | [Not My Problem](https://open.spotify.com/track/5T9nvuhCoWbEif4LHDEfb5) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Not My Problem](https://open.spotify.com/album/1dG7liZlHpToY02fmLtoUQ) | 3:37 | 2023-04-20 | 2023-04-28 |
 | [Not Scared Anymore](https://open.spotify.com/track/55dQwii8sIpOsZqktTfgYN) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Not Scared Anymore](https://open.spotify.com/album/0L5BvSVDRn4NQ2yDgQs4Sv) | 2:49 | 2023-09-07 | 2023-09-15 |
 | [Not So Bad \(Leans Gone Cold\)](https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:18 | 2023-04-06 | 2023-04-14 |
@@ -3891,7 +3892,7 @@
 | [Verstoppertje](https://open.spotify.com/track/1anlPFtoqIqt80I5XVxauQ) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Verstoppertje](https://open.spotify.com/album/2sg26L0cngTtN5yVcSnOPy) | 3:01 | 2023-02-24 | 2023-03-03 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-08-31 | 2023-09-08 |
 | [Verwaterd](https://open.spotify.com/track/5UWsJexTa5VWE51dlv5yqN) | [Gya](https://open.spotify.com/artist/2RVic0iXJQk5wqDXGeRGcq) | [Verwaterd](https://open.spotify.com/album/2BmRm5Kw22GDXuElPjpYXJ) | 2:58 | 2023-03-02 | 2023-03-10 |
-| [Via Via](https://open.spotify.com/track/71cXfWMNxBwSMYGSrPDfzx) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Via via](https://open.spotify.com/album/21QkfqGDiAq5hNv2shTL7w) | 2:11 | 2023-12-14 |  |
+| [Via Via](https://open.spotify.com/track/71cXfWMNxBwSMYGSrPDfzx) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM) | [Via Via](https://open.spotify.com/album/21QkfqGDiAq5hNv2shTL7w) | 2:11 | 2023-12-14 |  |
 | [Vibe](https://open.spotify.com/track/2x5p4UI8timppIAsxOAXxZ) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Vibe](https://open.spotify.com/album/6DIBjtZBgMaFMAzUfljJPc) | 3:22 | 2023-05-19 | 2023-05-26 |
 | [Vibe Like Edie](https://open.spotify.com/track/2ULUJeWJzIwcgnK2eDKrdy) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Bored EP](https://open.spotify.com/album/2ZyPTIUoqtXq8VHzbhWqzC) | 2:39 | 2023-04-27 | 2023-05-05 |
 | [Vibing Solo](https://open.spotify.com/track/79mYVNOGE2wwtJ1ngWJyQk) | [Starfish](https://open.spotify.com/artist/5tBfvKXmV1wEA0t52EjcyF) | [Vibing Solo](https://open.spotify.com/album/5T2gMhFUgvt3lKvfUVyPVU) | 3:19 | 2023-03-09 | 2023-03-18 |

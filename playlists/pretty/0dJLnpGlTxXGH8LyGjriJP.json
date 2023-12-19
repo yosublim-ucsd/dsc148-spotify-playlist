@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "ODgyLDQyNjE5ZWJiOWRiOGVkZjM3YWY3MzA1YWJiZGY5NDhhODQyNTZkZjM=",
+  "snapshot_id": "ODg1LGM4NzA3ODExOTI4Y2QzYmYzNDNiMTczY2FiM2I5ZGY2ODM0ZDk1NjQ=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -13449,34 +13449,6 @@
       "url": "https://open.spotify.com/track/2jvQefVp0l5RO58pSp86bw"
     },
     {
-      "added_at": "2023-12-15 05:02:02",
-      "album": {
-        "name": "Vultures",
-        "url": "https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Bump J",
-          "url": "https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V"
-        }
-      ],
-      "duration_ms": 237534,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
-    },
-    {
       "added_at": "2023-12-15 05:07:24",
       "album": {
         "name": "We Only Talk About Real Shit When We're Fucked Up",
@@ -13635,6 +13607,58 @@
       "duration_ms": 194456,
       "name": "GO",
       "url": "https://open.spotify.com/track/7dnlipXNH2vLvhvTkhWPGq"
+    },
+    {
+      "added_at": "2023-12-18 04:07:27",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160821,
+      "name": "Privileged Rappers",
+      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "added_at": "2023-12-18 05:12:06",
+      "album": {
+        "name": "Vultures",
+        "url": "https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Bump J",
+          "url": "https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

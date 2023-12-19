@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\")",
+        "url": "https://open.spotify.com/album/1uJ2clTZqBBtpINfeG5Yet"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258815,
+      "name": "Fall On Me - From Disney's \"The Nutcracker And The Four Realms\" / English Version",
+      "url": "https://open.spotify.com/track/6eZepRfg201eTOlbire06i"
+    },
+    {
+      "album": {
         "name": "Rockin' Holiday",
         "url": "https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA"
       },
@@ -1580,6 +1602,24 @@
       "duration_ms": 180557,
       "name": "Put the Happy in the Holidays",
       "url": "https://open.spotify.com/track/4xYTkjQuWnG15P2vBoWoL4"
+    },
+    {
+      "album": {
+        "name": "Season's Speedings from Cars Land: Holiday Songs from Mater & Luigi",
+        "url": "https://open.spotify.com/album/3lfUQ49g7aDndmiJ4sCvv4"
+      },
+      "artists": [
+        {
+          "name": "Larry The Cable Guy",
+          "url": "https://open.spotify.com/artist/2iVKGetYUZQElKZKWECyF4"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95806,
+      "name": "Radiator Rockin' Holiday",
+      "url": "https://open.spotify.com/track/74aAZfdIT4EFgB9rAF1tuD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,781 songs - 3 day 7 hr 45 min
+1,783 songs - 3 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-04-20 | 2022-12-04 |
 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 | 2021-05-14 | 2022-07-28 |
 | [Come Autumn](https://open.spotify.com/track/4vKuB6Rup1brmFSmrP3XlN) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Good Harvest](https://open.spotify.com/album/3oLL89HLuYQIIT4Au1zAlN) | 2:42 | 2021-04-21 | 2021-04-22 |
+| [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 | 2023-12-12 |  |
 | [Comfort](https://open.spotify.com/track/6D8Rpm5uM7Ak9W5S7t0VA0) | [Happy People](https://open.spotify.com/artist/4nczWWUv1aBW4lPSV1cj0j) | [Comfort](https://open.spotify.com/album/7auBQwUCqEXn9kSsRZD0As) | 1:58 | 2021-12-17 | 2022-04-21 |
 | [Comforting](https://open.spotify.com/track/7FN1P3fDyiylftF9Sx3me5) | [Albert Riqueti](https://open.spotify.com/artist/3j3HkQcgUlmGeVox1C1Oij) | [Comforting](https://open.spotify.com/album/6MrthS6pbQxWT8K6C5G731) | 2:11 | 2021-03-07 | 2022-06-21 |
 | [Coming Home to Prague](https://open.spotify.com/track/0tZKOhgO2q9FeKMcnGSPW0) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [To Jan](https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I) | 3:15 | 2021-04-28 | 2021-04-29 |
@@ -516,7 +517,7 @@
 | [Field of Joy](https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Field of Joy](https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N) | 3:16 | 2022-12-22 | 2023-02-25 |
 | [Fields](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Fields](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 2:03 | 2021-05-20 | 2022-04-14 |
 | [Fields](https://open.spotify.com/track/60YiyS0YJeSOI3DYcKSVdn) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Fields](https://open.spotify.com/album/6OF6dKWs58XhWlD34KmzS8) | 3:44 | 2021-04-29 | 2022-04-25 |
-| [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-04-15 |  |
+| [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-04-15 | 2023-12-19 |
 | [Fields of Gold](https://open.spotify.com/track/0x7k2hGRMup7V0Fh8nqlFg) | [Gordon Matthew Thomas Sumner](https://open.spotify.com/artist/4d4MQI2dt3yVSJixoVNfgK), [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Fields of Gold](https://open.spotify.com/album/1MSTcPEOnMjUJ2FX7gB2z4) | 3:44 | 2021-12-21 | 2022-07-28 |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-10 |  |
 | [Fields of Rye](https://open.spotify.com/track/2bwnUq3oGta2YSeTPnFCOw) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Fields of Rye](https://open.spotify.com/album/16n1NtIrjhjjhzYyUVvwjz) | 2:37 | 2021-04-24 | 2022-04-17 |
@@ -1328,7 +1329,7 @@
 | [Sides](https://open.spotify.com/track/4ydIU8ZiYsyTkRuqYIMJUG) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:29 | 2021-05-08 | 2022-04-14 |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2021-03-14 | 2022-06-24 |
 | [Silence](https://open.spotify.com/track/4JU1uJZmDZCAJYEZ8MpIjp) | [Musicboxes](https://open.spotify.com/artist/51WLH938s8ZPIHSnoLjj2d) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 3:08 | 2021-04-22 | 2022-04-20 |
-| [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2021-10-02 |  |
+| [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2021-10-02 | 2023-12-19 |
 | [Silent Rain](https://open.spotify.com/track/3HijOHaUfpWWJNEbU0QsHZ) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Silent Rain](https://open.spotify.com/album/71ceTov00b4SL0TiqvzIGy) | 2:19 | 2022-06-08 | 2022-07-24 |
 | [Silent River](https://open.spotify.com/track/4z3xb8dj9OigB5N5Yni8KK) | [The Lagoon](https://open.spotify.com/artist/1lnUDktBx0qwi8Rcya0hkM) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 3:02 | 2021-04-26 | 2022-04-19 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-14 | 2022-08-09 |
@@ -1752,6 +1753,7 @@
 | [Winterwald](https://open.spotify.com/track/2m7XqU0gRlcPasjZCKvp6f) | [Stephan Neudorf](https://open.spotify.com/artist/3LTEyjfC2BYp3WdJhPJjm1) | [Winterwald](https://open.spotify.com/album/5l4elAOnQGnjKJc3sbHCrP) | 2:11 | 2023-04-15 | 2023-05-21 |
 | [Wiosenne Słońce](https://open.spotify.com/track/7C1ndiZUMm99ZzjEhi5szC) | [Salomea Jaworska](https://open.spotify.com/artist/6MpNhFJTxMR6bAyzLAysbY) | [Wiosenne Słońce](https://open.spotify.com/album/1b7F96zmPfcHbxxrgC88zV) | 2:01 | 2021-03-08 | 2022-04-14 |
 | [Wisdom Valley](https://open.spotify.com/track/2yHHq5iNkGv3Vh0mn3GZ0p) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [The Piano Inside](https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO) | 2:28 | 2021-03-14 | 2022-04-16 |
+| [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 | 2023-12-12 |  |
 | [Wish of the Progeny](https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:29 | 2021-04-22 | 2021-04-23 |
 | [Wishful Wanderer](https://open.spotify.com/track/5husUYtd9ElDB9PD4HydC0) | [Echo Whisperer](https://open.spotify.com/artist/7KOsbhLZ2NZUBx6VNOJSjK) | [Spaces EP](https://open.spotify.com/album/6GKOSpGxG4x0G0Bo75pdcW) | 2:54 | 2021-05-06 | 2022-04-09 |
 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 | 2021-05-23 | 2022-04-05 |

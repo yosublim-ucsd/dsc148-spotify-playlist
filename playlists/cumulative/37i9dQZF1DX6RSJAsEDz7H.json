@@ -3033,6 +3033,28 @@
     },
     {
       "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/0rmYmwO3t0M88RsHRkzB7e"
+      },
+      "artists": [
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181423,
+      "name": "SOUTHSIDE",
+      "url": "https://open.spotify.com/track/2wGKFglqnmWQdCqa1GMVIi"
+    },
+    {
+      "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
       },

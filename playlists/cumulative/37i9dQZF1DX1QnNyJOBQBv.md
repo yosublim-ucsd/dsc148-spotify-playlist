@@ -2,7 +2,7 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> Latin pop tracks you need to hear\. Cover: Mike Bahía
+> Latin pop tracks you need to hear\. Cover: Rels B & Kenia OS
 
 413 songs - 21 hr 22 min
 

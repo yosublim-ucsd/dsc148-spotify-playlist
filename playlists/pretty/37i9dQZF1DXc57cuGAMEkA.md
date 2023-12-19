@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。KAROL G, imase, Awich, James Arthur, John Legend and more! Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,336 likes - 54 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,328 likes - 54 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
-| 2 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 |
+| 2 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
 | 3 | [Pendulum](https://open.spotify.com/track/0Hxrdyy6tofETWW10Vn82U) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Pendulum / Kakurembo](https://open.spotify.com/album/62FGMfgpUVoI1PnqW2wcQu) | 3:35 |
 | 4 | [ヒロイン](https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ヒロイン](https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5) | 3:22 |
 | 5 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 53 | [I'm A Star](https://open.spotify.com/track/2Wx3Ed7ufA8v0vcNZCiZLk) | [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM) | [Wish \(Japanese Original Soundtrack\)](https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR) | 2:54 |
 | 54 | [one window](https://open.spotify.com/track/1Gpvx7JZcjUEBm5PlpmHCe) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [one window](https://open.spotify.com/album/1FC4MalP7xTMrwnY0G1aav) | 3:46 |
 
-Snapshot ID: `MCw4MmJlOGZiZmZlYzJkYzUyMGUwMDRjNTU2OTZkYWU0MmYxMDY0ZThm`
+Snapshot ID: `MCw2Njk1YmVjZGFiY2FmMDk0YjMzMTUwYjA5Y2U4ZmVmYzQ2OWJiZmUw`

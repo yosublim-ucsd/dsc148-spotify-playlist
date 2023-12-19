@@ -137,6 +137,32 @@
     },
     {
       "album": {
+        "name": "Anbae (Beloved)",
+        "url": "https://open.spotify.com/album/2OR5oGqpfCiCJAyhRmaQuh"
+      },
+      "artists": [
+        {
+          "name": "Julius Gnanagar",
+          "url": "https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        },
+        {
+          "name": "Morin Sridion",
+          "url": "https://open.spotify.com/artist/7EBlf7e4g9qlddbWXAMvCa"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259726,
+      "name": "Anbae - Beloved",
+      "url": "https://open.spotify.com/track/7D5HnQ5AHm7MuZdnFlSZVs"
+    },
+    {
+      "album": {
         "name": "Anniku Raathiri",
         "url": "https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP"
       },
@@ -3654,6 +3680,24 @@
       "duration_ms": 250578,
       "name": "Vaadi Nenjukulla",
       "url": "https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08"
+    },
+    {
+      "album": {
+        "name": "Vaaichol",
+        "url": "https://open.spotify.com/album/01GjdmCewDOpKZz9qWZxSb"
+      },
+      "artists": [
+        {
+          "name": "Krithika Nelson",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183818,
+      "name": "Vaaichol",
+      "url": "https://open.spotify.com/track/0KFnezn8C0B7cobeFeLsdQ"
     },
     {
       "album": {

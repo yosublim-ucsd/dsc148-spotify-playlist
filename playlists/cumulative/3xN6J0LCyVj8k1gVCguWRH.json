@@ -480,7 +480,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 148400,
       "name": "2:27",
       "url": "https://open.spotify.com/track/4LPdW4U2LJx8jYeDyzgtkx"
@@ -2302,6 +2302,24 @@
       "duration_ms": 238337,
       "name": "All You Need To Know (feat. Calle Lehmann)",
       "url": "https://open.spotify.com/track/4TIkSdsNSfqpuq6ZYvCjAz"
+    },
+    {
+      "album": {
+        "name": "All You Need Tonight",
+        "url": "https://open.spotify.com/album/76HHiatmzpgQdw7dbyEv6C"
+      },
+      "artists": [
+        {
+          "name": "Song Surgery",
+          "url": "https://open.spotify.com/artist/3VVKZzXcxq4fncKPpHA5vt"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219923,
+      "name": "All You Need Tonight",
+      "url": "https://open.spotify.com/track/3LyWaEuQb7yIRVAwkxcDqs"
     },
     {
       "album": {
@@ -8290,7 +8308,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 232500,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/4rX700EH3qpPEkQvUgEdkh"
@@ -11474,7 +11492,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 190045,
       "name": "Debe Ser",
       "url": "https://open.spotify.com/track/65BSk8PhQ5OCbcSUuMy305"
@@ -12068,7 +12086,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 181950,
       "name": "Dime Como Fue",
       "url": "https://open.spotify.com/track/5Afh7b4sSlachlsPf7Q31V"
@@ -17239,6 +17257,24 @@
     },
     {
       "album": {
+        "name": "Un Lugar",
+        "url": "https://open.spotify.com/album/0kmxhIVSlawqdE8JAaL2sJ"
+      },
+      "artists": [
+        {
+          "name": "Pascal Pirita",
+          "url": "https://open.spotify.com/artist/0WgC9CJAK1wJHsFXrv4Qz4"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201744,
+      "name": "FUXIA",
+      "url": "https://open.spotify.com/track/359SZXsa5CJtP0FNVqfzQ3"
+    },
+    {
+      "album": {
         "name": "G",
         "url": "https://open.spotify.com/album/22gXJUPsRW9H6cekQ21XS0"
       },
@@ -17780,7 +17816,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 208085,
       "name": "Ghost Of You",
       "url": "https://open.spotify.com/track/5QepMF5byGCsnBsCVqw8A7"
@@ -20582,7 +20618,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 246246,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0aF6uG5TmGKHdw3npNzoYm"
@@ -45825,6 +45861,24 @@
     },
     {
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/7eZksxRkKIuCEdKNjfEeD4"
+      },
+      "artists": [
+        {
+          "name": "Joshua Thew",
+          "url": "https://open.spotify.com/artist/3BAw5djzZW90BLlWnzf9yv"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232110,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/7JyRnRiLqSP1BxswRLqmlg"
+    },
+    {
+      "album": {
         "name": "Thought Of You",
         "url": "https://open.spotify.com/album/0RNMNzakXS5dDklfZGvtjG"
       },
@@ -47838,7 +47892,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 234180,
       "name": "Undying Love",
       "url": "https://open.spotify.com/track/7CQSXFTh6aEKlpAfsNDd93"
@@ -49406,7 +49460,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 149690,
       "name": "We Can't Be Friends",
       "url": "https://open.spotify.com/track/1WWvQ11CZrDDYzHUSiYMU0"

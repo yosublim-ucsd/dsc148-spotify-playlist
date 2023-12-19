@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Day 2 Nights](https://open.spotify.com/track/7bRu6qrKsJlwbxf04aZiTT) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4HOViEGgltWnwKliaJHX1K) | 2:18 | 2021-06-26 | 2021-09-25 |
-| [100% Pure Love](https://open.spotify.com/track/46id9snGVXnL2aUR5nISKC) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/3ndzUh03qyl9TONYfSspqO) | [100% Pure Love](https://open.spotify.com/album/1YTJKcEfwPsi53BAPu3RXG) | 3:00 | 2022-11-11 |  |
+| [100% Pure Love](https://open.spotify.com/track/46id9snGVXnL2aUR5nISKC) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [100% Pure Love](https://open.spotify.com/album/1YTJKcEfwPsi53BAPu3RXG) | 3:00 | 2022-11-11 |  |
 | [10AM](https://open.spotify.com/track/1MVJ6luasTHUkUC6DdttCO) | [Murtagh](https://open.spotify.com/artist/4cpTlyZCR7ed2g4WG8gUDf) | [9AM / 10AM](https://open.spotify.com/album/0Q1sLR1HbGS10LXAtXhWZ9) | 5:08 | 2019-08-20 | 2020-10-30 |
 | [16 Again](https://open.spotify.com/track/3qrTracLJmTz2XaJDkSiEN) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [16 Again](https://open.spotify.com/album/7x7AQEl511oMbhjVkBc2Lq) | 3:15 | 2023-03-24 |  |
 | [2 Heads](https://open.spotify.com/track/3bi8yEuK44vLcbjHkPH0u1) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [2 Heads](https://open.spotify.com/album/7l6O4yFBhc8t0rs0C3MAcP) | 3:33 | 2019-08-09\* | 2019-08-27 |

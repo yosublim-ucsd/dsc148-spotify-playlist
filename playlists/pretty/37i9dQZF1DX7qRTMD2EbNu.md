@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=I\_2getjJRpygLbICxn8L5Q"> Sarkodie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,842 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,854 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 84 | [Who Say](https://open.spotify.com/track/6AKrORRZr4zljkdZiZx8gn) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [The Teacher](https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY) | 3:12 |
 | 85 | [Finesse](https://open.spotify.com/track/0tVYiZ24VNX1qkneRl9R5C) | [Delis](https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP) | [Finesse](https://open.spotify.com/album/4YJxiU98oIImqFmuqsT0ng) | 1:58 |
 
-Snapshot ID: `MCwwM2VjYmJmYzQ3ZTc3MjFhNjc1MDc0YWM4NzZiOGQ4ZDY3MThiMzdm`
+Snapshot ID: `MCw4MWY2ZjQyNWEwMjRiODNjMjAxMGQ2ZjkwMTkxZjg4MTRjNmI1ZWNh`

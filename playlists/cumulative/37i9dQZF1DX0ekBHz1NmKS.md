@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-891 songs - 1 day 23 hr 2 min
+892 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Betyder ingenting](https://open.spotify.com/track/1oqlZtu7OBwu81conDTu30) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Mattias Andréasson](https://open.spotify.com/artist/0gFk1Wd2yws9WIB6dqaO4b) | [Betyder ingenting](https://open.spotify.com/album/1PF7HO7Smc7raUZY0B03VJ) | 2:29 | 2021-12-16 | 2022-01-10 |
 | [Bigger Than The Universe](https://open.spotify.com/track/2A5qivViPNykdAiRLXrxUF) | [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Bigger Than The Universe](https://open.spotify.com/album/0FLkjiFbRwGs5X2SnII6Oq) | 3:02 | 2022-03-03 | 2022-07-29 |
 | [Bigger Than The Universe](https://open.spotify.com/track/4O1FGUf2xndvsmtMQtHZNp) | [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Bigger Than The Universe](https://open.spotify.com/album/0jnA15McQjMuXilDq9w2BW) | 3:02 | 2022-07-28 | 2022-09-16 |
+| [Birthday](https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ) | [Birthday](https://open.spotify.com/album/7sehUFnd0iMNS5gp07kiXD) | 3:14 | 2023-12-14 |  |
 | [Bleeding](https://open.spotify.com/track/1IN8Lfkdh4t3BBIKNqwBDC) | [Johanna Nordström](https://open.spotify.com/artist/17C52JPayCIXZJwgoAMvj3) | [Bleeding](https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO) | 3:26 | 2022-05-30 | 2023-02-17 |
 | [Blessed](https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Blessed / Black Star](https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO) | 3:11 | 2022-06-02 | 2023-01-15 |
 | [Blicka](https://open.spotify.com/track/2xg7Baa5xTntOAhtbEfI0v) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blicka](https://open.spotify.com/album/5r7UIKuE6SdoivyjvUeC3F) | 2:55 | 2022-03-17 | 2022-07-29 |
@@ -362,7 +363,7 @@
 | [Hundratusen \(feat\. GAMMAL\)](https://open.spotify.com/track/6cla7irIr3I99T63MGaPBR) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Hundratusen \(feat\. GAMMAL\)](https://open.spotify.com/album/2HMz8xfQSrEgVLM5hMeC9R) | 3:39 | 2022-03-04 | 2022-07-28 |
 | [Hungover \(Head In A Can\)](https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Hungover \(Head In A Can\)](https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB) | 3:44 | 2023-02-23 | 2023-04-10 |
 | [Hurt](https://open.spotify.com/track/76hEkLg6onuuxavpw4aqlq) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Hurt](https://open.spotify.com/album/1SEG2kYABTDeOs2WMwxD0d) | 3:10 | 2023-11-23 | 2023-12-08 |
-| [Hälften är rakt från hjärtat](https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Hälften är rakt från hjärtat](https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4) | 2:48 | 2023-08-25 |  |
+| [Hälften är rakt från hjärtat](https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Hälften är rakt från hjärtat](https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4) | 2:48 | 2023-08-25 | 2023-12-19 |
 | [Häntextra](https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Horizon Inn](https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1) | 3:47 | 2023-05-25 | 2023-10-20 |
 | [Här tog det vackra slut](https://open.spotify.com/track/3T6OQHYXf8a0ExKgdF581H) | [Klockrent!](https://open.spotify.com/artist/6XFNM3VxPM64ATHs1EYJn9), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Här tog det vackra slut](https://open.spotify.com/album/4wAsFZpd8dRNU2R5g0VLGO) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Håll käften & kyss mig](https://open.spotify.com/track/35Hsn6Nw8odFT7ujdsr3sA) | [TOM](https://open.spotify.com/artist/0gPruf4W31bIYymey2AwCH) | [Håll käften & kyss mig](https://open.spotify.com/album/73LAHo5UidIZAG3rzX8AIs) | 2:42 | 2023-11-16 |  |

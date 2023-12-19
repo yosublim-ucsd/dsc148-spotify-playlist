@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11403,
+  "num_followers": 11411,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzhlMjQ0OWYyYzE1ODMwMWE0MzRlNjE5OWUxNzVmZmY3YjM5YTQy",
+  "snapshot_id": "MCwzMThhOTJhMGM2MDgxNzNjZWU0ZDljMzg5MmFlYTdiZmM5ZDIwMzIw",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 305007,
-      "name": "Ankle Injuries",
-      "url": "https://open.spotify.com/track/4FnRRY3oEAor3gMEvsuBrp"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Future Days (Remastered Version)",
         "url": "https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 182186,
       "name": "Moonshake",
       "url": "https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 305007,
+      "name": "Ankle Injuries",
+      "url": "https://open.spotify.com/track/4FnRRY3oEAor3gMEvsuBrp"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -429,20 +429,20 @@
       "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
+        "name": "Third",
+        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 253746,
-      "name": "Audition",
-      "url": "https://open.spotify.com/track/0Qm5uQR8XL6QHlsZu53ZF7"
+      "duration_ms": 387786,
+      "name": "We Carry On",
+      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-03-23 21:21:38",
       "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         }
       ],
-      "duration_ms": 387786,
-      "name": "We Carry On",
-      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
+      "duration_ms": 253746,
+      "name": "Audition",
+      "url": "https://open.spotify.com/track/0Qm5uQR8XL6QHlsZu53ZF7"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -559,42 +559,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6llakzoid",
-          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
-        }
-      ],
-      "duration_ms": 434989,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
-        "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Andrea Balency",
-          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
-        }
-      ],
-      "duration_ms": 334979,
-      "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
-      "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -607,6 +571,22 @@
       "duration_ms": 220238,
       "name": "Fluffy Kosmisch",
       "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6llakzoid",
+          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
+        }
+      ],
+      "duration_ms": 434989,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -643,6 +623,26 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
+        "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Andrea Balency",
+          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
+        }
+      ],
+      "duration_ms": 334979,
+      "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
+      "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -659,18 +659,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Codes and Keys",
-        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
         }
       ],
-      "duration_ms": 337346,
-      "name": "Doors Unlocked and Open",
-      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
+      "duration_ms": 346883,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -691,18 +691,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+        "name": "Codes and Keys",
+        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
       },
       "artists": [
         {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 346883,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
+      "duration_ms": 337346,
+      "name": "Doors Unlocked and Open",
+      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
-    },
-    {
       "added_at": "2023-01-25 02:05:47",
       "album": {
         "name": "Blackouts",
@@ -867,6 +851,22 @@
       "duration_ms": 209630,
       "name": "Record Still Spinning",
       "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
-      },
-      "artists": [
-        {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Motoring",
-      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "No Shouts, No Calls",
         "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 295026,
       "name": "To the East",
       "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
+      },
+      "artists": [
+        {
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Motoring",
+      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1273,10 +1273,10 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
-      "added_at": "2023-09-04 19:37:16",
+      "added_at": "2022-03-18 05:36:55",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
       },
       "artists": [
         {
@@ -1284,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
         }
       ],
-      "duration_ms": 310093,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH"
     },
     {
-      "added_at": "2022-03-18 05:36:55",
-      "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Faust IV (Deluxe Edition)",
@@ -1387,6 +1371,22 @@
       "duration_ms": 708813,
       "name": "Krautrock - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
+    },
+    {
+      "added_at": "2023-09-04 19:37:16",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Sandtrommel",
-      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "NEU!",
         "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 587333,
       "name": "Negativland",
       "url": "https://open.spotify.com/track/4IBOCVRedkQ3obCIaTqcxm"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "duration_ms": 386173,
+      "name": "Sandtrommel",
+      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
       "added_at": "2021-07-30 14:56:06",

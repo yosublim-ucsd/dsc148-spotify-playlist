@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > music to show your grandparents this holiday season
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,525 likes - 140 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,635 likes - 140 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 139 | [darkage](https://open.spotify.com/track/2jAGD9wgFRad8RCrUi9dY5) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [darkage/innocence](https://open.spotify.com/album/0zwPSDxKufsPnzATFYneGW) | 3:17 |
 | 140 | [Coat I Would Buy](https://open.spotify.com/track/1dNpt3Aj5T7hpP54GJZaZS) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Coat I Would Buy](https://open.spotify.com/album/5RCYzsjDPZYnQEPtba9roy) | 1:24 |
 
-Snapshot ID: `MCxjMzY0YzVkZWMwMWYxN2FmMGI4ZTY1ZTA2MTc1ZDA2MWYzNWVhYzc0`
+Snapshot ID: `MCw0YzBlMTlkNTlkYjFlNWMyZTM1Y2VmMmNmNzBlNDQwYTM0N2ZhODA1`

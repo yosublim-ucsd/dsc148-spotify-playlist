@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "Alchemist EP",
+        "url": "https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv"
+      },
+      "artists": [
+        {
+          "name": "Makebo",
+          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515120,
+      "name": "Alchemist",
+      "url": "https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee"
+    },
+    {
+      "album": {
         "name": "Alf Leila We Leila Remix",
         "url": "https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ"
       },
@@ -726,7 +748,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 146007,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/33pkvSE2Bh9KHLz7X4fLeS"

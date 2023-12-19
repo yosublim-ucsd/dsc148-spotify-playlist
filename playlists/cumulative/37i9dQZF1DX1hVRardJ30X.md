@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Eladio Carrion
 
-5,853 songs - 12 day 19 hr 49 min
+5,854 songs - 12 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3960,6 +3960,7 @@
 | [Padre Nuestro](https://open.spotify.com/track/4fDWPEB5QiVVIrNxxLxUYe) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Padre Nuestro](https://open.spotify.com/album/6oBmOmQUawgL7QYK4Aca5Z) | 2:20 | 2023-02-24 | 2023-03-04 |
 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 | 2022-06-10 | 2022-06-18 |
 | [PAENAMORAR](https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [PAENAMORAR](https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj) | 2:58 | 2023-10-27 | 2023-11-04 |
+| [Paige](https://open.spotify.com/track/3zZRbZvVs5Cuzn3OsjlulY) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [ECDYSIS](https://open.spotify.com/album/49fHV6gmYe5veZvrjOH0S4) | 3:14 | 2023-12-18 |  |
 | [Pajarito Voló \(feat\. Rubén Blades\)](https://open.spotify.com/track/7tagYr7E5cKqy9IisfhdET) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Guajiro](https://open.spotify.com/album/39yi8H5FEuplfrlaYyDIWb) | 3:51 | 2023-05-12 | 2023-05-20 |
 | [Pajaritos](https://open.spotify.com/track/0CQRTSbC3Rq4UOSaRSabIR) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Pajaritos](https://open.spotify.com/album/0nNveD2S6rEpGlFOwwqnHD) | 2:33 | 2022-07-01 | 2022-07-09 |
 | [Pajaritos](https://open.spotify.com/track/2FvrZtYr7tALXLRiBxaPfn) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [Pajaritos](https://open.spotify.com/album/4Ff50DSqdPxNg0KtnOspjm) | 4:03 | 2022-11-04 | 2022-11-12 |

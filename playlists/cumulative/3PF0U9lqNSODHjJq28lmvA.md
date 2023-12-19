@@ -4,10 +4,11 @@
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-1,683 songs - 4 day 6 hr 30 min
+1,683 songs - 4 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/3MjnG4Xw81GU5JX50srgvz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2WqNxDv6awfT6Il4hiTvDq) | 0:00 | 2023-12-15 |  |
 | [\( Hello //](https://open.spotify.com/track/1nItUiubDwgwaY6M6YWjhV) | [Heavybird](https://open.spotify.com/artist/6gFsYFUAeguHNFVytwIBV1) | [Sigils & Glyphs](https://open.spotify.com/album/6HpPl5POiMV15ITUKeuXAR) | 3:52 | 2022-07-08 | 2022-07-16 |
 | [\(Another\) Dead End](https://open.spotify.com/track/3QG9beKxltczVGrwQWkc1B) | [Messed Up Trio](https://open.spotify.com/artist/7pEjivoOAP6Sd5D3JILem3) | [Behind The Grin](https://open.spotify.com/album/0rphg3sQ1sUP6LUj1kDJj2) | 2:42 | 2022-07-08 | 2022-07-16 |
 | [\(I Just\) Died In Your Arms \- Extended Version](https://open.spotify.com/track/4lsv35mAeaVcrJLQcK6zMV) | [Hertzberg & Funke](https://open.spotify.com/artist/5ji1XXd4srakGMHk5emPQN), [Affas](https://open.spotify.com/artist/49T44frfa247TlfA2sH5SN) | [\( I Just\) Died In Your Arms](https://open.spotify.com/album/5KCqzobG76VBP8od43McJO) | 3:40 | 2023-08-04 | 2023-08-20 |
@@ -865,7 +866,6 @@
 | [Lose Myself](https://open.spotify.com/track/2Caz6nHcRJY0qTm0XgB0Gb) | [Summer Dennis](https://open.spotify.com/artist/4eqQaIbZGkTnXbu3UD7DbE), [Q Parker](https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4) | [Lose Myself](https://open.spotify.com/album/63oR2rPARw2cBXtrmBQqYk) | 3:27 | 2022-08-05 | 2022-08-13 |
 | [Loser](https://open.spotify.com/track/3c5EIzaDY1TKj9AcATwf0I) | [Emma Genta](https://open.spotify.com/artist/2mwJYIhbQClnc3UXZBTn1O) | [Loser](https://open.spotify.com/album/11Kdo9ZfGYZctuWvEPzbXI) | 4:05 | 2022-10-14 | 2022-10-29 |
 | [Losing My Heart](https://open.spotify.com/track/0BcEYoB6TMIFq2B7zCZ7St) | [Francesca e Luigi](https://open.spotify.com/artist/3ykpOvdd78N1JmvpUJr2PP), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Losing My Heart](https://open.spotify.com/album/7a0W7ciS4gk2cCHVU28eWX) | 3:56 | 2022-12-02 | 2022-12-10 |
-| [Losing My Religion \- Mikosonic Remix](https://open.spotify.com/track/3MjnG4Xw81GU5JX50srgvz) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg), [Mikosonic](https://open.spotify.com/artist/1wy0gDq3U3T5dA9Pzay47k) | [Losing My Religion \(Mikosonic Remix\)](https://open.spotify.com/album/2WqNxDv6awfT6Il4hiTvDq) | 3:12 | 2023-12-15 |  |
 | [Lost in Love](https://open.spotify.com/track/2VNibgk2ijioiVZVmgMQAL) | [Spiders On Drugs](https://open.spotify.com/artist/0L1ISkAR88soOflJEb5sLm), [Håkan Järvå](https://open.spotify.com/artist/2F0mCG95oNtmJD11iUHAnX) | [Lost in Love](https://open.spotify.com/album/4luziHN9npiv3aKl2VCAsK) | 3:44 | 2022-06-03 | 2022-06-11 |
 | [Lost in my mind](https://open.spotify.com/track/1LSULrVdFBjVyxWUMErRx5) | [betelgeuse](https://open.spotify.com/artist/4J23dTmgNVrJrt6Y3vCiEY) | [Lost in my mind](https://open.spotify.com/album/6Kk30qWFvNRoffdbroCrG2) | 3:23 | 2022-08-19 | 2022-08-27 |
 | [Lost In The Void](https://open.spotify.com/track/1vD5KlN9fX68zBjXbFhdZO) | [Voltage Twins](https://open.spotify.com/artist/421caTWfbo8iRNUQzfdlPu) | [Lost In The Void](https://open.spotify.com/album/3KPpFUY8EPUBDhlxLC6UwN) | 3:59 | 2023-06-02 | 2023-06-17 |

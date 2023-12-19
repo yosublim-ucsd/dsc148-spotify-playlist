@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-86 songs - 5 hr 53 min
+87 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Então Se Afogue](https://open.spotify.com/track/0TAPQcswcOefou6pXSKjjG) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Se Afogue](https://open.spotify.com/album/6H4led0139AUtgarjmkhvs) | 5:04 | 2023-11-10 |  |
 | [Então Se Afogue](https://open.spotify.com/track/65vQE4uU8Vl7qH5pB8lwRN) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Se Afogue](https://open.spotify.com/album/341vwbxFVT1gzohGXxwET9) | 5:04 | 2022-05-27 | 2023-12-18 |
 | [Esse é o melhor Rap do Levi](https://open.spotify.com/track/0TIL1uiTx69oaBUOSZZBXS) | [Byakuran](https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR) | [Esse é o melhor Rap do Levi](https://open.spotify.com/album/27MB9kSbxFtNMFsR4pqyDF) | 2:43 | 2022-02-22 |  |
+| [Estilo Ninja](https://open.spotify.com/track/051X68OEo3DDJD5Qieu4VX) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/1UR0J9WLgYQIqbp2JvrU39) | 3:26 | 2023-11-10 |  |
 | [Estilo Ninja](https://open.spotify.com/track/4s26Od5JQ2hhsTM3yhTeX0) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/1gHHeZFCqtSUUQmJiBYTWO) | 3:26 | 2022-02-22 | 2022-11-12 |
-| [Estilo Ninja](https://open.spotify.com/track/5gx959g5KMe4E1MPDYoBwN) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/5oRTrJ28ZEkRLckMsbvtV6) | 3:26 | 2022-05-27 |  |
+| [Estilo Ninja](https://open.spotify.com/track/5gx959g5KMe4E1MPDYoBwN) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/5oRTrJ28ZEkRLckMsbvtV6) | 3:26 | 2022-05-27 | 2023-12-19 |
 | [Eu tô viajando](https://open.spotify.com/track/1TNHMVG6nuM1ZkmpsUT3rq) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Eu tô viajando](https://open.spotify.com/album/5arN4faBxWMvV9RroZAh8l) | 2:48 | 2023-09-29 |  |
 | [Homem Aranha 2099](https://open.spotify.com/track/7oXLXGVe9NCtKTLLt1m74F) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Homem Aranha 2099](https://open.spotify.com/album/4nqeJtuIcFncsXgIdb9gIg) | 4:04 | 2023-07-07 |  |
 | [Ira do Imperador](https://open.spotify.com/track/3mIDmzWZ0j6YCTmfx9HeZv) | [WLO Raps](https://open.spotify.com/artist/5mK0ia4fsBwPubjA05Zg4p) | [Ira do Imperador](https://open.spotify.com/album/17fPIDlmeA81BVhfy2PJeT) | 4:49 | 2023-07-07 | 2023-09-30 |

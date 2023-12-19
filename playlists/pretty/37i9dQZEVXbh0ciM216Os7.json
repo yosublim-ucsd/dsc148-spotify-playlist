@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNzY5NDAsMDAwMDAwMDAxZTYyYjZhYzU5ZGQ2YmE2ZmIxYTAzOWQ5OTgyY2MzNQ==",
+  "snapshot_id": "MjgzNzY5NDAsMDAwMDAwMDA4OGZmZGE4NmVhMDUyZmNiMzUzNGVhODllYzYzMzc0Ng==",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -27,6 +27,22 @@
       "duration_ms": 180869,
       "name": "Everybody (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/0mAf9TNr3a2jIHsq2PIagH"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Mr. McAdams",
+        "url": "https://open.spotify.com/album/3tH2swD8wrxdLNNdCZXPuV"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        }
+      ],
+      "duration_ms": 156101,
+      "name": "Mr. McAdams",
+      "url": "https://open.spotify.com/track/5FiQzAsVrrzuPGdGZmFLtO"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -59,18 +75,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mr. McAdams",
-        "url": "https://open.spotify.com/album/3tH2swD8wrxdLNNdCZXPuV"
+        "name": "Bompton King",
+        "url": "https://open.spotify.com/album/5JcuCQYe7nKmotYeUVcYDd"
       },
       "artists": [
         {
-          "name": "Lil Dicky",
-          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+          "name": "YG Hootie",
+          "url": "https://open.spotify.com/artist/0AtWMBis5Rh02sFv4LgXtP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 156101,
-      "name": "Mr. McAdams",
-      "url": "https://open.spotify.com/track/5FiQzAsVrrzuPGdGZmFLtO"
+      "duration_ms": 195623,
+      "name": "Kali Love (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/0D3Myb8AY4siH5migv1lDg"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -95,22 +115,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Bompton King",
-        "url": "https://open.spotify.com/album/5JcuCQYe7nKmotYeUVcYDd"
+        "name": "RUN (Damian \"Jr. Gong\" Marley Version)",
+        "url": "https://open.spotify.com/album/06kl5Xeo05QdbODQFWX4ZD"
       },
       "artists": [
         {
-          "name": "YG Hootie",
-          "url": "https://open.spotify.com/artist/0AtWMBis5Rh02sFv4LgXtP"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
-      "duration_ms": 195623,
-      "name": "Kali Love (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/0D3Myb8AY4siH5migv1lDg"
+      "duration_ms": 268936,
+      "name": "RUN - Damian \"Jr. Gong\" Marley Version",
+      "url": "https://open.spotify.com/track/6OmaDOVCWQfy69DSayk9dZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -131,26 +151,6 @@
       "duration_ms": 133439,
       "name": "Cold Blues",
       "url": "https://open.spotify.com/track/7GZuQd0akFReO6PnauEKIf"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "RUN (Damian \"Jr. Gong\" Marley Version)",
-        "url": "https://open.spotify.com/album/06kl5Xeo05QdbODQFWX4ZD"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 268936,
-      "name": "RUN - Damian \"Jr. Gong\" Marley Version",
-      "url": "https://open.spotify.com/track/6OmaDOVCWQfy69DSayk9dZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -339,6 +339,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "CHRYSALIS",
+        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "COMPANY",
+      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Life's a Sugar Pill",
+        "url": "https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 185295,
+      "name": "Baptism",
+      "url": "https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "MIXTAPE",
         "url": "https://open.spotify.com/album/5ZVJeaPPCvFA7M1JWTSJC6"
       },
@@ -363,38 +395,6 @@
       "duration_ms": 353988,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/6uetdGxAM7pLGfe3e8J5JP"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Life's a Sugar Pill",
-        "url": "https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 185295,
-      "name": "Baptism",
-      "url": "https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "CHRYSALIS",
-        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "COMPANY",
-      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "One Word",
-        "url": "https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe"
-      },
-      "artists": [
-        {
-          "name": "Persefone",
-          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
-        }
-      ],
-      "duration_ms": 357924,
-      "name": "One Word",
-      "url": "https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Facing The Sideways Rain",
         "url": "https://open.spotify.com/album/5HBMgTLkTcuqtbcdO9Oszx"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 342597,
       "name": "Facing The Sideways Rain",
       "url": "https://open.spotify.com/track/6ERGlzfgM0WRpvgraiXbdU"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "One Word",
+        "url": "https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe"
+      },
+      "artists": [
+        {
+          "name": "Persefone",
+          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
+        }
+      ],
+      "duration_ms": 357924,
+      "name": "One Word",
+      "url": "https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc"
     },
     {
       "added_at": "2023-12-15 05:00:00",

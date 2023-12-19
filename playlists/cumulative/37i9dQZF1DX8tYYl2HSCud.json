@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A World Away",
+        "url": "https://open.spotify.com/album/0QYPZ8iuY45cLrq3oFGMJG"
+      },
+      "artists": [
+        {
+          "name": "Kaleido Young",
+          "url": "https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140628,
+      "name": "A World Away",
+      "url": "https://open.spotify.com/track/2q2BfGBehYrqv7SHkqzldR"
+    },
+    {
+      "album": {
         "name": "Aerial",
         "url": "https://open.spotify.com/album/2dIn22xee7AGSCWqeXBTNb"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 166406,
       "name": "Already Missing Summer",
       "url": "https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 154503,
       "name": "Delight",
       "url": "https://open.spotify.com/track/4ile3dwVErqEJSYB45DcuZ"
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 169026,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/6cCNmMLYxUncHjPqL9LaqT"
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 195874,
       "name": "Kaikoura",
       "url": "https://open.spotify.com/track/6VbbLSIgEMklrpKjdhwtpF"
@@ -2738,6 +2756,42 @@
       "duration_ms": 176698,
       "name": "Straight Ahead",
       "url": "https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb"
+    },
+    {
+      "album": {
+        "name": "Strimma Av Ljus",
+        "url": "https://open.spotify.com/album/4ykBdrD3QHO0b2M07HkCi8"
+      },
+      "artists": [
+        {
+          "name": "Erelin Hjerta",
+          "url": "https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Strimma Av Ljus",
+      "url": "https://open.spotify.com/track/3WkfqM4Xdt6Hq2WjoZf8bf"
+    },
+    {
+      "album": {
+        "name": "Stundtals",
+        "url": "https://open.spotify.com/album/0s0XQEm1Sqa4PJc06Hv0pR"
+      },
+      "artists": [
+        {
+          "name": "Maja Vang",
+          "url": "https://open.spotify.com/artist/3bbpr6K017bEFjyDUCNMkQ"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Stundtals",
+      "url": "https://open.spotify.com/track/1PqHlGhw8e7fcLN3Q6bPVp"
     },
     {
       "album": {

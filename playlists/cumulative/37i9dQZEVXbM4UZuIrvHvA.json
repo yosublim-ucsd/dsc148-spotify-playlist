@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 238153,
       "name": "Arab Bricks",
       "url": "https://open.spotify.com/track/6zL7sXQy6zInyS6DEKwjfW"
@@ -5170,6 +5170,24 @@
       "duration_ms": 139080,
       "name": "Demon",
       "url": "https://open.spotify.com/track/3tHqq6OkppBKkzqBaxD2D4"
+    },
+    {
+      "album": {
+        "name": "Demon Talk (Freestyle)",
+        "url": "https://open.spotify.com/album/1LqwtXA3rtAaWL3jJvWLmk"
+      },
+      "artists": [
+        {
+          "name": "Siles Hendrix",
+          "url": "https://open.spotify.com/artist/5Kudv14Kk5GmrPOTEg2PII"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172788,
+      "name": "Demon Talk - Freestyle",
+      "url": "https://open.spotify.com/track/7FGtTmhabQnMQSVIoUegS2"
     },
     {
       "album": {
@@ -9620,7 +9638,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -22218,7 +22236,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 216214,
       "name": "Unakku Thaan - From \"Chithha\"",
       "url": "https://open.spotify.com/track/4H1FLy4H7nS9wy9gg9JeFQ"

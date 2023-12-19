@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > A playlist showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Hovvdy
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 8,655 likes - 80 songs - 4 hr 55 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 8,654 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-704 songs - 1 day 16 hr 2 min
+706 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Ahkelak](https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Ahkelak](https://open.spotify.com/album/30DzaAannug4aragLVhSMA) | 3:16 | 2022-03-18 | 2022-07-15 |
 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 | 2021-12-23 | 2022-02-18 |
 | [Ahla Youm](https://open.spotify.com/track/4klTJvLlyWcr5nt91rZzSu) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ahla Youm](https://open.spotify.com/album/0enk0vJ9ab11zEJVddWyqH) | 2:01 | 2022-04-07 | 2022-08-09 |
-| [Akeed Rag3een](https://open.spotify.com/track/57rKoQpUb3WBqYLsrGv7Hq) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Akeed Rag3een](https://open.spotify.com/album/1aGnFCLksB3cDWpkd6c6Wp) | 2:27 | 2023-08-28 |  |
+| [Akeed Rag3een](https://open.spotify.com/track/57rKoQpUb3WBqYLsrGv7Hq) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Akeed Rag3een](https://open.spotify.com/album/1aGnFCLksB3cDWpkd6c6Wp) | 2:27 | 2023-08-28 | 2023-12-19 |
 | [Akher Esdar](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Akher Esdar](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 | 2023-05-11 | 2023-06-27 |
 | [Aktar Mn El Sekout](https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Aktar Mn El Sekout](https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9) | 3:56 | 2022-08-03 | 2022-10-21 |
 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 | 2021-12-23 | 2022-03-10 |
@@ -59,6 +59,7 @@
 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 | 2022-01-10 | 2022-03-18 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-25 | 2022-11-18 |
 | [Amleen Gamdeen](https://open.spotify.com/track/5riqOQoEZ5Z0KwrNNKdhPQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Amleen Gamdeen](https://open.spotify.com/album/0wThwaKwsCl1LerBs9ltpt) | 1:59 | 2022-05-01 | 2022-08-10 |
+| [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/track/7CSHoZLRbZNdWXgDfjNTF1) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/album/0IP0IYOCbbIeelfyFfBRWl) | 3:22 | 2023-12-18 |  |
 | [Amoot Ana](https://open.spotify.com/track/0y3Rbo2bkvCMinQkjdaG0O) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Amoot Ana](https://open.spotify.com/album/2I0r0p4ri7aCkei8SgeEwQ) | 2:55 | 2022-11-03 | 2023-01-20 |
 | [An El Awan](https://open.spotify.com/track/1iUN70RBPfcqbT1PbohVuS) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [An El Awan](https://open.spotify.com/album/7ILydBC9TthOU5Y42EhPZk) | 3:38 | 2021-12-23 | 2021-12-30 |
 | [Ana Be Touly](https://open.spotify.com/track/3vnaFVNsC059Iiu5QDZ6Ms) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [Ana Be Touly](https://open.spotify.com/album/2snYyolbPLnvsU2VNHyA3F) | 3:44 | 2023-03-07 | 2023-05-06 |
@@ -429,6 +430,7 @@
 | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/track/1WwGDWDEdyUR5fKANFTxUY) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE), [Kareem Saleh](https://open.spotify.com/artist/4qe6Wv1Cjj0LyU0eWdde0Q) | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/album/6la9EzGFogBTcjm88alqTA) | 2:18 | 2022-04-07 | 2022-05-22 |
 | [Sha2lebty Routiny](https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Sha2lebty Routiny](https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6) | 2:41 | 2023-09-29 |  |
 | [Shakshaka](https://open.spotify.com/track/5Eq09G3fJGaKeWDPq1CeH9) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Shakshaka](https://open.spotify.com/album/5hdm0gJYmtCnQYd0gzOu4G) | 2:33 | 2021-12-23 | 2022-03-10 |
+| [SHAMROUKH](https://open.spotify.com/track/6Ko6eF0dtw3v8Ab1GAe5J3) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1) | [SHAMROUKH](https://open.spotify.com/album/286nUW47JR4xHHeCUD2WSf) | 2:02 | 2023-12-18 |  |
 | [Shiekh El Arab](https://open.spotify.com/track/1t6TBaFGvaPxWlF7eC83QT) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Shiekh El Arab](https://open.spotify.com/album/1GkhRERlHRAGdMgaxEdMmJ) | 3:47 | 2023-08-17 | 2023-08-29 |
 | [Shokr Khas](https://open.spotify.com/track/1umEMxmOa7hn6XGjqggQ4q) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Shokr Khas](https://open.spotify.com/album/6SWL7U28mMRQOMsJSEGF2C) | 3:34 | 2023-02-23 | 2023-02-26 |
 | [Shokr Khass](https://open.spotify.com/track/0FOTnJSU5WXqupjBFewO8n) | [Wael Mansour](https://open.spotify.com/artist/3o9cmFe3RJJ4e8zwmvLinA) | [Shokr Khass](https://open.spotify.com/album/1cthAvjELurzGtnIs37Llg) | 2:28 | 2023-07-12 | 2023-07-28 |
@@ -593,7 +595,7 @@
 | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/track/0UDDU3BpxRA9tuXvXXp8hY) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/album/68OVb1DYVsSjAbAVCl03SW) | 3:30 | 2023-09-07 |  |
 | [حمد الله على السلامة](https://open.spotify.com/track/2iKkj34fFU0fiQQm2HPuEx) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [حمد الله على السلامة](https://open.spotify.com/album/6otpGoLEbwlOE4Zm5UZmtv) | 2:55 | 2023-03-27 | 2023-05-12 |
 | [خد يمين](https://open.spotify.com/track/5DMnksJ5Fnl6sH1Df3NvPU) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [خد يمين](https://open.spotify.com/album/6rVush4kEXOUcvcFJU6Wbj) | 1:03 | 2023-08-30 | 2023-12-15 |
-| [خدت بالاسباب](https://open.spotify.com/track/762M3diVKh0EKm7AbCSBna) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [خدت بالاسباب](https://open.spotify.com/album/78uUlxEAp2KfExHFo3JGRe) | 3:18 | 2023-08-28 |  |
+| [خدت بالاسباب](https://open.spotify.com/track/762M3diVKh0EKm7AbCSBna) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [خدت بالاسباب](https://open.spotify.com/album/78uUlxEAp2KfExHFo3JGRe) | 3:18 | 2023-08-28 | 2023-12-19 |
 | [خطير يا أخوانا](https://open.spotify.com/track/1cfFsCfABOXS6QXEZ8oCHl) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0), [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [خطير يا أخوانا](https://open.spotify.com/album/5Z3VmUZ2YRl1vwMUpJ3y9v) | 2:41 | 2023-09-19 | 2023-09-21 |
 | [خليني](https://open.spotify.com/track/6fO7U0lirfa5kcgJngHqA8) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [خليني](https://open.spotify.com/album/5fE5KlF2945Q1Vm2sQXOuU) | 3:12 | 2023-03-02 | 2023-05-05 |
 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 | 2023-02-14 | 2023-03-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Lycinaïs Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,105 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,145 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Nouvo Mood](https://open.spotify.com/track/0yHyEuO6sXnuJghlnro7Fl) | [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Nouvo Mood](https://open.spotify.com/album/10fFzO2zWNOQZ8YFSu5jtK) | 2:01 |
 | 40 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
 
-Snapshot ID: `MCw2ZTkyNDQ0Yjc4Nzk2YjZhOTdjMDgyNWI5MTg5MWE0MDcwNzk4NjZj`
+Snapshot ID: `MCw5ZTdhZGFjZTQyNGZiODA0NzcxYWUzNTc0YjUyNmM0MTdkYTNjZGIx`

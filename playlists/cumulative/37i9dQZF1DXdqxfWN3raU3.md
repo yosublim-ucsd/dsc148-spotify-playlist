@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B hecho en español\. Latin Mafia y Humbe en portada.
 
-308 songs - 16 hr 13 min
+309 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [AFTER LIFE](https://open.spotify.com/track/2uHw8t8dMkKs7zEeCb5GC6) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj), [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [AFTER LIFE](https://open.spotify.com/album/0eUknYuCMoW1GyQP3Cl0rA) | 3:37 | 2023-07-07 | 2023-08-20 |
 | [Aifon](https://open.spotify.com/track/3Ok5HfWRL3CssQVJho7ejp) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Aifon](https://open.spotify.com/album/0THoSCtMZks6QyVY1QqCTk) | 2:58 | 2022-11-25 | 2023-01-27 |
 | [Aire.](https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB) | [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Si yo sé hablar es por ti](https://open.spotify.com/album/3SWn0kBDOKFxwYHB2JUTEe) | 3:48 | 2023-10-20 | 2023-11-18 |
-| [Al Revés](https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8) | [FERCHO](https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU) | [Al Revés](https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR) | 2:18 | 2023-03-03 |  |
+| [Al Revés](https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8) | [FERCHO](https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU) | [Al Revés](https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR) | 2:18 | 2023-03-03 | 2023-12-19 |
 | [Always In My Heart](https://open.spotify.com/track/2Z7Mn5AnCw6s5pdAqLpfeT) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Always In My Heart](https://open.spotify.com/album/6OBV3YXcqe4ukv5fglXiIH) | 3:35 | 2021-12-13 | 2022-01-29 |
 | [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 | 2021-12-13 |  |
 | [antes que sea tarde](https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [antes que sea tarde](https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ) | 2:48 | 2023-07-14 |  |
@@ -197,6 +197,7 @@
 | [Nervios de Acero](https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Nervios de Acero](https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2) | 3:07 | 2023-11-24 |  |
 | [Nico Valdi produciendo a Juli Martorell](https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Juli Martorell](https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV) | [Nico Valdi produciendo a Juli Martorell](https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS) | 2:44 | 2023-03-17 |  |
 | [Niebla](https://open.spotify.com/track/1sBW6oqy3NzQ5VFWuvL3u6) | [Emporio](https://open.spotify.com/artist/67rfT6Gea3omy1Ksii2J88), [MOL](https://open.spotify.com/artist/0kcjwgqgT7QdNONFwVgQQX), [Yung Bruno](https://open.spotify.com/artist/2Yekv6cj8wteQT7yLwEbSG) | [Niebla](https://open.spotify.com/album/3u26C5eFglqaZhmwpKsE8t) | 2:12 | 2023-05-19 | 2023-06-09 |
+| [NINA](https://open.spotify.com/track/1TByEjVxNgxuhYE27PokOf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/3X5avTBhMfVYYyrUeX385j) | 4:59 | 2023-12-15 |  |
 | [NINA](https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv) | 4:59 | 2023-06-23 | 2023-12-14 |
 | [Niña](https://open.spotify.com/track/263J9UiWULqwwb4Q3MAXjt) | [Alberdi](https://open.spotify.com/artist/0zO7bdIGAHVCPq2rjQKhoK), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [Niña](https://open.spotify.com/album/3avY0Zpi67xBly3qw9RTrf) | 2:30 | 2023-05-19 | 2023-06-19 |
 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 | 2021-12-13 | 2023-01-27 |

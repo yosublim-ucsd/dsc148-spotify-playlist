@@ -854,7 +854,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 235964,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 161333,
       "name": "Nadiya Bairi Bhayi",
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-19",
       "duration_ms": 112750,
       "name": "Uljhe Hue - From \"Uljhe Hue\"",
       "url": "https://open.spotify.com/track/0tEAGQTo2PXnWFKn99x0a7"
@@ -3078,6 +3078,24 @@
       "duration_ms": 194000,
       "name": "Yeh Jo Zindagi",
       "url": "https://open.spotify.com/track/6xysS6CPs8ERZ7uAtaEGVI"
+    },
+    {
+      "album": {
+        "name": "Hindi Gaane",
+        "url": "https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Zakir",
+      "url": "https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO"
     },
     {
       "album": {

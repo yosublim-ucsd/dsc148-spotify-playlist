@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 128302,
+  "num_followers": 128364,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz",
+  "snapshot_id": "MCwzMWY3YWE4MjYxNDVlZWU5NzFkNWE2NWViY2ZjZTBlNjIyZWE3ZWQ2",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "Pleasure Seeker",
-      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "After The Storm",
         "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 285466,
       "name": "That's The Way Love Goes",
       "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "Pleasure Seeker",
+      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A Gift For Tomorrow",
-        "url": "https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo"
-      },
-      "artists": [
-        {
-          "name": "Joe McBride",
-          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
-        }
-      ],
-      "duration_ms": 307360,
-      "name": "Walking In Rhythm",
-      "url": "https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Color Rit (Remastered)",
         "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 256173,
       "name": "I Can\u2019t Let Go - Remastered",
       "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "A Gift For Tomorrow",
+        "url": "https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo"
+      },
+      "artists": [
+        {
+          "name": "Joe McBride",
+          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+        }
+      ],
+      "duration_ms": 307360,
+      "name": "Walking In Rhythm",
+      "url": "https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Love Is The Answer (Expanded)",
         "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 314333,
       "name": "Do You Feel What I'm Feeling?",
       "url": "https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -635,18 +635,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Classical Soul",
-        "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
       },
       "artists": [
         {
-          "name": "Marc Antoine",
-          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
         }
       ],
-      "duration_ms": 308400,
-      "name": "Follow Your Bliss",
-      "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
+      "duration_ms": 320973,
+      "name": "I Just Can't Stop Thinking About You",
+      "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -667,18 +667,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
+        "name": "Classical Soul",
+        "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
       },
       "artists": [
         {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+          "name": "Marc Antoine",
+          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
         }
       ],
-      "duration_ms": 320973,
-      "name": "I Just Can't Stop Thinking About You",
-      "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
+      "duration_ms": 308400,
+      "name": "Follow Your Bliss",
+      "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -699,18 +699,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "First View",
-        "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
       },
       "artists": [
         {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
         }
       ],
-      "duration_ms": 326933,
-      "name": "West End",
-      "url": "https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg"
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -731,18 +731,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+        "name": "First View",
+        "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
       },
       "artists": [
         {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
         }
       ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
+      "duration_ms": 326933,
+      "name": "West End",
+      "url": "https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -955,18 +955,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "For The Love Of You",
-        "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d"
       },
       "artists": [
         {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+          "name": "Gail Jhonson",
+          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
+        },
+        {
+          "name": "Cliff Brown",
+          "url": "https://open.spotify.com/artist/4lv9tkwkueOXLq58XG9OLp"
         }
       ],
-      "duration_ms": 301080,
-      "name": "For The Love Of You",
-      "url": "https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL"
+      "duration_ms": 276333,
+      "name": "Groovin' In Philly",
+      "url": "https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz"
     }
   ],
   "unique_name": "Smooth Jazz Classics",

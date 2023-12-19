@@ -4,7 +4,7 @@
 
 > Check out 10 ‘Korean hip\-hop songs that are easy to dance to’ selected by Lia Kim & Harimu at the top of the playlist! \(리아킴 & 하리무가 선곡한 '춤추기 좋은 국내힙합' 10곡을 플레이리스트 상단에서 만나보세요!\)
 
-1,049 songs - 2 day 9 hr 39 min
+1,051 songs - 2 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Chuck!hwabi](https://open.spotify.com/track/35tMfZGQDmFp6O7rdbzIkZ) | [BLSP](https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2), [Snacky Chan](https://open.spotify.com/artist/4UTKdKB32XqCsQGLjZEfmw), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [Chuck!hwabi](https://open.spotify.com/album/32LIOK6Ebf0NXFSW92VEFd) | 2:18 | 2022-03-09 | 2022-07-02 |
 | [Chuckle \(Feat\. KWAII\)](https://open.spotify.com/track/3DWtFDFhzgzb0oaOZ26eSp) | [Conda](https://open.spotify.com/artist/5JmsoI6wkkNkgJDsMheitH), [KWAII](https://open.spotify.com/artist/0UMYz4NN8dJTdLqMUrxDra) | [Where is my Invitation?](https://open.spotify.com/album/6jzwFZGiLUsT6rSI9tZLtW) | 2:31 | 2023-01-10 | 2023-03-01 |
 | [Circle Mind \(feat\. Dbo\)](https://open.spotify.com/track/32aPXAGrLPmZahHtGMw4r6) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Circle Mind](https://open.spotify.com/album/2yVFgP5puQ82LFsEj1e7F4) | 2:28 | 2022-12-26 | 2023-01-20 |
+| [Citi+](https://open.spotify.com/track/1xsmVbbkSdzKcPAS1NQ662) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Citi+](https://open.spotify.com/album/3JUObehPeSOct0S8jkQUfT) | 2:31 | 2023-12-18 |  |
 | [City Life](https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:15 | 2021-12-18 | 2022-07-08 |
 | [city light](https://open.spotify.com/track/1UCoIhGIA2aeyQk64ho2G7) | [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [49](https://open.spotify.com/album/0oujM5prhH6pLloIjXRGAS) | 3:14 | 2023-11-21 |  |
 | [City Lights \(Feat\. Hash Swan\)](https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [City Lights](https://open.spotify.com/album/1ERqcew3rdwwhaLQUPpOfp) | 3:49 | 2022-09-11 | 2023-03-01 |
@@ -864,6 +865,7 @@
 | [Stars for You \(Feat\. KOONTA, RETA\)](https://open.spotify.com/track/00gxCvZUaZY9dhe5MJpWMT) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j) | [Stars for You](https://open.spotify.com/album/7r9HoN885vba6iufcl5y9R) | 2:19 | 2022-02-03 | 2022-06-11 |
 | [STAY](https://open.spotify.com/track/3bTARPmSqeHFftWTBx51dT) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [STAY](https://open.spotify.com/album/0aAz9IGwMsWhQOmGdSTdpw) | 3:38 | 2022-06-13 | 2022-08-13 |
 | [STAY THE NIGHT \(Feat\. DeVita\)](https://open.spotify.com/track/3mTYmxNyeKiZuYHdOw5W0j) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [STAY THE NIGHT \(She is My Type♡ X GRAY\)](https://open.spotify.com/album/1QlyNYwz5B7KAKElSrMm2v) | 2:55 | 2021-12-18 | 2022-07-08 |
+| [Stay With Me \(Feat\. Skinny Brown\)](https://open.spotify.com/track/4YJlv9lK1EsszlUZ4ekj7I) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Stay With Me](https://open.spotify.com/album/1WrH1x8AufHskA9Z2rFJOO) | 2:52 | 2023-12-18 |  |
 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-02 | 2022-12-19 |
 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:55 | 2022-12-14 |  |
 | [Still Me \(Feat\. Dok2, GEMINI\)](https://open.spotify.com/track/5as8yn2iLczb2dSJH3VT81) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:36 | 2022-07-14 | 2022-10-08 |

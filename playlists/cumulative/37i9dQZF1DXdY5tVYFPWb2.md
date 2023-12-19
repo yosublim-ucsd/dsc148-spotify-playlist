@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-743 songs - 2 day 1 hr 6 min
+745 songs - 2 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A\. me too](https://open.spotify.com/track/29LFzfre93VpcGjj3BGvu3) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Director's Cut](https://open.spotify.com/album/0pxUkBVrJZUpQJnI3M0fCB) | 4:32 | 2022-05-28 | 2022-07-29 |
 | [Adventure](https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR) | 4:39 | 2022-07-27 | 2023-12-14 |
 | [Adventure](https://open.spotify.com/track/6QInX99sA0r2swQfdFJ3oU) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/3WwmbDTzRRW9ucbwxsU4Zn) | 4:39 | 2022-07-19 | 2022-07-27 |
+| [Adventure](https://open.spotify.com/track/6lH9cmLGwtrvzE3HJNylkI) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/7bUJ1pvnhxdbFA7DyY0DJf) | 4:39 | 2023-12-12 |  |
 | [Adventure](https://open.spotify.com/track/2CuRkXFwtMmdfiwTqvuvim) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [Shadow](https://open.spotify.com/album/6PBkVGJLhMAI7hbZ2jYb4o) | 4:41 | 2022-07-26 | 2022-07-29 |
 | [After 5 Crash / Tokyo Tower / 初恋](https://open.spotify.com/track/0cqL912ETyZDQvz4vfZ4wt) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [After 5 Crash / Tokyo Tower / 初恋](https://open.spotify.com/album/15pMi4x6nzIZQgVbtl8Ra3) | 6:43 | 2023-05-09 | 2023-05-17 |
 | [After Hours](https://open.spotify.com/track/3ZwaCmECVfLO0H2kSXERcc) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [Inherit The Life II](https://open.spotify.com/album/4m8N9WoRsk1JJ58neXOFC4) | 4:28 | 2023-05-16 | 2023-07-29 |
@@ -84,6 +85,7 @@
 | [Christmas Is All Yours](https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Christmas Is All Yours](https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7) | 3:28 | 2022-11-22 | 2023-02-02 |
 | [CITY BOY](https://open.spotify.com/track/1R9TGjQFP6MQYcF8g7zgnv) | [higimidari](https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b) | [CITY BOY](https://open.spotify.com/album/1zxr2z8ge9WWFGYWX2rHpE) | 4:03 | 2022-07-05 | 2022-07-29 |
 | [CITY BOY](https://open.spotify.com/track/3v0JBtr2GRE7fONwUaIGrS) | [higimidari](https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b) | [CITY BOY](https://open.spotify.com/album/3GUO72r5DExiZzVytINvxM) | 4:03 | 2022-07-27 | 2022-08-03 |
+| [City Drive](https://open.spotify.com/track/5JxfIHoC7GO0aczQPFqMkA) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Vacation](https://open.spotify.com/album/0fd3ncp2t3femdF8tRXksD) | 3:18 | 2023-12-12 |  |
 | [CITY FLIGHT](https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [EP\-3](https://open.spotify.com/album/2abkuqj2lyCwE0dyQlnyMK) | 4:05 | 2022-05-24 | 2022-07-29 |
 | [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-23 |
 | [Clap Clap](https://open.spotify.com/track/1xBHBwjDF6EOLxs2NJDd7F) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [Clap Clap](https://open.spotify.com/album/2fezHuGaqi8F9iN18IVKYM) | 3:50 | 2023-05-30 | 2023-06-16 |
@@ -357,7 +359,7 @@
 | [Rouge feat\. Taichi Mukai](https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Rouge feat\. Taichi Mukai](https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K) | 3:37 | 2023-10-10 | 2023-12-14 |
 | [round and round](https://open.spotify.com/track/79Glv2oOljXTYJkAKsddNL) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Such is life](https://open.spotify.com/album/3SppLYDvuBYIn30ISyEZlm) | 2:59 | 2023-07-25 | 2023-08-02 |
 | [Runaway](https://open.spotify.com/track/4htG3gOGHW407No6WuwBqA) | [アマリリス](https://open.spotify.com/artist/00gU0eai5DATOHiWPrvd9b) | [Runaway](https://open.spotify.com/album/7AIvcXHWY1IVRNr76Gg1ZF) | 4:30 | 2022-05-31 | 2022-07-26 |
-| [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 | 2023-07-25 |  |
+| [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 | 2023-07-25 | 2023-12-19 |
 | [Ryan](https://open.spotify.com/track/7EqZo0mLgUYO3fD4GyNvcH) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [Ryan](https://open.spotify.com/album/6whSVN6VIiYfyTQeRCuV35) | 4:45 | 2022-07-21 | 2022-07-23 |
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-24 | 2022-06-01 |
 | [Saihate](https://open.spotify.com/track/1jcSB32MP8GhWnqfLRndIJ) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Saihate](https://open.spotify.com/album/71QVVWnO8BDQIkBLD1U1ex) | 3:44 | 2022-11-08 | 2022-11-16 |
@@ -551,7 +553,7 @@
 | [つむぐように \(Twiny\)](https://open.spotify.com/track/39leepccRwzzJZi76sK3GS) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [つむぐように \(Twiny\)](https://open.spotify.com/album/0XlGIOzcJRlQxvksyHic0o) | 3:54 | 2022-10-04 | 2022-10-12 |
 | [どうしようもないな](https://open.spotify.com/track/1x5oci0p8t6ZLm5TRZgKHo) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Beats In The Morning](https://open.spotify.com/album/6HJLe4bBHR4BHPnVBSMmcA) | 4:35 | 2022-06-30 | 2022-07-27 |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-10 |  |
-| [ひかりをためる](https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ひかりをためる](https://open.spotify.com/album/29eOgjIEgs8jsZ9h8m8TJm) | 2:29 | 2023-11-10 |  |
+| [ひかりをためる](https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ひかりをためる](https://open.spotify.com/album/29eOgjIEgs8jsZ9h8m8TJm) | 2:29 | 2023-11-10 | 2023-12-19 |
 | [ふたりのシルエット \(feat\. 堀込泰行\)](https://open.spotify.com/track/4G1nLenBpqkbO2UehxVeZ1) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [ふたりのシルエット \(feat\. 堀込泰行\)](https://open.spotify.com/album/1eTkRWLKLQfZBsiuDJFbFE) | 5:37 | 2022-06-07 | 2022-07-22 |
 | [ふたりの夏物語 \-NEVER ENDING SUMMER\-](https://open.spotify.com/track/3gQXDw1BJlgC4HTF4Np3rx) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:01 | 2023-04-04 | 2023-04-26 |
 | [ふたりは夏雲](https://open.spotify.com/track/3ph4RwkE0harPd7n3al1AC) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [ふたりは夏雲](https://open.spotify.com/album/3JydQGBd9wqy2nfJljFVIp) | 4:32 | 2023-08-01 | 2023-09-26 |

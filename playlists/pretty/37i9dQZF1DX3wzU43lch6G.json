@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103342,
+  "num_followers": 103338,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWY2ODdhMjMxNDliYmFjMjg1NTE1MDA0MTE1ZTA3MDg3NDUyMDEx",
+  "snapshot_id": "MCw3YTY4NzY0YTY5ZDFkNTZhZmUzNjMyNDlhZGUyNTM4YjRjZDVhZTI5",
   "tracks": [
     {
       "added_at": "2023-11-16 21:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Yineleme",
-        "url": "https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3"
-      },
-      "artists": [
-        {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Cesaretsizce Olmuyor",
-      "url": "https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
         "name": "Akustik Travma",
         "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 235817,
       "name": "Bodrum",
       "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
+        "name": "Yineleme",
+        "url": "https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3"
+      },
+      "artists": [
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Cesaretsizce Olmuyor",
+      "url": "https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Bi' Tek Ben Anlar\u0131m",
-        "url": "https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Bi' Tek Ben Anlar\u0131m",
-      "url": "https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
         "name": "M.V.A.B",
         "url": "https://open.spotify.com/album/6A2kt6EmZI2L6UV2dZak7W"
       },
@@ -231,38 +215,6 @@
       "duration_ms": 169600,
       "name": "Sak\u0131n Gelme",
       "url": "https://open.spotify.com/track/0Wtrou4tplwRr2ZHN9SG96"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
-        "name": "Al Senin Olsun D\u00fcnya",
-        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 160448,
-      "name": "AH\u015eAP D\u00dc\u015eLER\u0130M",
-      "url": "https://open.spotify.com/track/5n6OeMQ2Rz7QywQfhQaqyi"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
-        "name": "Zeynodisco",
-        "url": "https://open.spotify.com/album/0xZtgrWTCdXFrSWVNcrXSH"
-      },
-      "artists": [
-        {
-          "name": "Zeynep Bast\u0131k",
-          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
-        }
-      ],
-      "duration_ms": 210639,
-      "name": "Marlon Brando",
-      "url": "https://open.spotify.com/track/58LXONBewBn7XmEqG3D3TB"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -283,18 +235,50 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Sevmek Y\u00fcz\u00fcnden",
-        "url": "https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL"
+        "name": "Al Senin Olsun D\u00fcnya",
+        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
       },
       "artists": [
         {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
         }
       ],
-      "duration_ms": 219554,
-      "name": "Sevmek Y\u00fcz\u00fcnden",
-      "url": "https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp"
+      "duration_ms": 160448,
+      "name": "AH\u015eAP D\u00dc\u015eLER\u0130M",
+      "url": "https://open.spotify.com/track/5n6OeMQ2Rz7QywQfhQaqyi"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
+        "name": "Bi' Tek Ben Anlar\u0131m",
+        "url": "https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Bi' Tek Ben Anlar\u0131m",
+      "url": "https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
+        "name": "Zeynodisco",
+        "url": "https://open.spotify.com/album/0xZtgrWTCdXFrSWVNcrXSH"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "duration_ms": 210639,
+      "name": "Marlon Brando",
+      "url": "https://open.spotify.com/track/58LXONBewBn7XmEqG3D3TB"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -311,6 +295,22 @@
       "duration_ms": 232106,
       "name": "Divane",
       "url": "https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
+        "name": "Sevmek Y\u00fcz\u00fcnden",
+        "url": "https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 219554,
+      "name": "Sevmek Y\u00fcz\u00fcnden",
+      "url": "https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -335,38 +335,6 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "Al Senin Olsun D\u00fcnya",
-        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 195805,
-      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
-      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
-        "name": "Tepeler",
-        "url": "https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "G\u00fcne\u015fe Dokundum",
-      "url": "https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o"
-    },
-    {
-      "added_at": "2023-11-16 21:00:00",
-      "album": {
         "name": "Neogazino",
         "url": "https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6"
       },
@@ -383,6 +351,22 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
+        "name": "Al Senin Olsun D\u00fcnya",
+        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 195805,
+      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
+      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
         "name": "Hoppa (pt. 1)",
         "url": "https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 153971,
       "name": "Huyu Suyu",
       "url": "https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI"
+    },
+    {
+      "added_at": "2023-11-16 21:00:00",
+      "album": {
+        "name": "Tepeler",
+        "url": "https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "G\u00fcne\u015fe Dokundum",
+      "url": "https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o"
     },
     {
       "added_at": "2023-11-16 21:00:00",
@@ -823,22 +823,22 @@
     {
       "added_at": "2023-11-16 21:00:00",
       "album": {
-        "name": "\u00c7\u0131kmaz Sokaklar",
-        "url": "https://open.spotify.com/album/2jBSfhq7mFVnTtLMZDi3CW"
+        "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
+        "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
       },
       "artists": [
         {
-          "name": "Eflatun",
-          "url": "https://open.spotify.com/artist/4C6z2n5FgN4t6Eu2n9xjGC"
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
         },
         {
-          "name": "Burcu G\u00fcne\u015f",
-          "url": "https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F"
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
         }
       ],
-      "duration_ms": 261266,
-      "name": "\u00c7\u0131kmaz Sokaklar",
-      "url": "https://open.spotify.com/track/1XA15AzxjLcZdIiyIaxIM0"
+      "duration_ms": 150000,
+      "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
+      "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
     }
   ],
   "unique_name": "K\u0131y\u0131 Boyu",

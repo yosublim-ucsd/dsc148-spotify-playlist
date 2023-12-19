@@ -1,15 +1,15 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 154032,
+  "num_followers": 154044,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzODAyMjMsMDAwMDAwMDAyNDM2MDdhMzA3N2I4NjI1NGNjOTMwY2IzYmFiYmE3OQ==",
+  "snapshot_id": "MjgzODE2ODAsMDAwMDAwMDBlMzdkOTRkMmI4OWQ4OTIzZTYwYjQxOWFhYTkwYmNiYw==",
   "tracks": [
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano (Ao vivo)",
         "url": "https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
@@ -93,7 +93,31 @@
       "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 165111,
+      "name": "DA BRABA",
+      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
+    },
+    {
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Poesia Ac\u00fastica 14",
         "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
@@ -149,31 +173,7 @@
       "url": "https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
-      "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 165111,
-      "name": "DA BRABA",
-      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
-    },
-    {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Affair",
         "url": "https://open.spotify.com/album/1uyLEC5sd3Mdyvu0iCvirh"
@@ -205,23 +205,7 @@
       "url": "https://open.spotify.com/track/5l4GTT4tLccGiZE3KGjlg4"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
-      "album": {
-        "name": "A Tua Voz",
-        "url": "https://open.spotify.com/album/4ODkxcpECbwff1p9THx0zn"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 195245,
-      "name": "A Tua Voz",
-      "url": "https://open.spotify.com/track/5anNDQXlqlziwWoH9A3d7K"
-    },
-    {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
@@ -245,7 +229,23 @@
       "url": "https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
+      "album": {
+        "name": "A Tua Voz",
+        "url": "https://open.spotify.com/album/4ODkxcpECbwff1p9THx0zn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 195245,
+      "name": "A Tua Voz",
+      "url": "https://open.spotify.com/track/5anNDQXlqlziwWoH9A3d7K"
+    },
+    {
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "BRUXARIA 3000",
         "url": "https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa"
@@ -273,23 +273,7 @@
       "url": "https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
-      "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
-    },
-    {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Deve ser horr\u00edvel dormir sem mim",
         "url": "https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU"
@@ -309,7 +293,7 @@
       "url": "https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
@@ -333,7 +317,23 @@
       "url": "https://open.spotify.com/track/0yxvMwHvv36ismJzBKc2oD"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
+      "album": {
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+    },
+    {
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/67FXDuLWJNuafe1mVdWsim"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "085 RMX",
         "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
@@ -373,27 +373,7 @@
       "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
-      "album": {
-        "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
-        "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 559903,
-      "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
-      "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
-    },
-    {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
@@ -413,7 +393,27 @@
       "url": "https://open.spotify.com/track/5mRRse77ESs5JDw3SZhT3w"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
+      "album": {
+        "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
+        "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 559903,
+      "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
+      "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
+    },
+    {
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Coisa Boa",
         "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
@@ -449,7 +449,23 @@
       "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 152930,
+      "name": "PLANETA OUSADIA",
+      "url": "https://open.spotify.com/track/38Dkqi7IYUm3DDyt4tfDcf"
+    },
+    {
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -469,23 +485,7 @@
       "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
-      "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 152930,
-      "name": "PLANETA OUSADIA",
-      "url": "https://open.spotify.com/track/38Dkqi7IYUm3DDyt4tfDcf"
-    },
-    {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Bumbum de Ouro",
         "url": "https://open.spotify.com/album/1qzzcAss8mqBG005C6qMDl"
@@ -501,23 +501,7 @@
       "url": "https://open.spotify.com/track/1DgHVOq15mmso5RY0YQy6l"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
-      "album": {
-        "name": "Apaga a Luz",
-        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 228210,
-      "name": "Apaga a Luz",
-      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
-    },
-    {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "PROIBIDONA",
         "url": "https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU"
@@ -541,7 +525,7 @@
       "url": "https://open.spotify.com/track/090GUuqAuh7Vje3V745nep"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
@@ -557,7 +541,23 @@
       "url": "https://open.spotify.com/track/4wQBMjqW9zSS3Pwf1ApjhY"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
+      "album": {
+        "name": "Apaga a Luz",
+        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 228210,
+      "name": "Apaga a Luz",
+      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
+    },
+    {
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Furduncin",
         "url": "https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Vem com tudo",
         "url": "https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "ALEGORIA",
         "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "LEIL\u00c3O",
         "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Infinito 2021, Vol.2",
         "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/2jeJEX0LGu46B3vTthPsrL"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "YoYo",
         "url": "https://open.spotify.com/album/0D816QjniOM4ZXAHzIT5jJ"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/2ZPOMV3L3rhoT54wZjB6GO"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/69EoZoOljmNfMdZ3zNsUx1"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Arrasta",
         "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Provocar",
         "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "S\u00f3 o Amor",
         "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Suplicar",
         "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "V\u00edcio",
         "url": "https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Sinal",
         "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Beijo De Judas",
         "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "ALEGORIA",
         "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/1rUKbbmml6cYgkRVwJOTbN"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/7yHyGrwWRUdDVcZIC4HBdA"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "Oops!...I did it again",
         "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "LADY LESTE (AO VIVO)",
         "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/5pXQo3mH6JWxa3HXN4VwLX"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "NOITE DE CA\u00c7A",
         "url": "https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH"
@@ -985,7 +985,7 @@
       "url": "https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx"
     },
     {
-      "added_at": "2023-12-17 11:43:30",
+      "added_at": "2023-12-18 12:00:43",
       "album": {
         "name": "ALEGORIA",
         "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-180 songs - 10 hr 19 min
+182 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adiye](https://open.spotify.com/track/2ZVIeS1p17UmWSjLSJYOt3) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Krishan J](https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw) | [Adiye](https://open.spotify.com/album/3I5C4OE79iGOAGazuzmVth) | 3:33 | 2023-07-24 | 2023-12-12 |
 | [Alavilla Azhagiye](https://open.spotify.com/track/07eegSrNoTXO1EZhBEJsdr) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Inzy](https://open.spotify.com/artist/07XxDCSIhiEvcAtxPm0uWV) | [Alavilla Azhagiye](https://open.spotify.com/album/0m5QDfTQuK0gz9h1hHsDMd) | 4:14 | 2023-07-13 |  |
 | [All Star Dancer](https://open.spotify.com/track/0wlv59Trb8ALs2Gws9dXLH) | [Baha Mista\-B](https://open.spotify.com/artist/1pkIXc0pidcuYpGgYUaU4g), [Whit](https://open.spotify.com/artist/035QHIg786p1aSadep5XsC), [Pavithra Nair](https://open.spotify.com/artist/1cebDDeYCqk8637xxrqtD2), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B) | [All Star Dancer](https://open.spotify.com/album/2Xw58cOidG6fZI83o1hN4U) | 3:52 | 2023-03-21 | 2023-09-26 |
+| [Anbae \- Beloved](https://open.spotify.com/track/7D5HnQ5AHm7MuZdnFlSZVs) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Morin Sridion](https://open.spotify.com/artist/7EBlf7e4g9qlddbWXAMvCa) | [Anbae \(Beloved\)](https://open.spotify.com/album/2OR5oGqpfCiCJAyhRmaQuh) | 4:19 | 2023-12-18 |  |
 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 | 2023-12-15 |  |
 | [Azhagai Oru Matram](https://open.spotify.com/track/2mHq2tCYbtQ9grc6sMwdGd) | [Sanjit Lucksman](https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C), [Nirushka Paiva](https://open.spotify.com/artist/5aNpNoS5ntHTUIEvGcCBc7), [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI) | [Azhagai Oru Matram](https://open.spotify.com/album/6GrbtoW90L2SVgNN5a8veW) | 3:13 | 2023-03-21 | 2023-07-25 |
 | [Azhagale](https://open.spotify.com/track/3Or8quXbuFLp5KPeI2K9vf) | [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01), [Ishita Premnath](https://open.spotify.com/artist/6GdS9YEjh6oCoyARskMTt9), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Azhagale](https://open.spotify.com/album/6YhqkTX8SmTCD9C6XZZ7c4) | 3:52 | 2023-03-21 | 2023-07-25 |
@@ -174,6 +175,7 @@
 | [Vaa Pogalam](https://open.spotify.com/track/0L7eH4ECQWsHIsTW01lLZp) | [Suryansh](https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD), [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Vaa Pogalam](https://open.spotify.com/album/0k7uezmNTyqTcaoThQnaKY) | 3:57 | 2023-11-06 | 2023-12-12 |
 | [Vaa Poola](https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vaa Poola](https://open.spotify.com/album/5zmj9MOy7GegpfEyoivwcv) | 2:35 | 2023-05-08 | 2023-07-25 |
 | [Vaadi Nenjukulla](https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08) | [Ajees](https://open.spotify.com/artist/0KmDf97GDps7NgF7TXFrO1), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [Vaadi Nenjukulla](https://open.spotify.com/album/4w8PnoaGOk64ocgSLKl9sW) | 4:10 | 2023-08-11 |  |
+| [Vaaichol](https://open.spotify.com/track/0KFnezn8C0B7cobeFeLsdQ) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Vaaichol](https://open.spotify.com/album/01GjdmCewDOpKZz9qWZxSb) | 3:03 | 2023-12-18 |  |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |
 | [Vaasam Pesum](https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/65uesvauWksGXmaSS78K1L) | 3:50 | 2023-09-22 |  |
 | [Vachi Seiyapora](https://open.spotify.com/track/7zP9oosuNW34MudwwLLDdF) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Vachi Seiyapora](https://open.spotify.com/album/3CpQGDhtO10nxGLJUXOXLo) | 3:56 | 2023-07-26 |  |
