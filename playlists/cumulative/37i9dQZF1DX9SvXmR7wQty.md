@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lost
 
-2,237 songs - 4 day 23 hr 29 min
+2,238 songs - 4 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,7 +724,7 @@
 | [Formation](https://open.spotify.com/track/51ZvLOJkx0SAlcRsMriSnJ) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay) | [Formation](https://open.spotify.com/album/2at8w1O9MMsF2kj6ZH9BAi) | 3:19 | 2022-04-22 | 2022-04-29 |
 | [Forêt magique](https://open.spotify.com/track/4gRW12zxJsHytn79RWCTbN) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [Forêt magique](https://open.spotify.com/album/3aB7pHJvc97G9BXGkdrONv) | 3:18 | 2022-09-09 | 2022-09-24 |
 | [FOTO](https://open.spotify.com/track/6L7mM6G8HBCP8lvHNoRrQn) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [FOTO](https://open.spotify.com/album/3G2ZCoy8vRhlbWngpG8jNn) | 3:40 | 2022-08-26 | 2022-09-10 |
-| [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2023-12-01 |  |
+| [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2023-12-01 | 2023-12-20 |
 | [Fou malade](https://open.spotify.com/track/2tiiVkGitu4bKtuPwXfZxW) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Fou malade](https://open.spotify.com/album/2yiYfRyfuKNY5TE3tjb8BA) | 3:17 | 2023-01-20 | 2023-02-04 |
 | [Fourrer le trouble](https://open.spotify.com/track/0smfMkxblAwgtAgaLkA9nw) | [Orloge Simard](https://open.spotify.com/artist/2PfwtnCHCC0iezSoJHtzfs) | [Culture du culte](https://open.spotify.com/album/2OfXKhyomXPJEmybOaPJ2l) | 2:47 | 2022-09-23 | 2022-10-08 |
 | [FREE FOR ALL](https://open.spotify.com/track/3kAibz4DTPCrdXKhjjuxiE) | [Abdoubeatzz](https://open.spotify.com/artist/37gGIho50l34cdAV1nRQrQ), [Fxll](https://open.spotify.com/artist/61H5pXHRcXCkcliWy4I05W), [Ibra](https://open.spotify.com/artist/49uM51XEg3ob5waZXE779W) | [FREE FOR ALL](https://open.spotify.com/album/5b4JbnHLC1riCY5q1VFn1z) | 2:48 | 2023-03-10 | 2023-03-18 |
@@ -2189,6 +2189,7 @@
 | [Ya Delali](https://open.spotify.com/track/7EuwFP60iXRlqc0GdTGKhy) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Ya Delali](https://open.spotify.com/album/45GG4H9863zgjD1NmqMhao) | 3:24 | 2022-02-11 | 2022-02-19 |
 | [Yabibi \(feat\. Nej\)](https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Résilience \(Réedition\)](https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON) | 2:37 | 2023-07-28 | 2023-09-23 |
 | [Yeah babe](https://open.spotify.com/track/20EJ4bdHUsPxoO5Vv5juir) | [Neimo](https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm) | [Yeah babe](https://open.spotify.com/album/3wQWVfQwSzJ691iSxIHXIe) | 2:16 | 2022-02-04 | 2022-02-12 |
+| [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2023-12-15 |  |
 | [Yink moi qui t'faut](https://open.spotify.com/track/2lGpOTKuIailwRDHTvtuRN) | [Salebarbes](https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB) | [À boire deboutte](https://open.spotify.com/album/7qMWaLTaI6Nm40Bf9dYw4x) | 3:12 | 2023-09-01 | 2023-09-09 |
 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2022-08-19 | 2022-09-03 |
 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:32 | 2022-10-14 | 2022-10-29 |

@@ -6188,7 +6188,7 @@
     {
       "album": {
         "name": "EP2",
-        "url": "https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU"
+        "url": "https://open.spotify.com/album/3nbmi3ESDzeTOml8Ttp5MV"
       },
       "artists": [
         {
@@ -6199,6 +6199,24 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 272211,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/4fQR7QVHGPnA3ljpo95EjH"
+    },
+    {
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU"
+      },
+      "artists": [
+        {
+          "name": "Saint Joshua",
+          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
       "duration_ms": 272211,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"

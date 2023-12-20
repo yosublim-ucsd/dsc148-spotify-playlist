@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 186626,
       "name": "Break Bread",
       "url": "https://open.spotify.com/track/0BeJ2GsaQ1Evato2mCxXBT"
@@ -6539,6 +6539,32 @@
     },
     {
       "album": {
+        "name": "FWT",
+        "url": "https://open.spotify.com/album/66Ad6aw80r6f7DO2eoCzc1"
+      },
+      "artists": [
+        {
+          "name": "Icee Red",
+          "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "FWT",
+      "url": "https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd"
+    },
+    {
+      "album": {
         "name": "The Shave Experiment",
         "url": "https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz"
       },
@@ -8104,7 +8130,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 212848,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM"
@@ -17722,7 +17748,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 153000,
       "name": "Through The Dark",
       "url": "https://open.spotify.com/track/4GlMuZ2gHZfAPxEji04pdA"

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 129546,
+  "num_followers": 129581,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjY0MWIzODIzMGFiZGNkMTM3OWJlMGQ4Yzk4OWMyYjU1OTMzM2Jk",
+  "snapshot_id": "MCw3YzdhNjEzZTk5MTA3YWZhNzMxZTQwY2Q5YWVkYTI3ZWQ5ZDgyZDZl",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Nature Hideout",
-        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
-      },
-      "artists": [
-        {
-          "name": "mahogany",
-          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Nature Night-time",
-      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Light Forest Rain",
         "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 146000,
       "name": "Light Forest Rain 2",
       "url": "https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Nature Hideout",
+        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
+      },
+      "artists": [
+        {
+          "name": "mahogany",
+          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Nature Night-time",
+      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Seawaves",
-        "url": "https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4"
-      },
-      "artists": [
-        {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Small Waves Hitting Beach",
-      "url": "https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Ocean Noises",
         "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 247471,
       "name": "By The Docks",
       "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Seawaves",
+        "url": "https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Small Waves Hitting Beach",
+      "url": "https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa"
     },
     {
       "added_at": "2023-06-19 13:01:14",

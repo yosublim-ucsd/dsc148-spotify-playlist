@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Matt Force & Young Queenz
 
-805 songs - 1 day 21 hr 32 min
+806 songs - 1 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [can't get over you](https://open.spotify.com/track/1S1crJ0Ebb2XOrhBCnlNGK) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [can't get over you](https://open.spotify.com/album/4suaGllpRZuppNF9VB36TZ) | 3:20 | 2023-01-12 | 2023-05-26 |
 | [Can't Stop](https://open.spotify.com/track/5zB6A7kjVAyobO5le32Rl0) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Can't Stop](https://open.spotify.com/album/5CUTEDVkIGRFEd3DR7dW0o) | 3:31 | 2023-02-16 | 2023-07-14 |
 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 | 2022-06-24 | 2022-11-04 |
-| [Can’t Be in Love](https://open.spotify.com/track/4lWSYJQJgraWgmmUXwGwPw) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Start Again](https://open.spotify.com/album/1aZ1I5N8K8GL23nElQDBuY) | 3:05 | 2023-12-14 |  |
+| [Can’t Be in Love](https://open.spotify.com/track/4lWSYJQJgraWgmmUXwGwPw) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Start Again](https://open.spotify.com/album/1aZ1I5N8K8GL23nElQDBuY) | 3:05 | 2023-12-14 | 2023-12-20 |
+| [Can’t Be in Love](https://open.spotify.com/track/308O6dRqn5M75ew07Q5KpC) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [Start Again](https://open.spotify.com/album/5bLCbxXWXpCEyImaQriukQ) | 3:05 | 2023-12-15 |  |
 | [CARE NO MORE](https://open.spotify.com/track/5KkfFiXEGJFvK3h3o5GGVV) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [CARE NO MORE](https://open.spotify.com/album/1q1TrXApRnt6y4JclX87yP) | 2:58 | 2023-07-20 | 2023-11-03 |
 | [CASINO](https://open.spotify.com/track/2higxUPagN6pvwiNuw315r) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM), [sahiru](https://open.spotify.com/artist/3nlxic49LYblGALkFbzLsD) | [CASINO](https://open.spotify.com/album/7Az4hTpKVa6ha3dbWOL9Lz) | 2:54 | 2023-04-20 | 2023-07-14 |
 | [Cate Meridian](https://open.spotify.com/track/7ep6khXTU3kl3QmhFyvFn3) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [Cate Meridian](https://open.spotify.com/album/3mGpDZQCcle4nrNCc5mnFI) | 3:46 | 2023-10-19 |  |

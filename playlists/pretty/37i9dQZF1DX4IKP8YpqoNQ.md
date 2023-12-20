@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,652 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,659 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 76 | [\(Sitting On\) The Dock Of The Bay \- Live](https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Live At Montreux 2006 \(Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006\)](https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45) | 2:15 |
 | 77 | [People Get Ready \- Live at The Bitter End, NYC](https://open.spotify.com/track/5fN60U114jgzi8TfhIDcpK) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis Live! \(US Release\)](https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp) | 3:47 |
 | 78 | [Black Man In A White World \- Live From Spotify London](https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Spotify Sessions](https://open.spotify.com/album/1izqfeako1qgYLviORVoDT) | 7:49 |
-| 79 | [Butterflies \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 4:29 |
+| 79 | [I Love You More Than You'll Ever Know \- Live at the Bitter End, New York City, 1971](https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [These Songs for You, Live!](https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY) | 5:55 |
 | 80 | [Cruisin' \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 6:38 |
-| 81 | [I Love You More Than You'll Ever Know \- Live at the Bitter End, New York City, 1971](https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [These Songs for You, Live!](https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY) | 5:55 |
+| 81 | [Butterflies \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 4:29 |
 | 82 | [Love Calls \- Anniversary – Live](https://open.spotify.com/track/3N5SwICIY2ZVCQsXatCmPw) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Anniversary – The Live Album](https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t) | 3:43 |
 | 83 | [Dorothy Parker \- Live from One Nite Alone Tour...The Aftershow](https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [One Nite Alone..\. The Aftershow: It Ain't Over! \(Up Late with Prince & The NPG\) \[Live\]](https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq) | 6:16 |
 | 84 | [You Don't Know My Name \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 4:59 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 95 | [Let's Stay Together \- Live](https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 3:52 |
 | 96 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
 | 97 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 |
-| 98 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 |
-| 99 | [Feeling Good \- Live](https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 3:56 |
+| 98 | [Feeling Good \- Live](https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 3:56 |
+| 99 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 |
 | 100 | [I Plan to Stay a Believer \- Live at The Bitter End, NYC](https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis Live! \(US Release\)](https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp) | 3:16 |
 
-Snapshot ID: `MCxhZTBlODk1NjZjN2QwZmI1YjYyODE1YjUzOGMxOTFhZDMwYmE2YjIw`
+Snapshot ID: `MCw4NTE2ZDM1ZTA2NjhhZTc1MjRmNzg1OTM1M2MwMThlYjY0ODEzMWEw`

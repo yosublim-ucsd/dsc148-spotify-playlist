@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25373,
+  "num_followers": 25392,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDhlMDgzMDk0OWQwY2I2YmUwOGRhMjJmZmE5ODE5YjhhNzdmNjkx",
+  "snapshot_id": "MCwyOWJkOTk0ZmE4YTFmNzk0OTdlZGU3YTY3NTgwZmEzOGI1MjRlZjhj",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Negra Monamour",
-      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Croupier Funk",
-        "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
       },
       "artists": [
         {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Fornicazzione",
-      "url": "https://open.spotify.com/track/3TsyBes13Sv5NSHT731ERU"
+      "duration_ms": 212866,
+      "name": "Negra Monamour",
+      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -651,6 +635,22 @@
       "duration_ms": 286440,
       "name": "Pick Up On Your Line",
       "url": "https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Croupier Funk",
+        "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
+      },
+      "artists": [
+        {
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Fornicazzione",
+      "url": "https://open.spotify.com/track/3TsyBes13Sv5NSHT731ERU"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Family Game",
+        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 218045,
+      "name": "B\u00e9sala",
+      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Poppin",
         "url": "https://open.spotify.com/album/6NFHjrAmxBu1h3wqrZglVE"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 274102,
       "name": "One Night",
       "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Family Game",
-        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 218045,
-      "name": "B\u00e9sala",
-      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Maravilla",
-        "url": "https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx"
-      },
-      "artists": [
-        {
-          "name": "Los Jureles",
-          "url": "https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC"
-        }
-      ],
-      "duration_ms": 240458,
-      "name": "Maravilla",
-      "url": "https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 224864,
       "name": "Back up in Flames",
       "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Maravilla",
+        "url": "https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx"
+      },
+      "artists": [
+        {
+          "name": "Los Jureles",
+          "url": "https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC"
+        }
+      ],
+      "duration_ms": 240458,
+      "name": "Maravilla",
+      "url": "https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Best Of Us",
         "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 185024,
       "name": "Best Of Us",
       "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
     },
     {
       "added_at": "2023-12-08 03:00:00",

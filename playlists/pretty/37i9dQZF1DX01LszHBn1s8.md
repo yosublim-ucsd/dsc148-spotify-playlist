@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 🚨 public announcement: it IS a musical 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,835 likes - 862 songs - 1 day 21 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,807 likes - 862 songs - 1 day 21 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -871,4 +871,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 861 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 862 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCw5NDI5M2I1NmRmNWQ5ZTk4YzQxZmY3ZDkwMjdiYzVmMjEyOTE2MzMz`
+Snapshot ID: `MCwzNjRlN2IxOGU2ODlhZDlmZTA5MzMzZWQ0NGZjNzU0ODFjNDg4MmE1`

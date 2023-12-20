@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 189775,
+  "num_followers": 189774,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2U5MmEyNmRjNjM1NzhlMWVkMzE1MjQ3NjhjYWEzMGY3ZTE1Yjhj",
+  "snapshot_id": "MCw0NTQ1N2QzZTc5NjljZWRiZDhkNDRiOWNjNTMxMjYyNmE0YzFjMWFl",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "The Magic Whip",
-        "url": "https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 299133,
-      "name": "Ghost Ship",
-      "url": "https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Sawdust",
         "url": "https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 327866,
       "name": "Romeo And Juliet",
       "url": "https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "The Magic Whip",
+        "url": "https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 299133,
+      "name": "Ghost Ship",
+      "url": "https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Blow Your Cool",
-        "url": "https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG"
+        "name": "Surpresa Maior",
+        "url": "https://open.spotify.com/album/1hdxDWKo2bZLutjDLDOySi"
       },
       "artists": [
         {
-          "name": "Hoodoo Gurus",
-          "url": "https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y"
+          "name": "Arthur Pares",
+          "url": "https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3"
         }
       ],
-      "duration_ms": 229933,
-      "name": "What's My Scene",
-      "url": "https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi"
+      "duration_ms": 230250,
+      "name": "Surpresa Maior",
+      "url": "https://open.spotify.com/track/6YvLJs2eVQMCxBPHAZF7iy"
     }
   ],
   "unique_name": "Free Surf",

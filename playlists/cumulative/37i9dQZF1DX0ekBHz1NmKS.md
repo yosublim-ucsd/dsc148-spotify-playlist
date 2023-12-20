@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-892 songs - 1 day 23 hr 5 min
+893 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [Hatar att du lät oss gå](https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Hatar att du lät oss gå](https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO) | 2:49 | 2022-10-27 | 2023-10-06 |
 | [Hate My Guts](https://open.spotify.com/track/3WM7HwJAxhlI87PAzuuvyB) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Hate My Guts](https://open.spotify.com/album/3KQgYkwicq99p0p0u1Dy4K) | 2:53 | 2022-03-24 | 2022-04-02 |
 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 | 2021-12-16 | 2022-03-10 |
-| [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 |  |
+| [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 | 2023-12-20 |
 | [Heartbreak Hotel](https://open.spotify.com/track/1GgYN93yWE3pA7wmbvkX1F) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Heartbreak Hotel](https://open.spotify.com/album/6AEhJn5nqGPP6bGXO7HJYq) | 2:37 | 2022-04-07 | 2022-04-21 |
 | [Heartbreakmiljonär](https://open.spotify.com/track/2li3Mf9nEwOkvQ43QUNh0j) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Heartbreakmiljonär](https://open.spotify.com/album/0b4MV4Nget3iV9y2vi7Ewz) | 3:13 | 2023-10-12 | 2023-11-19 |
 | [Heartbreakmiljonär](https://open.spotify.com/track/49I4fTavMoX9SL0KDmd6Tw) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Heartbreakmiljonär](https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n) | 3:13 | 2023-11-16 |  |
@@ -890,6 +890,7 @@
 | [YOU](https://open.spotify.com/track/2OyauYlmXhB8ffpf4S9mjQ) | [Alissa Reah](https://open.spotify.com/artist/53TuN2OUabI6gDAjd49Fs2) | [YOU](https://open.spotify.com/album/1htfK5RJY2vuj6P4XaofbY) | 3:01 | 2022-03-24 | 2022-07-20 |
 | [You to Me](https://open.spotify.com/track/5xQmNeAKK6Y3p5Y5K2zqIT) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [You to Me](https://open.spotify.com/album/4abCLxqbInPOw7fiblaLVL) | 2:36 | 2021-12-16 | 2022-01-13 |
 | [Younger](https://open.spotify.com/track/5VehjO5iZZ9iitRbTt9P69) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [Younger](https://open.spotify.com/album/14ZHCYhVN0B2dzY8GVISWO) | 3:06 | 2022-05-12 | 2022-05-14 |
+| [Younger](https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab) | 3:16 | 2023-12-14 |  |
 | [Your Number](https://open.spotify.com/track/7FxCwTyHGx7zLXx92Nomj9) | [Carl Storm](https://open.spotify.com/artist/06wZ6err8NOnJK992dWO5i) | [Your Number](https://open.spotify.com/album/0Z6bdj3jiXVtiV3ozBB0zW) | 2:45 | 2022-03-10 | 2022-06-01 |
 | [Yours](https://open.spotify.com/track/1Ibc9R9cQTESTZjGorWtRT) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Yours](https://open.spotify.com/album/1r8WGwm16WpWJX6nvO3IpO) | 3:24 | 2022-05-20 | 2022-07-27 |
 | [Zlatan Ibrahimović](https://open.spotify.com/track/4fDUU3PetUumiNtPRCG7mV) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Zlatan Ibrahimović](https://open.spotify.com/album/46XuTYTVVCOTWrsmLFH8XG) | 2:23 | 2023-03-23 | 2023-04-24 |

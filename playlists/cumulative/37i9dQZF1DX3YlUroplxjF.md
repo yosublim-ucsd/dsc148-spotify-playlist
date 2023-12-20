@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-409 songs - 23 hr 29 min
+410 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,12 +350,13 @@
 | [Son of Robot](https://open.spotify.com/track/2m9dpUx3PkIOa2LPfDbSA8) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Artificial Selection](https://open.spotify.com/album/4YkhIDrZZ3dFlH0POQ3Syj) | 3:58 | 2023-06-20 |  |
 | [Son of Robot](https://open.spotify.com/track/3ZH8mv5AfnCUY7pxbO52uu) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Artificial Selection](https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y) | 3:58 | 2021-11-30 | 2023-11-04 |
 | [Sorrow](https://open.spotify.com/track/7n9FeErpb6on25Gs7GEEHR) | [Jack the Envious](https://open.spotify.com/artist/4hO0GPE9lcbIKmL4VvdE9g) | [Sorrow](https://open.spotify.com/album/13vVfSycvYwpjRooehzfWg) | 4:23 | 2021-11-30 | 2022-05-09 |
-| [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 |  |
+| [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 | 2023-12-20 |
 | [Stars Before The Sun](https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:27 | 2022-04-01 |  |
 | [Stars Before The Sun](https://open.spotify.com/track/4d7dyljzjkPs3tT0xK1KF7) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Stars Before The Sun](https://open.spotify.com/album/2tLcU78vHNEPPuSaiPuWZI) | 3:27 | 2021-11-30 | 2022-07-29 |
 | [Still Breathing](https://open.spotify.com/track/7B0haLvZqqZFWkmfLl6JXS) | [Elusive](https://open.spotify.com/artist/6myEKXiRQOo8qxdF2YHdDZ) | [Still Breathing](https://open.spotify.com/album/0Qct6u71GJTwvSQJPzLgJq) | 4:31 | 2021-11-30 | 2022-05-19 |
 | [Strangers \- Radio Edit](https://open.spotify.com/track/1u1Lm8J4ELoKPUTYuBH39o) | [Spring.Fall.Sea](https://open.spotify.com/artist/07DpdTcJtQoY1aXSvjTtEB) | [Strangers \(Radio Edit\)](https://open.spotify.com/album/3wSfxVgiyNOd3o7qi4xAXs) | 3:37 | 2021-11-30 | 2022-04-21 |
 | [Sudden Sky](https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 4:20 | 2021-11-30 | 2022-12-04 |
+| [Sudden Sky](https://open.spotify.com/track/5gmGD41LUe9flASYQsfAWn) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/7f8faOO0gxuG26Qo7GIlkr) | 4:20 | 2023-06-20 |  |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2023-11-28 |
 | [Swipe](https://open.spotify.com/track/5Xm3q9DHDSCGyQg2o3RGhD) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [Swipe](https://open.spotify.com/album/4xdo8J0AGTVlvxQoIkR0jB) | 3:13 | 2021-11-30 | 2022-07-27 |
 | [Synthetic](https://open.spotify.com/track/0TjdRpN1VNAqmQPmGkwGBd) | [Summer Wars](https://open.spotify.com/artist/0G96TkItgnb79cFLnUbdhy), [Nick Casasanto](https://open.spotify.com/artist/3IwnEcBxXV4WR3M4zroChh) | [Synthetic](https://open.spotify.com/album/6HVeTYGVcf6Qazkj2jXR2f) | 3:47 | 2021-11-30 | 2022-06-24 |

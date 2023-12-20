@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 
 > Empezó el zapateo\. ¡Take tarake take!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,432 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,433 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 15 | [Guaracha Con Ñejo](https://open.spotify.com/track/6pAgwmKrBsZvDtlQ2lniK3) | [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Guaracha Con Ñejo](https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9) | 3:33 |
 | 16 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
 | 17 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
-| 18 | [Respira](https://open.spotify.com/track/45n3wDN61hmYVdUcouWoXA) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Soley GJ](https://open.spotify.com/artist/6XwiSUANGc1xBWtSXeL1EY) | [Origenes](https://open.spotify.com/album/66OBjU5X4edaRBuNZHaZYV) | 3:19 |
+| 18 | [Respira](https://open.spotify.com/track/45n3wDN61hmYVdUcouWoXA) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [Origenes](https://open.spotify.com/album/66OBjU5X4edaRBuNZHaZYV) | 3:19 |
 | 19 | [Don't Call Me](https://open.spotify.com/track/7kNVWqaAteTJEk6X3XYPWz) | [Camila Gil Dj](https://open.spotify.com/artist/1R4IVMO52fdaBQqXFyHjhi), [Dominique](https://open.spotify.com/artist/6wxY85ryqjN6xGcs1JmUyP), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [Don't Call Me](https://open.spotify.com/album/1zYI6slSr5COTgiRYEFQCr) | 3:44 |
 | 20 | [Toco el Cielo](https://open.spotify.com/track/2aq9MMe06Uw0v76iaCRceg) | [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI), [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt) | [Toco el Cielo](https://open.spotify.com/album/2jWj6KsoXN1R3gRPjcuYzT) | 5:17 |
 | 21 | [Sweet Dreams](https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Sweet Dreams](https://open.spotify.com/album/3w6gpFZnwljc37HpVlr3WB) | 2:31 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 84 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 85 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 
-Snapshot ID: `MCwwNDQ0ZmRiNjk5Mzk5YmU0YmE0N2RhMDFlODYwY2JhNGE3MDJkODEx`
+Snapshot ID: `MCw3YTU1YTMwNzgzMmM4YzE0YWJhYzQ2ZTIyNjFiNjA1NTA4ZDk0YThk`

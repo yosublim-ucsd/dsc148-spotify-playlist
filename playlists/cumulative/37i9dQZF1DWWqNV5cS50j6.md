@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,580 songs - 3 day 4 hr 10 min
+1,581 songs - 3 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [ANTIGRAVITY](https://open.spotify.com/track/3vS4mbVxt9cOpaxtV2uZNr) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [VISUALS \(DELUXE\)](https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ) | 1:53 | 2022-08-26 | 2022-11-09 |
 | [anymore](https://open.spotify.com/track/7AJZthxqKgdpNmoeo0QSwV) | [Grace Sanders](https://open.spotify.com/artist/2aDcf64iS2QBTPjBKkkBBL) | [anymore](https://open.spotify.com/album/7l5LuCySWubSnrRV7P7doi) | 4:39 | 2022-04-15 | 2022-06-18 |
 | [Archon](https://open.spotify.com/track/0MlrPAiB0PtE5VOrZ8PuAs) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 2:56 | 2022-05-09 | 2022-07-19 |
-| [Archon](https://open.spotify.com/track/3AmPOosncyUct6bfI4vQdL) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/5oMbK3bD68FOMhQm9Rts6z) | 2:56 | 2022-10-25 |  |
+| [Archon](https://open.spotify.com/track/3AmPOosncyUct6bfI4vQdL) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/5oMbK3bD68FOMhQm9Rts6z) | 2:56 | 2022-10-25 | 2023-12-20 |
 | [Archon](https://open.spotify.com/track/6fMWYAVmr6SVyt6vsxetYF) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Archon](https://open.spotify.com/album/28f8Dn5kYQQKmUoJx74V0Y) | 2:56 | 2021-10-01 | 2022-05-10 |
 | [are you sleeping alone again?](https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [are you sleeping alone again?](https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU) | 2:06 | 2023-01-13 | 2023-03-04 |
 | [argyle](https://open.spotify.com/track/5PlTDE2RLbcC9vBzbGAG4y) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [argyle](https://open.spotify.com/album/3urZZqZs16FNxBfyRZj2HU) | 2:45 | 2021-10-12 | 2022-04-10 |
@@ -543,6 +543,7 @@
 | [go away \(feat\. midwxst\)](https://open.spotify.com/track/2EYwH5PIbRLH2kyP5Shf8N) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:57 | 2021-11-17 | 2021-12-22 |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-07 | 2022-02-12 |
 | [goddammit.](https://open.spotify.com/track/005w7f7Ect0chkLpfGmYvx) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [goddammit.](https://open.spotify.com/album/4YQz0KegsElofuJ6A3QtFs) | 2:58 | 2023-04-28 | 2023-07-22 |
+| [Going Crazy](https://open.spotify.com/track/79j5lxEjuh5ixfJU2Lt2SS) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Going Crazy](https://open.spotify.com/album/6DCVlCkgPkgPkhY9ZJfaY0) | 3:11 | 2023-12-08 |  |
 | [Going On \(feat\. Bickleboy & Nana Lourdes\)](https://open.spotify.com/track/5TIEY4Ix0SGsv0SvhEHunP) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Bickleboy](https://open.spotify.com/artist/4EiOZ9dwFt1s8ROGWwyB2e), [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Control Freak](https://open.spotify.com/album/1CdGXtmDl8sakZOlOOAwXl) | 1:59 | 2023-04-14 | 2023-07-22 |
 | [Going Thru](https://open.spotify.com/track/1G1zhTPT7ZlgZHsyjelcQg) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Summer '17](https://open.spotify.com/album/25yeAS4H5ndooKc4yV4zEg) | 5:13 | 2022-05-09 | 2022-06-01 |
 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 | 2022-05-27 | 2023-03-02 |

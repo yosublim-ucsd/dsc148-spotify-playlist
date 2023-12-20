@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 308317,
+  "num_followers": 308339,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjUzNTg4YmMxYzE5NWQ1NjczZmNjMTA0ZmVjNDM5OTViMTQxYWU0",
+  "snapshot_id": "MCxlMGY3ODlhNDVhNWZmMDg1MzZmMWFlNjA4MmViZjM2OWQ3MWE0ODNk",
   "tracks": [
     {
       "added_at": "2023-11-14 11:30:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
-        "name": "Unspoken Words",
-        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
+        "name": "Eastbound Silhouette",
+        "url": "https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
         }
       ],
-      "duration_ms": 285675,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+      "duration_ms": 527618,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY"
     },
     {
       "added_at": "2023-11-14 11:30:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
-        "name": "Eastbound Silhouette",
-        "url": "https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd"
+        "name": "Unspoken Words",
+        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
       },
       "artists": [
         {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
         }
       ],
-      "duration_ms": 527618,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY"
+      "duration_ms": 285675,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
     },
     {
       "added_at": "2023-11-14 11:30:00",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
-        "name": "Madman",
-        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+        "name": "Fade Into Black",
+        "url": "https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 448000,
-      "name": "Madman",
-      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+      "duration_ms": 244878,
+      "name": "Fade Into Black",
+      "url": "https://open.spotify.com/track/6iLmRyoQ1y7zVkWzmXL4nt"
     },
     {
       "added_at": "2023-11-14 11:30:00",
@@ -1267,22 +1271,18 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
-        "name": "Fade Into Black",
-        "url": "https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0"
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
         }
       ],
-      "duration_ms": 244878,
-      "name": "Fade Into Black",
-      "url": "https://open.spotify.com/track/6iLmRyoQ1y7zVkWzmXL4nt"
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
     }
   ],
   "unique_name": "Afterhours",

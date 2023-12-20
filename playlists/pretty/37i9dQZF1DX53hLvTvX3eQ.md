@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,659 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,699 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [이미 슬픈 사랑](https://open.spotify.com/track/4OKJVnIyO8KRq182dstNOI) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Wear To Healing](https://open.spotify.com/album/2AnkRwvtuLl5DwmrwSRndo) | 4:03 |
 | 2 | [그래서 그대는](https://open.spotify.com/track/5aVuzoktGBQRedWuHqRhLC) | [Yarn](https://open.spotify.com/artist/3226f2U0gI31nf1pUdNO8t) | [Yarn's Best Vol.1](https://open.spotify.com/album/43fHwMitZWvkOAN4aeI4jP) | 4:24 |
-| 3 | [고해](https://open.spotify.com/track/1ZWVTJbm5XCJEBn4jrcER6) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/6xBBPD2xe2FeVfyZcfyGyV) | 5:00 |
+| 3 | [고해](https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 5:02 |
 | 4 | [진혼](https://open.spotify.com/track/2BxUjHQRrYX82cP3wDvOTU) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Restructure](https://open.spotify.com/album/6NEUkvavXv0GoJYxWPpfLp) | 5:06 |
 | 5 | [Don't Cry](https://open.spotify.com/track/5wJOqoOsEqJWoHaisUpDVV) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [Melody Quus](https://open.spotify.com/album/6Nb2dANlImyX56CsWHxDEW) | 4:04 |
 | 6 | [Endless](https://open.spotify.com/track/1OzCTRwO4znqWZsPJZpRSt) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [해룡이의 Sad Love Story](https://open.spotify.com/album/7KFnrJoRlzphnYp2tZefaS) | 4:15 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 20 | [말리꽃](https://open.spotify.com/track/1RU6gAnZSoxAE1pYTE7cfh) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [청연 \(Original Soundtrack\)](https://open.spotify.com/album/51Up0SNMGyG6lWKPM7bJ5X) | 4:50 |
 | 21 | [사랑할수록](https://open.spotify.com/track/30GH7aoSEBD9YmgSy83K85) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 4:10 |
 | 22 | [Heaven](https://open.spotify.com/track/7uo6d7vlvaWZVeoiMCZmsN) | [김현성](https://open.spotify.com/artist/05HCRWM8qQ2JHQrciIpX8p) | [Soulmate](https://open.spotify.com/album/3FSFtyCOyHHDXbaqBsK3sa) | 4:38 |
-| 23 | [비상](https://open.spotify.com/track/29acMabyXUwGFEvfqLJM7a) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범 II / 2집](https://open.spotify.com/album/1cLD9RhI7VomKeQcbBpxvu) | 4:29 |
+| 23 | [비상](https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:30 |
 | 24 | [비의 랩소디](https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN) | [최재훈](https://open.spotify.com/artist/5dL3HWKQaQBnqhIDsMZQBB) | [Return](https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV) | 4:21 |
 | 25 | [천년의 사랑](https://open.spotify.com/track/29FS4aopbu0HWQ2GSFalvy) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애](https://open.spotify.com/album/3TQXaDuauGf8syAkPbYrex) | 4:25 |
 | 26 | [슬픈 언약식](https://open.spotify.com/track/01V3UPOp55CbF598WEcsqS) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [4Love](https://open.spotify.com/album/6TcJ8I4bTBO8924wOksjUI) | 4:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 74 | [유죄](https://open.spotify.com/track/50JJRvyBQRF0wXfXYQ5U3B) | [Kim Hyun Sung](https://open.spotify.com/artist/2OlQF7o8Cos9ruBAYxfy7I) | [Kim Hyun Sung 2 Solo Album](https://open.spotify.com/album/333rXQab40GUjauLGmMPuD) | 4:05 |
 | 75 | [You](https://open.spotify.com/track/532BkP20KoyCq7ehziah0N) | [Kim SangMin](https://open.spotify.com/artist/1qUM2ze6aqsBM8eIUDJlqo) | [Face](https://open.spotify.com/album/5DKVM7qALIPE2dsiPP6spX) | 4:38 |
 
-Snapshot ID: `MCw0MTgyNDQxZDZkODEyZTQ2MDY5YzJmOGVkM2JkOWYzZjI0MThmNmRi`
+Snapshot ID: `MCw2MWFiNDU1ODFjN2ExYTRjZWQ2NTU5NjU3NWIyNTk3ZGFhM2M1OGQ1`

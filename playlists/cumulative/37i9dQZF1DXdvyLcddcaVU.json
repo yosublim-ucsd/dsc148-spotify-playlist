@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 176000,
       "name": "Belle",
       "url": "https://open.spotify.com/track/2BUtRxxgzFgmhXeVyXAdZv"
@@ -1062,6 +1062,24 @@
       "duration_ms": 219720,
       "name": "Chou wasabi (feat. Micky Green)",
       "url": "https://open.spotify.com/track/1mZbP5dp7CAU2qZI2I6OiV"
+    },
+    {
+      "album": {
+        "name": "Christian Dior",
+        "url": "https://open.spotify.com/album/3Zj4TuPXuharEk359TBOxc"
+      },
+      "artists": [
+        {
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Christian Dior",
+      "url": "https://open.spotify.com/track/6YRplhBAorNmsdLf4eHIxc"
     },
     {
       "album": {

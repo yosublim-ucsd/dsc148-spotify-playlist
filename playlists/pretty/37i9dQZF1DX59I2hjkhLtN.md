@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,098 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,099 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 9 | [Fotossíntese](https://open.spotify.com/track/6kCAwwPzYFk2HmH5YPzVSd) | [NOIATT](https://open.spotify.com/artist/0KZUlXo9Xt5pxkSRZhNJo3) | [Oblíquo](https://open.spotify.com/album/54Df7jJFSVaesioPnZi30T) | 3:02 |
 | 10 | [TÃO CEDO + SINNER](https://open.spotify.com/track/4K8VHskpM8cc082qEA67WI) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [TÃO CEDO + SINNER](https://open.spotify.com/album/7r15UlR8wBxUsuiEP7PRAK) | 3:33 |
 | 11 | [Enquanto Eu Viver](https://open.spotify.com/track/0416e2MiccAlvEtwmNfSwe) | [E2SON](https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs) | [Enquanto Eu Viver](https://open.spotify.com/album/6nTlaec7wOXaUC24a9QpN2) | 4:03 |
-| 12 | [PICK UP](https://open.spotify.com/track/0ZPhPW9J2ky662a67e3bql) | [Ricoo](https://open.spotify.com/artist/0F084gqcHRhZsxhxQjnHos) | [PICK UP](https://open.spotify.com/album/61up6FNPlL9ae5AQuyZsZs) | 1:08 |
+| 12 | [PICK UP](https://open.spotify.com/track/0ZPhPW9J2ky662a67e3bql) | [HeyRicoo](https://open.spotify.com/artist/7gv9htyT9jMdsEPLcan5SI) | [PICK UP](https://open.spotify.com/album/61up6FNPlL9ae5AQuyZsZs) | 1:08 |
 | 13 | [Mikado](https://open.spotify.com/track/5IQWTfwLGphW2cFeHuAyCe) | [Capão](https://open.spotify.com/artist/1V86kXTwC0BxS5InOpVsVY) | [Dupla Personalidade](https://open.spotify.com/album/20yCSHs6XyhNVsHFT0yJDP) | 2:27 |
 | 14 | [BAGDA 2.0](https://open.spotify.com/track/6rqd40V67yLe97oPux4R6G) | [GBZ](https://open.spotify.com/artist/5JuOAzaCG0kaLfXN3SuZTH), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [BAGDA 2.0](https://open.spotify.com/album/4yUPbzk5oJrEOswGp5YC2r) | 3:19 |
 | 15 | [VICIOS](https://open.spotify.com/track/3gqsXybrGBj8DcInbzMPBp) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [VICIOS](https://open.spotify.com/album/7gxBZLxvR7eInArMFhRELK) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Miopia](https://open.spotify.com/track/094uD2FUQ5CAJyqqIs5gdx) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Miopia](https://open.spotify.com/album/3GGDmoL0Rhqk4KdoD9nYfu) | 2:38 |
 | 100 | [Outlawz](https://open.spotify.com/track/3eqL10wOqMkrQUlEb1bX8K) | [Black Lyrics](https://open.spotify.com/artist/73wlV7dL65MhDD3ykH5FGX), [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT) | [Outlawz](https://open.spotify.com/album/3NwY5WK2PFzJ3JiDYx5FRU) | 3:45 |
 
-Snapshot ID: `MCwzYTg4ZGQ1YzFlZDgxZDk2MmFiYjBiNjFkMDk2NDM5MTJhOTc2ZTRk`
+Snapshot ID: `MCxmNzlhNzk2NDZhYmMyMjIwY2M1NGQxY2RiOGUxYmM2MDAwOTgxNjky`

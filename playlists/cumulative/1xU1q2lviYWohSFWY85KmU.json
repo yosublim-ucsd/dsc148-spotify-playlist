@@ -16,10 +16,28 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 215686,
       "name": "Amusement Panic",
       "url": "https://open.spotify.com/track/5SFCJ6A7tom0nJaxB5hCQ5"
+    },
+    {
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/5KSCbb8pFhmMpyOdY88CYD"
+      },
+      "artists": [
+        {
+          "name": "oQ",
+          "url": "https://open.spotify.com/artist/6HtRqmL3rKEekaXCLkSgbT"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190888,
+      "name": "ANIMAL (feat. \u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/3j55hXObPaoslK2aKufh1X"
     },
     {
       "album": {
@@ -108,6 +126,24 @@
       "duration_ms": 267236,
       "name": "Kiss Away",
       "url": "https://open.spotify.com/track/0klsReyEXDEZgILAntYptF"
+    },
+    {
+      "album": {
+        "name": "lupinus",
+        "url": "https://open.spotify.com/album/2K9ewsU2EfOHohzWINBYX2"
+      },
+      "artists": [
+        {
+          "name": "Ayame",
+          "url": "https://open.spotify.com/artist/5CL3yGd8CsbAmr1eqK6aic"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276413,
+      "name": "lupinus",
+      "url": "https://open.spotify.com/track/1nbTxN0QAt7QueN5j7GlYW"
     },
     {
       "album": {
@@ -224,7 +260,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 199069,
       "name": "Swimminng High",
       "url": "https://open.spotify.com/track/2LQbZ72NP3ldz9OtNpHSNz"
@@ -359,6 +395,36 @@
     },
     {
       "album": {
+        "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01",
+        "url": "https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195757,
+      "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V"
+    },
+    {
+      "album": {
         "name": "\u30df\u30e9\u30a4\u30c8\u30a2\u30eb\u30de\u30c1\u5ef6\u5bff",
         "url": "https://open.spotify.com/album/2NxW5tQXNae6K7SN6bcujO"
       },
@@ -466,7 +532,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 249613,
       "name": "\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8\u30fb\u30a2\u30eb\u30d5\u30a3\u30fc\u30cd (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/30kSbRvgTl5njO7Czo1YEx"
@@ -488,6 +554,28 @@
       "duration_ms": 231157,
       "name": "\u30bc\u30ed\u306b\u306a\u3063\u3066 feat. \u590f\u8272\u82b1\u68a8",
       "url": "https://open.spotify.com/track/5OQqcUKd3HnqZbSIIJ1MJP"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30c3\u30b7\u30e5\u3067\u306b\u3052\u308d\uff01",
+        "url": "https://open.spotify.com/album/6BlDtXgsPLzF6Mku5eqyJn"
+      },
+      "artists": [
+        {
+          "name": "kinoshita",
+          "url": "https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184216,
+      "name": "\u30c0\u30c3\u30b7\u30e5\u3067\u306b\u3052\u308d\uff01 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4KByqaUdj7DO75MHi9iPDY"
     },
     {
       "album": {
@@ -586,7 +674,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 209999,
       "name": "\u30df\u30e9\u30a4\u3069\u3093\u306a\u3060\u308d\u3046 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5Yi76YNCI6gav37aKqZugz"
@@ -608,6 +696,28 @@
       "duration_ms": 241846,
       "name": "\u30df\u30e9\u30a4\u30b9\u30da\u30af\u30bf\u30af\u30eb (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2zfnoPgvW0kI5XKReTwNxk"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30c6\u30aa",
+        "url": "https://open.spotify.com/album/4qMkZqUp5ZeEzfXkwHaq0Q"
+      },
+      "artists": [
+        {
+          "name": "\u3046\u3069\u3093\u30bf\u30a4\u30de\u30fcP",
+          "url": "https://open.spotify.com/artist/4ta5vqvsNmN0wFUultQHdJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255085,
+      "name": "\u30e1\u30c6\u30aa (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6GE3KrLgJzWXBWezToR85h"
     },
     {
       "album": {
@@ -868,7 +978,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 243000,
       "name": "\u6ce1\u590f\u306e\u30b7\u30ed\u30c3\u30d7 (feat. \u53cc\u8449\u6e4a\u97f3)",
       "url": "https://open.spotify.com/track/56wsNME2ve1sHrfUXggZcF"

@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 233293,
       "name": "Breathe In, Breathe Out",
       "url": "https://open.spotify.com/track/4Bn7DWe9pH2iM5gTpSaC0r"
@@ -1672,6 +1672,24 @@
       "duration_ms": 155560,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3"
+    },
+    {
+      "album": {
+        "name": "Being Polite (In a Mean Way)",
+        "url": "https://open.spotify.com/album/5xMNi61LHTbEvHuk0DHZCI"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u56fd\u59d1\u5a18",
+          "url": "https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152360,
+      "name": "Comb Song",
+      "url": "https://open.spotify.com/track/6F1OdnUbFzDBFXRWkZzFQt"
     },
     {
       "album": {
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 182000,
       "name": "Guitar",
       "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
@@ -3827,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "we",
+        "url": "https://open.spotify.com/album/2UqlRqWxfYnlQFEgNoot7v"
+      },
+      "artists": [
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197216,
+      "name": "imagine if",
+      "url": "https://open.spotify.com/track/7nDdxPUC5LbxmspeqkOzt8"
+    },
+    {
+      "album": {
         "name": "Infinity Sunset",
         "url": "https://open.spotify.com/album/44TG59bpLSTuANLGSnhToH"
       },
@@ -3954,6 +3990,24 @@
       "duration_ms": 457786,
       "name": "kaeruganaita",
       "url": "https://open.spotify.com/track/5bnapoAO0zeRr3PImFCywz"
+    },
+    {
+      "album": {
+        "name": "kani",
+        "url": "https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28"
+      },
+      "artists": [
+        {
+          "name": "South Penguin",
+          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109373,
+      "name": "kani",
+      "url": "https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB"
     },
     {
       "album": {
@@ -6984,7 +7038,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 192289,
       "name": "Time On My Hands - Lo-Fi Version",
       "url": "https://open.spotify.com/track/4BsfjMvKVqc2FMNw6qn21v"

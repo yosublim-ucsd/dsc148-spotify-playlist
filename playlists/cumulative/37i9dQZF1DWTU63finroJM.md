@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Zior Park.
 
-1,174 songs - 2 day 17 hr 2 min
+1,175 songs - 2 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1147,6 +1147,7 @@
 | [热带雨 \- 《热带雨》电影同名主题曲](https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [热带雨 \(《热带雨》电影同名主题曲\)](https://open.spotify.com/album/6JHeFZxMEsEbnTAqK8cK2O) | 4:06 | 2022-02-03 | 2022-03-18 |
 | [無所謂](https://open.spotify.com/track/1dPtFcK3m7dTtIBe3AwurO) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [無所謂](https://open.spotify.com/album/5WXptJIuAu3IJ5RuOHRtxQ) | 2:52 | 2022-03-21 | 2023-04-18 |
 | [無源之愛](https://open.spotify.com/track/4geP6KQzst4ETo3SPMaCiV) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Jason Yu](https://open.spotify.com/artist/0bFyd1ptUSFAfhQOpLt9g1) | [無源之愛](https://open.spotify.com/album/757bdTm0Z5I2oNNLLCXPuw) | 2:41 | 2022-03-24 | 2022-05-20 |
+| [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-12-19 |  |
 | [現在的事我說不出口](https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [現在的事我說不出口](https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ) | 3:58 | 2023-12-15 |  |
 | [生活復常](https://open.spotify.com/track/3cMG9t7dzGwcFs4vnU5Xa0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [生活復常](https://open.spotify.com/album/0kjVZySk9kDsn9nhybF8cL) | 3:49 | 2023-05-30 | 2023-10-06 |
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-03-24 | 2022-04-26 |
@@ -1174,7 +1175,7 @@
 | [雨時雨](https://open.spotify.com/track/1fVStfP0LiZwZAht5rVw36) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [雨時雨](https://open.spotify.com/album/0YLyKKbHEgZuiDKrlg8ebM) | 4:18 | 2022-03-17 | 2022-04-16 |
 | [電線桿上的鳥](https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 3:55 | 2023-05-30 | 2023-11-18 |
 | [颜料](https://open.spotify.com/track/4yVble3Nm0b29LcHoKIH2i) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [颜料](https://open.spotify.com/album/4en63hNEmbPrywXXMY1blo) | 3:41 | 2022-02-03 | 2022-08-02 |
-| [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-13 |  |
+| [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-13 | 2023-12-20 |
 | [鯨魚](https://open.spotify.com/track/2l2ELmXAsLPYdDaqv86inS) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [鯨魚](https://open.spotify.com/album/02GXdT6dk5VTw7BmenxVgh) | 4:01 | 2022-02-03 | 2022-03-16 |
 | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/track/3TewUoxPgSIvXOT0IgPf1i) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Geniuz F the FUTURE](https://open.spotify.com/artist/447RvE0QN6IQgxWbllfL2g) | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/album/084SZr4OQdAn7MH2GS3X5G) | 3:27 | 2022-03-24 | 2022-06-27 |
 | [點燈的人](https://open.spotify.com/track/2UH12YTjx5ynDqdrNZ6OBx) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [點燈的人](https://open.spotify.com/album/6uvtbqW6YYCjvzpVTPjaCy) | 3:45 | 2022-02-03 | 2022-03-14 |

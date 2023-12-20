@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Rhyan Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,549 likes - 123 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,564 likes - 123 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 122 | [Prototype](https://open.spotify.com/track/7LdDWjCr7rSIHOfNktB3KW) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 2:36 |
 | 123 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/3W7p3aKtbyLjqiTwxF1jKw) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/0gcr59uNr2tD6yoz9dRipQ) | 3:15 |
 
-Snapshot ID: `MCxkNTNjMzhhZDYwNDk2ZTA4ZDRmZDQ0MjQ4YjFlN2QyNjQ3Y2ZhOTI0`
+Snapshot ID: `MCw4N2UzMzc0NDM5YmRhY2U1ZTM1ZDgxMzEzOWY1MGU0MjcyOGFhOTE5`

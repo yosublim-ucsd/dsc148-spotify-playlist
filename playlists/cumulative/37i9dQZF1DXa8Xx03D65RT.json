@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "A French Film",
+        "url": "https://open.spotify.com/album/2JmiWAL0pcAGTBatnbPcp4"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139666,
+      "name": "A French Film",
+      "url": "https://open.spotify.com/track/72eFRpAOIUP4W5LF9pBydT"
+    },
+    {
+      "album": {
         "name": "A Gentle Place",
         "url": "https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 125816,
       "name": "Aurskog",
       "url": "https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6"
@@ -7601,6 +7619,24 @@
     },
     {
       "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/0g9e9dDtZqkgsF8rKCCaD0"
+      },
+      "artists": [
+        {
+          "name": "Quies Mentis",
+          "url": "https://open.spotify.com/artist/7qUboETECQdDdZ5Nzmb5IT"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/4vFdBWXDY7Y8sPvWYFqAGK"
+    },
+    {
+      "album": {
         "name": "My Solace My Home",
         "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
       },
@@ -12268,7 +12304,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 188938,
       "name": "Turquoise Move",
       "url": "https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6"

@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: Bruses
 
-2,042 songs - 4 day 11 hr 43 min
+2,043 songs - 4 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1496,6 +1496,7 @@
 | [SABOTAGE//](https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SABOTAGE//](https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e) | 3:20 | 2023-06-16 | 2023-07-08 |
 | [Sad Money](https://open.spotify.com/track/7aL34pRMvHtAy4OUdynAad) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Sad Money](https://open.spotify.com/album/7ieonj2P7kslxxpJWNm7d6) | 3:10 | 2022-05-20 | 2022-06-18 |
 | [Sad White Reggae](https://open.spotify.com/track/5R78f5MpugcC8TYU8OQffZ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Never Let Me Go](https://open.spotify.com/album/4ZhzAHX6g4Lakn4QMgzCaM) | 3:25 | 2022-03-18 | 2022-06-04 |
+| [Safe Side](https://open.spotify.com/track/5JaWRJrewWzIaK3TJfjDBN) | [Saticöy](https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO), [Connor Musarra](https://open.spotify.com/artist/5NXojGjcyIaQTMFElFqna4) | [Origami](https://open.spotify.com/album/6T90kyULWSiT5DgbnGOaaE) | 2:37 | 2023-12-19 |  |
 | [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 | 2023-05-19 | 2023-05-27 |
 | [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-07 | 2023-05-24 |
 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 | 2023-03-24 | 2023-05-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,757 likes - 66 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,801 likes - 66 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 44 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 45 | [Green Gold](https://open.spotify.com/track/5SbpPSeNIXa4Fej0gWYyB6) | [Spiritual South](https://open.spotify.com/artist/4g3lS6MOotFLANHT3Qdy5b) | [Green Gold](https://open.spotify.com/album/5btCKA8CSIEZZUXMMMXKBo) | 7:30 |
 | 46 | [It Could’ve Been You](https://open.spotify.com/track/422f5psw2e4HxW20mIDDdz) | [Another Chemical Love Story](https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv), [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Another Chemical Love Story](https://open.spotify.com/album/1lBxw3WDeUdQyo2YiB4SVr) | 6:24 |
-| 47 | [Title Track \- Alec Falconer Remix](https://open.spotify.com/track/0N4pmlRhlP5YLf4StDev42) | [Buck Bumble](https://open.spotify.com/artist/5nvtMu7xH9HvkJtrSBomla), [Alec Falconer](https://open.spotify.com/artist/3E7E1RG43TpwTzlX4duGp5) | [Buck Bumble](https://open.spotify.com/album/24nzd5zy92KehUISTDtktA) | 5:04 |
+| 47 | [Buck Bumble Theme \- Alec Falconer Remix](https://open.spotify.com/track/0N4pmlRhlP5YLf4StDev42) | [Justin Scharvona](https://open.spotify.com/artist/033jTd9jqRN9mwuiJsKwwg), [Alec Falconer](https://open.spotify.com/artist/3E7E1RG43TpwTzlX4duGp5) | [Buck Bumble \(Alec Falconer Edits\)](https://open.spotify.com/album/24nzd5zy92KehUISTDtktA) | 5:04 |
 | 48 | [Perth](https://open.spotify.com/track/2jjXzs4XS9Kcmf9iSUbYuU) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Playground](https://open.spotify.com/album/5VSifRv9hr6vVNCNJ8j9lq) | 5:22 |
 | 49 | [Glut](https://open.spotify.com/track/1iH3H6Ul2GbMLDsYoqunnU) | [Ramadanman](https://open.spotify.com/artist/5RahUdA5cpDqZr1EBegGnY) | [Glut / Tempest](https://open.spotify.com/album/2AaP4dcsKOamDUmJx92Fe2) | 4:54 |
 | 50 | [Kitala Beat](https://open.spotify.com/track/3RBiNnEK0ZNZAkKdVGH7EW) | [Tom Blip](https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x), [Swordman Kitala](https://open.spotify.com/artist/58JJJyz6aYl9nRkTWSzH1c) | [Kitala Beat](https://open.spotify.com/album/7IkD2J470RjSa1sb8ovGwU) | 4:42 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 65 | [Charade \- Dick Johnson Remix](https://open.spotify.com/track/4lhXFwSLXY5yYgyluYmwUe) | [Sandy Mill](https://open.spotify.com/artist/5U68oNUNfoLKbPqoxFq6qB), [Dick Johnson](https://open.spotify.com/artist/1aJC3HAG67ndsncUrUCj5m) | [Charade \(Dick Johnson Remix\)](https://open.spotify.com/album/6Zkp96aoHOId6LBZjyDbjc) | 6:08 |
 | 66 | [Emmanuel's Groove](https://open.spotify.com/track/6e1id4vHQHd57s9PYYlUse) | [Azuro](https://open.spotify.com/artist/29rsvX8tM1cbyZhn554CFk) | [Chapter Four Edits](https://open.spotify.com/album/2hA0WWK54BvOtBVuFsb3ki) | 5:08 |
 
-Snapshot ID: `MCxiZTE5MjFjMjgyZTk1YmQxOGVmOWVhZTZjY2VmYzJmOGY1MzY2YWI1`
+Snapshot ID: `MCw2OGM4NjM0YzBmMDAyNTNlOThlZjAzOWI0ZDQ4MDdhNTAwYmI2YzYz`

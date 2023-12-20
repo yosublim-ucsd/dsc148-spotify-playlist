@@ -81,6 +81,40 @@
     },
     {
       "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+        },
+        {
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "Daniel Everidge",
+          "url": "https://open.spotify.com/artist/2Rimf9z3oYDBeszSXFACRR"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225933,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g"
+    },
+    {
+      "album": {
         "name": "Shake It Up: I <3 Dance",
         "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
       },

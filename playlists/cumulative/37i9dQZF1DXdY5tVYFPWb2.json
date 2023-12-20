@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5DYiTzrmHuucKmcRnyj6nn"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Dreamland",
+      "url": "https://open.spotify.com/track/7hdObItNdWFJ4WgrhajbKj"
+    },
+    {
+      "album": {
         "name": "ttyl",
         "url": "https://open.spotify.com/album/4CUtS7t6IKCjzoOkgRMtxb"
       },
@@ -2758,6 +2776,24 @@
       "duration_ms": 273866,
       "name": "Fly By Day",
       "url": "https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq"
+    },
+    {
+      "album": {
+        "name": "FLYIN' HIGH",
+        "url": "https://open.spotify.com/album/0hWOXUnD7eBL8GNEFfLnQ0"
+      },
+      "artists": [
+        {
+          "name": "ICE",
+          "url": "https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277241,
+      "name": "FLYIN' HIGH",
+      "url": "https://open.spotify.com/track/6cAacP2EjcuRkV2BhxlCuz"
     },
     {
       "album": {
@@ -5660,7 +5696,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 198088,
       "name": "OKACHIMACHI FRIDAY NIGHT",
       "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
@@ -7548,7 +7584,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 159767,
       "name": "SPINNIN'",
       "url": "https://open.spotify.com/track/5B6fLEaxiqXVvwr5a2fjM8"
@@ -8670,7 +8706,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 258385,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0jqXq7qi9zCTH79ngbnftu"
@@ -9144,7 +9180,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 242836,
       "name": "Twenty-Twenty",
       "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
@@ -9516,7 +9552,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 248842,
       "name": "What the Hell",
       "url": "https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y"
@@ -11576,7 +11612,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 176919,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
@@ -12179,6 +12215,28 @@
     },
     {
       "album": {
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e7e\u676f!!\uff5e\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30b3\u30e9\u30dc\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\uff5e",
+        "url": "https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4",
+      "url": "https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
         "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
@@ -12274,6 +12332,24 @@
       "duration_ms": 248715,
       "name": "\u5165\u6c5f\u306b\u3066",
       "url": "https://open.spotify.com/track/5xHubhwMi8QcbEz6ZpinEa"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306e\u5c45\u5834\u6240",
+        "url": "https://open.spotify.com/album/15x6ok2P0OFJrmk9DcAVUN"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223626,
+      "name": "\u541b\u306e\u5c45\u5834\u6240",
+      "url": "https://open.spotify.com/track/2p2aLfEpB9ItHaT5yC9Ylx"
     },
     {
       "album": {
@@ -12996,7 +13072,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 251882,
       "name": "\u611b\u3057\u3066\u308b\u306a\u3093\u3066\u4eca\u66f4",
       "url": "https://open.spotify.com/track/0bZLJwPW1jjTkzRcvB8sXC"
@@ -13738,6 +13814,28 @@
       "duration_ms": 310148,
       "name": "\u771f\u591c\u4e2d\u306e\u30c9\u30a2~stay with me - 2023 mix",
       "url": "https://open.spotify.com/track/1sfhFHNgn4R4Lxqlkup47k"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e7e\u676f!!\uff5e\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30b3\u30e9\u30dc\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\uff5e",
+        "url": "https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX"
+      },
+      "artists": [
+        {
+          "name": "YONCE",
+          "url": "https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf"
+        },
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336333,
+      "name": "\u771f\u73e0\u306e\u30d4\u30a2\u30b9",
+      "url": "https://open.spotify.com/track/5hkG4VCXTufcT05JSZqyRg"
     },
     {
       "album": {

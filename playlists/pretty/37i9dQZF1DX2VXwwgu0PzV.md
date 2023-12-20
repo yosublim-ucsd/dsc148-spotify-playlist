@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=ZH6h6PoyTZC4meHqmMEB\-A">Reblah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,613 likes - 101 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,655 likes - 101 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 100 | [Trust in You](https://open.spotify.com/track/24QZ8sZVtangqkebKPq4Lq) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2) | [Trust in You](https://open.spotify.com/album/3aKIB6yncFyXoE0t4ITRDl) | 3:30 |
 | 101 | [Provider](https://open.spotify.com/track/2l0MtMrRIvBIwRHfFTJ388) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Provider](https://open.spotify.com/album/08ypCfpeQ2fC2Ej3KL1yLX) | 2:23 |
 
-Snapshot ID: `MCw1NThiNjAzZGRkOGJiZjk3NmFjZDkyMTg3NWZkODdlYzllNzA4OGMw`
+Snapshot ID: `MCw5MmIzY2QwMGE0NzQ0OWZjMjZmZDA4ZTNiNTMyMThmZmEwM2YwZDAz`

@@ -6641,6 +6641,28 @@
     },
     {
       "album": {
+        "name": "Thunder In Paradise",
+        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/2j86lvo3pCILwHXWxziSe1"
+    },
+    {
+      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/6EsDzq06dJ2b09OINEIyHS"
       },

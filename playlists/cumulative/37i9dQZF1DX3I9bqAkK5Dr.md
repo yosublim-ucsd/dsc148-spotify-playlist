@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-176 songs - 10 hr 44 min
+177 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dooram](https://open.spotify.com/track/2XU0F3MuaqimD5RJkTaNUw) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt), [Sumukh VR](https://open.spotify.com/artist/4lDFMBYjSpzl8vDN6ooJds) | [Dooram](https://open.spotify.com/album/21KF0H2k3tSylln8od9TnA) | 3:47 | 2023-03-31 | 2023-10-12 |
 | [Dosthi](https://open.spotify.com/track/4ds6oPJGfWaDcTuEAvjAWZ) | [PVR Raja](https://open.spotify.com/artist/6tz2nw9kPvbVmlYZb9XLvV), [Tanvi Manjula Ghantasala](https://open.spotify.com/artist/4m1ehuNqR59FNh5ZEw0pcn), [Thaman Sai Jakkam](https://open.spotify.com/artist/2HsQl6VisUVm3wNAmH2skl), [Prabhath](https://open.spotify.com/artist/2289Y7PfjWzJMtcQ7G4LSk) | [Dosthi](https://open.spotify.com/album/6Y92q7B2qqgQQyRTHAm1bO) | 4:22 | 2023-07-24 | 2023-09-21 |
 | [Drunkard On The Road](https://open.spotify.com/track/7t7nXXkHjaReVvr9plCax3) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Drunkard On The Road](https://open.spotify.com/album/5FVbWIhlp7LSJz08VT08PS) | 2:26 | 2023-02-15 | 2023-05-23 |
+| [Em Mantramo](https://open.spotify.com/track/5bPh0qRKt19LMSz3YN6G1V) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf), [Sherni](https://open.spotify.com/artist/4Zw7oOYwz6P9NHJP5NGnWS) | [Em Mantramo](https://open.spotify.com/album/4TcOrl0eAyJTtCMqHIcxFh) | 2:53 | 2023-12-19 |  |
 | [Emone](https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Emone](https://open.spotify.com/album/2WcXXGGJiY1ID6JsVx2c1f) | 5:28 | 2023-02-02 |  |
 | [FLYHIGH](https://open.spotify.com/track/0U0iKIRF1TlNbl12VulMN5) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [FLYHIGH](https://open.spotify.com/album/5ZId7XjlQ5Wh8PpgfVLrVR) | 3:55 | 2023-06-29 | 2023-08-06 |
 | [Friendship Song \- Idhi Sneham, From "Ginna"](https://open.spotify.com/track/3jkbTIzLRyeFzBE5B0L1xK) | [Ariaana Manchu](https://open.spotify.com/artist/6NgAnOgY6uNLCWEdghi7jZ), [Viviana Manchu](https://open.spotify.com/artist/4qJ2VRqBg8YHSURZcx0QuS), [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Friendship Song \(Idhi Sneham, From "Ginna"\)](https://open.spotify.com/album/7njwrgvR9JWSzB0rv56g5U) | 3:55 | 2022-07-26 | 2023-05-23 |
@@ -153,7 +154,7 @@
 | [Saagave Manasa](https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP) | [Saagave Manasa](https://open.spotify.com/album/4X1Mxr9lLfdiRyFEo4GIKw) | 4:27 | 2023-07-24 |  |
 | [Sara Sara](https://open.spotify.com/track/44cftS2B4BP2bvOSarSM6x) | [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Sara Sara](https://open.spotify.com/album/6OKdkEQdcwGyhvkaocFwZm) | 1:04 | 2023-10-11 |  |
 | [Sathya \- Expression Of Love](https://open.spotify.com/track/4vIJqRzuVkLWg7wKMOL7St) | [Nishanth Shekar](https://open.spotify.com/artist/4eyGSxCplyGRpM7tKXP8l5), [Ayaan](https://open.spotify.com/artist/66NRi9Dp2PVLCOlxfSHY3v) | [Sathya \- Expression Of Love](https://open.spotify.com/album/64GLiOFpf3yKKlLUoOFgbK) | 2:54 | 2022-07-18 |  |
-| [Senorita](https://open.spotify.com/track/3sOIbX8Z78FhbGlkEyyGik) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Senorita](https://open.spotify.com/album/7pQCwjwozrK3RFejeLP6UA) | 3:26 | 2023-11-20 |  |
+| [Senorita](https://open.spotify.com/track/3sOIbX8Z78FhbGlkEyyGik) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Senorita](https://open.spotify.com/album/7pQCwjwozrK3RFejeLP6UA) | 3:26 | 2023-11-20 | 2023-12-20 |
 | [Shashi](https://open.spotify.com/track/34LZWWbtsf1EeuHFFXCh4j) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Shashi](https://open.spotify.com/album/4M7U0wd17LfToupjlmn4GZ) | 4:02 | 2022-11-25 |  |
 | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/track/56ASpqiyS2jNG5B5elaPO9) | [Hanumanth Yadav](https://open.spotify.com/artist/43kJUZHwzDo9sZtO81v2zl) | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/album/2SIJkXk8dUxBFP91brycuZ) | 3:27 | 2023-05-19 |  |
 | [Sin Amor](https://open.spotify.com/track/0B79xEGpoO6gubw7EXdqhG) | [Palan](https://open.spotify.com/artist/3h3nSNpwp9zppXybRDEKdA) | [Sin Amor](https://open.spotify.com/album/7egkhtRNFf89hpNHU4gaRb) | 2:54 | 2023-05-31 | 2023-07-11 |

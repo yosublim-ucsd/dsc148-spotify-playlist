@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-401 songs - 1 day 1 hr 58 min
+402 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Feel You](https://open.spotify.com/track/2NHRH85fSwtAXmtQXwEAHV) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Jonas Bjerre](https://open.spotify.com/artist/6XPzWnS6mnbzlY9E9sx9KK) | [YOU](https://open.spotify.com/album/3BAoabrqf7J3aBblCcbUbI) | 4:38 | 2021-09-10 | 2022-07-29 |
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 | 2020-12-22 |  |
 | [Feelin' Good](https://open.spotify.com/track/1bRzjpCcyh1GVbutxggR02) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Gotta Work Harder / Feelin' Good](https://open.spotify.com/album/2CA2DzU9wZ2bo1ejuV0Ciy) | 1:19 | 2020-12-22 | 2022-05-10 |
-| [Feelin' Good](https://open.spotify.com/track/5GkefxmfTqbYCJ58KXsuTi) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:19 | 2023-08-25 |  |
+| [Feelin' Good](https://open.spotify.com/track/5GkefxmfTqbYCJ58KXsuTi) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:19 | 2023-08-25 | 2023-12-20 |
 | [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 | 2023-05-16 | 2023-11-24 |
 | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 5:10 | 2023-05-16 | 2023-12-19 |
 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 | 2020-12-22 |  |
@@ -391,6 +391,7 @@
 | [What Falling in Love Is For](https://open.spotify.com/track/3SxAg03DY1UYpP8RABjdDP) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [What Falling in Love Is For](https://open.spotify.com/album/5KFYPrdsq0FtuGtEH4jZUE) | 2:54 | 2020-12-22 | 2022-10-13 |
 | [What Falling in Love Is For](https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [What Falling in Love Is For](https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68) | 2:54 | 2023-03-20 | 2023-12-18 |
 | [What Falling in Love Is For](https://open.spotify.com/track/7mLzduqXIyJ8bXxjE6fJUf) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [What Falling in Love Is For](https://open.spotify.com/album/0j4EGK02p89xpridPMp6sI) | 2:54 | 2020-12-22 | 2023-03-22 |
+| [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 | 2023-12-15 |  |
 | [What We've Got](https://open.spotify.com/track/5HEpukkNnxdPAV9zsgDLOx) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec), [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT) | [Manatee Commune](https://open.spotify.com/album/6MzzlBosYKeVzYLF5lZzlq) | 4:08 | 2020-12-22 | 2022-04-17 |
 | [When She Dance](https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 3:22 | 2023-06-09 | 2023-08-23 |
 | [When You Lock Eyes](https://open.spotify.com/track/436jz9bb0osX1lD8KUWf9U) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [When You Lock Eyes](https://open.spotify.com/album/5a8Xinn5KJFrMaOYt8Fbpo) | 2:22 | 2020-12-22 | 2022-07-29 |

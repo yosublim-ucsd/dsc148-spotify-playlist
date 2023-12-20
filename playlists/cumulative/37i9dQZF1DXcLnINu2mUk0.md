@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Van Zee.
 
-490 songs - 1 day 2 hr 26 min
+491 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Single](https://open.spotify.com/track/66NZgERUem7kGQhD8Q3dmw) | [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Pop\-Snacks](https://open.spotify.com/album/6QnafQGisP0YllLTxlGFv2) | 2:12 | 2023-11-17 | 2023-12-09 |
 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 | 2023-06-22 | 2023-12-09 |
 | [Slow Motion](https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE) | [Camy Breezy](https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ) | [Slow Motion](https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg) | 3:06 | 2022-10-13 | 2022-11-18 |
+| [So Flawless](https://open.spotify.com/track/1plyo1KCOcXS92FItfyXMx) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:15 | 2023-12-15 |  |
 | [So In Love](https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y) | [Also](https://open.spotify.com/artist/2nmwVsly6vXKUSKy6MW0Xm), [Luís Braz Teixeira](https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4) | [So In Love](https://open.spotify.com/album/5xb7REvTxublNuPzzat1Fz) | 3:45 | 2023-05-25 | 2023-06-09 |
 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 | 2023-01-20 | 2023-03-18 |
 | [Sola](https://open.spotify.com/track/2WhXmta31SYoJm7xMCmMWN) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Sola](https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd) | 3:14 | 2023-07-20 | 2023-08-11 |
@@ -493,7 +494,7 @@
 | [Yard](https://open.spotify.com/track/5Yw3ndPrkej9BDkmaK6pYl) | [Remedy DON Dadda](https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL), [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Yard](https://open.spotify.com/album/7o2gLbTGJCHuRXPqWZF6qP) | 4:00 | 2023-06-08 | 2023-06-30 |
 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 | 2022-12-02 | 2023-01-06 |
 | [À Tona](https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP) | [À Tona](https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe) | 2:14 | 2023-09-14 | 2023-10-13 |
-| [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 | 2023-12-08 |  |
+| [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 | 2023-12-08 | 2023-12-20 |
 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 | 2023-06-01 | 2023-07-21 |
 | [Água](https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl) | [Mariana Norton](https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV) | [Água](https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc) | 3:27 | 2023-05-18 | 2023-06-09 |
 | [Última Chance](https://open.spotify.com/track/6zCBcd3eIbyjiz2f0IyQgi) | [Cabo](https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex) | [Ansiedade & Paranóias](https://open.spotify.com/album/62QwzAOPcbroYvq9CDpcP8) | 3:48 | 2023-03-03 | 2023-03-31 |

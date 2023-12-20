@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Ryuk",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Carz",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 170500,
       "name": "99",
       "url": "https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g"
+    },
+    {
+      "album": {
+        "name": "against",
+        "url": "https://open.spotify.com/album/45WCSaUiLdSYvbNmSXlj3Z"
+      },
+      "artists": [
+        {
+          "name": "dooz rily",
+          "url": "https://open.spotify.com/artist/43N1tz4oKXxaSSLDRJQSis"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136478,
+      "name": "against",
+      "url": "https://open.spotify.com/track/6x7yUxodksEChtsWULMSu9"
     },
     {
       "album": {
@@ -320,7 +338,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 198846,
       "name": "Boorish",
       "url": "https://open.spotify.com/track/3zspNtIjp3YAVaTiBEtX5N"
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 150419,
       "name": "bubblegum",
       "url": "https://open.spotify.com/track/16L4VlIYzLOY34P9zCHcOe"
@@ -468,6 +486,24 @@
       "duration_ms": 145526,
       "name": "Cold Town",
       "url": "https://open.spotify.com/track/4o7giTDxOBnMWLI4VTiz3l"
+    },
+    {
+      "album": {
+        "name": "Dark side of the Moon",
+        "url": "https://open.spotify.com/album/0GrTBMjAYARNlbxxZQSfX0"
+      },
+      "artists": [
+        {
+          "name": "nero...",
+          "url": "https://open.spotify.com/artist/2a34XtjCSDkFlXy7B3GVTg"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Dark side of the Moon",
+      "url": "https://open.spotify.com/track/4gJ27Hsc9HZUXfr8zpogGq"
     },
     {
       "album": {
@@ -678,10 +714,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 170201,
       "name": "Driving 2",
       "url": "https://open.spotify.com/track/0iB2z4P79Hulg19EqWKZrn"
+    },
+    {
+      "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/2jGY1bc5vXDXgzICPue6KT"
+      },
+      "artists": [
+        {
+          "name": "RY0N4",
+          "url": "https://open.spotify.com/artist/3krxQ7NwEXM0Ba8Dzsln2g"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/01g974Te4DzVGimxFmv0B0"
     },
     {
       "album": {
@@ -1401,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "LEAD",
+        "url": "https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9"
+      },
+      "artists": [
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232125,
+      "name": "LEAD",
+      "url": "https://open.spotify.com/track/7LeYWbIiGruTyxr2VfMTBP"
+    },
+    {
+      "album": {
         "name": "Soul Quake",
         "url": "https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09"
       },
@@ -1720,7 +1792,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 143653,
       "name": "NIGHT D\u014cTONBORI",
       "url": "https://open.spotify.com/track/1McTNSOavmfiO6XrNmspqJ"
@@ -2299,6 +2371,28 @@
     },
     {
       "album": {
+        "name": "V.L.C. Tomorrow",
+        "url": "https://open.spotify.com/album/6cW1fYITwKu5RoPuq2KDIU"
+      },
+      "artists": [
+        {
+          "name": "SINO",
+          "url": "https://open.spotify.com/artist/0cs6SdLF2vIVW1eJ1dvAQE"
+        },
+        {
+          "name": "Kazu Dank",
+          "url": "https://open.spotify.com/artist/1oPwWvBU1s9qvGl66o3ZkJ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223008,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/5lfS6aBkfSq8OoWb4NnkLL"
+    },
+    {
+      "album": {
         "name": "waterdragon",
         "url": "https://open.spotify.com/album/2EL1SKBKvs67TRia9XhpAR"
       },
@@ -2450,7 +2544,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 147272,
       "name": "yeah is back",
       "url": "https://open.spotify.com/track/13Alm5RZKSXFiBonAuov4T"

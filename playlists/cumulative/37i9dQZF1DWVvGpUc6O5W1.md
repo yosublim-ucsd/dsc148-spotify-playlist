@@ -4,7 +4,7 @@
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-150 songs - 7 hr 49 min
+151 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 | 2022-01-25 |  |
 | [Mientes Muy Bonito](https://open.spotify.com/track/1QTWom4Tzef5oY0cPwABPs) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El Que a Ti Te Gusta](https://open.spotify.com/album/47wEWNQJIhuqODvvVTUtrl) | 3:07 | 2022-01-25 |  |
 | [Mientras Tú Jugabas](https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:10 | 2022-01-25 |  |
-| [Más Loca Que Yo](https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 2:39 | 2022-01-25 |  |
+| [Más Loca Que Yo](https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 2:39 | 2022-01-25 | 2023-12-20 |
 | [Nadie Es Indispensable](https://open.spotify.com/track/1YvQNXGSTocdgQDDCa59Nf) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:30 | 2022-01-25 |  |
 | [Ni Diablo Ni Santo](https://open.spotify.com/track/425mEnEqn5N8tBUL9WfZoi) | [Miguel Vaquero](https://open.spotify.com/artist/3INA6stKspBOcR9NU0SEmQ) | [Ni Diablo Ni Santo](https://open.spotify.com/album/6d1ddIAz1SXAim1sIXpksX) | 2:37 | 2022-01-25 |  |
 | [Ni Te Imaginas](https://open.spotify.com/track/2wJIqpXk7OGpwBxihlox6X) | [Pancho Uresti](https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd), [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi) | [A Lo Grande](https://open.spotify.com/album/6DvZtJ6na362jKnXdmPyyf) | 2:38 | 2022-01-25 |  |
@@ -111,6 +111,7 @@
 | [Perdóname](https://open.spotify.com/track/4p5jLUvSnWQnzK5ME1zUxj) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Besos Pasajeros](https://open.spotify.com/album/4hnLDA6aX8OHS3oHXSBKA0) | 3:39 | 2022-01-25 |  |
 | [Por Si Estás Con el Pendiente](https://open.spotify.com/track/7gJu99H6NNI031ZzedLD43) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Levantando Polvadera \(Versión Deluxe\)](https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6) | 2:50 | 2022-01-25 |  |
 | [Por Siempre Y Para Siempre](https://open.spotify.com/track/1tcLbRD7r6lgcKia0yPEbd) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Mi Promesa](https://open.spotify.com/album/0Ez3AihXSg9dVmgQcNnMmw) | 3:18 | 2022-01-25 |  |
+| [Por Unas Palabras](https://open.spotify.com/track/5aDV6fZY4x1InAgyF3ub4A) | [Camaleones](https://open.spotify.com/artist/7jVfVSj5GqOqMiYC9hUjtD) | [Música De La Telenovela Camaleones.](https://open.spotify.com/album/4WRtnRYnw2ehh07EHeBKap) | 3:11 | 2022-01-25 |  |
 | [Porque No Nos Damos](https://open.spotify.com/track/6c97taRbeED76s2Y0v5B9G) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:03 | 2022-01-25 |  |
 | [Pude](https://open.spotify.com/track/13vAioaFGieh0mfAF2pbjF) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:00 | 2022-01-25 |  |
 | [Pude](https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA) | [Gabriel Diaz](https://open.spotify.com/artist/4FqkFAlXmpAJGOsc9k4GBO) | [Prohibido El Amor](https://open.spotify.com/album/4t5EkZNnFsqJLOlETpfgj9) | 3:20 | 2022-01-25 |  |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX47UHGK8zGt8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX47UHGK8zGt8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX47UHGK8zGt8)
 
-### [Manhã Relax](https://open.spotify.com/playlist/37i9dQZF1DX47UHGK8zGt8)
+### [Manhã de Natal](https://open.spotify.com/playlist/37i9dQZF1DX47UHGK8zGt8)
 
 > Músicas calminhas pra começar o dia bem relax.
 

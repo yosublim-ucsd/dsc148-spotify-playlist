@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring ke onda.
 
-296 songs - 16 hr 8 min
+297 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 | 2022-12-09 | 2023-06-24 |
 | [DE REVERSA](https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/1Dcw9KQLD2KqrDENrUtjbR) | 3:04 | 2023-06-16 |  |
 | [deja de estudiar](https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [deja de estudiar](https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI) | 2:37 | 2023-01-20 | 2023-05-27 |
-| [Deriva](https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Error 404](https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp) | 1:54 | 2022-09-23 |  |
+| [Deriva](https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Error 404](https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp) | 1:54 | 2022-09-23 | 2023-12-20 |
 | [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 | 2023-02-03 | 2023-04-01 |
 | [didn't know](https://open.spotify.com/track/2UNwClFdYeUlJkejytviEF) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [didn't know](https://open.spotify.com/album/6SPcRko47zyU386oL9RqkK) | 2:58 | 2023-02-17 | 2023-04-10 |
 | [dime](https://open.spotify.com/track/42UGcqh6NpVuEFHZekjrqJ) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [2001](https://open.spotify.com/album/7fynD3Yq0jxuxKhgYxiNMi) | 2:06 | 2023-02-17 | 2023-11-11 |
@@ -300,6 +300,7 @@
 | [yo sad, tú feliz](https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [yo sad, tú feliz](https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5) | 2:41 | 2023-02-03 | 2023-05-06 |
 | [Young](https://open.spotify.com/track/47VlZn29DoKGOL64qbqxvt) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Young](https://open.spotify.com/album/25At4hX7SKuKb4jPtaGRmC) | 2:13 | 2022-07-25 | 2022-10-01 |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2022-03-25 | 2022-09-24 |
+| [¿Por Qué No Contestas?](https://open.spotify.com/track/0wBd8LyJaEwwWkgYcsCXff) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa), [Gusstav.](https://open.spotify.com/artist/3G6NL0pKf9HFnxHbfey388) | [¿Por Qué No Contestas?](https://open.spotify.com/album/38uQE0pDHBVdNtWpg5j2bn) | 3:37 | 2023-09-26 |  |
 | [¿Por qué no contestas?](https://open.spotify.com/track/1JiSJHXRLCVQnLsac2Lo9K) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa), [Gusstav.](https://open.spotify.com/artist/3G6NL0pKf9HFnxHbfey388) | [¿Por qué no contestas?](https://open.spotify.com/album/1P3mHv7LSVtroEGhlU8G6j) | 3:37 | 2023-05-19 | 2023-12-17 |
 | [¿porque me tratas así? :\(](https://open.spotify.com/track/3eihjYrGNiB3svna10wYHs) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [¿porque me tratas así? :\(](https://open.spotify.com/album/2YLA0YhH8grJHJOVXh61gh) | 3:18 | 2022-03-25 | 2022-08-27 |
 | [Ámbar](https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv), [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Lo Que Extrañas Ya No Existe](https://open.spotify.com/album/5Bp8NLfEfGAaXoTYjFvShH) | 3:28 | 2022-03-25 | 2022-10-01 |

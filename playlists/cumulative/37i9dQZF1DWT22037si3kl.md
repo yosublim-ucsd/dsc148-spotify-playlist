@@ -4,7 +4,7 @@
 
 > Chique e confortável como a realeza do trap\. Foto: Kyan
 
-323 songs - 15 hr 49 min
+324 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Dias sem dormir](https://open.spotify.com/track/35rDOlA5PaPyboTNjIrXQ0) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 3:03 | 2023-12-01 |  |
 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 | 2022-06-17 | 2023-08-19 |
 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 | 2022-03-18 | 2022-07-09 |
-| [Disritmia](https://open.spotify.com/track/1SZb1gT35oIpoLLIQt1KgY) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 2:44 | 2023-12-15 |  |
+| [Disritmia](https://open.spotify.com/track/1SZb1gT35oIpoLLIQt1KgY) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 2:44 | 2023-12-15 | 2023-12-20 |
+| [Disritmia](https://open.spotify.com/track/3OcDNaJywe4rKAgFHk3sBA) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 2:44 | 2023-12-15 |  |
 | [Dog Mal](https://open.spotify.com/track/26ma9tfvXOHJ1g2pTyX0i3) | [blkmc](https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F) | [Dog Mal](https://open.spotify.com/album/33XVi2HdqcGZRcwVskVZ8a) | 2:29 | 2023-04-09 | 2023-04-15 |
 | [Dolce & Gabbana](https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Dolce & Gabbana](https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw) | 2:25 | 2022-10-14 | 2023-07-18 |
 | [DONO DO JOGO](https://open.spotify.com/track/2u10VBlhnKLsA3fmTjVIoa) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv), [Turtle Flame](https://open.spotify.com/artist/2HHCU5N6OLMXvb3xXKKesI) | [DONO DO JOGO](https://open.spotify.com/album/751hlP8rAl3H55RBx5IilQ) | 2:34 | 2022-07-29 | 2022-08-13 |

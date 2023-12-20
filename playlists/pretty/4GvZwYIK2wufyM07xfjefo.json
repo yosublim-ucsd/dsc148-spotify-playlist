@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "NjU1LDAyOTIxMzBmY2U5YzY5ZGYyMTYzN2ZlMWU1MTM0YTA1ZTQ2MjJlNzc=",
+  "snapshot_id": "NjY0LDNjNzM3ZWQwMDMwNmM1M2M2MmRmNjNmMDFkMmM4MWExNWIyNjJjMGE=",
   "tracks": [
+    {
+      "added_at": "2023-12-19 08:04:51",
+      "album": {
+        "name": "\u8d77\u304d\u305f\u308916\u6642",
+        "url": "https://open.spotify.com/album/3XCZxu0b1fRVY4Qsvn6ao6"
+      },
+      "artists": [
+        {
+          "name": "\u304d\u3055\u3089",
+          "url": "https://open.spotify.com/artist/6UBD36BDxz7W53HaZcK4yT"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "\u8d77\u304d\u305f\u308916\u6642 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2p1egY5ETqCBmi558SQMal"
+    },
+    {
+      "added_at": "2023-12-19 08:05:35",
+      "album": {
+        "name": "Room303",
+        "url": "https://open.spotify.com/album/2wn4XDgB6yd2VgHun3BRYU"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ed\u30af\u30de\u6d88\u3057\u30b4\u30e0",
+          "url": "https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Room303 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3WKFq79bOxBnmYFFU8mcEu"
+    },
+    {
+      "added_at": "2023-12-19 08:05:47",
+      "album": {
+        "name": "\u30d4\u30c1\u30ab\u30fc\u30c8\u30c9\u30ed\u30c3\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/1f2d4KdJVAlXPttqcrFN2n"
+      },
+      "artists": [
+        {
+          "name": "Toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 220805,
+      "name": "\u30d4\u30c1\u30ab\u30fc\u30c8\u30c9\u30ed\u30c3\u30d7\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6pl9TqBuraGXsl0ZTWabyT"
+    },
+    {
+      "added_at": "2023-12-19 08:06:51",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/73UVsoOuj1mxGQkTRicqOd"
+      },
+      "artists": [
+        {
+          "name": "imie",
+          "url": "https://open.spotify.com/artist/6rSwyi7JxgruDv7qBcHupi"
+        }
+      ],
+      "duration_ms": 422086,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5sD7vZp2okvrN8lZsxZKzK"
+    },
+    {
+      "added_at": "2023-12-19 08:07:33",
+      "album": {
+        "name": "\u6708\u514e\u3068\u61d0\u4e2d\u9280\u6cb3",
+        "url": "https://open.spotify.com/album/6htJ3UphMCN1CcPstlk7WN"
+      },
+      "artists": [
+        {
+          "name": "yukkedoluce",
+          "url": "https://open.spotify.com/artist/3nSeaCUedWMfKESX5TcjRv"
+        }
+      ],
+      "duration_ms": 338624,
+      "name": "\u3068\u3099\u3046\u304b\u3057\u3066\u308b\u308f",
+      "url": "https://open.spotify.com/track/6paVnZT2ZRL9ZzHeBpMFLt"
+    },
     {
       "added_at": "2023-12-12 02:51:40",
       "album": {
@@ -607,94 +699,6 @@
       "duration_ms": 248000,
       "name": "\u5341\u5e74\u5f8c\u306e\u79c1 \u5341\u5e74\u5f8c\u306e\u672a\u6765",
       "url": "https://open.spotify.com/track/1OZBcgqvnbK5aoUljojwni"
-    },
-    {
-      "added_at": "2023-10-17 03:08:42",
-      "album": {
-        "name": "Ultramarine",
-        "url": "https://open.spotify.com/album/32IOJbAcfPbg7ODI9rGxYD"
-      },
-      "artists": [
-        {
-          "name": "\u52a0\u8cc0(\u30cd\u30ae\u30b7\u30e3\u30ef\u30fcP)",
-          "url": "https://open.spotify.com/artist/11wmNSrLRQHfaR2Gb8ehHm"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 196688,
-      "name": "\u30a4\u30b3\u30a4\u30db\u30ea\u30c3\u30af (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/5hew2g8U8VM9OA0FnLO9Nu"
-    },
-    {
-      "added_at": "2023-10-17 03:10:01",
-      "album": {
-        "name": "Easy to message",
-        "url": "https://open.spotify.com/album/5dq1mGKf8Dc3hd8vhO87Xv"
-      },
-      "artists": [
-        {
-          "name": "Clean Tears",
-          "url": "https://open.spotify.com/artist/7ib7T2bGDFIVqMQGw8rjt4"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 249420,
-      "name": "Easy to message (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3PKLB6IBsv5VFXorqr57YO"
-    },
-    {
-      "added_at": "2023-10-17 03:10:30",
-      "album": {
-        "name": "COLOR*FULL2",
-        "url": "https://open.spotify.com/album/0e8W5863IrcexAZPFVLmV3"
-      },
-      "artists": [
-        {
-          "name": "*Luna",
-          "url": "https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA"
-        }
-      ],
-      "duration_ms": 265081,
-      "name": "8.39",
-      "url": "https://open.spotify.com/track/3lOUkEGYneR6Xs3HnAdfw4"
-    },
-    {
-      "added_at": "2023-10-17 03:08:57",
-      "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1NDMdf30Ra3CFpKgGUHzgi"
-      },
-      "artists": [
-        {
-          "name": "yukitsuki",
-          "url": "https://open.spotify.com/artist/0QI68ykMZoGMCUSUlOOdfD"
-        }
-      ],
-      "duration_ms": 326043,
-      "name": "\u6c34\u69fd\u3068\u96e8",
-      "url": "https://open.spotify.com/track/6TCjaebHdBj9ByV4FeGial"
-    },
-    {
-      "added_at": "2023-10-17 03:09:28",
-      "album": {
-        "name": "Homeopathy",
-        "url": "https://open.spotify.com/album/4HFAUjIXOcUVk7MhepPVCD"
-      },
-      "artists": [
-        {
-          "name": "risou",
-          "url": "https://open.spotify.com/artist/74DvXhx3JpQLSiypP2yS2F"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "\u5287\u4e2d\u6b4c",
-      "url": "https://open.spotify.com/track/0l6pE1QkELKbkdSloP21Wj"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

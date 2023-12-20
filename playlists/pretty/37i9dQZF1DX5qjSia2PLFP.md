@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Guest Curator:   <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,238 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,284 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 35 | [2nd Happy](https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [2nd Happy](https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s) | 3:45 |
 | 36 | ['98 Vibes \(Do You Right\)](https://open.spotify.com/track/2PYZj3AqpS6Vtr4ghoe8eV) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | ['98 Vibes \(Do You Right\)](https://open.spotify.com/album/4HoaA1yYAjNWf7Db0vpp8x) | 3:58 |
 | 37 | [You \(Pilot\)](https://open.spotify.com/track/3X5DnSfVNrP0NNHSkuC6QU) | [Harolddd](https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V) | [You \(Pilot\)](https://open.spotify.com/album/4IgyEPrxoDW069lCmh2ev2) | 3:30 |
-| 38 | [Don’t Say Hello](https://open.spotify.com/track/2vLEr4lT0yFuBcP2Uz3xgS) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Don’t Say Hello](https://open.spotify.com/album/6tnHZRSIymuApxxWMAKvFY) | 2:38 |
+| 38 | [Don’t Say Hello](https://open.spotify.com/track/1QA1MC6dwUMEHetHrURiYh) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Så mycket bättre 2023 – Tolkningarna](https://open.spotify.com/album/45NHM9m9QNrw0idyrLNSWY) | 2:38 |
 | 39 | [Neon Cowboy](https://open.spotify.com/track/0IrWcbyRdfWARLLLZCLhuY) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Neon Cowboy](https://open.spotify.com/album/0J8y3sEsIwLDv9k44tBzlc) | 3:18 |
 | 40 | [THE CHEMICALS](https://open.spotify.com/track/7tw3GQ8HRmds16sAuwCxoZ) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [PRAYERS & PARANOIA](https://open.spotify.com/album/5l1Amt0Ll7yqnKEwxTE49R) | 4:04 |
 | 41 | [Birds \(with 6LACK\) \- Remix](https://open.spotify.com/track/5dXJizgpTzgmquUE9Gny6W) | [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Birds \(with 6LACK\) \- Remix](https://open.spotify.com/album/72Lhfv0DqqPcNnKAeNPb3O) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 |
 | 100 | [EMOTIONS DIE YOUNG](https://open.spotify.com/track/6bma2tbLXpqO2bEGqMVh3S) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [EMOTIONS DIE YOUNG](https://open.spotify.com/album/5ixY1CqyqRfuNZphz28rh6) | 2:49 |
 
-Snapshot ID: `MCw5NWE2YjBlNDBhZTEyYzc2ZGMyOTM3ZWIyMzAxYTMyMWRmZjNkYzA0`
+Snapshot ID: `MCw4ZDI5MGMwMTI5ZGFmZDAwNDZlNTc2YWY0OTkyNDE3MWUyNDliMjQ5`

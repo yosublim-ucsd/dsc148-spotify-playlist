@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-179 songs - 8 hr 50 min
+180 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Solo](https://open.spotify.com/track/1ZfUzmhmyxfRCEweqgInsx) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi) | [Trilogia Triunfo](https://open.spotify.com/album/3Jnl5a8gRGO8omxruOlqmY) | 3:16 | 2022-03-18 | 2023-04-29 |
 | [Sommelier](https://open.spotify.com/track/3nN404cfeenUm5BPLg8zzB) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sommelier](https://open.spotify.com/album/1MU6umCoTUOZJM9a6zc9xd) | 2:54 | 2022-08-22 |  |
 | [Sommelier](https://open.spotify.com/track/3HOlhweyZyyD8QSTZjI63I) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Sommelier](https://open.spotify.com/album/3O8I6X87Nn2Yb04kqFuiyX) | 2:54 | 2022-03-18 | 2022-08-26 |
+| [SUANDO O VIDRO](https://open.spotify.com/track/4td6SxFnMIRnfGlryoZYjn) | [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Fotos de Ontem](https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s) | 3:20 | 2023-12-15 |  |
 | [SXO](https://open.spotify.com/track/4ifS9DM2X27qQE3MDqy7Y2) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [NTGM](https://open.spotify.com/album/5Sq44QGKjP8ogir826OnBb) | 2:57 | 2023-10-13 | 2023-12-16 |
 | [Só por Essa Noite](https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Nandela](https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [Só por Essa Noite](https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr) | 2:51 | 2023-09-08 |  |
 | [Tarada](https://open.spotify.com/track/069FbewhflCkFycPuYqdro) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Tarada](https://open.spotify.com/album/6KisRJbpu7iVwCPVTsWKyX) | 2:50 | 2022-03-18 | 2023-11-14 |

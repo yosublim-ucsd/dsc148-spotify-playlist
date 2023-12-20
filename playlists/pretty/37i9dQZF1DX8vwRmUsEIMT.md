@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Reneé Rapp & Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,570 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,597 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Hell In High Heels \(feat\. Jazmine Johnson\)](https://open.spotify.com/track/2N1SBksYNigOK3XtGNhp8i) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [Hell In High Heels \(feat\. Jazmine Johnson\)](https://open.spotify.com/album/3gB2o3pjiNUxKLqUYDqgsX) | 2:47 |
 | 80 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 |
 
-Snapshot ID: `MCwyYzQwNmU3NmNjZWIwZDRhYjBiZmE0NzVlOTg5NWZhN2M4OTJmOWFj`
+Snapshot ID: `MCxlZmIzMDE2Y2I4ZDcwZjA0ZjI2OTY2OGQyOTQ4MTEwN2NhOWM2OWYx`

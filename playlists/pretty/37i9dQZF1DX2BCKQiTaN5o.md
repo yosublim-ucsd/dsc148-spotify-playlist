@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,618 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,674 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 | 23 | [Cross Me \(feat\. Chance the Rapper & PnB Rock\)](https://open.spotify.com/track/1oH5Mg9dyAj15lWUmXvmFW) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [No.6 Collaborations Project](https://open.spotify.com/album/5oUZ9TEZR3wOdvqzowuNwl) | 3:24 |
 | 24 | [Turnin' Me Up](https://open.spotify.com/track/09XnY0y4QUQmLzfUlbCEeZ) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/4Y8CDk1rrS7lnmcT2C96XA) | 4:29 |
 | 25 | [South of the Border \(feat\. Camila Cabello & Cardi B\)](https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 |
-| 26 | [I'M DOPE \(feat\. DAVID MICHAEL WYATT\)](https://open.spotify.com/track/3z6ErCqNLgspjTSlKMGyFZ) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [David Michael Wyatt](https://open.spotify.com/artist/3nBYRtHTuSZGhDataNGunX) | [I'M DOPE](https://open.spotify.com/album/2UEMHDiA98ANR3YHq7R2l6) | 3:23 |
+| 26 | [I'M DOPE \(feat\. DAVID MICHAEL WYATT\)](https://open.spotify.com/track/3SyJdw74GTAM8t0pwNVBUU) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [David Michael Wyatt](https://open.spotify.com/artist/3nBYRtHTuSZGhDataNGunX) | [MORE ORIGINALS](https://open.spotify.com/album/1xeHDxBieAYgpvJ5Ho61gf) | 3:23 |
 | 27 | [24/7 \(feat\. Ella Mai\)](https://open.spotify.com/track/4yv7UGCLOBijVfQZ5kxNU2) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Championships](https://open.spotify.com/album/0psMalUoERrqQWc2sfWIrv) | 3:41 |
 | 28 | [Automatic](https://open.spotify.com/track/5z9SJ1K7B7cSlnmNp3DMjV) | [The Bonfyre](https://open.spotify.com/artist/4oIGrMYn1N1xPNYVXcaEZJ) | [Ready To Love](https://open.spotify.com/album/5Kmuhk7kKQkobguAK3VyLf) | 2:37 |
 | 29 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/31dgrKXIJ7FCxlENs8uxuo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:08 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 | 34 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 |
 | 35 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 |
 
-Snapshot ID: `MCxhNjE5NzkwZTU3MzY5MDZmNmRmMDJkNWI4ZmRmYWJjNWY4MTc5MTlk`
+Snapshot ID: `MCw2NjhlODRjYzBhZjQxZmUyYzU2NjIwODA0MTczZTVmYjE1NGU2NDEy`

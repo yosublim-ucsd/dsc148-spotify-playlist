@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-562 songs - 1 day 11 hr 12 min
+563 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 | 2022-05-25 | 2022-07-29 |
 | [DIE FOR YOU](https://open.spotify.com/track/4cExQhQ0i34yZcoDsHFMV6) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 5:17 | 2022-05-25 |  |
 | [Die To Live](https://open.spotify.com/track/7u9r4j7KSMW5yLsgjLRZGZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT), [Neil Fallon](https://open.spotify.com/artist/1PvBXGOTvO3zrbDtL5mKEB) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:02 | 2022-05-25 |  |
-| [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2022-05-25 |  |
+| [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2022-05-25 | 2023-12-20 |
 | [Dirty Girl](https://open.spotify.com/track/14OBGVZHB5KEWoYyr5Lb2w) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [World on Fire](https://open.spotify.com/album/0HBgPC1vbZUmQziDZS78Rg) | 4:14 | 2022-05-25 | 2022-07-29 |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3I9c2OFpB0al6qmYNcyMht) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl) | 3:23 | 2023-01-18 |  |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 3:23 | 2022-05-25 | 2023-11-04 |
@@ -518,6 +518,7 @@
 | [The Waiting One](https://open.spotify.com/track/4hfVIGsNiEskkK77AfC2lG) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 4:48 | 2022-05-25 | 2022-07-27 |
 | [They Don't Care About Us](https://open.spotify.com/track/2yhpa4tgc5SeM6ErBm26fK) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Love, Lies & Therapy](https://open.spotify.com/album/0SbjYvhuq1ItBiZzkrNmYQ) | 4:04 | 2022-05-25 |  |
 | [This Is Gonna Hurt](https://open.spotify.com/track/1AnNNZspExK2PwVFbhw7G1) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [This Is Gonna Hurt](https://open.spotify.com/album/2c2pmROfPRd0Z5ZCYajOSJ) | 3:56 | 2022-05-25 | 2022-11-13 |
+| [This Is Gonna Hurt](https://open.spotify.com/track/3trdEhvJEmaBEHKcr6RiWH) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [This Is Gonna Hurt](https://open.spotify.com/album/0PmX7001Em6UK7LC5HbKF9) | 3:56 | 2023-01-18 |  |
 | [This Means War](https://open.spotify.com/track/4i76vmvahz5a4MhinU59sI) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:20 | 2022-05-25 |  |
 | [thoughts & prayers](https://open.spotify.com/track/22yRdwQ4OXUlPrLGhF6ebu) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [thoughts & prayers](https://open.spotify.com/album/2oPgtJ1qOAi6ht4q4mTs6B) | 3:45 | 2022-05-25 | 2022-07-13 |
 | [Tired](https://open.spotify.com/track/1q9ru9Wx2Q9Ez8irkGcyFa) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 4:11 | 2022-05-25 |  |

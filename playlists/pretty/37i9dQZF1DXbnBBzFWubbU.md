@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,037 likes - 85 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,060 likes - 85 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 84 | [Suit Da Lahori](https://open.spotify.com/track/1DCtn0Ketorb33T15aibQX) | [SIDD](https://open.spotify.com/artist/7ok3oCifQBgzKJtiL0z3DU) | [Suit Da Lahori](https://open.spotify.com/album/2piSMhe8zs7Ng1up3KRPf3) | 3:30 |
 | 85 | [ASA](https://open.spotify.com/track/5CBTFqctj3Pcepk96hM0vF) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [ASA](https://open.spotify.com/album/2luwSaYCJk1SRCYkhkZs88) | 3:48 |
 
-Snapshot ID: `MCxmYjg5NjFmNWI1NmIxY2M2NmRiYmRmZjdiNzNhZjFhYzRlMzMzMzU2`
+Snapshot ID: `MCwxYTFhYjllZWRlOGE2OTAwMmQ5ODMyMDM2ZGQ2ZmYzZDc2MjBmODZj`

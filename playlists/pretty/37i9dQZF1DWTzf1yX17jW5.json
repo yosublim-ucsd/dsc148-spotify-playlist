@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 3634,
+  "num_followers": 3735,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTgwNjlhOTgyOTU4MmJiZjk4YTgxNDM2YTBmZWRjYmJlMzhjMDJk",
+  "snapshot_id": "MCw3ZDBkMTU5MzE0OGJkNWJiM2Q5YzQ3NzkwOTM3Nzc5M2E5YWQ1YmY1",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 108923,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Victoria's Secret (feat. Niky Savage)",
         "url": "https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 147310,
       "name": "Victoria's Secret (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 108923,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "XV",
-        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "HoodBlaq",
-          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
-        }
-      ],
-      "duration_ms": 186399,
-      "name": "Cagoule",
-      "url": "https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "Pretty Ones",
         "url": "https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "XV",
+        "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "duration_ms": 186399,
+      "name": "Cagoule",
+      "url": "https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "4 PREZ",
         "url": "https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 149484,
       "name": "4 PREZ",
       "url": "https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 139017,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -915,6 +899,22 @@
       "duration_ms": 169736,
       "name": "Rump (feat. Chow Lee)",
       "url": "https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "duration_ms": 139017,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/06JTrhAWJhBVIOi8pztqz7"
+        "name": "Jersey Club Movie",
+        "url": "https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN"
       },
       "artists": [
         {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        },
-        {
-          "name": "Jaye EL",
-          "url": "https://open.spotify.com/artist/2TkvSdhtw1VYkBTnZMiDqz"
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
         }
       ],
-      "duration_ms": 114477,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/12Z3KFQ1OVp732J0xdZpCM"
+      "duration_ms": 97342,
+      "name": "Jersey Club Movie",
+      "url": "https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Jersey Club Movie",
-        "url": "https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN"
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/06JTrhAWJhBVIOi8pztqz7"
       },
       "artists": [
         {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        },
+        {
+          "name": "Jaye EL",
+          "url": "https://open.spotify.com/artist/2TkvSdhtw1VYkBTnZMiDqz"
         }
       ],
-      "duration_ms": 97342,
-      "name": "Jersey Club Movie",
-      "url": "https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR"
+      "duration_ms": 114477,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/12Z3KFQ1OVp732J0xdZpCM"
     },
     {
       "added_at": "2023-12-01 14:44:59",

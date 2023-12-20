@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ไฮไลท์ปี 2023 ฟังเสียงของศิลปินหญิงในประเทศไทย\. Highlights of 2023, listen to women at full volume\. ปก: RedSpin
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,927 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,931 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [ขอไม่เจอเธอ \(Wish I Never Met You\)](https://open.spotify.com/track/6BJYRFCxU0tp1WoAX4m37c) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ขอไม่เจอเธอ \(Wish I Never Met You\)](https://open.spotify.com/album/6qryy0vluBpKQXZAm8CQNu) | 3:48 |
 | 50 | [ที่ดีก็ไม่ได้ ที่ได้ก็ไม่ดี](https://open.spotify.com/track/2C5J9uFIOCN2XiMKJlSSTH) | [New & Jiew](https://open.spotify.com/artist/3zvofxq3cDVsJvmqHOReHm) | [ที่ดีก็ไม่ได้ ที่ได้ก็ไม่ดี \- Single](https://open.spotify.com/album/5kMZzGZPmzR1p5X8O67fSu) | 4:40 |
 
-Snapshot ID: `MCxkZWJkN2Q5ZWUwZDRhMjFmYzhlOTMzYzIzOGU4OTA2MGIyNTM1ZGU2`
+Snapshot ID: `MCw4MjFjYjM2Y2IxMjMwOWMxMDdhZDRkYzYyZjQwZjUyMTFiZDY3YjMz`

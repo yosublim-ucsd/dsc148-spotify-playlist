@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 804,
+  "num_followers": 858,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDRjM2Q1ZDE3ZWIxMzEyZWU3NDI3ZjlkMjc1MGQ5OGRhNzU3ZDg3",
+  "snapshot_id": "MCw2YjEwYzNjMDFhMjYxYzkxZTdiMDQwZjM2YzRlYTY5ZWUzYzE3ZGE1",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Turn On The Lights",
+        "url": "https://open.spotify.com/album/7J1jyEOZjy5DJwPk3bXuou"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Turn On The Lights",
+      "url": "https://open.spotify.com/track/6RstYH2vOXeXnz5hj3Ppnv"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 187285,
       "name": "Angela",
       "url": "https://open.spotify.com/track/0pPaHAsyHLYt45J42IXKuG"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Turn On The Lights",
-        "url": "https://open.spotify.com/album/7J1jyEOZjy5DJwPk3bXuou"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Turn On The Lights",
-      "url": "https://open.spotify.com/track/6RstYH2vOXeXnz5hj3Ppnv"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Omo Ada (Dem Sleep)",
         "url": "https://open.spotify.com/album/16m64JfCcW9cgPVXsIkM1f"
       },
@@ -975,22 +995,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "After the Storm",
-        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 235598,
-      "name": "Mahama Paper",
-      "url": "https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
       },
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+        "name": "After the Storm",
+        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
       },
       "artists": [
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
+      "duration_ms": 235598,
+      "name": "Mahama Paper",
+      "url": "https://open.spotify.com/track/5vA0BlTP16GqJsieTaPRzp"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Disturbation",
-        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Sister Deborah",
-          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
-        }
-      ],
-      "duration_ms": 240157,
-      "name": "Too Risky (feat. Sister Deborah)",
-      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "AKWAABA",
         "url": "https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 193515,
       "name": "Amanfuor Girls",
       "url": "https://open.spotify.com/track/01q9VZfRk6bCEe2jgx64tN"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Disturbation",
+        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Sister Deborah",
+          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
+        }
+      ],
+      "duration_ms": 240157,
+      "name": "Too Risky (feat. Sister Deborah)",
+      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
     },
     {
       "added_at": "2023-12-08 08:55:17",

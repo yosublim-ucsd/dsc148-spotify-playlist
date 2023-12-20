@@ -558,7 +558,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 428800,
       "name": "Ja Funmi",
       "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
@@ -1280,6 +1280,24 @@
       "duration_ms": 501133,
       "name": "Tire Ni Oluwa",
       "url": "https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0"
+    },
+    {
+      "album": {
+        "name": "The Best Africa Album In The World...Ever!",
+        "url": "https://open.spotify.com/album/3ZPCY10NmTf5etbsi0z89m"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Chaka Chaka",
+          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296080,
+      "name": "Umqombothi",
+      "url": "https://open.spotify.com/track/6GEJH8FPAGjWUuIbODfqj3"
     },
     {
       "album": {

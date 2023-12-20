@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 73523,
-  "original_name": "Soundtrack oficial de EA SPORTS FC 24",
+  "num_followers": 73700,
+  "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjkyZTBmZjM1M2Q3ZmQ3NWUyYWVjMTAxMTk3ZjU4NGJhMDUwYmQ0",
+  "snapshot_id": "MCwzZDc2Y2YyNDFmYTI1ZTUwNDhmZDczN2U1ZTA5N2RiOTIyZjliYjZj",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Henge",
+        "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Henge",
-        "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "The Stranger",
-      "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 121089,
       "name": "poster boy",
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Panna Cotta",
+        "url": "https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        }
+      ],
+      "duration_ms": 177467,
+      "name": "Complicated (feat. Young Franco)",
+      "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -815,26 +835,6 @@
       "duration_ms": 281794,
       "name": "Osama - Bruno Be, Ralk Rework",
       "url": "https://open.spotify.com/track/3pWC9DZvy8N8CUHKJJ8dBp"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Panna Cotta",
-        "url": "https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        },
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        }
-      ],
-      "duration_ms": 177467,
-      "name": "Complicated (feat. Young Franco)",
-      "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Paragon Songs",
+        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
+      },
+      "artists": [
+        {
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Gan Ainm",
+      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "TOMMY",
         "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 243354,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Paragon Songs",
-        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
-      },
-      "artists": [
-        {
-          "name": "whenyoung",
-          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Gan Ainm",
-      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Better Than I?",
-        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
-      },
-      "artists": [
-        {
-          "name": "Shakes",
-          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
-        }
-      ],
-      "duration_ms": 145861,
-      "name": "Better Than I?",
-      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Sigo Tus Pasos",
         "url": "https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub"
       },
@@ -1487,22 +1471,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "DICHOTOMY",
-        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
+        "name": "Better Than I?",
+        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
       },
       "artists": [
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+          "name": "Shakes",
+          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
         }
       ],
-      "duration_ms": 223278,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
+      "duration_ms": 145861,
+      "name": "Better Than I?",
+      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1519,6 +1499,26 @@
       "duration_ms": 152420,
       "name": "Pinking Shears",
       "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "DICHOTOMY",
+        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Powder",
+        "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
+      },
+      "artists": [
+        {
+          "name": "Pontypool",
+          "url": "https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "Powder",
+      "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
         "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 111044,
       "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
       "url": "https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Powder",
-        "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
-      },
-      "artists": [
-        {
-          "name": "Pontypool",
-          "url": "https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Powder",
-      "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "THAT GIRL",
         "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
       },
@@ -1839,38 +1855,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
-      },
-      "artists": [
-        {
-          "name": "KABEAUSH\u00c9",
-          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Pain/Pleasure",
-        "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 113526,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "I Can't Stay",
         "url": "https://open.spotify.com/album/3p4oXVXJ7PK0POkgQ6a87U"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 257828,
       "name": "I Can't Stay",
       "url": "https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Pain/Pleasure",
+        "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 113526,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -2073,6 +2073,6 @@
       "url": "https://open.spotify.com/track/7DzIYGJCzK1meLmAWK7DbZ"
     }
   ],
-  "unique_name": "Soundtrack oficial de EA SPORTS FC 24",
+  "unique_name": "EA SPORTS FC 24 Official Soundtrack",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs"
 }

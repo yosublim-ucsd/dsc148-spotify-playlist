@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: A Good Day to be a Dog\(오늘도 사랑스럽개\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,670 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,856 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 3 | [Everything of Us](https://open.spotify.com/track/6GZdBkrKNN2eD6TbKLFzFv) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Moon in the day, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3lPWY7gF6Nkwbd3rrQiBwZ) | 3:24 |
 | 4 | [Can We Go Back To The Good Old Days](https://open.spotify.com/track/0Tk3i4zjMKNbD5xvOXKIii) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Soundtrack \#2: Vol\. 1](https://open.spotify.com/album/3I4gPQQ9JMsM5lNEsTFurJ) | 4:10 |
 | 5 | [Beautiful Day](https://open.spotify.com/track/3ibqggc2Vnb0PHRggh2Wbf) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/1ukP3q6p2lZMfi2Tv4eLXq) | 4:09 |
-| 6 | [try not to cry](https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
+| 6 | [try not to cry](https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
 | 7 | [I'm afraid love will come again](https://open.spotify.com/track/3txb1pa6m3bYVBZMZv2GD5) | [BO RA \(Cherry Bullet\)](https://open.spotify.com/artist/6s6Nq0B0SbJViFZ3R6B691) | [The Matchmakers OST Part.4](https://open.spotify.com/album/652wRvL6hsZZjJjEyfCS5p) | 4:03 |
 | 8 | [Wave of Dream](https://open.spotify.com/track/2ZouBivQgMO7CtUxRT13Lj) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Moon in the day, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/67An8YhfVUFA3cQ8HYpQmu) | 4:15 |
 | 9 | [Maestra](https://open.spotify.com/track/42BXOexgmI7FOurhzOsqD0) | [조성우](https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD) | [Maestra \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Secret](https://open.spotify.com/track/5LW6IBFQka3WDsaloVlEVj) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [See You in My 19th Life, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ioEeRp7FN6LmV41jLFGV5) | 3:07 |
 | 100 | [Lonely night](https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Revenant \(Original Soundtrack\), Pt.2](https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS) | 3:54 |
 
-Snapshot ID: `MCw0YTI5MjgxMWVlNWNmNmNlNmFjZjgyMjgwYjlmOWQzMzEzMWY3N2Zm`
+Snapshot ID: `MCw0YTRlNDYwN2JlOWFlNzNjZTc3ZjNiZDJhZjYyNzAyMzU1ODNkMGYz`

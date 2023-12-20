@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 128364,
+  "num_followers": 128436,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY3YWE4MjYxNDVlZWU5NzFkNWE2NWViY2ZjZTBlNjIyZWE3ZWQ2",
+  "snapshot_id": "MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -539,6 +539,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Ties That Bind",
+        "url": "https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW"
+      },
+      "artists": [
+        {
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 230533,
       "name": "Fly Away (Thinking Of You)",
       "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Ties That Bind",
-        "url": "https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW"
-      },
-      "artists": [
-        {
-          "name": "Andy Snitzer",
-          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -843,22 +843,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Voices In The Rain",
-        "url": "https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM"
-      },
-      "artists": [
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        }
-      ],
-      "duration_ms": 320840,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "For The Love Of You",
         "url": "https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 275333,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Voices In The Rain",
+        "url": "https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM"
+      },
+      "artists": [
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        }
+      ],
+      "duration_ms": 320840,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx"
     },
     {
       "added_at": "2020-08-19 00:00:21",

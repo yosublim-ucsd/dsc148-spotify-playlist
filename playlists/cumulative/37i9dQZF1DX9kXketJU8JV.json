@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 220293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
@@ -810,6 +810,24 @@
       "duration_ms": 286840,
       "name": "\u5927\u4e08\u592b",
       "url": "https://open.spotify.com/track/5MYjno6goNbqgGHKEYhJ1Y"
+    },
+    {
+      "album": {
+        "name": "\u91ce\u7403\u9078\u624b\u304c\u5922\u3060\u3063\u305f",
+        "url": "https://open.spotify.com/album/7akUfttPs5jXt8F1bI1MmT"
+      },
+      "artists": [
+        {
+          "name": "KAN",
+          "url": "https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247573,
+      "name": "\u611b\u306f\u52dd\u3064",
+      "url": "https://open.spotify.com/track/7MqaQIHyo7Ud1QzDSmWpQ0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Low Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,334 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,380 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Raison](https://open.spotify.com/track/1qViJHPK9172gdxvkzuEoD) | [Cristina](https://open.spotify.com/artist/2otrzAaHAsniPlX95lxLbC) | [Raison](https://open.spotify.com/album/5aGS7j1Vjyh1d0mnvvPFAo) | 2:22 |
 | 40 | [Aller retour](https://open.spotify.com/track/4wduvsRDvehncCMardqsQ6) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [528 HZ](https://open.spotify.com/album/3Sgzvftq9J9oLH66IVnoyd) | 3:18 |
 
-Snapshot ID: `MCw2ZTI2NDAzZjJlY2I3NzdhNjQwZmM2MjVlNmVjODA0ZWUxNjg5YjQw`
+Snapshot ID: `MCxhNTg0YjE3ZTE1Mzg2YjVkZTc5NmU3MmNmNDcyMTJmNTg3ZTM0MzRi`

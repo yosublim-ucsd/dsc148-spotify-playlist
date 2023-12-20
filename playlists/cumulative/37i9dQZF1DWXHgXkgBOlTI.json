@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 211253,
       "name": "Blood is thicker than water",
       "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 247800,
       "name": "Spartacus",
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 327160,
       "name": "The bell tolls",
       "url": "https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp"
@@ -1408,6 +1408,24 @@
       "duration_ms": 286836,
       "name": "\u8857\u306e\u5831\u305b Rework \u9ed2\u7530\u5353\u4e5f",
       "url": "https://open.spotify.com/track/1bBDwauDhzcOxV0pqHgBey"
+    },
+    {
+      "album": {
+        "name": "\u8d64\u3044\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc (English Jazz Ver.)",
+        "url": "https://open.spotify.com/album/3yDsynLI0UyD2U8tVp5A2Q"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265689,
+      "name": "\u8d64\u3044\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc - English Jazz Ver.",
+      "url": "https://open.spotify.com/track/7sZvxchusFfJalUdKXxxsU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXHgXkgBOlTI"

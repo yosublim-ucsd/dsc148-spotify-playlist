@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDQ1ODJmZGI1OTNlZmExZjE3NDA3YWI5Njk1OTQxOTYwNDAxNTQw",
+  "snapshot_id": "MCxkNGU2YWExMTZhMjU0MDljYWMyYzhmM2FmMzU2NDA0MTVjZjI3MzE5",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Meet Me When I Come",
-        "url": "https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL"
-      },
-      "artists": [
-        {
-          "name": "Brett Williams",
-          "url": "https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN"
-        }
-      ],
-      "duration_ms": 191620,
-      "name": "Meet Me When I Come",
-      "url": "https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 151308,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/27DodeB1seENJxnWojPa6G"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Meet Me When I Come",
+        "url": "https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL"
+      },
+      "artists": [
+        {
+          "name": "Brett Williams",
+          "url": "https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN"
+        }
+      ],
+      "duration_ms": 191620,
+      "name": "Meet Me When I Come",
+      "url": "https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Strawberry Dreams",
-        "url": "https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp"
-      },
-      "artists": [
-        {
-          "name": "Kim Rodgers",
-          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
-        }
-      ],
-      "duration_ms": 155827,
-      "name": "Strawberry Dreams",
-      "url": "https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Love Forever",
         "url": "https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 144640,
       "name": "Love Forever",
       "url": "https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Strawberry Dreams",
+        "url": "https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "duration_ms": 155827,
+      "name": "Strawberry Dreams",
+      "url": "https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Malgr\u00e9 le n\u00e9ant",
-        "url": "https://open.spotify.com/album/325mLRmxCCHqycSkCCvOL5"
-      },
-      "artists": [
-        {
-          "name": "Alexia Mathieu",
-          "url": "https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA"
-        }
-      ],
-      "duration_ms": 166444,
-      "name": "Malgr\u00e9 le n\u00e9ant",
-      "url": "https://open.spotify.com/track/5V03ziQJGHaoAJcfPIYWWZ"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Quiver and Wince",
         "url": "https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 139113,
       "name": "Quiver and Wince",
       "url": "https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Malgr\u00e9 le n\u00e9ant",
+        "url": "https://open.spotify.com/album/325mLRmxCCHqycSkCCvOL5"
+      },
+      "artists": [
+        {
+          "name": "Alexia Mathieu",
+          "url": "https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA"
+        }
+      ],
+      "duration_ms": 166444,
+      "name": "Malgr\u00e9 le n\u00e9ant",
+      "url": "https://open.spotify.com/track/5V03ziQJGHaoAJcfPIYWWZ"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Somewhere Ahead",
+        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
+        }
+      ],
+      "duration_ms": 156010,
+      "name": "When Sarah Returned",
+      "url": "https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "A Quiet Message",
         "url": "https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 139022,
       "name": "L'heure de l'harmonie",
       "url": "https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Somewhere Ahead",
-        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kaede",
-          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
-        }
-      ],
-      "duration_ms": 156010,
-      "name": "When Sarah Returned",
-      "url": "https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Happy Faces",
-        "url": "https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy"
-      },
-      "artists": [
-        {
-          "name": "Juno Harrell",
-          "url": "https://open.spotify.com/artist/3JPYFv2u0fEm4GzDqKVrWY"
-        }
-      ],
-      "duration_ms": 200609,
-      "name": "Happy Faces",
-      "url": "https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/1WoTK3nCb4P4Drcj8Jekw5"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 135626,
       "name": "A place to go",
       "url": "https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Happy Faces",
+        "url": "https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy"
+      },
+      "artists": [
+        {
+          "name": "Juno Harrell",
+          "url": "https://open.spotify.com/artist/3JPYFv2u0fEm4GzDqKVrWY"
+        }
+      ],
+      "duration_ms": 200609,
+      "name": "Happy Faces",
+      "url": "https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Bougainvillea",
-        "url": "https://open.spotify.com/album/1oBJWPznqae6yadezYaRQW"
-      },
-      "artists": [
-        {
-          "name": "Antonio y Lola",
-          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
-        }
-      ],
-      "duration_ms": 123662,
-      "name": "Bougainvillea",
-      "url": "https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Great Moments",
         "url": "https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 183750,
       "name": "Great Moments",
       "url": "https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Bougainvillea",
+        "url": "https://open.spotify.com/album/1oBJWPznqae6yadezYaRQW"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Lola",
+          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
+        }
+      ],
+      "duration_ms": 123662,
+      "name": "Bougainvillea",
+      "url": "https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Keirin",
-        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
       },
       "artists": [
         {
-          "name": "Paris Little",
-          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
+          "name": "Roy De Paz",
+          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
         }
       ],
-      "duration_ms": 186092,
-      "name": "Keirin",
-      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
+      "duration_ms": 153473,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
+        "name": "Keirin",
+        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
       },
       "artists": [
         {
-          "name": "Roy De Paz",
-          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
+          "name": "Paris Little",
+          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
         }
       ],
-      "duration_ms": 153473,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
+      "duration_ms": 186092,
+      "name": "Keirin",
+      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Count On Me",
-        "url": "https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6"
-      },
-      "artists": [
-        {
-          "name": "Peder Falk",
-          "url": "https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z"
-        }
-      ],
-      "duration_ms": 189550,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 150961,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/533SnCwxVytF3viTF5kYql"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Count On Me",
+        "url": "https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6"
+      },
+      "artists": [
+        {
+          "name": "Peder Falk",
+          "url": "https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z"
+        }
+      ],
+      "duration_ms": 189550,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Window From A Train",
+        "url": "https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT"
+      },
+      "artists": [
+        {
+          "name": "Carrie Mittenkemp",
+          "url": "https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P"
+        }
+      ],
+      "duration_ms": 145608,
+      "name": "Window From A Train",
+      "url": "https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "M\u00fasicas in\u00e9ditas en casas literarias: Casa-Museo Manuel Mar\u00eda",
         "url": "https://open.spotify.com/album/2lnaksOr1ISSNvxPgR4qtb"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 127357,
       "name": "Sarita",
       "url": "https://open.spotify.com/track/6bT8FxJe2Bh27j9ZSt9HnP"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Window From A Train",
-        "url": "https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT"
-      },
-      "artists": [
-        {
-          "name": "Carrie Mittenkemp",
-          "url": "https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P"
-        }
-      ],
-      "duration_ms": 145608,
-      "name": "Window From A Train",
-      "url": "https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
-      },
-      "artists": [
-        {
-          "name": "Colin Reed",
-          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
-        }
-      ],
-      "duration_ms": 191308,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Velvet Morning",
         "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 148374,
       "name": "Velvet Morning",
       "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
+      },
+      "artists": [
+        {
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
+        }
+      ],
+      "duration_ms": 191308,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A New Strange Feeling",
-        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
-      },
-      "artists": [
-        {
-          "name": "Aurelia",
-          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "A New Strange Feeling",
-      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Romance Castellano",
         "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 135568,
       "name": "Romance Castellano",
       "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "A New Strange Feeling",
+        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "A New Strange Feeling",
+      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
     },
     {
       "added_at": "2023-09-15 09:04:35",

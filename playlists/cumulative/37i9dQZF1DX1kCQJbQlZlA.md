@@ -4,7 +4,7 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-122 songs - 9 hr 44 min
+123 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Cò Đã Qua Sông](https://open.spotify.com/track/3j3pVIRtdbHhBVNpRG1bCS) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC), [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Cò Đã Qua Sông](https://open.spotify.com/album/4FTL1VkGeceOw1F8cQPTu7) | 5:10 | 2022-07-15 |  |
 | [Còn Thương Rau Đắng Mọc Sau Hè](https://open.spotify.com/track/1BkvNL3TRshjUdIP44ijnH) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Áo Mới Cà Mau](https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9) | 5:02 | 2022-05-12 |  |
 | [Cô nàng thôn quê](https://open.spotify.com/track/4rxMxFrrbTzMkNcdPSQRyc) | [Hạ Vy](https://open.spotify.com/artist/3UVJHvv0VYPLFKPvewdnR0) | [Quê hương 4 \- Nàng sơn ca](https://open.spotify.com/album/5M9VlFABtaTbNmLHdXUyfY) | 4:59 | 2022-05-12 | 2023-01-20 |
-| [Cô Thắm Không Về](https://open.spotify.com/track/1WdnyGs1uSntpCLgjwc3ps) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv), [JokeS Bii](https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD), [Thiện](https://open.spotify.com/artist/5Ey2QDV20TPGPcSdbOU3Gh) | [Cô Thắm Không Về](https://open.spotify.com/album/1r9489p9ZRlLMNj2qruAXG) | 4:05 | 2022-07-15 |  |
+| [Cô Thắm Không Về](https://open.spotify.com/track/7f9DYV0Vs6EWCEkhyLq7Av) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv), [JokeS Bii](https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD), [Sinike](https://open.spotify.com/artist/3mAay4lwZOLZMoTEYHcPCY) | [Cô Thắm Không Về](https://open.spotify.com/album/69XDEOQH8BkHfHAZ5bZNn8) | 4:14 | 2023-07-18 |  |
+| [Cô Thắm Không Về](https://open.spotify.com/track/1WdnyGs1uSntpCLgjwc3ps) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv), [JokeS Bii](https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD), [Thiện](https://open.spotify.com/artist/5Ey2QDV20TPGPcSdbOU3Gh) | [Cô Thắm Không Về](https://open.spotify.com/album/1r9489p9ZRlLMNj2qruAXG) | 4:05 | 2022-07-15 | 2023-12-20 |
 | [Cầu Tre Kỷ Niệm](https://open.spotify.com/track/2xUqaSCJEHIKJT5GSoNpOI) | [Trung Quang](https://open.spotify.com/artist/5xesOAfG8rtGPBkxAzzc7W) | [Cầu Tre Kỷ Niệm](https://open.spotify.com/album/4O5yzxT8llSQxVgKcfiH8O) | 5:07 | 2022-05-12 |  |
 | [Duyên Quê](https://open.spotify.com/track/2m6riy7oEECCFeJaOak972) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Tiếng Hát Hà Vân 3](https://open.spotify.com/album/4Y5L9iYIBHESSO3BgYYCS0) | 4:24 | 2022-05-12 |  |
 | [Em Đi Trên Cỏ Non](https://open.spotify.com/track/4Vu18b6pv5w1rWuWtRSQEx) | [Hương Thủy](https://open.spotify.com/artist/7uSNudh9nTnHLyfs6uQqFv), [Hà Phương](https://open.spotify.com/artist/5JrB3x7l6ij0DyDh8LXQJq) | [Áo Em Chưa Mặc Một Lần & Vòng Nhẫn Cưới](https://open.spotify.com/album/5W9nC3NXCIohhmrs5SQ6EY) | 5:10 | 2022-05-12 |  |

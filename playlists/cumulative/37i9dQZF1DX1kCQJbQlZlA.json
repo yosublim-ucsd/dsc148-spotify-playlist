@@ -502,6 +502,32 @@
     {
       "album": {
         "name": "C\u00f4 Th\u1eafm Kh\u00f4ng V\u1ec1",
+        "url": "https://open.spotify.com/album/69XDEOQH8BkHfHAZ5bZNn8"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e1t H\u1ed3",
+          "url": "https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv"
+        },
+        {
+          "name": "JokeS Bii",
+          "url": "https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD"
+        },
+        {
+          "name": "Sinike",
+          "url": "https://open.spotify.com/artist/3mAay4lwZOLZMoTEYHcPCY"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254713,
+      "name": "C\u00f4 Th\u1eafm Kh\u00f4ng V\u1ec1",
+      "url": "https://open.spotify.com/track/7f9DYV0Vs6EWCEkhyLq7Av"
+    },
+    {
+      "album": {
+        "name": "C\u00f4 Th\u1eafm Kh\u00f4ng V\u1ec1",
         "url": "https://open.spotify.com/album/1r9489p9ZRlLMNj2qruAXG"
       },
       "artists": [
@@ -520,7 +546,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 245340,
       "name": "C\u00f4 Th\u1eafm Kh\u00f4ng V\u1ec1",
       "url": "https://open.spotify.com/track/1WdnyGs1uSntpCLgjwc3ps"

@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzE3Myw0YTQ3NDNkNDBkMzdjMWQyZjkyNjAyZWUyNDYzMzhmMzkwMGNlYmU2",
+  "snapshot_id": "NzE3NSwwY2U4MzdlODA5ZjY0NTA5YjlkYTNiYmVhOTU2NWI5ODZkNjBjNWM2",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2255,6 +2255,38 @@
       "duration_ms": 164623,
       "name": "Secure the Vibe (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be"
+    },
+    {
+      "added_at": "2023-12-19 11:55:56",
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 193574,
+      "name": "Rockstar Made",
+      "url": "https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h"
+    },
+    {
+      "added_at": "2023-12-19 11:58:49",
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 102421,
+      "name": "On That Time",
+      "url": "https://open.spotify.com/track/3dl8bSF08LQfCf4T6CCksf"
     }
   ],
   "unique_name": "main ",

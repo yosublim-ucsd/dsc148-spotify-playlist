@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: SERA, YouNotUs
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,098 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,158 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Dark Side](https://open.spotify.com/track/5bjnLSscT0TTioiKivgXzA) | [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [GEMINA](https://open.spotify.com/artist/1V04322RZCas7VQX5KfdDr), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Dark Side](https://open.spotify.com/album/7uyuaCqdg6tn0vhZ79NWjk) | 3:20 |
 | 75 | [All That She Wants](https://open.spotify.com/track/1afAOCyizL3cbVnXkIUsWP) | [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o), [Sterbinszky](https://open.spotify.com/artist/1POYG7KwBZ5ggYhku54hoQ) | [All That She Wants](https://open.spotify.com/album/41Hc7Hc8xXVNGl31FjuxgZ) | 3:03 |
 
-Snapshot ID: `MCxmNDY4ZjM5NjE2Nzg0MjBmODViYTNjNDg1ZjVkNjU3Y2Y0NWUzZmRi`
+Snapshot ID: `MCwyODBjZWI5NTRkYTlhMzRjODUyYjQyNjA3MDEzZTZiMDYyNjYyZTQ0`

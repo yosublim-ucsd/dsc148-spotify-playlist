@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,172 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,178 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 63 | [Rước Xuân Về Nhà](https://open.spotify.com/track/6PARBXdjF6JAfwFhWHbmUP) | [Hương Thủy](https://open.spotify.com/artist/7uSNudh9nTnHLyfs6uQqFv) | [Rước Xuân Về Nhà](https://open.spotify.com/album/6vVdyWfN3RvD7wkF2cF1Nq) | 4:33 |
 | 64 | [Về Quê Thăm Mẹ](https://open.spotify.com/track/5dS9CTGdzW1I3avG0KOtPF) | [Đoàn Minh](https://open.spotify.com/artist/0H8DQXB1lKU8QExRbpOndQ), [Huỳnh Nguyễn Công Bằng](https://open.spotify.com/artist/0MZdNmWMdt0PQwiyXz93XD) | [Về Quê Thăm Mẹ](https://open.spotify.com/album/7Kr1dZVpV99Cy3pprFOKvQ) | 4:47 |
 | 65 | [Nếu Em Đã Theo Anh Về](https://open.spotify.com/track/4vjA7aUTXhcjrtNUZfIvA7) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V), [Lê Sang](https://open.spotify.com/artist/1F5d5qNLZ2T1AxZ4fnOnxJ) | [Nếu Chúng Mình Cách Trở](https://open.spotify.com/album/4gc1btQWnLoKX7zq1miQbr) | 5:00 |
-| 66 | [Cô Thắm Không Về](https://open.spotify.com/track/1WdnyGs1uSntpCLgjwc3ps) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv), [JokeS Bii](https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD), [Thiện](https://open.spotify.com/artist/5Ey2QDV20TPGPcSdbOU3Gh) | [Cô Thắm Không Về](https://open.spotify.com/album/1r9489p9ZRlLMNj2qruAXG) | 4:05 |
+| 66 | [Cô Thắm Không Về](https://open.spotify.com/track/7f9DYV0Vs6EWCEkhyLq7Av) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv), [JokeS Bii](https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD), [Sinike](https://open.spotify.com/artist/3mAay4lwZOLZMoTEYHcPCY) | [Cô Thắm Không Về](https://open.spotify.com/album/69XDEOQH8BkHfHAZ5bZNn8) | 4:14 |
 | 67 | [Trên Dòng Sông Nhỏ](https://open.spotify.com/track/7dhaxUr0uDCGjgRm9qZSeu) | [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Thà Giết Người Yêu](https://open.spotify.com/album/6sGNU2iucs0IhCUz6LA7NC) | 5:40 |
 | 68 | [Chiếc Xuồng](https://open.spotify.com/track/63eOuMVbPmonUiBcUvS4rK) | [Hương Thủy](https://open.spotify.com/artist/7uSNudh9nTnHLyfs6uQqFv), [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Người Con Gái](https://open.spotify.com/album/4SWMrSAUEIj06uJUyzGHa7) | 5:14 |
 | 69 | [Còn Thương Rau Đắng Mọc Sau Hè](https://open.spotify.com/track/1BkvNL3TRshjUdIP44ijnH) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Áo Mới Cà Mau](https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9) | 5:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Mùa Xuân Quê Nhà](https://open.spotify.com/track/6qXSffGhxTwZu7liWKxmyi) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V), [Công Bằng](https://open.spotify.com/artist/3Vqf1sIpRPEhBtEHojm4Bm) | [Tết Xưa](https://open.spotify.com/album/21gWQ1KpAyWWN07AqOCdF0) | 4:37 |
 | 75 | [Người Em Vỹ Dạ](https://open.spotify.com/track/24s2jhwZLfPAP1ZP8RFiqO) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Tình Hoa 10 Giờ](https://open.spotify.com/album/0huTCpWAp5Ibqhb80DwUVR) | 4:34 |
 
-Snapshot ID: `MCw4YmQ3ODhiZjE1MzJkMjNhOWJmYWNmMzUzMjZhZjIzZjJlMmExZDVk`
+Snapshot ID: `MCxhM2M2YjNlZTAyNTdlMDhhNmFjZmJjYjE4MTljNzU0NzM3YWYxZDcw`

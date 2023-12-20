@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > featuring some of your favorites this year, plus some new gems\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,876 likes - 121 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,216 likes - 121 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 120 | [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 |
 | 121 | [Sparks](https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Sparks](https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG) | 3:38 |
 
-Snapshot ID: `MCwwNTQyNjhmYTI2MWEzODI4MWY1ZTE1OGE1MDVjN2QwMWZiNmJjMTQ2`
+Snapshot ID: `MCwwZmNmYTU3MzY3MzA1ZTU3MDE4OWJmYjkyNzZlMjJjMWExMTYwMWM5`

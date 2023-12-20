@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWA91mpJ5Ldc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWA91mpJ5Ldc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWA91mpJ5Ldc)
 
-### [Cozinhando em Casa](https://open.spotify.com/playlist/37i9dQZF1DWWA91mpJ5Ldc)
+### [Preparando a Ceia](https://open.spotify.com/playlist/37i9dQZF1DWWA91mpJ5Ldc)
 
-> Música brasileira para temperar as receitas do dia\-a\-dia.
+> Todo mundo junto é o que faz ficar gostoso!
 
 242 songs - 14 hr 43 min
 
@@ -84,8 +84,8 @@
 | [DEPOIS DA TEMPESTADE}](https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [AMAR é para os FORTES](https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK) | 4:14 | 2022-03-22 | 2023-10-21 |
 | [Desafio](https://open.spotify.com/track/3hft4CnJUz54rJcJY5mw22) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Desafio](https://open.spotify.com/album/2gdQzcvu00rbuwtOFefWxc) | 3:46 | 2022-02-04 | 2022-07-29 |
 | [Deu Bossa](https://open.spotify.com/track/33hnkbQrn9OpSOLCHYrxnd) | [André Bellini](https://open.spotify.com/artist/389NRQvEXJKmucw2RIR2fC), [Bira Fernandez](https://open.spotify.com/artist/2DTGjI8UW3h8CK3g7H4avw) | [Deu Bossa](https://open.spotify.com/album/6JUbFtuF3sxxPKcFdCFujl) | 2:55 | 2022-02-04 | 2022-07-29 |
-| [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/track/0HYHMmuWQ1WWLiYXOhjt5I) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/album/7sjeAJANX5rlCazXEMkSLO) | 3:42 | 2022-03-22 |  |
-| [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 | 2022-03-22 | 2023-10-27 |
+| [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/track/0HYHMmuWQ1WWLiYXOhjt5I) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/album/7sjeAJANX5rlCazXEMkSLO) | 3:42 | 2022-03-22 | 2023-12-20 |
+| [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 | 2022-03-22 |  |
 | [Dilema](https://open.spotify.com/track/7GZoLg9b4QggdnHBHeSmpX) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Dilema](https://open.spotify.com/album/5nCyYGiOwdgYcafhT6Asq3) | 2:57 | 2022-02-04 | 2022-07-29 |
 | [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 | 2022-07-04 | 2022-07-19 |
 | [Do Nada](https://open.spotify.com/track/4UbnuzTFQyCXjd0QsKDez6) | [Mixdgroove](https://open.spotify.com/artist/7C9uzbHPDku3N6vZUokNNL) | [Do Nada](https://open.spotify.com/album/1SnabqksVSUoWOQpfWutQm) | 3:23 | 2022-03-14 | 2022-07-11 |

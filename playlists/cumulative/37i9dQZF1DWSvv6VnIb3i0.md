@@ -4,7 +4,7 @@
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-51 songs - 3 hr 17 min
+52 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [J'ai demandé à la lune](https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Paradize](https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4) | 3:29 | 2023-03-06 |  |
 | [J'traine des pieds](https://open.spotify.com/track/5ULVP3ZRM9gQYlySFmrGFL) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La femme chocolat](https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM) | 3:29 | 2023-03-06 |  |
 | [Je fais de toi mon essentiel \(avec Anne\-Laure Girbal\)](https://open.spotify.com/track/6H4TH5ntp7KzYePysRBcuT) | [Emmanuel Moire](https://open.spotify.com/artist/5YIaZ0ICxZyNEsATQRsxRk), [Anne\-Laure Girbal](https://open.spotify.com/artist/3FM0IXK9lSh0crQZ8oG9CL) | [Je fais de toi mon essentiel](https://open.spotify.com/album/57zABxgnCQxZRCaLY1RAIH) | 3:19 | 2023-03-06 |  |
-| [Je serai \(ta meilleure amie\)](https://open.spotify.com/track/5VQw18tYjbltQWFYmI3CPw) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM) | [Près de toi](https://open.spotify.com/album/0x6tOGxJBDdB7sfBYGaLus) | 3:29 | 2023-03-06 |  |
+| [Je serai \(ta meilleure amie\)](https://open.spotify.com/track/4FL6ttDXeXjgxXLII24wEX) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM) | [Près de toi](https://open.spotify.com/album/1B6RzSe2BIlIGlysDj3HLw) | 3:29 | 2023-03-06 |  |
+| [Je serai \(ta meilleure amie\)](https://open.spotify.com/track/5VQw18tYjbltQWFYmI3CPw) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM) | [Près de toi](https://open.spotify.com/album/0x6tOGxJBDdB7sfBYGaLus) | 3:29 | 2023-03-06 | 2023-12-20 |
 | [L'envie d'aimer](https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n) | [Les Dix Commandements](https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb), [Daniel Levi](https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD) | [Les Dix Commandements \(L'intégrale\)](https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l) | 6:28 | 2023-03-06 |  |
 | [La Boulette \(Génération Nan Nan\)](https://open.spotify.com/track/1Vf09Cxf2jqSkU6sfueYAq) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Dans Ma Bulle](https://open.spotify.com/album/1ZlqqgXvzlq8kZBKsY0hWO) | 3:51 | 2023-03-06 |  |
 | [La lettre](https://open.spotify.com/track/3GRSNZGISh570blCys6RZb) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Chansons d'amour](https://open.spotify.com/album/1WXVKrBH07tLN8SfRKQVgN) | 3:17 | 2023-03-06 |  |

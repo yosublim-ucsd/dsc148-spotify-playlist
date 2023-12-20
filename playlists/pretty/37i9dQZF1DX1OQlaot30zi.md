@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Medy, thasup, Gemitaiz, MV Killa, Dani Faiv, Luchè e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,010 likes - 99 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,020 likes - 99 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 98 | [Carne Halal \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/track/6jiRQs8QM6ozzFxdIDUkm2) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Carne Halal \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/album/5J3YRgWiaxwdDR1zCJTph6) | 4:04 |
 | 99 | [Tempesta](https://open.spotify.com/track/4uMmhSKniLClHn4Ekkdeob) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX), [Sike](https://open.spotify.com/artist/1kUcmfCqDuYQDkokeHjUyZ) | [Tempesta](https://open.spotify.com/album/5Fy6KGPNA6m65doFgXiAOZ) | 2:55 |
 
-Snapshot ID: `MCwyZDdhYzc0MzMzZmZjOGRmYjU2YjE2Nzc4NTJkODk5ZTMxMGZlNmU1`
+Snapshot ID: `MCwyZTIzYzE4ODFmMWFiOWIyZTM2NzU1NWYzMDQzNTBjNDNmZTBhZWVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Brand of Sacrifice
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,984 likes - 44 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,003 likes - 44 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 43 | [Chainsaw Death](https://open.spotify.com/track/7HAudd8dJkzxSzgDZb8gCX) | [Horrifier](https://open.spotify.com/artist/6FIzAn8mX3wrOPk3oRnd6F) | [Horrid Resurrection](https://open.spotify.com/album/2ZoXycjsRGCtyPj6wFbGOJ) | 3:00 |
 | 44 | [The Iron Cross Burns](https://open.spotify.com/track/3dzSmF7YjEbeszhSROQS76) | [WITCHSNAKE](https://open.spotify.com/artist/5XlNY3iGKGx3DJchWk8QsN) | [Deathcult of the Snake](https://open.spotify.com/album/2NP1SBZRo5PmhuBYrdTEfL) | 5:11 |
 
-Snapshot ID: `MCw0NjAzYmYwYjcyYWJkM2YyMjJlMTJlMDI1YzE1YTcwMDM2YmMyMjU5`
+Snapshot ID: `MCw4ZWI2ZGU4Njg3N2VhNjc5Y2VhYjE1ZGFhYjY1NzZmY2MzZWYxYzE1`

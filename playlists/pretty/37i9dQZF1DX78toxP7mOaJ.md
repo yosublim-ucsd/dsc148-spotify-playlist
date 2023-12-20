@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > The top 100 tracks from Fresh Finds Rock in 2023\. Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,730 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,794 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Something In The Water](https://open.spotify.com/track/4pqpN4f0Xc3pohLirRpOmW) | [Cut Your Losses](https://open.spotify.com/artist/5W1LmT1urRaRm1Ogmnzfy5) | [Reflections of Ghosts](https://open.spotify.com/album/1IQzAFfPXDlfLRItASyrj0) | 4:01 |
 | 100 | [Lucky You](https://open.spotify.com/track/5dourGbYNsSbm3V3KTzHMK) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Lucky You](https://open.spotify.com/album/0fBqr043kzBtPLdorWFQNt) | 2:44 |
 
-Snapshot ID: `MCxkNjNkM2IxMzU1MzJjZWZjY2ZiOTUyZGJlZGE4ZjdlNmE3ZDBmOGI1`
+Snapshot ID: `MCxjOWFkZmQ4YzI3YWNjYjgxNTNlMmFiNjU0MzJlN2U2OTUzNDhlOWQ5`

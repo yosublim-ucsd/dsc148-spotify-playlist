@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,920 songs - 6 day 5 hr 59 min
+3,921 songs - 6 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1690,7 +1690,7 @@
 | [Juicy Season](https://open.spotify.com/track/1gLtUr8YdAPvKfRyCWWHxH) | [Candy Kid](https://open.spotify.com/artist/6F3zmVi9MNIbt1oZcl2ebw) | [Juicy Season](https://open.spotify.com/album/3TD7iWLllNJg0QgrUFrbvO) | 2:32 | 2021-01-27 | 2021-06-11 |
 | [JuJu FM](https://open.spotify.com/track/1PCGyCH7P1uIVCzMUG4lZc) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [JuJu FM](https://open.spotify.com/album/7Igk7gR99DvamPRe2TCyDS) | 2:29 | 2020-04-18 | 2020-06-16 |
 | [July \- Balloona](https://open.spotify.com/track/34spe7AN0kfuw7TbO3zmpz) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [July \- Balloona](https://open.spotify.com/album/5fXcBPomn6OoNIzbN5KKfy) | 3:25 | 2019-08-02 | 2020-01-15 |
-| [Jumping Saxx](https://open.spotify.com/track/6gutPw9mIyl2U9YlNk0DgK) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Jumping Saxx](https://open.spotify.com/album/3JyMBj5AdOWlJnDYtaJKb7) | 2:31 | 2023-12-01 |  |
+| [Jumping Saxx](https://open.spotify.com/track/6gutPw9mIyl2U9YlNk0DgK) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Jumping Saxx](https://open.spotify.com/album/3JyMBj5AdOWlJnDYtaJKb7) | 2:31 | 2023-12-01 | 2023-12-20 |
 | [Junami](https://open.spotify.com/track/3nYrPIYlhbkUCqPEyhY3Pj) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Junami](https://open.spotify.com/album/6IF9gMIW8eUvrF6WFj6ARx) | 2:17 | 2022-05-05 | 2022-09-23 |
 | [June](https://open.spotify.com/track/7Hdv1ksjckBo3ntsQfJWPy) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [June](https://open.spotify.com/album/3scnq51ovIuwX0JmKlZTvj) | 2:08 | 2019-06-08 | 2019-10-25 |
 | [Juniper](https://open.spotify.com/track/3JKiwkPOJVPs8KqrSXM69a) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Juniper](https://open.spotify.com/album/4PoqWidhdoLutHZ5LoUxVU) | 2:57 | 2019-06-03 | 2019-08-13 |
@@ -3167,6 +3167,7 @@
 | [Stay Cozy](https://open.spotify.com/track/5KdvoOJBvMBVlTeOWK5pq4) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Stay Cozy](https://open.spotify.com/album/3ac67d2E6MvupYDizRU2hY) | 1:59 | 2021-07-09 | 2021-08-18 |
 | [Stay True](https://open.spotify.com/track/1vXy8zHVAY4EIE4BUxIMAV) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Stay True](https://open.spotify.com/album/769Z2dFn9KTY0l5I5SLa11) | 1:36 | 2022-05-20 |  |
 | [Steadyme](https://open.spotify.com/track/6U374P7SqFo42pRrZZJkWx) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Steadyme](https://open.spotify.com/album/682AYVHvi48jFoXy2zzULL) | 2:19 | 2023-06-01 | 2023-11-24 |
+| [Stella](https://open.spotify.com/track/0QOqZlaCnEZ8fJ6eiKXLIl) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Stella](https://open.spotify.com/album/7ptqwGZGDdiTSJmSYNSFfF) | 1:46 | 2023-12-14 |  |
 | [Stellar](https://open.spotify.com/track/43BxBNEHqevxjmBwQCyJy0) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Stellar](https://open.spotify.com/album/35VKSCNAHqOGf5fEH3lVW5) | 2:15 | 2021-10-30 | 2022-10-22 |
 | [Stena](https://open.spotify.com/track/4DQYzPc7yDSLNSv5vVo3NM) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Stena](https://open.spotify.com/album/4X3lAxGZvedE2J1vpuA2mG) | 1:37 | 2021-10-22 |  |
 | [Step By Step](https://open.spotify.com/track/4FJXaaxCpZeTtCfzou4fJ6) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Step By Step](https://open.spotify.com/album/3pxUYntdM7Qy4d5UHd1ubn) | 2:30 | 2021-10-29 | 2022-07-08 |

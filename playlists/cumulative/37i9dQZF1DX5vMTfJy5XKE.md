@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-574 songs - 1 day 6 hr 3 min
+575 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Christmas Feels Different This Year](https://open.spotify.com/track/5mB92R9lCbajm6jHTiwi79) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Christmas Feels Different This Year](https://open.spotify.com/album/1GFtrmA7LSta9pauZI9fPj) | 3:23 | 2023-10-27 |  |
 | [Christmas Feels Like Home](https://open.spotify.com/track/1VqBqC0hLpNGvX60Ykhh9i) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Christmas Feels Like Home](https://open.spotify.com/album/6Nz6wJjdo39R7VyPYlK9jv) | 3:28 | 2021-12-24 | 2022-09-28 |
 | [Christmas Got Colder](https://open.spotify.com/track/5OOavrga0WgJlOei52P9h1) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [a heartfelt holiday](https://open.spotify.com/album/39RsW9bJUFYT8ena41A4P1) | 2:09 | 2021-12-24 | 2022-09-28 |
+| [Christmas in Chicago](https://open.spotify.com/track/7dWcgzBva19q4R94NcTcwy) | [Katie Kadan](https://open.spotify.com/artist/2u8hNZAPjzXJOvRwdirHXL) | [Christmas in Chicago](https://open.spotify.com/album/1P3DvAXRVz1PJqKG2DAAAM) | 3:24 | 2023-12-19 |  |
 | [Christmas in Hollis](https://open.spotify.com/track/2tgKBrQZb1mvZfRPKP7fLn) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Christmas in Hollis](https://open.spotify.com/album/2T0CET3F8jkrCesxqB9rTr) | 2:59 | 2023-12-15 |  |
 | [Christmas in LA](https://open.spotify.com/track/4qi5UztNgd00YhtxB8fAat) | [Olivia Rox](https://open.spotify.com/artist/5CFBvt5T4o48iAy8mstupj) | [An Olivia Rox Christmas](https://open.spotify.com/album/7qEbuwZO9xkr85ycHqkS4r) | 2:27 | 2022-11-11 | 2023-10-04 |
 | [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 | 2022-10-28 | 2023-10-04 |

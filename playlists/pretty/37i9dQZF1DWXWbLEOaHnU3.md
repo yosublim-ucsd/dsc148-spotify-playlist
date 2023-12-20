@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,582 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,697 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 38 | [Vikings](https://open.spotify.com/track/4ZkFgEWxurnQt1IA2nKL8z) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Vikings](https://open.spotify.com/album/1cjtiYZGIm7ItJbJMLIjul) | 5:25 |
 | 39 | [Bansuri](https://open.spotify.com/track/5PTwd54TX8VWHOD2UgR32f) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Bansuri](https://open.spotify.com/album/0rf8VJA0Omu4xXgwwUslir) | 7:30 |
 | 40 | [I Want Your Soul](https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz) | [Naturalize](https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022) | [I Want Your Soul](https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx) | 7:00 |
-| 41 | [Opera Haus](https://open.spotify.com/track/2iHwXdybvL8uEcN2nVM9HW) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Opera Haus](https://open.spotify.com/album/49r6EIJbCwPlYabzvdU2Ts) | 3:47 |
-| 42 | [Poison \- Darma Remix](https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Darma](https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:08 |
+| 41 | [Poison \- Darma Remix](https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Darma](https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:08 |
+| 42 | [Opera Haus](https://open.spotify.com/track/2iHwXdybvL8uEcN2nVM9HW) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Opera Haus](https://open.spotify.com/album/49r6EIJbCwPlYabzvdU2Ts) | 3:47 |
 | 43 | [Far Away](https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [Crazy Box](https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP) | [Far Away](https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal) | 4:50 |
 | 44 | [The Oasis \(Zyrus 7 Remix\) \- Original Mix](https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Zyrus 7](https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu) | [The Oasis \(Zyrus 7 Remix\)](https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U) | 3:29 |
 | 45 | [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 | 75 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
 
-Snapshot ID: `MCw1NWYwZWMxMmI3NjY0M2VlZTRiM2I5OWIzNDcxNzllOGJhNTM3ZWE3`
+Snapshot ID: `MCxlMzc4N2NjOTdjYzQ5Y2E3ZWIyZTI1NWUxZTUyN2Q4NWYyYzg3ZDU4`

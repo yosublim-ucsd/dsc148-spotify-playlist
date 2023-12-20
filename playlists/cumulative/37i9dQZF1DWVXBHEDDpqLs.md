@@ -4,7 +4,7 @@
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-193 songs - 10 hr 19 min
+194 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Eyes On Me \- Solardo Remix](https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U) | [Chelley](https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Eyes On Me \(Solardo Remix\)](https://open.spotify.com/album/3t7TCJ10JcLJR6ZYqbRONr) | 2:30 | 2021-12-10 | 2023-12-09 |
 | [EZ 4 Me](https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [EZ 4 Me](https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg) | 3:00 | 2022-10-28 | 2023-02-25 |
 | [Fettle \- QRTR Remix](https://open.spotify.com/track/7c1CFHIQ3nWHXCVQRfnXbS) | [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK), [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [What Wands Remixes](https://open.spotify.com/album/4loXRflAhNAmetCbPUGvOA) | 3:33 | 2021-12-10 | 2022-05-07 |
-| [FIJI WATER](https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k) | [MONEYONYOURMIND](https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [FIJI WATER](https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk) | 2:16 | 2023-05-26 |  |
+| [FIJI WATER](https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k) | [MONEYONYOURMIND](https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [FIJI WATER](https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk) | 2:16 | 2023-05-26 | 2023-12-20 |
 | [FREAKBODY](https://open.spotify.com/track/1QHYj6C2taf8lk3qvTX3u8) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [FREAKBODY](https://open.spotify.com/album/6RJURFaLf0rFGjr56uE1y8) | 3:25 | 2022-09-30 | 2023-02-25 |
 | [Fuck It up Challenge](https://open.spotify.com/track/0v2POEELhkbrIWVVrLKXft) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/5WA4Jt72UF7MclAaCZBFXu) | 1:35 | 2021-12-10 | 2022-07-10 |
 | [Fuck It up Challenge](https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z) | 1:35 | 2022-07-22 | 2022-09-17 |
@@ -90,6 +90,7 @@
 | [Groove La Afrika](https://open.spotify.com/track/18XaSQTiVylPUq0uSyWZAh) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Soul on Ice EP PT1](https://open.spotify.com/album/0EyIginK61lxZJEkODvC9w) | 2:49 | 2021-12-10 | 2022-07-02 |
 | [H@ters Anonymous](https://open.spotify.com/track/0NHc281NQMZfmhzFVOTLZy) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vanice](https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb) | 1:53 | 2021-12-10 |  |
 | [HARIKĒN](https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH) | [HARIKĒN](https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e) | 2:40 | 2023-08-04 | 2023-12-14 |
+| [HARIKĒN](https://open.spotify.com/track/3yglfaWdEzm0KMS7K7MMTH) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH) | [HARIKĒN](https://open.spotify.com/album/2esoQJyT3OTzWDw6yUXYO3) | 2:40 | 2023-10-06 |  |
 | [Heartbroken Twenty Twenty](https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Heartbroken Twenty Twenty](https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4) | 2:51 | 2021-12-10 | 2022-12-02 |
 | [Heat](https://open.spotify.com/track/6dPtJhyt9o3Dhmo2n2VgUe) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8) | [Heat](https://open.spotify.com/album/22hHDqGb2Ayl4hiOzLP60d) | 3:04 | 2022-05-06 |  |
 | [Hector's Revenge](https://open.spotify.com/track/7e9Rxyq7s3JMvGMQ3kWy3c) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Hector's Revenge](https://open.spotify.com/album/3vt6iwhqMYXs1gh1sgLpRl) | 7:32 | 2023-03-31 | 2023-06-25 |

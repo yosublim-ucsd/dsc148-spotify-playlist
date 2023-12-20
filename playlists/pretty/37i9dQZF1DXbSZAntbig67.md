@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,531 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,676 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 6 | [All I Want For Christmas Is You](https://open.spotify.com/track/2g2N78BH9x4iAzeSvjG7dU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas II You](https://open.spotify.com/album/63OsyEW79JFEVI8k4Abuo6) | 4:02 |
 | 7 | [Regalo de Navidad](https://open.spotify.com/track/30o450nKpNYOj7zraCkkIg) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG) | [Regalo de Navidad](https://open.spotify.com/album/4IBxAgP6UU3aIgQkGV2s9V) | 3:26 |
 | 8 | [Santa Claus Is Comin’ To Town](https://open.spotify.com/track/2m8DBsZnH9whNkbSjnbRGJ) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:29 |
-| 9 | [Como Me Encanta Navidad \- Merry Merry Christmas](https://open.spotify.com/track/62tOTgyfjipePkElhFJp85) | [Lu Li Pampín](https://open.spotify.com/artist/2s5oIH7jW68tUafw6zs2y6) | [Navidad Con Luli Pampín, Vol\. 2](https://open.spotify.com/album/3oNXiIFf63aB8OghTU8Mya) | 2:56 |
+| 9 | [Como Me Encanta Navidad \- Merry Merry Christmas](https://open.spotify.com/track/62tOTgyfjipePkElhFJp85) | [Luli Pampín](https://open.spotify.com/artist/2s5oIH7jW68tUafw6zs2y6) | [Navidad Con Luli Pampín, Vol\. 2](https://open.spotify.com/album/3oNXiIFf63aB8OghTU8Mya) | 2:56 |
 | 10 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
 | 11 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2Ikvn9nKp5QswEjRXttVNS) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/4ycetEwIqKzehvlVrPmZFW) | 2:54 |
 | 12 | [Una Carta para Santa](https://open.spotify.com/track/7sDmFpi0PuBefWINVIa6O1) | [Little Baby Bum en Español](https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w), [Go Buster en Español](https://open.spotify.com/artist/0x1WPK6yJbDAUHfNONGVKd) | [Una Carta para Santa](https://open.spotify.com/album/4RagjtWymXMmZPIUtJ3CP4) | 2:02 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 107 | [Farolito \(Little Star\)](https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 4:39 |
 | 108 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 |
 
-Snapshot ID: `MCwzYjcxMDVhNzcyZjMxZTc0ZDBmNTY1MGVlMGUwOTA3MGRlOGRkZjZm`
+Snapshot ID: `MCxmODI0OGFjZTkxM2Q2ODk4OWJjMmJiMjBjZjRhY2NkZGZjMDgzNzBl`

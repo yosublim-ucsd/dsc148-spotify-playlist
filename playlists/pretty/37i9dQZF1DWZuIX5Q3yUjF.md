@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: G\-laspada
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,031 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,028 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 2 | [Aria](https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/4gVFzrfyJR8f4SzkK1q2m2) | 2:29 |
 | 3 | [USA LA MEMORIA](https://open.spotify.com/track/0uCM9gbqQT4292zquIDJ39) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok), [MaRie](https://open.spotify.com/artist/34NnNxcbViVpdQn8VHYe5u) | [PUNTO ZERO](https://open.spotify.com/album/3PcENwZrpHJ1mlFsoSo6Bv) | 2:43 |
 | 4 | [Rosalyn](https://open.spotify.com/track/7bxrxFJkCOYxrcbZwKsRzY) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Rosalyn](https://open.spotify.com/album/4iPWRaCy4GqUYLbVfwGIZ5) | 2:37 |
-| 5 | [Oi Nì](https://open.spotify.com/track/4dXuDQTfZqNZFnMQJQT1rq) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX), [Jack & la Banda](https://open.spotify.com/artist/0tw8jmYQo1RZ8XtzyyYvyH) | [Oi Nì](https://open.spotify.com/album/7MJlfrfLxP6UI6q53PUaJv) | 2:36 |
+| 5 | [Oi Nì](https://open.spotify.com/track/4dXuDQTfZqNZFnMQJQT1rq) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX), [Jack Langellotti](https://open.spotify.com/artist/5zwprFEgkf4geLBHbIXQXK) | [Oi Nì](https://open.spotify.com/album/7MJlfrfLxP6UI6q53PUaJv) | 2:36 |
 | 6 | [God Is Good](https://open.spotify.com/track/0KSMnvQjXjimr0eBa1zzOL) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [God Is Good](https://open.spotify.com/album/0QMymvAm1kRZ1t9bOTvqqO) | 2:28 |
 | 7 | [Non vuoi perdere mai](https://open.spotify.com/track/1ltRsqo1JQV4qcVLPYkgXL) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Aurora Boreale](https://open.spotify.com/album/0RWG0hwJKw9uBOA8wFIF1u) | 4:02 |
 | 8 | [Stand by](https://open.spotify.com/track/4RiCyzImlul2OVb7nWWNQ3) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Stand by](https://open.spotify.com/album/29S37owZPBfL0m5qjcCM7H) | 3:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [Roulette](https://open.spotify.com/track/73JpGj55qaZvDHN6j0mHJo) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Roulette](https://open.spotify.com/album/2SiNIJDHO34gqUSsML9d5h) | 2:45 |
 | 70 | [GangstaBaby \(feat\. Rondodasosa\)](https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:46 |
 
-Snapshot ID: `MCxlY2U4ZjZjNTlmZGNmMDM1YTc1NmQ2ZjlhYjRhMDIxMDgxYmE1MTMw`
+Snapshot ID: `MCwzMjVmYTE4NTk2YWIzNjlkNDNjMGI5MTI4YzRlNTU2ZTEwYmFkZjAy`

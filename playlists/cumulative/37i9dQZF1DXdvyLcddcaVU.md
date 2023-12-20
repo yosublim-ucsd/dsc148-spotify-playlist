@@ -4,7 +4,7 @@
 
 > J'sors la bécane di\-di\-da\-da \#fyp
 
-233 songs - 12 hr 12 min
+234 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-07 | 2023-11-18 |
 | [Batcha](https://open.spotify.com/track/39yQagzLGEbc9hEud0Ivvz) | [GAZY MP](https://open.spotify.com/artist/5CWqAxPyMw1opbJyhvs6YO) | [Batcha](https://open.spotify.com/album/0wrOkKIL36F7JoE1EUuo1B) | 2:31 | 2023-03-24 | 2023-10-02 |
 | [Be Together](https://open.spotify.com/track/6p8Q7wi1ke7v3ospD1YAVO) | [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN) | [Trust Issues](https://open.spotify.com/album/0huOF8RkzDHWHCCBXiAiRj) | 3:08 | 2023-11-10 | 2023-12-15 |
-| [Belle](https://open.spotify.com/track/2BUtRxxgzFgmhXeVyXAdZv) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Belle et Sébastien : L'aventure continue \(Bande originale du film\)](https://open.spotify.com/album/1viAIMkI82vG92WwHXZ7YD) | 2:56 | 2023-12-01 |  |
+| [Belle](https://open.spotify.com/track/2BUtRxxgzFgmhXeVyXAdZv) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Belle et Sébastien : L'aventure continue \(Bande originale du film\)](https://open.spotify.com/album/1viAIMkI82vG92WwHXZ7YD) | 2:56 | 2023-12-01 | 2023-12-20 |
 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-03-24 |  |
 | [Bolingo](https://open.spotify.com/track/07l8zhiWw5NhHmd9rOmo4G) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [MOOD3 \(Glish\)](https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb) | 3:31 | 2023-06-16 | 2023-09-10 |
 | [Bolingo](https://open.spotify.com/track/0P6QbrmnUbxbriPFNcBzWe) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [MOOD3 \(Glish\)](https://open.spotify.com/album/1WnYvTAoJM8BfXj4DpLCYR) | 3:31 | 2023-06-16 |  |
@@ -62,6 +62,7 @@
 | [Chou Daddy](https://open.spotify.com/track/0k8BfK43wucvEDpvVpU2Py) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Chou Daddy](https://open.spotify.com/album/7gk1ye4LIJ3WwJTVK2G1gR) | 1:28 | 2023-06-30 | 2023-11-11 |
 | [Chou Daddy](https://open.spotify.com/track/6e4UhRfZqwC8xdbgDs1gb1) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Chou Daddy](https://open.spotify.com/album/1kld714TJvVclAm3vuRLkR) | 1:28 | 2023-06-30 | 2023-11-18 |
 | [Chou wasabi \(feat\. Micky Green\)](https://open.spotify.com/track/1mZbP5dp7CAU2qZI2I6OiV) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj), [Micky Green](https://open.spotify.com/artist/2xRBcpNYedlk5IhmIxfUqo) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:39 | 2023-11-24 |  |
+| [Christian Dior](https://open.spotify.com/track/6YRplhBAorNmsdLf4eHIxc) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Christian Dior](https://open.spotify.com/album/3Zj4TuPXuharEk359TBOxc) | 2:34 | 2023-12-19 |  |
 | [Chérie](https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 3:08 | 2023-09-08 |  |
 | [Clandestina \- JVSTIN Remix](https://open.spotify.com/track/1VutwUjHPwEELxHkwdhMkz) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0), [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Jvstin](https://open.spotify.com/artist/7yx9U0pCgGRvOPLjT75Rgd) | [Clandestina \(JVSTIN Remix\)](https://open.spotify.com/album/35ADWQ8p7cIVqFs0h1PVdW) | 2:25 | 2023-03-24 | 2023-10-02 |
 | [Coffre plein](https://open.spotify.com/track/7rjb8ymTxQJjAZHDny04Bn) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [Coffre plein](https://open.spotify.com/album/5tOYj6AOxgk72xSNURFuOu) | 3:40 | 2023-10-20 |  |

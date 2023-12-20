@@ -1,28 +1,136 @@
 {
   "description": "",
-  "num_followers": 28902,
+  "num_followers": 28908,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzU0NyxhYTQ2OTNiMmYxZGQxMzMzZjBhOTVmOWYyYmRiMTAzY2ZkMTBiY2Zk",
+  "snapshot_id": "MzU3NCw1ZWM2NmU1YjIxMjIyNTJjOGVkMDhiNzZlNTM4ODljNmFjOGIzMzk5",
   "tracks": [
     {
-      "added_at": "2023-11-10 14:45:24",
+      "added_at": "2023-10-20 13:46:21",
       "album": {
-        "name": "Un/limited Love",
-        "url": "https://open.spotify.com/album/60QrBH7P0Iyne4T999YL0F"
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7"
+    },
+    {
+      "added_at": "2023-10-17 14:31:53",
+      "album": {
+        "name": "Birth4000",
+        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
+      "added_at": "2023-10-12 09:59:58",
+      "album": {
+        "name": "S e x",
+        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
       },
       "artists": [
         {
           "name": "George Riley",
           "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
         }
       ],
-      "duration_ms": 203350,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/4uHSypi6xnu8YlmLjC3tns"
+      "duration_ms": 181546,
+      "name": "S e x",
+      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
+    },
+    {
+      "added_at": "2023-09-22 17:16:54",
+      "album": {
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 186987,
+      "name": "cyber meat",
+      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
+    },
+    {
+      "added_at": "2023-12-19 18:56:32",
+      "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
+    },
+    {
+      "added_at": "2023-04-25 16:05:06",
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "added_at": "2023-07-07 18:29:26",
+      "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "added_at": "2023-11-15 01:16:43",
@@ -55,26 +163,6 @@
       "duration_ms": 163627,
       "name": "Pluto ( a 2 )",
       "url": "https://open.spotify.com/track/0cLufjoaDFrrLnNWH0fMvd"
-    },
-    {
-      "added_at": "2023-11-24 11:41:31",
-      "album": {
-        "name": "Reworks: Vol2",
-        "url": "https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        },
-        {
-          "name": "Ishmael Ensemble",
-          "url": "https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "Invisible Forces - Ishmael Ensemble Remix",
-      "url": "https://open.spotify.com/track/2Q3gB3xpEyClhoAYNEl2PA"
     },
     {
       "added_at": "2023-10-27 16:06:15",
@@ -177,90 +265,6 @@
       "url": "https://open.spotify.com/track/0nbkQCyzpDHuANCnXbjUfc"
     },
     {
-      "added_at": "2023-10-20 13:46:21",
-      "album": {
-        "name": "When Will We Land?",
-        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7"
-    },
-    {
-      "added_at": "2023-10-17 14:31:53",
-      "album": {
-        "name": "Birth4000",
-        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 286274,
-      "name": "Birth4000",
-      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
-    },
-    {
-      "added_at": "2023-10-16 23:01:54",
-      "album": {
-        "name": "Always Get Through To You",
-        "url": "https://open.spotify.com/album/51OIExqk0K2EqCJTnKvdaV"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 180063,
-      "name": "Always Get Through To You - Edit",
-      "url": "https://open.spotify.com/track/0HWY09dnVuJfERJcgEZ836"
-    },
-    {
-      "added_at": "2023-10-12 09:59:58",
-      "album": {
-        "name": "S e x",
-        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
-      },
-      "artists": [
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "S e x",
-      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
-    },
-    {
-      "added_at": "2023-10-16 23:01:17",
-      "album": {
-        "name": "Night Sculpture",
-        "url": "https://open.spotify.com/album/1DU6Xkh6E2apfVK3pERMWh"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 206095,
-      "name": "Night Sculpture",
-      "url": "https://open.spotify.com/track/6ZCx2AjyhVmQhjOBkgFXnl"
-    },
-    {
       "added_at": "2023-10-12 13:58:14",
       "album": {
         "name": "Its me ( g 8 ) / Oway ( f 7 )",
@@ -331,22 +335,6 @@
       "duration_ms": 146621,
       "name": "VIOLET",
       "url": "https://open.spotify.com/track/7bj2V0jUq2wbuOwxlajhIu"
-    },
-    {
-      "added_at": "2023-09-22 17:16:54",
-      "album": {
-        "name": "softscars",
-        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "cyber meat",
-      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
     },
     {
       "added_at": "2023-09-22 17:18:56",
@@ -465,22 +453,6 @@
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
     },
     {
-      "added_at": "2023-08-22 17:31:08",
-      "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
-    },
-    {
       "added_at": "2023-08-31 11:05:30",
       "album": {
         "name": "DJ Friendly",
@@ -549,26 +521,6 @@
       "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
     },
     {
-      "added_at": "2023-07-13 09:35:34",
-      "album": {
-        "name": "Make You Scream (yun\u00e8 pinku Remix)",
-        "url": "https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ"
-      },
-      "artists": [
-        {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
-        },
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 164105,
-      "name": "Make You Scream - yun\u00e8 pinku Remix",
-      "url": "https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q"
-    },
-    {
       "added_at": "2023-07-11 11:10:49",
       "album": {
         "name": "Butterfly Effect",
@@ -625,26 +577,6 @@
       "url": "https://open.spotify.com/track/0pPOYxRMPT2puunY57ZFnH"
     },
     {
-      "added_at": "2023-07-07 18:29:26",
-      "album": {
-        "name": "Now U Do",
-        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Now U Do - Edit",
-      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
       "added_at": "2023-06-27 16:21:53",
       "album": {
         "name": "Heavier",
@@ -679,26 +611,6 @@
       "duration_ms": 232057,
       "name": "Woman",
       "url": "https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n"
-    },
-    {
-      "added_at": "2023-04-25 16:05:06",
-      "album": {
-        "name": "No More Lies",
-        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 327217,
-      "name": "No More Lies",
-      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "added_at": "2023-04-13 20:47:57",
@@ -737,62 +649,6 @@
       "url": "https://open.spotify.com/track/3AXnJq4P3X03O4NVSHQv9c"
     },
     {
-      "added_at": "2023-12-11 13:13:45",
-      "album": {
-        "name": "Cash",
-        "url": "https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 162445,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ"
-    },
-    {
-      "added_at": "2023-12-11 13:14:07",
-      "album": {
-        "name": "Vast Oceans, Empty Skies",
-        "url": "https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI"
-      },
-      "artists": [
-        {
-          "name": "United Freedom Collective",
-          "url": "https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW"
-        },
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "A Smile at Last",
-      "url": "https://open.spotify.com/track/2baiAXelyMJXPu14eyglDC"
-    },
-    {
-      "added_at": "2023-12-11 13:14:12",
-      "album": {
-        "name": "Vast Oceans, Empty Skies",
-        "url": "https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI"
-      },
-      "artists": [
-        {
-          "name": "United Freedom Collective",
-          "url": "https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW"
-        }
-      ],
-      "duration_ms": 241500,
-      "name": "Ain\u2019t No Place",
-      "url": "https://open.spotify.com/track/2kwDjw07hMHJErQCprXxid"
-    },
-    {
       "added_at": "2023-12-11 13:14:18",
       "album": {
         "name": "Vast Oceans, Empty Skies",
@@ -807,42 +663,6 @@
       "duration_ms": 260000,
       "name": "Vast Oceans, Empty Skies",
       "url": "https://open.spotify.com/track/6Vxm5h0BxHdwM5oBMhTi3E"
-    },
-    {
-      "added_at": "2023-12-11 13:14:23",
-      "album": {
-        "name": "Vast Oceans, Empty Skies",
-        "url": "https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI"
-      },
-      "artists": [
-        {
-          "name": "United Freedom Collective",
-          "url": "https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW"
-        },
-        {
-          "name": "Labdi",
-          "url": "https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ"
-        }
-      ],
-      "duration_ms": 269500,
-      "name": "Nyiego",
-      "url": "https://open.spotify.com/track/3knchrfS2GkZfFhljRp3Cr"
-    },
-    {
-      "added_at": "2023-12-11 13:14:27",
-      "album": {
-        "name": "Vast Oceans, Empty Skies",
-        "url": "https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI"
-      },
-      "artists": [
-        {
-          "name": "United Freedom Collective",
-          "url": "https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "To the Sea",
-      "url": "https://open.spotify.com/track/3WoMBqCRLxtFhghYQAxzYZ"
     },
     {
       "added_at": "2023-12-11 13:14:53",
@@ -883,6 +703,30 @@
       "duration_ms": 252187,
       "name": "Small Sanctuary - nimino Remix",
       "url": "https://open.spotify.com/track/3edXY8UqTv1SEC6JOrfBPQ"
+    },
+    {
+      "added_at": "2023-12-19 12:31:30",
+      "album": {
+        "name": "DJ Friendly (Chlo\u00e9 Robinson + DJ ADHD Remix)",
+        "url": "https://open.spotify.com/album/0iZ89vX6yYOPizSvZ6frTW"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "duration_ms": 311824,
+      "name": "DJ Friendly - Chlo\u00e9 Robinson + DJ ADHD Remix",
+      "url": "https://open.spotify.com/track/5mvz45UH2VYwENCnzXjBVY"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

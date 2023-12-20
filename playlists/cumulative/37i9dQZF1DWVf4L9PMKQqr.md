@@ -4,7 +4,7 @@
 
 > Enamórate con las interpretaciones más románticas de El Flaco de Oro.
 
-80 songs - 3 hr 57 min
+81 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Caballera Blanca](https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP) | [Alejandro Algara](https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB) | [COLECCION Volumen 5](https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk) | 3:31 | 2021-05-07 |  |
 | [Cada Noche un Amor](https://open.spotify.com/track/5WiQDTNxxdUQut3jCUZz0e) | [Maria Felix](https://open.spotify.com/artist/16EdP6qprhSzH9S6zJ50n7) | [María Félix Interpreta a Agustín Lara](https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG) | 3:31 | 2021-05-07 |  |
 | [Concha Nacar / Limosna](https://open.spotify.com/track/6jrUIPj4VyB9ItLhOMrcSs) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0) | 2:59 | 2021-05-07 |  |
+| [Cosas Que Suceden](https://open.spotify.com/track/66TEyiKkT24YtD5md5qvJE) | [Agustin Lara Jr.](https://open.spotify.com/artist/2imA995pqgdOtN780UWweZ) | [...Solamente una Vez](https://open.spotify.com/album/59bTiNwUTyKzIW5B2GXRH2) | 3:20 | 2021-05-07 |  |
 | [Cuando Vuelvas](https://open.spotify.com/track/1Oyk4HRRxRyqwHvgYv06q8) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Señora Tentación](https://open.spotify.com/album/5tcUId9lERJM6D2dzroZI0) | 3:31 | 2021-05-07 |  |
 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9) | [Genaro Salinas](https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD) | [La Coleccion Del Siglo](https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb) | 3:06 | 2021-05-07 |  |
 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:53 | 2021-05-07 |  |
@@ -69,7 +70,7 @@
 | [Por Qué Negar](https://open.spotify.com/track/47kfWkwDKh1L5UepjO2oWZ) | [Maria Felix](https://open.spotify.com/artist/16EdP6qprhSzH9S6zJ50n7) | [María Félix Interpreta a Agustín Lara](https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG) | 2:39 | 2021-05-07 |  |
 | [Príncipe Vals](https://open.spotify.com/track/3KFSfOMYV1eAR2jLascuRo) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Lo Esencial de Agustín Lara](https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx) | 2:30 | 2021-05-07 |  |
 | [Rosa](https://open.spotify.com/track/4bYzJf4CpXi70LphnRvdqk) | [Alejandro Algara](https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB) | [5 Decadas de Boleros: Boleros de los 20's](https://open.spotify.com/album/5GWxERu84RmaBfSWE1zhTy) | 4:04 | 2021-05-07 |  |
-| [Rosa](https://open.spotify.com/track/7DSS39cTri1kpLLOLcIoaz) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Música De Agustín Lara](https://open.spotify.com/album/3aTeNQz97em0DeRxg7r05k) | 2:52 | 2021-05-07 |  |
+| [Rosa](https://open.spotify.com/track/7DSS39cTri1kpLLOLcIoaz) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Música De Agustín Lara](https://open.spotify.com/album/3aTeNQz97em0DeRxg7r05k) | 2:52 | 2021-05-07 | 2023-12-20 |
 | [Rosa](https://open.spotify.com/track/4f7z1W1qP8699e4Fe0c8wi) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Música de Agustín Lará Con los Tres Caballeros](https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq) | 2:30 | 2021-05-07 |  |
 | [Saca Los Nardos](https://open.spotify.com/track/0FFctG1LlQ3N7KqJ55ezcg) | [Salvador García](https://open.spotify.com/artist/7lyQukDK3CCRkKlv1ZtITq) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 1:52 | 2021-05-07 |  |
 | [Santa](https://open.spotify.com/track/2Z0iHCLYjFdiEpn1I4aPE9) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Cuco Sánchez Interpreta a Agustín Lara](https://open.spotify.com/album/3w6SQ81PgTgHmvSoz7WUaN) | 3:04 | 2021-05-07 |  |

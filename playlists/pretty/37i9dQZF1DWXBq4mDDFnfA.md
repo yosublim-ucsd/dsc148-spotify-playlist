@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,510 likes - 45 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,542 likes - 45 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 41 | [Sonata giocosa: II\. Andante moderato](https://open.spotify.com/track/7lCykZv6dxrbN7p7GbKxMz) | [Joaquín Rodrigo](https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr), [Marcin Dylla](https://open.spotify.com/artist/12Wd9ttq7EUbesXRqEGhRB) | [Chitarra Giocosa](https://open.spotify.com/album/4hsz409ORqBPBdd9BkpzFr) | 4:19 |
 | 42 | [Wind Color Vector: I\. Leeward](https://open.spotify.com/track/69eTjfaXWJgapw4jMxCcTs) | [Takashi Yoshimatsu](https://open.spotify.com/artist/1l5ZTaHQFvNzEiP5rZ4Zat), [Craig Ogden](https://open.spotify.com/artist/07pZelCNTBK93CD474588Q) | [Craig Ogden: Guitar Meditations](https://open.spotify.com/album/6rMWH2ggzYHo9yvRVC62vj) | 4:57 |
 | 43 | [Romanza](https://open.spotify.com/track/1ezqle0CLSBPjjZcjKhFuh) | [Miguel Llobet Solés](https://open.spotify.com/artist/0Ag2rHCb9q0jmQ6Jaj1GUT), [Lorenzo Micheli](https://open.spotify.com/artist/0j7TdouVq0DtMZZRWiwcjq) | [Llobet: Guitar Works \(Complete\)](https://open.spotify.com/album/5XzOZZtOhTgL5yFthYxn6Q) | 5:09 |
-| 44 | [Ronsard \(De Platero y Yo\)](https://open.spotify.com/track/76UK5gKqUosKutmEnBtWeY) | [Castelnuevo\-Tedesco](https://open.spotify.com/artist/4Tl9BcuIraxV7gBAdc7RhA), [Andrés Segovia](https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97) | [Reveries](https://open.spotify.com/album/49x5ATRMfvUVQDyEL9IyQM) | 3:10 |
+| 44 | [Ronsard \(De Platero y Yo\)](https://open.spotify.com/track/76UK5gKqUosKutmEnBtWeY) | [Mario Castelnuovo\-Tedesco](https://open.spotify.com/artist/28c3Va3dnSLY1av3ym8XT2), [Andrés Segovia](https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97) | [Reveries](https://open.spotify.com/album/49x5ATRMfvUVQDyEL9IyQM) | 3:10 |
 | 45 | [24 Studies, Op\. 35, "Exercises": Study No\. 17 in D Major](https://open.spotify.com/track/36RCsOzDM2cPkSL6Gotr16) | [Fernando Sor](https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Sor: Fantasias Nos\. 7, 10, 13 / 24 Studies \(Excerpts\)](https://open.spotify.com/album/7JGXxvuPVAqgRJDQUyKd0R) | 1:44 |
 
-Snapshot ID: `MCxjZTdjYWY1NjgxMGZlOTVhY2M0Y2Y1NjRkNWFkNTlmNDhkMzdmMTI4`
+Snapshot ID: `MCwyODMyOTgyNzE3MjA3ODM2ODg5NWViMTAyZmVhMTljMzRkN2ZhMWZk`

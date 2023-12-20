@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,704 likes - 49 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,641 likes - 49 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 4 | [The First Noel](https://open.spotify.com/track/2q3NNQqn8DaehA2M0qyKHT) | [Dean Hort Quartet](https://open.spotify.com/artist/1C5rovJ0DxYtVAsEWQIQfj) | [The First Noel](https://open.spotify.com/album/5mvwUwNxgqw3NrHCfWr0tp) | 2:11 |
 | 5 | [Silent Night](https://open.spotify.com/track/0uPVaufjRTytQ15pETZTDS) | [Voices of Joy](https://open.spotify.com/artist/1qjsaKVUHUL768TUvVgs8l) | [Auld Lang Syne](https://open.spotify.com/album/3FN9LRHRBLlLM2uE2LpRJy) | 2:08 |
 | 6 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1Vo6iMsQECNmLbuayuLTe9) | [The Singalings](https://open.spotify.com/artist/0hlpR1fY7s9T6D0irIl3t9) | [Deck The Halls](https://open.spotify.com/album/0tyZZuSAFjQeBMWNUp1oTu) | 1:37 |
-| 7 | [Ding Dong Merrily On High](https://open.spotify.com/track/6uxtsYeGygwrhmobg96Hkq) | [The Doorstep Carolers](https://open.spotify.com/artist/4Y2CAf3w4WZ81gIXWJbxrF) | [Ding Dong Merrily On High](https://open.spotify.com/album/6lGpdC69lL8JtJXaQUxOBk) | 1:42 |
-| 8 | [O Holy Night \- Acapella](https://open.spotify.com/track/4h3DVUQyLeA4g6RaCkGaD6) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [O Holy Night](https://open.spotify.com/album/1hBZmVyxC8dHxPZpzL7Zwu) | 4:30 |
-| 9 | [Winter Wonderland](https://open.spotify.com/track/03hoxhb9QTw2jMyxlC05fM) | [Millennia Choir](https://open.spotify.com/artist/0DYyjQ07NlZcMysO4UEN9R) | [Millenium Choir](https://open.spotify.com/album/08RVRU04laKLl3Lw3SNI3f) | 1:25 |
-| 10 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/3xSsHxgabPMsTmjv78mxES) | [Voices of Joy](https://open.spotify.com/artist/1qjsaKVUHUL768TUvVgs8l) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/7MlfKEzMe9BuLdUanU0TuZ) | 1:46 |
-| 11 | [Hark The Herald Angels Sing](https://open.spotify.com/track/11DnrwrDAEiHP7NSh3ZKeL) | [Dem Serenaders](https://open.spotify.com/artist/51qhTwyB1RXpyfeJFGo9Pf) | [White Christmas](https://open.spotify.com/album/52gytnvgIzhZOeaRbOMqbx) | 2:47 |
-| 12 | [White Christmas](https://open.spotify.com/track/4QtlzS8gUPjcKaLTtHSSXO) | [Dem Serenaders](https://open.spotify.com/artist/51qhTwyB1RXpyfeJFGo9Pf) | [White Christmas](https://open.spotify.com/album/52gytnvgIzhZOeaRbOMqbx) | 2:38 |
-| 13 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3qdAy59rXgtUvZTWvm6v8d) | [The Cheerlots](https://open.spotify.com/artist/3kfyIzUTGqonAHgFFbAarY) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4MlaAjpoPEOdigaO6rXYrg) | 2:42 |
+| 7 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3qdAy59rXgtUvZTWvm6v8d) | [The Cheerlots](https://open.spotify.com/artist/3kfyIzUTGqonAHgFFbAarY) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4MlaAjpoPEOdigaO6rXYrg) | 2:42 |
+| 8 | [Ding Dong Merrily On High](https://open.spotify.com/track/6uxtsYeGygwrhmobg96Hkq) | [The Doorstep Carolers](https://open.spotify.com/artist/4Y2CAf3w4WZ81gIXWJbxrF) | [Ding Dong Merrily On High](https://open.spotify.com/album/6lGpdC69lL8JtJXaQUxOBk) | 1:42 |
+| 9 | [O Holy Night \- Acapella](https://open.spotify.com/track/4h3DVUQyLeA4g6RaCkGaD6) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [O Holy Night](https://open.spotify.com/album/1hBZmVyxC8dHxPZpzL7Zwu) | 4:30 |
+| 10 | [Winter Wonderland](https://open.spotify.com/track/03hoxhb9QTw2jMyxlC05fM) | [Millennia Choir](https://open.spotify.com/artist/0DYyjQ07NlZcMysO4UEN9R) | [Millenium Choir](https://open.spotify.com/album/08RVRU04laKLl3Lw3SNI3f) | 1:25 |
+| 11 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/3xSsHxgabPMsTmjv78mxES) | [Voices of Joy](https://open.spotify.com/artist/1qjsaKVUHUL768TUvVgs8l) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/7MlfKEzMe9BuLdUanU0TuZ) | 1:46 |
+| 12 | [Hark The Herald Angels Sing](https://open.spotify.com/track/11DnrwrDAEiHP7NSh3ZKeL) | [Dem Serenaders](https://open.spotify.com/artist/51qhTwyB1RXpyfeJFGo9Pf) | [White Christmas](https://open.spotify.com/album/52gytnvgIzhZOeaRbOMqbx) | 2:47 |
+| 13 | [White Christmas](https://open.spotify.com/track/4QtlzS8gUPjcKaLTtHSSXO) | [Dem Serenaders](https://open.spotify.com/artist/51qhTwyB1RXpyfeJFGo9Pf) | [White Christmas](https://open.spotify.com/album/52gytnvgIzhZOeaRbOMqbx) | 2:38 |
 | 14 | [I'll Be Home For Christmas](https://open.spotify.com/track/4V5oho3T26HQ6VPAuh94gL) | [Seasonal Smoothers](https://open.spotify.com/artist/02IYD7NORepp82HZMGvo0z) | [I'll Be Home For Christmas](https://open.spotify.com/album/5ml3IWHPa2eim1Gy6AxyG3) | 2:02 |
 | 15 | [Joy To The World](https://open.spotify.com/track/6B02IyJebCQknVIIT9K3eL) | [The Seasonal Singers](https://open.spotify.com/artist/5WHHG2CE0jbiLXiQZPm2fO) | [Holiday Songs](https://open.spotify.com/album/0WsyaxYre2udKrLLppHVm8) | 2:04 |
 | 16 | [Amazing Grace](https://open.spotify.com/track/1L1GHbYBHbKLOVAzBhGMTX) | [Ensemble Magnolia](https://open.spotify.com/artist/0ZdxZ04WHp2xnjhGdvDPrQ) | [Amazing Grace](https://open.spotify.com/album/6bSmzuJBqGCfBrq6nxFfTB) | 2:35 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 48 | [O Tannenbaum](https://open.spotify.com/track/1cU1C2UyM7Os13XKI8SQPz) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 0:59 |
 | 49 | [The Three Kings](https://open.spotify.com/track/6bhFHkgnEmOIVGFFOdvzqF) | [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Sir David Willcocks](https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC) | [Carols From Cambridge: The Very Best Sacred Christmas Carols](https://open.spotify.com/album/0J5mxoyU8lNsqPmepDLvmu) | 2:41 |
 
-Snapshot ID: `MCwzZDBkZTZjZjM5OTA5ZmJjZjNmOWM2NWQ2ZmE5OWU1MGU5OThiNDkw`
+Snapshot ID: `MCxkOTQyMDg4YmUxOWMzODU0NzBjMjNjYjkxMmE3OGU1MGRmZDJmOWE3`

@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Cubita.  ",
-  "num_followers": 191603,
+  "num_followers": 191680,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTMxNTBjNmY3MGQ2ZjhkZjVhZTc2YWM2YjNkYWQ2NDJmYThmMzAz",
+  "snapshot_id": "MCw0NTRlMWQ3NzQ2Yjg1OTM4NDUxYzUxODQ3N2ZmMTM4NDMwZWM0NTBi",
   "tracks": [
     {
       "added_at": "2023-12-15 00:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/0Hkdn3XNPCGajcT6S73thC"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Mi\u00fada Linda",
+      "url": "https://open.spotify.com/track/0ekgdkhtSRrulobfo6kMMY"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Safadeza",
         "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
       },
@@ -839,6 +855,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Vais Me Perder",
+        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "duration_ms": 221462,
+      "name": "Vais Me Perder",
+      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Ref\u00fagio",
         "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
@@ -855,42 +887,6 @@
       "duration_ms": 237570,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Dando Love",
-        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Dando Love",
-      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Four",
-        "url": "https://open.spotify.com/album/0Hkdn3XNPCGajcT6S73thC"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Mi\u00fada Linda",
-      "url": "https://open.spotify.com/track/0ekgdkhtSRrulobfo6kMMY"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -979,18 +975,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Vais Me Perder",
-        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
+        "name": "Dando Love",
+        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
       },
       "artists": [
         {
           "name": "Anselmo Ralph",
           "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 221462,
-      "name": "Vais Me Perder",
-      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
+      "duration_ms": 182173,
+      "name": "Dando Love",
+      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 217754,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Sincera",
         "url": "https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 187109,
       "name": "N\u00e3o vai l\u00e1",
       "url": "https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
+      },
+      "artists": [
+        {
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 217754,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Tudo de Novo",
-        "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
-      },
-      "artists": [
-        {
-          "name": "Eva Rapdiva",
-          "url": "https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd"
-        },
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Tudo de Novo",
-      "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Benka Benka",
         "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 180026,
       "name": "Benka Benka",
       "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Tudo de Novo",
+        "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
+      },
+      "artists": [
+        {
+          "name": "Eva Rapdiva",
+          "url": "https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd"
+        },
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Tudo de Novo",
+      "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Sinto Falta",
+        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 202397,
+      "name": "Sinto Falta",
+      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "TROMPETE",
         "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Sinto Falta",
-        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 202397,
-      "name": "Sinto Falta",
-      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1367,26 +1367,18 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Preparado",
-        "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
       },
       "artists": [
         {
-          "name": "Rapaz 100 Juiz",
-          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
-        },
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Klasszik",
-          "url": "https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD"
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
         }
       ],
-      "duration_ms": 279299,
-      "name": "Preparado",
-      "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
+      "duration_ms": 202758,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1411,6 +1403,30 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Preparado",
+        "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
+      },
+      "artists": [
+        {
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Klasszik",
+          "url": "https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD"
+        }
+      ],
+      "duration_ms": 279299,
+      "name": "Preparado",
+      "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Mika Mendes",
         "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 283973,
       "name": "Criola",
       "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Caixa Azul",
-        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Vis\u00e3o",
         "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Pak\u00e9",
         "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
       },
@@ -1615,6 +1615,46 @@
       "duration_ms": 220645,
       "name": "Pak\u00e9",
       "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Fica Parado (feat. C4 Pedro)",
+      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1643,46 +1683,6 @@
       "duration_ms": 279024,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        },
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Fica Parado (feat. C4 Pedro)",
-      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Dpos D' Quarentena",
-        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Cara Trancada",
-        "url": "https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI"
-      },
-      "artists": [
-        {
-          "name": "KONSTANTINO",
-          "url": "https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Cara Trancada",
-      "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Apaxonado",
         "url": "https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 291960,
       "name": "Belissima",
       "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Cara Trancada",
+        "url": "https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI"
+      },
+      "artists": [
+        {
+          "name": "KONSTANTINO",
+          "url": "https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Cara Trancada",
+      "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
     },
     {
       "added_at": "2023-12-15 00:00:00",

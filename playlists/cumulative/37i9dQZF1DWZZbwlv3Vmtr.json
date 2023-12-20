@@ -8545,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "Mysteries",
+        "url": "https://open.spotify.com/album/4Z8yCySOw5LJROmLZ4zSdO"
+      },
+      "artists": [
+        {
+          "name": "Argenius",
+          "url": "https://open.spotify.com/artist/0m3JOyxkcyPVM3bu1YZW2s"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120375,
+      "name": "Mysteries",
+      "url": "https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG"
+    },
+    {
+      "album": {
         "name": "Nagata Lights",
         "url": "https://open.spotify.com/album/44QQQMiFBKkV5aVpbIhKUf"
       },
@@ -9168,7 +9186,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 117028,
       "name": "Okazaki",
       "url": "https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl"

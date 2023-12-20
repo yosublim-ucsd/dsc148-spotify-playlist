@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 135030,
+  "num_followers": 135063,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTEzZDNlYmRjNDZiNzdlOTZhNjhkYWZhZjg3NmI3ZjI3MTRkOWJj",
+  "snapshot_id": "MCw3MGQ1NTlmMzgyZTJkMTNmYWM3ZDRlMGM0Y2FmOTBkMmZkZjhlNmY5",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -659,6 +659,22 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "Live at Rosa's Blues Lounge",
+        "url": "https://open.spotify.com/album/5y0HxCdpNri2AEY7iQ36b4"
+      },
+      "artists": [
+        {
+          "name": "Little Arthur Duncan",
+          "url": "https://open.spotify.com/artist/4Kikasw7Byz45UsiQwjTLk"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "44 Blues",
+      "url": "https://open.spotify.com/track/1iIKiEJ0JYsnV3ydvdxPvD"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "Change My Blues",
         "url": "https://open.spotify.com/album/6U3s4tNpNDKygphGvQnmye"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 288880,
       "name": "Night Life",
       "url": "https://open.spotify.com/track/6tbhUMSYaqy5Enl0XDkJkO"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Live at Rosa's Blues Lounge",
-        "url": "https://open.spotify.com/album/5y0HxCdpNri2AEY7iQ36b4"
-      },
-      "artists": [
-        {
-          "name": "Little Arthur Duncan",
-          "url": "https://open.spotify.com/artist/4Kikasw7Byz45UsiQwjTLk"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "44 Blues",
-      "url": "https://open.spotify.com/track/1iIKiEJ0JYsnV3ydvdxPvD"
     },
     {
       "added_at": "2018-02-27 18:08:29",

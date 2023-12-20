@@ -4,7 +4,7 @@
 
 > This is Marco Polo\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 53 min
+53 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [More Danger](https://open.spotify.com/track/5UUbhrtXsYKo2KeFPj7K4b) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 2:09 | 2023-12-13 |  |
 | [Nightmare on Fro Street](https://open.spotify.com/track/5PwQr0inF40AnQ9c3RnCuX) | [A\-F\-R\-O](https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [A\-F\-R\-O POLO](https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3) | 3:07 | 2023-12-13 |  |
 | [Nite & Day](https://open.spotify.com/track/0m3osdhVkpzPUNojzC7xo1) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Newport Authority 2](https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O) | 3:34 | 2023-12-15 |  |
+| [Nonstante Tutto](https://open.spotify.com/track/0fboHXyWV1EqdX9HvYqpfd) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Per la mia gente / For my people](https://open.spotify.com/album/4rUKWAZwjlTKNlNzwKVWaD) | 3:41 | 2023-12-19 |  |
 | [Nostalgia](https://open.spotify.com/track/01JOrtQklfWYmixpiiuvU0) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 4:50 | 2023-12-13 |  |
 | [Oh No](https://open.spotify.com/track/0tOm8JheU3f85WPwXcygJG) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 2:10 | 2023-12-13 |  |
 | [Quarter Water Kids](https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU) | [Solo For Dolo](https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Self Titled](https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv) | 3:10 | 2023-12-13 |  |

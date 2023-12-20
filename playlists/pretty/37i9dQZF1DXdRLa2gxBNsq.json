@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Arpaviejas.",
-  "num_followers": 101379,
+  "num_followers": 101402,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTk5ZDMzYTgwN2U0OTQ5ZDc3N2I3OWJlNTMwNmY4YWZmZGI1Njkz",
+  "snapshot_id": "MCwwMDU3MmIyMGNkYzg0MzMyZDY1YmZhOTY1OTAyNzkwMTJiNzUzZWI0",
   "tracks": [
     {
       "added_at": "2023-12-08 00:09:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Demasiados Enemigos",
-        "url": "https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk"
-      },
-      "artists": [
-        {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
-        }
-      ],
-      "duration_ms": 267038,
-      "name": "Adios Reina Mia",
-      "url": "https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 233200,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Demasiados Enemigos",
+        "url": "https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk"
+      },
+      "artists": [
+        {
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+        }
+      ],
+      "duration_ms": 267038,
+      "name": "Adios Reina Mia",
+      "url": "https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "4 A\u00f1os, 2 Meses y 1 D\u00eda",
-        "url": "https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1"
-      },
-      "artists": [
-        {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
-        }
-      ],
-      "duration_ms": 220943,
-      "name": "Lola",
-      "url": "https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Raska Y Pierde",
         "url": "https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 210279,
       "name": "Preso 2023",
       "url": "https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "4 A\u00f1os, 2 Meses y 1 D\u00eda",
+        "url": "https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1"
+      },
+      "artists": [
+        {
+          "name": "Cicatriz",
+          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+        }
+      ],
+      "duration_ms": 220943,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Reino Sin Futuro",
-        "url": "https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ"
-      },
-      "artists": [
-        {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Reino Sin Futuro",
-      "url": "https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
         "name": "Froil\u00e1n de Todos los Antros",
         "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+        "name": "Reino Sin Futuro",
+        "url": "https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ"
       },
       "artists": [
         {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
         }
       ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
+      "duration_ms": 192000,
+      "name": "Reino Sin Futuro",
+      "url": "https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1343,6 +1327,22 @@
       "duration_ms": 179197,
       "name": "Camela or Die 2.0",
       "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
       "added_at": "2023-12-08 00:09:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Perdona Amigo",
-        "url": "https://open.spotify.com/album/7w5YvFaWTRNEUfSbMvhGIu"
+        "name": "Gente de Bien",
+        "url": "https://open.spotify.com/album/6fxxDhr98JYsoI1Zp86wcT"
       },
       "artists": [
         {
-          "name": "The Birra's Terror",
-          "url": "https://open.spotify.com/artist/2nFiMmCWLvbxZbJqxwtTI8"
+          "name": "Fundaci\u00f3n Francisco Frankenstein",
+          "url": "https://open.spotify.com/artist/3H42o6gQ9x0SioRXqtbGcf"
         }
       ],
-      "duration_ms": 203226,
-      "name": "Perdona Amigo",
-      "url": "https://open.spotify.com/track/62IjCg5q4jdG8ZdleTkhwL"
+      "duration_ms": 110396,
+      "name": "Qu\u00e9 ha sido de ti",
+      "url": "https://open.spotify.com/track/14MU1VPIIrciowTRCdZJ4u"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

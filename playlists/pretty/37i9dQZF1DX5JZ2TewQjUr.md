@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Matt Force & Young Queenz
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,730 likes - 108 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,735 likes - 108 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BLOOD SWEAT TEARS AND GEARS](https://open.spotify.com/track/4yjv9GfqLd7ybSdceMCp4T) | [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [YoungQueenz](https://open.spotify.com/artist/4L55QUybdNNklpqnecZ5Bl) | [LAND](https://open.spotify.com/album/5wBBnOfybmA2VtWqJETICV) | 3:09 |
-| 2 | [Can’t Be in Love](https://open.spotify.com/track/4lWSYJQJgraWgmmUXwGwPw) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Start Again](https://open.spotify.com/album/1aZ1I5N8K8GL23nElQDBuY) | 3:05 |
+| 2 | [Can’t Be in Love](https://open.spotify.com/track/308O6dRqn5M75ew07Q5KpC) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [Start Again](https://open.spotify.com/album/5bLCbxXWXpCEyImaQriukQ) | 3:05 |
 | 3 | [SOMEMORE](https://open.spotify.com/track/0qbuJDU9xMVuyFN6VCJfor) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko) | [SOMEMORE](https://open.spotify.com/album/4u0TnNFyt781P9EwzSvlkT) | 2:38 |
 | 4 | [約束](https://open.spotify.com/track/0DoFfB5qI9EgAgjjMZpCzr) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn), [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [約束](https://open.spotify.com/album/7Khv2c6ZsSTNXlR7tZyzt6) | 4:41 |
 | 5 | [I miss](https://open.spotify.com/track/3mvK0gkQYq3n3GSdvsPUDp) | [Zainali](https://open.spotify.com/artist/5r027ab2Hq1tJlAkCtpx58) | [I miss](https://open.spotify.com/album/7dkOxsRmw6ffxATIlxnhDq) | 3:22 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 107 | [Crashing Chase \(Drillphony\)](https://open.spotify.com/track/5yaoEzPu52YqtGGWm7uRlN) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [Crashing Chase \(Drillphony\)](https://open.spotify.com/album/4cGqnjLgNFjhI2vyMDa4pO) | 2:34 |
 | 108 | [Sorry呢度係香港 \- REMIX](https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Sorry呢度係香港 \(REMIX\)](https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN) | 4:06 |
 
-Snapshot ID: `MCw5M2JhZWYwNDQyNDA5OGJlZjBlZTdkZDM4MmY4YmFjZWViMzExNGFh`
+Snapshot ID: `MCw5NzQ3YzNjYTU1NWRmM2ZjOTc3YjBlYmFmOTIyZmQ3NzA5Yzg1OWU2`

@@ -27677,6 +27677,28 @@
     },
     {
       "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/6T90kyULWSiT5DgbnGOaaE"
+      },
+      "artists": [
+        {
+          "name": "Satic\u00f6y",
+          "url": "https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO"
+        },
+        {
+          "name": "Connor Musarra",
+          "url": "https://open.spotify.com/artist/5NXojGjcyIaQTMFElFqna4"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157721,
+      "name": "Safe Side",
+      "url": "https://open.spotify.com/track/5JaWRJrewWzIaK3TJfjDBN"
+    },
+    {
+      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
       },

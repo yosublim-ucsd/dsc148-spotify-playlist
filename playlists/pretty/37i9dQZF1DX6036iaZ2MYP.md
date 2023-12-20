@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,117 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,181 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 26 | [Feeling Good](https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Feeling Good](https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp) | 2:17 |
 | 27 | [Viens bébé](https://open.spotify.com/track/5T4YWAQoY0F3aX6LscU2uL) | [Dy La Mano](https://open.spotify.com/artist/3KDuwGij0fDmQj7KlXWVnr) | [Viens bébé](https://open.spotify.com/album/6HOV3HPssgnbD8Ran4DTr1) | 3:01 |
 | 28 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Obsidian](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6) | 2:42 |
-| 29 | [I Want You](https://open.spotify.com/track/77LZE9iAKy6KDWTBl7vRwm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD) | 3:43 |
+| 29 | [I Want You](https://open.spotify.com/track/77LZE9iAKy6KDWTBl7vRwm) | [Bien](https://open.spotify.com/artist/5SwlCdVrvwU99EWa6VjIWw) | [Alusa Why Are You Topless?](https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD) | 3:43 |
 | 30 | [Fallin in Love](https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Fallin in Love](https://open.spotify.com/album/7N3hxtYqewN5Mz0W0QTaM1) | 2:42 |
 | 31 | [Baby Girl](https://open.spotify.com/track/7t1auovXwWSy6wHYYKnOh3) | [VJ](https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao) | [Baby Girl](https://open.spotify.com/album/1fC7agVdDkgbXqEhOBvO1c) | 3:16 |
 | 32 | [Higher \(C'est la vie\)](https://open.spotify.com/track/1wAtGMXgrFQ8MotS0DuG6d) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [Higher \(C'est la vie\)](https://open.spotify.com/album/3yJZCxYGmIRHrUccAb3ZlQ) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Foreigner \- Remix](https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Foreigner \(Remix\)](https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR) | 3:53 |
 | 50 | [Santé](https://open.spotify.com/track/1XPQalXJbjYH9NdndXHxmU) | [FUL](https://open.spotify.com/artist/2iQnY6e0Mq4fepcLm7AHAZ), [Cysoul](https://open.spotify.com/artist/212RAD04CL3a1XwexVB129), [GBC the Yemba](https://open.spotify.com/artist/07yKhu1K2QOiWM9j7MYd92) | [Santé](https://open.spotify.com/album/6fjYYh9hPTXD652nXseuL2) | 3:33 |
 
-Snapshot ID: `MCxiYmQ1YWJiODg0MDdjN2M2Y2ZiZmY1NjE0NmFmNDI4MTc2NjE5YmFl`
+Snapshot ID: `MCw0YTg0NzgzYTM1Y2RjN2M5NmJlMTc3OWE2Nzc3M2Y5Yjg2M2Q2YWI1`

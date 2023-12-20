@@ -4,7 +4,7 @@
 
 > Best songs of 2023 plus some of Obama&\#x27;s favorite summer songs\. Includes 22, &amp; 21 editions + bonus tracks.
 
-2,739 songs - 6 day 12 hr 26 min
+2,741 songs - 6 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,6 +789,7 @@
 | [Familiar](https://open.spotify.com/track/6RSC376d0Tbe2eSnE2Ehaq) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Familiar](https://open.spotify.com/album/1zLutAMELuYmAmlLM49D4n) | 3:29 | 2021-07-02 | 2021-07-18 |
 | [Familiar Friend](https://open.spotify.com/track/7kMThpIu48L8aXjTmGfpzb) | [Alex Togashii](https://open.spotify.com/artist/0HVbw8ntLBVDL9fpJYMljZ) | [Familiar Friend](https://open.spotify.com/album/79xAQ8u00zRdmvLIp1q7cr) | 3:50 | 2022-03-28 | 2022-04-14 |
 | [Fancy](https://open.spotify.com/track/3PyophwfgOqcTcL9ZTmfXk) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Fancy](https://open.spotify.com/album/5J9YfYw8g7zr5hIsI10OAr) | 3:04 | 2021-04-23 | 2021-05-05 |
+| [Fantasmas](https://open.spotify.com/track/53FbFxiRAPp0OKnQ3MZUdZ) | [New Sex Machine](https://open.spotify.com/artist/0csIrndJ6nijz5bSRcAhQv) | [Fantasmas](https://open.spotify.com/album/2EpuMBGDCKqhGG856YrdWd) | 3:38 | 2023-12-19 |  |
 | [Far Away](https://open.spotify.com/track/0Ba6ovlMwl9KnVaXIoRCnL) | [Laszlo](https://open.spotify.com/artist/5TNtLxHWJJqONApGbexje2) | [The Sky Is Falling...Again](https://open.spotify.com/album/3DA1fRXqWoWiyAVoj0Vr2x) | 3:43 | 2020-04-21 | 2020-05-06 |
 | [far from here](https://open.spotify.com/track/4xwNklyoThP5kOnoR1RN1d) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [far from here](https://open.spotify.com/album/3MTRpU32AhuJOv98Ck8s6Q) | 3:14 | 2021-04-30 | 2021-05-16 |
 | [Far From You](https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Far From You](https://open.spotify.com/album/7eXk2CTh0gdlkG0vEz0Lom) | 4:32 | 2023-04-14 | 2023-05-06 |
@@ -2747,5 +2748,6 @@
 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2021-07-11 | 2023-02-12 |
 | [Ámame](https://open.spotify.com/track/4lVEs3EYFMkTifF8yv431e) | [Josh Galiano](https://open.spotify.com/artist/0GZ6S7003D6b9eikFZv3bb), [Dari Ferrari](https://open.spotify.com/artist/5FEBQmIIz1XSLMDOUm6QnP) | [Ámame](https://open.spotify.com/album/2goL997K0dt0lSLQiOZQIL) | 3:07 | 2023-08-02 | 2023-08-11 |
 | [火](https://open.spotify.com/track/3VIFS0KM6EXUvXXCwU7lh9) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [火](https://open.spotify.com/album/2uTPzFLzReLtFPcqtMZB0d) | 3:38 | 2021-04-30 | 2021-05-16 |
+| [爛在沙發上](https://open.spotify.com/track/4MoPVuAxOvtH0RIOhIiIwH) | [青虫 aoi](https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5) | [海海人生](https://open.spotify.com/album/38WPFkWuwBq9fbgFh7K23D) | 3:10 | 2023-12-19 |  |
 
 \*This playlist was first scraped on 2019-09-29. Prior content cannot be recovered.

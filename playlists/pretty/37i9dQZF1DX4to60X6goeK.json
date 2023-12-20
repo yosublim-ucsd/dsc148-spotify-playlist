@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 52545,
+  "num_followers": 52590,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWU5ZDBhOWRkZGZmOGM0MDM2YjU5NmY3ZTE1NDExMzRkMzZkM2Mz",
+  "snapshot_id": "MCw1ZjY0OWY1ZjgyMzFmOGUxMjhlZWRkZDk0ZTU4MzZjYjc0ZmZjZDI2",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Too Lazy",
+        "url": "https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Too Lazy",
+      "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
+    },
+    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Step It Up / Lights",
@@ -895,22 +911,6 @@
       "duration_ms": 309986,
       "name": "Lady Petrol",
       "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Too Lazy",
-        "url": "https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 234482,
-      "name": "Too Lazy",
-      "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
     },
     {
       "added_at": "2023-11-17 16:57:48",

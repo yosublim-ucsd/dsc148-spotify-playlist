@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpQiOhpzS60.md) - [plain]
 
 > Ye olde medieval folk to enjoy with one's squire m'lord.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,791 likes - 64 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,869 likes - 64 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpQiOhpzS60.md) - [plain]
 | 63 | [Per tropo fede](https://open.spotify.com/track/3a4gWNgXkVHHHzUjeJbKFu) | [Jessica Baran\-Surel](https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Aremorica \- Land of Elves](https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6) | 3:47 |
 | 64 | [Thunderbrew](https://open.spotify.com/track/0Ri1S3IyEhWvwUyPxoy2uO) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [World of Warcraft: Taverns of Azeroth Original Soundtrack](https://open.spotify.com/album/13S74XwQHqT28nOyvwpFKh) | 2:01 |
 
-Snapshot ID: `MCwzYTRhOGFmM2UwZGVkOWQ4M2VlMzQ1MGU3M2I0YWE4NjI2NTJmOGE3`
+Snapshot ID: `MCxjOGZkNTNiMTFlNjVmMzNiZTdlOWFjZGJmMDc1YmVhMjdiOWFjNzQ1`

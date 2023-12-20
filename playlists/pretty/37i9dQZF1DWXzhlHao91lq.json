@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 71268,
+  "num_followers": 71279,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjVmOGQ4YjZkZTNlZThhZGE5Y2Q5OTdmNzU0Y2YyZGM3MTk2ZTdh",
+  "snapshot_id": "MCw2ZDRjODUxNDcxYjg5ODMzYzA2NjI4ZGE2YjM2N2E1NjU0YjhkOGNk",
   "tracks": [
     {
       "added_at": "2023-12-18 02:11:02",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-18 02:11:02",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "Fool's Gold - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
-    },
-    {
-      "added_at": "2023-12-18 02:11:02",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 154920,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
+    },
+    {
+      "added_at": "2023-12-18 02:11:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "Fool's Gold - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
     },
     {
       "added_at": "2023-12-18 02:11:02",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-12-18 02:11:02",
       "album": {
-        "name": "\u2014star.",
-        "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 153885,
-      "name": "\u2014star.",
-      "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
-    },
-    {
-      "added_at": "2023-12-18 02:11:02",
-      "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 142659,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff"
+    },
+    {
+      "added_at": "2023-12-18 02:11:02",
+      "album": {
+        "name": "\u2014star.",
+        "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 153885,
+      "name": "\u2014star.",
+      "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
     },
     {
       "added_at": "2023-12-18 02:11:02",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-18 02:11:02",
       "album": {
-        "name": "Mushroom: 50 Years of Making Noise (Reimagined)",
-        "url": "https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 183677,
-      "name": "Throw Your Arms Around Me",
-      "url": "https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh"
-    },
-    {
-      "added_at": "2023-12-18 02:11:02",
-      "album": {
         "name": "Vincent",
         "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 223560,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
+    },
+    {
+      "added_at": "2023-12-18 02:11:02",
+      "album": {
+        "name": "Mushroom: 50 Years of Making Noise (Reimagined)",
+        "url": "https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 183677,
+      "name": "Throw Your Arms Around Me",
+      "url": "https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh"
     },
     {
       "added_at": "2023-12-18 02:11:02",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-12-18 02:11:02",
       "album": {
+        "name": "Mariposa (Acoustic)",
+        "url": "https://open.spotify.com/album/2nqO2hJ3NZQcnk0FKtgnwY"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 216612,
+      "name": "Mariposa - Acoustic",
+      "url": "https://open.spotify.com/track/3AmEKm9QOvIQbyctkPOXsP"
+    },
+    {
+      "added_at": "2023-12-18 02:11:02",
+      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 218230,
       "name": "Settle",
       "url": "https://open.spotify.com/track/1G576qOKq0CdSGvSmHD4pz"
-    },
-    {
-      "added_at": "2023-12-18 02:11:02",
-      "album": {
-        "name": "Mariposa (Acoustic)",
-        "url": "https://open.spotify.com/album/2nqO2hJ3NZQcnk0FKtgnwY"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 216612,
-      "name": "Mariposa - Acoustic",
-      "url": "https://open.spotify.com/track/3AmEKm9QOvIQbyctkPOXsP"
     },
     {
       "added_at": "2023-12-18 02:11:02",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-12-18 02:11:02",
       "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Hallelujah - Bonus Track",
+      "url": "https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk"
+    },
+    {
+      "added_at": "2023-12-18 02:11:02",
+      "album": {
         "name": "Home Tapes",
         "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 236372,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
-    },
-    {
-      "added_at": "2023-12-18 02:11:02",
-      "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Hallelujah - Bonus Track",
-      "url": "https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk"
     },
     {
       "added_at": "2023-12-18 02:11:02",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-12-18 02:11:02",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
-    },
-    {
-      "added_at": "2023-12-18 02:11:02",
-      "album": {
         "name": "M\u00e9lancolie",
         "url": "https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 162286,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"
+    },
+    {
+      "added_at": "2023-12-18 02:11:02",
+      "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "January",
+      "url": "https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

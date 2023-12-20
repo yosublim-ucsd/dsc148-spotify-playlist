@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Midland, Troy Cartwright, Taylor Edwards and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,964 likes - 57 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,095 likes - 57 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 56 | [Fireplace](https://open.spotify.com/track/2och4AMengfll17sMZD148) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Fireplace](https://open.spotify.com/album/7qxLqohVNOrnQ99Ave0jYs) | 3:28 |
 | 57 | [Like It's Your Last](https://open.spotify.com/track/7acQ4alyNqegxDdclnncX4) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Like It's Your Last](https://open.spotify.com/album/3BMgZpyxYTGrYkV6VnqnaS) | 3:15 |
 
-Snapshot ID: `MCxiZGJiMWM3M2Y2MDQwMmY2ZDUwYmIxYTk4MzQ0ZjIxYzE1OTJmMDg1`
+Snapshot ID: `MCw0ZTQ4ZDZjNWYyY2NmNjQwOThlNThlMjJlMjFiNjlkYmIzNzFlNWYy`

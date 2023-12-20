@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 69349,
+  "num_followers": 69377,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTU1N2M0NDNmYTljM2YzM2FjYTg4NGE1Yzc3ZDY2ODYzN2Y5NzI5",
+  "snapshot_id": "MCw5NmZiNjM0YTVmZGVkZDVmMTNhZWY5ODM1MDk5NzkxOTk2ODI2N2Jh",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -631,26 +631,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
+        "name": "Pasito Chacalon",
+        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
       },
       "artists": [
         {
           "name": "Cachirula",
           "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "CID MX",
-          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
         }
       ],
-      "duration_ms": 157142,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
+      "duration_ms": 192000,
+      "name": "Pasito Chacalon",
+      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -779,38 +771,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "El Tabano",
-        "url": "https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf"
-      },
-      "artists": [
-        {
-          "name": "Mickey Vivas",
-          "url": "https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "El Tabano",
-      "url": "https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Pasito Chacalon",
-        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Pasito Chacalon",
-      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Los Reyes del Tribal",
         "url": "https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF"
       },
@@ -827,6 +787,46 @@
       "duration_ms": 265013,
       "name": "Enamorada de un Cantante",
       "url": "https://open.spotify.com/track/1dPO1BNdJSxtp2JTzCjbog"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "CID MX",
+          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "El Tabano",
+        "url": "https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf"
+      },
+      "artists": [
+        {
+          "name": "Mickey Vivas",
+          "url": "https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "El Tabano",
+      "url": "https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb"
     },
     {
       "added_at": "2022-08-05 05:00:00",

@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "Bubble (feat. Aile The Shota)",
+        "url": "https://open.spotify.com/album/0L0DZdZY2GP059hnQBQtAq"
+      },
+      "artists": [
+        {
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214367,
+      "name": "Bubble (feat. Aile The Shota)",
+      "url": "https://open.spotify.com/track/2pS0uXME0iY4gMDf1WULpQ"
+    },
+    {
+      "album": {
         "name": "CHRISTMAS SPIRIT &SWEET HARMONY",
         "url": "https://open.spotify.com/album/5pT2fiPF2gwfge0CSmS3xn"
       },
@@ -135,6 +157,24 @@
     },
     {
       "album": {
+        "name": "COSMO",
+        "url": "https://open.spotify.com/album/0TVWzPRXIqvlxNnT3U0TXQ"
+      },
+      "artists": [
+        {
+          "name": "Simmer Pine",
+          "url": "https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141306,
+      "name": "COSMO",
+      "url": "https://open.spotify.com/track/6pk58j7S7BpXiiFQuGkhuG"
+    },
+    {
+      "album": {
         "name": "Crystals (English ver.)",
         "url": "https://open.spotify.com/album/5sYa4gew2XidgHr9M9N18S"
       },
@@ -150,6 +190,24 @@
       "duration_ms": 219200,
       "name": "Crystals - English ver.",
       "url": "https://open.spotify.com/track/3VqTAZ3bPHOLAJTNQiwARF"
+    },
+    {
+      "album": {
+        "name": "DAD",
+        "url": "https://open.spotify.com/album/1iUMSrlu0gWfpt7lEV0trr"
+      },
+      "artists": [
+        {
+          "name": "WATERLOO",
+          "url": "https://open.spotify.com/artist/10gBoV6gqQZ4Jk3FcqQn1y"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "DAD",
+      "url": "https://open.spotify.com/track/3WZ2FIiQwNfyAgUtC7Dhkx"
     },
     {
       "album": {
@@ -429,6 +487,24 @@
     },
     {
       "album": {
+        "name": "kani",
+        "url": "https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28"
+      },
+      "artists": [
+        {
+          "name": "South Penguin",
+          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109373,
+      "name": "kani",
+      "url": "https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB"
+    },
+    {
+      "album": {
         "name": "Kiss Me, Winter",
         "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
       },
@@ -466,6 +542,46 @@
       "duration_ms": 422000,
       "name": "Kissin' Christmas (Christmas Dakarajanai) 2023",
       "url": "https://open.spotify.com/track/0qjWX3mtR845RXlbrt9RJS"
+    },
+    {
+      "album": {
+        "name": "LOVE LOVE LOVE",
+        "url": "https://open.spotify.com/album/6lPTKqfxFjfOodm0U7eXlC"
+      },
+      "artists": [
+        {
+          "name": "gb",
+          "url": "https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191491,
+      "name": "LOVE LOVE LOVE",
+      "url": "https://open.spotify.com/track/239dSULr1VNeGL30rzWZx2"
+    },
+    {
+      "album": {
+        "name": "marble latte",
+        "url": "https://open.spotify.com/album/27wiTABJf6UJfdncR3O8w6"
+      },
+      "artists": [
+        {
+          "name": "Rin\u97f3",
+          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
+        },
+        {
+          "name": "illmore",
+          "url": "https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217920,
+      "name": "marble latte",
+      "url": "https://open.spotify.com/track/603KJ6OCDnVxfCVjDOJZ4f"
     },
     {
       "album": {
@@ -552,7 +668,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 249388,
       "name": "nagame - Re:flection",
       "url": "https://open.spotify.com/track/2B3IrHDuFUusTu37FdY7dd"
@@ -596,6 +712,24 @@
       "duration_ms": 264546,
       "name": "Nittonoboushi",
       "url": "https://open.spotify.com/track/04LjXU0Otb4CvwU4vwJ2nB"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "OMG (FRNK Remix)",
+      "url": "https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW"
     },
     {
       "album": {
@@ -646,7 +780,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 231120,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq"
@@ -668,7 +802,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 428152,
       "name": "Razor Sharp",
       "url": "https://open.spotify.com/track/7ewZUzZQr5oiFxH5RcbwdJ"
@@ -842,7 +976,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 176350,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/5NXQt7YkV2ElktdAhL1QWk"
@@ -1047,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0IADICyvDvbxG6XtgNTHPd"
+      },
+      "artists": [
+        {
+          "name": "Stone Flower Blooms",
+          "url": "https://open.spotify.com/artist/4xrufp4lvhwz4DwmPNUICF"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278734,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/53wMjCppvYYhzxyWRPA1Li"
+    },
+    {
+      "album": {
         "name": "Yuki no ginga",
         "url": "https://open.spotify.com/album/6ygfWcPLlUu4TxQ5ehwsXq"
       },
@@ -1094,7 +1246,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 261021,
       "name": "\u304a\u795d\u3044",
       "url": "https://open.spotify.com/track/70R4kcMkdb6UueiRfNUR9N"
@@ -1112,7 +1264,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 222976,
       "name": "\u3054\u3081\u3093\u306d",
       "url": "https://open.spotify.com/track/1i5aapjC9xN7NuSVLjtMX4"
@@ -1148,7 +1300,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 241490,
       "name": "\u305d\u308c\u306f\u307e\u308b\u3067\u6620\u753b\u307f\u305f\u3044\u306a\u604b\u3060\u3063\u305f\u3002",
       "url": "https://open.spotify.com/track/2ZYJWl6MQtmDovp1LGRwPe"
@@ -1184,7 +1336,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 319130,
       "name": "\u30b5\u30c6\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/7HSvcRqLkfuPMnEYE94VSe"
@@ -1256,7 +1408,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 305714,
       "name": "\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\u30fb\u30e9\u30a4\u30ca\u30fc",
       "url": "https://open.spotify.com/track/5Qu2Md2D6DcOjgg9mBs26f"
@@ -1389,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "\u51ac\u3060\u3088\u308a",
+        "url": "https://open.spotify.com/album/41ZHgLAKxaKC1QrJjDhfPk"
+      },
+      "artists": [
+        {
+          "name": "Saki Misaka",
+          "url": "https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302680,
+      "name": "\u51ac\u3060\u3088\u308a",
+      "url": "https://open.spotify.com/track/6l4y7ZaVwdvDeWSWrPrDLV"
+    },
+    {
+      "album": {
         "name": "\u3055\u304b\u3044\u3086\u3046\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8 \uff3b\u767d\u3068\u9ed2\uff3d",
         "url": "https://open.spotify.com/album/1YEB6EfeQrfG6qx1xpbUOB"
       },
@@ -1425,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "\u6cab\u96ea",
+        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "\u6cab\u96ea",
+      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+    },
+    {
+      "album": {
         "name": "DOZEN ROSES",
         "url": "https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs"
       },
@@ -1440,7 +1628,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 227500,
       "name": "\u7a7a\u3001\u51ac\u306e\u66d9 - feat. B.I.G.JOE",
       "url": "https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG"

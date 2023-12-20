@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,656 likes - 79 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,658 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [No Fear](https://open.spotify.com/track/596tehHMkW1OJSM2qRYBrX) | [Starceed](https://open.spotify.com/artist/2zz1LTzFkZyEn9FlldGuwm) | [No Fear](https://open.spotify.com/album/2ZRsLwBTj6AFR5T0DFAZtI) | 2:47 |
 | 79 | [Smooth Operator](https://open.spotify.com/track/08CZBPPhtvtSnSRk88Z6AK) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu), [Michaela](https://open.spotify.com/artist/4ORoaZhVBXIzhnubUbdd5S) | [Smooth Operator](https://open.spotify.com/album/1Gt2tyMYNqqUDNPWk3R1QX) | 2:51 |
 
-Snapshot ID: `MCwzNzIzNjBhN2MwYjY1NTcyOTMzZDQ0YmQwMDk4Y2M0NzM1NTgxMGM1`
+Snapshot ID: `MCxlODUzY2I1OGI5MjkwZDk2MzBlNDAzNGI3ZDlkNTMzMjRkMDUxMTk5`

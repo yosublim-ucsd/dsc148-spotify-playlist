@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzODE2ODEsMDAwMDAwMDBjOGUwMTJhMGZmNzEzMDg2MDdkNjZjMjc0MWM0MzJhZQ==",
+  "snapshot_id": "MjgzODMxNDgsMDAwMDAwMDAzYzFiOGVmYzk4YTIzMjdkMjcxNDQ0MTAwYzRlZTM5OQ==",
   "tracks": [
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Silver Ship",
         "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4UfL9zy2IO26JAO0jNvkhH"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Turning",
         "url": "https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5XaVqwrN4WXABLiX969wG0"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Seven Waves",
         "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
@@ -57,39 +57,7 @@
       "url": "https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
-      "album": {
-        "name": "The Velocity Of Love",
-        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 270813,
-      "name": "The Velocity Of Love",
-      "url": "https://open.spotify.com/track/5Z8drOEmdVTtwixfM4FGzN"
-    },
-    {
-      "added_at": "2023-12-18 12:01:14",
-      "album": {
-        "name": "Silver Ship",
-        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/4loFAwDRPaSB1QMJyO7jdZ"
-    },
-    {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
@@ -109,7 +77,39 @@
       "url": "https://open.spotify.com/track/55XSfNp6o9TVp8F7Xjp0va"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/4loFAwDRPaSB1QMJyO7jdZ"
+    },
+    {
+      "added_at": "2023-12-19 12:28:37",
+      "album": {
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 270813,
+      "name": "The Velocity Of Love",
+      "url": "https://open.spotify.com/track/5Z8drOEmdVTtwixfM4FGzN"
+    },
+    {
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo",
         "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
@@ -125,39 +125,7 @@
       "url": "https://open.spotify.com/track/2Q0WqaHMpXRA8l2rCvlkrw"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
-      "album": {
-        "name": "The Velocity Of Love",
-        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 307573,
-      "name": "The Eighth Wave",
-      "url": "https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ"
-    },
-    {
-      "added_at": "2023-12-18 12:01:14",
-      "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 317733,
-      "name": "The Third Wave - Love In The Waves",
-      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
-    },
-    {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
@@ -177,7 +145,55 @@
       "url": "https://open.spotify.com/track/7mfgr8aIEJ4Rc0ztwdNoZ3"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 317733,
+      "name": "The Third Wave - Love In The Waves",
+      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
+    },
+    {
+      "added_at": "2023-12-19 12:28:37",
+      "album": {
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 307573,
+      "name": "The Eighth Wave",
+      "url": "https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ"
+    },
+    {
+      "added_at": "2023-12-19 12:28:37",
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "For Lise",
+      "url": "https://open.spotify.com/track/5gZN21iMNI3onWDpyzdtcl"
+    },
+    {
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Meditations for Dreams, Relaxation, and Sleep",
         "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
@@ -193,23 +209,7 @@
       "url": "https://open.spotify.com/track/7icrlwHpkpnxEL2tVrdOxV"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
-      "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 300747,
-      "name": "Morning Spring",
-      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
-    },
-    {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Seven Waves",
         "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
@@ -225,10 +225,10 @@
       "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
-        "name": "Pianissimo",
-        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
       "artists": [
         {
@@ -236,12 +236,12 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Mozart",
-      "url": "https://open.spotify.com/track/4d1prmnOfbPlO0n03tUC1Q"
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
@@ -261,10 +261,10 @@
       "url": "https://open.spotify.com/track/08f0QMRnzTRdH7XdMamzGT"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
       },
       "artists": [
         {
@@ -272,12 +272,12 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 123666,
-      "name": "Bel Canto",
-      "url": "https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH"
+      "duration_ms": 191733,
+      "name": "Mozart",
+      "url": "https://open.spotify.com/track/4d1prmnOfbPlO0n03tUC1Q"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Seven Waves",
         "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
@@ -293,10 +293,10 @@
       "url": "https://open.spotify.com/track/0RsCzzwmJYdUTRGk6ozqlX"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
-        "name": "Pianissimo",
-        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
       },
       "artists": [
         {
@@ -304,12 +304,12 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 235146,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2Sz004J4cE9JezxQ511een"
+      "duration_ms": 123666,
+      "name": "Bel Canto",
+      "url": "https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
@@ -329,7 +329,23 @@
       "url": "https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2Sz004J4cE9JezxQ511een"
+    },
+    {
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Turning",
         "url": "https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo II",
         "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
@@ -361,23 +377,7 @@
       "url": "https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
-      "album": {
-        "name": "Silver Ship",
-        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Dentecane",
-      "url": "https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws"
-    },
-    {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
@@ -397,7 +397,23 @@
       "url": "https://open.spotify.com/track/0UDz8oHRqQEWrdN9nNeLAJ"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Dentecane",
+      "url": "https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws"
+    },
+    {
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo",
         "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/6umfm9P4dsJFympcydmVtQ"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Seven Waves",
         "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/2ctoTMoMSToFFu9PRRAVrK"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo II",
         "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/0vY6jcdgXhuZcVfAjqZx7r"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/2e9rLJNPeV9HzCNIhHaQES"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "The Private Music Of Suzanne Ciani",
         "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/0u3W3lf8rbN2NuB7ky4SMy"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Seven Waves",
         "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/0IYLjpP98C3lsANXTbQHRT"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo III",
         "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
@@ -513,23 +529,7 @@
       "url": "https://open.spotify.com/track/2xMUE2MRptR7uc8r8i2brq"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
-      "album": {
-        "name": "Music For Denali",
-        "url": "https://open.spotify.com/album/0Wgn0tTS8eDt477v2taZV6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 90810,
-      "name": "Yukon",
-      "url": "https://open.spotify.com/track/1T46n4XDKotdz8UVvmiyF6"
-    },
-    {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo",
         "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/44oGOmVIujTmRF3rLP1A4Y"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo II",
         "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
@@ -561,10 +561,10 @@
       "url": "https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
-        "name": "Silver Ship",
-        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+        "name": "Music For Denali",
+        "url": "https://open.spotify.com/album/0Wgn0tTS8eDt477v2taZV6"
       },
       "artists": [
         {
@@ -572,12 +572,12 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 217533,
-      "name": "Snow Crystals",
-      "url": "https://open.spotify.com/track/6HX7BkAHystUyxunvavwmx"
+      "duration_ms": 90810,
+      "name": "Yukon",
+      "url": "https://open.spotify.com/track/1T46n4XDKotdz8UVvmiyF6"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
         "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo",
         "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/7MKHnn1icO9Ce7FRHPY2pv"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo II",
         "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
@@ -625,10 +625,10 @@
       "url": "https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
-        "name": "The Private Music Of Suzanne Ciani",
-        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
       },
       "artists": [
         {
@@ -636,12 +636,12 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 232333,
-      "name": "Ondine (From Hotel Luna)",
-      "url": "https://open.spotify.com/track/3miJRnWeoyvaQTwo5UTGWe"
+      "duration_ms": 217533,
+      "name": "Snow Crystals",
+      "url": "https://open.spotify.com/track/6HX7BkAHystUyxunvavwmx"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Tide Pools",
         "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
@@ -657,10 +657,10 @@
       "url": "https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
-        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
-        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+        "name": "The Private Music Of Suzanne Ciani",
+        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
       },
       "artists": [
         {
@@ -668,12 +668,12 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 228680,
-      "name": "A Sonic Womb Pt. 2",
-      "url": "https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp"
+      "duration_ms": 232333,
+      "name": "Ondine (From Hotel Luna)",
+      "url": "https://open.spotify.com/track/3miJRnWeoyvaQTwo5UTGWe"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo II",
         "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
@@ -689,10 +689,10 @@
       "url": "https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
-        "name": "The Velocity Of Love",
-        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
       },
       "artists": [
         {
@@ -700,12 +700,28 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 507906,
-      "name": "Lay Down Beside Me",
-      "url": "https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8"
+      "duration_ms": 228680,
+      "name": "A Sonic Womb Pt. 2",
+      "url": "https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Stromboli",
+      "url": "https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5"
+    },
+    {
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Closed Circuit",
         "url": "https://open.spotify.com/album/3KTOLx2jl7FYJG93VGvs6F"
@@ -725,10 +741,10 @@
       "url": "https://open.spotify.com/track/3boYC8PtVEiSCBsAfw7hah"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
-        "name": "Silver Ship",
-        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
       },
       "artists": [
         {
@@ -736,12 +752,28 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 246293,
-      "name": "Stromboli",
-      "url": "https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5"
+      "duration_ms": 507906,
+      "name": "Lay Down Beside Me",
+      "url": "https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 306680,
+      "name": "Full Moon Sonata",
+      "url": "https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv"
+    },
+    {
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
         "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
@@ -757,10 +789,10 @@
       "url": "https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
-        "name": "Pianissimo III",
-        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+        "name": "Flowers Of Evil",
+        "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
       },
       "artists": [
         {
@@ -768,12 +800,12 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 192000,
-      "name": "The Enchantress",
-      "url": "https://open.spotify.com/track/2rjR6HcLE20PXToShdF1QP"
+      "duration_ms": 848256,
+      "name": "Flowers Of Evil",
+      "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "The Velocity Of Love",
         "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
@@ -789,39 +821,7 @@
       "url": "https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w"
     },
     {
-      "added_at": "2023-12-18 12:01:14",
-      "album": {
-        "name": "Silver Ship",
-        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Open Seas",
-      "url": "https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94"
-    },
-    {
-      "added_at": "2023-12-18 12:01:14",
-      "album": {
-        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
-        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 247142,
-      "name": "A Sonic Womb Pt. 4",
-      "url": "https://open.spotify.com/track/6PauezcrjQSTFsPPIgJmD7"
-    },
-    {
-      "added_at": "2023-12-18 12:01:14",
+      "added_at": "2023-12-19 12:28:37",
       "album": {
         "name": "Pianissimo III",
         "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 306680,
-      "name": "Full Moon Sonata",
-      "url": "https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv"
+      "duration_ms": 192000,
+      "name": "The Enchantress",
+      "url": "https://open.spotify.com/track/2rjR6HcLE20PXToShdF1QP"
     }
   ],
   "unique_name": "This Is Suzanne Ciani",

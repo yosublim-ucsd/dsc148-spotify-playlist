@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538 likes - 29 songs - 42 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 31 songs - 44 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 23 | [George And Doris](https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:11 |
 | 24 | [No Me Dejes Atrás \(feat\. Gabriela Martinez\)](https://open.spotify.com/track/146AOJ6INXeSHQEWjYHqsr) | [Federico Ramos](https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe), [Gabriela Martinez](https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 2:24 |
 | 25 | [Wolf Watcher](https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:24 |
-| 26 | [Mr\. Stubbles](https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:16 |
-| 27 | [April Wears Cheetah](https://open.spotify.com/track/09pfICGonkBl6TXhbglryk) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:16 |
-| 28 | [Three Days Left in May](https://open.spotify.com/track/3ILlJIKgB87Un6dsKciJla) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:13 |
+| 26 | [April Wears Cheetah](https://open.spotify.com/track/09pfICGonkBl6TXhbglryk) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:16 |
+| 27 | [Mr\. Stubbles](https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:16 |
+| 28 | [Giant Sea Turtle](https://open.spotify.com/track/3bkJr6YU7AfHUwCsg0yYa4) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:07 |
 | 29 | [Not It](https://open.spotify.com/track/4qQYUXly5uyHi10uLkaRha) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:19 |
+| 30 | [The Porcupine Song](https://open.spotify.com/track/55l2zVDdCDWGDg8oMBn3DH) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 0:47 |
+| 31 | [Three Days Left in May](https://open.spotify.com/track/3ILlJIKgB87Un6dsKciJla) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:13 |
 
-Snapshot ID: `MjgzODE2ODAsMDAwMDAwMDA4NTU0ZDM0YzMzMjhmMDZjMGJiOWQ2ZjkwNDdlNDdmNQ==`
+Snapshot ID: `MjgzODMxNDgsMDAwMDAwMDBkNmVkMmVhZmFmODZjNmFhNTgxOTllODU1YzM5ZGMzMg==`

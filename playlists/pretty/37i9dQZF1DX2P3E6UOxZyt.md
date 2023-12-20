@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Andr
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,043 likes - 72 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,053 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 | 72 | [跟我來](https://open.spotify.com/track/3hSnIxdAhRl1NpGTVJgqdO) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [跟我來](https://open.spotify.com/album/3wHDD0QCHSJRrZzw2urDq3) | 3:16 |
 
-Snapshot ID: `MCw3Mjg2NzgxMDI0MTYxNzQ0YzNiNGVkZTcwMDU5ZGNlY2M5NGE5NzZm`
+Snapshot ID: `MCwyNDY1N2NiYTAxY2EzMDI2MDYwZTM3NDZhMmQ1MjNjNjIwM2MyZWRk`

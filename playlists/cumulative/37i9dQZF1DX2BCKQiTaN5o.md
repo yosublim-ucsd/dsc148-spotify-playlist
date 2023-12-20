@@ -4,7 +4,7 @@
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-47 songs - 2 hr 52 min
+48 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [I Want You Around](https://open.spotify.com/track/2tUuvamTbprsZ2YevAuzGC) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0xyp4JuWXxA0lPsjuN57Q8) | 3:32 | 2020-01-19 |  |
 | [I Want You Around](https://open.spotify.com/track/30q5CMJr5Wws4k5zYEovjO) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Want You Around](https://open.spotify.com/album/36XhR56K0C7fjAjTTelycC) | 3:32 | 2020-01-19 | 2022-11-13 |
 | [I Want You Around](https://open.spotify.com/track/6E3D7NkBDwVaEbUS1aSYz1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0BCbrYw2TEICVGEXzQbMws) | 3:32 | 2020-01-19 | 2022-10-13 |
-| [I'M DOPE \(feat\. DAVID MICHAEL WYATT\)](https://open.spotify.com/track/3z6ErCqNLgspjTSlKMGyFZ) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [David Michael Wyatt](https://open.spotify.com/artist/3nBYRtHTuSZGhDataNGunX) | [I'M DOPE](https://open.spotify.com/album/2UEMHDiA98ANR3YHq7R2l6) | 3:23 | 2020-01-19 |  |
+| [I'M DOPE \(feat\. DAVID MICHAEL WYATT\)](https://open.spotify.com/track/3SyJdw74GTAM8t0pwNVBUU) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [David Michael Wyatt](https://open.spotify.com/artist/3nBYRtHTuSZGhDataNGunX) | [MORE ORIGINALS](https://open.spotify.com/album/1xeHDxBieAYgpvJ5Ho61gf) | 3:23 | 2020-01-19 |  |
+| [I'M DOPE \(feat\. DAVID MICHAEL WYATT\)](https://open.spotify.com/track/3z6ErCqNLgspjTSlKMGyFZ) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [David Michael Wyatt](https://open.spotify.com/artist/3nBYRtHTuSZGhDataNGunX) | [I'M DOPE](https://open.spotify.com/album/2UEMHDiA98ANR3YHq7R2l6) | 3:23 | 2020-01-19 | 2023-12-20 |
 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 | 2020-01-19 |  |
 | [My Money, My Baby \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/7gOb1BmKmG4EYw7lAePO1c) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 3:04 | 2020-01-19 |  |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2020-01-19 |  |

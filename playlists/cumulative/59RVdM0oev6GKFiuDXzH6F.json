@@ -3307,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "High As F*ck",
+        "url": "https://open.spotify.com/album/3hW7IDz0QN3QNjOXO3GzqA"
+      },
+      "artists": [
+        {
+          "name": "Cody Chase",
+          "url": "https://open.spotify.com/artist/11Rj7CAcqgC6BQylgzF8Di"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "High As F*ck",
+      "url": "https://open.spotify.com/track/5IRj8IqTJ6EWTItKthvE47"
+    },
+    {
+      "album": {
         "name": "Hold It!",
         "url": "https://open.spotify.com/album/3f5EBvYhhWTMARyUJnJmJe"
       },

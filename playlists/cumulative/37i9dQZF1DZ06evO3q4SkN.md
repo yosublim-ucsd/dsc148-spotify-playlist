@@ -4,7 +4,7 @@
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-93 songs - 2 hr 19 min
+94 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [George And Doris](https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:11 | 2023-05-10 |  |
 | [George At The Derby](https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:25 | 2023-06-12 | 2023-09-26 |
 | [George's Pancake Practice](https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:01 | 2023-05-07 | 2023-08-28 |
+| [Giant Sea Turtle](https://open.spotify.com/track/3bkJr6YU7AfHUwCsg0yYa4) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:07 | 2023-12-19 |  |
 | [Ginny Sees the Light](https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:09 | 2023-05-11 |  |
 | [Ginny's Home](https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 2:09 | 2023-05-05 | 2023-12-19 |
 | [Golf Cart Down](https://open.spotify.com/track/7kHxcxJiWkeBSsmDKvOjSl) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:31 | 2023-05-05 | 2023-05-08 |
@@ -87,7 +88,7 @@
 | [The Landscape Medley](https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:59 | 2023-05-05 | 2023-07-28 |
 | [The Legend of Parapata](https://open.spotify.com/track/569vYZTpACpMVlirXmfo4U) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 0:55 | 2023-05-05 |  |
 | [The Legend Of The Tiger](https://open.spotify.com/track/5efJajWJiHRmENqLdHxWkI) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:02 | 2023-09-25 | 2023-11-11 |
-| [The Porcupine Song](https://open.spotify.com/track/55l2zVDdCDWGDg8oMBn3DH) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 0:47 | 2023-08-04 | 2023-12-15 |
+| [The Porcupine Song](https://open.spotify.com/track/55l2zVDdCDWGDg8oMBn3DH) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 0:47 | 2023-08-04 |  |
 | [The Stampede](https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 2:23 | 2023-05-05 | 2023-05-08 |
 | [Three Days Left in May](https://open.spotify.com/track/3ILlJIKgB87Un6dsKciJla) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:13 | 2023-09-25 |  |
 | [To the Tower](https://open.spotify.com/track/2KaeyCRhQe9aoJCaMqAY9A) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 0:59 | 2023-12-13 | 2023-12-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > To nejlepší od CZ&SK umělkyň roku 2023, poslouchejte ženy na plnou hlasitost! Cover: Vesna
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,743 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,762 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Pretty Smile](https://open.spotify.com/track/5AwYZk09lMGtsDlC7XNNhp) | [5etra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [Pretty Smile](https://open.spotify.com/album/72K19epx9XwDfUTBvxAMsg) | 3:05 |
 | 50 | [With \(out\) you](https://open.spotify.com/track/251ji8XAHrQDu5im3jP2La) | [TIMEA](https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1) | [short story long](https://open.spotify.com/album/6GaprqSdZEXT3OiXwMRDS7) | 3:59 |
 
-Snapshot ID: `MCw4YmY4NjUzMzkzYjg4YmM2YzI0N2I2Y2JmMGI4MGE5MjcxOTM2OTBi`
+Snapshot ID: `MCxjNzg0MTE3MzgzYzU3YzdlMTVkODJmY2RlZjJlMjg4NTY1MjdkMjZk`

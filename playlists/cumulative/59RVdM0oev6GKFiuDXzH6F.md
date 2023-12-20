@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-499 songs - 1 day 0 hr 41 min
+500 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 | 2023-10-06 |  |
 | [Hey DJ \- Joel Corry VIP Mix](https://open.spotify.com/track/20Z0uJ0fP8ENJ3bpMUzgOu) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ \(The Remixes\)](https://open.spotify.com/album/7GKY1CExwlxN9Cn8HMPyd7) | 2:34 | 2023-11-24 |  |
 | [Hey Sexy Lady](https://open.spotify.com/track/4LwRGTfL5kxJEHWl98usFa) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [Hey Sexy Lady](https://open.spotify.com/album/32SEMS9z4SR2qGc6Fnbqpf) | 2:28 | 2023-05-11 | 2023-12-14 |
+| [High As F\*ck](https://open.spotify.com/track/5IRj8IqTJ6EWTItKthvE47) | [Cody Chase](https://open.spotify.com/artist/11Rj7CAcqgC6BQylgzF8Di) | [High As F\*ck](https://open.spotify.com/album/3hW7IDz0QN3QNjOXO3GzqA) | 3:06 | 2023-12-19 |  |
 | [Hold It!](https://open.spotify.com/track/3X9SnxN9a2wIngzahD2UWa) | [Rimbano](https://open.spotify.com/artist/3v1oNkquKNV6nyXjpQvF3W) | [Hold It!](https://open.spotify.com/album/3f5EBvYhhWTMARyUJnJmJe) | 3:18 | 2023-08-03 | 2023-12-14 |
 | [Hold Up](https://open.spotify.com/track/1TXxy5fiycEyA7d7EdAbIW) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Hold Up](https://open.spotify.com/album/3hmuaQHrZbsuXd6cEhlCks) | 2:46 | 2023-02-12 | 2023-04-13 |
 | [Hold You Close](https://open.spotify.com/track/4hmeY8Qid45jlBnY19dco0) | [Samlight](https://open.spotify.com/artist/2O8vLNXeIM7NGGUAb5LxX8), [Nickyb](https://open.spotify.com/artist/6dlLhMbUNpgxLBsu5BDBFf), [hannah kate](https://open.spotify.com/artist/7HPNYz5CtDCjSmxPj15VJQ) | [Hold You Close](https://open.spotify.com/album/1yBWamiPrSTBrBIR78xli1) | 2:13 | 2023-03-24 | 2023-04-15 |

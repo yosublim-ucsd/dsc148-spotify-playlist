@@ -8108,7 +8108,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 253171,
       "name": "Queen of the Night",
       "url": "https://open.spotify.com/track/1gzlOAq7ozJ8X8VIbUN8yd"
@@ -17532,6 +17532,24 @@
       "duration_ms": 259605,
       "name": "\u5c04\u6cd5\u516b\u7bc0\u306e\u30c6\u30fc\u30de",
       "url": "https://open.spotify.com/track/2RH22gpiutuuYptyKdvyCv"
+    },
+    {
+      "album": {
+        "name": "\u5c0e\u304d\u3001\u6367\u3052\u3066",
+        "url": "https://open.spotify.com/album/5ZdXqOwCsv5DuyMJUM5d9U"
+      },
+      "artists": [
+        {
+          "name": "JYOCHO",
+          "url": "https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "\u5c0e\u304d\u3001\u6367\u3052\u3066",
+      "url": "https://open.spotify.com/track/0RYUwHdrLC6PerPqxM76wt"
     },
     {
       "album": {

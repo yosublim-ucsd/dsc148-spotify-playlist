@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 31926,
+  "num_followers": 31943,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
+  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "House of Love",
-        "url": "https://open.spotify.com/album/3prhqL4c0F3vXTHXCUEAfR"
-      },
-      "artists": [
-        {
-          "name": "Smooth Touch",
-          "url": "https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "House of Love (Love Mix)",
-      "url": "https://open.spotify.com/track/4wqYN4cMCEdLxkYBpdFQx4"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "King Of My Castle (Mixes)",
         "url": "https://open.spotify.com/album/6ypceV6YBvX5iqzqYH2fow"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 299746,
       "name": "King of My Castle (Roy Malone's King Mix)",
       "url": "https://open.spotify.com/track/4VKoYgw6bQxiz3VuY1Zw8B"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "House of Love",
+        "url": "https://open.spotify.com/album/3prhqL4c0F3vXTHXCUEAfR"
+      },
+      "artists": [
+        {
+          "name": "Smooth Touch",
+          "url": "https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "House of Love (Love Mix)",
+      "url": "https://open.spotify.com/track/4wqYN4cMCEdLxkYBpdFQx4"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -711,6 +711,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
+      },
+      "artists": [
+        {
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Equinox (Henrik Schwarz Remix)",
+      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Tyler Moore Mary (Mixes)",
         "url": "https://open.spotify.com/album/0yLhyujDegVpusv5ILwz0S"
       },
@@ -875,42 +895,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama (Broder Mix)",
-      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Alright (feat. Earl Bennett)",
-        "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
-      },
-      "artists": [
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/4z0VQ5H4ENxPT0983Rsf8Z"
-        },
-        {
-          "name": "Earl Bennett",
-          "url": "https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe"
-        }
-      ],
-      "duration_ms": 605294,
-      "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
-      "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
       },
@@ -939,6 +923,42 @@
       "duration_ms": 777623,
       "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
       "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Alright (feat. Earl Bennett)",
+        "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/4z0VQ5H4ENxPT0983Rsf8Z"
+        },
+        {
+          "name": "Earl Bennett",
+          "url": "https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe"
+        }
+      ],
+      "duration_ms": 605294,
+      "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
+      "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama (Broder Mix)",
+      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1011,6 +1031,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428757,
+      "name": "Boy (MK Deep Dub)",
+      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
       },
@@ -1027,22 +1063,6 @@
       "duration_ms": 228238,
       "name": "Move Your Body (feat. LaVette) (Radio Mix)",
       "url": "https://open.spotify.com/track/26KSmfr8x8Zo2HFAvyceIB"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428757,
-      "name": "Boy (MK Deep Dub)",
-      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1095,22 +1115,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Tribal - EP (Remixes)",
-        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
-      },
-      "artists": [
-        {
-          "name": "River Ocean",
-          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
-      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Beat That Makes U Move",
         "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
@@ -1131,26 +1135,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
-      },
-      "artists": [
-        {
-          "name": "Code 718",
-          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "Equinox (Henrik Schwarz Remix)",
-      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "DJ Sneak EP-Dancin'",
         "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 731735,
       "name": "Dancin",
       "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Tribal - EP (Remixes)",
+        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
+      },
+      "artists": [
+        {
+          "name": "River Ocean",
+          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
+      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/4at8XY2nq3Ll6EF9FnuhG4"
+      },
+      "artists": [
+        {
+          "name": "Motion Lotion",
+          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
+        }
+      ],
+      "duration_ms": 554971,
+      "name": "The Sound (The Studio 54 Mix)",
+      "url": "https://open.spotify.com/track/6186cF9Qxme1RSySI6v3PR"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/73ReUfZDgkbWOWWzUuqnH7"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 227173,
       "name": "Just Us (B.O.P. Radio Joint)",
       "url": "https://open.spotify.com/track/30LrxBxBgJl2x4EQNVAEm2"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/4at8XY2nq3Ll6EF9FnuhG4"
-      },
-      "artists": [
-        {
-          "name": "Motion Lotion",
-          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
-        }
-      ],
-      "duration_ms": 554971,
-      "name": "The Sound (The Studio 54 Mix)",
-      "url": "https://open.spotify.com/track/6186cF9Qxme1RSySI6v3PR"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

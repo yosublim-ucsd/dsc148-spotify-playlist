@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,143,528 likes - 59 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,143,664 likes - 59 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 58 | [Hummingbird Heartbeat](https://open.spotify.com/track/089keBWJUOsI9wUeVr1uIr) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:32 |
 | 59 | [One Of The Boys](https://open.spotify.com/track/6uIODsxIHybW8ngRUAACb6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys \(15th Anniversary Edition\)](https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0) | 4:07 |
 
-Snapshot ID: `MjgzODE2ODEsMDAwMDAwMDA1YmE2OTBlZDAwNTMyOTQ1NTJlYTNiOTVlMDk4MzIzMg==`
+Snapshot ID: `MjgzODMxNDgsMDAwMDAwMDBmNGFiOWE3M2NlZmIxOTEzMDI5MDhmY2Y5MzgwYTE0MA==`

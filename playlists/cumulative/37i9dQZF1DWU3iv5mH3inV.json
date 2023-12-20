@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 171750,
       "name": "En Nota",
       "url": "https://open.spotify.com/track/20Q3Oyu7B8C5CQklLSKha3"
@@ -2904,6 +2904,10 @@
         {
           "name": "Beatz Akademy",
           "url": "https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI"
+        },
+        {
+          "name": "ANDERSON BEBE",
+          "url": "https://open.spotify.com/artist/4Yg7DKVmjy56wX5Iet3zid"
         }
       ],
       "date_added": "2023-06-12",
@@ -9118,7 +9122,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 134237,
       "name": "Yo Quiero",
       "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"

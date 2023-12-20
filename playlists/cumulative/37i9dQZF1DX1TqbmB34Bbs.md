@@ -4,7 +4,7 @@
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: lobonabeat!, BILL STAX, oygli\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,113 songs - 2 day 13 hr 50 min
+1,114 songs - 2 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,7 +794,7 @@
 | [Railroad \(feat\. Ourealgoat\)](https://open.spotify.com/track/6XtbU85S5K49ySkyFmOy7e) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [아우릴고트 \(Ourealgoat\)](https://open.spotify.com/artist/16VvyJKSg4Wxl0tU7Td0FJ) | [SINCE 16'](https://open.spotify.com/album/6SabPv9sCG3yviXpRtgZ5T) | 2:31 | 2022-06-13 | 2022-07-28 |
 | [Rambo](https://open.spotify.com/track/4Cs3S6LEVW6OfqaXgQ2QyW) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Rambo](https://open.spotify.com/album/4RtwknlgOHgm7cy9uPjfde) | 2:28 | 2022-05-31 | 2022-07-25 |
 | [Ransom](https://open.spotify.com/track/4EwJ6dnS6yYNclTI4jEsVL) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Ransom with KozyPop](https://open.spotify.com/album/5crK00yxvVXOpmkpsxLavI) | 3:01 | 2023-01-27 | 2023-03-18 |
-| [Ransome \(Feat\. BILL STAX\)](https://open.spotify.com/track/31HhKQyZZI0PEzdrhZ4IGo) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [Ransome](https://open.spotify.com/album/1LzVjYnUJwqZHBVI8KRUBJ) | 4:28 | 2023-06-12 |  |
+| [Ransome \(Feat\. BILL STAX\)](https://open.spotify.com/track/31HhKQyZZI0PEzdrhZ4IGo) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [Ransome](https://open.spotify.com/album/1LzVjYnUJwqZHBVI8KRUBJ) | 4:28 | 2023-06-12 | 2023-12-20 |
 | [RAP \(feat\. Paloalto & Don Mills\)](https://open.spotify.com/track/3wrlygck6L2Lxmvt1tg2al) | [Keebomb](https://open.spotify.com/artist/5DUmtdaAb44NZFu0sv0DP7), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Good Morning](https://open.spotify.com/album/6b4wJXGf9d8tyncSEeRG06) | 3:10 | 2022-05-28 | 2022-06-27 |
 | [Rap Legend](https://open.spotify.com/track/20gYPcxAb3R8aZH5hUdl3e) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [First Album : Rap Legend](https://open.spotify.com/album/0EjwJIZJGIGxK9AJG1KFmN) | 2:55 | 2022-05-28 | 2022-07-26 |
 | [Rarebreed \(Feat\. Nucksal\)](https://open.spotify.com/track/3aC3vne1rf3iOblGmBCbHB) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [MODM : Original Saga](https://open.spotify.com/album/63YXTTaGaT1yP0yakX1dqQ) | 2:43 | 2022-06-09 | 2022-07-06 |
@@ -916,6 +916,7 @@
 | [Street Kid \(Feat\. CHANGMO\)](https://open.spotify.com/track/1hNm5JjE06CXcKXUQykRn4) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [HOODSTAR 2](https://open.spotify.com/album/072f1DCwul9rf1nFyjLhoa) | 3:22 | 2022-06-09 | 2022-07-19 |
 | [Styx \(Feat\. Jugger\)](https://open.spotify.com/track/4GBz6zooZoBSzioQO53VXw) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [Lake of Fire II](https://open.spotify.com/album/75JefiZbeuPESs9WoduwDW) | 1:49 | 2022-05-28 | 2022-07-20 |
 | [Summer \(Feat\. Jay Park\)](https://open.spotify.com/track/1hoSs6QAQkxDkOyKM3OHMW) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Summer](https://open.spotify.com/album/6h1iG7zXNitBgYP096Dhcp) | 2:31 | 2022-05-28 | 2023-02-17 |
+| [Sumo](https://open.spotify.com/track/783pTQT6UKfi5pcqxzZThh) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [Skreet Knowledge](https://open.spotify.com/album/5zrusKYKyZQzgKXFjrZb1C) | 2:27 | 2023-12-09 |  |
 | [SUN GOES DOWN \(Prod\. R.Tee\)](https://open.spotify.com/track/1pzMTqvKABFaYYde4coFSg) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:50 | 2022-11-01 |  |
 | [Super Rare \(Feat\. Wonstein, pH\-1\)](https://open.spotify.com/track/6YuJzx4yiTMhia4aM1M9kU) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:40 | 2022-05-31 |  |
 | [Superbee's Maserati](https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) | [Superbee's Maserati](https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl) | 3:50 | 2022-06-13 | 2022-07-28 |

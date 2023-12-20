@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: Derxan
 
-384 songs - 20 hr 33 min
+385 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Balança Babylon](https://open.spotify.com/track/2Y9d8TFmZo6FPwNx65aQSr) | [Miliano](https://open.spotify.com/artist/2Ck6D0bMK3wkXWAQo8IyaJ), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Balança Babylon](https://open.spotify.com/album/3N4577pyWxa0BzfkN1j1v1) | 3:13 | 2023-08-18 | 2023-10-28 |
 | [Bebelzinho](https://open.spotify.com/track/5Xjzm8i8PQJ3pODaCJCZU1) | [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK), [P.L.K](https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf), [Marco de Souza](https://open.spotify.com/artist/7GATmLEPxZOeUQ0G0b2CMk) | [A História do Deus Pivete](https://open.spotify.com/album/6M4oPFZ1wWlx6wNMDtjWbX) | 3:12 | 2022-06-03 | 2022-06-25 |
 | [Bel\-Prazer](https://open.spotify.com/track/7vkDhw3AXPs50aKShHW32B) | [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG) | [Bel\-Prazer](https://open.spotify.com/album/0AzbyouwyggESCr7GgpP25) | 3:16 | 2022-04-29 | 2022-08-06 |
-| [Besteiras](https://open.spotify.com/track/50QaTi8c8XZxCX09lGd32Q) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 3:04 | 2023-12-15 |  |
+| [Besteiras](https://open.spotify.com/track/50QaTi8c8XZxCX09lGd32Q) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 3:04 | 2023-12-15 | 2023-12-20 |
+| [Besteiras](https://open.spotify.com/track/5K4HRJIIr39tHJBpD0YeyC) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 3:04 | 2023-12-15 |  |
 | [Bipolar](https://open.spotify.com/track/0aZQn07s3Kf2UlE6tnkAPg) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Cansei de Ouvir Trap Mixtape](https://open.spotify.com/album/5j9OB2EfeWOhLBNo1sNy5s) | 1:26 | 2023-08-25 | 2023-10-14 |
 | [Boca do Cais](https://open.spotify.com/track/2EsQKH1tYRXFlGF8obK8Uh) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Boca do Cais](https://open.spotify.com/album/2XVHUp4Lh9caAr45PLTKiJ) | 3:12 | 2023-11-24 |  |
 | [Bom dia Vietnã 2](https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Bom dia Vietnã 2](https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV) | 2:45 | 2022-05-20 |  |

@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Miraj",
+        "url": "https://open.spotify.com/album/54d5QHun9zYrRbDD2hQ0Ap"
+      },
+      "artists": [
+        {
+          "name": "Al-Qasar",
+          "url": "https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357934,
+      "name": "Gnawi",
+      "url": "https://open.spotify.com/track/7u6I8G05Erjr9ScpK0I67P"
+    },
+    {
+      "album": {
         "name": "Sofia",
         "url": "https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN"
       },
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 222156,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"

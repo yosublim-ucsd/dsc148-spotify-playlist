@@ -14178,7 +14178,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 162446,
       "name": "J\u00f3lin alls sta\u00f0ar",
       "url": "https://open.spotify.com/track/4AMkBUU7F6NXEbaWWVkiuP"
@@ -15960,7 +15960,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 152415,
       "name": "Litlar stj\u00f6rnur",
       "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
@@ -19644,7 +19644,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 135418,
       "name": "N\u00fa minnir svo \u00f3talmargt \u00e1 j\u00f3lin",
       "url": "https://open.spotify.com/track/6wizjEFuzgU6WfscYYdnil"
@@ -24816,7 +24816,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 133050,
       "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
       "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
@@ -27020,7 +27020,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -31624,7 +31624,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 99613,
       "name": "\u00d3skasteinar",
       "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
@@ -31878,6 +31878,10 @@
         {
           "name": "Memfismaf\u00edan",
           "url": "https://open.spotify.com/artist/4WYUozUi0ap1WyOyIsOAJ7"
+        },
+        {
+          "name": "Gu\u00f0mundur P\u00e1lsson",
+          "url": "https://open.spotify.com/artist/3y84jBJAuK2tjUlrcoPOhW"
         }
       ],
       "date_added": "2022-11-24",

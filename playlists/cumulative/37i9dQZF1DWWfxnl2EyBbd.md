@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-530 songs - 1 day 16 hr 40 min
+531 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-02-10 | 2022-05-18 |
 | [Deep As Love](https://open.spotify.com/track/2zLYr006x2323uleZZT1U2) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 5:54 | 2022-02-10 | 2022-11-21 |
 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 | 2022-02-25 |  |
-| [Denmark](https://open.spotify.com/track/4An9UP6jPeBqQQVxSQqU0z) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Denmark](https://open.spotify.com/album/0RBjVKwdTopRmzaSUWE1la) | 3:47 | 2022-02-25 |  |
+| [Denmark](https://open.spotify.com/track/4An9UP6jPeBqQQVxSQqU0z) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Denmark](https://open.spotify.com/album/0RBjVKwdTopRmzaSUWE1la) | 3:47 | 2022-02-25 | 2023-12-20 |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-11-12 |  |
 | [Det Lilla](https://open.spotify.com/track/5PXrMlPFARqpwCGtuhywSs) | [Tingvall Trio](https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M) | [Det Lilla](https://open.spotify.com/album/3fVBRaXkD4TolDw3jBfGDD) | 3:33 | 2022-02-25 |  |
 | [Diane](https://open.spotify.com/track/77BESrsUN386SrjEA7siB5) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:11 | 2022-07-07 |  |
@@ -204,6 +204,7 @@
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-11-12 |  |
 | [In Retrospect](https://open.spotify.com/track/6UHuxAIKGI29WwdX7fRYDn) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [In Retrospect](https://open.spotify.com/album/5UUVMdOGXoVuTaNgO9DdOC) | 6:14 | 2023-03-10 | 2023-09-23 |
 | [In the Days of Our Love](https://open.spotify.com/track/3UXWECtFUy4QyQzXeuxAK0) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Twilight World](https://open.spotify.com/album/1QHM1aC690lBTWkBmsYSgC) | 5:38 | 2022-02-10 |  |
+| [In the Middle of a Kiss](https://open.spotify.com/track/2Qvcc7fhKGxRpDZh8w5AlX) | [Red Mitchell](https://open.spotify.com/artist/37qczsM1eZwCtxy0U5n0fk), [Jimmy Rowles](https://open.spotify.com/artist/5uN9BmZWzjh2YGQVni3m8D) | [Red'N Me](https://open.spotify.com/album/4mQIf5gXkLunkuvWg0B7ip) | 4:43 | 2023-12-14 |  |
 | [In the Middle of a Kiss](https://open.spotify.com/track/507DfGB7ecKtGSi3IQArgx) | [Red Mitchell](https://open.spotify.com/artist/37qczsM1eZwCtxy0U5n0fk), [Jimmy Rowles](https://open.spotify.com/artist/5uN9BmZWzjh2YGQVni3m8D) | [Red'n Me](https://open.spotify.com/album/36gevqEUEwhKjIxmpNzojF) | 4:43 | 2022-02-10 | 2023-11-04 |
 | [In The Night](https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E) | [Stefania Tallini](https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb), [Matteo Bortone](https://open.spotify.com/artist/6Igu2eu1zPLL09auCGQqS8), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [Uneven](https://open.spotify.com/album/5q8nd3LqfzNaOfrv9VRhG8) | 4:00 | 2022-02-10 |  |
 | [In The Normal World](https://open.spotify.com/track/1ZmQ6hnTsXicbT8DnOmdBi) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [In The Normal World](https://open.spotify.com/album/6AP34atxToIcX9nDZYt6W3) | 3:40 | 2022-11-12 |  |

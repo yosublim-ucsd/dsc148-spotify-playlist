@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "NjkzLGFjMWY0MTIxNWUxYWY2M2E4ZDk0MmE5MTE2ZGJhMjJjNmQ4ODhhZDg=",
+  "snapshot_id": "NzAxLDhkYjkyZGFmZWE5OGI2N2RmNWQ3ZDIxMTIzZTU2ZmY0Nzk5MGY5ZmE=",
   "tracks": [
+    {
+      "added_at": "2023-12-19 08:01:11",
+      "album": {
+        "name": "Doubt Me!?",
+        "url": "https://open.spotify.com/album/3oF2AsbDvnpbOFxbVcDxy0"
+      },
+      "artists": [
+        {
+          "name": "\u307e\u305f\u5207\u306a\u3044\u4e16\u754c\u3092\u751f\u304d\u308b",
+          "url": "https://open.spotify.com/artist/53aMj2DuxMJr5qB7rvcq1e"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30b9\u30c8\u30fb\u30db\u30c3\u30ab\u30a4\u30c0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6C8WQvQq3GBOzAmn22oS75"
+    },
+    {
+      "added_at": "2023-12-19 08:01:22",
+      "album": {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30a2\u30cb\u30de\u30eb\u30ed\u30b1\u30c3\u30c8\u30e9\u30f3\u30c1\u30e3\u30fc",
+        "url": "https://open.spotify.com/album/6nbCeaJ08O3JZFhl5Pvueb"
+      },
+      "artists": [
+        {
+          "name": "\u3058\u3087\u308b\u3058\u3093",
+          "url": "https://open.spotify.com/artist/5X3E77e3IjSX2sNqvOvZDQ"
+        }
+      ],
+      "duration_ms": 187064,
+      "name": "\u30cf\u30c3\u30d4\u30fc\u30a2\u30cb\u30de\u30eb\u30ed\u30b1\u30c3\u30c8\u30e9\u30f3\u30c1\u30e3\u30fc",
+      "url": "https://open.spotify.com/track/68EgR9SGyt3AIEY2mnwUMN"
+    },
+    {
+      "added_at": "2023-12-19 08:03:26",
+      "album": {
+        "name": "Assassination",
+        "url": "https://open.spotify.com/album/6GJQuJKb0AmxFQNV4joUqn"
+      },
+      "artists": [
+        {
+          "name": "\u6cab\u5c3e",
+          "url": "https://open.spotify.com/artist/3xiRtHEkgQZINconT2YCPA"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Assassination (feat. KAITO)",
+      "url": "https://open.spotify.com/track/17c4xBDunsJYMXtM7xUf8o"
+    },
+    {
+      "added_at": "2023-12-19 08:01:39",
+      "album": {
+        "name": "\u30de\u30b9\u30ab\u30ec\u30f0\u30c9",
+        "url": "https://open.spotify.com/album/3eDNX1pbALswNWDBepUEux"
+      },
+      "artists": [
+        {
+          "name": "\u732b\u76ee",
+          "url": "https://open.spotify.com/artist/1Fxy768cDOGSRa1zhgXRn5"
+        },
+        {
+          "name": "\u9cf4\u82b1\u30d2\u30e1",
+          "url": "https://open.spotify.com/artist/5YeBpB4eLKxOdLwsHU6kFr"
+        }
+      ],
+      "duration_ms": 176651,
+      "name": "\u30de\u30b9\u30ab\u30ec\u30f0\u30c9 (feat. \u9cf4\u82b1\u30d2\u30e1)",
+      "url": "https://open.spotify.com/track/5um2WxpAPpQnVGDoTb0Tpx"
+    },
+    {
+      "added_at": "2023-12-19 08:02:07",
+      "album": {
+        "name": "\u30b4\u30fc\u30fb\u30c8\u30a5\u30fb\u5927\u90fd\u4f1a",
+        "url": "https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u88cf, \u30cb\u30e3\u30f3\u30fb\u30c8\u30f3\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/1Y6nQXc65lCEX2vlKKvgGx"
+        }
+      ],
+      "duration_ms": 170156,
+      "name": "\u30b4\u30fc\u30fb\u30c8\u30a5\u30fb\u5927\u90fd\u4f1a (feat. GUMI)",
+      "url": "https://open.spotify.com/track/12epYxzmLOXyd3bMMM7ELE"
+    },
     {
       "added_at": "2023-12-12 02:49:20",
       "album": {
@@ -631,98 +723,6 @@
       "duration_ms": 220173,
       "name": "\u65b0\u4e16\u754c\u3078\u306e\u30d7\u30ed\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/4eekTWmsfwqr5HbWSY0nVj"
-    },
-    {
-      "added_at": "2023-10-17 02:52:42",
-      "album": {
-        "name": "\u30b0\u30c3\u30c9\u30d0\u30f0",
-        "url": "https://open.spotify.com/album/0v8QjHvGVU4tP1wictCNhQ"
-      },
-      "artists": [
-        {
-          "name": "\u732b\u76ee",
-          "url": "https://open.spotify.com/artist/1Fxy768cDOGSRa1zhgXRn5"
-        },
-        {
-          "name": "\u9cf4\u82b1\u30d2\u30e1",
-          "url": "https://open.spotify.com/artist/5YeBpB4eLKxOdLwsHU6kFr"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "\u30b0\u30c3\u30c9\u30d0\u30f0 (feat. \u9cf4\u82b1\u30d2\u30e1)",
-      "url": "https://open.spotify.com/track/7EMGif811n8TZpuS3Nd1Ez"
-    },
-    {
-      "added_at": "2023-10-17 02:52:59",
-      "album": {
-        "name": "Catchy Phrase",
-        "url": "https://open.spotify.com/album/7noZ1jqbshSr8izkzUnwMY"
-      },
-      "artists": [
-        {
-          "name": "\u30e4\u30d0\u30b9",
-          "url": "https://open.spotify.com/artist/0lWIZdslxRB0Z8s8aVGI4B"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 157309,
-      "name": "\u30a2\u30d0\u30a6\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/304nRCbGj1Z7EdrtgmyREu"
-    },
-    {
-      "added_at": "2023-10-17 02:53:20",
-      "album": {
-        "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
-        "url": "https://open.spotify.com/album/1U9kyupDSukUgvFb4SaOU1"
-      },
-      "artists": [
-        {
-          "name": "\u6cab\u5c3e",
-          "url": "https://open.spotify.com/artist/3xiRtHEkgQZINconT2YCPA"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 209343,
-      "name": "\u30b7\u30fc\u30b0\u30e9\u30b9 (feat. KAITO)",
-      "url": "https://open.spotify.com/track/77N92wUGqEk2XLo5GTTet5"
-    },
-    {
-      "added_at": "2023-10-17 02:55:28",
-      "album": {
-        "name": "NX FUTURE BASS",
-        "url": "https://open.spotify.com/album/1xBeDORkPzadKB3bibM7Oc"
-      },
-      "artists": [
-        {
-          "name": "Reno",
-          "url": "https://open.spotify.com/artist/0YeyArWyZ8WylXppXeiZ2z"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Candle Light (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6UBW8E8Xz52XfNg4nuipzY"
-    },
-    {
-      "added_at": "2023-10-17 03:04:08",
-      "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/4XhiDKvsBh6eYeChgamqDt"
-      },
-      "artists": [
-        {
-          "name": "\u30aa\u30be\u30f3",
-          "url": "https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/3zvVD5oQBACKYHFlr4BZBI"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

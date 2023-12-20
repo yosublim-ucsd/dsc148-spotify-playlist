@@ -4,7 +4,7 @@
 
 > New music breaking waves\.  Guest Curator:   <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-593 songs - 1 day 4 hr 33 min
+594 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Don Lemon](https://open.spotify.com/track/0CMynrZC5yzBNcx1yO2Whs) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Don Lemon](https://open.spotify.com/album/0xEgjYr2xDO6VYODAJkyfr) | 2:26 | 2023-02-24 | 2023-08-26 |
 | [Don't Sit Right](https://open.spotify.com/track/1QfmAWoMdCxEKDINcoo39m) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Don't Sit Right](https://open.spotify.com/album/3jc2NUdhVwDlMIb8kfiTlG) | 3:21 | 2023-09-01 | 2023-11-04 |
 | [Dont Call Me Twin](https://open.spotify.com/track/3aJ4eDlQwc26G5oDg8rCW5) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [G4ost 2](https://open.spotify.com/album/7xg2hqZuqwItr8hDEg8Avn) | 1:58 | 2023-01-20 | 2023-06-10 |
-| [Don’t Say Hello](https://open.spotify.com/track/2vLEr4lT0yFuBcP2Uz3xgS) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Don’t Say Hello](https://open.spotify.com/album/6tnHZRSIymuApxxWMAKvFY) | 2:38 | 2023-10-31 |  |
+| [Don’t Say Hello](https://open.spotify.com/track/1QA1MC6dwUMEHetHrURiYh) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Så mycket bättre 2023 – Tolkningarna](https://open.spotify.com/album/45NHM9m9QNrw0idyrLNSWY) | 2:38 | 2023-12-15 |  |
+| [Don’t Say Hello](https://open.spotify.com/track/2vLEr4lT0yFuBcP2Uz3xgS) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Don’t Say Hello](https://open.spotify.com/album/6tnHZRSIymuApxxWMAKvFY) | 2:38 | 2023-10-31 | 2023-12-20 |
 | [DORK](https://open.spotify.com/track/3J13MlSboyZZGB1RshKHva) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [DORK](https://open.spotify.com/album/2XJnNa3hPSD4va84sZKLg3) | 1:59 | 2022-08-05 | 2022-10-29 |
 | [Doves](https://open.spotify.com/track/7jnLqCgzOAwW3p8g90p4Rk) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Doves](https://open.spotify.com/album/4DlnZNLw1HqckLprf9a9hW) | 2:35 | 2022-09-30 | 2023-02-18 |
 | [DROP TOP](https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [EXTRA](https://open.spotify.com/album/4LGQZ0SlcfHMzr9jZ1USp2) | 2:13 | 2023-11-03 |  |

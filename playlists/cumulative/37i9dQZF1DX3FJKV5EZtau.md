@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-409 songs - 23 hr 25 min
+410 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Found Magic](https://open.spotify.com/track/7zeeaFEbI8qGY2TEhgnVGN) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu) | [Found Magic](https://open.spotify.com/album/1aBkr8EeTFPay0CkSPhyO9) | 4:08 | 2023-10-27 |  |
 | [Found Me \- yuigot Remix](https://open.spotify.com/track/2sRKVHD3tF6t9t0U9CZYNY) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [yuigot](https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0) | [Found Me \(yuigot Remix\)](https://open.spotify.com/album/04JshYBSgHVzGjKT5xY9k9) | 3:11 | 2022-01-28 | 2022-03-13 |
 | [Fragile \(feat\. Melanie Fontana\)](https://open.spotify.com/track/1UqkLxHHcQixRPYesIkHXu) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Melanie Fontana](https://open.spotify.com/artist/2CFNHBel5Q4lnOlXiOM09z) | [Fragile \(feat\. Melanie Fontana\)](https://open.spotify.com/album/62dR038JPyEd8u2MW5FyRz) | 3:53 | 2022-01-07 | 2023-12-14 |
+| [Fragile \(feat\. Melanie Fontana\)](https://open.spotify.com/track/4EvKzytfhMlyqgwyWzR9So) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Melanie Fontana](https://open.spotify.com/artist/2CFNHBel5Q4lnOlXiOM09z) | [Fragile \(feat\. Melanie Fontana\)](https://open.spotify.com/album/43tdVzzwDDclLVeiPA1Ca5) | 3:53 | 2023-12-15 |  |
 | [Friends with the Rain](https://open.spotify.com/track/4LZmqD0ImQzd6nkHWL9Y8k) | [Swif7](https://open.spotify.com/artist/31qwjgvIiGA2TSON0W5Yka) | [Friends With The Rain](https://open.spotify.com/album/7wRUUwC9QY1Bek7ReLUuhV) | 3:27 | 2022-10-07 |  |
 | [From Atoms To Pixels](https://open.spotify.com/track/4AePvZi230wC0eAodJekoe) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Sekai](https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT) | [From Atoms To Pixels](https://open.spotify.com/album/4XsHvYSqnnzR3C7BRn9aZV) | 4:00 | 2023-03-10 | 2023-05-04 |
 | [From Here](https://open.spotify.com/track/3viaISPcLXL62vZlWLZjuR) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [From Here](https://open.spotify.com/album/1QIXJRH5rokpdb17cZioyF) | 3:33 | 2023-05-26 | 2023-10-12 |
@@ -200,7 +201,7 @@
 | [In the Pocket](https://open.spotify.com/track/5s4mUU69SlqMNrfavX3zVK) | [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb) | [In the Pocket](https://open.spotify.com/album/7kwqayB8OzSSUYYWuVptdi) | 2:37 | 2022-01-07 | 2022-07-25 |
 | [In Your Arms](https://open.spotify.com/track/5ypWHAYnaYk9a9wnLnb6BZ) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Ralph Larenzo](https://open.spotify.com/artist/4E4SekvxCHHEUU0nwxsdTG) | [In Your Arms](https://open.spotify.com/album/7ixGX8p4AJFNH7VsKMb2Xi) | 3:07 | 2022-01-28 | 2022-04-21 |
 | [IN YOUR EYES 「瞳の中で」](https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 4:15 | 2022-12-12 |  |
-| [Inhale](https://open.spotify.com/track/0KniWrLMhAwFRTh58IztFc) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Inhale](https://open.spotify.com/album/1vgImNq5QJ7KhPip6YU9tV) | 2:46 | 2023-10-06 |  |
+| [Inhale](https://open.spotify.com/track/0KniWrLMhAwFRTh58IztFc) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Inhale](https://open.spotify.com/album/1vgImNq5QJ7KhPip6YU9tV) | 2:46 | 2023-10-06 | 2023-12-20 |
 | [Inhale](https://open.spotify.com/track/5WrcsYA9PYlBLphtp4ZynD) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Inhale](https://open.spotify.com/album/3plHmbJia8IxmPHy7kBgOd) | 2:46 | 2022-08-05 | 2022-09-19 |
 | [It's a DUMMY](https://open.spotify.com/track/1tx36UibkRedbWTqbch4gk) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [THE DUMMIES](https://open.spotify.com/album/5ze5QjjKrapROLJWjaOHXe) | 3:25 | 2022-11-11 | 2022-12-13 |
 | [itsumoyori](https://open.spotify.com/track/5g6c8T1WrchTAUR5sJ0Yjd) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [itsumoyori](https://open.spotify.com/album/5Z1NZW9BCj2UeVf5ogdtRe) | 3:11 | 2022-07-14 | 2022-08-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,054 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,102 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Paint The Town Blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Paint The Town Blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 |
 | 75 | [Corralling the Blues](https://open.spotify.com/track/1kloBNF9c8Jwc7AIC1snAa) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82) | 2:27 |
 
-Snapshot ID: `MCxjNTgyYjNmNWIyN2M3ZWUwN2MwZjdmNDk4M2EyMzdjZTM0Y2YxNGIy`
+Snapshot ID: `MCwyOWUyMzM2MTg3ODQwN2ZiOGU4YzI0YzllNDUyMzc4ZDQ2MTRlZTQw`

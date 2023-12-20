@@ -1,50 +1,150 @@
 {
-  "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5782,
+  "description": "Music from TV shows and films nominated for the 81st Golden Globe Awards. Watch Jan 7, 2024 on CBS and Paramount+.",
+  "num_followers": 5783,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDFiM2YzYzJiNGM2N2E5NmNiOGNjZjgxMTNlMjBmZDRlOTMyYjI1",
+  "snapshot_id": "MCw3MGJhOTIxNmM2MDNmMTAxMmVhZTdjZGI4YjM4MGU2NDg1OGQ1ZmNm",
   "tracks": [
     {
-      "added_at": "2022-12-21 17:45:34",
+      "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 225300,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2022-12-21 17:45:34",
+      "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
         }
       ],
-      "duration_ms": 196520,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
+      "duration_ms": 95440,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
     },
     {
-      "added_at": "2022-12-21 17:45:34",
+      "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
-        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken",
+      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+        "url": "https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 220213,
+      "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+      "url": "https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Addicted to Romance (from the film 'She Came to Me')",
+        "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Patti Scialfa",
+          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Addicted to Romance - from the film 'She Came to Me'",
+      "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night",
+      "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Oppenheimer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 110160,
+      "name": "Can You Hear The Music",
+      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 332386,
+      "name": "Look At Us Now (Honeycomb)",
+      "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
       "artists": [
         {
@@ -52,183 +152,403 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 264438,
-      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
-      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+      "duration_ms": 229566,
+      "name": "Cruel Summer - Live from TS | The Eras Tour",
+      "url": "https://open.spotify.com/track/6ClYMObS7f3Nn4AiZHYQt3"
     },
     {
-      "added_at": "2022-12-21 17:45:34",
+      "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
+        "name": "The Color Purple (Music From And Inspired By)",
+        "url": "https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
         }
       ],
-      "duration_ms": 267504,
-      "name": "Nothing Is Lost (You Give Me Strength)",
-      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
+      "duration_ms": 291173,
+      "name": "I\u2019m Here",
+      "url": "https://open.spotify.com/track/6CgvYXoJfZIxezbCoW9ZfX"
     },
     {
-      "added_at": "2022-12-21 17:45:34",
+      "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Top Gun: Maverick (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz"
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
         }
       ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN"
+      "duration_ms": 62720,
+      "name": "Spider-Man 2099 (Miguel O'Hara)",
+      "url": "https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT"
     },
     {
-      "added_at": "2022-12-21 17:45:34",
+      "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "ELVIS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
+        "name": "Only Murders in the Building: Season 3 (Original Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6zUX2wRpuzSwYXoTNzVSlE"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Vegas",
-      "url": "https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Diwali Special Party Songs",
-        "url": "https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+          "name": "Only Murders in the Building \u2013 Cast",
+          "url": "https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih"
         },
         {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        }
-      ],
-      "duration_ms": 214207,
-      "name": "Naacho Naacho (From \"Rrr\")",
-      "url": "https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
-        "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Tapia De Veer",
-          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
-        }
-      ],
-      "duration_ms": 98440,
-      "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
-      "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Wednesday (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 69893,
-      "name": "Wednesday Main Titles",
-      "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Babylon (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "Voodoo Mama",
-      "url": "https://open.spotify.com/track/5pmlMjmOvUi5RCe64e9Tyu"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "ELVIS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
-      },
-      "artists": [
-        {
-          "name": "Austin Butler",
-          "url": "https://open.spotify.com/artist/7fonh9s1Y6OjzCsh7pbYQm"
-        }
-      ],
-      "duration_ms": 140840,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/1XF9P9QsH5D3rPHk1oIQd5"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The Fabelmans (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 104320,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "DAHMER - Monster: The Jeffrey Dahmer Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0iWf4fEHwkLXSHoHunjwtt"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave",
-          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+          "name": "Meryl Streep",
+          "url": "https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2"
         },
         {
-          "name": "Warren Ellis",
-          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
         }
       ],
-      "duration_ms": 150694,
-      "name": "End Credits (from the Netflix Series \"DAHMER - Monster: The Jeffrey Dahmer Story\")",
-      "url": "https://open.spotify.com/track/1zmRTJEYYYamHKy8Bsi8ne"
+      "duration_ms": 150805,
+      "name": "Look for the Light",
+      "url": "https://open.spotify.com/track/2On7KSfkCdYu8D5u1f0JeU"
     },
     {
-      "added_at": "2022-12-21 17:45:34",
+      "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "The Crown: Season Five (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE"
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "This Wish",
+      "url": "https://open.spotify.com/track/5DJgVGikMm9NKyJO2wvDF6"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Wonka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 187997,
+      "name": "Pure Imagination (from \"Wonka\")",
+      "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 67669,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Succession: Season 4 (HBO Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2RIG29bd8zdq0TtHHTLZdV"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "duration_ms": 148427,
+      "name": "Succession - Andante Risoluto",
+      "url": "https://open.spotify.com/track/1hUiKGTTOQcYSaAxXZwUCA"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 108533,
+      "name": "Ask Me Why (Mother's Message)",
+      "url": "https://open.spotify.com/track/104EutLydSehDHiEjmtdBo"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Killers of the Flower Moon (Soundtrack from the Apple Original Film)",
+        "url": "https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp"
+      },
+      "artists": [
+        {
+          "name": "Robbie Robertson",
+          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
+        }
+      ],
+      "duration_ms": 171425,
+      "name": "Osage Oil Boom",
+      "url": "https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Mission: Impossible - Dead Reckoning Part One (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4t1wHeUBtPD2nsIgVTGSOg"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "duration_ms": 72519,
+      "name": "Dead Reckoning Opening Titles",
+      "url": "https://open.spotify.com/track/5UwiTSY5hB74NxIaiWBRHx"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Shrinking: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        },
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "duration_ms": 147337,
+      "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
+      "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "John Wick: Chapter 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 185657,
+      "name": "Eye For an Eye",
+      "url": "https://open.spotify.com/track/63OiFJTU3Xv1CCCLFJQ6Fl"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "All the Light We Cannot See (Soundtrack from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 83679,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Slow Horses: Season 1 (ATV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV"
+      },
+      "artists": [
+        {
+          "name": "Mick Jagger",
+          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Strange Game",
+      "url": "https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
+        "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
+      },
+      "artists": [
+        {
+          "name": "John Murphy",
+          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
+        }
+      ],
+      "duration_ms": 135347,
+      "name": "I Love You Guys",
+      "url": "https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Steven Yeun as Danny from BEEF",
+          "url": "https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Past Lives (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 217648,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2r1pq34i8ddPXyxvfqDBCG"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 60983,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "ANATOMIE D'UNE CHUTE (Musique Originale)",
+        "url": "https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Daniel",
+          "url": "https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS"
+        }
+      ],
+      "duration_ms": 272926,
+      "name": "VARIATION AUTOUR D'UN PR\u00c9LUDE - Anatomie d'une chute",
+      "url": "https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Poor Things (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO"
+      },
+      "artists": [
+        {
+          "name": "Jerskin Fendrix",
+          "url": "https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW"
+        }
+      ],
+      "duration_ms": 103160,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "The Diplomat (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB"
+      },
+      "artists": [
+        {
+          "name": "Nathan Barr",
+          "url": "https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC"
+        },
+        {
+          "name": "Dimitri Smith",
+          "url": "https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP"
+        }
+      ],
+      "duration_ms": 69626,
+      "name": "Confirming Hal's Story",
+      "url": "https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Fellow Travelers (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6Q93LklTcvLAysA2IhxHmP"
+      },
+      "artists": [
+        {
+          "name": "Paul Leonard-Morgan",
+          "url": "https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a"
+        }
+      ],
+      "duration_ms": 93934,
+      "name": "Forbidden Joy",
+      "url": "https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Ted Lasso: Season 3 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6oemmy2XTmRXRryKR77LuG"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Fought & Lost - Full Length TV Version",
+      "url": "https://open.spotify.com/track/2VegZvwc34NF0RVqxjkwfY"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "The Crown: Season Six (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN"
       },
       "artists": [
         {
@@ -236,325 +556,9 @@
           "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
         }
       ],
-      "duration_ms": 192560,
-      "name": "Actually Her",
-      "url": "https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Guillermo del Toro's Pinocchio (Soundtrack From The Netflix Film)",
-        "url": "https://open.spotify.com/album/7GQqZap38LT44AcbZriYqt"
-      },
-      "artists": [
-        {
-          "name": "Gregory Mann",
-          "url": "https://open.spotify.com/artist/75HkCZEX8TSyFqh0PkXaa7"
-        }
-      ],
-      "duration_ms": 168396,
-      "name": "Ciao Papa",
-      "url": "https://open.spotify.com/track/2R96PRe2nQz5nRSLyBDDDG"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The Banshees of Inisherin (Original Score)",
-        "url": "https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n"
-      },
-      "artists": [
-        {
-          "name": "Carter Burwell",
-          "url": "https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV"
-        }
-      ],
-      "duration_ms": 77960,
-      "name": "Walking Home Alone",
-      "url": "https://open.spotify.com/track/1WhfX0T3ItwIHMqoGaLArQ"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Inventing Anna (Music From The Netflix Series)",
-        "url": "https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        },
-        {
-          "name": "Pierre Charles",
-          "url": "https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5"
-        }
-      ],
-      "duration_ms": 98579,
-      "name": "Vivian Connects The Dots",
-      "url": "https://open.spotify.com/track/2RtkEH2NxXMBkRWG5yjhZ0"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Glass Onion: A Knives Out Mystery (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus"
-      },
-      "artists": [
-        {
-          "name": "Nathan Johnson",
-          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
-        }
-      ],
-      "duration_ms": 113897,
-      "name": "Theme from Glass Onion",
-      "url": "https://open.spotify.com/track/3ah2iIRAY7R3xbh1c8hKrW"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Mrs. Harris Goes to Paris (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vjxJ2lyiNrKuV00JL5HRx"
-      },
-      "artists": [
-        {
-          "name": "Rael Jones",
-          "url": "https://open.spotify.com/artist/6gmWKEK7HKvYBas0CWXdlW"
-        }
-      ],
-      "duration_ms": 119393,
-      "name": "Mrs. Harris",
-      "url": "https://open.spotify.com/track/4Chlib7xjLWRsCU4A2uGCo"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The Whale (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/377eHf66txjBwadOeFF8Co"
-      },
-      "artists": [
-        {
-          "name": "Rob Simonsen",
-          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
-        }
-      ],
-      "duration_ms": 108371,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/0GmtAxeEI2VcZKWhUdXVV0"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The Woman King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        }
-      ],
-      "duration_ms": 97706,
-      "name": "Agojie Return",
-      "url": "https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Empire of Light (Original Score)",
-        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 317026,
-      "name": "Empire Of Light",
-      "url": "https://open.spotify.com/track/6O22GpPxzXC3lnaiGZsGXa"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "George & Tammy (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT"
-      },
-      "artists": [
-        {
-          "name": "Jessica Chastain",
-          "url": "https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF"
-        },
-        {
-          "name": "Michael Shannon",
-          "url": "https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "Stand By Your Man",
-      "url": "https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The Menu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rNzQmIHjZCVQEfdOxEItQ"
-      },
-      "artists": [
-        {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
-        }
-      ],
-      "duration_ms": 264238,
-      "name": "All Aboard - from \"The Menu\" Soundtrack",
-      "url": "https://open.spotify.com/track/1hT4ky9OMjtDpZJbJs08XY"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Only Murders in the Building: Season 2 (Original Score)",
-        "url": "https://open.spotify.com/album/4mSME5Jj4ANMDdgZ6ZJWYH"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha Khosla",
-          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
-        }
-      ],
-      "duration_ms": 76244,
-      "name": "We're Back (Persons of Interest)",
-      "url": "https://open.spotify.com/track/7rhF7tvuOdveyQ74ophxml"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "T\u00c1R (MUSIC FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Cate Blanchett",
-          "url": "https://open.spotify.com/artist/2Z2dkKKXtKsfFAQz1enCeJ"
-        },
-        {
-          "name": "Jan Wolf",
-          "url": "https://open.spotify.com/artist/7FdzQYqYuqi6NhBNwXx3yY"
-        },
-        {
-          "name": "Dresdner Philharmonie",
-          "url": "https://open.spotify.com/artist/03C9IJtseK0NX9zw53URjF"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Symphony No. 5 in C Sharp Minor / Pt. 1: I. Trauermarsch & II. St\u00fcrmisch bewegt - Rehearsals",
-      "url": "https://open.spotify.com/track/50Zfv1fSYcuTr9JeKV5OZ5"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Blonde (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave",
-          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
-        },
-        {
-          "name": "Warren Ellis",
-          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Bright Horses (Instrumental)",
-      "url": "https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The Dropout (Original Score)",
-        "url": "https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb"
-      },
-      "artists": [
-        {
-          "name": "Anne Nikitin",
-          "url": "https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr"
-        }
-      ],
-      "duration_ms": 134058,
-      "name": "Today We Launch",
-      "url": "https://open.spotify.com/track/5IOfH50BVukvKUeIzQ7JWA"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "BARRY (HBO Original Music Soundtrack Season 1 & 2)",
-        "url": "https://open.spotify.com/album/4kYPrvylR7PVvk8fphlRVv"
-      },
-      "artists": [
-        {
-          "name": "David Wingo",
-          "url": "https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk"
-        }
-      ],
-      "duration_ms": 69226,
-      "name": "Barry",
-      "url": "https://open.spotify.com/track/4dqBW6ZGXVKTHg15MErvJ9"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Black Bird",
-        "url": "https://open.spotify.com/album/3d5Y2qarMZlq0YyvLueE4I"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Titles",
-      "url": "https://open.spotify.com/track/3nXtowNQOkWjIu1Ep2smUw"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Pam & Tommy (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3DLTFjUNq8cigCAqaU1ZOc"
-      },
-      "artists": [
-        {
-          "name": "Isaac Carpenter",
-          "url": "https://open.spotify.com/artist/4xbXNEpKqu2JcnjxaHAWpj"
-        },
-        {
-          "name": "Sebastian Stan",
-          "url": "https://open.spotify.com/artist/0JX0HkJxazV5WddFlKp9JV"
-        }
-      ],
-      "duration_ms": 62575,
-      "name": "Get Outta My Face (feat. Sebastian Stan)",
-      "url": "https://open.spotify.com/track/6o9NhaBfBJS4pCd2RjGb66"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "The Flight Attendant: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4eGTAHIWB70mIf3gwknjow"
-      },
-      "artists": [
-        {
-          "name": "Blake Neely",
-          "url": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
-        }
-      ],
-      "duration_ms": 89786,
-      "name": "Main Title (The Flight Attendant)",
-      "url": "https://open.spotify.com/track/2RyCnbRAwgxNi8D4MexzkF"
+      "duration_ms": 212040,
+      "name": "Holding Hands (From \"The Crown: Season Six Soundtrack\")",
+      "url": "https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg"
     }
   ],
   "unique_name": "Golden Globes",

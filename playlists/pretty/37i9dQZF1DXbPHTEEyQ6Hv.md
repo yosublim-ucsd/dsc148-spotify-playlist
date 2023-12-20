@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,505 likes - 99 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,364 likes - 99 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 14 | [Candlelight Carol](https://open.spotify.com/track/3RJCyeDnzhhqhpRvdcohof) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Angels In The Realms Of Glory](https://open.spotify.com/album/5N9DVOm2aWo8XhVKvadJ0D) | 2:18 |
 | 15 | [Ding Dong Merrily on High](https://open.spotify.com/track/5vqMZbAU4yvKhZlZNBOGre) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Ding Dong Merrily on High](https://open.spotify.com/album/28rlS1Z0VuczgX7HqlviJK) | 2:37 |
 | 16 | [I Saw Three Ships](https://open.spotify.com/track/3aWohApFeBqB3ebgCWiev3) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [I Saw Three Ships](https://open.spotify.com/album/0vAHBKkzpdlQL2YlX0dDaC) | 2:22 |
-| 17 | [If We Make it Through December](https://open.spotify.com/track/0WcqzJx3kzikRLbwfAQCXd) | [Algot Wiland](https://open.spotify.com/artist/6xjC2yRJBQzqdlnSUJ6Gdv) | [If We Make it Through December](https://open.spotify.com/album/4G1fRe2v3jtqb1eL7i7gqS) | 2:18 |
-| 18 | [The First Noel](https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [The First Noel](https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi) | 2:00 |
-| 19 | [When A Child Is Born](https://open.spotify.com/track/4FQ6j6YcjQKT08yvKugxRL) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [When A Child Is Born](https://open.spotify.com/album/4q8idsrmhuID1ffZYIxYkS) | 2:30 |
-| 20 | [Here Comes Santa Claus](https://open.spotify.com/track/5BhgEYBl21jrcMHFH9v2ZT) | [Judy Baker](https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4) | [Here Comes Santa Claus](https://open.spotify.com/album/3NuTH4aDWNH2RbxOmuHJ9H) | 2:40 |
-| 21 | [My Christmas Tree](https://open.spotify.com/track/4OEboSrggxr9MYywDKBNOA) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [My Christmas Tree](https://open.spotify.com/album/1tZjTM9mNiAgPADNRFJkav) | 2:10 |
-| 22 | [Santa Tell Me](https://open.spotify.com/track/1AToYrtSByKZq8a6uIEsmg) | [Pam Hill](https://open.spotify.com/artist/2G0kAA5t60WuLGOa1FSFRB) | [Santa Tell Me](https://open.spotify.com/album/7CM27GU1KQV7vTiNSkxf1P) | 2:14 |
-| 23 | [Carol of the bells](https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Carol of the bells](https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0) | 1:43 |
+| 17 | [The First Noel](https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [The First Noel](https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi) | 2:00 |
+| 18 | [When A Child Is Born](https://open.spotify.com/track/4FQ6j6YcjQKT08yvKugxRL) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [When A Child Is Born](https://open.spotify.com/album/4q8idsrmhuID1ffZYIxYkS) | 2:30 |
+| 19 | [Here Comes Santa Claus](https://open.spotify.com/track/5BhgEYBl21jrcMHFH9v2ZT) | [Judy Baker](https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4) | [Here Comes Santa Claus](https://open.spotify.com/album/3NuTH4aDWNH2RbxOmuHJ9H) | 2:40 |
+| 20 | [My Christmas Tree](https://open.spotify.com/track/4OEboSrggxr9MYywDKBNOA) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [My Christmas Tree](https://open.spotify.com/album/1tZjTM9mNiAgPADNRFJkav) | 2:10 |
+| 21 | [Santa Tell Me](https://open.spotify.com/track/1AToYrtSByKZq8a6uIEsmg) | [Pam Hill](https://open.spotify.com/artist/2G0kAA5t60WuLGOa1FSFRB) | [Santa Tell Me](https://open.spotify.com/album/7CM27GU1KQV7vTiNSkxf1P) | 2:14 |
+| 22 | [Carol of the bells](https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Carol of the bells](https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0) | 1:43 |
+| 23 | [If We Make it Through December](https://open.spotify.com/track/0WcqzJx3kzikRLbwfAQCXd) | [Algot Wiland](https://open.spotify.com/artist/6xjC2yRJBQzqdlnSUJ6Gdv) | [If We Make it Through December](https://open.spotify.com/album/4G1fRe2v3jtqb1eL7i7gqS) | 2:18 |
 | 24 | [Let It Snow](https://open.spotify.com/track/47Pda49R3eC3gIgJGOVO8k) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [Let It Snow](https://open.spotify.com/album/3dQPMWudKdrelDhmw3nf2y) | 2:56 |
 | 25 | [In Christ Alone](https://open.spotify.com/track/4y9a5vXdh0RQzUqaMTX8Lz) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [In Christ Alone](https://open.spotify.com/album/7E9onccxRGiLZg0o5jJsXN) | 2:43 |
 | 26 | [Angels We Have Heard on High](https://open.spotify.com/track/2ZldA72ZbtvHaQEJFxybtm) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [Oh Come, All Ye Faithful](https://open.spotify.com/album/1Wmhjzrbn1EOKzhqgGWfhq) | 3:09 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 34 | [Happy Xmas](https://open.spotify.com/track/6gGD7PRnQmj1BcoOs4rqiJ) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [Happy Xmas](https://open.spotify.com/album/5yfYF0xEnU9cUBxFbzgchY) | 2:16 |
 | 35 | [Silver Bells \- Piano](https://open.spotify.com/track/5HGeOWobPDjZZ3vc0tUA0x) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:24 |
 | 36 | [I Need You Christmas](https://open.spotify.com/track/00ochdoOTLDBwawDQ8AtMT) | [Isaques Blues](https://open.spotify.com/artist/3w04ME5pSiFF5LK1SB2ea0) | [I Need You Christmas](https://open.spotify.com/album/5lK628Z4LcKQWCjyAvt3v4) | 2:11 |
-| 37 | [Underneath The Tree](https://open.spotify.com/track/0dOlDq6KeqVjXK28GUfxYh) | [Julia Tide](https://open.spotify.com/artist/2in6cp2GcdrkLqaY19ciPb) | [Underneath The Tree](https://open.spotify.com/album/5EHrHsuHIfJuwlzXdtgSQr) | 3:51 |
-| 38 | [Good Christian Men Rejoice](https://open.spotify.com/track/3Q0zjvVvqUL6I1pzaAdWLd) | [Serenata Moss](https://open.spotify.com/artist/3W4A8cV0hV5vutTRDgWuMi) | [Good Christian Men Rejoice](https://open.spotify.com/album/5kupU8x4PJt4jTrpKeki4t) | 2:59 |
-| 39 | [This winter](https://open.spotify.com/track/1Al9cICXCGBwryeDIgoLqJ) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [This winter](https://open.spotify.com/album/0fu8E3rRmsN8SqXmpHwBGe) | 1:56 |
-| 40 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 |
-| 41 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 |
+| 37 | [Good Christian Men Rejoice](https://open.spotify.com/track/3Q0zjvVvqUL6I1pzaAdWLd) | [Serenata Moss](https://open.spotify.com/artist/3W4A8cV0hV5vutTRDgWuMi) | [Good Christian Men Rejoice](https://open.spotify.com/album/5kupU8x4PJt4jTrpKeki4t) | 2:59 |
+| 38 | [This winter](https://open.spotify.com/track/1Al9cICXCGBwryeDIgoLqJ) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [This winter](https://open.spotify.com/album/0fu8E3rRmsN8SqXmpHwBGe) | 1:56 |
+| 39 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 |
+| 40 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 |
+| 41 | [Underneath The Tree](https://open.spotify.com/track/0dOlDq6KeqVjXK28GUfxYh) | [Julia Tide](https://open.spotify.com/artist/2in6cp2GcdrkLqaY19ciPb) | [Underneath The Tree](https://open.spotify.com/album/5EHrHsuHIfJuwlzXdtgSQr) | 3:51 |
 | 42 | [What Child Is This](https://open.spotify.com/track/6hgHOBYIO9uQd1O2XnQJXW) | [Eleanor Friedman](https://open.spotify.com/artist/2pMJUMnZOn45c2qzXXC87N) | [What Child Is This](https://open.spotify.com/album/4T0HgqcgEetlOjMgCtMscG) | 3:01 |
 | 43 | [The Christmas Song \(arr\. piano\)](https://open.spotify.com/track/4bcrfPo51Gy2OGF37J9ysl) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [What Child Is This? \(arr\. Piano\) / The Christmas Song \(arr\. Piano\)](https://open.spotify.com/album/3ENsfMFIOKEoW5VOMo8NCl) | 4:10 |
 | 44 | [Es Ist Ein Ros' Entsprungen](https://open.spotify.com/track/3LQQz7ztdslQvLtB7ElZId) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [Es ist ein Ros' entsprungen](https://open.spotify.com/album/6cqWE8se5KQRxyF7GZ432C) | 2:11 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 98 | [A Holly Jolly Christmas](https://open.spotify.com/track/7nH4hOiwPlutDW9qw0hBhs) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [A Holly Jolly Christmas](https://open.spotify.com/album/1oViorTcTSGZzAxFVMA5Au) | 3:08 |
 | 99 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/0wPujtWCbSrEy5eylY7SAn) | [Kevin Duncan](https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj) | [Christmas at the Piano](https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE) | 2:38 |
 
-Snapshot ID: `MCxlZWE4MzIyN2UyMDJkMjllNmEyYmFmNGNiYTkzMzRlMWI0NzEwNDg3`
+Snapshot ID: `MCwyMzc3NWNjODhhMTQ3NjNjN2U4ZjIzMDI4MWExMmRiZmE0ZDhlODVl`

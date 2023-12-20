@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 127122,
+  "num_followers": 127139,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzA0OTU3YzBlNWYxNjE3Njg3NjIxNDVlOGMxNGI1MGM5OGMzMGQ4",
+  "snapshot_id": "MCw2NWI0Zjg0ZjZkMWM3MTUzMTY2ZDAyYjQ2ZTljYTgzYzgzYjg5NDA2",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 71266,
-      "name": "Hii Lawe",
-      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Lolita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 157077,
       "name": "Tropicando",
       "url": "https://open.spotify.com/track/03URHmllzL0jELm41zDslA"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 71266,
+      "name": "Hii Lawe",
+      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Golden Voice of Hawai'i, Vol. 1",
-        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
-      },
-      "artists": [
-        {
-          "name": "Dennis Pavao",
-          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "I Kona",
-      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Sacred Idol",
         "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 151600,
       "name": "Fruit Of Dreams",
       "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Golden Voice of Hawai'i, Vol. 1",
+        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
+      },
+      "artists": [
+        {
+          "name": "Dennis Pavao",
+          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "I Kona",
+      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Tiki for the Atomic Age",
-        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
-      },
-      "artists": [
-        {
-          "name": "Kava Kon",
-          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Palace of the Tiger Women",
-      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "Voodoo!",
         "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 165440,
       "name": "Enchantment",
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Tiki for the Atomic Age",
+        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
+      },
+      "artists": [
+        {
+          "name": "Kava Kon",
+          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Palace of the Tiger Women",
+      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Primitiva",
-        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 134506,
-      "name": "Llama Serenade",
-      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Maunalua",
         "url": "https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 324920,
       "name": "Uilani / Baby Kalae",
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Primitiva",
+        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 134506,
+      "name": "Llama Serenade",
+      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -673,20 +673,20 @@
       "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Quiet Village",
-        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
+        "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
+        "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
       },
       "artists": [
         {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+          "name": "Enoch Light And His Orchestra",
+          "url": "https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc"
         }
       ],
-      "duration_ms": 138133,
-      "name": "Hawaiian War Chant",
-      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
+      "duration_ms": 161595,
+      "name": "Too Young Cha Cha",
+      "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
-        "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
-      },
-      "artists": [
-        {
-          "name": "Enoch Light And His Orchestra",
-          "url": "https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc"
-        }
-      ],
-      "duration_ms": 161595,
-      "name": "Too Young Cha Cha",
-      "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Kiss Me Love",
         "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 138666,
       "name": "Blue Hawaii",
       "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Quiet Village",
+        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "Hawaiian War Chant",
+      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Fly Me to the Moon and the Bossa Nova Pops",
-        "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
-      },
-      "artists": [
-        {
-          "name": "Joe Harnell His Piano And Orchestra",
-          "url": "https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Loads of Love",
-      "url": "https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Kiss Me Love",
         "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 229200,
       "name": "Mi Nei",
       "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Fly Me to the Moon and the Bossa Nova Pops",
+        "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
+      },
+      "artists": [
+        {
+          "name": "Joe Harnell His Piano And Orchestra",
+          "url": "https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "Loads of Love",
+      "url": "https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/1Z4aOyNZmQ95yBRzPWgFJ3"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
-        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 201263,
-      "name": "Xtabay - Remastered",
-      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Soundproof",
@@ -1107,6 +1091,22 @@
       "duration_ms": 167264,
       "name": "Baia",
       "url": "https://open.spotify.com/track/1INMAZPPXvgdWjKuHqDU8P"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
+        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 201263,
+      "name": "Xtabay - Remastered",
+      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
     },
     {
       "added_at": "2021-01-20 03:50:53",

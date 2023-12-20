@@ -1218,10 +1218,32 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 185069,
       "name": "Can\u2019t Be in Love",
       "url": "https://open.spotify.com/track/4lWSYJQJgraWgmmUXwGwPw"
+    },
+    {
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/5bLCbxXWXpCEyImaQriukQ"
+      },
+      "artists": [
+        {
+          "name": "Young Hysan",
+          "url": "https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr"
+        },
+        {
+          "name": "Gigi Cheung",
+          "url": "https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185069,
+      "name": "Can\u2019t Be in Love",
+      "url": "https://open.spotify.com/track/308O6dRqn5M75ew07Q5KpC"
     },
     {
       "album": {

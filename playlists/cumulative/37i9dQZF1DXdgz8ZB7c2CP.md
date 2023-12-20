@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Fred again..
 
-610 songs - 1 day 9 hr 43 min
+611 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [I Believe](https://open.spotify.com/track/0aKjU3uJlZdSS3XsxT29QI) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [.wav](https://open.spotify.com/album/55G3rxvjqebzSyHapheVF3) | 4:18 | 2021-10-01 | 2022-07-29 |
 | [I Can See The Light](https://open.spotify.com/track/6oMGDBpSdF2p0MjtpX7VHN) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [The Road To Nowhere](https://open.spotify.com/album/2zxalkqy1QbBvAbfWJPuQR) | 3:09 | 2021-08-06 | 2022-07-27 |
 | [I Can't Tell \(feat\. LAUREL\)](https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:51 | 2023-02-10 | 2023-12-14 |
+| [I Can't Tell \(feat\. LAUREL\)](https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Palaces](https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC) | 3:51 | 2023-12-14 |  |
 | [I Could Give It Up \- Chuck Sutton Remix](https://open.spotify.com/track/5waNzvVH4PvgQlOTaNf5Sw) | [Pusher](https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn), [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [I Could Give It Up \(Chuck Sutton Remix\)](https://open.spotify.com/album/24JCltyKHmJB9hAqJLi5vm) | 2:40 | 2021-08-08 | 2022-07-28 |
 | [I Don't Know What To Say](https://open.spotify.com/track/4fei1adu1gwEfxlVJyX6LP) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [I Don't Know What To Say](https://open.spotify.com/album/5rDEDC8GcwlxV7qraoAZyL) | 2:14 | 2023-08-24 | 2023-09-02 |
 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 | 2023-05-12 |  |
@@ -459,7 +460,7 @@
 | [Second Nature](https://open.spotify.com/track/2JTxM40sPrKFIpU6vcRfWF) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Second Nature](https://open.spotify.com/album/4d1qEIVehda9qcRO6VgkdT) | 3:51 | 2023-10-05 | 2023-12-14 |
 | [sedatives](https://open.spotify.com/track/6XMBQ2Dk9oQoXBfoI53Sqt) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X), [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [sedatives](https://open.spotify.com/album/4GGM10hPG0dbjmbFbHfWaf) | 2:45 | 2023-04-13 | 2023-08-05 |
 | [See Me](https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [See Me](https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O) | 3:04 | 2023-08-04 |  |
-| [see str8](https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [see str8](https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo) | 4:00 | 2022-07-22 |  |
+| [see str8](https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [see str8](https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo) | 4:00 | 2022-07-22 | 2023-12-20 |
 | [see u](https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [see u](https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy) | 2:10 | 2023-12-08 |  |
 | [Seek](https://open.spotify.com/track/6gzo8JjXS5LnZiIMnxeUeL) | [Raed Raees](https://open.spotify.com/artist/7CknUKzfJxqgKAI1ZPhBGk) | [Seek](https://open.spotify.com/album/63SCEtG5tgUHPDj6wCqqBb) | 3:03 | 2021-08-06 | 2022-06-21 |
 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 | 2023-06-02 |  |

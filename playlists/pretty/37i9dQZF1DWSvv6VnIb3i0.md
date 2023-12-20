@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,362 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,459 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 33 | [Seul](https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 4:41 |
 | 34 | [Angela](https://open.spotify.com/track/76a47vlZKvdJeotrpMYuvQ) | [Saian Supa Crew](https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6) | [Klr](https://open.spotify.com/album/3mGbYjpwZAseVYLmQakxcL) | 3:46 |
 | 35 | [Il y a trop de gens qui t'aiment](https://open.spotify.com/track/1fxXW27caC5yWWt1vFTqnF) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 4:27 |
-| 36 | [Je serai \(ta meilleure amie\)](https://open.spotify.com/track/5VQw18tYjbltQWFYmI3CPw) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM) | [Près de toi](https://open.spotify.com/album/0x6tOGxJBDdB7sfBYGaLus) | 3:29 |
+| 36 | [Je serai \(ta meilleure amie\)](https://open.spotify.com/track/4FL6ttDXeXjgxXLII24wEX) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM) | [Près de toi](https://open.spotify.com/album/1B6RzSe2BIlIGlysDj3HLw) | 3:29 |
 | 37 | [À ma place](https://open.spotify.com/track/38y3xAP05YHlGzPdDDN182) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Personne N'Est Parfait](https://open.spotify.com/album/2mUcEar3wqV5G4fsDgdnmf) | 5:29 |
 | 38 | [À la faveur de l'automne](https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [À la faveur de l'automne](https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot) | 3:43 |
 | 39 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 49 | [Le Manège](https://open.spotify.com/track/6yOGumo25Hrr7IKDS75gm6) | [Stanislas](https://open.spotify.com/artist/4B6omre6u07tKDEXvDNJBc) | [L'Equilibre Instable](https://open.spotify.com/album/6eMCkS0r8atntN0rgg2i9G) | 4:45 |
 | 50 | [Les voyages en train](https://open.spotify.com/track/1fhKFixA1BKke1I2evNUxQ) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Midi 20](https://open.spotify.com/album/3KLf3aJPySlGsTYGdkWPbP) | 2:51 |
 
-Snapshot ID: `MCw4MzQ4ZmY1MzNkMTk2MjM5MTZjNDFmNGFlN2M1N2YxZjViNjhmM2Y4`
+Snapshot ID: `MCwxZmUzMjk3NjNlYTBkMTUwZTY0NWNjOTc2OGMxNTMxZjg4NThhZWVj`

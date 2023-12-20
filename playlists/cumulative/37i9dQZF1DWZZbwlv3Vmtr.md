@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-846 songs - 1 day 8 hr 52 min
+847 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Music Saved My LIfe](https://open.spotify.com/track/196OGouq0ra4DRZQFvMNcJ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Ruined My Life](https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO) | 4:04 | 2022-04-15 | 2023-09-22 |
 | [My Love](https://open.spotify.com/track/7nRo1kUkF9JNOnANYTMwwL) | [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [My Love](https://open.spotify.com/album/78VzVw5b1V3EALZlIYafqX) | 2:14 | 2022-05-20 | 2022-07-08 |
 | [Myself Again](https://open.spotify.com/track/0EZsE0bYkALw8BuUiXrd0c) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Myself Again](https://open.spotify.com/album/30laIP0TNPjhnZkxy0gjr7) | 2:18 | 2022-10-28 | 2022-12-10 |
+| [Mysteries](https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG) | [Argenius](https://open.spotify.com/artist/0m3JOyxkcyPVM3bu1YZW2s) | [Mysteries](https://open.spotify.com/album/4Z8yCySOw5LJROmLZ4zSdO) | 2:00 | 2023-12-15 |  |
 | [Nagata Lights](https://open.spotify.com/track/3tI6ByTenOTqT0fIj5digf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Nagata Lights](https://open.spotify.com/album/44QQQMiFBKkV5aVpbIhKUf) | 2:02 | 2022-04-15 | 2022-12-10 |
 | [NANA](https://open.spotify.com/track/4rPKfCe7Rc4uUv9SyVkW8S) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx) | [NANA](https://open.spotify.com/album/1k6DOBPWj02qzFcaMhrEEd) | 2:05 | 2022-10-14 | 2023-09-22 |
 | [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-08 |  |
@@ -486,7 +487,7 @@
 | [Oasis](https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC) | [Kival](https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp) | [Oasis](https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV) | 2:44 | 2023-09-22 |  |
 | [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 | 2023-01-13 |  |
 | [Okains Bay](https://open.spotify.com/track/7IdC8X9vBmMuwWmKKkawu7) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Okains Bay](https://open.spotify.com/album/1XlYdgPcRKZCYgYJWkZ42z) | 2:22 | 2022-05-27 | 2022-07-22 |
-| [Okazaki](https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Okazaki](https://open.spotify.com/album/7HwHTrwLX8E8SGDL0dS25G) | 1:57 | 2022-12-09 |  |
+| [Okazaki](https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Okazaki](https://open.spotify.com/album/7HwHTrwLX8E8SGDL0dS25G) | 1:57 | 2022-12-09 | 2023-12-20 |
 | [Old Station](https://open.spotify.com/track/7AkXVemlM82Kzf5UgwRllt) | [Sunday Mode](https://open.spotify.com/artist/3PSRhjSFWiUbcwtNVJDt4J) | [Old Station](https://open.spotify.com/album/6hToJyqXTZCfjtk80u4VtL) | 1:36 | 2022-04-15 |  |
 | [on and on](https://open.spotify.com/track/5JqRZcpUrt5cw4gqClNL9J) | [Terry Brooklyn](https://open.spotify.com/artist/4z1phSKVusjMBvndNBsxQH) | [on and on](https://open.spotify.com/album/49f85ZfK9dSUqXScKeTPwN) | 2:22 | 2022-04-15 | 2022-06-03 |
 | [On Golden Pond](https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [On Golden Pond](https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw) | 3:16 | 2023-04-28 | 2023-10-06 |

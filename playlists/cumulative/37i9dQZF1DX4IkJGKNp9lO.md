@@ -4,7 +4,7 @@
 
 > 
 
-263 songs - 12 hr 36 min
+264 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [En vacker död stad](https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Det är ni som e dom konstiga, det är jag som e normal](https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H) | 3:13 | 2021-12-14 |  |
 | [Enhetsfront](https://open.spotify.com/track/4XDbvtP0KonCUSJlPvEmSg) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Enhetsfront](https://open.spotify.com/album/6h24e7yWlYDOwzg9mQMtbt) | 1:24 | 2021-12-14 | 2022-07-08 |
 | [Ett meningsfullt liv](https://open.spotify.com/track/5IhtBlUlrruUbcfS3zREnN) | [Alonzo Fas 3](https://open.spotify.com/artist/6amxZFxzytUc3GVCsDHt0y) | [Alonzo Fas 3](https://open.spotify.com/album/1oeWv1woYpjp861pQXzbhR) | 2:57 | 2021-12-14 | 2022-07-29 |
-| [Europe Must Burn](https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww) | [Xiao](https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ) | [Burn](https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ) | 1:17 | 2023-12-14 |  |
+| [Europe Must Burn](https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww) | [Xiao](https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ) | [Burn](https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ) | 1:17 | 2023-12-14 | 2023-12-20 |
 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 | 2021-12-14 |  |
 | [Fattigdom suger!](https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:21 | 2021-12-14 | 2022-07-19 |
 | [Feta Gubbar](https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:03 | 2021-12-14 |  |
@@ -97,6 +97,7 @@
 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 |  |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 4:10 | 2021-12-14 | 2022-07-29 |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 | 2021-12-14 |  |
+| [Hjärtat](https://open.spotify.com/track/2TRQQ03nz28tjQcq4bHbBO) | [Sekunderna](https://open.spotify.com/artist/7ikQ6J9LX4RYu4IoZpUq8l) | [Hjärtat EP](https://open.spotify.com/album/5KvU4GUvlfD8DI6uRSGZux) | 3:06 | 2023-12-14 |  |
 | [Hjärtat](https://open.spotify.com/track/3XTik0pTi7YpPrX4MtsaUi) | [Sekunderna](https://open.spotify.com/artist/7ikQ6J9LX4RYu4IoZpUq8l) | [Hjärtat EP](https://open.spotify.com/album/3mlS9bxC2vrgFrLRnpSx3Z) | 3:06 | 2021-12-14 | 2022-07-21 |
 | [Hodetelefonan På](https://open.spotify.com/track/6pQEYXLrJSk38X6zbO9ru7) | [Astmatisk Gapskratt](https://open.spotify.com/artist/64twHiVznW0wYcoPXzdERx) | [Blackskatecruststreetpopcorepunk](https://open.spotify.com/album/3vXKokfq6aWgoK3BEBzbdn) | 1:54 | 2021-12-14 | 2022-06-06 |
 | [Hon Får...](https://open.spotify.com/track/3Ct9pVOfBcYnGr4NJ4QnSH) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/1xHfxbBMgFsSwZ5y7HNYdW) | 4:08 | 2021-12-14 | 2022-07-29 |

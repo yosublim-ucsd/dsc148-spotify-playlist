@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-294 songs - 17 hr 40 min
+295 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 | 2022-09-09 |  |
 | [Stranger](https://open.spotify.com/track/5FoT7QLoywPzLv4ZGyHpOC) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Stranger](https://open.spotify.com/album/5wrVHUkEIpUhAuls9A6KR1) | 3:15 | 2022-09-09 | 2023-05-26 |
 | [Stuck On Repeat](https://open.spotify.com/track/0Ib2lnmQqbAzuHNkGtYtNC) | [Beau](https://open.spotify.com/artist/3vwy5NQXFV797LDXh2NxEG) | [Stuck On Repeat](https://open.spotify.com/album/0zDkq6Hpkyd1j3a4pcXomo) | 3:06 | 2022-09-09 |  |
-| [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-09-09 |  |
+| [Stuck on You](https://open.spotify.com/track/4fQR7QVHGPnA3ljpo95EjH) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/3nbmi3ESDzeTOml8Ttp5MV) | 4:32 | 2023-12-14 |  |
+| [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-09-09 | 2023-12-20 |
 | [Summer Blues](https://open.spotify.com/track/65rtflKWXabjsB9ekBbsgZ) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Summer Blues](https://open.spotify.com/album/7r9cHOQr0qt4QunRedTXju) | 3:18 | 2022-09-09 | 2023-04-21 |
 | [Summer Blues](https://open.spotify.com/track/71mrqChmbDeuUARpuT3SdV) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Summer Blues](https://open.spotify.com/album/1G4CR3KeyYRrD16cWpXJF7) | 3:18 | 2022-10-30 | 2022-11-13 |
 | [Summer Nights](https://open.spotify.com/track/3w5Iw9ZZIc9D7pzvFz9La1) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Summer Nights](https://open.spotify.com/album/0tPnCgMixUXYJLa21ZzNux) | 2:51 | 2023-09-21 |  |

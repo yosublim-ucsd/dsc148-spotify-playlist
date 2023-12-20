@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,989 likes - 111 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,019 likes - 111 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 | 93 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 |
 | 94 | [Um Oh Ah Yeh](https://open.spotify.com/track/0icGgAiUx5b0amQLycmGUr) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:34 |
 | 95 | [Piano Man](https://open.spotify.com/track/2CC7fLFEcJBrO82NUwi9Op) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Piano Man](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) | 3:15 |
-| 96 | [Mr\-Ambiguous](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Hello](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) | 3:41 |
+| 96 | [Mr\-Ambiguous](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [HELLO](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) | 3:41 |
 | 97 | [자꾸 더 보고싶은 사람](https://open.spotify.com/track/5tYGD1oW1owwomJNzu0hde) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/2Xrq9jxjE7nObbhqf8Tagg) | 4:26 |
 | 98 | [I Miss You](https://open.spotify.com/track/6XmZNkGNEJngWnT7ITrLpV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Melting](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) | 4:16 |
 | 99 | [Better](https://open.spotify.com/track/1kpQ2Gtry1UABK2r2GpAQs) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:16 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 | 110 | [Hello Mama](https://open.spotify.com/track/5lUj2BXXpZnA3tXRVxCY7n) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:39 |
 | 111 | [Ten Nights](https://open.spotify.com/track/6zbHcliUyMYCI0NUUXcEEb) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:37 |
 
-Snapshot ID: `MCwyYTFhZGIwNDI1MTEwZDBjMmQ3ZTk3MGI0NjM5ZjYwM2Q3M2ViYTM5`
+Snapshot ID: `MCxlMDRjNmI2YzcxYzQ5NmIzYTg5OTJkNjZmMDE3ODU5MjQwNDhjYzM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: ARDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,225 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,235 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Big Dawg](https://open.spotify.com/track/7KSw1EdJfvaBIvq2byLUQu) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W) | [Big Dawg](https://open.spotify.com/album/5nz8dhYiEWwhBS9lE0leoO) | 2:29 |
 | 50 | [Faneto \(Gnar Mix\)](https://open.spotify.com/track/4PgckVL2U4SsdqAUsQLaeR) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Faneto \(Gnar Mix\)](https://open.spotify.com/album/54yGOuFjrVbU5XxAge4rCB) | 2:21 |
 
-Snapshot ID: `MCw1YTBiYjc3NDc2YjkwYjQwZjUwZjM1N2E5NGU2NjZmYzQ2NmZkMWFm`
+Snapshot ID: `MCxkODcwMzQ1NjIzODYxNDRmMjhmYTRlY2IyZmIwNGQ5NTZjYjgzZDhm`

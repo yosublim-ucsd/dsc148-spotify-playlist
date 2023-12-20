@@ -1,12 +1,12 @@
 {
   "description": "I'd come back if you'd just call",
-  "num_followers": 87760,
+  "num_followers": 87847,
   "original_name": "longing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTM3ZWExNDA4NTZhYjhlZmRiNThiMTc0YTY1ODlhMTY5ZDVlOWI0",
+  "snapshot_id": "MCw1MTM2NjEzODI0YmZlYzg4NjgwNGQyY2JkMzFmYTE3M2E3YTY3M2Rj",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1326,6 +1326,10 @@
         {
           "name": "Tasha",
           "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        },
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
         }
       ],
       "duration_ms": 243925,

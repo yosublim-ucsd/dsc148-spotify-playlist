@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SERA, YouNotUs
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,730 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,716 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 62 | [Het Is Altijd Zoals Het Hoort Te Zijn](https://open.spotify.com/track/6C0yRg8IDbRKTtwHNRXIN5) | [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [De Troubadours Vol\. 3](https://open.spotify.com/album/1ZNr717G6vANkGRgh2gAC8) | 3:37 |
 | 63 | [I Am Nothing \(Without You\)](https://open.spotify.com/track/2LiunkCrHRITKICHmCTiWy) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Distraction](https://open.spotify.com/album/4PS0Us41beukSX2KOqpHBc) | 3:08 |
 
-Snapshot ID: `MCxhNDc3MGE3ZWYwMWQzOTA3YzkxMTE3OWNhZGU5NTBiZjI1MzkxNmRl`
+Snapshot ID: `MCw5ZjJjNzliOTlkZTk0YzkxOTViNmU4ZTc4ZjhmOTFjZDZkZDE2YWYy`

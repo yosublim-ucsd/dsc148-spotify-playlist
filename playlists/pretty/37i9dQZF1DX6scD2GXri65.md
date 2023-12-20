@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,677 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,753 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 73 | [Mind Of A Psycho](https://open.spotify.com/track/6fef7XefOl9P2GFbqk4ql2) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Mind Of A Psycho](https://open.spotify.com/album/3D6wjgCQ16Vttcpoyjgq5l) | 2:17 |
 | 74 | [Stop the Time](https://open.spotify.com/track/2c5R73DJKgNZNACGnhlsQU) | [Steve Modana](https://open.spotify.com/artist/2RibwN2CQvXRHdfxap3KWh), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Stop the Time](https://open.spotify.com/album/7MEWDIupZlzznyiH3aMH7L) | 2:19 |
 | 75 | [Edge of The Unknown](https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Edge Of The Unknown](https://open.spotify.com/album/13mS26sOAVYfngzLevsf82) | 4:18 |
-| 76 | [If You Believe](https://open.spotify.com/track/5l5ITeKACEWFijn8n5tpIR) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [If You Believe](https://open.spotify.com/album/0PZhOOg6xYDL7t2rnRzQHx) | 2:54 |
-| 77 | [Deep In My Soul](https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Deep In My Soul](https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL) | 4:01 |
-| 78 | [Nothing About You](https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing About You](https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx) | 3:16 |
+| 76 | [Nothing About You](https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing About You](https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx) | 3:16 |
+| 77 | [If You Believe](https://open.spotify.com/track/5l5ITeKACEWFijn8n5tpIR) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [If You Believe](https://open.spotify.com/album/0PZhOOg6xYDL7t2rnRzQHx) | 2:54 |
+| 78 | [Deep In My Soul](https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Deep In My Soul](https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL) | 4:01 |
 | 79 | [The Hoover](https://open.spotify.com/track/0QssNmq5FzUv2GMBmeEcX1) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [The Hoover](https://open.spotify.com/album/5jsHwT2aE5EhLyz69txG1R) | 3:39 |
 | 80 | [The Get Back](https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [The Get Back](https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY) | 2:10 |
 
-Snapshot ID: `MCw3MTFjODBjZjYwNDhkYTY5MzViY2U2MDhjZjJjMDc2YmJkZDg2YTE1`
+Snapshot ID: `MCxlZWM1NDI1NjQ1ODgxNjRmMzMwZWE1MmE0MTEzNWU1N2VkMjYwZmNj`

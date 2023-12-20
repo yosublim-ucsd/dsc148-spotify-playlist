@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Tempestad",
+        "url": "https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu"
+      },
+      "artists": [
+        {
+          "name": "La Barranca",
+          "url": "https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303120,
+      "name": "D\u00eda Negro",
+      "url": "https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj"
+    },
+    {
+      "album": {
         "name": "MultiViral",
         "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
       },
@@ -5638,7 +5656,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 273946,
       "name": "Zopilotes",
       "url": "https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk"

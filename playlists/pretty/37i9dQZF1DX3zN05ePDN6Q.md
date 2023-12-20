@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,131 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,174 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 2 | [Já É Tarde](https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d) | [Supperbiro](https://open.spotify.com/artist/2LY4vuWOg5mNDMGjN2Byjt), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [ALLANA](https://open.spotify.com/artist/6HDbz8r8C8Rr5XQO1uHslV) | [Fitas Perdidas](https://open.spotify.com/album/0Q7DsXc72gYQHUgxGuU7JF) | 4:03 |
 | 3 | [Perolas Da Noite](https://open.spotify.com/track/1CZi74wGcR2XLsCCGjXgQw) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq) | [Enquanto O Astro Rei Não Volta](https://open.spotify.com/album/1lis9cU2EINmeMeV7lOmmR) | 3:16 |
 | 4 | [Eu Mermo](https://open.spotify.com/track/34E4gKoSSeSyUoSizdaDRP) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [R.Muñoz](https://open.spotify.com/artist/3G3NEjL0kEhipEEDKWzZcP) | [MIXTAPE EU MERMO](https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW) | 2:32 |
-| 5 | [Besteiras](https://open.spotify.com/track/50QaTi8c8XZxCX09lGd32Q) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 3:04 |
+| 5 | [Besteiras](https://open.spotify.com/track/5K4HRJIIr39tHJBpD0YeyC) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 3:04 |
 | 6 | [22](https://open.spotify.com/track/5dUBA8qXLPcw3TqDoINuMg) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:00 |
 | 7 | [Férias da Metrópole](https://open.spotify.com/track/1Yh1BIQoPyH63SUxTGWs6U) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ) | [Férias da Metrópole](https://open.spotify.com/album/2zrVQ7cEqAMquEsilCU0U7) | 3:01 |
 | 8 | [Bom dia Vietnã 2](https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Bom dia Vietnã 2](https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Sobre mim](https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Sobre mim](https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK) | 3:28 |
 | 75 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 
-Snapshot ID: `MCw2N2RiOGQwNzc3YjYyY2E2NGIzODQ2ZjFjMGRlMDQyMmRhZGM3OTQw`
+Snapshot ID: `MCxkMDJjODU3ZTljNDFjMzZlNmEzYTgyMGIxZmFlNjAwOWI1ODE5MGI3`

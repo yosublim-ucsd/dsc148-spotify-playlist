@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 80079,
+  "num_followers": 80126,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2M4NzQ4ZjY3MjE5YTgxMDRmMGFjYTEwYjBiNDZjMjIzMWQ0MTJm",
+  "snapshot_id": "MCw1OGE2YTExN2ViYjVjMzkyMzUwMzdjM2RkMWFlNzg1MmI5NTQzZjY0",
   "tracks": [
     {
       "added_at": "2023-12-15 05:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Music From Big Pink (Remastered)",
-        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "All The Right Reasons (15th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 255493,
       "name": "Rockstar - 2020 Remaster",
       "url": "https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 240613,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 231640,
       "name": "American Woman - 7\" Single Version",
       "url": "https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "Sweet Surrender",
-      "url": "https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Better Luck In The Next Life",
-        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 167979,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Church of Better Daze",
         "url": "https://open.spotify.com/album/3nvWKBg5uzny3jko5ezHJJ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 260407,
       "name": "KD and Lunch Meat",
       "url": "https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 167979,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
     }
   ],
   "unique_name": "Canadian Road Trip",

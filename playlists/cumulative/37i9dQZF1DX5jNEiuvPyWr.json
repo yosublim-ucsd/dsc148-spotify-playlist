@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Hiver 365",
+        "url": "https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB"
+      },
+      "artists": [
+        {
+          "name": "Nefaste",
+          "url": "https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/1gyWKoHQbbv9HBZa4UD2Gd"
+    },
+    {
+      "album": {
         "name": "Demain c'est loin",
         "url": "https://open.spotify.com/album/2s95ruN0TdxyE8nXyZepeq"
       },
@@ -4600,24 +4618,6 @@
       "duration_ms": 157837,
       "name": "QLT",
       "url": "https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT"
-    },
-    {
-      "album": {
-        "name": "Hiver 365",
-        "url": "https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB"
-      },
-      "artists": [
-        {
-          "name": "Nefaste",
-          "url": "https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY"
-        }
-      ],
-      "date_added": "2023-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206066,
-      "name": "Qu'est-ce tu veux qu'j'te dise?",
-      "url": "https://open.spotify.com/track/1gyWKoHQbbv9HBZa4UD2Gd"
     },
     {
       "album": {

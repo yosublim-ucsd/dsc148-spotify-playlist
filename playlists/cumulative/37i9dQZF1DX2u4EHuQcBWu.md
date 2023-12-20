@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-287 songs - 18 hr 52 min
+288 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Despertar](https://open.spotify.com/track/2NO9ZmQYJ8eJk09OwjPBrX) | [Periferia](https://open.spotify.com/artist/7FgUIZdpnhxcTgVU1e91y8) | [Despertar](https://open.spotify.com/album/38H1im4DV563k2RBZ3XCbv) | 3:35 | 2021-09-24 | 2022-07-14 |
 | [Dia Negro](https://open.spotify.com/track/0XtP1KtFtK4AoNTo5DsQSu) | [La Barranca](https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln) | [Tempestad](https://open.spotify.com/album/2WgDBKyWrAJYhP4KIduhdG) | 5:03 | 2021-09-24 | 2022-07-28 |
 | [donde nadie más Respira](https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [donde nadie más Respira](https://open.spotify.com/album/4GNjJLSkWed2DAg8fI6AsE) | 3:10 | 2021-09-24 | 2022-11-13 |
+| [Día Negro](https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj) | [La Barranca](https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln) | [Tempestad](https://open.spotify.com/album/4zWduHdqoOVSt2HvuM62Gu) | 5:03 | 2023-10-13 |  |
 | [El Aguante](https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:48 | 2021-09-24 |  |
 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-12-16 |  |
 | [El Baile De Los Que Sobran](https://open.spotify.com/track/4RBZ1KDYHFY61CiL0T8VEh) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni Por La Razón, Ni Por La Fuerza \(Edición Especial\)](https://open.spotify.com/album/69Zs9jtNOpru1938K1odQi) | 5:42 | 2021-09-24 | 2023-09-16 |
@@ -293,7 +294,7 @@
 | [Transgresores de la Ley](https://open.spotify.com/track/1tWVXH2sHASBg1W9CRObRH) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock Milenium](https://open.spotify.com/album/7sTufh6pGV76HicANbWbSA) | 5:02 | 2021-09-24 | 2022-07-25 |
 | [Verte Regresar](https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06), [Paulina Lasa](https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [De Vuelta a Casa: Ayotzinapa Somos Todxs](https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx) | 3:02 | 2021-09-24 | 2022-07-29 |
 | [Ya Basta](https://open.spotify.com/track/2tKxA7ja73i8c8UfswM8UQ) | [LPT](https://open.spotify.com/artist/0bKjTLtRdALaaLBGHqijaY) | [Se Quema El Mundo](https://open.spotify.com/album/0wSfLRbppoUK916qs9ppF8) | 5:35 | 2022-02-15 | 2022-07-27 |
-| [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 | 2021-09-24 |  |
+| [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 | 2021-09-24 | 2023-12-20 |
 | [¡Presos Políticos, Libertad!](https://open.spotify.com/track/2d3mtjtft0U04qC3Lnlluo) | [La HH Botellita de Jerez](https://open.spotify.com/artist/5sswaiRDNaG0kixsUx41FM), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [De Vuelta a Casa: Ayotzinapa Somos Todxs](https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx) | 2:08 | 2021-09-24 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

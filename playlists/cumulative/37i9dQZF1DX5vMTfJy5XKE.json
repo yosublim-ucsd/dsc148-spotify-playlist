@@ -1837,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Christmas in Chicago",
+        "url": "https://open.spotify.com/album/1P3DvAXRVz1PJqKG2DAAAM"
+      },
+      "artists": [
+        {
+          "name": "Katie Kadan",
+          "url": "https://open.spotify.com/artist/2u8hNZAPjzXJOvRwdirHXL"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204770,
+      "name": "Christmas in Chicago",
+      "url": "https://open.spotify.com/track/7dWcgzBva19q4R94NcTcwy"
+    },
+    {
+      "album": {
         "name": "Christmas in Hollis",
         "url": "https://open.spotify.com/album/2T0CET3F8jkrCesxqB9rTr"
       },

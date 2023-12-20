@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: TOKIODK, Raffé, tchelo rodrigues, Lipinho
 
-969 songs - 1 day 20 hr 27 min
+970 songs - 1 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Estrela Bet Freestyle](https://open.spotify.com/track/3uqYaL4hWnUDw3EgKsAQA4) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4) | [Estrela Bet Freestyle](https://open.spotify.com/album/1N1fWrc46HceB0bNwmTitR) | 2:20 | 2023-07-07 | 2023-07-29 |
 | [Eterna](https://open.spotify.com/track/3BWGduK07tbdGIPkosExWi) | [Robinho Duó](https://open.spotify.com/artist/1vaHLFercdMoZQrDZupT0B) | [Eterna](https://open.spotify.com/album/00t6AUsNZI9vyX69ytL6Ir) | 2:04 | 2023-07-07 | 2023-07-15 |
 | [Eu Falo Não](https://open.spotify.com/track/3z19LCfZ3LlasNpqjDWx3P) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Eu Falo Não](https://open.spotify.com/album/4WBSeIGjIE7lJ5aFywpCwj) | 2:26 | 2022-10-24 | 2022-10-29 |
+| [eu n vou atender.](https://open.spotify.com/track/6hd2ldv73UMkSeJrucp7Lq) | [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Fotos de Ontem](https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s) | 2:26 | 2023-12-15 |  |
 | [Eu Nunca Disse Que Era Santo](https://open.spotify.com/track/6bs24nkxIzb4SrsriiwD0O) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Eu Nunca Disse Que Era Santo](https://open.spotify.com/album/41UNNtwwiBMkG1E8gyXbgH) | 3:00 | 2023-10-20 | 2023-10-28 |
 | [Eu Só Penso em Nós](https://open.spotify.com/track/3sQuO4jLsCnCSva4eXiPap) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Eu Só Penso em Nós](https://open.spotify.com/album/3ZblEbMh2FbTGClnIgx92h) | 3:00 | 2023-10-27 |  |
 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [Mvk](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 | 2022-07-15 | 2023-01-21 |

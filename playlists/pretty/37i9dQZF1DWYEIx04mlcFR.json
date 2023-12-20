@@ -1,12 +1,12 @@
 {
   "description": "La nueva generaci\u00f3n del pop que defini\u00f3 el 2023 con RENEE en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 67052,
+  "num_followers": 67056,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODgyMDIxZWU3NzU1NmVmM2IzYzNjOTA0MGRmY2FiMmYxNmQ4MmNk",
+  "snapshot_id": "MCw4NzU5ZDI5MmM1MDI4Yjc0Yjk0YWFiYzhlNzQxNzYzNTk4ZmE3MDZj",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "PA' TI :):",
+        "url": "https://open.spotify.com/album/5MxOhrhmC4wRQooF0t8leC"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "mE vALe maDRE :)",
+      "url": "https://open.spotify.com/track/00B4maDihgdGaMGN3WYtlQ"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Pr\u00f3ximo Diciembre",
         "url": "https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 224000,
       "name": "Pr\u00f3ximo Diciembre",
       "url": "https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "PA' TI :):",
-        "url": "https://open.spotify.com/album/5MxOhrhmC4wRQooF0t8leC"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "mE vALe maDRE :)",
-      "url": "https://open.spotify.com/track/00B4maDihgdGaMGN3WYtlQ"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Desamor Feliz Pt. 2",
-        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 156168,
-      "name": "Desamor Feliz Pt. 2",
-      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "El Principal",
         "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 210187,
       "name": "El Principal",
       "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Desamor Feliz Pt. 2",
+        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 156168,
+      "name": "Desamor Feliz Pt. 2",
+      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "lo har\u00eda todo de nuevo",
-        "url": "https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        }
-      ],
-      "duration_ms": 213614,
-      "name": "Ya nada es igual",
-      "url": "https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Ultraviolento",
         "url": "https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 160000,
       "name": "Ultraviolento",
       "url": "https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "lo har\u00eda todo de nuevo",
+        "url": "https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3"
+      },
+      "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        }
+      ],
+      "duration_ms": 213614,
+      "name": "Ya nada es igual",
+      "url": "https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF"
     },
     {
       "added_at": "2023-11-29 12:16:00",

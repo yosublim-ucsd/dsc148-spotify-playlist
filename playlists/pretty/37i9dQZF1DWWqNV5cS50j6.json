@@ -1,12 +1,12 @@
 {
   "description": "Not NOT pop. Cover: beabadoobee, Mac Wetha, Amin\u00e9",
-  "num_followers": 697420,
+  "num_followers": 697456,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjJhMWU5OGEzODg3MzRlMDc0MDBmM2NkOThiMDc5YTYzMTk0MWQ3",
+  "snapshot_id": "MCw2ZDQxOGI0MzVmYzEwYmZkNmViN2RlOWMyMDY2NTYzYzdkMjMwZThk",
   "tracks": [
     {
       "added_at": "2023-12-15 14:54:50",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
     },
     {
-      "added_at": "2023-11-03 22:14:03",
-      "album": {
-        "name": "dancinwithsomebawdy",
-        "url": "https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 143319,
-      "name": "dancinwithsomebawdy",
-      "url": "https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m"
-    },
-    {
       "added_at": "2023-10-13 16:09:24",
       "album": {
         "name": "12:34 AM",
@@ -335,6 +319,22 @@
       "duration_ms": 127000,
       "name": "12:34 AM",
       "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
+    },
+    {
+      "added_at": "2023-11-03 22:14:03",
+      "album": {
+        "name": "dancinwithsomebawdy",
+        "url": "https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 143319,
+      "name": "dancinwithsomebawdy",
+      "url": "https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m"
     },
     {
       "added_at": "2023-10-13 16:01:40",
@@ -437,6 +437,38 @@
       "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
     },
     {
+      "added_at": "2023-10-05 23:05:46",
+      "album": {
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
+    },
+    {
       "added_at": "2023-10-17 19:44:13",
       "album": {
         "name": "SCRAPYARD I",
@@ -457,36 +489,20 @@
       "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
     },
     {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
-    },
-    {
       "added_at": "2023-10-05 23:05:46",
       "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+        "name": "Sad Night Dynamite",
+        "url": "https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x"
       },
       "artists": [
         {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
         }
       ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+      "duration_ms": 187466,
+      "name": "Krunk",
+      "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -503,22 +519,6 @@
       "duration_ms": 176347,
       "name": "pretty photos",
       "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
-    },
-    {
-      "added_at": "2023-10-05 23:05:46",
-      "album": {
-        "name": "Sad Night Dynamite",
-        "url": "https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "Krunk",
-      "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-11-07 18:58:00",
       "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 209289,
-      "name": "U DON'T KNOW ME LIKE THAT",
-      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
-    },
-    {
-      "added_at": "2023-11-07 18:58:00",
-      "album": {
         "name": "JASMINE",
         "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 127058,
       "name": "JASMINE",
       "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
+    },
+    {
+      "added_at": "2023-11-07 18:58:00",
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "stuck.",
-        "url": "https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR"
-      },
-      "artists": [
-        {
-          "name": "HARRY WAS HERE",
-          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
-        }
-      ],
-      "duration_ms": 134272,
-      "name": "stuck.",
-      "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
         "name": "Erotic Probiotic 2",
         "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 246626,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "stuck.",
+        "url": "https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR"
+      },
+      "artists": [
+        {
+          "name": "HARRY WAS HERE",
+          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
+        }
+      ],
+      "duration_ms": 134272,
+      "name": "stuck.",
+      "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
     },
     {
       "added_at": "2023-10-13 16:01:40",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR"
     },
     {
-      "added_at": "2023-12-08 15:51:26",
-      "album": {
-        "name": "GET NAUGHTY !",
-        "url": "https://open.spotify.com/album/3oeK4C4V2CjcpBHvIXTUQz"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 149815,
-      "name": "GET NAUGHTY !",
-      "url": "https://open.spotify.com/track/1z5GBU5eT0LxyBFAcaigHG"
-    },
-    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "Fever",
@@ -987,6 +971,22 @@
       "duration_ms": 178477,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+    },
+    {
+      "added_at": "2023-12-08 15:51:26",
+      "album": {
+        "name": "GET NAUGHTY !",
+        "url": "https://open.spotify.com/album/3oeK4C4V2CjcpBHvIXTUQz"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 149815,
+      "name": "GET NAUGHTY !",
+      "url": "https://open.spotify.com/track/1z5GBU5eT0LxyBFAcaigHG"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/4ICjGWAFoZWXvRQta9UHuj"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Alberca / ILY <3",
+        "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 124437,
+      "name": "Alberca",
+      "url": "https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR"
+    },
+    {
       "added_at": "2023-11-10 16:31:21",
       "album": {
         "name": "HALLOWEEN",
@@ -1141,20 +1157,20 @@
       "url": "https://open.spotify.com/track/13F4rQgJlfS5RLxEBxO2me"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "Alberca / ILY <3",
-        "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
         }
       ],
-      "duration_ms": 124437,
-      "name": "Alberca",
-      "url": "https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR"
+      "duration_ms": 196075,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
     },
     {
       "added_at": "2023-10-20 14:28:02",
@@ -1175,22 +1191,6 @@
       "duration_ms": 219973,
       "name": "Dying",
       "url": "https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 196075,
-      "name": "Leave With Me",
-      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
+        "name": "&ONE",
+        "url": "https://open.spotify.com/album/4AtoqPGFghALemE4MBeCxP"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 118954,
+      "name": "DX",
+      "url": "https://open.spotify.com/track/1iO9BS2GiqrVjSeYcNTzs2"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
         "name": "Future Reference",
         "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
@@ -1309,22 +1325,6 @@
       "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
     },
     {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "&ONE",
-        "url": "https://open.spotify.com/album/4AtoqPGFghALemE4MBeCxP"
-      },
-      "artists": [
-        {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
-        }
-      ],
-      "duration_ms": 118954,
-      "name": "DX",
-      "url": "https://open.spotify.com/track/1iO9BS2GiqrVjSeYcNTzs2"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "oggy",
@@ -1339,6 +1339,22 @@
       "duration_ms": 128618,
       "name": "oggy",
       "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Antennae",
+        "url": "https://open.spotify.com/album/5wpk8gismVSMMqfpoPwtLA"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Freakin",
+      "url": "https://open.spotify.com/track/40tmc5Wjz7tmvtqmspCSp3"
     },
     {
       "added_at": "2023-11-07 18:58:00",
@@ -1359,22 +1375,6 @@
       "duration_ms": 164467,
       "name": "WHY WAIT? (feat. Cisco Swank)",
       "url": "https://open.spotify.com/track/5IqtrnJJsCKEg1fansrY65"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "Antennae",
-        "url": "https://open.spotify.com/album/5wpk8gismVSMMqfpoPwtLA"
-      },
-      "artists": [
-        {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Freakin",
-      "url": "https://open.spotify.com/track/40tmc5Wjz7tmvtqmspCSp3"
     },
     {
       "added_at": "2023-10-13 16:01:40",
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u"
     },
     {
+      "added_at": "2023-10-13 16:01:40",
+      "album": {
+        "name": "meant2be",
+        "url": "https://open.spotify.com/album/6cy7cQSqjGX4tdgOiYtbrY"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        }
+      ],
+      "duration_ms": 193203,
+      "name": "meant2be",
+      "url": "https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3"
+    },
+    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "SXC",
@@ -1447,22 +1463,6 @@
       "duration_ms": 161500,
       "name": "SXC",
       "url": "https://open.spotify.com/track/1Rnf34dNuOVfc5TCr6yE9d"
-    },
-    {
-      "added_at": "2023-10-13 16:01:40",
-      "album": {
-        "name": "meant2be",
-        "url": "https://open.spotify.com/album/6cy7cQSqjGX4tdgOiYtbrY"
-      },
-      "artists": [
-        {
-          "name": "The Hellp",
-          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
-        }
-      ],
-      "duration_ms": 193203,
-      "name": "meant2be",
-      "url": "https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3"
     },
     {
       "added_at": "2023-11-07 18:58:00",
@@ -1689,6 +1689,22 @@
       "url": "https://open.spotify.com/track/2v5zmdCfuhl8kHe55yrtSC"
     },
     {
+      "added_at": "2023-12-08 15:51:26",
+      "album": {
+        "name": "Going Crazy",
+        "url": "https://open.spotify.com/album/6DCVlCkgPkgPkhY9ZJfaY0"
+      },
+      "artists": [
+        {
+          "name": "NNAMD\u00cf",
+          "url": "https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90"
+        }
+      ],
+      "duration_ms": 191871,
+      "name": "Going Crazy",
+      "url": "https://open.spotify.com/track/79j5lxEjuh5ixfJU2Lt2SS"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "The Gods Must Be Crazy",
@@ -1715,22 +1731,6 @@
       "duration_ms": 180772,
       "name": "The Gods Must Be Crazy",
       "url": "https://open.spotify.com/track/62ir3CludVLlbrXk6AOlGg"
-    },
-    {
-      "added_at": "2023-10-13 16:01:40",
-      "album": {
-        "name": "Ethos",
-        "url": "https://open.spotify.com/album/5oMbK3bD68FOMhQm9Rts6z"
-      },
-      "artists": [
-        {
-          "name": "Araya",
-          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "Archon",
-      "url": "https://open.spotify.com/track/3AmPOosncyUct6bfI4vQdL"
     }
   ],
   "unique_name": "anti pop",

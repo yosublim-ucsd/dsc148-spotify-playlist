@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,836 likes - 82 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,894 likes - 82 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 43 | [Hungover \(with Camden Cox\)](https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Hungover \(with Camden Cox\)](https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm) | 3:40 |
 | 44 | [Saling Jaga](https://open.spotify.com/track/19ThOiG2GhjQzyPwKqn0N0) | [Tabib Qiu](https://open.spotify.com/artist/13F5SDsfGBg8JlAvIzAbpB) | [Saling Jaga](https://open.spotify.com/album/6QzBZ2M1bA9oDpgkBsTQht) | 3:17 |
 | 45 | [Senja Kali Ini](https://open.spotify.com/track/3SWQ7ibUY4aU2yBKSmx3Re) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj), [STEFH](https://open.spotify.com/artist/7kX0PDtCj7gmQQzhP9qrz9) | [Senja Kali Ini](https://open.spotify.com/album/2lCtfRONkygolKXgYZstGR) | 4:07 |
-| 46 | [Lupakan Aku Sayang](https://open.spotify.com/track/1SJwTTo1CKO4JrvX6wVsIv) | [Tri Suaka](https://open.spotify.com/artist/3Hg45mqIyWDuJWg6sfK7bl) | [Lupakan Aku Sayang](https://open.spotify.com/album/6GTpOZJ01nHzYlGtyi5utH) | 4:40 |
+| 46 | [Lupakan Aku Sayang](https://open.spotify.com/track/1SJwTTo1CKO4JrvX6wVsIv) | [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [Lupakan Aku Sayang](https://open.spotify.com/album/6GTpOZJ01nHzYlGtyi5utH) | 4:40 |
 | 47 | [You & Me Makes Us](https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [You & Me Makes Us](https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg) | 2:56 |
 | 48 | [SAMAR](https://open.spotify.com/track/7kInuBn9J1a0tXn4hbGJRZ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [SAMAR](https://open.spotify.com/album/3VWHaPhQyKU90o1YGS65Nk) | 4:24 |
 | 49 | [Menggapai Cinta](https://open.spotify.com/track/4rerJfXC9ursw1GszRrxuO) | [Putri Isnari](https://open.spotify.com/artist/0OnSSg1BbWcHmKtDfBpjE1) | [Menggapai Cinta](https://open.spotify.com/album/18rTICWmL8FhSeB8XMKHXa) | 5:30 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 81 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 |
 | 82 | [can't live without you](https://open.spotify.com/track/2MAz49rgBhaEEDr9gaGMLN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [can't live without you](https://open.spotify.com/album/32gnVGc44UuwB6VzKdCdp4) | 3:47 |
 
-Snapshot ID: `MCw2M2ViNTI3ZDhmZDVjNWJkNTNhZTgxZmVhNTgyZTQ3M2JlY2Q4M2Zj`
+Snapshot ID: `MCw4MTA4NzEzNjJlYjQzNWYxYmU3MzBhMjIyOWFiMzViYTgxM2MzZjFm`

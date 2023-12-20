@@ -4,7 +4,7 @@
 
 > 受験本番へ。努力のすべては、出し切れる。
 
-50 songs - 3 hr 10 min
+51 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 | 2023-12-10 |  |
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2023-12-10 |  |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2023-12-10 |  |
-| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2023-12-10 |  |
+| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2023-12-10 | 2023-12-20 |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2023-12-10 |  |
 | [DIFFICULT](https://open.spotify.com/track/6RbrF27Pe3oHVt0tC7cIwD) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [ROBIN HOOD STREET](https://open.spotify.com/album/160Dp7uGHyAp4BBuxtbv3c) | 3:40 | 2023-12-10 |  |
 | [DON'T WANNA SLEEP](https://open.spotify.com/track/1SBNKGLIg5uZgSTjZhSTMr) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:36 | 2023-12-10 |  |
@@ -52,6 +52,7 @@
 | [ファンファーレ](https://open.spotify.com/track/185espHo2bItrvYrUUkDhe) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Fanfare / Shunkashuto](https://open.spotify.com/album/1mORRulI70KWDReQW4ud4x) | 3:02 | 2023-12-10 |  |
 | [ワタリドリ](https://open.spotify.com/track/5PFxNrRme9z6jiprt8AfqX) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Where's My History?](https://open.spotify.com/album/3HcoGE0lkcDVOR6BhyfFDE) | 4:13 | 2023-12-10 |  |
 | [大丈夫](https://open.spotify.com/track/5MYjno6goNbqgGHKEYhJ1Y) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [日常ドラマチック](https://open.spotify.com/album/12xSbnpgkagxvKJ0zvN0zP) | 4:46 | 2023-12-10 |  |
+| [愛は勝つ](https://open.spotify.com/track/7MqaQIHyo7Ud1QzDSmWpQ0) | [KAN](https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY) | [野球選手が夢だった](https://open.spotify.com/album/7akUfttPs5jXt8F1bI1MmT) | 4:07 | 2023-12-19 |  |
 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 | 2023-12-10 |  |
 | [燃えよ](https://open.spotify.com/track/7nWkch2lxmVbHOgKabM8qd) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [燃えよ](https://open.spotify.com/album/1xiwypEIxYiYJZKO9ijx5P) | 4:39 | 2023-12-10 |  |
 | [破花](https://open.spotify.com/track/4taBAXO40dHA4tha6H9jOS) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [世界観](https://open.spotify.com/album/7kQp59aWcAeE6GbE1pHiEE) | 3:29 | 2023-12-10 |  |

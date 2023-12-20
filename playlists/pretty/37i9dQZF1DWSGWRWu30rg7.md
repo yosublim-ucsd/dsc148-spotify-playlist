@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rara Sudirman
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,770 likes - 61 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,771 likes - 61 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 10 | [Terserah](https://open.spotify.com/track/7kvNngJtG3bvUXEAZgob1F) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Urbanisme](https://open.spotify.com/album/7dilk1N60lItMZSfqUQDME) | 3:12 |
 | 11 | [Butterflies](https://open.spotify.com/track/0Cd1m9urXAgl2dADwSEvio) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Butterflies](https://open.spotify.com/album/0riwHA4hqJEaYi8GEXwzxp) | 3:25 |
 | 12 | [Manis Tuk Dikenang](https://open.spotify.com/track/60V54BztyVdgJKE3rMyIqS) | [Aman](https://open.spotify.com/artist/0lSCTcMXqOhQu7mNCTcMSA) | [Manis Tuk Dikenang](https://open.spotify.com/album/6yIQSYKaprhU6npeJsfrPO) | 4:00 |
-| 13 | [Sempurna](https://open.spotify.com/track/40w94zYMf0cWmisCWZJyKd) | [PESTA CINTA](https://open.spotify.com/artist/2OuJenE6OneRqz3Aa52pBt) | [Sempurna](https://open.spotify.com/album/4RKR9Gepyvi6Kjc4bynnTX) | 2:41 |
+| 13 | [Sempurna](https://open.spotify.com/track/40w94zYMf0cWmisCWZJyKd) | [PESTA CINTA](https://open.spotify.com/artist/2OuJenE6OneRqz3Aa52pBt), [Fikry Felixshah](https://open.spotify.com/artist/3HcKQvDEy8fqblLBhLxl7D), [Nissy Meinard](https://open.spotify.com/artist/0IRlXoiev2ydFBqIwn5fnO) | [Sempurna](https://open.spotify.com/album/4RKR9Gepyvi6Kjc4bynnTX) | 2:41 |
 | 14 | [Kejar Cita](https://open.spotify.com/track/3Wbt1YR5MtFCP9mxgF6OmH) | [Qaishara](https://open.spotify.com/artist/7CP0LOy3WiAS4xHFCHWNO6) | [Kejar Cita](https://open.spotify.com/album/7losMA2uL0BVhwAKh9zTv6) | 2:43 |
 | 15 | [icbhs.](https://open.spotify.com/track/0dPzTeZYrvtEGi6x7QH88Z) | [Pleasure Seekers](https://open.spotify.com/artist/1eE3PS8ohFsNQzShO8laok) | [icbhs.](https://open.spotify.com/album/5YJ41Cn2tMreZu4plzvge4) | 3:48 |
 | 16 | [Rain & Rainbow](https://open.spotify.com/track/3MSy7gGjrkmgd1rt9Ff4wY) | [Tory Andromeda](https://open.spotify.com/artist/2hvyI1r402GBVSQNrbR6cH), [Ariana Kanna](https://open.spotify.com/artist/6UeuZOli37PSzUojjTUrPI) | [Rain & Rainbow](https://open.spotify.com/album/3HfU4vT58qMrJ8HYHMRJkY) | 3:48 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 60 | [Bukan Pertama Kali](https://open.spotify.com/track/0VH9MomavDJHHcvvjAMyO9) | [One Am](https://open.spotify.com/artist/2qhb37wgFDfSLrlLOMmRT1) | [Bukan Pertama Kali](https://open.spotify.com/album/5opFmN67RcuQzQkWXu1JTr) | 3:17 |
 | 61 | [Menyaksikan Dunia Terbakar](https://open.spotify.com/track/0ionvj5oXsGm2jPekIvt5h) | [Klub Omong Kosong](https://open.spotify.com/artist/1yMkyIstClkSh8rSLffcMP) | [Menyaksikan Dunia Terbakar](https://open.spotify.com/album/5p9ms1NK8Z9fV9AdtKWjq7) | 3:22 |
 
-Snapshot ID: `MCwzZjU1ZGM2MzkzYTg2NDNhYTkyZjE1OTg0NDcxZTRiMzEwOTE0NDk0`
+Snapshot ID: `MCwyYmIyYjhiNjIxNGQ4MmRmYmVmNGZmN2YxY2NkMmU3MmJhZWY0MmI3`

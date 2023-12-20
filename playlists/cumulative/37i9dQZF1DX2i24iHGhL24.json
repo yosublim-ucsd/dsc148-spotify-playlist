@@ -6420,10 +6420,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 158446,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/410dcrVCOdgxRDVWmgselj"
+    },
+    {
+      "album": {
+        "name": "in between everything",
+        "url": "https://open.spotify.com/album/15189l9xlcwnUiIpdcdt9Q"
+      },
+      "artists": [
+        {
+          "name": "EZI",
+          "url": "https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/6wK4hGSu7eoabTibpljwHh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ASH ISLAND\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,038 likes - 302 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,190 likes - 302 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 40 | [Night](https://open.spotify.com/track/6yx7IadGKwJyJHaFh6xek4) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Love Obsession](https://open.spotify.com/album/6Y7O4584Oj4QPBv022zA21) | 2:58 |
 | 41 | [Ticket To You](https://open.spotify.com/track/7CWMMBxV5Cru2JMsKOGOsw) | [UNIVERSE TICKET](https://open.spotify.com/artist/6w3YHlIFm3SL3IKtlsMoQO) | [UNIVERSE TICKET \- Ticket To You](https://open.spotify.com/album/2W2dRYcZjFwKv7uSoHcHh6) | 3:29 |
 | 42 | [Like A Dream](https://open.spotify.com/track/77L2vIs5W3RZXngqNMlKWS) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Like A Dream \(From "The story of Park’s marriage contract" Original Television Sountrack, Pt\. 4\)](https://open.spotify.com/album/4P5YhrMIngGGFqXzpOcmlj) | 4:09 |
-| 43 | [Found you](https://open.spotify.com/track/1iFFPbgNUBdIoTMaw5VWwY) | [Yel](https://open.spotify.com/artist/5ZHnSgLavnLkxSLJyD3qXe) | [Found you](https://open.spotify.com/album/56YzyNc2YZk4CX9wNcC30t) | 4:11 |
+| 43 | [Found you](https://open.spotify.com/track/1iFFPbgNUBdIoTMaw5VWwY) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15) | [Found you](https://open.spotify.com/album/56YzyNc2YZk4CX9wNcC30t) | 4:11 |
 | 44 | [Into My Playlist Pt\. 5 \- Dear My Spring](https://open.spotify.com/track/3PyqKSjYGazkfrbMnwVgeu) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Into My Playlist Pt\. 5 \- Dear My Spring](https://open.spotify.com/album/2HeRdGmeBbAf8VEysJeaLu) | 4:37 |
 | 45 | [AF!!](https://open.spotify.com/track/5nIRburQxBeif2bb0IemOW) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu) | [AF!!](https://open.spotify.com/album/06SgEJLnXrd3tQQWH54vs6) | 2:20 |
 | 46 | [헤브어굿데이!](https://open.spotify.com/track/3e0z86O1YO0c3e5IaVgg7q) | [JUTO](https://open.spotify.com/artist/7HJsFAB2CpPpMxBNntMT5c) | [헤브어굿데이!](https://open.spotify.com/album/7hQaoNNdo8foX0NavGrlnv) | 2:59 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 92 | [Eat Sleep Live Repeat](https://open.spotify.com/track/5ZnlLC9fhvw7MAlfa82XLH) | [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Eat Sleep Live Repeat](https://open.spotify.com/album/3gIC8C4Ont83DTnC9sxaYd) | 3:23 |
 | 93 | [Ending](https://open.spotify.com/track/2ohE0D3zJSrTySV3knhJlb) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Ending](https://open.spotify.com/album/2Xj2IH35a5dYvMNqpm1lHW) | 4:54 |
 | 94 | [Digression](https://open.spotify.com/track/5PKznHaEFGukkC35LUmQRr) | [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [NONOL VOL 27\. Junguk ' Digression '](https://open.spotify.com/album/0wLx4mRkLfqSjCgy6xov7c) | 3:37 |
-| 95 | [파도 Waves](https://open.spotify.com/track/35j5cpiGxpLt5c2pUmRfoM) | [Bokdajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [너만 알고 있지 Only You Know](https://open.spotify.com/album/2x4EuhzfdKLrWxMWJgwmGf) | 3:53 |
+| 95 | [파도 Waves](https://open.spotify.com/track/35j5cpiGxpLt5c2pUmRfoM) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [너만 알고 있지 Only You Know](https://open.spotify.com/album/2x4EuhzfdKLrWxMWJgwmGf) | 3:53 |
 | 96 | [Dive in](https://open.spotify.com/track/1YEhor0luUGcIzuVPlh9d0) | [CHANZE](https://open.spotify.com/artist/4xBwbRdutxc11rLh7Ym4UG) | [UTOPIA](https://open.spotify.com/album/2Iiswihww8bZpXKz9V4mHT) | 4:15 |
 | 97 | [Good Morning, Good Night](https://open.spotify.com/track/6gt9kFAauDgdwsgVUsegwd) | [YOON SEO BIN](https://open.spotify.com/artist/4w5qfefpoHKBZ4rkCt42cW) | [Good Morning, Good Night](https://open.spotify.com/album/4Hi2k8Za7YkxWFJUt4JNLh) | 3:37 |
 | 98 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 103 | [A Doll’s Wish](https://open.spotify.com/track/4zmL8soMla3Gn2hFqOHTwR) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [A Doll’s Wish](https://open.spotify.com/album/3Cnx4cdBt6kwVWQciSgnew) | 4:31 |
 | 104 | [Discord \(TAK Remix\)](https://open.spotify.com/track/0RYILwx3uLBODxIKlT7EUp) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Discord \(TAK Remix\)](https://open.spotify.com/album/52wHoxgw9rL3uRO4nJvaXL) | 3:12 |
 | 105 | [Ex\-Mas](https://open.spotify.com/track/4OPHXmAsFf5BcMhUSITwm1) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Ex\-Mas](https://open.spotify.com/album/1SdCbiVhmFkKbkNXpaVWe5) | 3:36 |
-| 106 | [try not to cry](https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
+| 106 | [try not to cry](https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tell Me That You Love Me, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL) | 4:27 |
 | 107 | [그곳으로](https://open.spotify.com/track/5SzpnJQuDjy3dxFt4zM4Xq) | [Lee Hyuk](https://open.spotify.com/artist/1DYXSbR16g5HFkR8R45CMb) | [그곳으로](https://open.spotify.com/album/4vLuybs7X4Ek2Vg1hyl9lI) | 4:02 |
 | 108 | [Alien](https://open.spotify.com/track/3qhMml4suJczZlLGXjMl9b) | [Greg](https://open.spotify.com/artist/6NHBfhJJNnjzwGG3g2vcNV) | [Alien](https://open.spotify.com/album/196XKP4mEFi5hC9vyBHVGf) | 3:07 |
 | 109 | [ALARM](https://open.spotify.com/track/3QewaWem7ughKSawOqIMs9) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [SPACE STATION](https://open.spotify.com/album/5HtxTb1Y4w2DlZ0NUisnJJ) | 3:03 |
@@ -141,11 +141,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 131 | [후회해 \(feat\. Wonstein, Snacky Chan\)](https://open.spotify.com/track/6Sz9K3sDryF2hlD2r05f9m) | [Wavycake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Snacky Chan](https://open.spotify.com/artist/4UTKdKB32XqCsQGLjZEfmw) | [A boy in love](https://open.spotify.com/album/2szKvWvpFM4BmFiMWAz6kg) | 3:56 |
 | 132 | [With You](https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 |
 | 133 | [A Beautiful Farewell](https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [A Beautiful Farewell \- I am Re:Born \#1](https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z) | 4:10 |
-| 134 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 |
+| 134 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 |
 | 135 | [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 |
 | 136 | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g) | 4:15 |
 | 137 | [Beautiful Day](https://open.spotify.com/track/3ibqggc2Vnb0PHRggh2Wbf) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/1ukP3q6p2lZMfi2Tv4eLXq) | 4:09 |
-| 138 | [my december](https://open.spotify.com/track/1G1hldQ2uStvYWUm8fTgcp) | [yangpa](https://open.spotify.com/artist/5Qr33OZrOzmTJwxpUVZI7m) | [my december](https://open.spotify.com/album/7qChdRMur4NEVA6KFGI3WZ) | 3:57 |
+| 138 | [my december](https://open.spotify.com/track/1G1hldQ2uStvYWUm8fTgcp) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [my december](https://open.spotify.com/album/7qChdRMur4NEVA6KFGI3WZ) | 3:57 |
 | 139 | [Maestra](https://open.spotify.com/track/42BXOexgmI7FOurhzOsqD0) | [조성우](https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD) | [Maestra \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv) | 2:58 |
 | 140 | [NUM](https://open.spotify.com/track/2URlFdD28uxNqdZdMQUCaC) | [WOO](https://open.spotify.com/artist/1GkDYHRagORzc5beSZjflP) | [NUM](https://open.spotify.com/album/75fnxdo39WCswyHEj70I2q) | 3:00 |
 | 141 | [Get Some Rest](https://open.spotify.com/track/7sFwQlJzLGtFTqRLiUhIRf) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Trip: playlist \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/1t8sSIbYtla3EA86W4Dkzs) | 2:42 |
@@ -311,4 +311,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 301 | [Open Your Eyes](https://open.spotify.com/track/0z3nhpdXbtvvBxy1RCKjca) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.4](https://open.spotify.com/album/4yLlp2CKXFmk4HuFrXtfaA) | 4:08 |
 | 302 | [erase](https://open.spotify.com/track/1FDCMbIgAr4XP2zJnJt8PP) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [erase](https://open.spotify.com/album/6npLIMSJiDRysK5yqXM31W) | 2:43 |
 
-Snapshot ID: `MCw4ZTA2YWVlZDg4N2VlNGVkNDRkNDY0NzZlMjlhMTIyY2I1MDUxZDI0`
+Snapshot ID: `MCxhZjc3ZjdhZTVhNDc5NmNhMTJkZGIwMTk4OWUzNTJhNTI1NGI4N2Yw`

@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈️  cover: Outkast
+> you just had to be there\. cover: Outkast
 
 276 songs - 18 hr 39 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 30399,
+  "num_followers": 30410,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTQzNmZiNzZlZGU2MzZjYzMzYzk5NWM4N2VkNWM2NjE0ZmNlMmVi",
+  "snapshot_id": "MCxjOTE5MmE1ZjkyMWQ3YmE5YjM5MjY1MzMyYTRlOTJhZGQ4MWQ0M2Rj",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -315,6 +315,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Our Own World",
+        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
+      },
+      "artists": [
+        {
+          "name": "J-BEATZ",
+          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
+        }
+      ],
+      "duration_ms": 293918,
+      "name": "It's Getting Late",
+      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 324026,
       "name": "Yel\u00e9 (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Our Own World",
-        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
-      },
-      "artists": [
-        {
-          "name": "J-BEATZ",
-          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
-        }
-      ],
-      "duration_ms": 293918,
-      "name": "It's Getting Late",
-      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -671,18 +671,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Bagay Yo Chanje!",
-        "url": "https://open.spotify.com/album/0nYwb6eZYkb7wXjRiN13vS"
+        "name": "L'ann\u00e9e du Kompa 2001 (Ayiti Konpa)",
+        "url": "https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9"
       },
       "artists": [
         {
-          "name": "K-Dans",
-          "url": "https://open.spotify.com/artist/4KV6KEiSrUZRoF5YqMjyIx"
+          "name": "Black Parents",
+          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
         }
       ],
-      "duration_ms": 319893,
-      "name": "Move chwa",
-      "url": "https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR"
+      "duration_ms": 268480,
+      "name": "Sonia",
+      "url": "https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

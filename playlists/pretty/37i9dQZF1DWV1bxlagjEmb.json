@@ -1,12 +1,12 @@
 {
   "description": "like a dog with a bird at your door",
-  "num_followers": 57739,
+  "num_followers": 57928,
   "original_name": "Sad Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzhlZDhjODk3OWE3MjZiOWE2YmU3NjU2YjdjMDI2NzIyNGU4NTRh",
+  "snapshot_id": "MCxjMGVkNzZhYmNmZGZhYzQ5NDc4MmJmMGQ1NTE1MWJjNTIyZmIwYmUy",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1830,6 +1830,10 @@
         {
           "name": "Tasha",
           "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        },
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
         }
       ],
       "duration_ms": 243925,

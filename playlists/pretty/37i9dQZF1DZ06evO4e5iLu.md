@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,293 likes - 46 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,063 likes - 46 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 45 | [Follow](https://open.spotify.com/track/2w1rq80FIrbxeJy9WYURxw) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Follow](https://open.spotify.com/album/4c7J8cbXIdLAiTX7PFYdDi) | 3:23 |
 | 46 | [La Vida Continuó](https://open.spotify.com/track/6NUDfOCXlQT0RIuYJCXbfe) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:47 |
 
-Snapshot ID: `MjgzODE2ODAsMDAwMDAwMDA1ZjQzNjFmNDc3Mzg5ZmI0ODJiNmIzYzk4MzU4ZDY5NA==`
+Snapshot ID: `MjgzODMxNDgsMDAwMDAwMDA3MDAxNWVmNWNjMDNjZTFlY2ZjOWRhMWM1NjgxZDZkMw==`

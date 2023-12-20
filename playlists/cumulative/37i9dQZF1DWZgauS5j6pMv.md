@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Kossisko
 
-365 songs - 21 hr 32 min
+366 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,8 @@
 | [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-03-28 | 2023-09-23 |
 | [Stone Cold Lover](https://open.spotify.com/track/0S5odtCg5QVBkKCVu3vsrl) | [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn) | [Aura](https://open.spotify.com/album/2TbHzkncYSsWB5xTyl4MtN) | 4:06 | 2021-09-24 | 2022-11-26 |
 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2022-11-11 |  |
-| [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-05-20 |  |
+| [Stuck on You](https://open.spotify.com/track/4fQR7QVHGPnA3ljpo95EjH) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/3nbmi3ESDzeTOml8Ttp5MV) | 4:32 | 2022-05-20 |  |
+| [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-05-20 | 2023-12-20 |
 | [Sun Ray](https://open.spotify.com/track/2A42wBeqad7skiuLqiz0gq) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Sun Ray](https://open.spotify.com/album/4oSjiWRUaJKSZJrE3KUiWp) | 3:27 | 2022-11-25 | 2023-03-11 |
 | [SUPASTYLiN'](https://open.spotify.com/track/6DTHsrDEHgUvKrPQA13Grf) | [ONiGS](https://open.spotify.com/artist/3NmkWUyK2zHZgVaqqXJlrC), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [SUPASTYLiN'](https://open.spotify.com/album/0zzeBNXA3Dy4TWHE1sn50D) | 3:17 | 2022-11-04 | 2023-05-27 |
 | [SUPERPOWERS](https://open.spotify.com/track/717vo5eln3dMd1mOSdGQMr) | [Stee Moglie](https://open.spotify.com/artist/5koldNtStAQ8R6emPcSE51), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [SUPERPOWERS](https://open.spotify.com/album/4oIKEETxNWLpwlxZHEyx7R) | 2:58 | 2023-09-22 |  |

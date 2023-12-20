@@ -4,7 +4,7 @@
 
 > 
 
-1,088 songs - 2 day 13 hr 17 min
+1,089 songs - 2 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Feel That Way](https://open.spotify.com/track/1Tq3Gu4rmyytCzzvbnW5y2) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY), [Ella](https://open.spotify.com/artist/39KMdc7nYwuqkKJuhQ0IA6) | [Feel That Way](https://open.spotify.com/album/0mlqahlXwLIYZCb5NLEOwX) | 3:12 | 2023-05-24 |  |
 | [Feel The Power](https://open.spotify.com/track/7ADBnEfAdZBI6RurXs1R7n) | [Brisk](https://open.spotify.com/artist/67es8ZtGIcV80XDLwlQkU3), [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Feel The Power](https://open.spotify.com/album/4HaAk27sV6oTNj6qQHD9UT) | 3:39 | 2023-05-06 |  |
 | [Feeling Blue](https://open.spotify.com/track/2Bf8OtPj8x6JK1xBysipWM) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4) | [Feeling Blue](https://open.spotify.com/album/3qjIYkatqTwTsMJzSjDQmK) | 3:07 | 2023-09-05 |  |
+| [Feels Like Heaven](https://open.spotify.com/track/2j86lvo3pCILwHXWxziSe1) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Thunder In Paradise](https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF) | 2:13 | 2023-12-19 |  |
 | [Fight](https://open.spotify.com/track/7orNHgokzZjViDDR6EYORO) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Fight](https://open.spotify.com/album/6EsDzq06dJ2b09OINEIyHS) | 3:23 | 2022-09-06 |  |
 | [FIGHT ME](https://open.spotify.com/track/1z6PZ7qVGSlxZjM1bJZXTM) | [Chaotic Hostility](https://open.spotify.com/artist/12XFFT7c5VUYdNzJODHOLn) | [FIGHT ME](https://open.spotify.com/album/2hEheTh3u27fIhRpt6CEOg) | 1:36 | 2023-03-02 |  |
 | [Fight Night](https://open.spotify.com/track/6LZyZ2n9Ls2ItN5bfZ4ooU) | [Wreck Reality](https://open.spotify.com/artist/7Dn5YtJZi2nozyzpXy9yBR) | [Fight Night](https://open.spotify.com/album/5aZ0EajXuWtNGSgLul6bGG) | 3:44 | 2022-09-22 |  |

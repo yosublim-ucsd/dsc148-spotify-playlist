@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 282059,
+  "num_followers": 282083,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTc4ZDRhYTVmNzZlOTk1ZTRiNTRiNDVlMDk4ODFjOTc3OWIyZTdl",
+  "snapshot_id": "MCxmNzhkNzY1NDFmNGFhNWJlNDI2MGQ1NjhlMjZlYTJkYTY2MDE1ZGIz",
   "tracks": [
     {
       "added_at": "2023-12-15 14:35:31",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
-        "name": "body bag",
-        "url": "https://open.spotify.com/album/2xJsMEX3rBCfqxQ7EfVnED"
-      },
-      "artists": [
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        }
-      ],
-      "duration_ms": 142429,
-      "name": "body bag",
-      "url": "https://open.spotify.com/track/7IodwtlPswiT3rJVUQPFcO"
-    },
-    {
-      "added_at": "2023-12-15 14:35:31",
-      "album": {
         "name": "Like Me, Like Me",
         "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 145531,
       "name": "Like Me, Like Me",
       "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
+    },
+    {
+      "added_at": "2023-12-15 14:35:31",
+      "album": {
+        "name": "body bag",
+        "url": "https://open.spotify.com/album/2xJsMEX3rBCfqxQ7EfVnED"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "duration_ms": 142429,
+      "name": "body bag",
+      "url": "https://open.spotify.com/track/7IodwtlPswiT3rJVUQPFcO"
     },
     {
       "added_at": "2023-12-15 14:35:31",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
-        "name": "treat your friends",
-        "url": "https://open.spotify.com/album/2Rdk812Zcmfaec9zCfdGnt"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 173624,
-      "name": "treat your friends",
-      "url": "https://open.spotify.com/track/0lyxM7QX5gEIn600SxaS7i"
-    },
-    {
-      "added_at": "2023-12-15 14:35:31",
-      "album": {
         "name": "This Mixtape is Fire TOO",
         "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
       },
@@ -1679,8 +1663,24 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
-        "name": "all of you",
-        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
+        "name": "treat your friends",
+        "url": "https://open.spotify.com/album/2Rdk812Zcmfaec9zCfdGnt"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 173624,
+      "name": "treat your friends",
+      "url": "https://open.spotify.com/track/0lyxM7QX5gEIn600SxaS7i"
+    },
+    {
+      "added_at": "2023-12-15 14:35:31",
+      "album": {
+        "name": "therapy",
+        "url": "https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF"
       },
       "artists": [
         {
@@ -1688,9 +1688,9 @@
           "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
         }
       ],
-      "duration_ms": 158485,
-      "name": "all of you",
-      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
+      "duration_ms": 136804,
+      "name": "therapy",
+      "url": "https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S"
     },
     {
       "added_at": "2023-12-15 14:35:31",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
+        "name": "scenic route",
+        "url": "https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 180592,
+      "name": "scenic route",
+      "url": "https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE"
+    },
+    {
+      "added_at": "2023-12-15 14:35:31",
+      "album": {
         "name": "Self Soothing",
         "url": "https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 187500,
       "name": "Daylight (feat. GANGGA)",
       "url": "https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C"
-    },
-    {
-      "added_at": "2023-12-15 14:35:31",
-      "album": {
-        "name": "scenic route",
-        "url": "https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 180592,
-      "name": "scenic route",
-      "url": "https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE"
     },
     {
       "added_at": "2023-12-15 14:35:31",
@@ -1771,8 +1771,8 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
-        "name": "therapy",
-        "url": "https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF"
+        "name": "all of you",
+        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
       },
       "artists": [
         {
@@ -1780,9 +1780,9 @@
           "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
         }
       ],
-      "duration_ms": 136804,
-      "name": "therapy",
-      "url": "https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S"
+      "duration_ms": 158485,
+      "name": "all of you",
+      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
     },
     {
       "added_at": "2023-12-15 14:35:31",
@@ -1823,34 +1823,6 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
-        "name": "WORLD STOP TURNING (feat. Warren Hue)",
-        "url": "https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x"
-      },
-      "artists": [
-        {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
-        }
-      ],
-      "duration_ms": 248403,
-      "name": "WORLD STOP TURNING (feat. Warren Hue)",
-      "url": "https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0"
-    },
-    {
-      "added_at": "2023-12-15 14:35:31",
-      "album": {
         "name": "TENNESSEE",
         "url": "https://open.spotify.com/album/3Xkks8k01Fuy8pD4GnKy3D"
       },
@@ -1879,6 +1851,34 @@
       "duration_ms": 122448,
       "name": "Right About Love",
       "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
+    },
+    {
+      "added_at": "2023-12-15 14:35:31",
+      "album": {
+        "name": "WORLD STOP TURNING (feat. Warren Hue)",
+        "url": "https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "duration_ms": 248403,
+      "name": "WORLD STOP TURNING (feat. Warren Hue)",
+      "url": "https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0"
     },
     {
       "added_at": "2023-12-15 14:35:31",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
-        "name": "Where'd The Time Go?",
-        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
-      },
-      "artists": [
-        {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
-        }
-      ],
-      "duration_ms": 105266,
-      "name": "Where'd The Time Go?",
-      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
-    },
-    {
-      "added_at": "2023-12-15 14:35:31",
-      "album": {
         "name": "the roaring twenties",
         "url": "https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 169222,
       "name": "deadline",
       "url": "https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM"
+    },
+    {
+      "added_at": "2023-12-15 14:35:31",
+      "album": {
+        "name": "Where'd The Time Go?",
+        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 105266,
+      "name": "Where'd The Time Go?",
+      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
     },
     {
       "added_at": "2023-12-15 14:35:31",
@@ -2363,18 +2363,26 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
-        "name": "Don't Know About The World",
-        "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
+        "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
+        "url": "https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "Aleebi",
+          "url": "https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359"
+        },
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
         }
       ],
-      "duration_ms": 143696,
-      "name": "Don't Know About The World",
-      "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
+      "duration_ms": 208000,
+      "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
+      "url": "https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h"
     },
     {
       "added_at": "2023-12-15 14:35:31",
@@ -2399,26 +2407,18 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
-        "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
-        "url": "https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh"
+        "name": "Don't Know About The World",
+        "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
       },
       "artists": [
         {
-          "name": "hyejin",
-          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
-        },
-        {
-          "name": "Aleebi",
-          "url": "https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359"
-        },
-        {
-          "name": "kasper",
-          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 208000,
-      "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
-      "url": "https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h"
+      "duration_ms": 143696,
+      "name": "Don't Know About The World",
+      "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
     },
     {
       "added_at": "2023-12-15 14:35:31",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-12-15 14:35:31",
       "album": {
-        "name": "Kulture Klub",
-        "url": "https://open.spotify.com/album/2sm4TXmoscpZ6i3rFcDUO4"
-      },
-      "artists": [
-        {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "Kulture Klub",
-      "url": "https://open.spotify.com/track/5JB470bDe4AvruKK2J3Pkv"
-    },
-    {
-      "added_at": "2023-12-15 14:35:31",
-      "album": {
         "name": "Summer went and came around",
         "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 197500,
       "name": "SEEING PINK",
       "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
+    },
+    {
+      "added_at": "2023-12-15 14:35:31",
+      "album": {
+        "name": "Kulture Klub",
+        "url": "https://open.spotify.com/album/2sm4TXmoscpZ6i3rFcDUO4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "Kulture Klub",
+      "url": "https://open.spotify.com/track/5JB470bDe4AvruKK2J3Pkv"
     },
     {
       "added_at": "2023-12-15 14:35:31",

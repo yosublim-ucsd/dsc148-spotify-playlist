@@ -1,12 +1,12 @@
 {
   "description": "El toque que le faltaba a tu caf\u00e9. \n",
-  "num_followers": 59551,
+  "num_followers": 59575,
   "original_name": "cafeter\u00eda ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmVkYzY5NDhjYzNhOGM0NjA0YjgwZjYwMGNkNGVlM2VhNzhhYTk3",
+  "snapshot_id": "MCw1OWQ0NjVkNTdiMjhiYjM3Nzk4YjA5NzNlNzAxNDkzMzZiYjAwNTIw",
   "tracks": [
     {
       "added_at": "2023-07-10 17:37:38",
@@ -683,22 +683,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+        "name": "Hits of the 60's",
+        "url": "https://open.spotify.com/album/3JXHP0qbA7gws2HmRUEQaM"
       },
       "artists": [
         {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
         }
       ],
-      "duration_ms": 233015,
-      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
+      "duration_ms": 152226,
+      "name": "Everybody's Talkin'",
+      "url": "https://open.spotify.com/track/51vHRPRLMa3QV1aKMaQ9Gr"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Hits of the 60's",
-        "url": "https://open.spotify.com/album/3JXHP0qbA7gws2HmRUEQaM"
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
       "artists": [
         {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 152226,
-      "name": "Everybody's Talkin'",
-      "url": "https://open.spotify.com/track/51vHRPRLMa3QV1aKMaQ9Gr"
+      "duration_ms": 233015,
+      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
     },
     {
       "added_at": "2023-07-10 17:37:38",

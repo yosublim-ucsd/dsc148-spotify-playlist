@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 126760,
+  "num_followers": 126710,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmViZWYwODA5ODNmZTY1NGU1YTc2YzBhMDQ5MGUwYTRlYmEyZTM2",
+  "snapshot_id": "MCxiMDc3NjZmY2ZjMmYzOGUwZmE1MTk1Yjc4ZmQ1NWZlNDE1NjFmMmFm",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "Sick Feeling",
-      "url": "https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "Sick Feeling",
+      "url": "https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc"
     },
     {
       "added_at": "2023-01-30 15:22:38",

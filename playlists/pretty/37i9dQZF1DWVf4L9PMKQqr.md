@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 
 > Enamórate con las interpretaciones más románticas de El Flaco de Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,615 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,627 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,23 +70,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 | 60 | [Cada Noche un Amor](https://open.spotify.com/track/5WiQDTNxxdUQut3jCUZz0e) | [Maria Felix](https://open.spotify.com/artist/16EdP6qprhSzH9S6zJ50n7) | [María Félix Interpreta a Agustín Lara](https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG) | 3:31 |
 | 61 | [Nadie](https://open.spotify.com/track/62roN8U8Lum4zpo2t8HYgH) | [Amparo Montes](https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH) | [Coleccion Original RCA](https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn) | 4:12 |
 | 62 | [Naufragio](https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Tesoros de Colección \- Las Estrellas de la Hora Azul](https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP) | 2:17 |
-| 63 | [Ya Me Voy](https://open.spotify.com/track/0yA64SEitaUPFmrcRcUaRe) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Lo Esencial de Agustín Lara](https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx) | 3:04 |
-| 64 | [Se Me Hizo Fácil](https://open.spotify.com/track/1FTSbw0qc0z2cmtbnL02zc) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:27 |
-| 65 | [Popurrí de Mujeres Galantes](https://open.spotify.com/track/0hMBb9Wf01bFqr8HF3X1Hz) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Pedazos del Corazón \(Homenaje a Álvaro Carrillo y Agustín Lara\)](https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq) | 6:13 |
+| 63 | [Popurrí de Mujeres Galantes](https://open.spotify.com/track/0hMBb9Wf01bFqr8HF3X1Hz) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Pedazos del Corazón \(Homenaje a Álvaro Carrillo y Agustín Lara\)](https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq) | 6:13 |
+| 64 | [Ya Me Voy](https://open.spotify.com/track/0yA64SEitaUPFmrcRcUaRe) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Lo Esencial de Agustín Lara](https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx) | 3:04 |
+| 65 | [Se Me Hizo Fácil](https://open.spotify.com/track/1FTSbw0qc0z2cmtbnL02zc) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:27 |
 | 66 | [La Marimba](https://open.spotify.com/track/6nrKdOT85c37Yd6wxlnBrS) | [David Reynoso](https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s) | [David Reynoso y la Música de Agustín Lara](https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL) | 2:42 |
 | 67 | [Veracruz](https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 5:09 |
 | 68 | [Rosa](https://open.spotify.com/track/4bYzJf4CpXi70LphnRvdqk) | [Alejandro Algara](https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB) | [5 Decadas de Boleros: Boleros de los 20's](https://open.spotify.com/album/5GWxERu84RmaBfSWE1zhTy) | 4:04 |
 | 69 | [Hastio](https://open.spotify.com/track/5E1hhG7rRVfE2BuNdnCRkK) | [Rebeca](https://open.spotify.com/artist/3IekGBVtJ2XDErmuSPjSGE) | [COLECCION Volumen 5](https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk) | 3:01 |
-| 70 | [Imposible \- Remastered](https://open.spotify.com/track/5wI8dYA9YRtuvKWVDrkduw) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Lo Mejor de La Sonora Matancera \(Remastered\)](https://open.spotify.com/album/5oPiWYPNFLc9z0h6D4l6iJ) | 2:22 |
-| 71 | [Marimba](https://open.spotify.com/track/0qLH0XdpkZsgzBmVCq9OCX) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Música De Agustín Lara](https://open.spotify.com/album/3aTeNQz97em0DeRxg7r05k) | 2:15 |
-| 72 | [Príncipe Vals](https://open.spotify.com/track/3KFSfOMYV1eAR2jLascuRo) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Lo Esencial de Agustín Lara](https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx) | 2:30 |
+| 70 | [Príncipe Vals](https://open.spotify.com/track/3KFSfOMYV1eAR2jLascuRo) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Lo Esencial de Agustín Lara](https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx) | 2:30 |
+| 71 | [Imposible \- Remastered](https://open.spotify.com/track/5wI8dYA9YRtuvKWVDrkduw) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Lo Mejor de La Sonora Matancera \(Remastered\)](https://open.spotify.com/album/5oPiWYPNFLc9z0h6D4l6iJ) | 2:22 |
+| 72 | [Marimba](https://open.spotify.com/track/0qLH0XdpkZsgzBmVCq9OCX) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Música De Agustín Lara](https://open.spotify.com/album/3aTeNQz97em0DeRxg7r05k) | 2:15 |
 | 73 | [Saca Los Nardos](https://open.spotify.com/track/0FFctG1LlQ3N7KqJ55ezcg) | [Salvador García](https://open.spotify.com/artist/7lyQukDK3CCRkKlv1ZtITq) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 1:52 |
 | 74 | [Gotas de Amor](https://open.spotify.com/track/1duLUtgLDjkzHtbCuXCFNl) | [Maria Felix](https://open.spotify.com/artist/16EdP6qprhSzH9S6zJ50n7) | [María Félix Interpreta a Agustín Lara](https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG) | 2:33 |
 | 75 | [Santa](https://open.spotify.com/track/2Z0iHCLYjFdiEpn1I4aPE9) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Cuco Sánchez Interpreta a Agustín Lara](https://open.spotify.com/album/3w6SQ81PgTgHmvSoz7WUaN) | 3:04 |
 | 76 | [Aventurera \( Remasterizado \)](https://open.spotify.com/track/541BvxPhWSkO7MQzMEMSp0) | [Guty Cárdenas](https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW) | [Un Siglo..\. De Recuerdos Con El Mas Grande Trovador Mexicano Guty Cardenas](https://open.spotify.com/album/4o0wE1QwrpQmb5ndTQl0nW) | 3:11 |
-| 77 | [Rosa](https://open.spotify.com/track/7DSS39cTri1kpLLOLcIoaz) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Música De Agustín Lara](https://open.spotify.com/album/3aTeNQz97em0DeRxg7r05k) | 2:52 |
+| 77 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9) | [Genaro Salinas](https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD) | [La Coleccion Del Siglo](https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb) | 3:06 |
 | 78 | [Cuando Vuelvas](https://open.spotify.com/track/1Oyk4HRRxRyqwHvgYv06q8) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Señora Tentación](https://open.spotify.com/album/5tcUId9lERJM6D2dzroZI0) | 3:31 |
-| 79 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9) | [Genaro Salinas](https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD) | [La Coleccion Del Siglo](https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb) | 3:06 |
-| 80 | [Adiós Nicanor](https://open.spotify.com/track/5JXIC07lWdAJnrjnXQ4RIO) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:42 |
+| 79 | [Adiós Nicanor](https://open.spotify.com/track/5JXIC07lWdAJnrjnXQ4RIO) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:42 |
+| 80 | [Cosas Que Suceden](https://open.spotify.com/track/66TEyiKkT24YtD5md5qvJE) | [Agustin Lara Jr.](https://open.spotify.com/artist/2imA995pqgdOtN780UWweZ) | [...Solamente una Vez](https://open.spotify.com/album/59bTiNwUTyKzIW5B2GXRH2) | 3:20 |
 
-Snapshot ID: `MCxkOGVlOGQ0ZjUzNTNiNGViOWY2ZDY3NGIzNjAxZDEzNjAxMzNhNmQz`
+Snapshot ID: `MCwxMzY4ZDZkZGM2MmFiYTliZGM2YzdiMTA0MjAxZWZlZWIzNWQ1Y2Q2`

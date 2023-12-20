@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Paul Russell
 
-277 songs - 14 hr 2 min
+278 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Don't Need to Sleep](https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Don't Need to Sleep](https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u) | 3:08 | 2023-12-15 |  |
 | [Don't Say No](https://open.spotify.com/track/3a9oWZ6mI5v3yGmcmVpcmu) | [Thalia Falcon](https://open.spotify.com/artist/7AsrMHlSAgnoCLSW723gYb) | [Don't Say No](https://open.spotify.com/album/3rliGA4cYKqMuzCKK819m2) | 3:00 | 2022-02-04 | 2023-01-28 |
 | [DONT TOUCH MY MONEY](https://open.spotify.com/track/2F6AKAUokqFmRCfZxXZuYH) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [Happy Trap](https://open.spotify.com/album/6vUvRaGRXMpZTU1ZFTsTUf) | 2:12 | 2022-02-25 | 2023-01-28 |
-| [Don’t Say Hello](https://open.spotify.com/track/2vLEr4lT0yFuBcP2Uz3xgS) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Don’t Say Hello](https://open.spotify.com/album/6tnHZRSIymuApxxWMAKvFY) | 2:38 | 2023-11-17 |  |
+| [Don’t Say Hello](https://open.spotify.com/track/1QA1MC6dwUMEHetHrURiYh) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Så mycket bättre 2023 – Tolkningarna](https://open.spotify.com/album/45NHM9m9QNrw0idyrLNSWY) | 2:38 | 2023-11-17 |  |
+| [Don’t Say Hello](https://open.spotify.com/track/2vLEr4lT0yFuBcP2Uz3xgS) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Don’t Say Hello](https://open.spotify.com/album/6tnHZRSIymuApxxWMAKvFY) | 2:38 | 2023-11-17 | 2023-12-20 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-28 | 2023-08-19 |
 | [Drink Water \(feat\. Jon Bellion and Fireboy DML\)](https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Drink Water](https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG) | 2:49 | 2023-07-14 | 2023-11-25 |
 | [drummer](https://open.spotify.com/track/5azjk29GqijbSSsi0JY01x) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:08 | 2023-01-27 | 2023-07-08 |

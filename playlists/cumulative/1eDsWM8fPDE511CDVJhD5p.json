@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "Assassination",
+        "url": "https://open.spotify.com/album/6GJQuJKb0AmxFQNV4joUqn"
+      },
+      "artists": [
+        {
+          "name": "\u6cab\u5c3e",
+          "url": "https://open.spotify.com/artist/3xiRtHEkgQZINconT2YCPA"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Assassination (feat. KAITO)",
+      "url": "https://open.spotify.com/track/17c4xBDunsJYMXtM7xUf8o"
+    },
+    {
+      "album": {
         "name": "\u30dd\u30f3\u30b3\u30c4\u30bb\u30ab\u30a4",
         "url": "https://open.spotify.com/album/29NUFBpjtofJoaei3woQ98"
       },
@@ -158,7 +180,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 217500,
       "name": "Candle Light (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6UBW8E8Xz52XfNg4nuipzY"
@@ -336,7 +358,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 218106,
       "name": "Orion",
       "url": "https://open.spotify.com/track/3zvVD5oQBACKYHFlr4BZBI"
@@ -616,7 +638,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 157309,
       "name": "\u30a2\u30d0\u30a6\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/304nRCbGj1Z7EdrtgmyREu"
@@ -700,10 +722,28 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 212000,
       "name": "\u30b0\u30c3\u30c9\u30d0\u30f0 (feat. \u9cf4\u82b1\u30d2\u30e1)",
       "url": "https://open.spotify.com/track/7EMGif811n8TZpuS3Nd1Ez"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30fb\u30c8\u30a5\u30fb\u5927\u90fd\u4f1a",
+        "url": "https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u88cf, \u30cb\u30e3\u30f3\u30fb\u30c8\u30f3\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/1Y6nQXc65lCEX2vlKKvgGx"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170156,
+      "name": "\u30b4\u30fc\u30fb\u30c8\u30a5\u30fb\u5927\u90fd\u4f1a (feat. GUMI)",
+      "url": "https://open.spotify.com/track/12epYxzmLOXyd3bMMM7ELE"
     },
     {
       "album": {
@@ -722,7 +762,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-20",
       "duration_ms": 209343,
       "name": "\u30b7\u30fc\u30b0\u30e9\u30b9 (feat. KAITO)",
       "url": "https://open.spotify.com/track/77N92wUGqEk2XLo5GTTet5"
@@ -769,6 +809,46 @@
     },
     {
       "album": {
+        "name": "Doubt Me!?",
+        "url": "https://open.spotify.com/album/3oF2AsbDvnpbOFxbVcDxy0"
+      },
+      "artists": [
+        {
+          "name": "\u307e\u305f\u5207\u306a\u3044\u4e16\u754c\u3092\u751f\u304d\u308b",
+          "url": "https://open.spotify.com/artist/53aMj2DuxMJr5qB7rvcq1e"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302693,
+      "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30b9\u30c8\u30fb\u30db\u30c3\u30ab\u30a4\u30c0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6C8WQvQq3GBOzAmn22oS75"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30a2\u30cb\u30de\u30eb\u30ed\u30b1\u30c3\u30c8\u30e9\u30f3\u30c1\u30e3\u30fc",
+        "url": "https://open.spotify.com/album/6nbCeaJ08O3JZFhl5Pvueb"
+      },
+      "artists": [
+        {
+          "name": "\u3058\u3087\u308b\u3058\u3093",
+          "url": "https://open.spotify.com/artist/5X3E77e3IjSX2sNqvOvZDQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187064,
+      "name": "\u30cf\u30c3\u30d4\u30fc\u30a2\u30cb\u30de\u30eb\u30ed\u30b1\u30c3\u30c8\u30e9\u30f3\u30c1\u30e3\u30fc",
+      "url": "https://open.spotify.com/track/68EgR9SGyt3AIEY2mnwUMN"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30ad\u30d1\u30ad\u5929\u4f7f\u306e\u30cf\u30fc\u30c9\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4OuZr8zn6IwZjKlCWeWvgm"
       },
@@ -788,6 +868,28 @@
       "duration_ms": 131034,
       "name": "\u30d1\u30ad\u30d1\u30ad\u5929\u4f7f\u306e\u30cf\u30fc\u30c9\u30e9\u30c3\u30af (feat. \u308a\u3080\u308b)",
       "url": "https://open.spotify.com/track/3jh0Pv9zptcRIphRMCVR6g"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30b9\u30ab\u30ec\u30f0\u30c9",
+        "url": "https://open.spotify.com/album/3eDNX1pbALswNWDBepUEux"
+      },
+      "artists": [
+        {
+          "name": "\u732b\u76ee",
+          "url": "https://open.spotify.com/artist/1Fxy768cDOGSRa1zhgXRn5"
+        },
+        {
+          "name": "\u9cf4\u82b1\u30d2\u30e1",
+          "url": "https://open.spotify.com/artist/5YeBpB4eLKxOdLwsHU6kFr"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176651,
+      "name": "\u30de\u30b9\u30ab\u30ec\u30f0\u30c9 (feat. \u9cf4\u82b1\u30d2\u30e1)",
+      "url": "https://open.spotify.com/track/5um2WxpAPpQnVGDoTb0Tpx"
     },
     {
       "album": {
