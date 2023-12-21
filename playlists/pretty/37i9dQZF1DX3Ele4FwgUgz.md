@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,672 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,689 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 31 | [オードリー](https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:54 |
 | 32 | [LIKE IT!LOVE IT!](https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:21 |
 | 33 | [MONSTER GIRLS](https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:56 |
-| 34 | [SUPER NOVA](https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:14 |
-| 35 | [Cherry Bomb](https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3) | [Setsuna Yuki \(CV: Coco Hayashi\)](https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:39 |
-| 36 | [Koakuma LOVE](https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j) | [Shizuku Osaka \(CV: Kaori Maeda\)](https://open.spotify.com/artist/0wr7BgwyUkizi1cVYkzxk7) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:02 |
+| 34 | [Cherry Bomb](https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3) | [Setsuna Yuki \(CV: Coco Hayashi\)](https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:39 |
+| 35 | [Koakuma LOVE](https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j) | [Shizuku Osaka \(CV: Kaori Maeda\)](https://open.spotify.com/artist/0wr7BgwyUkizi1cVYkzxk7) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:02 |
+| 36 | [SUPER NOVA](https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:14 |
 | 37 | [Beautiful Moonlight](https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Sing & Smile!!](https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW) | 3:58 |
 | 38 | [5201314](https://open.spotify.com/track/58N59QptRCYvEee9KKTURD) | [Lanzhu Zhong \(CV: Akina Homoto\)](https://open.spotify.com/artist/71EQKxwB0ZJrPEhW0Sz6sf) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:57 |
 | 39 | [Lemonade](https://open.spotify.com/track/7sppMR5Ag87PFaGFdzgq1m) | [Mia Taylor \(CV: Shu Uchida\)](https://open.spotify.com/artist/1NhKUvJaDW9KlwxUomMal5) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 49 | [Walking Dream](https://open.spotify.com/track/42zJg09ge19Pv5l0epKj7B) | [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:36 |
 | 50 | [Dream Land!Dream World!](https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Dream Land!Dream World!](https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN) | 3:51 |
 
-Snapshot ID: `MCw1ODQ5YWUwYWFmMmYwMmNjY2Q1YTJjN2E5ZDE1OWU3Njk4OTU5M2Jj`
+Snapshot ID: `MCwzNzk2ZTEyODQyOTFiZWFmMWIwZmNiNTc0ZDEyZjQzYThhYjA2OWQy`

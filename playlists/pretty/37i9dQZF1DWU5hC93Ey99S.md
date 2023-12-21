@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,756 likes - 325 songs - 17 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,937 likes - 325 songs - 17 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,7 +200,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 190 | [Swelter](https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU) | 4:25 |
 | 191 | [Poetry Of You](https://open.spotify.com/track/2fvt96YAsSr5e8ZwbMg2j9) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Poetry Of You](https://open.spotify.com/album/4qdR9J2rvV9X3t6eZKrTL1) | 4:17 |
 | 192 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 |
-| 193 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc) | 4:27 |
+| 193 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/5nONSliAVb1xEaMfo2U8h6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 4:27 |
 | 194 | [Need You](https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Need You](https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF) | 3:34 |
 | 195 | [Radio \- SILK Remix](https://open.spotify.com/track/2XnnsbJsLJpE6Kt7IMLRn4) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Radio \(SILK Remix\)](https://open.spotify.com/album/1ccpjciLT1hr63qZpj9ZPA) | 3:02 |
 | 196 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 |
@@ -334,4 +334,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 324 | [Here \- Cyril Hahn Remix](https://open.spotify.com/track/3GerYw4IzfAmx7qbHYwN6X) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Here \(Cyril Hahn Remix\)](https://open.spotify.com/album/0Br9OqErGn1qZHrOh05Ntf) | 4:01 |
 | 325 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 |
 
-Snapshot ID: `MCxmNDI3NjRiMmJiZWIzYWY2MzMxZGExYTQ3MTg2MDE5NDQ4OGYxYmNl`
+Snapshot ID: `MCw5ZjFkNThkY2VhMzE5ZDgzYjJkMWZkZWJmZTZhYjg5ZTM2YTQ0MjVk`

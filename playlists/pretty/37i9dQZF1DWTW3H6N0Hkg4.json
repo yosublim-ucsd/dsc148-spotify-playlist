@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 218806,
+  "num_followers": 218998,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGQ1YTFiMTNmYjY3ZWMyOGZkNDJlMDE4MzBmZWEwNjA2NjE1ODg3",
+  "snapshot_id": "MCxiYTcwMjY5NTk5YWQzYmJhMzMxN2NkMWQ1MzNhNTA0OTNjMjgzZTgz",
   "tracks": [
     {
       "added_at": "2022-12-07 21:09:44",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK"
-      },
-      "artists": [
-        {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Sueno Latino",
         "url": "https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 226586,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK"
+      },
+      "artists": [
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -899,34 +883,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Inimitable",
-        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 254333,
-      "name": "Vienes y Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
-        "name": "Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
-      },
-      "artists": [
-        {
-          "name": "Junior Klan",
-          "url": "https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Como Agua en las Manos",
-      "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -947,6 +915,38 @@
       "duration_ms": 270506,
       "name": "Las Mujers No Se Acaban",
       "url": "https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
+      },
+      "artists": [
+        {
+          "name": "Junior Klan",
+          "url": "https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Como Agua en las Manos",
+      "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Inimitable",
+        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Vienes y Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+        "name": "Sus M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
+      "duration_ms": 206613,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 206613,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj"
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 199862,
       "name": "Cosas del Amor",
       "url": "https://open.spotify.com/track/7hUeM605R3peXzGU9FBgix"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Sencillo",
-        "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "Kekelandia",
-          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
         }
       ],
-      "duration_ms": 230243,
-      "name": "El Amor Se Fue",
-      "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
+      "duration_ms": 219980,
+      "name": "La Colegiada (Live)",
+      "url": "https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1455,18 +1451,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
+        "name": "Sencillo",
+        "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
       },
       "artists": [
         {
-          "name": "El Rey de los Diciembres",
-          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
         }
       ],
-      "duration_ms": 219980,
-      "name": "La Colegiada (Live)",
-      "url": "https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl"
+      "duration_ms": 230243,
+      "name": "El Amor Se Fue",
+      "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "M\u00fasica Sin Limites - Tropical",
-        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
-      },
-      "artists": [
-        {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "La Suegra",
         "url": "https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 244375,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "M\u00fasica Sin Limites - Tropical",
+        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
     },
     {
       "added_at": "2022-12-07 21:09:44",

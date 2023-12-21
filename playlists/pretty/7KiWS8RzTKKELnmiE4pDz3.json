@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzE3NSwwY2U4MzdlODA5ZjY0NTA5YjlkYTNiYmVhOTU2NWI5ODZkNjBjNWM2",
+  "snapshot_id": "NzE3NywwYjgzMDhjZDNmY2QwNGFhMjMyMTA2ZTA4YWRiMmFmNTA2YjQyMTFl",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2287,6 +2287,38 @@
       "duration_ms": 102421,
       "name": "On That Time",
       "url": "https://open.spotify.com/track/3dl8bSF08LQfCf4T6CCksf"
+    },
+    {
+      "added_at": "2023-12-20 11:33:31",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "How it go",
+      "url": "https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4"
+    },
+    {
+      "added_at": "2023-12-20 11:35:47",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Sum 2 do",
+      "url": "https://open.spotify.com/track/7sjhOYcPgeSv3oj3IkFTeK"
     }
   ],
   "unique_name": "main ",

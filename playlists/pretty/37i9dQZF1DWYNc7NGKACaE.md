@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,050 likes - 65 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,089 likes - 65 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 56 | [Florxs Speed Up](https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Florxs Speed Up](https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW) | 2:56 |
 | 57 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 |
 | 58 | [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [Menoleozzin](https://open.spotify.com/artist/5T6UOkgOY9iCBHcOnOatUB) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 |
-| 59 | [NICOTINA \- Speed](https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [NICOTINA](https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN) | 1:30 |
-| 60 | [Sustenta a Botada \- Speed](https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Dj Garay Beats](https://open.spotify.com/artist/1lwdU9Q6yv7LyXqGER8D5G) | [Sustenta a Botada](https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde) | 2:24 |
-| 61 | [Palhaçada Speed](https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE) | [Avelar Music](https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1), [Belim](https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb) | [Palhaçada Speed](https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A) | 2:29 |
+| 59 | [Palhaçada Speed](https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE) | [Avelar Music](https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1), [Belim](https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb) | [Palhaçada Speed](https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A) | 2:29 |
+| 60 | [NICOTINA \- Speed](https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [NICOTINA](https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN) | 1:30 |
+| 61 | [Sustenta a Botada \- Speed](https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Dj Garay Beats](https://open.spotify.com/artist/1lwdU9Q6yv7LyXqGER8D5G) | [Sustenta a Botada](https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde) | 2:24 |
 | 62 | [Me Deixei Levar \- Speed](https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh) | [7Seven](https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1) | [Me Deixei Levar](https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc) | 1:36 |
 | 63 | [Contatos \- Speed Plug](https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv) | [Rod 011](https://open.spotify.com/artist/0EQKO8vvXzLyITxRJHfC00), [Yo Besy](https://open.spotify.com/artist/2cXJUibUE3MA7VY1HYvBug), [wazy](https://open.spotify.com/artist/05CehQVgU6xs0LJOGoj3OO), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Gorilla Dream, Vol\. I](https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk) | 2:14 |
 | 64 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 |
 | 65 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw3ZTcwMzk0MTBjZmMwMWRlOGE2OTZkZDgzN2NiNmZlZmVjMDM0MDIw`
+Snapshot ID: `MCwxOWIzMjhkMzZhMmVhODk1ZGNiNjczMDJjZmFkMTNhYjgyMDZhY2Fk`

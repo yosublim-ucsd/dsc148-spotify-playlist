@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,369 songs - 3 day 1 hr 0 min
+1,370 songs - 3 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-07 |
 | [Fear Of Heights](https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:35 | 2023-10-07 | 2023-10-09 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2022-12-28 |
-| [FEMINISTIS](https://open.spotify.com/track/3CBZxjDHQpgvHsnqF06CSu) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [FEMINISTIS](https://open.spotify.com/album/1YlmZWvyLHLJucCvxuVkPc) | 3:07 | 2023-08-25 |  |
+| [FEMINISTIS](https://open.spotify.com/track/3CBZxjDHQpgvHsnqF06CSu) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [FEMINISTIS](https://open.spotify.com/album/1YlmZWvyLHLJucCvxuVkPc) | 3:07 | 2023-08-25 | 2023-12-21 |
 | [Fendi](https://open.spotify.com/track/5CZbxKM8Ibh3RmfB7xFAzm) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Fendi](https://open.spotify.com/album/4GNPXGhviRoE2VkawAEr7z) | 3:30 | 2021-04-03 | 2021-04-04 |
 | [Ferma](https://open.spotify.com/track/46EdocEk7a205VzqQAjH84) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Roran](https://open.spotify.com/artist/4Uy9871qRPu27CXO4umdZj), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [1111](https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf) | 2:49 | 2023-11-11 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-08-30 | 2022-09-23 |
@@ -869,6 +869,7 @@
 | [NASA](https://open.spotify.com/track/0hVl1Eb02SNnTHSgrlhBm7) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [Rackattack \(Deluxe Edition\)](https://open.spotify.com/album/5T6qUQtVUyNagAK4955FV1) | 3:16 | 2021-08-22 | 2022-07-03 |
 | [NASA](https://open.spotify.com/track/1dBqiQ1TU3MpgnR84gi1BQ) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [NASA](https://open.spotify.com/album/09tnI4gvPvzCZ5hTJY4yvw) | 3:16 | 2021-06-11 | 2021-08-22 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-15 |
+| [Nea Sezon](https://open.spotify.com/track/2D0XFzBvI6AWeBc2mvqUdB) | [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm) | [Nea Sezon](https://open.spotify.com/album/60RrJMusvUMpXYZYmky3aD) | 2:06 | 2023-12-20 |  |
 | [Nea Sezon](https://open.spotify.com/track/2ouqAMXWJlh1uvWXOA94kH) | [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm) | [4Seassons](https://open.spotify.com/album/4tmnL2kVcnCxwIUYCN1eeu) | 2:06 | 2023-12-16 | 2023-12-18 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-26 | 2021-09-08 |
 | [Nefeli](https://open.spotify.com/track/3npi2mfKQJ2BnHuShtCoJs) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Psixi](https://open.spotify.com/album/3HtrMyrM7HfCicKZPUmSeU) | 3:39 | 2022-02-23 | 2022-02-26 |

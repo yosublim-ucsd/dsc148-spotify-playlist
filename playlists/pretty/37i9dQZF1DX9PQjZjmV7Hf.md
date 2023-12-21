@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,756 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,846 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 28 | [All In](https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [All In](https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U) | 2:36 |
 | 29 | [30 for 30 Freestyle](https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 4:13 |
 | 30 | [4 da Gang](https://open.spotify.com/track/3IJ6BBFLD2I2CH3hHFQj3O) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SUPER SLIMEY](https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm) | 3:07 |
-| 31 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
-| 32 | [Backdoor](https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice](https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy) | 3:20 |
+| 31 | [Backdoor](https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice](https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy) | 3:20 |
+| 32 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
 | 33 | [Voice of the Heroes](https://open.spotify.com/track/3E3pb3qH11iny6TFDJvsg5) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:29 |
 | 34 | [Candy](https://open.spotify.com/track/6Ms3n5sUl0Bzg3bMCtUEAw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:56 |
 | 35 | [Wrong or Right](https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:43 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 48 | [BET](https://open.spotify.com/track/7mKJak60o7cmixVEfggraL) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [OUTSIDE](https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL) | 1:44 |
 | 49 | [FUCCWITCHU](https://open.spotify.com/track/6y0AwrWm1E63waiByoKYam) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [OUTSIDE](https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL) | 3:28 |
 
-Snapshot ID: `MCxlMmI3MzkzZmE5NDU2YjM5ZDU4NWJhZTY2YTYyOTMwYTZlMjNiNTYz`
+Snapshot ID: `MCwxMGE5ODE4OWRlNTMwMGRkMjMwODVjNzI5MTEyNjg0ZjUwZTI4MTMw`

@@ -1,12 +1,12 @@
 {
   "description": "aqui tem tacac\u00e1 cuscuz pizza com ketchup hot dog com pur\u00ea bai\u00e3o d dois e feijoada espero q gostem / Foto: NATTAN, MC Ryan SP",
-  "num_followers": 428118,
+  "num_followers": 428565,
   "original_name": "Puro SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmNiZDYwNjY5M2U1YjUxZTNmZDA1NGUwYWU3OGE3YzUzM2RkYzgz",
+  "snapshot_id": "MCw0MjEyNzU5Mjk1NThiYThmZWQ0NWJmNGM2Y2I1OWNjOGY3MmJlYWY5",
   "tracks": [
     {
       "added_at": "2023-12-19 00:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-12-19 00:00:00",
       "album": {
+        "name": "POCPOC",
+        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "POCPOC",
+      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
+    },
+    {
+      "added_at": "2023-12-19 00:00:00",
+      "album": {
         "name": "Cad\u00ea o After? Pt. 1",
         "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 136615,
       "name": "Fode Bem",
       "url": "https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y"
-    },
-    {
-      "added_at": "2023-12-19 00:00:00",
-      "album": {
-        "name": "POCPOC",
-        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "POCPOC",
-      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
       "added_at": "2023-12-19 00:00:00",
@@ -823,34 +823,6 @@
     {
       "added_at": "2023-12-19 00:00:00",
       "album": {
-        "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
-        "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Chic\u00e3o do Piseiro",
-          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
-        },
-        {
-          "name": "Roni Bruno",
-          "url": "https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1"
-        },
-        {
-          "name": "Mts No Beat",
-          "url": "https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7"
-        }
-      ],
-      "duration_ms": 135892,
-      "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
-      "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
-    },
-    {
-      "added_at": "2023-12-19 00:00:00",
-      "album": {
         "name": "Eu Vou Cair na Noite",
         "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
       },
@@ -875,6 +847,34 @@
       "duration_ms": 125422,
       "name": "Eu Vou Cair na Noite",
       "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
+    },
+    {
+      "added_at": "2023-12-19 00:00:00",
+      "album": {
+        "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
+        "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Chic\u00e3o do Piseiro",
+          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
+        },
+        {
+          "name": "Roni Bruno",
+          "url": "https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1"
+        },
+        {
+          "name": "Mts No Beat",
+          "url": "https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7"
+        }
+      ],
+      "duration_ms": 135892,
+      "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
+      "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
     },
     {
       "added_at": "2023-12-19 00:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-12-19 00:00:00",
       "album": {
-        "name": "Joelma",
-        "url": "https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo"
-      },
-      "artists": [
-        {
-          "name": "Joelma",
-          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Voando Pro Par\u00e1",
-      "url": "https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP"
-    },
-    {
-      "added_at": "2023-12-19 00:00:00",
-      "album": {
         "name": "Piloto",
         "url": "https://open.spotify.com/album/5L36YBGqoD7axD0oKKUzuJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 127506,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/6ENiNztKLqbAKCJpk2yXaI"
+    },
+    {
+      "added_at": "2023-12-19 00:00:00",
+      "album": {
+        "name": "Joelma",
+        "url": "https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo"
+      },
+      "artists": [
+        {
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Voando Pro Par\u00e1",
+      "url": "https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP"
     },
     {
       "added_at": "2023-12-19 00:00:00",

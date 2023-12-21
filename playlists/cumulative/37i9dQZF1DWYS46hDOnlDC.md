@@ -4,7 +4,7 @@
 
 > Brown noise to help babies fall asleep.
 
-208 songs - 10 hr 7 min
+210 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Brown Noise Dreamscape](https://open.spotify.com/track/0MabVSH6Vk40h6qr5ZLH6h) | [HQ\-8](https://open.spotify.com/artist/2xEPxo2h04sAv4gBc24e3B) | [Brown Noise Dreamscape](https://open.spotify.com/album/1kZpaIcMSZnKmBIsWFZgXv) | 2:59 | 2023-10-06 |  |
 | [Brown Noise Dreamy Ambiance](https://open.spotify.com/track/2c8qv77B95riju9FAtL4QU) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Brown Noise Dreamy Ambiance](https://open.spotify.com/album/7chmHSAbYRRw0z3v9MUv0c) | 2:18 | 2023-10-06 |  |
 | [Brown Noise Dreamy Sounds](https://open.spotify.com/track/6Uc6mRODHNq04YLQIFXl1o) | [Dream Samples 드림 샘플](https://open.spotify.com/artist/3ldyvLiikXplDsstMBDmUY) | [Brown Noise Sleep Aid](https://open.spotify.com/album/6whbAN5a7AomUMXWA0PIJB) | 2:35 | 2023-10-06 |  |
+| [Brown Noise Exploration](https://open.spotify.com/track/4pWqC8kGnE1UJ5m2AXDLcZ) | [White Textures](https://open.spotify.com/artist/3po9omZSjr6BgIzdw2Wsjz) | [Brown Noise Exploration](https://open.spotify.com/album/75KvVXEJP8nP2Hs6hRUO8p) | 2:27 | 2023-12-20 |  |
 | [Brown Noise Flow](https://open.spotify.com/track/2VN8zktzoL7vtKXI4Td1Jj) | [W\-Noise](https://open.spotify.com/artist/1WyYW2KP02ZOzDl4e9HBuB) | [Lush Brown Noise](https://open.spotify.com/album/6tlBTXJBfObNuAxqUTEJ0H) | 2:24 | 2023-03-17 |  |
 | [Brown Noise Focus](https://open.spotify.com/track/53ao8qZRILIaYrCEb5uItT) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Brown Noise Focus](https://open.spotify.com/album/6dbUVNFmB5AtXdYtyfkggZ) | 3:43 | 2023-03-17 |  |
 | [Brown Noise Focus](https://open.spotify.com/track/0lXBRpmW0v0byWH3QHu5zY) | [Crafting Audio](https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9) | [Brown Noise Crib](https://open.spotify.com/album/0DhrmWOyiQ1xS1HmhbAMGX) | 2:36 | 2023-03-17 |  |
@@ -97,6 +98,7 @@
 | [Brown Noise Sleep Chamber](https://open.spotify.com/track/5u01gKSHevlxDlYeA7g3Te) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise Sounds of Space](https://open.spotify.com/album/1qVlq3BIklC1Ej0V9xuvHq) | 2:40 | 2023-03-17 |  |
 | [Brown Noise Sleep Frequencies](https://open.spotify.com/track/7sJSTQUO2PiiPP26a4G9yf) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Chill Brown Noise for my Ears](https://open.spotify.com/album/6BuAXSNxzUVVxEwILc71Yc) | 3:47 | 2023-03-17 |  |
 | [Brown Noise Snoozing](https://open.spotify.com/track/6HpHSbOQQdT94b2hKqHvlc) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Brown Noise in the Bedroom](https://open.spotify.com/album/10HKfIUPwczWd0ylU3rLJ2) | 3:44 | 2023-03-17 |  |
+| [Brown Noise Somnia](https://open.spotify.com/track/5pk7zhP7eXa8MfwjiiHX0S) | [Doug Carrlas](https://open.spotify.com/artist/3ZshreGfZ99jtTwoYcmmT5) | [Brown Noise Regulation](https://open.spotify.com/album/2SS7lIHxcIWAd9mu3nX0Tv) | 2:42 | 2023-12-20 |  |
 | [Brown Noise Soothing Sounds](https://open.spotify.com/track/395nn3mYgKDdImyOp2KNer) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Brown Noise Soothing Sounds](https://open.spotify.com/album/4FbZ6PYbI7veGhoxglIjIc) | 2:58 | 2023-03-17 |  |
 | [Brown Noise Sounds](https://open.spotify.com/track/6l8lAkm5VnM9K4UTe5KbFZ) | [Relaxed Skies](https://open.spotify.com/artist/7MuuwHQrVsCg68uvZHK35x) | [Brown Noise Sounds](https://open.spotify.com/album/43jEYINkA6K5AMdYapaZN3) | 3:00 | 2023-03-17 |  |
 | [Brown Noise Starry Sky](https://open.spotify.com/track/5e2ci1qw1XGOBGNHhspFSt) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Brown Noise Dreamy Ambiance](https://open.spotify.com/album/7chmHSAbYRRw0z3v9MUv0c) | 2:39 | 2023-10-06 |  |

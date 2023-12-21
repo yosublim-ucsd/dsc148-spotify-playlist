@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: BRUCKNER, Eli Preiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,140 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,277 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Party mit mir selbst](https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Party mit mir selbst](https://open.spotify.com/album/7FYIEyAdivc1sNE7j6cqkW) | 2:54 |
-| 2 | [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 |
-| 3 | [immatrikuliert](https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [immatrikuliert](https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW) | 2:24 |
+| 2 | [immatrikuliert](https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [immatrikuliert](https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW) | 2:24 |
+| 3 | [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 |
 | 4 | [neue welt](https://open.spotify.com/track/4BahctFbZ15m6Yw1ZsSOuq) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [schönheit die in schmerzen liegt](https://open.spotify.com/album/0VHB5d6cpwtQi6KZ2UZfUB) | 2:51 |
-| 5 | [o strasse](https://open.spotify.com/track/4WwrvzFnouOufSlZQf5gjc) | [WEIL](https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu) | [O STRASSE](https://open.spotify.com/album/3SQcKefvJEd3R7kvYgqqXK) | 3:03 |
-| 6 | [Drachenfrucht](https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Drachenfrucht](https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD) | 3:06 |
-| 7 | [vermiss nicht mehr](https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV) | [Mika](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [vermiss nicht mehr](https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ) | 2:53 |
-| 8 | [Bleiben können](https://open.spotify.com/track/3KHG0KGqP3kjZsOtD5tx9u) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Bleiben können](https://open.spotify.com/album/642EFDlyEu8rafHgDk9n5p) | 3:03 |
-| 9 | [Morgentau](https://open.spotify.com/track/6ZcX73DnGNfp0sFaS46dvM) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [Milliardäre & Verlierer](https://open.spotify.com/album/2XbQhG7bL5POsT9zXNFaFy) | 2:43 |
-| 10 | [Sterne Sehen](https://open.spotify.com/track/4vNMyM0fSjooHCBFOH0q8d) | [Sandra](https://open.spotify.com/artist/3cnQzVpUDcSTevTmiDthJ7) | [Sterne Sehen](https://open.spotify.com/album/3wD3VRmKxHgUpQ9NdngzZx) | 2:56 |
+| 5 | [Drachenfrucht](https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Drachenfrucht](https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD) | 3:06 |
+| 6 | [vermiss nicht mehr](https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV) | [Mika](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [vermiss nicht mehr](https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ) | 2:53 |
+| 7 | [Bleiben können](https://open.spotify.com/track/3KHG0KGqP3kjZsOtD5tx9u) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Bleiben können](https://open.spotify.com/album/642EFDlyEu8rafHgDk9n5p) | 3:03 |
+| 8 | [Sterne Sehen](https://open.spotify.com/track/4vNMyM0fSjooHCBFOH0q8d) | [Sandra](https://open.spotify.com/artist/3cnQzVpUDcSTevTmiDthJ7) | [Sterne Sehen](https://open.spotify.com/album/3wD3VRmKxHgUpQ9NdngzZx) | 2:56 |
+| 9 | [o strasse](https://open.spotify.com/track/4WwrvzFnouOufSlZQf5gjc) | [WEIL](https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu) | [O STRASSE](https://open.spotify.com/album/3SQcKefvJEd3R7kvYgqqXK) | 3:03 |
+| 10 | [Morgentau](https://open.spotify.com/track/6ZcX73DnGNfp0sFaS46dvM) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [Milliardäre & Verlierer](https://open.spotify.com/album/2XbQhG7bL5POsT9zXNFaFy) | 2:43 |
 | 11 | [Wenn du weinst](https://open.spotify.com/track/4P3DSLxQLg0il3pEBKsPTJ) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Wenn du weinst / Einmal verliebt \(Outro\)](https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas) | 3:22 |
 | 12 | [Nur 3 Sekunden](https://open.spotify.com/track/4xsNzTOHuiE211c4pSVoVw) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Nur 3 Sekunden](https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP) | 2:36 |
 | 13 | [Alles In Mir](https://open.spotify.com/track/7MmFcP5x6RcPmAWKKjvY5n) | [Lupid](https://open.spotify.com/artist/6MyDQj8ZCDSwJmA5P653Sr), [Lophelia](https://open.spotify.com/artist/1paJ5czNaSTO0uc5tslUl5) | [Alles In Mir](https://open.spotify.com/album/0WLmo4z8XSdmcYRCCw3QOq) | 2:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
 | 75 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 
-Snapshot ID: `MCw2YmUwNTllZDM1NDZhNzBjYjhiNzYzMjhiZmRjMDYxZDNjZTQ0N2E4`
+Snapshot ID: `MCxiNzM3ZmEzZDM4ZGU3MjIxODc5MDZlN2E4MDcxNDc0NjM2NGU5NGQ5`

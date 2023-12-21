@@ -2,7 +2,7 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: Fred Again
+> Your new favourite songs! Cover: Fred again..
 
 310 songs - 16 hr 45 min
 

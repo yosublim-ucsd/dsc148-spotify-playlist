@@ -1,12 +1,12 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 634034,
+  "num_followers": 634010,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzM4ZjBiM2VkNGJlYzFlZGQ2ZjVmYzFhZmU1ODkzYjdhYTM3MWQ3",
+  "snapshot_id": "MCxkNjVlOTdkMDk3YWVjYzBlZDcxZGExOThkNDVlZDNlZGFlMjBhZWZj",
   "tracks": [
     {
       "added_at": "2023-05-23 14:59:14",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Everybody Loves The Sunshine (Reissue)",
-        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Everybody Loves The Sunshine",
-      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 165066,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
+        "name": "Everybody Loves The Sunshine (Reissue)",
+        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
+        "name": "Sweat (A La La La La Long)",
+        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -1067,6 +1083,22 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
+        "name": "No, No, No",
+        "url": "https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU"
+      },
+      "artists": [
+        {
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+        }
+      ],
+      "duration_ms": 277893,
+      "name": "You Don't Love Me (No, No, No) - Extended Mix",
+      "url": "https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
         "name": "Elvis 30 #1 Hits (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
       },
@@ -1083,22 +1115,6 @@
       "duration_ms": 213240,
       "name": "A Little Less Conversation - JXL Radio Edit Remix",
       "url": "https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
-        "name": "No, No, No",
-        "url": "https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU"
-      },
-      "artists": [
-        {
-          "name": "Dawn Penn",
-          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "You Don't Love Me (No, No, No) - Extended Mix",
-      "url": "https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -1147,22 +1163,6 @@
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
-        "name": "Sweat (A La La La La Long)",
-        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
         "name": "Alright, Still (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 196893,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
     }
   ],
   "unique_name": "Summer BBQ",

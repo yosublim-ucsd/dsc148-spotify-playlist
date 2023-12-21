@@ -978,7 +978,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 215433,
       "name": "El Hoyo",
       "url": "https://open.spotify.com/track/4efCIxfbgtf27uvOD0c3cB"
@@ -1186,6 +1186,24 @@
       "duration_ms": 197209,
       "name": "Gitrox",
       "url": "https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM"
+    },
+    {
+      "album": {
+        "name": "Gitrox",
+        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197209,
+      "name": "Gitrox",
+      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
     },
     {
       "album": {

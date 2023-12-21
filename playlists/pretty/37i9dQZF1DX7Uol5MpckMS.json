@@ -1,47 +1,127 @@
 {
   "description": "Le meilleur des  ann\u00e9es 60 en 60 titres.",
-  "num_followers": 99941,
+  "num_followers": 99974,
   "original_name": "Ann\u00e9es 60",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmExZjA1NDMyYThhODExYTdmZWM1ZWVjNDM3OWRjYmFiY2JlZmE1",
+  "snapshot_id": "MCxmZTcyYjk3YThiOGU0ODEwMmEwZmNiZWRiNGJmMWRiMzdhNTA3OTQ3",
   "tracks": [
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Reach Out I'll Be There",
-      "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
-        "name": "Be My Baby: The Very Best of The Ronettes",
-        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 160906,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "The Letter/Neon Rainbow",
+        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
+      },
+      "artists": [
+        {
+          "name": "The Box Tops",
+          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
+        }
+      ],
+      "duration_ms": 112800,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
@@ -61,71 +141,7 @@
       "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "Green Onions",
-        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "Le p\u00e9nitencier",
-        "url": "https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Le p\u00e9nitencier",
-      "url": "https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Capri C'Est Fini",
         "url": "https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7"
@@ -141,7 +157,23 @@
       "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "Drive My Car - Remastered 2009",
+      "url": "https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "The Very Best of Solomon Burke",
         "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
@@ -157,55 +189,55 @@
       "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
-        "name": "The Letter/Neon Rainbow",
-        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
+        "name": "Be My Baby: The Very Best of The Ronettes",
+        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
       },
       "artists": [
         {
-          "name": "The Box Tops",
-          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
         }
       ],
-      "duration_ms": 112800,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+        "name": "Le p\u00e9nitencier",
+        "url": "https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
         }
       ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+      "duration_ms": 245493,
+      "name": "Le p\u00e9nitencier",
+      "url": "https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
-        "name": "Aerial Ballet",
-        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
       },
       "artists": [
         {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 163586,
-      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
-      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
+      "duration_ms": 178533,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
@@ -221,23 +253,7 @@
       "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "From Elvis in Memphis",
         "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
@@ -253,23 +269,7 @@
       "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Rock Around The Clock",
         "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
@@ -301,39 +301,7 @@
       "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hebb",
-          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "Surf City: The Best Of Jan & Dean",
-        "url": "https://open.spotify.com/album/1q3jhhU1DSw1zNAoeyhCsE"
-      },
-      "artists": [
-        {
-          "name": "Jan & Dean",
-          "url": "https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "Surf City - Remastered 1990/Stereo Remix",
-      "url": "https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
@@ -353,55 +321,23 @@
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
-        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
-        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
       },
       "artists": [
         {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+          "name": "Bobby Hebb",
+          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
         }
       ],
-      "duration_ms": 148506,
-      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
-      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+      "duration_ms": 165066,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Michelle - Remastered 2009",
-      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
@@ -417,23 +353,71 @@
       "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
-        "name": "Mellow Yellow",
-        "url": "https://open.spotify.com/album/0J1VCLopDIqOyU2nxK0CZ9"
+        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
+        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
       },
       "artists": [
         {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
         }
       ],
-      "duration_ms": 227226,
-      "name": "Mellow Yellow",
-      "url": "https://open.spotify.com/track/4cix9zymmhisLuM56RDcB7"
+      "duration_ms": 148506,
+      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
+      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "Surf City: The Best Of Jan & Dean",
+        "url": "https://open.spotify.com/album/1q3jhhU1DSw1zNAoeyhCsE"
+      },
+      "artists": [
+        {
+          "name": "Jan & Dean",
+          "url": "https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "Surf City - Remastered 1990/Stereo Remix",
+      "url": "https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "Just Once In My Life",
+        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "The Very Best of The Dixie Cups: Chapel of Love",
         "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
@@ -449,7 +433,39 @@
       "url": "https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "Aerial Ballet",
+        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 163586,
+      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "Mellow Yellow",
+        "url": "https://open.spotify.com/album/0J1VCLopDIqOyU2nxK0CZ9"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Mellow Yellow",
+      "url": "https://open.spotify.com/track/4cix9zymmhisLuM56RDcB7"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Hommages",
         "url": "https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/1Q6j1dx7pXzuLZLAexFWuQ"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Sings His Favorites",
         "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Les Champs-\u00c8lys\u00e9es",
         "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
@@ -529,23 +545,7 @@
       "url": "https://open.spotify.com/track/3gvUS6JaXzbXNihHQlRWBW"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "Herman's Hermits Retrospective",
-        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
-      },
-      "artists": [
-        {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "No Milk Today",
-      "url": "https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Out Of Our Heads",
         "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "The Exciting Wilson Pickett",
         "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/245la2fLeLCOpBWDjgE8rj"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
@@ -609,23 +609,7 @@
       "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
-      "album": {
-        "name": "The Fabulous Miracles",
-        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
-      },
-      "artists": [
-        {
-          "name": "The Miracles",
-          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
-    },
-    {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "At Home",
         "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
@@ -641,7 +625,23 @@
       "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Les Annees Barclay",
         "url": "https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/58d1Duljvjx8bwG4nlLgK6"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "The Essential Roy Orbison",
         "url": "https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Playlist: The Best Of Little Eva",
         "url": "https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/53UXqZaarqFPAFEy7dT1m1"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "50 Big Ones: Greatest Hits",
         "url": "https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/3mXexrmtPJ1KdWN37rYePx"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "En Vogue",
         "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Please Mr. Postman",
         "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
         "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Happy Together",
         "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Oh Happy Day: The Best Of The Edwin Hawkins Singers",
         "url": "https://open.spotify.com/album/4ZIuHLkXVaiAcEaMWzTKcF"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/34yIb7hw5SuR80au1BHTtt"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Buffalo Springfield",
         "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
     },
     {
-      "added_at": "2023-02-03 12:35:00",
+      "added_at": "2023-12-20 10:53:46",
       "album": {
         "name": "Make Way for Dionne Warwick",
         "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"

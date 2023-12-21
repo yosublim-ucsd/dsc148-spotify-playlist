@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Matt Force & Young Queenz
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,735 likes - 108 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,740 likes - 108 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 107 | [Crashing Chase \(Drillphony\)](https://open.spotify.com/track/5yaoEzPu52YqtGGWm7uRlN) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [Crashing Chase \(Drillphony\)](https://open.spotify.com/album/4cGqnjLgNFjhI2vyMDa4pO) | 2:34 |
 | 108 | [Sorry呢度係香港 \- REMIX](https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Sorry呢度係香港 \(REMIX\)](https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN) | 4:06 |
 
-Snapshot ID: `MCw5NzQ3YzNjYTU1NWRmM2ZjOTc3YjBlYmFmOTIyZmQ3NzA5Yzg1OWU2`
+Snapshot ID: `MCw5M2JhZWYwNDQyNDA5OGJlZjBlZTdkZDM4MmY4YmFjZWViMzExNGFh`

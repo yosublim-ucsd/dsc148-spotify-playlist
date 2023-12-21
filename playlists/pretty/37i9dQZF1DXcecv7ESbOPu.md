@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,014 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,021 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 98 | [Home Haircut](https://open.spotify.com/track/7141NXqWJ8HaO406GMcozw) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10 Year Anniversary Edition\)](https://open.spotify.com/album/5TOhNGKg7g4jiVcWYvI7JQ) | 3:43 |
 | 99 | [There She Goes](https://open.spotify.com/track/2xf56ZPRuJmvzhXPTbhC9j) | [Wyrds](https://open.spotify.com/artist/3nBx42jUOew3eDgF4UmH2o) | [Wyrds](https://open.spotify.com/album/2XyiblgjJo88EMgbLz9hQK) | 3:45 |
 
-Snapshot ID: `MCw4ZjE1ZTRiM2M5MmI4ZGNhYTA3ZWM4NWZjNWI2ODY2ZmVmNjQ0NzRk`
+Snapshot ID: `MCwzYzU1NjVmNzI0MmZlMjFlNzAxZTZkMGU3NjE0YTFmNWYxYWNmZTIy`

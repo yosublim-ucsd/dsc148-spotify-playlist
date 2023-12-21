@@ -4,7 +4,7 @@
 
 > 
 
-570 songs - 1 day 2 hr 40 min
+571 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [HOT WIND BLOWS \(feat\. Lil Wayne\)](https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:35 | 2023-10-03 |  |
 | [How Did We Know?](https://open.spotify.com/track/78rgKkKbtMOR182mR13HYZ) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Mr.Perfect](https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4) | 2:29 | 2022-07-17 | 2023-12-14 |
 | [How It Feels](https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:46 | 2022-06-19 |  |
-| [How it go](https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:04 | 2023-02-28 | 2023-05-09 |
+| [How it go](https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:04 | 2023-02-28 |  |
 | [HTAFL](https://open.spotify.com/track/0ezt3b76CRzJcmCMmCVmbw) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:55 | 2022-12-23 | 2023-05-09 |
 | [I Bought Her \(feat\. Lil Duke\)](https://open.spotify.com/track/7HPUVxJdwGMujRmstBlvp7) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:21 | 2023-07-13 |  |
 | [I Choose Violence](https://open.spotify.com/track/4HiLV59Z9iCaWbbBxRregh) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [I Choose Violence](https://open.spotify.com/album/48UIGbmSKJGDOFniUwOsd1) | 2:38 | 2023-01-09 | 2023-12-14 |
@@ -487,6 +487,7 @@
 | [Succubus](https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:29 | 2023-10-27 |  |
 | [Suicide Doors](https://open.spotify.com/track/3fDTzkvrOo5xQIO480Qmsb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:19 | 2023-07-12 |  |
 | [Suicide Mission](https://open.spotify.com/track/6GpRLxHvsTayOnY83TZdmM) | [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [Suicide Mission](https://open.spotify.com/album/3oXmHRYseFn96UYT2I3BR1) | 2:25 | 2022-09-12 | 2023-04-12 |
+| [Sum 2 do](https://open.spotify.com/track/7sjhOYcPgeSv3oj3IkFTeK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:32 | 2023-12-20 |  |
 | [Summer Reign \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ELl4Rhgv6oqSbqWIomjs3) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:55 | 2023-04-04 | 2023-05-09 |
 | [Sup Mate \(feat\. Future\)](https://open.spotify.com/track/0zNHMc1cGKe4MO5rtGtKRh) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:58 | 2023-10-03 |  |
 | [Survival Tactics](https://open.spotify.com/track/4pNT8XTKWb2vhcsqwzdXCT) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Capital Steez](https://open.spotify.com/artist/0oQuXVLDJB7J4wNff4F99l) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 3:22 | 2022-09-08 | 2023-05-09 |

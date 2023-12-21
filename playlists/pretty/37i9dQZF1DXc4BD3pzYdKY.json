@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:0GdzQJqgRL5SHp7kXOKba0\">Wande</a>",
-  "num_followers": 144609,
+  "num_followers": 144666,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDAwYzI5OGMzZmUyMzZlMGY0MDk4OTBhYzIyNzkxNWI3NzcxNTNm",
+  "snapshot_id": "MCxiZGViZjcxNjM2MDVmMDM4Zjc3MWRiMjM5NGQ1NTY0ZjI5Njc0NGMx",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Durag Tech",
-        "url": "https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY"
-      },
-      "artists": [
-        {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
-        }
-      ],
-      "duration_ms": 140122,
-      "name": "Tough Love",
-      "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 163500,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Durag Tech",
+        "url": "https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY"
+      },
+      "artists": [
+        {
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+        }
+      ],
+      "duration_ms": 140122,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/2GN4epksZV5WFSZDs1EE6C"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 181199,
-      "name": "Confetti",
-      "url": "https://open.spotify.com/track/5EmyCt8M4Ws9wY3wcT3i50"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 216000,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/2GN4epksZV5WFSZDs1EE6C"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 181199,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/5EmyCt8M4Ws9wY3wcT3i50"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 154970,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "MMA FREESTYLE",
         "url": "https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 151200,
       "name": "MMA FREESTYLE",
       "url": "https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 154970,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+        "name": "ALOT",
+        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
       },
       "artists": [
         {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
+      "duration_ms": 145011,
+      "name": "ALOT",
+      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "ALOT",
-        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 145011,
-      "name": "ALOT",
-      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "TIL ITS DONE",
+        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "TIL ITS DONE",
+      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "DUHHH",
         "url": "https://open.spotify.com/album/5wOV9LHdr0wJCReA99G1l1"
       },
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "TIL ITS DONE",
-        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/28K5FbI0YB10Ur7Yu5IXlR"
       },
       "artists": [
         {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
         }
       ],
-      "duration_ms": 172205,
-      "name": "TIL ITS DONE",
-      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
+      "duration_ms": 118848,
+      "name": "LIGHTHOUSE",
+      "url": "https://open.spotify.com/track/298kUZPvMcmBS9piV4fGOe"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 173972,
       "name": "Up",
       "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/28K5FbI0YB10Ur7Yu5IXlR"
-      },
-      "artists": [
-        {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
-        }
-      ],
-      "duration_ms": 118848,
-      "name": "LIGHTHOUSE",
-      "url": "https://open.spotify.com/track/298kUZPvMcmBS9piV4fGOe"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Steve Austin",
+        "url": "https://open.spotify.com/album/7AOKuoJt2Rk58ADL73Dlvc"
+      },
+      "artists": [
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        },
+        {
+          "name": "Zay Bans",
+          "url": "https://open.spotify.com/artist/02CuhMuCS2mUwmaOC8GU0i"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Steve Austin",
+      "url": "https://open.spotify.com/track/7yCIngefnxTlVztCrcFiTZ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "That Ain't It",
         "url": "https://open.spotify.com/album/4hqUjrpp4zDaZU5CNdAnBV"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 219375,
       "name": "That Ain't It",
       "url": "https://open.spotify.com/track/7rFQRFe1bOVQweyZUBKkqe"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Steve Austin",
-        "url": "https://open.spotify.com/album/7AOKuoJt2Rk58ADL73Dlvc"
-      },
-      "artists": [
-        {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
-        },
-        {
-          "name": "Zay Bans",
-          "url": "https://open.spotify.com/artist/02CuhMuCS2mUwmaOC8GU0i"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Steve Austin",
-      "url": "https://open.spotify.com/track/7yCIngefnxTlVztCrcFiTZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",

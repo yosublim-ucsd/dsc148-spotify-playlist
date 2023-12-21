@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 31682,
+  "num_followers": 31687,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmQ1NDFhYmQxNmUzNWQ4MDBlMjNiMWVlODg5NzQyZDRkZTA1NjBh",
+  "snapshot_id": "MCxhOTE1Mjk3YTZmZTFiODc2YjYyZTFmM2VhNjIyZDQzNmE0OWI4ZjMx",
   "tracks": [
     {
       "added_at": "2023-12-08 00:22:41",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Vo!!",
         "url": "https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 353520,
       "name": "A Night in Tunisia",
       "url": "https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "ROM\u00c1N",
         "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 276249,
       "name": "Scon",
       "url": "https://open.spotify.com/track/75PPgwqKRWlnwPJyyhcIQ7"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "ONTOLOGY",
         "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Milonga Del Fin Del Mundo",
-        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 324720,
-      "name": "Milonga Del Fin Del Mundo",
-      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Milonga Del Fin Del Mundo",
+        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 324720,
+      "name": "Milonga Del Fin Del Mundo",
+      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
         "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
       },
@@ -451,46 +467,6 @@
       "duration_ms": 198960,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
-        }
-      ],
-      "duration_ms": 493933,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -531,6 +507,30 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+        }
+      ],
+      "duration_ms": 493933,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Malosetti & la Colonia",
         "url": "https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 215136,
       "name": "Rusty",
       "url": "https://open.spotify.com/track/06k4d1KJ5iokCdTuzdVjCe"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Bolombolo",
-        "url": "https://open.spotify.com/album/3IFEqe6eN93OVkaLOGnosX"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 284957,
-      "name": "Bolombolo",
-      "url": "https://open.spotify.com/track/15F0dvScWM4gTKHVbJDjgx"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -599,22 +583,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "El Bosque Brillante",
-        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
-      },
-      "artists": [
-        {
-          "name": "Lucio Balduini",
-          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "En Busca de la Tierra Sin Mal",
-      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
         "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 363986,
       "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
       "url": "https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Bolombolo",
+        "url": "https://open.spotify.com/album/3IFEqe6eN93OVkaLOGnosX"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 284957,
+      "name": "Bolombolo",
+      "url": "https://open.spotify.com/track/15F0dvScWM4gTKHVbJDjgx"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "El Bosque Brillante",
+        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
+      },
+      "artists": [
+        {
+          "name": "Lucio Balduini",
+          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "En Busca de la Tierra Sin Mal",
+      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -699,18 +699,34 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
       },
       "artists": [
         {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
         }
       ],
-      "duration_ms": 140213,
-      "name": "I'm Beginning to See the Light",
-      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "ESCALECTRIC",
+        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 286798,
+      "name": "Parque Chas",
+      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -735,34 +751,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "ESCALECTRIC",
-        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
       "artists": [
         {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
         }
       ],
-      "duration_ms": 286798,
-      "name": "Parque Chas",
-      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
-      },
-      "artists": [
-        {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
+      "duration_ms": 140213,
+      "name": "I'm Beginning to See the Light",
+      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -779,6 +779,26 @@
       "duration_ms": 303186,
       "name": "Una Abeja Durmiente",
       "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "ROM\u00c1N",
+        "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
+      },
+      "artists": [
+        {
+          "name": "ROM\u00c1N",
+          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
+        },
+        {
+          "name": "Sergio Wagner",
+          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
+        }
+      ],
+      "duration_ms": 291561,
+      "name": "Bill's Groove",
+      "url": "https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -807,26 +827,6 @@
       "duration_ms": 339612,
       "name": "Veinte Trajes Verdes",
       "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "ROM\u00c1N",
-        "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
-      },
-      "artists": [
-        {
-          "name": "ROM\u00c1N",
-          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
-        },
-        {
-          "name": "Sergio Wagner",
-          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
-        }
-      ],
-      "duration_ms": 291561,
-      "name": "Bill's Groove",
-      "url": "https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV"
     },
     {
       "added_at": "2023-12-08 00:22:41",

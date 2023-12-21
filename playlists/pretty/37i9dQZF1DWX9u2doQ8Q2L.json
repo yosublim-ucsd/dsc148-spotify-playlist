@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 384121,
+  "num_followers": 384258,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjE3NDNhMzFhNTk2ODllNTMyY2VlYjcxODYzNzJjMjQ1N2RiYmJh",
+  "snapshot_id": "MCwwZWRiNjNlY2ZlNTBlY2YwZmMyMDFhMjBkNDYxMjZjMjNkZmEyYTkw",
   "tracks": [
     {
       "added_at": "2023-12-19 15:00:00",
@@ -43,8 +43,8 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30a6\u30d7",
-        "url": "https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4oBjaVl3xzRyVXxiB3T8Yz"
       },
       "artists": [
         {
@@ -53,8 +53,8 @@
         }
       ],
       "duration_ms": 208333,
-      "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30a6\u30d7",
-      "url": "https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei"
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/4Dmz6KqXiNdYYv8tcTyNdU"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -112,7 +112,7 @@
       "added_at": "2023-12-19 15:00:00",
       "album": {
         "name": "exported_file_3",
-        "url": "https://open.spotify.com/album/3BeffI7B19qsbPrTCl3zFr"
+        "url": "https://open.spotify.com/album/3TJkSdCPkoF8S16CjPFefr"
       },
       "artists": [
         {
@@ -126,7 +126,7 @@
       ],
       "duration_ms": 219566,
       "name": "Babe Ruth",
-      "url": "https://open.spotify.com/track/4Bluk2vE1JKN1CfmFoGF8Y"
+      "url": "https://open.spotify.com/track/424LrLYs7WnTu0pmTEdrCJ"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
         }
       ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "\u3055\u3059\u3089\u3044",
-        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
       "artists": [
         {
-          "name": "Tamio Okuda",
-          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 206200,
-      "name": "\u3055\u3059\u3089\u3044",
-      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
+        "name": "\u4e71\u75f4\u6c17",
+        "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "duration_ms": 221428,
+      "name": "\u4e71\u75f4\u6c17",
+      "url": "https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx"
+    },
+    {
+      "added_at": "2023-12-19 15:00:00",
+      "album": {
         "name": "Losing Game",
         "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "\u4e71\u75f4\u6c17",
-        "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
+        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
       },
       "artists": [
         {
-          "name": "BREIMEN",
-          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 221428,
-      "name": "\u4e71\u75f4\u6c17",
-      "url": "https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx"
+      "duration_ms": 235814,
+      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
       },
       "artists": [
         {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
         }
       ],
-      "duration_ms": 235814,
-      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
+      "duration_ms": 226843,
+      "name": "Around the Corner",
+      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Dusk to Dawn",
-        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+        "name": "Kiss Me, Winter",
+        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 226843,
-      "name": "Around the Corner",
-      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
+      "duration_ms": 221737,
+      "name": "Kiss Me, Winter",
+      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Kiss Me, Winter",
-        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 221737,
-      "name": "Kiss Me, Winter",
-      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
-    },
-    {
-      "added_at": "2023-12-19 15:00:00",
-      "album": {
         "name": "WORLD DANCE",
         "url": "https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1"
       },
@@ -1335,30 +1335,6 @@
       "duration_ms": 221666,
       "name": "WORLD DANCE",
       "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
-    },
-    {
-      "added_at": "2023-12-19 15:00:00",
-      "album": {
-        "name": "Miss You feat. Vernon of SEVENTEEN",
-        "url": "https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW"
-      },
-      "artists": [
-        {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        },
-        {
-          "name": "VERNON",
-          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Miss You feat. Vernon of SEVENTEEN",
-      "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1387,6 +1363,30 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
+        "name": "Miss You feat. Vernon of SEVENTEEN",
+        "url": "https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW"
+      },
+      "artists": [
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "VERNON",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Miss You feat. Vernon of SEVENTEEN",
+      "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
+    },
+    {
+      "added_at": "2023-12-19 15:00:00",
+      "album": {
         "name": "\u5927\u56e3\u5186",
         "url": "https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM"
       },
@@ -1403,6 +1403,26 @@
       "duration_ms": 325851,
       "name": "\u5927\u56e3\u5186",
       "url": "https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb"
+    },
+    {
+      "added_at": "2023-12-19 15:00:00",
+      "album": {
+        "name": "Snowy Road",
+        "url": "https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8"
+      },
+      "artists": [
+        {
+          "name": "WONK",
+          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "duration_ms": 292249,
+      "name": "Snowy Road",
+      "url": "https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1431,22 +1451,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Snowy Road",
-        "url": "https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8"
+        "name": "rose",
+        "url": "https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL"
       },
       "artists": [
         {
-          "name": "WONK",
-          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
-        },
-        {
-          "name": "9m88",
-          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
         }
       ],
-      "duration_ms": 292249,
-      "name": "Snowy Road",
-      "url": "https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4"
+      "duration_ms": 136986,
+      "name": "rose",
+      "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1463,22 +1479,6 @@
       "duration_ms": 241920,
       "name": "\u7121\u9650\u3055",
       "url": "https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O"
-    },
-    {
-      "added_at": "2023-12-19 15:00:00",
-      "album": {
-        "name": "rose",
-        "url": "https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL"
-      },
-      "artists": [
-        {
-          "name": "KID FRESINO",
-          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
-        }
-      ],
-      "duration_ms": 136986,
-      "name": "rose",
-      "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Regrets",
-        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 265961,
-      "name": "Regrets",
-      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
-    },
-    {
-      "added_at": "2023-12-19 15:00:00",
-      "album": {
         "name": "Snake",
         "url": "https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 187898,
       "name": "Snake",
       "url": "https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf"
+    },
+    {
+      "added_at": "2023-12-19 15:00:00",
+      "album": {
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 265961,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
+        "name": "We'll be fine (English Version)",
+        "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
+      },
+      "artists": [
+        {
+          "name": "ReN",
+          "url": "https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus"
+        }
+      ],
+      "duration_ms": 197029,
+      "name": "We'll be fine - English Version",
+      "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
+    },
+    {
+      "added_at": "2023-12-19 15:00:00",
+      "album": {
         "name": "Runner's High",
         "url": "https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia"
       },
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "We'll be fine (English Version)",
-        "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
+        "name": "Pacific Line",
+        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
       },
       "artists": [
         {
-          "name": "ReN",
-          "url": "https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus"
+          "name": "Kidella",
+          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
         }
       ],
-      "duration_ms": 197029,
-      "name": "We'll be fine - English Version",
-      "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
+      "duration_ms": 251922,
+      "name": "Pacific Line",
+      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 252377,
       "name": "Fleeting Fantasy",
       "url": "https://open.spotify.com/track/7cnffSWM6sJuNuMzQapfJX"
-    },
-    {
-      "added_at": "2023-12-19 15:00:00",
-      "album": {
-        "name": "Pacific Line",
-        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
-      },
-      "artists": [
-        {
-          "name": "Kidella",
-          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
-        }
-      ],
-      "duration_ms": 251922,
-      "name": "Pacific Line",
-      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
     },
     {
       "added_at": "2023-12-19 15:00:00",

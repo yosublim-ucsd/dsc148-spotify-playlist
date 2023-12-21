@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-119 songs - 5 hr 57 min
+120 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Play Dumb](https://open.spotify.com/track/0IrIlT6XttUFdsQkk9ZkVe) | [OwlVez](https://open.spotify.com/artist/0YAFjgw3FmgrIHzZdvrV0V) | [Play Dumb](https://open.spotify.com/album/4xjjCaQjqKgHl8tjfREOCm) | 3:59 | 2023-03-30 | 2023-04-07 |
 | [Play It Cool](https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Play It Cool](https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa) | 2:43 | 2023-04-27 |  |
 | [Pretty Lil Psycho](https://open.spotify.com/track/5sYN77e1LaHtO54ZtlUl4I) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Pretty Lil Psycho](https://open.spotify.com/album/0Vaa1DOf1Fc55zaEYAJqxj) | 2:57 | 2023-04-27 | 2023-05-06 |
-| [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 | 2023-06-08 |  |
+| [radio silence](https://open.spotify.com/track/3WhmrxCpab3VwyjDwWDhd2) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/5XBSkHZDG6Jo1D8ylFZdad) | 2:10 | 2023-12-14 |  |
+| [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 | 2023-06-08 | 2023-12-21 |
 | [Sanguine \- Pastel Remix](https://open.spotify.com/track/45DcpHNu6MLivmNaalRIZo) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Sanguine \(Pastel Remix\)](https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP) | 3:09 | 2023-03-30 | 2023-05-12 |
 | [Sapio\-Medula](https://open.spotify.com/track/4O5EL0Ih7QTWDfU51XUGvB) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Sapio\-Medula](https://open.spotify.com/album/5UqlwxwUB2lyCuFWBRqryI) | 2:52 | 2023-03-30 |  |
 | [Sauti Ya Mama](https://open.spotify.com/track/5KNyOkHMhD5ggdC9EYog3M) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Bruce Rooke](https://open.spotify.com/artist/3lOsr3FQbUN9gsckrlALjP), [Marlene Bett](https://open.spotify.com/artist/5JTUHLasjXvikbEIELwzr6) | [Planting Seeds](https://open.spotify.com/album/2JQP7mytuHqdtIdC5rIM6b) | 3:41 | 2023-05-05 | 2023-07-08 |

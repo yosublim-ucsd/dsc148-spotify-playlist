@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 181123,
+  "num_followers": 181166,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmYyYWIzOTBlMGY2NWMyZmM0ZDA5OTdmNmQ1ZDJlMjZkZDBlMzY1",
+  "snapshot_id": "MCw1ZTQ4MDVmZWM0YWE3YmQyNjQ1MzAyNTMwZjQ2ZGYzODY5Njc2NDYz",
   "tracks": [
     {
       "added_at": "2023-09-07 20:59:53",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "La Flor Azul",
-      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Carnaval, Pasi\u00f3n del Norte",
         "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 202053,
       "name": "Canto Nochero",
       "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Paisaje",
-        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Agitando Pa\u00f1uelos",
-      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "From Argentina To The World",
         "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 416573,
       "name": "Candombe del Olvido",
       "url": "https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Agitando Pa\u00f1uelos",
+      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "El Encuentro (En Vivo)",
-        "url": "https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U"
+        "name": "Viajes Por El Mundo",
+        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
         }
       ],
-      "duration_ms": 146373,
-      "name": "El Escondido - En Vivo",
-      "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
+      "duration_ms": 172800,
+      "name": "Los Ejes de Mi Carreta",
+      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Viajes Por El Mundo",
-        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Los Ejes de Mi Carreta",
-      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 272986,
       "name": "Sue\u00f1ero",
       "url": "https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "El Encuentro (En Vivo)",
+        "url": "https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 146373,
+      "name": "El Escondido - En Vivo",
+      "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1391,18 +1391,26 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Los 3 del R\u00edo",
-        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
+        "name": "Concierto del Alma",
+        "url": "https://open.spotify.com/album/2x35VXSZW6xfQQSvSnYIVW"
       },
       "artists": [
         {
-          "name": "Los 3 Del R\u00edo",
-          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
+          "name": "Los Changos",
+          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
+        },
+        {
+          "name": "Franco Barrionuevo",
+          "url": "https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb"
+        },
+        {
+          "name": "Luis Paredes",
+          "url": "https://open.spotify.com/artist/62b29phHmw4APV3xe26cco"
         }
       ],
-      "duration_ms": 256441,
-      "name": "Angelitos Negros",
-      "url": "https://open.spotify.com/track/26vjShJngRrRkg9WViCm5U"
+      "duration_ms": 213733,
+      "name": "Purmamarca",
+      "url": "https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1439,42 +1447,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Concierto del Alma",
-        "url": "https://open.spotify.com/album/2x35VXSZW6xfQQSvSnYIVW"
+        "name": "Los 3 del R\u00edo",
+        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
       },
       "artists": [
         {
-          "name": "Los Changos",
-          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
-        },
-        {
-          "name": "Franco Barrionuevo",
-          "url": "https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb"
-        },
-        {
-          "name": "Luis Paredes",
-          "url": "https://open.spotify.com/artist/62b29phHmw4APV3xe26cco"
+          "name": "Los 3 Del R\u00edo",
+          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
         }
       ],
-      "duration_ms": 213733,
-      "name": "Purmamarca",
-      "url": "https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
-        "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
-        "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 770851,
-      "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
-      "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
+      "duration_ms": 256441,
+      "name": "Angelitos Negros",
+      "url": "https://open.spotify.com/track/26vjShJngRrRkg9WViCm5U"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1491,6 +1475,22 @@
       "duration_ms": 148933,
       "name": "Serenata Oto\u00f1al",
       "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+        "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 770851,
+      "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+      "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
     },
     {
       "added_at": "2023-09-07 20:59:53",

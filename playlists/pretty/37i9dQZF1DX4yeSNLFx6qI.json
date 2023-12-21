@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1750213,
+  "num_followers": 1750314,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjc3NjQzMjM5ZDZiMDcxZTI3YzUyZTkxOThjNjFhMGQwMDk1MTc3",
+  "snapshot_id": "MCwxNTAwZjc1MGQ1ZDM4MGI0YzY0MzhlOGNlMTBiM2M2YWNkNGI1ZDBj",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "De M\u00e9xico",
+        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 199140,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Falta Amor",
         "url": "https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 203760,
       "name": "Falta Amor",
       "url": "https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "De M\u00e9xico",
-        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 199140,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "S\u00f3lo Para Mujeres",
         "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
       },
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
+        "name": "Circo Soledad",
+        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
+      "duration_ms": 231680,
+      "name": "El Que Olvida",
+      "url": "https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Circo Soledad",
-        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "El Que Olvida",
-      "url": "https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Lluvia: Rain City Vol.2",
         "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Rabia",
-        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Rabia",
-      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Coraz\u00f3n Sin Vida",
         "url": "https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Rabia",
+        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Rabia",
+      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Lo siento (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
       },
@@ -1203,26 +1203,6 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "PAUSA",
-        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 232331,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1255,6 +1235,26 @@
       "duration_ms": 221139,
       "name": "Si hubieras querido",
       "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "PAUSA",
+        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 232331,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Tr\u00e1iler",
-        "url": "https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw"
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 226213,
-      "name": "Vas A Quedarte",
-      "url": "https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ"
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1355,6 +1355,22 @@
       "duration_ms": 194986,
       "name": "Te echo de menos",
       "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Tr\u00e1iler",
+        "url": "https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Vas A Quedarte",
+      "url": "https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1403,22 +1419,6 @@
       "duration_ms": 164380,
       "name": "Con la Falta Que Me Haces",
       "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1487,18 +1487,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Amar Sin Mentiras",
-        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 305346,
-      "name": "Ahora Quien",
-      "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
+      "duration_ms": 198448,
+      "name": "Lo Siento Mucho",
+      "url": "https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
+        "name": "Amar Sin Mentiras",
+        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 198448,
-      "name": "Lo Siento Mucho",
-      "url": "https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ"
+      "duration_ms": 305346,
+      "name": "Ahora Quien",
+      "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Noviembre Sin Ti",
-      "url": "https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 237373,
       "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Noviembre Sin Ti",
+      "url": "https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3"
     },
     {
       "added_at": "2023-12-08 05:00:00",

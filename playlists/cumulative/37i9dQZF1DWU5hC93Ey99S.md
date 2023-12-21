@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-366 songs - 19 hr 58 min
+367 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [Touch \(feat\. Franky\)](https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0), [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Touch \(feat\. Franky\)](https://open.spotify.com/album/6FYOzfKvTJK9MWO88AQep2) | 2:48 | 2023-09-07 |  |
 | [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 | 2023-11-02 |  |
 | [Try](https://open.spotify.com/track/1YJ8Sx2YZjBFNWhvCDUEKa) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Try](https://open.spotify.com/album/4r5rI5k5ansCDpZ8tfRuv5) | 3:47 | 2023-11-30 |  |
-| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc) | 4:27 | 2023-04-13 |  |
+| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc) | 4:27 | 2023-04-13 | 2023-12-21 |
+| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/5nONSliAVb1xEaMfo2U8h6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 4:27 | 2023-12-14 |  |
 | [Twēnty Minutēs in thē Futurē](https://open.spotify.com/track/1Xx5u7h6xIuMKDCnSeJSve) | [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Twēnty Minutēs in thē Futurē](https://open.spotify.com/album/3qUeV4hq55UtpDXUcGasm1) | 4:27 | 2023-05-16 |  |
 | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/track/41tVFPYF12LM42hypwG1Dz) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [U \(feat\. BRONZE AVERY\)](https://open.spotify.com/album/1RQq3Vx56aNEnKHI1XXnkT) | 3:27 | 2023-04-27 |  |
 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 | 2023-08-17 |  |

@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -8128,6 +8128,28 @@
       "duration_ms": 252800,
       "name": "Kh\u00e1c Bi\u1ec7t To L\u1edbn H\u01a1n",
       "url": "https://open.spotify.com/track/7CVdUE4KKpZkmHYAGVN0o4"
+    },
+    {
+      "album": {
+        "name": "(T\u1eadp 13) Ca S\u0129 M\u1eb7t N\u1ea1 M\u00f9a 2 [The Masked Singer Vietnam]",
+        "url": "https://open.spotify.com/album/11ohaWQqHaltxnEt7NmrCK"
+      },
+      "artists": [
+        {
+          "name": "The Masked Singer",
+          "url": "https://open.spotify.com/artist/1dwfi5uS5pfQMhAic73Q7L"
+        },
+        {
+          "name": "Voi B\u1ea3n \u0110\u00f4n",
+          "url": "https://open.spotify.com/artist/485ZBvx89ZzKuDS5Cjlyc3"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Kh\u00f3a Ly Bi\u1ec7t (feat. Voi B\u1ea3n \u0110\u00f4n)",
+      "url": "https://open.spotify.com/track/3BlB5wlzdbgCJGkuPcNVIW"
     },
     {
       "album": {
@@ -15252,7 +15274,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Th\u00edch Qu\u00e1 R\u00f9i N\u00e0",
       "url": "https://open.spotify.com/track/4qJSUFwZFouto5VZUlln75"
@@ -16532,7 +16554,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 192186,
       "name": "Van Gogh (feat. Ashley Alisha)",
       "url": "https://open.spotify.com/track/1sEOTXdVl8X7SzuJi0P1cq"
@@ -16634,7 +16656,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 170958,
       "name": "Vi\u1ec7t Ki\u1ec1u",
       "url": "https://open.spotify.com/track/59LeatGytui1mQleoiEnWM"
@@ -17936,7 +17958,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 217150,
       "name": "\u0110\u0110\u0110",
       "url": "https://open.spotify.com/track/3vsmNXDJsCUt2ESWPwFaAv"

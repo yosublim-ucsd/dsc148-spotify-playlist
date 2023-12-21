@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,834 likes - 118 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,886 likes - 118 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 25 | [All Your Love \- Mono](https://open.spotify.com/track/6jKcmgac1pj1iaqBPsF3rF) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:35 |
 | 26 | [Railway And Gun](https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7) | [Taste](https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3) | [On The Boards](https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8) | 3:36 |
 | 27 | [Rock Me Baby](https://open.spotify.com/track/7jixAsWYi2j8kI8SCFO84j) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Twice Removed from Yesterday](https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu) | 4:15 |
-| 28 | [Blues In D Natural](https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Galloping Horses a Lazy Mule / Blues in D Natural](https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ) | 2:15 |
-| 29 | [The Hunter](https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 4:14 |
+| 28 | [The Hunter](https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 4:14 |
+| 29 | [Blues In D Natural](https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Galloping Horses a Lazy Mule / Blues in D Natural](https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ) | 2:15 |
 | 30 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 |
 | 31 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
 | 32 | [I Must Have A Hole In My Head](https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1) | [Buster Benton](https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4) | [Blues & Trouble \(Blues Reference 1983\-1985\)](https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt) | 3:31 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 66 | [Like It This Way](https://open.spotify.com/track/1lq2ADWqMMsEqfLeGAyKCf) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Men of the World: The Early Years](https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE) | 3:11 |
 | 67 | [Good Time Charlie \- Pt\. 1 / Single Version](https://open.spotify.com/track/5HSJ3BzoAWbE0qdRD0YvvQ) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 2:34 |
 | 68 | [Somebody Help Me \- Mono Version](https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 2:16 |
-| 69 | [Highway 60](https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 2:30 |
-| 70 | [Built For Comfort](https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Howlin' Wolf Album](https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT) | 5:11 |
+| 69 | [Built For Comfort](https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Howlin' Wolf Album](https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT) | 5:11 |
+| 70 | [Highway 60](https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 2:30 |
 | 71 | [I Can't Quit The Blues](https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 3:20 |
 | 72 | [Callin' For My Darlin'](https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Door To Door](https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP) | 3:02 |
 | 73 | [Hound Dog](https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 2:26 |
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 114 | [Get Your Game Up Tight](https://open.spotify.com/track/0tztP3jhFIlZOm5jhd5q7L) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:39 |
 | 115 | [Lonesome Whistle Blues](https://open.spotify.com/track/0239B2zmduD88ZXOiBMOjj) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [40 Blue Fingers Freshly Packed & Ready to Serve](https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV) | 3:04 |
 | 116 | [The Letter](https://open.spotify.com/track/6rYpL8O8zMiwLY4nOq8nqr) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [40 Blue Fingers Freshly Packed & Ready to Serve](https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV) | 4:30 |
-| 117 | [Crack Your Head](https://open.spotify.com/track/3EFG47BHNvUfAcHyO3622C) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 2:56 |
-| 118 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
+| 117 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
+| 118 | [Crack Your Head](https://open.spotify.com/track/3EFG47BHNvUfAcHyO3622C) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 2:56 |
 
-Snapshot ID: `MCwyOTMyY2RjYzk2MzdhNmY4ZDAwMDRhNGU4ZjFiYTQ0M2JhYzcxY2E4`
+Snapshot ID: `MCxjY2EyNDdjZDUyMzZmYWI4Y2MxMzE5N2ExOTE4MDk2MTU5YmVjZDlh`

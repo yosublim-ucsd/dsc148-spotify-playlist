@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,181 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,261 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Foreigner \- Remix](https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Foreigner \(Remix\)](https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR) | 3:53 |
 | 50 | [Santé](https://open.spotify.com/track/1XPQalXJbjYH9NdndXHxmU) | [FUL](https://open.spotify.com/artist/2iQnY6e0Mq4fepcLm7AHAZ), [Cysoul](https://open.spotify.com/artist/212RAD04CL3a1XwexVB129), [GBC the Yemba](https://open.spotify.com/artist/07yKhu1K2QOiWM9j7MYd92) | [Santé](https://open.spotify.com/album/6fjYYh9hPTXD652nXseuL2) | 3:33 |
 
-Snapshot ID: `MCw0YTg0NzgzYTM1Y2RjN2M5NmJlMTc3OWE2Nzc3M2Y5Yjg2M2Q2YWI1`
+Snapshot ID: `MCxiYmQ1YWJiODg0MDdjN2M2Y2ZiZmY1NjE0NmFmNDI4MTc2NjE5YmFl`

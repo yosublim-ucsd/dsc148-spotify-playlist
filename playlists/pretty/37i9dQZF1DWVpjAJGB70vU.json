@@ -1,12 +1,12 @@
 {
   "description": "Country that made Country Cool! Cover: Martina McBride",
-  "num_followers": 1733333,
+  "num_followers": 1733671,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzQ5OGIzNjQyNWI4NDNlNWE4YzAwZmY2M2I4NzQ2MTUxNmExOGY3",
+  "snapshot_id": "MCxmMWY2Yzg3ZTU4ZWM2MzNkYWY1ODAwMzVmMmQ5Y2FkNjY0MjdjYmNj",
   "tracks": [
     {
       "added_at": "2023-12-11 20:32:32",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
+        "name": "John Michael Montgomery",
+        "url": "https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
         }
       ],
-      "duration_ms": 205706,
-      "name": "I Like It, I Love It",
-      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
+      "duration_ms": 152186,
+      "name": "Sold (The Grundy County Auction Incident)",
+      "url": "https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "John Michael Montgomery",
-        "url": "https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk"
+        "name": "Carrying Your Love With Me",
+        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 152186,
-      "name": "Sold (The Grundy County Auction Incident)",
-      "url": "https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR"
+      "duration_ms": 232426,
+      "name": "Carrying Your Love With Me",
+      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Carrying Your Love With Me",
-        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 232426,
-      "name": "Carrying Your Love With Me",
-      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
+      "duration_ms": 205706,
+      "name": "I Like It, I Love It",
+      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "You've Got to Stand for Something",
         "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 182280,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Boomtown",
         "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
       },
@@ -1155,18 +1139,34 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "I'm From The Country",
-        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 213973,
-      "name": "I'm From The Country - Single Version",
-      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
+      "duration_ms": 219506,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Paint Me A Birmingham",
+      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+        "name": "I'm From The Country",
+        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
         }
       ],
-      "duration_ms": 219506,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+      "duration_ms": 213973,
+      "name": "I'm From The Country - Single Version",
+      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
+        "name": "Honky Tonk Attitude",
+        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 228173,
-      "name": "Paint Me A Birmingham",
-      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
+      "duration_ms": 272066,
+      "name": "John Deere Green",
+      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Honky Tonk Attitude",
-        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
+        "name": "The Greatest Hits Collection",
+        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 272066,
-      "name": "John Deere Green",
-      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
+      "duration_ms": 147640,
+      "name": "Tall, Tall Trees",
+      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "The Greatest Hits Collection",
-        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 147640,
-      "name": "Tall, Tall Trees",
-      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Used To Want To Be A Cowboy",
         "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
       "artists": [
         {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Party Crowd",
-      "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+      },
+      "artists": [
+        {
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Party Crowd",
+      "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
         "name": "When Love Finds You",
         "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 315973,
       "name": "Go Rest High On That Mountain",
       "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1455,22 +1471,6 @@
       "duration_ms": 170546,
       "name": "A Little Less Talk And A Lot More Action",
       "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Wink",
+      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
         "name": "Toby Keith",
         "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 183493,
       "name": "Daddy's Money",
       "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Wink",
-      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
       },
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
         "name": "Can't Run From Yourself",
         "url": "https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS"
       },
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "When Fallen Angels Fly",
-        "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
-      },
-      "artists": [
-        {
-          "name": "Patty Loveless",
-          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "I Try to Think About Elvis",
-      "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Michael Peterson",
         "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 182306,
       "name": "Drink, Swear, Steal & Lie",
       "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "When Fallen Angels Fly",
+        "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
+      },
+      "artists": [
+        {
+          "name": "Patty Loveless",
+          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "I Try to Think About Elvis",
+      "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
     },
     {
       "added_at": "2023-12-11 20:32:32",

@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-296 songs - 19 hr 9 min
+297 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-03-11 | 2023-02-10 |
 | [Memoriam](https://open.spotify.com/track/0Le2T1wm78Ycrtj7vdrCwG) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Memoriam](https://open.spotify.com/album/61dUMU9JXCrHEHhXgu3yFC) | 6:15 | 2020-12-07\* | 2022-07-29 |
 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 | 2020-12-07\* | 2022-07-29 |
-| [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-20 |  |
+| [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-20 | 2023-12-21 |
 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 | 2022-10-28 | 2023-12-14 |
 | [molotov \[OK\]](https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:16 | 2022-03-11 |  |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2022-03-11 | 2022-07-20 |
@@ -189,6 +189,7 @@
 | [One Second](https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 3:36 | 2022-03-11 | 2022-11-14 |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-10 |  |
 | [Paralyzed](https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Paralyzed](https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ) | 3:45 | 2022-10-28 |  |
+| [Parasite](https://open.spotify.com/track/0LIKFnTpKGhbxZUIRzsZ5G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 1:56 | 2023-09-15 |  |
 | [Parasite](https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl) | 1:56 | 2023-08-07 | 2023-11-17 |
 | [Peacekeepers](https://open.spotify.com/track/7pXR2dMRaCpxz5zOrE0lP9) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Peacekeepers](https://open.spotify.com/album/6n6NSUl6ACzrurerNthgHh) | 4:13 | 2020-12-07\* | 2022-07-29 |
 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 | 2021-10-02 |  |

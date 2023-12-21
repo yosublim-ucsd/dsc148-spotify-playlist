@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Luis Vazquez",
-  "num_followers": 256186,
+  "num_followers": 256205,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGNhNGMyNzI2OTc3YmI2NzRlODJjMzYxOGYyNmI4ZjhhNDNlYTAy",
+  "snapshot_id": "MCxhNTgwNjIyZDBhNjczODI5YTBiNDU0MDA5OGZmM2Y5YWFkYTYyZGMz",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "La Depre",
+        "url": "https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 123954,
+      "name": "La Depre",
+      "url": "https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 180525,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "La Depre",
-        "url": "https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 123954,
-      "name": "La Depre",
-      "url": "https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Esta Canci\u00f3n",
-        "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        },
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 214145,
-      "name": "Esta Canci\u00f3n",
-      "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Tu Cepillo",
         "url": "https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr"
       },
@@ -671,26 +651,6 @@
       "duration_ms": 184115,
       "name": "Tu Cepillo",
       "url": "https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Amigos (con Maria Becerra) [Bachata]",
-        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 202702,
-      "name": "Amigos (con Maria Becerra) - Bachata",
-      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -711,6 +671,46 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Esta Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        },
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 214145,
+      "name": "Esta Canci\u00f3n",
+      "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Amigos (con Maria Becerra) [Bachata]",
+        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 202702,
+      "name": "Amigos (con Maria Becerra) - Bachata",
+      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "DESAHOGO",
+        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "ORGULLO",
+      "url": "https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
         "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "DESAHOGO",
-        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 202360,
-      "name": "ORGULLO",
-      "url": "https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa"
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -819,22 +835,6 @@
       "duration_ms": 175637,
       "name": "MI HOGAR (with maye)",
       "url": "https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
       },
@@ -899,26 +915,6 @@
       "duration_ms": 206412,
       "name": "Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "AVENTURA",
-        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
-      },
-      "artists": [
-        {
-          "name": "ZABDIEL",
-          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 193059,
-      "name": "AVENTURA",
-      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
     }
   ],
   "unique_name": "el nuevo tropical",

@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1393496,
+  "num_followers": 1393438,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWQ3NmU2NmJlZDM1OTYwOGJkN2RhYjY0OGQzMTk1NzY2MmY1OWNk",
+  "snapshot_id": "MCxkYWM3ZTBhYjNkZTAzNGY3NmMyMWZjYWE0OTBiZjkzMDJlYzNmYzUx",
   "tracks": [
     {
       "added_at": "2023-11-17 12:42:49",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-11-17 12:42:49",
       "album": {
-        "name": "SABIDURIA",
-        "url": "https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 173389,
-      "name": "Gogo Dance",
-      "url": "https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY"
-    },
-    {
-      "added_at": "2023-11-17 12:42:49",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 182496,
       "name": "AM",
       "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
+    },
+    {
+      "added_at": "2023-11-17 12:42:49",
+      "album": {
+        "name": "SABIDURIA",
+        "url": "https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 173389,
+      "name": "Gogo Dance",
+      "url": "https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY"
     },
     {
       "added_at": "2023-11-17 12:42:49",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-11-17 12:42:49",
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 216510,
+      "name": "Sal y Perrea",
+      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
+    },
+    {
+      "added_at": "2023-11-17 12:42:49",
+      "album": {
         "name": "ULALA (OOH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 188009,
       "name": "ULALA (OOH LA LA)",
       "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
-    },
-    {
-      "added_at": "2023-11-17 12:42:49",
-      "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 216510,
-      "name": "Sal y Perrea",
-      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
     },
     {
       "added_at": "2023-11-17 12:42:49",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2023-11-17 12:42:49",
       "album": {
+        "name": "De Lejitos",
+        "url": "https://open.spotify.com/album/1VNoHWmXgGPGZ2gh7fnVHv"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "De Lejitos",
+      "url": "https://open.spotify.com/track/5CygAGV9yYyI2LP20KqQKl"
+    },
+    {
+      "added_at": "2023-11-17 12:42:49",
+      "album": {
         "name": "Mayor Que Usted",
         "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 233519,
       "name": "Mayor Que Usted",
       "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
-    },
-    {
-      "added_at": "2023-11-17 12:42:49",
-      "album": {
-        "name": "De Lejitos",
-        "url": "https://open.spotify.com/album/1VNoHWmXgGPGZ2gh7fnVHv"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "De Lejitos",
-      "url": "https://open.spotify.com/track/5CygAGV9yYyI2LP20KqQKl"
     },
     {
       "added_at": "2023-11-17 12:42:49",

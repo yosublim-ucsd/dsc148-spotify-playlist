@@ -4,7 +4,7 @@
 
 > ❤️ o 💔
 
-178 songs - 10 hr 21 min
+179 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Loca Remix](https://open.spotify.com/track/2CRbiMK0W14l71SpDKqKZM) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/7cxeVJQVXJlwIblOXISb5j) | 5:46 | 2021-12-03 | 2022-07-29 |
 | [Lovely](https://open.spotify.com/track/0YK1xpP7b0cUqsz9ufibY9) | [Oky](https://open.spotify.com/artist/1BFHETdKcBBY0RzwN7Vk8X) | [Lovely](https://open.spotify.com/album/4BihoPW5Pzt56iZUxVltfS) | 3:49 | 2021-12-03 | 2022-07-22 |
 | [Lágrimas](https://open.spotify.com/track/13kuMdBb3At8Zn9mR9syok) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Lágrimas](https://open.spotify.com/album/1yW7ht58hRXBMfd9chL7yN) | 2:45 | 2021-12-03 | 2022-07-29 |
+| [Lágrimas](https://open.spotify.com/track/444OdOAcr6hl19xXSSNui6) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/4tX5TRvNHeHey4907K7qlF) | 2:45 | 2023-11-24 |  |
 | [Lágrimas](https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d) | 2:45 | 2022-06-18 | 2023-07-24 |
 | [Lágrimas](https://open.spotify.com/track/6lqAPHFWOM0m6n6yHJxryB) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/1ohao2KDQwLkTR3shBAQKi) | 2:45 | 2022-12-09 | 2023-12-06 |
 | [Me Atrapa](https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [KUN](https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc) | 2:52 | 2021-12-03 |  |
@@ -137,7 +138,7 @@
 | [Pero Ya No](https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:40 | 2021-12-03 | 2023-04-28 |
 | [Prefiero](https://open.spotify.com/track/1WrVjFkswM2JthLruEiCoD) | [Jere Profeta](https://open.spotify.com/artist/1relyDsZ39v8wnCAETwwF2), [Mks](https://open.spotify.com/artist/6v36LGGRNEleSpAd2zAeQL) | [Prefiero](https://open.spotify.com/album/0NkOhSaCHPr2x5brYhu3pF) | 3:13 | 2021-12-03 | 2022-07-28 |
 | [Primera Vez](https://open.spotify.com/track/0jRnQ0qTi3BRei6p0AunAH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:09 | 2021-12-03 |  |
-| [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 | 2021-12-03 |  |
+| [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 | 2021-12-03 | 2023-12-21 |
 | [Quedate Sola](https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Quedate Sola](https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl) | 4:30 | 2021-12-03 |  |
 | [Quiero Verte](https://open.spotify.com/track/2fNC45MpzPT4UGLRYQIlgT) | [Jlanny](https://open.spotify.com/artist/7lH1ZyMNGF48kByiB1sJXC), [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4) | [Quiero Verte](https://open.spotify.com/album/5CF06dL7gEHlLEPQlUruEC) | 3:40 | 2022-01-28 | 2022-07-13 |
 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 | 2021-12-03 |  |

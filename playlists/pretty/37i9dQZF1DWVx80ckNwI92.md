@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,993 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,994 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 43 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 |
 | 44 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 |
 | 45 | [Special](https://open.spotify.com/track/7I6XUPmFLP99J5LxTJDmcQ) | [Gabriela Diamond](https://open.spotify.com/artist/0L7Ck6i3Zr1UBztHOYQRoo) | [Special](https://open.spotify.com/album/56DtRfqO1chs9KwEJHuWSm) | 2:43 |
-| 46 | [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 |
+| 46 | [radio silence](https://open.spotify.com/track/3WhmrxCpab3VwyjDwWDhd2) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/5XBSkHZDG6Jo1D8ylFZdad) | 2:10 |
 | 47 | [BETTER ALONE](https://open.spotify.com/track/63GMEfty0JTpj3K3h4hRpU) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [BETTER ALONE](https://open.spotify.com/album/4VYfGqjme7LhRtizdBtOEC) | 2:37 |
 | 48 | [Dream](https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw) | [Lu+Fi](https://open.spotify.com/artist/3xFvlpW2g6u4m9MEsGr5Hl) | [Dream](https://open.spotify.com/album/7EdonZTj4jX986R521QplF) | 2:45 |
 | 49 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
 | 50 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
 
-Snapshot ID: `MCwzY2EwOTlhMTczYTVlODlhMjIwOTIyMDkyODRjNzA1ZWJiYTc5OGQw`
+Snapshot ID: `MCxjOWMxZDg4NzQyNGZjMmRlOTU4ZjRjYTNmNjJhN2E2NzE4MzU4MGU5`

@@ -82,6 +82,32 @@
     {
       "album": {
         "name": "Blue Planet II (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6aXolSS4oP1j52cdCxOr5L"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265373,
+      "name": "Big Blue",
+      "url": "https://open.spotify.com/track/1KxY8BAcftJSRX5riy49VP"
+    },
+    {
+      "album": {
+        "name": "Blue Planet II (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/58UEPESaEj37jd2SUMr1yT"
       },
       "artists": [
@@ -152,7 +178,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 265373,
       "name": "Big Blue",
       "url": "https://open.spotify.com/track/3LxM1tyPgZGGG4cI8y9KbB"
@@ -2146,6 +2172,32 @@
     {
       "album": {
         "name": "Blue Planet II (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6aXolSS4oP1j52cdCxOr5L"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142026,
+      "name": "Surfing Dolphins",
+      "url": "https://open.spotify.com/track/48qRLedRTIrbddH9Zm9FJO"
+    },
+    {
+      "album": {
+        "name": "Blue Planet II (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/58UEPESaEj37jd2SUMr1yT"
       },
       "artists": [
@@ -2190,7 +2242,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 142026,
       "name": "Surfing Dolphins",
       "url": "https://open.spotify.com/track/4L4US8YLWUyxhI0PE8JtoX"

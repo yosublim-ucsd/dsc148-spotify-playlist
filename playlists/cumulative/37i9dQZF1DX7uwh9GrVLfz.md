@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ガガガSP
 
-687 songs - 1 day 12 hr 45 min
+689 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [One step forward](https://open.spotify.com/track/4lgr7mrXi5JM34HZrZTaOd) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [One step forward](https://open.spotify.com/album/5oIQmkz2uqaHMB3vSzXmJ9) | 1:52 | 2023-06-13 | 2023-06-28 |
 | [Only once](https://open.spotify.com/track/2s92nIri4MOFCg6QeVRZKC) | [プピリットパロ](https://open.spotify.com/artist/0Wqd6QKWApCBqdiJEbfkZm) | [Only once](https://open.spotify.com/album/7sSDLjJh4tnCOt5OIAO2gX) | 2:56 | 2023-10-31 | 2023-11-08 |
 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 | 2022-05-12 | 2023-12-08 |
+| [Open Up My Heart](https://open.spotify.com/track/3ITmLRVfTAQkdBgCUyrBeA) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS) | 3:43 | 2023-12-19 |  |
 | [Orange Night](https://open.spotify.com/track/6KZPFuYlff4NA8Q9nIgWUv) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [Orange Night](https://open.spotify.com/album/2O2s9JdtTXJtXGKShSQtel) | 3:34 | 2023-10-10 | 2023-11-01 |
 | [Our House](https://open.spotify.com/track/3ifwpICoKxqFIbGqkBMEVF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DIZZYLAND \-To Infinity & Beyond\-](https://open.spotify.com/album/3QZv7ZWvLzPmL0aJqx2QMM) | 1:54 | 2022-05-12 | 2022-07-28 |
 | [Out in Bloom](https://open.spotify.com/track/2yVrpY1ilEaovzQW4XS8Zj) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Out in Bloom](https://open.spotify.com/album/4eVijcTaBTYJoMKd2VfuaH) | 4:50 | 2022-10-25 | 2023-01-13 |
@@ -325,7 +326,7 @@
 | [PARTY PARTY](https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH) | 3:39 | 2022-07-21 |  |
 | [PARTY PARTY](https://open.spotify.com/track/5fQhMh1MGMb5EkqCq0NKx1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/1pOBHASO8kcEwbd53ZZkd0) | 3:39 | 2022-05-12 | 2022-07-28 |
 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 | 2023-01-05 |  |
-| [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 | 2023-07-11 |  |
+| [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 | 2023-07-11 | 2023-12-21 |
 | [Place of Fire \(Beginning mix\)](https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Beginning](https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye) | 4:14 | 2022-05-12 | 2022-07-24 |
 | [Plasma](https://open.spotify.com/track/6CgPvIU9seQdHAS69Ftuuc) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [LAB](https://open.spotify.com/album/7pbytUjxaiUTwfVxuirlqB) | 2:46 | 2022-05-19 | 2022-07-25 |
 | [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 | 2022-05-31 |  |
@@ -405,7 +406,8 @@
 | [Sparkle Light](https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:13 | 2022-05-12 | 2023-08-09 |
 | [Spilling Water](https://open.spotify.com/track/6TCCx0Ueu4YDGtXiIbxIl2) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [Where I Belong](https://open.spotify.com/album/5glTfPmsuhDSzmnSrwdyyS) | 3:33 | 2022-05-12 | 2022-07-27 |
 | [Spineless Black](https://open.spotify.com/track/5inOkwVKe3HaVEb3cL2vFX) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [Spineless Black](https://open.spotify.com/album/4Lk3VyougEhhTTSknMOoqi) | 4:18 | 2022-05-12 | 2022-07-24 |
-| [St.ROSALIA](https://open.spotify.com/track/2RJPRXjpsDK0xyVfgNqoMR) | [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki) | [St\. ROSALIA](https://open.spotify.com/album/43e5TtPmMPi61k6Q2x0r8B) | 4:52 | 2023-12-19 |  |
+| [St.ROSALIA](https://open.spotify.com/track/0pt8HXNsijGE4jefgYpNSk) | [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki) | [St\. ROSALIA](https://open.spotify.com/album/0TdxzkKJTNqDHKXzW0N158) | 4:52 | 2023-12-19 |  |
+| [St.ROSALIA](https://open.spotify.com/track/2RJPRXjpsDK0xyVfgNqoMR) | [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki) | [St\. ROSALIA](https://open.spotify.com/album/43e5TtPmMPi61k6Q2x0r8B) | 4:52 | 2023-12-19 | 2023-12-21 |
 | [Star Falls On Our Hands Tonight](https://open.spotify.com/track/4oR4CLlb28cJfhnLy8cOVi) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [RINGS](https://open.spotify.com/album/6Pq5LR08qt9lf1YyP6pZtX) | 3:28 | 2022-05-19 | 2022-07-29 |
 | [STAR HIGH](https://open.spotify.com/track/6FX5Lz5hv454VbJCUZBqsy) | [WESTERN STAGE](https://open.spotify.com/artist/6TDe4nZC9oHCeANm5iAeFW) | [STAR HIGH](https://open.spotify.com/album/6TXnScqi7HwxgPPnoGbxLr) | 3:21 | 2023-08-22 | 2023-10-04 |
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 | 2023-09-08 |

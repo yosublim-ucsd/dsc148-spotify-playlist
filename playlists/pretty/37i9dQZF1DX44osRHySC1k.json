@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52386,
+  "num_followers": 52387,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGVkM2NmY2M2NWQzY2ViMDY4ZjQ1NGFkYjIzYjIxMDE0MjUxNWE5",
+  "snapshot_id": "MCxlM2ZlN2I4YTc0ZDg3NDRmYzBmYTQ4YWIxNzE4MmM3ZTdmZjM5NmNh",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -419,6 +419,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Winds of Haryana",
+        "url": "https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "duration_ms": 176106,
+      "name": "The Tower of Embellion",
+      "url": "https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
         "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Winds of Haryana",
-        "url": "https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07"
+        "name": "Close your eyes",
+        "url": "https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0"
       },
       "artists": [
         {
-          "name": "Muni Yogi",
-          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+          "name": "Koby Laver",
+          "url": "https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75"
         }
       ],
-      "duration_ms": 176106,
-      "name": "The Tower of Embellion",
-      "url": "https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0"
+      "duration_ms": 192000,
+      "name": "Close your eyes",
+      "url": "https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -495,22 +511,6 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Close your eyes",
-        "url": "https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0"
-      },
-      "artists": [
-        {
-          "name": "Koby Laver",
-          "url": "https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Close your eyes",
-      "url": "https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -659,18 +659,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+        "name": "Dream Dependence",
+        "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
       },
       "artists": [
         {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+          "name": "Viclo",
+          "url": "https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97"
         }
       ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+      "duration_ms": 155459,
+      "name": "Dream dependence",
+      "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -691,18 +691,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dream Dependence",
-        "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
       "artists": [
         {
-          "name": "Viclo",
-          "url": "https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97"
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
         }
       ],
-      "duration_ms": 155459,
-      "name": "Dream dependence",
-      "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dream Voucher",
-        "url": "https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ"
-      },
-      "artists": [
-        {
-          "name": "Rannar Sillard",
-          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
-        }
-      ],
-      "duration_ms": 155039,
-      "name": "Dream Voucher",
-      "url": "https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "If you ever change your mind",
         "url": "https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 122000,
       "name": "If you ever change your mind",
       "url": "https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Dream Voucher",
+        "url": "https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ"
+      },
+      "artists": [
+        {
+          "name": "Rannar Sillard",
+          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
+        }
+      ],
+      "duration_ms": 155039,
+      "name": "Dream Voucher",
+      "url": "https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 137172,
       "name": "Astral Therapy",
       "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Flowing Strings",
-        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 278797,
-      "name": "Buenas Noches",
-      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 162061,
       "name": "Solace",
       "url": "https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Flowing Strings",
+        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 278797,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dulces Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 245514,
-      "name": "Dulces Sue\u00f1os",
-      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 186461,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Dulces Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 245514,
+      "name": "Dulces Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
+      },
+      "artists": [
+        {
+          "name": "Sufi Ellman",
+          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
+        }
+      ],
+      "duration_ms": 135903,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Bubble",
-          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Broadchurch (Music From The Original TV Series)",
         "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 263347,
       "name": "Danny",
       "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Bubble",
+          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
+        "name": "Heavenly Walk",
+        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
       },
       "artists": [
         {
-          "name": "Sufi Ellman",
-          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
+          "name": "Minisol",
+          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
         }
       ],
-      "duration_ms": 135903,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
+      "duration_ms": 284513,
+      "name": "Heavenly Walk",
+      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1383,22 +1399,6 @@
       "duration_ms": 141521,
       "name": "Storybook",
       "url": "https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Heavenly Walk",
-        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
-      },
-      "artists": [
-        {
-          "name": "Minisol",
-          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
-        }
-      ],
-      "duration_ms": 284513,
-      "name": "Heavenly Walk",
-      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
     },
     {
       "added_at": "2021-06-24 10:58:44",

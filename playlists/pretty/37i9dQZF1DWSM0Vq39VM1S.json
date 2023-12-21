@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 157993,
+  "num_followers": 158041,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzllN2NhMGIxOTk1MmQ5ODBiNGVkOWU3MTgzZmY4N2MzMTdlZjNk",
+  "snapshot_id": "MCxlMTU3MzYwOTcxNWE2ZmI1NzlhMWIzNTlmMmZmZWJjNzZiZTE4NWVj",
   "tracks": [
     {
       "added_at": "2023-12-13 12:56:56",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Slow Running",
-        "url": "https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 262205,
-      "name": "Slow Running",
-      "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 199400,
       "name": "Flaws",
       "url": "https://open.spotify.com/track/7kGSlff8LYntGZQVk65liB"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Slow Running",
+        "url": "https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 262205,
+      "name": "Slow Running",
+      "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
     },
     {
       "added_at": "2023-12-13 12:56:56",

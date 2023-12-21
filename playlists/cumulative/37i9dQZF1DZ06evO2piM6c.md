@@ -4,7 +4,7 @@
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 28 min
+60 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Keep Looking](https://open.spotify.com/track/0Q97fST0xHWAEahe28rMrb) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:21 | 2021-12-28 |  |
 | [King of Sorrow](https://open.spotify.com/track/0qQcQIj6htaCX7KFrsciNU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:53 | 2021-12-28 |  |
 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 | 2021-12-28 |  |
-| [Like A Tattoo](https://open.spotify.com/track/4FSODqy1KStAlvQJmH7vR9) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Like A Tattoo](https://open.spotify.com/album/2UaT96Sd2dBECtupDDASAO) | 4:20 | 2023-09-18 |  |
+| [Like A Tattoo](https://open.spotify.com/track/4FSODqy1KStAlvQJmH7vR9) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Like A Tattoo](https://open.spotify.com/album/2UaT96Sd2dBECtupDDASAO) | 4:20 | 2023-09-18 | 2023-12-21 |
 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 | 2021-12-28 |  |
+| [Like A Tattoo \- Slowed Down](https://open.spotify.com/track/6BBjvruQhRiJsrxr7qJThj) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [slowed down audioss](https://open.spotify.com/artist/6bMREuqsHFPKAi9ZtVxp0G) | [Like A Tattoo \(Slowed Down\)](https://open.spotify.com/album/10CvU2TbBrLTcLXqGr8R2L) | 4:49 | 2023-12-20 |  |
 | [Long Hard Road](https://open.spotify.com/track/54jCmeAxT4NZMav0qQYC7P) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:01 | 2022-03-15 |  |
 | [Love Is Found](https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:08 | 2021-12-28 |  |
 | [Love Is Stronger Than Pride](https://open.spotify.com/track/5Qrcxc2YPomtX6UB0bwNaf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:18 | 2021-12-28 |  |

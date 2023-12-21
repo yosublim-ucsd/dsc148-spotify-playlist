@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Rufus Wainwright ",
-  "num_followers": 472361,
+  "num_followers": 472385,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjYwMTc3MTI3NTQwMTYzYzI3NWMzOWFmZGI3OGExZTllOTY0ZmZk",
+  "snapshot_id": "MCxjMTM0OGE3NzM5ODE5M2YzYWY5MDVkMDE0YmYyZWU4NjNhZDFhM2Q3",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -779,6 +779,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Boots Of Spanish Leather",
+        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 282173,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -807,22 +839,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Boots Of Spanish Leather",
-        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 282173,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 255675,
       "name": "If It Makes You Happy",
       "url": "https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "The Boxer",
-        "url": "https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI"
-      },
-      "artists": [
-        {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
-        }
-      ],
-      "duration_ms": 151817,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "To Emmylou",
         "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 173714,
       "name": "Prayer in Open D",
       "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "The Boxer",
+        "url": "https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        }
+      ],
+      "duration_ms": 151817,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Hey Me, Hey Mama",
-        "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
+        "name": "Pine Hollow (Live)",
+        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 210604,
-      "name": "Hey Me, Hey Mama",
-      "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
+      "duration_ms": 253000,
+      "name": "Jolene - Live",
+      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Pine Hollow (Live)",
-        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
+        "name": "Hey Me, Hey Mama",
+        "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 253000,
-      "name": "Jolene - Live",
-      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
+      "duration_ms": 210604,
+      "name": "Hey Me, Hey Mama",
+      "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Farewell Transmission b/w The Dark Don\u2019t Hide It",
         "url": "https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 417533,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Free Fallin'",
-        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 291930,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 152885,
       "name": "I Think We\u2019re Alone Now",
       "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Free Fallin'",
+        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 291930,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "To Ramona",
-        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         }
       ],
-      "duration_ms": 217586,
-      "name": "To Ramona",
-      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Unknown Legend",
         "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
       },
@@ -1571,42 +1587,6 @@
       "duration_ms": 248360,
       "name": "Unknown Legend",
       "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "For Better, Or Worse",
-        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Fiona Prine",
-          "url": "https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI"
-        }
-      ],
-      "duration_ms": 175334,
-      "name": "My Happiness (feat. Fiona Prine)",
-      "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Covers, Ch. 1",
-        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
-      },
-      "artists": [
-        {
-          "name": "The Sweeplings",
-          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1631,6 +1611,42 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Covers, Ch. 1",
+        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
+      },
+      "artists": [
+        {
+          "name": "The Sweeplings",
+          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "For Better, Or Worse",
+        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Fiona Prine",
+          "url": "https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI"
+        }
+      ],
+      "duration_ms": 175334,
+      "name": "My Happiness (feat. Fiona Prine)",
+      "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Saint Cloud +3",
         "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 278456,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2023-12-15 05:00:00",

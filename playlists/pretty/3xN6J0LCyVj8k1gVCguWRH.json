@@ -1,12 +1,12 @@
 {
   "description": "Best songs of 2023 plus some of Obama&#x27;s favorite summer songs. Includes 22, &amp; 21 editions + bonus tracks.",
-  "num_followers": 107289,
+  "num_followers": 107288,
   "original_name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 23",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NjczMixiNjAxYzdiZDg0NGJmNDc3ODBlZDA0NjY0ZDU1MTYwNzg5YWNiMTM2",
+  "snapshot_id": "NjczOCw2Njk5ZWJjNmE1ZjU1MzNiMzc3ZDcwOTdjMmM0OWQ0MzU3ZDU4ZGM1",
   "tracks": [
     {
       "added_at": "2023-11-08 12:56:23",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/53FbFxiRAPp0OKnQ3MZUdZ"
     },
     {
-      "added_at": "2023-12-12 20:31:12",
-      "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/781W8ziYLBMjKZ7VjXFPew"
-      },
-      "artists": [
-        {
-          "name": "Brooke Daye",
-          "url": "https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib"
-        }
-      ],
-      "duration_ms": 166089,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/5Gbbz3ZOWpjBAQGaLohmZw"
-    },
-    {
       "added_at": "2023-11-08 13:03:56",
       "album": {
         "name": "Let\u2019s Start Here.",
@@ -335,6 +319,22 @@
       "duration_ms": 269244,
       "name": "running out of time",
       "url": "https://open.spotify.com/track/7zy7iE31dGO70ShMXghsfj"
+    },
+    {
+      "added_at": "2023-12-20 21:32:42",
+      "album": {
+        "name": "Magic Pill",
+        "url": "https://open.spotify.com/album/6OfjKVylwHEFeBPJM74PT5"
+      },
+      "artists": [
+        {
+          "name": "The Extravagants",
+          "url": "https://open.spotify.com/artist/6syW7OtD2ZlGhukm0VdoZG"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Magic Pill",
+      "url": "https://open.spotify.com/track/17H8u706U4K9YR3EYvyvkK"
     },
     {
       "added_at": "2023-12-14 13:49:28",
@@ -2581,6 +2581,38 @@
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
     },
     {
+      "added_at": "2023-12-20 03:34:08",
+      "album": {
+        "name": "Detener la alarma",
+        "url": "https://open.spotify.com/album/1quNEzngMV4qU3wnzkYDhR"
+      },
+      "artists": [
+        {
+          "name": "MAPA",
+          "url": "https://open.spotify.com/artist/7Bv4NCknVMFKk6lvvS7UXN"
+        }
+      ],
+      "duration_ms": 225842,
+      "name": "Detener la alarma",
+      "url": "https://open.spotify.com/track/3RI9n65705ubxOGXpHCVT0"
+    },
+    {
+      "added_at": "2023-12-20 03:33:12",
+      "album": {
+        "name": "Un Lugar",
+        "url": "https://open.spotify.com/album/0kmxhIVSlawqdE8JAaL2sJ"
+      },
+      "artists": [
+        {
+          "name": "Pascal Pirita",
+          "url": "https://open.spotify.com/artist/0WgC9CJAK1wJHsFXrv4Qz4"
+        }
+      ],
+      "duration_ms": 189483,
+      "name": "Vai Embora",
+      "url": "https://open.spotify.com/track/6gjtGwzaeIKyR9V6GAdI3B"
+    },
+    {
       "added_at": "2023-12-14 17:31:20",
       "album": {
         "name": "Merry Christmas, Lucy",
@@ -2775,22 +2807,6 @@
       "duration_ms": 190076,
       "name": "\u721b\u5728\u6c99\u767c\u4e0a",
       "url": "https://open.spotify.com/track/4MoPVuAxOvtH0RIOhIiIwH"
-    },
-    {
-      "added_at": "2023-12-12 17:32:04",
-      "album": {
-        "name": "Jim Joheimer",
-        "url": "https://open.spotify.com/album/1O38iLpsM0K7aXAlm1y1EA"
-      },
-      "artists": [
-        {
-          "name": "dIIP",
-          "url": "https://open.spotify.com/artist/74u1nzo8UdAnPrtka1zWN0"
-        }
-      ],
-      "duration_ms": 320647,
-      "name": "Jim Joheimer",
-      "url": "https://open.spotify.com/track/30EY7RSbTgppaQTd2ktH6c"
     },
     {
       "added_at": "2023-12-15 00:04:28",

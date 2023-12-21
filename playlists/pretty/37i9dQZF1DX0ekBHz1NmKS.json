@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 196364,
+  "num_followers": 196365,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGY3Y2RkYjdhOGYwNjJmM2QxZTU0ZWFiYjM5NTAxMDQ2MWYyOWUw",
+  "snapshot_id": "MCwxOWNlODVlZjJiNDM3NmRjZTY1MjUxNjY3MzVmYmU1ZTEzZjNkYjE4",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Sunny Philadelphia",
-      "url": "https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Slipping Into Color",
         "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Sunny Philadelphia",
+      "url": "https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "The Way You Had Me",
         "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
       },
@@ -587,6 +587,26 @@
       "duration_ms": 190423,
       "name": "The Way You Had Me",
       "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "come so far",
+        "url": "https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        },
+        {
+          "name": "rayn",
+          "url": "https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM"
+        }
+      ],
+      "duration_ms": 165483,
+      "name": "come so far",
+      "url": "https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -691,26 +711,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "come so far",
-        "url": "https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        },
-        {
-          "name": "rayn",
-          "url": "https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM"
-        }
-      ],
-      "duration_ms": 165483,
-      "name": "come so far",
-      "url": "https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Heartstrings",
         "url": "https://open.spotify.com/album/328NMDlL1I9SemrTEUTQOw"
       },
@@ -759,30 +759,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "D\u00f6d f\u00f6r mig",
-        "url": "https://open.spotify.com/album/39YWm719FMNKuzJ7oAIgcR"
-      },
-      "artists": [
-        {
-          "name": "Yei Gonzalez",
-          "url": "https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq"
-        },
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        },
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 165685,
-      "name": "D\u00f6d f\u00f6r mig",
-      "url": "https://open.spotify.com/track/5HKu4DGoq7YNtGQ3ZMt9qD"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
         "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 153176,
       "name": "Awkward",
       "url": "https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "D\u00f6d f\u00f6r mig",
+        "url": "https://open.spotify.com/album/39YWm719FMNKuzJ7oAIgcR"
+      },
+      "artists": [
+        {
+          "name": "Yei Gonzalez",
+          "url": "https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq"
+        },
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        },
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 165685,
+      "name": "D\u00f6d f\u00f6r mig",
+      "url": "https://open.spotify.com/track/5HKu4DGoq7YNtGQ3ZMt9qD"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Let The Good Times In",
-        "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
-      },
-      "artists": [
-        {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
-        }
-      ],
-      "duration_ms": 153595,
-      "name": "Let The Good Times In",
-      "url": "https://open.spotify.com/track/0qGHdKr0USsxUSU1eRZWjt"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "En av ungarna",
         "url": "https://open.spotify.com/album/6ekSfXbb6ry0JE0hhq5VMI"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 183000,
       "name": "En av ungarna",
       "url": "https://open.spotify.com/track/0d7I3Dlg0uAwkZOtUpUYIl"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Let The Good Times In",
+        "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "duration_ms": 153595,
+      "name": "Let The Good Times In",
+      "url": "https://open.spotify.com/track/0qGHdKr0USsxUSU1eRZWjt"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Historier och liv",
-        "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Historier och liv",
-      "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "A Bowl of Unripe Fruit",
         "url": "https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 139429,
       "name": "Tennis",
       "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Historier och liv",
+        "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Historier och liv",
+      "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Losing a Friend",
-        "url": "https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 194900,
-      "name": "Losing a Friend",
-      "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Tillr\u00e4cklig",
         "url": "https://open.spotify.com/album/5fwPOg0afgFvEnVZFY6Dqa"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 166653,
       "name": "Tillr\u00e4cklig",
       "url": "https://open.spotify.com/track/5KTWAnAjNvWpJ5oTlzkOUU"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Losing a Friend",
+        "url": "https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 194900,
+      "name": "Losing a Friend",
+      "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/0IaCkrFp4j5trgWJLjR8XI"
+      },
+      "artists": [
+        {
+          "name": "Joselin",
+          "url": "https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt"
+        }
+      ],
+      "duration_ms": 144160,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/2aEqEiwun5jNzh0fnkBBIc"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "I Wish I Was Someone Else",
         "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/0IaCkrFp4j5trgWJLjR8XI"
-      },
-      "artists": [
-        {
-          "name": "Joselin",
-          "url": "https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt"
-        }
-      ],
-      "duration_ms": 144160,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/2aEqEiwun5jNzh0fnkBBIc"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Still Got the Blues fr\u00e5n Sverige",
         "url": "https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX"
       },
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "TRENCH",
-        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
-      },
-      "artists": [
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "TRENCH",
-      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "I Wish I Was Someone Else",
-        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 192078,
-      "name": "Summer Of 99",
-      "url": "https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "b\u00e4stis",
         "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
       },
@@ -1299,6 +1267,22 @@
       "duration_ms": 208832,
       "name": "b\u00e4stis",
       "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "TRENCH",
+        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "TRENCH",
+      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "I Wish I Was Someone Else",
+        "url": "https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 192078,
+      "name": "Summer Of 99",
+      "url": "https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Konsten att fly",
         "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "N\u00e5n annans s\u00e4ng",
-        "url": "https://open.spotify.com/album/63rEMPx6dcCOO5s22kI4Ke"
-      },
-      "artists": [
-        {
-          "name": "Ellen Bergelin",
-          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "N\u00e5n annans s\u00e4ng",
-      "url": "https://open.spotify.com/track/4aVGpY7xdFsdESoPT2sP9H"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Tr\u00e4ffa andra",
         "url": "https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 163361,
       "name": "Tr\u00e4ffa andra",
       "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "N\u00e5n annans s\u00e4ng",
+        "url": "https://open.spotify.com/album/63rEMPx6dcCOO5s22kI4Ke"
+      },
+      "artists": [
+        {
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "N\u00e5n annans s\u00e4ng",
+      "url": "https://open.spotify.com/track/4aVGpY7xdFsdESoPT2sP9H"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/7sehUFnd0iMNS5gp07kiXD"
+      },
+      "artists": [
+        {
+          "name": "Mopiano",
+          "url": "https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ"
+        }
+      ],
+      "duration_ms": 194223,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "don't look at the moon...",
         "url": "https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 193996,
       "name": "2004",
       "url": "https://open.spotify.com/track/0O1lum01nn74MSINutTz9Q"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/7sehUFnd0iMNS5gp07kiXD"
-      },
-      "artists": [
-        {
-          "name": "Mopiano",
-          "url": "https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ"
-        }
-      ],
-      "duration_ms": 194223,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 196747,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Allt eller inget",
         "url": "https://open.spotify.com/album/0nVlBIFa13okHGHBcOtnR1"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 155000,
       "name": "Allt eller inget",
       "url": "https://open.spotify.com/track/2OqSyq3EM2IqsKPVavdy1t"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Stupid Little Party Girl",
-        "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 179936,
-      "name": "Stupid Little Party Girl",
-      "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab"
+        "name": "Ska du l\u00e4mna mig d\u00e5?",
+        "url": "https://open.spotify.com/album/1u6UY7O7n3IVkFzderccjs"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Byz",
+          "url": "https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf"
         }
       ],
-      "duration_ms": 196747,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8"
+      "duration_ms": 197473,
+      "name": "Ska du l\u00e4mna mig d\u00e5?",
+      "url": "https://open.spotify.com/track/1giGdrvlrnqHPcrKlspCNe"
     }
   ],
   "unique_name": "Made in Sweden",

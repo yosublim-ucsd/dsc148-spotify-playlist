@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,053 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,066 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 72 | [No Que No](https://open.spotify.com/track/0sLUxVo2K8F36pCItPx9uI) | [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [No Que No](https://open.spotify.com/album/1hU2tAaWy5dLSt9hKb0HfT) | 3:09 |
 | 73 | [Son Cosas](https://open.spotify.com/track/1UYvkIoRbxxiuSL4CNIdpu) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Son Cosas](https://open.spotify.com/album/4V3BIjtg8GKwaGUYjU3Key) | 3:34 |
 | 74 | [Cuidao](https://open.spotify.com/track/0tUvaRHmBAOjbnKq2zdAMo) | [Strong Black](https://open.spotify.com/artist/3QRA3GKxUG3RdCWN4TXKbw), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm) | [Cuidao](https://open.spotify.com/album/1WK146t9SUZgS7OjN2GTdR) | 3:26 |
-| 75 | [Origami](https://open.spotify.com/track/6n2RaleAqgTa8Lxo9nigf7) | [Estrato Social](https://open.spotify.com/artist/2ODDVsH2Lfveu3qJDARvk2) | [Escritura Automática](https://open.spotify.com/album/61L7p4EuDxFvOn82c7JiXU) | 3:18 |
+| 75 | [Origami](https://open.spotify.com/track/6n2RaleAqgTa8Lxo9nigf7) | [Estrato Social](https://open.spotify.com/artist/2ODDVsH2Lfveu3qJDARvk2) | [Escritura Automática](https://open.spotify.com/album/61L7p4EuDxFvOn82c7JiXU) | 3:18 |
 | 76 | [La Última Lágrima](https://open.spotify.com/track/0qJuO5hC41E1Pv4hS5R1FB) | [Umano](https://open.spotify.com/artist/76nSmuTOo6orMJPW8qJjqu) | [Los Olvidados Toman Venganza](https://open.spotify.com/album/3jA0t5OxdS8nQe3zP5MWJA) | 3:37 |
 | 77 | [No Quieres Nada](https://open.spotify.com/track/7jGZ02gflu5DTLJgi1YUIp) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:42 |
 | 78 | [A Tus Pies](https://open.spotify.com/track/6ZGMY21AwBCkS9cn5c0ySa) | [Inkas Mob](https://open.spotify.com/artist/3pl31iTKhYPQIkQUHaqJcw), [Ginola](https://open.spotify.com/artist/2YwCGdKaSzm4BTSZoWASgy), [Jhony Welker](https://open.spotify.com/artist/6X9EFNYXbv9ViyeBmOOD13), [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [El Flavor](https://open.spotify.com/artist/0naJVmkAw1Ocx9sRxsCRy1) | [Inkas Tape](https://open.spotify.com/album/3CVhwr7XkEmr5o1TDcjvsb) | 5:06 |
 | 79 | [Kaykunapi](https://open.spotify.com/track/5GPMzrfc5U7kU7qCB0kzt2) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH), [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Hip Hop Peruano Mas Na : Mixtape, Vol\. 2](https://open.spotify.com/album/2mFYlXBO09xr1f14S4XZUn) | 2:42 |
 | 80 | [Tranqui](https://open.spotify.com/track/3x8wYCHXsuCiDrlBynclp1) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Tranqui](https://open.spotify.com/album/6P9dhAgXWrEgMQbwHxJUFZ) | 3:51 |
 
-Snapshot ID: `MCw1ZDVlM2JkMmVkNzFjNjE3ZjM2ODMyMzY2MTcwNDVlYjAwNGZjNzNj`
+Snapshot ID: `MCxiNjE1ZmUwMmZkZTM2ODI0YTNhOThkMDVlYTA2NjExMDg4Y2QzMGU3`

@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTEyNiw0MzY4ODE2ZTY3YTA4YzVjZDYxNWEyOTU0MDQ0ODQ2NmFhN2E0NTQ2",
+  "snapshot_id": "MTEyOCwzNDM0OWNjMTM5NTNlYmNjMTUyNzZhYzY5YTQ2ZTA4ZWI3ZDkxMWFi",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -4889,22 +4889,6 @@
       "url": "https://open.spotify.com/track/61etm6bMP3BnD3SiwreMZu"
     },
     {
-      "added_at": "2023-12-17 10:16:59",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 161042,
-      "name": "Cooking Up Something Good",
-      "url": "https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli"
-    },
-    {
       "added_at": "2023-12-18 21:56:17",
       "album": {
         "name": "Demon Days",
@@ -4935,6 +4919,26 @@
       "duration_ms": 260853,
       "name": "I Was a Lover",
       "url": "https://open.spotify.com/track/4bp7ZjViSZT5wEnaxNT9Ge"
+    },
+    {
+      "added_at": "2023-12-20 16:34:51",
+      "album": {
+        "name": "NINA",
+        "url": "https://open.spotify.com/album/1uQF2AgBoZE0Z9e0baNipU"
+      },
+      "artists": [
+        {
+          "name": "Vel Nine",
+          "url": "https://open.spotify.com/artist/6Dcufc8lKB2eVG5JKnT5fZ"
+        },
+        {
+          "name": "NugLife",
+          "url": "https://open.spotify.com/artist/3gkvPVQi7D6qstqC5urqvP"
+        }
+      ],
+      "duration_ms": 80000,
+      "name": "NINA",
+      "url": "https://open.spotify.com/track/7cm2RiP6XC0LdzTWa6pi85"
     }
   ],
   "unique_name": "Zacklog",

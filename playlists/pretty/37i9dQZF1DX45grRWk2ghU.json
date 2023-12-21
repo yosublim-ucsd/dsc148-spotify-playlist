@@ -1,12 +1,12 @@
 {
   "description": "Life in plastic is fantastic ",
-  "num_followers": 346229,
+  "num_followers": 347383,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDlkYWExOTlhZjhlZGU0OWJhYzBkODUwZmYwNDRkM2JhMzRlNzI2",
+  "snapshot_id": "MCw3MjE4ZjNkMzA0NTdkMmMzZTI0MjVmMjAzNWNiZjkxODg1N2FjZmFi",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Sticks & Stones",
-        "url": "https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Cher Lloyd",
-          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Want U Back",
-      "url": "https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Wannabe",
         "url": "https://open.spotify.com/album/0VJSVYxAfR4HUEaeIV9PeK"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 217411,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/3pUiKSyV6DZWbzezHhs1Eu"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Cher Lloyd",
+          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Want U Back",
+      "url": "https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stars Are Blind",
-      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Stars Are Blind",
+      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
     },
     {
       "added_at": "2023-10-27 04:01:00",

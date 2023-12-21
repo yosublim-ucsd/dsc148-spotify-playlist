@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 179329,
+  "num_followers": 179507,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjY0YTI3NmFmNDJiMDA4ZTRlODRlNzNmZjliN2UxNGYxNDdkMGM4",
+  "snapshot_id": "MCwwNjc2MDExM2ZhNjlkY2E1OTUxNDRhYTM5NzUzNDAxZDk3NDYwMTIw",
   "tracks": [
     {
       "added_at": "2023-12-13 14:54:09",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-12-13 14:54:09",
       "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2023-12-13 14:54:09",
+      "album": {
         "name": "Baila Bolero (Marc Hartman Remix)",
         "url": "https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 300773,
       "name": "Baila Bolero - Marc Hartman Remix",
       "url": "https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH"
-    },
-    {
-      "added_at": "2023-12-13 14:54:09",
-      "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2023-12-13 14:54:09",

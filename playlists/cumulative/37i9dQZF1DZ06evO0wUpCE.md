@@ -4,7 +4,7 @@
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 22 min
+58 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,11 +56,12 @@
 | [Te Dejo Libre](https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 | 2023-08-08 |  |
 | [Te Perdono](https://open.spotify.com/track/6TNp0Npc9NP2NKznr1Xb4Y) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Highway](https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm) | 3:24 | 2023-08-16 |  |
 | [Te Voy A Conquistar](https://open.spotify.com/track/4d6qswupJd3fNwwN7t8kr2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 2:34 | 2023-08-08 | 2023-09-06 |
+| [Tu Adiós No Mata](https://open.spotify.com/track/5sz7opyzt4gWqn5mKbKg4e) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 3:44 | 2023-12-20 |  |
 | [Tu Soledad Y La Mía](https://open.spotify.com/track/477tplqFCCEPOalRb7OCnL) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Tu Soledad Y La Mía](https://open.spotify.com/album/24gc3AiZc6RHJr4sqNsdJm) | 3:54 | 2023-08-08 |  |
 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 | 2023-08-08 |  |
 | [Un Poquito Tuyo](https://open.spotify.com/track/4Xite6iT0HSbmG6h2cnia2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Un Poquito Tuyo](https://open.spotify.com/album/36zNWFQ7R29rlWz68ymO6a) | 2:55 | 2023-08-08 | 2023-12-14 |
 | [Vete Ya](https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Fuego Eterno](https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J) | 2:43 | 2023-08-08 |  |
-| [Viento \(with Intocable\)](https://open.spotify.com/track/3NQHzcvs6Eb3eNspR3HXBh) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 | 2023-08-08 |  |
+| [Viento \(with Intocable\)](https://open.spotify.com/track/3NQHzcvs6Eb3eNspR3HXBh) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 | 2023-08-08 | 2023-12-21 |
 | [Yo Seguiré](https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Yo Seguiré](https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR) | 4:13 | 2023-08-08 | 2023-11-11 |
 | [¿A Dónde Estabas?](https://open.spotify.com/track/0Lq5wNcegxCGz7glMbUBNn) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Nuestro Destino Estaba Escrito](https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB) | 3:35 | 2023-08-08 |  |
 | [¿Dónde Estás?](https://open.spotify.com/track/3XzRoXUBIzJQhTvWmGNeF7) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 4:06 | 2023-08-08 |  |

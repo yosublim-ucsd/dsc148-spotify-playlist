@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 90613,
       "name": "Capsizing the Sea",
       "url": "https://open.spotify.com/track/0NM1S9231y3Pgz6oI3on2f"
@@ -1442,6 +1442,24 @@
       "duration_ms": 409693,
       "name": "Torn Between Scylla and Charybdis",
       "url": "https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk"
+    },
+    {
+      "album": {
+        "name": "The Crusade",
+        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Tread the Floods",
+      "url": "https://open.spotify.com/track/59bz5j1ayQKehovzBFyCFj"
     },
     {
       "album": {

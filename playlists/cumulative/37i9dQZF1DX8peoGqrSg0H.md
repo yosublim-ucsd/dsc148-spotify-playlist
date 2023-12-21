@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NuNew
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BUS
 
-418 songs - 1 day 1 hr 6 min
+419 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH) | 3:28 | 2022-10-04 |  |
 | [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/track/2dSX5yD0y88IiRBqrVkOWH) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/album/7kKdaEyJr5OlvMWjZ1nqir) | 4:04 | 2023-09-01 | 2023-10-06 |
 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 | 2022-08-25 | 2022-09-24 |
+| [กล้วยหอม](https://open.spotify.com/track/2O0RznofHnlpBs6VSMNbP8) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [กล้วยหอม](https://open.spotify.com/album/2cdum1VDL9Gj7ttjht1XzH) | 3:10 | 2023-12-20 |  |
 | [กอดได้ไหม](https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:29 | 2022-05-26 | 2022-07-23 |
 | [การจากลาที่ไม่มีวันจากไป](https://open.spotify.com/track/0u2y71Xe1vkQ9TKZUvdyWb) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [การจากลาที่ไม่มีวันจากไป \(Still With You\)](https://open.spotify.com/album/3vBS6G22v9QwWqMkkRi6Ws) | 3:41 | 2023-11-09 | 2023-12-01 |
 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 | 2023-05-25 |  |
@@ -420,7 +421,7 @@
 | [ไม่เป็นไรมั้ง \- Original Soundtrack From "วุ่นรักนักจิ้น Why You Y Me?](https://open.spotify.com/track/1pxrSbfXB51N5WRoSHZAX5) | [Jump Pisitpol](https://open.spotify.com/artist/7nbtiYrwbJ3mJXaSdZwnmD) | [ไม่เป็นไรมั้ง \(Original Soundtrack From "วุ่นรักนักจิ้น Why You Y Me?\)](https://open.spotify.com/album/2SqMKNybQ7DV7hJ0gqwn5R) | 3:41 | 2022-12-23 | 2023-01-27 |
 | [ไม่ใกล้ไม่ไกล \(Always Beside You\)](https://open.spotify.com/track/6hNc1qNFdcmgJnrO06L3pF) | [The Glass Girls](https://open.spotify.com/artist/72q461mIuWFuDIMTys5Als) | [ไม่ใกล้ไม่ไกล \(Always Beside You\)](https://open.spotify.com/album/0FEFbFqpCnDtu0prt2myVX) | 4:06 | 2022-06-16 | 2022-06-24 |
 | [ไม่ใกล้ไม่ไกล \- Stay](https://open.spotify.com/track/0tij4kB0P1hkq8NRlgago7) | [Biw](https://open.spotify.com/artist/4Rin3DhoRqf9dJVYCEODxa) | [ไม่ใกล้ไม่ไกล \(Stay\)](https://open.spotify.com/album/5h7myinXE2LCWUSqE5YWdK) | 3:36 | 2022-07-23 | 2022-08-12 |
-| [ไม่ใช่แค่โฆษณา \(Heart Sell\)](https://open.spotify.com/track/4vO7gm9M9h1jUs2c8GsWqR) | [PRIMETIME](https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi) | [ไม่ใช่แค่โฆษณา \(Heart Sell\)](https://open.spotify.com/album/67x9lIhKQZfqs9ZNJ1jjIQ) | 2:58 | 2023-12-15 |  |
+| [ไม่ใช่แค่โฆษณา \(Heart Sell\)](https://open.spotify.com/track/4vO7gm9M9h1jUs2c8GsWqR) | [PRIMETIME](https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi) | [ไม่ใช่แค่โฆษณา \(Heart Sell\)](https://open.spotify.com/album/67x9lIhKQZfqs9ZNJ1jjIQ) | 2:58 | 2023-12-15 | 2023-12-21 |
 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 | 2022-10-04 |  |
 | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\)](https://open.spotify.com/track/75PNvxakeoKFP7dxdGDWLb) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\) \- Single](https://open.spotify.com/album/0GCaqJpZqxcszozlequwGC) | 3:18 | 2023-11-09 | 2023-12-08 |
 | [ไวน์ลดา](https://open.spotify.com/track/1RVYucT3tc32YzRDsP30t3) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [ไวน์ลดา](https://open.spotify.com/album/5SntqKVAPjrv7hmtsJKx4p) | 3:47 | 2022-05-26 | 2022-06-17 |

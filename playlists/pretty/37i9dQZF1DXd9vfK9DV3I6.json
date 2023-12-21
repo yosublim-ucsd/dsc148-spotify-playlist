@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 294459,
+  "num_followers": 294607,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGQwMmEyM2U3YmIwM2NhYTk0Mzk2NTc4OTlhZjM4YmZmY2VjNjJh",
+  "snapshot_id": "MCw4MWJiZmEwOTU3ZTQ0NDZkMzUwMmZkMzQwM2NhNjZlZjk0ZTJhYzM5",
   "tracks": [
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Deep Anatolia",
+        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Deep Anatolia",
+      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Y\u00e2r",
         "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 97636,
       "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
       "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Deep Anatolia",
-        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Deep Anatolia",
-      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1411,22 +1411,22 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
+        "name": "Moulat Lkhala",
+        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
       },
       "artists": [
         {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
         },
         {
-          "name": "Murat Salman",
-          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
         }
       ],
-      "duration_ms": 179512,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+      "duration_ms": 192000,
+      "name": "Moulat Lkhala",
+      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1447,22 +1447,42 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Moulat Lkhala",
-        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
       },
       "artists": [
         {
-          "name": "Eljoee",
-          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
         },
         {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Moulat Lkhala",
-      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
+      "duration_ms": 179512,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "MIRAN",
+        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "MIRAN",
+      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1515,26 +1535,6 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "MIRAN",
-        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "MIRAN",
-      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1631,42 +1631,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Yasameen",
-        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Yasameen",
-      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
-      },
-      "artists": [
-        {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
-        }
-      ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "CEWRESAMIN",
         "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
       },
@@ -1723,6 +1687,42 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Yasameen",
+        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Douae El Rhiouane",
+          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Yasameen",
+      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+      },
+      "artists": [
+        {
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+        }
+      ],
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
       },
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "all the things i got",
         "url": "https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 145210,
       "name": "all the things i got",
       "url": "https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Hebele Hubulu & Belantash",
         "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 179478,
       "name": "Lane Moje - Radio Edit",
       "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
-        "url": "https://open.spotify.com/album/7lwzhzgV4j0WKksieLPrAs"
-      },
-      "artists": [
-        {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 276299,
-      "name": "Shibren - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/0EyVOeAJ3kjfcVkFv2AxxB"
     }
   ],
   "unique_name": "mosaic",

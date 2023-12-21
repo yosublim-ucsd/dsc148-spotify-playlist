@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,894 likes - 82 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,974 likes - 82 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 81 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 |
 | 82 | [can't live without you](https://open.spotify.com/track/2MAz49rgBhaEEDr9gaGMLN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [can't live without you](https://open.spotify.com/album/32gnVGc44UuwB6VzKdCdp4) | 3:47 |
 
-Snapshot ID: `MCw4MTA4NzEzNjJlYjQzNWYxYmU3MzBhMjIyOWFiMzViYTgxM2MzZjFm`
+Snapshot ID: `MCw2M2ViNTI3ZDhmZDVjNWJkNTNhZTgxZmVhNTgyZTQ3M2JlY2Q4M2Zj`

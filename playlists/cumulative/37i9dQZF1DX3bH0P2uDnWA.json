@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Black Betty",
+        "url": "https://open.spotify.com/album/2XJV4GQPAiBVqS1MPSiEo8"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189956,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/18WzUm7C5zIco4EvaFIszy"
+    },
+    {
+      "album": {
         "name": "Black Betty - Single",
         "url": "https://open.spotify.com/album/3byyWn1AUHzGOjPSxh8uBN"
       },
@@ -486,7 +504,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 189956,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 229804,
       "name": "Lone Digger",
       "url": "https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu"
@@ -2946,6 +2964,24 @@
       "duration_ms": 229804,
       "name": "Lone Digger",
       "url": "https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL"
+    },
+    {
+      "album": {
+        "name": "<I\u00b0_\u00b0I>",
+        "url": "https://open.spotify.com/album/5a9UEwUEN7LsTsRXWPOQtC"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229804,
+      "name": "Lone Digger",
+      "url": "https://open.spotify.com/track/6Ntz1uQoMF8L2E4w518BFp"
     },
     {
       "album": {

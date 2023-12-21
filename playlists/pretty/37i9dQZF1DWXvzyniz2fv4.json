@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 155601,
+  "num_followers": 155627,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDA2YmQ2MzllYzUyY2I4M2E1MGQ0YjlmYWVmNTQyNGJlMzEyOWY1",
+  "snapshot_id": "MCwyMjhhNDY3NzM3OTI5MWQwZmM2MmIzNjg2MGNmMTZhMmU0ZWJiZmVl",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -303,34 +303,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "At\u00e9 o Final",
-        "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Ca\u00edque",
-          "url": "https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 144682,
-      "name": "At\u00e9 o Final",
-      "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -355,6 +327,34 @@
       "duration_ms": 166736,
       "name": "Copo de Bebida",
       "url": "https://open.spotify.com/track/19bPpmsrRlG5BJASqaqevf"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "At\u00e9 o Final",
+        "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Ca\u00edque",
+          "url": "https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 144682,
+      "name": "At\u00e9 o Final",
+      "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Cartas (feat.Luccas Carlos) (feat.Paiva Prod)",
         "url": "https://open.spotify.com/album/7qCnoY2xgPiEsmbJ2auP1L"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 202000,
       "name": "Cartas (feat.Luccas Carlos) (feat.Paiva Prod)",
       "url": "https://open.spotify.com/track/6ry2T9BPdjCXkGl5kHqe0O"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Mapa Astral",
         "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 193620,
       "name": "Mapa Astral",
       "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1183,8 +1183,8 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "\u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
       "artists": [
         {
@@ -1192,17 +1192,13 @@
           "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
         },
         {
-          "name": "Mc Chagas",
-          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
-        },
-        {
-          "name": "Mc Rei Delas",
-          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
         }
       ],
-      "duration_ms": 197067,
-      "name": "\u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1355,8 +1351,8 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+        "name": "\u00c9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
       "artists": [
         {
@@ -1364,13 +1360,17 @@
           "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
         },
         {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+          "name": "Mc Chagas",
+          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
+        },
+        {
+          "name": "Mc Rei Delas",
+          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
         }
       ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+      "duration_ms": 197067,
+      "name": "\u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1515,30 +1515,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "27 Dias",
-        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
-      },
-      "artists": [
-        {
-          "name": "Douriel",
-          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
-        },
-        {
-          "name": "Dracko",
-          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
-        },
-        {
-          "name": "Indie Space",
-          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
-        }
-      ],
-      "duration_ms": 139097,
-      "name": "27 Dias",
-      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1559,6 +1535,30 @@
       "duration_ms": 197142,
       "name": "Meia Hora",
       "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "27 Dias",
+        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
+      },
+      "artists": [
+        {
+          "name": "Douriel",
+          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
+        },
+        {
+          "name": "Dracko",
+          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "duration_ms": 139097,
+      "name": "27 Dias",
+      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
     },
     {
       "added_at": "2023-12-15 03:01:00",

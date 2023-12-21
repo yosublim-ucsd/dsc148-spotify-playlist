@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,291 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,288 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 61 | [Chasing My Tail](https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:58 |
 | 62 | [Boy From Anderson County](https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 4:04 |
 | 63 | [Saturday Night Comes Once A Week](https://open.spotify.com/track/4wRjg54YqSBl1MN3gEGbkc) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG) | 4:04 |
-| 64 | [You To Me](https://open.spotify.com/track/6gIhOCip5eeREn4sQj8NMw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [You To Me](https://open.spotify.com/album/1wr3A9DOyF5ooxpLrYlEb2) | 3:14 |
+| 64 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 |
 | 65 | [Hell of a Life](https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Hell of a Life](https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT) | 3:15 |
-| 66 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 |
+| 66 | [You To Me](https://open.spotify.com/track/6gIhOCip5eeREn4sQj8NMw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [You To Me](https://open.spotify.com/album/1wr3A9DOyF5ooxpLrYlEb2) | 3:14 |
 | 67 | [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 |
 | 68 | [Dark Bar Daisy](https://open.spotify.com/track/1I4CgfY1bvPRPF08Rs2yEG) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:04 |
 | 69 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 90 | [Shooting Stars & Whiskey](https://open.spotify.com/track/4SJA8haD1UeBsmHMOr4PIj) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Shooting Stars & Whiskey](https://open.spotify.com/album/2chesc96Y3mPPu47c6EYUw) | 3:39 |
 | 91 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 |
 | 92 | [Hope It Don’t Take Forever](https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1) | [Corey Hunt and the Wise](https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC) | [Hope It Don’t Take Forever](https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP) | 3:44 |
-| 93 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |
-| 94 | [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 |
+| 93 | [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 |
+| 94 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |
 | 95 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 |
 | 96 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 |
 | 97 | [Seven Year Ache \(feat\. Jenna Paulette\)](https://open.spotify.com/track/63Z6AAHPSbNm0S6f5XuXe5) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Cover Girl](https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 |
 | 100 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
 
-Snapshot ID: `MCxkYTJhNDc2ZDRiMjYzMzQwNjkxMDg3ZDEwYmM1MDdhMTE1MGExMGFl`
+Snapshot ID: `MCwzOGRhM2ZiZjY3MDcyNjk1YjExYzM1Y2YxOTA0NzczODUzZDgzZWFm`

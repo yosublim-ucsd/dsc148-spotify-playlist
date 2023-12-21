@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 111711,
+  "num_followers": 111744,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDQ5MDUxNWYxNmUwYTU4M2JiNjU1NThjNDM4NjBhYmI3YjRjMjUx",
+  "snapshot_id": "MCxmNzk3MWNkZWVmMTQyOTIxOGM5Mjk3Y2YzMmE1N2ZjNTEyZWFiODEx",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 134013,
+      "name": "MIB",
+      "url": "https://open.spotify.com/track/7z9chavxReUpyOZoAkUnUb"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Si Tu Lo Dejas",
         "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 275478,
       "name": "Si Tu Lo Dejas",
       "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 134013,
-      "name": "MIB",
-      "url": "https://open.spotify.com/track/7z9chavxReUpyOZoAkUnUb"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Bodak Yellow (feat. Messiah) [Latin Trap Remix]",
-        "url": "https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Bodak Yellow (feat. Messiah) - Latin Trap Remix",
-      "url": "https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Flow Cabron",
         "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 226324,
       "name": "Flow Cabron",
       "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Bodak Yellow (feat. Messiah) [Latin Trap Remix]",
+        "url": "https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Bodak Yellow (feat. Messiah) - Latin Trap Remix",
+      "url": "https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt"
     },
     {
       "added_at": "2023-05-25 17:50:01",

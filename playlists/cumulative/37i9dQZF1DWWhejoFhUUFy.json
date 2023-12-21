@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Vaaqif",
+        "url": "https://open.spotify.com/album/1DW7mX33rABORCELQ4KkQn"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233471,
+      "name": "Aaftaab",
+      "url": "https://open.spotify.com/track/0bNkrxGqyFNYuXfj9HBV4r"
+    },
+    {
+      "album": {
+        "name": "Vaaqif",
         "url": "https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z"
       },
       "artists": [
@@ -862,7 +880,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 160854,
       "name": "jaanu na",
       "url": "https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w"

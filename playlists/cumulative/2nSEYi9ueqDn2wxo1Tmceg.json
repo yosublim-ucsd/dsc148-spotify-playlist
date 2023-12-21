@@ -6303,6 +6303,28 @@
     },
     {
       "album": {
+        "name": "Isn\u2019t It Now? (Moor Mother Collage)",
+        "url": "https://open.spotify.com/album/2RNEPaznO7aQ0zbs0PYym2"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Isn't It Now? - Moor Mother Collage",
+      "url": "https://open.spotify.com/track/6GRzvC5GwwDAJM8jeI2M11"
+    },
+    {
+      "album": {
         "name": "Parayellowgram",
         "url": "https://open.spotify.com/album/6NMywaWXkCR8ES6n88MTrt"
       },

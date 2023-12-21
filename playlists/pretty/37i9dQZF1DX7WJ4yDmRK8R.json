@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 365864,
+  "num_followers": 365967,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTgzZmU2YjljZGNhNDQ4OTExNWUyNWZlM2RmYmViMjYxYTUzNmZh",
+  "snapshot_id": "MCw2NDJjMmZkZGYwYzQ0ZTE3ZjFhOGI5YjliYzVhNDI0Y2NhNTliOGZk",
   "tracks": [
     {
       "added_at": "2023-12-12 21:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Hang-Ups",
         "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 185026,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Theatre of the Absurd presents C'est La Vie",
-        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 258105,
-      "name": "Round We Go",
-      "url": "https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 275360,
       "name": "Different People",
       "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie",
+        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 258105,
+      "name": "Round We Go",
+      "url": "https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "It Means Everything",
         "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
       },
       "artists": [
         {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
         }
       ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 181826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Honey I'm Homely",
         "url": "https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 203933,
       "name": "Lost Again",
       "url": "https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2023-12-12 21:01:00",

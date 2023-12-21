@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。KAROL G, imase, Awich, James Arthur, John Legend and more! Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,326 likes - 54 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,332 likes - 54 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 53 | [I'm A Star](https://open.spotify.com/track/2Wx3Ed7ufA8v0vcNZCiZLk) | [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM) | [Wish \(Japanese Original Soundtrack\)](https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR) | 2:54 |
 | 54 | [one window](https://open.spotify.com/track/1Gpvx7JZcjUEBm5PlpmHCe) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [one window](https://open.spotify.com/album/1FC4MalP7xTMrwnY0G1aav) | 3:46 |
 
-Snapshot ID: `MCw4MmJlOGZiZmZlYzJkYzUyMGUwMDRjNTU2OTZkYWU0MmYxMDY0ZThm`
+Snapshot ID: `MCw2Njk1YmVjZGFiY2FmMDk0YjMzMTUwYjA5Y2U4ZmVmYzQ2OWJiZmUw`

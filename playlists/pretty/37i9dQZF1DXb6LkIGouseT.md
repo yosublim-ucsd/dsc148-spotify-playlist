@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,985 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,100 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 13 | [Silent Wolf](https://open.spotify.com/track/7l8d1kKkQLPWWI1kJI8Btb) | [Mary Youngblood](https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz) | [Sacred Place \- A Mary Youngblood Collection](https://open.spotify.com/album/5p19kw4Jv03odcc3eozB3p) | 2:56 |
 | 14 | [Astral Myst](https://open.spotify.com/track/6KYNgQPraq4bBAUXnl8JHQ) | [Joe Yeatman](https://open.spotify.com/artist/1aRs8zfefA0q5PM8cbtYPR) | [Astral Myst](https://open.spotify.com/album/4Bzg992UQO6Ecuoy0Jd6TO) | 5:21 |
 | 15 | [Ceyaya Acitonwe](https://open.spotify.com/track/4qEVX7dBUdRKLmPE1aBBvd) | [Kevin Locke](https://open.spotify.com/artist/3k7DkQUs1860lvgVW29ZK2) | [Spirit Mountain \- Authentic Music of the American Indian](https://open.spotify.com/album/3ntTA0VHse6xrQ52pWhu2D) | 4:20 |
-| 16 | [Handprints of Our People](https://open.spotify.com/track/0UORx3KqJIZOMM7VBYDZ21) | [Aaron White and Anthony Wakeman](https://open.spotify.com/artist/4okJpUO1J8t2JSgvyXh14o), [Anthony Wakeman](https://open.spotify.com/artist/24BfspSS7VeZksHJXZIF3A), [Aaron White](https://open.spotify.com/artist/2emV7TrNiMbIToJk470aWe) | [Discover \- Native American Indian Flute](https://open.spotify.com/album/6Eru2P9wBioJnwkNNARLew) | 5:53 |
+| 16 | [Handprints of Our People](https://open.spotify.com/track/0UORx3KqJIZOMM7VBYDZ21) | [Aaron White and Anthony Wakeman](https://open.spotify.com/artist/4okJpUO1J8t2JSgvyXh14o), [Aaron White](https://open.spotify.com/artist/2emV7TrNiMbIToJk470aWe), [Anthony Wakeman](https://open.spotify.com/artist/24BfspSS7VeZksHJXZIF3A) | [Discover \- Native American Indian Flute](https://open.spotify.com/album/6Eru2P9wBioJnwkNNARLew) | 5:53 |
 | 17 | [Divine Peace](https://open.spotify.com/track/0AxrYgvePMA0UMQ9EzMO8s) | [Hovia Edwards](https://open.spotify.com/artist/2qEoRYTRLgp3aYECBZxTF2) | [Reflections](https://open.spotify.com/album/6XtF0RsQCxs4FD6iS5n1m7) | 3:24 |
 | 18 | [Red Hawk Hill](https://open.spotify.com/track/2YBLASHNLeFdlbUDioE5UW) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Red Hawk Hill](https://open.spotify.com/album/6hwOFe2iX2u9vXsZTVWiiF) | 3:29 |
 | 19 | [Ephemera](https://open.spotify.com/track/7lbxttV803xY98kWdv4NRV) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/3it7hqsNPi6YrZjpWAU5W2) | 5:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
 | 70 | [Healer's Quest](https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 3:12 |
 
-Snapshot ID: `MCxjZjMwNGM5OGUzZGE2NDIxN2NhNWNiYmUxZGE0MjBkMWIzNDU3Zjlk`
+Snapshot ID: `MCw1Nzg4NWVhYzhmZWMwNDdjNjMzODk4MGJjYjMxOGExZDhkNDVlMWQx`

@@ -3551,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "Gold Mine",
+        "url": "https://open.spotify.com/album/1gZ6GbTfp1Cvuwp0tK00Xf"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155327,
+      "name": "Gold Mine",
+      "url": "https://open.spotify.com/track/2qPH0TDd5bVnIaPA7yoV7t"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6UDVIOMw5Bd6z7dpmpn5ZW"
       },
@@ -5878,24 +5896,6 @@
       "duration_ms": 221547,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/44hgSB3LnMNh81WtOvgBOa"
-    },
-    {
-      "album": {
-        "name": "Mine Of Myself",
-        "url": "https://open.spotify.com/album/1gZ6GbTfp1Cvuwp0tK00Xf"
-      },
-      "artists": [
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "date_added": "2023-10-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155327,
-      "name": "Mine Of Myself",
-      "url": "https://open.spotify.com/track/2qPH0TDd5bVnIaPA7yoV7t"
     },
     {
       "album": {

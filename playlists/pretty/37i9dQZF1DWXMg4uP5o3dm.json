@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 471037,
+  "num_followers": 471141,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmZmMWI2ZWM0MDRlNmI2NGVjYjAxYzZlMDVkNDkyOWE4NDYxMjA1",
+  "snapshot_id": "MCw2MDZkZjc3YTIxOTc2ZTJlM2ViOGRjZmJlMjQ2OGExNzU2Y2I4MGYw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Back from the Dead",
         "url": "https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 179016,
       "name": "Back from the Dead",
       "url": "https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 204391,
-      "name": "You Lose!",
-      "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "GAY 4 ME (feat. Lauren Sanderson)",
         "url": "https://open.spotify.com/album/7iR7ByaH9gsE5yKqPZBmU0"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 174739,
       "name": "GAY 4 ME (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/0SpPqrdsoudUHbahZa9Sm5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "You Lose!",
+      "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1507,26 +1507,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
       "artists": [
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
         },
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 174620,
-      "name": "Mr Regular",
-      "url": "https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC"
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1555,22 +1551,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
       },
       "artists": [
         {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         },
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+      "duration_ms": 174620,
+      "name": "Mr Regular",
+      "url": "https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC"
     },
     {
       "added_at": "2023-08-18 04:00:00",

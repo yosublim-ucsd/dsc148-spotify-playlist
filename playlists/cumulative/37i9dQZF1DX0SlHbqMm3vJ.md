@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Ric Hassani
 
-488 songs - 1 day 0 hr 31 min
+489 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,13 +227,14 @@
 | [Jahera](https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Jahera](https://open.spotify.com/album/0tYZ0bfXtTBzDFjMr2qqAk) | 3:07 | 2022-02-10 | 2022-02-17 |
 | [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 | 2023-05-26 | 2023-11-28 |
 | [Jara](https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Emotions](https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr) | 2:40 | 2023-09-14 |  |
+| [Jegede Remix](https://open.spotify.com/track/0tCDL7WyvA3gjFZZzgA3BH) | [Hitboy Kellz](https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Jegede Remix](https://open.spotify.com/album/6rIyCrt5aKkZvsJUrsyJHp) | 2:40 | 2023-12-15 |  |
 | [Jejely](https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Jejely](https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO) | 3:01 | 2023-04-14 | 2023-11-10 |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 | 2023-09-29 |
 | [Journey Back Home](https://open.spotify.com/track/3YoHYLrPxsEyOPtnzZso0n) | [Bankulli](https://open.spotify.com/artist/5vaAZTnLCHp0garbEDlorS), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Journey Back Home](https://open.spotify.com/album/2Had8Ig2siiYE7PYVYv4iS) | 3:44 | 2021-11-25 | 2022-02-18 |
 | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 | 2022-07-28 | 2023-01-01 |
 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 | 2021-10-22 | 2022-02-06 |
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-09 | 2023-02-17 |
-| [Kash and Karry](https://open.spotify.com/track/3biNFviRXIJFhNULZxZHM0) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Kash and Karry](https://open.spotify.com/album/0tqImbmIBOdXGzPKBDbFo2) | 2:57 | 2023-11-17 |  |
+| [Kash and Karry](https://open.spotify.com/track/3biNFviRXIJFhNULZxZHM0) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Kash and Karry](https://open.spotify.com/album/0tqImbmIBOdXGzPKBDbFo2) | 2:57 | 2023-11-17 | 2023-12-21 |
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-27 | 2023-10-29 |
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 | 2023-10-27 | 2023-12-18 |
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/5RizFQe3Uvf12S2WE83IBr) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 2:22 | 2023-12-15 |  |

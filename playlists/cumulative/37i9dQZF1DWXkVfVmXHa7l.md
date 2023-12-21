@@ -4,7 +4,7 @@
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-133 songs - 9 hr 50 min
+134 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [YouSee\-Power](https://open.spotify.com/track/517GTpatzMITcAIqsM74BU) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 4:17 | 2022-06-21 | 2022-07-29 |
 | [YouSee\-Power](https://open.spotify.com/track/6fx2tRc1ez4qCPySzRRx1m) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack On Titan The Final Season Original Soundtrack 02](https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL) | 4:17 | 2022-06-21 |  |
 | [YouSeeBIGGIRL/T:T](https://open.spotify.com/track/2Xoe9mGmWbwESLjqq9OdYF) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 5:59 | 2022-02-08 | 2022-07-29 |
+| [Yugure no Tori](https://open.spotify.com/track/6owPhBDQ7yiDOR4PoDza3I) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Yugure no Tori](https://open.spotify.com/album/3vAE7LvsQeu0JYpwmyGrZO) | 5:04 | 2023-11-19 |  |
 | [Zero Eclipse](https://open.spotify.com/track/0MemW1DmggDpHBGH4GgiaS) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | ["Attack on Titan" Season 3 Original Soundtrack](https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h) | 4:13 | 2022-06-21 |  |
 | [Zero Eclipse](https://open.spotify.com/track/3MRtp8nHiflu8rrmLYB07X) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「進撃の巨人」Season3 オリジナルサウンドトラック](https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD) | 4:13 | 2022-02-08 | 2022-07-29 |
 | [ət'aek till we are Ashes](https://open.spotify.com/track/2QsrukkARYgxkdLPRdsH4L) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 03](https://open.spotify.com/album/3rTrVjcIrw83YvtMIYlLJw) | 6:54 | 2023-11-07 | 2023-11-09 |
@@ -128,7 +129,7 @@
 | [ミカサからのスペシャルメッセージ!\(Message from Mikasa Ackerman\)](https://open.spotify.com/track/1lFewZjMWF0ZA1s1cgSYRT) | [『TVアニメ「進撃の巨人」The Final Season』](https://open.spotify.com/artist/75y274vQmhzjOIArJmnrFB) | [TVアニメ「進撃の巨人」The Final Season ミカサコメント](https://open.spotify.com/album/2JsEJwTpsMYuwHFKBCwdfK) | 0:35 | 2023-11-05 |  |
 | [僕の戦争](https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [僕の戦争](https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi) | 4:40 | 2022-02-08 | 2022-07-29 |
 | [夕暮れの鳥](https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [幼さを入院させて](https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE) | 5:03 | 2022-02-08 | 2023-02-10 |
-| [夕暮れの鳥](https://open.spotify.com/track/79xW4zeNFlcp5VKyvWk3cC) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [夕暮れの鳥/光の言葉](https://open.spotify.com/album/0wtAqG9NElftFjg2mHzOFN) | 5:04 | 2023-02-09 |  |
+| [夕暮れの鳥](https://open.spotify.com/track/79xW4zeNFlcp5VKyvWk3cC) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [夕暮れの鳥/光の言葉](https://open.spotify.com/album/0wtAqG9NElftFjg2mHzOFN) | 5:04 | 2023-02-09 | 2023-12-21 |
 | [心臓を捧げよ!](https://open.spotify.com/track/5bIZNB6e83zaYYFHOe1YHz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:41 | 2022-02-08 | 2022-07-29 |
 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 | 2022-02-08 | 2022-07-29 |
 | [憧憬と屍の道](https://open.spotify.com/track/1rxLfrpsIR0x2wqI6vFNdP) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [真実への進撃](https://open.spotify.com/album/6NSTZmKODxmUhqWGVZpGDL) | 4:36 | 2022-02-08 | 2022-07-29 |

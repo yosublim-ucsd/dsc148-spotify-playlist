@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: PARK WON\(박원\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Sunwoojunga\(선우정아\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-462 songs - 1 day 6 hr 6 min
+463 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Over the window \(feat\. Paul Kim\)](https://open.spotify.com/track/1TsMSWZHdljgsgIqAH7JuT) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Over the window](https://open.spotify.com/album/3JKlj3W1hKvqICDM3pGXPF) | 4:01 | 2023-12-14 |  |
 | [Paindrops](https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [Tiny Bits of Life Part.7](https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv) | 4:22 | 2022-03-29 | 2022-04-15 |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2021-12-20 |  |
+| [Po.Ong \(feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Kim Min Seok of MeloMance](https://open.spotify.com/artist/65a7h2pva5HZy6aZA9bvdW) | [Po.Ong \(Hug\)](https://open.spotify.com/album/0F6Yr8EQDnuHn19ZcTMcqj) | 3:47 | 2023-12-20 |  |
 | [Poem for you](https://open.spotify.com/track/7FTA2rnH392cty5UFNS8gg) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Old story](https://open.spotify.com/album/17n1MjwV3qBfhgjeixlUHE) | 3:39 | 2021-12-27 | 2022-07-29 |
 | [Press](https://open.spotify.com/track/0M6VybCyWscrHKcf8ZIzgU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Press \(re;code Episode Ⅸ\)](https://open.spotify.com/album/4yOOZtIGZaX2uEBXUjl5s9) | 3:57 | 2022-01-26 | 2022-06-30 |
 | [Pretty Girl \(Feat\. Dearming\)](https://open.spotify.com/track/7oo3WuG6LuSaAzErdAkzS7) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Dearming](https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx) | [Pretty Girl](https://open.spotify.com/album/7Lq9j14RVf8D7F8Nk2ZIC5) | 3:04 | 2022-02-25 | 2022-04-16 |
@@ -445,7 +446,7 @@
 | [난 널 사랑해](https://open.spotify.com/track/6j2BkzEgwFm5CSWPgULBqS) | [Shin Hyobum](https://open.spotify.com/artist/0VFz55Ht1prPpW3W9WAIUB) | [Shin Hyo Bum](https://open.spotify.com/album/1do2rIPMo5xR6ElF3y80vj) | 4:12 | 2023-12-01 | 2023-12-14 |
 | [내가 저지른 사랑](https://open.spotify.com/track/6s5QnuRQq0ANOo1pkz7mJv) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/6Z2EMjSuDFt6BHXgn479zw) | 3:58 | 2022-03-24 | 2022-04-20 |
 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 | 2022-09-06 |  |
-| [내게 오는 길 \- Bonus Track](https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [처음처럼](https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH) | 3:59 | 2023-12-01 |  |
+| [내게 오는 길 \- Bonus Track](https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [처음처럼](https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH) | 3:59 | 2023-12-01 | 2023-12-21 |
 | [내일](https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj) | [태영](https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv) | [내일 \(KSTAGE X 태영 Of 블랙레벨\)](https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY) | 4:00 | 2022-07-04 | 2022-07-23 |
 | [너를 위해](https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Story Of Two Years](https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt) | 4:06 | 2022-10-24 |  |
 | [더 드라이버](https://open.spotify.com/track/2SNyuFGjAYmKT9NrdZQ7rd) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [더 드라이버 ORIGINAL SOUND TRACK](https://open.spotify.com/album/2ltuRbeT5bJrfqktDeq0I2) | 4:03 | 2022-04-01 | 2022-04-20 |

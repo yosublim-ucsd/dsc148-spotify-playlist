@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID\. cover:ゆこぴ
 
-549 songs - 1 day 7 hr 13 min
+550 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) | 2:47 | 2022-07-26 | 2022-10-14 |
 | [DARLING DANCE](https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:26 | 2022-07-26 | 2023-11-29 |
 | [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 | 2022-07-26 | 2023-05-15 |
+| [Deus Ex Machina](https://open.spotify.com/track/31osVCqEZptHs7gtTY8TNY) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [Hakuu no Moto](https://open.spotify.com/album/61hpXrW1dU9HRjqyyrviDH) | 4:22 | 2023-12-19 |  |
 | [Digital Girl](https://open.spotify.com/track/15h9C2CLOJyNNdfNVFcp7m) | [KIRA](https://open.spotify.com/artist/11T32AM3Tp0oYZ3PEWHGLZ), [Hatsune Miku](https://open.spotify.com/artist/2AynL2BUHgIk5ApzFVwDIL) | [Digital Girl](https://open.spotify.com/album/5LyEP5iDIqGJMKbRpsKDMq) | 3:02 | 2022-06-28 | 2022-07-13 |
 | [Dinner Bell](https://open.spotify.com/track/4R4HYbhg9yBcHKX9yKvVK3) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [Dinner Bell](https://open.spotify.com/album/4mWPo2Z5XVSJ2DImosQz2B) | 3:06 | 2023-04-11 | 2023-04-28 |
 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 | 2022-07-26 | 2023-09-06 |
@@ -306,7 +307,7 @@
 | [テレキャスタービーボーイ \- long ver.](https://open.spotify.com/track/3UDe37nc2yvttJXlNk6Itr) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [パンデミック](https://open.spotify.com/album/63xiINuJgwLhkFXhh6pYag) | 2:44 | 2022-06-14 | 2022-07-29 |
 | [ディジーディジー](https://open.spotify.com/track/52NUibYIQbeJDCQNOQWq7v) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [ディジーディジー](https://open.spotify.com/album/2PhqyHfhXWWM1OJJCSWb0s) | 3:38 | 2022-06-09 | 2022-07-22 |
 | [デイバイデイズ](https://open.spotify.com/track/516VOCrYMVailWonQYvlXB) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [デイバイデイズ](https://open.spotify.com/album/6nhA9TfMKJdKAhg1upHyd1) | 2:09 | 2022-06-09 | 2022-07-29 |
-| [デウスエクスマキナ](https://open.spotify.com/track/6d0MEF5nYQ9x3On2Eib3LS) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [白雨の下](https://open.spotify.com/album/6I1yhPOU0KTelD1s6MaV65) | 4:22 | 2023-12-19 |  |
+| [デウスエクスマキナ](https://open.spotify.com/track/6d0MEF5nYQ9x3On2Eib3LS) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [白雨の下](https://open.spotify.com/album/6I1yhPOU0KTelD1s6MaV65) | 4:22 | 2023-12-19 | 2023-12-21 |
 | [デスぺレート](https://open.spotify.com/track/2HkSkpTUMolgOJldoaWFII) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [LOLUET](https://open.spotify.com/artist/5JoNnbXEGcykxL6fHRNola) | [デスぺレート](https://open.spotify.com/album/2wKuX8N0UVlwsBxFVPVIso) | 2:53 | 2022-10-13 | 2022-12-14 |
 | [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 | 2023-01-19 |  |
 | [ドクター=ファンクビート](https://open.spotify.com/track/10aURDc5wCO14NOKOHeBC0) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv) | [カドワナルカ=シアノタイプ](https://open.spotify.com/album/2FGdJBAjE4hS41DUAiEWeL) | 3:30 | 2022-06-09 | 2022-07-04 |

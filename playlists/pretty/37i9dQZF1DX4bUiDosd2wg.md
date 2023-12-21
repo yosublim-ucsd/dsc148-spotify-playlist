@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,987 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,980 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 39 | [비와 당신 \(원곡가수 박중훈\)](https://open.spotify.com/track/5DiaM30OoCsUHnfeOENWFJ) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7) | [<나는 가수다 2> 8월 B조 경연](https://open.spotify.com/album/0EmrYxeWzK8IM7hFe6xtqh) | 4:29 |
 | 40 | [중독된 사랑 \(원곡가수 조장혁\)](https://open.spotify.com/track/0ZgojjvQAKI351oYnhHKrZ) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [<나는 가수다 2> 10월 A조 경연 / 1집](https://open.spotify.com/album/41hA8ZNuquEp4VK97p6bvp) | 4:30 |
 | 41 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
-| 42 | [그랬나봐](https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU) | [Kim Hyung Joong](https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5) | [Kim Hyung Joong 1](https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5) | 4:29 |
+| 42 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 |
 | 43 | [그때 또 다시](https://open.spotify.com/track/5W4UhnPqSKnM3P6RBZTL2G) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Again](https://open.spotify.com/album/30HVhWNCycHEKHfxmxp35m) | 4:27 |
 | 44 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
 | 45 | [사랑했지만 \(원곡가수 故김광석\)](https://open.spotify.com/track/3kranIicKgd8mUT4COGvVM) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 2 \- 7월의 가수전](https://open.spotify.com/album/4IM9UuJ1Ht6UnqtHliqDN9) | 5:01 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCw2NjE2YTY4ODk3MmQyMjMzNWZlYjliNWRkZTZlZWQ1Mjg1MTZjNzdm`
+Snapshot ID: `MCw0YzNkYWM4NzYxODU2NDE1MzUxNWRmMDhmN2I4ODExZmQwNzQzMTM0`

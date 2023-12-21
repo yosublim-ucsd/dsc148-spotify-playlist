@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-388 songs - 1 day 3 hr 29 min
+389 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Metropolis](https://open.spotify.com/track/4am1waZVRIO48gAweG91DJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [ATOM](https://open.spotify.com/album/0DYVvqZiXhTNYPPPRkTxBX) | 4:54 | 2023-01-31 | 2023-03-15 |
 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 | 2022-10-20 |  |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-10-20 | 2022-10-25 |
-| [MOON](https://open.spotify.com/track/0Yo3hFi4HZQZphsp0nSj3o) | [Leo](https://open.spotify.com/artist/3PMCFWteGh7wt9hexu2CwQ) | [MOON](https://open.spotify.com/album/5rjsfvXbihC6HulxY5GQRr) | 3:15 | 2023-12-19 |  |
+| [MOON](https://open.spotify.com/track/0Yo3hFi4HZQZphsp0nSj3o) | [Leo](https://open.spotify.com/artist/3PMCFWteGh7wt9hexu2CwQ) | [MOON](https://open.spotify.com/album/5rjsfvXbihC6HulxY5GQRr) | 3:15 | 2023-12-19 | 2023-12-21 |
+| [MOON](https://open.spotify.com/track/4aEv1igs7UqxBEHdicIcZV) | [Leo](https://open.spotify.com/artist/3PMCFWteGh7wt9hexu2CwQ) | [MOON](https://open.spotify.com/album/3pi6ua6B35Fym8Lum2Bdub) | 3:15 | 2023-12-19 |  |
 | [Moon Flower](https://open.spotify.com/track/1zNdql4RAENgsKUM6W0muM) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [plantar](https://open.spotify.com/artist/6zTZAei3hiLeqle3De8Sgy) | [Moon Flower](https://open.spotify.com/album/1wkeXhf7uEOzqCBeRcn50R) | 1:58 | 2023-08-08 | 2023-12-02 |
 | [Moon Light Lover](https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:54 | 2022-10-20 | 2023-01-20 |
 | [moonlight](https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [moonlight](https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7) | 3:19 | 2023-12-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,945 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,994 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 47 | [Chekele](https://open.spotify.com/track/48onZ4ZEQnfzaH0yAofSsA) | [Ashic Arun](https://open.spotify.com/artist/3tarLlwi7lpfUrIGZjgigA) | [Chekele](https://open.spotify.com/album/0rPIpdxZnQKdP6iEeI05n2) | 2:22 |
 | 48 | [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 |
 | 49 | [A Life Worth Living \(Kesariyo\)](https://open.spotify.com/track/5L8GHat4FQUdZWQRET5PyS) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Chotu Khan](https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p), [Salman Khan](https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI), [Triplicane K\. Sekar](https://open.spotify.com/artist/2OaA4iqVxw33eqX9axg8BK) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:04 |
-| 50 | [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 |
+| 50 | [Divine Krishna](https://open.spotify.com/track/5XAY3PGTV5bbBv5cd6cVQk) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [We for Love](https://open.spotify.com/album/3GN5KAQHhR8MqwQea7VbXo) | 4:53 |
 
-Snapshot ID: `MCw3YWE2Y2RiODVlNGIwODkxZDQyZTA5YWRhNTE3NDhkOTFiMTU2ZmMw`
+Snapshot ID: `MCxlZWEzNTg3NTAwNTdmYWEwOTQzYjk0MDVjNThiMzZhNDU4MzJhNmU5`

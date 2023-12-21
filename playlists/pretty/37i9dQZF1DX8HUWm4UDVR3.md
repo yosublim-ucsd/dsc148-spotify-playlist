@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Rouquine
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,164 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,172 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Julia](https://open.spotify.com/track/7M45CXpMcsjxAVZxqpmzrH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 2:53 |
 | 50 | [Nuits bleues](https://open.spotify.com/track/14V0agAxlMODImJusOV3dC) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/1f5u4egw7dLFkDcXnhqkhW) | 2:36 |
 
-Snapshot ID: `MCxkMzlkM2VlNzYxYTAzMWEzNWNkZGU0NGMxM2U5ZTA4NmQ0M2ExZTU3`
+Snapshot ID: `MCw3NTQyNTMwODIxNGQwNGJiZDNhMjBjNmYwZTI0OGNmOTVmOTg1ZDlm`

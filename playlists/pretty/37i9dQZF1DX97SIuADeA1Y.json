@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 328818,
+  "num_followers": 328902,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzJiYzkxMzA0ZWFjYjdjNDgzYWU3ZDVlMjU0NjllZjk4N2IwOGU5",
+  "snapshot_id": "MCw3MGVlYzMxOWJiOGViNjg1YWI4N2NjYmNlMjJlNDQ3MGFmMThjMTJl",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "Mask Off",
         "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
       },
@@ -667,30 +687,6 @@
       "duration_ms": 151384,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
-      },
-      "artists": [
-        {
-          "name": "Hr. Troels",
-          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
-        },
-        {
-          "name": "Morty Simmons",
-          "url": "https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -715,22 +711,26 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Hr. Troels",
+          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
         },
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Morty Simmons",
+          "url": "https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
         }
       ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+      "duration_ms": 202333,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "Party All The Time",
+        "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Masove",
+          "url": "https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR"
+        }
+      ],
+      "duration_ms": 134544,
+      "name": "Party All The Time",
+      "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
       },
@@ -843,46 +863,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Party All The Time",
-        "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "Masove",
-          "url": "https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR"
-        }
-      ],
-      "duration_ms": 134544,
-      "name": "Party All The Time",
-      "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Skippin",
-        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
-      },
-      "artists": [
-        {
-          "name": "MAXAM",
-          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Skippin",
-      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 168300,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Skippin",
+        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
+      },
+      "artists": [
+        {
+          "name": "MAXAM",
+          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "duration_ms": 157446,
+      "name": "Skippin",
+      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "All Eyez On Me (Rework)",
-        "url": "https://open.spotify.com/album/3HmxGIZ6ZtMO7EoLzHxYh5"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "All Eyez On Me - Rework",
-      "url": "https://open.spotify.com/track/0OsfIkq5kOtNQkvkgtLgPJ"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 157560,
       "name": "Alone Again (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "All Eyez On Me (Rework)",
+        "url": "https://open.spotify.com/album/3HmxGIZ6ZtMO7EoLzHxYh5"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "All Eyez On Me - Rework",
+      "url": "https://open.spotify.com/track/0OsfIkq5kOtNQkvkgtLgPJ"
     },
     {
       "added_at": "2023-12-01 11:00:00",

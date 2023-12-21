@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Sarz, Gunna & Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,590 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,684 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 68 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
 | 69 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 |
 | 70 | [Attention](https://open.spotify.com/track/0FQmt8YjhSXx2KMvJSiHQ3) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Attention](https://open.spotify.com/album/2NHXAtrSy811tF6Jz99BXy) | 2:22 |
-| 71 | [NEVER WILL I LET YOU GO](https://open.spotify.com/track/7vNG72ZHmA5PWIcnE9ta7H) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Simi](https://open.spotify.com/artist/4OFhyRvjPGJglivo9VcwE5) | [9](https://open.spotify.com/album/2DbL0zVF543WfNBeMRvuxa) | 2:28 |
+| 71 | [NEVER WILL I LET YOU GO](https://open.spotify.com/track/7vNG72ZHmA5PWIcnE9ta7H) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [9](https://open.spotify.com/album/2DbL0zVF543WfNBeMRvuxa) | 2:28 |
 | 72 | [UNAVAILABLE \(feat\. Musa Keys\) \- Major Lazer Remix](https://open.spotify.com/track/4oIhpa8oYIxlADCRq5Zc3g) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [UNAVAILABLE \(feat\. Musa Keys\) \[Major Lazer Remix\]](https://open.spotify.com/album/5hCoRG8VEHUOsZ55sQWYEs) | 3:52 |
 | 73 | [Secret Lover](https://open.spotify.com/track/2aZluo5suMJzbl0EdZ7H2S) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:50 |
 | 74 | [Miracle Baby](https://open.spotify.com/track/4SiIa6dMiUzC9X1gz0OSYq) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [6 BUSINESS DAYS \(feat\. Projexx\)](https://open.spotify.com/track/2KbFskDFrgLGKBKIVDrzbh) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:39 |
 | 80 | [Coat](https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [Coat](https://open.spotify.com/album/6MrDXdoSfJyULkVYDUIm0n) | 1:30 |
 
-Snapshot ID: `MCxlNjkxMzRmMTZiYmI3ZWExN2E1ZDQxMDUyOTI2MDM4Yzg1MDFjMTgy`
+Snapshot ID: `MCxhNGVjYTA0ZjM3ODdhODE5MmIwMmFhOWI0Y2IzYTQ4YzJhOTg3NTJi`

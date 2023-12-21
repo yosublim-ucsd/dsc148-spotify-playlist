@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 262212,
+  "num_followers": 262245,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTc0NWNmNTE0YjY1NGZmZjU4ODkxNzA1ZGQ1MTZjZjVhYzliZTBh",
+  "snapshot_id": "MCwyNjcyZTE0Y2I3NzliMWNkZDQ2MGY3YzJkODQ0Y2ZhNWVlMWMzZDg2",
   "tracks": [
     {
       "added_at": "2023-10-13 19:48:40",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 179083,
       "name": "Paper Mache World",
       "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 307613,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb"
+      "duration_ms": 182062,
+      "name": "Boxing Day Blues",
+      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 307613,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Boxing Day Blues",
-      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "People Pleaser",
-        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
-      },
-      "artists": [
-        {
-          "name": "Laura Elliott",
-          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
-        }
-      ],
-      "duration_ms": 252291,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Here Goes Nothing!",
         "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 158106,
       "name": "I'm Afraid I Love You",
       "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
+      },
+      "artists": [
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 252291,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA"
+      },
+      "artists": [
+        {
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Seventeen Again (feat. Novo Amor)",
+      "url": "https://open.spotify.com/track/30v4EAWXc18jR8INUfl5yI"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Shower Song",
         "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 338639,
       "name": "Stop Your Tears",
       "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Bullseye",
-        "url": "https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA"
-      },
-      "artists": [
-        {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/30v4EAWXc18jR8INUfl5yI"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "L. A. Flame",
-        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
-      },
-      "artists": [
-        {
-          "name": "Anna Ash",
-          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Party Dress",
         "url": "https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 194942,
       "name": "Party Dress",
       "url": "https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "L. A. Flame",
+        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
+      },
+      "artists": [
+        {
+          "name": "Anna Ash",
+          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Eastwick / Cold Caller",
         "url": "https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 237015,
       "name": "Cold Caller",
       "url": "https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "duration_ms": 239917,
+      "name": "Pressing Down",
+      "url": "https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Kitchen Table",
         "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
+        "name": "Thumbs",
+        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
       },
       "artists": [
         {
-          "name": "Sister Ray",
-          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 239917,
-      "name": "Pressing Down",
-      "url": "https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm"
+      "duration_ms": 265440,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1615,22 +1631,6 @@
       "duration_ms": 175773,
       "name": "Rae",
       "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Thumbs",
-        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
     },
     {
       "added_at": "2023-10-13 19:48:40",

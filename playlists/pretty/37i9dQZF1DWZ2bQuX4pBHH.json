@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 236606,
+  "num_followers": 236665,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTRiMjVlNGZmNmI4MDMwNmZiZjJkNTJiNmY2ZjkyNDM4NGY0OWMy",
+  "snapshot_id": "MCw4YzRlMGViYTQ4MDJlYTI2ZWI1ZDQ2NzdiYzM1Y2U0ZTcxZjM5Y2Jh",
   "tracks": [
     {
       "added_at": "2023-12-18 13:02:53",
@@ -595,8 +595,8 @@
     {
       "added_at": "2023-12-18 13:02:53",
       "album": {
-        "name": "Zinda Banda (From \"Jawan\")",
-        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
+        "name": "Not Ramaiya Vastavaiya (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/7r7X6pKpUy8RAQsInpoCzN"
       },
       "artists": [
         {
@@ -604,13 +604,21 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Zinda Banda (From \"Jawan\")",
-      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
+      "duration_ms": 202556,
+      "name": "Not Ramaiya Vastavaiya (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/0bq1DsWLC4glKh9etnmalg"
     },
     {
       "added_at": "2023-12-18 13:02:53",
@@ -711,34 +719,6 @@
     {
       "added_at": "2023-12-18 13:02:53",
       "album": {
-        "name": "Not Ramaiya Vastavaiya (From \"Jawan\")",
-        "url": "https://open.spotify.com/album/7r7X6pKpUy8RAQsInpoCzN"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 202556,
-      "name": "Not Ramaiya Vastavaiya (From \"Jawan\")",
-      "url": "https://open.spotify.com/track/0bq1DsWLC4glKh9etnmalg"
-    },
-    {
-      "added_at": "2023-12-18 13:02:53",
-      "album": {
         "name": "Baazigar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 468293,
       "name": "Ye Kaali Kaali Aankhen",
       "url": "https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG"
+    },
+    {
+      "added_at": "2023-12-18 13:02:53",
+      "album": {
+        "name": "Zinda Banda (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Zinda Banda (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
     },
     {
       "added_at": "2023-12-18 13:02:53",
@@ -899,22 +899,30 @@
     {
       "added_at": "2023-12-18 13:02:53",
       "album": {
-        "name": "Yes Boss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
+        "name": "Rab Ne Bana Di Jodi",
+        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
       },
       "artists": [
         {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Labh Janjua",
+          "url": "https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7"
+        },
+        {
+          "name": "Jaideep Sahni",
+          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
         }
       ],
-      "duration_ms": 266066,
-      "name": "Ek Din Aap",
-      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
+      "duration_ms": 261015,
+      "name": "Dance Pe Chance",
+      "url": "https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI"
     },
     {
       "added_at": "2023-12-18 13:02:53",
@@ -951,30 +959,22 @@
     {
       "added_at": "2023-12-18 13:02:53",
       "album": {
-        "name": "Rab Ne Bana Di Jodi",
-        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
+        "name": "Yes Boss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
       "artists": [
         {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
         },
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Labh Janjua",
-          "url": "https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7"
-        },
-        {
-          "name": "Jaideep Sahni",
-          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 261015,
-      "name": "Dance Pe Chance",
-      "url": "https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI"
+      "duration_ms": 266066,
+      "name": "Ek Din Aap",
+      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
     },
     {
       "added_at": "2023-12-18 13:02:53",
@@ -1024,17 +1024,17 @@
       },
       "artists": [
         {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+          "name": "Vinod Rathod",
+          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
         },
         {
           "name": "Alka Yagnik",
           "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 459266,
-      "name": "Baazigar O Baazigar",
-      "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
+      "duration_ms": 453653,
+      "name": "Ae Mere Humsafar",
+      "url": "https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a"
     },
     {
       "added_at": "2023-12-18 13:02:53",
@@ -1063,26 +1063,6 @@
       "duration_ms": 255242,
       "name": "Bholi Si Surat",
       "url": "https://open.spotify.com/track/0dova5UHQl7K3VlKu1pyEQ"
-    },
-    {
-      "added_at": "2023-12-18 13:02:53",
-      "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
-      },
-      "artists": [
-        {
-          "name": "Vinod Rathod",
-          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 453653,
-      "name": "Ae Mere Humsafar",
-      "url": "https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a"
     },
     {
       "added_at": "2023-12-18 13:02:53",
@@ -1151,6 +1131,42 @@
     {
       "added_at": "2023-12-18 13:02:53",
       "album": {
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 459266,
+      "name": "Baazigar O Baazigar",
+      "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
+    },
+    {
+      "added_at": "2023-12-18 13:02:53",
+      "album": {
+        "name": "Best of Bollywood Singers - Shaan & Vinod Rathod",
+        "url": "https://open.spotify.com/album/6sR5oeKyogQ6L7wOzO5U3t"
+      },
+      "artists": [
+        {
+          "name": "Vinod Rathod",
+          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+        }
+      ],
+      "duration_ms": 383375,
+      "name": "Koi Na Koi Chahiye - From \"Deewana\"",
+      "url": "https://open.spotify.com/track/2SIi6cD1f9VrDnd5MUSpIG"
+    },
+    {
+      "added_at": "2023-12-18 13:02:53",
+      "album": {
         "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
@@ -1183,34 +1199,6 @@
       "duration_ms": 408920,
       "name": "Say \"Shava Shava\"",
       "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
-    },
-    {
-      "added_at": "2023-12-18 13:02:53",
-      "album": {
-        "name": "Veer - Zaara",
-        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
-      },
-      "artists": [
-        {
-          "name": "Madan Mohan",
-          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Javed Akhtar",
-          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
-        }
-      ],
-      "duration_ms": 343066,
-      "name": "Yeh Hum Aa Gaye Hain Kahaan",
-      "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
     }
   ],
   "unique_name": "Starring Shah Rukh Khan",

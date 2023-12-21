@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-847 songs - 1 day 8 hr 54 min
+849 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-04-15 | 2022-07-08 |
 | [Dot](https://open.spotify.com/track/6PAYfELVPtKLgBCRtiyEDe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Dot](https://open.spotify.com/album/4VPJdglfetgKYKFQhcOCDS) | 2:23 | 2022-04-15 | 2022-05-14 |
 | [down again](https://open.spotify.com/track/1bzVwOf1Q8LEhp5Uh25he3) | [keeplove.](https://open.spotify.com/artist/5hWNRJj4LKuJ9tUGwfYwtX) | [down again](https://open.spotify.com/album/2b87OxK5vbVM8HapvOxH5v) | 2:09 | 2022-07-29 | 2022-08-12 |
-| [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 | 2022-05-20 |  |
+| [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 | 2022-05-20 | 2023-12-21 |
 | [downright](https://open.spotify.com/track/3MuG1hLdgsuwUpq6CWQ1wM) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [downright](https://open.spotify.com/album/3y8tJE7EYUUR5JJzOiudtv) | 2:24 | 2023-11-24 |  |
 | [Downtime](https://open.spotify.com/track/19duLYydAX6UiqlFKW54Qu) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Downtime](https://open.spotify.com/album/5pWGzIP2RcutSjYAtsITyM) | 2:16 | 2023-11-24 |  |
 | [dream keeper](https://open.spotify.com/track/6xFrBq4Jo0rZup2nygCVSG) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [dream keeper](https://open.spotify.com/album/4f15Bwm2AMymAQrn1Li3Kj) | 2:24 | 2023-12-15 |  |
@@ -262,7 +262,7 @@
 | [Grab Me](https://open.spotify.com/track/0NVNMpfQSByxAJRDX8pL2N) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Venetian Blinds](https://open.spotify.com/album/0x5WvMjYdLqQIbNBELQJ3A) | 1:10 | 2022-11-11 | 2023-09-29 |
 | [Grab Me](https://open.spotify.com/track/0cE08OroMUhkConKh6M6gV) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Venetian Blinds](https://open.spotify.com/album/6JUA2UDIIF444niaQMlbL3) | 1:10 | 2022-11-11 | 2022-11-24 |
 | [Grab Me](https://open.spotify.com/track/18XKAqXpqPMOvBtwd4OMxm) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Grab Me](https://open.spotify.com/album/2418RlJ3zBet0TfLMn8MwF) | 1:10 | 2022-09-16 | 2022-11-21 |
-| [Gravel](https://open.spotify.com/track/3hqhYxVwW3o6g8p7HhtSVW) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Gravel](https://open.spotify.com/album/7ICWHUYb9EkAyol455qck6) | 1:54 | 2022-11-11 |  |
+| [Gravel](https://open.spotify.com/track/3hqhYxVwW3o6g8p7HhtSVW) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Gravel](https://open.spotify.com/album/7ICWHUYb9EkAyol455qck6) | 1:54 | 2022-11-11 | 2023-12-21 |
 | [Gray or Grey](https://open.spotify.com/track/6tLMDPDjojjIn2dv7KEXco) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Gray or Grey](https://open.spotify.com/album/2IsZrqLuFZHHM46SvrCLOd) | 2:52 | 2022-04-15 |  |
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2023-11-17 |  |
 | [Grey](https://open.spotify.com/track/3GAy161sXmgiMOD7PYzBIA) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Grey](https://open.spotify.com/album/7CUV9YXdh4CdcwLl7K4La6) | 3:16 | 2022-04-15 | 2022-05-20 |
@@ -376,6 +376,7 @@
 | [Lights](https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Lights](https://open.spotify.com/album/7jVcGM3AMu2z9yRs6TEO0R) | 2:34 | 2023-07-19 |  |
 | [Lightzone](https://open.spotify.com/track/6RWd8uKY4Fp7IfVpJjjOgp) | [Ble0](https://open.spotify.com/artist/6WmPnJPGUdHOZAmDIY9GIo) | [Lightzone](https://open.spotify.com/album/4NKxtQjQiUir9MJMIkdPJi) | 2:21 | 2022-04-15 | 2022-05-20 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2022-04-15 | 2022-08-12 |
+| [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 |  |
 | [Liquorice](https://open.spotify.com/track/34gmdxjVoCAQIDixBNhYda) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Supreme](https://open.spotify.com/album/1aq0krXC5rXL0SoOPOBkIC) | 1:54 | 2022-04-15 | 2022-05-27 |
 | [Livin' Easy](https://open.spotify.com/track/1mFgHisS18u9xDvpv4n2Iz) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Livin' Easy](https://open.spotify.com/album/6wFa61RPANe0dB2IgjDU5x) | 2:12 | 2022-04-22 | 2023-10-13 |
 | [Living Quarters](https://open.spotify.com/track/1ogoiiimWF8xDwZCIrc9AT) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Living Quarters](https://open.spotify.com/album/2rFeIx7pisAIFKwdy1rTYI) | 2:21 | 2022-04-15 |  |
@@ -708,6 +709,7 @@
 | [Sunshine](https://open.spotify.com/track/4noLQWyJ28F0zFz6eTSOOW) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Ultramarinblau](https://open.spotify.com/artist/0ZzVsShp5a93vikX006voH) | [Sunshine](https://open.spotify.com/album/5ufcAAHfkltz0Ch9ZDTWTX) | 2:24 | 2023-03-13 | 2023-10-06 |
 | [Sunshine](https://open.spotify.com/track/0jI9YXwJOdw9qScRjns6TG) | [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j) | [Sunshine](https://open.spotify.com/album/4SMjgiYm2cBcaYdeADCDZs) | 2:08 | 2022-09-30 |  |
 | [sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 | 2023-12-15 |
+| [supajam](https://open.spotify.com/track/0EJPiTVZZJ4LIrfQcQpDlI) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [supajam](https://open.spotify.com/album/2qoWl3DKNFoKvMQSv79tl0) | 2:00 | 2023-12-15 |  |
 | [Supalonley](https://open.spotify.com/track/3Bhi8rQjwOviWEpnt17Ser) | [Instant Influence](https://open.spotify.com/artist/5Enyz9z97MuIj0QCfUOT1X) | [Supalonely](https://open.spotify.com/album/3gT6m4IDzhjMUot8ZgKAIM) | 3:07 | 2022-11-25 |  |
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
 | [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 | 2023-10-20 |

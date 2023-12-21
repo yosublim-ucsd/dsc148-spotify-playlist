@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388,645 likes - 85 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389,060 likes - 85 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 22 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
 | 23 | [RISE UP](https://open.spotify.com/track/1fB1NOeELQJwHw5kLeQEf4) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live THE ANIMATION Opening Track「RISE UP」](https://open.spotify.com/album/19rtC1twZKhiqLfnOZT6bS) | 3:40 |
 | 24 | [kioku](https://open.spotify.com/track/63vDfYaOPjLDCoBVTwgqhp) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [kioku](https://open.spotify.com/album/4wNrWQGL2fg72wDyOb5Dri) | 3:58 |
-| 25 | [導き、捧げて](https://open.spotify.com/track/0RYUwHdrLC6PerPqxM76wt) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [導き、捧げて](https://open.spotify.com/album/5ZdXqOwCsv5DuyMJUM5d9U) | 3:21 |
+| 25 | [Guide and Devote](https://open.spotify.com/track/6TBGoqXlsyvs7Mq7yWQQ1e) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [Guide and Devote](https://open.spotify.com/album/1p5iDrsIRRadjrIvk6dK7Q) | 3:21 |
 | 26 | [RVR～ライジングボルテッカーズラップ～ \- オリオVer\. PART2](https://open.spotify.com/track/06HRdIyl7S0qJF8Cbe13R0) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [オリオ\(CV:佐倉綾音\)](https://open.spotify.com/artist/1Ew6K882V9a9XwJlRASVt3) | [RVR～ライジングボルテッカーズラップ～ \(オリオVer\. PART2\)](https://open.spotify.com/album/60Ip4aZQgJ78NlNhWChiLQ) | 1:31 |
 | 27 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 |
 | 28 | [好きにしなよ](https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [好きにしなよ](https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p) | 4:26 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Yumagadoki](https://open.spotify.com/track/5ZQfzVe2AZ2YGeW04QNWmn) | [Soraru & Rib](https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2), [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz), [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [Collaboration Single "Yumagadoki" \-TV Anime "Migi & Dali" OpeningTheme\-](https://open.spotify.com/album/5HjBHw6gFDGDkrR0e694mn) | 3:36 |
 | 85 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 |
 
-Snapshot ID: `MCw5N2Y5MjQ2ODI4NzZiMjQ3ZjFhZDBlMTNlZmUxNTYxZWEyYzM3Yjc3`
+Snapshot ID: `MCxjNmNiOTVkYzdhYmU3YTUyNmEzYTVhZjhiZDliZDY1OTE4Mzk1NGUy`

@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 726128,
+  "num_followers": 726124,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDQ5ODBhYzBjZmMxOWFmYmFmNmYyMzViOWJkNDhlNzFiYTc1ZTVl",
+  "snapshot_id": "MCxmNWE4YjZkMWE2ZWNlZWY4NzcwMTc2ZGU3OTYyZGZiYTljNzY2Zjgy",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Under Fire",
-        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
-      },
-      "artists": [
-        {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Dancing Shoes",
-      "url": "https://open.spotify.com/track/3Y6BuzQCg9p4yH347Nn8OW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 201493,
       "name": "hookup scene",
       "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Under Fire",
+        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Dancing Shoes",
+      "url": "https://open.spotify.com/track/3Y6BuzQCg9p4yH347Nn8OW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Dreams (The Campfire Sessions)",
-        "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Dreams - The Campfire Sessions",
-      "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+        "name": "Dreams (The Campfire Sessions)",
+        "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
       },
       "artists": [
         {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
         }
       ],
-      "duration_ms": 234320,
-      "name": "Find Me Here - Broke Down",
-      "url": "https://open.spotify.com/track/5gMiQ72iAqzzqWqrKvTWbO"
+      "duration_ms": 226293,
+      "name": "Dreams - The Campfire Sessions",
+      "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+      },
+      "artists": [
+        {
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Find Me Here - Broke Down",
+      "url": "https://open.spotify.com/track/5gMiQ72iAqzzqWqrKvTWbO"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Carry on, San Vicente",
         "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
       },
@@ -875,6 +875,26 @@
       "duration_ms": 262079,
       "name": "Nothing Like You",
       "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Tourism",
+        "url": "https://open.spotify.com/album/2dxsMripcAgRre1gqZPoye"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Forget Myself (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/7D5v3bwTNUx8NHHKHmwGgX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -907,26 +927,6 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Tourism",
-        "url": "https://open.spotify.com/album/2dxsMripcAgRre1gqZPoye"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        },
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Forget Myself (feat. Darlingside)",
-      "url": "https://open.spotify.com/track/7D5v3bwTNUx8NHHKHmwGgX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "This Town Still Talks About You",
-      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Glasshouse Children",
         "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 91554,
       "name": "Bulleit Blues",
       "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "This Town Still Talks About You",
+      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
     },
     {
       "added_at": "2023-12-01 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 728077,
+  "num_followers": 728269,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzkwMjU2MjhhMTY4ZTg5ODVmMmEzMTE5MTgzYTFjOWI3NGE3Nzg5",
+  "snapshot_id": "MCwwZGJiNDg0NWQyMDhhYzBmNTg5ZmNjM2RlYzBmNDIwZjNhZGIyZDdl",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Same Truck",
-        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
-      },
-      "artists": [
-        {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Damn Strait",
-      "url": "https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Deana Carter Collection",
         "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 290466,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Same Truck",
+        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "duration_ms": 230226,
+      "name": "Damn Strait",
+      "url": "https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
-      },
-      "artists": [
-        {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Next To You, Next To Me",
-      "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Cab In A Solo",
         "url": "https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 225960,
       "name": "Cab In A Solo",
       "url": "https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Next To You, Next To Me",
+      "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Tequila Does",
-      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "See You Try",
         "url": "https://open.spotify.com/album/1gJBFIxt0YT2v7kZWq99Rs"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 244266,
       "name": "Outskirts of Heaven",
       "url": "https://open.spotify.com/track/5J3jB1IKglDvEu0WRsOcq5"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Tequila Does",
+      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
       "added_at": "2023-11-17 05:00:00",

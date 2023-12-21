@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-192 songs - 13 hr 23 min
+193 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Adore Him](https://open.spotify.com/track/3dp6fAwRQ5MYNmJTWdYVhD) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Becky Lucas](https://open.spotify.com/artist/7HCn9LFCIK5RaGklYwEt8N), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Adore Him](https://open.spotify.com/album/06MeFxZ2kmyEzuwgxJYmi9) | 4:30 | 2022-11-26 |  |
 | [Adore Him \- Live](https://open.spotify.com/track/0ZLq4q1Yyq06nzfxvqkT1o) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Christmas Morning \(Live\)](https://open.spotify.com/album/2l7iSf6yR3WCIW0BRi2AXr) | 7:51 | 2022-11-26 |  |
 | [Advent Song \(Christ Has Come\)](https://open.spotify.com/track/5SqjFvC9d9bTn3cCGOYGnt) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR), [Channing Gillespie](https://open.spotify.com/artist/0PYc251XnbuIb80WbNusnf) | [Advent Song \(Christ Has Come\)](https://open.spotify.com/album/5BDdcMskJYCIcGto5Brtg4) | 3:35 | 2022-11-26 |  |
-| [All I Want For Christmas Is You](https://open.spotify.com/track/0AFjCRwQjZotkRC8qmy1OG) | [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW) | [I Believe In Christmas](https://open.spotify.com/album/2IozXfRTYqZ9C5CXeKiPsm) | 3:50 | 2022-11-26 |  |
+| [All I Want For Christmas Is You](https://open.spotify.com/track/0AFjCRwQjZotkRC8qmy1OG) | [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW) | [I Believe In Christmas](https://open.spotify.com/album/2IozXfRTYqZ9C5CXeKiPsm) | 3:50 | 2022-11-26 | 2023-12-21 |
 | [Anchor of Our Hearts](https://open.spotify.com/track/5Ay9K9Pzf69aVq3SRFPT8A) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Here With Us](https://open.spotify.com/album/1y2mD6ErkiKM0S00QJkQPH) | 4:25 | 2022-11-26 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/4ETJMclUUGGn8YDV4N4XSb) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Angels We Have Heard On High](https://open.spotify.com/album/0YTBVRxwnR5LOGksOnomhP) | 3:17 | 2022-11-26 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/6r2uT3BQAYuNygl5BKv3v3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:41 | 2020-12-21 | 2022-11-27 |
@@ -186,6 +186,7 @@
 | [The Hope for All](https://open.spotify.com/track/6xRhLODIOh065PTQTj9008) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP) | [The Hope for All](https://open.spotify.com/album/6G1ViS0M7AxZ7a3AnICM03) | 4:57 | 2022-11-26 |  |
 | [The Saviour Is Here](https://open.spotify.com/track/2cqV7UbShPiNITl9UsKJzQ) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [The Saviour Is Here](https://open.spotify.com/album/7LJ2alYjOWnQhE3M9weeZQ) | 4:16 | 2022-11-26 |  |
 | [The Wait is Over](https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [The Wait is Over](https://open.spotify.com/album/2Uviy1FsGVVctRmFDH3MbE) | 4:18 | 2022-11-26 |  |
+| [The Wait Is Over Now](https://open.spotify.com/track/7KEqXN1PZWVmwDYu4k8oF7) | [Renew Creative](https://open.spotify.com/artist/5Ks6NwwU5TV0rraF5BOfou) | [The Wait Is Over Now](https://open.spotify.com/album/1mSqdGyk0ey5Khaa35Ipvl) | 4:26 | 2023-12-15 |  |
 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-11-26 |  |
 | [This is Emmanuel](https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [This is Emmanuel](https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA) | 3:55 | 2022-11-26 |  |
 | [This Year For Christmas](https://open.spotify.com/track/19DeHNpOPLVntLXYDxtB02) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:30 | 2020-12-21 | 2022-11-27 |

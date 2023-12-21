@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,646 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,654 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 9 | [Machooka](https://open.spotify.com/track/6fsL0sv1oEm97D6qk2L0Vh) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Machooka](https://open.spotify.com/album/2LyS6BUbTN5dK2kIFPbXIT) | 3:35 |
 | 10 | [Praia de Artista](https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Sim](https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG) | 4:21 |
 | 11 | [Senhor Carangeju](https://open.spotify.com/track/2WU1pLmxOS4zPiCXBE45rJ) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Na Lagoa](https://open.spotify.com/album/0acKE1PTMxBOEhijXOyOHM) | 6:49 |
-| 12 | [Caso Sério \- L\_cio & Tessuto Remix](https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [Tessuto](https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk) | [Rita Lee & Roberto \- Classix Remix Vol\. III](https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8) | 7:01 |
-| 13 | [Energy Sync \- Club Mix](https://open.spotify.com/track/4VVDbtomeX9na5sgXSj0rR) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/5pXNPQHtPyIbOjfn8xIH1F) | 6:37 |
+| 12 | [Energy Sync \- Club Mix](https://open.spotify.com/track/4VVDbtomeX9na5sgXSj0rR) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/5pXNPQHtPyIbOjfn8xIH1F) | 6:37 |
+| 13 | [Caso Sério \- L\_cio & Tessuto Remix](https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [Tessuto](https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk) | [Rita Lee & Roberto \- Classix Remix Vol\. III](https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8) | 7:01 |
 | 14 | [Vavapo](https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0) | [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [Favela Garage Beats](https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx) | 3:07 |
 | 15 | [Moleque Vampiro](https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Parente Neon](https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck) | 2:29 |
 | 16 | [mate & morra](https://open.spotify.com/track/6cVw5WnMUCIhFawrGlDo8Z) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [mate & morra](https://open.spotify.com/album/2sAvfIryVuCAbCIcewxEOq) | 3:36 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 20 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 |
 | 21 | [Laiaraiá \(LOV.ini Remix\)](https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix) | 5:08 |
 | 22 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 |
-| 23 | [Fixity \- Original Mix](https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [VA IFN 001 \- Techno Concept](https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6) | 5:11 |
+| 23 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
 | 24 | [De AK em Cima da CB1000](https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Paredão](https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq) | 4:18 |
 | 25 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 |
 | 26 | [Benzine](https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Benzine EP](https://open.spotify.com/album/2DibufkG06qMeScycqEsXE) | 6:46 |
-| 27 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
+| 27 | [Fixity \- Original Mix](https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [VA IFN 001 \- Techno Concept](https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6) | 5:11 |
 | 28 | [Sarrafando Em Você](https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD) | [Guillerrrmo](https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy) | [Movimento Paralelo, Vol.1](https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76) | 4:08 |
 | 29 | [Rock The Box \- Original](https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a) | [Vermelho](https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL), [Ivana Wonder](https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7) | [Rock The Box](https://open.spotify.com/album/15RTVs764De4RhPcuu03li) | 6:22 |
 | 30 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 46 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 |
 | 47 | [Dance n' Casa](https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP), [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 5:57 |
 | 48 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 |
-| 49 | [Eu Vou Surfar Na Pista](https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL) | [Brisa Busters](https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 6:36 |
-| 50 | [Baile do Tai Tai](https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD), [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Conexao Riocife](https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp) | 5:04 |
+| 49 | [Baile do Tai Tai](https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD), [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Conexao Riocife](https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp) | 5:04 |
+| 50 | [Eu Vou Surfar Na Pista](https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL) | [Brisa Busters](https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 6:36 |
 
-Snapshot ID: `MCxjMzViODdjOGQ3M2IzMzk0MjRlYjQzM2Q3NGVjYzJjMDJiNGZlYjc5`
+Snapshot ID: `MCw1Njk1NDRmODdlNzBkYmVmOTA0MWM1ZTQ0MGJlMjg0MDU0MjViNmYw`

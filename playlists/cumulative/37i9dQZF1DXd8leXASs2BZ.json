@@ -1456,7 +1456,7 @@
     {
       "album": {
         "name": "LEAD",
-        "url": "https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9"
+        "url": "https://open.spotify.com/album/12eiDX769GffsCljewZy7i"
       },
       "artists": [
         {
@@ -1467,6 +1467,24 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232125,
+      "name": "LEAD",
+      "url": "https://open.spotify.com/track/4t7AY95Hf5UZBtRKjjswbO"
+    },
+    {
+      "album": {
+        "name": "LEAD",
+        "url": "https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9"
+      },
+      "artists": [
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 232125,
       "name": "LEAD",
       "url": "https://open.spotify.com/track/7LeYWbIiGruTyxr2VfMTBP"

@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-169 songs - 11 hr 41 min
+170 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-03-29 |  |
 | [Luna](https://open.spotify.com/track/1tioHY3xfRwny9nFEjpKA9) | [Espinoza](https://open.spotify.com/artist/57DFN6UryjVpBcJrgmOg6n), [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Luna](https://open.spotify.com/album/4QQPki89hRKCSI1S36biu1) | 6:04 | 2022-04-24 | 2022-07-29 |
 | [Lunar Spirits](https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB) | [Canø](https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL) | [Lunar Spirits](https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0) | 6:39 | 2023-03-14 | 2023-07-22 |
-| [Ma Vie \(feat\. Yay\)](https://open.spotify.com/track/6UU24wuWgGwuSBAxDH866Z) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial](https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB) | 3:53 | 2022-03-29 |  |
+| [Ma Vie \(feat\. Yay\)](https://open.spotify.com/track/6UU24wuWgGwuSBAxDH866Z) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial](https://open.spotify.com/album/1RHKamkIrSEQAIUfsbYXvB) | 3:53 | 2022-03-29 | 2023-12-21 |
 | [Mad World](https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8) | 2:33 | 2023-12-07 |  |
 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 | 2023-08-04 |  |
 | [Mamacita](https://open.spotify.com/track/5QUYutqY93n7Z9CiAJPmGY) | [Elport](https://open.spotify.com/artist/3zrQk1Q60ZoKLCG2N7xUx1) | [Mamacita](https://open.spotify.com/album/2q9fuslPstz8qbV1JjhwmC) | 3:47 | 2022-09-02 | 2022-10-13 |
@@ -164,6 +164,7 @@
 | [Unison](https://open.spotify.com/track/3Xuf2ni1P0IVpTCXzajUD6) | [Alex Galvan](https://open.spotify.com/artist/5hwl51WQuZm30rZu6gHjR1), [Andec James](https://open.spotify.com/artist/5shYFgmpQjNNq0kunbCYWW) | [Unison EP](https://open.spotify.com/album/05yiUS0a8doI7Dhc0R5mBP) | 7:38 | 2023-01-04 | 2023-02-10 |
 | [Vamo a Dale Duro \- Uproot Andy Remix](https://open.spotify.com/track/0LxaK3oMBNQc2Q9YVOjnj2) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc) | [Vamo a Dale Duro \(Uproot Andy Remix\)](https://open.spotify.com/album/4qWrDMj5B73oaMBI89fNyz) | 5:24 | 2022-09-02 | 2022-10-13 |
 | [Víctor Jara](https://open.spotify.com/track/5Uyp05hXNyZ36m4oUzhS4G) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Vivir](https://open.spotify.com/album/7x9knGXeetiW9caJAHzRwv) | 5:15 | 2022-04-24 | 2022-07-29 |
+| [West Wind](https://open.spotify.com/track/2QAvIdV9Bj4ZMBdUvAk0ZN) | [Palo Canto](https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP) | [West Wind](https://open.spotify.com/album/3GTIFa60Icdq6ymygyfI2T) | 4:16 | 2023-12-20 |  |
 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 | 2022-03-29 | 2023-12-07 |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2022-03-29 |  |
 | [White Tusk \- Original](https://open.spotify.com/track/5MNG30HnVmfLYxkKe5n1Zn) | [Mark Alow](https://open.spotify.com/artist/6PyLXrrBcpRRD0ej5pRtRU) | [Golden Tiger](https://open.spotify.com/album/3pw51YF7EcY4KjiEaXYPgx) | 8:39 | 2022-03-29 | 2022-04-28 |

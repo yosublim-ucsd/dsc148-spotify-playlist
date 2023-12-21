@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
-342 songs - 23 hr 14 min
+343 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 | 2021-03-22 |  |
 | [Hanky Panky](https://open.spotify.com/track/0TtjIsd6WB3hzFu0ra8g8p) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:59 | 2021-09-08 | 2022-06-15 |
 | [Happening All Over Again](https://open.spotify.com/track/3Ex3IhyrNTO9z9iIsAMfSx) | [Lonnie Gordon](https://open.spotify.com/artist/34ugek7kTxRhRSsT1d9Yer) | [Bad Mood](https://open.spotify.com/album/4E231Cg9LXUYFblwOc6V3B) | 3:31 | 2021-09-08 | 2022-07-28 |
+| [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 | 2022-10-11 |  |
 | [Heartbreaker \(feat\. Jay\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 | 2021-09-08 |  |
 | [Here Comes the Hotstepper](https://open.spotify.com/track/4vfzROmNsxedKICcHod5Rh) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [On Your 90's Radio](https://open.spotify.com/album/3mc83JE8jhpDb9Jd0eNm7M) | 4:04 | 2021-03-22 | 2022-07-27 |
 | [Here Comes The Hotstepper \- Heartical Mix](https://open.spotify.com/track/3DWS2ZgcoQgfFm7uEnzYMI) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Here Comes The Hotstepper](https://open.spotify.com/album/4xylgI6zPzJlHY8iZXAeK9) | 4:10 | 2021-03-22 | 2022-11-29 |
@@ -158,7 +159,7 @@
 | [If I Can't Have You \- 7" Edit](https://open.spotify.com/track/7CQwrwJSd2XBYUiGkyQyWC) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [If I Can't Have You](https://open.spotify.com/album/12uGGJ2a6UwEJTgDHlwCdV) | 3:30 | 2021-09-08 | 2022-07-28 |
 | [If Ya Gettin' Down](https://open.spotify.com/track/1pg3TwSrcNPWZ0QqM2offt) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:00 | 2021-09-08 | 2022-07-29 |
 | [If You Could Read My Mind](https://open.spotify.com/track/1bOJQnJsFW5LZOgGp4K2mb) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [If You Could Read My Mind](https://open.spotify.com/album/3a5kW3sm7yn7HTXc5lXvCW) | 3:26 | 2021-09-08 | 2022-07-29 |
-| [In The Summertime](https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 3:58 | 2022-10-11 |  |
+| [In The Summertime](https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 3:58 | 2022-10-11 | 2023-12-21 |
 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 | 2021-03-22 |  |
 | [Insane in the Brain](https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 3:28 | 2021-09-08 |  |
 | [Insomnia \- Radio Edit](https://open.spotify.com/track/1nKI0IopPWboMzMYivWi8x) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [100 90'er Hits](https://open.spotify.com/album/5J8Okaw3myp8TnIqI5qqst) | 3:33 | 2021-09-08 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Jess Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,290 likes - 149 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,320 likes - 149 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Good Morning Coffee](https://open.spotify.com/track/6ic8f1Bzdq8hYoqUobU15F) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [Laughing River](https://open.spotify.com/album/1LnQJBFkhJGgr6mfTwDET8) | 3:46 |
 | 149 | [In The Mornin’](https://open.spotify.com/track/18boKjkBe0r4TLYdpVxHfo) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [On The Ranch](https://open.spotify.com/album/46zBXKv7dPhFRcDpr5NxWQ) | 2:41 |
 
-Snapshot ID: `MCwyMTE2ZDg5ZTViOTcyM2Q3ZjdhYTg0YmY2ZmIzMDJmMzIxOWEzYTI3`
+Snapshot ID: `MCw0MTZmZTkwY2ZjYzliZjEzMDFlMGY4YjMyMmJkNzJhMjRjYTVkYTYw`

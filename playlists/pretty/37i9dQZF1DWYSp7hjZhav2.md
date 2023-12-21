@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,005 likes - 80 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,125 likes - 80 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 79 | [Leaving Earth](https://open.spotify.com/track/6koq1DWY1e6JVFy7wQgYCo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Ki Bae](https://open.spotify.com/artist/1t636zbkoWqKePDarVVk21) | [Leaving Earth](https://open.spotify.com/album/751Dn5vH2f5uLyjUB5cYje) | 5:03 |
 | 80 | [Vega](https://open.spotify.com/track/7cEbICGWeFyBTmijsRtbjr) | [Ilija Djokovic](https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc) | [Vega / Neon](https://open.spotify.com/album/4D1WC7jQ5m0per5yzOHzSO) | 3:21 |
 
-Snapshot ID: `MCw4NDM5MzI4YTI2NWYzYmQ1MzdmODExMjNhMjY0YzNkN2I0NGIyNjE2`
+Snapshot ID: `MCw4ODk2MWU3MTdiM2YyMzAwYjE2MWY0NTc0ZTcwYzhjMzU5MDMwYjE1`

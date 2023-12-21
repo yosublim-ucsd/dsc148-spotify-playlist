@@ -4,7 +4,7 @@
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-163 songs - 9 hr 27 min
+164 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 | 2023-01-30 |  |
 | [Cha Cu Cha](https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Abrazame](https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz) | 3:09 | 2023-01-30 | 2023-04-12 |
 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 | 2023-10-13 |  |
-| [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-09 |  |
+| [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-09 | 2023-12-21 |
 | [Coincidencia](https://open.spotify.com/track/3MZH3sQRfgZayfUBnD45ux) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z), [BRYE](https://open.spotify.com/artist/374V8LHsfdvvaFU4gfIYrO) | [Otro Color](https://open.spotify.com/album/0RoApJdoKdm1M57K4cFpk3) | 3:12 | 2023-06-02 | 2023-10-14 |
 | [Como Te Amo Yo](https://open.spotify.com/track/3fPKTWTbhTnXjI5T3YAklK) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Disciplina](https://open.spotify.com/album/2AJHstP2C7QChprVZHZzMd) | 3:47 | 2023-04-17 | 2023-06-03 |
 | [Corazon de Acero](https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Corazon de Acero](https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo) | 3:45 | 2023-02-02 | 2023-11-10 |
@@ -102,6 +102,7 @@
 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 | 2023-10-13 |  |
 | [Lloré](https://open.spotify.com/track/0vZK1SF9YvleinESXpukDF) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lloré](https://open.spotify.com/album/2ANjDgD1l0k62ysGqlYq3F) | 2:37 | 2023-10-13 |  |
 | [LO MISMO QUE MORIR](https://open.spotify.com/track/1XYjy0yiCL1utjnBRWou6f) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:26 | 2023-03-08 | 2023-05-13 |
+| [Los Besos Que Te Di](https://open.spotify.com/track/0tJ0ZGuHUKJIseLFlPlkXC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:29 | 2023-12-20 |  |
 | [Los Dos Fallamos](https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Los Dos Fallamos](https://open.spotify.com/album/0oMFwEMTOKAE1RdDh3bKqz) | 2:40 | 2023-04-07 | 2023-07-29 |
 | [LUCK RA \| DJ TAO Turreo Sessions \#19](https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [LUCK RA \| DJ TAO Turreo Sessions \#19](https://open.spotify.com/album/2A4aFi0rBICWnzlm0HZ76j) | 2:10 | 2023-08-11 | 2023-12-02 |
 | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe) | 3:33 | 2023-04-07 | 2023-07-15 |

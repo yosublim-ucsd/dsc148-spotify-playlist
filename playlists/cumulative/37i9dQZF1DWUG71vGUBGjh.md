@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-180 songs - 10 hr 56 min
+184 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Cybernaut](https://open.spotify.com/track/5zYhAOp5es0F7P8P7XFGUb) | [Tonto's Expanding Head Band](https://open.spotify.com/artist/1EAuonSn6FGXejwZS6EU9Z) | [Zero Time](https://open.spotify.com/album/0MaUdz9RPBFN22IgC95cMk) | 4:31 | 2021-08-17 |  |
 | [Db Angels](https://open.spotify.com/track/1G85a7BogVOS1ql5iKvoBl) | [Paolo Di Cioccio](https://open.spotify.com/artist/3GNXga9dtpSX9UiPG8MTfx) | [Romantische Technologie](https://open.spotify.com/album/4vuMcGpR8AlANyU7V2VIk2) | 3:16 | 2021-08-17 |  |
 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 | 2021-08-17 |  |
+| [Disco Moog](https://open.spotify.com/track/1yu3Ju4HbS4yvZMvR5WchU) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Disco Experience](https://open.spotify.com/album/1KdS3ps4WVAPsNErOGeBXM) | 3:54 | 2023-12-20 |  |
 | [Dragonfly](https://open.spotify.com/track/0BKqvk36trnx0FfpwHkzgl) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Dragonfly](https://open.spotify.com/album/51Ac9Xk5e4uJ9oxDAzS72z) | 3:18 | 2021-08-17 | 2022-11-13 |
 | [Dragonfly](https://open.spotify.com/track/5txsuDBk4Eno0NUcn0sQ8u) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Dragonfly](https://open.spotify.com/album/0dKaijFd0UsW2ObxcoZL09) | 3:18 | 2021-08-17 | 2022-07-29 |
 | [Dragonfly](https://open.spotify.com/track/6lrHMmIhtitqKTANFx7WaF) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Music from Patch Cord Productions](https://open.spotify.com/album/2rDr9iY1cIdIN9Bfu46iYr) | 3:18 | 2021-08-17 |  |
@@ -64,6 +65,7 @@
 | [Ghost Riders in the Sky](https://open.spotify.com/track/7eGkQvO177yYmKpPxCgFUx) | [The Space Lady](https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF) | [The Space Lady's Greatest Hits](https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh) | 5:06 | 2022-11-19 |  |
 | [Gossipo Perpetuo](https://open.spotify.com/track/0RabJGGnKLiiW6EeMAyh3p) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [Moog Indigo](https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9) | 2:09 | 2021-08-17 |  |
 | [Générique \- From "Chapi Chapo"](https://open.spotify.com/track/3I6fIJ5C1KxLj5WXdnXPpm) | [François de Roubaix](https://open.spotify.com/artist/5oyNl4KxsjkVfyvnwcl8ex) | [Chapi Chapo \(Télévision\)](https://open.spotify.com/album/5ry4QONYcO6DQNByvg3Vj8) | 2:49 | 2021-08-17 |  |
+| [Heavy Lace](https://open.spotify.com/track/1xVXAqPWaT010F2TMj5Eds) | [Roger Webb](https://open.spotify.com/artist/6ZfH4kBv9tPVIfklLH36jO), [De Wolfe Music](https://open.spotify.com/artist/2CIYXJTMc2WH7XVlqZ5IrC) | [Moonshade](https://open.spotify.com/album/3t1cJhFgS5M3rD2ivYnqLd) | 1:31 | 2023-12-20 |  |
 | [Hernando's Hideaway / Tico Tico](https://open.spotify.com/track/3u3xjrU0VQvDe4uSTfmR4W) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 3:25 | 2021-08-17 |  |
 | [Hey Jude](https://open.spotify.com/track/5cmyHfddTNkuyXV6lmzCx2) | [The Moog Machine](https://open.spotify.com/artist/7Jq6MI5lICjpWFTfIm9buj) | [Switched\-On Rock](https://open.spotify.com/album/1Nr05Lf1AgFMFTsLLnVIq8) | 3:45 | 2021-08-17 |  |
 | [Highway E 1](https://open.spotify.com/track/0ZvJ3UJA1eD0S9OBZaqnem) | [Claude Larson](https://open.spotify.com/artist/2edEbdAUDYB8FxbTxnmQR7) | [Surroundings](https://open.spotify.com/album/3RSldV7Zhw95KwPPvfPk8X) | 3:45 | 2021-08-17 |  |
@@ -85,6 +87,7 @@
 | [King Vincent](https://open.spotify.com/track/7noeGi6e5U2YR01kNSQ1n3) | [Solvent](https://open.spotify.com/artist/46TYNnrpqzYjm5HjaMBVhj) | [New Ways: Music from the Documentary I Dream of Wires \(Deluxe Edition\)](https://open.spotify.com/album/7AjxhKLLUpjMLtniXCsfbL) | 6:00 | 2021-08-17 |  |
 | [Lanquidity](https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Switched On Ra](https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn) | 6:29 | 2022-02-21 |  |
 | [Life of a Cat](https://open.spotify.com/track/2cVANntuiBwx5FjodNLyhh) | [White Noise from Electronic Toys](https://open.spotify.com/artist/5Cdk3qdp90Xdhz6yPfCETC) | [Music to Quiet Down Your Mind](https://open.spotify.com/album/7zIeienY0iMRNxB5gMhBmj) | 4:00 | 2021-08-17 |  |
+| [Lowpass Risotto](https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Available Forms](https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko) | 5:29 | 2023-12-20 |  |
 | [Mainframe Blues](https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup) | [David Vorhaus](https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae) | [Mind Games](https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD) | 2:51 | 2021-08-17 |  |
 | [Major Tom](https://open.spotify.com/track/2iEUxvYWJy5fPUtdiqyMy6) | [The Space Lady](https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF) | [Major Tom / Radar Love](https://open.spotify.com/album/1pKY4cA4hX7yC5yXqRWnWM) | 5:15 | 2022-11-19 |  |
 | [March Of The Martians](https://open.spotify.com/track/4rF8nv1j7zum3p0R5ExkkT) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:04 | 2021-08-17 |  |
@@ -98,6 +101,7 @@
 | [Mescalito \- Remastered](https://open.spotify.com/track/31yVM1tAu20JonoiZLwvPB) | [Joerg Reiter](https://open.spotify.com/artist/2VXiRg7dss0hlXqjnW0Tvl), [Stephan Diez](https://open.spotify.com/artist/0J4Gw4K5R7naDWzJ47sxeB), [Thomas Stabenow](https://open.spotify.com/artist/18aieIdG23v1o6BsbCT74y), [Freddie Santiago](https://open.spotify.com/artist/3ULOPQl1fyQZRViwpmGv0I) | [Retro Synth Pop](https://open.spotify.com/album/001ZKrEwFq82rNcR538IFT) | 2:51 | 2021-08-17 |  |
 | [Messe pour le temps présent: 2\. Psyché rock](https://open.spotify.com/track/1SeFJKXiXP8o374gDUylL9) | [Pierre Henry](https://open.spotify.com/artist/5ITPNl5P6R6cFbw4DAcMAY), [Michel Colombier](https://open.spotify.com/artist/5zl0vKMseEhdyXv88He8WQ) | [Pierre Henry: Messe Pour Le Temps Present](https://open.spotify.com/album/6ACougWynxWAGeeDveMD6P) | 2:51 | 2021-08-17 |  |
 | [Mixed Waste 4.2](https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u) | [Baiyon](https://open.spotify.com/artist/2ibBdk29W8yH1KPD6oZdaj) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:11 | 2021-08-17 |  |
+| [Monsters](https://open.spotify.com/track/5W86tGQznqxaODJnZeIfnf) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Available Forms](https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko) | 7:45 | 2023-12-20 |  |
 | [Moog Power](https://open.spotify.com/track/3r6cHXQQt0BUVC6vEUUzh2) | [Hugo Montenegro](https://open.spotify.com/artist/0JBc7Jztn7EdEVjyMCN6Wi) | [Moog Power](https://open.spotify.com/album/66PzcvhyMJwlp9062pIGiX) | 2:54 | 2021-08-17 |  |
 | [Moon Journey](https://open.spotify.com/track/2KT1zr64KJosXMcpueH5A5) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Moon Journey](https://open.spotify.com/album/2iYxQTXWXf9bViocIGzSVv) | 6:18 | 2023-06-08 |  |
 | [Motorama](https://open.spotify.com/track/70RSgTp3AuCOenN3RXlef2) | [Gerhard Narholz](https://open.spotify.com/artist/7uvEwug4pon5M8ktDXyx3q), [Manuel Landy](https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco) | [Retro Synth POP](https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2) | 3:10 | 2021-08-17 | 2022-10-14 |

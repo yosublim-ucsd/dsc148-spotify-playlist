@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-66 songs - 4 hr 22 min
+67 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 | 2023-10-20 |  |
 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 | 2023-10-20 |  |
 | [Especially For You](https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Versions & Beyond](https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx) | 3:43 | 2023-11-10 |  |
-| [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 | 2023-10-20 |  |
+| [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 | 2023-10-20 | 2023-12-21 |
 | [Gitara](https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Halina Sa Parokya](https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL) | 4:02 | 2023-10-20 |  |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-20 |  |
 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 | 2023-10-20 |  |
@@ -38,6 +38,7 @@
 | [INAANTAY](https://open.spotify.com/track/0xtHhG8bodSM13Y6f62dqy) | [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ) | [INAANTAY](https://open.spotify.com/album/2YF3kn9QLYp9ClqQDabhwL) | 2:52 | 2023-10-20 | 2023-10-26 |
 | [Isang Tingin Mo Lang](https://open.spotify.com/track/2UPr5h1Px0LGbgoc6X5Vnx) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Isang Tingin Mo Lang](https://open.spotify.com/album/33ID8iZWFWy1Vq7s6TBqEb) | 3:06 | 2023-12-08 |  |
 | [Kahit Di Mo Alam](https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Kahit Di Mo Alam](https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN) | 4:42 | 2023-10-20 | 2023-12-15 |
+| [Kahit Di Mo Alam](https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:42 | 2023-12-08 |  |
 | [Kung 'Di Rin Lang Ikaw](https://open.spotify.com/track/2BgD4nRyx9EZ5o8YEnjRSV) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kung 'Di Rin Lang Ikaw](https://open.spotify.com/album/15ufxdU6r8niuSmA9nu3ly) | 4:27 | 2023-10-20 | 2023-12-16 |
 | [Kung 'Di Rin Lang Ikaw](https://open.spotify.com/track/2KjZEVkRS7wStfRygdRnso) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:27 | 2023-12-08 |  |
 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 | 2023-10-20 |  |

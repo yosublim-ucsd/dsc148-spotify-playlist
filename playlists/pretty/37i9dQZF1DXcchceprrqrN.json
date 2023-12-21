@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 66714,
+  "num_followers": 66767,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzNjMzZiZTQ4MGE4NzBiZDkwMjgwMzA4ZWRlNGQ2ZTIxMjNiZWQ3",
+  "snapshot_id": "MCxkMGJjNmIzYjAwZjlkNDM0MzdlY2ZkYTMyOWE3Y2NiMjBjYmQ4MDZi",
   "tracks": [
     {
       "added_at": "2023-12-06 16:27:02",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-12-06 16:27:02",
       "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "i gave you everything",
+      "url": "https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi"
+    },
+    {
+      "added_at": "2023-12-06 16:27:02",
+      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-12-06 16:27:02",
       "album": {
-        "name": "Bass Drum of Death",
-        "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
-      },
-      "artists": [
-        {
-          "name": "Bass Drum of Death",
-          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Crawling After You",
-      "url": "https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o"
-    },
-    {
-      "added_at": "2023-12-06 16:27:02",
-      "album": {
         "name": "Spiritual Cramp",
         "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 155280,
       "name": "Talkin' On The Internet",
       "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
+    },
+    {
+      "added_at": "2023-12-06 16:27:02",
+      "album": {
+        "name": "Bass Drum of Death",
+        "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Crawling After You",
+      "url": "https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o"
     },
     {
       "added_at": "2023-12-06 16:27:02",
@@ -791,22 +807,6 @@
       "duration_ms": 160266,
       "name": "Days Move Slow",
       "url": "https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni"
-    },
-    {
-      "added_at": "2023-12-06 16:27:02",
-      "album": {
-        "name": "Eye On The Bat",
-        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 176869,
-      "name": "Eye On The Bat",
-      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
     },
     {
       "added_at": "2023-12-06 16:27:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN, Kawe, Thiagão, Lookas, Noventa
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,201 likes - 84 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,264 likes - 84 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 52 | [Paulo & Silas](https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg) | [Tutuzzin](https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ) | [Paulo & Silas](https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd) | 2:53 |
 | 53 | [Domingão](https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Domingão](https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v) | 2:23 |
 | 54 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
-| 55 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
-| 56 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 55 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 56 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
 | 57 | [CRISTO FAZ A WAVE](https://open.spotify.com/track/7qA4ovLWETJrwMXOAa7X00) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [CRISTO FAZ A WAVE](https://open.spotify.com/album/3cnklZJoW7feW3nF9pZYWL) | 3:00 |
 | 58 | [Labirinto](https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Labirinto](https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW) | 3:37 |
 | 59 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 83 | [Já Agradeço](https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Já Agradeço](https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ) | 3:20 |
 | 84 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
 
-Snapshot ID: `MCwwNWE2Mjk4NmU5YzMwZTgwNDYzMTk2MWI3Mzk1NjYxYzJhNzYxYWZh`
+Snapshot ID: `MCw1N2Y0NmFhZTQ4MTFmOTBhNjI4YTNhODMzODhjOWYyMjQyMWQzODM0`

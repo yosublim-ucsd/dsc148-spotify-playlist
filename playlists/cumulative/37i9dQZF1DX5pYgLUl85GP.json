@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El Top 50 de canciones en Instagram Reels, actualizado cada semana. En portada: Fuerza Regida",
+  "description": "El Top 50 de canciones en Instagram Reels, actualizado cada semana. ",
   "name": "Top Canciones Reels M\u00e9xico",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 550279,
       "name": "As\u00ed Fue - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
       "url": "https://open.spotify.com/track/3vB4eEAjlHmPOlwJ8diB2J"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 164500,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/33zHxgp8lHVMS7qKwOPWrH"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 102490,
       "name": "Christmas Is Coming",
       "url": "https://open.spotify.com/track/0D3rhqKBrb8XyjDsXXR9Q6"
@@ -146,6 +146,24 @@
       "duration_ms": 135546,
       "name": "Christmas Tree & Santa Claus Drawing",
       "url": "https://open.spotify.com/track/07mC8uv5WuOGzMNiXPRys0"
+    },
+    {
+      "album": {
+        "name": "Christmas Vibes",
+        "url": "https://open.spotify.com/album/5Bj7r0zDc5JgCfZXXR8zb9"
+      },
+      "artists": [
+        {
+          "name": "Crazy Fox",
+          "url": "https://open.spotify.com/artist/0Zzs6tTHRHMXV4otAYXaK0"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73791,
+      "name": "Christmas Vibes",
+      "url": "https://open.spotify.com/track/6Wut5M7Af14UTbT3nKde1M"
     },
     {
       "album": {
@@ -186,7 +204,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
@@ -208,6 +226,24 @@
       "duration_ms": 219365,
       "name": "Esta Vida Me Encanta",
       "url": "https://open.spotify.com/track/4yteXNA5OLaaHHDdl6KuKU"
+    },
+    {
+      "album": {
+        "name": "Firework X Clocks (Mashup) [Remix]",
+        "url": "https://open.spotify.com/album/32o6ggoSI2cMsA3koGA3xi"
+      },
+      "artists": [
+        {
+          "name": "Gz Music",
+          "url": "https://open.spotify.com/artist/0apeyRFe4Dgv1Bn3yHlRmB"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232216,
+      "name": "Firework X Clocks (Mashup) - Remix",
+      "url": "https://open.spotify.com/track/5Xn35zeaxnM6W2hdVtH9I1"
     },
     {
       "album": {
@@ -880,6 +916,50 @@
       "duration_ms": 183017,
       "name": "this is what space feels like",
       "url": "https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1"
+    },
+    {
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/67t8LdykkpoG6o7nmjmzuv"
+      },
+      "artists": [
+        {
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+        },
+        {
+          "name": "Sofia R\u00f8d",
+          "url": "https://open.spotify.com/artist/1DKDOfgZ1sBbOQwXfPKOHN"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241920,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/0roHxvWUsTnrKQDTXKXGwZ"
+    },
+    {
+      "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142831,
+      "name": "Trendsetter",
+      "url": "https://open.spotify.com/track/09VW2o6EHSWwzCdhW4ARU1"
     },
     {
       "album": {

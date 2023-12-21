@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216786,
+      "name": "Axfixiar",
+      "url": "https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv"
+    },
+    {
+      "album": {
         "name": "Besos de Mentira",
         "url": "https://open.spotify.com/album/2OzfXW8ByllSXhVx8AFSVe"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 242720,
       "name": "Hablar hacia atras",
       "url": "https://open.spotify.com/track/3BvxJ3TmJycwqn6i1t6m28"

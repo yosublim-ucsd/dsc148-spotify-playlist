@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126708,
+  "num_followers": 126711,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWVmZmRjNDUwYTk5OTNkOGI4NjE3MjA1MWY5NDAzZmFmMDZlNjVi",
+  "snapshot_id": "MCwxOGEyMmU0N2JjZDJmNWZiMTU3M2QwMTI3ZTI3OWJlMzM5MzE4YTMw",
   "tracks": [
     {
       "added_at": "2023-11-10 16:50:05",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Heart Like A Truck",
+      "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Heart Like A Truck",
-      "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Summer Too Hot",
-        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 188504,
-      "name": "Summer Too Hot",
-      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "The Car",
-        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+        "name": "Summer Too Hot",
+        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 239151,
-      "name": "Sculptures Of Anything Goes",
-      "url": "https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve"
+      "duration_ms": 188504,
+      "name": "Summer Too Hot",
+      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1303,6 +1287,22 @@
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 239151,
+      "name": "Sculptures Of Anything Goes",
+      "url": "https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "The Car",
-        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
@@ -1483,8 +1467,8 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Body Paint",
-        "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
       },
       "artists": [
         {
@@ -1492,9 +1476,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 290584,
-      "name": "Body Paint",
-      "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1591,6 +1575,22 @@
       "duration_ms": 315906,
       "name": "Hive Mind",
       "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Body Paint",
+        "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 290584,
+      "name": "Body Paint",
+      "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Brothers Osborne",
         "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 189066,
       "name": "Nobody's Nobody",
       "url": "https://open.spotify.com/track/0WT1ILuFrh8reQUmPwmhMo"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2279,26 +2279,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Gravel & Gold",
-        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 333746,
-      "name": "High Note",
-      "url": "https://open.spotify.com/track/6tKWJojxwFutWKKTNRVWx2"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
@@ -2319,6 +2299,26 @@
       "duration_ms": 844005,
       "name": "Shadow Forces",
       "url": "https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Gravel & Gold",
+        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 333746,
+      "name": "High Note",
+      "url": "https://open.spotify.com/track/6tKWJojxwFutWKKTNRVWx2"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2499,30 +2499,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Abundance in Millets",
-        "url": "https://open.spotify.com/album/64Q543xillJ1neC5efMMmf"
-      },
-      "artists": [
-        {
-          "name": "PM Narendra Modi",
-          "url": "https://open.spotify.com/artist/1CIor6lMp9tPfy6kWA3H0y"
-        },
-        {
-          "name": "Falu",
-          "url": "https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1"
-        },
-        {
-          "name": "Gaurav Shah",
-          "url": "https://open.spotify.com/artist/4HCC1SB5JtN8BnLTVFfHpG"
-        }
-      ],
-      "duration_ms": 271626,
-      "name": "Abundance in Millets",
-      "url": "https://open.spotify.com/track/1GgKK2siV6qwZ6dyifH8lY"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "As We Speak",
         "url": "https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN"
       },
@@ -2547,6 +2523,30 @@
       "duration_ms": 504051,
       "name": "Pashto",
       "url": "https://open.spotify.com/track/6vxP8D4gBHH1EiMmlzYmSL"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Abundance in Millets",
+        "url": "https://open.spotify.com/album/64Q543xillJ1neC5efMMmf"
+      },
+      "artists": [
+        {
+          "name": "PM Narendra Modi",
+          "url": "https://open.spotify.com/artist/1CIor6lMp9tPfy6kWA3H0y"
+        },
+        {
+          "name": "Falu",
+          "url": "https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1"
+        },
+        {
+          "name": "Gaurav Shah",
+          "url": "https://open.spotify.com/artist/4HCC1SB5JtN8BnLTVFfHpG"
+        }
+      ],
+      "duration_ms": 271626,
+      "name": "Abundance in Millets",
+      "url": "https://open.spotify.com/track/1GgKK2siV6qwZ6dyifH8lY"
     },
     {
       "added_at": "2023-11-10 16:50:05",

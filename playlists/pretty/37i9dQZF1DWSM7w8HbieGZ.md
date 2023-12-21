@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM7w8HbieGZ.md) - [plain]
 | 28 | [ジャイアンボイス7](https://open.spotify.com/track/7hrMErEDGX66obpKOjJatL) | [ジャイアン\(CV:木村昴\)](https://open.spotify.com/artist/5sZj8DwbFGNLhahAZihqm4) | [ドラえもん/ジャイアンのうた\- Gian's Recital \-](https://open.spotify.com/album/2tidZAeKWlVy8WmNpuAoR4) | 0:08 |
 | 29 | [友達](https://open.spotify.com/track/04ioDAwmf3rIlUIFlgzR4S) | [木村 昴](https://open.spotify.com/artist/636MhiwBW0fyMDjnNWGX7o) | [ジャイアンのスーパーリサイタル](https://open.spotify.com/album/2dte56ghkrCaC2nlxiwknn) | 3:43 |
 
-Snapshot ID: `MCxiNTEyNDEwYzc0OWNlOGQ4NGVkMmNkZGI5ZjRlNTUyYWQwZmRlODk4`
+Snapshot ID: `MCxkNTk0NTdmNmEyMzNkNWNhNGJiZjFjNTQzYTcwYTljYTVlNTUwNDc3`

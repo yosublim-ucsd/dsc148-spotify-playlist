@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 161042,
       "name": "Cooking Up Something Good",
       "url": "https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli"
@@ -4208,6 +4208,28 @@
       "duration_ms": 93493,
       "name": "New Radio",
       "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
+    },
+    {
+      "album": {
+        "name": "NINA",
+        "url": "https://open.spotify.com/album/1uQF2AgBoZE0Z9e0baNipU"
+      },
+      "artists": [
+        {
+          "name": "Vel Nine",
+          "url": "https://open.spotify.com/artist/6Dcufc8lKB2eVG5JKnT5fZ"
+        },
+        {
+          "name": "NugLife",
+          "url": "https://open.spotify.com/artist/3gkvPVQi7D6qstqC5urqvP"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "NINA",
+      "url": "https://open.spotify.com/track/7cm2RiP6XC0LdzTWa6pi85"
     },
     {
       "album": {

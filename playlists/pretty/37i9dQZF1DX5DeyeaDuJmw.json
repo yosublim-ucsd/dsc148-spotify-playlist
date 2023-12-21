@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: AK4:20.",
-  "num_followers": 151924,
+  "num_followers": 151962,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDNmNDM3MmJlYjhmMmQ4ZWRiZjkxOWUxYTE3MDdhNDYzYjQ0NjI3",
+  "snapshot_id": "MCxiNzYzYTIwYmVkYjBhYTVjMDdhODg2MDAxMmE2OWIyMTEzMTQ0MjU3",
   "tracks": [
     {
       "added_at": "2023-06-09 14:06:06",
@@ -643,42 +643,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Christian Dior",
-      "url": "https://open.spotify.com/track/11hBaUK4uHt1KPkwfPoTwN"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 231745,
-      "name": "Jangueo",
-      "url": "https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -711,6 +675,42 @@
       "duration_ms": 352093,
       "name": "LEYENDAS",
       "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 231745,
+      "name": "Jangueo",
+      "url": "https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Christian Dior",
+      "url": "https://open.spotify.com/track/11hBaUK4uHt1KPkwfPoTwN"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Freestyle Session #12",
-        "url": "https://open.spotify.com/album/2RFsr5fSzS90LLVD1hzdBi"
-      },
-      "artists": [
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 203735,
-      "name": "Freestyle Session #12",
-      "url": "https://open.spotify.com/track/1igEUoKTRQCqu7yGfmhzOr"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "Deseos",
         "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 203070,
       "name": "Deseos",
       "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "Freestyle Session #12",
+        "url": "https://open.spotify.com/album/2RFsr5fSzS90LLVD1hzdBi"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 203735,
+      "name": "Freestyle Session #12",
+      "url": "https://open.spotify.com/track/1igEUoKTRQCqu7yGfmhzOr"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "\u00c1cido",
-        "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
-      },
-      "artists": [
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "\u00c1cido",
-      "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "Sin Tab\u00fa (Remix)",
         "url": "https://open.spotify.com/album/0OjGPsF7wQtx1jmbv0IhQt"
       },
@@ -1595,6 +1579,34 @@
       "duration_ms": 232000,
       "name": "Sin Tab\u00fa",
       "url": "https://open.spotify.com/track/7xJeg4TFZBwoK63G98YRaA"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "Full Pioli (feat. Best)",
+        "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "duration_ms": 156096,
+      "name": "Full Pioli (feat. Best)",
+      "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
     }
   ],
   "unique_name": "Rimas y Perreo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: PLK
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,995 likes - 82 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,997 likes - 82 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 81 | [Wasser und Ethan](https://open.spotify.com/track/1jORwFnLJCThXzd2ehHFz7) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Wasser und Ethan](https://open.spotify.com/album/009doIxs84MQHUYVEf2qo9) | 4:02 |
 | 82 | [Love Situation \(911\)](https://open.spotify.com/track/1s4FnYPkihRFSzyfCNlRXb) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [And So It Begins](https://open.spotify.com/album/6nxKx36eNYHiy2IHos6bQD) | 2:42 |
 
-Snapshot ID: `MCxmNzg1NTdmZjI4YjU4ODQ2OTdjMTU1NGU5ZjFmMTU2NWMxNTVkYzE3`
+Snapshot ID: `MCw1NDdhNjQ2NWI3YzE1Y2FhNGUyODkzNGNjNTlhMmFlNTI4OGI4ZmM0`

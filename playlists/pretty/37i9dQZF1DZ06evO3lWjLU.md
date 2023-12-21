@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,522 likes - 43 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,642 likes - 43 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 42 | [Picó](https://open.spotify.com/track/3o51j5414efaBNRoqzu60B) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Picó](https://open.spotify.com/album/7kA9ZjLyi8S8rSzJbNR8iL) | 2:45 |
 | 43 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
 
-Snapshot ID: `MjgzODMxNDgsMDAwMDAwMDAzOGUyMGUyN2NiMzM3OTUzNTYzYTE4N2I1NzNiZmE4YQ==`
+Snapshot ID: `MjgzODQ1NjAsMDAwMDAwMDBkM2VhMDI4ODdjYjk3MDFkMTUzODVkNWViMmU1MDQzYw==`

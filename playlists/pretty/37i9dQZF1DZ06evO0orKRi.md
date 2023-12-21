@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,829 likes - 48 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,835 likes - 48 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 5 | [Cunnamulla Fella \- 1998 Remaster](https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [A Piece of Australia \(Remastered\)](https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB) | 2:12 |
 | 6 | [Waltzing Matilda](https://open.spotify.com/track/3ES9dBjha6huNi9vHAsQAo) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 3:08 |
 | 7 | [A Pub With No Beer \- 1979 Version](https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:00 |
-| 8 | [Walk A Country Mile](https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 2:52 |
-| 9 | [G'Day G'Day](https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kate Arneman](https://open.spotify.com/artist/1KpALiKBK6dbdckzHD2OCK) | [G'Day G'Day](https://open.spotify.com/album/1KTBqz8bscsrmRKGqK3UaC) | 3:10 |
+| 8 | [G'Day G'Day](https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kate Arneman](https://open.spotify.com/artist/1KpALiKBK6dbdckzHD2OCK) | [G'Day G'Day](https://open.spotify.com/album/1KTBqz8bscsrmRKGqK3UaC) | 3:10 |
+| 9 | [Walk A Country Mile](https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 2:52 |
 | 10 | [Never Was At All](https://open.spotify.com/track/1rqr7YSNxRfHLbotx9lpYP) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:15 |
 | 11 | [Leave Him In The Long Yard](https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:56 |
 | 12 | [Old Time Country Halls](https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 2:54 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 47 | [Sittin' On The Old Front Verandah](https://open.spotify.com/track/0RHonCLjFf9Xsu8dD0Ew4k) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Son of Noisy Dan](https://open.spotify.com/album/0bADhBUI8wtRyyftPcEw9h) | 2:56 |
 | 48 | [Gotta Keep Moving](https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 3:11 |
 
-Snapshot ID: `MjgzODMxNDgsMDAwMDAwMDAwMWI0ZTUyMWVmNDA4NzY5YjM4NzU0NTdjNGJiMWQwNw==`
+Snapshot ID: `MjgzODQ1NTksMDAwMDAwMDA0NzJkZDE3ODU0NTQwMzM4ODY4MDFkYmZkY2ZiODlkYg==`

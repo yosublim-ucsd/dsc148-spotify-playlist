@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 14107,
+  "num_followers": 14127,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzllMjIwODU1MWJmNTRhZjFjOTczZGM3ZGM1YzZhNGRmZmI4ZTI0",
+  "snapshot_id": "MCwxZTNjZjlhNDI4MDZhYmEzOGQ1YzdlYTgwNzkxNTFlMGY4MGJjMzk2",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -59,26 +59,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Tudo \u00c9 Pra Sempre Agora",
-        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Luiza De Alexandre",
-          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
-        }
-      ],
-      "duration_ms": 185328,
-      "name": "Tudo \u00c9 Pra Sempre Agora",
-      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Deixa Acender",
         "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Tudo \u00c9 Pra Sempre Agora",
+        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Luiza De Alexandre",
+          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
+        }
+      ],
+      "duration_ms": 185328,
+      "name": "Tudo \u00c9 Pra Sempre Agora",
+      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Do Mesmo Lado",
-        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Do Mesmo Lado",
-      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "SOU + EU",
         "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 154500,
       "name": "Zero Buxixo",
       "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Do Mesmo Lado",
+        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Do Mesmo Lado",
+      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -399,6 +399,26 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Quando C\u00ea Volta?",
+        "url": "https://open.spotify.com/album/18AkwFaynQyWDnHXRy9IWu"
+      },
+      "artists": [
+        {
+          "name": "Rare G",
+          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Quando C\u00ea Volta?",
+      "url": "https://open.spotify.com/track/0GUdb0yoQbiTA2aAMHQo4z"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 217959,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Quando C\u00ea Volta?",
-        "url": "https://open.spotify.com/album/18AkwFaynQyWDnHXRy9IWu"
-      },
-      "artists": [
-        {
-          "name": "Rare G",
-          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
-        },
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Quando C\u00ea Volta?",
-      "url": "https://open.spotify.com/track/0GUdb0yoQbiTA2aAMHQo4z"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Patipapa",
-        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Patipapa",
-      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "TRI \u00c2NGULOS",
         "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 119874,
       "name": "PEGADA DE CRIA",
       "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Patipapa",
+        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Patipapa",
+      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Quando c\u00ea vem",
-        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Quando c\u00ea vem",
-      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 144522,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Quando c\u00ea vem",
+        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Quando c\u00ea vem",
+      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -895,6 +895,30 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "N\u00e3o Prometeu Nada",
+        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+      },
+      "artists": [
+        {
+          "name": "Victor sant's",
+          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
+        },
+        {
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "N\u00e3o Prometeu Nada",
+      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -927,26 +951,22 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "N\u00e3o Prometeu Nada",
-        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+        "name": "S\u00f3 Me Usa",
+        "url": "https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol"
       },
       "artists": [
         {
-          "name": "Victor sant's",
-          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
+          "name": "Mc Robs",
+          "url": "https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K"
         },
         {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 175200,
-      "name": "N\u00e3o Prometeu Nada",
-      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
+      "duration_ms": 154666,
+      "name": "S\u00f3 Me Usa",
+      "url": "https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -967,26 +987,6 @@
       "duration_ms": 205000,
       "name": "Arrepios",
       "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "S\u00f3 Me Usa",
-        "url": "https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol"
-      },
-      "artists": [
-        {
-          "name": "Mc Robs",
-          "url": "https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "S\u00f3 Me Usa",
-      "url": "https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL"
     },
     {
       "added_at": "2023-12-15 03:01:00",

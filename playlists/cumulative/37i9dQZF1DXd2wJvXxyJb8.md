@@ -4,7 +4,7 @@
 
 > se esse ano eu te desagradei peço queCAGUEI E ANDEI
 
-358 songs - 16 hr 38 min
+359 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [Teu Amigo Cuidou](https://open.spotify.com/track/44rtgsXvDPiJhxmqv0d2Pr) | [Mariana Reis](https://open.spotify.com/artist/3krfXUuYooEgUlJz32Enbb) | [Ao Vivo Abril 2022](https://open.spotify.com/album/5PvSUWL61aVF1Z1pQjUESX) | 3:33 | 2022-07-04 | 2022-08-05 |
 | [Tiffany](https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:32 | 2022-05-26 | 2022-07-29 |
 | [Tiffany](https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo) | 2:32 | 2022-07-28 | 2022-09-22 |
-| [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:49 | 2023-11-08 |  |
+| [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:49 | 2023-11-08 | 2023-12-21 |
+| [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Mc Cothie](https://open.spotify.com/artist/2kgFOT33p9LwqLDbnHiKTB), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 2:11 | 2023-12-18 |  |
 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 | 2022-12-23 |  |
 | [Trava na Pose, Chama no Zoom, Da um Close \(feat\. Mc Rennan\)](https://open.spotify.com/track/5aqmWrDgnyQ2OVn6UgBko3) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS) | [Trava na Pose, Chama no Zoom, Da um Close](https://open.spotify.com/album/5FY0hhzRFgldlHh2U8stHw) | 3:34 | 2022-07-28 | 2022-09-22 |
 | [Trava na Pose, Chama no Zoom, Dá um Close \(feat\. Mc Rennan\)](https://open.spotify.com/track/0DsPj89zlY3Us7xb5cXK5h) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS) | [Trava na Pose, Chama no Zoom, Dá um Close \(feat\. Mc Rennan\)](https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ) | 3:34 | 2022-05-26 | 2022-07-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,654 likes - 48 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,662 likes - 47 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 45 | [Un Poquito de Tu Amor \- Remasterizado](https://open.spotify.com/track/1M2nk7ZecdvJJYEHuiPyYd) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [G.A.S\. \(Remasterizado\)](https://open.spotify.com/album/4V5SgHTbnLS1ZR4ToEFGqM) | 2:55 |
 | 46 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
 | 47 | [Opening](https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:31 |
-| 48 | [Apertura](https://open.spotify.com/track/2pUfIeF044S7DQNdaOEAoR) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 2:48 |
 
-Snapshot ID: `MjgzODMxNDgsMDAwMDAwMDAxZjgwN2NkYjk4NWE3NjVmMjk1ODhmMzI2NjVlNTNmOA==`
+Snapshot ID: `MjgzODQ1NTksMDAwMDAwMDBmYjQ3OTA1ODY1NTExZjQ3NmRkOGNiMDhjOTcwNzQ4OA==`

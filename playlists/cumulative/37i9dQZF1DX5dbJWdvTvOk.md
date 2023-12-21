@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-628 songs - 1 day 2 hr 37 min
+630 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [I Never Really Lost You](https://open.spotify.com/track/5ktW8oGQimLO9EE7mPdkrc) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [I Never Really Lost You](https://open.spotify.com/album/5NB6PAUks28HbiKhYl09DI) | 3:37 | 2022-07-15 | 2023-03-11 |
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2023-04-21 | 2023-05-13 |
 | [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 | 2023-04-22 |
-| [Icarus](https://open.spotify.com/track/6kTvM9JYiEriQHNRXhFUPs) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Icarus](https://open.spotify.com/album/6kefDAQzsl3jmFnt93Iaxz) | 2:43 | 2023-04-21 |  |
+| [Icarus](https://open.spotify.com/track/6kTvM9JYiEriQHNRXhFUPs) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Icarus](https://open.spotify.com/album/6kefDAQzsl3jmFnt93Iaxz) | 2:43 | 2023-04-21 | 2023-12-21 |
 | [If Only](https://open.spotify.com/track/0TzHkdetO52vNoFkf1bqyP) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [If Only](https://open.spotify.com/album/4SkSg2UW1Tvw3sbbBniySM) | 2:44 | 2023-09-29 |  |
 | [Igueldo](https://open.spotify.com/track/4IN9TQVhu3Mzw1fEwblxGq) | [Rick Strauss](https://open.spotify.com/artist/5eZxnhbh1hSbnwiSBzlb5q) | [Silver Castle](https://open.spotify.com/album/60mfbInhL61D5iw97J0nE5) | 2:12 | 2022-07-15 | 2023-04-22 |
 | [Il Tramonto](https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Il Tramonto](https://open.spotify.com/album/2Qx4P5RKFaxEnakbDE531a) | 2:28 | 2023-04-21 |  |
@@ -389,6 +389,7 @@
 | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2023-04-21 | 2023-10-20 |
 | [Nascondiglio](https://open.spotify.com/track/5lz0ZF3oUGWZpt7TjdlAwf) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Nascondiglio](https://open.spotify.com/album/6dxdPL7IFCKy0f0V15eJHX) | 2:25 | 2023-04-21 | 2023-05-13 |
 | [Natural State](https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7) | [Mia Cornell](https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB) | [Natural State](https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF) | 2:24 | 2022-07-15 |  |
+| [Nebula's Lullaby](https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Nebula's Lullaby](https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo) | 2:08 | 2023-12-15 |  |
 | [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2023-04-21 | 2023-11-02 |
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2023-04-21 | 2023-10-30 |
 | [Night in Sevilla](https://open.spotify.com/track/3MeoEsS5PQ2Jh6ppvYOI9g) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Night in Sevilla](https://open.spotify.com/album/779NwwOLuonCzVO6gQ7uNi) | 2:43 | 2023-04-21 |  |
@@ -480,13 +481,14 @@
 | [Secret Letters For You](https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Secret Letters For You](https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq) | 2:33 | 2023-04-21 |  |
 | [Secret Soul](https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Secret Soul](https://open.spotify.com/album/6blFQ8TbMmiSXu2Bw5k07w) | 2:44 | 2023-04-21 | 2023-12-16 |
 | [Senderos](https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Senderos](https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv) | 2:09 | 2022-10-07 | 2023-04-22 |
+| [Sense of narrative](https://open.spotify.com/track/0KDz1JWVTq6oKKflHHlmZD) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Sense of narrative](https://open.spotify.com/album/2nAHczJyLyaoAZEMxqqwVj) | 2:00 | 2023-12-15 |  |
 | [Serata Silenziosa](https://open.spotify.com/track/2xIH2lggFO43v7wPbEtHEY) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Serata Silenziosa](https://open.spotify.com/album/1XEY8srIqh18PkbQK84tpc) | 1:23 | 2022-07-15 | 2023-04-22 |
 | [Serene Skies](https://open.spotify.com/track/5rvvtkkXrd8jvosvE0jJj0) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Serene Skies](https://open.spotify.com/album/2u8VTwNX8BXBTGRfAQf2x6) | 2:03 | 2023-08-10 |  |
 | [Serengeti](https://open.spotify.com/track/4yoILdPVTyiwWkJQfXqshB) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Serengeti](https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ) | 2:34 | 2023-05-12 |  |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2023-04-21 |  |
 | [Settignano](https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Settignano](https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh) | 1:58 | 2023-04-21 | 2023-06-09 |
 | [Severance](https://open.spotify.com/track/3SvIZwX1Stka524urG0qsN) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Severance](https://open.spotify.com/album/08L90myPC5HtYTr6RvSMlC) | 2:26 | 2023-04-21 | 2023-10-05 |
-| [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 |  |
+| [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 | 2023-12-21 |
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-07-15 | 2023-04-22 |
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2022-07-15 | 2022-09-17 |
 | [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2023-04-21 |  |

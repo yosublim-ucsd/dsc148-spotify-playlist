@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Pop in 2023\. Cover: Debbii Dawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,739 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,883 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 39 | [Hellokittybalahcurrihellokitty美味しい](https://open.spotify.com/track/51IEjUEnT7n3cgIXynxNTN) | [未來少女 薄荷水晶](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [Hellokittybalahcurrihellokitty美味しい](https://open.spotify.com/album/4aonD1CFMOjR9Ni6F7MjxP) | 3:47 |
 | 40 | [Back To Me \(Me Ma Moop\)](https://open.spotify.com/track/0kDXr6VmGWxTVL7CnJw71T) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Back To Me \(Me Ma Moop\)](https://open.spotify.com/album/2SaKz8EkJUeo3UI3pOOtmp) | 2:50 |
 | 41 | [touching](https://open.spotify.com/track/7dfQ7YoyqoXuGbojDbWIKG) | [Good/Vlly](https://open.spotify.com/artist/69v7yR9Qx34Jrea5OYwq9E) | [brief romance EP](https://open.spotify.com/album/4ZvKMykwrbcrlnQmJCOMDw) | 3:26 |
-| 42 | [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 |
+| 42 | [Stupid Little Party Girl](https://open.spotify.com/track/1SXubRR3HnLsQe7aBSKenu) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/2DmyC6CwLfrnhUuv6cE0bi) | 2:59 |
 | 43 | [Yours For Life](https://open.spotify.com/track/6oefuOfCQpbUjhWjpTRguL) | [SYTË](https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9) | [Yours For Life](https://open.spotify.com/album/2Au9OnvpzZe6KCHjiS1GHa) | 3:11 |
 | 44 | [Social Battery](https://open.spotify.com/track/6EA6qNb0XWmj73H7yQbrai) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ) | [Social Battery](https://open.spotify.com/album/5yW9M6bQ4HMdnMhis4o9F3) | 3:11 |
 | 45 | [Quarter Life Crisis](https://open.spotify.com/track/7HGd3eYorrvkbVMRLhodLD) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Quarter Life Crisis](https://open.spotify.com/album/0bgl9yFKMZsMh6jc0WpavY) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 49 | [If You'll Have Me](https://open.spotify.com/track/5eocW7HblxHATAlUkwihVj) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [If You'll Have Me](https://open.spotify.com/album/2Tj6aMOWvhNxk4bh3JA3vj) | 2:50 |
 | 50 | [Pardon My French](https://open.spotify.com/track/3Fk6VAsLpyrPlGcEzNbSyP) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Pardon My French](https://open.spotify.com/album/6tU236uAny4Fttxjoq1srR) | 2:21 |
 
-Snapshot ID: `MCxlZGU0MTE1NDBjNGMxODNkZWIyMDIyNjA0MTkxMGE1MThlOGJlNDE3`
+Snapshot ID: `MCw5OGQ3YzNlOTc4MGRkOTdjOGEyODU5MTEwYjIzMTQ4ZjRjNTBlOTA5`

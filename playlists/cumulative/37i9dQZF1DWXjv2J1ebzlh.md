@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,186 songs - 6 day 3 hr 18 min
+2,187 songs - 6 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1460,8 +1460,9 @@
 | [Nekwaha Semi Colon](https://open.spotify.com/track/5ppTJ8ZDtsSNzZ2he4lzoe) | [The Semi Colon](https://open.spotify.com/artist/34ruF1g7Hs02olr5oEYiJ5) | [Nekwaha Semi Colon](https://open.spotify.com/album/390qJuwoGG8xPtwz53kCHc) | 3:31 | 2022-06-09 |  |
 | [Nem Kaldi](https://open.spotify.com/track/5IW1jdBfYhZ8BVGGj7C8Nk) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Nem Kaldi](https://open.spotify.com/album/1GntqXjpN10NFBuayFWAGh) | 5:13 | 2022-06-09 |  |
 | [Nem Vem Que Não Tem](https://open.spotify.com/track/4SbvQTh5gpBhapUoYB3Ytp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Bossa Nova For Beginners](https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX) | 2:31 | 2022-10-31 | 2022-11-14 |
+| [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 | 2023-11-29 |  |
 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/4D9uQHmo0HA8yRtU7NuFAz) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/16XSVHKfgfOzG7tYyZhqOz) | 2:32 | 2022-07-12 | 2022-07-29 |
-| [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 | 2022-07-27 |  |
+| [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 | 2022-07-27 | 2023-12-21 |
 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/0XARqKRaNIdIuRn8KIH449) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Show Em Simonal](https://open.spotify.com/album/06I6hTwDIXWi0WxuL87ybU) | 3:15 | 2022-07-12 |  |
 | [Nereci](https://open.spotify.com/track/6Iob8qYmUUTenQRi4u3tfs) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Marizinha](https://open.spotify.com/artist/2E7RJStNCRGdzJbT1AzpwA) | [Djavan](https://open.spotify.com/album/6nNxchWJHFDd31sbiWlKPC) | 3:19 | 2022-06-09 |  |
 | [Netseweth Sifassan Nagh](https://open.spotify.com/track/2SWXWkmpjPsZDYeOhbmjdO) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/6wR1PTOSJRYZeo7zdWWWgD) | 4:27 | 2022-07-12 | 2022-11-20 |

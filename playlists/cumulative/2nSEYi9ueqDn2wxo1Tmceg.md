@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-722 songs - 2 day 1 hr 32 min
+723 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Invisible Darlings](https://open.spotify.com/track/2dIEuGc74hVkGUteoh76ID) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [7s](https://open.spotify.com/album/5aGhJLIaJr1riS9YL7tYC6) | 4:19 | 2023-02-22 | 2023-04-13 |
 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 | 2023-01-25 | 2023-03-02 |
 | [Isn't It Lovely](https://open.spotify.com/track/3ukEbKCjmgeAWlROfHSF2Y) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:25 | 2022-06-22 | 2022-08-04 |
+| [Isn't It Now? \- Moor Mother Collage](https://open.spotify.com/track/6GRzvC5GwwDAJM8jeI2M11) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA) | [Isn’t It Now? \(Moor Mother Collage\)](https://open.spotify.com/album/2RNEPaznO7aQ0zbs0PYym2) | 3:52 | 2023-12-20 |  |
 | [It Is Isn’t It](https://open.spotify.com/track/1pb1lrLnCD3R7iR0oi1PF1) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [Zander Raymond](https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw) | [Parayellowgram](https://open.spotify.com/album/6NMywaWXkCR8ES6n88MTrt) | 10:02 | 2023-09-20 | 2023-11-02 |
 | [it isnt fair](https://open.spotify.com/track/3tmuRI4UT2SghNi3Ppt2GI) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [it isnt fair](https://open.spotify.com/album/4C3LVzyMPr8DIlmQoMwQtl) | 3:03 | 2022-07-27 | 2022-09-15 |
 | [It Will Never Stop](https://open.spotify.com/track/7AbtmOXWdVNzh2NGX1mMqv) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [It Will Never Stop](https://open.spotify.com/album/2BTHmANiamvDEZOUoSIP9t) | 1:50 | 2022-12-14 | 2023-02-09 |

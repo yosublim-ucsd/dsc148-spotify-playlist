@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,695 likes - 60 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,854 likes - 60 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 | 54 | [You See Big Girl / T:T](https://open.spotify.com/track/4dHOnPucB5VBYq3gjRtYy9) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 5:59 |
 | 55 | [Call of Silence](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:58 |
 | 56 | [Attack on D](https://open.spotify.com/track/5JplicqqzvRQKrSE7PiAUE) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 4:44 |
-| 57 | [夕暮れの鳥](https://open.spotify.com/track/79xW4zeNFlcp5VKyvWk3cC) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [夕暮れの鳥/光の言葉](https://open.spotify.com/album/0wtAqG9NElftFjg2mHzOFN) | 5:04 |
+| 57 | [Yugure no Tori](https://open.spotify.com/track/6owPhBDQ7yiDOR4PoDza3I) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Yugure no Tori](https://open.spotify.com/album/3vAE7LvsQeu0JYpwmyGrZO) | 5:04 |
 | 58 | [Guren no Zahyou](https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:06 |
 | 59 | [Jiyuu no Daishou](https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:49 |
 | 60 | [The Dogs](https://open.spotify.com/track/41FVSWUDLLOQok5DZLvKuy) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 4:35 |
 
-Snapshot ID: `MCw1NzdkZDc0ZjZmNDI4OTk4ZjJiYTUwMGFlMzBhMDc5MzY0YjI2ZDVj`
+Snapshot ID: `MCxkMzc3MzViN2NmZmU1MTMyMTRhYzNlZDNjNzQ1MDRiYWFmMzdlMDkw`

@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 293018,
+  "num_followers": 293159,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGYzNjQ1YjI5MjhhOGNiOTQ5NmNhZmJkMjc3NDAxNmRmNmVjNWRj",
+  "snapshot_id": "MCwxMDBlNjhmNDhkOWQ5Y2YxM2Y5YTQzZmY5Mzg5MjhlMDg2N2RlODIz",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/5DNdyrCHb0OIhNHI0vu9vf"
+      },
+      "artists": [
+        {
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+        }
+      ],
+      "duration_ms": 232473,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/7b1E7EB2odr3au4goaDxn2"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 390787,
       "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/5DNdyrCHb0OIhNHI0vu9vf"
-      },
-      "artists": [
-        {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
-        }
-      ],
-      "duration_ms": 232473,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/7b1E7EB2odr3au4goaDxn2"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 246870,
-      "name": "Make Me Love You",
-      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Things That Fade",
         "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 212079,
       "name": "Courtwalk",
       "url": "https://open.spotify.com/track/1EstbSPmi2aPYybH1OBKsU"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 246870,
+      "name": "Make Me Love You",
+      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Iconic Bitch",
-        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
-      },
-      "artists": [
-        {
-          "name": "3D BLAST",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 233774,
-      "name": "Beyond Nostalgia",
-      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Videopolis",
         "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 136093,
       "name": "Soul-Vibration",
       "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Iconic Bitch",
+        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
+      },
+      "artists": [
+        {
+          "name": "3D BLAST",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
+        }
+      ],
+      "duration_ms": 233774,
+      "name": "Beyond Nostalgia",
+      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "EMAIL",
-        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
-      },
-      "artists": [
-        {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
-        }
-      ],
-      "duration_ms": 176269,
-      "name": "SOULLL",
-      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Open Tournament 27XX",
         "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
       },
@@ -1475,34 +1459,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Body Double",
-        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
+        "name": "EMAIL",
+        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
       },
       "artists": [
         {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
         }
       ],
-      "duration_ms": 52937,
-      "name": "Diffusion '89",
-      "url": "https://open.spotify.com/track/3hkviLQtcPviwy1omjNxkP"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Fever Dream (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
-      },
-      "artists": [
-        {
-          "name": "sunnbrella",
-          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Fever Dream - slowed + reverb",
-      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
+      "duration_ms": 176269,
+      "name": "SOULLL",
+      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1531,18 +1499,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "No Sugar Added",
-        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
+        "name": "Fever Dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
       "artists": [
         {
-          "name": "Runners Club 95",
-          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
+          "name": "sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
         }
       ],
-      "duration_ms": 162228,
-      "name": "Carrie Bradshaw",
-      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+      "duration_ms": 232000,
+      "name": "Fever Dream - slowed + reverb",
+      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Body Double",
+        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
+      },
+      "artists": [
+        {
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+        }
+      ],
+      "duration_ms": 52937,
+      "name": "Diffusion '89",
+      "url": "https://open.spotify.com/track/3hkviLQtcPviwy1omjNxkP"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1567,22 +1551,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Surfer Girl",
         "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
@@ -1595,6 +1563,38 @@
       "duration_ms": 375876,
       "name": "Surfer Girl",
       "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "No Sugar Added",
+        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
+      },
+      "artists": [
+        {
+          "name": "Runners Club 95",
+          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
+        }
+      ],
+      "duration_ms": 162228,
+      "name": "Carrie Bradshaw",
+      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
-        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 227462,
-      "name": "\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Ocean Breeze",
         "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
       },
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u30aa\u30aa\u30cf\u30b7",
-        "url": "https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb"
+        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
+        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
       },
       "artists": [
         {
-          "name": "Frez Wave",
-          "url": "https://open.spotify.com/artist/6tytrNpNMZoasn1ox34sox"
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
         }
       ],
-      "duration_ms": 85090,
-      "name": "Golden Glass",
-      "url": "https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP"
+      "duration_ms": 227462,
+      "name": "\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1707,6 +1691,22 @@
       "duration_ms": 145240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\u30aa\u30aa\u30cf\u30b7",
+        "url": "https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb"
+      },
+      "artists": [
+        {
+          "name": "Frez Wave",
+          "url": "https://open.spotify.com/artist/6tytrNpNMZoasn1ox34sox"
+        }
+      ],
+      "duration_ms": 85090,
+      "name": "Golden Glass",
+      "url": "https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP"
     },
     {
       "added_at": "2023-07-18 02:19:19",

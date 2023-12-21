@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 21028,
+  "num_followers": 21039,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzk5ZDQ1YjQ4MTUzODFjYTBhMjg5MGZhNjdmMDc5NWY5YTZjMjk4",
+  "snapshot_id": "MCw5ZmRhOGU5NzcxZTdjN2UxZGMwNmY0ZTU2ZjM3YWQ4ZDU3NzhkYzBi",
   "tracks": [
     {
       "added_at": "2023-12-15 13:20:49",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-12-15 13:20:49",
       "album": {
-        "name": "Las Flores Sangran",
-        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 198405,
-      "name": "Las Flores Sangran",
-      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
-    },
-    {
-      "added_at": "2023-12-15 13:20:49",
-      "album": {
         "name": "Vamos a Destruir",
         "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 250621,
       "name": "Cangrejal",
       "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
+    },
+    {
+      "added_at": "2023-12-15 13:20:49",
+      "album": {
+        "name": "Las Flores Sangran",
+        "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 198405,
+      "name": "Las Flores Sangran",
+      "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
     },
     {
       "added_at": "2023-12-15 13:20:49",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-12-15 13:20:49",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
-        }
-      ],
-      "duration_ms": 196751,
-      "name": "Olas Negras",
-      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
-    },
-    {
-      "added_at": "2023-12-15 13:20:49",
-      "album": {
         "name": "El rock and roll pas\u00f3 de moda",
         "url": "https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 241297,
       "name": "El rock and roll pas\u00f3 de moda",
       "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
+    },
+    {
+      "added_at": "2023-12-15 13:20:49",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
+        }
+      ],
+      "duration_ms": 196751,
+      "name": "Olas Negras",
+      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
     },
     {
       "added_at": "2023-12-15 13:20:49",
@@ -399,6 +399,42 @@
     {
       "added_at": "2023-12-15 13:20:49",
       "album": {
+        "name": "Vamos a destruir",
+        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Vamos a destruir",
+      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
+    },
+    {
+      "added_at": "2023-12-15 13:20:49",
+      "album": {
+        "name": "MALA INFLUENCIA",
+        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        },
+        {
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+        }
+      ],
+      "duration_ms": 133775,
+      "name": "MALA INFLUENCIA",
+      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
+    },
+    {
+      "added_at": "2023-12-15 13:20:49",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
       },
@@ -427,42 +463,6 @@
       "duration_ms": 285176,
       "name": "Eso no es Amor",
       "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
-    },
-    {
-      "added_at": "2023-12-15 13:20:49",
-      "album": {
-        "name": "MALA INFLUENCIA",
-        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        },
-        {
-          "name": "Mora y los Metegoles",
-          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
-        }
-      ],
-      "duration_ms": 133775,
-      "name": "MALA INFLUENCIA",
-      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
-    },
-    {
-      "added_at": "2023-12-15 13:20:49",
-      "album": {
-        "name": "Vamos a destruir",
-        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Vamos a destruir",
-      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
     },
     {
       "added_at": "2023-12-15 13:20:49",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-12-15 13:20:49",
       "album": {
+        "name": "Psicodelia arbolera",
+        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "duration_ms": 248808,
+      "name": "Psicodelia arbolera",
+      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
+    },
+    {
+      "added_at": "2023-12-15 13:20:49",
+      "album": {
         "name": "Humo y Menta",
         "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 183242,
       "name": "Humo y Menta",
       "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
-    },
-    {
-      "added_at": "2023-12-15 13:20:49",
-      "album": {
-        "name": "Psicodelia arbolera",
-        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-        }
-      ],
-      "duration_ms": 248808,
-      "name": "Psicodelia arbolera",
-      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
     },
     {
       "added_at": "2023-12-15 13:20:49",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-15 13:20:49",
       "album": {
-        "name": "Aproximaci\u00f3n",
-        "url": "https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Aproximaci\u00f3n",
-      "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
-    },
-    {
-      "added_at": "2023-12-15 13:20:49",
-      "album": {
         "name": "Amor Express",
         "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 214409,
       "name": "Amor Express",
       "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2023-12-15 13:20:49",
+      "album": {
+        "name": "Aproximaci\u00f3n",
+        "url": "https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Aproximaci\u00f3n",
+      "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
     },
     {
       "added_at": "2023-12-15 13:20:49",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-15 13:20:49",
       "album": {
-        "name": "Nuevos miedos - Nadie va a decidir por vos",
-        "url": "https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN"
-      },
-      "artists": [
-        {
-          "name": "Mujer Cebra",
-          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
-        }
-      ],
-      "duration_ms": 221516,
-      "name": "Nadie va a decidir por vos",
-      "url": "https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs"
-    },
-    {
-      "added_at": "2023-12-15 13:20:49",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2023-12-15 13:20:49",
+      "album": {
+        "name": "Nuevos miedos - Nadie va a decidir por vos",
+        "url": "https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "duration_ms": 221516,
+      "name": "Nadie va a decidir por vos",
+      "url": "https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs"
     },
     {
       "added_at": "2023-12-15 13:20:49",
@@ -1023,38 +1023,6 @@
     {
       "added_at": "2023-12-15 13:20:49",
       "album": {
-        "name": "Anclado",
-        "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Laser",
-          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "Anclado",
-      "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
-    },
-    {
-      "added_at": "2023-12-15 13:20:49",
-      "album": {
-        "name": "Mejor Sin Miedo",
-        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "Mejor Sin Miedo",
-      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
-    },
-    {
-      "added_at": "2023-12-15 13:20:49",
-      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U"
       },
@@ -1075,18 +1043,34 @@
     {
       "added_at": "2023-12-15 13:20:49",
       "album": {
-        "name": "atr\u00e1s de los \u00e1rboles",
-        "url": "https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh"
+        "name": "Mejor Sin Miedo",
+        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
       },
       "artists": [
         {
-          "name": "Salvador Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT"
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
         }
       ],
-      "duration_ms": 146734,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy"
+      "duration_ms": 188632,
+      "name": "Mejor Sin Miedo",
+      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
+    },
+    {
+      "added_at": "2023-12-15 13:20:49",
+      "album": {
+        "name": "Anclado",
+        "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Laser",
+          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "Anclado",
+      "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
     },
     {
       "added_at": "2023-12-15 13:20:49",
@@ -1107,6 +1091,22 @@
       "duration_ms": 228506,
       "name": "Conf\u00edn Dorado",
       "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
+    },
+    {
+      "added_at": "2023-12-15 13:20:49",
+      "album": {
+        "name": "atr\u00e1s de los \u00e1rboles",
+        "url": "https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh"
+      },
+      "artists": [
+        {
+          "name": "Salvador Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT"
+        }
+      ],
+      "duration_ms": 146734,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy"
     },
     {
       "added_at": "2023-12-15 13:20:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,703 likes - 49 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,746 likes - 48 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 46 | [Ancestress](https://open.spotify.com/track/08sEEy8n3kkCDBjZdYZ4GV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Sindri Eldon](https://open.spotify.com/artist/7MrUhoxTFdz4HWkm0VIooA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 7:17 |
 | 47 | [Notget](https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:26 |
 | 48 | [Who Is It \(Carry My Joy On The Left, Carry My Pain On The Right\)](https://open.spotify.com/track/0LyiKRBtKkIaTZKXBcDyb3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 3:57 |
-| 49 | [Wave Invocation \- MWO I Inverness Demo](https://open.spotify.com/track/7dtbmyduD0vFe8q5DGA0Tw) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 1:16 |
 
-Snapshot ID: `MjgzODMxNDgsMDAwMDAwMDA2NTA3N2EzMjE3MDc5NTI1YmY0ODdkMmVmZGIwMTgzMA==`
+Snapshot ID: `MjgzODQ1NTksMDAwMDAwMDA2ZTBlZTJlNDgyNThhMjI3YTJjMTU2NTdiMDllMDM4Yw==`

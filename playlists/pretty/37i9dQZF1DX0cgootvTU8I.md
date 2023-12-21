@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,344 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,377 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 10 | [What You Wanna Do](https://open.spotify.com/track/6OhicWRzXoGeTrGk0S0KxE) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [What You Wanna Do / Good Lookin Out](https://open.spotify.com/album/3HrGqKUzRW8TzjH6UUUp9K) | 3:27 |
 | 11 | [On the Flip \- Synkro's Ambient Jungle Flip](https://open.spotify.com/track/6d6dPslSIy1xu34XlfE1Tj) | [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7), [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [On the Flip \(Synkro's Ambient Jungle Flip\)](https://open.spotify.com/album/46RaJyyWg5I3Y8cctEBDf0) | 9:00 |
 | 12 | [Gold Soul](https://open.spotify.com/track/2puGT4f9oJn6drCWQvWsPe) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/6gq5UMNlJ6XX5xghGm1DVh) | 4:51 |
-| 13 | [War Drum Riddim](https://open.spotify.com/track/5LseY3WYQPxMiRxN0rYkPp) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [War Drum Riddim](https://open.spotify.com/album/5BGpY2e5DnJqK67GXno6tv) | 3:18 |
-| 14 | [Surfing The Anxiety Waves](https://open.spotify.com/track/6tbQHnuPgy7m4ElWYhr9tP) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/0XcdWrmdAbRkGuXNKjbEMQ) | 4:03 |
+| 13 | [Surfing The Anxiety Waves](https://open.spotify.com/track/6tbQHnuPgy7m4ElWYhr9tP) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/0XcdWrmdAbRkGuXNKjbEMQ) | 4:03 |
+| 14 | [War Drum Riddim](https://open.spotify.com/track/5LseY3WYQPxMiRxN0rYkPp) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [War Drum Riddim](https://open.spotify.com/album/5BGpY2e5DnJqK67GXno6tv) | 3:18 |
 | 15 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
 | 16 | [Looking at Your Pager \- CLIPZ Remix](https://open.spotify.com/track/2Ikl0HGBDhvSPyPudSrM9s) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Looking At Your Pager \(CLIPZ Remix\)](https://open.spotify.com/album/3Y4VU7ZIN8v4XVK6J35tdj) | 3:46 |
 | 17 | [The Original Certified Bubbler](https://open.spotify.com/track/1n3wnYtGsP9geUSywMFsgZ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [The Original Certified Bubbler](https://open.spotify.com/album/0xQmzZ346eae8j9bR1OxIg) | 3:06 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 19 | [JUNGLE TEKNAH](https://open.spotify.com/track/5eStmyvgU3yFAiHn35oPE8) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7frIZAGJytWq2BV7qAcwYU) | 4:01 |
 | 20 | [Drips](https://open.spotify.com/track/3KdHrB4WQsUYJ4yytUPyBo) | [Philip D Kick](https://open.spotify.com/artist/6fioiOJRfc72Mr74xgToJt), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Drips](https://open.spotify.com/album/2SaX3Uv70CZpL4qSOU6mxw) | 3:39 |
 | 21 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 |
-| 22 | [D.L.P](https://open.spotify.com/track/65pDapueBkgH4GLp3CmIqq) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [D.L.P](https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR) | 5:10 |
-| 23 | [Biscotti](https://open.spotify.com/track/3PyDt0e29NtPjA7H5Ry532) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Velocity EP](https://open.spotify.com/album/5eN1lpjJfhwdOXhGB0JGEe) | 4:15 |
+| 22 | [Biscotti](https://open.spotify.com/track/3PyDt0e29NtPjA7H5Ry532) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Velocity EP](https://open.spotify.com/album/5eN1lpjJfhwdOXhGB0JGEe) | 4:15 |
+| 23 | [D.L.P](https://open.spotify.com/track/65pDapueBkgH4GLp3CmIqq) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [D.L.P](https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR) | 5:10 |
 | 24 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
 | 25 | [Untitled Dubplate](https://open.spotify.com/track/4yvT9PAz7bBpNnC1OPIKss) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [At the Controls, Vol\. 2](https://open.spotify.com/album/5lGywtvzhpd7t3iN0kRPok) | 3:52 |
 | 26 | [Off the Lorry](https://open.spotify.com/track/0P4iPgEIEDX75wUOXd9qtE) | [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Helter Skelter](https://open.spotify.com/album/7yObjiXbEUKeOSL8N2XqOr) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 49 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 | 50 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
 
-Snapshot ID: `MCxjMjI4OWQwMzk5OWQ0NjRiYjgyNGJiNzJiN2IyMTVmYzdjZGMzYTYy`
+Snapshot ID: `MCxhNzg5YWVmZWY1MDQ5OTNiN2M2NDY2ZDRhM2EwMzAwMmIxYWYwMzgz`

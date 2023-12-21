@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Y U QT",
-  "num_followers": 200878,
+  "num_followers": 200909,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTQ2ODY0NmQ4ZTU1OTdiMWM5NDFjYWM0MzkzMjkyNzIwZjM1M2Yz",
+  "snapshot_id": "MCxjMTU4ZDQwYjRjMWE3OTAwYmM0ZDcwMTZmNDc2NzZhMWU2MDI1ZGU0",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -331,18 +331,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
+        "name": "EGODEATH",
+        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "GHENGHIS OTT",
+          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
+        },
+        {
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
+        },
+        {
+          "name": "6HRS",
+          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
         }
       ],
-      "duration_ms": 227555,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
+      "duration_ms": 192000,
+      "name": "EGODEATH",
+      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -491,26 +499,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "EGODEATH",
-        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
+        "name": "Gimme More",
+        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
       },
       "artists": [
         {
-          "name": "GHENGHIS OTT",
-          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
-        },
-        {
-          "name": "GRM Daily",
-          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
-        },
-        {
-          "name": "6HRS",
-          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
+          "name": "Distinkt",
+          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
         }
       ],
-      "duration_ms": 192000,
-      "name": "EGODEATH",
-      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
+      "duration_ms": 234418,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Gimme More",
-        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
       },
       "artists": [
         {
-          "name": "Distinkt",
-          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 234418,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
+      "duration_ms": 227555,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Can't Escape",
+        "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 218899,
+      "name": "Can't Escape",
+      "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Icon",
         "url": "https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 157500,
       "name": "Icon",
       "url": "https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Can't Escape",
-        "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 218899,
-      "name": "Can't Escape",
-      "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 232500,
       "name": "One Ting",
       "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Mixtape 1: #Heaters",
-        "url": "https://open.spotify.com/album/5vlmZo8r8wFHTs7w4aMZZt"
-      },
-      "artists": [
-        {
-          "name": "ENiGMA Dubz",
-          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
-        },
-        {
-          "name": "Snowy",
-          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
-        }
-      ],
-      "duration_ms": 215142,
-      "name": "Lost It",
-      "url": "https://open.spotify.com/track/1LaZl4dhIj9v3uUPwJpfVG"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 310909,
       "name": "Chances",
       "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Mixtape 1: #Heaters",
+        "url": "https://open.spotify.com/album/5vlmZo8r8wFHTs7w4aMZZt"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        },
+        {
+          "name": "Snowy",
+          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
+        }
+      ],
+      "duration_ms": 215142,
+      "name": "Lost It",
+      "url": "https://open.spotify.com/track/1LaZl4dhIj9v3uUPwJpfVG"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Badman Riddim (feat. Sweetie Irie)",
+        "url": "https://open.spotify.com/album/6oPO1krnnAWP9qhOgJb7WB"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "duration_ms": 137910,
+      "name": "Badman Riddim (feat. Sweetie Irie)",
+      "url": "https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Wanna Freak",
         "url": "https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh"
       },
@@ -1335,26 +1359,6 @@
       "duration_ms": 160482,
       "name": "Amazon Prime",
       "url": "https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Signal / Have You Over (feat. Ruth Royall)",
-        "url": "https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE"
-      },
-      "artists": [
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        },
-        {
-          "name": "Ruth Royall",
-          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
-        }
-      ],
-      "duration_ms": 253181,
-      "name": "Signal (feat. Ruth Royall)",
-      "url": "https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx"
     }
   ],
   "unique_name": "Bassline Bangers",

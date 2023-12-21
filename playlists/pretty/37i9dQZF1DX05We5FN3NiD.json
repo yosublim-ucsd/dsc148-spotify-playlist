@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 41446,
+  "num_followers": 41464,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGNmMThkMDZlOWQxNmY1ZTVmN2I2NzE1MmExZWM0ZDNhNTE1OWU5",
+  "snapshot_id": "MCw2ZDc4MDM1YTk2Y2EzZGQ4YTM2MGM5ZjE0OGNkOWUwZTUwYmM2NWE1",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Will We Talk?",
-      "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "the masquerade",
         "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 197933,
       "name": "prom dress",
       "url": "https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Will We Talk?",
+      "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 245847,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2MKIadkPrRqaivpyn6cnI0"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 145720,
       "name": "U (Man Like)",
       "url": "https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Kcab Gnihsur",
+        "url": "https://open.spotify.com/album/4vRbGdmuLUTzOEnGPFWTre"
+      },
+      "artists": [
+        {
+          "name": "gade \u8282\u594f",
+          "url": "https://open.spotify.com/artist/6BWcu2p4Zn7BgJyx1lexW3"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Kcab Gnihsur",
+      "url": "https://open.spotify.com/track/7GP2geX3A16B2IUFejZtSS"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 270254,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 270254,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1427,22 +1443,6 @@
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Kcab Gnihsur",
-        "url": "https://open.spotify.com/album/4vRbGdmuLUTzOEnGPFWTre"
-      },
-      "artists": [
-        {
-          "name": "gade \u8282\u594f",
-          "url": "https://open.spotify.com/artist/6BWcu2p4Zn7BgJyx1lexW3"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Kcab Gnihsur",
-      "url": "https://open.spotify.com/track/7GP2geX3A16B2IUFejZtSS"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/40yQBo7kz4bnTGx6hJQUgI"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 202280,
-      "name": "Ain't Together",
-      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
+      "duration_ms": 199579,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/6Gtx8pQMkGukhm6x2G4J5l"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1631,22 +1635,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/40yQBo7kz4bnTGx6hJQUgI"
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 199579,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/6Gtx8pQMkGukhm6x2G4J5l"
+      "duration_ms": 202280,
+      "name": "Ain't Together",
+      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
     }
   ],
   "unique_name": "Best of Indie 2019",

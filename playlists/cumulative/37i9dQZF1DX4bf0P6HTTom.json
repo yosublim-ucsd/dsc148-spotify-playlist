@@ -206,7 +206,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 205093,
       "name": "Down Along The Cove",
       "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
@@ -1090,6 +1090,24 @@
       "duration_ms": 219346,
       "name": "This Ol' Cowboy",
       "url": "https://open.spotify.com/track/0diAR6QUxrDiEBjRZSfweR"
+    },
+    {
+      "album": {
+        "name": "The Fantastic Expedition Of Dillard & Clark (Expanded Edition)",
+        "url": "https://open.spotify.com/album/28QaQDECuseWDTmKWGltxF"
+      },
+      "artists": [
+        {
+          "name": "Dillard & Clark",
+          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "Train Leaves Here This Mornin",
+      "url": "https://open.spotify.com/track/3MwzIAtG0izIWUdjVUQnrJ"
     },
     {
       "album": {

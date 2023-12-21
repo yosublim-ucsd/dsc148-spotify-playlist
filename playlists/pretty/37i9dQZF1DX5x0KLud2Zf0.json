@@ -1,29 +1,13 @@
 {
   "description": "La pluma sensible detr\u00e1s de tus favoritas de regional mexicano.",
-  "num_followers": 101562,
+  "num_followers": 101611,
   "original_name": "Cancionero Horacio Palencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmZhMzM1ZDYyOTBlZGNhYjAxODI0MWU0ZDMzZTkxMDhlNWJlNDQ4",
+  "snapshot_id": "MCxlYzc3NGEzM2UxYWNlMmZhYzRmNmIwN2EwNTQ3OWE0MTYwMzkyZDhm",
   "tracks": [
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 176800,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2022-06-06 21:47:35",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Ha\u0301blame De Ti",
-      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "La Suerte",
         "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 176497,
       "name": "Por Enamorarme",
       "url": "https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Ha\u0301blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -243,18 +243,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
+        "name": "Mi Raz\u00f3n De Ser",
+        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
         }
       ],
-      "duration_ms": 153493,
-      "name": "Hermosa Experiencia",
-      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
+      "duration_ms": 137000,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/3xFlC7hbHZdXEIVDjpCbTR"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Mi Raz\u00f3n De Ser",
-        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/3xFlC7hbHZdXEIVDjpCbTR"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Al Fin Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 234480,
       "name": "Me Cambiaste la Vida",
       "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "Hermosa Experiencia",
+      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Mi Raz\u00f3n De Ser",
-      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
         "name": "Mi Complemento",
         "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
@@ -403,6 +387,50 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
+        "name": "De Buenos Aires Para El Mundo",
+        "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "duration_ms": 221346,
+      "name": "Amor A Primera Vista",
+      "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
+        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Mi Raz\u00f3n De Ser",
+      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
+    },
+    {
+      "added_at": "2021-11-11 19:24:28",
+      "album": {
         "name": "No Me Pidas Perd\u00f3n",
         "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
@@ -431,34 +459,6 @@
       "duration_ms": 214466,
       "name": "Todo Porque Te Amo",
       "url": "https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA"
-    },
-    {
-      "added_at": "2021-11-11 19:24:28",
-      "album": {
-        "name": "De Buenos Aires Para El Mundo",
-        "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        },
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Amor A Primera Vista",
-      "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -527,18 +527,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 192973,
-      "name": "Solo Con Verte",
-      "url": "https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP"
+      "duration_ms": 228440,
+      "name": "Consecuencia De Mis Actos",
+      "url": "https://open.spotify.com/track/6b2KNJfIFpFg8ygNI7j1lT"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -559,18 +559,18 @@
     {
       "added_at": "2021-11-11 19:24:28",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Consecuencia De Mis Actos",
-      "url": "https://open.spotify.com/track/6b2KNJfIFpFg8ygNI7j1lT"
+      "duration_ms": 192973,
+      "name": "Solo Con Verte",
+      "url": "https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 191880,
-      "name": "Y Que Quede Claro",
-      "url": "https://open.spotify.com/track/0AhXRfkcqRi3aHvaQDv4Vg"
+      "duration_ms": 246093,
+      "name": "Te Estar\u00e9 Esperando",
+      "url": "https://open.spotify.com/track/2APqhS0NbLQdhrCQvngtGd"
     },
     {
       "added_at": "2021-11-11 19:24:28",
@@ -1596,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 246093,
-      "name": "Te Estar\u00e9 Esperando",
-      "url": "https://open.spotify.com/track/2APqhS0NbLQdhrCQvngtGd"
+      "duration_ms": 191880,
+      "name": "Y Que Quede Claro",
+      "url": "https://open.spotify.com/track/0AhXRfkcqRi3aHvaQDv4Vg"
     },
     {
       "added_at": "2021-11-11 19:24:28",

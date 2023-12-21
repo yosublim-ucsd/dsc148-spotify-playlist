@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-760 songs - 1 day 21 hr 4 min
+761 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,7 @@
 | [半](https://open.spotify.com/track/1QP9ug2pxr20UmbgyUlTA8) | [Jeremy Lee 李駿傑](https://open.spotify.com/artist/3aNQDIayeN5QYwx42wk9VF) | [半](https://open.spotify.com/album/1KISSK3yeJRExrmoVZVN1E) | 4:03 | 2022-02-23 | 2022-05-15 |
 | [及時行樂](https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [及時行樂](https://open.spotify.com/album/01rSZF79mCVntQ445seVtF) | 3:54 | 2022-01-28 | 2022-06-01 |
 | [及時行樂](https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:54 | 2022-06-01 | 2023-02-16 |
-| [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2021-06-06 | 2023-12-17 |
+| [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2021-06-06 |  |
 | [另一個諾貝爾](https://open.spotify.com/track/56Aal9B8gurDIRmlw4y74a) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [另一個諾貝爾](https://open.spotify.com/album/3zlC4E72LhS3svz4GFWvTR) | 4:14 | 2021-07-07 | 2021-08-24 |
 | [只收一半](https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:18 | 2021-09-01 | 2021-09-02 |
 | [只要你不尷尬](https://open.spotify.com/track/1UdxSRCOnftG6I2dVBkHXH) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [只要你不尷尬](https://open.spotify.com/album/0ryBp7G4CRi53am6Hy65IM) | 4:03 | 2023-10-04 | 2023-10-29 |
@@ -649,6 +649,7 @@
 | [每次你走的時分](https://open.spotify.com/track/5re2sW79DkSu7tyBjxCqUS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [每次你走的時分](https://open.spotify.com/album/5t0kPdHWUbtFPugupIGZrO) | 2:59 | 2021-08-26 | 2021-09-01 |
 | [每次你走的時分](https://open.spotify.com/track/6i8z0tElGO6Ye3Bk7nW496) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:03 | 2021-09-01 | 2021-09-02 |
 | [水刑物語](https://open.spotify.com/track/33c5MYdr80WqXws9pj06b4) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [水刑物語](https://open.spotify.com/album/1shcsO8cD448WOI1WGH19Q) | 4:19 | 2021-04-21 | 2021-09-20 |
+| [永久損毀](https://open.spotify.com/track/1mUhvuqX0ScGodDTdnRtuL) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [永久損毀](https://open.spotify.com/album/3i4Kcj3rByprXlI6flcdcw) | 4:01 | 2023-12-20 |  |
 | [永順街39號](https://open.spotify.com/track/3b4dQtIVyVhQdbYVfrik0k) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [永順街39號](https://open.spotify.com/album/47sDT8IseT1h5wbizlMaIj) | 4:40 | 2022-11-13 | 2023-11-25 |
 | [污糟兒](https://open.spotify.com/track/2W9MxlcyMWmeHgZNnCSosb) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [污糟兒](https://open.spotify.com/album/3cAI5qxC8Tk84aCtlyVISB) | 3:45 | 2022-07-21 | 2023-01-13 |
 | [沉默是金](https://open.spotify.com/track/5ezpe0WxjrTXSp82nJDnsM) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Hot Summer](https://open.spotify.com/album/1e3xezRdT9FNnweZf3XgbP) | 4:09 | 2021-04-03 | 2023-04-04 |
@@ -661,7 +662,7 @@
 | [浪漫殺死巨蟹座](https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [浪漫殺死巨蟹座](https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw) | 4:04 | 2023-07-22 |  |
 | [浮床](https://open.spotify.com/track/3gOTUuIDMbBYECtnPadsxY) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [浮床](https://open.spotify.com/album/0HjgPj2BylDhJNRGN6OqUq) | 3:33 | 2023-09-15 | 2023-12-02 |
 | [濤](https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [濤](https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI) | 3:52 | 2023-08-02 |  |
-| [為何嚴重到這樣](https://open.spotify.com/track/2nNl8uFxj9tu9jqYwSzkMm) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [為何嚴重到這樣](https://open.spotify.com/album/6DDFMr8Io5YbT7WW1DNdfP) | 4:38 | 2023-11-29 |  |
+| [為何嚴重到這樣](https://open.spotify.com/track/2nNl8uFxj9tu9jqYwSzkMm) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [為何嚴重到這樣](https://open.spotify.com/album/6DDFMr8Io5YbT7WW1DNdfP) | 4:38 | 2023-11-29 | 2023-12-21 |
 | [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2023-03-07 | 2023-04-20 |
 | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/track/6rLZknU66zYG9Q2NI4fCYl) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/album/6wYuPp9Bt8JVDtxImuGng0) | 4:07 | 2022-11-18 | 2023-03-19 |
 | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/track/5DuzFa95k6It0RXVTUwMYH) | [Coca\-Cola Hong Kong](https://open.spotify.com/artist/0wTxCGuTsFbWO9ePajJ8Y6) | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/album/6Z4AfMmvAOMxnx69HbGzxD) | 1:07 | 2023-03-17 | 2023-10-11 |
@@ -702,7 +703,7 @@
 | [給缺席的人唱首歌](https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給缺席的人唱首歌](https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik) | 3:57 | 2022-07-07 | 2022-10-23 |
 | [網絡安全隱患](https://open.spotify.com/track/4J3xGcdeTondAni5xd9kmm) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7), [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [網絡安全隱患](https://open.spotify.com/album/2U0RPpcvALJOyO7daXdGU4) | 3:01 | 2021-04-21 | 2021-05-03 |
 | [緊急聯絡人](https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [緊急聯絡人](https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU) | 3:42 | 2023-12-01 |  |
-| [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 | 2023-12-02 |  |
+| [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 | 2023-12-02 | 2023-12-21 |
 | [老派約會之必要](https://open.spotify.com/track/2lMVTk3I232dE7jnkufOSt) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/6Vgd72xB0XvQL23Nu5QlJ1) | 3:43 | 2022-07-28 | 2023-01-22 |
 | [老派約會之必要](https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 3:43 | 2023-01-21 |  |
 | [老派約會之必要](https://open.spotify.com/track/4Z2JLzxDyJCqjX88ObHOpp) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/1S2BJwobnDIUkkPuCv3G3y) | 3:43 | 2022-07-20 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 104059,
+  "num_followers": 104106,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjE4ZWI4YTNmOGYzM2NmYzA2OGVjM2MwYzA5OGY1MGY0ZmQ2NTBh",
+  "snapshot_id": "MCw1YjE4MmYxNWI5MDA2OGVlNzA0ZGQ4NTFhZDg3MjAxM2MyMTUyMTlk",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -475,26 +475,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Spring 1 (Levitation Mix)",
-        "url": "https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX"
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Elena Urioste",
-          "url": "https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH"
-        },
-        {
-          "name": "Chineke! Orchestra",
-          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
         }
       ],
-      "duration_ms": 215281,
-      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - Levitation Mix",
-      "url": "https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16"
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -515,18 +507,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
+        "name": "Spring 1 (Levitation Mix)",
+        "url": "https://open.spotify.com/album/4maru8HKkGFwwrUWovd1wX"
       },
       "artists": [
         {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Elena Urioste",
+          "url": "https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
         }
       ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
+      "duration_ms": 215281,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - Levitation Mix",
+      "url": "https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "N\u00e9fos",
+        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "N\u00e9fos",
+      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Reimagined. Volume 2, Chapter 3",
         "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 423047,
       "name": "Nuvole Bianche - Reimagined by Mercan Dede",
       "url": "https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "N\u00e9fos",
-        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "N\u00e9fos",
-      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -763,38 +763,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "On Giacometti",
-        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 353200,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Circle 23 (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
       },
@@ -819,6 +787,38 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 353200,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "The Wind (Deluxe)",
         "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 133335,
       "name": "Nos - C.B. Rework",
       "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Spirit Loop",
+        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Spirit Loop",
+      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -875,18 +891,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Spirit Loop",
-        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
       },
       "artists": [
         {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
         }
       ],
-      "duration_ms": 245500,
-      "name": "Spirit Loop",
-      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
+      "duration_ms": 280625,
+      "name": "Who Tends a Garden",
+      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 218743,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 280625,
-      "name": "Who Tends a Garden",
-      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -999,18 +999,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Boat",
-        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        },
+        {
+          "name": "\u00c5te",
+          "url": "https://open.spotify.com/artist/2qn75zEidar5AhX7eBY6IZ"
         }
       ],
-      "duration_ms": 425600,
-      "name": "The Boat",
-      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
+      "duration_ms": 153120,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1043,18 +1047,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Ensemb7e",
-        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
       },
       "artists": [
         {
-          "name": "Chapelier Fou",
-          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 190120,
-      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
-      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
+      "duration_ms": 425600,
+      "name": "The Boat",
+      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1075,22 +1079,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
+        "name": "Ensemb7e",
+        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
       },
       "artists": [
         {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        },
-        {
-          "name": "\u00c5te",
-          "url": "https://open.spotify.com/artist/2qn75zEidar5AhX7eBY6IZ"
+          "name": "Chapelier Fou",
+          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
         }
       ],
-      "duration_ms": 153120,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
+      "duration_ms": 190120,
+      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
+      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
-      },
-      "artists": [
-        {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
-        }
-      ],
-      "duration_ms": 263708,
-      "name": "North/South",
-      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "some kind of peace \u2014 piano reworks",
         "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 216141,
       "name": "New Grass \u2014 piano reworks",
       "url": "https://open.spotify.com/track/2t56sYAHF16I3bRp0jRGqX"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "duration_ms": 263708,
+      "name": "North/South",
+      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Mia",
+        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
+      },
+      "artists": [
+        {
+          "name": "Wide Eyed",
+          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
+        }
+      ],
+      "duration_ms": 208307,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
         "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 307840,
       "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
       "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Mia",
-        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
-      },
-      "artists": [
-        {
-          "name": "Wide Eyed",
-          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
-        }
-      ],
-      "duration_ms": 208307,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1475,18 +1475,30 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
+        "name": "Moon Window",
+        "url": "https://open.spotify.com/album/3MKNn4Lo4Y3H5BCpoRPb0Q"
       },
       "artists": [
         {
-          "name": "Mazoulew",
-          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
+          "name": "Freya Arde",
+          "url": "https://open.spotify.com/artist/7oizdx4Ik6jUKnjOqEeiMi"
+        },
+        {
+          "name": "Alina Gropper",
+          "url": "https://open.spotify.com/artist/4o3kRhGNgRWyQ5TStfVBgK"
+        },
+        {
+          "name": "Filip Sommer",
+          "url": "https://open.spotify.com/artist/6wvVtoBmo6KAUtjgj1mcSo"
+        },
+        {
+          "name": "Moritz Br\u00fcmmer",
+          "url": "https://open.spotify.com/artist/0VCDrXnPDQtZgyO9neIuUL"
         }
       ],
-      "duration_ms": 139130,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
+      "duration_ms": 167920,
+      "name": "Moon Window",
+      "url": "https://open.spotify.com/track/4PTSiJw3k6IYIofogD0uuI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1515,30 +1527,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Moon Window",
-        "url": "https://open.spotify.com/album/3MKNn4Lo4Y3H5BCpoRPb0Q"
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
       },
       "artists": [
         {
-          "name": "Freya Arde",
-          "url": "https://open.spotify.com/artist/7oizdx4Ik6jUKnjOqEeiMi"
-        },
-        {
-          "name": "Alina Gropper",
-          "url": "https://open.spotify.com/artist/4o3kRhGNgRWyQ5TStfVBgK"
-        },
-        {
-          "name": "Filip Sommer",
-          "url": "https://open.spotify.com/artist/6wvVtoBmo6KAUtjgj1mcSo"
-        },
-        {
-          "name": "Moritz Br\u00fcmmer",
-          "url": "https://open.spotify.com/artist/0VCDrXnPDQtZgyO9neIuUL"
+          "name": "Mazoulew",
+          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
         }
       ],
-      "duration_ms": 167920,
-      "name": "Moon Window",
-      "url": "https://open.spotify.com/track/4PTSiJw3k6IYIofogD0uuI"
+      "duration_ms": 139130,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
     }
   ],
   "unique_name": "Classical X",

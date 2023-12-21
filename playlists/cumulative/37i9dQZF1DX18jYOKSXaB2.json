@@ -230,10 +230,36 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 215437,
       "name": "Bad and Boujee",
       "url": "https://open.spotify.com/track/0sy1phpDCCy7DB7N03iZEW"
+    },
+    {
+      "album": {
+        "name": "Bad and Boujee",
+        "url": "https://open.spotify.com/album/2tY2hWhHDRbWE4pAXMhulM"
+      },
+      "artists": [
+        {
+          "name": "Murphy Mccarthy",
+          "url": "https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I"
+        },
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/6OYJV1xYFAu5vysIxfq4Pg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215437,
+      "name": "Bad and Boujee",
+      "url": "https://open.spotify.com/track/6yxeRfVFePZ9poNaEwaQL3"
     },
     {
       "album": {

@@ -2414,10 +2414,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 195555,
       "name": "MOON",
       "url": "https://open.spotify.com/track/0Yo3hFi4HZQZphsp0nSj3o"
+    },
+    {
+      "album": {
+        "name": "MOON",
+        "url": "https://open.spotify.com/album/3pi6ua6B35Fym8Lum2Bdub"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/3PMCFWteGh7wt9hexu2CwQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "MOON",
+      "url": "https://open.spotify.com/track/4aEv1igs7UqxBEHdicIcZV"
     },
     {
       "album": {

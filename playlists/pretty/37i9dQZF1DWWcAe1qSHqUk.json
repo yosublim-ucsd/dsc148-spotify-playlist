@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 59034,
+  "num_followers": 59045,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTdkN2MxNzE1YWIwNjg3NDEyMWM4MTE4MDZjYThlYzM5YjNiNGZl",
+  "snapshot_id": "MCw0Y2EwODljYjJiYTMzNDQ2MTkyYTg2OWRlYmE4OGYzMmNlZTJkZDlk",
   "tracks": [
     {
       "added_at": "2023-12-11 01:28:28",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-12-11 01:28:28",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
-    },
-    {
-      "added_at": "2023-12-11 01:28:28",
-      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 216573,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
+    },
+    {
+      "added_at": "2023-12-11 01:28:28",
+      "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2023-12-11 01:28:28",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-12-11 01:28:28",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
-    },
-    {
-      "added_at": "2023-12-11 01:28:28",
-      "album": {
         "name": "Outro Lugar",
         "url": "https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 283093,
       "name": "When I Fall in Love (feat. Chris Botti)",
       "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
+    },
+    {
+      "added_at": "2023-12-11 01:28:28",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 268760,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
     },
     {
       "added_at": "2023-12-11 01:28:28",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-11 01:28:28",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
-    },
-    {
-      "added_at": "2023-12-11 01:28:28",
-      "album": {
         "name": "Jazz and Essentials",
         "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 197626,
       "name": "Rat In My Kitchen",
       "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
+    },
+    {
+      "added_at": "2023-12-11 01:28:28",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2023-12-11 01:28:28",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-12-11 01:28:28",
       "album": {
-        "name": "Young & Na\u00efve",
-        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
-      },
-      "artists": [
-        {
-          "name": "Heather Rigdon",
-          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "To Have & To Hold",
-      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
-    },
-    {
-      "added_at": "2023-12-11 01:28:28",
-      "album": {
         "name": "Can\u00e7\u00f5es de Caymmi",
         "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 242866,
       "name": "L\u00e1 Vem a Baiana",
       "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+    },
+    {
+      "added_at": "2023-12-11 01:28:28",
+      "album": {
+        "name": "Young & Na\u00efve",
+        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
+      },
+      "artists": [
+        {
+          "name": "Heather Rigdon",
+          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "To Have & To Hold",
+      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
     },
     {
       "added_at": "2023-12-11 01:28:28",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-12-11 01:28:28",
       "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/0htWsoC4ORq9URJmrBEiCI"
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
       "artists": [
         {
-          "name": "Isabelle Antena",
-          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
         }
       ],
-      "duration_ms": 173293,
-      "name": "Moonlight Dancer",
-      "url": "https://open.spotify.com/track/7qnGOq6WC4rxe7tdYqTbUC"
+      "duration_ms": 212680,
+      "name": "I Get Along Without You Very Well",
+      "url": "https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

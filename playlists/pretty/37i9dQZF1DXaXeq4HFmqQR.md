@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que brillaron en 2023\. Foto: Vesta Lugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,231 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,236 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 17 | [Agua](https://open.spotify.com/track/52grFNgo0fWp9KzFioiuav) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Agua](https://open.spotify.com/album/3vLbZyR7b6YttNHL9fO0BE) | 2:57 |
 | 18 | [Mata x mí](https://open.spotify.com/track/3V8CT37HqIiD7GytKdlLkr) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Mata x mí](https://open.spotify.com/album/5MqowTfMFc7cjt7WNzmVBd) | 2:13 |
 | 19 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
-| 20 | [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 |
-| 21 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 |
+| 20 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 |
+| 21 | [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 |
 | 22 | [Tiempo al tiempo](https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ese Té](https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE) | [Tiempo al tiempo](https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz) | 2:22 |
 | 23 | [No Verán](https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 3:25 |
 | 24 | [REGINA](https://open.spotify.com/track/4f3jEQxoxh9mkffm3wOMUS) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [REGINA](https://open.spotify.com/album/0pvKUrFFlArbUjCq7oHzKl) | 2:31 |
 | 25 | [Baddie](https://open.spotify.com/track/3f4F947OK390ug1C4igSLp) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [Baddie](https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel) | 2:26 |
 | 26 | [Alerta](https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Alerta](https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl) | 3:09 |
 | 27 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 |
-| 28 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 |
-| 29 | [Solteras](https://open.spotify.com/track/5lAxjoqlISuiyyy0ijhyRM) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Sicario En los controles](https://open.spotify.com/artist/301UYYFYUIRMyNbMmCwTyd) | [Solteras](https://open.spotify.com/album/0WmLTD5Ywok6RaB6nhxDWl) | 2:46 |
+| 28 | [Solteras](https://open.spotify.com/track/5lAxjoqlISuiyyy0ijhyRM) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Sicario En los controles](https://open.spotify.com/artist/301UYYFYUIRMyNbMmCwTyd) | [Solteras](https://open.spotify.com/album/0WmLTD5Ywok6RaB6nhxDWl) | 2:46 |
+| 29 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 |
 | 30 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
 | 31 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
 | 32 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 44 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 | 45 | [paterson](https://open.spotify.com/track/14ueXImr9oNsOt5bcBmJsJ) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 4:42 |
 | 46 | [Ser Humano](https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Ser Humano](https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk) | 3:16 |
-| 47 | [Love Yourself](https://open.spotify.com/track/5Z9bNiKhpFBvlhbHEXoGdw) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/1T1lSe9cSHrRUfjNyYvcm9) | 2:31 |
-| 48 | [LIBRE ALBEDRÍO](https://open.spotify.com/track/0CJXWzYuHSIK3hCSLKl3Vd) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf) | [LIBRE ALBEDRÍO](https://open.spotify.com/album/7cIBE0ZMEJe20UszosNS3a) | 2:32 |
+| 47 | [LIBRE ALBEDRÍO](https://open.spotify.com/track/0CJXWzYuHSIK3hCSLKl3Vd) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf) | [LIBRE ALBEDRÍO](https://open.spotify.com/album/7cIBE0ZMEJe20UszosNS3a) | 2:32 |
+| 48 | [Love Yourself](https://open.spotify.com/track/5Z9bNiKhpFBvlhbHEXoGdw) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/1T1lSe9cSHrRUfjNyYvcm9) | 2:31 |
 | 49 | [Dicen](https://open.spotify.com/track/4VAE7BnAnIQgM5bMo98mu8) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Dicen](https://open.spotify.com/album/16hPxmwevmyL8esp9fU3fK) | 3:22 |
 | 50 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 
-Snapshot ID: `MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl`
+Snapshot ID: `MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1`

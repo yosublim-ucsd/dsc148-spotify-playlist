@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Carz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,426 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LEAD](https://open.spotify.com/track/7LeYWbIiGruTyxr2VfMTBP) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9) | 3:52 |
+| 1 | [LEAD](https://open.spotify.com/track/4t7AY95Hf5UZBtRKjjswbO) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/12eiDX769GffsCljewZy7i) | 3:52 |
 | 2 | [GINGINDEGO](https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR) | [Ryuk](https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [GINGINDEGO](https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2) | 1:51 |
 | 3 | [Super Fresh](https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:52 |
 | 4 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Houjou \- bonus track](https://open.spotify.com/track/4OzCR5H9FEq4HP4pN66Y4D) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [GREEN ROMANCE](https://open.spotify.com/artist/4ifwODTNRfOpYpxiBjsaTx), [浅井杜人](https://open.spotify.com/artist/3QsQcihids9cKIS5YSCErz) | [You are not rockstar, I'm not rockstar](https://open.spotify.com/album/1yl8uapCeNjf3m1WacTF6N) | 2:34 |
 | 100 | [fake friend](https://open.spotify.com/track/5WlGyNlZpKGCBwsGB4fR3w) | [Duke Cage](https://open.spotify.com/artist/5rTKlrUj2nVEpSwUSvAFsO), [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB) | [fake friend](https://open.spotify.com/album/11TpRh73r7c73g24VuGaka) | 2:46 |
 
-Snapshot ID: `MCwyNmViYjBlMTMzZThjMDg2MzEwZDJkNmYwMWZjNjgyOTFjYjY0MjQ4`
+Snapshot ID: `MCw0MmM2NDg1OWJiYWI5YjE4MTE5MTBkYWVjYjc5ZGE4MTg0OTJhNTcz`

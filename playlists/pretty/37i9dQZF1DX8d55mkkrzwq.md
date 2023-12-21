@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063 likes - 43 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062 likes - 43 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 20 | [Chicken Dance](https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 2:08 |
 | 21 | [The BeeeeeOOP Walk](https://open.spotify.com/track/0FEeadvRW7DD4s7RvfPuFs) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 2:18 |
 | 22 | [Dance Silly](https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84) | 3:04 |
-| 23 | [MOVE YOUR BODY](https://open.spotify.com/track/2vp7HOVvYo7Z5ZqCAuRCli) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [MOVE YOUR BODY](https://open.spotify.com/album/0mPdAgH86rN9Yt48HrpnOG) | 2:06 |
-| 24 | [Watch Me \(Whip / Nae Nae\)](https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:35 |
+| 23 | [Watch Me \(Whip / Nae Nae\)](https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:35 |
+| 24 | [MOVE YOUR BODY](https://open.spotify.com/track/2vp7HOVvYo7Z5ZqCAuRCli) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [MOVE YOUR BODY](https://open.spotify.com/album/0mPdAgH86rN9Yt48HrpnOG) | 2:06 |
 | 25 | [Conga!](https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:32 |
 | 26 | [Macarena \(Bayside Boys Remix\) \- Remasterizado](https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Macarena Christmas \(Remasterizado\)](https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx) | 3:47 |
 | 27 | [Electric Slide](https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 3:57 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 30 | [Animal Dance and Freeze](https://open.spotify.com/track/4HHMUL4cOZq21NJ6XjErfZ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Kids Birthday Party](https://open.spotify.com/album/1qO9LlASyxxmYqxssdUJa2) | 2:30 |
 | 31 | [Dance Mode](https://open.spotify.com/track/6jy21QZaTpS9UgXnWW0ADd) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 1:58 |
 | 32 | [Musical Statues \- Party Version](https://open.spotify.com/track/7LC0vo7r0iDIuu61YwUXld) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Kids Dance Party](https://open.spotify.com/album/7JiXOAemvmJARf7w9WvbsT) | 3:08 |
-| 33 | [Dance, Dance, Freeze](https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Birthday Party](https://open.spotify.com/album/4WWj00FI8McY157nn4B2OZ) | 2:10 |
-| 34 | [Chickie Chickie Beat](https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Chickie Chickie Beat](https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d) | 1:39 |
+| 33 | [Chickie Chickie Beat](https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Chickie Chickie Beat](https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d) | 1:39 |
+| 34 | [Dance, Dance, Freeze](https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Birthday Party](https://open.spotify.com/album/4WWj00FI8McY157nn4B2OZ) | 2:10 |
 | 35 | [Do as I'm Doing](https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Do as I'm Doing](https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN) | 1:56 |
 | 36 | [Hand Jive](https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Jump, Wiggle and Hop](https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ) | 2:59 |
 | 37 | [Let's Shake About!](https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:01 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 42 | [Robot Song](https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP) | [Michael & The Rockness Monsters](https://open.spotify.com/artist/3LPxmAUuHX9k2jUlC9m38f) | [Preschool Songs Volume 2](https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ) | 3:13 |
 | 43 | [Bounce! Bounce!](https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:06 |
 
-Snapshot ID: `MCw5OGVlNmRhOTE0NmM1YzViMDU1OTZhY2I2N2Q2MGVmZTU2NjFiODEz`
+Snapshot ID: `MCw0Mjk4OGMxYzVjNzQ2MzE1Yzk3Mjk3Zjc5M2ZmZjRiOTBkZDRkODdi`

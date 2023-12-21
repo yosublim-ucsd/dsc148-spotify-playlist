@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: FRVRFRIDAY",
-  "num_followers": 9452,
+  "num_followers": 9459,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2RhNDE5NDk1MTIzOTkwYjBjZDVlZjA3YzUwOTVjNTgzZTcwZTJh",
+  "snapshot_id": "MCw4M2ViNGE2ZTI0NGE4MjM4OTkyZmVlYTM3MTIxMDk2YTk4Yzg1MWVh",
   "tracks": [
     {
       "added_at": "2023-12-15 05:01:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "eat ya veggies",
+        "url": "https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 161613,
+      "name": "2 time zones",
+      "url": "https://open.spotify.com/track/4IVRrPsmHBk4VpoRPVgzZG"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Come Outside",
         "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 180748,
       "name": "Live Up to My Name",
       "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "eat ya veggies",
-        "url": "https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 161613,
-      "name": "2 time zones",
-      "url": "https://open.spotify.com/track/4IVRrPsmHBk4VpoRPVgzZG"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Jupiter & Mars",
         "url": "https://open.spotify.com/album/3iRKgJqd2XTistB0EAh9QU"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 229624,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/5BqEut8sdVvVMqs60BgwCl"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2023-12-15 05:01:00",

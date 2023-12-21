@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 87111,
+  "num_followers": 87178,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDNmNzliOWMzYzBiMGJjZjdkYWE2ODllMGQxNzRjMWM4ZDMwYWIy",
+  "snapshot_id": "MCwyMWI0MWE0MjI1MDQ4OTc0MzM0ZTI0MmI3MWMyNGVhNTI4NmNiMjli",
   "tracks": [
     {
       "added_at": "2023-11-16 12:00:22",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "I Can Hear The Heart Beating As One",
-        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 343800,
-      "name": "Green Arrow",
-      "url": "https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 255335,
       "name": "I Can Almost See You",
       "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "I Can Hear The Heart Beating As One",
+        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 343800,
+      "name": "Green Arrow",
+      "url": "https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Outer Wilds: Echoes of the Eye (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3mRnCC3DI0SxIy7DtEFvZs"
-      },
-      "artists": [
-        {
-          "name": "Andrew Prahlow",
-          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
-        }
-      ],
-      "duration_ms": 163018,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/4rhmXU8skfmVs6DoDMTkIl"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 160465,
       "name": "Goodbye Sierra",
       "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Outer Wilds: Echoes of the Eye (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3mRnCC3DI0SxIy7DtEFvZs"
+      },
+      "artists": [
+        {
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
+        }
+      ],
+      "duration_ms": 163018,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4rhmXU8skfmVs6DoDMTkIl"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Field Recordings",
+        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 468927,
+      "name": "Tracking Aeroplanes",
+      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "James",
         "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Field Recordings",
-        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 468927,
-      "name": "Tracking Aeroplanes",
-      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Valtari",
         "url": "https://open.spotify.com/album/0ZHkshyLAi9f8DXdj3Z5ph"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Reanimation",
-        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
-      },
-      "artists": [
-        {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 347636,
       "name": "Passage",
       "url": "https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Reanimation",
+        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Love Is...",
+        "url": "https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn"
+      },
+      "artists": [
+        {
+          "name": "The Best Pessimist",
+          "url": "https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ"
+        }
+      ],
+      "duration_ms": 526120,
+      "name": "Above the Fog (Pt.2)",
+      "url": "https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "Love is a Shelter",
         "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 360006,
       "name": "Love is a Shelter",
       "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Love Is...",
-        "url": "https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn"
-      },
-      "artists": [
-        {
-          "name": "The Best Pessimist",
-          "url": "https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ"
-        }
-      ],
-      "duration_ms": 526120,
-      "name": "Above the Fog (Pt.2)",
-      "url": "https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "The American Dollar",
-        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
-      },
-      "artists": [
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Peterson",
-      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Sacrifice & Isolation",
         "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 311555,
       "name": "What the Heart Craves For",
       "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "The American Dollar",
+        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
+      },
+      "artists": [
+        {
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "Peterson",
+      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
-      },
-      "artists": [
-        {
-          "name": "The Aquaerials",
-          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
-        }
-      ],
-      "duration_ms": 364166,
-      "name": "Dust Bowl",
-      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 260346,
       "name": "Total Perspective Vortex",
       "url": "https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
+      },
+      "artists": [
+        {
+          "name": "The Aquaerials",
+          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
+        }
+      ],
+      "duration_ms": 364166,
+      "name": "Dust Bowl",
+      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Floating Above Saturn",
-        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
-      },
-      "artists": [
-        {
-          "name": "Framed By Stars",
-          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
-        }
-      ],
-      "duration_ms": 137986,
-      "name": "Floating Above Saturn",
-      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Northwarder",
         "url": "https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Barren",
-        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
+        "name": "Floating Above Saturn",
+        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
       },
       "artists": [
         {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+          "name": "Framed By Stars",
+          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
         }
       ],
-      "duration_ms": 616188,
-      "name": "Barren",
-      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
+      "duration_ms": 137986,
+      "name": "Floating Above Saturn",
+      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1635,6 +1619,38 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Barren",
+        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 616188,
+      "name": "Barren",
+      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "I Wonder As I Wander",
+        "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
+      },
+      "artists": [
+        {
+          "name": "Deerhoof",
+          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+        }
+      ],
+      "duration_ms": 136846,
+      "name": "I Wonder As I Wander",
+      "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "endless, somewhere",
-        "url": "https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK"
-      },
-      "artists": [
-        {
-          "name": "Nitewalk",
-          "url": "https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "endless, somewhere",
-      "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"
     }
   ],
   "unique_name": "Ambient Post-Rock",

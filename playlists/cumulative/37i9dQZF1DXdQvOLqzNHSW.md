@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-708 songs - 1 day 18 hr 42 min
+709 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Do You Miss Our Dog](https://open.spotify.com/track/40oFc8yhRjLdbGTEeESTqu) | [Fifty Grand](https://open.spotify.com/artist/6XVOloBtqazlT9fufDyyZV), [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Do You Miss Our Dog](https://open.spotify.com/album/5MVFXoJtbpNXxFYkL4BKiu) | 4:37 | 2022-07-20 | 2022-07-29 |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-31 | 2023-05-23 |
 | [Dominos](https://open.spotify.com/track/540qEz21gb3RWi8EYiJbX8) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj) | 4:32 | 2020-12-21 | 2022-04-20 |
+| [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 | 2023-11-21 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/7BVTMH2x5dTcZxfp6rT6ce) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Don't Be Afraid](https://open.spotify.com/album/2AtX3VmF8DDFW3AYsp4Ek5) | 3:23 | 2021-06-25 | 2022-04-20 |
 | [Don't Believe](https://open.spotify.com/track/73v70IvfjLxHBlMsqk1glR) | [Slow Dancer](https://open.spotify.com/artist/2qq8yiTh6GieJeWShMcihO) | [Don't Believe](https://open.spotify.com/album/18Sn9UfuGPsEjTDPrGUZfv) | 3:49 | 2020-12-21 | 2022-04-18 |
 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 | 2023-11-21 |  |
@@ -467,7 +468,7 @@
 | [One Day It'll All Make Sense](https://open.spotify.com/track/41F6Z4ldpPWxy0hr5OUn9z) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [One Day It'll All Make Sense](https://open.spotify.com/album/6MtD3lsWbdX3fVWp5KfzQd) | 1:01 | 2023-08-18 | 2023-10-01 |
 | [One More Try](https://open.spotify.com/track/7MdUPy3vjyCpoRDCXa3JN4) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [breathe.](https://open.spotify.com/album/29l6kAoHxTK5vYF5fsbiRs) | 3:17 | 2023-10-17 | 2023-11-18 |
 | [One Step Closer 1.4 \[2021 Export Wav\] feat\. Panda Bear](https://open.spotify.com/track/2QX2AOmSUydpG1IRK4xVR8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:16 | 2023-09-29 | 2023-10-11 |
-| [One Trick Pony](https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey) | 1:57 | 2023-08-18 |  |
+| [One Trick Pony](https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey) | 1:57 | 2023-08-18 | 2023-12-21 |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2020-12-21 | 2023-08-19 |
 | [Only One](https://open.spotify.com/track/165suvq1v7N0IUK5av3E7z) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/22ex6Jl6wXPt3myCvphAT4) | 4:53 | 2023-05-25 | 2023-11-18 |
 | [Only One](https://open.spotify.com/track/5wlaunvIHcQYdhT23JvRGO) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/7jSJCnwfELIYnTaZcjKWJe) | 4:53 | 2020-12-21 | 2022-04-20 |

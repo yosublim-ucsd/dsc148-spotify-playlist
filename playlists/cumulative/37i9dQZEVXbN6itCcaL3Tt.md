@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,477 songs - 3 day 3 hr 49 min
+1,478 songs - 3 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-29 | 2023-11-19 |
 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2023-06-04 | 2023-06-29 |
 | [Daydreaming](https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:07 | 2022-05-22 | 2022-05-28 |
-| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 |  |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 | 2023-12-21 |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-22 | 2022-05-28 |
 | [dddd](https://open.spotify.com/track/5Ci4cvMBSaCbrn5N531Ubz) | [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Hample](https://open.spotify.com/album/4EVJNFb0HA1qRH9SBqvZX1) | 2:55 | 2022-02-04 | 2022-05-23 |
 | [Deck The Halls](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 | 2022-12-18 | 2022-12-28 |
@@ -1318,6 +1318,7 @@
 | [TURYSTA](https://open.spotify.com/track/1A9coun3RG2nHmxAnajLYG) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [flexxy2115](https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ), [Kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf) | [TURYSTA](https://open.spotify.com/album/4OeyU2KLcFH1OiljSDxUbZ) | 2:48 | 2022-08-05 | 2022-12-01 |
 | [TWÓJ WZROK](https://open.spotify.com/track/4AqDNYLDdAUkLp57vzBtLz) | [GENZIE](https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t), [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH), [Świeży](https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s) | [TWÓJ WZROK](https://open.spotify.com/album/3erTapSt7iQVCYCCSpt2VS) | 3:08 | 2023-02-16 | 2023-03-26 |
 | [TYLE SŁOŃCA](https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [TYLE SŁOŃCA](https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2) | 2:22 | 2023-09-22 | 2023-12-18 |
+| [Tyrka](https://open.spotify.com/track/5m1mhgEkvqDFjLjTykf26Q) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy) | [Tyrka](https://open.spotify.com/album/0k9WosObJjA7aw6mjXMfDT) | 2:06 | 2023-12-20 |  |
 | [Tęsknię sobie](https://open.spotify.com/track/17Tx4usaccaAWCFGGa3EQf) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [UCZTA](https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz) | 4:48 | 2022-04-16 | 2022-05-23 |
 | [Tęsknię sobie](https://open.spotify.com/track/2XrxfDmGGAkU14vQ9QVJeb) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Tęsknię sobie](https://open.spotify.com/album/0Pu3hB0Qsl6g2X2cBtSSlL) | 4:49 | 2022-03-26 | 2022-04-17 |
 | [Ulek i Dawcia](https://open.spotify.com/track/5T8U0S9VDlzyVOKb4pRRPP) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Pracownia](https://open.spotify.com/album/3yhpzS3EaSgNkPoTuvb8CR) | 4:20 | 2023-04-29 | 2023-05-30 |

@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 174000,
       "name": "AQUI TA SMOKE",
       "url": "https://open.spotify.com/track/3SK0dEKhmkhx6EHjZRHm1r"
@@ -6154,7 +6154,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 177501,
       "name": "Dulcy",
       "url": "https://open.spotify.com/track/67lJVLMcvK4nDGtO3HyKDX"
@@ -8174,6 +8174,28 @@
       "duration_ms": 162516,
       "name": "Gaming and chill",
       "url": "https://open.spotify.com/track/0F2xORrS26LJ7z3T6wVeJ7"
+    },
+    {
+      "album": {
+        "name": "Ganas De Ti",
+        "url": "https://open.spotify.com/album/6gC3TQO2WKgOCOBu2oOZTi"
+      },
+      "artists": [
+        {
+          "name": "Pedro Strop",
+          "url": "https://open.spotify.com/artist/3klAQxr0GYEAj8U5NHL7DN"
+        },
+        {
+          "name": "Believe Records Mundial LLC",
+          "url": "https://open.spotify.com/artist/0n5jry9iuYip5qrlNAvwmB"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205833,
+      "name": "Ganas De Ti",
+      "url": "https://open.spotify.com/track/0ppuZf2sYIK7yTDetT48ek"
     },
     {
       "album": {
@@ -12460,7 +12482,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 166071,
       "name": "LOS PANAS",
       "url": "https://open.spotify.com/track/1HFdOFOZNd50oPbhfP6dGs"
@@ -18366,7 +18388,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 162244,
       "name": "Quien Es Dei V?",
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
@@ -19066,7 +19088,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 136280,
       "name": "Rochy RD,Carlos Boutique Por El Respeto",
       "url": "https://open.spotify.com/track/3mSCh8agmgDBkSiAMM74To"

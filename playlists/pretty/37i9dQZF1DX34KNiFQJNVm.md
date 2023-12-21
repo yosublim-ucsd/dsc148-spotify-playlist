@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem L7NNON e Veigh, Anitta, Ivete Sangalo e Ludmilla, Filipe Ret e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,220 likes - 99 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,604 likes - 99 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 44 | [Marquinha de Fita](https://open.spotify.com/track/3WlYgEVYoaR4Itnq3a1loQ) | [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Virou Pagode \#4](https://open.spotify.com/album/6ceBUQqZTs7I7QNOqSTsMI) | 2:38 |
 | 45 | [Trader \(Estrela Bet Freestyle\)](https://open.spotify.com/track/1tAW2wlsEhFiueIn9pYRTS) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Trader \(Estrela Bet Freestyle\)](https://open.spotify.com/album/2T3nm2IFr5wJtFsskcMQN2) | 2:47 |
 | 46 | [Ta Bom](https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Ta Bom](https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl) | 2:54 |
-| 47 | [Sensação de Liberdade](https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 2:58 |
+| 47 | [Sensação de Liberdade](https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 2:58 |
 | 48 | [Sozinho](https://open.spotify.com/track/0nNYbrbitdEFOOdDaWfAca) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Sozinho](https://open.spotify.com/album/6PkMsrQPEEzVor6iq8G7aT) | 2:36 |
 | 49 | [Sempre Assim](https://open.spotify.com/track/6iRDipyGYGCeYPFVyE2I3n) | [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Sempre Assim](https://open.spotify.com/album/5WeXb6SAo6OOfNgiJ5liI3) | 2:45 |
 | 50 | [De Outro Planeta \- Ao Vivo](https://open.spotify.com/track/0jrgveHZp6ntQCWrMy7vxa) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Guerêguerê, Bloco 5 \(Ao Vivo\)](https://open.spotify.com/album/09S2U7LEOpEPPOfMRAGxvu) | 3:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Dançando na Beira](https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Dançando na Beira](https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8) | 2:43 |
 | 99 | [Dezembro](https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Dezembro](https://open.spotify.com/album/6YTd5CGlZO7L1pnUSgvSvl) | 3:48 |
 
-Snapshot ID: `MCw3NTAxNjI2YzE1NGRiZWRmYzEwNWFiNjMzYmEzYzg0YmRkOWFiMTY0`
+Snapshot ID: `MCxkYmM2YWY1Y2U3YzI0ZjZiMjAxZTRkMWQ0YjhmYzRlMThkOGIxYjg0`

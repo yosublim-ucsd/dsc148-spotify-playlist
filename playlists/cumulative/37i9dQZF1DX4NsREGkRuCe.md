@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-506 songs - 1 day 1 hr 25 min
+507 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Lowkey!](https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Lowkey!](https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA) | 3:33 | 2023-10-13 |  |
 | [Maame Water](https://open.spotify.com/track/3jbTDcDDTAg8knx5dZgYFP) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Maame Water](https://open.spotify.com/album/4On2TPasGNGWc7yfkCi8zI) | 2:40 | 2022-10-13 | 2022-10-18 |
 | [Machala](https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I) | 2:34 | 2022-08-08 | 2022-09-10 |
-| [MAGICIAN](https://open.spotify.com/track/1TNMWejP82ZdXQ7qVszEAo) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [RAVI](https://open.spotify.com/album/2owJ8p6Y6XVkxyJKgPXGuQ) | 2:28 | 2023-12-01 |  |
+| [MAGICIAN](https://open.spotify.com/track/1TNMWejP82ZdXQ7qVszEAo) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [RAVI](https://open.spotify.com/album/2owJ8p6Y6XVkxyJKgPXGuQ) | 2:28 | 2023-12-01 | 2023-12-21 |
 | [Maitama \(Going\)](https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Maitama \(Going\)](https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5) | 3:26 | 2022-11-19 | 2022-11-26 |
 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 | 2022-08-25 | 2023-01-21 |
 | [Malaika](https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Malaika](https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV) | 3:23 | 2023-11-03 |  |
@@ -341,6 +341,7 @@
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-06-08 | 2023-12-15 |
 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-08-03 | 2023-11-20 |
 | [Oliver Twist](https://open.spotify.com/track/1WoJRTVJ2IKH3BZlmid85z) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [VOICENOTE \(EP\)](https://open.spotify.com/album/1UG3wqX23dJYi9cCFyfdxL) | 2:29 | 2022-07-28 | 2022-08-09 |
+| [OMG](https://open.spotify.com/track/3gVJPWiCXebHMrpCMWyXZN) | [SKN The Divine](https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK) | [OMG](https://open.spotify.com/album/2met1gGQGPLB6BlD6vRreN) | 2:53 | 2023-12-15 |  |
 | [Omo Ologo](https://open.spotify.com/track/40rz3cXhhxGAVBb6nuwwTK) | [Pasuma](https://open.spotify.com/artist/2icl63UROfGjWheC4XkcnQ), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Omo Ologo](https://open.spotify.com/album/5pQLRfF7JO1puAVWi6HO2w) | 3:12 | 2022-09-30 | 2022-10-14 |
 | [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 | 2023-03-10 | 2023-03-18 |
 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 | 2022-06-08 | 2023-09-29 |

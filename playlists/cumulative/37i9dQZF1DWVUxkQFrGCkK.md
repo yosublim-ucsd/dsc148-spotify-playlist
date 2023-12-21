@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-379 songs - 1 day 4 hr 24 min
+380 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 | 2023-04-20 | 2023-08-02 |
 | [Dog Days](https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Dog Days](https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8) | 3:43 | 2023-11-02 |  |
 | [Doin Ya Thang](https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2) | 6:55 | 2023-04-13 | 2023-06-03 |
-| [Doin Ya Thang](https://open.spotify.com/track/2KnMG7ROpc76hMKobBiocK) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/4EMuJFBM5Cx9R5SaX4ZcuI) | 6:55 | 2023-06-01 |  |
+| [Doin Ya Thang](https://open.spotify.com/track/2KnMG7ROpc76hMKobBiocK) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/4EMuJFBM5Cx9R5SaX4ZcuI) | 6:55 | 2023-06-01 | 2023-12-21 |
+| [Doin' Ya Thang](https://open.spotify.com/track/3j8xObsGOilqWptFLy8ngi) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin' Ya Thang](https://open.spotify.com/album/69WKtxNECUvG0G6mbSfLEg) | 6:55 | 2023-12-14 |  |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2023-04-13 |  |
 | [Don't Truss ft\. Caitlyn Scarlett](https://open.spotify.com/track/3JO36unveXPBt4aeE8ezN7) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Don't Truss](https://open.spotify.com/album/1zfhDwtp0cUIpkIalHpCCG) | 3:45 | 2023-09-28 |  |
 | [Don't Turn it Off \- Bella Boo Remix](https://open.spotify.com/track/4lJElmOrRO0egVyzyVuJd2) | [40 Thieves](https://open.spotify.com/artist/1MLdyxgahy0T5ZdTpe4Jnc), [Qzen](https://open.spotify.com/artist/20EM84j9V8c6AzgzRyvuFF), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Don't Turn it Off \(Session Victim & Bella Boo Remixes\)](https://open.spotify.com/album/6eBQ6LBEleBkQLhoMr337w) | 5:45 | 2023-04-13 |  |

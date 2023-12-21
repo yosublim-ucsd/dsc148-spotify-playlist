@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 116350,
+  "num_followers": 116416,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzk2MGEwZmM4YWMwN2FlMjJiYmQxM2VlMTk2OGMyNWRlNDJiYzFi",
+  "snapshot_id": "MCw1OWFhODAxYTJkNWNmOTI3NmIyZDYwNTA0M2ViYjFkN2MyYWMzZWVm",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -867,6 +867,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Gold (Live)",
         "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 499053,
       "name": "Gold - Live",
       "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Calm the Storm (Live)",
-        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
-      },
-      "artists": [
-        {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
-        }
-      ],
-      "duration_ms": 311406,
-      "name": "Calm the Storm (Live)",
-      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1035,26 +1035,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Neighbor Songs",
-        "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
+        "name": "Altars",
+        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
       },
       "artists": [
         {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        },
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
         }
       ],
-      "duration_ms": 241600,
-      "name": "Daughters of Zion",
-      "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
+      "duration_ms": 300826,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1075,18 +1067,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Altars",
-        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
+        "name": "Neighbor Songs",
+        "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        },
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
         }
       ],
-      "duration_ms": 300826,
-      "name": "Real Thing",
-      "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
+      "duration_ms": 241600,
+      "name": "Daughters of Zion",
+      "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "THIS MOMENT",
-        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 176624,
-      "name": "THIS MOMENT",
-      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Another In The Fire (Studio)",
         "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 265518,
       "name": "Another In The Fire - Studio",
       "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "THIS MOMENT",
+        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 176624,
+      "name": "THIS MOMENT",
+      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1447,38 +1447,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 320080,
-      "name": "You Are Fullness",
-      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
       },
@@ -1523,6 +1491,38 @@
       "duration_ms": 284760,
       "name": "Savior Of The World - Single Version",
       "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 320080,
+      "name": "You Are Fullness",
+      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Turner",
-          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
-        }
-      ],
-      "duration_ms": 261886,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "In The Hands Of Christ My King - EP",
         "url": "https://open.spotify.com/album/25INyQiDHJoWxazLARq7Cp"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/3kB9ZBtjwF5PIVNm1Rw8lh"
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
       },
       "artists": [
         {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+          "name": "Jonathan Turner",
+          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
         }
       ],
-      "duration_ms": 308560,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu"
+      "duration_ms": 261886,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/3kB9ZBtjwF5PIVNm1Rw8lh"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Kingdom Dreamers",
         "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
       },
@@ -1723,50 +1723,6 @@
       "duration_ms": 297070,
       "name": "Kingdom Dreamers",
       "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "The Way Home",
-        "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
-      },
-      "artists": [
-        {
-          "name": "The McClures",
-          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Only Have One",
-      "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "REBELS",
-        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        }
-      ],
-      "duration_ms": 390579,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1791,6 +1747,50 @@
       "duration_ms": 206923,
       "name": "For the Time We Have",
       "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "REBELS",
+        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "duration_ms": 390579,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
+      },
+      "artists": [
+        {
+          "name": "The McClures",
+          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Only Have One",
+      "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Have The Name",
-        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 346591,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Here Comes This Dreamer (Live)",
         "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 253756,
       "name": "Heaven's Well - Live",
       "url": "https://open.spotify.com/track/1JQzeSYo86SvhiU5dmCDqK"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "We Have The Name",
+        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 346591,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
     },
     {
       "added_at": "2021-06-12 04:00:40",

@@ -1,12 +1,12 @@
 {
   "description": "Playlist oficial del podcast <a href=\"spotify:show:1MAoOdM2Xx9TayWrXQ2MCj\"> Momentos Chingones</a> donde tendr\u00e1s las noticias m\u00e1s frescas y los hits del momento de la M\u00fasica Mexicana.",
-  "num_followers": 16048,
+  "num_followers": 16150,
   "original_name": "Momentos Chingones con rolitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjQ1NTMyMzc3N2ZhMzEwYWZiYWYyNDc5NjUzZDNjY2ZkM2FjYTVj",
+  "snapshot_id": "MCxjNTI2NjlkMmM4OGNiZGExODgwYjEyMTEyOGI0ZTY2ZTJjYjVlNmIz",
   "tracks": [
     {
       "added_at": "2023-11-14 17:41:48",
@@ -79,6 +79,30 @@
       "duration_ms": 140735,
       "name": "HOUSE OF LUX",
       "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "added_at": "2023-12-20 19:46:39",
+      "album": {
+        "name": "Disfrutando El Proceso",
+        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Una Ruedita",
+      "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
     },
     {
       "added_at": "2023-11-06 16:35:55",
@@ -163,22 +187,6 @@
       "duration_ms": 250026,
       "name": "Mi Vida Eres T\u00fa",
       "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
-    },
-    {
-      "added_at": "2023-11-14 17:41:48",
-      "album": {
-        "name": "Adicto Al Exceso",
-        "url": "https://open.spotify.com/album/6XLf9UxGfBAwRY8EbuScNY"
-      },
-      "artists": [
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 176504,
-      "name": "Adicto Al Exceso",
-      "url": "https://open.spotify.com/track/2GkfVnlWA9YZ0bzOW29PyK"
     },
     {
       "added_at": "2023-11-06 16:35:55",
@@ -401,6 +409,22 @@
       "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
     },
     {
+      "added_at": "2023-12-20 19:46:39",
+      "album": {
+        "name": "La Vampiresa",
+        "url": "https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T"
+      },
+      "artists": [
+        {
+          "name": "Explosion Colombiana De Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop"
+        }
+      ],
+      "duration_ms": 314398,
+      "name": "La Vampiresa",
+      "url": "https://open.spotify.com/track/06uyFPb72xxh5takZ206Of"
+    },
+    {
       "added_at": "2023-11-27 16:08:16",
       "album": {
         "name": "Pa Las Vibras",
@@ -597,26 +621,6 @@
       "url": "https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL"
     },
     {
-      "added_at": "2023-11-14 17:41:48",
-      "album": {
-        "name": "Cu\u00e9ntame",
-        "url": "https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 176508,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM"
-    },
-    {
       "added_at": "2023-11-06 16:35:55",
       "album": {
         "name": "El D\u00eda De Los Muertos",
@@ -759,30 +763,6 @@
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
-    },
-    {
-      "added_at": "2023-11-27 16:08:16",
-      "album": {
-        "name": "La Dinast\u00eda Fern\u00e1ndez (La Derrota / Volver, Volver)",
-        "url": "https://open.spotify.com/album/2DtHnffzhLo8A3cjT9yPi9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 211319,
-      "name": "La Dinast\u00eda Fern\u00e1ndez - La Derrota / Volver, Volver",
-      "url": "https://open.spotify.com/track/25iwxsxU8XN3bX14JQWiKr"
     },
     {
       "added_at": "2023-11-06 16:35:55",
@@ -940,7 +920,7 @@
       "added_at": "2023-11-16 19:13:00",
       "album": {
         "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
+        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
       },
       "artists": [
         {
@@ -958,7 +938,7 @@
       ],
       "duration_ms": 178150,
       "name": "Que Me Entierren Con la Banda",
-      "url": "https://open.spotify.com/track/6Hcz9PRsiOpU051JQaHvz1"
+      "url": "https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN"
     }
   ],
   "unique_name": "Momentos Chingones con rolitas",

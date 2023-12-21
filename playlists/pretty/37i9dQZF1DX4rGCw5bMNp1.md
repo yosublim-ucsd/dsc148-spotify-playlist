@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,063 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,096 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 28 | [Kold Actions](https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Hot Wire 81 \(feat\. Richard Kirch, Sylvester Boines, Jimmy Schutte\) \[Blues Power\]](https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS) | 7:17 |
 | 29 | [Rock Me Baby](https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC) | [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL) | [The Sonet Blues Story](https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY) | 3:58 |
 | 30 | [Call My Wife](https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1) | [Linsey Alexander](https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan) | [Come Back Baby](https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb) | 4:47 |
-| 31 | [Everything's Gonna Be All Right](https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 4:39 |
-| 32 | [Worry, Worry](https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3) | [Johnny "Big Moose" Walker](https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU) | [Living Chicago Blues, Vol\. 2](https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R) | 4:16 |
+| 31 | [Worry, Worry](https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3) | [Johnny "Big Moose" Walker](https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU) | [Living Chicago Blues, Vol\. 2](https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R) | 4:16 |
+| 32 | [Everything's Gonna Be All Right](https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 4:39 |
 | 33 | [Gotta Move On](https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg) | [Eddy Clearwater](https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS) | [West Side Strut](https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k) | 4:40 |
 | 34 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
 | 35 | [Driving Wheel](https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC) | [Johnny Laws](https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6) | [Blues Burnin' In My Soul](https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MCw3MGQ1NTlmMzgyZTJkMTNmYWM3ZDRlMGM0Y2FmOTBkMmZkZjhlNmY5`
+Snapshot ID: `MCxhMTEzZDNlYmRjNDZiNzdlOTZhNjhkYWZhZjg3NmI3ZjI3MTRkOWJj`

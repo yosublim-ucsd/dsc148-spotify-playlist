@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 46755,
+  "num_followers": 46871,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDYzMTQ2OTlhZTBkYzNlNGViZmVhOWU5ZDY4OTAzZjA4NzNkZTUx",
+  "snapshot_id": "MCw3MWJiYjcwODcyYTQxNmQ2MTcyMzdmMzFmZGExZjE5MzE4NDgzYWMx",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Betweenatna",
+        "url": "https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8"
+      },
+      "artists": [
+        {
+          "name": "Betweenatna",
+          "url": "https://open.spotify.com/artist/74xbHp6MeHavk2G1OaIeNT"
+        }
+      ],
+      "duration_ms": 242155,
+      "name": "Lay chafi",
+      "url": "https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Blinding the Masses",
         "url": "https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 231000,
       "name": "Sidi Arbi 2",
       "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Betweenatna",
-        "url": "https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8"
-      },
-      "artists": [
-        {
-          "name": "Betweenatna",
-          "url": "https://open.spotify.com/artist/74xbHp6MeHavk2G1OaIeNT"
-        }
-      ],
-      "duration_ms": 242155,
-      "name": "Lay chafi",
-      "url": "https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Znousland 2",
-        "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
+        "name": "GILGAMESH",
+        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
       },
       "artists": [
         {
-          "name": "Znous",
-          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
+          "name": "Acrassicauda",
+          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Khoroto (Gultrah Sound System)",
-      "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
+      "duration_ms": 188734,
+      "name": "The Cost Of Everything And The Value Of Nothing",
+      "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -395,18 +395,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "GILGAMESH",
-        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
+        "name": "Znousland 2",
+        "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
       },
       "artists": [
         {
-          "name": "Acrassicauda",
-          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
+          "name": "Znous",
+          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
         }
       ],
-      "duration_ms": 188734,
-      "name": "The Cost Of Everything And The Value Of Nothing",
-      "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
+      "duration_ms": 242000,
+      "name": "Khoroto (Gultrah Sound System)",
+      "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Summoning the Bygones",
-        "url": "https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx"
+        "name": "Color Blind",
+        "url": "https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy"
       },
       "artists": [
         {
-          "name": "BILOCATE",
-          "url": "https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe"
+          "name": "Massive Scar Era",
+          "url": "https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D"
         }
       ],
-      "duration_ms": 524840,
-      "name": "The Tragedy Within",
-      "url": "https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC"
+      "duration_ms": 222156,
+      "name": "Unfollow",
+      "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"
     }
   ],
   "unique_name": "Arab Metal",

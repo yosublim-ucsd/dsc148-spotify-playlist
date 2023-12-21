@@ -1416,6 +1416,24 @@
     {
       "album": {
         "name": "Charismatic",
+        "url": "https://open.spotify.com/album/2Sh1TDbKzFr7UxZdbnnX17"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "Charismatic",
+      "url": "https://open.spotify.com/track/4JhKLjRioxSZ9AkrL8pPcM"
+    },
+    {
+      "album": {
+        "name": "Charismatic",
         "url": "https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw"
       },
       "artists": [
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 152755,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo"

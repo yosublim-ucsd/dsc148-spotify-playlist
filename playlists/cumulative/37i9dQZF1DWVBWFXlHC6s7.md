@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-58 songs - 3 hr 38 min
+59 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Tudo Em cima](https://open.spotify.com/track/20fkpeajZFYKUnXZsWuldU) | [Leila Pinheiro](https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb) | [Leila Pinheiro](https://open.spotify.com/album/61LAWCyFzyJfqigeCacb6G) | 2:58 | 2023-01-20 |  |
 | [Tô Parado Na Tua](https://open.spotify.com/track/5LUjfo9lReS6zsPyesaJAV) | [Almir Ricardi](https://open.spotify.com/artist/6LycV8XSGC3KMwcLF08kxb) | [Festa Funk](https://open.spotify.com/album/3mPVlmsaql2TngiYZ0hf9p) | 4:47 | 2023-01-20 |  |
 | [Vidigal](https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 3:37 | 2023-01-20 |  |
-| [Você Só Quer Me Comer](https://open.spotify.com/track/7woovMgaU7UwFJXum9AGqI) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Você Só Quer Me Comer](https://open.spotify.com/album/5Njq5t3CBJZ4HIzU2NzxiN) | 2:58 | 2023-01-20 |  |
+| [Você Só Quer Me Comer](https://open.spotify.com/track/15UdoDLmAJCNZHAsAkqxOS) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [O Que Me Cabe](https://open.spotify.com/album/3nwMkcMmZB05ctmM5fXBN7) | 2:57 | 2023-09-01 |  |
+| [Você Só Quer Me Comer](https://open.spotify.com/track/7woovMgaU7UwFJXum9AGqI) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Você Só Quer Me Comer](https://open.spotify.com/album/5Njq5t3CBJZ4HIzU2NzxiN) | 2:58 | 2023-01-20 | 2023-12-21 |
 
 \*This playlist was first scraped on 2023-02-05. Prior content cannot be recovered.

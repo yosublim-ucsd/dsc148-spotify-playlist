@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,084 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,344 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 21 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/6JJWQxzbGTeI9rka4f5sJJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Thanks For The Memory..\. The Great American Songbook Vol\. IV](https://open.spotify.com/album/6lRgrE7kp3GkkuZSnYdYAt) | 3:09 |
 | 22 | [Please Come Home For Christmas](https://open.spotify.com/track/6EHt0F5hYO9HODSyeKjDcy) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [A Very Special Christmas \- Essential](https://open.spotify.com/album/3PFnE9aYFIxWzI1INS7lY6) | 2:52 |
 | 23 | [Christmas Everyday](https://open.spotify.com/track/4uKM6IhPAkcyUGH0sSSlDN) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 2:40 |
-| 24 | [Love Has Come](https://open.spotify.com/track/1vK4GktAHoF73cIA8tGxRI) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [A Christmas Album](https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs) | 4:01 |
+| 24 | [Christmas At Our House](https://open.spotify.com/track/38BQ3pZGq9MMNSguqGKZc5) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Christmas At Our House](https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf) | 2:52 |
 | 25 | [White Christmas](https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Merry Christmas Baby / White Christmas](https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp) | 3:02 |
-| 26 | [Christmas At Our House](https://open.spotify.com/track/38BQ3pZGq9MMNSguqGKZc5) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Christmas At Our House](https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf) | 2:52 |
+| 26 | [Love Has Come](https://open.spotify.com/track/1vK4GktAHoF73cIA8tGxRI) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [A Christmas Album](https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs) | 4:01 |
 | 27 | [Merry Christmas Baby](https://open.spotify.com/track/44nlugAWj5v56iRyGa4ieE) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:32 |
 | 28 | [Winterlude](https://open.spotify.com/track/6h8laPks98zPizQ5qahy40) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:22 |
-| 29 | [Christmas In My Home Town](https://open.spotify.com/track/6g7bSMPsAcO1BYHueLyXQ9) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Christmas In My Hometown \(Expanded Edition\)](https://open.spotify.com/album/0jnOrnjoEhB5tEMOFyzXPz) | 2:04 |
-| 30 | [Christmastime](https://open.spotify.com/track/414Cn0i6PWFZzvxfzcLSSV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:31 |
+| 29 | [Christmastime](https://open.spotify.com/track/414Cn0i6PWFZzvxfzcLSSV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:31 |
+| 30 | [Christmas In My Home Town](https://open.spotify.com/track/6g7bSMPsAcO1BYHueLyXQ9) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Christmas In My Hometown \(Expanded Edition\)](https://open.spotify.com/album/0jnOrnjoEhB5tEMOFyzXPz) | 2:04 |
 | 31 | [My Christmas Tree](https://open.spotify.com/track/1x6KtTuPUDLHEpmQHjzzwh) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations' Christmas Card](https://open.spotify.com/album/6I2JnGSREqEgFPnSXkFxlW) | 3:18 |
-| 32 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 |
-| 33 | [Old Toy Trains](https://open.spotify.com/track/2Og7CqkL9EIknatnURMLgP) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [That Christmas Feeling](https://open.spotify.com/album/2xlhfPgJiHs0MAVhK1QR2g) | 2:20 |
+| 32 | [Old Toy Trains](https://open.spotify.com/track/2Og7CqkL9EIknatnURMLgP) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [That Christmas Feeling](https://open.spotify.com/album/2xlhfPgJiHs0MAVhK1QR2g) | 2:20 |
+| 33 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 |
 | 34 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
 | 35 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BUJ3RhKqT2lFsrEkKzm8t) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago Christmas: What's It Gonna Be, Santa?](https://open.spotify.com/album/2IVVlq6ue3yaJTEeaQEnD5) | 3:28 |
 | 36 | [When You Wish Upon A Star](https://open.spotify.com/track/7DfiVEGVGAF85DGMEmtgqc) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Collected Additional Masters](https://open.spotify.com/album/7aibAYQuwa2cU2OEmidqbt) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 49 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 |
 | 50 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 |
 
-Snapshot ID: `MCwyNmJmOTllZmIzZjIzZDc2ZDFmN2FlNzFjNWU5MWM5ZGY1NjU1MTcz`
+Snapshot ID: `MCwxZTdiNWMxN2FmOGZlOTgxZjljYjk5NDlmMjFkN2M1NWRkZWZiZjFm`

@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-63 songs - 5 hr 7 min
+64 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Atom Funk](https://open.spotify.com/track/6STrTTajjivstqyTexucWt) | [Pepe Bradock \(Trankilou\)](https://open.spotify.com/artist/0jp5Tq1Vz6CovukgysASuu) | [French Touch \- Electronic Music Made In France](https://open.spotify.com/album/4oXFwq0gvoEYJxbChqZpYg) | 6:33 | 2023-10-13 |  |
 | [Block Rockin](https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Block Rockin](https://open.spotify.com/album/40ePY3llv8e7RNwAQ5jFxf) | 4:58 | 2023-10-13 |  |
 | [Changing Channels](https://open.spotify.com/track/1wKGelyxxXFwqvc2kTl3sw) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Changing Channels / Hole Away](https://open.spotify.com/album/19Lb00gXUDQJH3WPtvuLl0) | 7:14 | 2023-10-13 |  |
+| [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 | 2023-12-20 |  |
 | [em & aitch](https://open.spotify.com/track/7jAObx5xXwxz4ql5xQObNe) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [archive 09\-10](https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3) | 4:34 | 2023-10-13 |  |
 | [Fever](https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 2:52 | 2023-10-13 | 2023-11-24 |
 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 | 2023-10-13 |  |
@@ -28,7 +29,7 @@
 | [Higher](https://open.spotify.com/track/5qyIcrXTSEqTBUXLvFPN04) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Holy Spirit](https://open.spotify.com/album/3g3kqsAaeqmDZGG12EwSDL) | 5:00 | 2023-10-13 |  |
 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 | 2023-10-13 |  |
 | [Higher Than Ever Before \- ATRIP Remix](https://open.spotify.com/track/1sWXjZ8rxRz51xuzPMlBhf) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Higher Than Ever Before \(ATRIP Remix\)](https://open.spotify.com/album/0jKKn6llm1Ty32tDrfnHE5) | 3:19 | 2023-11-23 |  |
-| [I Can See](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [I Can See](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 | 2023-10-13 |  |
+| [I Can See](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [I Can See](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 | 2023-10-13 | 2023-12-21 |
 | [I Can't Help but Love](https://open.spotify.com/track/2svuSVmTq5WdHHVDBlobVS) | [David R\. Trask](https://open.spotify.com/artist/7G37dqQpR4pzSxS553aBJG) | [I Can't Help but Love](https://open.spotify.com/album/0IqxR7phNjVfHArCG7LEMR) | 3:39 | 2023-10-13 |  |
 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 | 2023-11-23 |  |
 | [I Like It](https://open.spotify.com/track/3UedDxQdGoEdw3cV5eLCJS) | [Madcliff](https://open.spotify.com/artist/4XVNXuvUEcareBngNTDDX5) | [Mad Cliff](https://open.spotify.com/album/0OxzPeW4hJ6GLOqGu4xKpN) | 3:56 | 2023-10-13 |  |

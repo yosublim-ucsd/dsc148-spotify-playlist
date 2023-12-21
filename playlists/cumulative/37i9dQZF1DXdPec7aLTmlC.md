@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-759 songs - 1 day 16 hr 6 min
+760 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Grace Kelly](https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox) | 3:07 | 2019-07-06 | 2019-08-27 |
 | [Green Green Grass](https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass](https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC) | 2:47 | 2022-04-21 | 2022-12-12 |
 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2022-11-10 | 2023-12-11 |
+| [Green Green Grass](https://open.spotify.com/track/6UbM3KyXtvfZr06ixZhea1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 2:47 | 2023-09-28 |  |
 | [Grip](https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Grip](https://open.spotify.com/album/1TwCR17ZsRgWTo00mmlzqq) | 3:18 | 2019-05-26\* | 2020-05-22 |
 | [Grow Old with Me](https://open.spotify.com/track/6xjxMWGsprmtUVMDaMhgH0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:02 | 2019-07-10 | 2020-01-03 |
 | [Gut Feeling](https://open.spotify.com/track/3cAeMlAUiqsdqNuauVk0Xy) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Gut Feeling](https://open.spotify.com/album/3Ze9vQd6aABkCkHPX9021n) | 3:02 | 2019-07-11 | 2019-11-09 |
@@ -474,7 +475,7 @@
 | [Need You](https://open.spotify.com/track/0EQeui6OBMzqJ3Z3wCOzZh) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Need You](https://open.spotify.com/album/1IqpPKPKVpu1VWZ67VnHPB) | 3:02 | 2019-07-27 | 2019-08-09 |
 | [Never Felt A Love Like This \(with Hook N Sling\) \[feat\. Dotan\]](https://open.spotify.com/track/1mMvahhW2Oz9waG8UTQnI4) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Church](https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU) | 3:35 | 2020-03-27 | 2022-04-09 |
 | [Never Go Wrong](https://open.spotify.com/track/2K036A2TOlSr13Ej8s6ODk) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Never Go Wrong](https://open.spotify.com/album/4iOH0UQ1KxmHgd37QXPEb0) | 2:35 | 2022-03-24 | 2022-04-19 |
-| [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-11-10 |  |
+| [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-11-10 | 2023-12-21 |
 | [Never Knew](https://open.spotify.com/track/64m1kkM9KuRTZ5tLuTp7tU) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Never Knew](https://open.spotify.com/album/1q4cwnR7jqCge6gkVwgOl4) | 3:13 | 2019-12-25 | 2020-08-14 |
 | [Never Let Me Down](https://open.spotify.com/track/0Je3J2ml1lrnTLXXIlxrvR) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Let Me Down](https://open.spotify.com/album/5qrCoCKxWEDf5y5yERNArR) | 2:33 | 2020-06-12 | 2020-06-29 |
 | [Never Love You Again \(with Little Big Town & Bryn Christopher\)](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again \(with Little Big Town & Bryn Christopher\)](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 | 2021-07-30 | 2022-07-29 |

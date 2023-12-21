@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA",
-  "num_followers": 93109,
+  "num_followers": 93151,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjY0NmVmMmYwMmY5YmU4NDg1ZTg5OWRjYmQ1OTIxMGU3Nzk3MTcx",
+  "snapshot_id": "MCxjZDFmNGNmNmFjZjBhYzhlMDMwZjIwN2U0OTA3N2E5ZWNkZjNlYTNm",
   "tracks": [
     {
       "added_at": "2023-12-14 23:01:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
+        "name": "Maltempo",
+        "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 172601,
+      "name": "Storia Infinita (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
         "name": "Re Mida (Aurum)",
         "url": "https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 164301,
       "name": "Gigol\u00f2 (feat. Sfera Ebbasta & Capo Plaza)",
       "url": "https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "Bisous",
-        "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "Timongothekeys",
-          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Bisous",
-      "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Maltempo",
-        "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
+        "name": "Bisous",
+        "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
       },
       "artists": [
         {
@@ -1124,13 +1124,13 @@
           "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
         },
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
         }
       ],
-      "duration_ms": 172601,
-      "name": "Storia Infinita (feat. Baby Gang)",
-      "url": "https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a"
+      "duration_ms": 154960,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "DIOSA (feat. Peppe Soks) [Remix]",
-        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
-      },
-      "artists": [
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "DIOSA (feat. Peppe Soks) - Remix",
-      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Scialla Semper (Emodrill Repack)",
         "url": "https://open.spotify.com/album/5O1eP0CV9le8jxp40zYee3"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 249303,
       "name": "Polo Nord - [C+N Progressive Mix]",
       "url": "https://open.spotify.com/track/5hxiymclWemYbj60cN4Dht"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "DIOSA (feat. Peppe Soks) [Remix]",
+        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
+      },
+      "artists": [
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "duration_ms": 143641,
+      "name": "DIOSA (feat. Peppe Soks) - Remix",
+      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
         "name": "Suave (feat. VillaBanks)",
         "url": "https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 197837,
       "name": "Suave (feat. VillaBanks)",
       "url": "https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2023-12-14 23:01:00",

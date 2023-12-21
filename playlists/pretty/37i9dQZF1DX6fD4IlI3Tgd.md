@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,688 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,691 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 15 | [Choir Roads](https://open.spotify.com/track/6VOLVcWyy5Rf0vSPYYN4JT) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Tálita](https://open.spotify.com/artist/18OPt8obRRChUWsZjRVqUx) | [Choir Roads](https://open.spotify.com/album/6R2CCusiNwKkFUj8HoHOYi) | 3:17 |
 | 16 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 |
 | 17 | [Sarrinho](https://open.spotify.com/track/2LrmCYwhfOndR2ZJaPrL3T) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Sarrinho](https://open.spotify.com/album/6HuiKWHRMzQ1qT2ebWazCW) | 2:47 |
-| 18 | [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 |
+| 18 | [Amiga Mía](https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU) | 3:40 |
 | 19 | [Teleport \- Future Mix](https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Future Memories](https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u) | 6:23 |
 | 20 | [Lambada](https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Lambada](https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV) | 3:31 |
 | 21 | [Playa Grande](https://open.spotify.com/track/6IsMnhtDLKG0h4H8pmQVRw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/0P90stLNlBJtamGSsokK4g) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 59 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
 | 60 | [Cantalo](https://open.spotify.com/track/6UIqRcSumEv1ITtXB3rc8X) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Cantalo](https://open.spotify.com/album/1ID1oLpVJ0wcBeYblNRiQn) | 4:02 |
 
-Snapshot ID: `MCwzYWE0OWY1NjU1ZmU1M2U0YTc2Mjc1ZTkzYjY2OGE5ZmE4N2U1Yzdk`
+Snapshot ID: `MCxjY2FlMjRmMTMyZjVjNjYyYzQyNDhlYjJjMDgxNjMxYTA4ZDY2NDZh`

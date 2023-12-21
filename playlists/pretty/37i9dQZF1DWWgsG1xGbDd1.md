@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,163 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,225 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Crabwalking](https://open.spotify.com/track/4jYXEy2Rv5V5jcf4JAiR7o) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:15 |
 | 60 | [Afrikaan Beat](https://open.spotify.com/track/3fFXhwkwFDhcCuEjzm4EqM) | [Lester Sterling](https://open.spotify.com/artist/0bxvspvRBbcpshzQFSqKVv) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:56 |
 
-Snapshot ID: `MCxlNTFiNGYzM2ExMGVjY2MxMTIyODRjZmY0N2VlZDQ0MjQ3YzJhOTBh`
+Snapshot ID: `MCwyNDM5OTQzZDgzYmIxYjJiMDMxYTM0MTZlZmM0MWUyNTVlNWNlNzQ4`

@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-337 songs - 15 hr 34 min
+338 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Håper du er lykkelig nå](https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5), [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7) | 2:59 | 2021-12-16 | 2022-11-14 |
 | [Håper du er lykkelig nå](https://open.spotify.com/track/75iyWZ7FM8t5dm1nAvFo4d) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/6d3FqU5T8ReEejG5a8lUFs) | 2:59 | 2021-12-16 | 2022-07-26 |
 | [Hæljetur](https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hæljetur](https://open.spotify.com/album/2GbMwa9XGFYyrZd5fvjIy7) | 2:25 | 2021-12-16 | 2022-07-28 |
+| [Hæljetur \(feat\. Hagle\)](https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR) | [DJ MøMø](https://open.spotify.com/artist/6ca1Pm4bp04bPJF1dfhmqu), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [DJ MøMø presenterer: Bukkene Bruse på badeland](https://open.spotify.com/album/6HaCd9C4gfNGWNsOc7fvIH) | 1:56 | 2023-12-14 |  |
 | [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 | 2023-01-12 | 2023-07-16 |
 | [Høl i potta](https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Blåsemafian](https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2) | [Høl i potta](https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD) | 2:20 | 2022-05-19 | 2023-06-20 |
 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-13 |  |
@@ -197,7 +198,7 @@
 | [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 | 2022-10-13 | 2023-09-07 |
 | [Kursiv](https://open.spotify.com/track/0YyED0H9S499O2c8U7ydtV) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR) | [Kursiv](https://open.spotify.com/album/1zWg0ttvnAe0KIoolgn7NX) | 2:12 | 2022-06-23 | 2022-10-14 |
 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/5GPa945q93slwVFDuNgtMs) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/4xAMXHwSNXIej5EYS2xUyO) | 3:06 | 2021-12-16 | 2022-07-28 |
-| [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 | 2022-10-13 |  |
+| [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 | 2022-10-13 | 2023-12-21 |
 | [La dagen vare evig](https://open.spotify.com/track/1NKmAhNvaG6ulJigH0OGmM) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [La dagen vare evig](https://open.spotify.com/album/4PPAKvkRBdeinL78cEwE3N) | 3:16 | 2021-12-16 | 2022-10-16 |
 | [Langt av sted](https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Langt av sted](https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i) | 2:40 | 2023-06-29 | 2023-11-11 |
 | [Laurdage E Finast](https://open.spotify.com/track/5XeBSNBsxRo3t0lykbipvA) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Fyrste Reis](https://open.spotify.com/album/5z5ne4Grnz5hCVMkTJK6p7) | 2:53 | 2022-02-03 | 2022-04-21 |

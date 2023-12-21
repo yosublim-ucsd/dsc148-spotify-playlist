@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 950510,
+  "num_followers": 951162,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjRhMmE1OTJjOWQyMzdkODQ0MWFmZTVjZGJkM2MyNzk5MWQ0ZTNl",
+  "snapshot_id": "MCxkMzU5YzZlYjUyYTQ0NDU5ZjA3YTc4YzU2MzY3MDQ2MWE0MGMwNjk5",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+        "name": "Powertrip",
+        "url": "https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L"
       },
       "artists": [
         {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
         }
       ],
-      "duration_ms": 321573,
-      "name": "Jet City Woman - Remastered 2003",
-      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+      "duration_ms": 355973,
+      "name": "Space Lord",
+      "url": "https://open.spotify.com/track/6GGfYfQlQhHidVOJO1tNgK"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 321573,
+      "name": "Jet City Woman - Remastered 2003",
+      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "Sehnsucht (Anniversary Edition - Remastered)",
         "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 203383,
       "name": "B\u00fcck dich",
       "url": "https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 344360,
-      "name": "Night Crawler",
-      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Powertrip",
-        "url": "https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
       "artists": [
         {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 355973,
-      "name": "Space Lord",
-      "url": "https://open.spotify.com/track/6GGfYfQlQhHidVOJO1tNgK"
+      "duration_ms": 344360,
+      "name": "Night Crawler",
+      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
     },
     {
       "added_at": "2023-03-01 15:25:34",

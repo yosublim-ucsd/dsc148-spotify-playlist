@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER CINDERELLA GIRLS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30f3\u30c7\u30ec\u30e9\u30ac\u30fc\u30eb\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 21344,
+  "num_followers": 21355,
   "original_name": "THE IDOLM@STER CINDERELLA GIRLS\u3000\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30f3\u30c7\u30ec\u30e9\u30ac\u30fc\u30eb\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGRiNGMwNTM5MGU3ZWExMDhkYTRmN2MyNGE0ZjMxMTMzYjBkZDQ0",
+  "snapshot_id": "MCwwMGE4MjkxNzhiYThjZTkxZTdhOGQxMmUyODUwOGEyNDcxNDExNjJl",
   "tracks": [
     {
       "added_at": "2023-12-19 17:12:59",
@@ -675,8 +675,8 @@
     {
       "added_at": "2023-12-19 17:12:59",
       "album": {
-        "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season SERIES GAME VERSION SONG COLLECTION",
-        "url": "https://open.spotify.com/album/4XLuAPQFuuKeXABHv5Qh4n"
+        "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT SERIES GAME VERSION SONG COLLECTION",
+        "url": "https://open.spotify.com/album/5x3PYRNv3tRUnvhAp10CO7"
       },
       "artists": [
         {
@@ -690,11 +690,55 @@
         {
           "name": "\u672c\u7530\u672a\u592e (CV: \u539f \u7d17\u53cb\u91cc)",
           "url": "https://open.spotify.com/artist/538dyGDEo6Ns0SuFRl47w3"
+        },
+        {
+          "name": "\u8d64\u57ce\u307f\u308a\u3042 (CV: \u9ed2\u6ca2\u3068\u3082\u3088)",
+          "url": "https://open.spotify.com/artist/3qkXtE3XETewbseP4v4n6g"
+        },
+        {
+          "name": "\u30a2\u30ca\u30b9\u30bf\u30b7\u30a2 (CV: \u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/2S8ePxVa2jf2uWWAvdkFzp"
+        },
+        {
+          "name": "\u7dd2\u65b9\u667a\u7d75\u91cc (CV: \u5927\u7a7a\u76f4\u7f8e)",
+          "url": "https://open.spotify.com/artist/6o0BIXUfJdQmroxnY0UaFg"
+        },
+        {
+          "name": "\u795e\u5d0e\u862d\u5b50 (CV: \u5185\u7530\u771f\u793c)",
+          "url": "https://open.spotify.com/artist/4Mcip2EMO9TOJDAuW7WbjU"
+        },
+        {
+          "name": "\u57ce\u30f6\u5d0e\u8389\u5609 (CV: \u5c71\u672c\u5e0c\u671b)",
+          "url": "https://open.spotify.com/artist/5CcQd1LKQ7qNs8dOGzqw8X"
+        },
+        {
+          "name": "\u591a\u7530\u674e\u8863\u83dc (CV: \u9752\u6728\u7460\u7483\u5b50)",
+          "url": "https://open.spotify.com/artist/3C2o7JTalFKOqCXesixYte"
+        },
+        {
+          "name": "\u65b0\u7530\u7f8e\u6ce2 (CV: \u6d32\u5d0e \u7dbe)",
+          "url": "https://open.spotify.com/artist/0bMRJLjtiZdWUfQMvViPx7"
+        },
+        {
+          "name": "\u53cc\u8449\u674f (CV: \u4e94\u5341\u5d50\u88d5\u7f8e)",
+          "url": "https://open.spotify.com/artist/18Ng7wUeKNww3UPx7EF9eF"
+        },
+        {
+          "name": "\u524d\u5ddd\u307f\u304f (CV: \u9ad8\u68ee\u5948\u6d25\u7f8e)",
+          "url": "https://open.spotify.com/artist/7bqnF8SmpYjwOxUnoePXdc"
+        },
+        {
+          "name": "\u4e09\u6751\u304b\u306a\u5b50 (CV: \u5927\u576a\u7531\u4f73)",
+          "url": "https://open.spotify.com/artist/7hOq8g7b9GR4Q7JSBTcTVa"
+        },
+        {
+          "name": "\u8af8\u661f\u304d\u3089\u308a (CV: \u677e\u5d5c \u9e97)",
+          "url": "https://open.spotify.com/artist/0M1k2X1yK6cO3WvdHKQ56Y"
         }
       ],
-      "duration_ms": 131292,
-      "name": "\u6d41\u308c\u661f\u30ad\u30bb\u30ad - GAME VERSION",
-      "url": "https://open.spotify.com/track/3ThaqbBvZBsTtnSVK8Nojp"
+      "duration_ms": 125725,
+      "name": "GOIN'!!! - GAME VERSION",
+      "url": "https://open.spotify.com/track/1UXsnhUaq7kQfAH0XPyVfx"
     },
     {
       "added_at": "2023-12-19 17:12:59",
@@ -867,8 +911,8 @@
     {
       "added_at": "2023-12-19 17:12:59",
       "album": {
-        "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT SERIES GAME VERSION SONG COLLECTION",
-        "url": "https://open.spotify.com/album/5x3PYRNv3tRUnvhAp10CO7"
+        "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season SERIES GAME VERSION SONG COLLECTION",
+        "url": "https://open.spotify.com/album/4XLuAPQFuuKeXABHv5Qh4n"
       },
       "artists": [
         {
@@ -882,55 +926,11 @@
         {
           "name": "\u672c\u7530\u672a\u592e (CV: \u539f \u7d17\u53cb\u91cc)",
           "url": "https://open.spotify.com/artist/538dyGDEo6Ns0SuFRl47w3"
-        },
-        {
-          "name": "\u8d64\u57ce\u307f\u308a\u3042 (CV: \u9ed2\u6ca2\u3068\u3082\u3088)",
-          "url": "https://open.spotify.com/artist/3qkXtE3XETewbseP4v4n6g"
-        },
-        {
-          "name": "\u30a2\u30ca\u30b9\u30bf\u30b7\u30a2 (CV: \u4e0a\u5742\u3059\u307f\u308c)",
-          "url": "https://open.spotify.com/artist/2S8ePxVa2jf2uWWAvdkFzp"
-        },
-        {
-          "name": "\u7dd2\u65b9\u667a\u7d75\u91cc (CV: \u5927\u7a7a\u76f4\u7f8e)",
-          "url": "https://open.spotify.com/artist/6o0BIXUfJdQmroxnY0UaFg"
-        },
-        {
-          "name": "\u795e\u5d0e\u862d\u5b50 (CV: \u5185\u7530\u771f\u793c)",
-          "url": "https://open.spotify.com/artist/4Mcip2EMO9TOJDAuW7WbjU"
-        },
-        {
-          "name": "\u57ce\u30f6\u5d0e\u8389\u5609 (CV: \u5c71\u672c\u5e0c\u671b)",
-          "url": "https://open.spotify.com/artist/5CcQd1LKQ7qNs8dOGzqw8X"
-        },
-        {
-          "name": "\u591a\u7530\u674e\u8863\u83dc (CV: \u9752\u6728\u7460\u7483\u5b50)",
-          "url": "https://open.spotify.com/artist/3C2o7JTalFKOqCXesixYte"
-        },
-        {
-          "name": "\u65b0\u7530\u7f8e\u6ce2 (CV: \u6d32\u5d0e \u7dbe)",
-          "url": "https://open.spotify.com/artist/0bMRJLjtiZdWUfQMvViPx7"
-        },
-        {
-          "name": "\u53cc\u8449\u674f (CV: \u4e94\u5341\u5d50\u88d5\u7f8e)",
-          "url": "https://open.spotify.com/artist/18Ng7wUeKNww3UPx7EF9eF"
-        },
-        {
-          "name": "\u524d\u5ddd\u307f\u304f (CV: \u9ad8\u68ee\u5948\u6d25\u7f8e)",
-          "url": "https://open.spotify.com/artist/7bqnF8SmpYjwOxUnoePXdc"
-        },
-        {
-          "name": "\u4e09\u6751\u304b\u306a\u5b50 (CV: \u5927\u576a\u7531\u4f73)",
-          "url": "https://open.spotify.com/artist/7hOq8g7b9GR4Q7JSBTcTVa"
-        },
-        {
-          "name": "\u8af8\u661f\u304d\u3089\u308a (CV: \u677e\u5d5c \u9e97)",
-          "url": "https://open.spotify.com/artist/0M1k2X1yK6cO3WvdHKQ56Y"
         }
       ],
-      "duration_ms": 125725,
-      "name": "GOIN'!!! - GAME VERSION",
-      "url": "https://open.spotify.com/track/1UXsnhUaq7kQfAH0XPyVfx"
+      "duration_ms": 131292,
+      "name": "\u6d41\u308c\u661f\u30ad\u30bb\u30ad - GAME VERSION",
+      "url": "https://open.spotify.com/track/3ThaqbBvZBsTtnSVK8Nojp"
     },
     {
       "added_at": "2023-12-19 17:12:59",
@@ -1331,42 +1331,18 @@
     {
       "added_at": "2023-12-19 17:12:59",
       "album": {
-        "name": "MOTTO! (GAME VERSION)",
-        "url": "https://open.spotify.com/album/1H7q2H4XIFh73eLuzD9SYl"
+        "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 00 ST@RTER BEST",
+        "url": "https://open.spotify.com/album/36GVSCiTkbzjWycetm9GNb"
       },
       "artists": [
         {
-          "name": "\u4e45\u5ddd\u51ea (CV: \u7acb\u82b1\u65e5\u83dc)",
-          "url": "https://open.spotify.com/artist/5bRDdpgHNnVRyU35y6pCbc"
-        },
-        {
-          "name": "\u897f\u5712\u5bfa\u7434\u6b4c (CV: \u5b89\u9f4b\u7531\u9999\u91cc)",
-          "url": "https://open.spotify.com/artist/0SjMGzYBPzYq2wcbkrJfBG"
-        },
-        {
-          "name": "\u6850\u751f\u3064\u304b\u3055 (CV: \u6cb3\u702c\u8309\u5e0c)",
-          "url": "https://open.spotify.com/artist/5iid9GDrtXuUzOafbU7Yil"
-        },
-        {
-          "name": "\u767d\u83ca\u307b\u305f\u308b (CV: \u5929\u91ce\u8061\u7f8e)",
-          "url": "https://open.spotify.com/artist/7nQwEtvcvbY45A7AhIxXfY"
-        },
-        {
-          "name": "\u6751\u4e0a\u5df4 (CV: \u82b1\u4e95\u7f8e\u6625)",
-          "url": "https://open.spotify.com/artist/1Ym4js5RcCE2JUcYBg4Vyk"
-        },
-        {
-          "name": "\u95a2\u88d5\u7f8e (CV: \u4f1a\u6ca2\u7d17\u5f25)",
-          "url": "https://open.spotify.com/artist/1rFfhHl7jQ4RITnXLcMrn9"
-        },
-        {
-          "name": "\u7d50\u57ce\u6674 (CV: \u5c0f\u5e02\u771e\u7434)",
-          "url": "https://open.spotify.com/artist/2Pu1QGH5NC8ZCzwFhN8eNf"
+          "name": "\u672c\u7530\u672a\u592e (CV: \u539f \u7d17\u53cb\u91cc)",
+          "url": "https://open.spotify.com/artist/538dyGDEo6Ns0SuFRl47w3"
         }
       ],
-      "duration_ms": 139784,
-      "name": "MOTTO! - GAME VERSION",
-      "url": "https://open.spotify.com/track/7aESjlmPgTzqPOMhVrCfCR"
+      "duration_ms": 218346,
+      "name": "\u30df\u30c4\u30dc\u30b7\u2606\u2606\u2605",
+      "url": "https://open.spotify.com/track/2p7RV8l0NzARKG8Hrd9CM8"
     },
     {
       "added_at": "2023-12-19 17:12:59",
@@ -1424,22 +1400,6 @@
       },
       "artists": [
         {
-          "name": "\u672c\u7530\u672a\u592e (CV: \u539f \u7d17\u53cb\u91cc)",
-          "url": "https://open.spotify.com/artist/538dyGDEo6Ns0SuFRl47w3"
-        }
-      ],
-      "duration_ms": 218346,
-      "name": "\u30df\u30c4\u30dc\u30b7\u2606\u2606\u2605",
-      "url": "https://open.spotify.com/track/2p7RV8l0NzARKG8Hrd9CM8"
-    },
-    {
-      "added_at": "2023-12-19 17:12:59",
-      "album": {
-        "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 00 ST@RTER BEST",
-        "url": "https://open.spotify.com/album/36GVSCiTkbzjWycetm9GNb"
-      },
-      "artists": [
-        {
           "name": "\u795e\u5d0e\u862d\u5b50 (CV: \u5185\u7530\u771f\u793c)",
           "url": "https://open.spotify.com/artist/4Mcip2EMO9TOJDAuW7WbjU"
         }
@@ -1447,6 +1407,46 @@
       "duration_ms": 288600,
       "name": "\u83ef\u857e\u5922\u30df\u30eb\u72c2\u8a69\u66f2\u301c\u9b42\u30ce\u5c0e\u301c",
       "url": "https://open.spotify.com/track/2s7fRSjkNI9gLuUvRf74fL"
+    },
+    {
+      "added_at": "2023-12-19 17:12:59",
+      "album": {
+        "name": "MOTTO! (GAME VERSION)",
+        "url": "https://open.spotify.com/album/1H7q2H4XIFh73eLuzD9SYl"
+      },
+      "artists": [
+        {
+          "name": "\u4e45\u5ddd\u51ea (CV: \u7acb\u82b1\u65e5\u83dc)",
+          "url": "https://open.spotify.com/artist/5bRDdpgHNnVRyU35y6pCbc"
+        },
+        {
+          "name": "\u897f\u5712\u5bfa\u7434\u6b4c (CV: \u5b89\u9f4b\u7531\u9999\u91cc)",
+          "url": "https://open.spotify.com/artist/0SjMGzYBPzYq2wcbkrJfBG"
+        },
+        {
+          "name": "\u6850\u751f\u3064\u304b\u3055 (CV: \u6cb3\u702c\u8309\u5e0c)",
+          "url": "https://open.spotify.com/artist/5iid9GDrtXuUzOafbU7Yil"
+        },
+        {
+          "name": "\u767d\u83ca\u307b\u305f\u308b (CV: \u5929\u91ce\u8061\u7f8e)",
+          "url": "https://open.spotify.com/artist/7nQwEtvcvbY45A7AhIxXfY"
+        },
+        {
+          "name": "\u6751\u4e0a\u5df4 (CV: \u82b1\u4e95\u7f8e\u6625)",
+          "url": "https://open.spotify.com/artist/1Ym4js5RcCE2JUcYBg4Vyk"
+        },
+        {
+          "name": "\u95a2\u88d5\u7f8e (CV: \u4f1a\u6ca2\u7d17\u5f25)",
+          "url": "https://open.spotify.com/artist/1rFfhHl7jQ4RITnXLcMrn9"
+        },
+        {
+          "name": "\u7d50\u57ce\u6674 (CV: \u5c0f\u5e02\u771e\u7434)",
+          "url": "https://open.spotify.com/artist/2Pu1QGH5NC8ZCzwFhN8eNf"
+        }
+      ],
+      "duration_ms": 139784,
+      "name": "MOTTO! - GAME VERSION",
+      "url": "https://open.spotify.com/track/7aESjlmPgTzqPOMhVrCfCR"
     },
     {
       "added_at": "2023-12-19 17:12:59",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-12-19 17:12:59",
       "album": {
-        "name": "THE IDOLM@STER CINDERELLA MASTER 051\u301c060 GAME VERSION",
-        "url": "https://open.spotify.com/album/4saezRuC7h6LzQhP43aY30"
-      },
-      "artists": [
-        {
-          "name": "\u85e4\u539f\u8087 (CV: \u9234\u6728\u307f\u306e\u308a)",
-          "url": "https://open.spotify.com/artist/2I5aWrmvCjj0CxMc0PTXKS"
-        }
-      ],
-      "duration_ms": 137671,
-      "name": "\u3042\u3089\u304b\u306d\u306e\u5668 - GAME VERSION",
-      "url": "https://open.spotify.com/track/0MBjLd2ll8VFE0WILaTHPB"
-    },
-    {
-      "added_at": "2023-12-19 17:12:59",
-      "album": {
         "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 00 ST@RTER BEST",
         "url": "https://open.spotify.com/album/36GVSCiTkbzjWycetm9GNb"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 262426,
       "name": "\u30f4\u30a3\u30fc\u30ca\u30b9\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
       "url": "https://open.spotify.com/track/0iJrAFNWv7GzTceZzKJR5z"
+    },
+    {
+      "added_at": "2023-12-19 17:12:59",
+      "album": {
+        "name": "THE IDOLM@STER CINDERELLA MASTER 051\u301c060 GAME VERSION",
+        "url": "https://open.spotify.com/album/4saezRuC7h6LzQhP43aY30"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u539f\u8087 (CV: \u9234\u6728\u307f\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/2I5aWrmvCjj0CxMc0PTXKS"
+        }
+      ],
+      "duration_ms": 137671,
+      "name": "\u3042\u3089\u304b\u306d\u306e\u5668 - GAME VERSION",
+      "url": "https://open.spotify.com/track/0MBjLd2ll8VFE0WILaTHPB"
     },
     {
       "added_at": "2023-12-19 17:12:59",
@@ -1827,26 +1827,50 @@
     {
       "added_at": "2023-12-19 17:12:59",
       "album": {
-        "name": "N.O.R. \u301cNotes of Revolution\u301c\u9769\u547d\u306b\u3064\u3044\u3066\u306e\u899a\u66f8 (GAME VERSION)",
-        "url": "https://open.spotify.com/album/5hXNztVzlVluX7XcROwyOn"
+        "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! SERIES GAME VERSION",
+        "url": "https://open.spotify.com/album/5y21shZV9EOZQU5oMJPjX5"
       },
       "artists": [
         {
-          "name": "\u661f\u8f1d\u5b50 (CV: \u677e\u7530\u98af\u6c34)",
-          "url": "https://open.spotify.com/artist/6WWxRPmLbyqwTWtyJ2Yxaj"
+          "name": "\u7802\u585a\u3042\u304d\u3089 (CV: \u5bcc\u7530\u7f8e\u6182)",
+          "url": "https://open.spotify.com/artist/0JUqGER1ZyzReIk1PJqIn7"
         },
         {
-          "name": "\u8107\u5c71\u73e0\u7f8e (CV: \u5609\u5c71\u672a\u7d17)",
-          "url": "https://open.spotify.com/artist/5ZSu1tLBPcs2M4xlB5VZoS"
+          "name": "\u901f\u6c34\u594f (CV: \u98ef\u7530\u53cb\u5b50)",
+          "url": "https://open.spotify.com/artist/6XEQlTi52pVJTPXekbdAiq"
         },
         {
-          "name": "\u5c0f\u95a2\u9e97\u5948 (CV: \u9577\u91ce\u4f51\u7d00)",
-          "url": "https://open.spotify.com/artist/6E5rvh7Z6S6LMOUszKvMXo"
+          "name": "\u9ad8\u57a3\u6953 (CV: \u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/16bNDXT2aIOTYinZqLpamZ"
+        },
+        {
+          "name": "\u7dd2\u65b9\u667a\u7d75\u91cc (CV: \u5927\u7a7a\u76f4\u7f8e)",
+          "url": "https://open.spotify.com/artist/6o0BIXUfJdQmroxnY0UaFg"
+        },
+        {
+          "name": "\u559c\u591a\u65e5\u83dc\u5b50 (CV: \u6df1\u5ddd\u82b9\u4e9c)",
+          "url": "https://open.spotify.com/artist/2vt14z5D4k4C2dn909q2mk"
+        },
+        {
+          "name": "\u5bae\u672c\u30d5\u30ec\u30c7\u30ea\u30ab (CV: \u9ad9\u91ce\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/5BQ1Zi42wDM5xHySTMaEtK"
+        },
+        {
+          "name": "\u76f8\u8449\u5915\u7f8e (CV: \u6728\u6751\u73e0\u8389)",
+          "url": "https://open.spotify.com/artist/1FDrfvNIiojPS8WzYpEIJo"
+        },
+        {
+          "name": "\u4e2d\u91ce\u6709\u9999 (CV: \u4e0b\u5730\u7d2b\u91ce)",
+          "url": "https://open.spotify.com/artist/3R4edW1OhvP3HjwUtYm5FB"
+        },
+        {
+          "name": "\u7247\u6850\u65e9\u82d7 (CV: \u548c\u6c23\u3042\u305a\u672a)",
+          "url": "https://open.spotify.com/artist/7oK9kaJVvqTn5thxs5EVfX"
         }
       ],
-      "duration_ms": 137373,
-      "name": "N.O.R. \u301cNotes of Revolution\u301c\u9769\u547d\u306b\u3064\u3044\u3066\u306e\u899a\u66f8 - GAME VERSION",
-      "url": "https://open.spotify.com/track/2kpvnTxHnzuwZhskFFd284"
+      "duration_ms": 124173,
+      "name": "\u661f\u74b0\u4e16\u754c - GAME VERSION",
+      "url": "https://open.spotify.com/track/05OhMiKu67B7gbCDdX0WPA"
     }
   ],
   "unique_name": "THE IDOLM@STER CINDERELLA GIRLS\u3000\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30f3\u30c7\u30ec\u30e9\u30ac\u30fc\u30eb\u30ba",

@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68663,
+  "num_followers": 68666,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzMzYmQxN2ViOWEzYjU1ZDljZGU1NzcxZTBmOTQ5YmRiMjJhOTVh",
+  "snapshot_id": "MCwyNGFkMjRiNjc3MGIwNjAwNWQwYTdkYWE1Y2IxMTkxZjMzMmVhOGQ1",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "H\u00f6g standard",
+        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
+      },
+      "artists": [
+        {
+          "name": "Peps Blodsband",
+          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "H\u00f6g standard",
+      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Mellan Raderna",
         "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 191120,
       "name": "Full fokus",
       "url": "https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "H\u00f6g standard",
-        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
-      },
-      "artists": [
-        {
-          "name": "Peps Blodsband",
-          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "H\u00f6g standard",
-      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Marknadens soldat",
-        "url": "https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t"
-      },
-      "artists": [
-        {
-          "name": "Helt Off",
-          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
-        },
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Mediak\u00e5t feat. Timbuktu",
-      "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "SELFMADE",
         "url": "https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 240062,
       "name": "Onda \u00f6gat",
       "url": "https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Marknadens soldat",
+        "url": "https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t"
+      },
+      "artists": [
+        {
+          "name": "Helt Off",
+          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Mediak\u00e5t feat. Timbuktu",
+      "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
     },
     {
       "added_at": "2023-10-12 22:00:00",

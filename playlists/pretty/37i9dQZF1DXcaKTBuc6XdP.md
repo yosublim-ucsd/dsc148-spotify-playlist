@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,914 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,917 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 24 | [Jesus Freak](https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [8 Great Hits dc Talk](https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U) | 4:47 |
 | 25 | [Love Won't Let Me Down](https://open.spotify.com/track/2NssSayyXceWY40zguZjeq) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:25 |
 | 26 | [Open the Eyes of My Heart Lord](https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w) | [Elevation](https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY) | [Timeless Treasures: Open the Eyes of My Heart Lord](https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI) | 4:12 |
-| 27 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
-| 28 | [Brokenness Aside](https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Season One](https://open.spotify.com/album/0SKZC7cvktjidQLucmftED) | 5:52 |
+| 27 | [Brokenness Aside](https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Season One](https://open.spotify.com/album/0SKZC7cvktjidQLucmftED) | 5:52 |
+| 28 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
 | 29 | [Shine](https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:41 |
 | 30 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
 | 31 | [Alive \- Studio Version](https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [We Are Young & Free \(Live\)](https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ) | 3:47 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 40 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
 | 41 | [Signs](https://open.spotify.com/track/2iLIzTOmpyPv24l0mfdhLA) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [How Could I Be Silent](https://open.spotify.com/album/5MQxNJ9Fg8AyhHmHf4VUdY) | 3:32 |
 | 42 | [Nothing Is Impossible](https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Ultimate Kids Worship](https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd) | 3:52 |
-| 43 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
-| 44 | [Amazing Grace](https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
+| 43 | [Amazing Grace](https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
+| 44 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
 | 45 | [Lift You Higher](https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714) | [Copper Pointe Worship](https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV) | [New Sound](https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf) | 3:08 |
 | 46 | [My Strength \(feat\. Emily Hearn\)](https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Emily Hearn](https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1) | [Alive](https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k) | 3:00 |
 | 47 | [Living in Freedom](https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK) | [Stephen Witt](https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg) | [Living in Freedom](https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG) | 4:26 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Belong](https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Belong](https://open.spotify.com/album/23UWXk1FORanft5u9boft9) | 3:48 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MCwwMzNlYjIxYWJkZjllY2RmOGEzYjM4NzA4OTIyMjY1ZGQ4YzA4ZTRm`
+Snapshot ID: `MCwyNWJjZjE4NWFiYTM2ZTE0ZTkyODFkNmM4ODgzOGNlN2IwN2E4NTJk`

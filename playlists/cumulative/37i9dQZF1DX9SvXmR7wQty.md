@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lost
 
-2,238 songs - 4 day 23 hr 31 min
+2,239 songs - 4 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [92i MAYBACH](https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [ROUGE NÉON](https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj) | 2:41 | 2023-04-28 | 2023-06-17 |
 | [???](https://open.spotify.com/track/1VypWHiTxUHNJKYNY6pY9n) | [Kimezaa](https://open.spotify.com/artist/3gpDegDcUdkEFX0EGWus2x) | [???](https://open.spotify.com/album/5JTdgcqhaTSvO8ez5fajhM) | 2:08 | 2021-12-31 | 2022-01-22 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2022-08-20 |
-| [\_sept magie mauve](https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Saisons](https://open.spotify.com/album/111xYY3jdnUL7fVhItgOVy) | 3:57 | 2023-12-01 |  |
+| [\_sept magie mauve](https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Saisons](https://open.spotify.com/album/111xYY3jdnUL7fVhItgOVy) | 3:57 | 2023-12-01 | 2023-12-21 |
 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 | 2023-09-15 | 2023-11-01 |
 | [A toi](https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love Therapy](https://open.spotify.com/album/5a5C4f2S7NvcMCdwQFqT48) | 3:19 | 2023-04-21 | 2023-05-28 |
 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 | 2023-09-22 | 2023-09-30 |
@@ -987,6 +987,7 @@
 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-10 | 2023-11-18 |
 | [Kassïm](https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Kassïm](https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl) | 1:33 | 2023-06-09 | 2023-07-13 |
 | [Kawasaki](https://open.spotify.com/track/0bhUpKSeZKGKbZocH21wHX) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Kawasaki](https://open.spotify.com/album/1bStyqkV25EHm5QHf8Jk2w) | 2:44 | 2022-03-18 | 2022-03-26 |
+| [KB9](https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Ma Vie](https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E) | 2:54 | 2023-12-15 |  |
 | [Keep it Simple \(feat\. Mika\)](https://open.spotify.com/track/1D5609drY3JVyf48LhBDoh) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Keep it Simple \(feat\. Mika\)](https://open.spotify.com/album/1YlQ7XZ6tLxjQ8LVVcVp46) | 2:55 | 2023-01-20 | 2023-02-04 |
 | [KENZO NIGO \- Sur moi](https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [LA VIE RAPIDE EARLY ACCESS](https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq) | 3:25 | 2023-06-30 | 2023-07-08 |
 | [Kicks](https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Kicks](https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl) | 3:31 | 2022-03-11 | 2022-03-26 |

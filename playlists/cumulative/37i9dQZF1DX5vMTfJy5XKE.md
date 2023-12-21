@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-575 songs - 1 day 6 hr 7 min
+576 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [It’s the Most Wonderful Time of the Year](https://open.spotify.com/track/0WLIbB8fuPqd8vStuFMPkn) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [It’s the Most Wonderful Time of the Year](https://open.spotify.com/album/1p5EbImNkZo1tONY68jMBG) | 2:35 | 2023-10-27 |  |
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/3gkDQzMSAsVcxGTCvTcl4B) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I’ll Be Home For Christmas](https://open.spotify.com/album/5q9IE9PlEsjq3jMxDLOfYp) | 2:45 | 2021-12-24 | 2022-07-29 |
 | [I’ll Be Home For Christmas \(feat\. Ella Jane\)](https://open.spotify.com/track/6i8DfgC9GbM4uj414QBlve) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN), [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [I’ll Be Home For Christmas \(feat\. Ella Jane\)](https://open.spotify.com/album/12d69q94iPjV8fJTZqvvEd) | 3:14 | 2022-11-11 | 2023-10-04 |
+| [I’m Just Ken \- Merry Kristmas Barbie](https://open.spotify.com/track/0xUZ46LRp05nuTksovv90G) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Ken The EP](https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn) | 3:16 | 2023-12-20 |  |
 | [Jesus Christ Is Born](https://open.spotify.com/track/7zyzK3nsLKF5uTPmHW4PqO) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Jesus Christ Is Born](https://open.spotify.com/album/6X18ytx6vD93n9mn6uLS8F) | 3:02 | 2023-10-27 |  |
 | [Jesus why do you hate me](https://open.spotify.com/track/5LvYYf5HlcZ7gkjMLTtCxl) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Jesus why do you hate me](https://open.spotify.com/album/0KZ59arAKx828YfvhpnLAf) | 3:34 | 2023-12-01 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/1D7hNc5MALLU7RyjJ1j7NH) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Jingle Bell Rock](https://open.spotify.com/album/6aopXHhakGmlAGxMB5lmXw) | 2:04 | 2021-12-24 | 2022-07-29 |

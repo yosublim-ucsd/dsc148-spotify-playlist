@@ -5007,6 +5007,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4oBjaVl3xzRyVXxiB3T8Yz"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/4Dmz6KqXiNdYYv8tcTyNdU"
+    },
+    {
+      "album": {
         "name": "Kamogawa, Yugure to Boku",
         "url": "https://open.spotify.com/album/50nRTKQ6JiP7MxxnJr4aWB"
       },
@@ -5700,7 +5718,7 @@
     {
       "album": {
         "name": "The Roller Skating Tour",
-        "url": "https://open.spotify.com/album/66K7Kpt4whfu9YqlWBVIEI"
+        "url": "https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO"
       },
       "artists": [
         {
@@ -5711,6 +5729,24 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227866,
+      "name": "Lonely Road",
+      "url": "https://open.spotify.com/track/4vPDL8NtivnxqASZeIqKOd"
+    },
+    {
+      "album": {
+        "name": "The Roller Skating Tour",
+        "url": "https://open.spotify.com/album/66K7Kpt4whfu9YqlWBVIEI"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 227866,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/6OeiBwJQpmPpxS0p89RMgr"
@@ -8765,6 +8801,24 @@
     },
     {
       "album": {
+        "name": "\u77f3\u306e\u3088\u3046\u306a\u81ea\u7531",
+        "url": "https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep"
+      },
+      "artists": [
+        {
+          "name": "\u5bb6\u4e3b",
+          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222937,
+      "name": "SHOZEN",
+      "url": "https://open.spotify.com/track/5MNCIcHfHsH3BQCEsFc7R0"
+    },
+    {
+      "album": {
         "name": "SHOZEN",
         "url": "https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9"
       },
@@ -8776,7 +8830,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 223109,
       "name": "SHOZEN",
       "url": "https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu"
@@ -10452,10 +10506,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 251533,
       "name": "Vivid Beat",
       "url": "https://open.spotify.com/track/2N1Ua1uURGDK2BWEjt0E8P"
+    },
+    {
+      "album": {
+        "name": "Vivid Beat",
+        "url": "https://open.spotify.com/album/1TIvVgm09JDIbqH1RNdKZF"
+      },
+      "artists": [
+        {
+          "name": "Yoru no Honki Dance",
+          "url": "https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251533,
+      "name": "Vivid Beat",
+      "url": "https://open.spotify.com/track/5Muww3vzhHiACpuXDFSjhY"
     },
     {
       "album": {
@@ -12840,7 +12912,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 208333,
       "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30a6\u30d7",
       "url": "https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei"
@@ -17510,7 +17582,7 @@
     {
       "album": {
         "name": "\u611b\u3057\u3042\u3063\u3066",
-        "url": "https://open.spotify.com/album/477dbCeNtYb10c1ZSFp6B5"
+        "url": "https://open.spotify.com/album/05a9A2UpRjQEPEKM55E6yi"
       },
       "artists": [
         {
@@ -17521,6 +17593,24 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192933,
+      "name": "\u611b\u3057\u3042\u3063\u3066",
+      "url": "https://open.spotify.com/track/2yMAXDukJfVv1TM6a7rJmY"
+    },
+    {
+      "album": {
+        "name": "\u611b\u3057\u3042\u3063\u3066",
+        "url": "https://open.spotify.com/album/477dbCeNtYb10c1ZSFp6B5"
+      },
+      "artists": [
+        {
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 192933,
       "name": "\u611b\u3057\u3042\u3063\u3066",
       "url": "https://open.spotify.com/track/4vSE76Coc1app2dPycOuqC"

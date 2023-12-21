@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47053,
+  "num_followers": 47069,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2JmODhkZDJjM2E5ZjAxZTE2MGJjY2I4YWNmMGY4MTIwNjAyNzY2",
+  "snapshot_id": "MCwxMDE5OWY2NWMwNjM1MTViOTk2ZTA0YjJhMTExODRhMzA3ZTE4Yjdi",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Eu Nunca Fui Embora",
-        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
-      },
-      "artists": [
-        {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        }
-      ],
-      "duration_ms": 185337,
-      "name": "Eu Nunca Fui Embora",
-      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "If I Can\u2019t Have Love, I Want Power",
         "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 173840,
       "name": "honey",
       "url": "https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Eu Nunca Fui Embora",
+        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "duration_ms": 185337,
+      "name": "Eu Nunca Fui Embora",
+      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Dona da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil"
-      },
-      "artists": [
-        {
-          "name": "Maglore",
-          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
-        },
-        {
-          "name": "Lu\u00ea",
-          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
-        }
-      ],
-      "duration_ms": 235008,
-      "name": "Dona da Minha Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Castelo De Areia",
         "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 176666,
       "name": "Castelo De Areia",
       "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Dona da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil"
+      },
+      "artists": [
+        {
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        },
+        {
+          "name": "Lu\u00ea",
+          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
+        }
+      ],
+      "duration_ms": 235008,
+      "name": "Dona da Minha Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -915,6 +915,26 @@
       "duration_ms": 178531,
       "name": "INTENSAMENTE",
       "url": "https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Muito Al\u00e9m",
+        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 168505,
+      "name": "Muito Al\u00e9m",
+      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -987,26 +1007,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Muito Al\u00e9m",
-        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 168505,
-      "name": "Muito Al\u00e9m",
-      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Conto de Falhas",
         "url": "https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl"
       },
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "CINZEIRO",
+        "url": "https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "CINZEIRO",
+      "url": "https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "ANTISSOCIAL",
         "url": "https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW"
       },
@@ -1123,42 +1143,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "vc n gosta de garotas",
-        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "vc n gosta de garotas",
-      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "CINZEIRO",
-        "url": "https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "CINZEIRO",
-      "url": "https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Depois das Seis",
         "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 142825,
       "name": "FORA DE SI",
       "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "vc n gosta de garotas",
+        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "vc n gosta de garotas",
+      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "VERMELHO FAROL",
+        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 150884,
+      "name": "VERMELHO FAROL",
+      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "melhor ou pior",
         "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 164000,
       "name": "melhor ou pior",
       "url": "https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "VERMELHO FAROL",
-        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 150884,
-      "name": "VERMELHO FAROL",
-      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
     },
     {
       "added_at": "2023-12-15 03:00:00",

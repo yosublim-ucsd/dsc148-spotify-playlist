@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Disco Experience",
+        "url": "https://open.spotify.com/album/1KdS3ps4WVAPsNErOGeBXM"
+      },
+      "artists": [
+        {
+          "name": "Tobor Experiment",
+          "url": "https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Disco Moog",
+      "url": "https://open.spotify.com/track/1yu3Ju4HbS4yvZMvR5WchU"
+    },
+    {
+      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/51Ac9Xk5e4uJ9oxDAzS72z"
       },
@@ -1042,6 +1060,28 @@
       "duration_ms": 169946,
       "name": "G\u00e9n\u00e9rique - From \"Chapi Chapo\"",
       "url": "https://open.spotify.com/track/3I6fIJ5C1KxLj5WXdnXPpm"
+    },
+    {
+      "album": {
+        "name": "Moonshade",
+        "url": "https://open.spotify.com/album/3t1cJhFgS5M3rD2ivYnqLd"
+      },
+      "artists": [
+        {
+          "name": "Roger Webb",
+          "url": "https://open.spotify.com/artist/6ZfH4kBv9tPVIfklLH36jO"
+        },
+        {
+          "name": "De Wolfe Music",
+          "url": "https://open.spotify.com/artist/2CIYXJTMc2WH7XVlqZ5IrC"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91604,
+      "name": "Heavy Lace",
+      "url": "https://open.spotify.com/track/1xVXAqPWaT010F2TMj5Eds"
     },
     {
       "album": {
@@ -1435,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Available Forms",
+        "url": "https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko"
+      },
+      "artists": [
+        {
+          "name": "Tobor Experiment",
+          "url": "https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329870,
+      "name": "Lowpass Risotto",
+      "url": "https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ"
+    },
+    {
+      "album": {
         "name": "Mind Games",
         "url": "https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD"
       },
@@ -1698,6 +1756,24 @@
       "duration_ms": 251933,
       "name": "Mixed Waste 4.2",
       "url": "https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u"
+    },
+    {
+      "album": {
+        "name": "Available Forms",
+        "url": "https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko"
+      },
+      "artists": [
+        {
+          "name": "Tobor Experiment",
+          "url": "https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465128,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5W86tGQznqxaODJnZeIfnf"
     },
     {
       "album": {

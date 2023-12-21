@@ -4,7 +4,7 @@
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7外伝 名を消した男」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-111 songs - 7 hr 27 min
+112 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [×3シャイン \- Full Spec Edition](https://open.spotify.com/track/28BWdl5BJy5Vyqp27UZY87) | [ユキ\(杉平真奈美\)](https://open.spotify.com/artist/0nIEnGkGDh7caedAuri3jQ) | [龍が如くシリーズ・カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/1QQbyZUbtv9eOOzfgDDF7H) | 3:45 | 2021-05-21 | 2022-07-29 |
 | [ばかみたい \- Taxi Driver Edition](https://open.spotify.com/track/6z3Yfhf2btFUDBuG2s2yhW) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 4:51 | 2021-05-21 | 2022-07-29 |
 | [わすれない](https://open.spotify.com/track/30FuMk37tWuBQ7BNKpR8pO) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く OF THE END オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/3ekg0kdMqduIysdGxDA4DL) | 3:30 | 2021-05-21 | 2023-11-18 |
-| [キミハイルカラ](https://open.spotify.com/track/2OPU1hw8yQoWAtTVTjrzNv) | [T\-SET](https://open.spotify.com/artist/0VDcUeLgTQwXIa5UTuO5L0), [白石涼子](https://open.spotify.com/artist/4cVDNLxCf9lBMs8YTLkrPl), [野中藍](https://open.spotify.com/artist/4bfRjWX4KyVcO8AMcbnctq) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 4:27 | 2021-05-21 |  |
+| [キミハイルカラ](https://open.spotify.com/track/2OPU1hw8yQoWAtTVTjrzNv) | [T\-SET](https://open.spotify.com/artist/0VDcUeLgTQwXIa5UTuO5L0), [白石涼子](https://open.spotify.com/artist/4cVDNLxCf9lBMs8YTLkrPl), [野中藍](https://open.spotify.com/artist/4bfRjWX4KyVcO8AMcbnctq) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 4:27 | 2021-05-21 | 2023-12-21 |
+| [キミハイルカラ](https://open.spotify.com/track/335BXqZ9dwAQZaNfHHsxL4) | [澤村 遥\(釘宮理恵\)](https://open.spotify.com/artist/3n3yQs1qBmKQu2i4zgLaZ3), [澤村 遥](https://open.spotify.com/artist/1xvrW8VjpNWT6VZEkey9N1) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 4:27 | 2023-11-17 |  |
 | [サタデーナイト☆ラヴァー](https://open.spotify.com/track/0qmtwmjJIpHZyCSItymVqr) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:26 | 2021-05-21 |  |
 | [サタデーナイト☆ラヴァー](https://open.spotify.com/track/1j74Ne4RFw5MnijmWGULAn) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック Volume2](https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb) | 2:26 | 2021-05-21 | 2022-07-29 |
 | [バブル](https://open.spotify.com/track/5Pa2BpTFCW3QCXDWYqml9W) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p) | [バブル](https://open.spotify.com/album/1BLnyEzYSFlRMeeGJePkOP) | 4:56 | 2021-05-21 |  |

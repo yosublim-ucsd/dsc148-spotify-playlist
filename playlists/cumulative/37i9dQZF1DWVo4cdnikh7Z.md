@@ -2,9 +2,9 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : Captain Miller
+> New Music from Kollywood.<br/>Cover : Ayalaan
 
-1,038 songs - 2 day 15 hr 41 min
+1,039 songs - 2 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Avan Avan \(From "Prithviraj"\) \- Tamil Version](https://open.spotify.com/track/66JZl8HzZzur1PqxUIWoIt) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Avan Avan \(From "Prithviraj"\) \- Tamil Version](https://open.spotify.com/album/33V7jXc4BuwQga5HMs8tyB) | 4:14 | 2022-05-12 | 2022-05-31 |
 | [Aviya Eviya \(From "Kumbaari"\)](https://open.spotify.com/track/79NNEWznxn00LOECXZmHx4) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Jeyprakas](https://open.spotify.com/artist/7zpLlgsFNGBI24OO8ABRwq), [M.R\. Vinothan](https://open.spotify.com/artist/3zTsIXs3eNUzBlDEumo0kt) | [Aviya Eviya \(From "Kumbaari"\)](https://open.spotify.com/album/4SnCVFLqK02tNlUfdfOgpR) | 4:18 | 2023-08-17 | 2023-08-22 |
 | [Avizhaadha Kaalai \(From "Theenkirai"\)](https://open.spotify.com/track/7oNTDQMo8Al2stuDd9GbQu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Prakash Nikki](https://open.spotify.com/artist/2riMFBqXqvNKJn33HM2AJJ), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Avizhaadha Kaalai \(From "Theenkirai"\) \- Single](https://open.spotify.com/album/75bcUUGLinWTOx7DLPWvLY) | 4:40 | 2022-11-18 | 2022-12-01 |
+| [Ayalaa Ayalaa \(From "Ayalaan"\)](https://open.spotify.com/track/4hzFvF1WRHRxuisrJ98LZT) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Ayalaa Ayalaa \(From "Ayalaan"\)](https://open.spotify.com/album/465suDXZM6xmGNsRhtABtO) | 4:27 | 2023-12-20 |  |
 | [Ayyo Haiyo \(From "Raid"\)](https://open.spotify.com/track/7d9hWEtDzTBlrDYaps2z1z) | [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Ayyo Haiyo \(From "Raid"\)](https://open.spotify.com/album/3tuNKc5bPcP620FeIEZsDY) | 3:18 | 2023-11-06 | 2023-11-21 |
 | [Azaadi \(From "Spy"\)](https://open.spotify.com/track/6vDw59DizsyaP4eFhZrztQ) | [Velu](https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4), [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT), [D.Mohan Kumar](https://open.spotify.com/artist/1ZNjvrF2WSxwtLYrPIPfQQ) | [Azaadi \(From "Spy"\)](https://open.spotify.com/album/5IG1wSmwCfZfTB581k0bzM) | 3:40 | 2023-06-30 | 2023-07-13 |
 | [Azha Thonudhe \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/6Eld5DFrem6tfHUY4gCmh3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Azha Thonudhe \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2Hb0K7naIGma7VYHVQ5DYp) | 2:12 | 2022-05-18 | 2022-08-05 |

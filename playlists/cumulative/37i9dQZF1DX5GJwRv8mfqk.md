@@ -4,13 +4,15 @@
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-102 songs - 5 hr 29 min
+104 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2022-05-25 |  |
-| [Al Cabo Ni Queria](https://open.spotify.com/track/07d1PnojbLS55lc9sXfohs) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/250gRUcDCQmYOhxgPU2aIj) | 3:13 | 2022-05-25 |  |
-| [Al Cabo Ni Queria \- Bonus Track](https://open.spotify.com/track/2WAQPFsusyHl9Do0qKoQmi) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/250gRUcDCQmYOhxgPU2aIj) | 3:04 | 2022-05-25 |  |
+| [Al Cabo Ni Queria](https://open.spotify.com/track/07d1PnojbLS55lc9sXfohs) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/250gRUcDCQmYOhxgPU2aIj) | 3:13 | 2022-05-25 | 2023-12-21 |
+| [Al Cabo Ni Queria](https://open.spotify.com/track/6qplZ4xMEH3aKvSv10TvSf) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:13 | 2022-05-25 |  |
+| [Al Cabo Ni Queria \(Bonus Track\)](https://open.spotify.com/track/5RLxB5X53TuHRAYLtgNpoU) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c) | 3:04 | 2022-05-25 |  |
+| [Al Cabo Ni Queria \- Bonus Track](https://open.spotify.com/track/2WAQPFsusyHl9Do0qKoQmi) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Gallo Fino](https://open.spotify.com/album/250gRUcDCQmYOhxgPU2aIj) | 3:04 | 2022-05-25 | 2023-12-21 |
 | [Así Me Fue Contigo](https://open.spotify.com/track/2KYksJs5u6n4YOuxnG6X36) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Así Me Fue Contigo](https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt) | 3:52 | 2022-05-25 |  |
 | [Bajo La Misma Luna](https://open.spotify.com/track/7tWUtuimvXukaJMeafXcQr) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 2:12 | 2022-05-25 |  |
 | [Barquillero](https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Barquillero](https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX) | 3:20 | 2022-05-25 |  |

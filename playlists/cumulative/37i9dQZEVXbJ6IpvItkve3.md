@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-852 songs - 2 day 0 hr 2 min
+853 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2021-11-07 |
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-22 |
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2021-05-16 | 2021-05-17 |
-| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 |  |
+| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2023-12-21 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-21 | 2023-09-24 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-06 |
 | [Payphone](https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:51 | 2022-05-08 | 2022-05-31 |
@@ -715,7 +715,7 @@
 | [מקום לשנינו – A place for both of us](https://open.spotify.com/track/7h9XW2kUG2AUmfrQFDUbnP) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox), [Malu](https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah) | [מקום לשנינו – A place for both of us](https://open.spotify.com/album/1pwaTKPStUo8MEV57yRxAE) | 3:55 | 2021-08-15 | 2021-10-31 |
 | [מרוקו](https://open.spotify.com/track/7deF5LnlabZ7YohrHriZfl) | [Gal Adam](https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K) | [מרוקו](https://open.spotify.com/album/1JMjBmx9da8VzYorp1pzjS) | 2:39 | 2023-04-18 | 2023-05-07 |
 | [משהו אמיתי בעיניים](https://open.spotify.com/track/74kYHwU43s49Y5AukKArWQ) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [משהו אמיתי בעיניים](https://open.spotify.com/album/6QPX656Si3DHxKEgDXoi9G) | 2:51 | 2023-10-03 |  |
-| [משוגעת \(Prod\. by Triangle\)](https://open.spotify.com/track/3idINUuyRidKbQiMFt6EkU) | [Gal Adam](https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K), [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD) | [משוגעת \(Prod\. by Triangle\)](https://open.spotify.com/album/6aomx4aKsyvgSV5ecL7PXY) | 2:16 | 2022-10-26 |  |
+| [משוגעת \(Prod\. by Triangle\)](https://open.spotify.com/track/3idINUuyRidKbQiMFt6EkU) | [Gal Adam](https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K), [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD) | [משוגעת \(Prod\. by Triangle\)](https://open.spotify.com/album/6aomx4aKsyvgSV5ecL7PXY) | 2:16 | 2022-10-26 | 2023-12-21 |
 | [מתי את חוזרת](https://open.spotify.com/track/6OXv4CrNp3DFRj6Cu1GojJ) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [2023](https://open.spotify.com/album/1rK9oII8KSQLi5WRYhVaVk) | 3:50 | 2023-03-30 | 2023-12-03 |
 | [מתי את חוזרת](https://open.spotify.com/track/7IJx5hRWx11DRwLtX4E4UB) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [מתי את חוזרת](https://open.spotify.com/album/5x5HKBGfFtuK34uuErHjDG) | 3:50 | 2023-03-27 | 2023-03-31 |
 | [נאסף תשרי \(מת אב ומת אלול\)](https://open.spotify.com/track/7IWtwb4ffSlxcyWeq4XIok) | [Svika Pick](https://open.spotify.com/artist/7hMpCrQFkZm9Sy1S9ZwBFe) | [מוסיקה](https://open.spotify.com/album/528cpz61Bp02KfZ7ybRQvf) | 6:01 | 2022-08-16 | 2022-08-18 |
@@ -728,6 +728,7 @@
 | [נשלים את הכל](https://open.spotify.com/track/3WMH1bPflGgzFjfuI4FYe2) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [נשלים את הכל](https://open.spotify.com/album/0pgYmDRVswjq8DdKYzJdY7) | 2:59 | 2021-07-18 | 2021-12-19 |
 | [נשמה שלי](https://open.spotify.com/track/7606oAr5GqreqTOdIX3uGB) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [נשמה שלי](https://open.spotify.com/album/7mcMJqFvvNACMp6Zpy0dQQ) | 3:40 | 2021-03-27\* | 2021-07-10 |
 | [נתראה בגלגול הבא](https://open.spotify.com/track/1saT4tObMScARIwT4wTv0W) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ועכשיו לחלק האומנותי](https://open.spotify.com/album/5q1U43bIDM8jf3yV328e5V) | 3:33 | 2023-01-28 |  |
+| [נתראה בגלגול הבא](https://open.spotify.com/track/5zdau2dtmOUHF3CJ3odKfb) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נתראה בגלגול הבא](https://open.spotify.com/album/0hZIVNnIHVGlopnS8xCla9) | 2:45 | 2023-12-20 |  |
 | [סביבון סוב סוב סוב](https://open.spotify.com/track/58NBSNdG8s0jSikjPRmdjS) | [Hana Laszlo](https://open.spotify.com/artist/6cp8bVNeuwo43R1Z0eyn7y) | [100 שירים ראשונים \(חלק ב\)](https://open.spotify.com/album/7r5rhny3Cns5TiiHYpOPBl) | 0:43 | 2021-11-30 | 2023-12-12 |
 | [סגול בהיר](https://open.spotify.com/track/7yamSClFVolBatiO4PvCjr) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [סגול בהיר](https://open.spotify.com/album/3Qq9reXVhaAMmsP40r31mq) | 3:36 | 2021-07-10 | 2021-07-11 |
 | [סדר העבודה](https://open.spotify.com/track/4A5lRH29TyKxllsl94BWex) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 5:50 | 2021-09-17 | 2023-09-27 |
@@ -814,7 +815,7 @@
 | [רק אותך אהבתי](https://open.spotify.com/track/5Ds7Ji9KSweBBQbw7gLk5V) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [רק אותך אהבתי](https://open.spotify.com/album/6tYAYz8rkq7suOCowuvzFg) | 2:34 | 2023-03-18 | 2023-04-01 |
 | [רק אני יודע](https://open.spotify.com/track/0NdV41q6lBoO4WyCaZmIJU) | [Stephane Legar](https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk) | [רק אני יודע](https://open.spotify.com/album/1lclZGan78IHDPYl6p8iJ2) | 2:44 | 2023-07-20 | 2023-10-21 |
 | [רק בישראל](https://open.spotify.com/track/7JB4mboAYxW7PVUlPKy5WL) | [Lehakat Heyl Hayam](https://open.spotify.com/artist/110wHDAsaXDaKKdUztwGlE) | [וביום השלישי](https://open.spotify.com/album/0Wes9s8uPfGDGJhT1DGJyC) | 2:06 | 2023-04-27 | 2023-04-29 |
-| [שבוע טוב](https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd) | [שבוע טוב](https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW) | 2:31 | 2021-03-27\* | 2023-12-19 |
+| [שבוע טוב](https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd) | [שבוע טוב](https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW) | 2:31 | 2021-03-27\* |  |
 | [שוב](https://open.spotify.com/track/4D5BAc9GN5Q8r5LVO7mxBI) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [שוב](https://open.spotify.com/album/2ako4WJK0NWapW65t4yM7K) | 3:10 | 2023-02-22 | 2023-04-05 |
 | [שובו של מרדכי](https://open.spotify.com/track/1s8Mk9MmCPIhhhq2F9aGnz) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Oshik Levy](https://open.spotify.com/artist/3tjoGZmGJVn69uCacptnWh), [Teddy Neguse](https://open.spotify.com/artist/1SOCXWLgBvXDqNobiSnGM7) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:30 | 2021-12-18 | 2021-12-25 |
 | [שום דבר לא יפגע בי](https://open.spotify.com/track/3FAOYZtUlvrvs3EgZ3Nyy1) | [Knesiyat Hasechel](https://open.spotify.com/artist/16MkPn5NwSOt7xc4OqjOHp) | [שום דבר לא יפגע בי](https://open.spotify.com/album/2raX9lg2PnnTYO1lUBJoxZ) | 3:41 | 2022-05-05 | 2023-04-28 |

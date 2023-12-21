@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 128436,
+  "num_followers": 128507,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz",
+  "snapshot_id": "MCwzMWY3YWE4MjYxNDVlZWU5NzFkNWE2NWViY2ZjZTBlNjIyZWE3ZWQ2",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "Charisma",
-      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Blue Touch",
         "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 230533,
       "name": "Fly Away (Thinking Of You)",
       "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -699,22 +699,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "East",
         "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 327733,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "The Way To You",
-      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 207000,
       "name": "Glass Dolphins",
       "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "The Way To You",
+      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
     },
     {
       "added_at": "2020-08-19 00:00:21",

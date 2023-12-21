@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 945227,
+  "num_followers": 945358,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2M2ZWY1NjViOTU3MmNjMDNlYzkyODFiNmFkNGFkYTU2MjA3ZDFi",
+  "snapshot_id": "MCxhNDNjODM4NmZjYTljMTU2MTc5MjEzNTljNWVhZWE2MTk2NWI2OWUz",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
+        "name": "Voices Carry (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
+      },
+      "artists": [
+        {
+          "name": "'Til Tuesday",
+          "url": "https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Voices Carry",
+      "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 302520,
       "name": "Take Me to the River - 2005 Remaster",
       "url": "https://open.spotify.com/track/1oV1tu8utgHQjLJsEK9sVl"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "Voices Carry (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
-      },
-      "artists": [
-        {
-          "name": "'Til Tuesday",
-          "url": "https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Voices Carry",
-      "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Eighties - 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Surfer Rosa",
         "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 235706,
       "name": "Gigantic - Remastered",
       "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Eighties - 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "We Are The '80s",
-        "url": "https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF"
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
       },
       "artists": [
         {
-          "name": "Bow Wow Wow",
-          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 164306,
-      "name": "I Want Candy",
-      "url": "https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S"
+      "duration_ms": 194133,
+      "name": "Why Can't I Be You?",
+      "url": "https://open.spotify.com/track/3RcrFgETR1QGjzV6ZzIRBy"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "The Primitives",
+          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
         }
       ],
-      "duration_ms": 194133,
-      "name": "Why Can't I Be You?",
-      "url": "https://open.spotify.com/track/3RcrFgETR1QGjzV6ZzIRBy"
+      "duration_ms": 151693,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
     }
   ],
   "unique_name": "Alternative 80s",

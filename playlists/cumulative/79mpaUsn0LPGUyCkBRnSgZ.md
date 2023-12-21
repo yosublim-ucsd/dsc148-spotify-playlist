@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-377 songs - 1 day 0 hr 32 min
+378 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-08-07 | 2023-12-14 |
 | [Conditions Of A Punk](https://open.spotify.com/track/2viUGuVwPAWIZXlOJHLHoO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:36 | 2023-03-19 |  |
 | [Conservation of Two](https://open.spotify.com/track/1EfjX1u3coTBbmkFofxLoj) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 2:41 | 2023-01-07 |  |
-| [Cooking Up Something Good](https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:41 | 2023-12-17 |  |
+| [Cooking Up Something Good](https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:41 | 2023-12-17 | 2023-12-21 |
 | [Corn Maze](https://open.spotify.com/track/7oDQlEb0Uy1AfSkVL5k2Ac) | [Malibu Ken](https://open.spotify.com/artist/5PB4q8DMiGL17Jdo4k6TOy), [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR) | [Malibu Ken](https://open.spotify.com/album/7xa97ZeKKo4MiBJ96awavT) | 3:22 | 2023-03-24 | 2023-04-26 |
 | [Couldn’t Be Done \(feat\. Kelly Price\)](https://open.spotify.com/track/3cJhvKu04O5akhOHpZmMvP) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:31 | 2022-10-05 |  |
 | [Cowboys](https://open.spotify.com/track/1DB8s1L4z25jcRw88815ko) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:39 | 2022-10-27 |  |
@@ -235,6 +235,7 @@
 | [Necessary](https://open.spotify.com/track/1oAmBK4NtTlQQHVdTNPl6y) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [90059](https://open.spotify.com/album/1fsvlnonD95p6VTEdQ7zJn) | 3:20 | 2022-07-26 |  |
 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2022-10-22 |  |
 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 | 2023-05-19 |  |
+| [NINA](https://open.spotify.com/track/7cm2RiP6XC0LdzTWa6pi85) | [Vel Nine](https://open.spotify.com/artist/6Dcufc8lKB2eVG5JKnT5fZ), [NugLife](https://open.spotify.com/artist/3gkvPVQi7D6qstqC5urqvP) | [NINA](https://open.spotify.com/album/1uQF2AgBoZE0Z9e0baNipU) | 1:20 | 2023-12-20 |  |
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2023-06-22 | 2023-07-11 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/2Mc7SYpQ0KLJU6EjXnvqiW) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 3:03 | 2023-11-07 |  |
 | [Nothing’s Impossible](https://open.spotify.com/track/1UegvfqeikDPozAcaIWIuI) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 4:08 | 2023-03-15 |  |

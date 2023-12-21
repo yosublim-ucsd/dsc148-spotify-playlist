@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-939 songs - 2 day 5 hr 29 min
+940 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Hex](https://open.spotify.com/track/7xaNU7mo5bEULPKg7vdxel) | [Utrecht](https://open.spotify.com/artist/5ygyzQomCHzWhbzPlI5TY0) | [Hex](https://open.spotify.com/album/2Mxu38mOSq5rknEr8xzw4e) | 4:07 | 2023-03-09 | 2023-03-15 |
 | [Hex](https://open.spotify.com/track/6eIOTgdN2xHDkPgTr1LOyt) | [ユトレヒト](https://open.spotify.com/artist/0y3zz3pSjcGLwxaQvsd7uZ) | [Hex](https://open.spotify.com/album/24bCkzGthetSLGCeiT37YK) | 4:07 | 2023-03-08 | 2023-03-09 |
 | [Hibiranran.](https://open.spotify.com/track/2DqdszvU0Ue9A1zHAm33PG) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hibiranran.](https://open.spotify.com/album/0IpuDe5NRfYN1ICCyGf7OZ) | 3:04 | 2023-03-09 | 2023-04-12 |
+| [Highway Loner](https://open.spotify.com/track/2UMItqDjG4J9tmNZWVH9Nq) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Highway Loner](https://open.spotify.com/album/2h95IUMyUkl0TOnAzHdk20) | 2:53 | 2023-12-19 |  |
 | [Himawari](https://open.spotify.com/track/4CEg2ZSlsQaO8zOCai89gA) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Himawari](https://open.spotify.com/album/2w8Y2kdC21njltt0Wt6em9) | 4:19 | 2023-07-11 | 2023-10-13 |
 | [Hollow](https://open.spotify.com/track/1shLOpBNrpV0RLO6gGcpiI) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Hollow](https://open.spotify.com/album/76gWkIByA75YJDWAJWGbWg) | 3:19 | 2023-10-17 | 2023-10-27 |
 | [Hollow](https://open.spotify.com/track/6SKXnSDNAr1goHftuzjbeK) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Hollow](https://open.spotify.com/album/5a3IxGOeFt5mqZCKeDSDM5) | 3:19 | 2023-10-17 | 2023-10-19 |
@@ -551,7 +552,7 @@
 | [ネオンテトラ](https://open.spotify.com/track/6mwl6Yem7NxMkbgGmVpg2p) | [Wiz\_nicc](https://open.spotify.com/artist/6ah2yjhQayXWFcu3LtOWui) | [ネオンテトラ](https://open.spotify.com/album/0GG8f1iccpKCcsvtA1wSQ1) | 3:48 | 2022-07-12 | 2022-07-15 |
 | [ネロ](https://open.spotify.com/track/3abxvM4ptugLFRocd7dm5H) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [ネロ](https://open.spotify.com/album/1aCpGaeu7Ai7eiB4o22aip) | 3:29 | 2023-04-11 | 2023-04-26 |
 | [ノマド \- self cover](https://open.spotify.com/track/5bhx38mEmEP8ps3J0wHTQY) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ノマド \(self cover\)](https://open.spotify.com/album/44jc0PdXkVjPNNfyPVPaTF) | 3:52 | 2022-07-04 | 2022-07-25 |
-| [ハイウェイローナー](https://open.spotify.com/track/4FznGZH0krOTKL3W5xq0dW) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [ハイウェイローナー](https://open.spotify.com/album/3pU3UKsMzYcS7CqmluQGuc) | 2:53 | 2023-12-19 |  |
+| [ハイウェイローナー](https://open.spotify.com/track/4FznGZH0krOTKL3W5xq0dW) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [ハイウェイローナー](https://open.spotify.com/album/3pU3UKsMzYcS7CqmluQGuc) | 2:53 | 2023-12-19 | 2023-12-21 |
 | [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 | 2023-10-12 | 2023-11-24 |
 | [ハロ](https://open.spotify.com/track/69cF34CNjzxX1ySIPJxtMf) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [ハロ](https://open.spotify.com/album/0mzoRF3WErpncvKCQqoHEu) | 3:18 | 2023-10-26 | 2023-11-16 |
 | [ハンドメイド流星雨 \- 皐月ソラの場合/CV:楠木ともり](https://open.spotify.com/track/19sdlPhdJXSknzwKEqD7a3) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [ハンドメイド流星雨 \(皐月ソラの場合/CV:楠木 ともり\)](https://open.spotify.com/album/1KPDqDTsLp4YUCoY5uZyfP) | 3:39 | 2022-06-21 | 2022-07-23 |

@@ -1,12 +1,12 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 64481,
+  "num_followers": 64590,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmRmY2JjYjk4Yjg4YmRjNDczNTEyZTU4MTQ2ZGNmYmQ5YmY5MTcy",
+  "snapshot_id": "MCxjYWJlNTc0MjQ4ZWE1MWI0NjZjM2JkNzRhZDVkOThiMDdjZThkOGNi",
   "tracks": [
     {
       "added_at": "2021-11-25 14:50:11",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Fabricando Fantas\u00edas",
-        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "Fabricando Fantas\u00edas - Salsa Version",
-      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "Fabricando Fantas\u00edas",
+        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "Fabricando Fantas\u00edas - Salsa Version",
+      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Oro Salsero (20 \u00c9xitos)",
-        "url": "https://open.spotify.com/album/7CV3xQzREhrKHzipageL3n"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 321213,
-      "name": "Casi Te Envidio",
-      "url": "https://open.spotify.com/track/07PF7Djp1Dmrin3X5fy8nA"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 275893,
       "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
       "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "Oro Salsero (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/7CV3xQzREhrKHzipageL3n"
+      },
+      "artists": [
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 321213,
+      "name": "Casi Te Envidio",
+      "url": "https://open.spotify.com/track/07PF7Djp1Dmrin3X5fy8nA"
     }
   ],
   "unique_name": "Salsa Lessons",

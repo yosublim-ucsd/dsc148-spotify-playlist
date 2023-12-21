@@ -2,37 +2,37 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 ### [EQUAL Portugal: O melhor de 2023](https://open.spotify.com/playlist/37i9dQZF1DXa3XvSefBFmb)
 
-> As artistas femininas do ano, como Sara Tavares \(in memoriam\).
+> Ouve estas extrarodinárias artistas, como Sara Correia, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,695 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,694 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 |
-| 2 | [Assim Assim](https://open.spotify.com/track/2m0o8Mdg6SxG4ALP2bH00j) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [!!](https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK) | 2:49 |
-| 3 | [Chelas](https://open.spotify.com/track/0VzOLgOKDgkA0DGc8X5MYV) | [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA) | [Chelas](https://open.spotify.com/album/68om7WsWbWeyY7fPoH2wqi) | 3:20 |
-| 4 | [O quarto \(fado Pagem\)](https://open.spotify.com/track/1RRPG0YWTTMI5Npos4XrK4) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Portuguesa](https://open.spotify.com/album/3YYC6lQ2PV71ncQrJbV1HE) | 3:20 |
-| 5 | [Só Nós 2](https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Só Nós 2](https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18) | 3:49 |
+| 1 | [Chelas](https://open.spotify.com/track/0VzOLgOKDgkA0DGc8X5MYV) | [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA) | [Chelas](https://open.spotify.com/album/68om7WsWbWeyY7fPoH2wqi) | 3:20 |
+| 2 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 |
+| 3 | [O quarto \(fado Pagem\)](https://open.spotify.com/track/1RRPG0YWTTMI5Npos4XrK4) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Portuguesa](https://open.spotify.com/album/3YYC6lQ2PV71ncQrJbV1HE) | 3:20 |
+| 4 | [os croquetes acabam](https://open.spotify.com/track/3Kv9393GtI3N8MCxZBW8xf) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [os croquetes acabam](https://open.spotify.com/album/2VjrO71oAxcBHdQJlBimRT) | 3:33 |
+| 5 | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/track/13t0QukUq6xgwBHGRUcV4C) | [Kady](https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz), [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/album/4ek95wuvEuOlSNP1DDqp9h) | 3:09 |
 | 6 | [TROMPETE](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [TROMPETE](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 |
-| 7 | [Será Que Tu Vês](https://open.spotify.com/track/1UjN8fGtex4VXwfh3DkLU3) | [Denise](https://open.spotify.com/artist/6t9iYij561aIw8DBdos1Wr) | [Será Que Tu Vês](https://open.spotify.com/album/0ZeKxZtEKg69aZxqJKcgAN) | 3:00 |
-| 8 | [Goodnight](https://open.spotify.com/track/2zBVLxBa67NP7rO4wjJMmP) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:57 |
+| 7 | [Só Nós 2](https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Só Nós 2](https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18) | 3:49 |
+| 8 | [Vazio](https://open.spotify.com/track/4gTMH7RCIvoiIITibZxM8N) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Vazio](https://open.spotify.com/album/6WkhLLFadv5DiDIlKhsCWF) | 5:02 |
 | 9 | [Sinergy](https://open.spotify.com/track/6psG1I3i4mW8Fe97svskoK) | [YANAGUI](https://open.spotify.com/artist/2hDOcSFCU43glzID9X24dU), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [Sinergy](https://open.spotify.com/album/3Qh36m1JoKoZyXg4FNyWth) | 4:06 |
-| 10 | [Vazio](https://open.spotify.com/track/4gTMH7RCIvoiIITibZxM8N) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Vazio](https://open.spotify.com/album/6WkhLLFadv5DiDIlKhsCWF) | 5:02 |
-| 11 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 |
-| 12 | [Suficiente](https://open.spotify.com/track/73Vgzpd8VYGc0fHcPthMh1) | [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Suficiente](https://open.spotify.com/album/2KE0VmEzN843mfpQVeE6Ka) | 2:54 |
-| 13 | [os croquetes acabam](https://open.spotify.com/track/3Kv9393GtI3N8MCxZBW8xf) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [os croquetes acabam](https://open.spotify.com/album/2VjrO71oAxcBHdQJlBimRT) | 3:33 |
-| 14 | [cansada de ti](https://open.spotify.com/track/2eQaSvC6yEnXbBPNX23DM3) | [Capital Da Bulgária](https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs) | [cansada de ti](https://open.spotify.com/album/7LZ988wEv0YbUIKdD0S5Cs) | 3:44 |
-| 15 | [Ninja](https://open.spotify.com/track/6rFrw2q9nHux9FnZkmlzYd) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Ninja](https://open.spotify.com/album/3KJA1FQ0D6xptLEII8MAFK) | 2:32 |
-| 16 | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/track/13t0QukUq6xgwBHGRUcV4C) | [Kady](https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz), [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Nha Kabelu \(feat\. Nayela\)](https://open.spotify.com/album/4ek95wuvEuOlSNP1DDqp9h) | 3:09 |
-| 17 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
-| 18 | [Mázia](https://open.spotify.com/track/4W2eyKnZa4iDpOM0B7fBpY) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Casa Guilhermina](https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu) | 3:26 |
-| 19 | [Yo No Cambio Nada](https://open.spotify.com/track/6PV5RuhCHMKaRak7CueUdg) | [Lorena Pollock](https://open.spotify.com/artist/57aJV1lubomzRmN7U39Wmh), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Yo No Cambio Nada](https://open.spotify.com/album/0qzEePjdojLGgVg3xqoBVa) | 2:46 |
+| 10 | [Goodnight](https://open.spotify.com/track/2zBVLxBa67NP7rO4wjJMmP) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:57 |
+| 11 | [Será Que Tu Vês](https://open.spotify.com/track/1UjN8fGtex4VXwfh3DkLU3) | [Denise](https://open.spotify.com/artist/6t9iYij561aIw8DBdos1Wr) | [Será Que Tu Vês](https://open.spotify.com/album/0ZeKxZtEKg69aZxqJKcgAN) | 3:00 |
+| 12 | [Mázia](https://open.spotify.com/track/4W2eyKnZa4iDpOM0B7fBpY) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Casa Guilhermina](https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu) | 3:26 |
+| 13 | [Yo No Cambio Nada](https://open.spotify.com/track/6PV5RuhCHMKaRak7CueUdg) | [Lorena Pollock](https://open.spotify.com/artist/57aJV1lubomzRmN7U39Wmh), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Yo No Cambio Nada](https://open.spotify.com/album/0qzEePjdojLGgVg3xqoBVa) | 2:46 |
+| 14 | [Assim Assim](https://open.spotify.com/track/2m0o8Mdg6SxG4ALP2bH00j) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [!!](https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK) | 2:49 |
+| 15 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 |
+| 16 | [Suficiente](https://open.spotify.com/track/73Vgzpd8VYGc0fHcPthMh1) | [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Suficiente](https://open.spotify.com/album/2KE0VmEzN843mfpQVeE6Ka) | 2:54 |
+| 17 | [cansada de ti](https://open.spotify.com/track/2eQaSvC6yEnXbBPNX23DM3) | [Capital Da Bulgária](https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs) | [cansada de ti](https://open.spotify.com/album/7LZ988wEv0YbUIKdD0S5Cs) | 3:44 |
+| 18 | [Ninja](https://open.spotify.com/track/6rFrw2q9nHux9FnZkmlzYd) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Ninja](https://open.spotify.com/album/3KJA1FQ0D6xptLEII8MAFK) | 2:32 |
+| 19 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
 | 20 | [Até Te Fazia](https://open.spotify.com/track/22Ij3Hrp6vLmGoe10bITwE) | [Rita Lina](https://open.spotify.com/artist/0BhIUKHQe1CFblIrj6bgcz) | [Até Te Fazia](https://open.spotify.com/album/5LuYJvYXxIJAt7hpbJMErr) | 5:10 |
 | 21 | [Melancholia](https://open.spotify.com/track/5u4IEyKau4MIW2gt7Y9t7V) | [SOPHIA](https://open.spotify.com/artist/0wlYDNCNA2BeqciBhNEYM8) | [Melancholia](https://open.spotify.com/album/1F1JYmoetwMR8LPaVq2Lrp) | 3:01 |
 | 22 | [Menina Da Praia](https://open.spotify.com/track/6XjKdI4vpyYxBTKQUKubti) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Menina Da Praia](https://open.spotify.com/album/0LsNLEO6qHTO7XisIGrRKW) | 2:19 |
 | 23 | [Não Voltes](https://open.spotify.com/track/4YruHUe2FsBDjogFkvKilL) | [LUA](https://open.spotify.com/artist/5ZDxpJ5D6Z2wdJqZBgrZeJ) | [Não Voltes](https://open.spotify.com/album/4kMxsjBaWaD76GyvjF5yCs) | 2:41 |
-| 24 | [Alguém me leve](https://open.spotify.com/track/6s0oK7V9nUfCHqwK1bKWtX) | [Mariana Guimarães](https://open.spotify.com/artist/0ZPP2ooNi7xEaPWdDDFFaL) | [Alguém me leve](https://open.spotify.com/album/6C7ncqdHEypvsoM6zajdtI) | 2:17 |
-| 25 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 |
+| 24 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 |
+| 25 | [Alguém me leve](https://open.spotify.com/track/6s0oK7V9nUfCHqwK1bKWtX) | [Mariana Guimarães](https://open.spotify.com/artist/0ZPP2ooNi7xEaPWdDDFFaL) | [Alguém me leve](https://open.spotify.com/album/6C7ncqdHEypvsoM6zajdtI) | 2:17 |
 | 26 | [Lourdes](https://open.spotify.com/track/24hRsmQ5wftbfAbWu3sQUN) | [Ana De Llor](https://open.spotify.com/artist/61DENukGlPQstYvSeroMfG) | [Not Your Holy Ghost](https://open.spotify.com/album/26F3OQWRgnUPQWjTmYFtsW) | 3:49 |
 | 27 | [A+](https://open.spotify.com/track/5I9btHsspV5ZRp6CCnfGtr) | [Mary Jane](https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau) | [Mary Jane, wassup!?](https://open.spotify.com/album/1uycX7dLoN78tswkjR4GrJ) | 2:52 |
 | 28 | [Será o que Será](https://open.spotify.com/track/13zIXFdZlVUvzVDcdOyUso) | [Joana Espadinha](https://open.spotify.com/artist/2LNs5dvEce3LaEp4nwW16B) | [Será o que Será](https://open.spotify.com/album/7aKu8zZEkGTYXAVI1q9Wyt) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Tensa](https://open.spotify.com/track/3dnpcmta1PYyK7KnBQmk5p) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ), [Malva](https://open.spotify.com/artist/0ZGeXDeVRYGrf8dA3sFzGE) | [Tensa](https://open.spotify.com/album/5NpoAYN1zGSExnlwxZpmgU) | 3:21 |
 | 50 | [Nyanyana](https://open.spotify.com/track/686Gapb3LQuK8LhfYcnYG9) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [alla](https://open.spotify.com/album/2z3oCBULHZqfLu4WmVKno2) | 4:13 |
 
-Snapshot ID: `MCw1ZThmNzc2Yzk4YTYxZWE3ZDRmMThlMGNlNzFiOWYxZDhiMDYwZmRi`
+Snapshot ID: `MCw0N2M4NzE1MmJhMDFkNjgzZTdjOGJjMWRkOGYzM2QwYTM1NjczMjAy`

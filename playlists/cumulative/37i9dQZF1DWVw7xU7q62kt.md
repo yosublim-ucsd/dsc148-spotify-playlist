@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-144 songs - 8 hr 2 min
+146 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ancestors](https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:25 | 2023-08-22 |  |
 | [Annie's Tune](https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Annie's Tune](https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP) | 4:23 | 2023-08-22 |  |
 | [Be Water](https://open.spotify.com/track/1FaBri7R5R5g3yIvjuMKXa) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Be Water / You Can Fly](https://open.spotify.com/album/68TYTxBLueBYiXeV5XNQur) | 1:20 | 2023-10-13 | 2023-12-12 |
+| [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 |  |
 | [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 | 2023-08-22 |  |
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-08-22 |  |
 | [Bitter Suite](https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:46 | 2023-08-22 |  |
@@ -84,7 +85,7 @@
 | [limonene](https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY) | [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW) | [limonene](https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ) | 2:56 | 2023-08-22 |  |
 | [Lockdown Drive](https://open.spotify.com/track/1OMr7DcjwxiqbyMclrScD1) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Jazzbois Goes Blunt II](https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3) | 5:20 | 2023-08-22 |  |
 | [Long Time](https://open.spotify.com/track/6ZK9plJc7ahA9ML8Q6IRww) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Long Time](https://open.spotify.com/album/3YXiuYi4tXYdR3AX3f5Wbh) | 2:33 | 2023-10-13 |  |
-| [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 |  |
+| [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2023-12-21 |
 | [Machete](https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Machete](https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO) | 2:45 | 2023-08-22 |  |
 | [Midnight Tokyo](https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ) | [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Midnight Tokyo](https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0) | 2:09 | 2023-08-22 |  |
 | [Minding My Business](https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Realm of Ideas](https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1) | 3:45 | 2023-08-22 |  |
@@ -136,7 +137,7 @@
 | [The Pearl That Glitters](https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Pearl That Glitters](https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW) | 3:43 | 2023-10-13 |  |
 | [The Pleasure Principle](https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Changing Tides of Dreams](https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I) | 3:01 | 2023-11-17 | 2023-12-10 |
 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2023-08-22 |  |
-| [Twinkles](https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Twinkles](https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn) | 2:41 | 2023-10-13 |  |
+| [Twinkles](https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Twinkles](https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn) | 2:41 | 2023-10-13 | 2023-12-21 |
 | [Up](https://open.spotify.com/track/2KM2zleCL1o3ruHOic7ZLY) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Up](https://open.spotify.com/album/5tF9qI8ae8ieur4U7SSFow) | 3:24 | 2023-10-13 |  |
 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2023-08-22 |  |
 | [Urban Oasis](https://open.spotify.com/track/68q3yCwDpiaoSQzp2ZWeG2) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Urban Oasis](https://open.spotify.com/album/3q6FnpTsnNq0J1JYFh83fa) | 2:30 | 2023-12-08 |  |
@@ -147,6 +148,7 @@
 | [Watten Koma](https://open.spotify.com/track/7mBrEy4wcd9qgeRxFbeM0l) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Watten Koma](https://open.spotify.com/album/27iTKwjCTjPHgWEqBUMGxM) | 2:15 | 2023-10-13 | 2023-11-27 |
 | [When Your Lover Has Gone](https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 2:11 | 2023-08-22 |  |
 | [While She Waits](https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G) | 2:16 | 2023-08-22 |  |
+| [Windjammer](https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Windjammer](https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV) | 2:27 | 2023-12-20 |  |
 | [Wonderment](https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Wonderment](https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs) | 3:19 | 2023-08-22 |  |
 | [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 | 2023-08-22 |  |
 | [Yield](https://open.spotify.com/track/1lFql1YShXyrUMMMd8St6U) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr) | [How It is Now](https://open.spotify.com/album/2ok0mKvIlEg7jsFGYEZcV5) | 4:54 | 2023-09-08 |  |

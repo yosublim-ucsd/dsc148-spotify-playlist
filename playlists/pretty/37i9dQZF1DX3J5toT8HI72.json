@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 788916,
+  "num_followers": 788982,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTk3MDRmYTJhNTJlNWZkNjJlYWQ1OWRjYjUwNDgzM2VlNTc0N2Zk",
+  "snapshot_id": "MCwxN2ZjZDUyYTBlZmZiZTcxOWFiMjYwM2FmMjBlYWY0Yjk0NWIyYmQ5",
   "tracks": [
     {
       "added_at": "2023-12-11 13:23:48",
@@ -643,22 +643,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+        "name": "Nossa Miss\u00e3o",
+        "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
       },
       "artists": [
         {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
+      "duration_ms": 254026,
+      "name": "Quero Ser Feliz Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -679,18 +675,22 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Nossa Miss\u00e3o",
-        "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
       "artists": [
         {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
         }
       ],
-      "duration_ms": 254026,
-      "name": "Quero Ser Feliz Tamb\u00e9m",
-      "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2023-12-11 13:23:48",

@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241441,
+  "num_followers": 241488,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTcyNTI0ZDAwZWQ1ZWUzZjQ0ZDg1NTliZjM4NjIwYjZmYTljZDdj",
+  "snapshot_id": "MCwzZTAxYzk0NGUxNWI4MTlmMzNmOWUxOTkwMjM0YTkzNTVlZmRhYTkx",
   "tracks": [
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
-      },
-      "artists": [
-        {
-          "name": "Miss Lafamilia",
-          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
         "name": "Do They Know",
         "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 121263,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
+      },
+      "artists": [
+        {
+          "name": "Miss Lafamilia",
+          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
     },
     {
       "added_at": "2023-12-18 13:45:12",

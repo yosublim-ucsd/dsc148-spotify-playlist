@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Stefflon Don \(pictured\), Reneé Rap & Megan Thee Stallion, Celeste and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,308 likes - 104 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,329 likes - 104 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 63 | [fall](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 |
 | 64 | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 |
 | 65 | [Old School Sound](https://open.spotify.com/track/3ozOUkF7LFjtE8nx9CR5ih) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Old School Sound](https://open.spotify.com/album/7F8m6iLwPnmMZWYhoCDvzm) | 3:31 |
-| 66 | [BIZZY](https://open.spotify.com/track/2sUTWO4n1XnehdWsyUXBRv) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry) | [BIZZY](https://open.spotify.com/album/4phqN32qryoJqU3ITcm6j9) | 2:28 |
+| 66 | [BIZZY](https://open.spotify.com/track/2sUTWO4n1XnehdWsyUXBRv) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68) | [BIZZY](https://open.spotify.com/album/4phqN32qryoJqU3ITcm6j9) | 2:28 |
 | 67 | [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 |
 | 68 | [EFCC](https://open.spotify.com/track/5qFSNLIxAPu80gaunwvUpk) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Mamapiano](https://open.spotify.com/album/70HZ6HLsOmoGKYGhit4Frr) | 3:18 |
 | 69 | [Emily G](https://open.spotify.com/track/2I1GaaBS6JWn2ZfsCUkoxp) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Emily G](https://open.spotify.com/album/5Lz8IXtAaMhNfPO0b6eKia) | 5:47 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 103 | [Honey It Hurts](https://open.spotify.com/track/7ongjHst2eIHbVXA2xHAO9) | [Aniwa](https://open.spotify.com/artist/7wdePkwUlvbzv8zdt0RmJX) | [Bridging Gaps: Portraits of Rising Female Artists \[UK Edition\]](https://open.spotify.com/album/0uomdtfmhEv93vax0tPKeO) | 3:14 |
 | 104 | [This Christmas](https://open.spotify.com/track/21HybBY92stwLkDGNMvB6N) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Nashe](https://open.spotify.com/artist/7J2qQLdf6V7JJM4GcVyZmz) | [This Christmas](https://open.spotify.com/album/1PehjA0qDUsDeLJY7yIZ8v) | 2:55 |
 
-Snapshot ID: `MCw5NmQ0ZWZlZWY4NjY1MjUxMjE1Y2QwN2YwOWI2MjJjMGM0ZjE4NTJk`
+Snapshot ID: `MCwxYzQ2ZWNkYjA4NjFkN2E1ODI1MjAzMjZiM2I5Y2NjNmMwZmMzNGI5`

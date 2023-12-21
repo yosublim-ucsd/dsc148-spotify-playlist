@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Rio Romeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,386 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,336 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 59 | [Seribu Pelukan](https://open.spotify.com/track/1hJTAqeobG7hQEavj8PUjO) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Seribu Pelukan](https://open.spotify.com/album/2l6X7rCdAjVmUG0KzbfhEW) | 3:53 |
 | 60 | [Yang Tlah Merelakanmu](https://open.spotify.com/track/7zcmeZ4Xt54ICq90anFSXq) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:53 |
 
-Snapshot ID: `MCxhMzkxYjdiMGI1OGZlYTM1MzIzNjM3N2Y5NDk0ODNkNmUzMDI2Y2Uz`
+Snapshot ID: `MCxkMzIwYzY4YjFiNDU2ZGZhNDM5MmY3NDlkYjVhNDRkZTgyNGVmOWNj`

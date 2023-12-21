@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > Canciones chill para ayudarte a bajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,586 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,596 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 58 | [Como vos \- En vivo](https://open.spotify.com/track/2On90QefesETPtJw7LePV2) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ), [Vitali Sessions](https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y) | [Vitali Sessions \#3 \(En vivo\)](https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1) | 3:18 |
 | 59 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 |
 | 60 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 |
-| 61 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 |
-| 62 | [POCA FE](https://open.spotify.com/track/122xkWF4LRrAIZPzZEogy9) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POCA FE](https://open.spotify.com/album/5fdkUi9K20VRbdYLdfJJEn) | 3:01 |
-| 63 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 |
+| 61 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 |
+| 62 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 |
+| 63 | [POCA FE](https://open.spotify.com/track/122xkWF4LRrAIZPzZEogy9) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POCA FE](https://open.spotify.com/album/5fdkUi9K20VRbdYLdfJJEn) | 3:01 |
 | 64 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 |
-| 65 | [No Voy a Ser Yo](https://open.spotify.com/track/1eMgItwutbGkckkl3JTKFH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Voy a Ser Yo](https://open.spotify.com/album/1tnAVXOqJfrqGUgG6ZUm3e) | 2:55 |
-| 66 | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh) | 3:09 |
+| 65 | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh) | 3:09 |
+| 66 | [No Voy a Ser Yo](https://open.spotify.com/track/1eMgItwutbGkckkl3JTKFH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Voy a Ser Yo](https://open.spotify.com/album/1tnAVXOqJfrqGUgG6ZUm3e) | 2:55 |
 | 67 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 |
 | 68 | [Para Crecer](https://open.spotify.com/track/0PflZj1fnVjRYGBNR37T0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Para Crecer](https://open.spotify.com/album/0BX68mIp1af45dCMa3kTP7) | 2:24 |
 | 69 | [Falsas Esperanzas](https://open.spotify.com/track/6Hm00Tl2uG5PhCCVsGB26u) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Falsas Esperanzas](https://open.spotify.com/album/5RmwruUMsb7kVs4foUB7O0) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 74 | [Tus Ojos](https://open.spotify.com/track/2AxlsVkjmhSPn8xVZLLeDx) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Tus Ojos](https://open.spotify.com/album/2kbuz6nzNvlAgmNavzihpv) | 2:15 |
 | 75 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 |
 
-Snapshot ID: `MCxjYzI3YTZkNTNiODgzN2MwMWQ2ODI4ZTQ0YjBhYjcwMWY3OTBlNzll`
+Snapshot ID: `MCw2MTA0NjEyNWIxYzkxODRkMmYwMjVkNTYyNTZkNDk4N2UzMzVlMzRh`

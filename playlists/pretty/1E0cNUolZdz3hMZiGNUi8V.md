@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ?si=\-bxSNr4lRvqjq2NTBmpykA">Jack Harlow</a>, Gunna, Gucci Mane,  Lil Uzi Vert,  Young Thug, A Boogie Wit da Hoodie,  Portion, Rundown Spaz, LUM &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 39,709 likes - 50 songs - 2 hr 17 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 39,700 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

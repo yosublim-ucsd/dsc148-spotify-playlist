@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:فؤاد عبدالوهاب
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,755 likes - 52 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,775 likes - 52 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 51 | [سواليف الوله](https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [سواليف الوله](https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor) | 3:23 |
 | 52 | [الحيلة](https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الحيلة](https://open.spotify.com/album/4P1CiqYMFvMvMsNxKQWJce) | 2:57 |
 
-Snapshot ID: `MCw4OWQ5ZGM0M2ViNDVmZmI4MTk3YjhhOTg4ZTUzMGE3MTQ4YWU2Njky`
+Snapshot ID: `MCxmYTc2ZjkyMDJmNjY3MTkyZDE1OTE4ZDc3ZTlkOGEyOGE5YWQ2Njgz`

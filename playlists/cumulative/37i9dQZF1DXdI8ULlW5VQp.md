@@ -4,7 +4,7 @@
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Reik y Ha\*Ash en portada.
 
-259 songs - 14 hr 49 min
+260 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 | 2022-07-01 | 2022-07-23 |
 | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/track/2FpvK90F0hDiZ5cNqFQhyd) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Mabel](https://open.spotify.com/artist/7mM2sm7CppI1adkdG5nURJ) | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/album/6HR4ZwP1SpSH3IafP2VPSq) | 4:16 | 2022-02-04 | 2022-07-02 |
 | [El Suéter](https://open.spotify.com/track/2bdY6ski2FX3zsLYZZGBIw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [El Suéter](https://open.spotify.com/album/3uxziGtlsgvgHtPQJg5CBx) | 2:59 | 2022-04-01 | 2023-12-16 |
-| [Ella Qué Te Dio](https://open.spotify.com/track/3Ot2GARqAwZfEX4JMZkkq8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Ella Qué Te Dio](https://open.spotify.com/album/2dIJdIf0ALm98VNk6Cy7Pe) | 3:48 | 2022-02-04 |  |
+| [Ella Qué Te Dio](https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:48 | 2023-09-26 |  |
+| [Ella Qué Te Dio](https://open.spotify.com/track/3Ot2GARqAwZfEX4JMZkkq8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Ella Qué Te Dio](https://open.spotify.com/album/2dIJdIf0ALm98VNk6Cy7Pe) | 3:48 | 2022-02-04 | 2023-12-21 |
 | [Enamorarte Otra Vez](https://open.spotify.com/track/1l8IJKqEqOSJH0UwO1oQ1b) | [Gus Vazquez](https://open.spotify.com/artist/02ZQCHMjjOq0naJ8M4e5XZ) | [Enamorarte Otra Vez](https://open.spotify.com/album/6U1W4fL3BjIkrTXODb6LuP) | 3:02 | 2022-02-04 | 2022-02-19 |
 | [Entre Tú y Yo](https://open.spotify.com/track/124LWNIke7C7Cc5wCdQ8vJ) | [Karla Breu](https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1) | [Entre Tú y Yo](https://open.spotify.com/album/0vKVRqu5Cnv4LLJskpIVJz) | 4:01 | 2022-03-11 |  |
 | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y) | 3:57 | 2022-02-11 |  |

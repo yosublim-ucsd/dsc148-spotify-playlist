@@ -3373,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "Check This Out",
+        "url": "https://open.spotify.com/album/53Mq5cB1qVN2x9qxgK4aVa"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115503,
+      "name": "Check This Out",
+      "url": "https://open.spotify.com/track/5lrVN3Sfps92DX4QEFV6IA"
+    },
+    {
+      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/1Abn64JcaIkAM8nhynmCie"
       },

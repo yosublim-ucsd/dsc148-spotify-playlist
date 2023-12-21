@@ -4,7 +4,7 @@
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-99 songs - 6 hr 19 min
+100 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 | 2023-11-09 |  |
 | [Anhelos](https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Los Dos Inseparables](https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D) | 2:56 | 2023-11-09 |  |
 | [Apagame La Vela](https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew) | [Billo's Caracas Boys Vs\. Los Melódicos](https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV) | [Mano A Mano](https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr) | 2:01 | 2023-11-09 |  |
+| [Aquellos Diciembres](https://open.spotify.com/track/0j6PkTxrRbuQfWvFNSflkw) | [Los Falcons](https://open.spotify.com/artist/2UODcsr0CoKJoDK8yNJm5V) | [Cinco Pa' las Doce](https://open.spotify.com/album/2OwJBijbad5wVfwakh3Rqj) | 3:16 | 2023-12-20 |  |
 | [Aquí Está El Bobo](https://open.spotify.com/track/2B96lfFlbinfLS2HWweBYn) | [Hernan Dario Hernandez](https://open.spotify.com/artist/2XAs0PIadAYZYnt2TEa0Cs) | [Éxitos De Siempre](https://open.spotify.com/album/7F4oJEuDFeF0erkzERzihR) | 3:15 | 2023-11-15 |  |
 | [Arbolito de Navidad](https://open.spotify.com/track/2eoR1IW9sS4saeRPlXlxW9) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:46 | 2023-12-05 |  |
 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 | 2023-11-09 |  |
@@ -40,7 +41,7 @@
 | [El Hijo de Tuta](https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 4:00 | 2023-11-09 |  |
 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW), [La Billo's y Los Melodicos](https://open.spotify.com/artist/62okGmZQ0Yr2lQhBUL6h86) | [La Billo's y Los Melodicos de coleccion, vol.1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 | 2023-11-09 | 2023-11-18 |
 | [El Mochuelo](https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 4:56 | 2023-11-09 |  |
-| [El Pegao](https://open.spotify.com/track/6BIJjj0GaPbmDXMTbLG6kt) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 3:10 | 2023-12-15 |  |
+| [El Pegao](https://open.spotify.com/track/6BIJjj0GaPbmDXMTbLG6kt) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 3:10 | 2023-12-15 | 2023-12-21 |
 | [El Pichón](https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 3:11 | 2023-12-15 |  |
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2023-11-09 |  |
 | [El Ron de Vinola](https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:42 | 2023-11-15 |  |

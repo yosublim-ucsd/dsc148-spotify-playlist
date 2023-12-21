@@ -4,7 +4,7 @@
 
 > O melhor do rap e a música urbana em 2023\. Foto: T\-Rex.
 
-148 songs - 8 hr 38 min
+149 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [3POINTS](https://open.spotify.com/track/1TrjslfLFx7l7r2eMKAwX4) | [RDM Gang](https://open.spotify.com/artist/0njwfY4F51Cis2dWWoqLfR) | [3POINTS](https://open.spotify.com/album/0dDUh0a8V8w4EnEUX7n8qw) | 4:27 | 2021-12-01 | 2022-12-01 |
 | [Abraço](https://open.spotify.com/track/5IwgsQkoSeDPr4yWPILbiE) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk) | [Abraço](https://open.spotify.com/album/1NEgmMKZTPfgeVqtEfeFng) | 2:57 | 2021-12-01 | 2022-12-01 |
 | [Alcatraz](https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Alcatraz](https://open.spotify.com/album/7aFKsnwLJ7fMY90k4yVXiz) | 3:25 | 2023-11-29 |  |
-| [ALKiMISTA](https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/0siZdhz3ZguKw6Xrgh4Fw0) | 2:45 | 2023-11-29 |  |
+| [ALKiMISTA](https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/0siZdhz3ZguKw6Xrgh4Fw0) | 2:45 | 2023-11-29 | 2023-12-21 |
+| [ALKiMISTA](https://open.spotify.com/track/4ARK0Ed7CfqpvHEeBUw81F) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/2a5yMPRNFWcu0o2kwBgXcv) | 2:45 | 2023-11-29 |  |
 | [Amor Ou Segredo](https://open.spotify.com/track/0NAIF6FSjiH0jECUSy2xtU) | [Bless](https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG) | [Amor Ou Segredo](https://open.spotify.com/album/2fY2MEmSGaDqmHFJxj9Eql) | 4:04 | 2021-12-01 | 2022-12-01 |
 | [Andalé](https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT) | [Minguito 283](https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv) | [Andalé](https://open.spotify.com/album/4Z1dmBdlH5t0e9Bhw780gU) | 3:21 | 2022-11-30 | 2023-12-09 |
 | [Anjos Não Falam](https://open.spotify.com/track/6NctI5sn7xDSjdXPIIwchV) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Iluminado](https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq) | 4:45 | 2023-11-29 |  |

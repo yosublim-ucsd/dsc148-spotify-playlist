@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 640363,
+  "num_followers": 640411,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTJiZjExNzJlOTU3MjMyYmE2OTIyNzE0ODgyY2E3YTlkZmEyNjUw",
+  "snapshot_id": "MCw1MmQ4ODk0YzcxMzZkZTA2OTdjNmMwM2YyYjdiYWI0N2FmNTFlMDc0",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+        "name": "Ugly Beautiful",
+        "url": "https://open.spotify.com/album/0bqAqbOsbQ145KcqNXbWQT"
       },
       "artists": [
         {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+          "name": "Babybird",
+          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
         }
       ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl - Remastered 2015",
-      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
+      "duration_ms": 222440,
+      "name": "You're Gorgeous",
+      "url": "https://open.spotify.com/track/5IaJ6YghsvtGBDyF7H6vkU"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Ugly Beautiful",
-        "url": "https://open.spotify.com/album/0bqAqbOsbQ145KcqNXbWQT"
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
       },
       "artists": [
         {
-          "name": "Babybird",
-          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
         }
       ],
-      "duration_ms": 222440,
-      "name": "You're Gorgeous",
-      "url": "https://open.spotify.com/track/5IaJ6YghsvtGBDyF7H6vkU"
+      "duration_ms": 258533,
+      "name": "Stupid Girl - Remastered 2015",
+      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
     },
     {
       "added_at": "2022-05-04 17:11:49",

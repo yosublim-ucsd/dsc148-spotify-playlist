@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277177,
+  "num_followers": 277188,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjMwYzA3NGFkMjY2ODEzYjA5NjRlMGE4MDFiY2YzZWQwMWVjN2Fj",
+  "snapshot_id": "MCwwZDI1N2RmNTA5MDc3ZDAyNjJiNDVjYmZjNWJkMzhlODQwNjJmOWMy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Concrete Angel (acoustic)",
+        "url": "https://open.spotify.com/album/7H9nUeDUYFDUfBiZDDIpsp"
+      },
+      "artists": [
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "duration_ms": 265718,
+      "name": "Concrete Angel (acoustic)",
+      "url": "https://open.spotify.com/track/62sJECqRfQ6P7pkNwfnkaO"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Head & Heart (feat. MNEK) [Acoustic]",
         "url": "https://open.spotify.com/album/71LvRT11O1syL5E8BRBwmj"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 218526,
       "name": "Head & Heart (feat. MNEK) - Acoustic",
       "url": "https://open.spotify.com/track/06N4bQF7MXzLbbifGMIJZW"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Concrete Angel (acoustic)",
-        "url": "https://open.spotify.com/album/7H9nUeDUYFDUfBiZDDIpsp"
-      },
-      "artists": [
-        {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
-        }
-      ],
-      "duration_ms": 265718,
-      "name": "Concrete Angel (acoustic)",
-      "url": "https://open.spotify.com/track/62sJECqRfQ6P7pkNwfnkaO"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Smoke Filled Room (Acoustic Session)",
+        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
+      },
+      "artists": [
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        }
+      ],
+      "duration_ms": 189660,
+      "name": "Smoke Filled Room - Acoustic Session",
+      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Brand New Machine",
         "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 238640,
       "name": "What Is Right",
       "url": "https://open.spotify.com/track/0kmnAeHOhccNv6cCRj1wks"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Smoke Filled Room (Acoustic Session)",
-        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
-      },
-      "artists": [
-        {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
-        }
-      ],
-      "duration_ms": 189660,
-      "name": "Smoke Filled Room - Acoustic Session",
-      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Ferrari (Acoustic)",
         "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 141890,
       "name": "Ferrari - Acoustic",
       "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1495,22 +1495,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+        "name": "Grabbitz - Friends EP",
+        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
+      "duration_ms": 61711,
+      "name": "7.6.14 (Intro)",
+      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1531,6 +1527,26 @@
       "duration_ms": 169846,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Grabbitz - Friends EP",
-        "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 61711,
-      "name": "7.6.14 (Intro)",
-      "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Spectrum EP",
         "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Are You With Me (Remixes)",
-        "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 176518,
-      "name": "Are You with Me - Harold Van Lennep Piano Edit",
-      "url": "https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Mad World (Acoustic Version)",
         "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Are You With Me (Remixes)",
+        "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Are You with Me - Harold Van Lennep Piano Edit",
+      "url": "https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Ones You Miss (Acoustic)",
-        "url": "https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 112173,
-      "name": "Ones You Miss - Acoustic",
-      "url": "https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "No Time For Tears (Acoustic)",
         "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 205305,
       "name": "No Time For Tears - Acoustic",
       "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Ones You Miss (Acoustic)",
+        "url": "https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 112173,
+      "name": "Ones You Miss - Acoustic",
+      "url": "https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl"
     }
   ],
   "unique_name": "mint Acoustic",

@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1697644,
+  "num_followers": 1697664,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOThhMjZjZGRiNTczZWRlZmQ0NGMxN2MxMzNmMDYxNDM5N2E3NjFi",
+  "snapshot_id": "MCw0ZTAzMDg4NDY5YjdjMGFiY2VlYjFkMzZlODg3Mzg5NTg3MTNkNzJj",
   "tracks": [
     {
       "added_at": "2023-12-08 18:23:16",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
     },
     {
-      "added_at": "2023-08-15 16:57:46",
-      "album": {
-        "name": "loving u is harder",
-        "url": "https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 147426,
-      "name": "loving u is harder",
-      "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Desire, I Want To Turn Into You",
@@ -451,6 +435,22 @@
       "duration_ms": 232625,
       "name": "Welcome To My Island",
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
+    },
+    {
+      "added_at": "2023-08-15 16:57:46",
+      "album": {
+        "name": "loving u is harder",
+        "url": "https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 147426,
+      "name": "loving u is harder",
+      "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Her Favorite Flowers",
+        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 193242,
+      "name": "hold me, never let go",
+      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Rainbow Mixtape",
@@ -705,20 +721,20 @@
       "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-12-08 18:23:16",
       "album": {
-        "name": "Her Favorite Flowers",
-        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
       },
       "artists": [
         {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 193242,
-      "name": "hold me, never let go",
-      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
+      "duration_ms": 165333,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
     },
     {
       "added_at": "2023-07-07 18:51:45",
@@ -735,22 +751,6 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2023-12-08 18:23:16",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
-    },
-    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "There\u2019s no Other",
@@ -1139,6 +1123,22 @@
       "duration_ms": 155801,
       "name": "There\u2019s no Other",
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/1NqIMpmNukrvX1aAgxujvO"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Home (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 226057,
-      "name": "Home (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Moonshine",
@@ -1323,6 +1307,22 @@
       "duration_ms": 240000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Home (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 226057,
+      "name": "Home (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
     },
     {
       "added_at": "2023-08-04 13:13:27",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
     },
     {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Next Best Exit",
-        "url": "https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Next Best Exit",
-      "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
-    },
-    {
       "added_at": "2023-04-21 04:19:11",
       "album": {
         "name": "Don't Let Me Down",
@@ -1407,6 +1391,22 @@
       "duration_ms": 235280,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Next Best Exit",
+        "url": "https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Next Best Exit",
+      "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
     },
     {
       "added_at": "2023-04-18 18:49:21",
@@ -1445,6 +1445,22 @@
       "url": "https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA"
     },
     {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "Don\u2019t Wanna Love U",
+        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 209418,
+      "name": "Don\u2019t Wanna Love U",
+      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
+    },
+    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
@@ -1463,22 +1479,6 @@
       "duration_ms": 176730,
       "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
-    },
-    {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "Don\u2019t Wanna Love U",
-        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 209418,
-      "name": "Don\u2019t Wanna Love U",
-      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "going...going...GONE!",
-        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "pos",
-      "url": "https://open.spotify.com/track/5EwIo2Vc50Blvpk00ynRQP"
-    },
-    {
       "added_at": "2023-07-14 18:19:08",
       "album": {
         "name": "Supermodels",
@@ -1559,6 +1543,22 @@
       "duration_ms": 165916,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "pos",
+      "url": "https://open.spotify.com/track/5EwIo2Vc50Blvpk00ynRQP"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Stones",
-        "url": "https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t"
-      },
-      "artists": [
-        {
-          "name": "Sophia Alexa",
-          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
-        }
-      ],
-      "duration_ms": 192490,
-      "name": "Stones",
-      "url": "https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "All Night",
@@ -1611,6 +1595,22 @@
       "duration_ms": 195598,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Stones",
+        "url": "https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t"
+      },
+      "artists": [
+        {
+          "name": "Sophia Alexa",
+          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
+        }
+      ],
+      "duration_ms": 192490,
+      "name": "Stones",
+      "url": "https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1661,20 +1661,20 @@
       "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
     },
     {
-      "added_at": "2023-09-08 04:00:00",
+      "added_at": "2023-11-06 22:17:47",
       "album": {
-        "name": "Boy Scout",
-        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
+        "name": "Drain Me!",
+        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
         }
       ],
-      "duration_ms": 200261,
-      "name": "Boy Scout",
-      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
+      "duration_ms": 121533,
+      "name": "Drain Me!",
+      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
     }
   ],
   "unique_name": "Indie Pop",

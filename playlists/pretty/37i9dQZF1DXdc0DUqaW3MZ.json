@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 324589,
+  "num_followers": 324701,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzNhMzUzZTRkMzM0ZDUyOTE0NzY5MzY4N2U2NWEzMTk3NTlhODk1",
+  "snapshot_id": "MCw4MTIzODFjYzc0ZmViMjY0OTVmNzgzOTRkY2UzN2MxYWJiZjBkM2Zj",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Passion Controller",
-        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
       },
       "artists": [
         {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
         }
       ],
-      "duration_ms": 172219,
-      "name": "Passion Controller",
-      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Ma Jo Lo",
-        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
+        "name": "Passion Controller",
+        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
       },
       "artists": [
         {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
         }
       ],
-      "duration_ms": 147169,
-      "name": "Ma Jo Lo",
-      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
+      "duration_ms": 172219,
+      "name": "Passion Controller",
+      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Sweating",
-        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 204685,
-      "name": "Sweating",
-      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "gr\u00e6",
         "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 250120,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Sweating",
+        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 204685,
+      "name": "Sweating",
+      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
       },
@@ -911,26 +927,6 @@
       "duration_ms": 196441,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "We Are",
-        "url": "https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ"
-      },
-      "artists": [
-        {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Afronaut Zu",
-          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "We Are",
-      "url": "https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -955,18 +951,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
         }
       ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
+      "duration_ms": 255500,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Bad Seeds",
-        "url": "https://open.spotify.com/album/5QP5uWmiAIcOpTStPW3V86"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 180681,
-      "name": "Bad Seeds",
-      "url": "https://open.spotify.com/track/0dPM5QtTPLYLOPo8Zp9aNa"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Girls FM",
         "url": "https://open.spotify.com/album/7clnPpJ3KkLh5GWwzNNWF8"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Third (Deluxe)",
-        "url": "https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx"
+        "name": "Bad Seeds",
+        "url": "https://open.spotify.com/album/5QP5uWmiAIcOpTStPW3V86"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
         }
       ],
-      "duration_ms": 264581,
-      "name": "Brooklyn Ballers",
-      "url": "https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8"
+      "duration_ms": 180681,
+      "name": "Bad Seeds",
+      "url": "https://open.spotify.com/track/0dPM5QtTPLYLOPo8Zp9aNa"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1255,6 +1239,22 @@
       "duration_ms": 136822,
       "name": "o shit!",
       "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Third (Deluxe)",
+        "url": "https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 264581,
+      "name": "Brooklyn Ballers",
+      "url": "https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1279,6 +1279,22 @@
       "duration_ms": 197277,
       "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
       "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 185168,
+      "name": "Above",
+      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 185168,
-      "name": "Above",
-      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
     }
   ],
   "unique_name": "Soultronic",

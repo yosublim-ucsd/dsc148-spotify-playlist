@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 75050,
+  "num_followers": 75089,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTcwMzk0MTBjZmMwMWRlOGE2OTZkZDgzN2NiNmZlZmVjMDM0MDIw",
+  "snapshot_id": "MCwxOWIzMjhkMzZhMmVhODk1ZGNiNjczMDJjZmFkMTNhYjgyMDZhY2Fk",
   "tracks": [
     {
       "added_at": "2023-11-13 14:29:15",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-11-13 14:29:15",
       "album": {
+        "name": "Palha\u00e7ada Speed",
+        "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
+      },
+      "artists": [
+        {
+          "name": "Avelar Music",
+          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
+        },
+        {
+          "name": "Belim",
+          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
+        }
+      ],
+      "duration_ms": 149170,
+      "name": "Palha\u00e7ada Speed",
+      "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
+    },
+    {
+      "added_at": "2023-11-13 14:29:15",
+      "album": {
         "name": "NICOTINA",
         "url": "https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 144915,
       "name": "Sustenta a Botada - Speed",
       "url": "https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9"
-    },
-    {
-      "added_at": "2023-11-13 14:29:15",
-      "album": {
-        "name": "Palha\u00e7ada Speed",
-        "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
-      },
-      "artists": [
-        {
-          "name": "Avelar Music",
-          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
-        },
-        {
-          "name": "Belim",
-          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
-        }
-      ],
-      "duration_ms": 149170,
-      "name": "Palha\u00e7ada Speed",
-      "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
     },
     {
       "added_at": "2023-11-13 14:29:15",

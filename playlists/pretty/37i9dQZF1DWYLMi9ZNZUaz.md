@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,935 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,032 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 25 | [Tell the kids i love them \(ft\. Shiki\)](https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:44 |
 | 26 | [NOLOVENOLIFE](https://open.spotify.com/track/4X2vrRE8Pi5hBMbWRjofAU) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 2:50 |
 | 27 | [Đi Về Nhà](https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Đi Về Nhà](https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD) | 3:20 |
-| 28 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 |
+| 28 | [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 |
 | 29 | [10 Ngàn Năm](https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0) | [10 Ngàn Năm](https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF) | 4:00 |
 | 30 | [Mắt Xanh](https://open.spotify.com/track/3rigEvSPZYJI3rAt9gVdXy) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [Mắt Xanh](https://open.spotify.com/album/3poO8uwdPxvv2QXVxqLXfC) | 2:49 |
 | 31 | [Nghe Như Tình Yêu](https://open.spotify.com/track/769IjpjHNrN36SPvj2ZBKu) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nghe Như Tình Yêu](https://open.spotify.com/album/0sZdkAO0Feo6xjbn8DUJVD) | 3:13 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 33 | [tình yêu có nghĩa là gì?](https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:13 |
 | 34 | [Không Phải Gu](https://open.spotify.com/track/7h69br1nQFSSgdVQp6sPx6) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Tage](https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 3:21 |
 | 35 | [Thanh Xuân](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuân](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 |
-| 36 | [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 |
+| 36 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 |
 | 37 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 |
 | 38 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [tofutns](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 39 | [Cho Tôi Lang Thang](https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Tôi Lang Thang](https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Em Thích](https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0) | 2:56 |
 | 50 | [Sá Xị Chương Dương](https://open.spotify.com/track/6K4Bzwf1Zl07n3C9myO35P) | [Cam](https://open.spotify.com/artist/4IiJbbRn328Zxw8mtHb7bo) | [Sá Xị Chương Dương](https://open.spotify.com/album/64Ws2OwRhwTqiKkITCMtYd) | 1:41 |
 
-Snapshot ID: `MCw5OTZhNzA3MDYwMjAxNWUzZTA2YjhjMWFjNThjYTllODVjN2NiOGVk`
+Snapshot ID: `MCxiYzVjZTFhYTdkN2U3M2Y5MzI0N2U3ZGRkZmM0MWZmMTczMjEzOTI5`

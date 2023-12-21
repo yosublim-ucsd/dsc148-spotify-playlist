@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,848 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,910 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 5 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
 | 6 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |
 | 7 | [Kah Diye](https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Kah Diye](https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu) | 2:39 |
-| 8 | [Gunday](https://open.spotify.com/track/0HdMNvCZPuUWgyv3PSES4V) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E), [Sweta Chauhan](https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa) | [Gunday](https://open.spotify.com/album/73DYc8xnjVLEzxAqdBx7Y0) | 2:56 |
+| 8 | [Gunday](https://open.spotify.com/track/0HdMNvCZPuUWgyv3PSES4V) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E), [Rao Inderjeet Singh](https://open.spotify.com/artist/1UUxLQuphE7XL3EOQga1yk), [Sweta Chauhan](https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa) | [Gunday](https://open.spotify.com/album/73DYc8xnjVLEzxAqdBx7Y0) | 2:56 |
 | 9 | [Desi](https://open.spotify.com/track/4PdZM5PoGGLIFWfPquRnEd) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/30Bev10vDi5uByGqVky2MX) | [Desi](https://open.spotify.com/album/5I0yk3Qb3CaTM12ijQ0Z1U) | 3:33 |
 | 10 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
 | 11 | [Gaadi Desiyan Ki](https://open.spotify.com/track/1bi3ume3cSnvQssluzdLG8) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Gaadi Desiyan Ki](https://open.spotify.com/album/2pq8qaJMYuQI7VJqqHP7hD) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Fitness](https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND) | [Gagan Haryanvi](https://open.spotify.com/artist/4ytVJDy173fPLx97Ww84JW), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Fitness \- Single](https://open.spotify.com/album/6tJpPIreOaW2MNeo3zwq0U) | 4:00 |
 | 50 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 |
 
-Snapshot ID: `MCwzY2M3YmU0ZDRkNzZkYzJhM2I3NjJkODRkMTQ0NzkwMDUzNjgxY2Q2`
+Snapshot ID: `MCwwYWQ2OWZhYTkwZGQwYjM0N2FlMzEzZjEzMjAyYTMxMDc4YmVkOGY4`

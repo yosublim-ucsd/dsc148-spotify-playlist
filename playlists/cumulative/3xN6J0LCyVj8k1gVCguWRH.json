@@ -11813,6 +11813,24 @@
     },
     {
       "album": {
+        "name": "Detener la alarma",
+        "url": "https://open.spotify.com/album/1quNEzngMV4qU3wnzkYDhR"
+      },
+      "artists": [
+        {
+          "name": "MAPA",
+          "url": "https://open.spotify.com/artist/7Bv4NCknVMFKk6lvvS7UXN"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225842,
+      "name": "Detener la alarma",
+      "url": "https://open.spotify.com/track/3RI9n65705ubxOGXpHCVT0"
+    },
+    {
+      "album": {
         "name": "Deuces",
         "url": "https://open.spotify.com/album/70pKGBZU2ry8NNQRIIQiBL"
       },
@@ -23954,7 +23972,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 320647,
       "name": "Jim Joheimer",
       "url": "https://open.spotify.com/track/30EY7RSbTgppaQTd2ktH6c"
@@ -26400,7 +26418,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 166089,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/5Gbbz3ZOWpjBAQGaLohmZw"
@@ -28566,6 +28584,24 @@
       "duration_ms": 226006,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    {
+      "album": {
+        "name": "Magic Pill",
+        "url": "https://open.spotify.com/album/6OfjKVylwHEFeBPJM74PT5"
+      },
+      "artists": [
+        {
+          "name": "The Extravagants",
+          "url": "https://open.spotify.com/artist/6syW7OtD2ZlGhukm0VdoZG"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "Magic Pill",
+      "url": "https://open.spotify.com/track/17H8u706U4K9YR3EYvyvkK"
     },
     {
       "album": {
@@ -48212,6 +48248,24 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "album": {
+        "name": "Un Lugar",
+        "url": "https://open.spotify.com/album/0kmxhIVSlawqdE8JAaL2sJ"
+      },
+      "artists": [
+        {
+          "name": "Pascal Pirita",
+          "url": "https://open.spotify.com/artist/0WgC9CJAK1wJHsFXrv4Qz4"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189483,
+      "name": "Vai Embora",
+      "url": "https://open.spotify.com/track/6gjtGwzaeIKyR9V6GAdI3B"
     },
     {
       "album": {

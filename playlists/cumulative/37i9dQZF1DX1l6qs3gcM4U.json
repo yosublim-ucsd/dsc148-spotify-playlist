@@ -3605,6 +3605,28 @@
     },
     {
       "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202312,
+      "name": "Na Bo Mon",
+      "url": "https://open.spotify.com/track/4wcFq3XXef7obINYynQ5mL"
+    },
+    {
+      "album": {
         "name": "Na tua Back (Afro Love Remix)",
         "url": "https://open.spotify.com/album/1IlGaHNPxLUvxzry42ojNS"
       },
@@ -5358,7 +5380,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 205785,
       "name": "Ser Feliz",
       "url": "https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I"

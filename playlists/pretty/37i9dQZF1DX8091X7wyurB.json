@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 90264,
+  "num_followers": 90496,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2QzNjNkOTA1YzE1N2EzMmNjNDQ1MWI0ZTBjMDk2MGExNGYxNmQz",
+  "snapshot_id": "MCw3NGViMWU2OTI1NDg4ODkxZDM3M2ViN2FkZjUzMjEwYjdmZGJkMThj",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "I Am Yours",
         "url": "https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 237631,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -691,34 +691,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Father's Day",
-        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+        "name": "One Name (Jesus) [Live]",
+        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 374780,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
+      "duration_ms": 559267,
+      "name": "One Name (Jesus) - Live",
+      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -755,18 +739,34 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "One Name (Jesus) [Live]",
-        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
       },
       "artists": [
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 559267,
-      "name": "One Name (Jesus) - Live",
-      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
+      "duration_ms": 374780,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Iba",
         "url": "https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 625166,
       "name": "Iba",
       "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "He Who Is To Come",
         "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 410958,
       "name": "He Who Is To Come",
       "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Trust In God (Radio Version)",
         "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
       },
@@ -1043,22 +1027,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "How To Start A Housefire (Pt. III)",
-        "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 415598,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1079,6 +1059,26 @@
       "duration_ms": 267337,
       "name": "Fragrance (feat. GGTQ All Stars)",
       "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "How To Start A Housefire (Pt. III)",
+        "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 415598,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
     },
     {
       "added_at": "2023-12-15 00:01:00",

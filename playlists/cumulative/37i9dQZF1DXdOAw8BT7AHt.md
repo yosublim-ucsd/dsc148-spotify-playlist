@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Problem Patterns
 
-209 songs - 10 hr 25 min
+210 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [6L GTR](https://open.spotify.com/track/2mTppXqXhmlp08A8fwNSWm) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [Get Fucked](https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M) | 2:05 | 2022-12-02 | 2023-11-18 |
 | [Accidental Doom](https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Accidental Doom](https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr) | 4:13 | 2023-11-13 |  |
 | [Ache](https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Ache](https://open.spotify.com/album/4c5GCTtE09FsMxnC2QKqYU) | 1:40 | 2023-03-20 | 2023-06-21 |
+| [Adore Adore Adore](https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 2:37 | 2023-11-13 |  |
 | [Adore Adore Adore](https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Adore Adore Adore](https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi) | 2:37 | 2023-06-08 | 2023-12-17 |
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:21 | 2022-12-02 | 2023-11-18 |
 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-12-02 | 2023-05-20 |
@@ -169,7 +170,7 @@
 | [SELF\-SABOTAGE](https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3) | 2:37 | 2023-01-18 | 2023-04-17 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:37 | 2023-03-03 | 2023-11-18 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-12-02 | 2023-01-30 |
-| [Separation Anxiety](https://open.spotify.com/track/42GnEj7ZhK9g8I0LttHUdc) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Separation Anxiety](https://open.spotify.com/album/2nYoLJ0l9vgDsgIiajn2ja) | 2:47 | 2023-11-13 |  |
+| [Separation Anxiety](https://open.spotify.com/track/42GnEj7ZhK9g8I0LttHUdc) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Separation Anxiety](https://open.spotify.com/album/2nYoLJ0l9vgDsgIiajn2ja) | 2:47 | 2023-11-13 | 2023-12-21 |
 | [serotonin](https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge) | 3:03 | 2022-12-02 | 2023-06-29 |
 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 | 2023-03-20 |  |
 | [Silence Is Golden](https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 2:56 | 2023-03-03 | 2023-11-18 |

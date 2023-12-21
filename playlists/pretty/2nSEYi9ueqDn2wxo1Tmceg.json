@@ -1,13 +1,33 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 75915,
+  "num_followers": 75914,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgzMywxMDMxYjEzMzg0ODA5ZTk5Y2QyZjY2OWFiMGZjY2NiZGViZWE0NTFi",
+  "snapshot_id": "MzgzNCwyMzZmZDFjMmQzNDhmZTExZmYyZDg3NDA4YmY4NGJkOWQ3ZTRiOGY1",
   "tracks": [
+    {
+      "added_at": "2023-12-20 15:22:44",
+      "album": {
+        "name": "Isn\u2019t It Now? (Moor Mother Collage)",
+        "url": "https://open.spotify.com/album/2RNEPaznO7aQ0zbs0PYym2"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Isn't It Now? - Moor Mother Collage",
+      "url": "https://open.spotify.com/track/6GRzvC5GwwDAJM8jeI2M11"
+    },
     {
       "added_at": "2023-12-13 12:49:57",
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-1,089 songs - 2 day 13 hr 20 min
+1,090 songs - 2 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [CHASING STARS](https://open.spotify.com/track/3b3Dn0d4Pth1w48dtAlCHt) | [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [CHASING STARS](https://open.spotify.com/album/7jmYCTcGIX95qurh0RmVmB) | 2:07 | 2023-09-11 |  |
 | [Chasing The Storm](https://open.spotify.com/track/0MkqslIj6VNILVvcjhyK2f) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [TNYA](https://open.spotify.com/artist/5uyrncH54t5oHqQVYgisiT) | [Chasing The Storm](https://open.spotify.com/album/6eA3C5b93ic507TODbbatq) | 2:49 | 2023-05-01 |  |
 | [Check My Style](https://open.spotify.com/track/70T3R3QaPXLxSbomHzwGPe) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE), [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Check My Style](https://open.spotify.com/album/6thYQmqm5Y5PCW0N96EjYH) | 2:56 | 2023-07-08 |  |
+| [Check This Out](https://open.spotify.com/track/5lrVN3Sfps92DX4QEFV6IA) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Check This Out](https://open.spotify.com/album/53Mq5cB1qVN2x9qxgK4aVa) | 1:55 | 2023-12-20 |  |
 | [Chemicals](https://open.spotify.com/track/0AKOEiX8ST5jEGm0xnE7lv) | [Spearbreak](https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE) | [Chemicals](https://open.spotify.com/album/1Abn64JcaIkAM8nhynmCie) | 3:13 | 2023-06-24 |  |
 | [Choose Life](https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Choose Life](https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n) | 3:08 | 2023-05-12 |  |
 | [Circle Of Time](https://open.spotify.com/track/2BSoNKRmcCQPLETQc3niqR) | [Darwin](https://open.spotify.com/artist/0m8AmAlmjQt1L06EZmIP4B) | [Circle Of Time](https://open.spotify.com/album/5ks8CKdpAgIXXEm9kJsG2e) | 6:12 | 2022-10-03 |  |

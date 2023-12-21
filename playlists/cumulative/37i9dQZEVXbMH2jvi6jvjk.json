@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 463036,
       "name": "Amazwe (feat. Mawhoo)",
       "url": "https://open.spotify.com/track/2Oe52Ggx8lxxI55azZbr5h"
@@ -16354,7 +16354,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 300302,
       "name": "Ka Valungu",
       "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
@@ -20442,10 +20442,6 @@
         {
           "name": "Tumelo_za",
           "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
         },
         {
           "name": "DJ Maphorisa",

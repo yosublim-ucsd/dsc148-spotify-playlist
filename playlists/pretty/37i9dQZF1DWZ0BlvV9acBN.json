@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Catarina Von Bora",
-  "num_followers": 133858,
+  "num_followers": 133900,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWQxZDFhOTVjNTZkYTBhMWViMWZmNTQ4NGFiOTIzOWE2Nzc5M2Zj",
+  "snapshot_id": "MCw1OTAxZDFlNDE4YTMxNjcwZjlhOTg1Nzg5NTMzYmY0NTZjNmFkZWMy",
   "tracks": [
     {
       "added_at": "2023-12-18 16:16:14",
@@ -755,6 +755,42 @@
     {
       "added_at": "2023-12-18 16:16:14",
       "album": {
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+      },
+      "artists": [
+        {
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+    },
+    {
+      "added_at": "2023-12-18 16:16:14",
+      "album": {
+        "name": "Estrangeiro",
+        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 226911,
+      "name": "Estrangeiro",
+      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
+    },
+    {
+      "added_at": "2023-12-18 16:16:14",
+      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -779,22 +815,6 @@
     {
       "added_at": "2023-12-18 16:16:14",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
-      },
-      "artists": [
-        {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2023-12-18 16:16:14",
-      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 350664,
       "name": "Sou Teu",
       "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2023-12-18 16:16:14",
-      "album": {
-        "name": "Estrangeiro",
-        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 226911,
-      "name": "Estrangeiro",
-      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
     },
     {
       "added_at": "2023-12-18 16:16:14",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-12-18 16:16:14",
       "album": {
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+    },
+    {
+      "added_at": "2023-12-18 16:16:14",
+      "album": {
         "name": "Trindade",
         "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 769852,
       "name": "Trindade",
       "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
-    },
-    {
-      "added_at": "2023-12-18 16:16:14",
-      "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-12-18 16:16:14",

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,741 songs - 2 day 18 hr 12 min
+1,742 songs - 2 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Driftin](https://open.spotify.com/track/1ZNeOwowtrCIO8rCx6aeSK) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Nightrider](https://open.spotify.com/album/02qSscqdiVZOe8aqpZxGb0) | 2:05 | 2022-09-09 | 2023-01-07 |
 | [Dripht](https://open.spotify.com/track/0OGA7zBgWPrd0FW6au6TVN) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Dripht](https://open.spotify.com/album/27565GcAZufKzkN8Vk89WR) | 3:07 | 2022-06-17 | 2022-08-12 |
 | [Drips](https://open.spotify.com/track/3yxluQG4ZWdmjXJ5sjxXVg) | [Gizmo](https://open.spotify.com/artist/5yGSDOiFgai6RwHW3DAtW0) | [Drips](https://open.spotify.com/album/224QiGS6A3qBdXSDiLQked) | 1:40 | 2023-01-06 |  |
-| [Drives](https://open.spotify.com/track/07uRU9EczqsAqDdTcNCqwv) | [Z\-bone](https://open.spotify.com/artist/2bCoBCb2t0qwwPb5MGgjag) | [Drives](https://open.spotify.com/album/5Yq3BR4a0Ip2NkJ4lXEVHa) | 3:12 | 2023-08-17 |  |
+| [Drives](https://open.spotify.com/track/07uRU9EczqsAqDdTcNCqwv) | [Z\-bone](https://open.spotify.com/artist/2bCoBCb2t0qwwPb5MGgjag) | [Drives](https://open.spotify.com/album/5Yq3BR4a0Ip2NkJ4lXEVHa) | 3:12 | 2023-08-17 | 2023-12-21 |
 | [Drop In](https://open.spotify.com/track/7vwibWrHgOtEznQEFoF183) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Purple Dreams](https://open.spotify.com/album/7kxIwi77w8d6hz0XRbmCgb) | 2:01 | 2022-04-15 | 2022-10-14 |
 | [Droplets](https://open.spotify.com/track/15yitQITrGAxCToHNw4zKF) | [Lake Sanford](https://open.spotify.com/artist/21h842cjCnSvqRTA87Wlgp), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Ethereal Passage](https://open.spotify.com/album/3WB8vftnlNv5Gj9RvjtUSm) | 2:46 | 2023-09-15 |  |
 | [Drumagade](https://open.spotify.com/track/3aDuZUTcYKDrZE41J8UsGT) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Spela](https://open.spotify.com/album/5sogVxLDLarBdQwuyIKYNG) | 2:08 | 2022-04-15 | 2022-07-22 |
@@ -517,7 +517,7 @@
 | [Fernvale](https://open.spotify.com/track/6lP0M5Lx3ME3TzRijzRwic) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [But First Coffee](https://open.spotify.com/album/07qI7oGYsBI3sWFyuh0JD6) | 1:26 | 2022-04-15 | 2022-05-27 |
 | [Ferrochrome](https://open.spotify.com/track/10yzr6JwWrvxVuJnFKSe6B) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [Ferrochrome](https://open.spotify.com/album/4MSQHrcg30VMIWxCskZzjO) | 2:22 | 2022-04-15 | 2022-10-08 |
 | [fight the flab](https://open.spotify.com/track/5NkFP4QgCvAA050xLpTxBk) | [teen mtnt](https://open.spotify.com/artist/1ALWskzFjZDKZiaBNigjr4) | [fight the flab](https://open.spotify.com/album/1aCURXh2Alk0Uj1Yw39CYY) | 2:19 | 2023-07-13 | 2023-12-12 |
-| [Filter FFP4](https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Filter FFP4](https://open.spotify.com/album/4MkKgGIsJONe4nsXWnbEEf) | 1:55 | 2023-02-13 |  |
+| [Filter FFP4](https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Filter FFP4](https://open.spotify.com/album/4MkKgGIsJONe4nsXWnbEEf) | 1:55 | 2023-02-13 | 2023-12-21 |
 | [Final Destination](https://open.spotify.com/track/5uaIokPB63EyNp2e0nbRpN) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Final Destination](https://open.spotify.com/album/0CFOKN17H7EWQ7dmtA5dpy) | 2:07 | 2023-02-06 | 2023-09-29 |
 | [finesse](https://open.spotify.com/track/4vHR6RgtHgcv2BvHmBMEED) | [Papillon](https://open.spotify.com/artist/5iwgB05OKM42R6wQSMeChU), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [finesse](https://open.spotify.com/album/3nDmwcQbQLrc3zCxAMFtXZ) | 2:08 | 2023-04-03 |  |
 | [Finish Line](https://open.spotify.com/track/2TTmqCgIFJxA8nMBAaR9v7) | [Abbesses Square](https://open.spotify.com/artist/6FSygvawNhfzoREb50lmFL) | [Buskin](https://open.spotify.com/album/51srnMKZ1Ic8qAFmBJK9xP) | 3:02 | 2022-04-15 | 2022-05-13 |
@@ -927,6 +927,7 @@
 | [Marry U](https://open.spotify.com/track/4ocgsMhlAL6GfXDDom2NnS) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Marry U](https://open.spotify.com/album/4pG9IOY1zvKu62w7Jf13TP) | 2:18 | 2022-04-15 | 2022-05-13 |
 | [maseru](https://open.spotify.com/track/1OqjCvgq2huHFm5YuL6A8G) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [maseru](https://open.spotify.com/album/15h3ZjC8ZpBiDyWuJGap7f) | 1:53 | 2022-04-15 | 2023-03-02 |
 | [maste](https://open.spotify.com/track/7kEJ5KwJka2XcM38oiUdhR) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [maste](https://open.spotify.com/album/2rTQMlBm7ePEy7YYNIj1eo) | 3:18 | 2023-09-08 |  |
+| [Master of None](https://open.spotify.com/track/4X66WhMeDS5gJlXTOpGN56) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [Master of None](https://open.spotify.com/album/3PxDRlvRqy6wq6tmzoy0rQ) | 2:05 | 2023-12-15 |  |
 | [matcha latte](https://open.spotify.com/track/2GjPR5XcxmzIBkzGen3BMO) | [Class Klown](https://open.spotify.com/artist/6PUoOVrUeJn9d65VoXghgd) | [matcha latte](https://open.spotify.com/album/3rfSyh5x2FO3eqyoC4tohR) | 3:25 | 2023-11-17 |  |
 | [Matter](https://open.spotify.com/track/3HuDqJGKJA8ahPtlBes06z) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [Matter](https://open.spotify.com/album/0iAQ4hyyLoQYQ6PtzORG09) | 2:19 | 2022-12-16 | 2023-08-18 |
 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 | 2022-09-16 | 2023-01-07 |
@@ -1479,7 +1480,7 @@
 | [Sunrays](https://open.spotify.com/track/0uJWwpRKgHFmFDIyXQtsji) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Sunrays](https://open.spotify.com/album/30sK54lSHYBcB95sRJn0QF) | 2:30 | 2022-11-18 | 2023-02-07 |
 | [Sunrise](https://open.spotify.com/track/7Kg3YSa4bilbvyFRSWScG0) | [Clipsheet](https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2) | [Sunrise](https://open.spotify.com/album/2MYdmyaARWA73eRLaD0PWi) | 1:43 | 2022-11-25 | 2023-09-16 |
 | [sunset](https://open.spotify.com/track/5NO2HocQGechq8BaHmvbIa) | [Aran Brôg](https://open.spotify.com/artist/7ba3vzhS4RU7esRdjexxwA) | [sunset](https://open.spotify.com/album/6hBdzlZdJVZZmDyT1fHMnT) | 2:20 | 2022-11-25 | 2023-02-07 |
-| [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2023-09-08 | 2023-12-12 |
+| [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2023-09-08 |  |
 | [Sunset](https://open.spotify.com/track/25E3oiuIVUsjow8jWW7GAf) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Coastal](https://open.spotify.com/album/5Vl92yFBmLGcr5bJ8p2vQ6) | 2:33 | 2022-10-07 | 2023-01-13 |
 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2022-04-15 | 2022-08-12 |
 | [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 | 2022-12-16 |  |

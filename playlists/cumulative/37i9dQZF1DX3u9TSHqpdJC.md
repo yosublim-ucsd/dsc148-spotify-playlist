@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds Pop in 2023\. Cover: Debbii Dawson
 
-3,234 songs - 6 day 20 hr 33 min
+3,235 songs - 6 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2657,7 +2657,8 @@
 | [Stuck In A Bubble](https://open.spotify.com/track/1bSJ2FDSYUQHbg4hpnF4Li) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Stuck In A Bubble](https://open.spotify.com/album/23suzHFs2RSiknQtTOGIJi) | 2:38 | 2020-10-13\* | 2021-02-25 |
 | [Stuck in America](https://open.spotify.com/track/3JMT38IbiuNlbIGm0uATOk) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Stuck in America](https://open.spotify.com/album/2tg4TraZN9JOaX8TaqYcPS) | 3:34 | 2021-01-15 | 2021-02-04 |
 | [Stuck on This Feeling](https://open.spotify.com/track/5s5BEpAPFlizcrs7HfA5cK) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Stuck on This Feeling](https://open.spotify.com/album/5n7Asipw0VAjvABxSsoW1T) | 3:39 | 2023-01-25 | 2023-03-09 |
-| [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-09-27 |  |
+| [Stupid Little Party Girl](https://open.spotify.com/track/1SXubRR3HnLsQe7aBSKenu) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/2DmyC6CwLfrnhUuv6cE0bi) | 2:59 | 2023-09-27 |  |
+| [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-09-27 | 2023-12-21 |
 | [STUPID WHEEL](https://open.spotify.com/track/3B79bh5sBug5yADwGZgO69) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [STUPID WHEEL](https://open.spotify.com/album/61lcUqu4gUNmCaY2UThukh) | 2:43 | 2023-11-08 | 2023-11-30 |
 | [Stupid.](https://open.spotify.com/track/0VPviA6kqKtsmpBKgZBKM8) | [Ni/Co](https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr), [Jonathan & Friends](https://open.spotify.com/artist/7iGyHL0MMwmyScIHOuW7Lo) | [Assignment / Stupid.](https://open.spotify.com/album/003ukg8dLyQEl1xkD6hKxY) | 2:36 | 2022-03-30 | 2022-04-28 |
 | [Stutter](https://open.spotify.com/track/3LbpaaoITl5hrYVfaiJDS8) | [Narrowhaven](https://open.spotify.com/artist/0TuZmsPyHqEgj6AjnINSC9) | [Stutter](https://open.spotify.com/album/3Xx9dKSo03I46dXohoxGiq) | 3:20 | 2021-10-21 | 2021-12-01 |

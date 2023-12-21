@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 574354,
+  "num_followers": 574535,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGI4YTkwZGUxMDg3MTE0MDA5NDkwMDQ3ODI0ZjBiMjY5NGNhMDli",
+  "snapshot_id": "MCw0NGVmYTQxMTM3NjZkZTRiN2FhOTljN2FkMjhmNmM3Y2M1M2NlNzMx",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -955,22 +955,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "The Better Me",
-        "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
+        "name": "Stack of Records",
+        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 195236,
-      "name": "The Better Me",
-      "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
+      "duration_ms": 183403,
+      "name": "In Love With My Problems (feat. Jon Pardi)",
+      "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1023,26 +1027,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Stack of Records",
-        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
+        "name": "The Better Me",
+        "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
       "artists": [
         {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 183403,
-      "name": "In Love With My Problems (feat. Jon Pardi)",
-      "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
+      "duration_ms": 195236,
+      "name": "The Better Me",
+      "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 165465,
       "name": "Cottonmouth (Rock Mix)",
       "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "I Only Date Cowboys",
-        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
-      },
-      "artists": [
-        {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
-        }
-      ],
-      "duration_ms": 176813,
-      "name": "I Only Date Cowboys",
-      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Boy From Anderson County To The Moon",
         "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 206646,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/1nfwZ5Q7RBynXAnO1rTV3x"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "duration_ms": 191765,
+      "name": "County Roads",
+      "url": "https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Backslider",
-        "url": "https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP"
+        "name": "I Only Date Cowboys",
+        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
       },
       "artists": [
         {
-          "name": "Elvie Shane",
-          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
         }
       ],
-      "duration_ms": 191765,
-      "name": "County Roads",
-      "url": "https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB"
+      "duration_ms": 176813,
+      "name": "I Only Date Cowboys",
+      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
     },
     {
       "added_at": "2023-12-08 05:00:00",

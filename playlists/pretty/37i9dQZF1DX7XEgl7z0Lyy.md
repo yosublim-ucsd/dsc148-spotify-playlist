@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,432 likes - 90 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,776 likes - 90 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 35 | [TOO MANY LINES!](https://open.spotify.com/track/7bQMD4pot56isH55H60bla) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG) | [TOO MANY LINES!](https://open.spotify.com/album/0exOlHAprrTlkJ110QPfui) | 2:24 |
 | 36 | [CRIME SCENE](https://open.spotify.com/track/7c6Rp8BZF1o9cEPFQaGY32) | [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy), [Tnvr](https://open.spotify.com/artist/3yODxm6qLkDmpvw027HnPp) | [CRIME SCENE](https://open.spotify.com/album/0BOvxHLcyWn1RvCzSqCsDj) | 2:00 |
 | 37 | [PARTY ALL NIGHT!](https://open.spotify.com/track/3IV3qgNIzvlf2dmeXX6ADw) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [PARTY ALL NIGHT!](https://open.spotify.com/album/3R7c7RQHgK0a7lMyIwq0Km) | 1:47 |
-| 38 | [garden +jersey+](https://open.spotify.com/track/6C1zDj14LtTSbkhLOas9ha) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm), [temcandoanything](https://open.spotify.com/artist/4k7v8gQIQQDOKVIZ1nbxvI), [Yabujin](https://open.spotify.com/artist/4KvLYk1KDDC9d2hvft1dJ0) | [garden +jersey+](https://open.spotify.com/album/3dfmxvekNvub6fZ2aaVJ7u) | 2:45 |
+| 38 | [garden +jersey+](https://open.spotify.com/track/6C1zDj14LtTSbkhLOas9ha) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm), [temcandoanything](https://open.spotify.com/artist/4k7v8gQIQQDOKVIZ1nbxvI) | [garden +jersey+](https://open.spotify.com/album/3dfmxvekNvub6fZ2aaVJ7u) | 2:45 |
 | 39 | [cutecore](https://open.spotify.com/track/0EoPVPK0vg4UHPyccKP6PH) | [Sabuze](https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag), [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw) | [cutecore](https://open.spotify.com/album/4gbscLnxa7XLxNtt3WaaO8) | 2:20 |
 | 40 | [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 |
 | 41 | [BUSCAPROBLEMAS](https://open.spotify.com/track/4XPojnLqugTqXuhGJJEytm) | [pobre lucca](https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA), [Talla](https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K) | [BUSCAPROBLEMAS](https://open.spotify.com/album/2Nx24YM5PuTSmYQbNjbmWl) | 2:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 89 | [Blow Up!](https://open.spotify.com/track/2zzZeb9Ak6Dg4ApitspENL) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Blow Up!](https://open.spotify.com/album/4LLNrklrDzeZl5M9gc8kBx) | 2:30 |
 | 90 | [melancholy](https://open.spotify.com/track/4J7ctWPhgFErjdeWyKLkiA) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/57BCZOUocCzqyBStq7kAb3) | 2:02 |
 
-Snapshot ID: `MCwzZGRiNzEwOGUxODk4MDE1YjI3MzEzNTAyMjViNmM2OWM1NDliMjg4`
+Snapshot ID: `MCwyYjRkMmQxNmUxNDkzOGM3ZmU2NGE5MTdkM2FlYjk1ZWZhNWVjZjc2`

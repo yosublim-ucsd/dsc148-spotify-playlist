@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 107065,
+  "num_followers": 107060,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmY5NDRiMjhjZWFiZDU0YjdjMmE3ODFmOWZhZjIzNzNlZTE4ZTg2",
+  "snapshot_id": "MCwyYmQwZGU2NjZiNDM1ZDk1OTM2ZWQxNzQ1ZDY4MWFjYzdmMGZhNDk1",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "TIOLI",
+        "url": "https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "duration_ms": 278561,
+      "name": "TIOLI",
+      "url": "https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "TIOLI",
-        "url": "https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 278561,
-      "name": "TIOLI",
-      "url": "https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "I Want an Earth",
+        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
+      },
+      "artists": [
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "duration_ms": 362626,
+      "name": "I Want an Earth",
+      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Sea To Sky",
         "url": "https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "From The Ashes EP",
-        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
-      },
-      "artists": [
-        {
-          "name": "Oliver Henry",
-          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
-        }
-      ],
-      "duration_ms": 138337,
-      "name": "Moving Still - Reprise",
-      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "You Need Somebody",
         "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
       },
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "I Want an Earth",
-        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
+        "name": "From The Ashes EP",
+        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
       },
       "artists": [
         {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+          "name": "Oliver Henry",
+          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
         }
       ],
-      "duration_ms": 362626,
-      "name": "I Want an Earth",
-      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
+      "duration_ms": 138337,
+      "name": "Moving Still - Reprise",
+      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Is It Me",
+        "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
+      },
+      "artists": [
+        {
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+        },
+        {
+          "name": "Tim Shiel",
+          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Is It Me",
+      "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "The Corner",
         "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 317178,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Is It Me",
-        "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
-        },
-        {
-          "name": "Tim Shiel",
-          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Is It Me",
-      "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/2FjjBjJLjsmvRv3SzhRqyK"
+      },
+      "artists": [
+        {
+          "name": "KISLO",
+          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
+        }
+      ],
+      "duration_ms": 283461,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/0OYUp11ElGJsLWqxQNXBE3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Leave Here",
         "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 270271,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Heirloom",
-        "url": "https://open.spotify.com/album/2FjjBjJLjsmvRv3SzhRqyK"
-      },
-      "artists": [
-        {
-          "name": "KISLO",
-          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
-        }
-      ],
-      "duration_ms": 283461,
-      "name": "Heirloom",
-      "url": "https://open.spotify.com/track/0OYUp11ElGJsLWqxQNXBE3"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Higher Elevation",
-        "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
+        "name": "Justine",
+        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
       },
       "artists": [
         {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
         }
       ],
-      "duration_ms": 373453,
-      "name": "Higher Elevation",
-      "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
+      "duration_ms": 219000,
+      "name": "Justine",
+      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Justine",
-        "url": "https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt"
+        "name": "Higher Elevation",
+        "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
       },
       "artists": [
         {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Justine",
-      "url": "https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV"
+      "duration_ms": 373453,
+      "name": "Higher Elevation",
+      "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
     }
   ],
   "unique_name": "Night Shift",

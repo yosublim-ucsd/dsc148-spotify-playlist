@@ -4,11 +4,12 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-172 songs - 9 hr 18 min
+173 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 de Diciembre](https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Bailando](https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6) | 3:27 | 2021-12-15 | 2022-12-20 |
+| [25](https://open.spotify.com/track/7ycm9QUqfl7Y3AzY5etvLo) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Sad "X" mas](https://open.spotify.com/album/0deuNy0QB3zmYbFfJu21Cy) | 2:16 | 2023-12-20 |  |
 | [25 de Diciembre](https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [25 de Diciembre](https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY) | 2:58 | 2022-12-19 |  |
 | [5 pa las 12](https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [5 pa las 12](https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300) | 2:53 | 2022-12-19 |  |
 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 | 2021-12-15 | 2022-12-20 |
@@ -24,7 +25,7 @@
 | [Arbolito De Navidad](https://open.spotify.com/track/3EtBprADoLj5t0pxbdgEr9) | [Mariachi Sol De Mexico](https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1) | [Navidad En Mi Pueblo](https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX) | 3:45 | 2021-12-15 | 2022-12-20 |
 | [Arre Borriquito](https://open.spotify.com/track/3la1H2hlydLcLzvMiOtojp) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 2:33 | 2022-11-08 | 2022-12-20 |
 | [Así Es La Navidad](https://open.spotify.com/track/5ecgiP07SpndBqocVToBmi) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Así Es La Navidad](https://open.spotify.com/album/4To1OVLzcKn6hCnNTRZQvf) | 3:09 | 2021-12-15 | 2022-12-20 |
-| [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 | 2022-12-19 |  |
+| [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 | 2022-12-19 | 2023-12-21 |
 | [Blanca Navidad](https://open.spotify.com/track/1rm6TRTRcFTUyoAmiv3Z51) | [DJ Cesar K\-OSO](https://open.spotify.com/artist/7p8kL7kXSfOy8o0s3dxXpB), [Boyz of Kumbia](https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA) | [Blanca Navidad](https://open.spotify.com/album/4cCdrDZG76xQogwhnqncP9) | 2:36 | 2021-12-15 | 2022-11-26 |
 | [Blanca Navidad](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 | 2022-11-25 | 2022-12-19 |
 | [Blanca Navidad](https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:32 | 2021-12-15 | 2022-12-20 |

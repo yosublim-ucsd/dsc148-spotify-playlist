@@ -4,7 +4,7 @@
 
 > The Top 100 Tracks from Fresh Finds Philippines this 2023! Cover: The 12/21 Artwork: Isu Kim
 
-1,908 songs - 4 day 17 hr 21 min
+1,909 songs - 4 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Babalik ako](https://open.spotify.com/track/3qzpOGTa6DvEmLYk8FYV4o) | [Wyn Arciaga](https://open.spotify.com/artist/1IeAF50g3i1GgGimmEu549) | [Babalik ako](https://open.spotify.com/album/33g5p8GoFN6cYsU7O2UwhC) | 3:50 | 2023-07-27 |  |
 | [babalik?](https://open.spotify.com/track/1d8Mq4KzvL0mdQeITZkXPn) | [sxber](https://open.spotify.com/artist/5Xb3coCF1TSOuJkZMJqdz2), [hxshina](https://open.spotify.com/artist/6gnIlsWxzRVZkZ0Vgr31v6), [shehatestracy](https://open.spotify.com/artist/2QSHnEcy37JztLywrvTZ80), [xavi+\*](https://open.spotify.com/artist/7niGesGRQ9XWrzThOHmUlp) | [babalik?](https://open.spotify.com/album/6Lu5h1bKCSRIMzD9ZfNtun) | 2:49 | 2023-05-18 | 2023-06-09 |
 | [Baby](https://open.spotify.com/track/0KygFY4OZFVO7QV0sq1UVL) | [Jettas](https://open.spotify.com/artist/6vyNCEE7NU6vZ1bb3cHp1D) | [Baby](https://open.spotify.com/album/5HZvQ6lUji5avOVTtkrWov) | 2:47 | 2023-03-30 | 2023-04-21 |
-| [Baby Blues](https://open.spotify.com/track/5EQZZNj3rT2I3TqRxrz9Qk) | [Monique de los Santos](https://open.spotify.com/artist/4iWbMwf9a5QFaJJ9uMddWY) | [Baby Blues](https://open.spotify.com/album/3Ui3xHH9X99VmPL4zS4QnS) | 4:25 | 2023-09-21 |  |
+| [Baby Blues](https://open.spotify.com/track/4uzeBGUrxn9mCPumudL408) | [Monique de los Santos](https://open.spotify.com/artist/4iWbMwf9a5QFaJJ9uMddWY) | [Baby Blues](https://open.spotify.com/album/4TczUWAYYoUx3QzUz6w3DP) | 4:25 | 2023-11-29 |  |
+| [Baby Blues](https://open.spotify.com/track/5EQZZNj3rT2I3TqRxrz9Qk) | [Monique de los Santos](https://open.spotify.com/artist/4iWbMwf9a5QFaJJ9uMddWY) | [Baby Blues](https://open.spotify.com/album/3Ui3xHH9X99VmPL4zS4QnS) | 4:25 | 2023-09-21 | 2023-12-21 |
 | [Baby Face](https://open.spotify.com/track/3ZAevfJtQlbFGJVf5sW2z8) | [William Cash](https://open.spotify.com/artist/1Av7d07hyzT3RCsezS0WHl), [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki), [Crystol](https://open.spotify.com/artist/5nMQAGAHjdmUiK4mPCWH6A) | [Baby Face](https://open.spotify.com/album/75tQoF4kcyw1mf364aghpP) | 3:52 | 2022-06-16 | 2022-07-15 |
 | [Baby Momma](https://open.spotify.com/track/6S5z8hr2R6CRkDvPEFQXqf) | [downers](https://open.spotify.com/artist/4gxLBqfJRbgDef5K0ZXj1S), [Kyhler](https://open.spotify.com/artist/4jsiCHbMpW1rtpslqa6CtW) | [Baby Momma](https://open.spotify.com/album/2WUYYGSYU188rW1Cwautt6) | 3:04 | 2023-02-02 | 2023-02-10 |
 | [Baby tawag ka saakin](https://open.spotify.com/track/0WroUls7oIdGXMcfzRUYVJ) | [MJ.G](https://open.spotify.com/artist/7GP7pyoLjDnm7N1V9WkT1Z) | [Baby tawag ka saakin](https://open.spotify.com/album/5c11OvgxGxQMJOs5HQuFbC) | 3:02 | 2023-06-08 | 2023-06-30 |

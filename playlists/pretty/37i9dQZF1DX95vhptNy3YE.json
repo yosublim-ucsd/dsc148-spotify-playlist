@@ -1,12 +1,12 @@
 {
   "description": "Grupo Benzadeus e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 224019,
+  "num_followers": 224041,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDhmYjRlZDQyNGJkODQ0ZGIzMzFkNmMzODQ0OTVhZGZkNzZjYjA3",
+  "snapshot_id": "MCwxNzU5OWU0MmFjZmEzNTNkODFhZWY1NDc2NTI1OWMzNzY2MWQ3MGU4",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -359,38 +359,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Desfile na Favela",
-      "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Desfile na Favela",
+      "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Vai",
-        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
-      },
-      "artists": [
-        {
-          "name": "GB",
-          "url": "https://open.spotify.com/artist/71xcLqhkXhPIX0eSmTofTq"
-        },
-        {
-          "name": "Pique Novo",
-          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
-        }
-      ],
-      "duration_ms": 177410,
-      "name": "Vai",
-      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 146490,
       "name": "Boa Sorte Mesmo",
       "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Vai",
+        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/71xcLqhkXhPIX0eSmTofTq"
+        },
+        {
+          "name": "Pique Novo",
+          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
+        }
+      ],
+      "duration_ms": 177410,
+      "name": "Vai",
+      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
     },
     {
       "added_at": "2023-12-15 03:01:00",

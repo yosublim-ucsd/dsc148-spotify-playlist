@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 113615,
+  "num_followers": 114212,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDRhODlkMjhjZGYwMzdiMzI3NzBkYTgxNzY2NmU3MmE2MmZiYjNm",
+  "snapshot_id": "MCwxNWQ5MTA2ZWIyNjg3NDk2ZDAxMWU5ODY2NWI1MmYyZTkwOWQ1ZTVl",
   "tracks": [
     {
       "added_at": "2023-12-19 09:14:04",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Breaking It Up!",
-        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
-      },
-      "artists": [
-        {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Shake Hands with Santa Claus - Mono Recording",
-      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "The Complete Decca Singles Vol. 4: 1950-1955",
         "url": "https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 189497,
       "name": "Santa Claus Got Stuck (In My Chimney)",
       "url": "https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Breaking It Up!",
+        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "This Time Of The Year",
-        "url": "https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 129533,
-      "name": "The Merriest",
-      "url": "https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "This is Christmas",
         "url": "https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7"
       },
@@ -551,22 +535,34 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+        "name": "This Time Of The Year",
+        "url": "https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw"
       },
       "artists": [
         {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
-        },
-        {
-          "name": "Sonny Parker",
-          "url": "https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv"
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
         }
       ],
-      "duration_ms": 162746,
-      "name": "Boogie Woogie Santa Claus",
-      "url": "https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ"
+      "duration_ms": 129533,
+      "name": "The Merriest",
+      "url": "https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Mr. Christmas",
+        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 216042,
+      "name": "Mr. Christmas",
+      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -591,34 +587,22 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Mr. Christmas",
-        "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 216042,
-      "name": "Mr. Christmas",
-      "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        },
         {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+          "name": "Sonny Parker",
+          "url": "https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
+      "duration_ms": 162746,
+      "name": "Boogie Woogie Santa Claus",
+      "url": "https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -679,6 +663,22 @@
       "duration_ms": 253388,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
         "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 312440,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "The Pianoman at Christmas (The Complete Edition)",
-        "url": "https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV"
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
       "artists": [
         {
           "name": "Jamie Cullum",
           "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        },
-        {
-          "name": "Kansas Smitty's",
-          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
         }
       ],
-      "duration_ms": 174090,
-      "name": "Man With The Bag",
-      "url": "https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv"
+      "duration_ms": 162920,
+      "name": "Christmas Never Gets Old",
+      "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
     }
   ],
   "unique_name": "Feel Good Christmas",

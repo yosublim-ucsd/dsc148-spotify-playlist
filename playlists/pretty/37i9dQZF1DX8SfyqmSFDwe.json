@@ -1,12 +1,12 @@
 {
   "description": "Classics are forever! Los cl\u00e1sicos no pasan de moda! ",
-  "num_followers": 3013806,
+  "num_followers": 3014271,
   "original_name": "Old School Reggaeton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDQxOGE3MWE4YjEzZjE3ODY1ODgzYzI0Mzk3Y2VhM2YxODc5YjE0",
+  "snapshot_id": "MCw3NzQyZmQ3NjVhMzQwMTA1MmRkODZjM2ZhZjE0NDk3ZGNkODM4YjYz",
   "tracks": [
     {
       "added_at": "2023-06-21 20:50:10",
@@ -291,22 +291,18 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB"
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 157023,
-      "name": "En La Cama (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg"
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -335,22 +331,22 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "Mis Ojos Lloran Por Ti",
-        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB"
       },
       "artists": [
         {
-          "name": "Big Boy",
-          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Angel Lopez",
-          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 295533,
-      "name": "Mis Ojos Lloran Por Ti",
-      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+      "duration_ms": 157023,
+      "name": "En La Cama (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -387,6 +383,26 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        },
+        {
+          "name": "Angel Lopez",
+          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Mis Ojos Lloran Por Ti",
+      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
         "name": "Broke & Famous",
         "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 227466,
       "name": "Pasarela",
       "url": "https://open.spotify.com/track/1MfqPCs3Y722VK6zkWZ98Z"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
+        "name": "Reggaeton Hall of Fame, Vol. 1",
+        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "duration_ms": 157701,
+      "name": "Agarrala",
+      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
         "name": "Big Yamo o Nada",
         "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Si No Le Contesto",
-      "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
         "name": "El Fenomeno",
         "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "Reggaeton Hall of Fame, Vol. 1",
-        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },
       "artists": [
         {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 157701,
-      "name": "Agarrala",
-      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
+      "duration_ms": 220133,
+      "name": "Si No Le Contesto",
+      "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "M.I.A.M.I.",
-        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
+        "name": "M\u00e1s Lun\u00e1ticos",
+        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
+      "duration_ms": 221333,
+      "name": "Estar Enamorado",
+      "url": "https://open.spotify.com/track/465du48rE48BymmBdfvxc2"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1611,18 +1607,22 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "M\u00e1s Lun\u00e1ticos",
-        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
+        "name": "M.I.A.M.I.",
+        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
       },
       "artists": [
         {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Estar Enamorado",
-      "url": "https://open.spotify.com/track/465du48rE48BymmBdfvxc2"
+      "duration_ms": 219080,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "Fatal Fantassy 3",
-        "url": "https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub"
-      },
-      "artists": [
-        {
-          "name": "Dj Joe",
-          "url": "https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Te la Tiro Pa Que Bailes",
-      "url": "https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk"
-    },
-    {
-      "added_at": "2023-06-21 20:50:10",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 170853,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM"
+    },
+    {
+      "added_at": "2023-06-21 20:50:10",
+      "album": {
+        "name": "Fatal Fantassy 3",
+        "url": "https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub"
+      },
+      "artists": [
+        {
+          "name": "Dj Joe",
+          "url": "https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Te la Tiro Pa Que Bailes",
+      "url": "https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk"
     },
     {
       "added_at": "2023-06-21 20:50:10",
@@ -1851,22 +1851,18 @@
     {
       "added_at": "2023-06-21 20:50:10",
       "album": {
-        "name": "Luny Tunes Presents ERRE XI",
-        "url": "https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl"
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
       },
       "artists": [
         {
-          "name": "Erre XI",
-          "url": "https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed"
-        },
-        {
-          "name": "PeeWee",
-          "url": "https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp"
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
         }
       ],
-      "duration_ms": 254320,
-      "name": "Carita Bonita",
-      "url": "https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4"
+      "duration_ms": 188320,
+      "name": "Sol, Playa Y Arena",
+      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
     }
   ],
   "unique_name": "Old School Reggaeton",

@@ -1,29 +1,13 @@
 {
   "description": "Over 8 hours of music for hanging out at the cottage. Includes favorites from The Tragically Hip, The Rolling Stones, Morgan Wallen and more! ",
-  "num_followers": 64906,
+  "num_followers": 64898,
   "original_name": "Cottage Life",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "MjU4OCwzOGE1MDcyN2EwMTU0YzhkMDdkNTAzN2E0ZjNlZDMxYWJhOTJhYTA4",
+  "snapshot_id": "MjU5MSw0OWI0ZDdkZTE2MjU3YWE3N2ZlNzg4NTIwN2UwMWQ2Y2NhMDMxMmU2",
   "tracks": [
-    {
-      "added_at": "2023-10-06 00:38:29",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Santeria",
-      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
-    },
     {
       "added_at": "2023-10-24 14:35:59",
       "album": {
@@ -1649,7 +1633,23 @@
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
-      "added_at": "2023-11-01 08:44:41",
+      "added_at": "2023-10-06 00:38:29",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
+    {
+      "added_at": "2023-12-20 06:24:58",
       "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"

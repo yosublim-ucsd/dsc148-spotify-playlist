@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Kenshi Yonezu \(米津玄師\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,621 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,837 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [yattyattawa](https://open.spotify.com/track/4yHNww1JcnVXjL4OxKwdyr) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [yattyattawa](https://open.spotify.com/album/0BQD8PXJk9cxt2Mzt20iSp) | 2:41 |
 | 75 | [DDD](https://open.spotify.com/track/0HD7n7QmEmpKhojIu7R1bx) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [DDD](https://open.spotify.com/album/355oemzw9IEexonVNBzKIv) | 2:54 |
 
-Snapshot ID: `MCwzNjQxNDdlNGZlYjZlZDBkZmMwMjFkMjViNjY3ZmM4Nzg3ODU0NWMz`
+Snapshot ID: `MCw1MzgyMmE1YTdjNjkzMDE3ZGIxNWI5NmU1MTNmMmQ1YTBiYWEwOTc2`

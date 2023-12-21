@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Nacho x Gilberto Daza x Alex Zurdo Foto: <a href="spotify:artist:6pdXxGaaEGf7huw3C6fz6a">Gilberto Daza,</a> <a href="spotify:artist:2ayNSoKPCRAfjp6hQ76hRu">Nacho,</a> <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,738 likes - 99 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,842 likes - 99 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 5 | [Eternidad](https://open.spotify.com/track/1lVEmf7WKmN1YnhppRRTCb) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Causas Perdidas](https://open.spotify.com/album/1g8lAVXsPBRZpiwHAHEehk) | 3:24 |
 | 6 | [Rey De Reyes // La Doxologia](https://open.spotify.com/track/6xSHR9HwQU79gwHO4eZfFi) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Adoración](https://open.spotify.com/album/4kOjEbqrPJyucxl0eCqwkP) | 3:18 |
 | 7 | [dIOS](https://open.spotify.com/track/6HcHD2UTjXUKrVT9oynGKj) | [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Mi Religión](https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb) | 3:30 |
-| 8 | [Abre mis ojos](https://open.spotify.com/track/1vffYobX9nOwphjEI7n1xB) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Efecto EMC](https://open.spotify.com/album/2ePQmfIRBYKi31EPsYRIg0) | 3:30 |
+| 8 | [Abre Mis Ojos](https://open.spotify.com/track/1vffYobX9nOwphjEI7n1xB) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Efecto EMC](https://open.spotify.com/album/2ePQmfIRBYKi31EPsYRIg0) | 3:30 |
 | 9 | [Detras De Mi](https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Buzón de Voz](https://open.spotify.com/album/5RyQDplYD8TDxYJPP6oVOl) | 3:30 |
 | 10 | [Obra de Tu Amor \- \(Alfarero\)](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |
 | 11 | [Tan Solo Cree](https://open.spotify.com/track/019riTfHIfZVlgLhYsLtnl) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Mis Favoritas, Éxitos de Jose Luis Reyes](https://open.spotify.com/album/6MDICk3UvUd1UHaaBoiOj4) | 4:35 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 98 | [Mi Alma Clama \(feat\. Laila Olivera\)](https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Mi Alma Clama](https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI) | 8:18 |
 | 99 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 
-Snapshot ID: `MCxiMmU2NjViZjNmMWMxYWNlMGIzY2U5ZDlhN2Y2MzJhZDMzZTFhNmIx`
+Snapshot ID: `MCxjZjU0MDllMWVlYmRmMDk4MjkzNjJlNWMwMGE5ZjFhNjU0MDBmNWY4`

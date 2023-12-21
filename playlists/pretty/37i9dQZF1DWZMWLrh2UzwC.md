@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,388 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,394 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 64 | [can't live without you](https://open.spotify.com/track/2MAz49rgBhaEEDr9gaGMLN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [can't live without you](https://open.spotify.com/album/32gnVGc44UuwB6VzKdCdp4) | 3:47 |
 | 65 | [CLOSER](https://open.spotify.com/track/0jnNq7oQlbIt4Junfy1aHT) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [CLOSER](https://open.spotify.com/album/0z0LGO3fqevrJKVodLmLuG) | 2:22 |
 
-Snapshot ID: `MCxjNDk0ZjkxODA1MjdkMmY2ZDU4ODlmMDZmYWQ0MjIxYTU5NjA3MWVm`
+Snapshot ID: `MCw3ZWQwYzRlMDFlODVjMmI2NDgzNzlhNmQxNTI0N2VmM2FmYzg1ZmRk`

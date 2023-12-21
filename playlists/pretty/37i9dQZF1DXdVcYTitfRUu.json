@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 8489,
+  "num_followers": 8505,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmNhYjRlNGU3Mjg1ZDdjOTg0M2M4YTY3ZTY2MzNjZmE4ZDljZDM4",
+  "snapshot_id": "MCw4N2Y0YmY3MjE2MzBlYWEwZDY1Njk3YzYwYWVkODg1OTA5MjgwNzg1",
   "tracks": [
     {
       "added_at": "2023-12-06 09:09:38",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
+        "name": "When it snows(Feat.Heize)",
+        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "When it snows(Feat.Heize)",
+      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
         "name": "The Moon (Feat. TAEIL of NCT)",
         "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 233317,
       "name": "About loneliness",
       "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
-        "name": "When it snows(Feat.Heize)",
-        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "When it snows(Feat.Heize)",
-      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Flower in the Desert",
-        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Flower in the Desert - Kor Version",
-      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Why (Feat. Hoody)",
         "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 140866,
       "name": "Why (Feat. Hoody)",
       "url": "https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Flower in the Desert",
+        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Flower in the Desert - Kor Version",
+      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.9",
-        "url": "https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "We Love Each Other",
-      "url": "https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Only you",
         "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 190640,
       "name": "Only you",
       "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.9",
+        "url": "https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "We Love Each Other",
+      "url": "https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G"
     },
     {
       "added_at": "2023-12-06 09:09:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-12-06 09:09:38",
       "album": {
-        "name": "Hongdae R&B",
-        "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 238454,
-      "name": "Hangang Gongwon",
-      "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
-    },
-    {
-      "added_at": "2023-12-06 09:09:38",
-      "album": {
         "name": "Because I am a woman",
         "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 240773,
       "name": "Because I am a woman",
       "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
+    },
+    {
+      "added_at": "2023-12-06 09:09:38",
+      "album": {
+        "name": "Hongdae R&B",
+        "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 238454,
+      "name": "Hangang Gongwon",
+      "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
     },
     {
       "added_at": "2023-12-06 09:09:38",

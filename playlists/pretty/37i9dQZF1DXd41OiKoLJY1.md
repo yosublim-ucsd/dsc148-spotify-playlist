@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The Top 100 Tracks from Fresh Finds Philippines this 2023! Cover: The 12/21 Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,640 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,657 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 12 | [Hit Me Up](https://open.spotify.com/track/6wlBJi930wkQtdbiMP7EV8) | [Krei](https://open.spotify.com/artist/1EVBedRMHOBRFKH4B0gaFI), [Kali Hoods](https://open.spotify.com/artist/1Zge1rBLdX0sRUTZiC4FvP) | [Hit Me Up](https://open.spotify.com/album/60q8FCxj1slHOaMvafZRCU) | 2:35 |
 | 13 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 |
 | 14 | [Toxic](https://open.spotify.com/track/6MrVnhyFPEsJix8yNfvbUe) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS), [innerbloomboi](https://open.spotify.com/artist/3KsXtARnps2rBlq7d8W7wV) | [Toxic](https://open.spotify.com/album/5S6Z0fC76i8RoAyefcqiWE) | 2:49 |
-| 15 | [Baby Blues](https://open.spotify.com/track/5EQZZNj3rT2I3TqRxrz9Qk) | [Monique de los Santos](https://open.spotify.com/artist/4iWbMwf9a5QFaJJ9uMddWY) | [Baby Blues](https://open.spotify.com/album/3Ui3xHH9X99VmPL4zS4QnS) | 4:25 |
+| 15 | [Baby Blues](https://open.spotify.com/track/4uzeBGUrxn9mCPumudL408) | [Monique de los Santos](https://open.spotify.com/artist/4iWbMwf9a5QFaJJ9uMddWY) | [Baby Blues](https://open.spotify.com/album/4TczUWAYYoUx3QzUz6w3DP) | 4:25 |
 | 16 | [Di Na Magbabago](https://open.spotify.com/track/3DC80u9dNIimiZlwup3h3U) | [Marrion](https://open.spotify.com/artist/4gxYqYNyD5poK40qWNeWbY), [Ms\. Sza](https://open.spotify.com/artist/5W1p0OgMWglVYk1g6hicBJ) | [Di Na Magbabago](https://open.spotify.com/album/7o2UpiHth4Fjj4BTh7PATh) | 2:53 |
 | 17 | [Kailangan](https://open.spotify.com/track/6T4S0dtryTeI5TOqhTYWHP) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Kailangan](https://open.spotify.com/album/6x8VAVkEo2VlH4ATAFhKgl) | 3:01 |
 | 18 | [Bituin](https://open.spotify.com/track/4abGSX7qqDANIyFX8sDQzk) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [Bituin](https://open.spotify.com/album/6NkUTp7Z8z1dxsllcNmKjZ) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Gabi](https://open.spotify.com/track/07uOcwr6m7IsYhqpW7pt8J) | [Patrick Lacambacal](https://open.spotify.com/artist/3wPfc9LxqTDNmgSgEo8lE2) | [Gabi](https://open.spotify.com/album/3vgaURkRJSo3aSt2PZoEmi) | 3:46 |
 | 100 | [PAALAM](https://open.spotify.com/track/1EAyjNIZQrTPMRwA3BqXWv) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [PAALAM](https://open.spotify.com/album/6RCw6WQusUr5nqcBvrdxK0) | 4:28 |
 
-Snapshot ID: `MCxjYTFiOTcxNmVmZjQwODgzMDNlNWRhZWNlY2IxM2RjZjUzZjk1YmZh`
+Snapshot ID: `MCwxY2M5ZDcyOTZkOWYzMGM5ZmM3ZGIzMWRlZTAwZjBjNDJiMDQ3NWQ2`

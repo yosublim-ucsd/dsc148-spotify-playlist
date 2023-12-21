@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "BLOOMING",
+        "url": "https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS"
+      },
+      "artists": [
+        {
+          "name": "The Winking Owl",
+          "url": "https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230680,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6zg3qFNuaEbl5pxKquLu7a"
+    },
+    {
+      "album": {
         "name": "Tank-top Flower for Friends",
         "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 161416,
       "name": "Hyperhell",
       "url": "https://open.spotify.com/track/1NgQvI5UhPKnqSS2f5eQoF"
@@ -2426,7 +2444,7 @@
     {
       "album": {
         "name": "Run",
-        "url": "https://open.spotify.com/album/6VyKCu5YNdH5DjQ0OmHwRo"
+        "url": "https://open.spotify.com/album/2xZsO0ZevuTrehe87zAdS3"
       },
       "artists": [
         {
@@ -2437,6 +2455,24 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197241,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/0qGMiFAWCcYHLqH8pXO2bh"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6VyKCu5YNdH5DjQ0OmHwRo"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 197241,
       "name": "Run",
       "url": "https://open.spotify.com/track/6sPC05thY2Yw0PCX9pOQKH"

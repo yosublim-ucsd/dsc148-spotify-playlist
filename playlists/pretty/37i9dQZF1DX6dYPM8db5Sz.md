@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7?si=Cfww9FxrTlS\-GP2sZ8TYHA">Aimée Britannia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,680 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,685 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 59 | [ANY BETTER](https://open.spotify.com/track/1aS9JhKewGG5VJza4E6S3u) | [Carla Franco](https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI) | [LAYERS](https://open.spotify.com/album/6uSwfs3SojKxygI7oBbrZu) | 2:29 |
 | 60 | [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 |
 | 61 | [JEALOUSY](https://open.spotify.com/track/5VdNSYWfAwlp4geQjXpmlg) | [JUCINDA](https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo) | [JEALOUSY](https://open.spotify.com/album/1MbVek8MpYBfm9zl1woBXu) | 3:12 |
-| 62 | [Mine Of Myself](https://open.spotify.com/track/2qPH0TDd5bVnIaPA7yoV7t) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Mine Of Myself](https://open.spotify.com/album/1gZ6GbTfp1Cvuwp0tK00Xf) | 2:35 |
+| 62 | [Gold Mine](https://open.spotify.com/track/2qPH0TDd5bVnIaPA7yoV7t) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Gold Mine](https://open.spotify.com/album/1gZ6GbTfp1Cvuwp0tK00Xf) | 2:35 |
 | 63 | [Madonna](https://open.spotify.com/track/08lxQMon7L91ykAMi87rgN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK) | 3:03 |
 | 64 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
 | 65 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [Tattoo](https://open.spotify.com/track/3meaikRcam6lf7sWD2Xnn2) | [Zwicky & Jono](https://open.spotify.com/artist/7hNwRAV7IDRDqI4q3Pcdgz) | [Tattoo](https://open.spotify.com/album/71wGwnBWvbl2TloIPK9Oxi) | 3:28 |
 | 100 | [Treffers vir Tannies](https://open.spotify.com/track/7BlZyyyaCjZeuRNRdb98ig) | [Mymymy](https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf), [SAMPAULE](https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8) | [Treffers vir Tannies](https://open.spotify.com/album/0NbLj5sQbqOqQEyLVoCbhp) | 3:42 |
 
-Snapshot ID: `MCxhZWRmYzk0YzNiYTUwYzIwOGEyMTgxZDQzNjhiZTI1YzM0ZjEwMGI0`
+Snapshot ID: `MCwyMjA4ZGE3YzM1ZDMyMjRiMGIwMWEzZjNmMjA2MGFjNjExMjRmYWEz`

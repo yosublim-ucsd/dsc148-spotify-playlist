@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 454033,
+  "num_followers": 454132,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2FmY2UyNDU1YTQ0MjViYTZlNjc3NGZjMjBmZWEzODFlZTRhMWQ2",
+  "snapshot_id": "MCw0MDE3NTY5NTVlZDU0ODlmMjY1YjlmM2IxZjY0YmFjYTc5YzBlNzg3",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Exscape",
-        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Exscape",
-      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Exscape",
+        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Run To The Moon",
-        "url": "https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 225901,
-      "name": "Run To The Moon",
-      "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 248399,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Run To The Moon",
+        "url": "https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 225901,
+      "name": "Run To The Moon",
+      "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "West Coast",
-        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 251872,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Days We Had",
         "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 245386,
       "name": "Something Here",
       "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 251872,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Hold On Baby",
-        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 233088,
-      "name": "Let Us Die",
-      "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 228735,
       "name": "I See You",
       "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Hold On Baby",
+        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 233088,
+      "name": "Let Us Die",
+      "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Guitar Beat",
-        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
-      },
-      "artists": [
-        {
-          "name": "Prelow",
-          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "Guitar Beat",
-      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Help Me To Feel Again",
         "url": "https://open.spotify.com/album/7JaJz2pFwuOs6XdjydJqAR"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 262383,
       "name": "Help Me To Feel Again",
       "url": "https://open.spotify.com/track/6eYJIGCwT3hFY5Fz8KI8c6"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Guitar Beat",
+        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
+      },
+      "artists": [
+        {
+          "name": "Prelow",
+          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "Guitar Beat",
+      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+        "name": "Can You Feel The Sun",
+        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
       },
       "artists": [
         {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
+      "duration_ms": 286342,
+      "name": "Can You Feel The Sun",
+      "url": "https://open.spotify.com/track/3kzDhEbPsFlF8xu673UVZr"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Can You Feel The Sun",
-        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
       },
       "artists": [
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
         }
       ],
-      "duration_ms": 286342,
-      "name": "Can You Feel The Sun",
-      "url": "https://open.spotify.com/track/3kzDhEbPsFlF8xu673UVZr"
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Back In My Head Again",
+        "url": "https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge"
+      },
+      "artists": [
+        {
+          "name": "Levi Evans",
+          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
+        }
+      ],
+      "duration_ms": 174539,
+      "name": "Back In My Head Again",
+      "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "It's Depression (feat. Middle Part)",
         "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 193000,
       "name": "It's Depression (feat. Middle Part)",
       "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Back In My Head Again",
-        "url": "https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge"
-      },
-      "artists": [
-        {
-          "name": "Levi Evans",
-          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
-        }
-      ],
-      "duration_ms": 174539,
-      "name": "Back In My Head Again",
-      "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
     }
   ],
   "unique_name": "License To Chill",

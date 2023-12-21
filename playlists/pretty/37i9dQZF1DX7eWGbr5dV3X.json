@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8699,
+  "num_followers": 8702,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTljZDViMzcxODgzMGMyZTdhOTU3NjlhYTJlM2M2NjA5ZmE2Y2Ix",
+  "snapshot_id": "MCxlZTcwZDQ3MjJlZWExZDE4NzQxYWI2NzZmODFiYTIxMjE4YzdjYzJh",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "You Look so Good",
-        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 170728,
-      "name": "You Look so Good",
-      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
         "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 273080,
       "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
       "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "You Look so Good",
+        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 170728,
+      "name": "You Look so Good",
+      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 216842,
       "name": "Round and Round (Bright Light Bright Light Remix)",
       "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2023-06-30 23:59:00",

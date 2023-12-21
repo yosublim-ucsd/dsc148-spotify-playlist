@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1759771,
+  "num_followers": 1760202,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGRmMGYxYWQ0OGExZmE4NjQ1Mzk5YTNhOGU5MDI2YzI1ZjAzZTZi",
+  "snapshot_id": "MCwzYzNmMTNmNDE0Njg2MTFkMmY4ZDAxZTc2OTIzNWVjMDQ1OWI2MzUx",
   "tracks": [
     {
       "added_at": "2023-01-18 21:01:33",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 322548,
-      "name": "Bennie And The Jets - Remastered 2014",
-      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Dirty Deeds Done Dirt Cheap",
         "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 231933,
       "name": "Dirty Deeds Done Dirt Cheap",
       "url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
     },
     {
       "added_at": "2023-01-18 21:01:33",

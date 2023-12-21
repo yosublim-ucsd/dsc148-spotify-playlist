@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Luck Ra, Bersuit Vergarabat, La T y La M
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,406 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,448 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 35 | [Te Extraño](https://open.spotify.com/track/4NAvTi7cqhWMfLS1wlUiaP) | [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe), [Elesse](https://open.spotify.com/artist/7d0F73nitnyxBrReeYQn67) | [Te Extraño](https://open.spotify.com/album/2Pg485OtGyaXLzozLQFMYN) | 2:21 |
 | 36 | [Adicto a Ti](https://open.spotify.com/track/2JYZeFE1woq3lYrFMldNdj) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Adicto a Ti](https://open.spotify.com/album/4ljXHp7facg6hpNsKhEax3) | 3:33 |
 | 37 | [Y Hoy](https://open.spotify.com/track/7ocHSW36FtfidleHlFuQy4) | [Altoke Pablito](https://open.spotify.com/artist/3ZKqEOaCfchDITzlwNBNgi) | [Y Hoy](https://open.spotify.com/album/6Ew58Er5irRgeqi11hZVu3) | 2:36 |
-| 38 | [La Flechita](https://open.spotify.com/track/6b2gqUFvWJF5Ofkkp8SAf6) | [Tropilatinos](https://open.spotify.com/artist/232aQvrL4wdzcJK5tZYydI) | [La Flechita](https://open.spotify.com/album/6Q0kJrUEJInPEcEdv9faq2) | 3:09 |
+| 38 | [La Flechita](https://open.spotify.com/track/6b2gqUFvWJF5Ofkkp8SAf6) | [Tropilatinos](https://open.spotify.com/artist/232aQvrL4wdzcJK5tZYydI) | [La Flechita](https://open.spotify.com/album/6Q0kJrUEJInPEcEdv9faq2) | 3:08 |
 | 39 | [Nochentera](https://open.spotify.com/track/4SUZ7F2mYueNt3LWCmO3bF) | [Diego Giannini](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Nochentera](https://open.spotify.com/album/2hGwM5qUwjJF77EEor0VKJ) | 3:24 |
 | 40 | [Goza la vida](https://open.spotify.com/track/6LOTkadi7aQ4mAMMElz3fD) | [EXTREMO](https://open.spotify.com/artist/7qbizHnYsg9d1cIL6CLShQ) | [Goza la vida](https://open.spotify.com/album/69mIcOcq5coajCZVdoCe9x) | 3:08 |
 | 41 | [Cumbia Cheta](https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Cami Raj](https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ) | [Cumbia Cheta](https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Los Sabanales 3.0](https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Los Sabanales 3.0](https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt) | 3:08 |
 | 50 | [Que Vuelvas](https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Que Vuelvas](https://open.spotify.com/album/3jgBD0phLA3LBdsaPS3wrs) | 2:42 |
 
-Snapshot ID: `MCxmZTg5MGVkMGIyYTkwMGRkMWQ0MDM4ZGM0YmNkMzMyMzNkNzFjMDc3`
+Snapshot ID: `MCxjNjM1MzExZmRlMTlkMDhlMDI3ODY3ODVjYzMzOWEwNmExMmU4NDQz`

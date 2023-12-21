@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Theo Rubia
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,761 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,888 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 24 | [Eu Te Vejo Em Tudo \- Acoustic Session](https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 4:40 |
 | 25 | [Não Mais Escravos \- Acústico](https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Não Mais Escravos \(Acústico\)](https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3) | 4:06 |
 | 26 | [Quem Te Guarda É Deus](https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Quem Te Guarda É Deus](https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h) | 3:13 |
-| 27 | [Nenhuma Condenação Há](https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:14 |
-| 28 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 |
+| 27 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 |
+| 28 | [Nenhuma Condenação Há](https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:14 |
 | 29 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 |
 | 30 | [Troco](https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Troco](https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA) | 4:00 |
 | 31 | [Deus Cuida de Mim](https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn) | 3:44 |
 | 32 | [Teus Sonhos \- Acústico](https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Série Acústica Com Fernandinho, Vol\. 2 \(Acústico\)](https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q) | 4:25 |
 | 33 | [A Casa É Sua \- Acoustic Session](https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 5:42 |
-| 34 | [Oração De Gratidão](https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Oração De Gratidão](https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5) | 3:56 |
-| 35 | [Eu Me Rendo \(I Surrender\) \- Acústico](https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Acústico Mergulhar](https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI) | 6:14 |
+| 34 | [Eu Me Rendo \(I Surrender\) \- Acústico](https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Acústico Mergulhar](https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI) | 6:14 |
+| 35 | [Oração De Gratidão](https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Oração De Gratidão](https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5) | 3:56 |
 | 36 | [Segure Minhas Mãos \- Acústico](https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Segure Minhas Mãos \(Acústico\)](https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY) | 7:17 |
 | 37 | [Algo Novo](https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta](https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm) | 5:16 |
 | 38 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 |
 | 80 | [Ele É Exaltado \- Acústico](https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1) | [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Tavinho](https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW) | [Ele É Exaltado \(Acústico\)](https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI) | 2:15 |
 
-Snapshot ID: `MCw5NzVlNWNiODhjNTY1NmM4ZDJkZGU5YTYwMzBlZDAzMGE2MjJkZTIy`
+Snapshot ID: `MCwzMTE2ZTU1OWNjNDdkN2EzNjUyOWRhMjNhMWVmNjRjMGEwYzc1NTg2`

@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Alex Warren
 
-225 songs - 12 hr 28 min
+226 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 | 2023-09-01 |  |
 | [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 |  |
 | [Body Better \- Acoustic](https://open.spotify.com/track/4e3QW9GKxYi3fx7RjjZh58) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better \(Acoustic\)](https://open.spotify.com/album/510JGc0LpOJbhiB0uOM9m9) | 3:15 | 2023-02-24 | 2023-06-10 |
-| [Brave \- Acoustic](https://open.spotify.com/track/2bNhvD9NrWBqtf79htNx2r) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave \(Acoustic\)](https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK) | 3:48 | 2022-01-28 |  |
+| [Brave \- Acoustic](https://open.spotify.com/track/2bNhvD9NrWBqtf79htNx2r) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave \(Acoustic\)](https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK) | 3:48 | 2022-01-28 | 2023-12-21 |
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 | 2022-07-15 | 2023-06-10 |
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/1gFXL1X04BhRWn2uMgEo0X) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Best Of 2021: Acoustic Hits](https://open.spotify.com/album/58HqTqoXGzn7VL0NrnHUSl) | 2:47 | 2022-10-14 | 2022-11-13 |
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/5GoESTIjlsimLSqtLPBhDw) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Acoustic Version\)](https://open.spotify.com/album/6XYyxgvciVfSwfy1Lr3aqW) | 2:47 | 2022-01-28 | 2022-07-29 |
@@ -118,6 +118,7 @@
 | [Is It Just Me? \(feat\. JP Cooper\) \(Acoustic\)](https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz) | 3:33 | 2022-01-28 | 2023-05-10 |
 | [IT'S YOU \(feat\. keshi\) \- Stripped Version](https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\) \[Stripped Version\]](https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP) | 2:38 | 2022-10-08 |  |
 | [It’s My Birthday](https://open.spotify.com/track/1qMDY64lQJyic7OtjYDTUs) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [It’s My Birthday](https://open.spotify.com/album/1glQYqG0CJxmYONoz04LVU) | 2:38 | 2023-09-08 |  |
+| [I’m Just Ken \- In My Feelings Acoustic](https://open.spotify.com/track/1LA9VHAT6r0EkMM5lrUgQp) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Ken The EP](https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn) | 3:59 | 2023-12-20 |  |
 | [Joke's On You \- Acoustic](https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Joke's On You \(Acoustic\)](https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ) | 3:09 | 2022-01-28 | 2023-04-15 |
 | [July \- Spotify Singles](https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 2:37 | 2022-01-28 |  |
 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 | 2022-01-28 |  |

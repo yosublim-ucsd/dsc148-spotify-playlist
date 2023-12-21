@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 128 songs - 6 hr 56 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 130 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 126 | [Secure the Vibe \(feat\. Young Thug\)](https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drip Season 2](https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ) | 2:44 |
 | 127 | [Rockstar Made](https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 |
 | 128 | [On That Time](https://open.spotify.com/track/3dl8bSF08LQfCf4T6CCksf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:42 |
+| 129 | [How it go](https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:04 |
+| 130 | [Sum 2 do](https://open.spotify.com/track/7sjhOYcPgeSv3oj3IkFTeK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:32 |
 
-Snapshot ID: `NzE3NSwwY2U4MzdlODA5ZjY0NTA5YjlkYTNiYmVhOTU2NWI5ODZkNjBjNWM2`
+Snapshot ID: `NzE3NywwYjgzMDhjZDNmY2QwNGFhMjMyMTA2ZTA4YWRiMmFmNTA2YjQyMTFl`

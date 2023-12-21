@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Everywhere at the End of Time (Stage 1)",
+        "url": "https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T"
+      },
+      "artists": [
+        {
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "A1 - It's just a burning memory",
+      "url": "https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY"
+    },
+    {
+      "album": {
         "name": "Music for an Empty Metropolis",
         "url": "https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo"
       },
@@ -572,6 +590,24 @@
       "duration_ms": 338883,
       "name": "By Design",
       "url": "https://open.spotify.com/track/64HHEZIKEbIRhuUR9fYTb2"
+    },
+    {
+      "album": {
+        "name": "Everywhere at the End of Time (Stage 2)",
+        "url": "https://open.spotify.com/album/5x7V7s4itsBIV1B5UhNlVm"
+      },
+      "artists": [
+        {
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282695,
+      "name": "C2 - Misplaced in time",
+      "url": "https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON"
     },
     {
       "album": {
@@ -1584,7 +1620,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 87824,
       "name": "Hi Red",
       "url": "https://open.spotify.com/track/0LW0DztDkH57tsHdrl1IOH"
@@ -1866,7 +1902,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 144543,
       "name": "Kinky Korner Klub",
       "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
@@ -1888,6 +1924,24 @@
       "duration_ms": 160441,
       "name": "Kommissar Brenkstrupp (Main Titles)",
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
+      "album": {
+        "name": "La Danse Du Cristal",
+        "url": "https://open.spotify.com/album/67cClG4I4jctIqrtG0rpYy"
+      },
+      "artists": [
+        {
+          "name": "Lasry - Baschet",
+          "url": "https://open.spotify.com/artist/5PZb3LgWg8ArIoY7mtB9dV"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104034,
+      "name": "La Danse Du Cristal",
+      "url": "https://open.spotify.com/track/5zCrfwc4Iec9svZy3xtL4l"
     },
     {
       "album": {
@@ -3928,7 +3982,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 255693,
       "name": "Thistledown",
       "url": "https://open.spotify.com/track/3g7cZxCC45GPg0Zq43sBDl"

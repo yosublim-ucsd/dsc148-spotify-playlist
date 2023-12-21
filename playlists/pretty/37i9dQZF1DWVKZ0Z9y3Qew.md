@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="spotify:artist:7KWbU8vlvkICzAOXsiRLal">Lazā</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,251 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,263 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 37 | [I like you](https://open.spotify.com/track/1emDGY4RDXq5xK9SPvGeZ4) | [2oopaid Tk](https://open.spotify.com/artist/40x1DEUDHXochsWT1WeNcx) | [I like you](https://open.spotify.com/album/77D8WUrSwnVC2IHW7SPzor) | 2:21 |
 | 38 | [Pacquiao](https://open.spotify.com/track/3gCenARY0mDAY9cNDpns25) | [Tha Baby](https://open.spotify.com/artist/08SVkY2vG3EVrzCLBOr7FK), [Isaacjacuzzi](https://open.spotify.com/artist/1d2LiED2RoP2szpzjrU0Hd) | [Pacquiao](https://open.spotify.com/album/5HGPg7pc2FtI3HXGyneYLH) | 2:39 |
 | 39 | [143](https://open.spotify.com/track/53gKMhmefXLkeohy8ilYtF) | [Yel](https://open.spotify.com/artist/5sY92Urzywu9iCFdfJfxYf), [Lyrane](https://open.spotify.com/artist/061XXjLJhKVUMxVHqSCCZ2) | [Cruise Control](https://open.spotify.com/album/5lwi0qKu7zW1wGk9IlDaN2) | 3:01 |
-| 40 | [Isolation](https://open.spotify.com/track/34FiAqEA4tiSTQkRh6ye8G) | [Hunnidkbaby](https://open.spotify.com/artist/6gj2nfDNUqOjbVGzYdzSFQ) | [Isolated](https://open.spotify.com/album/0KXSAtgpYqrxTRzIs3SROj) | 1:46 |
+| 40 | [Isolation](https://open.spotify.com/track/34FiAqEA4tiSTQkRh6ye8G) | [Hunnidkbaby](https://open.spotify.com/artist/6gj2nfDNUqOjbVGzYdzSFQ), [Mehlo](https://open.spotify.com/artist/0b6Sz34KvvDRwm6SeCkQGz) | [Isolated](https://open.spotify.com/album/0KXSAtgpYqrxTRzIs3SROj) | 1:46 |
 | 41 | [Stick N A Gown](https://open.spotify.com/track/2D2eNKHCNp0WuOVW38STdV) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [Vol\. 6](https://open.spotify.com/album/3sulyKSdjgSmSEtp7o8hWV) | 3:42 |
 | 42 | [SHARKEESHA](https://open.spotify.com/track/2LO4qGBQQ0ZATpprujzpHY) | [KHRIS P](https://open.spotify.com/artist/5kWlBrfLyEaITpIECNy577) | [NEW FLAME](https://open.spotify.com/album/0NzAVC3YPT2GMGYdWqdmJy) | 1:58 |
 | 43 | [On Dis](https://open.spotify.com/track/7EwAjexRdcRAVjtZAJGEE9) | [Dyrect](https://open.spotify.com/artist/1dhCuRGoNbR8a8bhdY3UUs), [Drae Slapz](https://open.spotify.com/artist/1RKGcbu15VTqYNYMjyisNM), [Brookfield Duece](https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv) | [On Dis](https://open.spotify.com/album/5CWvG24Rz994vNhhS57vT8) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 49 | [BREAK IT DOWN](https://open.spotify.com/track/5rMrTqFph0Bmf7et7YP04a) | [NËSTRÄ](https://open.spotify.com/artist/5ABikugX8BV6gZiF23y2br) | [BREAK IT DOWN](https://open.spotify.com/album/5ccWTc0SG848ofEyPe9P45) | 2:15 |
 | 50 | [I'm So Done](https://open.spotify.com/track/65sVRIIv04YmZOtm0IaPS7) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3), [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Where Do Birds Go At Night?](https://open.spotify.com/album/0fKIjGmb4QOxRDK1hR0d5n) | 2:57 |
 
-Snapshot ID: `MCwwMWViNjNiNmExZTZhZWVjMWI5N2VmYjE5OTI0MTMxYjZlNWQzNDU4`
+Snapshot ID: `MCxjZjkyZDVhZWY1ZjIyZGVjNzliN2Y3NjAyMGM2NTMyZDIyZDIzOWNk`

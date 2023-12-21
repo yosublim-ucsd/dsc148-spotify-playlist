@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-152 songs - 8 hr 29 min
+153 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 | 2021-10-15 | 2023-11-11 |
 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 | 2023-11-10 |  |
 | [El Cuervo](https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [El Cuervo](https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi) | 3:08 | 2022-05-01 | 2023-11-11 |
-| [El Hoyo](https://open.spotify.com/track/4efCIxfbgtf27uvOD0c3cB) | [Francis Davila](https://open.spotify.com/artist/4JT4DG5QVDffNJBv3UuaE6) | [El Hoyo](https://open.spotify.com/album/7bB62uup0K7tg2yzsppwlr) | 3:35 | 2023-12-01 |  |
+| [El Hoyo](https://open.spotify.com/track/4efCIxfbgtf27uvOD0c3cB) | [Francis Davila](https://open.spotify.com/artist/4JT4DG5QVDffNJBv3UuaE6) | [El Hoyo](https://open.spotify.com/album/7bB62uup0K7tg2yzsppwlr) | 3:35 | 2023-12-01 | 2023-12-21 |
 | [Envolvidão](https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Drive](https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj) | 3:41 | 2023-12-01 | 2023-12-18 |
 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 |  |
 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 |  |
@@ -66,6 +66,7 @@
 | [Frisky In Fortaleza](https://open.spotify.com/track/6ImDe3MEJdeLRgw4hwqwYh) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Frisky In Fortaleza EP](https://open.spotify.com/album/3IO6R1UgxXAWK3lUuwGkof) | 3:37 | 2021-10-08 | 2022-07-29 |
 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 | 2023-11-10 |  |
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-12-01 | 2023-12-14 |
+| [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 | 2023-12-15 |  |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2023-11-10 | 2023-12-09 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-11-10 |  |
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2023-11-10 |  |

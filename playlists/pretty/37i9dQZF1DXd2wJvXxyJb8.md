@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > se esse ano eu te desagradei peço queCAGUEI E ANDEI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,269 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,902 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 56 | [Vacilão](https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Vacilão](https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv) | 2:10 |
 | 57 | [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 |
 | 58 | [A Caminho do Bega \[Piseiro Remix\] \(feat\. Dj Mizzontti\)](https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W), [Dj Mizzontti](https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu) | [A Caminho do Bega \[Piseiro Remix\]](https://open.spotify.com/album/1iHsaiSw8TCeXR1EAni3RL) | 2:16 |
-| 59 | [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:49 |
+| 59 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Mc Cothie](https://open.spotify.com/artist/2kgFOT33p9LwqLDbnHiKTB), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 2:11 |
 | 60 | [Love Absurdo](https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Love Absurdo](https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS) | 3:04 |
 | 61 | [Botadinha Saliente](https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Botadinha Saliente](https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG) | 2:38 |
 | 62 | [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 64 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
 | 65 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 |
 
-Snapshot ID: `MCwwZWU0MjBkNDdlMWU1MzA3Yjc2NzE0Y2NkZDNkZDk0MDkzMTk4NWYz`
+Snapshot ID: `MCxjNzBjODhjNmNjOTAzYjI1ZmFmMTMzYzgzYjhiOGEwYjY4NWQ3NzJj`

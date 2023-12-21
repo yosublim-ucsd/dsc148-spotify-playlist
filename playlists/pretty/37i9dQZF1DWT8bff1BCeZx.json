@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 10733,
+  "num_followers": 10781,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzI2ODA1ZmRlMGMyZjU1ZTM2YTFjY2M0Y2NkNzI5ODY0NDA2NTM2",
+  "snapshot_id": "MCxlYjA1M2U2ZTliNWIyY2IwZWYwYzk0YjY2ZDYzODI2ZWZmZGIyMTQx",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Igwe",
-        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
-      },
-      "artists": [
-        {
-          "name": "Midnight Crew",
-          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
-        }
-      ],
-      "duration_ms": 312556,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "S. W. A. G (Saved with Amazing Grace)",
         "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 242704,
       "name": "Oluwa E Tobi",
       "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+      },
+      "artists": [
+        {
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+        }
+      ],
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
-        "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 281040,
-      "name": "My God Is Good - Live",
-      "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 210291,
       "name": "Away",
       "url": "https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
+        "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 281040,
+      "name": "My God Is Good - Live",
+      "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
     },
     {
       "added_at": "2023-12-15 00:01:00",

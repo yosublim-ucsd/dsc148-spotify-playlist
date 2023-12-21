@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 38172,
+  "num_followers": 38210,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGM0YzBkZDZhM2I5YTJkNmNmNTMwZDk3ODY0ZDVhNmE0MzI2MTk0",
+  "snapshot_id": "MCw2ZmNiMTZkZDgwYTc4YWFkYmM2NGZjYWZkOTYwOWI4NGUyZWQ4YmRi",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "He Who Is To Come",
         "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Firm Foundation (Live)",
         "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 380666,
       "name": "Firm Foundation (He Won\u2019t) - Live",
       "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Good Plans / Doxology",
+        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 495246,
+      "name": "Good Plans / Doxology",
+      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -871,22 +887,6 @@
       "duration_ms": 178998,
       "name": "Red Dirt Church (feat. NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/2Dm1IoIlLaa0rIjMBLfk0a"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Good Plans / Doxology",
-        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 495246,
-      "name": "Good Plans / Doxology",
-      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
     },
     {
       "added_at": "2023-12-01 00:01:00",

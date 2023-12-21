@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-569 songs - 2 day 0 hr 31 min
+570 songs - 2 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 |  |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 |  |
-| [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 |  |
+| [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 | 2023-12-21 |
 | [As Above So Below](https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN) | 4:59 | 2022-07-13 |  |
 | [As Above So Below](https://open.spotify.com/track/5T6FioXGDdd5kw4I3HpHH1) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/7FKHNF62tKyP6ejTQ1qo2m) | 5:01 | 2022-07-13 | 2022-07-29 |
 | [Asebeia](https://open.spotify.com/track/64APQrZbLJ0P6OF4sYZfZn) | [Temple Of Dread](https://open.spotify.com/artist/63gOmJYMY5DArrmagcCrOL) | [Asebeia](https://open.spotify.com/album/3J5r481a3YFAn3HHQtzkPM) | 2:13 | 2023-08-11 | 2023-09-22 |
@@ -290,6 +290,7 @@
 | [Kill for Satan](https://open.spotify.com/track/6iaN2Q0DOxOIAPPrI3R3KZ) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/46ecBgtPpQZZsAdFaeuFn0) | 4:54 | 2022-07-13 | 2022-07-28 |
 | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/track/2KIFDLjfHIIkRum4fNmonY) | [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/album/0pOdTGdqc1p8iizWzoE64G) | 1:54 | 2022-11-25 | 2023-02-04 |
 | [Kingdom](https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Kingdom](https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW) | 5:51 | 2022-08-26 | 2022-12-01 |
+| [Ksar Al\-Kufar](https://open.spotify.com/track/209JHbDe9Y5gJkWnVpxmSx) | [Necrowretch](https://open.spotify.com/artist/0cIx910hgtpgvicBJv3ybq) | [Ksar Al\-Kufar](https://open.spotify.com/album/7uxKxIqVeps6DWbaggpNKm) | 4:21 | 2023-12-15 |  |
 | [Latrodectus](https://open.spotify.com/track/7u1Ng0a75DPuSQDnRL2whv) | [Blood Red Throne](https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4) | [Latrodectus](https://open.spotify.com/album/6Ii6CnoWpYAlwfoKACn6iH) | 4:22 | 2023-03-03 | 2023-12-19 |
 | [Le cœur noir charbon](https://open.spotify.com/track/6SkVNR0kwbHBbBqNHRkhno) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Le cœur noir charbon](https://open.spotify.com/album/1iEQyb7x4RuWNpQfbjGNo3) | 7:18 | 2022-01-14 | 2022-01-29 |
 | [Legion](https://open.spotify.com/track/6Q7tXH6CsjLRFnry2es67r) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Rapture](https://open.spotify.com/album/3LK4RzSqoZwzZ6rtEbOj1G) | 3:30 | 2022-05-27 | 2023-12-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 55617,
+  "num_followers": 55622,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODI2NDNmODk4MTdhN2VmMjU1MDZmMTQ3NmIzYzRjOWM4MDhmYjM1",
+  "snapshot_id": "MCwwMWMzMjBiMWVlZWFhOTAwNmExNWJmYjU3MzllM2I3ZjhmYTk2NjM5",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -611,18 +611,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj"
       },
       "artists": [
         {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
         }
       ],
-      "duration_ms": 171707,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
+      "duration_ms": 165120,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/1mhD6azpk9jqaSudGsNiXW"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -647,22 +651,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj"
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Dean Mickoski",
-          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
         }
       ],
-      "duration_ms": 165120,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/1mhD6azpk9jqaSudGsNiXW"
+      "duration_ms": 171707,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Ojos (La Noche Mix)",
-        "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
-      },
-      "artists": [
-        {
-          "name": "Jenna Kyle",
-          "url": "https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 180521,
-      "name": "Ojos - La Noche Mix - Radio Edit",
-      "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Density",
         "url": "https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 161904,
       "name": "Density",
       "url": "https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Ojos (La Noche Mix)",
+        "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
+      },
+      "artists": [
+        {
+          "name": "Jenna Kyle",
+          "url": "https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 180521,
+      "name": "Ojos - La Noche Mix - Radio Edit",
+      "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Thousand Drums",
-        "url": "https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd"
+        "name": "El Pana Dero",
+        "url": "https://open.spotify.com/album/5B1upn3tokanXGtSeSuGHM"
       },
       "artists": [
         {
-          "name": "Orjan Nilsen",
-          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
-        },
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Thousand Drums",
-      "url": "https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr"
+      "duration_ms": 164160,
+      "name": "El Pana Dero",
+      "url": "https://open.spotify.com/track/6rlhaRVuyfMEbLqdY7iWEP"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1323,6 +1319,26 @@
       "duration_ms": 181935,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Thousand Drums",
+        "url": "https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Thousand Drums",
+      "url": "https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "El Pana Dero",
-        "url": "https://open.spotify.com/album/5B1upn3tokanXGtSeSuGHM"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "El Pana Dero",
-      "url": "https://open.spotify.com/track/6rlhaRVuyfMEbLqdY7iWEP"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "The Same Loop Again",
         "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
       },
@@ -1411,30 +1411,6 @@
       "duration_ms": 279594,
       "name": "The Same Loop Again",
       "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Agua Pa Beber",
-        "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "Gerardo Varela",
-          "url": "https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny"
-        }
-      ],
-      "duration_ms": 150966,
-      "name": "Agua Pa Beber",
-      "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1463,22 +1439,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Swap",
-        "url": "https://open.spotify.com/album/7vvgUkUWQe92TGMCRm1BQR"
+        "name": "Agua Pa Beber",
+        "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
         },
         {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Gerardo Varela",
+          "url": "https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Swap",
-      "url": "https://open.spotify.com/track/45AsRwZTsI9sHCvP9ovFJD"
+      "duration_ms": 150966,
+      "name": "Agua Pa Beber",
+      "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1571,6 +1551,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Swap",
+        "url": "https://open.spotify.com/album/7vvgUkUWQe92TGMCRm1BQR"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Swap",
+      "url": "https://open.spotify.com/track/45AsRwZTsI9sHCvP9ovFJD"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Covalent Bond",
         "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
@@ -1631,26 +1631,6 @@
       "duration_ms": 190645,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4FmMrvogUG8GxzyJSuRbGv"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Scare",
-        "url": "https://open.spotify.com/album/4pQR2kQ9oEYuLgu6MV9l4p"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Scare",
-      "url": "https://open.spotify.com/track/5wbgiwLQCkwloRj5fSDCyw"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1731,6 +1711,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Scare",
+        "url": "https://open.spotify.com/album/4pQR2kQ9oEYuLgu6MV9l4p"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Scare",
+      "url": "https://open.spotify.com/track/5wbgiwLQCkwloRj5fSDCyw"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "San Junipero Remixes Vol. 1",
         "url": "https://open.spotify.com/album/0z6ThqeKVlAuBkjXX0M70x"
       },
@@ -1767,26 +1767,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "In You Arms",
-        "url": "https://open.spotify.com/album/59tmknYiQZ0bjuDppjPFHr"
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         },
         {
-          "name": "ML3NNON",
-          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
-        },
-        {
-          "name": "GeeKan",
-          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+          "name": "Bandido Brothers",
+          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
         }
       ],
-      "duration_ms": 154687,
-      "name": "In You Arms",
-      "url": "https://open.spotify.com/track/3nek7B2KNvSZRq4N1zAgMv"
+      "duration_ms": 210731,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
     },
     {
       "added_at": "2023-11-17 06:00:00",

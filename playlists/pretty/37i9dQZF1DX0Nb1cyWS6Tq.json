@@ -1,12 +1,12 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 719154,
+  "num_followers": 719566,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjQ0ZjYzNTQyMjg5Y2I0ZDVjZjE5OGE3OWZiOWYwY2YxMzhmMWYz",
+  "snapshot_id": "MCw2M2M2YTdhMWYxNGE1MWE3ODlkZjZjYzllYjk4YjA2NzE4OTJjY2Fm",
   "tracks": [
     {
       "added_at": "2021-10-15 04:04:50",
@@ -363,8 +363,8 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+        "name": "Milk & Kisses",
+        "url": "https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
+      "duration_ms": 237600,
+      "name": "Serpentskirt",
+      "url": "https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -443,8 +443,8 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Milk & Kisses",
-        "url": "https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK"
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 237600,
-      "name": "Serpentskirt",
-      "url": "https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY"
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Deep",
-        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
-      },
-      "artists": [
-        {
-          "name": "Peter Murphy",
-          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Cuts You Up",
-      "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Juju",
         "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 185946,
       "name": "Arabian Knights",
       "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
+      },
+      "artists": [
+        {
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Cuts You Up",
+      "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Forever (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
-      },
-      "artists": [
-        {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Singles 1983-1995",
         "url": "https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 291600,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Forever (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
+      },
+      "artists": [
+        {
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
     },
     {
       "added_at": "2021-10-15 04:04:50",

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Van Zee.",
-  "num_followers": 42092,
+  "num_followers": 42111,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2I2ZDc0MDI2YjNmNDViM2QzN2UyYTMxMDlhOWFjMWEwNDZhYTM0",
+  "snapshot_id": "MCwyY2FlMWMzZDA3OGRmMjRmNWRlZGY1MGU3NDhiNmM5ZWUwMzA2ZWE1",
   "tracks": [
     {
       "added_at": "2023-12-15 00:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "That's Me",
-        "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
-      },
-      "artists": [
-        {
-          "name": "mishlawi",
-          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 203351,
-      "name": "That's Me",
-      "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "+ do Mesmo - Parte 1",
         "url": "https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 288200,
       "name": "N\u00e3o Me Enganas (feat. Ivandro & Nayr Faquira)",
       "url": "https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
+      },
+      "artists": [
+        {
+          "name": "mishlawi",
+          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 203351,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
     },
     {
       "added_at": "2023-12-15 00:00:00",

@@ -260,7 +260,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 261879,
       "name": "Apex",
       "url": "https://open.spotify.com/track/2rkYtkOUorjiLp4kDdnOzk"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 168775,
       "name": "BANG!",
       "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 211764,
       "name": "Cafe Del Mar",
       "url": "https://open.spotify.com/track/5rYJdqK0TTWSqSRbOnsLmg"
@@ -1078,6 +1078,24 @@
       "duration_ms": 243529,
       "name": "Cannonball - Will Sparks Remix",
       "url": "https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9"
+    },
+    {
+      "album": {
+        "name": "Cantus",
+        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184051,
+      "name": "Cantus",
+      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
     },
     {
       "album": {
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 192000,
       "name": "Dance With The Devil (The 6th Gate) (Reinier Zonneveld Remix)",
       "url": "https://open.spotify.com/track/4Q6TuhtBOgaV0m8mlccIpU"
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 136406,
       "name": "EDM",
       "url": "https://open.spotify.com/track/5WAx7JU09H1jJaaIdUJcVh"
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A"
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 154160,
       "name": "Flight 303",
       "url": "https://open.spotify.com/track/3VSwrup744za8NcJwdlbbL"
@@ -2350,7 +2368,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
@@ -4097,6 +4115,28 @@
     },
     {
       "album": {
+        "name": "Meet Her (Ti\u00ebsto vs. Da Hool)",
+        "url": "https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Meet Her - Ti\u00ebsto vs. Da Hool",
+      "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
+    },
+    {
+      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/0Ntw26ASZDaNWzSY9KcFTt"
       },
@@ -4578,7 +4618,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 176804,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N"
@@ -5199,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Party Everyday",
+        "url": "https://open.spotify.com/album/5dmTMnwiRqi6r4bsPwlus6"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172700,
+      "name": "Party Everyday",
+      "url": "https://open.spotify.com/track/2PVnAqyfcnCfYJFxULjOPA"
+    },
+    {
+      "album": {
         "name": "Party With The Cops (feat. Haley Maze)",
         "url": "https://open.spotify.com/album/2oNJnWH2GV6OYNKrk7d9QB"
       },
@@ -5335,6 +5393,28 @@
     },
     {
       "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r"
+    },
+    {
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
       },
@@ -5416,7 +5496,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 178593,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
@@ -6202,7 +6282,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Sex Drugs Energie",
       "url": "https://open.spotify.com/track/6aB7mV6RHoshGo2ExvoRVQ"
@@ -6934,7 +7014,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 264374,
       "name": "TARAKA - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d"
@@ -7560,7 +7640,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 217615,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/0n8PMT5vyu8lffykqYvOIo"
@@ -7926,7 +8006,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
@@ -8022,7 +8102,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 170010,
       "name": "We Go Out",
       "url": "https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn"

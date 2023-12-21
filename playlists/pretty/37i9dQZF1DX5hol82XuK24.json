@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 422012,
+  "num_followers": 422096,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmNjOTI3NzA4ZTRmZDI5OWM5ZDY2MWIxZTI2MGEyMWUyMzRjZmE2",
+  "snapshot_id": "MCw5NDRlMzZkNTAxNDU2ODhmNWNjNGU5ZWY1MmM0M2MwMmJjN2ZlZWJm",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "My Body's a Zombie For You",
-      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "If You Say the Word",
         "url": "https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 260733,
       "name": "If You Say the Word",
       "url": "https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "My Body's a Zombie For You",
+      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Services",
-        "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
-      },
-      "artists": [
-        {
-          "name": "Tempers",
-          "url": "https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2"
-        }
-      ],
-      "duration_ms": 250211,
-      "name": "Strange Harvest",
-      "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Eye On The Bat",
         "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 144404,
       "name": "My Evil",
       "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Services",
+        "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
+      },
+      "artists": [
+        {
+          "name": "Tempers",
+          "url": "https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2"
+        }
+      ],
+      "duration_ms": 250211,
+      "name": "Strange Harvest",
+      "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "High Violet",
         "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 174173,
       "name": "Anyone's Ghost",
       "url": "https://open.spotify.com/track/6NrjC9PUZo2do7aLhkf373"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 241332,
-      "name": "Slowdance I",
-      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Debonair",
         "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 241332,
+      "name": "Slowdance I",
+      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Flying Wig",
-        "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 268659,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Double Negative",
         "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 382674,
       "name": "Dancing and Blood",
       "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Flying Wig",
+        "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 268659,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Tape V",
-        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
-      },
-      "artists": [
-        {
-          "name": "Daniel Spaleniak",
-          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
-        }
-      ],
-      "duration_ms": 177801,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Used To It",
         "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 182002,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+        }
+      ],
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "added_at": "2023-11-03 23:08:22",

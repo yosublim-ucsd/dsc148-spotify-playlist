@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > consider this an RSVP to littest wedding parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,770 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,771 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 39 | [Angela](https://open.spotify.com/track/0pPaHAsyHLYt45J42IXKuG) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:07 |
 | 40 | [Winner](https://open.spotify.com/track/0Bmw1fmFi01PvyIKT0akqt) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 3:08 |
 | 41 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 |
-| 42 | [Bad and Boujee](https://open.spotify.com/track/0sy1phpDCCy7DB7N03iZEW) | [Murphy Mccarthy](https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Bad and Boujee](https://open.spotify.com/album/33FfluAHOTnk36bi6gheDp) | 3:35 |
+| 42 | [Bad and Boujee](https://open.spotify.com/track/6yxeRfVFePZ9poNaEwaQL3) | [Murphy Mccarthy](https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Jaywillz](https://open.spotify.com/artist/6OYJV1xYFAu5vysIxfq4Pg) | [Bad and Boujee](https://open.spotify.com/album/2tY2hWhHDRbWE4pAXMhulM) | 3:35 |
 | 43 | [Julie](https://open.spotify.com/track/58f9RS1Wkaapezwhu5Cu3L) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [UY Scuti](https://open.spotify.com/album/2nDH1AOBaaugSngw9Yiwyw) | 1:57 |
 | 44 | [Plans](https://open.spotify.com/track/0WoT1vggiErQBlgzft2X77) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Plans](https://open.spotify.com/album/6rCRtmadXMUoZgJYZ3RtsN) | 2:52 |
 | 45 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 51 | [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 |
 | 52 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
 
-Snapshot ID: `MCxmZjc5Y2Q4ZTJmMTUwYTBmODc4NGQzYWRhMmRhMmRhN2MzMWQyMzQw`
+Snapshot ID: `MCw0NGZmZTVlODY4NDEyM2RlYjEzNjA5NGM4NjBlZTkyYzhlNTU4MWM3`

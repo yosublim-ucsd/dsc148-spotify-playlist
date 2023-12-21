@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 98 | [Lightning](https://open.spotify.com/track/1mreBnJEA5A6uIOTzkKq8Z) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lightning](https://open.spotify.com/album/1H6XatdVMrvJMvokzH2Kef) | 2:57 |
 | 99 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 |
 
-Snapshot ID: `MCxkNWJjMjNiNzM1Yzk0ZTA1NjA1ZDhjZTcwZjI4ZTU5MjVmOWY2ODBh`
+Snapshot ID: `MCwzYzgyYTJjMDNmNjRlODgyZjU5NDNiZGRlYjcyM2I4ZDRkMDMyN2U0`

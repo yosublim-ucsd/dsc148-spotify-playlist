@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Reneé Rapp, Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,347,799 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,347,883 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 |
 | 50 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 
-Snapshot ID: `MCwyOTkwZDdhYThmMjk0ZmE2NmRjMTZkYjcxMDljMTJkY2ZiNDcwMzY5`
+Snapshot ID: `MCwxODBhN2FmMTkyYzdlMzQ3ZTk5NmFlMjE5MGFhOThjZDg1NjE1Nzhm`

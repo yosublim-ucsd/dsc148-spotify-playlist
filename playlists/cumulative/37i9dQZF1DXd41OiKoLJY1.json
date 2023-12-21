@@ -3434,6 +3434,24 @@
     {
       "album": {
         "name": "Baby Blues",
+        "url": "https://open.spotify.com/album/4TczUWAYYoUx3QzUz6w3DP"
+      },
+      "artists": [
+        {
+          "name": "Monique de los Santos",
+          "url": "https://open.spotify.com/artist/4iWbMwf9a5QFaJJ9uMddWY"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265120,
+      "name": "Baby Blues",
+      "url": "https://open.spotify.com/track/4uzeBGUrxn9mCPumudL408"
+    },
+    {
+      "album": {
+        "name": "Baby Blues",
         "url": "https://open.spotify.com/album/3Ui3xHH9X99VmPL4zS4QnS"
       },
       "artists": [
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 265120,
       "name": "Baby Blues",
       "url": "https://open.spotify.com/track/5EQZZNj3rT2I3TqRxrz9Qk"

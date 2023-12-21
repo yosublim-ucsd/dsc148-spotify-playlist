@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 207333,
+  "num_followers": 207391,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmQ5ZjAwNjQ4NTlmZDIyY2NjM2QzMGE2YTBjNmY5MTlmZmExYTM4",
+  "snapshot_id": "MCxjMmZiZDEyZTg3Nzc4ODIyMDJlY2RkMDA4NzQ4ZGQ3OTM4ODhhZDRk",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Head on the Door",
-        "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "Close to Me - 2006 Remaster",
-      "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "The Unforgettable Fire (Remastered)",
         "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 228426,
       "name": "Pride (In The Name Of Love) - Remastered 2009",
       "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "The Head on the Door",
+        "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "Close to Me - 2006 Remaster",
+      "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
     },
     {
       "added_at": "2020-06-24 14:37:20",

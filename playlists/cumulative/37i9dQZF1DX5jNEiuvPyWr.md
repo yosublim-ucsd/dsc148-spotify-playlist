@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : So La Lune
 
-320 songs - 15 hr 55 min
+321 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Dans le sang](https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv) | [CHATNOIR](https://open.spotify.com/artist/417jPajaJxfk3XL4IxJZhV), [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [Dans le sang](https://open.spotify.com/album/33jB6ufMMpEsdITKnha6aU) | 3:43 | 2023-07-06 | 2023-10-06 |
 | [DEHORS ENCORE](https://open.spotify.com/track/40pUBt8WFhqUQKshH3a8zi) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [DEHORS ENCORE](https://open.spotify.com/album/4CeJxEXiwDSwumhsHDeK8O) | 1:58 | 2023-09-07 | 2023-10-13 |
 | [Dehors Part 2](https://open.spotify.com/track/3BX8ris74IVRx9ySBdoKES) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [MRTHN](https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g) | 2:54 | 2023-03-16 | 2023-05-05 |
-| [Demain](https://open.spotify.com/track/1gyWKoHQbbv9HBZa4UD2Gd) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:36 | 2023-12-14 |  |
+| [Demain](https://open.spotify.com/track/1gyWKoHQbbv9HBZa4UD2Gd) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:36 | 2023-12-14 | 2023-12-21 |
 | [Demain c'est loin](https://open.spotify.com/track/1D7p8EN4kDXCUN0yN8KBr9) | [Blasko](https://open.spotify.com/artist/0fUBKEXCJYmCr9vrI66NEJ), [Softo](https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp) | [Demain c'est loin](https://open.spotify.com/album/2s95ruN0TdxyE8nXyZepeq) | 3:41 | 2022-08-25 | 2022-10-28 |
 | [Dennis Rodman \(feat\. Laylow\)](https://open.spotify.com/track/4Sg6iFX0yKvTO1aGKB8sWL) | [Binks Beatz](https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Drip Music 2](https://open.spotify.com/album/5eYz4YuKj5vLWzXdOqxL3d) | 3:57 | 2022-09-15 | 2023-03-03 |
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-07-14 | 2023-02-03 |
@@ -250,6 +250,7 @@
 | [PÈLERINAGE](https://open.spotify.com/track/0tvP9GO0Rfr8ft3GU0aIGA) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [PÈLERINAGE](https://open.spotify.com/album/3SFxtJqFRhpFnfzu3LI7Ih) | 3:01 | 2022-07-14 | 2022-10-07 |
 | [Qatari](https://open.spotify.com/track/2aqiMUmWd4BUEUXaMUMZXB) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [Qatari](https://open.spotify.com/album/1RkZvLcX0e8iZyCTCyIhdu) | 3:22 | 2023-03-16 | 2023-11-10 |
 | [QLT](https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT](https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9) | 2:37 | 2023-03-23 | 2023-05-19 |
+| [Qu'est\-ce tu veux qu'j'te dise?](https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:26 | 2023-12-20 |  |
 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 | 2023-07-13 |  |
 | [REFLET](https://open.spotify.com/track/6WVQNv6OfbKtZ5GIVsmWCu) | [LETS GO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 2:47 | 2023-05-18 | 2023-06-30 |
 | [Regarde](https://open.spotify.com/track/3RXZRxhbPDL6B6gt59FO8m) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [Regarde](https://open.spotify.com/album/223Z3aR3oXho7do2t6IPeY) | 3:22 | 2022-07-14 | 2022-11-18 |

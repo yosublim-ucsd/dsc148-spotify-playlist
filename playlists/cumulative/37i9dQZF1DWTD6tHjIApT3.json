@@ -13199,6 +13199,28 @@
     },
     {
       "album": {
+        "name": "Nanairo Colorful",
+        "url": "https://open.spotify.com/album/357Rk5z5HzJ6HIb12RgZYq"
+      },
+      "artists": [
+        {
+          "name": "Daoko",
+          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
+        },
+        {
+          "name": "Tomggg",
+          "url": "https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162286,
+      "name": "Nanairo Colorful",
+      "url": "https://open.spotify.com/track/4BNOwFIKjYB56oFhCZx57O"
+    },
+    {
+      "album": {
         "name": "NATSU NO HAMON",
         "url": "https://open.spotify.com/album/7gpyp8SJ911G4AUYdB04oa"
       },
@@ -15354,7 +15376,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 192954,
       "name": "Pre-Romance",
       "url": "https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I"
@@ -20868,7 +20890,7 @@
     {
       "album": {
         "name": "TWO HANDS",
-        "url": "https://open.spotify.com/album/2sMKe588F4Ajje4T6cJd8z"
+        "url": "https://open.spotify.com/album/6Ye9bLX5bekU0FlUsGBJhv"
       },
       "artists": [
         {
@@ -20879,6 +20901,24 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 238800,
+      "name": "TWO HANDS",
+      "url": "https://open.spotify.com/track/0A4YsyGeKycMLInrCBwsGN"
+    },
+    {
+      "album": {
+        "name": "TWO HANDS",
+        "url": "https://open.spotify.com/album/2sMKe588F4Ajje4T6cJd8z"
+      },
+      "artists": [
+        {
+          "name": "Yuinishio",
+          "url": "https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 238800,
       "name": "TWO HANDS",
       "url": "https://open.spotify.com/track/6Gt42KmyGkRa7M3M0MhY82"
@@ -23720,7 +23760,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 383613,
       "name": "\u3046\u308c\u3057\u304f\u3066",
       "url": "https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1"
@@ -28042,7 +28082,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 162286,
       "name": "\u30ca\u30ca\u30a4\u30ed\u30ab\u30e9\u30d5\u30eb",
       "url": "https://open.spotify.com/track/2JNK1znSfBohjXvRazaMxv"

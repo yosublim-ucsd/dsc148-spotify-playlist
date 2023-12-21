@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us? ft. The Strokes ",
-  "num_followers": 120394,
+  "num_followers": 120592,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTE4OGNhOWVmYTYxOTE1YTA2NGZjZjk5MzIxNjYyNzMzOTY0ODc2",
+  "snapshot_id": "MCwzMGEwNjM5OTc3OWY2YjYyNmM4Y2ExYzcxNWE3OGIyYTJhNjBlMDIx",
   "tracks": [
     {
       "added_at": "2023-09-05 19:58:53",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Fantasies",
-        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Help I'm Alive",
-      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Rooty",
         "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 285533,
       "name": "Where's Your Head At",
       "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Help I'm Alive",
+      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Master of My Make-Believe",
-        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+        "name": "Supernature",
+        "url": "https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx"
       },
       "artists": [
         {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
         }
       ],
-      "duration_ms": 284400,
-      "name": "Disparate Youth",
-      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
+      "duration_ms": 204373,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Supernature",
-        "url": "https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx"
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
       "artists": [
         {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN"
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "L.E.S. Artistes",
-      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Treats",
         "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Deep Cuts",
-        "url": "https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m"
-      },
-      "artists": [
-        {
-          "name": "The Knife",
-          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Pass This On",
-      "url": "https://open.spotify.com/track/0aWhxzFrP2Yyz3CetJe0xE"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m"
+      },
+      "artists": [
+        {
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Pass This On",
+      "url": "https://open.spotify.com/track/0aWhxzFrP2Yyz3CetJe0xE"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Era Extra\u00f1a",
         "url": "https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 264000,
       "name": "Polish Girl",
       "url": "https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "In Ghost Colours (UK Version Delux)",
+        "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Lights & Music",
+      "url": "https://open.spotify.com/track/0FezhHZVmDYXvk8jAr2fpU"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1403,22 +1419,6 @@
       "duration_ms": 251380,
       "name": "Psychic City - Classixx Remix",
       "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "In Ghost Colours (UK Version Delux)",
-        "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
-      },
-      "artists": [
-        {
-          "name": "Cut Copy",
-          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Lights & Music",
-      "url": "https://open.spotify.com/track/0FezhHZVmDYXvk8jAr2fpU"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Wait for Me",
-        "url": "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC"
       },
       "artists": [
         {
-          "name": "The Pigeon Detectives",
-          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 127400,
-      "name": "I Found Out",
-      "url": "https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp"
+      "duration_ms": 223226,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC"
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
       },
       "artists": [
         {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          "name": "The Pigeon Detectives",
+          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
         }
       ],
-      "duration_ms": 223226,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2"
+      "duration_ms": 127400,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp"
     },
     {
       "added_at": "2023-09-05 19:58:53",

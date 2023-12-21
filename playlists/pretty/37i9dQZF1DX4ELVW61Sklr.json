@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 186348,
+  "num_followers": 186916,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjkyYWZmOTBjNzc3N2I2NmI3MzFjZmVkMTlhNmZhMDA5MTk1NDcx",
+  "snapshot_id": "MCw3N2Q1ZTE2MjI3ZWM0Yjc3OTI1MzA1MTJmY2I5ZDI1NTk4ZDYzZWZi",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas with PJ Morton (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 203207,
       "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
       "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 190799,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "It's Christmas",
@@ -851,6 +835,22 @@
       "duration_ms": 234560,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 190799,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -873,6 +873,22 @@
       "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "A Special Christmas",
+        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Peppermint Tea",
@@ -891,38 +907,6 @@
       "duration_ms": 189412,
       "name": "Peppermint Tea",
       "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "A Special Christmas",
-        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Somebody's Waiting",
-      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -965,6 +949,22 @@
       "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Somebody's Waiting",
+      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
+    },
+    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Def The Halls",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2023-12-08 05:22:39",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
       },
       "artists": [
         {
-          "name": "Vanessa Williams",
-          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 232840,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
+    },
+    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Christmas With Babyface",
@@ -1051,22 +1067,6 @@
       "duration_ms": 276960,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
-    },
-    {
-      "added_at": "2023-12-08 05:22:39",
-      "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1153,6 +1153,26 @@
       "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
+    },
+    {
       "added_at": "2023-11-18 05:00:00",
       "album": {
         "name": "The Greatest Gift",
@@ -1167,22 +1187,6 @@
       "duration_ms": 145925,
       "name": "The Greatest Gift",
       "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "This Christmas With Glenn Lewis",
-        "url": "https://open.spotify.com/album/6xMW1pbkF1sch0QbXersBD"
-      },
-      "artists": [
-        {
-          "name": "Glenn Lewis",
-          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
-        }
-      ],
-      "duration_ms": 234889,
-      "name": "I\u2019ll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/504nGhJlqAHhetXtDvAXI4"
     },
     {
       "added_at": "2023-12-08 05:22:39",
@@ -1203,26 +1207,6 @@
       "duration_ms": 265927,
       "name": "Greatest Gift",
       "url": "https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        }
-      ],
-      "duration_ms": 186098,
-      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1261,6 +1245,22 @@
       "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "This Christmas With Glenn Lewis",
+        "url": "https://open.spotify.com/album/6xMW1pbkF1sch0QbXersBD"
+      },
+      "artists": [
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "duration_ms": 234889,
+      "name": "I\u2019ll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/504nGhJlqAHhetXtDvAXI4"
+    },
+    {
       "added_at": "2023-11-18 05:00:00",
       "album": {
         "name": "You Bring The Love",
@@ -1285,26 +1285,6 @@
       "url": "https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Still Home For The Holidays",
-        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 175347,
-      "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
-      "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
-    },
-    {
       "added_at": "2022-12-16 05:50:43",
       "album": {
         "name": "Here (For Christmas)",
@@ -1323,6 +1303,26 @@
       "duration_ms": 253046,
       "name": "Here (For Christmas)",
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Still Home For The Holidays",
+        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 175347,
+      "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
+      "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
     }
   ],
   "unique_name": "R&B Christmas",

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Yoly Saa.
 
-487 songs - 1 day 5 hr 32 min
+488 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 | 2022-01-14 | 2022-07-23 |
 | [A Medio Camino](https://open.spotify.com/track/2vC9Mj3hcLo6gpLSKWONvR) | [Averías](https://open.spotify.com/artist/1IyoBgQQHhhmXKQBTbzpA8) | [A Medio Camino](https://open.spotify.com/album/3033huz0Hl5KYYPH0LXkQS) | 2:50 | 2021-12-24 | 2022-01-01 |
 | [A Mi Manera](https://open.spotify.com/track/5tFCHPbtz4plGwDnH2b1QV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [A Mi Manera](https://open.spotify.com/album/2LCxdI17sy3zG5FG7RwXHs) | 4:00 | 2022-04-25 |  |
-| [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 | 2021-12-24 |  |
+| [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 | 2021-12-24 | 2023-12-21 |
 | [abril y mayo](https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [abril y mayo](https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa) | 2:00 | 2023-02-24 | 2023-03-18 |
 | [Acantilado](https://open.spotify.com/track/2hTKVVpy3eZen3OVgfeIOR) | [Cala](https://open.spotify.com/artist/6g6FL64oqvd0338u2g7vZt) | [Acantilado](https://open.spotify.com/album/1c9zckSeWZnt4SOQgCPMJ3) | 3:53 | 2023-06-30 | 2023-08-05 |
 | [Acepto](https://open.spotify.com/track/0zqNBJ162qCK8oupuvzPt2) | [Paula Grande](https://open.spotify.com/artist/6NRB0LxYAAYKtbSOTB7m8M) | [Acepto](https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK) | 3:19 | 2022-04-01 | 2022-04-20 |
@@ -265,6 +265,7 @@
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2022-07-22 | 2022-08-03 |
 | [Los Fugaces](https://open.spotify.com/track/1pmz5PiqPyhAWbRN5sSwpg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Los Fugaces](https://open.spotify.com/album/25rWkoEU6iw4EBuvH7BrBr) | 3:28 | 2021-12-24 | 2022-05-24 |
 | [Los Pájaros de Ciudad](https://open.spotify.com/track/07IHpkOUmcE2wlNbWYnxQ9) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Los Pájaros de Ciudad](https://open.spotify.com/album/5ZFzN977yU8AAMkUmZwVfQ) | 3:19 | 2021-12-24 | 2022-04-29 |
+| [Luces](https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 3:22 | 2023-12-15 |  |
 | [Luciérnagas](https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o) | [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [La Vuelta a Casa](https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI) | 3:30 | 2023-06-23 | 2023-12-14 |
 | [Lugar donde se florece](https://open.spotify.com/track/3Y1gXsgdxm8Uu6ycH5EESQ) | [José Vicentes](https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39) | [Lugar donde se florece](https://open.spotify.com/album/6dm2EghgDPv86VVwrBl2N2) | 2:36 | 2023-07-28 | 2023-08-05 |
 | [Luna](https://open.spotify.com/track/7AmmTz0pxDEBIg4Ln6r6l7) | [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Julia Ortiz](https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Luna](https://open.spotify.com/album/4N49uJYVWaDxhesWOlTKRJ) | 5:59 | 2023-09-15 | 2023-12-14 |

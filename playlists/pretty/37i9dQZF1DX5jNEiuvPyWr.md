@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : So La Lune
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,277 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,331 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 19 | [CAVIAR OU PESTO](https://open.spotify.com/track/5vp9BsHDp7vIOknFC62HeE) | [Laroma](https://open.spotify.com/artist/7Hv2hIVAkEylgEKAOyF7bw) | [L'EFFET DU TEMPS](https://open.spotify.com/album/3ANUOjqlTITE0VgsroNPwC) | 2:57 |
 | 20 | [Le Nine](https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Le Nine](https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr) | 3:20 |
 | 21 | [Saudade](https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7) | [Django](https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3) | [Saudade](https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6) | 2:35 |
-| 22 | [Demain](https://open.spotify.com/track/1gyWKoHQbbv9HBZa4UD2Gd) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:36 |
+| 22 | [Qu'est\-ce tu veux qu'j'te dise?](https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:26 |
 | 23 | [PERDU SANS TOI](https://open.spotify.com/track/5Aeb85aDLZH4DuMGnMikAZ) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [TOUT VA BIEN](https://open.spotify.com/album/22CKc4qEluGxJ5Rq7XscZS) | 3:36 |
 | 24 | [Si tu savais](https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [Si tu savais](https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K) | 2:25 |
 | 25 | [HABITUÉ](https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [HABITUÉ](https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01) | 3:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [NUIT ET JOUR](https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [NUIT ET JOUR](https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy) | 1:53 |
 | 40 | [Dr\. Surprise](https://open.spotify.com/track/0lL5qRP6yOTkaCl9Hy48ZB) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [Dr\. Surprise](https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg) | 1:54 |
 
-Snapshot ID: `MCw1ZmM3MWRkZGY4M2FmZDRiZWZlYTIyNTZjMGJkMjMyMTM5YjY3MDhh`
+Snapshot ID: `MCxjMmU0YmU2OTBjMmI3OGQ1ZmFkNGE1NjE0NGFkYjNkYjUxZWI1ZWZk`

@@ -454,10 +454,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 144323,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
+    },
+    {
+      "album": {
+        "name": "Tropicales Cl\u00e1sicos Fuentes 12",
+        "url": "https://open.spotify.com/album/2kJKCvXKdWRI48A4n3iTnM"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163044,
+      "name": "Cumbia de E.T. Extraterrestre",
+      "url": "https://open.spotify.com/track/0PfYOl3RWq57a85XB56yw9"
     },
     {
       "album": {
@@ -700,7 +718,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 279373,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/5bqVSvkVpqq9UavaeDpIgP"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 206430,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
@@ -1423,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Mar Iguana",
+        "url": "https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn"
+      },
+      "artists": [
+        {
+          "name": "\u00c9 Arenas",
+          "url": "https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197821,
+      "name": "Mar Iguana",
+      "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
+    },
+    {
+      "album": {
         "name": "Me Estoy Poniendo Viejo",
         "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
       },
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 174640,
       "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
       "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"

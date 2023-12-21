@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Sebasti\u00e1n Romero en portada.",
-  "num_followers": 97679,
+  "num_followers": 97689,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGZhOTA5NWE5Y2UwYjdhNGJmN2Q5NGIwNzliZjNiMjEwNTJiMjlj",
+  "snapshot_id": "MCwwMmNhYTIwN2IxOTZiOWVmZWZmOGIzZDQxOTAxMGQ3NDZkMzNkODhl",
   "tracks": [
     {
       "added_at": "2023-12-08 20:40:26",
@@ -111,18 +111,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "tu fan",
-        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
+        "name": "Coraz\u00f3n Fr\u00edo",
+        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
       "artists": [
         {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 240473,
-      "name": "tu fan",
-      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
+      "duration_ms": 263810,
+      "name": "Coraz\u00f3n Fr\u00edo",
+      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -143,22 +147,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Coraz\u00f3n Fr\u00edo",
-        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
+        "name": "tu fan",
+        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
       },
       "artists": [
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
-      "duration_ms": 263810,
-      "name": "Coraz\u00f3n Fr\u00edo",
-      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
+      "duration_ms": 240473,
+      "name": "tu fan",
+      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Boleros que me dict\u00f3 el gallo",
-        "url": "https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 255542,
-      "name": "La Lista",
-      "url": "https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "Pasado y Olvido",
         "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 255155,
       "name": "Pasado y Olvido",
       "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Boleros que me dict\u00f3 el gallo",
+        "url": "https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 255542,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "Bolero Surrealista",
+        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Bolero Surrealista",
+      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "Dejar Ir",
         "url": "https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 245187,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Bolero Surrealista",
-        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Bolero Surrealista",
-      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "D\u00e9jame de Matar",
-        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 190169,
-      "name": "D\u00e9jame de Matar",
-      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "Al Amor",
         "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 208177,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "D\u00e9jame de Matar",
+        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 190169,
+      "name": "D\u00e9jame de Matar",
+      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Rua Lisboa",
-        "url": "https://open.spotify.com/album/4IU0F8RFPwcw9q0k9GGh3O"
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
         }
       ],
-      "duration_ms": 191658,
-      "name": "Rua Lisboa",
-      "url": "https://open.spotify.com/track/0c2CiUEiiw9O0aF58VCRs1"
+      "duration_ms": 168000,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
     }
   ],
   "unique_name": "madera y miel",

@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Seven Roses Vol. 1",
+        "url": "https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176254,
+      "name": "Beautiful Crazy (Bella Locura) - Spanish",
+      "url": "https://open.spotify.com/track/2gQkNDrFAhpKi0vmGJro6p"
+    },
+    {
+      "album": {
         "name": "Beautiful Crazy [Bella Locura]",
         "url": "https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv"
       },
@@ -228,7 +246,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 176254,
       "name": "Beautiful Crazy [Bella Locura] - Spanish",
       "url": "https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH"
@@ -2401,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Seven Roses Vol. 1",
+        "url": "https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214304,
+      "name": "Tennessee Whiskey - Spanglish",
+      "url": "https://open.spotify.com/track/4U33IIV3vNMxPQqiDt375f"
+    },
+    {
+      "album": {
         "name": "Tennessee Whiskey (Spanglish + Spanish)",
         "url": "https://open.spotify.com/album/5KLC4e2nMAmcJt9P5fE9bK"
       },
@@ -2412,7 +2448,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 214304,
       "name": "Tennessee Whiskey - Spanish",
       "url": "https://open.spotify.com/track/0VvE78qLaoWabpnU7jKo0E"

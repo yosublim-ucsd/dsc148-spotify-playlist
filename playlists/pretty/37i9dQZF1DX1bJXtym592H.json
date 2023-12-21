@@ -1,12 +1,12 @@
 {
   "description": "n3xt l3v3l gaming beats. ",
-  "num_followers": 36204,
+  "num_followers": 36241,
   "original_name": "lofi gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWMxM2MyNmFhMTU3NzhkMTZlN2MxMDkzYzEzNDI5YzZkMzJkNjA3",
+  "snapshot_id": "MCwyM2FkNThlZWQxMDg2YTU3NmViN2RlZDU4ZTE2NDM0MzQzODgwNzgx",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Lizards and Lattes",
-        "url": "https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb"
-      },
-      "artists": [
-        {
-          "name": "Wruce Billis",
-          "url": "https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx"
-        }
-      ],
-      "duration_ms": 119117,
-      "name": "Lizards and Lattes",
-      "url": "https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Fern",
         "url": "https://open.spotify.com/album/3Yt9yisOsPP2408sZG62CC"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 123870,
       "name": "Fern",
       "url": "https://open.spotify.com/track/6Qw2JmzSRWNxgysJLo7pXK"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Lizards and Lattes",
+        "url": "https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb"
+      },
+      "artists": [
+        {
+          "name": "Wruce Billis",
+          "url": "https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx"
+        }
+      ],
+      "duration_ms": 119117,
+      "name": "Lizards and Lattes",
+      "url": "https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Summer rain",
-        "url": "https://open.spotify.com/album/0pI2S9DzvTZgdWgl2ZgRyZ"
-      },
-      "artists": [
-        {
-          "name": "Mr Argyle",
-          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Summer rain",
-      "url": "https://open.spotify.com/track/7HWM9W8rJ6Hj4sCGecvZCh"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Foemeo",
         "url": "https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 135697,
       "name": "Foemeo",
       "url": "https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Summer rain",
+        "url": "https://open.spotify.com/album/0pI2S9DzvTZgdWgl2ZgRyZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Argyle",
+          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Summer rain",
+      "url": "https://open.spotify.com/track/7HWM9W8rJ6Hj4sCGecvZCh"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Daydream Thing",
-        "url": "https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX"
-      },
-      "artists": [
-        {
-          "name": "Bnjo",
-          "url": "https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry"
-        }
-      ],
-      "duration_ms": 128664,
-      "name": "Daydream Thing",
-      "url": "https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Industrial Skyfall",
         "url": "https://open.spotify.com/album/2RzXG4oYdk8vSoTpCbQfwZ"
       },
@@ -779,18 +763,38 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Have a Nice Day",
-        "url": "https://open.spotify.com/album/56EBA098Divnw6538HnsJE"
+        "name": "Daydream Thing",
+        "url": "https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX"
       },
       "artists": [
         {
-          "name": "RAEDY",
-          "url": "https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ"
+          "name": "Bnjo",
+          "url": "https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry"
         }
       ],
-      "duration_ms": 111948,
-      "name": "Have a Nice Day",
-      "url": "https://open.spotify.com/track/1aonf4JP5wqsJC6mKKeF2N"
+      "duration_ms": 128664,
+      "name": "Daydream Thing",
+      "url": "https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "OJAI",
+        "url": "https://open.spotify.com/album/3KQBvhXcVqEk6kL5wKgnJB"
+      },
+      "artists": [
+        {
+          "name": "404flipp",
+          "url": "https://open.spotify.com/artist/0JAoyodhQGwikUsJp8FKNV"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "duration_ms": 131976,
+      "name": "OJAI",
+      "url": "https://open.spotify.com/track/7xB1XN3jO6PfKl04Q9g7S5"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -827,26 +831,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "OJAI",
-        "url": "https://open.spotify.com/album/3KQBvhXcVqEk6kL5wKgnJB"
-      },
-      "artists": [
-        {
-          "name": "404flipp",
-          "url": "https://open.spotify.com/artist/0JAoyodhQGwikUsJp8FKNV"
-        },
-        {
-          "name": "Nick's chill factory",
-          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
-        }
-      ],
-      "duration_ms": 131976,
-      "name": "OJAI",
-      "url": "https://open.spotify.com/track/7xB1XN3jO6PfKl04Q9g7S5"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "slowly",
         "url": "https://open.spotify.com/album/2wWNAkygpEnps2NpktCrju"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 98863,
       "name": "slowly",
       "url": "https://open.spotify.com/track/0OQycB6AjHHMbGii30Mo56"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Have a Nice Day",
+        "url": "https://open.spotify.com/album/56EBA098Divnw6538HnsJE"
+      },
+      "artists": [
+        {
+          "name": "RAEDY",
+          "url": "https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ"
+        }
+      ],
+      "duration_ms": 111948,
+      "name": "Have a Nice Day",
+      "url": "https://open.spotify.com/track/1aonf4JP5wqsJC6mKKeF2N"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "eggplants & oregano",
+        "url": "https://open.spotify.com/album/1xqBqzSAxguUoi25iST312"
+      },
+      "artists": [
+        {
+          "name": "buggy beats",
+          "url": "https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7"
+        }
+      ],
+      "duration_ms": 97569,
+      "name": "eggplants & oregano",
+      "url": "https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Alter Witz",
         "url": "https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 105205,
       "name": "la donna e la chitarra",
       "url": "https://open.spotify.com/track/2e94pHYImdJE6wgMLHaA9l"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "eggplants & oregano",
-        "url": "https://open.spotify.com/album/1xqBqzSAxguUoi25iST312"
-      },
-      "artists": [
-        {
-          "name": "buggy beats",
-          "url": "https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7"
-        }
-      ],
-      "duration_ms": 97569,
-      "name": "eggplants & oregano",
-      "url": "https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Silky Way",
-        "url": "https://open.spotify.com/album/3WCcEiLHRqZ4YbMPCGodYE"
-      },
-      "artists": [
-        {
-          "name": "Upah Beats",
-          "url": "https://open.spotify.com/artist/6LPpXChwcxm1jxTQ8O9tlI"
-        }
-      ],
-      "duration_ms": 153712,
-      "name": "Silky Way",
-      "url": "https://open.spotify.com/track/5vyFOvY3TyI8OXiXBi8PqT"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "But It is L O F I",
         "url": "https://open.spotify.com/album/04CJWN7lrnFkMBWh2ATsF3"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 110602,
       "name": "Coffee Jazz vibes",
       "url": "https://open.spotify.com/track/0MUGs0JpdZiIbtwsACGQci"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Silky Way",
+        "url": "https://open.spotify.com/album/3WCcEiLHRqZ4YbMPCGodYE"
+      },
+      "artists": [
+        {
+          "name": "Upah Beats",
+          "url": "https://open.spotify.com/artist/6LPpXChwcxm1jxTQ8O9tlI"
+        }
+      ],
+      "duration_ms": 153712,
+      "name": "Silky Way",
+      "url": "https://open.spotify.com/track/5vyFOvY3TyI8OXiXBi8PqT"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Lofi on the Bass",
+        "url": "https://open.spotify.com/album/2ADzOtvCNQFQ2IQCrucOZP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Fridell",
+          "url": "https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK"
+        },
+        {
+          "name": "Sven Lindvall",
+          "url": "https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx"
+        }
+      ],
+      "duration_ms": 217083,
+      "name": "Lofi on the Bass",
+      "url": "https://open.spotify.com/track/2IhrewZbhBLNdTgxNKrIdE"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "skyline",
         "url": "https://open.spotify.com/album/632CFPvMfMQNb7jFQpaWZ0"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 141627,
       "name": "Ginger and Lime",
       "url": "https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Lofi on the Bass",
-        "url": "https://open.spotify.com/album/2ADzOtvCNQFQ2IQCrucOZP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Fridell",
-          "url": "https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK"
-        },
-        {
-          "name": "Sven Lindvall",
-          "url": "https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx"
-        }
-      ],
-      "duration_ms": 217083,
-      "name": "Lofi on the Bass",
-      "url": "https://open.spotify.com/track/2IhrewZbhBLNdTgxNKrIdE"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Crispy Sage",
+        "url": "https://open.spotify.com/album/0QqBBwU6LApICEEeVIgaVo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 136458,
+      "name": "Crispy Sage",
+      "url": "https://open.spotify.com/track/08zvdKdFjourd8elx88P5U"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/46HcVEDXqFXCD0uIbiqL0I"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 126760,
       "name": "iykyk",
       "url": "https://open.spotify.com/track/1ljFw0Kwk2iYoQUeg5RAp1"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Crispy Sage",
-        "url": "https://open.spotify.com/album/0QqBBwU6LApICEEeVIgaVo"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
-        }
-      ],
-      "duration_ms": 136458,
-      "name": "Crispy Sage",
-      "url": "https://open.spotify.com/track/08zvdKdFjourd8elx88P5U"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Lunchbox",
-        "url": "https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO"
-      },
-      "artists": [
-        {
-          "name": "Lukas Got Lucky",
-          "url": "https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF"
-        }
-      ],
-      "duration_ms": 194698,
-      "name": "I Won",
-      "url": "https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "New Canary in Town",
         "url": "https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq"
       },
@@ -1963,18 +1947,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Marathon",
-        "url": "https://open.spotify.com/album/23wibxrF7lAmBOCf5T6SOe"
+        "name": "Lunchbox",
+        "url": "https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO"
       },
       "artists": [
         {
-          "name": "Dualizm",
-          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
+          "name": "Lukas Got Lucky",
+          "url": "https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF"
         }
       ],
-      "duration_ms": 223235,
-      "name": "Marathon",
-      "url": "https://open.spotify.com/track/5ZhlX046B47UxpliilbqA4"
+      "duration_ms": 194698,
+      "name": "I Won",
+      "url": "https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1991,6 +1975,22 @@
       "duration_ms": 118155,
       "name": "Office Hours",
       "url": "https://open.spotify.com/track/1wT08JjKyu3iUj52fAQAZz"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/23wibxrF7lAmBOCf5T6SOe"
+      },
+      "artists": [
+        {
+          "name": "Dualizm",
+          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
+        }
+      ],
+      "duration_ms": 223235,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/5ZhlX046B47UxpliilbqA4"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "mushroom",
+        "url": "https://open.spotify.com/album/0YT5cKKU45aDRcy79OWGFs"
+      },
+      "artists": [
+        {
+          "name": "zakori",
+          "url": "https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms"
+        }
+      ],
+      "duration_ms": 72058,
+      "name": "mushroom",
+      "url": "https://open.spotify.com/track/13d1pGkOt6G92tE2INMDkJ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Green Thumbs",
         "url": "https://open.spotify.com/album/1uztEtocC4GYKSQhLky95u"
       },
@@ -2283,6 +2299,54 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Dangerous Eyes",
+        "url": "https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz"
+      },
+      "artists": [
+        {
+          "name": "Dino P",
+          "url": "https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha"
+        }
+      ],
+      "duration_ms": 127228,
+      "name": "Inspector Fidget",
+      "url": "https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Zen Garden",
+        "url": "https://open.spotify.com/album/4xQA5eeimIihBD6lVHqy6U"
+      },
+      "artists": [
+        {
+          "name": "TheDewk",
+          "url": "https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "Zen Garden",
+      "url": "https://open.spotify.com/track/7qxegYMSSDPWUzoYwuRyGP"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/06TSIPLCbmb6MyRAaqNXlP"
+      },
+      "artists": [
+        {
+          "name": "Ge\u00f3rgia Neve",
+          "url": "https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0jZMq6RF5LxnnadddPlCSi"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Miscellaneous",
         "url": "https://open.spotify.com/album/08zV9UWheKMDLzLAqi1oIJ"
       },
@@ -2307,70 +2371,6 @@
       "duration_ms": 202407,
       "name": "Miscellaneous",
       "url": "https://open.spotify.com/track/5hA8bjM7r4SyiNzngr2Edv"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "mushroom",
-        "url": "https://open.spotify.com/album/0YT5cKKU45aDRcy79OWGFs"
-      },
-      "artists": [
-        {
-          "name": "zakori",
-          "url": "https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms"
-        }
-      ],
-      "duration_ms": 72058,
-      "name": "mushroom",
-      "url": "https://open.spotify.com/track/13d1pGkOt6G92tE2INMDkJ"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Zen Garden",
-        "url": "https://open.spotify.com/album/4xQA5eeimIihBD6lVHqy6U"
-      },
-      "artists": [
-        {
-          "name": "TheDewk",
-          "url": "https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "Zen Garden",
-      "url": "https://open.spotify.com/track/7qxegYMSSDPWUzoYwuRyGP"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Dangerous Eyes",
-        "url": "https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz"
-      },
-      "artists": [
-        {
-          "name": "Dino P",
-          "url": "https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha"
-        }
-      ],
-      "duration_ms": 127228,
-      "name": "Inspector Fidget",
-      "url": "https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/06TSIPLCbmb6MyRAaqNXlP"
-      },
-      "artists": [
-        {
-          "name": "Ge\u00f3rgia Neve",
-          "url": "https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/0jZMq6RF5LxnnadddPlCSi"
     },
     {
       "added_at": "2023-12-15 00:01:00",

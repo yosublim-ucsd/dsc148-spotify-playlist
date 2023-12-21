@@ -11778,10 +11778,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 381200,
       "name": "Move Up",
       "url": "https://open.spotify.com/track/4mxoDuIrL1O0BveAXpX2lD"
+    },
+    {
+      "album": {
+        "name": "Move Up",
+        "url": "https://open.spotify.com/album/695Ypfc1tMeSbGX2l8aEbJ"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381200,
+      "name": "Move Up",
+      "url": "https://open.spotify.com/track/5CHLrR3jUJhHl2PIuZNBKf"
     },
     {
       "album": {

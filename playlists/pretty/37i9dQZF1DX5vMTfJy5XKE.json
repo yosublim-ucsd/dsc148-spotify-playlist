@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Cher",
-  "num_followers": 243777,
+  "num_followers": 244088,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTQwZGY5ODQ4ZTdjYmNlYWMwMzVjOGY2YWNjNDlkOWE2OTkzMDEz",
+  "snapshot_id": "MCxiODM5YTI1MWYxZDExOWY0MzA5MjE5NDIzMmVjOWJhNjliYzM0N2Rh",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -55,6 +55,26 @@
       "duration_ms": 161853,
       "name": "Fancy Like Christmas",
       "url": "https://open.spotify.com/track/0kO59Q18sOo4HmZWQSUVyr"
+    },
+    {
+      "added_at": "2023-12-20 17:00:00",
+      "album": {
+        "name": "Ken The EP",
+        "url": "https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "duration_ms": 196422,
+      "name": "I\u2019m Just Ken - Merry Kristmas Barbie",
+      "url": "https://open.spotify.com/track/0xUZ46LRp05nuTksovv90G"
     },
     {
       "added_at": "2023-11-20 17:55:41",

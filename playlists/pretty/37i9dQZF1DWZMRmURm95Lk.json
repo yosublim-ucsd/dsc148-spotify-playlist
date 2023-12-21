@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Ensi e Nerone in cover.",
-  "num_followers": 38010,
+  "num_followers": 38038,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTFkMDEyYjY3ZWE4MTEwNGViNmMyYzNkYmYzNDhhMWNkNTQ4MzI5",
+  "snapshot_id": "MCxiYmVjNzBkYTcwMzFjNWFjYzIwNjlkOWUzZjEzZjM3OTVhMmY4MTU5",
   "tracks": [
     {
       "added_at": "2023-12-14 23:01:00",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Ritorno",
-        "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
       "artists": [
         {
-          "name": "Gianni Bismark",
-          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
         }
       ],
-      "duration_ms": 155641,
-      "name": "Te Famo Scuola (feat. Noyz Narcos)",
-      "url": "https://open.spotify.com/track/5vePPd0uqG37XJT6RYLzYi"
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -563,18 +559,22 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+        "name": "Ritorno",
+        "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
       },
       "artists": [
         {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+          "name": "Gianni Bismark",
+          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+      "duration_ms": 155641,
+      "name": "Te Famo Scuola (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/5vePPd0uqG37XJT6RYLzYi"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Entertainer",
-        "url": "https://open.spotify.com/album/1xtV3Th16lWgSybfJMdSD6"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        }
-      ],
-      "duration_ms": 202142,
-      "name": "Pi\u00f9 forte di me",
-      "url": "https://open.spotify.com/track/0PCvuLxAe3BrJdECjoDCyv"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "BRAVA GENTE",
         "url": "https://open.spotify.com/album/4dgoP7JlqIo0L65M33Df51"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 142666,
       "name": "Cemento",
       "url": "https://open.spotify.com/track/6PLNbmHieqtpPOvsIyPlFf"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Entertainer",
+        "url": "https://open.spotify.com/album/1xtV3Th16lWgSybfJMdSD6"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "duration_ms": 202142,
+      "name": "Pi\u00f9 forte di me",
+      "url": "https://open.spotify.com/track/0PCvuLxAe3BrJdECjoDCyv"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1003,50 +1003,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Numero zero ep",
-        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Biggie Paul",
-          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 160574,
-      "name": "Lasciami solo",
-      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "OVERT",
-        "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        }
-      ],
-      "duration_ms": 214914,
-      "name": "SOLIPS\u00ccA (feat. Silent Bob)",
-      "url": "https://open.spotify.com/track/10brFkH6YLGZnhj0qHpFzm"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "BRAVA GENTE",
         "url": "https://open.spotify.com/album/4dgoP7JlqIo0L65M33Df51"
       },
@@ -1071,6 +1027,50 @@
       "duration_ms": 152903,
       "name": "R2R",
       "url": "https://open.spotify.com/track/5DE2JPLUIr8MuLSR8eXldn"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "OVERT",
+        "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "duration_ms": 214914,
+      "name": "SOLIPS\u00ccA (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/10brFkH6YLGZnhj0qHpFzm"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Numero zero ep",
+        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Biggie Paul",
+          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 160574,
+      "name": "Lasciami solo",
+      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
-      },
-      "artists": [
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        },
-        {
-          "name": "Nayt",
-          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
-        }
-      ],
-      "duration_ms": 179936,
-      "name": "Guardie&Ladri (feat. Nayt)",
-      "url": "https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "BRAVA GENTE",
         "url": "https://open.spotify.com/album/4dgoP7JlqIo0L65M33Df51"
       },
@@ -1259,26 +1239,6 @@
       "duration_ms": 157500,
       "name": "Tagli come Sorrisi",
       "url": "https://open.spotify.com/track/2SuiimEQGIqlA3PUYLhPWc"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 130593,
-      "name": "Yeah (feat. Emis Killa)",
-      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1307,6 +1267,46 @@
       "duration_ms": 158943,
       "name": "Sembrava Impossibile",
       "url": "https://open.spotify.com/track/4wg7YaPFve0vjqiF0xEbRh"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        },
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "duration_ms": 179936,
+      "name": "Guardie&Ladri (feat. Nayt)",
+      "url": "https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 130593,
+      "name": "Yeah (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
         "name": "SETE",
         "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
       },
@@ -1423,18 +1439,26 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+        "name": "Sacrosanto",
+        "url": "https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69"
       },
       "artists": [
         {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         }
       ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
+      "duration_ms": 163771,
+      "name": "90",
+      "url": "https://open.spotify.com/track/28jLZFleUGkmg036G819TD"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1495,66 +1519,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Sacrosanto",
-        "url": "https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 163771,
-      "name": "90",
-      "url": "https://open.spotify.com/track/28jLZFleUGkmg036G819TD"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "BASTA SESSION N\u00b01",
-        "url": "https://open.spotify.com/album/3OmHIlmFZS8ntlMN3uUunp"
-      },
-      "artists": [
-        {
-          "name": "Goedi",
-          "url": "https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9"
-        },
-        {
-          "name": "Disse",
-          "url": "https://open.spotify.com/artist/2t2mbWoOQGudGL9xmLZVVC"
-        },
-        {
-          "name": "Veezo",
-          "url": "https://open.spotify.com/artist/35bU60Yu7QSaJSb5Y2Cjix"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        },
-        {
-          "name": "Colombre",
-          "url": "https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1"
-        }
-      ],
-      "duration_ms": 158394,
-      "name": "BASTA SESSION N\u00b01",
-      "url": "https://open.spotify.com/track/05zm3yVavcLtevyhsCgOO3"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1595,6 +1559,42 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "BASTA SESSION N\u00b01",
+        "url": "https://open.spotify.com/album/3OmHIlmFZS8ntlMN3uUunp"
+      },
+      "artists": [
+        {
+          "name": "Goedi",
+          "url": "https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9"
+        },
+        {
+          "name": "Disse",
+          "url": "https://open.spotify.com/artist/2t2mbWoOQGudGL9xmLZVVC"
+        },
+        {
+          "name": "Veezo",
+          "url": "https://open.spotify.com/artist/35bU60Yu7QSaJSb5Y2Cjix"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        },
+        {
+          "name": "Colombre",
+          "url": "https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1"
+        }
+      ],
+      "duration_ms": 158394,
+      "name": "BASTA SESSION N\u00b01",
+      "url": "https://open.spotify.com/track/05zm3yVavcLtevyhsCgOO3"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Dovrei",
-      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Guerra fra poveri",
         "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Dovrei",
+      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
         "name": "Perle Ai Porci",
         "url": "https://open.spotify.com/album/2dJ0tz9SsoQmh4eackjGn9"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 133333,
       "name": "Tupperware 2000",
       "url": "https://open.spotify.com/track/2QiLOpmWMbcck3yMlbxWyP"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -2075,6 +2075,42 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
+        "name": "Treddepomeriggio",
+        "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
+      },
+      "artists": [
+        {
+          "name": "Er Costa",
+          "url": "https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1"
+        }
+      ],
+      "duration_ms": 183914,
+      "name": "Treddepomeriggio",
+      "url": "https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 230375,
+      "name": "Pioggia infinita",
+      "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
         "name": "Signor prefetto",
         "url": "https://open.spotify.com/album/2AODYSqwEVR0mtHL9DazZc"
       },
@@ -2115,42 +2151,6 @@
       "duration_ms": 253361,
       "name": "Signor prefetto",
       "url": "https://open.spotify.com/track/6woEXf6azgHVYVj43nlyJc"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "Treddepomeriggio",
-        "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
-      },
-      "artists": [
-        {
-          "name": "Er Costa",
-          "url": "https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1"
-        }
-      ],
-      "duration_ms": 183914,
-      "name": "Treddepomeriggio",
-      "url": "https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
-        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 230375,
-      "name": "Pioggia infinita",
-      "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Reddito passivo",
-        "url": "https://open.spotify.com/album/1idVm5wE0yEv98Zv2cUSkq"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Nt\u00f2",
-          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Reddito passivo",
-      "url": "https://open.spotify.com/track/4UrVWE8BON0sYtDEHocZRT"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Dio lodato",
         "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
       },
@@ -2339,6 +2319,26 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
+        "name": "Reddito passivo",
+        "url": "https://open.spotify.com/album/1idVm5wE0yEv98Zv2cUSkq"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Reddito passivo",
+      "url": "https://open.spotify.com/track/4UrVWE8BON0sYtDEHocZRT"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
         "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
         "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
       },
@@ -2387,6 +2387,26 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
+        "name": "MEDIOEGO",
+        "url": "https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "duration_ms": 233386,
+      "name": "VETERANO (feat. DJ Shocca)",
+      "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
         "name": "FEGATO",
         "url": "https://open.spotify.com/album/08voNOMFTP8gbfUj1a8af0"
       },
@@ -2411,26 +2431,6 @@
       "duration_ms": 174000,
       "name": "Detersivo",
       "url": "https://open.spotify.com/track/4DZkasAnr7Vq9oEskZP2Ky"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "MEDIOEGO",
-        "url": "https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "VETERANO (feat. DJ Shocca)",
-      "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -2475,30 +2475,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Modo",
-        "url": "https://open.spotify.com/album/2zp7KQL4JmQHf5NbQt3Ygk"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Dj Kamo",
-          "url": "https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6"
-        },
-        {
-          "name": "Oyoshe",
-          "url": "https://open.spotify.com/artist/6t49JCW50szpbRh9TuX2s8"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Modo",
-      "url": "https://open.spotify.com/track/2o0p3cv07zS46ieNAwfKlW"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Colpi di tosse",
         "url": "https://open.spotify.com/album/1pMiMn7VEA1uh2lk7ixAdU"
       },
@@ -2523,22 +2499,46 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "CHIODI",
-        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
         },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        }
+      ],
+      "duration_ms": 261810,
+      "name": "Black Rain, pt. 2",
+      "url": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Odio Pieno",
+        "url": "https://open.spotify.com/album/4OzxfmcyUrMc5SXxbcaV65"
+      },
+      "artists": [
         {
           "name": "Colle Der Fomento",
           "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
         }
       ],
-      "duration_ms": 248791,
-      "name": "L'uomo dei sogni",
-      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
+      "duration_ms": 194786,
+      "name": "Solo hardcore",
+      "url": "https://open.spotify.com/track/134Ntz0aFWx3ddGBNV09Ks"
     }
   ],
   "unique_name": "Radici Hip-Hop",

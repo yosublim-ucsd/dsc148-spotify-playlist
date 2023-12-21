@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of rock from the UK & Ireland. Cover: Humane The Moon",
+  "description": "The new wave of rock from the UK & Ireland. Cover: UNIVERSITY",
   "name": "shockwave",
   "tracks": [
     {
@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/2Qxe83nN1Y8aBXIoUaxjBd"
+      },
+      "artists": [
+        {
+          "name": "The Blinders",
+          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235016,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7fuzX8L06JinfbGT5Jm3gY"
+    },
+    {
+      "album": {
         "name": "AMERICA'S NEXT TOP MODEL",
         "url": "https://open.spotify.com/album/5ikznb8ESMJCEskirCSFGl"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 242218,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6ykD5g5JQ4n5iQKstly8M2"
+    },
+    {
+      "album": {
+        "name": "Animo",
+        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Animo",
+      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
     },
     {
       "album": {
@@ -466,7 +502,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 274664,
       "name": "Bleachers Yard",
       "url": "https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt"
@@ -744,6 +780,24 @@
       "duration_ms": 205962,
       "name": "CREEP HEAT",
       "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
+    },
+    {
+      "album": {
+        "name": "Cringe",
+        "url": "https://open.spotify.com/album/4iAC5j23FLuzhZF164ttVe"
+      },
+      "artists": [
+        {
+          "name": "Misplaced",
+          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134326,
+      "name": "Cringe",
+      "url": "https://open.spotify.com/track/5xfUEcKx72EcuqYuZCD67L"
     },
     {
       "album": {
@@ -1028,7 +1082,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 162333,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0vTqXQs6CMIMPDKGC7NldB"
@@ -1104,7 +1158,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 126744,
       "name": "EYELIDS",
       "url": "https://open.spotify.com/track/1iGKMqKV0GBLX9Q6yXTDER"
@@ -1216,7 +1270,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 190969,
       "name": "fasterthanyourthoughts",
       "url": "https://open.spotify.com/track/3snoKKCrXliBRAPmKlJQiK"
@@ -1681,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "HMPB",
+        "url": "https://open.spotify.com/album/3ce7X8NKiBXO8Ci9yQg4D5"
+      },
+      "artists": [
+        {
+          "name": "The Amniotics",
+          "url": "https://open.spotify.com/artist/3ciQDvjdla7QzI1N2dhD2C"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222330,
+      "name": "HMPB",
+      "url": "https://open.spotify.com/track/1IYznxYT32bMWMMM2ehliT"
+    },
+    {
+      "album": {
         "name": "Burning Throne",
         "url": "https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4"
       },
@@ -2113,6 +2185,28 @@
     },
     {
       "album": {
+        "name": "Jokeman",
+        "url": "https://open.spotify.com/album/3JbsEMs98HOKzYMmsX6Am4"
+      },
+      "artists": [
+        {
+          "name": "CHELJI",
+          "url": "https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO"
+        },
+        {
+          "name": "Jacob Sartorius",
+          "url": "https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139055,
+      "name": "Jokeman",
+      "url": "https://open.spotify.com/track/55yxVpDoJv8HVM8yRRFuCO"
+    },
+    {
+      "album": {
         "name": "Joking",
         "url": "https://open.spotify.com/album/7Mwt5rqTBTIl6qZSOAvK0N"
       },
@@ -2466,7 +2560,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 273428,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/0oLn6RJMQRHciUKebSyqW6"
@@ -3806,7 +3900,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 135857,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X"
@@ -4148,7 +4242,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 202197,
       "name": "Tell Me I'm Wrong",
       "url": "https://open.spotify.com/track/18JEq5IGhMshPnIeX2HJyY"
@@ -4281,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/1tghmd68kDvjfM9zf0obnm"
+      },
+      "artists": [
+        {
+          "name": "VLURE",
+          "url": "https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196761,
+      "name": "This Is Not The End",
+      "url": "https://open.spotify.com/track/20OZFpJWz3ojDCNKfIbrmx"
+    },
+    {
+      "album": {
         "name": "This Part of Me",
         "url": "https://open.spotify.com/album/6t3pu0a7OPjjiMKvPGSEtQ"
       },
@@ -4300,6 +4412,24 @@
       "duration_ms": 223500,
       "name": "This Part of Me",
       "url": "https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe"
+    },
+    {
+      "album": {
+        "name": "Toothache",
+        "url": "https://open.spotify.com/album/67lWLXOlTjMwtfdrgTMElp"
+      },
+      "artists": [
+        {
+          "name": "Westislonely",
+          "url": "https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186229,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/0AyKfB8CNXhohSuOfenvpO"
     },
     {
       "album": {
@@ -4548,7 +4678,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 159037,
       "name": "Way, No Way",
       "url": "https://open.spotify.com/track/6cYLLMcgoRzSKPLHRtbk6e"
@@ -4642,6 +4772,24 @@
       "duration_ms": 223677,
       "name": "What a Feeling, What a Day",
       "url": "https://open.spotify.com/track/31CVU6BQWYnAUMbBoVuM0c"
+    },
+    {
+      "album": {
+        "name": "WHAT YOU MEAN",
+        "url": "https://open.spotify.com/album/0HMdd7g3XrcC65W3p0WAyN"
+      },
+      "artists": [
+        {
+          "name": "GANS",
+          "url": "https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "What You Mean",
+      "url": "https://open.spotify.com/track/2qHMGWgGLyrfKhjRriwAus"
     },
     {
       "album": {

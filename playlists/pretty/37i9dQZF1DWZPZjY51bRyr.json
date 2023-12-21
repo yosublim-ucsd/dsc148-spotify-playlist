@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 23511,
+  "num_followers": 23564,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTYzMWYwN2NkNjNiOGU0YjgwZDk3ZTI2M2YzMzI1M2M5NjI0YzRh",
+  "snapshot_id": "MCxmNjE2ZWNiZTAxMDI2ZjhmNjcxOTUyYWJjMzhiZWE1NmZhMzQ2ZWUw",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 257454,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Mesmeric Quietude",
         "url": "https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 149795,
       "name": "Mesmeric Quietude",
       "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 257454,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Shimmering Forest",
-        "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
-      },
-      "artists": [
-        {
-          "name": "Ashcan Johansen",
-          "url": "https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh"
-        }
-      ],
-      "duration_ms": 187169,
-      "name": "Shimmering Forest",
-      "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Paessagio Naturale",
         "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 163250,
       "name": "Paessagio Naturale",
       "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Shimmering Forest",
+        "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
+      },
+      "artists": [
+        {
+          "name": "Ashcan Johansen",
+          "url": "https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh"
+        }
+      ],
+      "duration_ms": 187169,
+      "name": "Shimmering Forest",
+      "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "The Banks Of Juru",
-        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
-      },
-      "artists": [
-        {
-          "name": "Yolof Palace",
-          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
-        }
-      ],
-      "duration_ms": 164395,
-      "name": "Let Them Come",
-      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Spiritual Echoes",
         "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Into The Present",
-        "url": "https://open.spotify.com/album/651DX77ds7jckVS1NRH22G"
+        "name": "The Banks Of Juru",
+        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
       },
       "artists": [
         {
-          "name": "Ijaya Gupta",
-          "url": "https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk"
+          "name": "Yolof Palace",
+          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
         }
       ],
-      "duration_ms": 199158,
-      "name": "Into The Present",
-      "url": "https://open.spotify.com/track/5rG57MF8yK7wej6MRlHjs1"
+      "duration_ms": 164395,
+      "name": "Let Them Come",
+      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1079,6 +1063,22 @@
       "duration_ms": 175802,
       "name": "Birth",
       "url": "https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Into The Present",
+        "url": "https://open.spotify.com/album/651DX77ds7jckVS1NRH22G"
+      },
+      "artists": [
+        {
+          "name": "Ijaya Gupta",
+          "url": "https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk"
+        }
+      ],
+      "duration_ms": 199158,
+      "name": "Into The Present",
+      "url": "https://open.spotify.com/track/5rG57MF8yK7wej6MRlHjs1"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Sounds Of The Earth",
-        "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
-      },
-      "artists": [
-        {
-          "name": "Soliaga",
-          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "Sounds Of The Earth",
-      "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Beyond Thought",
         "url": "https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 168000,
       "name": "Beyond Thought",
       "url": "https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Sounds Of The Earth",
+        "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
+      },
+      "artists": [
+        {
+          "name": "Soliaga",
+          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "Sounds Of The Earth",
+      "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1787,18 +1787,34 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
+        "name": "Night Bells (432 Hz)",
+        "url": "https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr"
       },
       "artists": [
         {
-          "name": "Jenna Talenti",
-          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
+          "name": "Tsuchida Kasumi",
+          "url": "https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT"
         }
       ],
-      "duration_ms": 144705,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
+      "duration_ms": 175500,
+      "name": "Night Bells (432 Hz)",
+      "url": "https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Landscapes",
+        "url": "https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp"
+      },
+      "artists": [
+        {
+          "name": "Rex Imaleo",
+          "url": "https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w"
+        }
+      ],
+      "duration_ms": 177101,
+      "name": "Lemon Balm",
+      "url": "https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1819,18 +1835,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Landscapes",
-        "url": "https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp"
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
       },
       "artists": [
         {
-          "name": "Rex Imaleo",
-          "url": "https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w"
+          "name": "Jenna Talenti",
+          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
         }
       ],
-      "duration_ms": 177101,
-      "name": "Lemon Balm",
-      "url": "https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi"
+      "duration_ms": 144705,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1863,22 +1879,6 @@
       "duration_ms": 177500,
       "name": "Prav\u0101sa",
       "url": "https://open.spotify.com/track/18nVgxKk1SKcszU4j4TKcq"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Night Bells (432 Hz)",
-        "url": "https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr"
-      },
-      "artists": [
-        {
-          "name": "Tsuchida Kasumi",
-          "url": "https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Night Bells (432 Hz)",
-      "url": "https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Temple of the Heart",
-        "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
-      },
-      "artists": [
-        {
-          "name": "re:inhabit",
-          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
-        }
-      ],
-      "duration_ms": 216672,
-      "name": "Temple of the Heart",
-      "url": "https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 143755,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Temple of the Heart",
+        "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "duration_ms": 216672,
+      "name": "Temple of the Heart",
+      "url": "https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx"
-      },
-      "artists": [
-        {
-          "name": "Aasha",
-          "url": "https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Majestica",
         "url": "https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K"
       },
@@ -2359,22 +2343,6 @@
       "duration_ms": 193635,
       "name": "Majestica",
       "url": "https://open.spotify.com/track/33fpGhpBEiIqY8rGSKNA9y"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Afternoon in Gelug",
-        "url": "https://open.spotify.com/album/7cGsHv7lc4VXKb98VxIgRE"
-      },
-      "artists": [
-        {
-          "name": "Tibetan Tribe",
-          "url": "https://open.spotify.com/artist/13LiY8DEsI4wCcKPGdBGbN"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Afternoon in Gelug",
-      "url": "https://open.spotify.com/track/17kIEKtdWl6M5qs2YuyFlW"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2395,18 +2363,34 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "U\u0219\u0101 Dhy\u0101na",
-        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx"
       },
       "artists": [
         {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+          "name": "Aasha",
+          "url": "https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC"
         }
       ],
-      "duration_ms": 158000,
-      "name": "U\u0219\u0101 Dhy\u0101na / Dawn Meditation",
-      "url": "https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH"
+      "duration_ms": 138000,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Afternoon in Gelug",
+        "url": "https://open.spotify.com/album/7cGsHv7lc4VXKb98VxIgRE"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Tribe",
+          "url": "https://open.spotify.com/artist/13LiY8DEsI4wCcKPGdBGbN"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Afternoon in Gelug",
+      "url": "https://open.spotify.com/track/17kIEKtdWl6M5qs2YuyFlW"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2423,6 +2407,22 @@
       "duration_ms": 202409,
       "name": "Aeonian Hope",
       "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "U\u0219\u0101 Dhy\u0101na",
+        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "U\u0219\u0101 Dhy\u0101na / Dawn Meditation",
+      "url": "https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2475,18 +2475,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Calm Cosmos",
-        "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
+        "name": "There And Back",
+        "url": "https://open.spotify.com/album/76UGD3zDbzEHjbTKkbSpYL"
       },
       "artists": [
         {
-          "name": "Franz Emerald",
-          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+          "name": "Phanari",
+          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
         }
       ],
-      "duration_ms": 137250,
-      "name": "Calm Cosmos",
-      "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
+      "duration_ms": 173814,
+      "name": "There And Back",
+      "url": "https://open.spotify.com/track/2kH1pkg3I1Z0dk5zcOlXYu"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2507,34 +2507,34 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "There And Back",
-        "url": "https://open.spotify.com/album/76UGD3zDbzEHjbTKkbSpYL"
+        "name": "Calm Cosmos",
+        "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
       },
       "artists": [
         {
-          "name": "Phanari",
-          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
         }
       ],
-      "duration_ms": 173814,
-      "name": "There And Back",
-      "url": "https://open.spotify.com/track/2kH1pkg3I1Z0dk5zcOlXYu"
+      "duration_ms": 137250,
+      "name": "Calm Cosmos",
+      "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
     },
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Comfortable Ease",
-        "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
+        "name": "U\u0219\u0101 Dhy\u0101na",
+        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
       },
       "artists": [
         {
-          "name": "Leigh Erin",
-          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
         }
       ],
-      "duration_ms": 116363,
-      "name": "Comfortable Ease",
-      "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
+      "duration_ms": 147272,
+      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
+      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2555,18 +2555,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "U\u0219\u0101 Dhy\u0101na",
-        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+        "name": "Comfortable Ease",
+        "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
       },
       "artists": [
         {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+          "name": "Leigh Erin",
+          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
         }
       ],
-      "duration_ms": 147272,
-      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
-      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
+      "duration_ms": 116363,
+      "name": "Comfortable Ease",
+      "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
     },
     {
       "added_at": "2023-12-15 11:35:26",

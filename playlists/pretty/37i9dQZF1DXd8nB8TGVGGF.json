@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 31834,
+  "num_followers": 31886,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTMyY2RjYzk2MzdhNmY4ZDAwMDRhNGU4ZjFiYTQ0M2JhYzcxY2E4",
+  "snapshot_id": "MCxjY2EyNDdjZDUyMzZmYWI4Y2MxMzE5N2ExOTE4MDk2MTU5YmVjZDlh",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
-        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "Blues In D Natural",
-      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Tons Of Sobs",
         "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 254746,
       "name": "The Hunter",
       "url": "https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
+        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 135640,
+      "name": "Blues In D Natural",
+      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Vivid Sound",
-        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Guitar\" Watson",
-          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "Highway 60",
-      "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Howlin' Wolf Album",
         "url": "https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 311240,
       "name": "Built For Comfort",
       "url": "https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Vivid Sound",
+        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "Highway 60",
+      "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1964,9 +1964,9 @@
           "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 176053,
-      "name": "Crack Your Head",
-      "url": "https://open.spotify.com/track/3EFG47BHNvUfAcHyO3622C"
+      "duration_ms": 234293,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1980,9 +1980,9 @@
           "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ"
+      "duration_ms": 176053,
+      "name": "Crack Your Head",
+      "url": "https://open.spotify.com/track/3EFG47BHNvUfAcHyO3622C"
     }
   ],
   "unique_name": "Blues Road Trip",

@@ -4,7 +4,7 @@
 
 > consider this an RSVP to littest wedding parties
 
-90 songs - 4 hr 41 min
+91 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Auntie Martha](https://open.spotify.com/track/7KJk6qepGGM1Nl8gsLZhW3) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Best of El](https://open.spotify.com/album/5kH9iKfsMVoHfl9UgZhh5d) | 4:28 | 2022-02-11 | 2023-03-25 |
 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 | 2022-02-11 |  |
 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 | 2022-02-11 |  |
-| [Bad and Boujee](https://open.spotify.com/track/0sy1phpDCCy7DB7N03iZEW) | [Murphy Mccarthy](https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Bad and Boujee](https://open.spotify.com/album/33FfluAHOTnk36bi6gheDp) | 3:35 | 2022-10-14 |  |
+| [Bad and Boujee](https://open.spotify.com/track/0sy1phpDCCy7DB7N03iZEW) | [Murphy Mccarthy](https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Bad and Boujee](https://open.spotify.com/album/33FfluAHOTnk36bi6gheDp) | 3:35 | 2022-10-14 | 2023-12-21 |
+| [Bad and Boujee](https://open.spotify.com/track/6yxeRfVFePZ9poNaEwaQL3) | [Murphy Mccarthy](https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Jaywillz](https://open.spotify.com/artist/6OYJV1xYFAu5vysIxfq4Pg) | [Bad and Boujee](https://open.spotify.com/album/2tY2hWhHDRbWE4pAXMhulM) | 3:35 | 2023-12-08 |  |
 | [Beautiful](https://open.spotify.com/track/3Jbbpijvtlt7q8BQxdo7Aa) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Beautiful](https://open.spotify.com/album/3awn4URVbx6A9yzwevCbSo) | 3:08 | 2023-06-22 | 2023-11-03 |
 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-04-14 |  |
 | [Butterfly](https://open.spotify.com/track/2Oi5nmXp7PaxZdtx9oWc98) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Butterfly](https://open.spotify.com/album/3M8CZLQqMNipOWzNe9DBFp) | 2:38 | 2023-11-03 |  |

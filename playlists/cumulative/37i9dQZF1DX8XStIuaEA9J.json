@@ -176,7 +176,7 @@
     {
       "album": {
         "name": "BODY & SOUL",
-        "url": "https://open.spotify.com/album/4uXqmlsUVLQyNq40EVJ8LL"
+        "url": "https://open.spotify.com/album/6TsM3fWiaMSfsHCoLfAdLK"
       },
       "artists": [
         {
@@ -187,6 +187,24 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234000,
+      "name": "BODY & SOUL",
+      "url": "https://open.spotify.com/track/2T9Yqs0vSeO1hazhOb58tK"
+    },
+    {
+      "album": {
+        "name": "BODY & SOUL",
+        "url": "https://open.spotify.com/album/4uXqmlsUVLQyNq40EVJ8LL"
+      },
+      "artists": [
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 234000,
       "name": "BODY & SOUL",
       "url": "https://open.spotify.com/track/7ESSjXFwawIak55sSZ6GAF"
@@ -1070,7 +1088,7 @@
     {
       "album": {
         "name": "Still Hungry",
-        "url": "https://open.spotify.com/album/3BcAVCLT5qcurl8F2FYzEW"
+        "url": "https://open.spotify.com/album/3xyRbNoT20DEvxSKA5Y3Fj"
       },
       "artists": [
         {
@@ -1097,6 +1115,40 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199013,
+      "name": "Still Hungry",
+      "url": "https://open.spotify.com/track/4YdKGv1k8xR3s6eCV9rRss"
+    },
+    {
+      "album": {
+        "name": "Still Hungry",
+        "url": "https://open.spotify.com/album/3BcAVCLT5qcurl8F2FYzEW"
+      },
+      "artists": [
+        {
+          "name": "GeG",
+          "url": "https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi"
+        },
+        {
+          "name": "MILES WORD",
+          "url": "https://open.spotify.com/artist/4zGeEscPCPkHGctsIivzOz"
+        },
+        {
+          "name": "Jaggla",
+          "url": "https://open.spotify.com/artist/5vQxfZgZ4AAEDZOMnfMa8N"
+        },
+        {
+          "name": "SNEEEZE",
+          "url": "https://open.spotify.com/artist/6SHhi6OhmJ0bkFNMz5Fwqr"
+        },
+        {
+          "name": "VIGORMAN",
+          "url": "https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 199013,
       "name": "Still Hungry",
       "url": "https://open.spotify.com/track/6CdAYeir9xbWDPOCLIhKc9"
@@ -1202,7 +1254,7 @@
     {
       "album": {
         "name": "U Are My Paradise",
-        "url": "https://open.spotify.com/album/6AyjfZADiVfxb9JWcM3lfD"
+        "url": "https://open.spotify.com/album/4hifUmkTUBbd654FpY0QS8"
       },
       "artists": [
         {
@@ -1213,6 +1265,24 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195659,
+      "name": "U Are My Paradise",
+      "url": "https://open.spotify.com/track/3sdo6IqAbWbu8rDsZE2ilQ"
+    },
+    {
+      "album": {
+        "name": "U Are My Paradise",
+        "url": "https://open.spotify.com/album/6AyjfZADiVfxb9JWcM3lfD"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 195659,
       "name": "U Are My Paradise",
       "url": "https://open.spotify.com/track/5m2siTGj9XaBSReCVZuELz"

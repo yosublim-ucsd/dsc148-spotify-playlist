@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: BRUCKNER, Eli Preiss",
-  "num_followers": 409140,
+  "num_followers": 409277,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmUwNTllZDM1NDZhNzBjYjhiNzYzMjhiZmRjMDYxZDNjZTQ0N2E4",
+  "snapshot_id": "MCxiNzM3ZmEzZDM4ZGU3MjIxODc5MDZlN2E4MDcxNDc0NjM2NGU5NGQ5",
   "tracks": [
     {
       "added_at": "2023-12-14 23:15:00",
@@ -31,26 +31,6 @@
     {
       "added_at": "2023-12-14 23:15:00",
       "album": {
-        "name": "James Blake",
-        "url": "https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        },
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        }
-      ],
-      "duration_ms": 224146,
-      "name": "James Blake",
-      "url": "https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN"
-    },
-    {
-      "added_at": "2023-12-14 23:15:00",
-      "album": {
         "name": "immatrikuliert",
         "url": "https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW"
       },
@@ -71,6 +51,26 @@
     {
       "added_at": "2023-12-14 23:15:00",
       "album": {
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "duration_ms": 224146,
+      "name": "James Blake",
+      "url": "https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN"
+    },
+    {
+      "added_at": "2023-12-14 23:15:00",
+      "album": {
         "name": "sch\u00f6nheit die in schmerzen liegt",
         "url": "https://open.spotify.com/album/0VHB5d6cpwtQi6KZ2UZfUB"
       },
@@ -83,22 +83,6 @@
       "duration_ms": 171453,
       "name": "neue welt",
       "url": "https://open.spotify.com/track/4BahctFbZ15m6Yw1ZsSOuq"
-    },
-    {
-      "added_at": "2023-12-14 23:15:00",
-      "album": {
-        "name": "O STRASSE",
-        "url": "https://open.spotify.com/album/3SQcKefvJEd3R7kvYgqqXK"
-      },
-      "artists": [
-        {
-          "name": "WEIL",
-          "url": "https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "o strasse",
-      "url": "https://open.spotify.com/track/4WwrvzFnouOufSlZQf5gjc"
     },
     {
       "added_at": "2023-12-14 23:15:00",
@@ -155,22 +139,6 @@
     {
       "added_at": "2023-12-14 23:15:00",
       "album": {
-        "name": "Milliard\u00e4re & Verlierer",
-        "url": "https://open.spotify.com/album/2XbQhG7bL5POsT9zXNFaFy"
-      },
-      "artists": [
-        {
-          "name": "CASTILLO",
-          "url": "https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS"
-        }
-      ],
-      "duration_ms": 163475,
-      "name": "Morgentau",
-      "url": "https://open.spotify.com/track/6ZcX73DnGNfp0sFaS46dvM"
-    },
-    {
-      "added_at": "2023-12-14 23:15:00",
-      "album": {
         "name": "Sterne Sehen",
         "url": "https://open.spotify.com/album/3wD3VRmKxHgUpQ9NdngzZx"
       },
@@ -183,6 +151,38 @@
       "duration_ms": 176013,
       "name": "Sterne Sehen",
       "url": "https://open.spotify.com/track/4vNMyM0fSjooHCBFOH0q8d"
+    },
+    {
+      "added_at": "2023-12-14 23:15:00",
+      "album": {
+        "name": "O STRASSE",
+        "url": "https://open.spotify.com/album/3SQcKefvJEd3R7kvYgqqXK"
+      },
+      "artists": [
+        {
+          "name": "WEIL",
+          "url": "https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "o strasse",
+      "url": "https://open.spotify.com/track/4WwrvzFnouOufSlZQf5gjc"
+    },
+    {
+      "added_at": "2023-12-14 23:15:00",
+      "album": {
+        "name": "Milliard\u00e4re & Verlierer",
+        "url": "https://open.spotify.com/album/2XbQhG7bL5POsT9zXNFaFy"
+      },
+      "artists": [
+        {
+          "name": "CASTILLO",
+          "url": "https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS"
+        }
+      ],
+      "duration_ms": 163475,
+      "name": "Morgentau",
+      "url": "https://open.spotify.com/track/6ZcX73DnGNfp0sFaS46dvM"
     },
     {
       "added_at": "2023-12-14 23:15:00",

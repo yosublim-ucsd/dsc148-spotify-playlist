@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1305056,
+  "num_followers": 1305647,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzVkMmJhMjIwMmE5YTNlY2RlZWMxODhkYzE0NzdkMjYxZTRlNWY2",
+  "snapshot_id": "MCw3NzE3ZjQwYzA1ZWJjM2ZlZTQ1MDBiM2Q0MzU0Y2FjOTczMWZiNjg1",
   "tracks": [
     {
       "added_at": "2023-02-06 10:03:23",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 334066,
-      "name": "Seize the Day",
-      "url": "https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Theatre of Pain",
         "url": "https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 239666,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 334066,
+      "name": "Seize the Day",
+      "url": "https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Firehouse",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Love of a Lifetime",
-      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 273733,
       "name": "Bringin' On The Heartbreak",
       "url": "https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Firehouse",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Love of a Lifetime",
+      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 231118,
-      "name": "Under Your Scars",
-      "url": "https://open.spotify.com/track/1OiXUeNy6dZyfocJSei4Xz"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Pyromania",
         "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 266728,
       "name": "Too Late For Love",
       "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 231118,
+      "name": "Under Your Scars",
+      "url": "https://open.spotify.com/track/1OiXUeNy6dZyfocJSei4Xz"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Enjoy the Silence - cover version",
-      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Balls to Picasso (2001 Remaster)",
         "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 384013,
       "name": "Tears of the Dragon (2001 Remaster)",
       "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Enjoy the Silence - cover version",
+      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 354636,
       "name": "Hysteria - Remastered 2017",
       "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "Planet Caravan",
-      "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 268853,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R"
+      "duration_ms": 243426,
+      "name": "Planet Caravan",
+      "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Have You Ever Needed Someone So Bad",
-      "url": "https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
       },
@@ -1459,18 +1443,34 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "The Ritual",
-        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
         }
       ],
-      "duration_ms": 390800,
-      "name": "Return to Serenity",
-      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+      "duration_ms": 310733,
+      "name": "Heart of Steel",
+      "url": "https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Have You Ever Needed Someone So Bad",
+      "url": "https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+        "name": "The Ritual",
+        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
       },
       "artists": [
         {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 310733,
-      "name": "Heart of Steel",
-      "url": "https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6"
+      "duration_ms": 390800,
+      "name": "Return to Serenity",
+      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Heartbreak Station",
-        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Heartbreak Station",
-      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Contraband",
         "url": "https://open.spotify.com/album/5pJSDIgzal89ksQUzcGGFE"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 271440,
       "name": "Fall to Pieces",
       "url": "https://open.spotify.com/track/4A9O9e4iTm4bYnOPSzWaGb"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Heartbreak Station",
+        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Heartbreak Station",
+      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
     },
     {
       "added_at": "2023-02-06 10:03:23",

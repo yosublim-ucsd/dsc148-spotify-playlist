@@ -1,12 +1,12 @@
 {
   "description": "Always come in 1st place.",
-  "num_followers": 278286,
+  "num_followers": 278366,
   "original_name": "Nitroboost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDk0MGNmYzgxZDA0ZjQxYTk4NTczY2FlZTlhMWZmNTZhOTIxNmY5",
+  "snapshot_id": "MCxkNWY2MTNmYzM4NjJiNzIxOTllYzQ4Y2ExZmYzODU1ODJiZjVmZjQw",
   "tracks": [
     {
       "added_at": "2023-09-05 15:03:19",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-09-05 15:03:19",
       "album": {
-        "name": "Symbiosis Remixed Part 1",
-        "url": "https://open.spotify.com/album/4Ms4XIRdvfXibLNhtvqs0U"
-      },
-      "artists": [
-        {
-          "name": "Droptek",
-          "url": "https://open.spotify.com/artist/4Pn0zmbERg32YIOjl2nOQf"
-        },
-        {
-          "name": "Joe Ford",
-          "url": "https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF"
-        }
-      ],
-      "duration_ms": 286059,
-      "name": "Sentient - Joe Ford Remix",
-      "url": "https://open.spotify.com/track/37tWPZAM7MJwB3l4bbuLG8"
-    },
-    {
-      "added_at": "2023-09-05 15:03:19",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1LuvYKCEpDQc0QszleXPIH"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 248965,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1oCOMCGDh82F6ATxiocSeD"
+    },
+    {
+      "added_at": "2023-09-05 15:03:19",
+      "album": {
+        "name": "Symbiosis Remixed Part 1",
+        "url": "https://open.spotify.com/album/4Ms4XIRdvfXibLNhtvqs0U"
+      },
+      "artists": [
+        {
+          "name": "Droptek",
+          "url": "https://open.spotify.com/artist/4Pn0zmbERg32YIOjl2nOQf"
+        },
+        {
+          "name": "Joe Ford",
+          "url": "https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF"
+        }
+      ],
+      "duration_ms": 286059,
+      "name": "Sentient - Joe Ford Remix",
+      "url": "https://open.spotify.com/track/37tWPZAM7MJwB3l4bbuLG8"
     },
     {
       "added_at": "2023-09-05 15:03:19",
@@ -895,26 +895,22 @@
     {
       "added_at": "2023-09-05 15:03:19",
       "album": {
-        "name": "Move To The Beat Like",
-        "url": "https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip"
+        "name": "Make Up My Mind",
+        "url": "https://open.spotify.com/album/4i55bHABEF6I4AKC47xHAw"
       },
       "artists": [
         {
-          "name": "401 WST",
-          "url": "https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ"
+          "name": "Snackbox",
+          "url": "https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ"
         },
         {
-          "name": "4Korners",
-          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
-        },
-        {
-          "name": "Ashton Adams",
-          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+          "name": "Husky",
+          "url": "https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk"
         }
       ],
-      "duration_ms": 106875,
-      "name": "Move To The Beat Like",
-      "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
+      "duration_ms": 145228,
+      "name": "Make Up My Mind",
+      "url": "https://open.spotify.com/track/2FXwX8wv2nmDy1U8NRiHo2"
     }
   ],
   "unique_name": "Nitroboost",

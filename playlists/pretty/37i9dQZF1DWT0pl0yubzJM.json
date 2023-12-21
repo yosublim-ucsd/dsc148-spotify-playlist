@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 15318,
+  "num_followers": 15323,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGFlZDA4NGY4YjY0ZDAwMWVjNGMxOWVkYjRkNzE5MGMxY2ZkODQz",
+  "snapshot_id": "MCxiYWYwNWZmMmFiMzNlMjVjYTkxMjdjZDk4YTdkNzJiNjE2NTk5N2Ji",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -419,6 +419,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "TRECE",
+      "url": "https://open.spotify.com/track/6KlyjmAKmTzXdxhzA6DAh3"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
         "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 143866,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
-      },
-      "artists": [
-        {
-          "name": "Pez",
-          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Lo Que Se Ve No Es Lo Real",
-      "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -483,6 +483,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
+      },
+      "artists": [
+        {
+          "name": "Pez",
+          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Lo Que Se Ve No Es Lo Real",
+      "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Manzana de Metal",
         "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 263173,
       "name": "Atl\u00e1ntico",
       "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "TRECE",
-      "url": "https://open.spotify.com/track/6KlyjmAKmTzXdxhzA6DAh3"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -547,6 +547,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "MATE",
+      "url": "https://open.spotify.com/track/6gmGCkSs5AA0FWwI2poY9Z"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
         "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 282600,
       "name": "Marmota",
       "url": "https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Nada Es Exacto Salvo la Medida de los Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM"
-      },
-      "artists": [
-        {
-          "name": "Altocamet",
-          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
-        }
-      ],
-      "duration_ms": 318453,
-      "name": "Manzana de Metal",
-      "url": "https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE"
     }
   ],
   "unique_name": "Rock S\u00f3nico",

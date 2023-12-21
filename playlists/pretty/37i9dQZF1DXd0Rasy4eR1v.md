@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Top 50 discoveries from Fresh Finds Pakistan in 2023\.  Cover \- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,145 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,160 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 24 | [Sorry](https://open.spotify.com/track/2J4YIMNqYvj02sk5Hi1UaC) | [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Sorry](https://open.spotify.com/album/1gLnlkp3GLJoAVT83hRawH) | 2:52 |
 | 25 | [Hobby](https://open.spotify.com/track/4qkx01gDUsZlbZ42qHJuQE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP) | [Hobby](https://open.spotify.com/album/5xrlaAi6mUZ4FWz6gMwBi3) | 3:00 |
 | 26 | [Bahanay](https://open.spotify.com/track/2SX5HzW0vOyQbQLsRdWBfs) | [MMT](https://open.spotify.com/artist/6U8E9qaC9NKpbeFSjwTuqu) | [Bahanay](https://open.spotify.com/album/5aeMVSrmkuBjsujn2W2OCw) | 3:17 |
-| 27 | [CRYLOOP \#2](https://open.spotify.com/track/0vEfhFwwRrNw1R6cXEzPof) | [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY) | [CRYLOOP \#2](https://open.spotify.com/album/286iWmypvu6vXCVlwPgiF0) | 2:23 |
+| 27 | [CRYLOOP \#2](https://open.spotify.com/track/0vEfhFwwRrNw1R6cXEzPof) | [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY), [Umar.](https://open.spotify.com/artist/4INRTjmbOR0tkPGC3ySXIm) | [CRYLOOP \#2](https://open.spotify.com/album/286iWmypvu6vXCVlwPgiF0) | 2:23 |
 | 28 | [Aao Na](https://open.spotify.com/track/7FJcPdKg107vX4gKwS7Jc3) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk) | [Aao Na](https://open.spotify.com/album/6XO3lKjfyTGo4LZdssumdi) | 2:56 |
 | 29 | [ajnabi](https://open.spotify.com/track/5Qbums5K2twuyg4ooGgkXM) | [Ali Salman Khalid](https://open.spotify.com/artist/6WtUPC6fPv8a0ylOMlfV7g) | [ajnabi](https://open.spotify.com/album/3wt59IcUdUDFWXZ9akUpVv) | 3:28 |
 | 30 | [Gawara](https://open.spotify.com/track/30SraUQbTd11TDrzkgeK4z) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Gawara](https://open.spotify.com/album/7cEtQI6vTHbXbrRNWDKqdd) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 49 | [Raatain](https://open.spotify.com/track/7iNIdvTw4C2KJZow1neWzA) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x) | [Raatain](https://open.spotify.com/album/1tzBjW5EPm7bowTHtx8wgc) | 2:06 |
 | 50 | [Rani](https://open.spotify.com/track/1RRCXiSC4BFV6cHY5vYKSU) | [Umer Farooq](https://open.spotify.com/artist/3hVxqR4x3D6PaJWHICzhpt) | [Rani](https://open.spotify.com/album/6CPMv5xILvYGeK9UIMTeKl) | 3:54 |
 
-Snapshot ID: `MCxlOGFjZWU5OTNlMjkxNzUwYzZjODQ2NDdhZjJkMzEwMWFkZWVmYjIy`
+Snapshot ID: `MCwyZjlmY2QxNDA5MzZhNzU2YTg0ODkxMTRhYzQ0Njk4ZmQ0ZGQyODMz`

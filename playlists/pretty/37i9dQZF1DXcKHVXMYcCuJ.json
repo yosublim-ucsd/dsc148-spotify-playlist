@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 143592,
+  "num_followers": 143610,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWM1OWZkYzAyYzkyN2UyOTQ1MGYzYWVjNGU0NDYzYmZjNGVmN2Zi",
+  "snapshot_id": "MCwwY2Q0NGRmNTEzMmYyZGIwMTZjYjgwM2U0NGVhYjNiMzE2N2FhNTA0",
   "tracks": [
     {
       "added_at": "2023-12-06 15:29:48",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Jar",
-        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 222207,
-      "name": "Life In A Jar",
-      "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "From the Leaves of Your Garden",
         "url": "https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 190672,
       "name": "Pale",
       "url": "https://open.spotify.com/track/7kxowOW75vOFqsdXd1TW31"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 222207,
+      "name": "Life In A Jar",
+      "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI"
-      },
-      "artists": [
-        {
-          "name": "The Getaway Plan",
-          "url": "https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "Where the City Meets the Sea",
-      "url": "https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Comfort in Sound",
         "url": "https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI"
+      },
+      "artists": [
+        {
+          "name": "The Getaway Plan",
+          "url": "https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Where the City Meets the Sea",
+      "url": "https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 203546,
       "name": "June",
       "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 204975,
-      "name": "Vertigo Flowers",
-      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -779,6 +763,22 @@
       "duration_ms": 228453,
       "name": "The Modern Leper",
       "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 204975,
+      "name": "Vertigo Flowers",
+      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Sound As Ever",
-        "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
-      },
-      "artists": [
-        {
-          "name": "You Am I",
-          "url": "https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Berlin Chair",
-      "url": "https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Wowee Zowee",
         "url": "https://open.spotify.com/album/0OHDiDMyxzWJfwtoeHNCf4"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 254906,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/6BWchF8jHCuZ1Ebk9Av4HG"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Sound As Ever",
+        "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
+      },
+      "artists": [
+        {
+          "name": "You Am I",
+          "url": "https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Berlin Chair",
+      "url": "https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Neon Brother",
-      "url": "https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "I Wish I Could Stay Here",
         "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 204631,
       "name": "Crickets Throw Their Voice",
       "url": "https://open.spotify.com/track/5KiP81agN1O40PXRyikoF7"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Neon Brother",
+      "url": "https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Stovall",
-        "url": "https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 201854,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 277560,
       "name": "The Pod",
       "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Stovall",
+        "url": "https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 201854,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Gaslight",
-        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
         }
       ],
-      "duration_ms": 173314,
-      "name": "Gaslight",
-      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+      "duration_ms": 207620,
+      "name": "Fuct",
+      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1359,34 +1359,18 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
       "artists": [
         {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 207620,
-      "name": "Fuct",
-      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
-        "name": "Gb City",
-        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
-      },
-      "artists": [
-        {
-          "name": "Bass Drum of Death",
-          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Get Found",
-      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
+      "duration_ms": 173314,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1403,6 +1387,22 @@
       "duration_ms": 229075,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Gb City",
+        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Get Found",
+      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6JE92lOONx7GauCCIsKX3s"
-      },
-      "artists": [
-        {
-          "name": "Sly Withers",
-          "url": "https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1wBy0okEa7TIBWizzo5acb"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Blackened Sky",
         "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "The Difference In Good And Bad Dreams",
-        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6JE92lOONx7GauCCIsKX3s"
       },
       "artists": [
         {
-          "name": "Daylight",
-          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
+          "name": "Sly Withers",
+          "url": "https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX"
         }
       ],
-      "duration_ms": 162721,
-      "name": "Damp",
-      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
+      "duration_ms": 241066,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1wBy0okEa7TIBWizzo5acb"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1515,6 +1499,22 @@
       "duration_ms": 143760,
       "name": "A Modern Way of Letting Go",
       "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "The Difference In Good And Bad Dreams",
+        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
+      },
+      "artists": [
+        {
+          "name": "Daylight",
+          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Damp",
+      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
+        "name": "Ideas Above Our Station",
+        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "I'll Find You",
+      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
         "name": "Springtime and Blind",
         "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 166101,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
-        "name": "Under Exit Lights",
-        "url": "https://open.spotify.com/album/5c4rnFo67posi6omJUtu02"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Why Won't You Admit",
-      "url": "https://open.spotify.com/track/4tQpDC9blddFv7ZR4tEzWr"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
+        "name": "Under Exit Lights",
+        "url": "https://open.spotify.com/album/5c4rnFo67posi6omJUtu02"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Why Won't You Admit",
+      "url": "https://open.spotify.com/track/4tQpDC9blddFv7ZR4tEzWr"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
         "name": "The Free Life",
         "url": "https://open.spotify.com/album/4gT3GcSihWfQqAr5MBWfQ0"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 176413,
       "name": "Cheap Magic",
       "url": "https://open.spotify.com/track/7uaH0m2kKoT9YrHATuQn0P"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Handwritten",
-      "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Handwritten",
+      "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
         "name": "The New Vice EP",
         "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
       },
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Tune in, Drop Out",
-        "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
-      },
-      "artists": [
-        {
-          "name": "Beach Riot",
-          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
-        }
-      ],
-      "duration_ms": 170161,
-      "name": "Tune in, Drop Out",
-      "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "2 Songs",
         "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
       },
@@ -1743,6 +1743,22 @@
       "duration_ms": 200912,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Tune in, Drop Out",
+        "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
+      },
+      "artists": [
+        {
+          "name": "Beach Riot",
+          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
+        }
+      ],
+      "duration_ms": 170161,
+      "name": "Tune in, Drop Out",
+      "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1791,22 +1807,6 @@
       "duration_ms": 282197,
       "name": "Dogwalk",
       "url": "https://open.spotify.com/track/669JWthnxk4uSsnnDhEnu8"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
-        "name": "Ideas Above Our Station",
-        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "I'll Find You",
-      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/6FIG1qaWuCW4SiY2EtLJE7"
-      },
-      "artists": [
-        {
-          "name": "Pianos Become The Teeth",
-          "url": "https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C"
-        }
-      ],
-      "duration_ms": 423013,
-      "name": "Say Nothing",
-      "url": "https://open.spotify.com/track/6XyYSUudysDWutyxTmJkwP"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Pedals",
         "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 209000,
       "name": "Wring It Out",
       "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/6FIG1qaWuCW4SiY2EtLJE7"
+      },
+      "artists": [
+        {
+          "name": "Pianos Become The Teeth",
+          "url": "https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C"
+        }
+      ],
+      "duration_ms": 423013,
+      "name": "Say Nothing",
+      "url": "https://open.spotify.com/track/6XyYSUudysDWutyxTmJkwP"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "If This Is All We're Going to Be",
-        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 227738,
-      "name": "Anything Near Conviction",
-      "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "The Day's War (Victory Edition)",
         "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 246306,
       "name": "Backroads",
       "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 227738,
+      "name": "Anything Near Conviction",
+      "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Hello Operator",
-        "url": "https://open.spotify.com/album/0L8eoDqsuGx70gpsCKOvST"
-      },
-      "artists": [
-        {
-          "name": "Hello Operator",
-          "url": "https://open.spotify.com/artist/4BfhKwASniibfHDVLWwQEu"
-        }
-      ],
-      "duration_ms": 250847,
-      "name": "I Created a Monster",
-      "url": "https://open.spotify.com/track/1F8WE9yIpZ2Te7hHoRA4KL"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Beyond the Horizon",
         "url": "https://open.spotify.com/album/2Y5IRa81PCxIw68dyOfgcA"
       },
@@ -2067,18 +2051,18 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Last Orders",
-        "url": "https://open.spotify.com/album/0Fz2AwWba0P3TDmSBWuKrs"
+        "name": "Hello Operator",
+        "url": "https://open.spotify.com/album/0L8eoDqsuGx70gpsCKOvST"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Hello Operator",
+          "url": "https://open.spotify.com/artist/4BfhKwASniibfHDVLWwQEu"
         }
       ],
-      "duration_ms": 238693,
-      "name": "Last Orders",
-      "url": "https://open.spotify.com/track/13gy7iQVtO6IR96VM8IQTJ"
+      "duration_ms": 250847,
+      "name": "I Created a Monster",
+      "url": "https://open.spotify.com/track/1F8WE9yIpZ2Te7hHoRA4KL"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2095,6 +2079,22 @@
       "duration_ms": 313340,
       "name": "Feeling Real",
       "url": "https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Last Orders",
+        "url": "https://open.spotify.com/album/0Fz2AwWba0P3TDmSBWuKrs"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Last Orders",
+      "url": "https://open.spotify.com/track/13gy7iQVtO6IR96VM8IQTJ"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Frogstomp (Remastered)",
-        "url": "https://open.spotify.com/album/3l75Nxo6DRRabGNvWt5uay"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 266280,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/71Q7DFKyxpsbl9h7bgPQrg"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "The Vertigo of Bliss",
         "url": "https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 242693,
       "name": "Questions and Answers",
       "url": "https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Frogstomp (Remastered)",
+        "url": "https://open.spotify.com/album/3l75Nxo6DRRabGNvWt5uay"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 266280,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/71Q7DFKyxpsbl9h7bgPQrg"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 230817,
-      "name": "Swallow",
-      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/4xzzmQZfCz1keTBkIgQZFc"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 314853,
       "name": "Same Ol' Road",
       "url": "https://open.spotify.com/track/71p7rnfNo2gjDdKsQ9Sz9A"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 230817,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
     },
     {
       "added_at": "2023-12-06 15:29:48",

@@ -4,13 +4,13 @@
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-80 songs - 3 hr 51 min
+81 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la Media Noche](https://open.spotify.com/track/5IWjqjTkrXqQTouW3jkRNX) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mucho Ritmo](https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp) | 3:14 | 2022-09-24 |  |
 | [Ahora Puedo Mirar Claro](https://open.spotify.com/track/5Kgo6IQPF6g3ioAiSQIvZq) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 3:16 | 2022-06-01 |  |
-| [Ando Buscando un Amor](https://open.spotify.com/track/0ksbIDHroMobXN8Z0IiZ3I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Miraron Llorar un Hombre "Recordando los Exitos" Vol\. 3](https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf) | 2:08 | 2022-06-01 |  |
+| [Ando Buscando un Amor](https://open.spotify.com/track/0ksbIDHroMobXN8Z0IiZ3I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Miraron Llorar un Hombre "Recordando los Exitos" Vol\. 3](https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf) | 2:08 | 2022-06-01 | 2023-12-21 |
 | [Ando Que Me Lleva](https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Ando Que Me Lleva "Recordando los Exitos," Vol\. 4](https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj) | 3:20 | 2022-06-01 |  |
 | [Anoche Me Enamore](https://open.spotify.com/track/43e0OdJ7OCtdhmMKU6ERM4) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:42 | 2022-06-01 |  |
 | [Bailala Baila](https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:20 | 2022-06-01 |  |
@@ -83,6 +83,7 @@
 | [Rios de Babilonia \- Estilo Tierra Caliente](https://open.spotify.com/track/4A0VKEol3raESTNxVT6CyU) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:01 | 2022-06-01 | 2023-12-19 |
 | [Ritmo Sabroson](https://open.spotify.com/track/1scnMYXYTgyP0MqdBAUDwb) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:36 | 2022-06-01 | 2022-10-11 |
 | [Sabor Amargo](https://open.spotify.com/track/5pfKvfTbFIhOL5JUe1Cshr) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 3:04 | 2022-06-01 | 2022-10-07 |
+| [Serenata \- Estilo Tierra Caliente](https://open.spotify.com/track/4sjbR5EbyRz6MHBeF7zRJR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 1:57 | 2023-12-20 |  |
 | [Solo Cumbia](https://open.spotify.com/track/5w0XW40pGuSgv7BcTqDr3c) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:12 | 2023-06-24 | 2023-07-15 |
 | [Tampico Hermoso San Luis Potosi](https://open.spotify.com/track/32yy8yQftpKs6nI0nlmnfp) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:16 | 2023-11-10 | 2023-12-14 |
 | [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 | 2022-06-01 |  |

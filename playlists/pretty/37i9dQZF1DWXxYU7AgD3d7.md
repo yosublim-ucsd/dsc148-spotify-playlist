@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,182 likes - 60 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,209 likes - 60 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 |
-| 2 | [I Can See](https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [I Can See](https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A) | 3:49 |
+| 2 | [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 |
 | 3 | [You Are In My System \- Faster Horses Sport Mix](https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Faster Horses](https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ) | [You Are In My System \(Faster Horses Sport Mix\)](https://open.spotify.com/album/4x5rQlOXx23lz5aImLGMOt) | 3:17 |
 | 4 | [Peach VIP](https://open.spotify.com/track/35P8wQxbmltmHvawUxk6Uu) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach Remixes](https://open.spotify.com/album/4bOaqD7xJbdO1QOSjszZ1g) | 5:45 |
 | 5 | [No Need 2 Be Sorry, Call Me? \- Mount Kimbie Remix](https://open.spotify.com/track/1RqLelJCHUbw4zyKPRBJCb) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Sunrise Bang Ur Head Against Tha Wall \(Remixes\)](https://open.spotify.com/album/3PNutQB5BAWMKQKaxHp4Qk) | 3:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 59 | [I Like It](https://open.spotify.com/track/3UedDxQdGoEdw3cV5eLCJS) | [Madcliff](https://open.spotify.com/artist/4XVNXuvUEcareBngNTDDX5) | [Mad Cliff](https://open.spotify.com/album/0OxzPeW4hJ6GLOqGu4xKpN) | 3:56 |
 | 60 | [I Can't Help but Love](https://open.spotify.com/track/2svuSVmTq5WdHHVDBlobVS) | [David R\. Trask](https://open.spotify.com/artist/7G37dqQpR4pzSxS553aBJG) | [I Can't Help but Love](https://open.spotify.com/album/0IqxR7phNjVfHArCG7LEMR) | 3:39 |
 
-Snapshot ID: `MCxmMjVjZWI1OTdmNGYyZDg1NmZiZjllNTc2M2M1YjdlZmRkN2I4OWRm`
+Snapshot ID: `MCxkZmM4YWY2NWY3ZmNlYjFjMzlmM2FhNWZhYjg0MDU5Zjg0MzI3MDgy`

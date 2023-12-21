@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 16675,
+  "num_followers": 16684,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmQwMGRmODU5Mjk4MDA2MzE1YzgwOTMwOGY0OThkMjgyNTZjYWU0",
+  "snapshot_id": "MCwyYjJjNWNiZDg2NTJhZDcwYTIyMGE0ZjJjMzQ3MjdhN2RhOTUxOGY1",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -575,6 +575,26 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "You Don't Own Me (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO"
+      },
+      "artists": [
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "You Don't Own Me (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "You Don't Own Me (feat. G-Eazy)",
-        "url": "https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO"
-      },
-      "artists": [
-        {
-          "name": "SAYGRACE",
-          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "You Don't Own Me (feat. G-Eazy)",
-      "url": "https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l"
     },
     {
       "added_at": "2019-02-22 20:19:46",

@@ -1,12 +1,12 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 85556,
+  "num_followers": 85577,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTUyNTI0MmRmNDM4YzNmODk5ZmZlYmJjOGNiODljZDNhMTE1Zjcz",
+  "snapshot_id": "MCw4NjZlY2IwZTRjZTMzMWU2OTY3Y2RlZDE5ZjdiZWRkNWQ5MTc1YjE2",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "olsun",
-        "url": "https://open.spotify.com/album/2PdUDMWWFF966ZEykNa4Ej"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 124173,
-      "name": "olsun",
-      "url": "https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "EVA & MIA",
         "url": "https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 174883,
       "name": "EVA & MIA",
       "url": "https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "olsun",
+        "url": "https://open.spotify.com/album/2PdUDMWWFF966ZEykNa4Ej"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 124173,
+      "name": "olsun",
+      "url": "https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "ROMANT\u0130K",
-        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
-      },
-      "artists": [
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 197696,
-      "name": "O'NU",
-      "url": "https://open.spotify.com/track/1RQ0NC3xcdSPP7ekw9uma4"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/0ufgmq1tXqQ5W3wG6oioNl"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 200869,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/5jf9Zj1ebsD5gerVZzZ0X4"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "duration_ms": 197696,
+      "name": "O'NU",
+      "url": "https://open.spotify.com/track/1RQ0NC3xcdSPP7ekw9uma4"
     },
     {
       "added_at": "2023-08-31 21:00:00",

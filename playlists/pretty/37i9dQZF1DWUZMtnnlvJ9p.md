@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,797 likes - 140 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,445 likes - 140 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 | 139 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 140 | [Monster \(Shawn Mendes & Justin Bieber\)](https://open.spotify.com/track/1HbA4N1MiOsPthALesGFR1) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:58 |
 
-Snapshot ID: `MCw5NGExZDM4MjkzZWM2OGIwMTA3OTQwMzAxNTQxNGQ5OTZkYWUzYWY4`
+Snapshot ID: `MCxiMjg0YTJmZmUxZDc2MWNkM2M5OTdiOTM0Nzg3MjYxNmZlZGE5MDQ2`

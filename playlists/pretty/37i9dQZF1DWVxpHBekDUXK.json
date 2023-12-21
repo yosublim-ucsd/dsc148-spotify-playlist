@@ -1,12 +1,12 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
-  "num_followers": 148928,
+  "num_followers": 148927,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWFlOWU3MjQ4NDExNGI0ZGU4YjBjM2U2ZTgwYzJmNmQzYTMyMjZj",
+  "snapshot_id": "MCxhYTJhY2NjZjg4Zjc4NDBiMzEzODZmNWE4NjVlNTljZGE0ZWNlZThl",
   "tracks": [
     {
       "added_at": "2023-09-29 21:35:53",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Tug Of War",
-        "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 148853,
-      "name": "Here Today - Remixed 2015",
-      "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "Civil Twilight",
         "url": "https://open.spotify.com/album/5xGdh9Tq1yaiiC6CKOTb5j"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 275040,
       "name": "Letters From The Sky",
       "url": "https://open.spotify.com/track/1g8dRVzAvmSOTfTz5m0H9K"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "Tug Of War",
+        "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 148853,
+      "name": "Here Today - Remixed 2015",
+      "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
     },
     {
       "added_at": "2023-09-29 21:35:53",

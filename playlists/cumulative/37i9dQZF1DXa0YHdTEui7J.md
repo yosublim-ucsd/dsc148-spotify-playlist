@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-151 songs - 16 hr 2 min
+152 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Disco Rout \- Younger Rebinds Remix 2](https://open.spotify.com/track/6UzSvM2MsETALQ1gJUIzCu) | [Legowelt](https://open.spotify.com/artist/0cG9dZ6X8YfLeGe24QWMwM), [Younger Rebinds](https://open.spotify.com/artist/7iT223wY8z6eHRvZOU6JTl) | [Disco Rout Remixes](https://open.spotify.com/album/6JR1BLhNeL02VSEkRGDrct) | 5:45 | 2021-08-12 |  |
 | [Doiicie \- A](https://open.spotify.com/track/3a5sbseoseoN4XG0SeS4r9) | [Minilogue](https://open.spotify.com/artist/3q7XOzzlff7iCLz2JNalDV) | [Carry On, Pretend We're Not In The Room](https://open.spotify.com/album/3kWEPAoR8O7A6NUyrXcmOZ) | 8:10 | 2021-08-12 |  |
 | [Doin Ya Thang](https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2) | 6:55 | 2021-08-12 | 2023-06-03 |
-| [Doin Ya Thang](https://open.spotify.com/track/2KnMG7ROpc76hMKobBiocK) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/4EMuJFBM5Cx9R5SaX4ZcuI) | 6:55 | 2023-03-07 |  |
+| [Doin Ya Thang](https://open.spotify.com/track/2KnMG7ROpc76hMKobBiocK) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/4EMuJFBM5Cx9R5SaX4ZcuI) | 6:55 | 2023-03-07 | 2023-12-21 |
+| [Doin' Ya Thang](https://open.spotify.com/track/3j8xObsGOilqWptFLy8ngi) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin' Ya Thang](https://open.spotify.com/album/69WKtxNECUvG0G6mbSfLEg) | 6:55 | 2023-03-07 |  |
 | [Don't Be Afraid \(feat\. LATASHÁ\)](https://open.spotify.com/track/1sY09LjCOiWtZKooLBhwUI) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 4:04 | 2023-03-07 |  |
 | [Don't Hesitate](https://open.spotify.com/track/4xyBiFKkZfJLzhPqWggDGr) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Don't Hesitate](https://open.spotify.com/album/0b0pAK40QuIvo18bn1k8Pq) | 3:00 | 2021-08-12 |  |
 | [Elastrik](https://open.spotify.com/track/4YMWv3XtU6qjdUmrvrw9OI) | [Gaiser](https://open.spotify.com/artist/0zNtdoyO2ZA7hhYMNLh48Y) | [Some Slip](https://open.spotify.com/album/6dUopkCPdpDZoUknLuQy0c) | 6:18 | 2023-03-07 |  |

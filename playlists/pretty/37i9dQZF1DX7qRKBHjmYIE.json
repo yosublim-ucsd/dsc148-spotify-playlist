@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Jesse Baez.",
-  "num_followers": 761182,
+  "num_followers": 761179,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGM2NDIxNjBhNDM3ZTA4YWE5ZWJjM2EyZGQyMWE0OTlmOTBiM2Fh",
+  "snapshot_id": "MCw4MTA4N2JlOTc3MDc5OGIxOGM4YzFiYmRhZjE2OGViNjg2YWYwZDZj",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 178630,
+      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Papel de Burbujas",
         "url": "https://open.spotify.com/album/24Xhdsa3kUc1BRa2iA9rO5"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 191615,
       "name": "Muy lejos (feat. Ivana, Hard GZ)",
       "url": "https://open.spotify.com/track/3T8nI2IJ3rbvDBunS7Br5h"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 178630,
-      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 256747,
       "name": "Soy Tu Pap\u00e1 (feat. Fernando Palomo)",
       "url": "https://open.spotify.com/track/2dCk8pFTFvWEt8WzcagGKa"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -599,6 +599,22 @@
       "duration_ms": 175282,
       "name": "La Dosis",
       "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Uff",
+        "url": "https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "Uff",
+      "url": "https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -651,22 +667,6 @@
       "duration_ms": 296250,
       "name": "Ganadora",
       "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Uff",
-        "url": "https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "Uff",
-      "url": "https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 202359,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "egodeath",
         "url": "https://open.spotify.com/album/4ryLP6ODKCP7I0uG9gjnjU"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 225717,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 202359,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "No me siento vivo",
         "url": "https://open.spotify.com/album/1oUFkdvSYY3IJfoPS18Fpo"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 187924,
       "name": "Atardeceres",
       "url": "https://open.spotify.com/track/2RCtEkbuEmcyft4OhKTxnA"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Los Perros Van Al Cielo",
-        "url": "https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 195474,
-      "name": "Los Perros Van Al Cielo",
-      "url": "https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 162746,
       "name": "\u00f3diame si quieres",
       "url": "https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Los Perros Van Al Cielo",
+        "url": "https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 195474,
+      "name": "Los Perros Van Al Cielo",
+      "url": "https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt"
     }
   ],
   "unique_name": "Mixto",

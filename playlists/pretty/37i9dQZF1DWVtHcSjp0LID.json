@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 65692,
+  "num_followers": 65695,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzA4YWVjN2Q0ZDYzNzc4Yzk5NDhjMzU5NDY3MjcwMGNmZDcyODdi",
+  "snapshot_id": "MCwzOGY1NjQ2YjljZjIxMjc0NzkxZmVkNjQyZmM3MTQ3YTExMjdiNWQx",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -619,22 +619,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Teira",
-          "url": "https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh"
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
         }
       ],
-      "duration_ms": 272346,
-      "name": "The Right Place (feat. Teira)",
-      "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
+      "duration_ms": 275199,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -655,18 +651,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t"
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
       "artists": [
         {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Teira",
+          "url": "https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh"
         }
       ],
-      "duration_ms": 275199,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
+      "duration_ms": 272346,
+      "name": "The Right Place (feat. Teira)",
+      "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Between Dreams and Reality EP",
-        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        },
-        {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
-        }
-      ],
-      "duration_ms": 528410,
-      "name": "Between Dreams and Reality - Niko Schwind Remix",
-      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Moon II Remixes Pt. II",
         "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Between Dreams and Reality EP",
+        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        },
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+        }
+      ],
+      "duration_ms": 528410,
+      "name": "Between Dreams and Reality - Niko Schwind Remix",
+      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "When the Rain",
         "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 400327,
       "name": "Deep Eyes Blue Skies",
       "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "LNOE Introducing Vol. 1",
-        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
     },
     {
       "added_at": "2023-06-23 14:51:15",
@@ -807,6 +791,22 @@
       "duration_ms": 376000,
       "name": "Simple Child",
       "url": "https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "LNOE Introducing Vol. 1",
+        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
     },
     {
       "added_at": "2023-06-09 18:05:35",

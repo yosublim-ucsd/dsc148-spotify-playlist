@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Cubita.  ",
-  "num_followers": 191680,
+  "num_followers": 191753,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTRlMWQ3NzQ2Yjg1OTM4NDUxYzUxODQ3N2ZmMTM4NDMwZWM0NTBi",
+  "snapshot_id": "MCw3MTMxNTBjNmY3MGQ2ZjhkZjVhZTc2YWM2YjNkYWQ2NDJmYThmMzAz",
   "tracks": [
     {
       "added_at": "2023-12-15 00:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/0Hkdn3XNPCGajcT6S73thC"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Mi\u00fada Linda",
+      "url": "https://open.spotify.com/track/0ekgdkhtSRrulobfo6kMMY"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Quarentena",
         "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 218666,
       "name": "Quarentena",
       "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Four",
-        "url": "https://open.spotify.com/album/0Hkdn3XNPCGajcT6S73thC"
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
       "artists": [
         {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 217333,
-      "name": "Mi\u00fada Linda",
-      "url": "https://open.spotify.com/track/0ekgdkhtSRrulobfo6kMMY"
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Felicidade",
-        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 176770,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Felicidade",
+        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Se Eu Pudesse",
+        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 196567,
+      "name": "Se Eu Pudesse",
+      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Benka Benka",
         "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 259333,
       "name": "Tudo de Novo",
       "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Se Eu Pudesse",
-        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
-      },
-      "artists": [
-        {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 196567,
-      "name": "Se Eu Pudesse",
-      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Jaj\u00e3o (feat. Eddy Flow)",
         "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 248913,
       "name": "Jaj\u00e3o (feat. Eddy Flow)",
       "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Caixa Azul",
-        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Mika Mendes",
+        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Criola",
+      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Preparado",
         "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 279299,
       "name": "Preparado",
       "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Mika Mendes",
-        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "Criola",
-      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Vis\u00e3o",
         "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
@@ -1599,26 +1583,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Pak\u00e9",
-        "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
-      },
-      "artists": [
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Pak\u00e9",
-      "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Dpos D' Quarentena",
         "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
       },
@@ -1635,6 +1599,42 @@
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Pak\u00e9",
+        "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
+      },
+      "artists": [
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Pak\u00e9",
+      "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Pele Negra",
+        "url": "https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "duration_ms": 245800,
+      "name": "Pele Negra",
+      "url": "https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "Cara Trancada",
         "url": "https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI"
       },
@@ -1831,18 +1847,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Pele Negra",
-        "url": "https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ"
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
       },
       "artists": [
         {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 245800,
-      "name": "Pele Negra",
-      "url": "https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN"
+      "duration_ms": 202312,
+      "name": "Na Bo Mon",
+      "url": "https://open.spotify.com/track/4wcFq3XXef7obINYynQ5mL"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1875,26 +1895,6 @@
       "duration_ms": 193045,
       "name": "Do Teu Jeito",
       "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Ser Feliz",
-        "url": "https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR"
-      },
-      "artists": [
-        {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
-        },
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 205785,
-      "name": "Ser Feliz",
-      "url": "https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I"
     }
   ],
   "unique_name": "Dancing Kizomba",

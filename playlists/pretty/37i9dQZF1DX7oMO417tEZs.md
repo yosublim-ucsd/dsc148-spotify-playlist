@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,974 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,987 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Silent Assassin](https://open.spotify.com/track/4mbAgzlDrW35mp0dz4zE40) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:07 |
 | 100 | [ETA2 \(feat\. Paris Texas\)](https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [ETA2 \(feat\. Paris Texas\)](https://open.spotify.com/album/0ULka9xARlH01Pv5ewup22) | 2:09 |
 
-Snapshot ID: `MCw1MThhNTM1ZGE2OTYyNTk3MWY2OGY4NTE4OTNmNzU0ZTg2NjFhYzk0`
+Snapshot ID: `MCwzMWE1MmE4YjZiMTE5M2U1YmMyOGRhNjg1NzQ3MWI4NTZkZmIyNzli`

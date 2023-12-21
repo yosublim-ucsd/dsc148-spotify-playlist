@@ -148,7 +148,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 230320,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/0AFjCRwQjZotkRC8qmy1OG"
@@ -3534,6 +3534,24 @@
       "duration_ms": 258954,
       "name": "The Wait is Over",
       "url": "https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL"
+    },
+    {
+      "album": {
+        "name": "The Wait Is Over Now",
+        "url": "https://open.spotify.com/album/1mSqdGyk0ey5Khaa35Ipvl"
+      },
+      "artists": [
+        {
+          "name": "Renew Creative",
+          "url": "https://open.spotify.com/artist/5Ks6NwwU5TV0rraF5BOfou"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266578,
+      "name": "The Wait Is Over Now",
+      "url": "https://open.spotify.com/track/7KEqXN1PZWVmwDYu4k8oF7"
     },
     {
       "album": {

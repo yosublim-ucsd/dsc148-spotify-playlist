@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201168,
+      "name": "Khabib",
+      "url": "https://open.spotify.com/track/2ZVSjes0VFYg9uJu4olsi4"
+    },
+    {
+      "album": {
         "name": "LA Leakers Freestyle",
         "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
       },
@@ -856,7 +874,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 196939,
       "name": "Straight Back to It",
       "url": "https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4"

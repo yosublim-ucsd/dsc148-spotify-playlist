@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Vũ.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,610 likes - 53 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,710 likes - 53 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 52 | [Call Me](https://open.spotify.com/track/08GUMwJRpisuxHGyRzoSuu) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Call Me](https://open.spotify.com/album/7cyQGqqV7M5XxCJimEjX0j) | 3:34 |
 | 53 | [id 072019](https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD) | [id 072019](https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS) | 4:31 |
 
-Snapshot ID: `MCw5MjNlYWQyMzcwNWZiZjIwM2U0YzM2NWZlY2RkYTNhOTFmNjE5NDQx`
+Snapshot ID: `MCw4ODY2YTc2OWIyNWFjZWZkNWQ3MDZjZjgwYTU0ZmFiZGE5YmJkYjcz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Måneskin au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,627 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,678 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 |
 | 50 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
 
-Snapshot ID: `MCxmZWZhZjMwMDQzN2QxYzIxMzQ0M2ZmZDU5NWU3Y2JmZTI5OTk2NGRl`
+Snapshot ID: `MCxmMWExMzA2MGVlOTIyNGM3ZjdlMTJjN2QzMWIxMWE0ODg0NDJkZGIz`

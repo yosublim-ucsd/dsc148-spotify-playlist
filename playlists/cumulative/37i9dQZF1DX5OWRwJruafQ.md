@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-274 songs - 13 hr 3 min
+275 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Backbone](https://open.spotify.com/track/7crVv5ckSrKt4uRMNhzvPM) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [KR](https://open.spotify.com/artist/171hduWXUKyqmow0NKy4aM), [Mani Rai](https://open.spotify.com/artist/5eKDsKLXibdyzKpRkaZfY1) | [Backbone](https://open.spotify.com/album/1PDnZ9aOMsGrsyA6z0GPjy) | 2:42 | 2023-11-15 | 2023-11-19 |
 | [Bad Boy](https://open.spotify.com/track/405XCqBuCIDDqVnaRYWKr6) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Bad Boy](https://open.spotify.com/album/6r6cbSRfx2jw0Ih1xB7KfW) | 3:00 | 2023-06-08 | 2023-07-13 |
 | [Badberry](https://open.spotify.com/track/5pswO9oQUB8uJtvpmxbeTV) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 3:44 | 2023-10-25 |  |
-| [Badmashi](https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:02 | 2023-06-27 |  |
+| [Badmashi](https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:02 | 2023-06-27 | 2023-12-21 |
 | [Balcony](https://open.spotify.com/track/6qDHgeUBJFKYAGPBj3eVD6) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:43 | 2023-03-29 | 2023-07-15 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-29 | 2023-11-08 |
 | [Bandook](https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Bandook](https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO) | 2:54 | 2023-11-24 | 2023-12-19 |
@@ -266,6 +266,7 @@
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-29 | 2023-04-21 |
 | [Waaka](https://open.spotify.com/track/2TQWYINUwDQnKwNwweCL6A) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Waaka](https://open.spotify.com/album/1ae98eyinEiWmkEJzGhhE9) | 2:20 | 2023-05-05 |  |
 | [Wanted](https://open.spotify.com/track/71E7wc5trYqxDhMZlp7QQb) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Wanted](https://open.spotify.com/album/3kGwZQ8qm6h9UJkzUszAI8) | 2:54 | 2023-03-29 | 2023-07-26 |
+| [WAR](https://open.spotify.com/track/4Tr9TEb18Jb6hQxeXXzZcX) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [WAR](https://open.spotify.com/album/5hIEc8FpmTpxkaCGc09IgN) | 2:56 | 2023-12-20 |  |
 | [Watch Out](https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Watch Out](https://open.spotify.com/album/11tfAS197RiPG4po110Tre) | 3:56 | 2023-11-12 |  |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-29 | 2023-07-21 |
 | [We Up](https://open.spotify.com/track/7JHizhhBIgetbfoKd4esq9) | [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [UV](https://open.spotify.com/artist/6fqQh90LDwU1Qz1cy3rbe4) | [We Up](https://open.spotify.com/album/2mNhvB60kK3FNQQyqmZp79) | 3:36 | 2023-06-08 | 2023-07-28 |

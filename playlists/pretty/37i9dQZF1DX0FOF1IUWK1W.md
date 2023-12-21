@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Luan Santana, Ana Castela e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,093,018 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,095,682 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 |
 | 50 | [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 2:55 |
 
-Snapshot ID: `MCw4M2U2N2NhOTFlOGI5MDA3MWJlOTY5M2Y2MTk1YzMyMGQ3MTU1MDFh`
+Snapshot ID: `MCw5NGI4YTIyMjZhYmM3OGMyNjMwNDhjMTkzODlmMDRjNjY4MjE2NGZl`

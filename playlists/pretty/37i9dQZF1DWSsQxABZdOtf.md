@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,463 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,461 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Recognise](https://open.spotify.com/track/6mCKVjxyqC5O0GKtqtosxf) | [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu) | [Work Don't Stop](https://open.spotify.com/album/26n8k9MuAovnfJ5AXRJ69R) | 4:11 |
-| 2 | [Designer \- Jyoty Remix](https://open.spotify.com/track/7ejxwr8SnTtvqqeWsKzKnj) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Jyoty](https://open.spotify.com/artist/5yniF5litJGW61RAUeO3Mw) | [Piano Republik \(Remixes\)](https://open.spotify.com/album/0rq3Jg8TCAfln9gJIwBBh8) | 2:54 |
+| 2 | [Designer \- Jyoty Remix](https://open.spotify.com/track/62iPgJNahouCcHw1eJp53X) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Jyoty](https://open.spotify.com/artist/5yniF5litJGW61RAUeO3Mw) | [Designer \(Jyoty Remix\)](https://open.spotify.com/album/3gcPyrU8t5Gc3nglPN0SHB) | 2:54 |
 | 3 | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H) | 2:18 |
 | 4 | [Pull It Up](https://open.spotify.com/track/4LbTlzMQmQlJJ0ABxBRYsF) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Pull It Up](https://open.spotify.com/album/33cYFSyck2TiCnEYHFxqk6) | 2:34 |
 | 5 | [Grind Pon Mi](https://open.spotify.com/track/6lzqWQqmRoq3wOKF8ylJr2) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Grind Pon Mi](https://open.spotify.com/album/6VuVN2OeiULk7uhV8wmRGQ) | 2:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 70 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 
-Snapshot ID: `MCxmNDIyYzc1YTI5OTI2ZWYwYTcwMmZlOWIxMmNiMjA1MzkxMmI1YjY4`
+Snapshot ID: `MCw4MTBjY2M1ODRiMjBlNTY1Njk2YzM2MDAxYWI5ZWJmZmUzZjNlMzli`

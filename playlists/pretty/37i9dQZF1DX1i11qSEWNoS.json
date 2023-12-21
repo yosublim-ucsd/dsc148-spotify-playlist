@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 533453,
+  "num_followers": 533742,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWI2ZDFkOGFmY2VjMmI3NDRhYTJiODhmNGZiNDk1M2Y1YmQxNjNm",
+  "snapshot_id": "MCw1OWI0ZWU0NjJmOWVjODRmZDdjM2Q1NDBkYzc4OGQ5OWQ4MzhjOWM0",
   "tracks": [
     {
       "added_at": "2023-12-19 17:39:47",
@@ -387,6 +387,34 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
+        "name": "LET'S GET FKD UP (feat. Tribbs)",
+        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "duration_ms": 121500,
+      "name": "LET'S GET FKD UP",
+      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -423,34 +451,6 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
-        "name": "LET'S GET FKD UP (feat. Tribbs)",
-        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        },
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "LET'S GET FKD UP",
-      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
+        "name": "3 Haseln\u00fcsse",
+        "url": "https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41"
+      },
+      "artists": [
+        {
+          "name": "Jaques Raup\u00e9",
+          "url": "https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        }
+      ],
+      "duration_ms": 148797,
+      "name": "3 Haseln\u00fcsse",
+      "url": "https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -623,22 +643,22 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "3 Haseln\u00fcsse",
-        "url": "https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41"
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
       },
       "artists": [
         {
-          "name": "Jaques Raup\u00e9",
-          "url": "https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T"
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
         },
         {
-          "name": "Felix Harrer",
-          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
         }
       ],
-      "duration_ms": 148797,
-      "name": "3 Haseln\u00fcsse",
-      "url": "https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1"
+      "duration_ms": 141026,
+      "name": "mietfrei",
+      "url": "https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -663,26 +683,6 @@
       "duration_ms": 173360,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
-        "name": "denk mal dr\u00fcber nach...",
-        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
-        }
-      ],
-      "duration_ms": 141026,
-      "name": "mietfrei",
-      "url": "https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
         "name": "2022 war film gewesen",
         "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -971,30 +971,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Anders",
-        "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "Paul",
-          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 155020,
-      "name": "Anders",
-      "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "Cooler Than Me",
         "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
       },
@@ -1023,6 +999,58 @@
       "duration_ms": 204000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "Anders",
+        "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 155020,
+      "name": "Anders",
+      "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
+        "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 147895,
+      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
+      "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1067,34 +1095,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
-        "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Lyente",
-          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
-        },
-        {
-          "name": "Quinten Circle",
-          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 147895,
-      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
-      "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "ONLY 4 LIFE (Remix)",
         "url": "https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH"
       },
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Thank You (Not So Bad)",
-        "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
-      },
-      "artists": [
-        {
-          "name": "RobxDan",
-          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
-        },
-        {
-          "name": "Consilium",
-          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Thank You (Not So Bad)",
-      "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "How You Remind Me",
         "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 148411,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
+      },
+      "artists": [
+        {
+          "name": "RobxDan",
+          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
+        },
+        {
+          "name": "Consilium",
+          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "Mask Off",
         "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 155070,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 210093,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
+        "name": "About You Now (How I Feel)",
+        "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "About You Now (How I Feel)",
+      "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
         "name": "Lila Wolken - EP",
         "url": "https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 228053,
       "name": "Lila Wolken",
       "url": "https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
-        "name": "About You Now (How I Feel)",
-        "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "About You Now (How I Feel)",
-      "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
+        "name": "Kommissar",
+        "url": "https://open.spotify.com/album/6qHIHbbOEFkZQaEVXFgVCi"
+      },
+      "artists": [
+        {
+          "name": "Pazoo",
+          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+        },
+        {
+          "name": "NoooN",
+          "url": "https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X"
+        }
+      ],
+      "duration_ms": 163940,
+      "name": "Kommissar",
+      "url": "https://open.spotify.com/track/0djjZQPlvpOPNgnWTMVvli"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
         "name": "Es kracht in Buxtehude",
         "url": "https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO"
       },
@@ -1683,22 +1703,22 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Kommissar",
-        "url": "https://open.spotify.com/album/6qHIHbbOEFkZQaEVXFgVCi"
+        "name": "Einmal um die Welt 2k23",
+        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
       },
       "artists": [
         {
-          "name": "Pazoo",
-          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
         },
         {
-          "name": "NoooN",
-          "url": "https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X"
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
         }
       ],
-      "duration_ms": 163940,
-      "name": "Kommissar",
-      "url": "https://open.spotify.com/track/0djjZQPlvpOPNgnWTMVvli"
+      "duration_ms": 135551,
+      "name": "Einmal um die Welt 2k23",
+      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1735,26 +1755,6 @@
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
-        "name": "Einmal um die Welt 2k23",
-        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "NIKSTER",
-          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
-        }
-      ],
-      "duration_ms": 135551,
-      "name": "Einmal um die Welt 2k23",
-      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
     },
     {
       "added_at": "2023-12-19 17:39:47",

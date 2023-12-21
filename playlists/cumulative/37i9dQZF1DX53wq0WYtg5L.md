@@ -4,7 +4,7 @@
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-193 songs - 10 hr 2 min
+196 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [El son de la negra](https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:59 | 2021-09-01 |  |
 | [El Son De Los Aguacates](https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD) | [Mariachi Los Caporales](https://open.spotify.com/artist/1EkCOEysq5KAQ1axi0YhGE) | [Puro Mariachi](https://open.spotify.com/album/5Ykbep1heciycsMRg2QlJ3) | 2:17 | 2021-09-01 |  |
 | [El Son de Mi Tierra](https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa) | [Mariachi Jalisco](https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O) | [Canta a su tierra](https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1) | 2:56 | 2021-09-01 |  |
-| [El Tapatio](https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lástima Que Sean Ajenas](https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL) | 3:08 | 2022-09-12 |  |
+| [El Tapatio](https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lástima Que Sean Ajenas](https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL) | 3:08 | 2022-09-12 | 2023-12-21 |
+| [El Tapatio](https://open.spotify.com/track/4XdzNBac9xSMsTG9DVvSi2) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lástima Que Sean Ajenas](https://open.spotify.com/album/5Xh5EE85S4vVzw8AU4oqgc) | 3:08 | 2022-09-12 |  |
 | [El Tapatío](https://open.spotify.com/track/3Wn26lOa4L5gMFxQOSrvGX) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:59 | 2021-09-01 | 2022-09-13 |
 | [El Toro Serrano](https://open.spotify.com/track/48LlhOlMsGZb7fCK1gQZeh) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Joyas Musicales Vol\. 1 Recuerdame Bonito](https://open.spotify.com/album/6KVH4kGNLzUQV9aBYYHePW) | 2:41 | 2022-01-25 | 2022-07-29 |
 | [El Toro Serrano](https://open.spotify.com/track/1OimeC3g4x7yH50XQFggPm) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 2:42 | 2022-01-25 | 2022-09-13 |
@@ -173,8 +174,10 @@
 | [Pelea de Gallos](https://open.spotify.com/track/36xoe5FQKfbm5jgmm3gtFz) | [Mariachi Silvestre Vargas](https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG) | [Mexico Gran Colección Ranchera: Mariachi Silvestre Vargas](https://open.spotify.com/album/16GU1dTM2NQHmwLIuzbPfv) | 3:08 | 2022-09-12 | 2022-11-13 |
 | [Pelea de Gallos](https://open.spotify.com/track/6InNhQw4WFyEZh1NeIAfwF) | [Mariachi Silvestre Vargas](https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG) | [Silvestre Vargas El Mejor Mariachi del Mundo, Vol\. 1](https://open.spotify.com/album/4cFIvxQiviu9sv1iuz8vhL) | 3:09 | 2022-01-25 |  |
 | [Pica Que Pica](https://open.spotify.com/track/1ruaLnFk2kciAKa68DLggN) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 3:05 | 2021-09-01 |  |
-| [Popurri de Sones Jalisciences](https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 4:01 | 2021-09-01 |  |
-| [Popurri de Sones Jarochos](https://open.spotify.com/track/2TYitjWzuBzwuX6bPJn3uK) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 3:35 | 2021-09-01 |  |
+| [Popurri De Sones Jalicienses](https://open.spotify.com/track/7Ikjsl2JdLYCEHUd51lFYN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [BICENTENARIO](https://open.spotify.com/album/15B0y5xXvbvKO6EVuxIQsq) | 4:02 | 2022-09-12 |  |
+| [Popurri de Sones Jalisciences](https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 4:01 | 2021-09-01 | 2023-12-21 |
+| [Popurri de Sones Jarochos](https://open.spotify.com/track/2TYitjWzuBzwuX6bPJn3uK) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 3:35 | 2021-09-01 | 2023-12-21 |
+| [Popurri de Sones Jarochos](https://open.spotify.com/track/76sWuWJENvW4HvUA5Co3RN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/7oDrCscEv8o5hgQsyIGjQ5) | 3:35 | 2022-09-12 |  |
 | [Popurri Jarocho](https://open.spotify.com/track/78SHvCcwpWBehX2YzaF5UJ) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [15 Aniversario](https://open.spotify.com/album/3trDp9UHjRGKtLBIbTZkKD) | 3:26 | 2021-09-01 | 2022-07-29 |
 | [Popurri Jarocho: Veracruz / Maria Chuchena / Balajú / El Torito](https://open.spotify.com/track/7pT8049q2ltzDvbCgEbzrB) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [15 Aniversario](https://open.spotify.com/album/3B9uJgYwjlPfXq4kVAQerp) | 3:28 | 2022-01-25 | 2022-08-03 |
 | [Popurrí de Sones](https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 5:22 | 2021-09-01 |  |

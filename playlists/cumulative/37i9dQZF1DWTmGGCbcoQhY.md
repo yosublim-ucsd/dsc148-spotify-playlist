@@ -4,7 +4,7 @@
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-250 songs - 16 hr 38 min
+251 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Cumbia Yemaya](https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 2](https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz) | 3:16 | 2021-11-30 |  |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/6Vwr4zJDyXk2IzNUMzEhmQ) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Íconos 25 Éxitos](https://open.spotify.com/album/63ya14FMMlgowwjeY0R3Yn) | 4:31 | 2021-11-30 | 2022-07-29 |
 | [Dejame Pensar](https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Dejame Pensar](https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF) | 4:37 | 2022-06-07 |  |
-| [Dejenme Llorar \(feat\. Jorge Dominguez y Su Grupo Super Class\)](https://open.spotify.com/track/3bTZoKn6YfWu6rw1OCE1pw) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH), [Jorge Dominguez y su Grupo Super Class](https://open.spotify.com/artist/45qPqiZHXOlAo41ESJc5hh) | [Ay El Amor](https://open.spotify.com/album/1ihPB4wgt1trYSg7rTgZLE) | 3:50 | 2023-11-08 |  |
+| [Dejenme Llorar](https://open.spotify.com/track/3jh6F8GaYeuWt3E4s1saGi) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH), [Jorge Dominguez y su grupo super class](https://open.spotify.com/artist/4TRxkgdgWqdoHPtnI1nEMc) | [Dejenme Llorar](https://open.spotify.com/album/4I9DyclyjRQxWgG5bfZi7B) | 3:50 | 2023-11-08 |  |
+| [Dejenme Llorar \(feat\. Jorge Dominguez y Su Grupo Super Class\)](https://open.spotify.com/track/3bTZoKn6YfWu6rw1OCE1pw) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH), [Jorge Dominguez y su Grupo Super Class](https://open.spotify.com/artist/45qPqiZHXOlAo41ESJc5hh) | [Ay El Amor](https://open.spotify.com/album/1ihPB4wgt1trYSg7rTgZLE) | 3:50 | 2023-11-08 | 2023-12-21 |
 | [Destilando Amor](https://open.spotify.com/track/1VL6n94ZDAHk3nwyqIGgTp) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Destilando Amor](https://open.spotify.com/album/0jXhlN1DHW662aZCXUGxYH) | 3:37 | 2021-11-30 | 2022-03-09 |
 | [Desvelo](https://open.spotify.com/track/1PQx9MPARk2DWTxAc1i8bG) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Desvelo](https://open.spotify.com/album/18PmOgLMJbv3lT5wqueTrU) | 3:31 | 2022-06-07 |  |
 | [Dile](https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 4:04 | 2021-11-30 |  |

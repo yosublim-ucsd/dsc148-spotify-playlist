@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: tiny habits <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,466 likes - 120 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,651 likes - 120 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 119 | [silence,](https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [silence,](https://open.spotify.com/album/251r2PWSCJrFdZDmgxUuA1) | 2:47 |
 | 120 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 |
 
-Snapshot ID: `MCxjMTE4OGU4ZTM3NGI5ZDZlNTZjZWJkZmEzM2NjYTNjYTBjZGU0MWRi`
+Snapshot ID: `MCwzOGRlMGNlMzRjZDY3NmVmZDg0MzkxYmZjMDJkNzBmMWIwMTBjMzYz`

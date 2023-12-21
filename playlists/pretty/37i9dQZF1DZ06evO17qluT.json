@@ -1,15 +1,15 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 42364,
+  "num_followers": 42393,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzODMxNDgsMDAwMDAwMDAyYjc2ODg2MmE3NTdmMjlkYjhjMjk1NjlmYjU4NThjMQ==",
+  "snapshot_id": "MjgzODQ1NjAsMDAwMDAwMDAwYWViZGMzMmZjOTZjMzhiYmI0MTgzODJiNmE4Yjc0MQ==",
   "tracks": [
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/6RgXU5moRK2kNovhLQV0Yq"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Poesia Ac\u00fastica #2: Sobre N\u00f3s",
         "url": "https://open.spotify.com/album/6zp0d9ZfJqsRm6qRUx3e9U"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/6HaTYIUKd8SzdvGOfutBRD"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Poesia Ac\u00fastica 10: Recome\u00e7ar",
         "url": "https://open.spotify.com/album/1ct5PtiSQ4UnFMmMqFytUD"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/4pwFy4YPNGMxK2P2FfQfvt"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Heresia",
         "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
@@ -209,7 +209,35 @@
       "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 197738,
+      "name": "BOM TE ENCONTRAR",
+      "url": "https://open.spotify.com/track/53CRI0JkpJywRu7tvNVWj5"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": ".38",
         "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
@@ -233,7 +261,31 @@
       "url": "https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Amanhecer",
+      "url": "https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
@@ -265,31 +317,7 @@
       "url": "https://open.spotify.com/track/374FHMaD2W0k7gsxaHa1Hi"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Amanhecer",
-      "url": "https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Audaz",
         "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
@@ -313,7 +341,7 @@
       "url": "https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
@@ -333,7 +361,35 @@
       "url": "https://open.spotify.com/track/0tjO1Cc1kdNZwXrnH0NceG"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 237941,
+      "name": "Se eu n\u00e3o lembrar",
+      "url": "https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm"
@@ -365,35 +421,7 @@
       "url": "https://open.spotify.com/track/5Mlq6dGC4QUk8p07HLxsMt"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 237941,
-      "name": "Se eu n\u00e3o lembrar",
-      "url": "https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
@@ -404,24 +432,20 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        },
-        {
           "name": "Gigantes",
           "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        },
+        {
+          "name": "MSE",
+          "url": "https://open.spotify.com/artist/00e8h3bLUKM05k9bBnnTPh"
         }
       ],
-      "duration_ms": 197738,
-      "name": "BOM TE ENCONTRAR",
-      "url": "https://open.spotify.com/track/53CRI0JkpJywRu7tvNVWj5"
+      "duration_ms": 155577,
+      "name": "DO NECTAR FREESTYLE - REMIX",
+      "url": "https://open.spotify.com/track/4GkVbPpyx0aBoHPKe04oEZ"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
@@ -441,31 +465,7 @@
       "url": "https://open.spotify.com/track/1jLZxdC4AKR7dL2NdsXZHi"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 222858,
-      "name": "exalta",
-      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
@@ -493,99 +493,31 @@
       "url": "https://open.spotify.com/track/34A67HYwwe91CyLaNVQ6JG"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
       "artists": [
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        },
-        {
-          "name": "MSE",
-          "url": "https://open.spotify.com/artist/00e8h3bLUKM05k9bBnnTPh"
-        }
-      ],
-      "duration_ms": 155577,
-      "name": "DO NECTAR FREESTYLE - REMIX",
-      "url": "https://open.spotify.com/track/4GkVbPpyx0aBoHPKe04oEZ"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 152342,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "L\u00f3gos",
-        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
-      },
-      "artists": [
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "CrimeNow",
-          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 230831,
-      "name": "Regras da Loja",
-      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
+      "duration_ms": 222858,
+      "name": "exalta",
+      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Carlos do Complexo",
-          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 207242,
-      "name": "Nome nas ruas",
-      "url": "https://open.spotify.com/track/4ujSlvkBI6rh0iRORsSD2Q"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
@@ -613,7 +545,103 @@
       "url": "https://open.spotify.com/track/2ZIOwWa5HiQWTzOagFGdao"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 152342,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 207242,
+      "name": "Nome nas ruas",
+      "url": "https://open.spotify.com/track/4ujSlvkBI6rh0iRORsSD2Q"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "L\u00f3gos",
+        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "CrimeNow",
+          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
+        }
+      ],
+      "duration_ms": 230831,
+      "name": "Regras da Loja",
+      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 221621,
+      "name": "3 DA MADRUGA",
+      "url": "https://open.spotify.com/track/6ippDdJ3ys868MznfOHiRI"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
@@ -633,7 +661,7 @@
       "url": "https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
@@ -657,7 +685,7 @@
       "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
@@ -689,107 +717,7 @@
       "url": "https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 221621,
-      "name": "3 DA MADRUGA",
-      "url": "https://open.spotify.com/track/6ippDdJ3ys868MznfOHiRI"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Sigo na Sombra",
-      "url": "https://open.spotify.com/track/1oVADsF7jG7qB04rxkJOUD"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 148738,
-      "name": "Deus do Furdun\u00e7o",
-      "url": "https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        },
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        }
-      ],
-      "duration_ms": 192721,
-      "name": "PUT@RIA!",
-      "url": "https://open.spotify.com/track/7jVexMvXRY7rWIHTOqKs7G"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
@@ -821,7 +749,7 @@
       "url": "https://open.spotify.com/track/21Ut1CBOmKoNubWFRnIXxQ"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
@@ -832,44 +760,16 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Ashira",
-          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 309618,
-      "name": "Quadros",
-      "url": "https://open.spotify.com/track/5nkY0sTJS4UTp7RiOZKYNl"
+      "duration_ms": 195324,
+      "name": "Sigo na Sombra",
+      "url": "https://open.spotify.com/track/1oVADsF7jG7qB04rxkJOUD"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 211338,
-      "name": "Cidade do Pecado",
-      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
@@ -880,24 +780,48 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
           "name": "Nave",
           "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 249813,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
+      "duration_ms": 148738,
+      "name": "Deus do Furdun\u00e7o",
+      "url": "https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "duration_ms": 192721,
+      "name": "PUT@RIA!",
+      "url": "https://open.spotify.com/track/7jVexMvXRY7rWIHTOqKs7G"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
@@ -925,7 +849,7 @@
       "url": "https://open.spotify.com/track/0R6kmc1bAJjj5uKFhXasix"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
@@ -938,14 +862,70 @@
         {
           "name": "JXNV$",
           "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
         }
       ],
-      "duration_ms": 186806,
-      "name": "O Pr\u00f3ximo Nascer do Sol",
-      "url": "https://open.spotify.com/track/0ohQxfwxXcXA6TsZK6egvJ"
+      "duration_ms": 309618,
+      "name": "Quadros",
+      "url": "https://open.spotify.com/track/5nkY0sTJS4UTp7RiOZKYNl"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "Cidade do Pecado",
+        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 211338,
+      "name": "Cidade do Pecado",
+      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
+    },
+    {
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Antes dos Gigantes Chegarem (Vol. 2)",
         "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
@@ -973,10 +953,10 @@
       "url": "https://open.spotify.com/track/1Iz2RJFAbcyAwB9sOaXvLp"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
       },
       "artists": [
         {
@@ -984,16 +964,16 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         }
       ],
-      "duration_ms": 294314,
-      "name": "Tit\u00e3s",
-      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
+      "duration_ms": 186806,
+      "name": "O Pr\u00f3ximo Nascer do Sol",
+      "url": "https://open.spotify.com/track/0ohQxfwxXcXA6TsZK6egvJ"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Um",
         "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
@@ -1013,63 +993,27 @@
       "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
-        "name": "Lance Criminoso (feat. BK)",
-        "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
       "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 234098,
-      "name": "Lance Criminoso (feat. BK)",
-      "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "Favela Vive 2",
-        "url": "https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3"
-      },
-      "artists": [
-        {
-          "name": "ADL",
-          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
-        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 422857,
-      "name": "Favela Vive 2",
-      "url": "https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf"
+      "duration_ms": 294314,
+      "name": "Tit\u00e3s",
+      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
     },
     {
-      "added_at": "2023-12-19 12:28:44",
+      "added_at": "2023-12-20 12:00:03",
       "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
@@ -1087,98 +1031,6 @@
       "duration_ms": 251668,
       "name": "Julius",
       "url": "https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "Assim Tocam os MEUS TAMBORES",
-        "url": "https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP"
-      },
-      "artists": [
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        },
-        {
-          "name": "Ju\u00e7ara Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Anelis Assump\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv"
-        }
-      ],
-      "duration_ms": 270062,
-      "name": "ROMPEU O COURO.",
-      "url": "https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "Pir\u00e2mide Perdida (Vol. 7)",
-        "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
-      },
-      "artists": [
-        {
-          "name": "Pir\u00e2mide Perdida",
-          "url": "https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        },
-        {
-          "name": "CHS",
-          "url": "https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Akira Presidente",
-          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
-        }
-      ],
-      "duration_ms": 281684,
-      "name": "Canto das Baixas",
-      "url": "https://open.spotify.com/track/3HCdLS7z9TSs349d3UxV8I"
-    },
-    {
-      "added_at": "2023-12-19 12:28:44",
-      "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Para\u00edso Que Me Cerca",
-      "url": "https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2"
     }
   ],
   "unique_name": "This Is BK",

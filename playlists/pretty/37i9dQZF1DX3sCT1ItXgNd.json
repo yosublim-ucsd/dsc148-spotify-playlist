@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo",
-  "num_followers": 992358,
+  "num_followers": 992410,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjg1YzJjMWU3ZTIzZmEyMzBlZDhlZjRhOTNlNWRkZjU1MzA3ZjJk",
+  "snapshot_id": "MCw2ZDdkZmIyNDczMzIxODViZWMzNDNmNDg2NGY3YmFkZDU5ZGY0ZDAw",
   "tracks": [
     {
       "added_at": "2023-12-18 14:58:45",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-12-18 14:58:45",
       "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+        "name": "QUE CHIMBA DE VIDA",
+        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+      "duration_ms": 123351,
+      "name": "QUE CHIMBA DE VIDA",
+      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
     },
     {
       "added_at": "2023-12-18 14:58:45",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-12-18 14:58:45",
       "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+    },
+    {
+      "added_at": "2023-12-18 14:58:45",
+      "album": {
         "name": "Bailando Bachata",
         "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 170809,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
-    },
-    {
-      "added_at": "2023-12-18 14:58:45",
-      "album": {
-        "name": "QUE CHIMBA DE VIDA",
-        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 123351,
-      "name": "QUE CHIMBA DE VIDA",
-      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
     },
     {
       "added_at": "2023-12-18 14:58:45",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-12-18 14:58:45",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2023-12-18 14:58:45",
+      "album": {
         "name": "Olvid\u00e9 Olvidarte",
         "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 181840,
       "name": "Olvid\u00e9 Olvidarte",
       "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
-    },
-    {
-      "added_at": "2023-12-18 14:58:45",
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2023-12-18 14:58:45",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-12-18 14:58:45",
       "album": {
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
+    },
+    {
+      "added_at": "2023-12-18 14:58:45",
+      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 197836,
       "name": "El Wey",
       "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
-    },
-    {
-      "added_at": "2023-12-18 14:58:45",
-      "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2023-12-18 14:58:45",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-12-18 14:58:45",
       "album": {
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Me Enamoro",
+      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
+    },
+    {
+      "added_at": "2023-12-18 14:58:45",
+      "album": {
         "name": "Puerta del Sol",
         "url": "https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 193150,
       "name": "Puerta del Sol",
       "url": "https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT"
-    },
-    {
-      "added_at": "2023-12-18 14:58:45",
-      "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Me Enamoro",
-      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
     },
     {
       "added_at": "2023-12-18 14:58:45",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-12-18 14:58:45",
       "album": {
+        "name": "ALICANTINA",
+        "url": "https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "ALICANTINA",
+      "url": "https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn"
+    },
+    {
+      "added_at": "2023-12-18 14:58:45",
+      "album": {
         "name": "En el mismo bar",
         "url": "https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF"
       },
@@ -867,6 +883,38 @@
       "duration_ms": 162500,
       "name": "En el mismo bar",
       "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
+    },
+    {
+      "added_at": "2023-12-18 14:58:45",
+      "album": {
+        "name": "tiroteAo",
+        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 153403,
+      "name": "tiroteAo",
+      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
+    },
+    {
+      "added_at": "2023-12-18 14:58:45",
+      "album": {
+        "name": "amor de verano",
+        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "amor de verano",
+      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
     },
     {
       "added_at": "2023-12-18 14:58:45",
@@ -895,54 +943,6 @@
     {
       "added_at": "2023-12-18 14:58:45",
       "album": {
-        "name": "tiroteAo",
-        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 153403,
-      "name": "tiroteAo",
-      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
-    },
-    {
-      "added_at": "2023-12-18 14:58:45",
-      "album": {
-        "name": "Pirata",
-        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
-    },
-    {
-      "added_at": "2023-12-18 14:58:45",
-      "album": {
-        "name": "ALICANTINA",
-        "url": "https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "ALICANTINA",
-      "url": "https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn"
-    },
-    {
-      "added_at": "2023-12-18 14:58:45",
-      "album": {
         "name": "Lugar Para\u00edso",
         "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-12-18 14:58:45",
       "album": {
-        "name": "amor de verano",
-        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
       },
       "artists": [
         {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
         }
       ],
-      "duration_ms": 176666,
-      "name": "amor de verano",
-      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
+      "duration_ms": 193626,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
     },
     {
       "added_at": "2023-12-18 14:58:45",

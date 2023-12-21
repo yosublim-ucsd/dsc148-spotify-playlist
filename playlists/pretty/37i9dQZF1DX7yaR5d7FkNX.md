@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > Disfrutemos del amor en los tiempos del rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,457 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,485 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 29 | [Satélites](https://open.spotify.com/track/4ZkDM3luQLAL8oXmDUHbuh) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Satélites](https://open.spotify.com/album/7KE8OXh0yBO1VdP7XIsQ5r) | 3:19 |
 | 30 | [Adentro Brilla El Sol](https://open.spotify.com/track/2Y985lqSz23xEgUhdRZK28) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [Todo es Ceremonia en el Jardin Salvaje](https://open.spotify.com/album/1cwkQ7TFUp35Gju5Y7DL2L) | 3:04 |
 | 31 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
-| 32 | [Me Hago Mal](https://open.spotify.com/track/3XIaG3uGcewsKPmxauygJZ) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Me Hago Mal](https://open.spotify.com/album/4E2l41cZXhRKXIi8gMKDe4) | 3:06 |
+| 32 | [Me Hago Mal](https://open.spotify.com/track/1bYk9GHSCJup7vrN9hIzNU) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Me Hago Mal](https://open.spotify.com/album/35SF83Eo34099GeNIT882r) | 3:06 |
 | 33 | [Perra Soledad](https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Perra Soledad](https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG) | 3:30 |
 | 34 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 |
 | 35 | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/track/7jNBgXRCQ8HWnSIX19vho7) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Yonatan Mazor](https://open.spotify.com/artist/3vIIkATsfM6dzKmHgv7qlZ) | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/album/68mnlQeSr1hXXOPZxYaRJa) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 99 | [Arrullo De Estrellas](https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Programaton](https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD) | 4:12 |
 | 100 | [Alto Riesgo](https://open.spotify.com/track/6mBGhOa2l2bltOh12QiHbl) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Alto Riesgo](https://open.spotify.com/album/5gXL83O1KlPQoJRAWkUMM2) | 3:27 |
 
-Snapshot ID: `MCwxNjMzZTRiMzBiN2YzMTVkNDFmNTdiYTgyODI0NDQ1Mzc5NzVjM2Jj`
+Snapshot ID: `MCxjZGY4ZWZmYjNlZDEwNjBmMTMxNjI0MWU3OTQwNzFkZGUwNTgzY2E1`

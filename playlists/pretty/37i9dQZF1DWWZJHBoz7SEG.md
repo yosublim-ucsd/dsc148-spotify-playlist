@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Modo maratón Guadalupe\-Reyes activado! Ponte ready para las fiestas con lo mejor de la semana Kim Loaiza en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,511 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,695 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [DIOSA </3](https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN) | [Nuvia](https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ), [Rodezel](https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x) | [DIOSA </3](https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw) | 2:44 |
 | 50 | [Max Win](https://open.spotify.com/track/1m5Hh6j7SCZF0G9ZvokJVQ) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ) | [Max Win](https://open.spotify.com/album/3dR7jQWcLTdwVwfLznUBP6) | 1:37 |
 
-Snapshot ID: `MCw4ZjBmYjdmODQyNWZkZTg0MjU5OTFmMjgxZGQ5Y2M4NmExZWQ1MzUz`
+Snapshot ID: `MCwzMTBlYTM4ZmRiMTMyZGY5NGQzZTkzMGI4ZGNlMmQzZjRmZWM5ZmJj`

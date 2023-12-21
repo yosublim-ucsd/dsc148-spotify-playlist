@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 70995,
+  "num_followers": 71068,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGNhMmVhYzNmYTNjZTU4NDUyMjhkZDgxOWI2NmNkNTYzZmFmMTVj",
+  "snapshot_id": "MCw1NDkxMjE2ZWQxNmIwNjQ5MGY4NWM1MmFhOTU2MjE4MWIxYWUyM2Nk",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -875,22 +875,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Home Is the Rover",
-        "url": "https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU"
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
       },
       "artists": [
         {
-          "name": "Noel McLoughlin",
-          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
-        },
-        {
-          "name": "Denis Carey",
-          "url": "https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY"
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
         }
       ],
-      "duration_ms": 162093,
-      "name": "The Old Dungarvan Oak",
-      "url": "https://open.spotify.com/track/0I16G9QzUo5AmEsIKsAAhI"
+      "duration_ms": 168413,
+      "name": "The Mickey Dam",
+      "url": "https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB"
     }
   ],
   "unique_name": "Irish Tavern",

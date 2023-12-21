@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:0rOLLmeuTbBAx7YKcVEECH">Gabriel EMC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,444 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,476 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Abre mis ojos](https://open.spotify.com/track/1vffYobX9nOwphjEI7n1xB) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Efecto EMC](https://open.spotify.com/album/2ePQmfIRBYKi31EPsYRIg0) | 3:30 |
+| 1 | [Abre Mis Ojos](https://open.spotify.com/track/1vffYobX9nOwphjEI7n1xB) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Efecto EMC](https://open.spotify.com/album/2ePQmfIRBYKi31EPsYRIg0) | 3:30 |
 | 2 | [Te Amo](https://open.spotify.com/track/4bxSK7xVyjz9rT57PrpMwo) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Te Amo](https://open.spotify.com/album/4NU3vIinPJUWAlZPwhYpDA) | 2:27 |
 | 3 | [Tu mesa sana](https://open.spotify.com/track/7oqXbv1uziNGralSHq5jA6) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Benjamín Brunet](https://open.spotify.com/artist/27QZtu4LXCAaMUkdBazjFB) | [Tu mesa sana](https://open.spotify.com/album/4lK6trUXohGx7AFtGD2Z1A) | 5:48 |
 | 4 | [Suena El Arpa \- Version Acústica](https://open.spotify.com/track/1Icheq4nGLkTPtnI2N7w9z) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb) | [Suena el Arpa \(Version Acústica\)](https://open.spotify.com/album/19480yMLJzpnIxpPVLdpgC) | 6:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Lo Volverás a Hacer](https://open.spotify.com/track/2WDM9eAze9QxpLdPnQQfnF) | [Sharil](https://open.spotify.com/artist/5ORVnd2wkMlJx7wkblVY5l) | [Lo Volverás A Hacer](https://open.spotify.com/album/39RuXu7ZYtQAvImhN8CIUM) | 3:40 |
 | 100 | [Tantas Historias](https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 |
 
-Snapshot ID: `MCw0OGY1Y2ZjYzliMzgwMmZkYTAzMTk2NTk0OTEyOWVlNDg2MTJlZTA2`
+Snapshot ID: `MCw4MDg5MTJmYTdjNGYxNjc4NzEzZGFhNzMxNDI4ZTc2OTA0NTdiMTc3`

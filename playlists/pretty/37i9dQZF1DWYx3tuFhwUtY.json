@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 143311,
+  "num_followers": 143312,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzMxNjg4Y2VjODk2MWM2YTBmNjExZmY4ZjJjOGI2N2RjYjlhMjA1",
+  "snapshot_id": "MCwxYTU4YzkzZGM0MmU3OGMyNmEzOGE2NDY3MDY4M2RlMTFjZTMwN2Q0",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
         }
       ],
-      "duration_ms": 356946,
-      "name": "Apocalypse Dreams",
-      "url": "https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc"
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
       "artists": [
         {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 185276,
-      "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
+      "duration_ms": 356946,
+      "name": "Apocalypse Dreams",
+      "url": "https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Glitra",
-        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
-      },
-      "artists": [
-        {
-          "name": "Brijs",
-          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Mol y Sol",
-      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Just Enough Hip to Be Woman",
         "url": "https://open.spotify.com/album/1YZo1LnGe8GoT0mCbQ5R8J"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 212236,
       "name": "Class Historian",
       "url": "https://open.spotify.com/track/73i6MgP5CKhhnZ69Go6u2X"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Glitra",
+        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
+      },
+      "artists": [
+        {
+          "name": "Brijs",
+          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Mol y Sol",
+      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "All Comes Crashing",
-        "url": "https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "All Comes Crashing",
-      "url": "https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 233146,
       "name": "Creep in a T-Shirt",
       "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "All Comes Crashing",
+        "url": "https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "All Comes Crashing",
+      "url": "https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Walkman",
-        "url": "https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY"
-      },
-      "artists": [
-        {
-          "name": "Bad Bad Hats",
-          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Detroit Basketball",
-      "url": "https://open.spotify.com/track/4rIRYYplwlYNXwX8qqaWdY"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Carrion Crawler / The Dream",
         "url": "https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 412040,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Walkman",
+        "url": "https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY"
+      },
+      "artists": [
+        {
+          "name": "Bad Bad Hats",
+          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Detroit Basketball",
+      "url": "https://open.spotify.com/track/4rIRYYplwlYNXwX8qqaWdY"
     },
     {
       "added_at": "2023-10-23 19:19:23",

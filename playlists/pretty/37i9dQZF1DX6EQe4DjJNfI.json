@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 165971,
+  "num_followers": 165988,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWFlMGUyMTM1MGZlMjQ3ODU5YzQ0MzIxYTM3N2E5M2U2NWJiMjVm",
+  "snapshot_id": "MCwwZjQyZjMwYjI0YzQ3ZTg5NTA4MjNhYmU0ZDQxZjQ3MTlmNDhjZmJi",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Cad\u00ea Aquele Nosso Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/422sUCkF4qs7gOImkoBhBw"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "SEM BARULHO",
         "url": "https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 162711,
       "name": "SEM BARULHO",
       "url": "https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Guias e Ondas, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Cad\u00ea Aquele Nosso Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/422sUCkF4qs7gOImkoBhBw"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Faz Arrepiar",
         "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
       "artists": [
         {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
         }
       ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -843,22 +859,6 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
-      },
-      "artists": [
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Lingerie Branca",
         "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 239029,
       "name": "Lingerie Branca",
       "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Redial",
+        "url": "https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 244705,
+      "name": "Redial",
+      "url": "https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Corro Atr\u00e1s",
         "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 141714,
       "name": "Santa Melanina",
       "url": "https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Redial",
-        "url": "https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 244705,
-      "name": "Redial",
-      "url": "https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC"
     },
     {
       "added_at": "2023-12-15 03:01:00",

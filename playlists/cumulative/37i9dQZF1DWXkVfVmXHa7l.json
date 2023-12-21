@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Yugure no Tori",
+        "url": "https://open.spotify.com/album/3vAE7LvsQeu0JYpwmyGrZO"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304266,
+      "name": "Yugure no Tori",
+      "url": "https://open.spotify.com/track/6owPhBDQ7yiDOR4PoDza3I"
+    },
+    {
+      "album": {
         "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
         "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
       },
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 304266,
       "name": "\u5915\u66ae\u308c\u306e\u9ce5",
       "url": "https://open.spotify.com/track/79xW4zeNFlcp5VKyvWk3cC"

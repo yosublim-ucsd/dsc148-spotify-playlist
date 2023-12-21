@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,337 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,349 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 136 | [The Last Goodbye](https://open.spotify.com/track/7D1ONerlSPQOpq1EfV84uU) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 3:39 |
 | 137 | [Dime](https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Dime](https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ) | 2:48 |
 | 138 | [Hat Trick](https://open.spotify.com/track/02Y5afO1mCHxKp9ozmBv1Q) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:49 |
-| 139 | [Talking Dirty](https://open.spotify.com/track/1bCdntYo52BzYMP7s38dQp) | [Bonkers Beat Club](https://open.spotify.com/artist/2NT86Nm7sNQwakG7N0Url3) | [Drippin](https://open.spotify.com/album/4g8T9QR3asXXB9RLTNyMP9) | 3:34 |
+| 139 | [Talking Dirty](https://open.spotify.com/track/1bCdntYo52BzYMP7s38dQp) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Drippin](https://open.spotify.com/album/4g8T9QR3asXXB9RLTNyMP9) | 3:34 |
 | 140 | [05:00AM JUNGLE CHASE](https://open.spotify.com/track/24Khki7bV2D9aqHqJt1Wzt) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [LOVE REVOLUTION](https://open.spotify.com/album/1TnfqP8TNRa2FtCNBXJHnl) | 3:35 |
 | 141 | [Kith](https://open.spotify.com/track/7aHdqt74mSDldMC6pbQcNv) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [Colt](https://open.spotify.com/album/29JeAsTyeysxFx6v21v8N8) | 5:36 |
 | 142 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCxjODA5ODI1ODI1OTIyOGM5MTk0ODMyMmVlYWRiOWQ5NGEwY2NhZDFk`
+Snapshot ID: `MCxlNjY5MWFiNDgyODA0NTZhODY4MGYxYjgxMGYyZDUwNzFlMzEyYmZi`

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Yoly Saa.",
-  "num_followers": 119600,
+  "num_followers": 119641,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGNmMGRjYmM2NGViMTdhNTNlNmZjZDliNWUyNjE3NTZmMjcxNmIz",
+  "snapshot_id": "MCwyYWE1M2I4M2MzMDY5YmJiYTdkZGIzYzg1ZTJlOTM1Y2EwM2RhOTM5",
   "tracks": [
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-12-15 09:56:27",
       "album": {
+        "name": "Los versos s\u00e1ficos",
+        "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
+      },
+      "artists": [
+        {
+          "name": "Christina Rosenvinge",
+          "url": "https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp"
+        },
+        {
+          "name": "Maria Arnal",
+          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+        }
+      ],
+      "duration_ms": 214823,
+      "name": "Canci\u00f3n de boda",
+      "url": "https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
         "name": "Tab\u00fa",
         "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
       },
@@ -1327,6 +1347,22 @@
       "duration_ms": 244251,
       "name": "Tab\u00fa",
       "url": "https://open.spotify.com/track/6UJg0mVgXgQCDFOmi3lem6"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
     },
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1363,22 +1399,6 @@
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
     },
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1483,26 +1503,6 @@
       "duration_ms": 245593,
       "name": "Fui y Volv\u00ed",
       "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
-        "name": "Los versos s\u00e1ficos",
-        "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
-      },
-      "artists": [
-        {
-          "name": "Christina Rosenvinge",
-          "url": "https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp"
-        },
-        {
-          "name": "Maria Arnal",
-          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
-        }
-      ],
-      "duration_ms": 214823,
-      "name": "Canci\u00f3n de boda",
-      "url": "https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd"
     },
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-12-15 09:56:27",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx"
       },
@@ -1771,42 +1787,6 @@
     {
       "added_at": "2023-12-15 09:56:27",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
-        "name": "A volar (feat. Lido Pimienta)",
-        "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "A volar (feat. Lido Pimienta)",
-      "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/6QMUy7rnNwnnbw0lW9faxW"
       },
@@ -1819,6 +1799,22 @@
       "duration_ms": 233000,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/6gofHPVdi4rGKuxHEbFPNR"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 202610,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
     }
   ],
   "unique_name": "Cancionistas",

@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 268500,
       "name": "Music for the Future",
       "url": "https://open.spotify.com/track/3HZfbuTw5JLEv4z94rl7U7"
@@ -4650,6 +4650,24 @@
       "duration_ms": 309448,
       "name": "September Remember",
       "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
+    },
+    {
+      "album": {
+        "name": "Heptology",
+        "url": "https://open.spotify.com/album/6yug22Af8Vlx3LnyYf7m1I"
+      },
+      "artists": [
+        {
+          "name": "The Sonny Downs Quartet",
+          "url": "https://open.spotify.com/artist/6jwB5YhlRP0G2HOtVuVYyL"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272822,
+      "name": "Seven Wagons",
+      "url": "https://open.spotify.com/track/2GNWIaKQj6TnP3853Bxywc"
     },
     {
       "album": {

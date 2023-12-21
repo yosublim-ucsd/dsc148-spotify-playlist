@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2050522,
+  "num_followers": 2050523,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQzNzEsZWJmY2U5ODRkZDUzMTE5MDZiNzNlYjg4ZDI0ZmJlMDEwYWNjNDIwZg==",
+  "snapshot_id": "MTQzNzMsYzVkNDY2NThjZTM5OWMwNTU2N2Q3NTViYWVkYzRhYTlkYWY4MTgxYw==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -1635,6 +1635,22 @@
       "duration_ms": 204137,
       "name": "SO HIGH",
       "url": "https://open.spotify.com/track/4iru4THOvnPBJMBwvrUDPS"
+    },
+    {
+      "added_at": "2023-12-20 18:18:09",
+      "album": {
+        "name": "MEMORIES",
+        "url": "https://open.spotify.com/album/3OcFH1JOwlsAbfE8Wa1n3d"
+      },
+      "artists": [
+        {
+          "name": "Lonelium",
+          "url": "https://open.spotify.com/artist/44PzGo9Hd4z0IM9m3SKiER"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "MEMORIES",
+      "url": "https://open.spotify.com/track/23yu2PNJqwWkKaImswPvub"
     },
     {
       "added_at": "2023-12-01 20:34:47",

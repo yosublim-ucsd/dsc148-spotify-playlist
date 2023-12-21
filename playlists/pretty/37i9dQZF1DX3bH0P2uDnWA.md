@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,701 likes - 148 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,729 likes - 148 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 4 | [Take a Chance](https://open.spotify.com/track/2ERX8OsW2XCm5OoctkbHqF) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Sarah Myers](https://open.spotify.com/artist/5lSNVCx1AOhPmWCwJWVcUO) | [Take a Chance](https://open.spotify.com/album/7C7UxHKdKurxaXT0ad97ua) | 3:32 |
 | 5 | [In the Pub](https://open.spotify.com/track/4b4z3GQPXfoeL2Yj0TVngR) | [MVTRIIIX](https://open.spotify.com/artist/6GLNZ4AhvB6M0JkT9Zjw16) | [Yearning](https://open.spotify.com/album/0el4P0rtIJ46J1Vfceel3r) | 2:16 |
 | 6 | [Sway \- Swing House Mix](https://open.spotify.com/track/2Y6dVNYKzjDoc5gvPDHxFV) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW) | [Sway \(Swing House Mix\)](https://open.spotify.com/album/03MiXrCnXuM5zgfkTDnnR7) | 2:30 |
-| 7 | [Lone Digger](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:49 |
+| 7 | [Lone Digger](https://open.spotify.com/track/6Ntz1uQoMF8L2E4w518BFp) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/5a9UEwUEN7LsTsRXWPOQtC) | 3:49 |
 | 8 | [100](https://open.spotify.com/track/6m4ftKNtuB9zPqdSXAYBLt) | [Elle & The Pocket Belles](https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt) | [100](https://open.spotify.com/album/0HSY1fiyh4S76MHLeuMuf3) | 3:10 |
 | 9 | [Volare \- Electro Swing Mix](https://open.spotify.com/track/5lW4pCHSVtDn1qzgbnQKCq) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Free Shots](https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf), [Theo Rem](https://open.spotify.com/artist/3DXuyxvbEJUPx2TCdrsyM6) | [Volare \(Electro Swing Mix\)](https://open.spotify.com/album/4JUPAhkkvMDPOz1hUoMyfQ) | 3:23 |
 | 10 | [Jukebox \- Klischée Remix](https://open.spotify.com/track/04YDvAAexHrUDKXYGXdOWA) | [Tarmac Rodéo](https://open.spotify.com/artist/3PIvA0wLyZcwc780QVTeud), [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Jukebox \(Klischée Remix\)](https://open.spotify.com/album/4rCi9v4xoOHCbtgwovWtS5) | 3:19 |
 | 11 | [Everybody \- Electro Swing Mix](https://open.spotify.com/track/6NOeBomPPFW0VCiSRfdbg8) | [The Lost Fingers](https://open.spotify.com/artist/6sp0EZC05wbJUlY1h8oOUc), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Everybody \(Electro Swing Mix\)](https://open.spotify.com/album/6pb9CiKO2Bmhfh5DeGoTzS) | 3:39 |
 | 12 | [Feel so Happy \- Bbop Future Swing Remix](https://open.spotify.com/track/7adN8Av6zDGZN3CXmzuSYQ) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF), [Bbop](https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII) | [Feel so Happy \(Bbop Future Swing Remix\)](https://open.spotify.com/album/29QeRv4KV3EJsIEaed2nx2) | 2:41 |
-| 13 | [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 |
+| 13 | [Black Betty](https://open.spotify.com/track/18WzUm7C5zIco4EvaFIszy) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty](https://open.spotify.com/album/2XJV4GQPAiBVqS1MPSiEo8) | 3:09 |
 | 14 | [Still Dancing](https://open.spotify.com/track/39R88egli2YgXq1omv1Io7) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Still Dancing](https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3) | 3:18 |
 | 15 | [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/29K8K3iI82HwRSJZmcIhhQ) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/55PsgqZ0zgrP0xJmKx8ZrR) | 2:18 |
 | 16 | [Friend Like Me \- Electro Swing Mix](https://open.spotify.com/track/1O3RcayIzF1Ng6H9XMGwNq) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Friend Like Me \(Electro Swing Mix\)](https://open.spotify.com/album/3JAdcQ8GFH43mvbfkISLpK) | 2:58 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 147 | [Topsy at the Top](https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Topsy at the Top](https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm) | 4:20 |
 | 148 | [Light](https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Light](https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn) | 3:08 |
 
-Snapshot ID: `MCwwYWU3ZGIzZGM0ZGQ5ZjdkMDk3ODdiNmMyMTc2MDE4N2YxOTcwYWQ4`
+Snapshot ID: `MCwzM2UxNmYyMTZkYTVlYmViNGY3ZWI5ZmQwYTU1MDI5MDVkMzA2OGQ5`

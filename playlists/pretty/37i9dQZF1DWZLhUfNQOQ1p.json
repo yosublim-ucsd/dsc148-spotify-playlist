@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un Negroni in mano. \ud83c\udf79",
-  "num_followers": 249954,
+  "num_followers": 249963,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODIxMWFkNDdjNjFkMjBlOWE2YzVkNzM3MzJjMWU1NjUwOWUwYWJj",
+  "snapshot_id": "MCw3NThlN2ZjNzQzNjRiMTQxYTM3M2YyNDQxMTRkYmU5YjZiYTY0M2Y5",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+        "name": "Restless Bones",
+        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
       },
       "artists": [
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 207373,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
+      "duration_ms": 145573,
+      "name": "Restless Bones",
+      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Restless Bones",
-        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 145573,
-      "name": "Restless Bones",
-      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
+      "duration_ms": 207373,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 398150,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Need a Hit",
         "url": "https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 233200,
       "name": "Need a Hit",
       "url": "https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 398150,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Stay With You",
-        "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Stay With You - Radio Version",
-      "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Leave My Home",
         "url": "https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 221890,
       "name": "Leave My Home",
       "url": "https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Stay With You",
+        "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Stay With You - Radio Version",
+      "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/55NADInZR3P0WdgcEBWoDE"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 204344,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/1hRTVpNilLWj2un5mlKUjh"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Needledrop",
         "url": "https://open.spotify.com/album/0KynfLw1af32baSTI7UO6z"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 167055,
       "name": "Bad Weather Mates",
       "url": "https://open.spotify.com/track/23cRw4Pyt2rJQznlFEnPGs"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/55NADInZR3P0WdgcEBWoDE"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 204344,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/1hRTVpNilLWj2un5mlKUjh"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "She's Just the Type of Girl",
-        "url": "https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "dreamcastmoe",
-          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
-        }
-      ],
-      "duration_ms": 161652,
-      "name": "She's Just the Type of Girl",
-      "url": "https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 186173,
       "name": "WestBorn",
       "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "She's Just the Type of Girl",
+        "url": "https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        }
+      ],
+      "duration_ms": 161652,
+      "name": "She's Just the Type of Girl",
+      "url": "https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc"
     }
   ],
   "unique_name": "Aperitivo Time",

@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 216986,
       "name": "Demain",
       "url": "https://open.spotify.com/track/1gyWKoHQbbv9HBZa4UD2Gd"
@@ -4618,6 +4618,24 @@
       "duration_ms": 157837,
       "name": "QLT",
       "url": "https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT"
+    },
+    {
+      "album": {
+        "name": "Hiver 365",
+        "url": "https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB"
+      },
+      "artists": [
+        {
+          "name": "Nefaste",
+          "url": "https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Qu'est-ce tu veux qu'j'te dise?",
+      "url": "https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s"
     },
     {
       "album": {

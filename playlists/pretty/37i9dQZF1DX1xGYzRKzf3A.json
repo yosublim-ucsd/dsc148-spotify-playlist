@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 106735,
+  "num_followers": 106967,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGRlYmM1NjJjZGJhMzkzZjAyODdjOThhOTgwNGM1MjE0MzRlYjFm",
+  "snapshot_id": "MCwwZjM3YjE3ZmE1ZWEwMGM1ODdlZmMzMzU0MWFhYWZhNTgxMjlhYmY4",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Tan Bella y Tan Presumida (En Vivo)",
         "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida - En Vivo",
       "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "The Pre End Of The World Soundtrack",
         "url": "https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 194880,
       "name": "Noreste Caliente",
       "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Lenguaje Universal",
-        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 262661,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Fuera De Control",
-        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
+        "name": "Lenguaje Universal",
+        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
       },
       "artists": [
         {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 194826,
-      "name": "Cumbia Del Sol",
-      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
+      "duration_ms": 262661,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1151,6 +1135,22 @@
       "duration_ms": 224182,
       "name": "Lejan\u00eda",
       "url": "https://open.spotify.com/track/526efTi8StSvD9I7P2K5UQ"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Fuera De Control",
+        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Cumbia Del Sol",
+      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Estan De Moda",
-        "url": "https://open.spotify.com/album/1Fkn6Cz8jObUYOeDqk7OMQ"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 285600,
-      "name": "Quien Perdera",
-      "url": "https://open.spotify.com/track/6UsPWRpytDo7qZUzqxO4fA"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Lo Mejor de Mi Vida",
         "url": "https://open.spotify.com/album/7IZzYkfoO1am9oUyNZK7fp"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 224333,
       "name": "Lo Mejor de Mi Vida",
       "url": "https://open.spotify.com/track/5SVXxIPttTS33BSphXn7Dv"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Estan De Moda",
+        "url": "https://open.spotify.com/album/1Fkn6Cz8jObUYOeDqk7OMQ"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Quien Perdera",
+      "url": "https://open.spotify.com/track/6UsPWRpytDo7qZUzqxO4fA"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Volumen Prohibido",
+        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Mery Dee",
+          "url": "https://open.spotify.com/artist/5yblAek4RTiHCKHuoQQckF"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Cheka Wey (feat. Mery Dee)",
+      "url": "https://open.spotify.com/track/1bzDPMw8W5Km5g94WHRefd"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 209440,
       "name": "Insomnio",
       "url": "https://open.spotify.com/track/179kBZK7Vil0uCDJDewswz"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Volumen Prohibido",
-        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Mery Dee",
-          "url": "https://open.spotify.com/artist/5yblAek4RTiHCKHuoQQckF"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Cheka Wey (feat. Mery Dee)",
-      "url": "https://open.spotify.com/track/1bzDPMw8W5Km5g94WHRefd"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Por El Mundo",
-        "url": "https://open.spotify.com/album/6t0JkXAwiSnIamjMWUDAwx"
-      },
-      "artists": [
-        {
-          "name": "Vallenatos De La Cumbia",
-          "url": "https://open.spotify.com/artist/5t77bXrErzIDWoU6cHwdEX"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Sal Y Agua",
-      "url": "https://open.spotify.com/track/3ySiLPf1YPmIPvtxRRoXIY"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 193453,
       "name": "No Tengo Amigos",
       "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Por El Mundo",
+        "url": "https://open.spotify.com/album/6t0JkXAwiSnIamjMWUDAwx"
+      },
+      "artists": [
+        {
+          "name": "Vallenatos De La Cumbia",
+          "url": "https://open.spotify.com/artist/5t77bXrErzIDWoU6cHwdEX"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Sal Y Agua",
+      "url": "https://open.spotify.com/track/3ySiLPf1YPmIPvtxRRoXIY"
     },
     {
       "added_at": "2023-11-08 22:38:29",

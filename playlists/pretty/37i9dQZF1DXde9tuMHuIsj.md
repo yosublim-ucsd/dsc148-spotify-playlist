@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,645 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,673 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 82 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 |
 | 83 | [Invicta](https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Invicta](https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH) | 4:00 |
 | 84 | [Mention](https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra 2](https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ) | 3:03 |
-| 85 | [Merlina](https://open.spotify.com/track/6Ai42oZmF5kTfs8eGUpsmc) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Trap or Ween](https://open.spotify.com/album/2LfYNX1oJszU5Ua1Trj2G2) | 3:26 |
-| 86 | [Madrid](https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Madrid](https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3) | 2:57 |
+| 85 | [Madrid](https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Madrid](https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3) | 2:57 |
+| 86 | [Merlina](https://open.spotify.com/track/6Ai42oZmF5kTfs8eGUpsmc) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Trap or Ween](https://open.spotify.com/album/2LfYNX1oJszU5Ua1Trj2G2) | 3:26 |
 | 87 | [2seater](https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [2seater](https://open.spotify.com/album/4AwJRkBFfYW4gtR4hD00A0) | 2:41 |
 | 88 | [Super Gremlin \- El Diablo Mix](https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Super Gremlin \(El Diablo Mix\)](https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe) | 3:59 |
 | 89 | [Hoodie](https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hoodie](https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Gang Affiliated](https://open.spotify.com/track/6CowfoUU9CHy8oikWW0FYa) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn) | [Gang Affiliated](https://open.spotify.com/album/2G2ee9kBGHYeydVSKFMAUY) | 3:00 |
 | 100 | [Liberty](https://open.spotify.com/track/2I09MRMQaIY8LyiOXmVY1t) | [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Liberty](https://open.spotify.com/album/1cRgGJpaJdRaDa6xl9srDU) | 3:38 |
 
-Snapshot ID: `MCxkODBiMDI3ZDU2NDNkYzM4ZmUwNzU3NDk4OWI4NTUxNjZiMThkMzEy`
+Snapshot ID: `MCxhYjY1ODFlY2MxYjVkYWZhYzM4MGQyODMzMWM1NTY4MmU4NDMwOTc1`

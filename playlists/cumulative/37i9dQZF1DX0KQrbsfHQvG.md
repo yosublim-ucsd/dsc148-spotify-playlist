@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-154 songs - 8 hr 46 min
+155 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Can't Deny Me](https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Can't Deny Me](https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV) | 2:43 | 2022-07-01 |  |
 | [Capital G](https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Year Zero](https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN) | 3:49 | 2020-08-19 |  |
 | [Darkside](https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 2](https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq) | 3:49 | 2020-08-19 |  |
+| [digging for windows](https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb) | [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [digging for windows](https://open.spotify.com/album/0wxjAXRBHD6DgZ2Tfj5Oj8) | 3:31 | 2023-06-23 |  |
 | [digging for windows](https://open.spotify.com/track/1sdBPiPEKm2OHKybnx3wnA) | [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [digging for windows](https://open.spotify.com/album/0qSXfPoHz4ZfOz8ixOTSxX) | 3:31 | 2022-07-01 | 2022-07-06 |
 | [digging for windows](https://open.spotify.com/track/6JlUROBrL9EdYP6lGDdBM5) | [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [digging for windows](https://open.spotify.com/album/37kKroQgkSCkaB9sHMvcDG) | 3:31 | 2022-07-01 | 2023-12-11 |
 | [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Dirty](https://open.spotify.com/album/2O6i9surGnW91oOcoucyNI) | 3:28 | 2020-09-23 | 2022-11-14 |
@@ -51,7 +52,7 @@
 | [Election Year, Pt\. 1](https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year, Pt\. 1](https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT) | 4:08 | 2020-09-18 | 2022-07-28 |
 | [Feed the Pressure](https://open.spotify.com/track/4VeMp9BOspHpUEiD3SMww0) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Feed the Pressure](https://open.spotify.com/album/0q31Sx2CEYhhUwX4eZZIad) | 2:58 | 2020-10-30 | 2022-07-18 |
 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 | 2020-08-19 |  |
-| [Forever](https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Forever](https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m) | 2:51 | 2020-08-19 |  |
+| [Forever](https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Forever](https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m) | 2:51 | 2020-08-19 | 2023-12-21 |
 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 | 2020-08-19 |  |
 | [Give In](https://open.spotify.com/track/1PnpENYXi7nYMRsJq6nU3k) | [NEW LANGUAGE](https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL) | [Give In](https://open.spotify.com/album/6o1EM7uwLSqveoOTmvaAwL) | 3:28 | 2020-08-19 | 2022-07-29 |
 | [Go to War](https://open.spotify.com/track/5QurHLKbBbc7h6keRqhTpc) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Go to War](https://open.spotify.com/album/3YIBazKSFKwGjV4MdbBRWQ) | 4:05 | 2020-08-19 | 2022-07-29 |

@@ -1073,6 +1073,28 @@
     },
     {
       "album": {
+        "name": "GG Astral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153237,
+      "name": "Toma - Ao Vivo",
+      "url": "https://open.spotify.com/track/5lOHHtPiIEotQp8oCMoEp0"
+    },
+    {
+      "album": {
         "name": "Um P\u00f4r do Sol Na Praia",
         "url": "https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO"
       },

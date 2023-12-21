@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,699 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,711 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 59 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 |
 | 60 | [Whitehouse Blues](https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Bluegrass Blues](https://open.spotify.com/album/6LUb06ZNMDASuDgD6sHisX) | 1:39 |
 
-Snapshot ID: `MCwwNjNlNTNiNjIyMGJhZTQwMmI1OTg4ZTNhOWVkYTdkNTc0NTBiNzQ3`
+Snapshot ID: `MCwwYWQ2NmZiYzQwN2JmODNhOGViNjRjNTI0N2E3MzA0OTI3MzcxMjNh`

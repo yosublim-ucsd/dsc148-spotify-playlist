@@ -1,29 +1,13 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13078,
+  "num_followers": 13083,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTRmOWVhN2Q0NzY0MTViYjAzZTA3MzMwMTBkYzZkOWZkYzU3NDA0",
+  "snapshot_id": "MCw1OGU3YTI4ZDA5ZTc0ZTQ2ZmE4MDFlZjFlYWY2ZjZiYWFjMmQ1MDM5",
   "tracks": [
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "instagram",
-        "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 255728,
-      "name": "instagram",
-      "url": "https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN"
-    },
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 229989,
       "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
       "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "instagram",
+        "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 255728,
+      "name": "instagram",
+      "url": "https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -119,6 +119,26 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "I Need A Girl (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Every letter I sent you.",
         "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 308186,
       "name": "Memory Of The Wind",
       "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "I Need A Girl (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -259,6 +259,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "I Want To Fall In Love",
+        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
+      },
+      "artists": [
+        {
+          "name": "Johan Kim",
+          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+        }
+      ],
+      "duration_ms": 232544,
+      "name": "I Want To Fall In Love",
+      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 233003,
       "name": "Maybe It\u2019s Not Our Fault",
       "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "I Want To Fall In Love",
-        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
-      },
-      "artists": [
-        {
-          "name": "Johan Kim",
-          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
-        }
-      ],
-      "duration_ms": 232544,
-      "name": "I Want To Fall In Love",
-      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Solar International",
-        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
-      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "SOFA",
         "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 229573,
       "name": "SOFA",
       "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -439,24 +439,8 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
       },
       "artists": [
         {
@@ -464,9 +448,25 @@
           "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         }
       ],
-      "duration_ms": 191793,
-      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
-      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
+      "duration_ms": 240920,
+      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
+      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 263644,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -503,22 +503,6 @@
       "duration_ms": 192630,
       "name": "Just",
       "url": "https://open.spotify.com/track/2QG6SmPx2pBkZiKjT70piL"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 263644,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -587,6 +571,54 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
+        "url": "https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN"
+      },
+      "artists": [
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 261276,
+      "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
+      "url": "https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
+      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -603,22 +635,6 @@
       "duration_ms": 222860,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
-        "url": "https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 261276,
-      "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
-      "url": "https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -671,42 +687,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 218886,
-      "name": "Whatever You Do",
-      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "\uc815\uc778 Jung In from Andromeda",
         "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
       },
@@ -739,22 +719,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "\uc5b4\ub5a4\uac00\uc694",
-      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
       },
@@ -767,6 +731,42 @@
       "duration_ms": 210293,
       "name": "With Me",
       "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 218886,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "\uc5b4\ub5a4\uac00\uc694",
+      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Soul Saver",
-        "url": "https://open.spotify.com/album/6V7Zn81u8khI9AuIOPl6Ea"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 291212,
-      "name": "\ub2f9\uc2e0\uacfc\uc758 \ud0a4\uc2a4\ub97c \uc138\uc5b4\ubcf4\uc544\uc694",
-      "url": "https://open.spotify.com/track/0viqY0AIdDs4N8KxU4wDs2"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "2nd",
         "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 249106,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "It's Unique",
+        "url": "https://open.spotify.com/album/38nBVXCPRp1GS5mRu8MabS"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 277746,
+      "name": "\uc5ec\uc790",
+      "url": "https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

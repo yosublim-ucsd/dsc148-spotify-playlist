@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits de la electrónica en el 2023!
 
-310 songs - 15 hr 25 min
+311 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Alive](https://open.spotify.com/track/3ijMfK5xwJTDdeyJp72mPM) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Alive](https://open.spotify.com/album/7BnjJ7fmbHiehY8WjwoKs9) | 3:50 | 2021-10-22 | 2022-07-29 |
 | [Alone](https://open.spotify.com/track/2y0W59c6wUGIJ6astaUNcQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Apophis](https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK) | [Alone](https://open.spotify.com/album/5ZJDxWchW5jtfDJlnj9CKC) | 3:20 | 2021-10-22 | 2023-11-18 |
 | [Alors On Danse \- DubDogz Remix](https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Alors On Danse \(DubDogz Remix\)](https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p) | 2:48 | 2021-10-22 |  |
-| [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 | 2022-08-09 |  |
+| [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 | 2022-08-09 | 2023-12-21 |
+| [Amiga Mía](https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU) | 3:40 | 2023-11-16 |  |
 | [Another Life \(feat\. Alida\)](https://open.spotify.com/track/0NWVFwJxCMjBdTOCePlQdl) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Another Life \(feat\. Alida\)](https://open.spotify.com/album/1nRhHxZcQ3a5c23LdVTn7N) | 3:32 | 2021-10-22 | 2022-02-23 |
 | [Anywhere With You](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ) | 2:38 | 2022-03-11 | 2023-02-14 |
 | [Anywhere With You](https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl) | 2:38 | 2022-02-22 | 2022-07-29 |

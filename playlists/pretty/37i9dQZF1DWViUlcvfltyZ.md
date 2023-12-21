@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: OMINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,022 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,020 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 59 | [Eye of the Day](https://open.spotify.com/track/3M5zmqmD9yjsi9QuDNIWGk) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:11 |
 | 60 | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 |
 
-Snapshot ID: `MCw2MGYxMGFmNTk1YWQ0ZWFhNWZlMGYzMTcwZWUwNTFhYmE5ZGQ5Mjhm`
+Snapshot ID: `MCw3ZjAyNGFlOTljODBmMWQ2Y2Y1MDE0ZjliYmE2YjU3OTBkODIxOTMy`

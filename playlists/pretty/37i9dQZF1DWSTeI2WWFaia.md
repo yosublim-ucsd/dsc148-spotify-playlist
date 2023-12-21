@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mark Battles
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,608 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,620 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 48 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |
 | 49 | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O) | 2:51 |
 
-Snapshot ID: `MCw5NGQ1YjZhNTA4Nzc4NGRlZTNiNTljMjUyNTdjMDI4ZTE0OTY0MmRi`
+Snapshot ID: `MCxjODJjZDAxNmU5Nzc0NjQ1YTY5NjFjYTEwMWVmYjM3MzkyMWYyNTdh`

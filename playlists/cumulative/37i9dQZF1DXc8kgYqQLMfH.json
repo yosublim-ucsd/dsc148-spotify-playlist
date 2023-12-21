@@ -10008,7 +10008,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 135468,
       "name": "Leon",
       "url": "https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN"
@@ -19040,6 +19040,24 @@
       "duration_ms": 131277,
       "name": "Topics n things",
       "url": "https://open.spotify.com/track/3fM2ycK3tZBGIX1w115Ie4"
+    },
+    {
+      "album": {
+        "name": "Tornado By The Fire",
+        "url": "https://open.spotify.com/album/31Fss9essrGr7FRVX0oW9P"
+      },
+      "artists": [
+        {
+          "name": "Liam Jones",
+          "url": "https://open.spotify.com/artist/2XkWxaUYf6dO49IWb63OC8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140824,
+      "name": "Tornado By The Fire",
+      "url": "https://open.spotify.com/track/5KS0pPwHKZz5tStdFQrXAv"
     },
     {
       "album": {

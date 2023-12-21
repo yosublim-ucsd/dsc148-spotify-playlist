@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CVLTE
 
-227 songs - 13 hr 6 min
+229 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Blood in blue](https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Blood in blue](https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx) | 2:45 | 2023-10-17 |  |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2023-07-20 | 2023-11-22 |
 | [Bloom](https://open.spotify.com/track/360qOFQEAvNatJD65tMehi) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:50 | 2023-07-20 | 2023-12-08 |
+| [Bloom](https://open.spotify.com/track/6zg3qFNuaEbl5pxKquLu7a) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS) | 3:50 | 2023-12-19 |  |
 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 | 2023-07-20 |  |
 | [Breakout](https://open.spotify.com/track/18khd1ouJWDsrs6pO9V1Oq) | [the twenties](https://open.spotify.com/artist/23d14imdoUIYJcQS1KgpPO), [タナカユーキ](https://open.spotify.com/artist/0Ty8GKQtnU6sZ5HSmilIy8) | [Breakout](https://open.spotify.com/album/68f3SfrCWSwwts0jGLH2DW) | 3:14 | 2023-11-21 | 2023-12-13 |
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-03 |  |
@@ -68,7 +69,7 @@
 | [HiDE and SEEK](https://open.spotify.com/track/2b1DGuCTkavcf22pnv7J1X) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HiDE and SEEK](https://open.spotify.com/album/5e4gJZl8oBksBmBmLvM7b3) | 3:37 | 2023-08-08 | 2023-08-23 |
 | [HiDE and SEEK](https://open.spotify.com/track/6PPjUuBlAKwx1V2a74EICX) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/0mPlC0jXRvXDqCyUt5VI2b) | 3:37 | 2023-08-08 | 2023-08-10 |
 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2023-07-20 | 2023-12-08 |
-| [Hyperhell](https://open.spotify.com/track/1NgQvI5UhPKnqSS2f5eQoF) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [Hyperhell](https://open.spotify.com/album/7FwB8j1LLXMbkoYxfy3TuN) | 2:41 | 2023-07-20 |  |
+| [Hyperhell](https://open.spotify.com/track/1NgQvI5UhPKnqSS2f5eQoF) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [Hyperhell](https://open.spotify.com/album/7FwB8j1LLXMbkoYxfy3TuN) | 2:41 | 2023-07-20 | 2023-12-21 |
 | [I Don't Know\(Re\)](https://open.spotify.com/track/1gvFijuYRt1JHJsvyIX9Zo) | [Kill The Gossip](https://open.spotify.com/artist/536HIHYj6SspezuJFoFHmo) | [I Don't Know\(Re\)](https://open.spotify.com/album/340gjdOAYulMtGDP3kyvTI) | 2:36 | 2023-07-20 | 2023-08-16 |
 | [i don't wanna be](https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [i don't wanna be](https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh) | 3:36 | 2023-10-03 |  |
 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-10 |  |
@@ -140,7 +141,8 @@
 | [Risin'](https://open.spotify.com/track/1lAnhwKFShmu4T0QniMKbe) | [PRAY FOR ME](https://open.spotify.com/artist/1kSsu9AQF5hSdLgkWFbmtF) | [Risin'](https://open.spotify.com/album/6icSqeefzGTW6V8Mqk1BN6) | 1:17 | 2023-08-15 | 2023-08-25 |
 | [ROAR](https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [ROAR](https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn) | 3:23 | 2023-10-05 | 2023-11-22 |
 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 | 2023-10-03 |  |
-| [Run](https://open.spotify.com/track/6sPC05thY2Yw0PCX9pOQKH) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Run](https://open.spotify.com/album/6VyKCu5YNdH5DjQ0OmHwRo) | 3:17 | 2023-12-19 |  |
+| [Run](https://open.spotify.com/track/0qGMiFAWCcYHLqH8pXO2bh) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Run](https://open.spotify.com/album/2xZsO0ZevuTrehe87zAdS3) | 3:17 | 2023-12-19 |  |
+| [Run](https://open.spotify.com/track/6sPC05thY2Yw0PCX9pOQKH) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Run](https://open.spotify.com/album/6VyKCu5YNdH5DjQ0OmHwRo) | 3:17 | 2023-12-19 | 2023-12-21 |
 | [R★STAR](https://open.spotify.com/track/786JuYz9Shz9pYpn0B8bdn) | [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [MOON](https://open.spotify.com/artist/6r5W7XKP7KNzxUby9XNzQd) | [R★STAR](https://open.spotify.com/album/25TmtkdwNibjDI9RcnFzCQ) | 3:07 | 2023-07-20 | 2023-08-25 |
 | [Sad Dream](https://open.spotify.com/track/1tBmgjH2QLQEAZOCNlizgH) | [UNDEAD CORPORATION](https://open.spotify.com/artist/6fKT4n1tGdjiH5RwNRQuTf) | [Flash Back](https://open.spotify.com/album/2KcAV6KysLCrNb2zyakHv2) | 4:26 | 2023-07-20 | 2023-11-22 |
 | [Sad Song](https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Sad Song](https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF) | 3:23 | 2023-08-22 | 2023-09-27 |

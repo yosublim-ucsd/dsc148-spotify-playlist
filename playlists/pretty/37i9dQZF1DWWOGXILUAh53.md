@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: YUQI, ALAN WALKER & JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,760 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,817 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 69 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 | 70 | [sick of myself](https://open.spotify.com/track/0uNcqssd2jsd9zhZhgLl0o) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [sick of myself](https://open.spotify.com/album/20OOBBJM61941fgjyk4e4b) | 2:21 |
 
-Snapshot ID: `MCxkZjQwNzcwZTk3YjBlMDEyY2ZiYmQ1YTMwMzgzYWJjODZjNTMxZDkz`
+Snapshot ID: `MCxlNmNiOTM0MjM2MmI5YjY5NWVhYjU5MmExY2I0NTg5NTI4NjY0NjE5`

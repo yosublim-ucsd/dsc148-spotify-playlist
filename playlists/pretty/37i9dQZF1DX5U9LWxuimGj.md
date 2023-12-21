@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Angie K
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,688 likes - 116 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,716 likes - 116 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 31 | [Cowboy Cumbia](https://open.spotify.com/track/2F9NPAeY3HVyIhzYX436Rb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Javier Molina](https://open.spotify.com/artist/2vSsnnmsA8tgIKAR13k8ZO) | [Cowboy Cumbia](https://open.spotify.com/album/7us6Gn8o5hgu8WHhLTVetn) | 4:13 |
 | 32 | [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 |
 | 33 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 |
-| 34 | [Beautiful Crazy \[Bella Locura\] \- Spanish](https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Beautiful Crazy \[Bella Locura\]](https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv) | 2:56 |
+| 34 | [Beautiful Crazy \(Bella Locura\) \- Spanish](https://open.spotify.com/track/2gQkNDrFAhpKi0vmGJro6p) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 2:56 |
 | 35 | [Se Va A Arrepentir](https://open.spotify.com/track/3tV7TCBFRB4dZ03gYwZ7Ax) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 3:18 |
 | 36 | [Crying \(Bilingual Version\)](https://open.spotify.com/track/0CYzZDqEq4O7ArwvMqzQ7B) | [Veronique Medrano](https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h) | [Crying](https://open.spotify.com/album/4vkqPJ5odJpdDKBOPV338B) | 3:17 |
 | 37 | [Wasting Your Words](https://open.spotify.com/track/6U50h1KkrYa6UQhRsjitpu) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:10 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 45 | [Someone Just Like You](https://open.spotify.com/track/3QrLq2W0y6hWgr2cgiCTRF) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP), [Aria Fenix](https://open.spotify.com/artist/2037mdH5NiUF4UrZRBh5vb) | [Someone Just Like You](https://open.spotify.com/album/74omuBW8hpg3xNNW4wy5xX) | 2:34 |
 | 46 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 |
 | 47 | [Island of Heaven](https://open.spotify.com/track/0N3chwzAmCThKkFm6Hx6Y7) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Island of Heaven](https://open.spotify.com/album/7rRPMkwHsePa5fKYfb9zOW) | 3:21 |
-| 48 | [Tennessee Whiskey \- Spanish](https://open.spotify.com/track/0VvE78qLaoWabpnU7jKo0E) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Tennessee Whiskey \(Spanglish + Spanish\)](https://open.spotify.com/album/5KLC4e2nMAmcJt9P5fE9bK) | 3:34 |
+| 48 | [Tennessee Whiskey \- Spanglish](https://open.spotify.com/track/4U33IIV3vNMxPQqiDt375f) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 3:34 |
 | 49 | [Hell in a Handbag](https://open.spotify.com/track/3e9ZP37G8w1q1v71bEpeaw) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:24 |
 | 50 | [La Prisión De Folsom \(Folsom Prison Blues\) \- Live At Folsom Prison](https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Tigres Del Norte At Folsom Prison \(Original Soundtrack/Live\)](https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q) | 3:19 |
 | 51 | [Late](https://open.spotify.com/track/6l1OCMAfxY4VjK2XXcxsbE) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:52 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 115 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 116 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 
-Snapshot ID: `MCxiOWMwMGVmZDllOGJiZTVmODUyZTA1NTBlNDY2N2M1ZTJjODJjMjRl`
+Snapshot ID: `MCxjYWRmYzY1YTU5OTBjMTg2YzdlNDA5ZDZiMDU2MmZjMjc3ODA1Njdj`

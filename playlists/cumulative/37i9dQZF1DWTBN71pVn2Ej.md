@@ -4,7 +4,7 @@
 
 > The shape of noise to come.
 
-498 songs - 1 day 4 hr 38 min
+499 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Half Zombie](https://open.spotify.com/track/1a5LKQKoIfQcVualRfj3Tl) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Half Zombie](https://open.spotify.com/album/6Kzgomzh4R4LqBRoCRlNIU) | 3:06 | 2023-12-14 |  |
 | [Halley](https://open.spotify.com/track/5Hqumcun0UcSFX8HvqSXQD) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Split](https://open.spotify.com/album/2WvEGTkP8WlvsPitQUlFQ8) | 4:04 | 2023-10-13 |  |
 | [Happy In Town](https://open.spotify.com/track/5L48Q15bVzwtpffvEMbUQW) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Vs\. The Moths…College Sessions 2001](https://open.spotify.com/album/3J5aHKE557cEKYng7szNHD) | 3:39 | 2022-10-28 | 2022-11-26 |
+| [Happy To Hide](https://open.spotify.com/track/7gr8noh4FDWKIYKqrLtGZy) | [Pile of Love](https://open.spotify.com/artist/60iCPCyahHaVV4TvJBD6mL) | [Happy To Hide](https://open.spotify.com/album/0WYjlydqLUcluHPRh0xKiO) | 3:02 | 2023-12-20 |  |
 | [Hard To Breathe](https://open.spotify.com/track/4rMyOa7oU75N4rA3mZERF0) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [I Used To Be](https://open.spotify.com/album/16Rp0EdydEECBnaNR1oSex) | 3:15 | 2023-10-27 |  |
 | [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 | 2023-05-19 | 2023-08-26 |
 | [Head First](https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Head First](https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7) | 3:32 | 2023-03-24 | 2023-06-10 |
@@ -406,7 +407,7 @@
 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 | 2023-07-20 | 2023-08-22 |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 | 2022-09-07 |
 | [Stuck](https://open.spotify.com/track/5hkgZ6ihtsF6IZr0KaYeMd) | [Oceanator](https://open.spotify.com/artist/4XUljLhCjbV8Zc6IX14Yj6) | [Stuck](https://open.spotify.com/album/49SmbwW9P7GYiQUXimkcTJ) | 3:46 | 2022-03-10 | 2022-09-07 |
-| [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 | 2023-09-29 |  |
+| [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 | 2023-09-29 | 2023-12-21 |
 | [Stuck In A Loop](https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Stuck In A Loop](https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI) | 2:53 | 2022-09-06 | 2023-04-15 |
 | [Sublimest](https://open.spotify.com/track/1pdxWrutsSXxdl1TwLJ8XA) | [Healing](https://open.spotify.com/artist/1oFMAPEoTCmYdcBBBwAxs0) | [Sublimest](https://open.spotify.com/album/7gZH4gIEJqbBKX9Ieax7Cx) | 2:59 | 2023-06-09 | 2023-07-04 |
 | [Sucka](https://open.spotify.com/track/5ncA4JJkIyrOz7TEx1C2WS) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Sucka](https://open.spotify.com/album/2PRPlRX26hrpKwO36jD3Nw) | 2:45 | 2023-05-26 | 2023-07-04 |

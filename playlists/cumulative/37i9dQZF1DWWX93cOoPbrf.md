@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2023\. El Rabbanito en portada.
 
-903 songs - 1 day 22 hr 24 min
+904 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [El Mikima](https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:36 | 2023-12-01 |  |
 | [El Moreño \- En Vivo](https://open.spotify.com/track/1SqqNXfcoLkfQNHh2FQWxG) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [El Moreño \(En Vivo\)](https://open.spotify.com/album/1HKHwVUcfGBs8ByW06cNOf) | 2:42 | 2022-10-14 | 2022-11-05 |
 | [El Morrillo](https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [El Morrillo](https://open.spotify.com/album/6KRYRynSZ3tdOHfzNtw1jd) | 2:47 | 2023-11-17 | 2023-12-09 |
-| [El MP](https://open.spotify.com/track/13r5IOgD9osfI6xlzwClPq) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51), [Los Juniors de California](https://open.spotify.com/artist/2LzpZgJG6QEj4DWRo5poNT) | [El MP](https://open.spotify.com/album/7BW3imaigDJCcQXicPsKOo) | 2:56 | 2023-12-08 |  |
+| [El MP](https://open.spotify.com/track/13r5IOgD9osfI6xlzwClPq) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51), [Los Juniors de California](https://open.spotify.com/artist/2LzpZgJG6QEj4DWRo5poNT) | [El MP](https://open.spotify.com/album/7BW3imaigDJCcQXicPsKOo) | 2:56 | 2023-12-08 | 2023-12-21 |
 | [El Muchacho y El Potro](https://open.spotify.com/track/5ijiYxbAIqCfq4ssBy7nZW) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Muchacho y El Potro](https://open.spotify.com/album/1wB94WRPaXsej2SooLtgy3) | 3:29 | 2022-12-16 | 2023-01-21 |
 | [El Nasa](https://open.spotify.com/track/1PShbghBopSm8zL8uA7PnW) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Nasa](https://open.spotify.com/album/7alGJhllK26YhAFPEuvou6) | 3:11 | 2023-04-14 | 2023-05-06 |
 | [El Nini \(El Evento de La Hidalgo\)](https://open.spotify.com/track/3O0OjtDpaePC6hebNsImv6) | [La Revancha RC](https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf), [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [El Nini \(El Evento de La Hidalgo\)](https://open.spotify.com/album/3GYaQzmdaFlR9CxDXhvJeN) | 3:09 | 2023-08-11 | 2023-11-11 |
@@ -526,6 +526,7 @@
 | [Kenwood En Los Radios \(En Vivo\)](https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Desde Culiacán Con Servando Zl \(En Vivo\)](https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg) | 3:07 | 2022-12-09 | 2023-02-04 |
 | [Kikil Caro](https://open.spotify.com/track/1hhKgDJ6LNHdUyyowg8EZX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra Y Yo](https://open.spotify.com/album/5RzfxZNDUrlruKHo1kYGq1) | 3:35 | 2023-11-24 |  |
 | [Kikil Caro \(En Vivo\)](https://open.spotify.com/track/5TrI52vvqsPzMBd2cnba1A) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Kikil Caro \(En Vivo\)](https://open.spotify.com/album/2uzlOBEAmFVA97KHRZjPOv) | 4:33 | 2023-04-07 | 2023-04-22 |
+| [Kikil Caro \- En Vivo](https://open.spotify.com/track/2oQSkBN2ug0pLvOkHqtt3J) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Kikil Caro \(En Vivo\)](https://open.spotify.com/album/029qX4UJEYEw61Hoc9LIuP) | 2:41 | 2023-12-20 |  |
 | [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 | 2023-07-10 | 2023-07-29 |
 | [La Barbie](https://open.spotify.com/track/6k3ng0apceyq91moCbqLnw) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [La Barbie](https://open.spotify.com/album/7DCK7oS1ZxuYsW49l1vb9w) | 3:18 | 2023-11-24 |  |
 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 | 2023-02-13 | 2023-11-11 |

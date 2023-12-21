@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Arpaviejas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,402 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,431 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 5 | [Ahora Me Importa una Mierda](https://open.spotify.com/track/6xbnB16jmcQP6lWbYbn2rA) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:58 |
 | 6 | [Ellos Dicen Mierda](https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ellos Dicen Mierda](https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R) | 4:39 |
 | 7 | [No Komas Keso en Exzeso](https://open.spotify.com/track/18fkVDXRuHvCYN7yZS6H74) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [La Nueva Mayoría](https://open.spotify.com/album/3A4b3Kd8gotRiLHLWbGtpr) | 1:28 |
-| 8 | [Mierda De Ciudad](https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:17 |
-| 9 | [El Pais de Alicia](https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Difícil Ser Humano](https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e) | 3:03 |
+| 8 | [El Pais de Alicia](https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Difícil Ser Humano](https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e) | 3:03 |
+| 9 | [Mierda De Ciudad](https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:17 |
 | 10 | [Mil Historias](https://open.spotify.com/track/7mElnVvJoNpmTDSPvOJMUB) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Porsupuestón](https://open.spotify.com/album/4fhyGd8qDAkvZXmDvLYixi) | 3:40 |
 | 11 | [Ni Dios Ni Amo](https://open.spotify.com/track/1ShO18HJchAPsi9gk9aMSU) | [El Noi del Sucre](https://open.spotify.com/artist/2cRU20gTiJDxjQadbtENvV) | [A Mi Manera, Vol\. 2 \(Leyendas de un Desconocido\)](https://open.spotify.com/album/2AdGLqWCfeJb4a5JQoVe6C) | 5:16 |
 | 12 | [Txus](https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Salve](https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP) | 1:43 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 51 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 |
 | 52 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 |
 | 53 | [Jimmy Jazz](https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 2:07 |
-| 54 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 |
-| 55 | [Señoras y Señores](https://open.spotify.com/track/0xyhHET6yRf0GQyEH6yexU) | [Sonotones](https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU) | [No Hay Futuro](https://open.spotify.com/album/5Evysq6CtQKeK5fCXtqCjz) | 3:31 |
+| 54 | [Señoras y Señores](https://open.spotify.com/track/0xyhHET6yRf0GQyEH6yexU) | [Sonotones](https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU) | [No Hay Futuro](https://open.spotify.com/album/5Evysq6CtQKeK5fCXtqCjz) | 3:31 |
+| 55 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 |
 | 56 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 |
 | 57 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 |
 | 58 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
 | 90 | [Qué ha sido de ti](https://open.spotify.com/track/14MU1VPIIrciowTRCdZJ4u) | [Fundación Francisco Frankenstein](https://open.spotify.com/artist/3H42o6gQ9x0SioRXqtbGcf) | [Gente de Bien](https://open.spotify.com/album/6fxxDhr98JYsoI1Zp86wcT) | 1:50 |
 
-Snapshot ID: `MCwwMDU3MmIyMGNkYzg0MzMyZDY1YmZhOTY1OTAyNzkwMTJiNzUzZWI0`
+Snapshot ID: `MCw2YTk5ZDMzYTgwN2U0OTQ5ZDc3N2I3OWJlNTMwNmY4YWZmZGI1Njkz`

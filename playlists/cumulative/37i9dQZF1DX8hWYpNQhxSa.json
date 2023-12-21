@@ -430,10 +430,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 148500,
       "name": "City \u200b\u200bhall director",
       "url": "https://open.spotify.com/track/2NcPWn9F7BDKQVt4CmiuGR"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "City \u200b\u200bhall director",
+      "url": "https://open.spotify.com/track/72kR48cv1WoZs6dXzwCOap"
     },
     {
       "album": {
@@ -743,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Faithful Dog",
+      "url": "https://open.spotify.com/track/2cnnc5oxlWt5SLH3M4DhxF"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
       },
@@ -754,7 +790,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 161500,
       "name": "Faithful Dog",
       "url": "https://open.spotify.com/track/3CkusI2yIe0JYVlZlzdDml"
@@ -1341,8 +1377,8 @@
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
       },
       "artists": [
         {
@@ -1355,7 +1391,7 @@
       "date_removed": null,
       "duration_ms": 214000,
       "name": "Love is blind",
-      "url": "https://open.spotify.com/track/5WPLRYVMb6GrnXkQURIDyg"
+      "url": "https://open.spotify.com/track/2fjpyS4XAEmLGHaakxXRVb"
     },
     {
       "album": {
@@ -1370,7 +1406,43 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 214000,
+      "name": "Love is blind",
+      "url": "https://open.spotify.com/track/5WPLRYVMb6GrnXkQURIDyg"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Make all ladies happy",
+      "url": "https://open.spotify.com/track/4vG0yWI2ORXLHWzOOnwfFr"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 152500,
       "name": "Make all ladies happy",
       "url": "https://open.spotify.com/track/51wNa1DbDVEX9AslAdxxV3"
@@ -1633,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Princess Lorelei",
+      "url": "https://open.spotify.com/track/3ISx72cAM0e0SvwMh1xdlG"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
       },
@@ -1644,7 +1734,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 136500,
       "name": "Princess Lorelei",
       "url": "https://open.spotify.com/track/4BIgxnWbKmGQfAE2fjZwAz"
@@ -2029,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "STRIX (Season2)",
+      "url": "https://open.spotify.com/track/3V8MSbTxaQOPJ14s8pNA98"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
       },
@@ -2040,7 +2148,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 133000,
       "name": "STRIX\uff08Season2\uff09",
       "url": "https://open.spotify.com/track/5V45Ot7VXJtI2kC4KAEKQt"
@@ -2444,10 +2552,32 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 245513,
       "name": "uneven fruit",
       "url": "https://open.spotify.com/track/0wvwmnT6T4d9wokxeOCTdV"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "(K)NoW_NAME:NIKIIE",
+          "url": "https://open.spotify.com/artist/3EP7ddYLORL4iAKy1gaTk8"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245513,
+      "name": "uneven fruit",
+      "url": "https://open.spotify.com/track/5ZpSrTuhtfkMWTcA5wYSqn"
     },
     {
       "album": {

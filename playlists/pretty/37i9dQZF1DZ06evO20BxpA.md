@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 41 | [Finding the Lost Population](https://open.spotify.com/track/1sOhyJhdaqy7J9fIfmsmJz) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:48 |
 | 42 | [With Or Without Us](https://open.spotify.com/track/6GR1FpZStbjtRdVUPDqCL5) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:11 |
 | 43 | [Beauty Turns Men to Beasts](https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:06 |
-| 44 | [All Life Here Is Waiting](https://open.spotify.com/track/1xhE2gotm4x9zc08Zitzl3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [One Planet \(Episode 1 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4oJxfzmDRFSv95uYNxOfqC) | 1:46 |
-| 45 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 |
+| 44 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 |
+| 45 | [All Life Here Is Waiting](https://open.spotify.com/track/1xhE2gotm4x9zc08Zitzl3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [One Planet \(Episode 1 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4oJxfzmDRFSv95uYNxOfqC) | 1:46 |
 | 46 | [I Would Feel Guilty](https://open.spotify.com/track/2WAI12Sw4YxSicr8nZweyN) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:18 |
-| 47 | [Who Are You Greeting My Love?](https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:42 |
-| 48 | [The Museum](https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:35 |
-| 49 | [A Sparrowhawk's Tale](https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:56 |
+| 47 | [My Beloved Spake](https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:10 |
+| 48 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 |
+| 49 | [The Museum](https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:35 |
 | 50 | [You're My World \- Soho Version](https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW) | [Anya Taylor\-Joy](https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Last Night In Soho \(Original Motion Picture Score\)](https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL) | 2:18 |
 
-Snapshot ID: `MjgzODMxNDgsMDAwMDAwMDA0NmFhYTE3MTg1NjlhMWFlNWFkZGJjMjlmNzYwYzIzOQ==`
+Snapshot ID: `MjgzODQ1NTksMDAwMDAwMDA5MzE1MGQwZDlmZmVhN2VkZTQzNzZkYTA1NzExMDMxZQ==`

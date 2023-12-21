@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 46908,
+  "num_followers": 46934,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDQ3M2UxMjM1NjEzNzM3NjQ0NzM3MWZjNmZjM2Y1MWY2NzZkYjY1",
+  "snapshot_id": "MCxiMWU1NmNlZjg0NGIzODM0ZDE5NzUwYTNhMzgwMTBiNjZjNmNmYzBm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Shorty",
-        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
       },
       "artists": [
         {
-          "name": "Vernon Dilworth",
-          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
-      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
+      "duration_ms": 154933,
+      "name": "Nervous Man Nervous",
+      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
       },
       "artists": [
         {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+          "name": "Vernon Dilworth",
+          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
         }
       ],
-      "duration_ms": 154933,
-      "name": "Nervous Man Nervous",
-      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
+      "duration_ms": 159493,
+      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
+      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Come on and Have Your Fun",
+        "url": "https://open.spotify.com/album/56kya17Zle3APMlEAXgkYL"
+      },
+      "artists": [
+        {
+          "name": "Shirley & Lee",
+          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+        }
+      ],
+      "duration_ms": 119386,
+      "name": "The Flirt",
+      "url": "https://open.spotify.com/track/57ReV13secms86t42AdOWq"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 190706,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Come on and Have Your Fun",
-        "url": "https://open.spotify.com/album/56kya17Zle3APMlEAXgkYL"
-      },
-      "artists": [
-        {
-          "name": "Shirley & Lee",
-          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
-        }
-      ],
-      "duration_ms": 119386,
-      "name": "The Flirt",
-      "url": "https://open.spotify.com/track/57ReV13secms86t42AdOWq"
     },
     {
       "added_at": "2022-03-28 19:44:25",

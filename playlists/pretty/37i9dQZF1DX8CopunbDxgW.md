@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Channel Tres
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,101 likes - 159 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,154 likes - 159 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 158 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 159 | [Satisfy You](https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Satisfy You](https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg) | 3:27 |
 
-Snapshot ID: `MCw1YTY2NzM0ZTc1MzRjNDcwYTcyNWYxNDViZjVjM2I1MDlmOTM3Nzlj`
+Snapshot ID: `MCw0MTczMWQ1NzlmZTQ3ODE3OWRiNTZiMzIxNzRiNGM0OTdmNWY5Yjgz`

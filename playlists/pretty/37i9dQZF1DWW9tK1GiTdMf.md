@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ LA SAD e i Bnkr44 in cover🩸
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,500 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,495 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 25 | [DAG](https://open.spotify.com/track/67kIdMby8nlaFAWMpiYoEz) | [Silly Sam](https://open.spotify.com/artist/2Xt16y9iLI16gSYQ0yhkHm), [Charlie Amendola](https://open.spotify.com/artist/4EvzRasrLVWFgXQkWbqLYG), [ZEEGO](https://open.spotify.com/artist/0PLjcUmz6lzISMUChTBMhy) | [DAG](https://open.spotify.com/album/2V9yHswrCXhEPchn0pxYul) | 2:55 |
 | 26 | [Fragile](https://open.spotify.com/track/0xEyFahNuXpr6uqUbk7J9i) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Fragile](https://open.spotify.com/album/4uRqCATiaIVVRvqOFeUede) | 2:34 |
 | 27 | [Cattiva \- + Cattiva](https://open.spotify.com/track/4qUcT5VpqM756hIUylvL4y) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 3:06 |
-| 28 | [Meta\|verso](https://open.spotify.com/track/5J9kch9fW17r6bEgyhaZoe) | [Evrint Bless](https://open.spotify.com/artist/6a9h2MsqrQTJqERdiWrMC8), [Last Nite](https://open.spotify.com/artist/1GxITOgjLLxyZd8y6yG34i) | [Meta\|verso](https://open.spotify.com/album/0r0uvaU2cuAlWKSDC6MOeK) | 2:32 |
+| 28 | [Meta\|verso](https://open.spotify.com/track/5J9kch9fW17r6bEgyhaZoe) | [Evrint Bless](https://open.spotify.com/artist/6a9h2MsqrQTJqERdiWrMC8), [Last Nite](https://open.spotify.com/artist/3o26lEpMoGEv75IZuVtJrV) | [Meta\|verso](https://open.spotify.com/album/0r0uvaU2cuAlWKSDC6MOeK) | 2:32 |
 | 29 | [Pezzo di Terra](https://open.spotify.com/track/2OiatnaZgOAbVxFeywYYyU) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [Pezzo di Terra](https://open.spotify.com/album/2sFB2Mdu0igpVXJpj3ETnu) | 2:34 |
 | 30 | [ricaricaricordi](https://open.spotify.com/track/32enkkUhVG71kOJK8aHtM7) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B), [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [ricaricaricordi](https://open.spotify.com/album/41jWZqQeinerqDkyXu7n0M) | 2:56 |
 | 31 | [Musica di merda](https://open.spotify.com/track/4K6OIIFZhKcDKbhgX8GiZD) | [Thru Collected](https://open.spotify.com/artist/2P0hl2Wx1Zb04shTLfdWrv), [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM) | [Il Grande Fulmine](https://open.spotify.com/album/0hc4ffZgsXwCzaOLdFqaCZ) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 74 | [Mani sul viso](https://open.spotify.com/track/6qXxGLUOO6t6vDzZUlNUGn) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Mani sul viso](https://open.spotify.com/album/3buEmqsvR1edDE1Wx3XwKp) | 2:25 |
 | 75 | [VELENO](https://open.spotify.com/track/5P7L3SQJM0ZKzP029SV1Gk) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [VELENO](https://open.spotify.com/album/0QHZmMimUXG4SLIf7rbNrp) | 3:21 |
 
-Snapshot ID: `MCwwMzRiN2QwYzZlMDdmMTZhNjY1NzUxMWRiOGUzNmRlMmEzNzlkMjIy`
+Snapshot ID: `MCw0ZWQxZDg3YTMxMmIzYjVlYzE0NzUyNzBmMzgxNGExNDg0ODMzZGVk`

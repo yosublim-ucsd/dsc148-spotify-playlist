@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u300212\u670818\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u300212\u670819\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "PRODUCE 101 JAPAN THE GIRLS",
+        "url": "https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk"
+      },
+      "artists": [
+        {
+          "name": "NALALA",
+          "url": "https://open.spotify.com/artist/0uOTP7pznZgZc06fuftoJ4"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "&ME",
+      "url": "https://open.spotify.com/track/2uGrSoj2G2ttrcGvDSl5Bg"
+    },
+    {
+      "album": {
         "name": "35 GIRLS 5 CONCEPTS",
         "url": "https://open.spotify.com/album/71j8lMKmc5TfBOH9ws6yuT"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 175813,
       "name": "&ME",
       "url": "https://open.spotify.com/track/44muA7zBeipDRXs1uaTNLv"
@@ -1888,10 +1906,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 188733,
       "name": "AtoZ",
       "url": "https://open.spotify.com/track/15jmi8NlqdXuPUb4FcL9lj"
+    },
+    {
+      "album": {
+        "name": "PRODUCE 101 JAPAN THE GIRLS",
+        "url": "https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30ad\u30e1\u30c3\u30ad\u30fc",
+          "url": "https://open.spotify.com/artist/6d52B4mojZZNq9HEQ6plF1"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "AtoZ",
+      "url": "https://open.spotify.com/track/5kCyp5RT6rrToh4Blx89TB"
     },
     {
       "album": {
@@ -3772,7 +3808,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 235346,
       "name": "Calm",
       "url": "https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR"
@@ -5130,7 +5166,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 191706,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/79ypLbXeRsgNgd3uZTOcY4"
@@ -5628,6 +5664,24 @@
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "Ditto (250 Remix)",
+      "url": "https://open.spotify.com/track/6JVXVLqCPaodBSEwRFUN8w"
     },
     {
       "album": {
@@ -9880,7 +9934,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -14150,7 +14204,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
@@ -14908,7 +14962,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 152500,
       "name": "Moonthief",
       "url": "https://open.spotify.com/track/5VpeLvjayWlwt2VwkgKTKj"
@@ -20868,7 +20922,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 230266,
       "name": "SOLDIER LOVE",
       "url": "https://open.spotify.com/track/2n69TX3YljuDvVo570pDXh"
@@ -21082,7 +21136,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 173053,
       "name": "So\u00f1ar (Breaker)",
       "url": "https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq"
@@ -22226,7 +22280,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 195786,
       "name": "SUPER IDOL",
       "url": "https://open.spotify.com/track/5Vm7eVa9fhWNAQGm5qEA6n"
@@ -22302,7 +22356,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 273500,
       "name": "SuperHeroine",
       "url": "https://open.spotify.com/track/270F4BuzWpCOvLAWa3FefE"
@@ -23851,6 +23905,24 @@
     },
     {
       "album": {
+        "name": "PRODUCE 101 JAPAN THE GIRLS",
+        "url": "https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk"
+      },
+      "artists": [
+        {
+          "name": "Charm Holic",
+          "url": "https://open.spotify.com/artist/393fHru9HcKGQIf6T0P7Nh"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/08j6YjQCkCyRFXoKmh8e0H"
+    },
+    {
+      "album": {
         "name": "35 GIRLS 5 CONCEPTS",
         "url": "https://open.spotify.com/album/71j8lMKmc5TfBOH9ws6yuT"
       },
@@ -23862,7 +23934,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 193066,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/3ifV9AR4rpcXAsCtAtybna"
@@ -28989,6 +29061,24 @@
     },
     {
       "album": {
+        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
+        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
+      },
+      "artists": [
+        {
+          "name": "Junichi Inagaki",
+          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269626,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
+      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
         "url": "https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT"
       },
@@ -29895,6 +29985,24 @@
     },
     {
       "album": {
+        "name": "\u30c1\u30ad\u30f3\u30e9\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/3so2nHHYdiKQ0Wwj7rOvoM"
+      },
+      "artists": [
+        {
+          "name": "\u6d5c\u7530\u96c5\u529f\u3068\u69c7\u539f\u656c\u4e4b",
+          "url": "https://open.spotify.com/artist/4HpuqKQHqARnApVbuTfUXH"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296693,
+      "name": "\u30c1\u30ad\u30f3\u30e9\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/4Y82neEubVmQXAkCZKd7dx"
+    },
+    {
+      "album": {
         "name": "\u5e7b\u71c8",
         "url": "https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms"
       },
@@ -30540,7 +30648,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 228760,
       "name": "\u30d3\u30ea\u30df\u30ea\u30aa\u30f3",
       "url": "https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ"
@@ -31742,7 +31850,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 110924,
       "name": "\u30ef\u30f3\u30c9\u30ea\u30f3\u30af\u5225",
       "url": "https://open.spotify.com/track/5tapE1gGyABsGFtgeOYchU"
@@ -31760,7 +31868,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 224866,
       "name": "\u4e00\u8f2a\u82b1",
       "url": "https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8"
@@ -31890,6 +31998,28 @@
       "duration_ms": 346866,
       "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a - Primitive Version",
       "url": "https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e7e\u676f!!\uff5e\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30b3\u30e9\u30dc\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\uff5e",
+        "url": "https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4",
+      "url": "https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH"
     },
     {
       "album": {
@@ -32856,7 +32986,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 138135,
       "name": "\u590f\u604b\u30bb\u30f3\u30bb\u30a4\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/5McCZ1isTVJg3Wr5WBVoI3"
@@ -33735,6 +33865,24 @@
     },
     {
       "album": {
+        "name": "PRODUCE 101 JAPAN THE GIRLS",
+        "url": "https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk"
+      },
+      "artists": [
+        {
+          "name": "PRODUCE 101 JAPAN THE GIRLS",
+          "url": "https://open.spotify.com/artist/2JT0j7bIpVTyhyv4h9aEOe"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "\u60f3\u50cf\u4ee5\u4e0a",
+      "url": "https://open.spotify.com/track/0aRGEJtIkhnK5GcTjCQy5d"
+    },
+    {
+      "album": {
         "name": "FINAL",
         "url": "https://open.spotify.com/album/4tLmMKR8bfPHmRND8HNM4F"
       },
@@ -33746,7 +33894,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 207800,
       "name": "\u60f3\u50cf\u4ee5\u4e0a",
       "url": "https://open.spotify.com/track/7GfNYkirnchbX83cFYhZQ6"
@@ -34298,7 +34446,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 215853,
       "name": "\u6669\u9910\u6b4c",
       "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"

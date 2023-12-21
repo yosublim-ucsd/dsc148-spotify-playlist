@@ -370,7 +370,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 223810,
       "name": "Arboretum",
       "url": "https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT"
@@ -392,6 +392,24 @@
       "duration_ms": 271216,
       "name": "AT THE RIVERS EDGE",
       "url": "https://open.spotify.com/track/3Cf908nBvfqqH7rzAi8KbM"
+    },
+    {
+      "album": {
+        "name": "Awaken (Alternate Version)",
+        "url": "https://open.spotify.com/album/3kYwh0bf99WWYjgUEoksXp"
+      },
+      "artists": [
+        {
+          "name": "Alex Baker",
+          "url": "https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393333,
+      "name": "Awaken - Alternate Version",
+      "url": "https://open.spotify.com/track/3pLlcz1uuEqas5TkVzGiRe"
     },
     {
       "album": {

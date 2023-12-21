@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: ONEFOUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,492 likes - 68 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,555 likes - 68 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 20 | [Round Round](https://open.spotify.com/track/4hB0gb4KGm17u266JD5pbc) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Gigi Russ](https://open.spotify.com/artist/54TtQ6BIKwjmQsV3yX2NeB) | [Round Round](https://open.spotify.com/album/4e7zsUUHx3IvraiPsvirT7) | 3:46 |
 | 21 | [Hungover \(with Camden Cox\)](https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Hungover \(with Camden Cox\)](https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm) | 3:40 |
 | 22 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
-| 23 | [Dirty River \- Live at Chapel off Chapel](https://open.spotify.com/track/2S1XWgmmU2gCE3JMv6sX70) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Live at Chapel Off Chapel](https://open.spotify.com/album/5inJ8bC4C5yDtpcJIuxkBp) | 4:31 |
+| 23 | [Dirty River \- Live at Chapel Off Chapel](https://open.spotify.com/track/2S1XWgmmU2gCE3JMv6sX70) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Live at Chapel Off Chapel](https://open.spotify.com/album/5inJ8bC4C5yDtpcJIuxkBp) | 4:31 |
 | 24 | [Daydream](https://open.spotify.com/track/6nALNis51TQeoi6ycouejO) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Daydream](https://open.spotify.com/album/0hmrU7uQeX7SPxNeOJu7yn) | 2:28 |
 | 25 | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 |
 | 26 | [Intergalactic Icons](https://open.spotify.com/track/2acCrpnHeM7XlylIU0Xczd) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o) | [Intergalactic Icons](https://open.spotify.com/album/5oS3lngnkvYJXPFmtux0FG) | 3:32 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 67 | [Mojito](https://open.spotify.com/track/7l9l37vCr0rSq6jAaQaR4O) | [Benjamin](https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE) | [Mojito](https://open.spotify.com/album/6HhkbVk3PvMnEhVzfMqAsO) | 4:34 |
 | 68 | [Still Want U](https://open.spotify.com/track/6v5UIyYs09xGRHNtYuB3zJ) | [Ivana Ilic](https://open.spotify.com/artist/0HzMAe7Vj2QMQ3IhDmvImO) | [Still Want U](https://open.spotify.com/album/78c4cl3XA1J0YWbiI45M8b) | 3:54 |
 
-Snapshot ID: `MCxlNmJkMzM2OTgzZDA2OTI0MWRlMWNlYjllMTUzNWMzOTE2N2NmZjk5`
+Snapshot ID: `MCxmZDZiNmY3MzcxZGE3ODdhMDg2NDRhODVmNDVjNjY4YTdiNjljMjFl`

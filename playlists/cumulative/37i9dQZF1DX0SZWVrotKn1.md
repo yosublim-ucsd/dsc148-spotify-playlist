@@ -4,7 +4,7 @@
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-116 songs - 6 hr 51 min
+117 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4ijX6zDZKYdgACPwva2y0d) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Wolfine](https://open.spotify.com/album/1WR53EURavK2pIVJwS6qbv) | 2:47 | 2022-08-22 |  |
 | [Felina](https://open.spotify.com/track/7q3LolFezXFZttcirStxsD) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Season Finale](https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo) | 3:37 | 2021-09-24 | 2022-02-12 |
 | [Frikitona](https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Frikitona \- Single](https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk) | 3:03 | 2021-09-24 |  |
-| [Gata Fiera](https://open.spotify.com/track/39FpzJz9HbSiTxe97cK4LE) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/2Ad0DfADp2tuavRPiB7h17) | 3:28 | 2021-09-24 |  |
+| [Gata Fiera](https://open.spotify.com/track/39FpzJz9HbSiTxe97cK4LE) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/2Ad0DfADp2tuavRPiB7h17) | 3:28 | 2021-09-24 | 2023-12-21 |
+| [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/0xejnOURTSwXE4wuYshsxY) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg) | 3:28 | 2023-04-20 |  |
 | [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 3:28 | 2022-02-11 | 2023-11-04 |
 | [Ginza](https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 2:51 | 2021-09-24 |  |
 | [Hasta Abajo](https://open.spotify.com/track/4s7DK08ZqqU5EnjvQ6Vlle) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:52 | 2021-09-24 |  |

@@ -6848,7 +6848,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 176334,
       "name": "El MP",
       "url": "https://open.spotify.com/track/13r5IOgD9osfI6xlzwClPq"
@@ -10458,6 +10458,28 @@
       "duration_ms": 273258,
       "name": "Kikil Caro (En Vivo)",
       "url": "https://open.spotify.com/track/5TrI52vvqsPzMBd2cnba1A"
+    },
+    {
+      "album": {
+        "name": "Kikil Caro (En Vivo)",
+        "url": "https://open.spotify.com/album/029qX4UJEYEw61Hoc9LIuP"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161075,
+      "name": "Kikil Caro - En Vivo",
+      "url": "https://open.spotify.com/track/2oQSkBN2ug0pLvOkHqtt3J"
     },
     {
       "album": {

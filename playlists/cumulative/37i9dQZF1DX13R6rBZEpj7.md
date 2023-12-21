@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Y U QT
 
-218 songs - 13 hr 37 min
+219 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [B22s](https://open.spotify.com/track/5LhxBJEa3bWhcrnyiF7qmv) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [B22s](https://open.spotify.com/album/5DdSHU4JHlD0d5Rk6Rhl8A) | 2:32 | 2023-08-10 | 2023-10-28 |
 | [Back](https://open.spotify.com/track/54qy9HFmqlgtngpatAAAPp) | [DubbleT](https://open.spotify.com/artist/0qFd9z9Shj28sgoLwKr0Af), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Back](https://open.spotify.com/album/4anFbEJ3IamNPrz66GJZpD) | 3:58 | 2022-07-14 |  |
 | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK) | 2:17 | 2023-08-10 | 2023-12-14 |
+| [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/album/6oPO1krnnAWP9qhOgJb7WB) | 2:17 | 2023-12-01 |  |
 | [Banzai VIP](https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Banzai VIP](https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1) | 4:54 | 2022-04-15 | 2022-09-06 |
 | [Bap Bap](https://open.spotify.com/track/20jEy9KrrZfuJlh4dQvsi2) | [J69](https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh), [Breeza](https://open.spotify.com/artist/0EekcwIz2iDjJBzwFYKAqv) | [Bap Bap](https://open.spotify.com/album/4Jv3UelU10kLgglZTwJuzE) | 2:51 | 2022-07-14 | 2022-07-20 |
 | [Barrington](https://open.spotify.com/track/13UkLkxFcO890QCWwaYW9c) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Barrington / Bodies](https://open.spotify.com/album/5FWII16ZTq6HfCMvdpqCTQ) | 3:41 | 2022-05-20 | 2023-05-19 |
@@ -188,7 +189,7 @@
 | [Show Me \- Skepsis Remix](https://open.spotify.com/track/7EfCX1JJcvCtul38U9PBRB) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Show Me \(Skepsis Remix\)](https://open.spotify.com/album/3KQMAgCDCdTzqCjWPRvaPY) | 2:45 | 2022-09-23 | 2023-08-11 |
 | [Shutdown](https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Shutdown](https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT) | 3:43 | 2022-09-05 |  |
 | [Signal](https://open.spotify.com/track/2pdswR1p29SsJNP6Zl7d05) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over](https://open.spotify.com/album/1i685TMCvqmUHQc9ZcGqf4) | 4:13 | 2022-10-28 | 2023-05-19 |
-| [Signal \(feat\. Ruth Royall\)](https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over \(feat\. Ruth Royall\)](https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE) | 4:13 | 2023-04-04 |  |
+| [Signal \(feat\. Ruth Royall\)](https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over \(feat\. Ruth Royall\)](https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE) | 4:13 | 2023-04-04 | 2023-12-21 |
 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 | 2022-04-15 |  |
 | [Slappy Slap](https://open.spotify.com/track/60oyrB49x7WsTklriQ7kec) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Slappy Slap](https://open.spotify.com/album/7hU5Bsz8CEnekGSiDsd6ZJ) | 4:27 | 2023-10-28 |  |
 | [Solid Ground](https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ) | 4:01 | 2022-04-15 | 2023-05-19 |

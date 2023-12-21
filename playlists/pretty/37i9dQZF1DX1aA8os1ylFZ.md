@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,441 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,488 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 89 | [Love On Film](https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Love On Film](https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW) | 2:03 |
 | 90 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 |
 | 91 | [Say That](https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Say That](https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh) | 3:47 |
-| 92 | [All I Need](https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9) | [All I Need](https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A) | 2:53 |
-| 93 | [Do They Know](https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Do They Know](https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM) | 2:02 |
-| 94 | [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 |
+| 92 | [Do They Know](https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Do They Know](https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM) | 2:02 |
+| 93 | [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 |
+| 94 | [All I Need](https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9) | [All I Need](https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A) | 2:53 |
 | 95 | [Awareness \- Radio Edit](https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Essence](https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF) | 2:52 |
 | 96 | [WASTEMAN](https://open.spotify.com/track/6RqUIRQuupESKh8DvgTuRV) | [Ezra James](https://open.spotify.com/artist/1a204anh3vzbv9K6oHhJL8), [Malek Lasike](https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e) | [WASTEMAN](https://open.spotify.com/album/5hkDbZCyoA0kD0vdCbyNBA) | 3:02 |
 | 97 | [Whatever I Guess?](https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz) | [Ashia Vu](https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4) | [Whatever I Guess?](https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Balcony](https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Balcony](https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc) | 2:40 |
 | 100 | [Don’t Mind](https://open.spotify.com/track/4yq7RXjF9M5nmkYPiVo0oV) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [Freak Pack](https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk) | 2:59 |
 
-Snapshot ID: `MCw3MTcyNTI0ZDAwZWQ1ZWUzZjQ0ZDg1NTliZjM4NjIwYjZmYTljZDdj`
+Snapshot ID: `MCwzZTAxYzk0NGUxNWI4MTlmMzNmOWUxOTkwMjM0YTkzNTVlZmRhYTkx`

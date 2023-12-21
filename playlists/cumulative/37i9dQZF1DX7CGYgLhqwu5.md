@@ -4,7 +4,7 @@
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-168 songs - 7 hr 27 min
+169 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Does My Ring Hurt Your Finger](https://open.spotify.com/track/3HQshYL6S6IGTmxtigbnjL) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [RCA Country Legends: Charley Pride](https://open.spotify.com/album/3bA7lazF0WlI9qTuO0R5ks) | 2:19 | 2022-07-29 | 2022-11-13 |
 | [Don't Come Home A\-Drinkin' \(With Lovin' On Your Mind\) \- Single Version](https://open.spotify.com/track/6zQnzN80m28yNfz544YBI2) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:07 | 2021-11-19 |  |
 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 | 2021-11-19 |  |
-| [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 | 2021-11-19 |  |
+| [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 | 2021-11-19 | 2023-12-21 |
 | [Don't Worry](https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 3:14 | 2021-11-19 |  |
 | [Don't You Ever Get Tired of Hurting Me](https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Other Woman](https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4) | 2:48 | 2021-11-19 | 2023-12-07 |
 | [Fist City](https://open.spotify.com/track/6BLoKpgWtQbYqFDFUp9ApX) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Fist City](https://open.spotify.com/album/4or7bC7lPqBTr7Nh1AUSsN) | 2:12 | 2021-11-19 | 2022-07-29 |
@@ -120,6 +120,7 @@
 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 | 2021-11-19 |  |
 | [Sea of Heartbreak](https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:31 | 2021-11-19 |  |
 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Keeps Right On A\-Hurtin'](https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH) | 2:53 | 2022-07-25 | 2023-11-20 |
+| [Send Me The Pillow You Dream On](https://open.spotify.com/track/3EeF3uTDVQLaEzoFLF3orm) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [It Keeps Right On A\-Hurtin'](https://open.spotify.com/album/59Q8d7s1dohWqRUMFusy2T) | 2:53 | 2023-11-21 |  |
 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/60LBZcuecM8zRwXmZm5bQs) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [25 All\-Time Greatest Hits](https://open.spotify.com/album/5hoikUKrQZkKm8tspRhwTS) | 2:53 | 2021-11-19 | 2022-07-29 |
 | [She Thinks I Still Care](https://open.spotify.com/track/4WAuEhMDugLPE235mgy3Jx) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:33 | 2022-07-29 | 2022-11-12 |
 | [She Thinks I Still Care](https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The New Favorites Of George Jones](https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR) | 2:34 | 2022-07-25 |  |

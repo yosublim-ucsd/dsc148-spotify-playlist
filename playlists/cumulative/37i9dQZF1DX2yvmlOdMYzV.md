@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-581 songs - 1 day 7 hr 54 min
+582 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 | 2023-06-30 |  |
 | [Can't Hide It](https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Dancing in My Room / Can't Hide It](https://open.spotify.com/album/5r0df366M7ZgFHiAj2RhN1) | 2:56 | 2023-08-18 |  |
 | [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-27 |  |
+| [Charismatic](https://open.spotify.com/track/4JhKLjRioxSZ9AkrL8pPcM) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/2Sh1TDbKzFr7UxZdbnnX17) | 3:04 | 2023-05-12 |  |
 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 | 2023-05-12 | 2023-12-17 |
 | [CHERIMOYA](https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [CHERIMOYA](https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5) | 2:09 | 2023-02-10 | 2023-10-07 |
 | [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2023-09-08 |  |
@@ -168,7 +169,7 @@
 | [Flight 99](https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [Flight 99](https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac) | 2:47 | 2021-12-15 | 2022-11-20 |
 | [Flight 99](https://open.spotify.com/track/7iwn9FANtRltiafratcH07) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Flight 99](https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL) | 2:47 | 2022-11-09 | 2023-01-28 |
 | [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-21 |  |
-| [Flow State](https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Flow State](https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE) | 2:32 | 2023-10-20 |  |
+| [Flow State](https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Flow State](https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE) | 2:32 | 2023-10-20 | 2023-12-21 |
 | [Flowers](https://open.spotify.com/track/6g8tNqCUHQsRJhYcGajvh2) | [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Flowers](https://open.spotify.com/album/0CtyUf3Hf0KS0cwOMRWKAf) | 3:25 | 2021-12-15 | 2022-04-21 |
 | [Fly](https://open.spotify.com/track/6yyvtlZtWfMFiFoCYmzzOB) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Fly](https://open.spotify.com/album/36KysvE4Owk5mOVGepYusC) | 3:36 | 2023-11-10 | 2023-11-20 |
 | [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 | 2023-10-06 | 2023-11-11 |

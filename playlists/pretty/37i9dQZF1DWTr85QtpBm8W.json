@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 17777,
+  "num_followers": 17843,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWI0MmVhNDNjZDgwMWEzYzVjODgzODVlOGFiY2JmNWI3ZmM3Mjgx",
+  "snapshot_id": "MCwwYjI1NWU4NTRkOGI5NGQ3YjE0NGM1MjM1YjhhOTk4Y2YxOGZkOGE1",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 403573,
-      "name": "Crimson Ways",
-      "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Sings Reign Rebuilder",
         "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 169439,
       "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
       "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 403573,
+      "name": "Crimson Ways",
+      "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
-      },
-      "artists": [
-        {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
-        }
-      ],
-      "duration_ms": 102239,
-      "name": "Jesus / Pop",
-      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 278173,
       "name": "The Unfinished",
       "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 102239,
+      "name": "Jesus / Pop",
+      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Playthroughs",
-        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
-      },
-      "artists": [
-        {
-          "name": "Keith Fullerton Whitman",
-          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
-        }
-      ],
-      "duration_ms": 481266,
-      "name": "Fib01a",
-      "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "An Imaginary Country",
         "url": "https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R"
       },
@@ -911,6 +895,38 @@
       "duration_ms": 286626,
       "name": "Borderlands",
       "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 309560,
+      "name": "Under the Water It Glowed",
+      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Playthroughs",
+        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
+      },
+      "artists": [
+        {
+          "name": "Keith Fullerton Whitman",
+          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
+        }
+      ],
+      "duration_ms": 481266,
+      "name": "Fib01a",
+      "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -943,22 +959,6 @@
       "duration_ms": 140840,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 309560,
-      "name": "Under the Water It Glowed",
-      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Geisterfaust",
-        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 486506,
-      "name": "Daumen",
-      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 410933,
       "name": "Warmed By the Drift",
       "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Geisterfaust",
+        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 486506,
+      "name": "Daumen",
+      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "dedication",
-        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 219707,
-      "name": "white mountain",
-      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "L'Orange L'Orange",
         "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 314676,
       "name": "Blind Contour Drawing for Piano",
       "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "dedication",
+        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 219707,
+      "name": "white mountain",
+      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Chessa",
+        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
+      },
+      "artists": [
+        {
+          "name": "Shuttle358",
+          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "chessa",
+      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "MP3 Collection",
         "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 506760,
       "name": "Wholesome",
       "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Chessa",
-        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
-      },
-      "artists": [
-        {
-          "name": "Shuttle358",
-          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "chessa",
-      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+        "name": "Streichelfisch (Remastered)",
+        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
       },
       "artists": [
         {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 158080,
-      "name": "Arves\u00f8lv",
-      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
+      "duration_ms": 351980,
+      "name": "Aparaquasynthe (Remastered)",
+      "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Streichelfisch (Remastered)",
-        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
         }
       ],
-      "duration_ms": 351980,
-      "name": "Aparaquasynthe (Remastered)",
-      "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
+      "duration_ms": 158080,
+      "name": "Arves\u00f8lv",
+      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "M\u00f8rketid",
-        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
-        }
-      ],
-      "duration_ms": 563720,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "24 Postcards In Full Colour",
         "url": "https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+        "name": "M\u00f8rketid",
+        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
       },
       "artists": [
         {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
         }
       ],
-      "duration_ms": 213640,
-      "name": "S\u00f8vnens Kvelertak",
-      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
+      "duration_ms": 563720,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1667,6 +1651,22 @@
       "duration_ms": 222506,
       "name": "De Storm",
       "url": "https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+      },
+      "artists": [
+        {
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "S\u00f8vnens Kvelertak",
+      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",

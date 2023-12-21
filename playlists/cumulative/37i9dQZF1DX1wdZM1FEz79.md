@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Heo Hoy Kyung\(허회경\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Choi Nakta\(최낙타\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-478 songs - 1 day 4 hr 28 min
+479 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [To you, dear](https://open.spotify.com/track/4T64VKmcDdr6a6idK97103) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [To you, dear](https://open.spotify.com/album/6UXcVnWn5mY8eHrfTIkEXZ) | 3:25 | 2022-02-18 | 2022-04-17 |
 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 | 2021-12-10 |  |
 | [TOO BAD](https://open.spotify.com/track/0yhDAYlysiK5lq9ySgn4dN) | [Oat](https://open.spotify.com/artist/4NkRzcwVz9DvvwZZ5GSSkV) | [TOO BAD](https://open.spotify.com/album/2kFqO3w4k7VrSfjoaniaeQ) | 3:11 | 2022-01-13 | 2022-04-20 |
+| [TOY \(feat\. siso\)](https://open.spotify.com/track/6Bx7apRrdwLAKycZ7EOVi7) | [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [TOY](https://open.spotify.com/album/3PNZqV1nTzc5oaFIZS0Igj) | 3:11 | 2023-12-20 |  |
 | [Tropical night](https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk) | [여동생](https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1) | [Tropical night](https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK) | 5:11 | 2022-07-08 | 2022-08-10 |
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-04-12 | 2022-04-21 |
 | [twenty\-one fifteen](https://open.spotify.com/track/2u1UBXv3k8tOo5Pn4NuhfJ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:06 | 2022-05-03 | 2022-05-12 |
@@ -456,7 +457,7 @@
 | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/track/7gNmBWybrfvC54kl980igz) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Kim Min Ki](https://open.spotify.com/artist/0vcaB67WgOvbcyhMvLpcXr) | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/album/2BCQe1hxo8uwyOpjdl1FdM) | 4:00 | 2022-03-31 | 2022-04-19 |
 | [Your sea \(Acc ver.\)](https://open.spotify.com/track/7gAcFTyzB81ACPs299HS4M) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:16 | 2021-12-10 | 2022-06-17 |
 | [YOUR SONG](https://open.spotify.com/track/6XshUdxavknBQlcnu72LpD) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [MY NAME IS SAM](https://open.spotify.com/album/6GUiTUgcpkhKlCZMTLLMI3) | 4:18 | 2021-12-10 | 2022-07-29 |
-| [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 | 2022-08-09 |  |
+| [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 | 2022-08-09 | 2023-12-21 |
 | [your voice\(acoustic\)](https://open.spotify.com/track/5ZJybAI37PVMbeEQwfkk3J) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [your voice\(acoustic\)](https://open.spotify.com/album/6zAiZBYCwmblKjIO3yJF0l) | 5:18 | 2022-03-07 | 2022-07-20 |
 | [겨울이 온 것처럼 말이지 \- From 'Hidden Track No.V' Vol.4](https://open.spotify.com/track/0w3kQmZr2nNZNNWBSI8lE2) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [겨울이 온 것처럼 말이지 \(From 'Hidden Track No.V' Vol.4\)](https://open.spotify.com/album/2ORxTBs669Atoz1MJinBLy) | 2:53 | 2022-03-31 | 2022-04-19 |
 | [계절은 핑계 Season is an excuse](https://open.spotify.com/track/4b3Ts1tvSUNBQ3oThWYduD) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [계절은 핑계 Season is an excuse](https://open.spotify.com/album/3KoQlMZ9ECns52XeGCfmur) | 3:11 | 2023-01-11 | 2023-01-26 |

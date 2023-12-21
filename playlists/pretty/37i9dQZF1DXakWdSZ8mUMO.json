@@ -1,12 +1,12 @@
 {
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
-  "num_followers": 410886,
+  "num_followers": 410889,
   "original_name": "Pegando Pesado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzYxN2M4ZDNmZjQwMDQ1NzIzYjg1NzUzOGIzYmYzNzNlYmJhNjg5",
+  "snapshot_id": "MCxmMDdjMDlmMmEzYzc4NjU2NGExZDc1MTdlYTU1ZTViYTZjZDcwNGE0",
   "tracks": [
     {
       "added_at": "2019-06-28 02:33:37",
@@ -939,22 +939,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "True Friends",
-      "url": "https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "True Friends",
+      "url": "https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT"
     },
     {
       "added_at": "2019-06-28 02:33:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 2023년 Fresh Finds Korea를 빛낸 트랙들을 만나보세요! \(Listen the highlight tracks in Fresh Finds playlist this year!\) \(커버: 태우\(TAEWOO\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,486 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,514 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Back Then \(Feat\. Sue Museum\)](https://open.spotify.com/track/0YQNPNVr02rmCMInKfwRIf) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Sue Museum](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Back Then](https://open.spotify.com/album/1ett62oFx82r1y54ZgA4Xy) | 3:04 |
 | 50 | [Someone Who Only Looks at Me](https://open.spotify.com/track/2Jgmlko3UxydEyRfXRhLmK) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo) | [Someone Who Only Looks at Me](https://open.spotify.com/album/1dYtVMk6Fewjcgqay1Tkht) | 3:42 |
 
-Snapshot ID: `MCxmOGU5ZTlkZTNiZGM1NTAxNDc4Y2VjNmNlNTc1NGI0OWE3MWQxYTI0`
+Snapshot ID: `MCxkNGE4MWMyZjFiY2FmZWIwMDI0MjYzNGRlMmIzNDhlMTkyNjViYzcz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Fre\_nky
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,233 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,400 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 10 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 |
 | 11 | [CLAP CLAP \(feat\. Artie 5ive, Niky Savage\)](https://open.spotify.com/track/4qFrGuly7KCl3WMmGuECFC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 2:13 |
 | 12 | [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz) | 2:35 |
-| 13 | [AGITATO](https://open.spotify.com/track/6OIPXBCDzV0RO0beUqoW42) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [AGITATO](https://open.spotify.com/album/5NuXTus8ALMOuPhH2C3Co9) | 1:54 |
+| 13 | [AGITATO](https://open.spotify.com/track/6OIPXBCDzV0RO0beUqoW42) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT kings](https://open.spotify.com/artist/2jq6rrOegUcrh5evVOfqnK) | [AGITATO](https://open.spotify.com/album/5NuXTus8ALMOuPhH2C3Co9) | 1:54 |
 | 14 | [TAF TAF](https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TAF TAF](https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u) | 3:03 |
 | 15 | [3uphon](https://open.spotify.com/track/2mmbawJFVgPuQhdQpsHsRl) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:15 |
 | 16 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/album/6mQDsMcWWITYk79BxBGhnQ) | 2:20 |
 | 50 | [Fils De Pute \(feat\. Speranza & Rafilù\)](https://open.spotify.com/track/24FFdPglqlH5uXwBwyY8kb) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 3:25 |
 
-Snapshot ID: `MCxjYTcyYjY2ODk3MGJmYTQxZWU2ODhjZGEzMDIyNzZhYmQ4NTAyYmRi`
+Snapshot ID: `MCxiZGVhYWI0YjBiYzQ0NDAyYzZjZmQzOWNiYmM0NzQzYjJmZjMzYWRm`

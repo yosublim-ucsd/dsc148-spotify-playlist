@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,213 songs - 3 day 2 hr 49 min
+1,215 songs - 3 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [aurora](https://open.spotify.com/track/3TfFyMlTwIvoPBOBvzK4Fy) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [Δ](https://open.spotify.com/album/4p9YWsADpDBsYl2RfOqW18) | 5:07 | 2023-08-15 | 2023-08-17 |
 | [aurora](https://open.spotify.com/track/5EzFxshZyFFCkhqLh8Gif7) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [Δ](https://open.spotify.com/album/3TZsIPMjf82EUqMjNb9BG6) | 5:07 | 2023-08-15 | 2023-08-23 |
 | [A・O・U](https://open.spotify.com/track/0gI1ym4ItvaBBJLSoYnqRS) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [A・O・U](https://open.spotify.com/album/5NuI5LXmwn2i7O7gPbABDF) | 3:19 | 2022-10-18 | 2022-10-20 |
-| [Babe Ruth](https://open.spotify.com/track/4Bluk2vE1JKN1CfmFoGF8Y) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [exported\_file\_3](https://open.spotify.com/album/3BeffI7B19qsbPrTCl3zFr) | 3:39 | 2023-12-19 |  |
+| [Babe Ruth](https://open.spotify.com/track/424LrLYs7WnTu0pmTEdrCJ) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [exported\_file\_3](https://open.spotify.com/album/3TJkSdCPkoF8S16CjPFefr) | 3:39 | 2023-12-19 |  |
+| [Babe Ruth](https://open.spotify.com/track/4Bluk2vE1JKN1CfmFoGF8Y) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [exported\_file\_3](https://open.spotify.com/album/3BeffI7B19qsbPrTCl3zFr) | 3:39 | 2023-12-19 | 2023-12-21 |
 | [Baby I love you so](https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Baby I love you so](https://open.spotify.com/album/16kwSHBXn4IfnEhuUXI4rb) | 3:41 | 2022-09-13 | 2023-02-19 |
 | [Baby,Don't Stop](https://open.spotify.com/track/3xK3nC2M3FqxLBJ4MnXITr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT!](https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo) | 3:09 | 2023-02-21 | 2023-03-01 |
 | [Back to the past](https://open.spotify.com/track/3KTwdx3KT5Z4lqIYIvp8tf) | [Peach Boi](https://open.spotify.com/artist/14fLCsGDHhvtz8TBtu4h7o), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Back to the past](https://open.spotify.com/album/6gmevQfiSNFGyTrnti03k9) | 2:55 | 2023-08-22 | 2023-08-30 |
@@ -403,6 +404,7 @@
 | [Just Wanna Live It Up](https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Just Wanna Live It Up](https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49) | 4:46 | 2023-04-04 | 2023-04-12 |
 | [Kaigara Bushi](https://open.spotify.com/track/1h3R8qQQg7XXxJXtXC2K1F) | [民謡クルセイダーズ](https://open.spotify.com/artist/6y2mWIw5wZardbauKap0LI) | [Tour of Japan](https://open.spotify.com/album/7wGkxUU2BAHk6vPEypdUJ2) | 5:25 | 2023-11-23 | 2023-11-29 |
 | [Kaiten suru innocence](https://open.spotify.com/track/6kOlOApwUtfjqmSCQx9DCT) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Kaiten suru innocence](https://open.spotify.com/album/2G2vADCkpaVtF1HlNxaoc3) | 4:01 | 2023-09-14 | 2023-10-04 |
+| [Kaleidoscope](https://open.spotify.com/track/4Dmz6KqXiNdYYv8tcTyNdU) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Kaleidoscope](https://open.spotify.com/album/4oBjaVl3xzRyVXxiB3T8Yz) | 3:28 | 2023-12-19 |  |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2022-10-27 | 2022-11-14 |
 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 | 2022-11-10 | 2023-01-11 |
 | [Kayoesque](https://open.spotify.com/track/3t5SYliIbQN92fQsIAeec7) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Kayoesque](https://open.spotify.com/album/4S6T3yQD7L4j88AJgkneKX) | 3:23 | 2023-11-30 | 2023-12-06 |
@@ -1001,7 +1003,7 @@
 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 | 2022-06-06 | 2022-06-29 |
 | [エデンの花](https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [エデンの花](https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX) | 4:48 | 2023-12-05 | 2023-12-13 |
 | [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 | 2023-11-14 | 2023-11-22 |
-| [カレイドスコウプ](https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [カレイドスコウプ](https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM) | 3:28 | 2023-12-19 |  |
+| [カレイドスコウプ](https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [カレイドスコウプ](https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM) | 3:28 | 2023-12-19 | 2023-12-21 |
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-20 |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 | 2023-10-19 |  |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-12 | 2023-10-19 |

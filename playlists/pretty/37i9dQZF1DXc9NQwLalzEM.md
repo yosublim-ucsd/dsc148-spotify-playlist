@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,677 likes - 136 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,686 likes - 136 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 43 | [I Found You](https://open.spotify.com/track/61xfrjhEtN0jfYtcmzPY2F) | [Yvonne Fair](https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Roots Of A Revolution](https://open.spotify.com/album/6S0JoGYvVclOkz3zplzqT0) | 2:29 |
 | 44 | [One Life to Live](https://open.spotify.com/track/4uW41encpb6TYP6329O6FY) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [A Million to One](https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d) | 4:26 |
 | 45 | [I'm About Loving You](https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4) | [Al Hudson](https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS), [Soul Partners](https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY) | [Playlist: The ATCO Singles](https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG) | 2:54 |
-| 46 | [Just Loving You](https://open.spotify.com/track/0Xs78n0LzZVXcrHxk3FrjT) | [Ruby Andrews](https://open.spotify.com/artist/1mg8nnhxHsBOe2lJHQvGdH) | [Northern Soul \- The Soundtrack to Your Life](https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP) | 2:49 |
-| 47 | [Try It \(You'll Like It\)](https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN) | [Master Plan Inc](https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp) | [Try It \(You'll Like It\) / Master Plan Intro](https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf) | 2:23 |
-| 48 | [As Long As She Needs Me](https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Motown Unreleased 1965: Marvin Gaye](https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V) | 2:31 |
+| 46 | [As Long As She Needs Me](https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Motown Unreleased 1965: Marvin Gaye](https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V) | 2:31 |
+| 47 | [Just Loving You](https://open.spotify.com/track/0Xs78n0LzZVXcrHxk3FrjT) | [Ruby Andrews](https://open.spotify.com/artist/1mg8nnhxHsBOe2lJHQvGdH) | [Northern Soul \- The Soundtrack to Your Life](https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP) | 2:49 |
+| 48 | [Try It \(You'll Like It\)](https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN) | [Master Plan Inc](https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp) | [Try It \(You'll Like It\) / Master Plan Intro](https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf) | 2:23 |
 | 49 | [Ain't No Time Fa Nuthin' \- 12" Version](https://open.spotify.com/track/46FfqOCdZGEq3ihI6goIwc) | [The Futures](https://open.spotify.com/artist/2pvqnXr6K5FZmqbgvibDE3) | [Past, Present And The Futures](https://open.spotify.com/album/3Um2vd5uFwDN2eR131Ly0o) | 5:33 |
 | 50 | [Free Love](https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:04 |
 | 51 | [Baby Make Me Feel So Good](https://open.spotify.com/track/0wSvnAFcmkeP9gU5L6RRjQ) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S), [Cubie Burke](https://open.spotify.com/artist/4DwdnqIE4opZBfHmmLJOeC) | [The First Family of Soul: The Best of The Five Stairsteps](https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid) | 2:45 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 74 | [Fool](https://open.spotify.com/track/6eHnPw5KKP151NTRtIZhfc) | [Al Matthews](https://open.spotify.com/artist/0BZWNS1lyxj4BBsLN2BUY9) | [The Masters Series: 70's Soul Vol\. 2](https://open.spotify.com/album/5e1K2tC5jjyUuJk9zWiOHN) | 3:41 |
 | 75 | [I Can't Speak](https://open.spotify.com/track/2iPjHMgEegSGNbog4ujzkM) | [Jimmy "Bo" Horne](https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K) | [The Legendary Henry Stone Presents: Jimmy Bo Horne](https://open.spotify.com/album/4WDYgiypBayAeaGIPAzKiv) | 3:11 |
 | 76 | [A Love Reputation](https://open.spotify.com/track/38ckyTSXIQ0o7sC6efDG2j) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [Chess Soul: A Decade Of Chicago’s Finest](https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw) | 2:47 |
-| 77 | [New Beginning](https://open.spotify.com/track/5UKkqgXRBlGMB5Lu3n2Zfb) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:39 |
-| 78 | [Somebody Done Took My Baby and Gone](https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 3:32 |
+| 77 | [Somebody Done Took My Baby and Gone](https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 3:32 |
+| 78 | [New Beginning](https://open.spotify.com/track/5UKkqgXRBlGMB5Lu3n2Zfb) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:39 |
 | 79 | [I'll Make It Easy \(If You'll Come On Home\)](https://open.spotify.com/track/1o8KRGewglNoPcAgZy3QTt) | [The Incredibles](https://open.spotify.com/artist/6DEbuJ3GYJy9NYknB1cqTj) | [Greatest Hits](https://open.spotify.com/album/0s7w98Eoh1k8vbfwwFdRZj) | 2:38 |
 | 80 | [Yes, Maybe No](https://open.spotify.com/track/0A1hpM48Yw1gYWUq5b93pP) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Philly Groove Records Presents: The Early Years, Vol\. 3](https://open.spotify.com/album/2QBg8HBgmqdJl4nHsbZtQe) | 2:54 |
 | 81 | [It's Great To Be Here](https://open.spotify.com/track/78qHwCaeAn0VIQcFj1AyXk) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9) | 3:10 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 89 | [Heavenly Thing](https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p) | [The Mark\-Keys](https://open.spotify.com/artist/6inrHX6orJylUug2PXqjBr) | [Dave Hamilton's Detroit Dancers](https://open.spotify.com/album/4afaQ6KsmsZOFNEygrGmLW) | 3:03 |
 | 90 | [City of Brotherly Love](https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg) | [Soul Survivors](https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx) | [Soul Survivors](https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl) | 3:21 |
 | 91 | [Brother Brother](https://open.spotify.com/track/7erspizhVghwfGjmUOJ9LD) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Shirelles \(Bonus Track Version\)](https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG) | 3:07 |
-| 92 | [My Love Don't Come Easy](https://open.spotify.com/track/1xP1DVB80liHmmL2P55NfJ) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:36 |
-| 93 | [Better Tomorrow Than Today](https://open.spotify.com/track/1F9EDKGRTOTZwQ3xje2n55) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [There'll Come A Time](https://open.spotify.com/album/4FWN4oxMk7t536R96mS6rp) | 2:35 |
+| 92 | [Better Tomorrow Than Today](https://open.spotify.com/track/1F9EDKGRTOTZwQ3xje2n55) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [There'll Come A Time](https://open.spotify.com/album/4FWN4oxMk7t536R96mS6rp) | 2:35 |
+| 93 | [My Love Don't Come Easy](https://open.spotify.com/track/1xP1DVB80liHmmL2P55NfJ) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:36 |
 | 94 | [My Music](https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh) | [Bunny Sigler](https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg) | [My Music](https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE) | 3:27 |
 | 95 | [I'm Ready for Love](https://open.spotify.com/track/6VQAjEdoa6XL2CaDUFEioS) | [Otis Brown](https://open.spotify.com/artist/0zwPBH9v7TUk4xfrZbS4nC) | [Southside Chicago](https://open.spotify.com/album/19FdxlbSShGA86U6y7noRm) | 2:43 |
 | 96 | [But I'm Afraid \- Single Version](https://open.spotify.com/track/7wVdkxbpXI62VP7RoZMhPp) | [Debbie Dean](https://open.spotify.com/artist/44YS4M6s942DQS2siuZda8) | [The Complete Motown Singles, Vol\. 1: 1959\-1961](https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU) | 2:51 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 135 | [Please Love Me \- Mono](https://open.spotify.com/track/0XQWZGT2B9VmiJ4d9wiTzO) | [Reverb LTD](https://open.spotify.com/artist/7JKPZ0c5Bicj1rYHfjUbJU) | [Please Love Me](https://open.spotify.com/album/3rh2c9Vu2u7AJ5PJwKI75U) | 2:30 |
 | 136 | [That Day When She Needed Me](https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS) | [The Performers](https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI) | [Best of Ace: Soul Harmony](https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a) | 2:41 |
 
-Snapshot ID: `MCxkMTYxN2ZmMmI1OTcyMDRiYjg4N2M1NjhhNjg3MDM2MmE0ZWQ1MTYw`
+Snapshot ID: `MCw1NDI1ZDY5M2YyODZkZWM0MjI5ZTU5YWJkM2I5ZDM1YzlhM2JiMDA3`

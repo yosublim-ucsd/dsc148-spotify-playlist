@@ -4536,7 +4536,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 163352,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/6kTvM9JYiEriQHNRXhFUPs"
@@ -6899,6 +6899,24 @@
     },
     {
       "album": {
+        "name": "Nebula's Lullaby",
+        "url": "https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo"
+      },
+      "artists": [
+        {
+          "name": "Serena Perez",
+          "url": "https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128104,
+      "name": "Nebula's Lullaby",
+      "url": "https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b"
+    },
+    {
+      "album": {
         "name": "Nell'angolo",
         "url": "https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f"
       },
@@ -8541,6 +8559,24 @@
     },
     {
       "album": {
+        "name": "Sense of narrative",
+        "url": "https://open.spotify.com/album/2nAHczJyLyaoAZEMxqqwVj"
+      },
+      "artists": [
+        {
+          "name": "Africa Levine",
+          "url": "https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120155,
+      "name": "Sense of narrative",
+      "url": "https://open.spotify.com/track/0KDz1JWVTq6oKKflHHlmZD"
+    },
+    {
+      "album": {
         "name": "Serata Silenziosa",
         "url": "https://open.spotify.com/album/1XEY8srIqh18PkbQK84tpc"
       },
@@ -8660,7 +8696,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 161062,
       "name": "Shadmoor",
       "url": "https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu"

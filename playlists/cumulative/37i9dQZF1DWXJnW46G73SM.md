@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-706 songs - 1 day 16 hr 8 min
+708 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Alb Safi](https://open.spotify.com/track/0WrqGT7608mOopBNxKtjzz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Alb Safi](https://open.spotify.com/album/4Mk24O7u5xVwkNOSGINF5s) | 2:31 | 2023-09-29 |  |
 | [Alby](https://open.spotify.com/track/7ab1uoTh1wA2jyRIkjKFEy) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Alby](https://open.spotify.com/album/3yrLQsZ78t3IlRjBAQuodN) | 3:40 | 2023-04-20 | 2023-05-19 |
 | [Alby Habak Gedan](https://open.spotify.com/track/4pGaxNrUaxI98DYSK6s7mj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Alby Habak Gedan](https://open.spotify.com/album/6C4b7LphPB912ZLNdO6AuU) | 3:19 | 2022-08-18 | 2022-11-10 |
+| [Alby Ma3ak](https://open.spotify.com/track/6P4OUrP9UwjTakaoOJ4njV) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Alby Ma3ak](https://open.spotify.com/album/5MoX8FjhsUEt9AxbZ5RIki) | 3:35 | 2023-12-20 |  |
 | [Aleb Fel Dafater](https://open.spotify.com/track/68WRDAU8QecpIyasp2BEby) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Aleb Fel Dafater](https://open.spotify.com/album/6yF1BKku71kjth4L1WEMYV) | 5:06 | 2022-12-23 | 2023-02-15 |
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-02-16 | 2022-05-19 |
 | [Alf Rooh \(Manoukian/Angelo Remix\)](https://open.spotify.com/track/5s85Ha9iUpfjh4wB0yi7Ae) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Guy Manoukian](https://open.spotify.com/artist/7cSr0LrHabJyfJRCEfoB00), [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g) | [Alf Rooh \(Manoukian/Angelo Remix\)](https://open.spotify.com/album/31pWCpj4AthQfLCkPvHezl) | 2:59 | 2023-08-20 | 2023-10-20 |
@@ -357,7 +358,7 @@
 | [Men Kan Yesda2](https://open.spotify.com/track/0fbkNOvYVWwdxfi2Yixpb3) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Men Kan Yesda2](https://open.spotify.com/album/6yW8Ll16re8wsQA4N2hS0g) | 3:28 | 2023-08-16 | 2023-09-30 |
 | [Men Wara Albi](https://open.spotify.com/track/48FJYiS6TNaowp08T8Q5fr) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Men Wara Albi](https://open.spotify.com/album/5iv1nz7NCOvTkVfbaIKkvQ) | 3:29 | 2022-01-20 | 2022-04-08 |
 | [Mennak Lellah](https://open.spotify.com/track/48OBnNO9eX6vmDSrUOxmEK) | [Klinsh](https://open.spotify.com/artist/5rq3WcJv093b36wart7yqw), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [Mennak Lellah](https://open.spotify.com/album/0Giycx3BBLCW7gFQzDuu28) | 3:35 | 2023-08-17 | 2023-10-03 |
-| [Merayat](https://open.spotify.com/track/26bqj6BXWypzTuvXB8bTX6) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Merayat](https://open.spotify.com/album/3z1n5psdjX6jdF3DX0eltI) | 3:33 | 2023-08-30 |  |
+| [Merayat](https://open.spotify.com/track/26bqj6BXWypzTuvXB8bTX6) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Merayat](https://open.spotify.com/album/3z1n5psdjX6jdF3DX0eltI) | 3:33 | 2023-08-30 | 2023-12-21 |
 | [Mesaykeb](https://open.spotify.com/track/30z7f3qOR40Cm8BbmLZUPK) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Mesaykeb](https://open.spotify.com/album/6Pwe6SUTBDiORJkyCqWFcr) | 3:05 | 2022-03-18 | 2022-07-11 |
 | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/track/4Xix6C8Ny51e3l6ZGzFCBA) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/album/6IVMIrWOyWsjfLXBATH3Jb) | 2:50 | 2023-02-01 | 2023-03-10 |
 | [Mesh Nadman](https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mesh Nadman](https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy) | 2:55 | 2021-12-29 | 2022-03-10 |
@@ -405,6 +406,7 @@
 | [Roh El Roh](https://open.spotify.com/track/2d1YGwEyCdZWSNUq8RdNOF) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Roh El Roh](https://open.spotify.com/album/3CLCOTwffwGNxTr3mPjWup) | 2:46 | 2022-05-31 | 2022-08-24 |
 | [Roma](https://open.spotify.com/track/5GDhHuLpmneh1DCMyKMJp3) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:30 | 2022-09-23 | 2022-12-30 |
 | [Romansiya](https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6) | [Jana Rouhana](https://open.spotify.com/artist/6AhEmp51A77u9mhS2NQfkn) | [Romansiya](https://open.spotify.com/album/2QVGKT995oqS7roo29KHza) | 3:14 | 2022-02-22 | 2022-06-03 |
+| [Rooh](https://open.spotify.com/track/2qfg2K2fX4VDaWOcl2tEFh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Rooh](https://open.spotify.com/album/7gQvelMzNHp52llxlr1g4T) | 2:37 | 2023-12-20 |  |
 | [S.N.I.T.C.H.](https://open.spotify.com/track/23M7HHUlytLFnFiVjYOq70) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:26 | 2022-08-18 | 2022-11-09 |
 | [Sa3ban 3Leek 7Ali](https://open.spotify.com/track/4Hib1b1q0V4oPl9TK9FACT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sa3ban 3Leek 7Ali](https://open.spotify.com/album/6hieLXlyUagk7Qbdd61H0m) | 4:32 | 2023-01-19 | 2023-02-24 |
 | [Sa3et el Tagaly](https://open.spotify.com/track/2TfCBbEFWDG75KijCmcAwN) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Sa3et el Tagaly](https://open.spotify.com/album/4dOdX0tGwKsJMSR9mRzv34) | 4:03 | 2022-08-18 | 2022-11-09 |
@@ -412,7 +414,7 @@
 | [Saahabit Saif](https://open.spotify.com/track/6ftsJkHUh93b1VEFDKVmSy) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Saahabit Saif](https://open.spotify.com/album/1X2ySoDIHfDk2pVBoR8cTc) | 2:57 | 2023-10-06 |  |
 | [Sabok Fel Beit](https://open.spotify.com/track/31VMiaHcvuaO3Hz2bWb0Qw) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Sabok Fel Beit](https://open.spotify.com/album/3EroB4W63EzsReYPUq3W5r) | 5:10 | 2023-05-04 | 2023-06-09 |
 | [Sad Khana](https://open.spotify.com/track/1AIQIDVTAbmlOSNdhOjUlc) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Sad Khana](https://open.spotify.com/album/1Ejmq4KPVN6jDkZmWfTIFt) | 3:52 | 2023-02-16 | 2023-04-21 |
-| [Safert B3eed \- سافرت بعيد](https://open.spotify.com/track/4dRCwaICB2eo2VBcelXmNu) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Safert B3eed \(سافرت بعيد\)](https://open.spotify.com/album/0WZPlrKmI7mZPjBkIahYkg) | 4:03 | 2023-08-28 |  |
+| [Safert B3eed \- سافرت بعيد](https://open.spotify.com/track/4dRCwaICB2eo2VBcelXmNu) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Safert B3eed \(سافرت بعيد\)](https://open.spotify.com/album/0WZPlrKmI7mZPjBkIahYkg) | 4:03 | 2023-08-28 | 2023-12-21 |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-07 | 2022-09-26 |
 | [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2021-12-23 | 2022-01-21 |
 | [Salam](https://open.spotify.com/track/3FqMnmjsk4KDSdDC279tUS) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Salam](https://open.spotify.com/album/4GZe5xoQhego59080gUcqM) | 4:00 | 2021-12-23 | 2022-01-11 |

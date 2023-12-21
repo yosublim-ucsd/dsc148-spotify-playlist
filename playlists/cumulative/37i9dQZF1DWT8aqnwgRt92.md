@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,079 songs - 2 day 20 hr 8 min
+1,080 songs - 2 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [GRAYSCALE DOMINATOR](https://open.spotify.com/track/3d3daBk3HYupo4j1QIp0yx) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON](https://open.spotify.com/album/7vnKFhEQihYcVGPAClsSBL) | 3:31 | 2023-10-05 |  |
 | [Growing up](https://open.spotify.com/track/1YXgEhut1Mo2Y44IgsvP7f) | [7ORDER](https://open.spotify.com/artist/2RitDQzohyR2zJXoqovut4) | [Growing up](https://open.spotify.com/album/45CvOi9Mgco3LIA6TtMue7) | 4:16 | 2022-10-01 | 2022-11-30 |
 | [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 | 2022-07-28 | 2022-10-14 |
+| [Guide and Devote](https://open.spotify.com/track/6TBGoqXlsyvs7Mq7yWQQ1e) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [Guide and Devote](https://open.spotify.com/album/1p5iDrsIRRadjrIvk6dK7Q) | 3:21 | 2023-12-19 |  |
 | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/track/1aA5eHoRPcuNxtJkVeWoZy) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV) | 3:49 | 2023-10-03 | 2023-10-18 |
 | [Guruguru Live](https://open.spotify.com/track/1vdYPvIKC9ekIGbUWmTP2z) | [由崎司\(CV:鬼頭明里\)](https://open.spotify.com/artist/3DZPDkF2LcgJBefu3J1k6k) | [Guruguru Live](https://open.spotify.com/album/3bkqSeYL7wnAqEvDr7zRYc) | 3:52 | 2023-07-11 | 2023-10-04 |
 | [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 | 2023-04-04 | 2023-07-12 |
@@ -943,7 +944,7 @@
 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-01-17 | 2023-04-12 |
 | [寄花\-Yosuga\-](https://open.spotify.com/track/4AK1qzjvhxUtUujZoZ22Z1) | [\#kzn](https://open.spotify.com/artist/6PPyZ24emAZuxz2OK9DDCq), [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [寄花\-Yosuga\-](https://open.spotify.com/album/6RT1XoXFGcW33smcuJY0yk) | 3:30 | 2023-04-25 | 2023-06-14 |
 | [射法八節のテーマ](https://open.spotify.com/track/2RH22gpiutuuYptyKdvyCv) | [マサさん](https://open.spotify.com/artist/0K9hJwvrDJtDcKNmVZzxl8), [風舞高校弓道部](https://open.spotify.com/artist/51GLREkifjMHwZb8HGLnTZ) | [TVアニメ『ツルネ \-つながりの一射\-』オリジナルサウンドトラック Chapter2 キャラクターユニットソングシングル](https://open.spotify.com/album/5aVMl4ig8VlrtMPfJr5anm) | 4:19 | 2023-04-06 | 2023-04-09 |
-| [導き、捧げて](https://open.spotify.com/track/0RYUwHdrLC6PerPqxM76wt) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [導き、捧げて](https://open.spotify.com/album/5ZdXqOwCsv5DuyMJUM5d9U) | 3:21 | 2023-12-19 |  |
+| [導き、捧げて](https://open.spotify.com/track/0RYUwHdrLC6PerPqxM76wt) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [導き、捧げて](https://open.spotify.com/album/5ZdXqOwCsv5DuyMJUM5d9U) | 3:21 | 2023-12-19 | 2023-12-21 |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-05-28 | 2022-07-13 |
 | [希望の声](https://open.spotify.com/track/0BngQzqA4SQbcdZYy88BqB) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [Anela](https://open.spotify.com/artist/1BeVYVAzCorZ52aPMereYt) | [希望の声](https://open.spotify.com/album/5NAgL68RJr4Ribm5Okzu90) | 4:09 | 2023-02-21 | 2023-03-01 |
 | [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 | 2023-07-04 | 2023-10-06 |

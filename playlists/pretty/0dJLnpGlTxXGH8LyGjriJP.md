@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 720 songs - 1 day 12 hr 33 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 721 songs - 1 day 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -728,5 +728,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 718 | [GO](https://open.spotify.com/track/7dnlipXNH2vLvhvTkhWPGq) | [HorseTheOne](https://open.spotify.com/artist/2f3UhhzxocxMpddhF3dclq), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [264 Quez](https://open.spotify.com/artist/30y2oENJyPSHmwXktCAMyH) | [GO](https://open.spotify.com/album/168z0q817tjY23vzPjRkZA) | 3:14 |
 | 719 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 |
 | 720 | [Vultures](https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bump J](https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Vultures](https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y) | 4:36 |
+| 721 | [Peek A Boo](https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Peek A Boo](https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b) | 4:07 |
 
-Snapshot ID: `ODg1LGM4NzA3ODExOTI4Y2QzYmYzNDNiMTczY2FiM2I5ZGY2ODM0ZDk1NjQ=`
+Snapshot ID: `ODg2LGU1MDlhYTNhNzkzYmNhYjcwYmI2NmVmMTQ0MjFmZTIwZDBhOWI1NDM=`

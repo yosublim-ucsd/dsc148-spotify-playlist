@@ -1,12 +1,12 @@
 {
   "description": "La nueva generaci\u00f3n del pop que defini\u00f3 el 2023 con RENEE en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 67056,
+  "num_followers": 67061,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzU5ZDI5MmM1MDI4Yjc0Yjk0YWFiYzhlNzQxNzYzNTk4ZmE3MDZj",
+  "snapshot_id": "MCw0ODgyMDIxZWU3NzU1NmVmM2IzYzNjOTA0MGRmY2FiMmYxNmQ4MmNk",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "tiempo",
-      "url": "https://open.spotify.com/track/535DppotJEFD9C8636VIYQ"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "de mi cabeza no te vas",
         "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 151011,
       "name": "de mi cabeza no te vas",
       "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "tiempo",
+      "url": "https://open.spotify.com/track/535DppotJEFD9C8636VIYQ"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "odiarte",
-        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "odiarte",
-      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Como las Aves",
         "url": "https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 138400,
       "name": "Como las Aves",
       "url": "https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "odiarte",
+        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "odiarte",
+      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "no soy yo",
-        "url": "https://open.spotify.com/album/3gS6OyLqYMKvBJelzhUCHP"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 153639,
-      "name": "no soy yo",
-      "url": "https://open.spotify.com/track/0tAacdFeAEMvufvMJWPDWY"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "todo pasa",
         "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 170803,
       "name": "cansada de verte en todas partes",
       "url": "https://open.spotify.com/track/3DXxe99pe0kM1UBgUR8fGm"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "no soy yo",
+        "url": "https://open.spotify.com/album/3gS6OyLqYMKvBJelzhUCHP"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 153639,
+      "name": "no soy yo",
+      "url": "https://open.spotify.com/track/0tAacdFeAEMvufvMJWPDWY"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Ultraviolento",
-        "url": "https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ultraviolento",
-      "url": "https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "lo har\u00eda todo de nuevo",
         "url": "https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 213614,
       "name": "Ya nada es igual",
       "url": "https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Ultraviolento",
+        "url": "https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ultraviolento",
+      "url": "https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi"
     },
     {
       "added_at": "2023-11-29 12:16:00",

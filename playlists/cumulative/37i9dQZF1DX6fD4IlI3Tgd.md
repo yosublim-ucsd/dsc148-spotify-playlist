@@ -4,14 +4,15 @@
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-64 songs - 3 hr 36 min
+65 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acordeão](https://open.spotify.com/track/0XOpvVTsOIdYQ3gyyu9onu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Together](https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ) | 2:11 | 2023-08-18 |  |
 | [Alba \(Morning Edit\)](https://open.spotify.com/track/6wD0PUnxMFZyH8j87BFCzR) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Gazelle](https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU) | [Alba \(Morning Edit\)](https://open.spotify.com/album/5Tf7ljSwfqPqQENBDmC8OT) | 3:03 | 2023-08-18 |  |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2023-08-18 |  |
-| [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 | 2023-08-18 |  |
+| [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 | 2023-08-18 | 2023-12-21 |
+| [Amiga Mía](https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU) | 3:40 | 2023-08-18 |  |
 | [AMOR // QUE BIEN LO BAILA](https://open.spotify.com/track/3xz4Jg0TxpkyH9axrFFNFW) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [AMOR // QUE BIEN LO BAILA](https://open.spotify.com/album/2IH4LWJl1W4XNqojhOQTUV) | 3:15 | 2023-08-18 |  |
 | [Baile Nómade](https://open.spotify.com/track/3V7Vsr4ZJez009CaCVxTMm) | [Migra](https://open.spotify.com/artist/4a37ZjTU7w166FGIdRYi9G) | [Baile Nómade](https://open.spotify.com/album/1KtR00mNAAa71nOKhEp3Yz) | 4:47 | 2023-08-18 |  |
 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 | 2023-08-18 |  |

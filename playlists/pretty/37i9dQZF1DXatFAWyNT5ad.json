@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Knox",
-  "num_followers": 130104,
+  "num_followers": 130168,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGE5ZGU1NjU1YzQ3MGU2YjM5ODJlMmY0OTJiNDYxYWJmMTRjZjM4",
+  "snapshot_id": "MCw0OTU1NmIxYzA0NTU5ZjRhMTQxNmE2NzFhMWIwZjVjMTM5OTk4MWY4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "ONE MORE TIME...",
-        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 138460,
-      "name": "FELL IN LOVE",
-      "url": "https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 138460,
+      "name": "FELL IN LOVE",
+      "url": "https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Cinderella Snapped",
-        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "Cinderella Snapped",
-      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Heart Attack (Rock Version)",
         "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Cinderella Snapped",
+        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "Cinderella Snapped",
+      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 187838,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 187838,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 163321,
-      "name": "Bois Lie (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 163321,
+      "name": "Bois Lie (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "How Do You Love Me",
-        "url": "https://open.spotify.com/album/5jKzirISr4V40vLUvN8gMI"
-      },
-      "artists": [
-        {
-          "name": "Nicotine Dolls",
-          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
-        }
-      ],
-      "duration_ms": 236490,
-      "name": "How Do You Love Me",
-      "url": "https://open.spotify.com/track/44UXLRvq1ZrSLb32OVOteB"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 158723,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/0QRWbkURJ1dJ3yilr8MriQ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "How Do You Love Me",
+        "url": "https://open.spotify.com/album/5jKzirISr4V40vLUvN8gMI"
+      },
+      "artists": [
+        {
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+        }
+      ],
+      "duration_ms": 236490,
+      "name": "How Do You Love Me",
+      "url": "https://open.spotify.com/track/44UXLRvq1ZrSLb32OVOteB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "I Hope I'm Not Sick",
-        "url": "https://open.spotify.com/album/34jYFXH3ybEIklGpPGzJ9D"
-      },
-      "artists": [
-        {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
-        }
-      ],
-      "duration_ms": 151502,
-      "name": "I Hope I'm Not Sick",
-      "url": "https://open.spotify.com/track/37QHhhnI5uuYSuJuWskV86"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Friend For Life (with Medium Build)",
         "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 210773,
       "name": "Friend For Life (with Medium Build)",
       "url": "https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "I Hope I'm Not Sick",
+        "url": "https://open.spotify.com/album/34jYFXH3ybEIklGpPGzJ9D"
+      },
+      "artists": [
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "duration_ms": 151502,
+      "name": "I Hope I'm Not Sick",
+      "url": "https://open.spotify.com/track/37QHhhnI5uuYSuJuWskV86"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Where The Light Goes",
-        "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 212649,
-      "name": "Queen of New York City",
-      "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 192748,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Where The Light Goes",
+        "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 212649,
+      "name": "Queen of New York City",
+      "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "MASOCHIST",
+        "url": "https://open.spotify.com/album/2NM15uX3nFGvD6nnJUCuPK"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "MASOCHIST",
+      "url": "https://open.spotify.com/track/1fDGlJAUBDeCgWYqhna9jN"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "FREAK (Feat. jxdn)",
         "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "MASOCHIST",
-        "url": "https://open.spotify.com/album/2NM15uX3nFGvD6nnJUCuPK"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "MASOCHIST",
-      "url": "https://open.spotify.com/track/1fDGlJAUBDeCgWYqhna9jN"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "wear your heart out",
-        "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
-      },
-      "artists": [
-        {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
-        }
-      ],
-      "duration_ms": 191287,
-      "name": "the feeling",
-      "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "How Do You Love Me",
         "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 281644,
       "name": "30 Somehow",
       "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "wear your heart out",
+        "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 191287,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
     },
     {
       "added_at": "2023-12-15 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 170189,
+  "num_followers": 170209,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjI0NzU3NzUxMzM5MTAwNDY2YTIwYmY5Nzk3OTBjZWVmYjI0YTIz",
+  "snapshot_id": "MCxhZGQzYWZiNjRjMWZjZWFiNWM1MGRiNGQ5ZjZkOTA3YzFjYzcxYzA1",
   "tracks": [
     {
       "added_at": "2023-12-15 19:23:32",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex",
         "url": "https://open.spotify.com/album/3ryXum3u0sEV2f6oBHXI22"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "VENTE CONMIGO",
-        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 186000,
-      "name": "VENTE CONMIGO",
-      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+      "duration_ms": 180960,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -727,6 +711,22 @@
       "duration_ms": 220173,
       "name": "Mi Lova",
       "url": "https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Si Te La Encuentras Por Ah\u00ed",
-        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
         "name": "qu\u00e9 le pasa conmigo?",
         "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "Si Te La Encuentras Por Ah\u00ed",
+        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Me Muevo Con Dios",
-        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
-      },
-      "artists": [
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 180374,
-      "name": "Movezz en silencio",
-      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
         "name": "Qui\u00e9reme Mientras Se Pueda",
         "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 191945,
       "name": "Qui\u00e9reme Mientras Se Pueda",
       "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "Palabras Sobran",
-        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Palabras Sobran",
-      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -971,6 +955,38 @@
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "Palabras Sobran",
+        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Palabras Sobran",
+      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1015,22 +1031,6 @@
       "duration_ms": 261713,
       "name": "Andando",
       "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "Give Me",
-        "url": "https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
         "name": "T\u00fa Me Mientes",
         "url": "https://open.spotify.com/album/4VOFDUp6KaKOe1r68ko701"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 178789,
       "name": "T\u00fa Me Mientes",
       "url": "https://open.spotify.com/track/6cjXpb4vraCUSSZA7tHtWb"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
+        "name": "X Amor",
+        "url": "https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 172673,
+      "name": "@",
+      "url": "https://open.spotify.com/track/3iIrUWBCmUXGAyk7ITVhr5"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "Apaga la Luz",
-        "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 191223,
-      "name": "Apaga la Luz",
-      "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
+        "name": "Apaga la Luz",
+        "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 191223,
+      "name": "Apaga la Luz",
+      "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
@@ -1431,6 +1451,22 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
+        "name": "La Verde",
+        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 181342,
+      "name": "La Verde",
+      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
         "name": "Fumando",
         "url": "https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV"
       },
@@ -1447,42 +1483,6 @@
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "X Amor",
-        "url": "https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 172673,
-      "name": "@",
-      "url": "https://open.spotify.com/track/3iIrUWBCmUXGAyk7ITVhr5"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "La Verde",
-        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 181342,
-      "name": "La Verde",
-      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
+        "name": "CHAO BEBE",
+        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 206499,
+      "name": "CHAO BEBE",
+      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
         "name": "Pa Casa",
         "url": "https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 208941,
       "name": "Pa Casa",
       "url": "https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
-        "name": "CHAO BEBE",
-        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 206499,
-      "name": "CHAO BEBE",
-      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
     },
     {
       "added_at": "2023-12-15 19:23:32",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-12-15 19:23:32",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 239206,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1"
-    },
-    {
-      "added_at": "2023-12-15 19:23:32",
-      "album": {
         "name": "BILLBOARD",
         "url": "https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 234984,
       "name": "BILLBOARD",
       "url": "https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc"
+    },
+    {
+      "added_at": "2023-12-15 19:23:32",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 239206,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1"
     },
     {
       "added_at": "2023-12-15 19:23:32",

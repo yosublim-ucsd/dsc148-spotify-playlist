@@ -1,12 +1,12 @@
 {
   "description": "pov: your Spotify Wrapped says you\u2019re from berkeley, burlington, or cambridge",
-  "num_followers": 1455375,
+  "num_followers": 1455724,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDMxZTM0Njg0ZjgyM2E0ZTQ3OTc2NjMxNjMyM2Y3YTE2MDUzZjUz",
+  "snapshot_id": "MCxhOTU1YTUyNGExYzQyMjBhZjY5MTJkOWQyZDBjOWIzZTExNzVhNjRi",
   "tracks": [
     {
       "added_at": "2023-11-29 20:50:44",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
-        "name": "The Covers Record",
-        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
-    },
-    {
-      "added_at": "2023-11-29 20:50:44",
-      "album": {
         "name": "We'll Never Have Sex",
         "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 99620,
       "name": "We'll Never Have Sex",
       "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
+    },
+    {
+      "added_at": "2023-11-29 20:50:44",
+      "album": {
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
     },
     {
       "added_at": "2023-11-29 20:50:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
-      },
-      "artists": [
-        {
-          "name": "Michele Leigh",
-          "url": "https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A"
-        }
-      ],
-      "duration_ms": 165254,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
-    },
-    {
-      "added_at": "2023-11-29 20:50:44",
-      "album": {
         "name": "Shelly",
         "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 170892,
       "name": "Steeeam",
       "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
+    },
+    {
+      "added_at": "2023-11-29 20:50:44",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
+      },
+      "artists": [
+        {
+          "name": "Michele Leigh",
+          "url": "https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A"
+        }
+      ],
+      "duration_ms": 165254,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
     },
     {
       "added_at": "2023-11-29 20:50:44",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
-        "name": "When The Pawn...",
-        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 295133,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw"
-    },
-    {
-      "added_at": "2023-11-29 20:50:44",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+    },
+    {
+      "added_at": "2023-11-29 20:50:44",
+      "album": {
+        "name": "When The Pawn...",
+        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 295133,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw"
     },
     {
       "added_at": "2023-11-29 20:50:44",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-29 20:50:44",
       "album": {
-        "name": "Lovers Fevers",
-        "url": "https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU"
-      },
-      "artists": [
-        {
-          "name": "Babygirl",
-          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
-        }
-      ],
-      "duration_ms": 211744,
-      "name": "I Wish I Never Met You",
-      "url": "https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs"
-    },
-    {
-      "added_at": "2023-11-29 20:50:44",
-      "album": {
         "name": "Call Me by Your Name (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 248964,
       "name": "Mystery of Love",
       "url": "https://open.spotify.com/track/0MNNKSUU9OOQ8DSGWduw79"
+    },
+    {
+      "added_at": "2023-11-29 20:50:44",
+      "album": {
+        "name": "Lovers Fevers",
+        "url": "https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU"
+      },
+      "artists": [
+        {
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+        }
+      ],
+      "duration_ms": 211744,
+      "name": "I Wish I Never Met You",
+      "url": "https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs"
     }
   ],
   "unique_name": "sad girl starter pack",

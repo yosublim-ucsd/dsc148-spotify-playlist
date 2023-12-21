@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 983013,
+  "num_followers": 983133,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzhkNTZmYjZhNWEwZmM2ZGJjYWFhMGMxMTBkZTY3NGQ5YmUxM2Nm",
+  "snapshot_id": "MCwwZTk4OWE1M2JmMjkxOGRmMDlhZGI4N2RjNWJmOWI3YzQ4OGZjYWQw",
   "tracks": [
     {
       "added_at": "2023-11-27 18:55:30",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF"
+      },
+      "artists": [
+        {
+          "name": "SHADU",
+          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/4xhLEnoyZwuRFzMlP4VgeO"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF"
-      },
-      "artists": [
-        {
-          "name": "SHADU",
-          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "New & Improved",
         "url": "https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa"
       },
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/1P9kRQQakrLJwFIY7RMbnZ"
+      },
+      "artists": [
+        {
+          "name": "Balcony Sunrise",
+          "url": "https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF"
+        }
+      ],
+      "duration_ms": 253902,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/1JVZ0m1ZFBtg8qFUdEE4PU"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Summer Is Over (Fury Weekend Remix)",
         "url": "https://open.spotify.com/album/3ei5DAzCrXMzK4PXCqhBAg"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 235514,
       "name": "Summer Is Over - Fury Weekend Remix",
       "url": "https://open.spotify.com/track/3YN9eeNlFB4zEStaV9RBlo"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/1P9kRQQakrLJwFIY7RMbnZ"
-      },
-      "artists": [
-        {
-          "name": "Balcony Sunrise",
-          "url": "https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF"
-        }
-      ],
-      "duration_ms": 253902,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/1JVZ0m1ZFBtg8qFUdEE4PU"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Floating Point",
+        "url": "https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu"
+      },
+      "artists": [
+        {
+          "name": "Massive Z",
+          "url": "https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv"
+        },
+        {
+          "name": "Rogue VHS",
+          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
+        }
+      ],
+      "duration_ms": 268805,
+      "name": "Floating Point",
+      "url": "https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1x7e6XjzMelvkqSJVMkQve"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 299239,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6pB59ef67FGX7zALUxATo4"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Floating Point",
-        "url": "https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu"
-      },
-      "artists": [
-        {
-          "name": "Massive Z",
-          "url": "https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv"
-        },
-        {
-          "name": "Rogue VHS",
-          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
-        }
-      ],
-      "duration_ms": 268805,
-      "name": "Floating Point",
-      "url": "https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 258941,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/3b7zXxAnACY66H0JnV6EBU"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 190998,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/2MCHEtkqXvG4uxuC7IOJQ8"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 258941,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Space Waves",
+        "url": "https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD"
+      },
+      "artists": [
+        {
+          "name": "Ben Elson",
+          "url": "https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa"
+        }
+      ],
+      "duration_ms": 168336,
+      "name": "UNIX 82",
+      "url": "https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/3Mk2cAyTC12pgzNtBXPPFq"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 324300,
       "name": "Party in Panama (Julian Winding Remix)",
       "url": "https://open.spotify.com/track/1QQcWkDHB1sVxu46jLt9gJ"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Space Waves",
-        "url": "https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD"
-      },
-      "artists": [
-        {
-          "name": "Ben Elson",
-          "url": "https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa"
-        }
-      ],
-      "duration_ms": 168336,
-      "name": "UNIX 82",
-      "url": "https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3wabwuZW2LWdGANxoEVUfj"
+      },
+      "artists": [
+        {
+          "name": "Lamorn",
+          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+        }
+      ],
+      "duration_ms": 193300,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/4u6wEBY7g2KEzGqVhuVSq1"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Dauntless to the End",
         "url": "https://open.spotify.com/album/0dMHuVVp1QsmCeuHXmhW0A"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 187238,
       "name": "Dauntless to the End",
       "url": "https://open.spotify.com/track/4sLWuYCHBEooHf5FpPUkyw"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3wabwuZW2LWdGANxoEVUfj"
-      },
-      "artists": [
-        {
-          "name": "Lamorn",
-          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
-        }
-      ],
-      "duration_ms": 193300,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/4u6wEBY7g2KEzGqVhuVSq1"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Before I Go",
-        "url": "https://open.spotify.com/album/5fFaSHgDjLJV5Gt04ezP8P"
-      },
-      "artists": [
-        {
-          "name": "Electronic Gems",
-          "url": "https://open.spotify.com/artist/311L9difAs5Rrx0R8XdX1v"
-        },
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Before I Go",
-      "url": "https://open.spotify.com/track/1qSWEe3S1ocuGZwNAHr9IL"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "I Don't Need a Hero (Cody Crump Remix)",
         "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 183841,
       "name": "I Don't Need a Hero - Cody Crump Remix",
       "url": "https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/5fFaSHgDjLJV5Gt04ezP8P"
+      },
+      "artists": [
+        {
+          "name": "Electronic Gems",
+          "url": "https://open.spotify.com/artist/311L9difAs5Rrx0R8XdX1v"
+        },
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Before I Go",
+      "url": "https://open.spotify.com/track/1qSWEe3S1ocuGZwNAHr9IL"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
+        "url": "https://open.spotify.com/album/0VXVzLE88TUjuL70AhCkWY"
+      },
+      "artists": [
+        {
+          "name": "Baldocaster",
+          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
+      "url": "https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/72tw9FXt9VsabfFSzAHXLO"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
-        "url": "https://open.spotify.com/album/0VXVzLE88TUjuL70AhCkWY"
-      },
-      "artists": [
-        {
-          "name": "Baldocaster",
-          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
-      "url": "https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Recall",
         "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
       },
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Among Wolves",
-        "url": "https://open.spotify.com/album/1mhuy869BxmT6A2gVXr35i"
+        "name": "D.I.V.I.N.E",
+        "url": "https://open.spotify.com/album/43qAcL5ZxeONy7X5yZbDBh"
       },
       "artists": [
         {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+          "name": "DEPARTURE",
+          "url": "https://open.spotify.com/artist/1hKMcEF7YVRkjXMRpl6aqN"
         }
       ],
-      "duration_ms": 130500,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2S1pXtETDouy0erB6fKQ3E"
+      "duration_ms": 226064,
+      "name": "D.I.V.I.N.E",
+      "url": "https://open.spotify.com/track/2h5zgTg4wfn7UR1mzFrDZK"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1671,18 +1671,34 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "D.I.V.I.N.E",
-        "url": "https://open.spotify.com/album/43qAcL5ZxeONy7X5yZbDBh"
+        "name": "Among Wolves",
+        "url": "https://open.spotify.com/album/1mhuy869BxmT6A2gVXr35i"
       },
       "artists": [
         {
-          "name": "DEPARTURE",
-          "url": "https://open.spotify.com/artist/1hKMcEF7YVRkjXMRpl6aqN"
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
         }
       ],
-      "duration_ms": 226064,
-      "name": "D.I.V.I.N.E",
-      "url": "https://open.spotify.com/track/2h5zgTg4wfn7UR1mzFrDZK"
+      "duration_ms": 130500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2S1pXtETDouy0erB6fKQ3E"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Nostalgie",
+        "url": "https://open.spotify.com/album/5sXsIIlGgRm5rTuA4bYycO"
+      },
+      "artists": [
+        {
+          "name": "Atrey",
+          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/7yO4fWo877xXUlizCP2Xn0"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/5t6yVw28KJI3drkaTZuVoV"
-      },
-      "artists": [
-        {
-          "name": "Space Tourist",
-          "url": "https://open.spotify.com/artist/2t1mY9H3gW7Z86pcuXIEm2"
-        }
-      ],
-      "duration_ms": 224654,
-      "name": "Iridescent",
-      "url": "https://open.spotify.com/track/0oeCXjVP3WBHZuVQQu9PZk"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Temporarity (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn"
       },
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Nostalgie",
-        "url": "https://open.spotify.com/album/5sXsIIlGgRm5rTuA4bYycO"
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/5t6yVw28KJI3drkaTZuVoV"
       },
       "artists": [
         {
-          "name": "Atrey",
-          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
+          "name": "Space Tourist",
+          "url": "https://open.spotify.com/artist/2t1mY9H3gW7Z86pcuXIEm2"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Nostalgie",
-      "url": "https://open.spotify.com/track/7yO4fWo877xXUlizCP2Xn0"
+      "duration_ms": 224654,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/0oeCXjVP3WBHZuVQQu9PZk"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Video Knights",
+        "url": "https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb"
+      },
+      "artists": [
+        {
+          "name": "spring gang",
+          "url": "https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf"
+        }
+      ],
+      "duration_ms": 252729,
+      "name": "Video Knights",
+      "url": "https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Cloud Symphonies",
         "url": "https://open.spotify.com/album/6fqYtdrZNm9nWU7ILgjnth"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 342031,
       "name": "Echoes Of The Past",
       "url": "https://open.spotify.com/track/25yFIb4x438niHV77uRU8p"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Video Knights",
-        "url": "https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb"
-      },
-      "artists": [
-        {
-          "name": "spring gang",
-          "url": "https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf"
-        }
-      ],
-      "duration_ms": 252729,
-      "name": "Video Knights",
-      "url": "https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
-      },
-      "artists": [
-        {
-          "name": "World Complete",
-          "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
-        }
-      ],
-      "duration_ms": 247879,
-      "name": "Event Horizon",
-      "url": "https://open.spotify.com/track/1g93dmi3Uw9YLFs0roRedm"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 224001,
       "name": "Try",
       "url": "https://open.spotify.com/track/3J3kAVctdwSU4wQ0CDz7aB"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
+      },
+      "artists": [
+        {
+          "name": "World Complete",
+          "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
+        }
+      ],
+      "duration_ms": 247879,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/1g93dmi3Uw9YLFs0roRedm"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Shift",
-        "url": "https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0"
-      },
-      "artists": [
-        {
-          "name": "Voyage",
-          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Shift",
-      "url": "https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Eleos",
         "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 219609,
       "name": "We Find Ourselves - Edit",
       "url": "https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Shift",
+        "url": "https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0"
+      },
+      "artists": [
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Shift",
+      "url": "https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2323,18 +2323,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Pathfinder",
-        "url": "https://open.spotify.com/album/7M7VL9seSZrzPwHlti9DBy"
+        "name": "Kame House",
+        "url": "https://open.spotify.com/album/2gU8WHMubp57KZ2wBnIodF"
       },
       "artists": [
         {
-          "name": "Odyssette",
-          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
+          "name": "Mooij",
+          "url": "https://open.spotify.com/artist/7lQg4lpuza29dzqz71GarH"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Pathfinder",
-      "url": "https://open.spotify.com/track/1FabIctyu6k0cDMk640Iwf"
+      "duration_ms": 325423,
+      "name": "Kame House",
+      "url": "https://open.spotify.com/track/5AgOmwG54UUIYiaPOIOG5o"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Kame House",
-        "url": "https://open.spotify.com/album/2gU8WHMubp57KZ2wBnIodF"
+        "name": "Pathfinder",
+        "url": "https://open.spotify.com/album/7M7VL9seSZrzPwHlti9DBy"
       },
       "artists": [
         {
-          "name": "Mooij",
-          "url": "https://open.spotify.com/artist/7lQg4lpuza29dzqz71GarH"
+          "name": "Odyssette",
+          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
         }
       ],
-      "duration_ms": 325423,
-      "name": "Kame House",
-      "url": "https://open.spotify.com/track/5AgOmwG54UUIYiaPOIOG5o"
+      "duration_ms": 224760,
+      "name": "Pathfinder",
+      "url": "https://open.spotify.com/track/1FabIctyu6k0cDMk640Iwf"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Turnover",
-        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
-      },
-      "artists": [
-        {
-          "name": "Envotion",
-          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
-        }
-      ],
-      "duration_ms": 185100,
-      "name": "Turnover",
-      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Polarity",
         "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
       },
@@ -2591,6 +2575,38 @@
       "duration_ms": 210000,
       "name": "Days Away",
       "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Turnover",
+        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
+      },
+      "artists": [
+        {
+          "name": "Envotion",
+          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
+        }
+      ],
+      "duration_ms": 185100,
+      "name": "Turnover",
+      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/0b5r4vfvbVrlBsrNOzrw5c"
+      },
+      "artists": [
+        {
+          "name": "ner\u00f8",
+          "url": "https://open.spotify.com/artist/4NTzAb63RDT3yUcOSXlP5H"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Redux",
+      "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2623,22 +2639,6 @@
       "duration_ms": 231192,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Redux",
-        "url": "https://open.spotify.com/album/0b5r4vfvbVrlBsrNOzrw5c"
-      },
-      "artists": [
-        {
-          "name": "ner\u00f8",
-          "url": "https://open.spotify.com/artist/4NTzAb63RDT3yUcOSXlP5H"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Redux",
-      "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
     },
     {
       "added_at": "2023-11-27 18:55:30",

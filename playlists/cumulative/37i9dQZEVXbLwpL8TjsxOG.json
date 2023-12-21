@@ -10216,7 +10216,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 228819,
       "name": "\u53cd\u5c0d\u7121\u6548",
       "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
@@ -12035,6 +12035,28 @@
     },
     {
       "album": {
+        "name": "\u6c38\u4e45\u640d\u6bc0",
+        "url": "https://open.spotify.com/album/3i4Kcj3rByprXlI6flcdcw"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        },
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241780,
+      "name": "\u6c38\u4e45\u640d\u6bc0",
+      "url": "https://open.spotify.com/track/1mUhvuqX0ScGodDTdnRtuL"
+    },
+    {
+      "album": {
         "name": "\u6c38\u9806\u885739\u865f",
         "url": "https://open.spotify.com/album/47sDT8IseT1h5wbizlMaIj"
       },
@@ -12262,7 +12284,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 278133,
       "name": "\u70ba\u4f55\u56b4\u91cd\u5230\u9019\u6a23",
       "url": "https://open.spotify.com/track/2nNl8uFxj9tu9jqYwSzkMm"
@@ -13024,7 +13046,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 248026,
       "name": "\u7fa4\u9752",
       "url": "https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk"

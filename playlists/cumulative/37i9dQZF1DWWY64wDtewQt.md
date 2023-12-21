@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-646 songs - 1 day 0 hr 36 min
+647 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,11 @@
 | [ALARM](https://open.spotify.com/track/4r4A0sPJCht0qP4DoOzwFJ) | [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj), [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [ALARM](https://open.spotify.com/album/6rjfUMDvJcicRolDPVfZ9p) | 2:06 | 2023-07-21 | 2023-07-29 |
 | [ALCHEMY](https://open.spotify.com/track/53GU3nsawC307mKyhH22W2) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN) | [ALCHEMY](https://open.spotify.com/album/5TpBVt5Q2u6VIW6aZ9K01m) | 2:20 | 2022-06-03 | 2022-08-06 |
 | [ALL GAS NO BRAKES](https://open.spotify.com/track/7lrWNB3WKgVGe1q7UP14pR) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [ALL GAS NO BRAKES](https://open.spotify.com/album/3kmuOoRDxLUziLPSzbA5m2) | 2:20 | 2022-06-17 | 2022-07-23 |
+| [ALORS BRAZIL](https://open.spotify.com/track/1chCGrgY25SomU1q8CMjAt) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj) | [ALORS BRAZIL](https://open.spotify.com/album/1sP5cWEnYWAEmIQutGSDks) | 1:41 | 2023-09-15 |  |
 | [ALORS BRAZIL](https://open.spotify.com/track/7hn2gCHz5NAzgPqakWrtms) | [Armut](https://open.spotify.com/artist/72Jq4Qx7m1XizJTU5jv9Wj), [Ayparia](https://open.spotify.com/artist/0nTNWXnHMzSj7wRtd3ECos), [dec24](https://open.spotify.com/artist/3Q9jNHE6UHnQcEWH2SXFF8) | [ALORS BRAZIL](https://open.spotify.com/album/1krtBVdioH9cO7TDFnoPzu) | 1:41 | 2023-09-15 | 2023-12-08 |
 | [ALORS BRAZIL](https://open.spotify.com/track/6c5u3KmfMlBxW7bFSLfGNV) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [ALORS BRAZIL](https://open.spotify.com/album/3WblrqsrqkJ72Lm09vAHE4) | 1:41 | 2023-09-15 | 2023-12-03 |
 | [ALORS BRAZIL](https://open.spotify.com/track/0ZOBrgBm0Rs4Ot7PQfAy8B) | [Jevio](https://open.spotify.com/artist/2bRqeQN0PGPakfgytsXq67) | [ALORS BRAZIL](https://open.spotify.com/album/4Sem9dJiZ2xJk4IuKCgAKX) | 1:40 | 2023-09-15 | 2023-11-30 |
-| [ALORS BRAZIL](https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY) | [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [ALORS BRAZIL](https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P) | 1:41 | 2023-09-15 |  |
+| [ALORS BRAZIL](https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY) | [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [ALORS BRAZIL](https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P) | 1:41 | 2023-09-15 | 2023-12-21 |
 | [Alors Brazil](https://open.spotify.com/track/7qVIgqZ6tmbjuLH3GrwaA3) | [nwmoscar](https://open.spotify.com/artist/3rl9ErAF7w9iachW5kebwu) | [Furia](https://open.spotify.com/album/5NxVF4lNc3gaphnhLyL456) | 1:41 | 2023-09-15 | 2023-12-04 |
 | [Always Want Me](https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Always Want Me](https://open.spotify.com/album/7hnUt41M77FkCfwn7wMcXo) | 2:10 | 2022-12-02 | 2023-02-05 |
 | [AMBAL](https://open.spotify.com/track/7usbKajM9jbTQUWGdfXCiu) | [Goos](https://open.spotify.com/artist/3qbEungOBNy6JhQGP8v5cr) | [AMBAL](https://open.spotify.com/album/0uafNnjgxsjXeU91wRoWCe) | 2:32 | 2023-01-06 | 2023-03-04 |

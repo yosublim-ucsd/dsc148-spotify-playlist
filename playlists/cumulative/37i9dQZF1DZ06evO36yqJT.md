@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 43 min
+64 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Hold My Mule \- Live](https://open.spotify.com/track/0JjsI172ped2hF5v27o28J) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 8:41 | 2023-05-12 |  |
 | [How I Love Jesus](https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 6:41 | 2023-05-12 |  |
 | [I Believe](https://open.spotify.com/track/2L3XGrMU8stZ2BdxOQ2kxj) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:15 | 2023-05-12 |  |
-| [I Cannot Stop Praising Him](https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 | 2023-12-13 |  |
+| [I Cannot Stop Praising Him](https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 | 2023-12-13 | 2023-12-21 |
 | [I Feel Like Praising Him](https://open.spotify.com/track/6ZmVj4bahhA9TkJpbNX7Jy) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Gospel Legends](https://open.spotify.com/album/7irL5EpfIUFH2Q21XRhXVA) | 5:27 | 2023-05-12 |  |
 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 | 2023-05-12 |  |
 | [I Remember Mama](https://open.spotify.com/track/1tqxg3dZ16BSRvm0xbkuYG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:22 | 2023-05-12 |  |
@@ -64,6 +64,7 @@
 | [The World Didn't Give It to Me](https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 5:06 | 2023-05-12 |  |
 | [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 | 2023-09-25 |  |
 | [Tithes and Offerings \- Live](https://open.spotify.com/track/2s2SNAPBxC4TnxTVt60xIC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...He Will Come](https://open.spotify.com/album/5a9DMGSMyl2Kq4GISbQQgp) | 5:24 | 2023-06-02 | 2023-06-16 |
+| [U Name It Holiday Anthem](https://open.spotify.com/track/2uNoV93jYDQgOmYP8VS92M) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [DJ Battlecat](https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [U Name It Holiday Anthem](https://open.spotify.com/album/3DffNWg9Aoc3ACYxCbpf7X) | 2:51 | 2023-12-20 |  |
 | [What A Friend We Have In Jesus \(You Are My Friend\) \[Ult Version\]](https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Ultimate Collection](https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg) | 4:10 | 2023-05-12 |  |
 | [Yes Lord, Yes \- Live](https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 3:55 | 2023-05-12 |  |
 | [You Are All I Need](https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:30 | 2023-05-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 201952,
+  "num_followers": 202072,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGZhYWUwZWQ5MjYyZWVmY2FmOTE5NTY3Y2NjYmU3ZThhN2I2YTk5",
+  "snapshot_id": "MCxiZTgyNDU0OThmOGQ1MTcwYTE3OTJhOGM0NmE2OTk4MjI0YjA5MjQ5",
   "tracks": [
     {
       "added_at": "2023-11-13 21:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 156069,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 226876,
-      "name": "Sometimes He's In My Dreams",
-      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Six Songs for Invisible Gardens",
         "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 328000,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 226876,
+      "name": "Sometimes He's In My Dreams",
+      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Ultravisitor",
-        "url": "https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 130440,
-      "name": "Tommib Help Buss",
-      "url": "https://open.spotify.com/track/3LbuqJCxuX5P63vVONosge"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Ultravisitor",
+        "url": "https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 130440,
+      "name": "Tommib Help Buss",
+      "url": "https://open.spotify.com/track/3LbuqJCxuX5P63vVONosge"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "I Become A Shade",
-        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
-      },
-      "artists": [
-        {
-          "name": "Seoul",
-          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
-        }
-      ],
-      "duration_ms": 237945,
-      "name": "Stay With Us",
-      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 252735,
       "name": "Inspirit",
       "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "I Become A Shade",
+        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
+      },
+      "artists": [
+        {
+          "name": "Seoul",
+          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
+        }
+      ],
+      "duration_ms": 237945,
+      "name": "Stay With Us",
+      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Kodomotachi",
+      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "Tiny Reminders",
         "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
       },
@@ -1205,20 +1221,20 @@
       "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
     },
     {
-      "added_at": "2023-11-13 21:00:00",
+      "added_at": "2023-12-13 21:55:13",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
       },
       "artists": [
         {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
         }
       ],
-      "duration_ms": 246706,
-      "name": "Kodomotachi",
-      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
+      "duration_ms": 220355,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1253,38 +1269,6 @@
       "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
     },
     {
-      "added_at": "2023-12-13 21:55:13",
-      "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 220355,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "runnersz",
-      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
-    },
-    {
       "added_at": "2023-11-13 21:00:00",
       "album": {
         "name": "A Mineral Love",
@@ -1303,6 +1287,22 @@
       "duration_ms": 170186,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "runnersz",
+      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
       },
@@ -1411,38 +1395,18 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
       "artists": [
         {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
         }
       ],
-      "duration_ms": 272093,
-      "name": "born slipping",
-      "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1463,6 +1427,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "Come To Canada You Will Like It",
         "url": "https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 245510,
       "name": "Fine Match",
       "url": "https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "born slipping",
+      "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "I Feel You Feel",
+        "url": "https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        },
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "duration_ms": 177024,
+      "name": "Thru U (feat. Bklava)",
+      "url": "https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "Love In The Time Of Lexapro",
         "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 397986,
       "name": "Passing By - 2019 remaster",
       "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "I Feel You Feel",
-        "url": "https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        },
-        {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
-        }
-      ],
-      "duration_ms": 177024,
-      "name": "Thru U (feat. Bklava)",
-      "url": "https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R"
     },
     {
       "added_at": "2023-11-13 21:00:00",

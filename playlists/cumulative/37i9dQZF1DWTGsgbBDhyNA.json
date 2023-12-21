@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 176504,
       "name": "Adicto Al Exceso",
       "url": "https://open.spotify.com/track/2GkfVnlWA9YZ0bzOW29PyK"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 176508,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 211319,
       "name": "La Dinast\u00eda Fern\u00e1ndez - La Derrota / Volver, Volver",
       "url": "https://open.spotify.com/track/25iwxsxU8XN3bX14JQWiKr"
@@ -558,6 +558,24 @@
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
+    },
+    {
+      "album": {
+        "name": "La Vampiresa",
+        "url": "https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T"
+      },
+      "artists": [
+        {
+          "name": "Explosion Colombiana De Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314398,
+      "name": "La Vampiresa",
+      "url": "https://open.spotify.com/track/06uyFPb72xxh5takZ206Of"
     },
     {
       "album": {
@@ -762,7 +780,7 @@
     {
       "album": {
         "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
+        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
       },
       "artists": [
         {
@@ -781,6 +799,32 @@
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178150,
+      "name": "Que Me Entierren Con la Banda",
+      "url": "https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN"
+    },
+    {
+      "album": {
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 178150,
       "name": "Que Me Entierren Con la Banda",
       "url": "https://open.spotify.com/track/6Hcz9PRsiOpU051JQaHvz1"
@@ -1002,6 +1046,32 @@
       "duration_ms": 214153,
       "name": "T\u00edpico Cl\u00e1sico",
       "url": "https://open.spotify.com/track/1gZglBXhwXr3XJRWbBwSId"
+    },
+    {
+      "album": {
+        "name": "Disfrutando El Proceso",
+        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Una Ruedita",
+      "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
     },
     {
       "album": {

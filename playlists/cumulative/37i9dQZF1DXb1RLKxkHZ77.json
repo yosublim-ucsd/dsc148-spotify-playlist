@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 249523,
       "name": "Cukup",
       "url": "https://open.spotify.com/track/4ckN01pAGtUBI3hyyieGgz"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 342098,
       "name": "Insan Ku Sayang Kini Menghilang",
       "url": "https://open.spotify.com/track/2GfYkX9TttUK1DkbZPOf48"
@@ -3298,6 +3298,24 @@
       "duration_ms": 241666,
       "name": "Ku Lamar Dia",
       "url": "https://open.spotify.com/track/2BQVAvekyCpR2UD4IfySnq"
+    },
+    {
+      "album": {
+        "name": "Harapan",
+        "url": "https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77"
+      },
+      "artists": [
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254268,
+      "name": "Ku Tak Mampu Lagi",
+      "url": "https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU"
     },
     {
       "album": {
@@ -4384,6 +4402,24 @@
       "duration_ms": 208746,
       "name": "OVERTHINK",
       "url": "https://open.spotify.com/track/141yK5v32Vw0OsMtkRs8Zo"
+    },
+    {
+      "album": {
+        "name": "Padam Dan Pergi",
+        "url": "https://open.spotify.com/album/35zjVyRf9OMWWKm86pp4jz"
+      },
+      "artists": [
+        {
+          "name": "Imran Ajmain",
+          "url": "https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Padam Dan Pergi",
+      "url": "https://open.spotify.com/track/77Fytoo3HnOTGYbZRgmRU7"
     },
     {
       "album": {
@@ -6017,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "Tak Berharap Lagi",
+        "url": "https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237769,
+      "name": "Tak Berharap Lagi",
+      "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"
+    },
+    {
+      "album": {
         "name": "Tak Bisa Bilang",
         "url": "https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH"
       },
@@ -6502,7 +6556,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 225762,
       "name": "Terus Bersinar",
       "url": "https://open.spotify.com/track/7eFpPrTVrKuxiUYhtNP7fQ"

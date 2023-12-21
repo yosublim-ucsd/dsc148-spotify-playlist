@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 38 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 39 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 32 | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/track/3QB4Avw7a95SEl7WnuGLyI) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Thomas Helsloot](https://open.spotify.com/artist/4pVfQbm8g4tMztNgXoHTYL) | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/album/2UIKMONyNKHiutdSlXhaMd) | 2:53 |
 | 33 | [Take It Like a Man](https://open.spotify.com/track/3XkbXbLu9TQensKNdwgQ5u) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 2:50 |
 | 34 | [Door De Regen](https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Door De Regen](https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI) | 2:36 |
-| 35 | [Casual](https://open.spotify.com/track/4smMMm61FwuTB3Rjp0ztBQ) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [18](https://open.spotify.com/album/6CEPSxPykn7KwvQBVlhX2N) | 2:41 |
-| 36 | [Kingsize Bed](https://open.spotify.com/track/3jh7HKGyhmSRjr5A8DbRW5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:42 |
-| 37 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
-| 38 | [Huilen In De Club](https://open.spotify.com/track/76w2a0YoSkeRlSemAewu6q) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:55 |
+| 35 | [Je Weet Ik Ben Een Slodder \(feat\. Sigourney\)](https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Sigourney](https://open.spotify.com/artist/2UVYTj2JBEFaIFSDbz2VuQ) | [Je Weet Ik Ben Een Slodder \- Single](https://open.spotify.com/album/79RMw8ONhRj4nghrgt26fJ) | 3:51 |
+| 36 | [Casual](https://open.spotify.com/track/4smMMm61FwuTB3Rjp0ztBQ) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [18](https://open.spotify.com/album/6CEPSxPykn7KwvQBVlhX2N) | 2:41 |
+| 37 | [Kingsize Bed](https://open.spotify.com/track/3jh7HKGyhmSRjr5A8DbRW5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:42 |
+| 38 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
+| 39 | [Huilen In De Club](https://open.spotify.com/track/76w2a0YoSkeRlSemAewu6q) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:55 |
 
-Snapshot ID: `MjgzODM5ODAsMDAwMDAwMDAwOGJjNDE1Yzg4NjJiODhlNDIzMzU2OGJlMGNmNjZmYg==`
+Snapshot ID: `MjgzODU0MjAsMDAwMDAwMDBkMDMzMDI1NmRlMWY5MzgzMDBlNWQ4ZDg3NDJmMTVmMw==`

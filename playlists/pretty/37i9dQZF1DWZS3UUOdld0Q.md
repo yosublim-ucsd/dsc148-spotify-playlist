@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 
 > Their time will come\. Eventually\. Probably\. Listen to the music from and inspired by Neon, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,729 likes - 66 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,754 likes - 66 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 | 6 | [Hey \(Music From "Neon", The Netflix Series\)](https://open.spotify.com/track/2a4bhqKFbOmBEUgGJiod3q) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Ride Or Die](https://open.spotify.com/artist/3mjTaYqhE6JxfMBwTFN6Z2) | [Hey \(Music From "Neon", The Netflix Series\)](https://open.spotify.com/album/1hL6HdBvpke3xTfXqnT3wM) | 2:46 |
 | 7 | [Demasiado Hot](https://open.spotify.com/track/6tHgUg7GaHqG9kyesXbclG) | [Andrei Mihai](https://open.spotify.com/artist/4eDIrn2NEJGrVqRrP2Xjgq), [Faride Blanco](https://open.spotify.com/artist/5hL0rT2bo7n2d8R1w1y8ko) | [Reggaeton](https://open.spotify.com/album/5vR4PN1vMiw0DnGVPoRo0u) | 1:49 |
 | 8 | [Se Impone Tu Recuerdo](https://open.spotify.com/track/4lATyssseX6LJWX7248z3d) | [Wilkins](https://open.spotify.com/artist/5Awnuu794580X3uHQGx78O) | [Una Historia Importante \- 15 Grandes Exitos](https://open.spotify.com/album/0B7zWvQS2dmWQhZrVJLiCt) | 3:23 |
-| 9 | [Exagerao \(from the Netflix Series "Neon"\)](https://open.spotify.com/track/6MvOt6KWi2ptUAl8j3GBew) | [Santi](https://open.spotify.com/artist/0M3JCo0UtNAsX5b4D8FFWu) | [Exagerao \(from the Netflix Series "Neon"\)](https://open.spotify.com/album/5mJBOJTF6DGIMGmV0Cl59h) | 1:19 |
+| 9 | [Exagerao](https://open.spotify.com/track/6MvOt6KWi2ptUAl8j3GBew) | [Tyler Dean Flores](https://open.spotify.com/artist/0aIzB3Nc3rrZUDLi8Q1Vtk) | [Exagerao \(from the Netflix Series "Neon"\)](https://open.spotify.com/album/5mJBOJTF6DGIMGmV0Cl59h) | 1:19 |
 | 10 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
 | 11 | [AZAFATA](https://open.spotify.com/track/6BL62CM2gSoKD4ZGr3HRbz) | [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [AZAFATA](https://open.spotify.com/album/4q4PnH4fOJ9phU1knqi7IO) | 2:35 |
 | 12 | [Telacuti](https://open.spotify.com/track/7q94pRfSkniFhYvZYuXox3) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [Telacuti](https://open.spotify.com/album/2oX8J1YAMVbiJ53bm8gnsh) | 3:09 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 | 65 | [](https://open.spotify.com/track/2IGPQQp6xCsSGzvxMxGXsY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 0:00 |
 | 66 | [](https://open.spotify.com/track/7lb3hUDVS50Que4V8tn51m) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wFF4MVqEAANiK6iNI4hoT) | 0:00 |
 
-Snapshot ID: `MCxlYTEzNjQzZjcyMjI1MzdhOWE3MTlkYmFiNDg4MTg4MGJjZGVlYmY3`
+Snapshot ID: `MCw5YzRlNjE0YTM0NzFiMjJjNGEwZGQ2YmZhNWQwYzk2OWQ0MTVhM2Jk`

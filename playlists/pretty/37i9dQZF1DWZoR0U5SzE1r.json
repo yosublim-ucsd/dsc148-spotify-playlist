@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 285133,
+  "num_followers": 285305,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTEzM2U3YTBlYjY4OWRlZWM2ODUzNDdmNTUxNmM4NTcwNjRjMzlh",
+  "snapshot_id": "MCw3NTYxNDg3ODc3NDQ0NGY3NmU0MGJlZjFiMWIyZTc2ZDljZjViYzk0",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Miracle or Not",
-        "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
-      },
-      "artists": [
-        {
-          "name": "Alisa Turner",
-          "url": "https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre"
-        }
-      ],
-      "duration_ms": 243269,
-      "name": "My Prayer For You",
-      "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 300933,
       "name": "Follow You Anywhere - Live",
       "url": "https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Miracle or Not",
+        "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
+      },
+      "artists": [
+        {
+          "name": "Alisa Turner",
+          "url": "https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre"
+        }
+      ],
+      "duration_ms": 243269,
+      "name": "My Prayer For You",
+      "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1031,6 +1031,26 @@
       "duration_ms": 272000,
       "name": "Fire in My Bones",
       "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "King Of Glory (Live)",
+        "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "King Of Glory - Live",
+      "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1099,26 +1119,6 @@
       "duration_ms": 360935,
       "name": "Breathe - Live",
       "url": "https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "King Of Glory (Live)",
-        "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "King Of Glory - Live",
-      "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1628,9 +1628,25 @@
           "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
         }
       ],
-      "duration_ms": 365257,
-      "name": "Glory to Glory",
-      "url": "https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw"
+      "duration_ms": 315476,
+      "name": "The More of You I See",
+      "url": "https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "This Is Our Story",
+        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 341849,
+      "name": "This Is Our Story",
+      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "This Is Our Story",
-        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 341849,
-      "name": "This Is Our Story",
-      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
       },
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
         }
       ],
-      "duration_ms": 315476,
-      "name": "The More of You I See",
-      "url": "https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0"
+      "duration_ms": 365257,
+      "name": "Glory to Glory",
+      "url": "https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1751,30 +1751,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Songs of the House (Live)",
-        "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        },
-        {
-          "name": "Madison Street Worship",
-          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
-        },
-        {
-          "name": "Annalise Bush",
-          "url": "https://open.spotify.com/artist/5U7PKEYEqGUnP3SYoj17ek"
-        }
-      ],
-      "duration_ms": 312773,
-      "name": "Liberator - Live",
-      "url": "https://open.spotify.com/track/6AOHOfoyvCA0tTshLFhCFM"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Fill This Place (Studio Version)",
         "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
       },
@@ -1807,18 +1783,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "On My Side (Live)",
-        "url": "https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe"
+        "name": "Songs of the House (Live)",
+        "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
       },
       "artists": [
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        },
+        {
+          "name": "Madison Street Worship",
+          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
+        },
+        {
+          "name": "Annalise Bush",
+          "url": "https://open.spotify.com/artist/5U7PKEYEqGUnP3SYoj17ek"
         }
       ],
-      "duration_ms": 301106,
-      "name": "Throne Room - Live",
-      "url": "https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8"
+      "duration_ms": 312773,
+      "name": "Liberator - Live",
+      "url": "https://open.spotify.com/track/6AOHOfoyvCA0tTshLFhCFM"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1835,6 +1819,22 @@
       "duration_ms": 569244,
       "name": "Holy Desire (From Worship Nights at the Barn)",
       "url": "https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "On My Side (Live)",
+        "url": "https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 301106,
+      "name": "Throne Room - Live",
+      "url": "https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8"
     }
   ],
   "unique_name": "epicPRAISE",

@@ -4,7 +4,7 @@
 
 > 寒い季節がやってきました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-91 songs - 6 hr 13 min
+92 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 | 2023-12-12 |  |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-12-12 | 2023-12-20 |
 | [Razor Sharp](https://open.spotify.com/track/7ewZUzZQr5oiFxH5RcbwdJ) | [SUGIURUMN](https://open.spotify.com/artist/6SkHN5XI188oP4n7YhBRQm), [Jimme Armstrong](https://open.spotify.com/artist/4XJL3wjOswmJ2z5fu1TLof) | [Razor Sharp](https://open.spotify.com/album/1RdmMMGpxSXk5PFoh6F1mu) | 7:08 | 2023-12-12 | 2023-12-20 |
+| [Rely on winter](https://open.spotify.com/track/5PyzNTtWX0PXV7Q0HNtsVA) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [Rely on winter](https://open.spotify.com/album/0jMjGRFQfkc7alrH6CyI5m) | 5:02 | 2023-12-19 |  |
 | [Romance no Kamisama](https://open.spotify.com/track/1LBLFArddqDkgwig4vs1lk) | [広瀬香美 × Night Tempo](https://open.spotify.com/artist/5wRgqzIDq58eY9dglul3fQ), [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Romance no Kamisama](https://open.spotify.com/album/2BTbYSIJDNSVwbaQXS8u4P) | 3:27 | 2023-12-12 |  |
 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 | 2023-12-12 |  |
 | [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 | 2023-12-12 |  |
@@ -90,7 +91,7 @@
 | [ロマンスの神様](https://open.spotify.com/track/3cgfoF5qwhcPKVUaMa8QvJ) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [ロマンスの神様](https://open.spotify.com/album/122ZRlwkenkrIt1VAtHaDa) | 4:29 | 2023-12-12 |  |
 | [与えられる夜](https://open.spotify.com/track/4Yx2NgXfkVKdFuUENxTHJq) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [WATASHIBOSHI](https://open.spotify.com/album/3umtn8uo1dxKM7hQPsDQyx) | 3:39 | 2023-12-12 |  |
 | [冬がはじまるよ \- 2012 Remaster](https://open.spotify.com/track/7wNlAWoRPn53RC9w8e0sEA) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物 \(2012 Remaster\)](https://open.spotify.com/album/0xl7RrBF9tVKPUu5EHHcf3) | 3:52 | 2023-12-12 |  |
-| [冬だより](https://open.spotify.com/track/6l4y7ZaVwdvDeWSWrPrDLV) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [冬だより](https://open.spotify.com/album/41ZHgLAKxaKC1QrJjDhfPk) | 5:02 | 2023-12-19 |  |
+| [冬だより](https://open.spotify.com/track/6l4y7ZaVwdvDeWSWrPrDLV) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [冬だより](https://open.spotify.com/album/41ZHgLAKxaKC1QrJjDhfPk) | 5:02 | 2023-12-19 | 2023-12-21 |
 | [君と僕の挽歌 \- New York Ver.](https://open.spotify.com/track/5sLmVWxNX4CaRkYCsdKtxt) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [さかいゆうのプレイリスト ［白と黒］](https://open.spotify.com/album/1YEB6EfeQrfG6qx1xpbUOB) | 5:53 | 2023-12-12 |  |
 | [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 | 2023-12-12 |  |
 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 | 2023-12-19 |  |

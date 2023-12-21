@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,076 likes - 79 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,110 likes - 79 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 78 | [Horizon Red](https://open.spotify.com/track/7mDuQlXi4UsXa5VmKGcm2U) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Horizon Red](https://open.spotify.com/album/5OH8W2ZKQwvjRvxhlzuSCc) | 4:19 |
 | 79 | [Yes \- Club Version](https://open.spotify.com/track/1gcPomDSpxuRptrxDv9KNx) | [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [Yes](https://open.spotify.com/album/0uDxZbREPCOFOjuT1CPlER) | 5:06 |
 
-Snapshot ID: `MCwxOWQzNjhhNDMxMmY0ZDRjZTljNmE4NmQyZDI0ZGNmZGQzN2VkNmZl`
+Snapshot ID: `MCw4ZjQ2MmUzMTJjOWUxNDRkNGVjNTZmZTljODUyYTUwOGEwMjc2MjEx`

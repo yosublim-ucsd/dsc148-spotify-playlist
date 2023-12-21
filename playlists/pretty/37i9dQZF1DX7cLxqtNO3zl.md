@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,536 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,555 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 41 | [Hermosa](https://open.spotify.com/track/1zgld0Oet9q8u2mjrGCBNr) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [D Soldierz](https://open.spotify.com/artist/2iMLFmSsfgkQjyIg8Y6QVj) | [Hermosa](https://open.spotify.com/album/60V8eeJcMracw5CfeQtuge) | 3:23 |
 | 42 | [Bikhtissar](https://open.spotify.com/track/2YG9XwTOEWUj0BhiU5XgpL) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Bikhtissar](https://open.spotify.com/album/0xw0IgIfc7CVIRy6Ktlqyg) | 3:32 |
 | 43 | [Mann Tu Talbat](https://open.spotify.com/track/2E7YOOQjlK8bb0I7kM3JSG) | [Hamza](https://open.spotify.com/artist/7D162LQuIOp4vFQ1XMQcnd) | [Super Star](https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu) | 5:29 |
-| 44 | [Urvashi](https://open.spotify.com/track/5w99VDAT9vFmcEiOGG2eYU) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Best Of Indian Pop 2018](https://open.spotify.com/album/2oJZbv4jn5rlVw6CNganYn) | 3:35 |
-| 45 | [Nur El Ain](https://open.spotify.com/track/1g0RCr8hsUX8GD4M5FxQCd) | [Nafees](https://open.spotify.com/artist/55NgsJHIYOrbyoZSA3CEel), [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Nur El Ain](https://open.spotify.com/album/08UbQURfNlGtjT9Liqq9Rj) | 3:06 |
+| 44 | [Nur El Ain](https://open.spotify.com/track/1g0RCr8hsUX8GD4M5FxQCd) | [Nafees](https://open.spotify.com/artist/55NgsJHIYOrbyoZSA3CEel), [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Nur El Ain](https://open.spotify.com/album/08UbQURfNlGtjT9Liqq9Rj) | 3:06 |
+| 45 | [Urvashi](https://open.spotify.com/track/5w99VDAT9vFmcEiOGG2eYU) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Best Of Indian Pop 2018](https://open.spotify.com/album/2oJZbv4jn5rlVw6CNganYn) | 3:35 |
 | 46 | [لا جوزاديرا \(feat\. Marc Anthony & Gente de Zona\) \- Arabic Version](https://open.spotify.com/track/00WbIozZcC3dIykrfOTJLP) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2), [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [لا جوزاديرا \(feat\. Marc Anthony & Gente de Zona\) \[Arabic Version\]](https://open.spotify.com/album/3fPJxq7mCKPcrSuxEg4XxW) | 3:27 |
 | 47 | [Mar Jawaan \(From "Fashion"\)](https://open.spotify.com/track/0XxS5PiE4vrJPsXGosiH0r) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [International Diva \- Priyanka Chopra](https://open.spotify.com/album/1vPFF3VMJviuU4ievj34YB) | 3:56 |
 | 48 | [Delhi](https://open.spotify.com/track/4uug8Tvpz9p0y1rmRzYtNP) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Delhi](https://open.spotify.com/album/1uXIavF8Z9jFBLqyi7DiDJ) | 3:05 |
 | 49 | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/track/7LasZEDby0I9uVNUjED1yS) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/album/4msvzEOis0kGxDHn2ZaQQx) | 3:32 |
 | 50 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 |
 
-Snapshot ID: `MCxkOTg3Y2UwNmIzYWMwNTg0MDNlMmIwMjIyOTk0ZTNhZDMzYTBhNDlk`
+Snapshot ID: `MCxjMWI5OGMxOTg4ZWVhNDNhNGRhOGNlYTExOTA4YTUxNTA2ZGZhZTQ5`

@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 245400,
       "name": "Arsenal of War",
       "url": "https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6"
@@ -5110,6 +5110,24 @@
       "duration_ms": 351880,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9"
+    },
+    {
+      "album": {
+        "name": "Ksar Al-Kufar",
+        "url": "https://open.spotify.com/album/7uxKxIqVeps6DWbaggpNKm"
+      },
+      "artists": [
+        {
+          "name": "Necrowretch",
+          "url": "https://open.spotify.com/artist/0cIx910hgtpgvicBJv3ybq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261746,
+      "name": "Ksar Al-Kufar",
+      "url": "https://open.spotify.com/track/209JHbDe9Y5gJkWnVpxmSx"
     },
     {
       "album": {

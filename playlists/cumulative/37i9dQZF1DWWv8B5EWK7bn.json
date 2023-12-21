@@ -1001,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/094LVoZpuHpU0QwZQNmqAc"
+      },
+      "artists": [
+        {
+          "name": "Sextile",
+          "url": "https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56"
+        },
+        {
+          "name": "Izzy Glaudini",
+          "url": "https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283026,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/2k1fCkx6hJ0o0yuXyyKeY8"
+    },
+    {
+      "album": {
         "name": "Meditations on Crime",
         "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
       },
@@ -3390,7 +3412,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 175849,
       "name": "Mapa",
       "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
@@ -5332,7 +5354,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 208293,
       "name": "Stone Killer",
       "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
@@ -5636,7 +5658,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 186678,
       "name": "The Lava Is Calm",
       "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
@@ -5908,6 +5930,24 @@
       "duration_ms": 161022,
       "name": "This Is A Life",
       "url": "https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O"
+    },
+    {
+      "album": {
+        "name": "Thumbtack",
+        "url": "https://open.spotify.com/album/2K0ahxdNDQsVhCxkr9hDVg"
+      },
+      "artists": [
+        {
+          "name": "Hamond",
+          "url": "https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "Thumbtack",
+      "url": "https://open.spotify.com/track/67WuAkWNUHZqV8FOgDrz7R"
     },
     {
       "album": {
@@ -6276,6 +6316,24 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
+    },
+    {
+      "album": {
+        "name": "Agitprop Alterna",
+        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314059,
+      "name": "Up and Up",
+      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-893 songs - 1 day 23 hr 8 min
+894 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [Single At 40](https://open.spotify.com/track/1Hkfx9v6M0A2E7gbgYneQo) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Single At 40](https://open.spotify.com/album/0UBTtf7QW0FMLAZLavnFWY) | 2:40 | 2021-12-16 | 2021-12-22 |
 | [Siri](https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Siri](https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8) | 4:03 | 2023-11-16 | 2023-12-01 |
 | [Sista gången](https://open.spotify.com/track/6VEHZjdc9WLeyJjTBN3Lzm) | [råsa](https://open.spotify.com/artist/7xt4XwzlemR8yD2e3M26Wj) | [Sista gången](https://open.spotify.com/album/7oGmIcZOWuH4BYfyh8F7Wz) | 3:00 | 2021-12-16 | 2022-03-11 |
+| [Ska du lämna mig då?](https://open.spotify.com/track/1giGdrvlrnqHPcrKlspCNe) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf) | [Ska du lämna mig då?](https://open.spotify.com/album/1u6UY7O7n3IVkFzderccjs) | 3:17 | 2023-12-14 |  |
 | [Skies](https://open.spotify.com/track/5UfHl6LcGtkUAe7UItl3KH) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Skies](https://open.spotify.com/album/3QsQU7HHMeIKXMUyl9MHef) | 3:05 | 2021-12-16 | 2022-05-12 |
 | [Skräck eller lycka?](https://open.spotify.com/track/0X04NMcv87lgoJW1AxreT4) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx) | [Skräck eller lycka?](https://open.spotify.com/album/7kWgErSsJxYRJawnzHLVSa) | 4:59 | 2022-03-24 | 2022-04-21 |
 | [Skål](https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Skål](https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W) | 2:55 | 2022-06-30 | 2022-11-06 |
@@ -719,7 +720,7 @@
 | [Stoppa tiden](https://open.spotify.com/track/7AmSDYMfUdmhlAmimBkfVu) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Stoppa tiden](https://open.spotify.com/album/0alS5ksB0B87GyJJCtIjXV) | 2:57 | 2021-12-16 | 2022-03-11 |
 | [Stor på jorden](https://open.spotify.com/track/4EHdsE2k1WiTJ4z7eCEUjB) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Stor på jorden/Snäll med John](https://open.spotify.com/album/6HHh3OPNMzr7EwuA46fpm6) | 5:43 | 2022-09-29 | 2022-11-13 |
 | [Stora blå](https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Över Broarna](https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv) | 2:59 | 2023-05-25 | 2023-10-20 |
-| [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-10-05 |  |
+| [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-10-05 | 2023-12-21 |
 | [Stökigt Hjärta](https://open.spotify.com/track/20zZK5S3jiQ5OjRlIVxcS9) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Maria](https://open.spotify.com/album/1CyBd1aY5oBzJLe8w9AijU) | 3:54 | 2021-12-16 | 2022-04-02 |
 | [Större](https://open.spotify.com/track/00FlGPGBmC8kjtzBE0Yb1M) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Större](https://open.spotify.com/album/1t9Y1lXxIG52p0x0oPeKcb) | 3:03 | 2022-09-15 | 2022-10-14 |
 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 | 2021-12-16 | 2022-03-08 |

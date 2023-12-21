@@ -4,11 +4,12 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-367 songs - 23 hr 6 min
+371 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [&ME](https://open.spotify.com/track/44muA7zBeipDRXs1uaTNLv) | [NALALA](https://open.spotify.com/artist/0uOTP7pznZgZc06fuftoJ4) | [35 GIRLS 5 CONCEPTS](https://open.spotify.com/album/71j8lMKmc5TfBOH9ws6yuT) | 2:55 | 2023-12-18 |  |
+| [&ME](https://open.spotify.com/track/2uGrSoj2G2ttrcGvDSl5Bg) | [NALALA](https://open.spotify.com/artist/0uOTP7pznZgZc06fuftoJ4) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk) | 2:55 | 2023-12-20 |  |
+| [&ME](https://open.spotify.com/track/44muA7zBeipDRXs1uaTNLv) | [NALALA](https://open.spotify.com/artist/0uOTP7pznZgZc06fuftoJ4) | [35 GIRLS 5 CONCEPTS](https://open.spotify.com/album/71j8lMKmc5TfBOH9ws6yuT) | 2:55 | 2023-12-18 | 2023-12-21 |
 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 | 2023-11-30 | 2023-12-02 |
 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2021-03-27\* | 2023-10-10 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 |  |
@@ -34,7 +35,8 @@
 | [Celebrate](https://open.spotify.com/track/4Y0chGCyYIRpdUqHJjndF7) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/1nqz3cEjuvCMo8RHLBI9kM) | 3:08 | 2022-07-28 | 2022-10-12 |
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-24 | 2022-07-29 |
 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 | 2022-10-13 | 2023-02-21 |
-| [CHOPPY CHOPPY](https://open.spotify.com/track/35L5ie9DYXKXWEvJnXmXAb) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/artist/2JT0j7bIpVTyhyv4h9aEOe) | [FINAL](https://open.spotify.com/album/4tLmMKR8bfPHmRND8HNM4F) | 3:36 | 2023-12-19 |  |
+| [CHOPPY CHOPPY](https://open.spotify.com/track/35L5ie9DYXKXWEvJnXmXAb) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/artist/2JT0j7bIpVTyhyv4h9aEOe) | [FINAL](https://open.spotify.com/album/4tLmMKR8bfPHmRND8HNM4F) | 3:36 | 2023-12-19 | 2023-12-21 |
+| [CHOPPY CHOPPY](https://open.spotify.com/track/4FOvxRnTuU2FWaEoJ58zL3) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/artist/2JT0j7bIpVTyhyv4h9aEOe) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk) | 3:36 | 2023-12-20 |  |
 | [Chopstick](https://open.spotify.com/track/0X40DgD7jJr5DeiGXFAfcl) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Chopstick](https://open.spotify.com/album/3JZe3XL47MvVW571DbXN9S) | 2:57 | 2021-11-20 | 2021-11-26 |
 | [Chopstick](https://open.spotify.com/track/6Yv0xoR37tcxzvey8ybW5l) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [U \-Special Edition\-](https://open.spotify.com/album/1L1WTrtt1kNzj4epuasXDl) | 2:57 | 2021-11-26 | 2022-02-08 |
 | [Cinderella Boy](https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Lazy Sunday](https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3) | 3:54 | 2023-06-06 |  |
@@ -177,7 +179,8 @@
 | [The Feels](https://open.spotify.com/track/1qE8DOtw7zdXHMgZm20eLM) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:18 | 2021-11-14 | 2022-06-28 |
 | [The Feels](https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9) | 3:18 | 2021-10-05 | 2021-11-14 |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-11 | 2022-11-13 |
-| [TOXIC](https://open.spotify.com/track/3ifV9AR4rpcXAsCtAtybna) | [Charm Holic](https://open.spotify.com/artist/393fHru9HcKGQIf6T0P7Nh) | [35 GIRLS 5 CONCEPTS](https://open.spotify.com/album/71j8lMKmc5TfBOH9ws6yuT) | 3:13 | 2023-12-19 |  |
+| [TOXIC](https://open.spotify.com/track/08j6YjQCkCyRFXoKmh8e0H) | [Charm Holic](https://open.spotify.com/artist/393fHru9HcKGQIf6T0P7Nh) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk) | 3:13 | 2023-12-20 |  |
+| [TOXIC](https://open.spotify.com/track/3ifV9AR4rpcXAsCtAtybna) | [Charm Holic](https://open.spotify.com/artist/393fHru9HcKGQIf6T0P7Nh) | [35 GIRLS 5 CONCEPTS](https://open.spotify.com/album/71j8lMKmc5TfBOH9ws6yuT) | 3:13 | 2023-12-19 | 2023-12-21 |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-03-07 | 2023-04-13 |
 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2021-07-18 | 2021-10-07 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2022-12-25 | 2022-12-27 |
@@ -306,7 +309,8 @@
 | [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 | 2023-02-18 | 2023-03-31 |
 | [恋人じゃなくなった日](https://open.spotify.com/track/57PvgLc0UuLaMEu49w8tiR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [弐](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) | 3:46 | 2023-03-30 | 2023-04-06 |
 | [恋風邪にのせて](https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g) | 4:15 | 2022-03-15 | 2022-08-12 |
-| [想像以上](https://open.spotify.com/track/7GfNYkirnchbX83cFYhZQ6) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/artist/2JT0j7bIpVTyhyv4h9aEOe) | [FINAL](https://open.spotify.com/album/4tLmMKR8bfPHmRND8HNM4F) | 3:27 | 2023-12-18 |  |
+| [想像以上](https://open.spotify.com/track/0aRGEJtIkhnK5GcTjCQy5d) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/artist/2JT0j7bIpVTyhyv4h9aEOe) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk) | 3:27 | 2023-12-20 |  |
+| [想像以上](https://open.spotify.com/track/7GfNYkirnchbX83cFYhZQ6) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/artist/2JT0j7bIpVTyhyv4h9aEOe) | [FINAL](https://open.spotify.com/album/4tLmMKR8bfPHmRND8HNM4F) | 3:27 | 2023-12-18 | 2023-12-21 |
 | [愛とか恋とか](https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Assort](https://open.spotify.com/album/12cXi1i1cgTVe27Rb122kZ) | 3:52 | 2022-05-24 | 2023-09-02 |
 | [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:00 | 2023-04-12 | 2023-06-07 |
 | [感電](https://open.spotify.com/track/6H0PLsSYMzDOqhLgyOlzIj) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:24 | 2021-03-27\* | 2021-12-12 |

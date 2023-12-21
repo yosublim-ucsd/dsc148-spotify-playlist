@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 567594,
+  "num_followers": 567730,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2Y4ZWRhMTJjZTcxMTA2YTc3MmJhZDBlZTQwZTEzZWYxYzdmZWY4",
+  "snapshot_id": "MCw0ZGI2OGYwOWZhYmI2NzIyOTA3Njk0Mzc1ZmMxZmU4ZDUwMGM4YjE5",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 178464,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 192075,
       "name": "Yo Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 178464,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -459,6 +459,30 @@
       "duration_ms": 212062,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Auto Al Piso",
+        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "duration_ms": 174580,
+      "name": "Auto Al Piso",
+      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -519,30 +543,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Auto Al Piso",
-        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        },
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Auto Al Piso",
-      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -595,26 +595,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Perrito Malvado",
-        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Marita",
-          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 280895,
-      "name": "Perrito Malvado",
-      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -675,22 +667,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Pistola Remix",
         "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 136806,
       "name": "Pistola Remix",
       "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Perrito Malvado",
+        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Marita",
+          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Perrito Malvado",
+      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -783,42 +783,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
-      },
-      "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 165605,
-      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Vamos A Amanecer (Remix)",
         "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
       },
@@ -843,6 +807,26 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 165605,
+      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 225320,
       "name": "Que calor",
       "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
       },
       "artists": [
         {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -907,6 +907,30 @@
       "duration_ms": 155387,
       "name": "Una Wacha Piola",
       "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "TRUCHO",
+        "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "Al Records",
+          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "TRUCHO",
+      "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -939,30 +963,6 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "TRUCHO",
-        "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
-      },
-      "artists": [
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "Al Records",
-          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "TRUCHO",
-      "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1135,7 +1135,7 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "EXCUSAS (feat. Dj Lauuh)",
+        "name": "EXCUSAS",
         "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
       "artists": [
@@ -1157,7 +1157,7 @@
         }
       ],
       "duration_ms": 221333,
-      "name": "EXCUSAS (feat. Dj Lauuh)",
+      "name": "EXCUSAS",
       "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
     },
     {
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "FUMAN TWO",
-        "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
-      },
-      "artists": [
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        }
-      ],
-      "duration_ms": 114860,
-      "name": "FUMAN TWO",
-      "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Remake",
         "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 332000,
       "name": "Remake",
       "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "FUMAN TWO",
+        "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
+      },
+      "artists": [
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        }
+      ],
+      "duration_ms": 114860,
+      "name": "FUMAN TWO",
+      "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1683,6 +1683,50 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Close de Ort!",
+        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        },
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "LOGI",
+        "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "LOGI",
+      "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Batalla de los Dj Mixerzone",
         "url": "https://open.spotify.com/album/1J3PnGjU5bj5b02D87zzxQ"
       },
@@ -1731,50 +1775,6 @@
       "duration_ms": 1047973,
       "name": "Batalla Villera",
       "url": "https://open.spotify.com/track/3RxFQSlNXtcH3gVlAsCRhE"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "LOGI",
-        "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
-      },
-      "artists": [
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "LOGI",
-      "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Close de Ort!",
-        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        },
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1923,22 +1923,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Gancia y Limon",
-        "url": "https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa"
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
       },
       "artists": [
         {
-          "name": "Smk-2",
-          "url": "https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt"
-        },
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 233314,
-      "name": "Gancia y Limon",
-      "url": "https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o"
+      "duration_ms": 125239,
+      "name": "Culito Pa' Tras",
+      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1959,18 +1955,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
+        "name": "Gancia y Limon",
+        "url": "https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Smk-2",
+          "url": "https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt"
+        },
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
         }
       ],
-      "duration_ms": 125239,
-      "name": "Culito Pa' Tras",
-      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
+      "duration_ms": 233314,
+      "name": "Gancia y Limon",
+      "url": "https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Alta Gira",
+        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "duration_ms": 247144,
+      "name": "Vos de Bebe",
+      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Corte Caco",
         "url": "https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 120520,
       "name": "Corte Caco",
       "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Alta Gira",
-        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        }
-      ],
-      "duration_ms": 247144,
-      "name": "Vos de Bebe",
-      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -2311,6 +2311,26 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Sin Ayuda",
+        "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Sin Ayuda",
+      "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "ROCAMORA",
         "url": "https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP"
       },
@@ -2331,22 +2351,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Sin Ayuda",
-        "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
       },
       "artists": [
         {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
         },
         {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
         }
       ],
-      "duration_ms": 229500,
-      "name": "Sin Ayuda",
-      "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -2375,26 +2395,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Gordo Rata (En Vivo)",
-        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        },
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Gordo Rata - En Vivo",
-      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "La Gata",
-        "url": "https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa"
-      },
-      "artists": [
-        {
-          "name": "La Rama",
-          "url": "https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "La Gata",
-      "url": "https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "25 Horas de Gira",
         "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 193515,
       "name": "Gobernada",
       "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "La Gata",
+        "url": "https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa"
+      },
+      "artists": [
+        {
+          "name": "La Rama",
+          "url": "https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "La Gata",
+      "url": "https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M"
     }
   ],
   "unique_name": "Cumbia de Barrio",

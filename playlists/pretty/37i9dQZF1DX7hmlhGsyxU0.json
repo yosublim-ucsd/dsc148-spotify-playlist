@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 150428,
+  "num_followers": 150525,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDM2YzcwNTM4MjliZGUxNDFlYTNjMTMxZDI5OTVlNzk0MGU5Nzk5",
+  "snapshot_id": "MCw4YmE4MjMxNWY5ZGRmZjQ2NGJjZDBmYTM1ODBkMDlkZjE5N2JmMjc3",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Frankenthaler",
-        "url": "https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35"
-      },
-      "artists": [
-        {
-          "name": "Bromeliad",
-          "url": "https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3"
-        }
-      ],
-      "duration_ms": 105145,
-      "name": "Frankenthaler",
-      "url": "https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Ad Infinitum",
         "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 191482,
       "name": "Ad Infinitum",
       "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Frankenthaler",
+        "url": "https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35"
+      },
+      "artists": [
+        {
+          "name": "Bromeliad",
+          "url": "https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3"
+        }
+      ],
+      "duration_ms": 105145,
+      "name": "Frankenthaler",
+      "url": "https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -611,26 +611,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Swan Lake Story",
-        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
-      },
-      "artists": [
-        {
-          "name": "W CELLO",
-          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
-        },
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
-        }
-      ],
-      "duration_ms": 170375,
-      "name": "Swan Lake Story, Op. 1",
-      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 196537,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Swan Lake Story",
+        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
+      },
+      "artists": [
+        {
+          "name": "W CELLO",
+          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
+        },
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 170375,
+      "name": "Swan Lake Story, Op. 1",
+      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas & Sebastian",
+          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Fade Far Away",
+      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 408791,
       "name": "Inside Me",
       "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas & Sebastian",
-          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Fade Far Away",
-      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Efterskalv",
+        "url": "https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b"
+      },
+      "artists": [
+        {
+          "name": "Vargkvint",
+          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
+        }
+      ],
+      "duration_ms": 229350,
+      "name": "Efterskalv",
+      "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Orpheus. Hommage \u00e0 Saint-Sa\u00ebns",
         "url": "https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 248613,
       "name": "Piano Trio No. 2 in E Minor, Op. 92: III. Andante con moto",
       "url": "https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Efterskalv",
-        "url": "https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b"
-      },
-      "artists": [
-        {
-          "name": "Vargkvint",
-          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
-        }
-      ],
-      "duration_ms": 229350,
-      "name": "Efterskalv",
-      "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
     },
     {
       "added_at": "2023-06-27 16:12:39",

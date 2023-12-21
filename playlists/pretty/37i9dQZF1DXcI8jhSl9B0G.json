@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 73832,
+  "num_followers": 73860,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzMzMzllNzAwMmQ0ZDY4OTQyOTgyMDNhMmZjZGYyODBmMTdjZmI1",
+  "snapshot_id": "MCwzMDAzNWQ1NTY1NGMyYWExNjExMWQ4MTg4ZTQxNWRiZWFjYzFlYTA1",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -835,22 +835,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "5am Paradise (Acoustic) [Sunrise Version]",
-        "url": "https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4"
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
       },
       "artists": [
         {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        },
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 203300,
-      "name": "5am Paradise (Acoustic) - Sunrise Version",
-      "url": "https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE"
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -871,18 +867,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
+        "name": "5am Paradise (Acoustic) [Sunrise Version]",
+        "url": "https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
         }
       ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
+      "duration_ms": 203300,
+      "name": "5am Paradise (Acoustic) - Sunrise Version",
+      "url": "https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE"
     },
     {
       "added_at": "2023-11-30 13:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT is all about dad rock this week\. You're welcome\. Cover: Tom Petty
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,278,336 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,278,313 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Rockin' All Over The World](https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:37 |
 | 50 | [Ridin' the Storm Out](https://open.spotify.com/track/0SkmxNE5ydxiEN0hzJbMac) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Ridin' the Storm Out](https://open.spotify.com/album/0ou3qVgWMaALQlDmATM4bA) | 4:12 |
 
-Snapshot ID: `MCw4NDk1MWQ4NjRkMDhiZTE1MGZjZWQwYzFkYmQwYmU1YjE5ZTVhODVh`
+Snapshot ID: `MCxkM2RiZGI1OGM5NzJkMzlkMTUyYWRkZTdiNTE3MTY0MDZjZGYzMzE1`

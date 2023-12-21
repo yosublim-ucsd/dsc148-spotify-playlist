@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Angie K
 
-147 songs - 8 hr 5 min
+149 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Anybody Else \- Latin Remix](https://open.spotify.com/track/0HvfTzdXOpyoUtayGyvLyn) | [Mira Goto](https://open.spotify.com/artist/4QsATL0ozR4un64TltaF7o), [Pamela Velez](https://open.spotify.com/artist/3nxx6KxCTRLcdlW4vFRy4U), [Nia Skyfer](https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN) | [Anybody Else \(Latin Remix\)](https://open.spotify.com/album/4XidZG19fylj92RfMH3fl0) | 2:00 | 2021-12-10 |  |
 | [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 | 2022-07-08 |  |
 | [Ashes](https://open.spotify.com/track/6dben05JiKn09x31h1JgOW) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 4:34 | 2021-12-10 | 2022-07-29 |
-| [Beautiful Crazy \[Bella Locura\] \- Spanish](https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Beautiful Crazy \[Bella Locura\]](https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv) | 2:56 | 2023-12-15 |  |
+| [Beautiful Crazy \(Bella Locura\) \- Spanish](https://open.spotify.com/track/2gQkNDrFAhpKi0vmGJro6p) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 2:56 | 2023-12-15 |  |
+| [Beautiful Crazy \[Bella Locura\] \- Spanish](https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Beautiful Crazy \[Bella Locura\]](https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv) | 2:56 | 2023-12-15 | 2023-12-21 |
 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 | 2023-01-27 |  |
 | [Botas Viejas](https://open.spotify.com/track/37zaEv7xyMujZ8pPLwJ0YS) | [Forasteros Country Band](https://open.spotify.com/artist/5e8fguiEHhhAF6Z5b7bSg0) | [Perder o Ganar](https://open.spotify.com/album/6nhXLyWpfRblMBerEkXitK) | 2:51 | 2021-12-10 |  |
 | [Buscando El Olvido](https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:41 | 2023-04-28 |  |
@@ -132,7 +133,8 @@
 | [Streetlights](https://open.spotify.com/track/4j0z2wrQdQBmgXjXE4PpoK) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Streetlights](https://open.spotify.com/album/6NwL9TmFyXn82jzcgvdLOL) | 3:10 | 2021-12-10 | 2023-11-03 |
 | [take my phone.](https://open.spotify.com/track/1uI8U4FO4fvFa0d5dd1UYl) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [take my phone.](https://open.spotify.com/album/0TdqvonMraWculqLZrmVYJ) | 2:31 | 2021-12-10 | 2022-08-27 |
 | [Tears Of Gold](https://open.spotify.com/track/1GmQN5AYSmZFYTw10AfcLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Tears Of Gold](https://open.spotify.com/album/2US38BIkYb1habQEAGJyfD) | 2:56 | 2021-12-10 |  |
-| [Tennessee Whiskey \- Spanish](https://open.spotify.com/track/0VvE78qLaoWabpnU7jKo0E) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Tennessee Whiskey \(Spanglish + Spanish\)](https://open.spotify.com/album/5KLC4e2nMAmcJt9P5fE9bK) | 3:34 | 2023-12-15 |  |
+| [Tennessee Whiskey \- Spanglish](https://open.spotify.com/track/4U33IIV3vNMxPQqiDt375f) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 3:34 | 2023-12-15 |  |
+| [Tennessee Whiskey \- Spanish](https://open.spotify.com/track/0VvE78qLaoWabpnU7jKo0E) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Tennessee Whiskey \(Spanglish + Spanish\)](https://open.spotify.com/album/5KLC4e2nMAmcJt9P5fE9bK) | 3:34 | 2023-12-15 | 2023-12-21 |
 | [Tequila Sundown](https://open.spotify.com/track/0ChzKEth6qOLucWCb1BFdC) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/4syic3hPRQ5oKFfkI6O5Cs) | 3:52 | 2023-05-05 |  |
 | [Tequila Sundown](https://open.spotify.com/track/4nN7chRIK66RfXKTqM3GwS) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones Chapter One](https://open.spotify.com/album/58qPvTFiBZPYubdX9GVFNM) | 3:52 | 2021-12-10 | 2023-05-21 |
 | [Texas Swing \(with Squeezebox Bandits & Jessica Roadcap\)](https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Squeezebox Bandits](https://open.spotify.com/artist/4a02tpn91oE3Yj912u4Dp2), [Jessica Roadcap](https://open.spotify.com/artist/7wCLGdBWLxknkk0klqSs1t) | [Triston Marez](https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N) | 4:39 | 2021-12-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 104774,
+  "num_followers": 104946,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWM5NGY5MGU3ZjkzMDdkZWU5MDQ5YTlmNWRlMDYxYmZlZmJlZDZh",
+  "snapshot_id": "MCwwMDQ2YzM1ZjA0YzIzYmQyZGI3N2Y0NWM5MjE3MTZjM2I1YTgwZmNh",
   "tracks": [
     {
       "added_at": "2022-03-29 19:14:26",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Descanso Dominical / Une Femme Avec Une Femme",
         "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 310346,
       "name": "La Fuerza del Destino (Live)",
       "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 309973,
-      "name": "Louis",
-      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
+      "duration_ms": 153173,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Ana, Jos\u00e9, Nacho",
-        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 153173,
-      "name": "Maquillaje",
-      "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
+      "duration_ms": 309973,
+      "name": "Louis",
+      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Me Col\u00e9 en una Fiesta",
+      "url": "https://open.spotify.com/track/2txCuTGPLSkrpdFYAO6cZP"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "15 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 250560,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Timbiriche 8",
         "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
-        "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
+        "name": "15 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
         }
       ],
-      "duration_ms": 183946,
-      "name": "Qu\u00e9 Te Pasa",
-      "url": "https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB"
+      "duration_ms": 250560,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
+        "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
+        "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Qu\u00e9 Te Pasa",
+      "url": "https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
         "name": "Best of Righeira (Le meilleur des annees 80)",
         "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa - 1983",
       "url": "https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Ana, Jos\u00e9, Nacho",
-        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "Me Col\u00e9 en una Fiesta",
-      "url": "https://open.spotify.com/track/2txCuTGPLSkrpdFYAO6cZP"
     },
     {
       "added_at": "2022-03-29 19:14:26",

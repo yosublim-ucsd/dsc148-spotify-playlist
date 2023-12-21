@@ -190,10 +190,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 165860,
       "name": "ALKiMISTA",
       "url": "https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G"
+    },
+    {
+      "album": {
+        "name": "ALK",
+        "url": "https://open.spotify.com/album/2a5yMPRNFWcu0o2kwBgXcv"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165860,
+      "name": "ALKiMISTA",
+      "url": "https://open.spotify.com/track/4ARK0Ed7CfqpvHEeBUw81F"
     },
     {
       "album": {

@@ -8088,7 +8088,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 192062,
       "name": "Drives",
       "url": "https://open.spotify.com/track/07uRU9EczqsAqDdTcNCqwv"
@@ -9730,7 +9730,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 115764,
       "name": "Filter FFP4",
       "url": "https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ"
@@ -17484,6 +17484,24 @@
       "duration_ms": 198227,
       "name": "maste",
       "url": "https://open.spotify.com/track/7kEJ5KwJka2XcM38oiUdhR"
+    },
+    {
+      "album": {
+        "name": "Master of None",
+        "url": "https://open.spotify.com/album/3PxDRlvRqy6wq6tmzoy0rQ"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kadinsky",
+          "url": "https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125121,
+      "name": "Master of None",
+      "url": "https://open.spotify.com/track/4X66WhMeDS5gJlXTOpGN56"
     },
     {
       "album": {
@@ -27914,7 +27932,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 164166,
       "name": "sunset",
       "url": "https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9"

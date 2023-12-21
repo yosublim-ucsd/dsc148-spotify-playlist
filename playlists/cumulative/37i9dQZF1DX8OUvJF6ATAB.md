@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-320 songs - 1 day 3 hr 43 min
+321 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Tar \- Jan Jelinek Remix](https://open.spotify.com/track/40p5kLXy8xuJ0UWAy67pb9) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Tar \(Jan Jelinek Remix\)](https://open.spotify.com/album/06GWd4BqT8WFdmwpU4mx9A) | 5:59 | 2021-10-06 | 2022-07-16 |
 | [Temple of Aesthetic Action](https://open.spotify.com/track/2uJ68HZNjTNRsAyJy1TZol) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/20sKBptJV69qrBXUEQVlzp) | 24:55 | 2021-10-06 | 2022-07-29 |
 | [Temple of Aesthetic Action](https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:55 | 2021-10-06 |  |
-| [The Abyss](https://open.spotify.com/track/3lhesp9GC2OTAy7ANEKSmp) | [Venus Ex Machina](https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p) | [Doxa](https://open.spotify.com/album/5RYRAYaGjgDAaWUMeEwt2J) | 6:56 | 2023-10-22 |  |
+| [The Abyss](https://open.spotify.com/track/3lhesp9GC2OTAy7ANEKSmp) | [Venus Ex Machina](https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p) | [Doxa](https://open.spotify.com/album/5RYRAYaGjgDAaWUMeEwt2J) | 6:56 | 2023-10-22 | 2023-12-21 |
 | [The Cage](https://open.spotify.com/track/1PIHkD3asRl8CiDkQNS5OX) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/2xPNHjqmyhTpLK4XvSNIXl) | 3:51 | 2022-02-18 | 2022-07-28 |
 | [The Cage](https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn) | 3:51 | 2022-02-18 |  |
 | [The Last Retention \- Thomas Ragsdale's Deep Space Mix](https://open.spotify.com/track/0SzKbI4scZulf94FEjJMx3) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ), [Thomas Ragsdale](https://open.spotify.com/artist/09HagWD8vD5RLYn9DNDuG4) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 5:28 | 2021-10-06 |  |
@@ -317,6 +317,7 @@
 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 | 2021-10-06 |  |
 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 | 2022-07-15 |  |
 | [Wrong](https://open.spotify.com/track/1HqAie1eJAVTkKK7ya6SAT) | [Fall Therapy](https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C) | [You Look Different](https://open.spotify.com/album/3Af5Z3GlHCmgrW8JQSvT0q) | 2:40 | 2023-04-21 | 2023-12-08 |
+| [Wrong](https://open.spotify.com/track/2X8BEeeQfrN6eIkWAI0NPH) | [Fall Therapy](https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C) | [You Look Different](https://open.spotify.com/album/7oInz2CwQurgbtTJEm5oqH) | 2:40 | 2023-04-21 |  |
 | [Wrong](https://open.spotify.com/track/419brxWLQEDoUQJTXuu7AK) | [Fall Therapy](https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C) | [You Look Different](https://open.spotify.com/album/0gPZGQchGN8KElz6UnCjAT) | 2:40 | 2021-10-06 | 2023-04-29 |
 | [Wrong](https://open.spotify.com/track/6jztjWSjFbUfmYasTy0t3v) | [Fall Therapy](https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C) | [You Look Different](https://open.spotify.com/album/0UBV2T36hgiKFTFaOSIieW) | 2:40 | 2021-10-06 | 2022-07-28 |
 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 | 2022-01-12 | 2023-05-27 |

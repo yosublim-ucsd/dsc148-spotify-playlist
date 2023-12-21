@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 
 > <a href="spotify:artist:3TXQ1ddouwQAI78hV4hXDjj">Maceo Plex</a> shares his favorite tracks and new ones from his 3rd album this week\. "My newest album, ’93, is a fusion of diverse influences throughout my musical career—from techno to drum and bass, rap to pop, and beyond\. Dive into it"\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,884 likes - 35 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,903 likes - 35 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wervik](https://open.spotify.com/track/71qfyoXjGUsKtHCfPWlden) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 6:38 |
 | 2 | [You Don't Have To Wait](https://open.spotify.com/track/2bkWvif6U9KPAqPLUwL1Hu) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 5:08 |
-| 3 | [Revision feat\. Giovanni](https://open.spotify.com/track/48sQDk5lU0iQzvWiZhduO3) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Giovanni](https://open.spotify.com/artist/4KZYxIbdjPZCa5Sqpo6uQS) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 6:31 |
+| 3 | [Revision feat\. Gio Santi](https://open.spotify.com/track/48sQDk5lU0iQzvWiZhduO3) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gio Santi](https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 6:31 |
 | 4 | [Clickbait \(This Ain't Hollywood\)](https://open.spotify.com/track/2RXEi21IUvW1sUPpwZzABz) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [AVNU \(UK\)](https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 4:08 |
 | 5 | [Nasty](https://open.spotify.com/track/6uQPQ4r4q33CpiMWP2xlQo) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Tyler Hill](https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 5:34 |
 | 6 | [Serpent Jazz](https://open.spotify.com/track/0Z9ymbJZb0hB9zrOrFMWRW) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [AVNU \(UK\)](https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 5:22 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 | 12 | [Moon Sky feat\. Ishi \- House Version](https://open.spotify.com/track/3psCBBUSE3JylJWtO9hl8W) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Ishi](https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 5:07 |
 | 13 | [Go Back feat\. Desire](https://open.spotify.com/track/5kUrBZGDu49FesPBIOx6Ni) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [AVNU \(UK\)](https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr), [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 5:59 |
 | 14 | [You're My Desire feat\. Mystic Bill](https://open.spotify.com/track/7tWi5s4uhm4Xq2jozLaLm7) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Mystic Bill](https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 6:08 |
-| 15 | [Shine On & On feat\. Kirsty Hawkshaw \- Orbital Tribute](https://open.spotify.com/track/70eD1jwCDMmU3kzCQbXet8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Kirsty Hawkshaw](https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 7:29 |
+| 15 | [Shine On & On feat\. Kirsty Hawkshaw \(Orbital Tribute\)](https://open.spotify.com/track/70eD1jwCDMmU3kzCQbXet8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Kirsty Hawkshaw](https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 7:29 |
 | 16 | [Smooth](https://open.spotify.com/track/6XCIuvobv8ig13xBgCdzlO) | [Tyler Hill](https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr) | [Smooth / Move](https://open.spotify.com/album/3MKsy0CENi6cakVTDBD5aX) | 7:15 |
 | 17 | [Force One \- Nathan Fake Remix](https://open.spotify.com/track/5Qf2ioU3a8Y0FkYwDFRCa1) | [Paradigm Shift](https://open.spotify.com/artist/01r0qlwRahsp4lbWWvZaIK), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Force One](https://open.spotify.com/album/5hBY8xq8ODpqWPg9oGwBiy) | 7:31 |
 | 18 | [1 A.M At A Rave \- AVNU Remix](https://open.spotify.com/track/0iQxnzAWcHERXpaijjPcyM) | [Madben](https://open.spotify.com/artist/1Ky9YENYbC5XUBRGLQUZBY), [AVNU](https://open.spotify.com/artist/2oGslc3bozUKzvYlegsEMZ) | [Troisième Sens \(Remixes\)](https://open.spotify.com/album/5X8quvrAWxBJxzpoOd7ZJZ) | 4:20 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 | 34 | [Conjure Superstar](https://open.spotify.com/track/5pYsZ4LY6LU4wEEDUGmsaB) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Conjure Superstar](https://open.spotify.com/album/4h0c2JJkJAw8spNfQ2XG8P) | 7:40 |
 | 35 | [When the Lights Are Out](https://open.spotify.com/track/2BIe0r0ghtyoeinWcBgQky) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [When the Lights Are Out](https://open.spotify.com/album/28eezLT3nxoLghPoLKaduu) | 7:24 |
 
-Snapshot ID: `MCxhNzI5MTk4MGI3MjI3OWJhNzc2MDYzMzZjMzQ5ZWYzYWI0NzZjMWQ3`
+Snapshot ID: `MCxhMzNkZGQ2N2U5NmJhMDJmOTI2ZTllMWEyZTI1NGQwNjcxNjQ3M2Mw`

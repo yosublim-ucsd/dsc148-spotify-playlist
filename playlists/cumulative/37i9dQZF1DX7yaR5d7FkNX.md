@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-202 songs - 12 hr 26 min
+203 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Mañana](https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Mañana](https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R) | 4:28 | 2023-06-30 |  |
 | [Me Caes Perfecto](https://open.spotify.com/track/7BfhJ6Aiqe2VNkE6w1E2gr) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Carisma](https://open.spotify.com/album/3Ul56jxBCh4n02S1AAyxTp) | 4:06 | 2022-04-26 | 2023-07-01 |
 | [Me Gustas](https://open.spotify.com/track/0JfsIu62NVXNQl2s7ATN37) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Rotos](https://open.spotify.com/album/1jRStAl5pbm9EpHLQsNnKz) | 3:22 | 2022-01-28 |  |
-| [Me Hago Mal](https://open.spotify.com/track/3XIaG3uGcewsKPmxauygJZ) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Me Hago Mal](https://open.spotify.com/album/4E2l41cZXhRKXIi8gMKDe4) | 3:06 | 2023-04-14 |  |
+| [Me Hago Mal](https://open.spotify.com/track/1bYk9GHSCJup7vrN9hIzNU) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Me Hago Mal](https://open.spotify.com/album/35SF83Eo34099GeNIT882r) | 3:06 | 2023-11-24 |  |
+| [Me Hago Mal](https://open.spotify.com/track/3XIaG3uGcewsKPmxauygJZ) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Me Hago Mal](https://open.spotify.com/album/4E2l41cZXhRKXIi8gMKDe4) | 3:06 | 2023-04-14 | 2023-12-21 |
 | [MEDIA NOCHE](https://open.spotify.com/track/5jCWAarxFiYUE0DjCsAnWn) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [HÍPER](https://open.spotify.com/album/3qEvUejyOisLMmhsR7JwxL) | 3:28 | 2023-09-22 |  |
 | [Medio Oriente](https://open.spotify.com/track/2c4bKlj1FMGd9Ftv8yxtX4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Medio Oriente](https://open.spotify.com/album/2oI2xY2YwCMcp6yYdzGUIb) | 3:09 | 2022-01-28 | 2023-07-01 |
 | [MELANCOLÍA](https://open.spotify.com/track/5spLk611BNLAjZF4YHhn2r) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [MELANCOLÍA](https://open.spotify.com/album/59hsT0IGncAPHWmuhoDetX) | 4:22 | 2023-06-23 | 2023-07-21 |

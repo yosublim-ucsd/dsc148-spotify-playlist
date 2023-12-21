@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Carz
 
-123 songs - 5 hr 38 min
+124 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [In Da Club](https://open.spotify.com/track/5ygbawTd45qE7v0b3nm5UM) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [GREEN KIDS](https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE), [acha](https://open.spotify.com/artist/2dGmHsaMrg4ugaPitdCLDA), [Flight\-A](https://open.spotify.com/artist/1THqfAAgE7cG20VwdMu0dh), [Swag\-A](https://open.spotify.com/artist/1rsNd66RgHfpsr8poImDDm), [Crazy\-K](https://open.spotify.com/artist/5plEGylcB4vrDbh3CdLUMN), [BARCO](https://open.spotify.com/artist/5zhO8Dv5JVs3P9bnFVRIgR) | [In Da Club](https://open.spotify.com/album/7rwlJ483BMKLF8eHnQOikM) | 3:01 | 2023-12-07 |  |
 | [In My Mind](https://open.spotify.com/track/6iRK132kCqyUTyFgnNbGMg) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [RNB ERA](https://open.spotify.com/album/2DqBNpTXiMKwLuIjNzEq8B) | 2:49 | 2023-12-07 |  |
 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 | 2023-12-07 |  |
-| [LEAD](https://open.spotify.com/track/7LeYWbIiGruTyxr2VfMTBP) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9) | 3:52 | 2023-12-19 |  |
+| [LEAD](https://open.spotify.com/track/4t7AY95Hf5UZBtRKjjswbO) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/12eiDX769GffsCljewZy7i) | 3:52 | 2023-12-19 |  |
+| [LEAD](https://open.spotify.com/track/7LeYWbIiGruTyxr2VfMTBP) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9) | 3:52 | 2023-12-19 | 2023-12-21 |
 | [Lil Rich](https://open.spotify.com/track/3tgcoa85EGp0zV88lFdhcr) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Soul Quake](https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09) | 3:21 | 2023-12-07 |  |
 | [LIT](https://open.spotify.com/track/7DBU8TXKL8mGWbwj8JcKxd) | [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ), [Ja¥Da](https://open.spotify.com/artist/4NEe9L2w6hCQB8boWIvyV5) | [LIT](https://open.spotify.com/album/1SjSLutr68EY2CdG5NPy9k) | 2:57 | 2023-12-07 |  |
 | [Looks like mother](https://open.spotify.com/track/7iue5DzuHVSqlJggl99TYz) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [RaVe](https://open.spotify.com/album/2Vm8vsLbny90a0LorH4jJX) | 1:51 | 2023-12-07 | 2023-12-14 |

@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-331 songs - 19 hr 1 min
+333 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,9 @@
 | [Big Bad Wolf](https://open.spotify.com/track/5oDng0woFCH1OXJCTUhY1s) | [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2) | [Big Bad Wolf](https://open.spotify.com/album/3aXhjfpVZAjBKJsvZNqtt0) | 3:22 | 2022-10-12 | 2023-11-07 |
 | [Big Bad Wolf](https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE) | [Johnny Wright](https://open.spotify.com/artist/6x1vUZaYXXXm9O7BeyPA8c) | [Big Bad Wolf](https://open.spotify.com/album/3PBpDglxLEjb1D8YHoQe7h) | 3:10 | 2021-10-22 |  |
 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 | 2022-02-11 |  |
+| [Black Betty](https://open.spotify.com/track/18WzUm7C5zIco4EvaFIszy) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty](https://open.spotify.com/album/2XJV4GQPAiBVqS1MPSiEo8) | 3:09 | 2023-11-06 |  |
 | [Black Betty](https://open.spotify.com/track/2erfXuZOAQ8T6FjJPDFpBC) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/3byyWn1AUHzGOjPSxh8uBN) | 3:09 | 2020-10-30 | 2022-07-29 |
-| [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 | 2020-10-30 |  |
+| [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 | 2020-10-30 | 2023-12-21 |
 | [Black Coffee \- Electro Swing Mix](https://open.spotify.com/track/2JAYRs8g4Lp860x8Mla0a1) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Dominic Paul](https://open.spotify.com/artist/0vKjolXSMG8VhGkfcTT1Lb) | [Black Coffee \(Electro Swing Mix\)](https://open.spotify.com/album/4MigxHH0YAdHWZJML4A3jw) | 3:08 | 2023-09-15 |  |
 | [Black Swing](https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Black Swing](https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP) | 3:18 | 2023-01-20 | 2023-04-01 |
 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 | 2020-10-30 | 2023-03-11 |
@@ -150,8 +151,9 @@
 | [Light up the Night](https://open.spotify.com/track/1fbZDbnXkNXN4wbzme7Kk0) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Robert Edwards](https://open.spotify.com/artist/7zXWnYi4ciLWNWSxkuUb4d), [Andrew Griffiths](https://open.spotify.com/artist/46lNBEk84eMi1hXP3lXPHZ), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Light up the Night](https://open.spotify.com/album/3S2xhzwwRpvF75lYFwvSSK) | 3:53 | 2020-10-30 | 2022-07-29 |
 | [Listen](https://open.spotify.com/track/2fuKdZhBAH6sU0dPPTalDr) | [Nekta](https://open.spotify.com/artist/0u0iaH7ESuQHoYY06AButU) | [Storybook](https://open.spotify.com/album/11SVqghiGsS3CRBZ5ucBw3) | 3:43 | 2020-10-30 |  |
 | [Loco](https://open.spotify.com/track/6C2oVz4VVcK8LJTWKhEfFn) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Loco](https://open.spotify.com/album/7B5WriVLhr9U53qfxVUcX6) | 2:58 | 2021-04-23 |  |
-| [Lone Digger](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:49 | 2020-10-30 |  |
+| [Lone Digger](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:49 | 2020-10-30 | 2023-12-21 |
 | [Lone Digger](https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/5DtzT44o6tGZbVA0xmsz4V) | 3:49 | 2020-10-30 | 2022-07-29 |
+| [Lone Digger](https://open.spotify.com/track/6Ntz1uQoMF8L2E4w518BFp) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/5a9UEwUEN7LsTsRXWPOQtC) | 3:49 | 2023-11-06 |  |
 | [Long Train Runnin' \- Electro Swing Mix](https://open.spotify.com/track/17DPEy1HfgZuhDA2iW1H96) | [Lil Mishka Band](https://open.spotify.com/artist/5nSNecGsD1jB5a7lETGzGd), [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a), [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Long Train Runnin' \(Electro Swing Mix\)](https://open.spotify.com/album/1QHnsqed9WOZs151kHV2Ed) | 2:52 | 2023-06-30 |  |
 | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/track/662kImMrejn6sAfNvVMk3U) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf), [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/album/2GztloBIUhp28xvTf3hlXY) | 2:50 | 2023-06-09 |  |
 | [Love Us a Ruckus](https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Us a Ruckus](https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7) | 4:04 | 2022-11-25 | 2023-02-04 |

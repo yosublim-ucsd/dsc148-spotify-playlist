@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 49328,
+  "num_followers": 49338,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDZkNDE0ZDI0OWUzY2RmZmViMDNhZjYxNzQ2MGIwZjczNjBjYTNj",
+  "snapshot_id": "MCw3ZDU2OWVkYTQ0YmExNzg0ODczMGVkNTE0NmU2ZTkyMmJiNTUxNzkw",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "SUMMER LOVE\u2026",
+        "url": "https://open.spotify.com/album/08PiCTIK798erEd7joIO7d"
+      },
+      "artists": [
+        {
+          "name": "CSVC",
+          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
+        }
+      ],
+      "duration_ms": 250004,
+      "name": "SUMMER LOVE\u2026",
+      "url": "https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 243381,
       "name": "Ondo (with LeeHi)",
       "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "SUMMER LOVE\u2026",
-        "url": "https://open.spotify.com/album/08PiCTIK798erEd7joIO7d"
-      },
-      "artists": [
-        {
-          "name": "CSVC",
-          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
-        }
-      ],
-      "duration_ms": 250004,
-      "name": "SUMMER LOVE\u2026",
-      "url": "https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc"
     },
     {
       "added_at": "2023-11-02 08:20:42",

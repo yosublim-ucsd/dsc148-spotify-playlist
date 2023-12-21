@@ -4,7 +4,7 @@
 
 > Hand\-picked and nourishing.
 
-269 songs - 16 hr 28 min
+270 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Alluvium](https://open.spotify.com/track/7fV1z13hx5Iic0WIqCRfuA) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [Alluvium](https://open.spotify.com/album/4iLy4FA1ZteEJZYc1jGBxA) | 3:42 | 2021-11-12 | 2022-07-19 |
 | [Aloosh](https://open.spotify.com/track/1QXWQI6mW2ECxFd3hTBpDC) | [Volleyball](https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok) | [Aloosh](https://open.spotify.com/album/42iXDtUrsfH4g7exLE4eCA) | 3:03 | 2022-03-31 | 2022-04-20 |
 | [An Ordinary Life](https://open.spotify.com/track/4aisUpHLCjQXjrv2ceJm5v) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [An Ordinary Life](https://open.spotify.com/album/2ntU6t9v3RJFJWVIlXizFB) | 5:25 | 2021-11-12 | 2022-07-29 |
-| [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 | 2021-11-12 |  |
+| [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 | 2021-11-12 | 2023-12-21 |
 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 | 2022-06-06 | 2023-09-01 |
 | [any human friend](https://open.spotify.com/track/2qBSeyhTF7JXcbk3JtMCxY) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/1MyAYzrDvFNjNY689PtpWF) | 3:12 | 2021-11-12 | 2022-07-29 |
 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 | 2023-05-19 |  |
@@ -107,6 +107,7 @@
 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2023-04-27 |  |
 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2021-11-12 | 2023-06-18 |
 | [Gotta Get Through Til Monday](https://open.spotify.com/track/2nP30qYDeymEfHmezLfgJk) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb) | 3:41 | 2021-11-12 | 2023-11-05 |
+| [Gotta Get through Til Monday](https://open.spotify.com/track/6sc5VQ55QPoECmYtcf5KMd) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/3gNq14kiiRXmLVGQeXRGYx) | 3:41 | 2023-08-04 |  |
 | [Gracie](https://open.spotify.com/track/0FAZwSMwU1rJIkalvkLBfT) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Gracie](https://open.spotify.com/album/6JHyo5Yy3rAr1SCpBfI9SR) | 3:19 | 2021-11-12 | 2022-07-28 |
 | [Gush](https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2021-11-12 | 2023-08-13 |
 | [Gush](https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 | 2023-08-04 |  |

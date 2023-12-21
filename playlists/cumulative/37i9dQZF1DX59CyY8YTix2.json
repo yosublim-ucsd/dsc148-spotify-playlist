@@ -7178,7 +7178,7 @@
     {
       "album": {
         "name": "Neptune",
-        "url": "https://open.spotify.com/album/47DC2eyD333Bp74jssM835"
+        "url": "https://open.spotify.com/album/6OyzxDepRyonDq53G3kUPU"
       },
       "artists": [
         {
@@ -7189,6 +7189,24 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Neptune",
+      "url": "https://open.spotify.com/track/5ie87sMCiBIV3gxyejXNui"
+    },
+    {
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/47DC2eyD333Bp74jssM835"
+      },
+      "artists": [
+        {
+          "name": "Subway Daydream",
+          "url": "https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 198461,
       "name": "Neptune",
       "url": "https://open.spotify.com/track/6uYCmq0RdnSSyMbue7DV6B"
@@ -7542,6 +7560,24 @@
       "duration_ms": 255313,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/236ak0krOCdUlhMFuP2Ujl"
+    },
+    {
+      "album": {
+        "name": "NOISE RADIO",
+        "url": "https://open.spotify.com/album/2AEmIzbddUgRtZEPq3WJ6M"
+      },
+      "artists": [
+        {
+          "name": "INNER JOURNEY",
+          "url": "https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273419,
+      "name": "NOISE RADIO",
+      "url": "https://open.spotify.com/track/5Sm2UHBkfhSlijSaAcAQS2"
     },
     {
       "album": {
@@ -10294,6 +10330,24 @@
       "duration_ms": 210000,
       "name": "Take a chance",
       "url": "https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs"
+    },
+    {
+      "album": {
+        "name": "OBAKE IN TSUSHIMA-NAKA",
+        "url": "https://open.spotify.com/album/1htnvB6tjuxwVqZ5jigPFt"
+      },
+      "artists": [
+        {
+          "name": "superuwan",
+          "url": "https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138807,
+      "name": "take care",
+      "url": "https://open.spotify.com/track/7Gjgl7STeQcpkHmztnhqDi"
     },
     {
       "album": {
@@ -16172,7 +16226,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 273419,
       "name": "\u30ce\u30a4\u30ba\u30e9\u30b8\u30aa",
       "url": "https://open.spotify.com/track/5K1s4kjDphRKYDQ2U1Ka59"
@@ -18812,7 +18866,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-21",
       "duration_ms": 138807,
       "name": "\u5143\u6c17\u3067",
       "url": "https://open.spotify.com/track/3VqNOJ8aYcUm4St8q04294"
@@ -20704,7 +20758,7 @@
     {
       "album": {
         "name": "\u611b\u3057\u3042\u3063\u3066",
-        "url": "https://open.spotify.com/album/477dbCeNtYb10c1ZSFp6B5"
+        "url": "https://open.spotify.com/album/05a9A2UpRjQEPEKM55E6yi"
       },
       "artists": [
         {
@@ -20715,6 +20769,24 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192933,
+      "name": "\u611b\u3057\u3042\u3063\u3066",
+      "url": "https://open.spotify.com/track/2yMAXDukJfVv1TM6a7rJmY"
+    },
+    {
+      "album": {
+        "name": "\u611b\u3057\u3042\u3063\u3066",
+        "url": "https://open.spotify.com/album/477dbCeNtYb10c1ZSFp6B5"
+      },
+      "artists": [
+        {
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
       "duration_ms": 192933,
       "name": "\u611b\u3057\u3042\u3063\u3066",
       "url": "https://open.spotify.com/track/4vSE76Coc1app2dPycOuqC"
